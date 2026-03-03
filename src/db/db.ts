@@ -18,7 +18,7 @@ export class PaleoBenchDB extends Dexie {
       runResults: 'id, cacheKey, docId, modelId, mode, variantId, promptSnapshotId, createdAt',
       prompts: 'id, mode, version'
     });
-    
+
     this.version(2).stores({
       promptTemplates: 'id, name, engine, createdAt'
     }).upgrade(tx => {
@@ -76,7 +76,7 @@ export class PaleoBenchDB extends Dexie {
           color: 'emerald',
           engine: 'unified',
           systemPrompt: 'You are an expert paleographer specializing in 16th-century Spanish manuscripts. You must return your response ONLY as a valid JSON object.',
-          unifiedPrompt: 'Analyze the provided manuscript image. Determine if the language is Spanish or Catalan. Extract metadata (date, sender, recipient, location). Provide both a literal transcription (preserving original spelling and abbreviations) and a modernized transcription (expanding abbreviations and updating spelling).\n\nReturn EXACTLY this JSON structure:\n{\n  "idioma_detectado": "castellano o catalan",\n  "razonamiento_idioma": "Breve explicación",\n  "metadatos": {\n    "fecha": "",\n    "remitente": "",\n    "destinatario": "",\n    "lugar": ""\n  },\n  "transcripcion_literal": "",\n  "transcripcion_modernizada": ""\n}',
+          unifiedPrompt: 'Analyze the provided manuscript image. Determine if the language is Spanish or Catalan. Extract metadata (date, sender, recipient, location). Provide both a literal transcription (preserving original spelling and abbreviations) and a modernized transcription (expanding abbreviations and updating spelling).\n\nIf you see `--modernizada_only` in the prompt, you may omit the literal transcription or leave it empty.\n\nCRITICAL: Return EXACTLY this JSON structure:\n{\n  "idioma_detectado": "castellano o catalan",\n  "razonamiento_idioma": "Breve explicación",\n  "metadatos": {\n    "fecha": "",\n    "remitente": "",\n    "destinatario": "",\n    "lugar": ""\n  },\n  "transcripcion_literal": "",\n  "transcripcion_modernizada": ""\n}',
           createdAt: Date.now() + 1,
           isDefault: true
         }
@@ -111,7 +111,7 @@ export async function initializeDefaultPrompts() {
       color: 'emerald',
       engine: 'unified',
       systemPrompt: 'You are an expert paleographer specializing in 16th-century Spanish manuscripts. You must return your response ONLY as a valid JSON object.',
-      unifiedPrompt: 'Analyze the provided manuscript image. Determine if the language is Spanish or Catalan. Extract metadata (date, sender, recipient, location). Provide both a literal transcription (preserving original spelling and abbreviations) and a modernized transcription (expanding abbreviations and updating spelling).\n\nReturn EXACTLY this JSON structure:\n{\n  "idioma_detectado": "castellano o catalan",\n  "razonamiento_idioma": "Breve explicación",\n  "metadatos": {\n    "fecha": "",\n    "remitente": "",\n    "destinatario": "",\n    "lugar": ""\n  },\n  "transcripcion_literal": "",\n  "transcripcion_modernizada": ""\n}',
+      unifiedPrompt: 'Analyze the provided manuscript image. Determine if the language is Spanish or Catalan. Extract metadata (date, sender, recipient, location). Provide both a literal transcription (preserving original spelling and abbreviations) and a modernized transcription (expanding abbreviations and updating spelling).\n\nIf you see `--modernizada_only` in the prompt, you may omit the literal transcription or leave it empty.\n\nCRITICAL: Return EXACTLY this JSON structure:\n{\n  "idioma_detectado": "castellano o catalan",\n  "razonamiento_idioma": "Breve explicación",\n  "metadatos": {\n    "fecha": "",\n    "remitente": "",\n    "destinatario": "",\n    "lugar": ""\n  },\n  "transcripcion_literal": "",\n  "transcripcion_modernizada": ""\n}',
       createdAt: Date.now() + 1,
       isDefault: true
     });

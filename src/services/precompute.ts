@@ -18,36 +18,57 @@ function extractJSON(raw: string): any {
   }
 }
 
+interface ValidationOptions {
+  modernizadaOnly: boolean;
+}
+
+function validateTranscriptionSchema(obj: any, options: ValidationOptions = { modernizadaOnly: false }): boolean {
+  if (!obj || typeof obj !== 'object' || Array.isArray(obj)) return false;
+  if (typeof obj.idioma_detectado !== 'string' || obj.idioma_detectado.trim() === '') return false;
+  if (!obj.metadatos || typeof obj.metadatos !== 'object') return false;
+
+  // Either direct or nested transcripcion
+  const modText = obj.transcripcion?.modernizada ?? obj.transcripcion_modernizada;
+  if (typeof modText !== 'string' || modText.trim() === '') return false;
+
+  if (!options.modernizadaOnly) {
+    const litText = obj.transcripcion?.literal ?? obj.transcripcion_literal;
+    if (typeof litText !== 'string' || litText.trim() === '') return false;
+  }
+
+  return true;
+}
+
 export async function runPrecomputeQueue(apiKeys: Record<string, string>) {
   const store = useBenchmarkStore.getState();
   if (store.isRunning) return;
-  
+
   const tasks = store.tasks.filter(t => t.status === 'pending');
   if (tasks.length === 0) return;
-  
+
   store.setIsRunning(true);
-  
+
   // Process tasks sequentially to avoid rate limits and make logs easier to follow
   while (true) {
     const currentStore = useBenchmarkStore.getState();
     const nextTask = currentStore.tasks.find(t => t.status === 'pending');
-    
+
     if (!nextTask) {
       break;
     }
-    
+
     try {
       await processTask(nextTask, apiKeys[nextTask.provider.id]);
     } catch (err: any) {
       console.error('Task failed:', err);
-      useBenchmarkStore.getState().updateTask(nextTask.id, { 
-        status: 'error', 
+      useBenchmarkStore.getState().updateTask(nextTask.id, {
+        status: 'error',
         error: err?.message || String(err),
         endTime: Date.now()
       });
     }
   }
-  
+
   useBenchmarkStore.getState().setIsRunning(false);
 }
 
@@ -55,10 +76,10 @@ async function processTask(task: BenchmarkTask, apiKey: string) {
   const store = useBenchmarkStore.getState();
   store.updateTask(task.id, { status: 'running', startTime: Date.now(), logs: [] });
   store.addLog(task.id, { type: 'info', message: `Starting task for ${task.docTitle} using ${task.provider.name} (${task.engine} engine)` });
-  
+
   const doc = await db.documents.get(task.docId);
   const gt = await db.groundTruths.where('docId').equals(task.docId).first();
-  
+
   const hasImages = (doc?.pages && doc.pages.length > 0) || doc?.imageBlob;
   if (!hasImages || !gt) {
     store.addLog(task.id, { type: 'error', message: 'Missing document image or ground truth data' });
@@ -71,19 +92,19 @@ async function processTask(task: BenchmarkTask, apiKey: string) {
     const cached = await db.runResults.where('cacheKey').equals(task.cacheKey).first();
     if (cached) {
       store.addLog(task.id, { type: 'success', message: 'Found cached result, skipping API call' });
-      store.updateTask(task.id, { 
-        status: 'success', 
-        endTime: Date.now(), 
-        apiMetrics: { inputTokens: 0, outputTokens: 0, totalTokens: 0, latencyMs: 0 } 
+      store.updateTask(task.id, {
+        status: 'success',
+        endTime: Date.now(),
+        apiMetrics: { inputTokens: 0, outputTokens: 0, totalTokens: 0, latencyMs: 0 }
       });
       return;
     }
   }
-  
+
   store.addLog(task.id, { type: 'info', message: 'Preparing image payload' });
   const basePages = doc.pages && doc.pages.length > 0 ? doc.pages : (doc.imageBlob ? [doc.imageBlob] : []);
   const blobsToProcess: Blob[] = [];
-  
+
   for (let i = 0; i < basePages.length; i++) {
     const variantId = task.variantIds?.[i];
     if (variantId && variantId !== 'orig') {
@@ -97,11 +118,11 @@ async function processTask(task: BenchmarkTask, apiKey: string) {
       blobsToProcess.push(basePages[i]);
     }
   }
-  
+
   const imageBase64s = await Promise.all(blobsToProcess.map(b => blobToBase64(b)));
-  
+
   const totalSize = imageBase64s.reduce((acc, val) => acc + val.length, 0);
-  store.updateTask(task.id, { 
+  store.updateTask(task.id, {
     payload: {
       model: task.provider.id,
       prompt: task.prompt.content,
@@ -114,27 +135,96 @@ async function processTask(task: BenchmarkTask, apiKey: string) {
   let status: 'success' | 'error' = 'error';
   let latencyMs = 0;
   let lastError = '';
-  
+
   for (let attempt = 1; attempt <= 3; attempt++) {
     try {
       store.addLog(task.id, { type: 'info', message: `Calling LLM API (Attempt ${attempt}/3)...` });
       const startApiTime = Date.now();
-      
+
       const provider = providers.find(p => p.id === task.provider.id);
       if (!provider) throw new Error(`Provider ${task.provider.id} not found`);
-      
+
       const result = await provider.generateTranscription(
-        imageBase64s, 
-        task.prompt.content, 
+        imageBase64s,
+        task.prompt.content,
         apiKey,
         (type, msg, data) => store.addLog(task.id, { type, message: msg, data })
       );
-      
+
       latencyMs = Date.now() - startApiTime;
       rawResponse = result.text;
       tokenUsage = result.tokens;
       status = 'success';
-      
+
+      let jsonResponse = extractJSON(rawResponse);
+      const modernizadaOnly = task.prompt.content.includes('--modernizada_only') || task.prompt.content.includes('modernizada_only: true');
+
+      // 2-Step Fallback Logic
+      if (jsonResponse && Array.isArray(jsonResponse) && jsonResponse[0]?.text_content) {
+        store.addLog(task.id, { type: 'warning', message: 'Received OCR array. Attempting 2-step fallback...' });
+
+        // Sort boxes primarily by Y (top to bottom), then by X (left to right)
+        const sortedBoxes = jsonResponse.sort((a, b) => {
+          const yDist = (a.box_2d?.[1] || 0) - (b.box_2d?.[1] || 0);
+          if (Math.abs(yDist) > 20) return yDist; // Assuming 20px is a line height threshold
+          return (a.box_2d?.[0] || 0) - (b.box_2d?.[0] || 0);
+        });
+
+        const ocrText = sortedBoxes.map(b => b.text_content).join('\n');
+        store.addLog(task.id, { type: 'info', message: 'OCR Extracted. Sending secondary request for JSON formatting...' });
+
+        const fallbackPrompt = `
+You are a historical data formatter. I have extracted the raw OCR text from a historical manuscript.
+Your task is to take this raw text and format it into the EXACT JSON schema requested below. Do NOT hallucinate information; use ONLY the provided text.
+
+CRITICAL INSTRUCTION: Return ONLY a valid JSON object. Do not include markdown formatting or conversational text.
+
+REQUESTED SCHEMA:
+{
+  "idioma_detectado": "castellano o catalan",
+  "razonamiento_idioma": "Breve explicación",
+  "metadatos": {
+    "fecha": "YYYY-MM-DD o 'Desconocida'",
+    "remitente": "Nombre o 'Desconocido'",
+    "destinatario": "Nombre o 'Desconocido'",
+    "lugar": "Lugar o 'Desconocido'"
+  },
+  "transcripcion_literal": "La transcripción exacta o vacía si modernizada_only es true",
+  "transcripcion_modernizada": "La transcripción con ortografía moderna"
+}
+
+RAW OCR TEXT:
+---
+${ocrText}
+---
+`;
+
+        const fallbackResult = await provider.generateTranscription(
+          [], // No images in step 2
+          fallbackPrompt,
+          apiKey,
+          (type, msg, data) => store.addLog(task.id, { type, message: `Fallback: ${msg}`, data })
+        );
+
+        rawResponse = fallbackResult.text;
+        jsonResponse = extractJSON(rawResponse);
+
+        if (fallbackResult.tokens) {
+          if (tokenUsage) {
+            tokenUsage.promptTokens += fallbackResult.tokens.promptTokens;
+            tokenUsage.completionTokens += fallbackResult.tokens.completionTokens;
+            tokenUsage.totalTokens += fallbackResult.tokens.totalTokens;
+          } else {
+            tokenUsage = fallbackResult.tokens;
+          }
+        }
+        latencyMs = Date.now() - startApiTime;
+      }
+
+      if (!validateTranscriptionSchema(jsonResponse, { modernizadaOnly })) {
+        throw new Error('JSON Response failed strict schema validation (missing required keys or returned an array).');
+      }
+
       store.addLog(task.id, { type: 'success', message: `API call successful in ${latencyMs}ms` });
       store.updateTask(task.id, { rawResponse });
       break;
@@ -150,19 +240,19 @@ async function processTask(task: BenchmarkTask, apiKey: string) {
       }
     }
   }
-  
+
   if (status === 'error') {
-    store.updateTask(task.id, { 
-      status: 'error', 
-      endTime: Date.now(), 
-      error: `Failed after 3 attempts: ${lastError}` 
+    store.updateTask(task.id, {
+      status: 'error',
+      endTime: Date.now(),
+      error: `Failed after 3 attempts: ${lastError}`
     });
     return;
   }
 
   store.addLog(task.id, { type: 'info', message: 'Parsing JSON response' });
   const jsonResponse = extractJSON(rawResponse);
-  
+
   if (!jsonResponse) {
     store.addLog(task.id, { type: 'error', message: 'Failed to parse JSON from response' });
     store.updateTask(task.id, { status: 'error', error: 'Invalid JSON response', endTime: Date.now() });
@@ -176,27 +266,34 @@ async function processTask(task: BenchmarkTask, apiKey: string) {
     latencyMs
   };
 
+  const fallbackLogs = {
+    parsedShape: jsonResponse && Array.isArray(jsonResponse) && jsonResponse[0]?.text_content ? 'array_ocr' : 'object' as 'object' | 'array_ocr',
+    ocrFallbackUsed: !!(jsonResponse && Array.isArray(jsonResponse) && jsonResponse[0]?.text_content),
+    ocrText: (jsonResponse && Array.isArray(jsonResponse) && jsonResponse[0]?.text_content) ? jsonResponse.map((b: any) => b.text_content).join('\n') : undefined,
+    finalJson: JSON.stringify(jsonResponse, null, 2)
+  };
+
   if (task.engine === 'split') {
-    await saveSplitResult(task, doc.id, gt, jsonResponse, rawResponse, apiMetrics);
+    await saveSplitResult(task, doc.id, gt, jsonResponse, rawResponse, apiMetrics, fallbackLogs);
   } else {
-    await saveUnifiedResult(task, doc.id, gt, jsonResponse, rawResponse, apiMetrics);
+    await saveUnifiedResult(task, doc.id, gt, jsonResponse, rawResponse, apiMetrics, fallbackLogs);
   }
-  
+
   store.addLog(task.id, { type: 'success', message: 'Task completed successfully' });
-  store.updateTask(task.id, { 
-    status: 'success', 
-    endTime: Date.now(), 
+  store.updateTask(task.id, {
+    status: 'success',
+    endTime: Date.now(),
     apiMetrics
   });
-  
+
   await sleep(1000);
 }
 
-async function saveSplitResult(task: BenchmarkTask, docId: string, gt: any, jsonResponse: any, rawResponse: string, apiMetrics: any) {
+async function saveSplitResult(task: BenchmarkTask, docId: string, gt: any, jsonResponse: any, rawResponse: string, apiMetrics: any, fallbackLogs?: any) {
   let parsedText = rawResponse;
   let parsedMetadata: any = { ...jsonResponse };
   delete parsedMetadata.transcripcion;
-  
+
   if (task.mode === 'literal' && jsonResponse.transcripcion?.literal) {
     parsedText = jsonResponse.transcripcion.literal;
   } else if (task.mode === 'modernizada' && jsonResponse.transcripcion?.modernizada) {
@@ -208,10 +305,10 @@ async function saveSplitResult(task: BenchmarkTask, docId: string, gt: any, json
   const gtText = task.mode === 'literal' ? gt.literal : gt.modernizada;
   const normalizedGt = task.mode === 'literal' ? normalizeLiteral(gtText) : normalizeModernizada(gtText);
   const normalizedPred = task.mode === 'literal' ? normalizeLiteral(parsedText) : normalizeModernizada(parsedText);
-  
+
   const cer = calculateCER(normalizedGt, normalizedPred);
   const wer = calculateWER(normalizedGt, normalizedPred);
-  
+
   await db.runResults.add({
     id: crypto.randomUUID(),
     cacheKey: task.cacheKey,
@@ -233,11 +330,12 @@ async function saveSplitResult(task: BenchmarkTask, docId: string, gt: any, json
     status: 'success',
     normalizationProfile: task.mode === 'literal' ? 'Profile A' : 'Lexical Automático',
     tokens: apiMetrics,
-    latencyMs: apiMetrics.latencyMs
+    latencyMs: apiMetrics.latencyMs,
+    ...fallbackLogs
   });
 }
 
-async function saveUnifiedResult(task: BenchmarkTask, docId: string, gt: any, jsonResponse: any, rawResponse: string, apiMetrics: any) {
+async function saveUnifiedResult(task: BenchmarkTask, docId: string, gt: any, jsonResponse: any, rawResponse: string, apiMetrics: any, fallbackLogs?: any) {
   let parsedMetadata: any = { ...jsonResponse };
   delete parsedMetadata.transcripcion;
 
@@ -269,7 +367,8 @@ async function saveUnifiedResult(task: BenchmarkTask, docId: string, gt: any, js
     status: 'success',
     normalizationProfile: 'Profile A',
     tokens: apiMetrics,
-    latencyMs: apiMetrics.latencyMs
+    latencyMs: apiMetrics.latencyMs,
+    ...fallbackLogs
   });
 
   // Save Modernizada
@@ -300,6 +399,7 @@ async function saveUnifiedResult(task: BenchmarkTask, docId: string, gt: any, js
     status: 'success',
     normalizationProfile: 'Lexical Automático',
     tokens: apiMetrics,
-    latencyMs: apiMetrics.latencyMs
+    latencyMs: apiMetrics.latencyMs,
+    ...fallbackLogs
   });
 }

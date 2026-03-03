@@ -87,6 +87,11 @@ export interface RunResult {
     completionTokens: number;
     totalTokens: number;
   };
+  // Fallback logging fields
+  parsedShape?: 'object' | 'array_ocr';
+  ocrFallbackUsed?: boolean;
+  ocrText?: string;
+  finalJson?: string;
 }
 
 export interface PromptSnapshot {
