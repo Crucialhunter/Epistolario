@@ -797,20 +797,25 @@
                 letters = []; // Clear hardcoded mock data
             }
 
-            const hasAutoload = await loadDatasetDemo();
+            try {
+                const hasAutoload = await loadDatasetDemo();
 
-            if (!hasAutoload && !useSeed) {
-                const statusEl = document.getElementById('loading-status');
-                if (statusEl) statusEl.innerHTML = '<span class="text-red-600 font-bold">Error: No se pudo cargar el Legajo 10 de la base de datos (404).</span><br>Asegúrese de que la carpeta dataset_demo está inyectada en el servidor.';
-                // Allow user to use "Subir carpeta" anyway after a delay
-                setTimeout(dismissLoadingGate, 3000);
-            } else {
+                if (!hasAutoload && !useSeed) {
+                    const statusEl = document.getElementById('loading-status');
+                    if (statusEl) statusEl.innerHTML = '<span class="text-red-600 font-bold">Error: No se pudo cargar el Legajo 10 de la base de datos (404).</span><br>Asegúrese de que la carpeta dataset_demo está inyectada en el servidor.';
+                    // Allow user to use "Subir carpeta" anyway after a delay
+                    setTimeout(dismissLoadingGate, 3000);
+                    return; // exit early
+                }
+
                 APP_STATE.mode = useSeed ? "seed" : "embedded";
                 APP_STATE.letters = letters;
                 APP_STATE.derived = derivedData;
                 APP_STATE.ready = true;
 
-                letters = letters.map(normalizeLetter);
+                // Solo normalizar propiedades flat si no viene ya procesado del edges (has parsedDate)
+                letters = letters.map(l => l.parsedDate ? l : normalizeLetter(l));
+
                 buildSearchIndex();
                 filteredLetters = [...letters];
                 initDashboard();
@@ -819,8 +824,12 @@
                 applyFilters();
 
                 if (hasAutoload && letters.length > 0) {
-                    renderTimelineMarkers();
-                    updateTimeline(0);
+                    try {
+                        renderTimelineMarkers();
+                        updateTimeline(0);
+                    } catch (e) {
+                        console.warn("Ignorado error menor de timeline al arrancar:", e);
+                    }
 
                     // Añadir un indicador en el título del header para confirmar a simple vista
                     const headerInfo = document.querySelector('header p.text-text-muted');
@@ -828,7 +837,11 @@
                         headerInfo.innerText = `Legajo 10 (${letters.length} cartas, origen: ${APP_STATE.mode})`;
                     }
                 }
-
+            } catch (error) {
+                console.error("Initialization failed:", error);
+                const statusEl = document.getElementById('loading-status');
+                if (statusEl) statusEl.innerHTML = `<span class="text-red-600 font-bold">Error interno: ${error.message}</span>`;
+            } finally {
                 dismissLoadingGate();
             }
         });
@@ -1901,7 +1914,7 @@
                     `;
                 } else {
                     summaryContent.innerHTML = `
-                        <p class="text-[10px] font-bold text-text-muted uppercase mb-1">${monthNames[month - 1]} ${year}</p>
+                        <p class="text-[10px] font-bold text-text-muted uppercase mb-1">${labelText.trim()}</p>
                         <p class="font-serif font-bold text-primary text-base leading-tight mb-1">Múltiples correspondencias (${currentMonthLetters.length} cartas)</p>
                         <p class="text-xs text-secondary">Actividad simultánea en varias rutas.</p>
                     `;
