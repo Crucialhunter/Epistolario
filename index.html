@@ -926,12 +926,12 @@
         function getDisplayLabel(item) {
             if (!item || typeof item !== 'object') return 'Elemento sin nombre';
             const candidates = [
+                item.route,
                 item.label,
                 item.title,
                 item.name,
                 item.term,
                 item.person,
-                item.route,
                 item.route_label,
                 item.id,
                 item.event_id
@@ -987,10 +987,17 @@
             }
 
             let panelsHtml = '';
-            if (lensData.panels && lensData.panels.length > 0) {
+
+            // Garantizar la existencia de un top_routes para autocalculado
+            let renderPanels = lensData.panels ? [...lensData.panels] : [];
+            if (!renderPanels.some(p => p.type === 'top_routes')) {
+                renderPanels.push({ type: 'top_routes', title: 'Rutas Dominantes', items: [] });
+            }
+
+            if (renderPanels.length > 0) {
                 panelsHtml = `
                     <div class="grid grid-cols-1 md:grid-cols-3 gap-4 mt-4">
-                        ${lensData.panels.slice(0, 3).map(panel => {
+                        ${renderPanels.slice(0, 3).map(panel => {
                     let itemsHtml = '';
 
                     if (panel.type === 'top_routes' && (!panel.items || panel.items.length === 0)) {
@@ -1040,8 +1047,8 @@
 
                             let finalOnClick = onClick;
                             if (!finalOnClick) {
-                                if (item.event_id) {
-                                    finalOnClick = `onclick="openEventCard('${item.event_id}')"`;
+                                if (item.event_id || item.id) {
+                                    finalOnClick = `onclick="openEventCard('${item.event_id || item.id}')"`;
                                     cursorClass = 'cursor-pointer';
                                     hoverClass = 'hover:bg-[#f3f0e7] hover:text-primary';
                                 } else if (item.person || item.name) {
@@ -2300,10 +2307,24 @@
         }
 
         // --- EVENT CARD (Periódico) ---
-        function openEventCard(ev) {
-            document.getElementById('event-title').innerText = ev.title || "Evento Histórico";
-            document.getElementById('event-date').innerText = ev.date || ev.display_date || "";
-            document.getElementById('event-summary').innerText = ev.summary || ev.description || "";
+        function openEventCard(evOrId) {
+            let ev = evOrId;
+            if (typeof evOrId === 'string') {
+                if (derivedData.events) {
+                    ev = derivedData.events.find(e => e.id === evOrId || e.event_id === evOrId);
+                }
+                if (!ev && window.derivedData && window.derivedData.event_markers) {
+                    ev = window.derivedData.event_markers.find(e => e.id === evOrId || e.event_id === evOrId);
+                }
+                if (!ev) {
+                    // Fallback: search in edges (if the ID somehow got stored there or it's just a generated dummy)
+                    ev = { title: "Evento: " + evOrId, description: "Este evento fue referenciado en la lente pero no se halló en el catálogo principal de Acontecimientos." };
+                }
+            }
+
+            document.getElementById('event-title').innerText = ev.title || ev.label || ev.name || "Evento Histórico";
+            document.getElementById('event-date').innerText = ev.date || ev.display_date || ev.date_iso || "";
+            document.getElementById('event-summary').innerText = ev.summary || ev.description || ev.one_liner || "";
 
             const quotesContainer = document.getElementById('event-quotes');
             quotesContainer.innerHTML = '';
