@@ -130,6 +130,13 @@ export default function RunBenchmarkModal({ isOpen, onClose, selectedDocIds }: R
       const newTasks: BenchmarkTask[] = [];
 
       for (const doc of docs) {
+        const defaultVariantIds: Record<number, string> = {};
+        if (doc.pages) {
+          for (let i = 0; i < doc.pages.length; i++) {
+            defaultVariantIds[i] = 'orig';
+          }
+        }
+
         for (const provider of providers) {
           if (provider.id !== 'gemini-3.1-pro-preview' && !apiKeys[provider.id]) continue;
 
@@ -155,6 +162,7 @@ export default function RunBenchmarkModal({ isOpen, onClose, selectedDocIds }: R
                 promptTemplateId: selectedTemplate.id,
                 prompt: { id: mode === 'literal' ? litSnapshotId : modSnapshotId, mode, version: 1, content: mode === 'literal' ? selectedTemplate.literalPrompt! : selectedTemplate.modernizadaPrompt!, createdAt: Date.now() },
                 cacheKey,
+                variantIds: defaultVariantIds,
                 status: 'pending'
               });
             }
@@ -167,7 +175,7 @@ export default function RunBenchmarkModal({ isOpen, onClose, selectedDocIds }: R
               if (isFast) {
                 const existingFast = await db.runResults
                   .where('docId').equals(doc.id)
-                  .and(r => r.modelId === provider.id && r.mode === 'modernizada' && r.promptTemplateId === selectedTemplate.id)
+                  .and(r => r.modelId === provider.id && r.mode === 'fast' && r.promptTemplateId === selectedTemplate.id)
                   .first();
                 if (existingFast) continue;
               } else {
@@ -188,17 +196,18 @@ export default function RunBenchmarkModal({ isOpen, onClose, selectedDocIds }: R
               docId: doc.id,
               docTitle: doc.title,
               provider,
-              mode: isFast ? 'modernizada' : 'unified',
+              mode: isFast ? 'fast' : 'unified',
               engine: selectedTemplate.engine,
               promptTemplateId: selectedTemplate.id,
               prompt: {
                 id: unifiedSnapshotId,
-                mode: isFast ? 'modernizada' : 'literal',
+                mode: isFast ? 'fast' : 'literal',
                 version: 1,
                 content: isFast ? `${selectedTemplate.systemPrompt || ''}\n\n${selectedTemplate.fastPrompt || ''}`.trim() : `${selectedTemplate.systemPrompt || ''}\n\n${selectedTemplate.unifiedPrompt || ''}`.trim(),
                 createdAt: Date.now()
               },
               cacheKey,
+              variantIds: defaultVariantIds,
               status: 'pending'
             });
           }

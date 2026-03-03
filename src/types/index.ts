@@ -51,13 +51,16 @@ export interface PromptTemplate {
   id: string;
   name: string;
   color: string;
-  engine: 'split' | 'unified';
+  engine: 'split' | 'unified' | 'fast';
   systemPrompt: string;
   literalPrompt?: string;
   modernizadaPrompt?: string;
   unifiedPrompt?: string;
+  fastPrompt?: string;
   createdAt: number;
   isDefault?: boolean;
+  maxAttempts?: number;
+  backoffIncrementMs?: number;
 }
 
 export interface RunResult {
@@ -65,7 +68,7 @@ export interface RunResult {
   cacheKey: string;
   docId: string;
   modelId: string;
-  mode: 'literal' | 'modernizada';
+  mode: 'literal' | 'modernizada' | 'fast';
   variantIds: Record<number, string>; // pageIndex -> variantId
   variantId?: string; // Deprecated, kept for migration
   promptSnapshotId: string;
@@ -88,15 +91,16 @@ export interface RunResult {
     totalTokens: number;
   };
   // Fallback logging fields
-  parsedShape?: 'object' | 'array_ocr';
+  parsedShape?: 'object' | 'array_ocr' | 'array_objects';
   ocrFallbackUsed?: boolean;
   ocrText?: string;
   finalJson?: string;
+  passes?: number;
 }
 
 export interface PromptSnapshot {
   id: string;
-  mode: 'literal' | 'modernizada';
+  mode: 'literal' | 'modernizada' | 'fast';
   version: number;
   content: string;
   createdAt: number;

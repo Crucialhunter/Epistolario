@@ -22,7 +22,7 @@ export default function Workspace() {
   const variants = useLiveQuery(() => db.imageVariants.where('docId').equals(docId || '').toArray());
   const promptTemplates = useLiveQuery(() => db.promptTemplates.toArray());
 
-  const [mode, setMode] = useState<'literal' | 'modernizada'>('literal');
+  const [mode, setMode] = useState<'literal' | 'modernizada' | 'fast'>('fast');
   const [selectedModelId, setSelectedModelId] = useState<string>(initialModel);
   const [currentPageIndex, setCurrentPageIndex] = useState<number>(0);
   const [selectedVariantIds, setSelectedVariantIds] = useState<Record<number, string>>({});
@@ -184,7 +184,7 @@ export default function Workspace() {
       } else {
         promptContent = `${templateToUse.systemPrompt || ''}\n\n${templateToUse.unifiedPrompt || ''}`.trim();
       }
-      const newSnap = { id: crypto.randomUUID(), mode: mode as 'literal' | 'modernizada', version: 1, content: promptContent, createdAt: Date.now() };
+      const newSnap = { id: crypto.randomUUID(), mode: (templateToUse.engine === 'fast' ? 'fast' : mode) as 'literal' | 'modernizada' | 'fast', version: 1, content: promptContent, createdAt: Date.now() };
       await db.prompts.add(newSnap);
       promptSnapshotId = newSnap.id;
     } else {
@@ -201,10 +201,10 @@ export default function Workspace() {
       docId: docId,
       docTitle: document.title,
       provider,
-      mode: templateToUse.engine === 'split' ? mode : 'unified' as const,
+      mode: templateToUse.engine === 'fast' ? 'fast' : (templateToUse.engine === 'split' ? mode : 'unified') as any,
       engine: templateToUse.engine,
       promptTemplateId: templateToUse.id,
-      prompt: { id: promptSnapshotId, mode: mode as 'literal' | 'modernizada', version: 1, content: promptContent, createdAt: Date.now() },
+      prompt: { id: promptSnapshotId, mode: (templateToUse.engine === 'fast' ? 'fast' : mode) as 'literal' | 'modernizada' | 'fast', version: 1, content: promptContent, createdAt: Date.now() },
       cacheKey,
       variantIds: selectedVariantIds,
       status: 'pending' as const
@@ -368,6 +368,12 @@ export default function Workspace() {
             >
               Modernizada
             </button>
+            <button
+              onClick={() => setMode('fast')}
+              className={`text-sm font-medium pb-1 ${mode === 'fast' ? 'text-ink border-b-2 border-ink' : 'text-ink/50 hover:text-ink'}`}
+            >
+              FAST (Modernizada)
+            </button>
           </div>
           <div className="flex items-center space-x-4">
             <select
@@ -489,7 +495,7 @@ export default function Workspace() {
             </div>
 
             {viewMode === 'diff' ? (
-              <DiffViewer groundTruth={displayText} prediction={displayPrediction} mode={mode} />
+              <DiffViewer groundTruth={displayText} prediction={displayPrediction} mode={mode === 'literal' ? 'literal' : 'modernizada'} />
             ) : (
               <div className="p-4 bg-stone/5 rounded-lg border border-ink/5 font-serif text-sm whitespace-pre-wrap">
                 {displayPrediction}
