@@ -15,16 +15,18 @@ export interface BenchmarkTask {
   docId: string;
   docTitle: string;
   provider: ProviderAdapter;
-  mode: 'literal' | 'modernizada' | 'unified';
+  mode: 'literal' | 'modernizada' | 'unified' | 'fast';
   prompt: PromptSnapshot;
   promptTemplateId?: string;
-  engine?: 'split' | 'unified';
+  presetId?: string;
+  engine?: 'split' | 'unified' | 'fast';
   cacheKey: string;
   variantIds?: Record<number, string>;
   status: 'pending' | 'running' | 'success' | 'error';
   error?: string;
   startTime?: number;
   endTime?: number;
+  passes?: number;
   logs?: TaskLog[];
   payload?: any;
   rawResponse?: string;
@@ -33,6 +35,13 @@ export interface BenchmarkTask {
     outputTokens: number;
     totalTokens: number;
     latencyMs: number;
+  };
+  fallbackLogs?: {
+    parsedShape: 'object' | 'array_ocr' | 'array_objects';
+    ocrFallbackUsed: boolean;
+    ocrText?: string;
+    finalJson?: string;
+    passes: number;
   };
 }
 
@@ -73,9 +82,9 @@ export const useBenchmarkStore = create<BenchmarkState>()(
     }),
     {
       name: 'paleobench-task-queue',
-      partialize: (state) => ({ 
+      partialize: (state) => ({
         // Only persist tasks, and reset any 'running' tasks to 'pending' on load
-        tasks: state.tasks.map(t => t.status === 'running' ? { ...t, status: 'pending' } : t) 
+        tasks: state.tasks.map(t => t.status === 'running' ? { ...t, status: 'pending' } : t)
       }),
       merge: (persistedState: any, currentState) => ({
         ...currentState,

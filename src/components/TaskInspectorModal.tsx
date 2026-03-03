@@ -44,7 +44,7 @@ export default function TaskInspectorModal({ task, isOpen, onClose }: TaskInspec
 
   return (
     <div className="fixed inset-0 z-50 flex items-center justify-center bg-ink/20 backdrop-blur-sm p-4">
-      <motion.div 
+      <motion.div
         initial={{ opacity: 0, scale: 0.95 }}
         animate={{ opacity: 1, scale: 1 }}
         exit={{ opacity: 0, scale: 0.95 }}
@@ -61,29 +61,50 @@ export default function TaskInspectorModal({ task, isOpen, onClose }: TaskInspec
                 <span className="text-sm font-mono bg-stone px-2 py-0.5 rounded text-ink/70">
                   {task.provider.name}
                 </span>
-                <span className={`text-xs px-2 py-0.5 rounded-full border uppercase tracking-wider font-semibold ${
-                  task.engine === 'unified' ? 'bg-emerald-50 text-emerald-700 border-emerald-200' : 'bg-stone/50 text-ink/60 border-ink/10'
-                }`}>
+                <span className={`text-xs px-2 py-0.5 rounded-full border uppercase tracking-wider font-semibold ${task.engine === 'unified' ? 'bg-emerald-50 text-emerald-700 border-emerald-200' : 'bg-stone/50 text-ink/60 border-ink/10'
+                  }`}>
                   {task.engine === 'unified' ? 'Unified' : 'Split'}
                 </span>
               </h2>
-              <p className="text-xs text-ink/60 mt-1">
-                Task ID: <span className="font-mono">{task.id}</span>
-              </p>
+              <div className="text-xs text-ink/60 mt-1 flex flex-col space-y-1">
+                <span>Task ID: <span className="font-mono">{task.id}</span></span>
+                {task.status === 'success' && (
+                  <span>Stored Lookup Key: <span className="font-mono bg-stone px-1 rounded break-all tracking-tight">{task.cacheKey}</span></span>
+                )}
+              </div>
             </div>
           </div>
-          <button onClick={onClose} className="p-2 hover:bg-stone rounded-full transition-colors">
-            <X className="w-5 h-5 text-ink/50" />
-          </button>
+          <div className="flex items-center space-x-2">
+            {task.fallbackLogs && (
+              <div className="flex items-center space-x-2 mr-4 text-[10px] font-bold uppercase tracking-wider">
+                <span className={`px-2 py-1 rounded bg-stone border border-ink/10`} title="Parsed JSON Shape">
+                  Shape: {task.fallbackLogs.parsedShape}
+                </span>
+                {task.fallbackLogs.parsedShape === 'array_objects' && (
+                  <span className="px-2 py-1 rounded bg-amber-100 text-amber-800" title="Collapsed from Array of Objects">
+                    Array Collapsed
+                  </span>
+                )}
+                {task.fallbackLogs.ocrFallbackUsed && (
+                  <span className="px-2 py-1 rounded bg-rose-100 text-rose-800" title="Triggered OCR fallback to parse raw text boxes">
+                    OCR Recoded
+                  </span>
+                )}
+              </div>
+            )}
+            <button onClick={onClose} className="p-2 hover:bg-stone rounded-full transition-colors">
+              <X className="w-5 h-5 text-ink/50" />
+            </button>
+          </div>
         </div>
 
         {/* Content */}
         <div className="flex-1 overflow-hidden flex flex-col md:flex-row bg-stone/5">
-          
+
           {/* Left Sidebar: Stepper & Info */}
           <div className="w-full md:w-64 border-r border-ink/10 bg-white p-6 overflow-y-auto flex flex-col">
             <h3 className="text-xs font-semibold text-ink/50 uppercase tracking-wider mb-6">Execution Flow</h3>
-            
+
             <div className="space-y-6 relative before:absolute before:inset-0 before:ml-3 before:-translate-x-px before:h-full before:w-0.5 before:bg-gradient-to-b before:from-transparent before:via-ink/10 before:to-transparent flex-1">
               {/* Queued */}
               <div className="relative flex items-center group">
@@ -97,9 +118,8 @@ export default function TaskInspectorModal({ task, isOpen, onClose }: TaskInspec
 
               {/* Preparing */}
               <div className="relative flex items-center group">
-                <div className={`flex items-center justify-center w-6 h-6 rounded-full border-2 shadow shrink-0 z-10 ${
-                  (task.logs?.length || 0) > 0 ? 'border-olive bg-white text-olive' : 'border-ink/20 bg-stone text-ink/30'
-                }`}>
+                <div className={`flex items-center justify-center w-6 h-6 rounded-full border-2 shadow shrink-0 z-10 ${(task.logs?.length || 0) > 0 ? 'border-olive bg-white text-olive' : 'border-ink/20 bg-stone text-ink/30'
+                  }`}>
                   {(task.logs?.length || 0) > 0 ? <CheckCircle2 className="w-3 h-3" /> : <div className="w-2 h-2 rounded-full bg-current" />}
                 </div>
                 <div className="ml-4 p-3 rounded border border-ink/10 bg-white shadow-sm w-full">
@@ -109,13 +129,12 @@ export default function TaskInspectorModal({ task, isOpen, onClose }: TaskInspec
 
               {/* Awaiting LLM */}
               <div className="relative flex items-center group">
-                <div className={`flex items-center justify-center w-6 h-6 rounded-full border-2 shadow shrink-0 z-10 ${
-                  task.status === 'running' ? 'border-amber-500 bg-white text-amber-500' : 
-                  (task.status === 'success' || task.status === 'error') ? 'border-olive bg-white text-olive' : 'border-ink/20 bg-stone text-ink/30'
-                }`}>
-                  {task.status === 'running' ? <Loader2 className="w-3 h-3 animate-spin" /> : 
-                   (task.status === 'success' || task.status === 'error') ? <CheckCircle2 className="w-3 h-3" /> : 
-                   <div className="w-2 h-2 rounded-full bg-current" />}
+                <div className={`flex items-center justify-center w-6 h-6 rounded-full border-2 shadow shrink-0 z-10 ${task.status === 'running' ? 'border-amber-500 bg-white text-amber-500' :
+                    (task.status === 'success' || task.status === 'error') ? 'border-olive bg-white text-olive' : 'border-ink/20 bg-stone text-ink/30'
+                  }`}>
+                  {task.status === 'running' ? <Loader2 className="w-3 h-3 animate-spin" /> :
+                    (task.status === 'success' || task.status === 'error') ? <CheckCircle2 className="w-3 h-3" /> :
+                      <div className="w-2 h-2 rounded-full bg-current" />}
                 </div>
                 <div className="ml-4 p-3 rounded border border-ink/10 bg-white shadow-sm w-full">
                   <div className="text-xs font-medium text-ink">LLM API</div>
@@ -129,13 +148,12 @@ export default function TaskInspectorModal({ task, isOpen, onClose }: TaskInspec
 
               {/* Done */}
               <div className="relative flex items-center group">
-                <div className={`flex items-center justify-center w-6 h-6 rounded-full border-2 shadow shrink-0 z-10 ${
-                  task.status === 'success' ? 'border-olive bg-white text-olive' : 
-                  task.status === 'error' ? 'border-burgundy bg-white text-burgundy' : 'border-ink/20 bg-stone text-ink/30'
-                }`}>
-                  {task.status === 'success' ? <CheckCircle2 className="w-3 h-3" /> : 
-                   task.status === 'error' ? <AlertCircle className="w-3 h-3" /> : 
-                   <div className="w-2 h-2 rounded-full bg-current" />}
+                <div className={`flex items-center justify-center w-6 h-6 rounded-full border-2 shadow shrink-0 z-10 ${task.status === 'success' ? 'border-olive bg-white text-olive' :
+                    task.status === 'error' ? 'border-burgundy bg-white text-burgundy' : 'border-ink/20 bg-stone text-ink/30'
+                  }`}>
+                  {task.status === 'success' ? <CheckCircle2 className="w-3 h-3" /> :
+                    task.status === 'error' ? <AlertCircle className="w-3 h-3" /> :
+                      <div className="w-2 h-2 rounded-full bg-current" />}
                 </div>
                 <div className="ml-4 p-3 rounded border border-ink/10 bg-white shadow-sm w-full">
                   <div className="text-xs font-medium text-ink">Result</div>
@@ -160,28 +178,28 @@ export default function TaskInspectorModal({ task, isOpen, onClose }: TaskInspec
           <div className="flex-1 flex flex-col overflow-hidden">
             {/* Tabs */}
             <div className="flex px-4 pt-4 border-b border-ink/10 bg-white space-x-4">
-              <button 
+              <button
                 onClick={() => setActiveTab('logs')}
                 className={`flex items-center space-x-2 pb-3 px-2 text-sm font-medium border-b-2 transition-colors ${activeTab === 'logs' ? 'border-ink text-ink' : 'border-transparent text-ink/50 hover:text-ink'}`}
               >
                 <Terminal className="w-4 h-4" />
                 <span>Logs</span>
               </button>
-              <button 
+              <button
                 onClick={() => setActiveTab('payload')}
                 className={`flex items-center space-x-2 pb-3 px-2 text-sm font-medium border-b-2 transition-colors ${activeTab === 'payload' ? 'border-ink text-ink' : 'border-transparent text-ink/50 hover:text-ink'}`}
               >
                 <Database className="w-4 h-4" />
                 <span>Payload</span>
               </button>
-              <button 
+              <button
                 onClick={() => setActiveTab('response')}
                 className={`flex items-center space-x-2 pb-3 px-2 text-sm font-medium border-b-2 transition-colors ${activeTab === 'response' ? 'border-ink text-ink' : 'border-transparent text-ink/50 hover:text-ink'}`}
               >
                 <Code className="w-4 h-4" />
                 <span>Raw Response</span>
               </button>
-              <button 
+              <button
                 onClick={() => setActiveTab('metrics')}
                 className={`flex items-center space-x-2 pb-3 px-2 text-sm font-medium border-b-2 transition-colors ${activeTab === 'metrics' ? 'border-ink text-ink' : 'border-transparent text-ink/50 hover:text-ink'}`}
               >
@@ -195,12 +213,11 @@ export default function TaskInspectorModal({ task, isOpen, onClose }: TaskInspec
               {activeTab === 'logs' && (
                 <div className="font-mono text-xs space-y-2">
                   {task.logs?.map((log, i) => (
-                    <div key={i} className={`flex flex-col p-2 rounded border ${
-                      log.type === 'error' ? 'bg-burgundy/5 border-burgundy/20 text-burgundy' :
-                      log.type === 'success' ? 'bg-olive/5 border-olive/20 text-olive' :
-                      log.type === 'warning' ? 'bg-amber-50 border-amber-200 text-amber-700' :
-                      'bg-white border-ink/10 text-ink/80'
-                    }`}>
+                    <div key={i} className={`flex flex-col p-2 rounded border ${log.type === 'error' ? 'bg-burgundy/5 border-burgundy/20 text-burgundy' :
+                        log.type === 'success' ? 'bg-olive/5 border-olive/20 text-olive' :
+                          log.type === 'warning' ? 'bg-amber-50 border-amber-200 text-amber-700' :
+                            'bg-white border-ink/10 text-ink/80'
+                      }`}>
                       <div className="flex space-x-3">
                         <span className="opacity-50 shrink-0">[{formatTimestamp(log.timestamp)}]</span>
                         <span>{log.message}</span>

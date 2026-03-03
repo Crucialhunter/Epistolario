@@ -18,16 +18,40 @@ function extractJSON(raw: string): any {
   }
 }
 
-interface ValidationOptions {
-  modernizadaOnly?: boolean;
-  isFast?: boolean;
+function normalizeProviderResponse(jsonResponse: any, initialParsedShape: 'object' | 'array_ocr' | 'array_objects'): { normalizedJson: any, shape: 'object' | 'array_ocr' | 'array_objects' } {
+  let shape = initialParsedShape;
+  let normalizedJson = jsonResponse;
+
+  if (jsonResponse && Array.isArray(jsonResponse)) {
+    const hasOcrBoxes = jsonResponse.some((item: any) => item.text_content !== undefined);
+    if (hasOcrBoxes) {
+      shape = 'array_ocr';
+    } else {
+      shape = 'array_objects';
+      let bestObj = null;
+      let maxLen = -1;
+      for (const item of jsonResponse) {
+        if (item && typeof item === 'object') {
+          const text = item.transcripcion?.modernizada || item.transcripcion_modernizada || '';
+          if (text.length > maxLen) {
+            maxLen = text.length;
+            bestObj = item;
+          }
+        }
+      }
+      if (bestObj) {
+        normalizedJson = bestObj;
+      }
+    }
+  }
+  return { normalizedJson, shape };
 }
 
-function validateTranscriptionSchema(obj: any, options: ValidationOptions = {}): boolean {
+function validateByPreset(obj: any, isFast: boolean, modernizadaOnly: boolean): boolean {
   if (!obj || typeof obj !== 'object' || Array.isArray(obj)) return false;
   if (typeof obj.idioma_detectado !== 'string' || obj.idioma_detectado.trim() === '') return false;
 
-  if (!options.isFast) {
+  if (!isFast) {
     if (!obj.metadatos || typeof obj.metadatos !== 'object') return false;
   }
 
@@ -35,7 +59,7 @@ function validateTranscriptionSchema(obj: any, options: ValidationOptions = {}):
   const modText = obj.transcripcion?.modernizada ?? obj.transcripcion_modernizada;
   if (typeof modText !== 'string' || modText.trim() === '') return false;
 
-  if (!options.modernizadaOnly && !options.isFast) {
+  if (!modernizadaOnly && !isFast) {
     const litText = obj.transcripcion?.literal ?? obj.transcripcion_literal;
     if (typeof litText !== 'string' || litText.trim() === '') return false;
   }
@@ -180,25 +204,25 @@ async function processTask(task: BenchmarkTask, apiKey: string) {
       const modernizadaOnly = task.prompt.content.includes('--modernizada_only') || task.prompt.content.includes('modernizada_only: true');
       const isFast = task.engine === 'fast';
 
-      if (jsonResponse && Array.isArray(jsonResponse)) {
-        const hasOcrBoxes = jsonResponse.some((item: any) => item.text_content !== undefined);
+      const normResult = normalizeProviderResponse(jsonResponse, initialParsedShape);
+      initialParsedShape = normResult.shape;
+      jsonResponse = normResult.normalizedJson;
 
-        if (hasOcrBoxes) {
-          initialParsedShape = 'array_ocr';
-          passes = 2;
-          store.addLog(task.id, { type: 'warning', message: 'Received OCR array. Attempting 2-step fallback...' });
+      if (initialParsedShape === 'array_ocr') {
+        passes = 2;
+        store.addLog(task.id, { type: 'warning', message: 'Received OCR array. Attempting 2-step fallback...' });
 
-          // Sort boxes primarily by Y (top to bottom), then by X (left to right)
-          const sortedBoxes = jsonResponse.sort((a, b) => {
-            const yDist = (a.box_2d?.[1] || 0) - (b.box_2d?.[1] || 0);
-            if (Math.abs(yDist) > 20) return yDist; // Assuming 20px is a line height threshold
-            return (a.box_2d?.[0] || 0) - (b.box_2d?.[0] || 0);
-          });
+        // Sort boxes primarily by Y (top to bottom), then by X (left to right)
+        const sortedBoxes = jsonResponse.sort((a: any, b: any) => {
+          const yDist = (a.box_2d?.[1] || 0) - (b.box_2d?.[1] || 0);
+          if (Math.abs(yDist) > 20) return yDist; // Assuming 20px is a line height threshold
+          return (a.box_2d?.[0] || 0) - (b.box_2d?.[0] || 0);
+        });
 
-          extractedOcrText = sortedBoxes.map(b => b.text_content).join('\n');
-          store.addLog(task.id, { type: 'info', message: 'OCR Extracted. Sending secondary request for JSON formatting...' });
+        extractedOcrText = sortedBoxes.map((b: any) => b.text_content).join('\n');
+        store.addLog(task.id, { type: 'info', message: 'OCR Extracted. Sending secondary request for JSON formatting...' });
 
-          const fallbackPrompt = `
+        const fallbackPrompt = `
 You are a historical data formatter. I have extracted the raw OCR text from a historical manuscript.
 Your task is to take this raw text and format it into the EXACT JSON schema requested below. Do NOT hallucinate information; use ONLY the provided text.
 
@@ -217,49 +241,32 @@ ${extractedOcrText}
 ---
 `;
 
-          const fallbackResult = await provider.generateTranscription(
-            [], // No images in step 2
-            fallbackPrompt,
-            apiKey,
-            (type, msg, data) => store.addLog(task.id, { type, message: `Fallback: ${msg}`, data })
-          );
+        const fallbackResult = await provider.generateTranscription(
+          [], // No images in step 2
+          fallbackPrompt,
+          apiKey,
+          (type, msg, data) => store.addLog(task.id, { type, message: `Fallback: ${msg}`, data })
+        );
 
-          rawResponse = fallbackResult.text;
-          jsonResponse = extractJSON(rawResponse);
+        rawResponse = fallbackResult.text;
+        jsonResponse = extractJSON(rawResponse);
 
-          if (fallbackResult.tokens) {
-            if (tokenUsage) {
-              tokenUsage.promptTokens += fallbackResult.tokens.promptTokens;
-              tokenUsage.completionTokens += fallbackResult.tokens.completionTokens;
-              tokenUsage.totalTokens += fallbackResult.tokens.totalTokens;
-            } else {
-              tokenUsage = fallbackResult.tokens;
-            }
-          }
-          latencyMs = Date.now() - startApiTime;
-        } else {
-          // Fallback for returning an array of objects
-          initialParsedShape = 'array_objects';
-          store.addLog(task.id, { type: 'warning', message: 'Received array of objects instead of single object. Picking the best one...' });
-          let bestObj = null;
-          let maxLen = -1;
-          for (const item of jsonResponse) {
-            if (item && typeof item === 'object') {
-              const text = item.transcripcion?.modernizada || item.transcripcion_modernizada || '';
-              if (text.length > maxLen) {
-                maxLen = text.length;
-                bestObj = item;
-              }
-            }
-          }
-          if (bestObj) {
-            jsonResponse = bestObj;
-            rawResponse = JSON.stringify(bestObj, null, 2);
+        if (fallbackResult.tokens) {
+          if (tokenUsage) {
+            tokenUsage.promptTokens += fallbackResult.tokens.promptTokens;
+            tokenUsage.completionTokens += fallbackResult.tokens.completionTokens;
+            tokenUsage.totalTokens += fallbackResult.tokens.totalTokens;
+          } else {
+            tokenUsage = fallbackResult.tokens;
           }
         }
+        latencyMs = Date.now() - startApiTime;
+      } else if (initialParsedShape === 'array_objects') {
+        store.addLog(task.id, { type: 'warning', message: 'Received array of objects instead of single object. Normalized to best single object.' });
+        rawResponse = JSON.stringify(jsonResponse, null, 2);
       }
 
-      if (!validateTranscriptionSchema(jsonResponse, { modernizadaOnly, isFast })) {
+      if (!validateByPreset(jsonResponse, isFast, modernizadaOnly)) {
         throw new Error('JSON Response failed strict schema validation (missing required keys or returned an array).');
       }
 
@@ -319,7 +326,8 @@ ${extractedOcrText}
     status: 'success',
     endTime: Date.now(),
     apiMetrics,
-    passes
+    passes,
+    fallbackLogs
   });
 
   await sleep(1000);
