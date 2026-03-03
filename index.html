@@ -637,8 +637,108 @@
             });
         }
 
+        async function loadDatasetDemo() {
+            try {
+                const res = await fetch('./dataset_demo/manifest.json');
+                if (!res.ok) return false;
+                const manifest = await res.json();
+
+                // Cargar Derived Data Estático
+                const fetchJSON = async (path) => {
+                    try { const r = await fetch(path); return r.ok ? await r.json() : null; } catch (e) { return null; }
+                };
+
+                derivedData = { edges: [], events: [], tour: null, coords: {}, places: [], report: null, overview: null, lensPanels: null };
+                window.letterIndex = {};
+
+                derivedData.edges = (await fetchJSON('./dataset_demo/derived/letter_edges.json')) || [];
+                derivedData.events = (await fetchJSON('./dataset_demo/derived/event_markers.json')) || [];
+                derivedData.tour = await fetchJSON('./dataset_demo/derived/tour_legajo10.json');
+                derivedData.coords = (await fetchJSON('./dataset_demo/derived/coords.json')) || {};
+                derivedData.places = (await fetchJSON('./dataset_demo/derived/places.json')) || [];
+                derivedData.lensPanels = await fetchJSON('./dataset_demo/derived/lens_panels.json');
+                derivedData.report = await fetchJSON('./dataset_demo/derived/validation_report.json');
+
+                // Mapear Imágenes
+                imageMap = {};
+                if (manifest.images) {
+                    manifest.images.forEach(img => {
+                        const relUrl = `./dataset_demo/images/${img}`;
+                        imageMap[img] = relUrl;
+                        imageMap["images/" + img] = relUrl;
+                    });
+                }
+
+                // Cargar letters
+                const newLetters = [];
+                if (manifest.letters) {
+                    for (let file of manifest.letters) {
+                        const data = await fetchJSON(`./dataset_demo/letters/${file}`);
+                        if (data) {
+                            if (Array.isArray(data)) {
+                                data.forEach(d => {
+                                    const id = d.id_carta || d.id;
+                                    if (id) window.letterIndex[id] = d;
+                                });
+                                newLetters.push(...data.map(normalizeLetter));
+                            } else {
+                                const id = data.id_carta || data.id;
+                                if (id) window.letterIndex[id] = data;
+                                newLetters.push(normalizeLetter(data));
+                            }
+                        }
+                    }
+                }
+
+                if (derivedData.edges && derivedData.edges.length > 0) {
+                    letters = derivedData.edges.map(edge => {
+                        let parsedDate = new Date(1668, 0, 1);
+                        if (edge.date_iso) {
+                            if (edge.date_iso.length === 7) {
+                                parsedDate = new Date(edge.date_iso + "-01");
+                            } else {
+                                parsedDate = new Date(edge.date_iso);
+                            }
+                        }
+                        let origenCoords = null;
+                        if (edge.from_place_key && derivedData.coords && derivedData.coords[edge.from_place_key]) {
+                            origenCoords = derivedData.coords[edge.from_place_key];
+                        }
+                        let destinoCoords = null;
+                        if (edge.to_place_key && derivedData.coords && derivedData.coords[edge.to_place_key]) {
+                            destinoCoords = derivedData.coords[edge.to_place_key];
+                        }
+                        return {
+                            id: edge.id_carta,
+                            remitente: edge.from_person || "Desconocido",
+                            destinatario: edge.to_person || "Desconocido",
+                            fecha: edge.date_iso || "Sin fecha",
+                            parsedDate: parsedDate,
+                            origen: { nombre: edge.from_place_label || edge.from_place_key, lat: origenCoords?.lat, lng: origenCoords?.lng },
+                            destino: { nombre: edge.to_place_label || edge.to_place_key, lat: destinoCoords?.lat, lng: destinoCoords?.lng },
+                            texto_literal: "",
+                            texto_modernizado: "",
+                            imagenes: edge.images || [],
+                            edgeData: edge
+                        };
+                    });
+                } else if (newLetters.length > 0) {
+                    letters = newLetters;
+                }
+
+                letters.sort((a, b) => a.parsedDate - b.parsedDate);
+
+                return true;
+            } catch (e) {
+                console.error("Autoload falló:", e);
+                return false;
+            }
+        }
+
         // Initialize Application
-        document.addEventListener('DOMContentLoaded', () => {
+        document.addEventListener('DOMContentLoaded', async () => {
+            const hasAutoload = await loadDatasetDemo();
+
             letters = letters.map(normalizeLetter);
             buildSearchIndex();
             filteredLetters = [...letters];
@@ -646,6 +746,12 @@
             initTimeline();
             updateFilters();
             applyFilters();
+
+            if (hasAutoload && letters.length > 0) {
+                renderTimelineMarkers();
+                updateTimeline(0);
+                alert(`Autoload exitoso: importadas ${letters.length} cartas desde el servidor estático.`);
+            }
         });
 
         function updateStats() {

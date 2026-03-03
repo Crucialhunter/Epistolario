@@ -1,0 +1,210 @@
+{
+  "tour_id": "tour_legajo10",
+  "title": "Legajo 10: Intrigas y Vida en el siglo XVII",
+  "audio_script": "Bienvenidos al Legajo 10. A lo largo de siete paradas, recorreremos la historia del imperio español en el año 1668 a través de las cartas de la familia Santacilia. Desde ejecuciones sumarias en la Corte, un thriller político en Cerdeña, hasta los peligrosos tratamientos médicos de la época aplicados a Don Juan. Acompáñenos a leer entre líneas.",
+  "steps": [
+    {
+      "step_id": "T1",
+      "title": "Justicia expeditiva en la Corte",
+      "primary_event_id": "evt_ejecucion_mallada",
+      "primary_letter_id": "1139",
+      "ui_actions": [
+        {
+          "type": "timeline_focus",
+          "from": "1668-06-01",
+          "to": "1668-06-15"
+        },
+        {
+          "type": "map_pulse_location",
+          "place_key": "madrid"
+        },
+        {
+          "type": "show_event_card",
+          "event_id": "evt_ejecucion_mallada"
+        },
+        {
+          "type": "open_side_panel",
+          "letter_id": "1139"
+        },
+        {
+          "type": "highlight_quote",
+          "quote": "en menos de dos horas mientras duro el tiempo que se confeso le hizo dar"
+        }
+      ]
+    },
+    {
+      "step_id": "T2",
+      "title": "Paces con Francia",
+      "primary_event_id": "evt_paces_francia",
+      "primary_letter_id": "1149",
+      "ui_actions": [
+        {
+          "type": "timeline_focus",
+          "from": "1668-06-15",
+          "to": "1668-06-30"
+        },
+        {
+          "type": "map_pulse_location",
+          "place_key": "madrid"
+        },
+        {
+          "type": "show_event_card",
+          "event_id": "evt_paces_francia"
+        },
+        {
+          "type": "open_side_panel",
+          "letter_id": "1149"
+        },
+        {
+          "type": "highlight_quote",
+          "quote": "tengo, a Dios gracias. Ya se publicaron las paces con Francia a 25 del corriente"
+        }
+      ]
+    },
+    {
+      "step_id": "T3",
+      "title": "Llegada a la Corte",
+      "primary_event_id": "evt_llegada_santacilia_corte",
+      "primary_letter_id": "1158",
+      "ui_actions": [
+        {
+          "type": "timeline_focus",
+          "from": "1668-07-01",
+          "to": "1668-07-15"
+        },
+        {
+          "type": "map_pulse_location",
+          "place_key": "madrid"
+        },
+        {
+          "type": "show_event_card",
+          "event_id": "evt_llegada_santacilia_corte"
+        },
+        {
+          "type": "open_side_panel",
+          "letter_id": "1158"
+        },
+        {
+          "type": "highlight_quote",
+          "quote": "habíamos llegado a Vinaros. A 11 de julio entramos a esta corte con salud, gracias"
+        }
+      ]
+    },
+    {
+      "step_id": "T4",
+      "title": "Asesinatos en Cerdeña y San Germán",
+      "primary_event_id": "evt_asesinatos_cerdena",
+      "primary_letter_id": "1173",
+      "ui_actions": [
+        {
+          "type": "timeline_focus",
+          "from": "1668-07-15",
+          "to": "1668-08-15"
+        },
+        {
+          "type": "map_pulse_location",
+          "place_key": "caller"
+        },
+        {
+          "type": "show_event_card",
+          "event_id": "evt_asesinatos_cerdena"
+        },
+        {
+          "type": "open_side_panel",
+          "letter_id": "1173"
+        },
+        {
+          "type": "highlight_quote",
+          "quote": "se publicasen las paces, tan mal admitidas. Después de la muerte del marques de Laconi"
+        }
+      ]
+    },
+    {
+      "step_id": "T5",
+      "title": "Enfermedad de Don Juan y el Agua de Aspa",
+      "primary_event_id": "evt_enfermedad_juan_santacilia",
+      "primary_letter_id": "1174",
+      "ui_actions": [
+        {
+          "type": "timeline_focus",
+          "from": "1668-08-01",
+          "to": "1668-09-01"
+        },
+        {
+          "type": "map_pulse_location",
+          "place_key": "madrid"
+        },
+        {
+          "type": "show_event_card",
+          "event_id": "evt_enfermedad_juan_santacilia"
+        },
+        {
+          "type": "open_side_panel",
+          "letter_id": "1174"
+        },
+        {
+          "type": "highlight_quote",
+          "quote": "a casa de mi Señor 3. como de la enfermedad de mi Señor Don Juan"
+        }
+      ]
+    },
+    {
+      "step_id": "T6",
+      "title": "Destierro de Don Juan de Austria",
+      "primary_event_id": "evt_destierro_juan_austria",
+      "primary_letter_id": "1177",
+      "ui_actions": [
+        {
+          "type": "timeline_focus",
+          "from": "1668-08-10",
+          "to": "1668-08-25"
+        },
+        {
+          "type": "map_pulse_location",
+          "place_key": "consuegra"
+        },
+        {
+          "type": "show_event_card",
+          "event_id": "evt_destierro_juan_austria"
+        },
+        {
+          "type": "open_side_panel",
+          "letter_id": "1177"
+        },
+        {
+          "type": "highlight_quote",
+          "quote": "y el Sr. don Ju[li]o se ba 22. a consuegra por mandado de su Magd"
+        }
+      ]
+    },
+    {
+      "step_id": "T7",
+      "title": "La convalecencia",
+      "primary_event_id": "evt_recuperacion_juan_santacilia",
+      "primary_letter_id": "1186",
+      "ui_actions": [
+        {
+          "type": "timeline_focus",
+          "from": "1668-09-01",
+          "to": "1668-10-01"
+        },
+        {
+          "type": "map_pulse_location",
+          "place_key": "madrid"
+        },
+        {
+          "type": "show_event_card",
+          "event_id": "evt_recuperacion_juan_santacilia"
+        },
+        {
+          "type": "open_side_panel",
+          "letter_id": "1186"
+        },
+        {
+          "type": "highlight_quote",
+          "quote": "en doblado goso de ver a mi señor Don 4. Juan fuera de la cama"
+        }
+      ]
+    }
+  ]
+}

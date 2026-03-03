@@ -1,0 +1,23 @@
+{
+  "counts": {
+    "num_letters": 99,
+    "num_events": 34,
+    "num_places": 25,
+    "num_tour_steps": 7
+  },
+  "missing_refs": {
+    "events": [],
+    "letters": [],
+    "places_missing_coords": [
+      "sin_especificar"
+    ]
+  },
+  "duplicates_resolution": {
+    "caller_cagliari": "caller",
+    "mao": "mahon"
+  },
+  "quality_notes": {
+    "letters_inferred_low_confidence": 6,
+    "events_with_less_than_2_sources": 15
+  }
+}

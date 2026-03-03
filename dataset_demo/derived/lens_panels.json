@@ -1,0 +1,3751 @@
+{
+  "version": "1.0",
+  "generated_at": "2026-03-03T09:41:58.941775Z",
+  "dataset": {
+    "legajo": 10,
+    "num_letters": 99,
+    "num_events": 34,
+    "date_range": {
+      "from": "1668-02",
+      "to": "1669-03"
+    }
+  },
+  "lenses": {
+    "normal": {
+      "title": "Vista general",
+      "one_liner": "Lectura completa del epistolario sin priorizar un ángulo temático.",
+      "summary_bullets": [
+        "Actividad constante entre la red de agentes peninsulares e insulares.",
+        "Refleja el pulso cotidiano de Mallorca, Cerdeña, Madrid y la corona.",
+        "Predominan los envíos regulares mediante galeras y el correo oficial."
+      ],
+      "kpis": {
+        "relevant_letters": 99,
+        "events": 34,
+        "peak_month": "1668-07",
+        "peak_month_label": "Jul 1668",
+        "peak_score_note": "Más opaco = más volumen general"
+      },
+      "panels": [
+        {
+          "type": "top_events",
+          "title": "Acontecimientos clave",
+          "items": [
+            {
+              "event_id": "evt_fuga_juan_austria",
+              "title": "Intento de arresto y fuga de Don Juan de Austria",
+              "date_iso": "1668-10",
+              "month_key": "1668-10",
+              "theme": "Política",
+              "place_key": "consuegra",
+              "place_label": "Consuegra",
+              "primary_letter_id": "1220",
+              "quote": "He recibido la de v. m. de 14 de octubre junto con el pliego para",
+              "quote_source": "modernizada"
+            },
+            {
+              "event_id": "evt_muerte_presidente_castilla",
+              "title": "Muerte repentina del Presidente de Castilla",
+              "date_iso": "1668-05-23",
+              "month_key": "1668-05",
+              "theme": "Política",
+              "place_key": "valencia",
+              "place_label": "Valencia",
+              "primary_letter_id": "1136",
+              "quote": "Amigo y señor mío, Los días pasados escribí a v. m. y para que no",
+              "quote_source": "modernizada"
+            },
+            {
+              "event_id": "evt_demandas_picote_caller",
+              "title": "Demanda de tejidos mallorquines en Cerdeña",
+              "date_iso": "1668-06",
+              "month_key": "1668-06",
+              "theme": "Comercio",
+              "place_key": "mallorca",
+              "place_label": "Mallorca",
+              "primary_letter_id": "1138",
+              "quote": "Amigo y señor mío, El patrón Josep Pujol ha llegado a Oristán con su bergantín",
+              "quote_source": "modernizada"
+            },
+            {
+              "event_id": "evt_prisiones_baleares",
+              "title": "Prisiones y justicia local en Baleares",
+              "date_iso": "1668-06",
+              "month_key": "1668-06",
+              "theme": "Justicia",
+              "place_key": "llucmajor",
+              "place_label": "Llucmajor",
+              "primary_letter_id": "1145",
+              "quote": "Tinc entès pels amics de la fragata han posat en Lluch Estarelles en llibertat, i",
+              "quote_source": "modernizada"
+            },
+            {
+              "event_id": "evt_paces_francia",
+              "title": "Publicación de las Paces con Francia",
+              "date_iso": "1668-06-25",
+              "month_key": "1668-06",
+              "theme": "Política",
+              "place_key": "madrid",
+              "place_label": "Madrid",
+              "primary_letter_id": "1149",
+              "quote": "Señor mío, Holgaré que esta halle a v.m. con mucha salud con toda su casa.",
+              "quote_source": "modernizada"
+            },
+            {
+              "event_id": "evt_viaje_santacilia",
+              "title": "Llegada de los Santacilia a Valencia",
+              "date_iso": "1668-07-02",
+              "month_key": "1668-07",
+              "theme": "Corte",
+              "place_key": "valencia",
+              "place_label": "Valencia",
+              "primary_letter_id": "1152",
+              "quote": "Acabamos de llegar ayer a la tarde a Valencia que encontramos al señor gobernador y",
+              "quote_source": "modernizada"
+            }
+          ]
+        },
+        {
+          "type": "top_routes",
+          "title": "Rutas dominantes",
+          "items": [
+            {
+              "from_place_key": "madrid",
+              "to_place_key": "mallorca",
+              "count_letters": 49,
+              "sample_letter_id": "1137",
+              "quote": "Señor Jeronimo Pelegrin de Aragues (también vi la carta de señor d. Juan Francisco Pueyo). Señor mío, en su carta...",
+              "quote_source": "modernizada"
+            },
+            {
+              "from_place_key": "valencia",
+              "to_place_key": "mallorca",
+              "count_letters": 11,
+              "sample_letter_id": "1136",
+              "quote": "Amigo y señor mío, Los días pasados escribí a v. m. y para que no se vaya el portador de...",
+              "quote_source": "modernizada"
+            },
+            {
+              "from_place_key": "barcelona",
+              "to_place_key": "mallorca",
+              "count_letters": 8,
+              "sample_letter_id": "1185",
+              "quote": "con la asistencia de las galeras y la compañía del pupilo, que luego que llegó",
+              "quote_source": "modernizada"
+            },
+            {
+              "from_place_key": "alicante",
+              "to_place_key": "mallorca",
+              "count_letters": 5,
+              "sample_letter_id": "1170",
+              "quote": "Su carta de v. m. del corriente tengo recibida y encontinente remití la carta para Madrid del señor d. Pedro...",
+              "quote_source": "modernizada"
+            },
+            {
+              "from_place_key": "caller",
+              "to_place_key": "mallorca",
+              "count_letters": 3,
+              "sample_letter_id": "1138",
+              "quote": "Amigo y señor mío, El patrón Josep Pujol ha llegado a Oristán con su bergantín y él ha venido aquí...",
+              "quote_source": "modernizada"
+            },
+            {
+              "from_place_key": "ibiza",
+              "to_place_key": "mallorca",
+              "count_letters": 3,
+              "sample_letter_id": "1144",
+              "quote": "Amigo y señor mío, Ya me cansó tanta diligencia y no menos me tiene en cuidado el carecer de las...",
+              "quote_source": "modernizada"
+            }
+          ]
+        },
+        {
+          "type": "top_people",
+          "title": "Personas centrales",
+          "items": [
+            {
+              "name": "Jerónimo Pelegrín de Aragüés",
+              "role_hint": "Figura clave",
+              "count_letters": 99,
+              "count_events_linked": 34,
+              "sample_letter_id": "1135",
+              "quote": "Mi senyor don Pedro m'ha manat us escrigués que vostre fill faci una llista de tots els que tenen abelles...",
+              "quote_source": "modernizada"
+            },
+            {
+              "name": "Diego Matías de Aragüés",
+              "role_hint": "Figura clave",
+              "count_letters": 17,
+              "count_events_linked": 10,
+              "sample_letter_id": "1139",
+              "quote": "y servidor de v. m., Diego Matias de Aragues Señor. Jeronimo Pelegrin de Aragues, mi",
+              "quote_source": "modernizada"
+            },
+            {
+              "name": "Pedro Santacilia y Pax",
+              "role_hint": "Figura clave",
+              "count_letters": 11,
+              "count_events_linked": 7,
+              "sample_letter_id": "1145",
+              "quote": "i juny 18, 1668. Don Pedro Senyor Jeroni Pelegri [1§] El patró Lluch Estarelles, el",
+              "quote_source": "modernizada"
+            },
+            {
+              "name": "Gabriel Roger",
+              "role_hint": "Figura clave",
+              "count_letters": 10,
+              "count_events_linked": 4,
+              "sample_letter_id": "1152",
+              "quote": "2 de 1668. De v. m.,Gabriel Roger [1§] [parece una anotación de Pelegrin de Aragues]{CAT.",
+              "quote_source": "modernizada"
+            },
+            {
+              "name": "Miguel Malo",
+              "role_hint": "Figura clave",
+              "count_letters": 9,
+              "count_events_linked": 6,
+              "sample_letter_id": "1137",
+              "quote": "Señor Jeronimo Pelegrin de Aragues (también vi la carta de señor d. Juan Francisco Pueyo).",
+              "quote_source": "modernizada"
+            },
+            {
+              "name": "José Balell",
+              "role_hint": "Figura clave",
+              "count_letters": 8,
+              "count_events_linked": 5,
+              "sample_letter_id": "1185",
+              "quote": "Respondo a 4 con que me hallo de v. m.: la una de 12, dos",
+              "quote_source": "modernizada"
+            }
+          ]
+        }
+      ]
+    },
+    "noticias": {
+      "title": "Corredor de Noticias",
+      "one_liner": "Velocidad y contenido político en un Mediterráneo convulso.",
+      "summary_bullets": [
+        "Foco en la inestabilidad de Cerdeña y la fragilidad del virreinato.",
+        "Expectación constante hacia Madrid y los tratados internacionales de 1668.",
+        "La información vital viaja cifrada o velada."
+      ],
+      "kpis": {
+        "relevant_letters": 57,
+        "events": 24,
+        "peak_month": "1668-07",
+        "peak_month_label": "Jul 1668",
+        "peak_score_note": "Más opaco = mayor densidad política"
+      },
+      "panels": [
+        {
+          "type": "top_events",
+          "title": "Acontecimientos clave",
+          "items": [
+            {
+              "event_id": "evt_fuga_juan_austria",
+              "title": "Intento de arresto y fuga de Don Juan de Austria",
+              "date_iso": "1668-10",
+              "month_key": "1668-10",
+              "theme": "Política",
+              "place_key": "consuegra",
+              "place_label": "Consuegra",
+              "primary_letter_id": "1220",
+              "quote": "He recibido la de v. m. de 14 de octubre junto con el pliego para",
+              "quote_source": "modernizada"
+            },
+            {
+              "event_id": "evt_muerte_presidente_castilla",
+              "title": "Muerte repentina del Presidente de Castilla",
+              "date_iso": "1668-05-23",
+              "month_key": "1668-05",
+              "theme": "Política",
+              "place_key": "valencia",
+              "place_label": "Valencia",
+              "primary_letter_id": "1136",
+              "quote": "Amigo y señor mío, Los días pasados escribí a v. m. y para que no",
+              "quote_source": "modernizada"
+            },
+            {
+              "event_id": "evt_prisiones_baleares",
+              "title": "Prisiones y justicia local en Baleares",
+              "date_iso": "1668-06",
+              "month_key": "1668-06",
+              "theme": "Justicia",
+              "place_key": "llucmajor",
+              "place_label": "Llucmajor",
+              "primary_letter_id": "1145",
+              "quote": "Tinc entès pels amics de la fragata han posat en Lluch Estarelles en llibertat, i",
+              "quote_source": "modernizada"
+            },
+            {
+              "event_id": "evt_paces_francia",
+              "title": "Publicación de las Paces con Francia",
+              "date_iso": "1668-06-25",
+              "month_key": "1668-06",
+              "theme": "Política",
+              "place_key": "madrid",
+              "place_label": "Madrid",
+              "primary_letter_id": "1149",
+              "quote": "Señor mío, Holgaré que esta halle a v.m. con mucha salud con toda su casa.",
+              "quote_source": "modernizada"
+            },
+            {
+              "event_id": "evt_viaje_santacilia",
+              "title": "Llegada de los Santacilia a Valencia",
+              "date_iso": "1668-07-02",
+              "month_key": "1668-07",
+              "theme": "Corte",
+              "place_key": "valencia",
+              "place_label": "Valencia",
+              "primary_letter_id": "1152",
+              "quote": "Acabamos de llegar ayer a la tarde a Valencia que encontramos al señor gobernador y",
+              "quote_source": "modernizada"
+            },
+            {
+              "event_id": "evt_deudas_viuda_rendon",
+              "title": "Pleito por las fianzas del capitán Aulí",
+              "date_iso": "1668-07-30",
+              "month_key": "1668-07",
+              "theme": "Justicia",
+              "place_key": "cadiz",
+              "place_label": "Cádiz",
+              "primary_letter_id": "1156",
+              "quote": "La ocasión y el portador tan cierto no me excusa de repetir y acordar a",
+              "quote_source": "modernizada"
+            }
+          ]
+        },
+        {
+          "type": "top_people",
+          "title": "Personas centrales",
+          "items": [
+            {
+              "name": "Jerónimo Pelegrín de Aragüés",
+              "role_hint": "Figura clave",
+              "count_letters": 57,
+              "count_events_linked": 30,
+              "sample_letter_id": "1136",
+              "quote": "Amigo y señor mío, Los días pasados escribí a v. m. y para que no",
+              "quote_source": "modernizada"
+            },
+            {
+              "name": "Diego Matías de Aragüés",
+              "role_hint": "Figura clave",
+              "count_letters": 13,
+              "count_events_linked": 9,
+              "sample_letter_id": "1139",
+              "quote": "y servidor de v. m., Diego Matias de Aragues Señor. Jeronimo Pelegrin de Aragues, mi",
+              "quote_source": "modernizada"
+            },
+            {
+              "name": "Miguel Malo",
+              "role_hint": "Figura clave",
+              "count_letters": 9,
+              "count_events_linked": 6,
+              "sample_letter_id": "1137",
+              "quote": "Señor Jeronimo Pelegrin de Aragues (también vi la carta de señor d. Juan Francisco Pueyo).",
+              "quote_source": "modernizada"
+            },
+            {
+              "name": "Pedro Santacilia y Pax",
+              "role_hint": "Figura clave",
+              "count_letters": 6,
+              "count_events_linked": 5,
+              "sample_letter_id": "1145",
+              "quote": "i juny 18, 1668. Don Pedro Senyor Jeroni Pelegri [1§] El patró Lluch Estarelles, el",
+              "quote_source": "modernizada"
+            },
+            {
+              "name": "José Balell",
+              "role_hint": "Figura clave",
+              "count_letters": 6,
+              "count_events_linked": 5,
+              "sample_letter_id": "1185",
+              "quote": "Respondo a 4 con que me hallo de v. m.: la una de 12, dos",
+              "quote_source": "modernizada"
+            },
+            {
+              "name": "Andrés García de Castro",
+              "role_hint": "Figura clave",
+              "count_letters": 3,
+              "count_events_linked": 1,
+              "sample_letter_id": "1136",
+              "quote": "afecto de servidor y amigo,Don Andres Garcia de Castro. Jeronimo Pelegrin de Aragues.",
+              "quote_source": "modernizada"
+            }
+          ]
+        },
+        {
+          "type": "top_routes",
+          "title": "Rutas dominantes",
+          "items": [
+            {
+              "from_place_key": "madrid",
+              "to_place_key": "mallorca",
+              "count_letters": 30,
+              "sample_letter_id": "1137",
+              "quote": "Señor Jeronimo Pelegrin de Aragues (también vi la carta de señor d. Juan Francisco Pueyo). Señor mío, en su carta...",
+              "quote_source": "modernizada"
+            },
+            {
+              "from_place_key": "valencia",
+              "to_place_key": "mallorca",
+              "count_letters": 6,
+              "sample_letter_id": "1136",
+              "quote": "Amigo y señor mío, Los días pasados escribí a v. m. y para que no se vaya el portador de...",
+              "quote_source": "modernizada"
+            },
+            {
+              "from_place_key": "barcelona",
+              "to_place_key": "mallorca",
+              "count_letters": 6,
+              "sample_letter_id": "1185",
+              "quote": "con la asistencia de las galeras y la compañía del pupilo, que luego que llegó",
+              "quote_source": "modernizada"
+            },
+            {
+              "from_place_key": "cadiz",
+              "to_place_key": "mallorca",
+              "count_letters": 2,
+              "sample_letter_id": "1156",
+              "quote": "La ocasión y el portador tan cierto no me excusa de repetir y acordar a v. m. lo que por...",
+              "quote_source": "modernizada"
+            },
+            {
+              "from_place_key": "caller",
+              "to_place_key": "mallorca",
+              "count_letters": 1,
+              "sample_letter_id": "1138",
+              "quote": "Amigo y señor mío, El patrón Josep Pujol ha llegado a Oristán con su bergantín y él ha venido aquí...",
+              "quote_source": "modernizada"
+            },
+            {
+              "from_place_key": "ibiza",
+              "to_place_key": "mallorca",
+              "count_letters": 1,
+              "sample_letter_id": "1144",
+              "quote": "Amigo y señor mío, Ya me cansó tanta diligencia y no menos me tiene en cuidado el carecer de las...",
+              "quote_source": "modernizada"
+            }
+          ]
+        }
+      ]
+    },
+    "salud": {
+      "title": "Cuerpo y Enfermedad",
+      "one_liner": "El frágil estado físico de los poderosos y la medicina extrema.",
+      "summary_bullets": [
+        "La salud de Don Juan como asunto de estado.",
+        "Los tratamientos se comunican con urgencia casi política (sangrías, aguas termales).",
+        "La correspondencia se convierte en parte médico a distancia."
+      ],
+      "kpis": {
+        "relevant_letters": 33,
+        "events": 5,
+        "peak_month": "1668-08",
+        "peak_month_label": "Ago 1668",
+        "peak_score_note": "Más opaco = mayor gravedad/frecuencia clínica"
+      },
+      "panels": [
+        {
+          "type": "top_events",
+          "title": "Acontecimientos clave",
+          "items": [
+            {
+              "event_id": "evt_enfermedad_juan_santacilia",
+              "title": "Grave enfermedad de Don Juan",
+              "date_iso": "1668-08",
+              "month_key": "1668-08",
+              "theme": "Salud",
+              "place_key": "madrid",
+              "place_label": "Madrid",
+              "primary_letter_id": "1173",
+              "quote": "otra orden. Todos estamos con salud en casa, enviando de parte de dña. Margarita y",
+              "quote_source": "modernizada"
+            },
+            {
+              "event_id": "evt_recuperacion_juan_santacilia",
+              "title": "Convalecencia y purgas de don Juan",
+              "date_iso": "1668-09",
+              "month_key": "1668-09",
+              "theme": "Salud",
+              "place_key": "madrid",
+              "place_label": "Madrid",
+              "primary_letter_id": "1186",
+              "quote": "Muchas veces desde que estamos en Madrid he tenido grandes congojas en la enfermedad de",
+              "quote_source": "modernizada"
+            },
+            {
+              "event_id": "evt_crisis_agua_aspa_juan",
+              "title": "Crisis médica de D. Juan por el 'agua de Aspa'",
+              "date_iso": "1668-10",
+              "month_key": "1668-10",
+              "theme": "Salud",
+              "place_key": "madrid",
+              "place_label": "Madrid",
+              "primary_letter_id": "1207",
+              "quote": "sobrinos y estén todos con salud que sea por muchos años como deseamos Dña. Margarita",
+              "quote_source": "modernizada"
+            },
+            {
+              "event_id": "evt_enfermedad_juan_miquel",
+              "title": "Enfermedad súbita de Juan Miquel",
+              "date_iso": "1668-08-21",
+              "month_key": "1668-08",
+              "theme": "Salud",
+              "place_key": "madrid",
+              "place_label": "Madrid",
+              "primary_letter_id": "1200",
+              "quote": "Dues cartes acab de rebre tuas de 2 i 4 d'aquest i la una rompí",
+              "quote_source": "modernizada"
+            },
+            {
+              "event_id": "evt_sangrias_corbella",
+              "title": "Graves tratamientos médicos a Pablo Corbella",
+              "date_iso": "1668-11-03",
+              "month_key": "1668-11",
+              "theme": "Salud",
+              "place_key": "mahon",
+              "place_label": "Mahón",
+              "primary_letter_id": "1222",
+              "quote": "Amigo y señor mío, Desde Arenys de mar escribí a v. m. dándole aviso cómo",
+              "quote_source": "modernizada"
+            }
+          ]
+        },
+        {
+          "type": "top_people",
+          "title": "Personas centrales",
+          "items": [
+            {
+              "name": "Jerónimo Pelegrín de Aragüés",
+              "role_hint": "Figura clave",
+              "count_letters": 33,
+              "count_events_linked": 17,
+              "sample_letter_id": "1136",
+              "quote": "Amigo y señor mío, Los días pasados escribí a v. m. y para que no",
+              "quote_source": "modernizada"
+            },
+            {
+              "name": "Diego Matías de Aragüés",
+              "role_hint": "Figura clave",
+              "count_letters": 13,
+              "count_events_linked": 8,
+              "sample_letter_id": "1159",
+              "quote": "y servidor de v. m., Diego Matias de Aragues [su letra habitual]A todos estos señores",
+              "quote_source": "modernizada"
+            },
+            {
+              "name": "Gabriel Roger",
+              "role_hint": "Figura clave",
+              "count_letters": 6,
+              "count_events_linked": 3,
+              "sample_letter_id": "1174",
+              "quote": "y servidor de v. m., Gabriel Roger Señor Jeronimo Pelegrin [1§] A Jeronimo Pelegrin de",
+              "quote_source": "modernizada"
+            },
+            {
+              "name": "Pedro Santacilia y Pax",
+              "role_hint": "Figura clave",
+              "count_letters": 2,
+              "count_events_linked": 2,
+              "sample_letter_id": "1161",
+              "quote": "21 de julio 1668. Don Pedro Jerónimo [1§] A Jeronimo Pelegrin de Aragues, que Dios",
+              "quote_source": "modernizada"
+            },
+            {
+              "name": "Miguel Sancho",
+              "role_hint": "Figura clave",
+              "count_letters": 2,
+              "count_events_linked": 1,
+              "sample_letter_id": "1192",
+              "quote": "m. que sus manos besa, Miguel Sancho. Jeronimo Pelegrin de Aragues",
+              "quote_source": "modernizada"
+            },
+            {
+              "name": "José Balell",
+              "role_hint": "Figura clave",
+              "count_letters": 2,
+              "count_events_linked": 4,
+              "sample_letter_id": "1208",
+              "quote": "amigo que sus manos besa, Josep Balell El navío todavía está con sus trabajos. Viernes",
+              "quote_source": "modernizada"
+            }
+          ]
+        },
+        {
+          "type": "medical_terms",
+          "title": "Términos médicos principales",
+          "items": [
+            {
+              "term": "junta",
+              "count_letters": 12,
+              "sample_letter_id": "1156",
+              "quote": "su parte toda diligencia, y juntamente suplicarle al señor d. Pedro amparase mi causa como",
+              "quote_source": "modernizada"
+            },
+            {
+              "term": "medico",
+              "count_letters": 9,
+              "sample_letter_id": "1136",
+              "quote": "ha estado desahuciado de los médicos y con manifiesto peligro de la vida, pero queda",
+              "quote_source": "modernizada"
+            },
+            {
+              "term": "enfermedad",
+              "count_letters": 8,
+              "sample_letter_id": "1174",
+              "quote": "mi señor como de la enfermedad de mi señor d. Juan, que prometo en verdad",
+              "quote_source": "modernizada"
+            },
+            {
+              "term": "purga",
+              "count_letters": 6,
+              "sample_letter_id": "1179",
+              "quote": "aguarda refresque el tiempo para purgarle, porque son excesivos los calores que hace. De verdad",
+              "quote_source": "modernizada"
+            },
+            {
+              "term": "calentura",
+              "count_letters": 5,
+              "sample_letter_id": "1174",
+              "quote": "nos ha venido abundancia de calentura, con todo el cuerpo tullido de dolor, que lo",
+              "quote_source": "modernizada"
+            },
+            {
+              "term": "remedio",
+              "count_letters": 3,
+              "sample_letter_id": "1202",
+              "quote": "siempre [?] hácesele ahora un remedio de un pegado de diversas cosas con que se",
+              "quote_source": "modernizada"
+            }
+          ]
+        }
+      ]
+    },
+    "objetos": {
+      "title": "Materialidad y Favores",
+      "one_liner": "Tráfico de géneros y regalos que lubrican las relaciones.",
+      "summary_bullets": [
+        "Importancia táctica de los textiles (picote para luto) en Madrid.",
+        "Regalos diplomáticos cruzando el mar: jabalíes, miel y perros de muestra.",
+        "El dinero (reales, escudos) en movimiento para financiar causas cortesanas."
+      ],
+      "kpis": {
+        "relevant_letters": 40,
+        "events": 4,
+        "peak_month": "1668-08",
+        "peak_month_label": "Ago 1668",
+        "peak_score_note": "Más opaco = mayor tráfico mercantil y de regalos"
+      },
+      "panels": [
+        {
+          "type": "top_events",
+          "title": "Acontecimientos clave",
+          "items": [
+            {
+              "event_id": "evt_demandas_picote_caller",
+              "title": "Demanda de tejidos mallorquines en Cerdeña",
+              "date_iso": "1668-06",
+              "month_key": "1668-06",
+              "theme": "Comercio",
+              "place_key": "mallorca",
+              "place_label": "Mallorca",
+              "primary_letter_id": "1138",
+              "quote": "Amigo y señor mío, El patrón Josep Pujol ha llegado a Oristán con su bergantín",
+              "quote_source": "modernizada"
+            },
+            {
+              "event_id": "evt_botadura_arenys",
+              "title": "Preparativos para la botadura de un bajel",
+              "date_iso": "1668-08",
+              "month_key": "1668-08",
+              "theme": "Logística",
+              "place_key": "barcelona",
+              "place_label": "Barcelona",
+              "primary_letter_id": "1182",
+              "quote": "Amigo y señor, Yo me hallo en este lugar con las galeras de Cerdeña, a",
+              "quote_source": "modernizada"
+            },
+            {
+              "event_id": "evt_demandas_telas_madrid",
+              "title": "Demanda de telas mallorquinas en la Corte",
+              "date_iso": "1668-10",
+              "month_key": "1668-10",
+              "theme": "Comercio",
+              "place_key": "mallorca",
+              "place_label": "Mallorca",
+              "primary_letter_id": "1212",
+              "quote": "Señor mío, Mucho [he] extrañado no haber tenido carta de v. m. ni respuesta a",
+              "quote_source": "modernizada"
+            },
+            {
+              "event_id": "evt_envio_perra_miel",
+              "title": "Regalo de caza y miel desde Ibiza",
+              "date_iso": "1668-07-22",
+              "month_key": "1668-07",
+              "theme": "Logística",
+              "place_key": "mallorca",
+              "place_label": "Mallorca",
+              "primary_letter_id": "1171",
+              "quote": "Con el recibo de la de v. m. me he alegrado mucho, infiriendo con ella",
+              "quote_source": "modernizada"
+            }
+          ]
+        },
+        {
+          "type": "top_people",
+          "title": "Personas centrales",
+          "items": [
+            {
+              "name": "Jerónimo Pelegrín de Aragüés",
+              "role_hint": "Figura clave",
+              "count_letters": 40,
+              "count_events_linked": 22,
+              "sample_letter_id": "1136",
+              "quote": "Amigo y señor mío, Los días pasados escribí a v. m. y para que no",
+              "quote_source": "modernizada"
+            },
+            {
+              "name": "Diego Matías de Aragüés",
+              "role_hint": "Figura clave",
+              "count_letters": 13,
+              "count_events_linked": 9,
+              "sample_letter_id": "1139",
+              "quote": "y servidor de v. m., Diego Matias de Aragues Señor. Jeronimo Pelegrin de Aragues, mi",
+              "quote_source": "modernizada"
+            },
+            {
+              "name": "Miguel Malo",
+              "role_hint": "Figura clave",
+              "count_letters": 7,
+              "count_events_linked": 5,
+              "sample_letter_id": "1137",
+              "quote": "Señor Jeronimo Pelegrin de Aragues (también vi la carta de señor d. Juan Francisco Pueyo).",
+              "quote_source": "modernizada"
+            },
+            {
+              "name": "Pablo Corbella",
+              "role_hint": "Figura clave",
+              "count_letters": 4,
+              "count_events_linked": 4,
+              "sample_letter_id": "1138",
+              "quote": "v. m. que su mano besa,Pablo Corbella. Jeronimo Pelegrin de Aragues [2§] Caller 2. 16",
+              "quote_source": "modernizada"
+            },
+            {
+              "name": "Andrés García de Castro",
+              "role_hint": "Figura clave",
+              "count_letters": 3,
+              "count_events_linked": 1,
+              "sample_letter_id": "1136",
+              "quote": "afecto de servidor y amigo,Don Andres Garcia de Castro. Jeronimo Pelegrin de Aragues.",
+              "quote_source": "modernizada"
+            },
+            {
+              "name": "José Balell",
+              "role_hint": "Figura clave",
+              "count_letters": 3,
+              "count_events_linked": 4,
+              "sample_letter_id": "1185",
+              "quote": "Respondo a 4 con que me hallo de v. m.: la una de 12, dos",
+              "quote_source": "modernizada"
+            }
+          ]
+        },
+        {
+          "type": "top_objects",
+          "title": "Tráfico de géneros y regalos",
+          "items": [
+            {
+              "object": "reales",
+              "category": "Economía",
+              "count_letters": 15,
+              "sample_letter_id": "1136",
+              "quote": "los ciento noventa y dos reales. V. m. se asegure que no me descuido en",
+              "quote_source": "modernizada"
+            },
+            {
+              "object": "dinero",
+              "category": "Economía",
+              "count_letters": 13,
+              "sample_letter_id": "1139",
+              "quote": "que ad [?] que del dinero que yo tengo de v. m. habrá lo bastante",
+              "quote_source": "modernizada"
+            },
+            {
+              "object": "habito",
+              "category": "Textil",
+              "count_letters": 8,
+              "sample_letter_id": "1137",
+              "quote": "v. m. pone en sus hábitos de esos tejidos de ahí y que v. m.",
+              "quote_source": "modernizada"
+            },
+            {
+              "object": "bergantin",
+              "category": "Regalo",
+              "count_letters": 8,
+              "sample_letter_id": "1138",
+              "quote": "llegado a Oristán con su bergantín y él ha venido aquí por tierra. Ha llegado",
+              "quote_source": "modernizada"
+            },
+            {
+              "object": "tela",
+              "category": "Textil",
+              "count_letters": 4,
+              "sample_letter_id": "1140",
+              "quote": "haga luego esta diligencia con cautela y recato porque no suceda algún enfado; y el",
+              "quote_source": "modernizada"
+            },
+            {
+              "object": "picote",
+              "category": "Textil",
+              "count_letters": 2,
+              "sample_letter_id": "1142",
+              "quote": "cañas y dos palmos de picote de Mallorca de lo mejor que hubiere. El color,",
+              "quote_source": "modernizada"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "letter_reason_map": {
+    "1135": {
+      "normal": {
+        "score": 1,
+        "reasons": [],
+        "quote": "Mi senyor don Pedro m'ha manat us escrigués que vostre fill faci una llista de",
+        "quote_source": "modernizada"
+      },
+      "noticias": {
+        "score": 0,
+        "reasons": [],
+        "quote": null,
+        "quote_source": null
+      },
+      "salud": {
+        "score": 0,
+        "reasons": [],
+        "quote": null,
+        "quote_source": null
+      },
+      "objetos": {
+        "score": 0,
+        "reasons": [],
+        "quote": null,
+        "quote_source": null
+      }
+    },
+    "1136": {
+      "normal": {
+        "score": 1,
+        "reasons": [],
+        "quote": "Amigo y señor mío, Los días pasados escribí a v. m. y para que no",
+        "quote_source": "modernizada"
+      },
+      "noticias": {
+        "score": 5,
+        "reasons": [
+          "Evento: Muerte repentina del Presidente de Castilla"
+        ],
+        "quote": "Amigo y señor mío, Los días pasados escribí a v. m. y para que no",
+        "quote_source": "modernizada"
+      },
+      "salud": {
+        "score": 1,
+        "reasons": [
+          "Término: medico"
+        ],
+        "quote": "ha estado desahuciado de los médicos y con manifiesto peligro de la vida, pero queda",
+        "quote_source": "modernizada"
+      },
+      "objetos": {
+        "score": 1,
+        "reasons": [
+          "Término: reales"
+        ],
+        "quote": "los ciento noventa y dos reales. V. m. se asegure que no me descuido en",
+        "quote_source": "modernizada"
+      }
+    },
+    "1137": {
+      "normal": {
+        "score": 1,
+        "reasons": [],
+        "quote": "Señor Jeronimo Pelegrin de Aragues (también vi la carta de señor d. Juan Francisco Pueyo).",
+        "quote_source": "modernizada"
+      },
+      "noticias": {
+        "score": 9,
+        "reasons": [
+          "Evento: Muerte repentina del Presidente de Castilla",
+          "Término: rey",
+          "Término: reina"
+        ],
+        "quote": "al señor Lorenzo y al virrey y a la señora virreina y a la señora",
+        "quote_source": "modernizada"
+      },
+      "salud": {
+        "score": 0,
+        "reasons": [],
+        "quote": null,
+        "quote_source": null
+      },
+      "objetos": {
+        "score": 1,
+        "reasons": [
+          "Término: habito"
+        ],
+        "quote": "v. m. pone en sus hábitos de esos tejidos de ahí y que v. m.",
+        "quote_source": "modernizada"
+      }
+    },
+    "1138": {
+      "normal": {
+        "score": 1,
+        "reasons": [],
+        "quote": "Amigo y señor mío, El patrón Josep Pujol ha llegado a Oristán con su bergantín",
+        "quote_source": "modernizada"
+      },
+      "noticias": {
+        "score": 1,
+        "reasons": [
+          "Término: corte"
+        ],
+        "quote": "Bauló me dio los dos cortes de vestido. Ahora se me ofrece el haber menester",
+        "quote_source": "modernizada"
+      },
+      "salud": {
+        "score": 0,
+        "reasons": [],
+        "quote": null,
+        "quote_source": null
+      },
+      "objetos": {
+        "score": 6,
+        "reasons": [
+          "Evento: Demanda de tejidos mallorquines en Cerdeña",
+          "Término: bergantin"
+        ],
+        "quote": "llegado a Oristán con su bergantín y él ha venido aquí por tierra. Ha llegado",
+        "quote_source": "modernizada"
+      }
+    },
+    "1139": {
+      "normal": {
+        "score": 1,
+        "reasons": [],
+        "quote": "He recibido las cartas de 15 del pasado y también otra del 17 de Antonio",
+        "quote_source": "modernizada"
+      },
+      "noticias": {
+        "score": 8,
+        "reasons": [
+          "Evento: Ejecución exprés de Josep Mallada",
+          "Término: rey",
+          "Término: virrey"
+        ],
+        "quote": "Pozo cómo Bescansa del señor virrey tiene en su poder el pleito en lo de",
+        "quote_source": "modernizada"
+      },
+      "salud": {
+        "score": 0,
+        "reasons": [],
+        "quote": null,
+        "quote_source": null
+      },
+      "objetos": {
+        "score": 1,
+        "reasons": [
+          "Término: dinero"
+        ],
+        "quote": "que ad [?] que del dinero que yo tengo de v. m. habrá lo bastante",
+        "quote_source": "modernizada"
+      }
+    },
+    "1140": {
+      "normal": {
+        "score": 1,
+        "reasons": [],
+        "quote": "Por Valencia he recibido los pliegos de 15 del pasado y por allí [he] respondido",
+        "quote_source": "modernizada"
+      },
+      "noticias": {
+        "score": 2,
+        "reasons": [
+          "Término: rey",
+          "Término: virrey"
+        ],
+        "quote": "haya aviso de que el virrey responda para la licencia del señor don Pedro, acá",
+        "quote_source": "modernizada"
+      },
+      "salud": {
+        "score": 0,
+        "reasons": [],
+        "quote": null,
+        "quote_source": null
+      },
+      "objetos": {
+        "score": 1,
+        "reasons": [
+          "Término: tela"
+        ],
+        "quote": "haga luego esta diligencia con cautela y recato porque no suceda algún enfado; y el",
+        "quote_source": "modernizada"
+      }
+    },
+    "1141": {
+      "normal": {
+        "score": 1,
+        "reasons": [],
+        "quote": "La carta que v. m. em féu mercè per al senyor Diego Maties jo li",
+        "quote_source": "modernizada"
+      },
+      "noticias": {
+        "score": 0,
+        "reasons": [],
+        "quote": null,
+        "quote_source": null
+      },
+      "salud": {
+        "score": 0,
+        "reasons": [],
+        "quote": null,
+        "quote_source": null
+      },
+      "objetos": {
+        "score": 0,
+        "reasons": [],
+        "quote": null,
+        "quote_source": null
+      }
+    },
+    "1142": {
+      "normal": {
+        "score": 1,
+        "reasons": [],
+        "quote": "Amigo y señor mío, Muchos días ha que me hallo sin cartas de v.m. Pesaríame",
+        "quote_source": "modernizada"
+      },
+      "noticias": {
+        "score": 0,
+        "reasons": [],
+        "quote": null,
+        "quote_source": null
+      },
+      "salud": {
+        "score": 0,
+        "reasons": [],
+        "quote": null,
+        "quote_source": null
+      },
+      "objetos": {
+        "score": 8,
+        "reasons": [
+          "Evento: Demanda de tejidos mallorquines en Cerdeña",
+          "Término: picote",
+          "Término: reales"
+        ],
+        "quote": "cañas y dos palmos de picote de Mallorca de lo mejor que hubiere. El color,",
+        "quote_source": "modernizada"
+      }
+    },
+    "1143": {
+      "normal": {
+        "score": 1,
+        "reasons": [],
+        "quote": "Amigo y señor mío, Con el patrón Josep Pujol tengo escrito a v. m. y",
+        "quote_source": "modernizada"
+      },
+      "noticias": {
+        "score": 0,
+        "reasons": [],
+        "quote": null,
+        "quote_source": null
+      },
+      "salud": {
+        "score": 0,
+        "reasons": [],
+        "quote": null,
+        "quote_source": null
+      },
+      "objetos": {
+        "score": 2,
+        "reasons": [
+          "Término: tela",
+          "Término: escudos"
+        ],
+        "quote": "ciento veinte palmos de una tela conforme la muestra y de la misma calidad que",
+        "quote_source": "modernizada"
+      }
+    },
+    "1144": {
+      "normal": {
+        "score": 1,
+        "reasons": [],
+        "quote": "Amigo y señor mío, Ya me cansó tanta diligencia y no menos me tiene en",
+        "quote_source": "modernizada"
+      },
+      "noticias": {
+        "score": 3,
+        "reasons": [
+          "Término: rey",
+          "Término: virrey",
+          "Término: marques"
+        ],
+        "quote": "poderosos para con el señor virrey, para que me honre con singularidad en su propuesta",
+        "quote_source": "modernizada"
+      },
+      "salud": {
+        "score": 0,
+        "reasons": [],
+        "quote": null,
+        "quote_source": null
+      },
+      "objetos": {
+        "score": 1,
+        "reasons": [
+          "Término: dinero"
+        ],
+        "quote": "dicho señor no le diere dinero por faltarle plata yo se lo remitiré donde avisándome",
+        "quote_source": "modernizada"
+      }
+    },
+    "1145": {
+      "normal": {
+        "score": 1,
+        "reasons": [],
+        "quote": "Tinc entès pels amics de la fragata han posat en Lluch Estarelles en llibertat, i",
+        "quote_source": "modernizada"
+      },
+      "noticias": {
+        "score": 5,
+        "reasons": [
+          "Evento: Prisiones y justicia local en Baleares"
+        ],
+        "quote": "Tinc entès pels amics de la fragata han posat en Lluch Estarelles en llibertat, i",
+        "quote_source": "modernizada"
+      },
+      "salud": {
+        "score": 0,
+        "reasons": [],
+        "quote": null,
+        "quote_source": null
+      },
+      "objetos": {
+        "score": 0,
+        "reasons": [],
+        "quote": null,
+        "quote_source": null
+      }
+    },
+    "1146": {
+      "normal": {
+        "score": 1,
+        "reasons": [],
+        "quote": "Ya que v. m. ha visto letra de Francisco, de mi hijo Francisco, verá la",
+        "quote_source": "modernizada"
+      },
+      "noticias": {
+        "score": 3,
+        "reasons": [
+          "Término: rey",
+          "Término: virrey",
+          "Término: marques"
+        ],
+        "quote": "señores de casa de señor virrey. Servidor de v. m. que sus manos besa, Miguel",
+        "quote_source": "modernizada"
+      },
+      "salud": {
+        "score": 0,
+        "reasons": [],
+        "quote": null,
+        "quote_source": null
+      },
+      "objetos": {
+        "score": 1,
+        "reasons": [
+          "Término: habito"
+        ],
+        "quote": "olvido del tejido para los hábitos. Y con esto Dios guarde a v. m. en",
+        "quote_source": "modernizada"
+      }
+    },
+    "1147": {
+      "normal": {
+        "score": 1,
+        "reasons": [],
+        "quote": "Ya que v. m. ha visto letra de mi hijo Francisco, verá la de mi",
+        "quote_source": "modernizada"
+      },
+      "noticias": {
+        "score": 2,
+        "reasons": [
+          "Término: rey",
+          "Término: virrey"
+        ],
+        "quote": "estarán bien y pues el rey lo hace de buen banda. A la señora, su",
+        "quote_source": "modernizada"
+      },
+      "salud": {
+        "score": 0,
+        "reasons": [],
+        "quote": null,
+        "quote_source": null
+      },
+      "objetos": {
+        "score": 1,
+        "reasons": [
+          "Término: habito"
+        ],
+        "quote": "olvido el tejido para los hábitos; y con esto Dios guarde a v. m. en",
+        "quote_source": "modernizada"
+      }
+    },
+    "1148": {
+      "normal": {
+        "score": 1,
+        "reasons": [],
+        "quote": "{ESP. Dueño y señor mío}, No voldria enfadar a v. m. En la caritat li",
+        "quote_source": "modernizada"
+      },
+      "noticias": {
+        "score": 6,
+        "reasons": [
+          "Evento: Prisiones y justicia local en Baleares",
+          "Término: rey"
+        ],
+        "quote": "12. ningu orde del Señor Visorey; y axi sesta en 13. Manorca fins el die",
+        "quote_source": "literal"
+      },
+      "salud": {
+        "score": 0,
+        "reasons": [],
+        "quote": null,
+        "quote_source": null
+      },
+      "objetos": {
+        "score": 0,
+        "reasons": [],
+        "quote": null,
+        "quote_source": null
+      }
+    },
+    "1149": {
+      "normal": {
+        "score": 1,
+        "reasons": [],
+        "quote": "Señor mío, Holgaré que esta halle a v.m. con mucha salud con toda su casa.",
+        "quote_source": "modernizada"
+      },
+      "noticias": {
+        "score": 7,
+        "reasons": [
+          "Evento: Publicación de las Paces con Francia",
+          "Término: flandes",
+          "Término: borgoña"
+        ],
+        "quote": "plazas que ha ganado en Flandes. Esto es por mayor hasta que se impriman. Suplico",
+        "quote_source": "modernizada"
+      },
+      "salud": {
+        "score": 0,
+        "reasons": [],
+        "quote": null,
+        "quote_source": null
+      },
+      "objetos": {
+        "score": 0,
+        "reasons": [],
+        "quote": null,
+        "quote_source": null
+      }
+    },
+    "1150": {
+      "normal": {
+        "score": 1,
+        "reasons": [],
+        "quote": "Sr. mío, Por mucho que encarezca a v. m. y a todos la mucha salud",
+        "quote_source": "modernizada"
+      },
+      "noticias": {
+        "score": 0,
+        "reasons": [],
+        "quote": null,
+        "quote_source": null
+      },
+      "salud": {
+        "score": 0,
+        "reasons": [],
+        "quote": null,
+        "quote_source": null
+      },
+      "objetos": {
+        "score": 0,
+        "reasons": [],
+        "quote": null,
+        "quote_source": null
+      }
+    },
+    "1151": {
+      "normal": {
+        "score": 1,
+        "reasons": [],
+        "quote": "Ya que v. m. ha visto la letra de mi hijo Francisco verá la de",
+        "quote_source": "modernizada"
+      },
+      "noticias": {
+        "score": 2,
+        "reasons": [
+          "Término: marques",
+          "Término: gobierno"
+        ],
+        "quote": "mis hijos y yo. El marqués de Montana se parte con grandeza para su gobierno",
+        "quote_source": "modernizada"
+      },
+      "salud": {
+        "score": 0,
+        "reasons": [],
+        "quote": null,
+        "quote_source": null
+      },
+      "objetos": {
+        "score": 1,
+        "reasons": [
+          "Término: habito"
+        ],
+        "quote": "olvido el tejido para los hábitos; y con esto Dios guarde a v. m. en",
+        "quote_source": "modernizada"
+      }
+    },
+    "1152": {
+      "normal": {
+        "score": 1,
+        "reasons": [],
+        "quote": "Acabamos de llegar ayer a la tarde a Valencia que encontramos al señor gobernador y",
+        "quote_source": "modernizada"
+      },
+      "noticias": {
+        "score": 5,
+        "reasons": [
+          "Evento: Llegada de los Santacilia a Valencia"
+        ],
+        "quote": "Acabamos de llegar ayer a la tarde a Valencia que encontramos al señor gobernador y",
+        "quote_source": "modernizada"
+      },
+      "salud": {
+        "score": 0,
+        "reasons": [],
+        "quote": null,
+        "quote_source": null
+      },
+      "objetos": {
+        "score": 0,
+        "reasons": [],
+        "quote": null,
+        "quote_source": null
+      }
+    },
+    "1153": {
+      "normal": {
+        "score": 1,
+        "reasons": [],
+        "quote": "He passat setze o devuit dies per mar i terra a esta ciutat i em",
+        "quote_source": "modernizada"
+      },
+      "noticias": {
+        "score": 5,
+        "reasons": [
+          "Evento: Llegada de los Santacilia a Valencia"
+        ],
+        "quote": "He passat setze o devuit dies per mar i terra a esta ciutat i em",
+        "quote_source": "modernizada"
+      },
+      "salud": {
+        "score": 0,
+        "reasons": [],
+        "quote": null,
+        "quote_source": null
+      },
+      "objetos": {
+        "score": 0,
+        "reasons": [],
+        "quote": null,
+        "quote_source": null
+      }
+    },
+    "1154": {
+      "normal": {
+        "score": 1,
+        "reasons": [],
+        "quote": "Señor mío, Por esta sabrá v. m. cómo a 2 del corriente día de la",
+        "quote_source": "modernizada"
+      },
+      "noticias": {
+        "score": 13,
+        "reasons": [
+          "Evento: Publicación de las Paces con Francia",
+          "Evento: Primera salida pública del Rey a Atocha",
+          "Término: rey"
+        ],
+        "quote": "luces y estuvo el pobre rey que se volvía dormido y la gente echándole muchos",
+        "quote_source": "modernizada"
+      },
+      "salud": {
+        "score": 0,
+        "reasons": [],
+        "quote": null,
+        "quote_source": null
+      },
+      "objetos": {
+        "score": 1,
+        "reasons": [
+          "Término: habito"
+        ],
+        "quote": "no se olvide de los hábitos de dña. Ana de Aragues y de Pretona, mi",
+        "quote_source": "modernizada"
+      }
+    },
+    "1155": {
+      "normal": {
+        "score": 1,
+        "reasons": [],
+        "quote": "Estos renglones hago a la ventura porque no sé si v. m. viene con el",
+        "quote_source": "modernizada"
+      },
+      "noticias": {
+        "score": 2,
+        "reasons": [
+          "Término: rey",
+          "Término: reina"
+        ],
+        "quote": "a Madrid de Atocha el rey y reina: fue gran día en este lugar, no",
+        "quote_source": "modernizada"
+      },
+      "salud": {
+        "score": 0,
+        "reasons": [],
+        "quote": null,
+        "quote_source": null
+      },
+      "objetos": {
+        "score": 2,
+        "reasons": [
+          "Término: reales",
+          "Término: dinero"
+        ],
+        "quote": "{CAT. mossèn} Bru los 2000 reales de plata y también hacerlo saber a la Sra.",
+        "quote_source": "modernizada"
+      }
+    },
+    "1156": {
+      "normal": {
+        "score": 1,
+        "reasons": [],
+        "quote": "La ocasión y el portador tan cierto no me excusa de repetir y acordar a",
+        "quote_source": "modernizada"
+      },
+      "noticias": {
+        "score": 5,
+        "reasons": [
+          "Evento: Pleito por las fianzas del capitán Aulí"
+        ],
+        "quote": "La ocasión y el portador tan cierto no me excusa de repetir y acordar a",
+        "quote_source": "modernizada"
+      },
+      "salud": {
+        "score": 1,
+        "reasons": [
+          "Término: junta"
+        ],
+        "quote": "su parte toda diligencia, y juntamente suplicarle al señor d. Pedro amparase mi causa como",
+        "quote_source": "modernizada"
+      },
+      "objetos": {
+        "score": 0,
+        "reasons": [],
+        "quote": null,
+        "quote_source": null
+      }
+    },
+    "1157": {
+      "normal": {
+        "score": 1,
+        "reasons": [],
+        "quote": "Aguardando a v. m. en esta corte en compañía de mi Sr. D. Pedro deseo",
+        "quote_source": "modernizada"
+      },
+      "noticias": {
+        "score": 1,
+        "reasons": [
+          "Término: corte"
+        ],
+        "quote": "a v. m. en esta corte en compañía de mi Sr. D. Pedro deseo escribir",
+        "quote_source": "modernizada"
+      },
+      "salud": {
+        "score": 0,
+        "reasons": [],
+        "quote": null,
+        "quote_source": null
+      },
+      "objetos": {
+        "score": 0,
+        "reasons": [],
+        "quote": null,
+        "quote_source": null
+      }
+    },
+    "1158": {
+      "normal": {
+        "score": 1,
+        "reasons": [],
+        "quote": "Acabo de recibir una carta vuestra, holgándome mucho que sepáis cómo habíamos llegado a Vinaros.",
+        "quote_source": "modernizada"
+      },
+      "noticias": {
+        "score": 6,
+        "reasons": [
+          "Evento: Llegada de los Santacilia a la Corte",
+          "Término: corte"
+        ],
+        "quote": "de julio entramos a esta corte con salud, gracias a Dios, y mi padre mejor",
+        "quote_source": "modernizada"
+      },
+      "salud": {
+        "score": 0,
+        "reasons": [],
+        "quote": null,
+        "quote_source": null
+      },
+      "objetos": {
+        "score": 0,
+        "reasons": [],
+        "quote": null,
+        "quote_source": null
+      }
+    },
+    "1159": {
+      "normal": {
+        "score": 1,
+        "reasons": [],
+        "quote": "Con el señor d. Pedro he recibido la de v. m. y dándome muchas buenas",
+        "quote_source": "modernizada"
+      },
+      "noticias": {
+        "score": 7,
+        "reasons": [
+          "Evento: Llegada de los Santacilia a la Corte",
+          "Término: rey",
+          "Término: virrey"
+        ],
+        "quote": "carta ni licencia del señor virrey el señor don Pedro, el señor vicecanciller no le",
+        "quote_source": "modernizada"
+      },
+      "salud": {
+        "score": 1,
+        "reasons": [
+          "Término: junta"
+        ],
+        "quote": "manos da. Margarita y yo juntamente al señor don Nicolás y que no tenga cuidado",
+        "quote_source": "modernizada"
+      },
+      "objetos": {
+        "score": 0,
+        "reasons": [],
+        "quote": null,
+        "quote_source": null
+      }
+    },
+    "1160": {
+      "normal": {
+        "score": 1,
+        "reasons": [],
+        "quote": "Tiene su tío, muy apacible, corriente y elegante, que siempre está festejando a mi señor",
+        "quote_source": "modernizada"
+      },
+      "noticias": {
+        "score": 0,
+        "reasons": [],
+        "quote": null,
+        "quote_source": null
+      },
+      "salud": {
+        "score": 0,
+        "reasons": [],
+        "quote": null,
+        "quote_source": null
+      },
+      "objetos": {
+        "score": 0,
+        "reasons": [],
+        "quote": null,
+        "quote_source": null
+      }
+    },
+    "1161": {
+      "normal": {
+        "score": 1,
+        "reasons": [],
+        "quote": "Juntas tres cartas suyas acabo de recibir y he me holgado mucho de tener tan",
+        "quote_source": "modernizada"
+      },
+      "noticias": {
+        "score": 8,
+        "reasons": [
+          "Evento: Asesinatos en la nobleza sarda",
+          "Término: rey",
+          "Término: virrey"
+        ],
+        "quote": "me dices remitirá el señor virrey, que importa. Con don Arnau, donador de esta, sabrás",
+        "quote_source": "modernizada"
+      },
+      "salud": {
+        "score": 1,
+        "reasons": [
+          "Término: junta"
+        ],
+        "quote": "Juntas tres cartas suyas acabo de recibir y he me",
+        "quote_source": "modernizada"
+      },
+      "objetos": {
+        "score": 0,
+        "reasons": [],
+        "quote": null,
+        "quote_source": null
+      }
+    },
+    "1162": {
+      "normal": {
+        "score": 1,
+        "reasons": [],
+        "quote": "Hemos llegado a esta corte con tanta felicidad de salud que nunca la podíamos rogar",
+        "quote_source": "modernizada"
+      },
+      "noticias": {
+        "score": 2,
+        "reasons": [
+          "Término: rey",
+          "Término: corte"
+        ],
+        "quote": "Hemos llegado a esta corte con tanta felicidad de salud que nunca la podíamos",
+        "quote_source": "modernizada"
+      },
+      "salud": {
+        "score": 0,
+        "reasons": [],
+        "quote": null,
+        "quote_source": null
+      },
+      "objetos": {
+        "score": 0,
+        "reasons": [],
+        "quote": null,
+        "quote_source": null
+      }
+    },
+    "1163": {
+      "normal": {
+        "score": 1,
+        "reasons": [],
+        "quote": "Senyor Jeroni, El que m'encomanava de n'Esteve Ribas de l'Alqueria, jo li he donada la",
+        "quote_source": "modernizada"
+      },
+      "noticias": {
+        "score": 0,
+        "reasons": [],
+        "quote": null,
+        "quote_source": null
+      },
+      "salud": {
+        "score": 0,
+        "reasons": [],
+        "quote": null,
+        "quote_source": null
+      },
+      "objetos": {
+        "score": 0,
+        "reasons": [],
+        "quote": null,
+        "quote_source": null
+      }
+    },
+    "1164": {
+      "normal": {
+        "score": 1,
+        "reasons": [],
+        "quote": "Por Arnaldo, que se partió por Valencia, tengo remitidas una multitud de cartas conque con",
+        "quote_source": "modernizada"
+      },
+      "noticias": {
+        "score": 1,
+        "reasons": [
+          "Término: marques"
+        ],
+        "quote": "ha sido la muerte del marques de Laconi: en qué forma y lo que se",
+        "quote_source": "modernizada"
+      },
+      "salud": {
+        "score": 0,
+        "reasons": [],
+        "quote": null,
+        "quote_source": null
+      },
+      "objetos": {
+        "score": 0,
+        "reasons": [],
+        "quote": null,
+        "quote_source": null
+      }
+    },
+    "1165": {
+      "normal": {
+        "score": 1,
+        "reasons": [],
+        "quote": "Señor mío, Mucho he sentido que habiendo venido el señor don Pedro Santacilia v. m.",
+        "quote_source": "modernizada"
+      },
+      "noticias": {
+        "score": 9,
+        "reasons": [
+          "Evento: Altercado y destierro de la alta nobleza",
+          "Término: paz",
+          "Término: rey"
+        ],
+        "quote": "no hay: ahora todo es paz, a Dios gracias. Solo el otro día que salió",
+        "quote_source": "modernizada"
+      },
+      "salud": {
+        "score": 0,
+        "reasons": [],
+        "quote": null,
+        "quote_source": null
+      },
+      "objetos": {
+        "score": 0,
+        "reasons": [],
+        "quote": null,
+        "quote_source": null
+      }
+    },
+    "1166": {
+      "normal": {
+        "score": 1,
+        "reasons": [],
+        "quote": "Senyor Jeroni, La de v. m. tinc rebuda i en resposta li dic que fins",
+        "quote_source": "modernizada"
+      },
+      "noticias": {
+        "score": 1,
+        "reasons": [
+          "Término: corte"
+        ],
+        "quote": "e conprades arao 1896 la cortera desiuada en 4. ninguna manera so san troba lo",
+        "quote_source": "literal"
+      },
+      "salud": {
+        "score": 0,
+        "reasons": [],
+        "quote": null,
+        "quote_source": null
+      },
+      "objetos": {
+        "score": 0,
+        "reasons": [],
+        "quote": null,
+        "quote_source": null
+      }
+    },
+    "1167": {
+      "normal": {
+        "score": 1,
+        "reasons": [],
+        "quote": "Senyor meu, Per molta que fou la pressa que jo portava ja havia dies que",
+        "quote_source": "modernizada"
+      },
+      "noticias": {
+        "score": 1,
+        "reasons": [
+          "Término: rey"
+        ],
+        "quote": "que els senyor don Pedro Rey es fora d'eixa terra per a sa mercè Nostre",
+        "quote_source": "modernizada"
+      },
+      "salud": {
+        "score": 0,
+        "reasons": [],
+        "quote": null,
+        "quote_source": null
+      },
+      "objetos": {
+        "score": 1,
+        "reasons": [
+          "Término: bergantin"
+        ],
+        "quote": "entregaren a uns de un bergantin manorqui noSabut 10. mes despres he escrit per via",
+        "quote_source": "literal"
+      }
+    },
+    "1168": {
+      "normal": {
+        "score": 1,
+        "reasons": [],
+        "quote": "Con mucho gusto remito las de v. m. y en ellas me alegro goce de",
+        "quote_source": "modernizada"
+      },
+      "noticias": {
+        "score": 0,
+        "reasons": [],
+        "quote": null,
+        "quote_source": null
+      },
+      "salud": {
+        "score": 0,
+        "reasons": [],
+        "quote": null,
+        "quote_source": null
+      },
+      "objetos": {
+        "score": 0,
+        "reasons": [],
+        "quote": null,
+        "quote_source": null
+      }
+    },
+    "1169": {
+      "normal": {
+        "score": 1,
+        "reasons": [],
+        "quote": "Señor mío, Conozco mi poca suerte en que v. m. no se haya hallado este",
+        "quote_source": "modernizada"
+      },
+      "noticias": {
+        "score": 5,
+        "reasons": [
+          "Evento: Pleito por las fianzas del capitán Aulí"
+        ],
+        "quote": "Señor mío, Conozco mi poca suerte en que v. m. no se haya hallado este",
+        "quote_source": "modernizada"
+      },
+      "salud": {
+        "score": 0,
+        "reasons": [],
+        "quote": null,
+        "quote_source": null
+      },
+      "objetos": {
+        "score": 0,
+        "reasons": [],
+        "quote": null,
+        "quote_source": null
+      }
+    },
+    "1170": {
+      "normal": {
+        "score": 1,
+        "reasons": [],
+        "quote": "Su carta de v. m. del corriente tengo recibida y encontinente remití la carta para",
+        "quote_source": "modernizada"
+      },
+      "noticias": {
+        "score": 0,
+        "reasons": [],
+        "quote": null,
+        "quote_source": null
+      },
+      "salud": {
+        "score": 0,
+        "reasons": [],
+        "quote": null,
+        "quote_source": null
+      },
+      "objetos": {
+        "score": 0,
+        "reasons": [],
+        "quote": null,
+        "quote_source": null
+      }
+    },
+    "1171": {
+      "normal": {
+        "score": 1,
+        "reasons": [],
+        "quote": "Con el recibo de la de v. m. me he alegrado mucho, infiriendo con ella",
+        "quote_source": "modernizada"
+      },
+      "noticias": {
+        "score": 0,
+        "reasons": [],
+        "quote": null,
+        "quote_source": null
+      },
+      "salud": {
+        "score": 0,
+        "reasons": [],
+        "quote": null,
+        "quote_source": null
+      },
+      "objetos": {
+        "score": 8,
+        "reasons": [
+          "Evento: Regalo de caza y miel desde Ibiza",
+          "Término: miel",
+          "Término: libros"
+        ],
+        "quote": "y asimismo una cántara de miel de romero. Yo, acordándome lo mucho que le debo",
+        "quote_source": "modernizada"
+      }
+    },
+    "1172": {
+      "normal": {
+        "score": 1,
+        "reasons": [],
+        "quote": "Señor mío, Recibo su carta de v. m. de 20 del pasado, sintiendo infinito que",
+        "quote_source": "modernizada"
+      },
+      "noticias": {
+        "score": 1,
+        "reasons": [
+          "Término: reina"
+        ],
+        "quote": "sacarme una carta de la reina, Nuestra Señora, para que el receptor me pague esta",
+        "quote_source": "modernizada"
+      },
+      "salud": {
+        "score": 0,
+        "reasons": [],
+        "quote": null,
+        "quote_source": null
+      },
+      "objetos": {
+        "score": 3,
+        "reasons": [
+          "Término: reales",
+          "Término: escudos",
+          "Término: dinero"
+        ],
+        "quote": "los ciento noventa y dos reales era por no haber cobrado el dinero que digo",
+        "quote_source": "modernizada"
+      }
+    },
+    "1173": {
+      "normal": {
+        "score": 1,
+        "reasons": [],
+        "quote": "Los pliegos por Alicante se han recibido y también por Valencia el pliego de 20",
+        "quote_source": "modernizada"
+      },
+      "noticias": {
+        "score": 17,
+        "reasons": [
+          "Evento: Asesinatos en la nobleza sarda",
+          "Evento: Duque de San Germán a Cerdeña",
+          "Término: paz"
+        ],
+        "quote": "tantos [?]. Han nombrado por virrey de Cerdeña a don German, que se partirá de",
+        "quote_source": "modernizada"
+      },
+      "salud": {
+        "score": 6,
+        "reasons": [
+          "Evento: Grave enfermedad de Don Juan",
+          "Término: medico"
+        ],
+        "quote": "de los Pajes. Visítanle sus médicos Alba, Vilar, que son de la Conasa [?] y",
+        "quote_source": "modernizada"
+      },
+      "objetos": {
+        "score": 2,
+        "reasons": [
+          "Término: reales",
+          "Término: dinero"
+        ],
+        "quote": "su dinero que son 327 reales de plata doble (de los 980 que cobre a",
+        "quote_source": "modernizada"
+      }
+    },
+    "1174": {
+      "normal": {
+        "score": 1,
+        "reasons": [],
+        "quote": "Nunca tales novedades es menester ser el primero que las denuncie, que no me he",
+        "quote_source": "modernizada"
+      },
+      "noticias": {
+        "score": 0,
+        "reasons": [],
+        "quote": null,
+        "quote_source": null
+      },
+      "salud": {
+        "score": 10,
+        "reasons": [
+          "Evento: Grave enfermedad de Don Juan",
+          "Término: calentura",
+          "Término: sangre"
+        ],
+        "quote": "nos ha venido abundancia de calentura, con todo el cuerpo tullido de dolor, que lo",
+        "quote_source": "modernizada"
+      },
+      "objetos": {
+        "score": 0,
+        "reasons": [],
+        "quote": null,
+        "quote_source": null
+      }
+    },
+    "1175": {
+      "normal": {
+        "score": 1,
+        "reasons": [],
+        "quote": "Del cielo aguardamos la mejoría del señor d. Juan: Dios lo haga. Con esto aún",
+        "quote_source": "modernizada"
+      },
+      "noticias": {
+        "score": 0,
+        "reasons": [],
+        "quote": null,
+        "quote_source": null
+      },
+      "salud": {
+        "score": 0,
+        "reasons": [],
+        "quote": null,
+        "quote_source": null
+      },
+      "objetos": {
+        "score": 0,
+        "reasons": [],
+        "quote": null,
+        "quote_source": null
+      }
+    },
+    "1176": {
+      "normal": {
+        "score": 1,
+        "reasons": [],
+        "quote": "Don Antoni Mayol i Jeroni Pelegri, Avui dematí {LAT. circa} mitja hora de dia he",
+        "quote_source": "modernizada"
+      },
+      "noticias": {
+        "score": 0,
+        "reasons": [],
+        "quote": null,
+        "quote_source": null
+      },
+      "salud": {
+        "score": 0,
+        "reasons": [],
+        "quote": null,
+        "quote_source": null
+      },
+      "objetos": {
+        "score": 0,
+        "reasons": [],
+        "quote": null,
+        "quote_source": null
+      }
+    },
+    "1177": {
+      "normal": {
+        "score": 1,
+        "reasons": [],
+        "quote": "Recibí su carta de v. m. de 20 del corriente y me huelgo mucho que",
+        "quote_source": "modernizada"
+      },
+      "noticias": {
+        "score": 9,
+        "reasons": [
+          "Evento: Destierro de Don Juan de Austria y refriega naval",
+          "Término: rey",
+          "Término: virrey"
+        ],
+        "quote": "ahí de que mataron al virrey de Cerdeña y ya se parte don Francisco Tuttavilla,",
+        "quote_source": "modernizada"
+      },
+      "salud": {
+        "score": 0,
+        "reasons": [],
+        "quote": null,
+        "quote_source": null
+      },
+      "objetos": {
+        "score": 1,
+        "reasons": [
+          "Término: habito"
+        ],
+        "quote": "m. no indicaba de los hábitos de mi mujer y de Petrona, mi hija. V.",
+        "quote_source": "modernizada"
+      }
+    },
+    "1178": {
+      "normal": {
+        "score": 1,
+        "reasons": [],
+        "quote": "Duermen hasta ahora los negocios y la enfermedad de mi señor don Juan. Ya está",
+        "quote_source": "modernizada"
+      },
+      "noticias": {
+        "score": 0,
+        "reasons": [],
+        "quote": null,
+        "quote_source": null
+      },
+      "salud": {
+        "score": 1,
+        "reasons": [
+          "Término: enfermedad"
+        ],
+        "quote": "ahora los negocios y la enfermedad de mi señor don Juan. Ya está de mejora,",
+        "quote_source": "modernizada"
+      },
+      "objetos": {
+        "score": 0,
+        "reasons": [],
+        "quote": null,
+        "quote_source": null
+      }
+    },
+    "1179": {
+      "normal": {
+        "score": 1,
+        "reasons": [],
+        "quote": "Los pliegos por Barcelona de 13 y doce de este ha recibido el Sr. don",
+        "quote_source": "modernizada"
+      },
+      "noticias": {
+        "score": 0,
+        "reasons": [],
+        "quote": null,
+        "quote_source": null
+      },
+      "salud": {
+        "score": 2,
+        "reasons": [
+          "Término: calentura",
+          "Término: purga"
+        ],
+        "quote": "que está mejorado y sin calentura, que se aguarda refresque el tiempo para purgarle, porque",
+        "quote_source": "modernizada"
+      },
+      "objetos": {
+        "score": 0,
+        "reasons": [],
+        "quote": null,
+        "quote_source": null
+      }
+    },
+    "1180": {
+      "normal": {
+        "score": 1,
+        "reasons": [],
+        "quote": "Con lo que me dices ha llegado una saetía genovesa cargada de {CAT. botada}, y",
+        "quote_source": "modernizada"
+      },
+      "noticias": {
+        "score": 7,
+        "reasons": [
+          "Evento: Represalia contra saetía genovesa",
+          "Término: rey",
+          "Término: virrey"
+        ],
+        "quote": "{CAT. botada}, y que el virrey le había mandado quitar timón y velas. Me ha",
+        "quote_source": "modernizada"
+      },
+      "salud": {
+        "score": 0,
+        "reasons": [],
+        "quote": null,
+        "quote_source": null
+      },
+      "objetos": {
+        "score": 1,
+        "reasons": [
+          "Término: reales"
+        ],
+        "quote": "la satisfacción que mandan sus reales órdenes. Dios te guarde. Madrid y agosto, 25 de",
+        "quote_source": "modernizada"
+      }
+    },
+    "1181": {
+      "normal": {
+        "score": 1,
+        "reasons": [],
+        "quote": "Per Barcelona, via de Balell, he rebut tres plecs i algunes cartes soltes en resposta",
+        "quote_source": "modernizada"
+      },
+      "noticias": {
+        "score": 0,
+        "reasons": [],
+        "quote": null,
+        "quote_source": null
+      },
+      "salud": {
+        "score": 0,
+        "reasons": [],
+        "quote": null,
+        "quote_source": null
+      },
+      "objetos": {
+        "score": 0,
+        "reasons": [],
+        "quote": null,
+        "quote_source": null
+      }
+    },
+    "1182": {
+      "normal": {
+        "score": 1,
+        "reasons": [],
+        "quote": "Amigo y señor, Yo me hallo en este lugar con las galeras de Cerdeña, a",
+        "quote_source": "modernizada"
+      },
+      "noticias": {
+        "score": 4,
+        "reasons": [
+          "Término: rey",
+          "Término: virrey",
+          "Término: galeras"
+        ],
+        "quote": "de haber muerto el señor virrey viendo estaba aquello de nueva data y que se",
+        "quote_source": "modernizada"
+      },
+      "salud": {
+        "score": 0,
+        "reasons": [],
+        "quote": null,
+        "quote_source": null
+      },
+      "objetos": {
+        "score": 6,
+        "reasons": [
+          "Evento: Preparativos para la botadura de un bajel",
+          "Término: bergantin"
+        ],
+        "quote": "hecho aquí, y partiendo un bergantín doy a v. m. esta noticia; y de que",
+        "quote_source": "modernizada"
+      }
+    },
+    "1183": {
+      "normal": {
+        "score": 1,
+        "reasons": [],
+        "quote": "Señor mío, Me he holgado de saber de su salud de v. m. con su",
+        "quote_source": "modernizada"
+      },
+      "noticias": {
+        "score": 8,
+        "reasons": [
+          "Evento: Llegada del embajador de Portugal",
+          "Término: rey",
+          "Término: virrey"
+        ],
+        "quote": "a besar la mano al rey; trae gran lucimiento. De Francia aún no ha venido",
+        "quote_source": "modernizada"
+      },
+      "salud": {
+        "score": 0,
+        "reasons": [],
+        "quote": null,
+        "quote_source": null
+      },
+      "objetos": {
+        "score": 1,
+        "reasons": [
+          "Término: habito"
+        ],
+        "quote": "dice del tejido para los hábitos de dña. Ana y de Petrona. Ya sé que",
+        "quote_source": "modernizada"
+      }
+    },
+    "1184": {
+      "normal": {
+        "score": 1,
+        "reasons": [],
+        "quote": "Recibo la de v. m. con los papeles para la inhibitoria de la sentencia de",
+        "quote_source": "modernizada"
+      },
+      "noticias": {
+        "score": 8,
+        "reasons": [
+          "Evento: Viaje y enfermedad del duque de San Germán",
+          "Término: rey",
+          "Término: virrey"
+        ],
+        "quote": "partió para Cerdeña a ser virey el duque san German. Al señor don Miguel Salva",
+        "quote_source": "modernizada"
+      },
+      "salud": {
+        "score": 2,
+        "reasons": [
+          "Término: purga",
+          "Término: enfermedad"
+        ],
+        "quote": "aguarda refrescar el tiempo para purgarle. Bien apretado ha estado y dado bien en que",
+        "quote_source": "modernizada"
+      },
+      "objetos": {
+        "score": 2,
+        "reasons": [
+          "Término: reales",
+          "Término: dinero"
+        ],
+        "quote": "Su coste ha sido 90 reales de plata. Por Barcelona o por Valencia remitiré este",
+        "quote_source": "modernizada"
+      }
+    },
+    "1185": {
+      "normal": {
+        "score": 1,
+        "reasons": [],
+        "quote": "Respondo a 4 con que me hallo de v. m.: la una de 12, dos",
+        "quote_source": "modernizada"
+      },
+      "noticias": {
+        "score": 5,
+        "reasons": [
+          "Término: paz",
+          "Término: reina",
+          "Término: galeras"
+        ],
+        "quote": "German para pasar con su virreinato de Cerdeña y gracias a Dios según noticia que",
+        "quote_source": "modernizada"
+      },
+      "salud": {
+        "score": 0,
+        "reasons": [],
+        "quote": null,
+        "quote_source": null
+      },
+      "objetos": {
+        "score": 6,
+        "reasons": [
+          "Evento: Preparativos para la botadura de un bajel",
+          "Término: bergantin"
+        ],
+        "quote": "esta noche se va el bergantín. Guarde Nuestro señor a v. m. muchos años y",
+        "quote_source": "modernizada"
+      }
+    },
+    "1186": {
+      "normal": {
+        "score": 1,
+        "reasons": [],
+        "quote": "Muchas veces desde que estamos en Madrid he tenido grandes congojas en la enfermedad de",
+        "quote_source": "modernizada"
+      },
+      "noticias": {
+        "score": 0,
+        "reasons": [],
+        "quote": null,
+        "quote_source": null
+      },
+      "salud": {
+        "score": 6,
+        "reasons": [
+          "Evento: Convalecencia y purgas de don Juan",
+          "Término: enfermedad"
+        ],
+        "quote": "tenido grandes congojas en la enfermedad de mi señor don Juan, de que todo se",
+        "quote_source": "modernizada"
+      },
+      "objetos": {
+        "score": 0,
+        "reasons": [],
+        "quote": null,
+        "quote_source": null
+      }
+    },
+    "1187": {
+      "normal": {
+        "score": 1,
+        "reasons": [],
+        "quote": "De 28 del pasado es la que recibo de v. m. en que me dice",
+        "quote_source": "modernizada"
+      },
+      "noticias": {
+        "score": 1,
+        "reasons": [
+          "Término: corte"
+        ],
+        "quote": "libre de toda desgana. El corte de vestido que trajo el patrón Camps para el",
+        "quote_source": "modernizada"
+      },
+      "salud": {
+        "score": 0,
+        "reasons": [],
+        "quote": null,
+        "quote_source": null
+      },
+      "objetos": {
+        "score": 0,
+        "reasons": [],
+        "quote": null,
+        "quote_source": null
+      }
+    },
+    "1188": {
+      "normal": {
+        "score": 1,
+        "reasons": [],
+        "quote": "En Miquel ha passada una malatia tan rigorosa que em tenia sense gust d'escriure més",
+        "quote_source": "modernizada"
+      },
+      "noticias": {
+        "score": 0,
+        "reasons": [],
+        "quote": null,
+        "quote_source": null
+      },
+      "salud": {
+        "score": 0,
+        "reasons": [],
+        "quote": null,
+        "quote_source": null
+      },
+      "objetos": {
+        "score": 0,
+        "reasons": [],
+        "quote": null,
+        "quote_source": null
+      }
+    },
+    "1189": {
+      "normal": {
+        "score": 1,
+        "reasons": [],
+        "quote": "Recibo la de v. m. de 20 del pasado holgándome goce de muy buena salud",
+        "quote_source": "modernizada"
+      },
+      "noticias": {
+        "score": 0,
+        "reasons": [],
+        "quote": null,
+        "quote_source": null
+      },
+      "salud": {
+        "score": 5,
+        "reasons": [
+          "Evento: Convalecencia y purgas de don Juan"
+        ],
+        "quote": "holgándome goce de muy buena salud y que la tengan todos en su casa y",
+        "quote_source": "modernizada"
+      },
+      "objetos": {
+        "score": 2,
+        "reasons": [
+          "Término: reales",
+          "Término: dinero"
+        ],
+        "quote": "de v. m. sino iii reales de plata, y estos serán menester para el señor",
+        "quote_source": "modernizada"
+      }
+    },
+    "1190": {
+      "normal": {
+        "score": 1,
+        "reasons": [],
+        "quote": "Els advertiments de la carta que s'és feta davant de dona Eleonor i en Nicolau",
+        "quote_source": "modernizada"
+      },
+      "noticias": {
+        "score": 0,
+        "reasons": [],
+        "quote": null,
+        "quote_source": null
+      },
+      "salud": {
+        "score": 0,
+        "reasons": [],
+        "quote": null,
+        "quote_source": null
+      },
+      "objetos": {
+        "score": 0,
+        "reasons": [],
+        "quote": null,
+        "quote_source": null
+      }
+    },
+    "1191": {
+      "normal": {
+        "score": 1,
+        "reasons": [],
+        "quote": "He recibido la de v. m. de 28 del pasado. El Sr. don Juan ha",
+        "quote_source": "modernizada"
+      },
+      "noticias": {
+        "score": 2,
+        "reasons": [
+          "Término: reina",
+          "Término: marques"
+        ],
+        "quote": "que está dama de la reina. No faltaron novedades; v. m. me mande le sirva,",
+        "quote_source": "modernizada"
+      },
+      "salud": {
+        "score": 2,
+        "reasons": [
+          "Término: purga",
+          "Término: medico"
+        ],
+        "quote": "Juan ha sido hoy de purga y le ha ido muy bien con ella: se",
+        "quote_source": "modernizada"
+      },
+      "objetos": {
+        "score": 1,
+        "reasons": [
+          "Término: reales"
+        ],
+        "quote": "entregará a v. m. 122 reales de plata, que con los 153 que ha entregado,",
+        "quote_source": "modernizada"
+      }
+    },
+    "1192": {
+      "normal": {
+        "score": 1,
+        "reasons": [],
+        "quote": "El señor don Pedro está muy bueno, gracias a Dios. Tiene escrito por Valencia esta",
+        "quote_source": "modernizada"
+      },
+      "noticias": {
+        "score": 8,
+        "reasons": [
+          "Evento: Viaje y enfermedad del duque de San Germán",
+          "Término: rey",
+          "Término: virrey"
+        ],
+        "quote": "San German, que va para virrey de Cerdeña, con diez galeras se halla en este",
+        "quote_source": "modernizada"
+      },
+      "salud": {
+        "score": 1,
+        "reasons": [
+          "Término: calentura"
+        ],
+        "quote": "malo en la cama con calentura, dicen no es de cuidado; hasta que esté bueno",
+        "quote_source": "modernizada"
+      },
+      "objetos": {
+        "score": 0,
+        "reasons": [],
+        "quote": null,
+        "quote_source": null
+      }
+    },
+    "1193": {
+      "normal": {
+        "score": 1,
+        "reasons": [],
+        "quote": "Siendo la causa de tanta consideración, no pongo duda que le darán letras de {LAT.",
+        "quote_source": "modernizada"
+      },
+      "noticias": {
+        "score": 0,
+        "reasons": [],
+        "quote": null,
+        "quote_source": null
+      },
+      "salud": {
+        "score": 0,
+        "reasons": [],
+        "quote": null,
+        "quote_source": null
+      },
+      "objetos": {
+        "score": 0,
+        "reasons": [],
+        "quote": null,
+        "quote_source": null
+      }
+    },
+    "1194": {
+      "normal": {
+        "score": 1,
+        "reasons": [],
+        "quote": "He recibido su carta de v. m. de 28 del pasado y me deja muy",
+        "quote_source": "modernizada"
+      },
+      "noticias": {
+        "score": 0,
+        "reasons": [],
+        "quote": null,
+        "quote_source": null
+      },
+      "salud": {
+        "score": 2,
+        "reasons": [
+          "Término: purga",
+          "Término: medico"
+        ],
+        "quote": "y trataban los médicos de purgarle, como lo verá v. m. por los pliegos con",
+        "quote_source": "modernizada"
+      },
+      "objetos": {
+        "score": 1,
+        "reasons": [
+          "Término: tela"
+        ],
+        "quote": "de V.Mo 20. [^??Balisilio de Castelar Ponce??^]21. [^Sr. Gmo Pelegrin de Aragues^] [☞]",
+        "quote_source": "literal"
+      }
+    },
+    "1195": {
+      "normal": {
+        "score": 1,
+        "reasons": [],
+        "quote": "Senyor Jeroni, En esta serà per avisar-lo de la mia salut, com fa prop de",
+        "quote_source": "modernizada"
+      },
+      "noticias": {
+        "score": 0,
+        "reasons": [],
+        "quote": null,
+        "quote_source": null
+      },
+      "salud": {
+        "score": 1,
+        "reasons": [
+          "Término: junta"
+        ],
+        "quote": "servei que ha fet i juntament mon pare que hi ha part de la vida.",
+        "quote_source": "modernizada"
+      },
+      "objetos": {
+        "score": 0,
+        "reasons": [],
+        "quote": null,
+        "quote_source": null
+      }
+    },
+    "1196": {
+      "normal": {
+        "score": 1,
+        "reasons": [],
+        "quote": "Señor mío, A novedad tendrá v. m. el ver carta mía, si bien no lo",
+        "quote_source": "modernizada"
+      },
+      "noticias": {
+        "score": 0,
+        "reasons": [],
+        "quote": null,
+        "quote_source": null
+      },
+      "salud": {
+        "score": 0,
+        "reasons": [],
+        "quote": null,
+        "quote_source": null
+      },
+      "objetos": {
+        "score": 1,
+        "reasons": [
+          "Término: canarios"
+        ],
+        "quote": "buscarme ahí uno o dos canarios que sean razonables, y si no los hubiere estará",
+        "quote_source": "modernizada"
+      }
+    },
+    "1197": {
+      "normal": {
+        "score": 1,
+        "reasons": [],
+        "quote": "Amigo y señor mío, Con todo cuidado como debo tengo escrito al señor d. Nicolás",
+        "quote_source": "modernizada"
+      },
+      "noticias": {
+        "score": 0,
+        "reasons": [],
+        "quote": null,
+        "quote_source": null
+      },
+      "salud": {
+        "score": 0,
+        "reasons": [],
+        "quote": null,
+        "quote_source": null
+      },
+      "objetos": {
+        "score": 1,
+        "reasons": [
+          "Término: bergantin"
+        ],
+        "quote": "maravillado cómo en los dos bergantines que han venido esta semana no haya tenido carta",
+        "quote_source": "modernizada"
+      }
+    },
+    "1198": {
+      "normal": {
+        "score": 1,
+        "reasons": [],
+        "quote": "Señor mío, He recibido su carta de v. m. del pasado 28 y me alegro",
+        "quote_source": "modernizada"
+      },
+      "noticias": {
+        "score": 2,
+        "reasons": [
+          "Término: rey",
+          "Término: virrey"
+        ],
+        "quote": "v. m. que si al virrey se habla una palabra en mi nombre y de",
+        "quote_source": "modernizada"
+      },
+      "salud": {
+        "score": 1,
+        "reasons": [
+          "Término: enfermedad"
+        ],
+        "quote": "ya por acá sabíamos su enfermedad, y cierto que le he estimado a v. m.",
+        "quote_source": "modernizada"
+      },
+      "objetos": {
+        "score": 2,
+        "reasons": [
+          "Término: habito",
+          "Término: dinero"
+        ],
+        "quote": "se recibió el coste del hábito y que me lo remitirá luego. V. m. viva",
+        "quote_source": "modernizada"
+      }
+    },
+    "1199": {
+      "normal": {
+        "score": 1,
+        "reasons": [],
+        "quote": "Ya le han vuelto a purgar al Sr. don Juan y le ha ido bien,",
+        "quote_source": "modernizada"
+      },
+      "noticias": {
+        "score": 2,
+        "reasons": [
+          "Término: rey",
+          "Término: virrey"
+        ],
+        "quote": "lo demás que informe el virrey, sa [?] estos despachos y se remitirán. V. m.",
+        "quote_source": "modernizada"
+      },
+      "salud": {
+        "score": 3,
+        "reasons": [
+          "Término: purga",
+          "Término: medico",
+          "Término: junta"
+        ],
+        "quote": "Ya le han vuelto a purgar al Sr. don Juan y le ha ido bien,",
+        "quote_source": "modernizada"
+      },
+      "objetos": {
+        "score": 1,
+        "reasons": [
+          "Término: reales"
+        ],
+        "quote": "v. m. entregué los 3 reales de plata que esto serán menester ahora, y en",
+        "quote_source": "modernizada"
+      }
+    },
+    "1200": {
+      "normal": {
+        "score": 1,
+        "reasons": [],
+        "quote": "Dues cartes acab de rebre tuas de 2 i 4 d'aquest i la una rompí",
+        "quote_source": "modernizada"
+      },
+      "noticias": {
+        "score": 0,
+        "reasons": [],
+        "quote": null,
+        "quote_source": null
+      },
+      "salud": {
+        "score": 5,
+        "reasons": [
+          "Evento: Enfermedad súbita de Juan Miquel"
+        ],
+        "quote": "Dues cartes acab de rebre tuas de 2 i 4 d'aquest i la una rompí",
+        "quote_source": "modernizada"
+      },
+      "objetos": {
+        "score": 0,
+        "reasons": [],
+        "quote": null,
+        "quote_source": null
+      }
+    },
+    "1201": {
+      "normal": {
+        "score": 1,
+        "reasons": [],
+        "quote": "{ESP. Señor mío,} {ESP. Con} una de v. m. em trobo dels 24 juliol rebuda",
+        "quote_source": "modernizada"
+      },
+      "noticias": {
+        "score": 0,
+        "reasons": [],
+        "quote": null,
+        "quote_source": null
+      },
+      "salud": {
+        "score": 1,
+        "reasons": [
+          "Término: junta"
+        ],
+        "quote": "que s'és embarcat per Espanya juntament amb el senyor don Juan, son fill. No crec",
+        "quote_source": "modernizada"
+      },
+      "objetos": {
+        "score": 0,
+        "reasons": [],
+        "quote": null,
+        "quote_source": null
+      }
+    },
+    "1202": {
+      "normal": {
+        "score": 1,
+        "reasons": [],
+        "quote": "Estos renglones hago algo tarde porque el señor don Juan ha venido de casa del",
+        "quote_source": "modernizada"
+      },
+      "noticias": {
+        "score": 0,
+        "reasons": [],
+        "quote": null,
+        "quote_source": null
+      },
+      "salud": {
+        "score": 3,
+        "reasons": [
+          "Término: calentura",
+          "Término: purga",
+          "Término: remedio"
+        ],
+        "quote": "Está flaco, aunque libre de calenturas, el vientre algo mejorado pero siempre [?] hácesele ahora",
+        "quote_source": "modernizada"
+      },
+      "objetos": {
+        "score": 2,
+        "reasons": [
+          "Término: reales",
+          "Término: dinero"
+        ],
+        "quote": "consejo. Ya mandé los 150 reales y 3 reales que tenía de v. m. Tengo",
+        "quote_source": "modernizada"
+      }
+    },
+    "1203": {
+      "normal": {
+        "score": 1,
+        "reasons": [],
+        "quote": "Amigo y señor, He recibido esta semana dos de v. m. y en cada una",
+        "quote_source": "modernizada"
+      },
+      "noticias": {
+        "score": 8,
+        "reasons": [
+          "Evento: Visita del Príncipe de Toscana a Cataluña",
+          "Término: galeras",
+          "Término: corte"
+        ],
+        "quote": "de Florencia viene con las galeras a ver mundo estaba con s. e. en Arenys",
+        "quote_source": "modernizada"
+      },
+      "salud": {
+        "score": 0,
+        "reasons": [],
+        "quote": null,
+        "quote_source": null
+      },
+      "objetos": {
+        "score": 0,
+        "reasons": [],
+        "quote": null,
+        "quote_source": null
+      }
+    },
+    "1204": {
+      "normal": {
+        "score": 1,
+        "reasons": [],
+        "quote": "Senyor Jeroni Pelegri, Estos dies passats al meu amidador[?] de la volada jo li doní",
+        "quote_source": "modernizada"
+      },
+      "noticias": {
+        "score": 0,
+        "reasons": [],
+        "quote": null,
+        "quote_source": null
+      },
+      "salud": {
+        "score": 0,
+        "reasons": [],
+        "quote": null,
+        "quote_source": null
+      },
+      "objetos": {
+        "score": 0,
+        "reasons": [],
+        "quote": null,
+        "quote_source": null
+      }
+    },
+    "1205": {
+      "normal": {
+        "score": 1,
+        "reasons": [],
+        "quote": "Amigo, Por mucho que diga, no podré explicar la resistencia que hace mi señor don",
+        "quote_source": "modernizada"
+      },
+      "noticias": {
+        "score": 7,
+        "reasons": [
+          "Evento: Audiencia secreta de un soldado con la Reina",
+          "Término: rey",
+          "Término: reina"
+        ],
+        "quote": "pidió audiencia secreta a la reina, que se la concedieron, y habló con su majestad",
+        "quote_source": "modernizada"
+      },
+      "salud": {
+        "score": 3,
+        "reasons": [
+          "Término: medico",
+          "Término: enfermedad",
+          "Término: remedio"
+        ],
+        "quote": "enfermedad y medicina, que los médicos quedan pasmados, pero con todo no hay mucha mejoría,",
+        "quote_source": "modernizada"
+      },
+      "objetos": {
+        "score": 0,
+        "reasons": [],
+        "quote": null,
+        "quote_source": null
+      }
+    },
+    "1206": {
+      "normal": {
+        "score": 1,
+        "reasons": [],
+        "quote": "En acabando de recibir la de v. m. de 12 septiembre tengo la mano sobre",
+        "quote_source": "modernizada"
+      },
+      "noticias": {
+        "score": 0,
+        "reasons": [],
+        "quote": null,
+        "quote_source": null
+      },
+      "salud": {
+        "score": 1,
+        "reasons": [
+          "Término: enfermedad"
+        ],
+        "quote": "ha sido mártir en esta enfermedad de tantos achaques: Dios le dé tan cumplida como",
+        "quote_source": "modernizada"
+      },
+      "objetos": {
+        "score": 0,
+        "reasons": [],
+        "quote": null,
+        "quote_source": null
+      }
+    },
+    "1207": {
+      "normal": {
+        "score": 1,
+        "reasons": [],
+        "quote": "Por Barcelona recibo la de v. m. del 12 del pasado con los dos pliegos",
+        "quote_source": "modernizada"
+      },
+      "noticias": {
+        "score": 5,
+        "reasons": [
+          "Término: rey",
+          "Término: reina",
+          "Término: virrey"
+        ],
+        "quote": "remitirán algunos despachos para el virrey del Sr. don Pedro ya se ha comenzado a",
+        "quote_source": "modernizada"
+      },
+      "salud": {
+        "score": 8,
+        "reasons": [
+          "Evento: Crisis médica de D. Juan por el 'agua de Aspa'",
+          "Término: agua de aspa",
+          "Término: medico"
+        ],
+        "quote": "y hubo junta de tres médicos los mejores de la corte y de mi señor",
+        "quote_source": "modernizada"
+      },
+      "objetos": {
+        "score": 2,
+        "reasons": [
+          "Término: reales",
+          "Término: dinero"
+        ],
+        "quote": "listos lo más de 90 reales de plata el [?] del artillero m [?] no",
+        "quote_source": "modernizada"
+      }
+    },
+    "1208": {
+      "normal": {
+        "score": 1,
+        "reasons": [],
+        "quote": "Amigo y señor, Breve y compendioso llegué de mi jornada, como tengo dado aviso con",
+        "quote_source": "modernizada"
+      },
+      "noticias": {
+        "score": 5,
+        "reasons": [
+          "Evento: Visita del Príncipe de Toscana a Cataluña"
+        ],
+        "quote": "Amigo y señor, Breve y compendioso llegué de mi jornada, como tengo dado aviso con",
+        "quote_source": "modernizada"
+      },
+      "salud": {
+        "score": 1,
+        "reasons": [
+          "Término: junta"
+        ],
+        "quote": "tengo dado aviso con otras. Juntamente remití las cartas con que me le llevé, que",
+        "quote_source": "modernizada"
+      },
+      "objetos": {
+        "score": 0,
+        "reasons": [],
+        "quote": null,
+        "quote_source": null
+      }
+    },
+    "1209": {
+      "normal": {
+        "score": 1,
+        "reasons": [],
+        "quote": "En el pliego de 25 del pasado he recibido la de v. m., holgándome goce",
+        "quote_source": "modernizada"
+      },
+      "noticias": {
+        "score": 8,
+        "reasons": [
+          "Evento: Avance del memorial de D. Pedro en el Consejo",
+          "Término: rey",
+          "Término: virrey"
+        ],
+        "quote": "y por estar sangrado el virrey dos veces no se ha tomado resolución hasta que",
+        "quote_source": "modernizada"
+      },
+      "salud": {
+        "score": 1,
+        "reasons": [
+          "Término: enfermedad"
+        ],
+        "quote": "embaraza este mozo con su enfermedad: Dios se lo perdone y guarde a v. m.",
+        "quote_source": "modernizada"
+      },
+      "objetos": {
+        "score": 2,
+        "reasons": [
+          "Término: reales",
+          "Término: dinero"
+        ],
+        "quote": "la letra de los 2813 reales de plata para la Inquisición: en entregándola sea pagada",
+        "quote_source": "modernizada"
+      }
+    },
+    "1210": {
+      "normal": {
+        "score": 1,
+        "reasons": [],
+        "quote": "Respondo a su carta de su tío de 25 septiembre, recibida por vía de Valencia,",
+        "quote_source": "modernizada"
+      },
+      "noticias": {
+        "score": 0,
+        "reasons": [],
+        "quote": null,
+        "quote_source": null
+      },
+      "salud": {
+        "score": 0,
+        "reasons": [],
+        "quote": null,
+        "quote_source": null
+      },
+      "objetos": {
+        "score": 0,
+        "reasons": [],
+        "quote": null,
+        "quote_source": null
+      }
+    },
+    "1211": {
+      "normal": {
+        "score": 1,
+        "reasons": [],
+        "quote": "Ninguna he tenido para haber de responder. Todas las cartas que hasta ahora han venido",
+        "quote_source": "modernizada"
+      },
+      "noticias": {
+        "score": 0,
+        "reasons": [],
+        "quote": null,
+        "quote_source": null
+      },
+      "salud": {
+        "score": 0,
+        "reasons": [],
+        "quote": null,
+        "quote_source": null
+      },
+      "objetos": {
+        "score": 0,
+        "reasons": [],
+        "quote": null,
+        "quote_source": null
+      }
+    },
+    "1212": {
+      "normal": {
+        "score": 1,
+        "reasons": [],
+        "quote": "Señor mío, Mucho [he] extrañado no haber tenido carta de v. m. ni respuesta a",
+        "quote_source": "modernizada"
+      },
+      "noticias": {
+        "score": 0,
+        "reasons": [],
+        "quote": null,
+        "quote_source": null
+      },
+      "salud": {
+        "score": 0,
+        "reasons": [],
+        "quote": null,
+        "quote_source": null
+      },
+      "objetos": {
+        "score": 6,
+        "reasons": [
+          "Evento: Demanda de telas mallorquinas en la Corte",
+          "Término: picote"
+        ],
+        "quote": "v. m. me enviase el picote del género y color que el pasado y el",
+        "quote_source": "modernizada"
+      }
+    },
+    "1213": {
+      "normal": {
+        "score": 1,
+        "reasons": [],
+        "quote": "Ya se ha comenzado la obra. El consejo ha consultado la futura con que por",
+        "quote_source": "modernizada"
+      },
+      "noticias": {
+        "score": 1,
+        "reasons": [
+          "Término: rey"
+        ],
+        "quote": "hallare y han de ser treynta 19. baras castellanas, y quanto mas antes 20. viniere",
+        "quote_source": "literal"
+      },
+      "salud": {
+        "score": 0,
+        "reasons": [],
+        "quote": null,
+        "quote_source": null
+      },
+      "objetos": {
+        "score": 5,
+        "reasons": [
+          "Evento: Demanda de telas mallorquinas en la Corte"
+        ],
+        "quote": "Ya se ha comenzado la obra. El consejo ha consultado la futura con que por",
+        "quote_source": "modernizada"
+      }
+    },
+    "1214": {
+      "normal": {
+        "score": 1,
+        "reasons": [],
+        "quote": "Por Barcelona tengo escrito a v. m. últimamente y carta para el señor don Juan",
+        "quote_source": "modernizada"
+      },
+      "noticias": {
+        "score": 7,
+        "reasons": [
+          "Evento: Avance del memorial de D. Pedro en el Consejo",
+          "Término: rey",
+          "Término: virrey"
+        ],
+        "quote": "y carta para el señor virrey. Aparte en otras materias el memorial de la pretensión",
+        "quote_source": "modernizada"
+      },
+      "salud": {
+        "score": 6,
+        "reasons": [
+          "Evento: Crisis médica de D. Juan por el 'agua de Aspa'",
+          "Término: agua de aspa"
+        ],
+        "quote": "Por Barcelona tengo escrito a v. m. últimamente y carta para el señor don Juan",
+        "quote_source": "modernizada"
+      },
+      "objetos": {
+        "score": 0,
+        "reasons": [],
+        "quote": null,
+        "quote_source": null
+      }
+    },
+    "1215": {
+      "normal": {
+        "score": 1,
+        "reasons": [],
+        "quote": "Su carta de v. m. de 4 del corriente tengo recibida con las cartas para",
+        "quote_source": "modernizada"
+      },
+      "noticias": {
+        "score": 0,
+        "reasons": [],
+        "quote": null,
+        "quote_source": null
+      },
+      "salud": {
+        "score": 0,
+        "reasons": [],
+        "quote": null,
+        "quote_source": null
+      },
+      "objetos": {
+        "score": 0,
+        "reasons": [],
+        "quote": null,
+        "quote_source": null
+      }
+    },
+    "1216": {
+      "normal": {
+        "score": 1,
+        "reasons": [],
+        "quote": "Jeroni Pelegri, La de v. m. he rebuda, de que em som molt alegrat saber",
+        "quote_source": "modernizada"
+      },
+      "noticias": {
+        "score": 0,
+        "reasons": [],
+        "quote": null,
+        "quote_source": null
+      },
+      "salud": {
+        "score": 1,
+        "reasons": [
+          "Término: junta"
+        ],
+        "quote": "m'ha dit li escrivís i juntament tingui paciència per dites festes: açò és el que",
+        "quote_source": "modernizada"
+      },
+      "objetos": {
+        "score": 1,
+        "reasons": [
+          "Término: tossino"
+        ],
+        "quote": "li escrivís que té un tossino que engreixa que per les festes de Nadal el",
+        "quote_source": "modernizada"
+      }
+    },
+    "1217": {
+      "normal": {
+        "score": 1,
+        "reasons": [],
+        "quote": "Señor mío, La carta de v. m. de 20 del corriente tengo recibida a 22",
+        "quote_source": "modernizada"
+      },
+      "noticias": {
+        "score": 0,
+        "reasons": [],
+        "quote": null,
+        "quote_source": null
+      },
+      "salud": {
+        "score": 1,
+        "reasons": [
+          "Término: junta"
+        ],
+        "quote": "Madrid al señor don Pedro juntamente con las demás cartas y le di aviso de",
+        "quote_source": "modernizada"
+      },
+      "objetos": {
+        "score": 0,
+        "reasons": [],
+        "quote": null,
+        "quote_source": null
+      }
+    },
+    "1218": {
+      "normal": {
+        "score": 1,
+        "reasons": [],
+        "quote": "Señor, Don Juan se halla en la misma manera. Se hacen todos los remedios humanos",
+        "quote_source": "modernizada"
+      },
+      "noticias": {
+        "score": 0,
+        "reasons": [],
+        "quote": null,
+        "quote_source": null
+      },
+      "salud": {
+        "score": 1,
+        "reasons": [
+          "Término: remedio"
+        ],
+        "quote": "manera. Se hacen todos los remedios humanos y divinos: Dios nos dé suerte. Aunque nuestro",
+        "quote_source": "modernizada"
+      },
+      "objetos": {
+        "score": 0,
+        "reasons": [],
+        "quote": null,
+        "quote_source": null
+      }
+    },
+    "1219": {
+      "normal": {
+        "score": 1,
+        "reasons": [],
+        "quote": "Dos cartas recibo a un mismo tiempo de v. m. de 9 y 20 del",
+        "quote_source": "modernizada"
+      },
+      "noticias": {
+        "score": 0,
+        "reasons": [],
+        "quote": null,
+        "quote_source": null
+      },
+      "salud": {
+        "score": 1,
+        "reasons": [
+          "Término: calentura"
+        ],
+        "quote": "bien sin ningún accidente ni calentura. Si se refrena totalmente en el beber, buenas esperanzas",
+        "quote_source": "modernizada"
+      },
+      "objetos": {
+        "score": 0,
+        "reasons": [],
+        "quote": null,
+        "quote_source": null
+      }
+    },
+    "1220": {
+      "normal": {
+        "score": 1,
+        "reasons": [],
+        "quote": "He recibido la de v. m. de 14 de octubre junto con el pliego para",
+        "quote_source": "modernizada"
+      },
+      "noticias": {
+        "score": 20,
+        "reasons": [
+          "Evento: Intento de arresto y fuga de Don Juan de Austria",
+          "Evento: Prisión de Bernardo Patino por revelaciones a la Reina",
+          "Evento: Viaje del Duque de San Germán a Cáller"
+        ],
+        "quote": "de Aragues [1§] como de paz dejando para [?] las tropas que es [?] y",
+        "quote_source": "modernizada"
+      },
+      "salud": {
+        "score": 1,
+        "reasons": [
+          "Término: junta"
+        ],
+        "quote": "pliegos, y así le he juntado la carta y dicho que el tal lío se",
+        "quote_source": "modernizada"
+      },
+      "objetos": {
+        "score": 1,
+        "reasons": [
+          "Término: bergantin"
+        ],
+        "quote": "custodia mío Sr. como el bergantín no se fue ahí va escrito pliego que he",
+        "quote_source": "modernizada"
+      }
+    },
+    "1221": {
+      "normal": {
+        "score": 1,
+        "reasons": [],
+        "quote": "Amigo y señor mío, Esta halle a v. m. con la salud que yo deseo",
+        "quote_source": "modernizada"
+      },
+      "noticias": {
+        "score": 0,
+        "reasons": [],
+        "quote": null,
+        "quote_source": null
+      },
+      "salud": {
+        "score": 0,
+        "reasons": [],
+        "quote": null,
+        "quote_source": null
+      },
+      "objetos": {
+        "score": 0,
+        "reasons": [],
+        "quote": null,
+        "quote_source": null
+      }
+    },
+    "1222": {
+      "normal": {
+        "score": 1,
+        "reasons": [],
+        "quote": "Amigo y señor mío, Desde Arenys de mar escribí a v. m. dándole aviso cómo",
+        "quote_source": "modernizada"
+      },
+      "noticias": {
+        "score": 8,
+        "reasons": [
+          "Evento: Viaje del Duque de San Germán a Cáller",
+          "Término: rey",
+          "Término: virrey"
+        ],
+        "quote": "San German, que va por virrey, a proseguir los negocios del duque, mi señor. Allá",
+        "quote_source": "modernizada"
+      },
+      "salud": {
+        "score": 5,
+        "reasons": [
+          "Evento: Graves tratamientos médicos a Pablo Corbella"
+        ],
+        "quote": "Amigo y señor mío, Desde Arenys de mar escribí a v. m. dándole aviso cómo",
+        "quote_source": "modernizada"
+      },
+      "objetos": {
+        "score": 1,
+        "reasons": [
+          "Término: tela"
+        ],
+        "quote": "el que me envíe la tela de Mallorca para vestido de mujer (caso que no",
+        "quote_source": "modernizada"
+      }
+    },
+    "1223": {
+      "normal": {
+        "score": 1,
+        "reasons": [],
+        "quote": "Nuevas mejores se aguardan de haber tomado los montes donde es nacido el señor don",
+        "quote_source": "modernizada"
+      },
+      "noticias": {
+        "score": 5,
+        "reasons": [
+          "Evento: Intento de arresto y fuga de Don Juan de Austria"
+        ],
+        "quote": "Nuevas mejores se aguardan de haber tomado los montes donde es nacido el señor don",
+        "quote_source": "modernizada"
+      },
+      "salud": {
+        "score": 0,
+        "reasons": [],
+        "quote": null,
+        "quote_source": null
+      },
+      "objetos": {
+        "score": 0,
+        "reasons": [],
+        "quote": null,
+        "quote_source": null
+      }
+    },
+    "1224": {
+      "normal": {
+        "score": 1,
+        "reasons": [],
+        "quote": "Respondo a la carta que he recibido de 24 del pasado. Toda ella la ha",
+        "quote_source": "modernizada"
+      },
+      "noticias": {
+        "score": 3,
+        "reasons": [
+          "Término: rey",
+          "Término: virrey",
+          "Término: justicia"
+        ],
+        "quote": "Respondo a la carta que he recibido de 24 del pasado. Toda ella la ha",
+        "quote_source": "modernizada"
+      },
+      "salud": {
+        "score": 2,
+        "reasons": [
+          "Término: medico",
+          "Término: junta"
+        ],
+        "quote": "evacuando la tripa, que los médicos no han sido para tanto: quiera Dios le cure",
+        "quote_source": "modernizada"
+      },
+      "objetos": {
+        "score": 2,
+        "reasons": [
+          "Término: reales",
+          "Término: dinero"
+        ],
+        "quote": "dinero (por ahora hasta mil reales de plata). V. m. me mande a sobrinas y",
+        "quote_source": "modernizada"
+      }
+    },
+    "1225": {
+      "normal": {
+        "score": 1,
+        "reasons": [],
+        "quote": "Senyor Jeroni Pelegri de Aragues, Con mucho gusto recibo las cartas de v. m. y",
+        "quote_source": "modernizada"
+      },
+      "noticias": {
+        "score": 0,
+        "reasons": [],
+        "quote": null,
+        "quote_source": null
+      },
+      "salud": {
+        "score": 0,
+        "reasons": [],
+        "quote": null,
+        "quote_source": null
+      },
+      "objetos": {
+        "score": 0,
+        "reasons": [],
+        "quote": null,
+        "quote_source": null
+      }
+    },
+    "1226": {
+      "normal": {
+        "score": 1,
+        "reasons": [],
+        "quote": "Amigo, Paciencia por lo corto y mala letra, porque escribo en palacio nuevo. Remito esta",
+        "quote_source": "modernizada"
+      },
+      "noticias": {
+        "score": 0,
+        "reasons": [],
+        "quote": null,
+        "quote_source": null
+      },
+      "salud": {
+        "score": 0,
+        "reasons": [],
+        "quote": null,
+        "quote_source": null
+      },
+      "objetos": {
+        "score": 0,
+        "reasons": [],
+        "quote": null,
+        "quote_source": null
+      }
+    },
+    "1227": {
+      "normal": {
+        "score": 1,
+        "reasons": [],
+        "quote": "Amigo y señor, Son las diez de la noche cuando me avisan que al amanecer",
+        "quote_source": "modernizada"
+      },
+      "noticias": {
+        "score": 1,
+        "reasons": [
+          "Término: corte"
+        ],
+        "quote": "perdone v. m. de mi cortedad pues la puede suplir el cuidado tengo de que",
+        "quote_source": "modernizada"
+      },
+      "salud": {
+        "score": 0,
+        "reasons": [],
+        "quote": null,
+        "quote_source": null
+      },
+      "objetos": {
+        "score": 0,
+        "reasons": [],
+        "quote": null,
+        "quote_source": null
+      }
+    },
+    "1228": {
+      "normal": {
+        "score": 1,
+        "reasons": [],
+        "quote": "Amigo y señor, En este puerto me avisan que esta noche se parte embarcación, con",
+        "quote_source": "modernizada"
+      },
+      "noticias": {
+        "score": 5,
+        "reasons": [
+          "Evento: Intento de arresto y fuga de Don Juan de Austria"
+        ],
+        "quote": "Amigo y señor, En este puerto me avisan que esta noche se parte embarcación, con",
+        "quote_source": "modernizada"
+      },
+      "salud": {
+        "score": 0,
+        "reasons": [],
+        "quote": null,
+        "quote_source": null
+      },
+      "objetos": {
+        "score": 0,
+        "reasons": [],
+        "quote": null,
+        "quote_source": null
+      }
+    },
+    "1229": {
+      "normal": {
+        "score": 1,
+        "reasons": [],
+        "quote": "Amigo y señor mío, Tengo enviado a v. m. el albornoz con el patrón Sebastian",
+        "quote_source": "modernizada"
+      },
+      "noticias": {
+        "score": 1,
+        "reasons": [
+          "Término: rey"
+        ],
+        "quote": "11. pagar por sacarle del Reyno y por ser conocido 12. lo ajuste en esso;",
+        "quote_source": "literal"
+      },
+      "salud": {
+        "score": 0,
+        "reasons": [],
+        "quote": null,
+        "quote_source": null
+      },
+      "objetos": {
+        "score": 3,
+        "reasons": [
+          "Término: albornoz",
+          "Término: reales",
+          "Término: bergantin"
+        ],
+        "quote": "enviado a v. m. el albornoz con el patrón Sebastian Prochet; espero a estas horas",
+        "quote_source": "modernizada"
+      }
+    },
+    "1230": {
+      "normal": {
+        "score": 1,
+        "reasons": [],
+        "quote": ". Jeronim Pelegri, Per haver rebudes cartes mi senyora de la feliç desembarcació a Valencia",
+        "quote_source": "modernizada"
+      },
+      "noticias": {
+        "score": 5,
+        "reasons": [
+          "Evento: Gestiones en la Corte para la alcaldía de Inca"
+        ],
+        "quote": ". Jeronim Pelegri, Per haver rebudes cartes mi senyora de la feliç desembarcació a Valencia",
+        "quote_source": "modernizada"
+      },
+      "salud": {
+        "score": 0,
+        "reasons": [],
+        "quote": null,
+        "quote_source": null
+      },
+      "objetos": {
+        "score": 0,
+        "reasons": [],
+        "quote": null,
+        "quote_source": null
+      }
+    },
+    "1231": {
+      "normal": {
+        "score": 1,
+        "reasons": [],
+        "quote": "Per aquí tots estan en grandíssim {ESP. cuidado} per no tenir ninguna notícia certa de",
+        "quote_source": "modernizada"
+      },
+      "noticias": {
+        "score": 0,
+        "reasons": [],
+        "quote": null,
+        "quote_source": null
+      },
+      "salud": {
+        "score": 0,
+        "reasons": [],
+        "quote": null,
+        "quote_source": null
+      },
+      "objetos": {
+        "score": 0,
+        "reasons": [],
+        "quote": null,
+        "quote_source": null
+      }
+    },
+    "1232": {
+      "normal": {
+        "score": 1,
+        "reasons": [],
+        "quote": "Amb cartes que es reberen el dia de Santa Eulàlia sé que tots v. m.",
+        "quote_source": "modernizada"
+      },
+      "noticias": {
+        "score": 11,
+        "reasons": [
+          "Evento: Asesinato cometido por el escribano Mateu Anglada",
+          "Evento: Gestiones en la Corte para la alcaldía de Inca",
+          "Término: justicia"
+        ],
+        "quote": "per aquí, que en faran justícia. El dr. Canet ja va a missa. No dic",
+        "quote_source": "modernizada"
+      },
+      "salud": {
+        "score": 0,
+        "reasons": [],
+        "quote": null,
+        "quote_source": null
+      },
+      "objetos": {
+        "score": 0,
+        "reasons": [],
+        "quote": null,
+        "quote_source": null
+      }
+    },
+    "1233": {
+      "normal": {
+        "score": 1,
+        "reasons": [],
+        "quote": "Jesús Señor mío, Una de v. m. recibí a los 20 corrientes, de cuya data",
+        "quote_source": "modernizada"
+      },
+      "noticias": {
+        "score": 5,
+        "reasons": [
+          "Evento: Un año de prisión de Juan Cabrer en el Palacio Episcopal"
+        ],
+        "quote": "Jesús Señor mío, Una de v. m. recibí a los 20 corrientes, de cuya data",
+        "quote_source": "modernizada"
+      },
+      "salud": {
+        "score": 0,
+        "reasons": [],
+        "quote": null,
+        "quote_source": null
+      },
+      "objetos": {
+        "score": 0,
+        "reasons": [],
+        "quote": null,
+        "quote_source": null
+      }
+    }
+  }
+}

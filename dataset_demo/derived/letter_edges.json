@@ -1,0 +1,2083 @@
+[
+  {
+    "id_carta": "1135",
+    "date_iso": "1668-05-22",
+    "granularity": "day",
+    "from_person": "Jerónimo Pelegrín de Aragüés",
+    "to_person": "Antoni Company",
+    "from_place_key": "palma",
+    "from_place_label": "Palma",
+    "to_place_key": "sin_especificar",
+    "to_place_label": "Sin Especificar",
+    "is_inferred": true,
+    "confidence_label": "Baja",
+    "themes": [
+      "Solicitud de información"
+    ],
+    "event_ids": [],
+    "images": [
+      "images/001-301aa.jpg",
+      "images/001-301ab.jpg",
+      "images/002-301b.jpg"
+    ],
+    "evidence_quote": "Mi senyor don Pedro m'ha manat us escrigués que vostre fill faci una llista de tots els que tenen abelles..."
+  },
+  {
+    "id_carta": "1136",
+    "date_iso": "1668-05-22",
+    "granularity": "day",
+    "from_person": "Andrés García de Castro",
+    "to_person": "Jerónimo Pelegrín de Aragüés",
+    "from_place_key": "valencia",
+    "from_place_label": "Valencia",
+    "to_place_key": "mallorca",
+    "to_place_label": "Mallorca",
+    "is_inferred": true,
+    "confidence_label": "Media",
+    "themes": [
+      "Económica"
+    ],
+    "event_ids": [
+      "evt_muerte_presidente_castilla"
+    ],
+    "images": [
+      "images/003-302.jpg"
+    ],
+    "evidence_quote": "Amigo y señor mío, Los días pasados escribí a v. m. y para que no se vaya el portador de..."
+  },
+  {
+    "id_carta": "1137",
+    "date_iso": "1668-05-30",
+    "granularity": "day",
+    "from_person": "Miguel Malo",
+    "to_person": "Jerónimo Pelegrín de Aragüés",
+    "from_place_key": "madrid",
+    "from_place_label": "Madrid",
+    "to_place_key": "mallorca",
+    "to_place_label": "Mallorca",
+    "is_inferred": true,
+    "confidence_label": "Media",
+    "themes": [],
+    "event_ids": [
+      "evt_muerte_presidente_castilla"
+    ],
+    "images": [
+      "images/004-303.jpg"
+    ],
+    "evidence_quote": "Señor Jeronimo Pelegrin de Aragues (también vi la carta de señor d. Juan Francisco Pueyo). Señor mío, en su carta..."
+  },
+  {
+    "id_carta": "1138",
+    "date_iso": "1668-06-02",
+    "granularity": "day",
+    "from_person": "Pablo Corbella",
+    "to_person": "Jerónimo Pelegrín de Aragüés",
+    "from_place_key": "caller",
+    "from_place_label": "Càller (Cagliari)",
+    "to_place_key": "mallorca",
+    "to_place_label": "Mallorca",
+    "is_inferred": true,
+    "confidence_label": "Media",
+    "themes": [],
+    "event_ids": [
+      "evt_demandas_picote_caller"
+    ],
+    "images": [
+      "images/005-304a.jpg",
+      "images/006-304b.jpg",
+      "images/007-304c.jpg"
+    ],
+    "evidence_quote": "Amigo y señor mío, El patrón Josep Pujol ha llegado a Oristán con su bergantín y él ha venido aquí..."
+  },
+  {
+    "id_carta": "1139",
+    "date_iso": "1668-06-06",
+    "granularity": "day",
+    "from_person": "Diego Matías de Aragüés",
+    "to_person": "Jerónimo Pelegrín de Aragüés",
+    "from_place_key": "madrid",
+    "from_place_label": "Madrid",
+    "to_place_key": "mallorca",
+    "to_place_label": "Mallorca",
+    "is_inferred": true,
+    "confidence_label": "Media",
+    "themes": [],
+    "event_ids": [
+      "evt_ejecucion_mallada"
+    ],
+    "images": [
+      "images/008-305a.jpg",
+      "images/009-305b.jpg",
+      "images/010-305c.jpg"
+    ],
+    "evidence_quote": "He recibido las cartas de 15 del pasado y también otra del 17 de Antonio con recomendación de don Francisco..."
+  },
+  {
+    "id_carta": "1140",
+    "date_iso": "1668-06-08",
+    "granularity": "day",
+    "from_person": "Diego Matías de Aragüés",
+    "to_person": "Jerónimo Pelegrín de Aragüés",
+    "from_place_key": "madrid",
+    "from_place_label": "Madrid",
+    "to_place_key": "mallorca",
+    "to_place_label": "Mallorca",
+    "is_inferred": true,
+    "confidence_label": "Media",
+    "themes": [
+      "Bélica"
+    ],
+    "event_ids": [],
+    "images": [
+      "images/011-306a.jpg",
+      "images/012-306b.jpg",
+      "images/013-306c.jpg"
+    ],
+    "evidence_quote": "Por Valencia he recibido los pliegos de 15 del pasado y por allí [he] respondido a todo y esta por..."
+  },
+  {
+    "id_carta": "1141",
+    "date_iso": "1668-06-14",
+    "granularity": "day",
+    "from_person": "Francesc Gual i Sunyer",
+    "to_person": "Jerónimo Pelegrín de Aragüés",
+    "from_place_key": "madrid",
+    "from_place_label": "Madrid",
+    "to_place_key": "mallorca",
+    "to_place_label": "Mallorca",
+    "is_inferred": true,
+    "confidence_label": "Media",
+    "themes": [],
+    "event_ids": [],
+    "images": [
+      "images/014-307.jpg"
+    ],
+    "evidence_quote": "La carta que v. m. em féu mercè per al senyor Diego Maties jo li he donada en ses pròpies..."
+  },
+  {
+    "id_carta": "1142",
+    "date_iso": "1668-06-16",
+    "granularity": "day",
+    "from_person": "Manuel de Sarabia Velázquez",
+    "to_person": "Jerónimo Pelegrín de Aragüés",
+    "from_place_key": "caller",
+    "from_place_label": "Càller (Cagliari)",
+    "to_place_key": "mallorca",
+    "to_place_label": "Mallorca",
+    "is_inferred": true,
+    "confidence_label": "Media",
+    "themes": [],
+    "event_ids": [
+      "evt_demandas_picote_caller"
+    ],
+    "images": [
+      "images/015-308a.jpg",
+      "images/016-308b.jpg",
+      "images/017-308c.jpg"
+    ],
+    "evidence_quote": "Amigo y señor mío, Muchos días ha que me hallo sin cartas de v.m. Pesaríame infinito que haya sido falta..."
+  },
+  {
+    "id_carta": "1143",
+    "date_iso": "1668-06-16",
+    "granularity": "day",
+    "from_person": "Pablo Corbella",
+    "to_person": "Jerónimo Pelegrín de Aragüés",
+    "from_place_key": "caller",
+    "from_place_label": "Càller (Cagliari)",
+    "to_place_key": "mallorca",
+    "to_place_label": "Mallorca",
+    "is_inferred": true,
+    "confidence_label": "Media",
+    "themes": [],
+    "event_ids": [],
+    "images": [
+      "images/018-309a.jpg",
+      "images/019-309b.jpg"
+    ],
+    "evidence_quote": "Amigo y señor mío, Con el patrón Josep Pujol tengo escrito a v. m. y pídole se sirva enviarme ciento..."
+  },
+  {
+    "id_carta": "1144",
+    "date_iso": "1668-06-18",
+    "granularity": "day",
+    "from_person": "Fructuoso Giner",
+    "to_person": "Jerónimo Pelegrín de Aragüés",
+    "from_place_key": "ibiza",
+    "from_place_label": "Ibiza",
+    "to_place_key": "mallorca",
+    "to_place_label": "Mallorca",
+    "is_inferred": true,
+    "confidence_label": "Media",
+    "themes": [],
+    "event_ids": [],
+    "images": [
+      "images/020-310a.jpg",
+      "images/021-310b.jpg"
+    ],
+    "evidence_quote": "Amigo y señor mío, Ya me cansó tanta diligencia y no menos me tiene en cuidado el carecer de las..."
+  },
+  {
+    "id_carta": "1145",
+    "date_iso": "1668-06-18",
+    "granularity": "day",
+    "from_person": "Pedro Santacilia y Pax",
+    "to_person": "Jerónimo Pelegrín de Aragüés",
+    "from_place_key": "andratx",
+    "from_place_label": "Andratx",
+    "to_place_key": "mallorca",
+    "to_place_label": "Mallorca",
+    "is_inferred": true,
+    "confidence_label": "Media",
+    "themes": [],
+    "event_ids": [
+      "evt_prisiones_baleares"
+    ],
+    "images": [
+      "images/022-311a.jpg",
+      "images/023-311b.jpg"
+    ],
+    "evidence_quote": "Tinc entès pels amics de la fragata han posat en Lluch Estarelles en llibertat, i que els seus mariners estan..."
+  },
+  {
+    "id_carta": "1146",
+    "date_iso": "1668-06-20",
+    "granularity": "day",
+    "from_person": "Miguel Malo",
+    "to_person": "Jerónimo Pelegrín de Aragüés",
+    "from_place_key": "madrid",
+    "from_place_label": "Madrid",
+    "to_place_key": "mallorca",
+    "to_place_label": "Mallorca",
+    "is_inferred": true,
+    "confidence_label": "Media",
+    "themes": [],
+    "event_ids": [],
+    "images": [
+      "images/024-312.jpg"
+    ],
+    "evidence_quote": "Ya que v. m. ha visto letra de Francisco, de mi hijo Francisco, verá la de mi hijo Silvestre y..."
+  },
+  {
+    "id_carta": "1147",
+    "date_iso": "1668-07-23",
+    "granularity": "day",
+    "from_person": "Miguel Malo",
+    "to_person": "Jerónimo Pelegrín de Aragüés",
+    "from_place_key": "madrid",
+    "from_place_label": "Madrid",
+    "to_place_key": "mallorca",
+    "to_place_label": "Mallorca",
+    "is_inferred": true,
+    "confidence_label": "Media",
+    "themes": [],
+    "event_ids": [],
+    "images": [
+      "images/025-313.jpg"
+    ],
+    "evidence_quote": "Ya que v. m. ha visto letra de mi hijo Francisco, verá la de mi hijo Silvestre y hágame saber..."
+  },
+  {
+    "id_carta": "1148",
+    "date_iso": "1668-06-24",
+    "granularity": "day",
+    "from_person": "Sebastián Garau",
+    "to_person": "Jerónimo Pelegrín de Aragüés",
+    "from_place_key": "palma",
+    "from_place_label": "Palma",
+    "to_place_key": "sin_especificar",
+    "to_place_label": "Sin Especificar",
+    "is_inferred": true,
+    "confidence_label": "Baja",
+    "themes": [],
+    "event_ids": [
+      "evt_prisiones_baleares"
+    ],
+    "images": [
+      "images/026-314a.jpg",
+      "images/027-314b.jpg"
+    ],
+    "evidence_quote": "{ESP. Dueño y señor mío}, No voldria enfadar a v. m. En la caritat li deman per amor de Déu..."
+  },
+  {
+    "id_carta": "1149",
+    "date_iso": "1668-06-28",
+    "granularity": "day",
+    "from_person": "Miguel Malo",
+    "to_person": "Jerónimo Pelegrín de Aragüés",
+    "from_place_key": "madrid",
+    "from_place_label": "Madrid",
+    "to_place_key": "mallorca",
+    "to_place_label": "Mallorca",
+    "is_inferred": true,
+    "confidence_label": "Media",
+    "themes": [],
+    "event_ids": [
+      "evt_paces_francia"
+    ],
+    "images": [
+      "images/028-315.jpg"
+    ],
+    "evidence_quote": "Señor mío, Holgaré que esta halle a v.m. con mucha salud con toda su casa. Yo la tengo, a Dios..."
+  },
+  {
+    "id_carta": "1150",
+    "date_iso": "1668-06-28",
+    "granularity": "day",
+    "from_person": "Arnau de Santacilia",
+    "to_person": "Jerónimo Pelegrín de Aragüés",
+    "from_place_key": "valencia",
+    "from_place_label": "Valencia",
+    "to_place_key": "mallorca",
+    "to_place_label": "Mallorca",
+    "is_inferred": true,
+    "confidence_label": "Media",
+    "themes": [],
+    "event_ids": [],
+    "images": [
+      "images/029-316.jpg"
+    ],
+    "evidence_quote": "Sr. mío, Por mucho que encarezca a v. m. y a todos la mucha salud que gozan estos dos señores..."
+  },
+  {
+    "id_carta": "1151",
+    "date_iso": "1668-06-30",
+    "granularity": "day",
+    "from_person": "Miguel Malo",
+    "to_person": "Jerónimo Pelegrín de Aragüés",
+    "from_place_key": "madrid",
+    "from_place_label": "Madrid",
+    "to_place_key": "mallorca",
+    "to_place_label": "Mallorca",
+    "is_inferred": true,
+    "confidence_label": "Media",
+    "themes": [],
+    "event_ids": [],
+    "images": [
+      "images/030-317.jpg"
+    ],
+    "evidence_quote": "Ya que v. m. ha visto la letra de mi hijo Francisco verá la de mi hijo Silvestre y hágame..."
+  },
+  {
+    "id_carta": "1152",
+    "date_iso": "1668-07-02",
+    "granularity": "day",
+    "from_person": "Gabriel Roger",
+    "to_person": "Jerónimo Pelegrín de Aragüés",
+    "from_place_key": "valencia",
+    "from_place_label": "Valencia",
+    "to_place_key": "mallorca",
+    "to_place_label": "Mallorca",
+    "is_inferred": true,
+    "confidence_label": "Media",
+    "themes": [],
+    "event_ids": [
+      "evt_viaje_santacilia"
+    ],
+    "images": [
+      "images/031-318a.jpg",
+      "images/032-318b.jpg"
+    ],
+    "evidence_quote": "Acabamos de llegar ayer a la tarde a Valencia que encontramos al señor gobernador y el señor d. Josep en..."
+  },
+  {
+    "id_carta": "1153",
+    "date_iso": "1668-07-03",
+    "granularity": "day",
+    "from_person": "Pedro Santacilia y Pax",
+    "to_person": "Jerónimo Pelegrín de Aragüés",
+    "from_place_key": "valencia",
+    "from_place_label": "Valencia",
+    "to_place_key": "mallorca",
+    "to_place_label": "Mallorca",
+    "is_inferred": true,
+    "confidence_label": "Media",
+    "themes": [],
+    "event_ids": [
+      "evt_viaje_santacilia"
+    ],
+    "images": [
+      "images/033-319.jpg"
+    ],
+    "evidence_quote": "He passat setze o devuit dies per mar i terra a esta ciutat i em partesc esta nit per a..."
+  },
+  {
+    "id_carta": "1154",
+    "date_iso": "1668-07-04",
+    "granularity": "day",
+    "from_person": "Miguel Malo",
+    "to_person": "Jerónimo Pelegrín de Aragüés",
+    "from_place_key": "madrid",
+    "from_place_label": "Madrid",
+    "to_place_key": "mallorca",
+    "to_place_label": "Mallorca",
+    "is_inferred": true,
+    "confidence_label": "Media",
+    "themes": [],
+    "event_ids": [
+      "evt_paces_francia",
+      "evt_salida_rey_atocha"
+    ],
+    "images": [
+      "images/034-320a.jpg",
+      "images/035-320b.jpg"
+    ],
+    "evidence_quote": "Señor mío, Por esta sabrá v. m. cómo a 2 del corriente día de la visitación de Santa Isabel salió..."
+  },
+  {
+    "id_carta": "1155",
+    "date_iso": "1668-07-04",
+    "granularity": "day",
+    "from_person": "Diego Matías de Aragüés",
+    "to_person": "Jerónimo Pelegrín de Aragüés",
+    "from_place_key": "madrid",
+    "from_place_label": "Madrid",
+    "to_place_key": "mallorca",
+    "to_place_label": "Mallorca",
+    "is_inferred": true,
+    "confidence_label": "Media",
+    "themes": [],
+    "event_ids": [],
+    "images": [
+      "images/036-321a.jpg",
+      "images/037-321b.jpg"
+    ],
+    "evidence_quote": "Estos renglones hago a la ventura porque no sé si v. m. viene con el Sr. don Pedro. Su señoría..."
+  },
+  {
+    "id_carta": "1156",
+    "date_iso": "1668-07-06",
+    "granularity": "day",
+    "from_person": "María Rendón Sarmiento",
+    "to_person": "Jerónimo Pelegrín de Aragüés",
+    "from_place_key": "cadiz",
+    "from_place_label": "Cádiz",
+    "to_place_key": "mallorca",
+    "to_place_label": "Mallorca",
+    "is_inferred": true,
+    "confidence_label": "Media",
+    "themes": [
+      "Mujer"
+    ],
+    "event_ids": [
+      "evt_deudas_viuda_rendon"
+    ],
+    "images": [
+      "images/038-322.jpg"
+    ],
+    "evidence_quote": "La ocasión y el portador tan cierto no me excusa de repetir y acordar a v. m. lo que por..."
+  },
+  {
+    "id_carta": "1157",
+    "date_iso": "1668-07-10",
+    "granularity": "day",
+    "from_person": "Juan Lañez",
+    "to_person": "Jerónimo Pelegrín de Aragüés",
+    "from_place_key": "sin_especificar",
+    "from_place_label": "Sin especificar",
+    "to_place_key": "sin_especificar",
+    "to_place_label": "Sin Especificar",
+    "is_inferred": true,
+    "confidence_label": "Baja",
+    "themes": [],
+    "event_ids": [],
+    "images": [
+      "images/039-323.jpg"
+    ],
+    "evidence_quote": "Aguardando a v. m. en esta corte en compañía de mi Sr. D. Pedro deseo escribir y solicitar muchas órdenes..."
+  },
+  {
+    "id_carta": "1158",
+    "date_iso": "1668-07-20",
+    "granularity": "day",
+    "from_person": "Juan Miguel de Santacilia y Togores",
+    "to_person": "Jerónimo Pelegrín de Aragüés",
+    "from_place_key": "madrid",
+    "from_place_label": "Madrid",
+    "to_place_key": "mallorca",
+    "to_place_label": "Mallorca",
+    "is_inferred": true,
+    "confidence_label": "Media",
+    "themes": [],
+    "event_ids": [
+      "evt_llegada_santacilia_corte"
+    ],
+    "images": [
+      "images/040-324a.jpg",
+      "images/041-324b.jpg"
+    ],
+    "evidence_quote": "Acabo de recibir una carta vuestra, holgándome mucho que sepáis cómo habíamos llegado a Vinaros. A 11 de julio entramos..."
+  },
+  {
+    "id_carta": "1159",
+    "date_iso": "1668-07-20",
+    "granularity": "day",
+    "from_person": "Diego Matías de Aragüés",
+    "to_person": "Jerónimo Pelegrín de Aragüés",
+    "from_place_key": "madrid",
+    "from_place_label": "Madrid",
+    "to_place_key": "mallorca",
+    "to_place_label": "Mallorca",
+    "is_inferred": true,
+    "confidence_label": "Media",
+    "themes": [],
+    "event_ids": [
+      "evt_llegada_santacilia_corte"
+    ],
+    "images": [
+      "images/042-325a.jpg",
+      "images/043-325b.jpg",
+      "images/044-325ca.jpg",
+      "images/044-325cb.jpg"
+    ],
+    "evidence_quote": "Con el señor d. Pedro he recibido la de v. m. y dándome muchas buenas nuevas de su salud y..."
+  },
+  {
+    "id_carta": "1160",
+    "date_iso": "1668-07-20",
+    "granularity": "day",
+    "from_person": "Gabriel Roger",
+    "to_person": "Jerónimo Pelegrín de Aragüés",
+    "from_place_key": "madrid",
+    "from_place_label": "Madrid",
+    "to_place_key": "mallorca",
+    "to_place_label": "Mallorca",
+    "is_inferred": true,
+    "confidence_label": "Media",
+    "themes": [],
+    "event_ids": [],
+    "images": [
+      "images/045-326a.jpg",
+      "images/046-326bJPG.jpg"
+    ],
+    "evidence_quote": "Tiene su tío, muy apacible, corriente y elegante, que siempre está festejando a mi señor d. Pedro; y su tía,..."
+  },
+  {
+    "id_carta": "1161",
+    "date_iso": "1668-07-21",
+    "granularity": "day",
+    "from_person": "Pedro Santacilia y Pax",
+    "to_person": "Jerónimo Pelegrín de Aragüés",
+    "from_place_key": "madrid",
+    "from_place_label": "Madrid",
+    "to_place_key": "mallorca",
+    "to_place_label": "Mallorca",
+    "is_inferred": true,
+    "confidence_label": "Media",
+    "themes": [],
+    "event_ids": [
+      "evt_asesinatos_cerdena"
+    ],
+    "images": [
+      "images/047-327a.jpg",
+      "images/048-327b.jpg"
+    ],
+    "evidence_quote": "Juntas tres cartas suyas acabo de recibir y he me holgado mucho de tener tan individualmente las nuevas que corren..."
+  },
+  {
+    "id_carta": "1162",
+    "date_iso": "1668-07-21",
+    "granularity": "day",
+    "from_person": "Josep Togores",
+    "to_person": "Jerónimo Pelegrín de Aragüés",
+    "from_place_key": "madrid",
+    "from_place_label": "Madrid",
+    "to_place_key": "mallorca",
+    "to_place_label": "Mallorca",
+    "is_inferred": true,
+    "confidence_label": "Media",
+    "themes": [],
+    "event_ids": [],
+    "images": [
+      "images/049-328a.jpg",
+      "images/050-328b.jpg"
+    ],
+    "evidence_quote": "Hemos llegado a esta corte con tanta felicidad de salud que nunca la podíamos rogar mejor, con que mi señor..."
+  },
+  {
+    "id_carta": "1163",
+    "date_iso": "1668-07-22",
+    "granularity": "day",
+    "from_person": "Juan Grimalt",
+    "to_person": "Jerónimo Pelegrín de Aragüés",
+    "from_place_key": "santa_margalida",
+    "from_place_label": "Santa Margalida",
+    "to_place_key": "mallorca",
+    "to_place_label": "Mallorca",
+    "is_inferred": true,
+    "confidence_label": "Media",
+    "themes": [],
+    "event_ids": [],
+    "images": [
+      "images/051-329a.jpg",
+      "images/051-329b.jpg"
+    ],
+    "evidence_quote": "Senyor Jeroni, El que m'encomanava de n'Esteve Ribas de l'Alqueria, jo li he donada la carta i, a més, jo..."
+  },
+  {
+    "id_carta": "1164",
+    "date_iso": "1668-07-25",
+    "granularity": "day",
+    "from_person": "Pedro Santacilia y Pax",
+    "to_person": "Jerónimo Pelegrín de Aragüés",
+    "from_place_key": "madrid",
+    "from_place_label": "Madrid",
+    "to_place_key": "mallorca",
+    "to_place_label": "Mallorca",
+    "is_inferred": true,
+    "confidence_label": "Media",
+    "themes": [],
+    "event_ids": [],
+    "images": [
+      "images/052-330a.jpg",
+      "images/053-330b.jpg"
+    ],
+    "evidence_quote": "Por Arnaldo, que se partió por Valencia, tengo remitidas una multitud de cartas conque con esta solo digo que procures..."
+  },
+  {
+    "id_carta": "1165",
+    "date_iso": "1668-07-25",
+    "granularity": "day",
+    "from_person": "Miguel Malo",
+    "to_person": "Jerónimo Pelegrín de Aragüés",
+    "from_place_key": "madrid",
+    "from_place_label": "Madrid",
+    "to_place_key": "mallorca",
+    "to_place_label": "Mallorca",
+    "is_inferred": true,
+    "confidence_label": "Media",
+    "themes": [],
+    "event_ids": [
+      "evt_pendencia_nobles_descalzas"
+    ],
+    "images": [
+      "images/054-331a.jpg",
+      "images/055-331b.jpg"
+    ],
+    "evidence_quote": "Señor mío, Mucho he sentido que habiendo venido el señor don Pedro Santacilia v. m. no me haya escrito. Ya..."
+  },
+  {
+    "id_carta": "1166",
+    "date_iso": "1668-07-28",
+    "granularity": "day",
+    "from_person": "Jaume Nadal i Riera",
+    "to_person": "Jerónimo Pelegrín de Aragüés",
+    "from_place_key": "manacor",
+    "from_place_label": "Manacor",
+    "to_place_key": "mallorca",
+    "to_place_label": "Mallorca",
+    "is_inferred": true,
+    "confidence_label": "Media",
+    "themes": [],
+    "event_ids": [],
+    "images": [
+      "images/056-332a.jpg",
+      "images/057-332b.jpg",
+      "images/057-332bb.jpg"
+    ],
+    "evidence_quote": "Senyor Jeroni, La de v. m. tinc rebuda i en resposta li dic que fins ací no he pogut trobar..."
+  },
+  {
+    "id_carta": "1167",
+    "date_iso": "1668-07-28",
+    "granularity": "day",
+    "from_person": "Jaume Francesc",
+    "to_person": "Jerónimo Pelegrín de Aragüés",
+    "from_place_key": "reus",
+    "from_place_label": "Reus",
+    "to_place_key": "mallorca",
+    "to_place_label": "Mallorca",
+    "is_inferred": true,
+    "confidence_label": "Media",
+    "themes": [],
+    "event_ids": [],
+    "images": [
+      "images/058-333a.jpg",
+      "images/059-333b.jpg",
+      "images/060-333c.jpg",
+      "images/061-333d.jpg"
+    ],
+    "evidence_quote": "Senyor meu, Per molta que fou la pressa que jo portava ja havia dies que el senyor comte de Zavella,..."
+  },
+  {
+    "id_carta": "1168",
+    "date_iso": "1668-07-30",
+    "granularity": "day",
+    "from_person": "Luis Viguet",
+    "to_person": "Jerónimo Pelegrín de Aragüés",
+    "from_place_key": "valencia",
+    "from_place_label": "Valencia",
+    "to_place_key": "mallorca",
+    "to_place_label": "Mallorca",
+    "is_inferred": true,
+    "confidence_label": "Media",
+    "themes": [],
+    "event_ids": [],
+    "images": [
+      "images/062-334a.jpg",
+      "images/063-334b.jpg"
+    ],
+    "evidence_quote": "Con mucho gusto remito las de v. m. y en ellas me alegro goce de buena salud; yo la tengo,..."
+  },
+  {
+    "id_carta": "1169",
+    "date_iso": "1668-07-30",
+    "granularity": "day",
+    "from_person": "María Rendón Sarmiento",
+    "to_person": "Jerónimo Pelegrín de Aragüés",
+    "from_place_key": "cadiz",
+    "from_place_label": "Cádiz",
+    "to_place_key": "mallorca",
+    "to_place_label": "Mallorca",
+    "is_inferred": true,
+    "confidence_label": "Media",
+    "themes": [
+      "Mujer"
+    ],
+    "event_ids": [
+      "evt_deudas_viuda_rendon"
+    ],
+    "images": [
+      "images/064-335.jpg"
+    ],
+    "evidence_quote": "Señor mío, Conozco mi poca suerte en que v. m. no se haya hallado este tiempo en Mallorca, pues después..."
+  },
+  {
+    "id_carta": "1170",
+    "date_iso": "1668-07-31",
+    "granularity": "day",
+    "from_person": "Miguel Sancho",
+    "to_person": "Jerónimo Pelegrín de Aragüés",
+    "from_place_key": "alicante",
+    "from_place_label": "Alicante",
+    "to_place_key": "mallorca",
+    "to_place_label": "Mallorca",
+    "is_inferred": true,
+    "confidence_label": "Media",
+    "themes": [],
+    "event_ids": [],
+    "images": [
+      "images/065-336a.jpg",
+      "images/066-336b.jpg"
+    ],
+    "evidence_quote": "Su carta de v. m. del corriente tengo recibida y encontinente remití la carta para Madrid del señor d. Pedro..."
+  },
+  {
+    "id_carta": "1171",
+    "date_iso": "1668-07-22",
+    "granularity": "day",
+    "from_person": "Fructuoso Giner",
+    "to_person": "Jerónimo Pelegrín de Aragüés",
+    "from_place_key": "ibiza",
+    "from_place_label": "Ibiza",
+    "to_place_key": "mallorca",
+    "to_place_label": "Mallorca",
+    "is_inferred": true,
+    "confidence_label": "Media",
+    "themes": [],
+    "event_ids": [
+      "evt_envio_perra_miel"
+    ],
+    "images": [
+      "images/067-337a.jpg",
+      "images/068-337b.jpg",
+      "images/069-337c.jpg"
+    ],
+    "evidence_quote": "Con el recibo de la de v. m. me he alegrado mucho, infiriendo con ella goza v. m. de buena..."
+  },
+  {
+    "id_carta": "1172",
+    "date_iso": "1668-08-01",
+    "granularity": "day",
+    "from_person": "Andrés García de Castro",
+    "to_person": "Jerónimo Pelegrín de Aragüés",
+    "from_place_key": "valencia",
+    "from_place_label": "Valencia",
+    "to_place_key": "mallorca",
+    "to_place_label": "Mallorca",
+    "is_inferred": true,
+    "confidence_label": "Media",
+    "themes": [],
+    "event_ids": [],
+    "images": [
+      "images/070-338a.jpg",
+      "images/071-338b.jpg",
+      "images/072-338c.jpg"
+    ],
+    "evidence_quote": "Señor mío, Recibo su carta de v. m. de 20 del pasado, sintiendo infinito que mi corta fortuna sea causa..."
+  },
+  {
+    "id_carta": "1173",
+    "date_iso": "1668-08-08",
+    "granularity": "day",
+    "from_person": "Diego Matías de Aragüés",
+    "to_person": "Jerónimo Pelegrín de Aragüés",
+    "from_place_key": "madrid",
+    "from_place_label": "Madrid",
+    "to_place_key": "mallorca",
+    "to_place_label": "Mallorca",
+    "is_inferred": true,
+    "confidence_label": "Media",
+    "themes": [],
+    "event_ids": [
+      "evt_asesinatos_cerdena",
+      "evt_enfermedad_juan_santacilia",
+      "evt_san_german_virrey_cerdena"
+    ],
+    "images": [
+      "images/073-339a.jpg",
+      "images/074-339b.jpg"
+    ],
+    "evidence_quote": "Los pliegos por Alicante se han recibido y también por Valencia el pliego de 20 del pasado. Ya habrá llegado..."
+  },
+  {
+    "id_carta": "1174",
+    "date_iso": "1668-08-09",
+    "granularity": "day",
+    "from_person": "Gabriel Roger",
+    "to_person": "Jerónimo Pelegrín de Aragüés",
+    "from_place_key": "madrid",
+    "from_place_label": "Madrid",
+    "to_place_key": "mallorca",
+    "to_place_label": "Mallorca",
+    "is_inferred": true,
+    "confidence_label": "Media",
+    "themes": [],
+    "event_ids": [
+      "evt_enfermedad_juan_santacilia"
+    ],
+    "images": [
+      "images/075-340a.jpg",
+      "images/076-340ba.jpg",
+      "images/076-340bb.jpg"
+    ],
+    "evidence_quote": "Nunca tales novedades es menester ser el primero que las denuncie, que no me he atrevido dar tan malas nuevas..."
+  },
+  {
+    "id_carta": "1175",
+    "date_iso": "1668-08-15",
+    "granularity": "day",
+    "from_person": "Gabriel Roger",
+    "to_person": "Jerónimo Pelegrín de Aragüés",
+    "from_place_key": "madrid",
+    "from_place_label": "Madrid",
+    "to_place_key": "mallorca",
+    "to_place_label": "Mallorca",
+    "is_inferred": true,
+    "confidence_label": "Media",
+    "themes": [],
+    "event_ids": [],
+    "images": [
+      "images/077-341a.jpg",
+      "images/078-341b.jpg"
+    ],
+    "evidence_quote": "Del cielo aguardamos la mejoría del señor d. Juan: Dios lo haga. Con esto aún estamos boca y ojos cerrados,..."
+  },
+  {
+    "id_carta": "1176",
+    "date_iso": "1668-08-18",
+    "granularity": "day",
+    "from_person": "Andreu Corró",
+    "to_person": "Jerónimo Pelegrín de Aragüés",
+    "from_place_key": "pollenca",
+    "from_place_label": "Pollença",
+    "to_place_key": "mallorca",
+    "to_place_label": "Mallorca",
+    "is_inferred": true,
+    "confidence_label": "Media",
+    "themes": [],
+    "event_ids": [],
+    "images": [
+      "images/079-342a.jpg",
+      "images/079-342b.jpg"
+    ],
+    "evidence_quote": "Don Antoni Mayol i Jeroni Pelegri, Avui dematí {LAT. circa} mitja hora de dia he rebuda la de v. m.,..."
+  },
+  {
+    "id_carta": "1177",
+    "date_iso": "1668-08-22",
+    "granularity": "day",
+    "from_person": "Miguel Malo",
+    "to_person": "Jerónimo Pelegrín de Aragüés",
+    "from_place_key": "madrid",
+    "from_place_label": "Madrid",
+    "to_place_key": "mallorca",
+    "to_place_label": "Mallorca",
+    "is_inferred": true,
+    "confidence_label": "Media",
+    "themes": [],
+    "event_ids": [
+      "evt_destierro_juan_austria"
+    ],
+    "images": [
+      "images/081-344.jpg"
+    ],
+    "evidence_quote": "Recibí su carta de v. m. de 20 del corriente y me huelgo mucho que v. m. y esas señoras,..."
+  },
+  {
+    "id_carta": "1178",
+    "date_iso": "1668-08-25",
+    "granularity": "day",
+    "from_person": "Gabriel Roger",
+    "to_person": "Jerónimo Pelegrín de Aragüés",
+    "from_place_key": "madrid",
+    "from_place_label": "Madrid",
+    "to_place_key": "mallorca",
+    "to_place_label": "Mallorca",
+    "is_inferred": true,
+    "confidence_label": "Media",
+    "themes": [],
+    "event_ids": [],
+    "images": [
+      "images/082-345.jpg"
+    ],
+    "evidence_quote": "Duermen hasta ahora los negocios y la enfermedad de mi señor don Juan. Ya está de mejora, que sale de..."
+  },
+  {
+    "id_carta": "1179",
+    "date_iso": "1668-08-25",
+    "granularity": "day",
+    "from_person": "Diego Matías de Aragüés",
+    "to_person": "Jerónimo Pelegrín de Aragüés",
+    "from_place_key": "madrid",
+    "from_place_label": "Madrid",
+    "to_place_key": "mallorca",
+    "to_place_label": "Mallorca",
+    "is_inferred": true,
+    "confidence_label": "Media",
+    "themes": [],
+    "event_ids": [],
+    "images": [
+      "images/083-346a.jpg",
+      "images/084-346b.jpg",
+      "images/085-346c.jpg"
+    ],
+    "evidence_quote": "Los pliegos por Barcelona de 13 y doce de este ha recibido el Sr. don Pedro. Y en ellos la..."
+  },
+  {
+    "id_carta": "1180",
+    "date_iso": "1668-08-25",
+    "granularity": "day",
+    "from_person": "Pedro Santacilia y Pax",
+    "to_person": "Jerónimo Pelegrín de Aragüés",
+    "from_place_key": "madrid",
+    "from_place_label": "Madrid",
+    "to_place_key": "mallorca",
+    "to_place_label": "Mallorca",
+    "is_inferred": true,
+    "confidence_label": "Media",
+    "themes": [],
+    "event_ids": [
+      "evt_saetia_genovesa"
+    ],
+    "images": [
+      "images/086-347a.jpg",
+      "images/087-347b.jpg"
+    ],
+    "evidence_quote": "Con lo que me dices ha llegado una saetía genovesa cargada de {CAT. botada}, y que el virrey le había..."
+  },
+  {
+    "id_carta": "1181",
+    "date_iso": "1668-08-25",
+    "granularity": "day",
+    "from_person": "Pedro Santacilia y Pax",
+    "to_person": "Jerónimo Pelegrín de Aragüés",
+    "from_place_key": "madrid",
+    "from_place_label": "Madrid",
+    "to_place_key": "mallorca",
+    "to_place_label": "Mallorca",
+    "is_inferred": true,
+    "confidence_label": "Media",
+    "themes": [],
+    "event_ids": [],
+    "images": [
+      "images/088-348a.jpg",
+      "images/089-348b.jpg",
+      "images/089-348ba.jpg"
+    ],
+    "evidence_quote": "Per Barcelona, via de Balell, he rebut tres plecs i algunes cartes soltes en resposta totes de les que portava..."
+  },
+  {
+    "id_carta": "1182",
+    "date_iso": "1668-08-27",
+    "granularity": "day",
+    "from_person": "Pablo Corbella",
+    "to_person": "Jerónimo Pelegrín de Aragüés",
+    "from_place_key": "arenys_de_mar",
+    "from_place_label": "Arenys de Mar",
+    "to_place_key": "mallorca",
+    "to_place_label": "Mallorca",
+    "is_inferred": true,
+    "confidence_label": "Media",
+    "themes": [],
+    "event_ids": [
+      "evt_botadura_arenys"
+    ],
+    "images": [
+      "images/090-349a.jpg",
+      "images/091-349b.jpg",
+      "images/092-349c.jpg"
+    ],
+    "evidence_quote": "Amigo y señor, Yo me hallo en este lugar con las galeras de Cerdeña, a donde las ha mandado venir..."
+  },
+  {
+    "id_carta": "1183",
+    "date_iso": "1668-08-29",
+    "granularity": "day",
+    "from_person": "Miguel Malo",
+    "to_person": "Jerónimo Pelegrín de Aragüés",
+    "from_place_key": "madrid",
+    "from_place_label": "Madrid",
+    "to_place_key": "mallorca",
+    "to_place_label": "Mallorca",
+    "is_inferred": true,
+    "confidence_label": "Media",
+    "themes": [],
+    "event_ids": [
+      "evt_embajador_portugal"
+    ],
+    "images": [
+      "images/093-350.jpg"
+    ],
+    "evidence_quote": "Señor mío, Me he holgado de saber de su salud de v. m. con su carta de 13 del corriente..."
+  },
+  {
+    "id_carta": "1184",
+    "date_iso": "1668-08-22",
+    "granularity": "day",
+    "from_person": "Diego Matías de Aragüés",
+    "to_person": "Jerónimo Pelegrín de Aragüés",
+    "from_place_key": "madrid",
+    "from_place_label": "Madrid",
+    "to_place_key": "mallorca",
+    "to_place_label": "Mallorca",
+    "is_inferred": true,
+    "confidence_label": "Media",
+    "themes": [],
+    "event_ids": [
+      "evt_viaje_san_german"
+    ],
+    "images": [
+      "images/094-351a.jpg",
+      "images/095-351b.jpg"
+    ],
+    "evidence_quote": "Recibo la de v. m. con los papeles para la inhibitoria de la sentencia de 7 años, y [?] la..."
+  },
+  {
+    "id_carta": "1185",
+    "date_iso": "1668-08-30",
+    "granularity": "day",
+    "from_person": "José Balell",
+    "to_person": "Jerónimo Pelegrín de Aragüés",
+    "from_place_key": "barcelona",
+    "from_place_label": "Barcelona",
+    "to_place_key": "mallorca",
+    "to_place_label": "Mallorca",
+    "is_inferred": true,
+    "confidence_label": "Media",
+    "themes": [],
+    "event_ids": [
+      "evt_botadura_arenys"
+    ],
+    "images": [
+      "images/096-352a.jpg",
+      "images/097-352b.jpg"
+    ],
+    "evidence_quote": "Respondo a 4 con que me hallo de v. m.: la una de 12, dos de 14, y la otra..."
+  },
+  {
+    "id_carta": "1186",
+    "date_iso": "1668-09-04",
+    "granularity": "day",
+    "from_person": "Gabriel Roger",
+    "to_person": "Jerónimo Pelegrín de Aragüés",
+    "from_place_key": "madrid",
+    "from_place_label": "Madrid",
+    "to_place_key": "mallorca",
+    "to_place_label": "Mallorca",
+    "is_inferred": true,
+    "confidence_label": "Media",
+    "themes": [],
+    "event_ids": [
+      "evt_recuperacion_juan_santacilia"
+    ],
+    "images": [
+      "images/098-353a.jpg",
+      "images/099-353b.jpg"
+    ],
+    "evidence_quote": "Muchas veces desde que estamos en Madrid he tenido grandes congojas en la enfermedad de mi señor don Juan, de..."
+  },
+  {
+    "id_carta": "1187",
+    "date_iso": "1668-09-08",
+    "granularity": "day",
+    "from_person": "Cristobal Madron",
+    "to_person": "Jerónimo Pelegrín de Aragüés",
+    "from_place_key": "valencia",
+    "from_place_label": "Valencia",
+    "to_place_key": "mallorca",
+    "to_place_label": "Mallorca",
+    "is_inferred": true,
+    "confidence_label": "Media",
+    "themes": [],
+    "event_ids": [],
+    "images": [
+      "images/100-354.jpg"
+    ],
+    "evidence_quote": "De 28 del pasado es la que recibo de v. m. en que me dice la poca salud que goza..."
+  },
+  {
+    "id_carta": "1188",
+    "date_iso": "1668-09-08",
+    "granularity": "day",
+    "from_person": "Pedro Santacilia y Pax",
+    "to_person": "Jerónimo Pelegrín de Aragüés",
+    "from_place_key": "madrid",
+    "from_place_label": "Madrid",
+    "to_place_key": "mallorca",
+    "to_place_label": "Mallorca",
+    "is_inferred": true,
+    "confidence_label": "Media",
+    "themes": [],
+    "event_ids": [],
+    "images": [
+      "images/101-355a.jpg",
+      "images/102-355b.jpg"
+    ],
+    "evidence_quote": "En Miquel ha passada una malatia tan rigorosa que em tenia sense gust d'escriure més que una carta a donya..."
+  },
+  {
+    "id_carta": "1189",
+    "date_iso": "1668-09-08",
+    "granularity": "day",
+    "from_person": "Diego Matías de Aragüés",
+    "to_person": "Jerónimo Pelegrín de Aragüés",
+    "from_place_key": "madrid",
+    "from_place_label": "Madrid",
+    "to_place_key": "mallorca",
+    "to_place_label": "Mallorca",
+    "is_inferred": true,
+    "confidence_label": "Media",
+    "themes": [],
+    "event_ids": [
+      "evt_recuperacion_juan_santacilia"
+    ],
+    "images": [
+      "images/103-356aJPG.jpg",
+      "images/104-356b.jpg"
+    ],
+    "evidence_quote": "Recibo la de v. m. de 20 del pasado holgándome goce de muy buena salud y que la tengan todos..."
+  },
+  {
+    "id_carta": "1190",
+    "date_iso": "1668-09-12",
+    "granularity": "day",
+    "from_person": "Pedro Santacilia y Pax",
+    "to_person": "Jerónimo Pelegrín de Aragüés",
+    "from_place_key": "madrid",
+    "from_place_label": "Madrid",
+    "to_place_key": "mallorca",
+    "to_place_label": "Mallorca",
+    "is_inferred": true,
+    "confidence_label": "Media",
+    "themes": [],
+    "event_ids": [
+      "evt_excomunion_cotoner"
+    ],
+    "images": [
+      "images/105-357a.jpg",
+      "images/106-357b.jpg"
+    ],
+    "evidence_quote": "Els advertiments de la carta que s'és feta davant de dona Eleonor i en Nicolau m'han paregut molt bé, i..."
+  },
+  {
+    "id_carta": "1191",
+    "date_iso": "1668-09-12",
+    "granularity": "day",
+    "from_person": "Diego Matías de Aragüés",
+    "to_person": "Jerónimo Pelegrín de Aragüés",
+    "from_place_key": "madrid",
+    "from_place_label": "Madrid",
+    "to_place_key": "mallorca",
+    "to_place_label": "Mallorca",
+    "is_inferred": true,
+    "confidence_label": "Media",
+    "themes": [],
+    "event_ids": [],
+    "images": [
+      "images/107-358a.jpg",
+      "images/108-358b.jpg"
+    ],
+    "evidence_quote": "He recibido la de v. m. de 28 del pasado. El Sr. don Juan ha sido hoy de purga y..."
+  },
+  {
+    "id_carta": "1192",
+    "date_iso": "1668-09-13",
+    "granularity": "day",
+    "from_person": "Miguel Sancho",
+    "to_person": "Jerónimo Pelegrín de Aragüés",
+    "from_place_key": "alicante",
+    "from_place_label": "Alicante",
+    "to_place_key": "mallorca",
+    "to_place_label": "Mallorca",
+    "is_inferred": true,
+    "confidence_label": "Media",
+    "themes": [],
+    "event_ids": [
+      "evt_viaje_san_german"
+    ],
+    "images": [
+      "images/109-359.jpg"
+    ],
+    "evidence_quote": "El señor don Pedro está muy bueno, gracias a Dios. Tiene escrito por Valencia esta solamente para acompañar a la..."
+  },
+  {
+    "id_carta": "1193",
+    "date_iso": "1668-09-14",
+    "granularity": "day",
+    "from_person": "Pedro Santacilia y Pax",
+    "to_person": "Jerónimo Pelegrín de Aragüés",
+    "from_place_key": "madrid",
+    "from_place_label": "Madrid",
+    "to_place_key": "mallorca",
+    "to_place_label": "Mallorca",
+    "is_inferred": true,
+    "confidence_label": "Media",
+    "themes": [],
+    "event_ids": [],
+    "images": [
+      "images/110-360a.jpg",
+      "images/111-360b.jpg"
+    ],
+    "evidence_quote": "Siendo la causa de tanta consideración, no pongo duda que le darán letras de {LAT. videndi et recognoscendi}. Por ser..."
+  },
+  {
+    "id_carta": "1194",
+    "date_iso": "1668-09-14",
+    "granularity": "day",
+    "from_person": "Basilio de Castellví y Ponce",
+    "to_person": "Jerónimo Pelegrín de Aragüés",
+    "from_place_key": "valencia",
+    "from_place_label": "Valencia",
+    "to_place_key": "mallorca",
+    "to_place_label": "Mallorca",
+    "is_inferred": true,
+    "confidence_label": "Media",
+    "themes": [],
+    "event_ids": [],
+    "images": [
+      "images/112-361.jpg"
+    ],
+    "evidence_quote": "He recibido su carta de v. m. de 28 del pasado y me deja muy gustoso saber queda v. m...."
+  },
+  {
+    "id_carta": "1195",
+    "date_iso": "1668-09-14",
+    "granularity": "day",
+    "from_person": "Ramon Alamany",
+    "to_person": "Jerónimo Pelegrín de Aragüés",
+    "from_place_key": "andratx",
+    "from_place_label": "Andratx",
+    "to_place_key": "mallorca",
+    "to_place_label": "Mallorca",
+    "is_inferred": true,
+    "confidence_label": "Media",
+    "themes": [],
+    "event_ids": [],
+    "images": [
+      "images/113-362a.jpg",
+      "images/113-362.jpg"
+    ],
+    "evidence_quote": "Senyor Jeroni, En esta serà per avisar-lo de la mia salut, com fa prop de quatre dies que estic en..."
+  },
+  {
+    "id_carta": "1196",
+    "date_iso": "1668-09-15",
+    "granularity": "day",
+    "from_person": "Pedro Decanedo",
+    "to_person": "Jerónimo Pelegrín de Aragüés",
+    "from_place_key": "valencia",
+    "from_place_label": "Valencia",
+    "to_place_key": "mallorca",
+    "to_place_label": "Mallorca",
+    "is_inferred": true,
+    "confidence_label": "Media",
+    "themes": [],
+    "event_ids": [],
+    "images": [
+      "images/114-363.jpg"
+    ],
+    "evidence_quote": "Señor mío, A novedad tendrá v. m. el ver carta mía, si bien no lo es el tener cuidado yo..."
+  },
+  {
+    "id_carta": "1197",
+    "date_iso": "1668-09-18",
+    "granularity": "day",
+    "from_person": "José Balell",
+    "to_person": "Jerónimo Pelegrín de Aragüés",
+    "from_place_key": "barcelona",
+    "from_place_label": "Barcelona",
+    "to_place_key": "mallorca",
+    "to_place_label": "Mallorca",
+    "is_inferred": true,
+    "confidence_label": "Media",
+    "themes": [],
+    "event_ids": [],
+    "images": [
+      "images/115-364a.jpg",
+      "images/116-364ba.jpg",
+      "images/116-364bb.jpg"
+    ],
+    "evidence_quote": "Amigo y señor mío, Con todo cuidado como debo tengo escrito al señor d. Nicolás y a v. m. y..."
+  },
+  {
+    "id_carta": "1198",
+    "date_iso": "1668-10-19",
+    "granularity": "day",
+    "from_person": "Juan Francisco Pueyo y Clavería",
+    "to_person": "Jerónimo Pelegrín de Aragüés",
+    "from_place_key": "madrid",
+    "from_place_label": "Madrid",
+    "to_place_key": "mallorca",
+    "to_place_label": "Mallorca",
+    "is_inferred": true,
+    "confidence_label": "Media",
+    "themes": [],
+    "event_ids": [],
+    "images": [
+      "images/117-365a.jpg",
+      "images/118-365b.jpg"
+    ],
+    "evidence_quote": "Señor mío, He recibido su carta de v. m. del pasado 28 y me alegro con las buenas que me..."
+  },
+  {
+    "id_carta": "1199",
+    "date_iso": "1668-09-19",
+    "granularity": "day",
+    "from_person": "Diego Matías de Aragüés",
+    "to_person": "Jerónimo Pelegrín de Aragüés",
+    "from_place_key": "madrid",
+    "from_place_label": "Madrid",
+    "to_place_key": "mallorca",
+    "to_place_label": "Mallorca",
+    "is_inferred": true,
+    "confidence_label": "Media",
+    "themes": [],
+    "event_ids": [],
+    "images": [
+      "images/119-366a.jpg",
+      "images/120-366b.jpg",
+      "images/121-366c.jpg"
+    ],
+    "evidence_quote": "Ya le han vuelto a purgar al Sr. don Juan y le ha ido bien, está mejorado, a Dios gracias,..."
+  },
+  {
+    "id_carta": "1200",
+    "date_iso": "1668-08-21",
+    "granularity": "day",
+    "from_person": "Pedro Santacilia y Pax",
+    "to_person": "Jerónimo Pelegrín de Aragüés",
+    "from_place_key": "madrid",
+    "from_place_label": "Madrid",
+    "to_place_key": "mallorca",
+    "to_place_label": "Mallorca",
+    "is_inferred": true,
+    "confidence_label": "Media",
+    "themes": [],
+    "event_ids": [
+      "evt_enfermedad_juan_miquel"
+    ],
+    "images": [
+      "images/122-367a.jpg",
+      "images/123-367b.jpg"
+    ],
+    "evidence_quote": "Dues cartes acab de rebre tuas de 2 i 4 d'aquest i la una rompí en haver-la llegida, a què..."
+  },
+  {
+    "id_carta": "1201",
+    "date_iso": "1668-09-22",
+    "granularity": "day",
+    "from_person": "Gabriel Amengual",
+    "to_person": "Jerónimo Pelegrín de Aragüés",
+    "from_place_key": "roma",
+    "from_place_label": "Roma",
+    "to_place_key": "mallorca",
+    "to_place_label": "Mallorca",
+    "is_inferred": true,
+    "confidence_label": "Media",
+    "themes": [],
+    "event_ids": [],
+    "images": [
+      "images/124-368a.jpg",
+      "images/125-368b.jpg"
+    ],
+    "evidence_quote": "{ESP. Señor mío,} {ESP. Con} una de v. m. em trobo dels 24 juliol rebuda als 17 de setembre i..."
+  },
+  {
+    "id_carta": "1202",
+    "date_iso": "1668-09-26",
+    "granularity": "day",
+    "from_person": "Diego Matías de Aragüés",
+    "to_person": "Jerónimo Pelegrín de Aragüés",
+    "from_place_key": "madrid",
+    "from_place_label": "Madrid",
+    "to_place_key": "mallorca",
+    "to_place_label": "Mallorca",
+    "is_inferred": true,
+    "confidence_label": "Media",
+    "themes": [],
+    "event_ids": [],
+    "images": [
+      "images/126-369a.jpg",
+      "images/127-369b.jpg"
+    ],
+    "evidence_quote": "Estos renglones hago algo tarde porque el señor don Juan ha venido de casa del cardenal de Aragón tarde. Está..."
+  },
+  {
+    "id_carta": "1203",
+    "date_iso": "1668-09-29",
+    "granularity": "day",
+    "from_person": "José Balell",
+    "to_person": "Jerónimo Pelegrín de Aragüés",
+    "from_place_key": "barcelona",
+    "from_place_label": "Barcelona",
+    "to_place_key": "mallorca",
+    "to_place_label": "Mallorca",
+    "is_inferred": true,
+    "confidence_label": "Media",
+    "themes": [],
+    "event_ids": [
+      "evt_visita_principe_toscana"
+    ],
+    "images": [
+      "images/128-370.jpg"
+    ],
+    "evidence_quote": "Amigo y señor, He recibido esta semana dos de v. m. y en cada una pliego para el señor don..."
+  },
+  {
+    "id_carta": "1204",
+    "date_iso": "1668-09-24",
+    "granularity": "day",
+    "from_person": "Pere Joan Font",
+    "to_person": "Jerónimo Pelegrín de Aragüés",
+    "from_place_key": "muro",
+    "from_place_label": "Muro",
+    "to_place_key": "mallorca",
+    "to_place_label": "Mallorca",
+    "is_inferred": true,
+    "confidence_label": "Media",
+    "themes": [],
+    "event_ids": [],
+    "images": [
+      "images/129-371a.jpg",
+      "images/129-371b.jpg"
+    ],
+    "evidence_quote": "Senyor Jeroni Pelegri, Estos dies passats al meu amidador[?] de la volada jo li doní ordre que escurassin un tros..."
+  },
+  {
+    "id_carta": "1205",
+    "date_iso": "1668-10-01",
+    "granularity": "day",
+    "from_person": "Gabriel Roger",
+    "to_person": "Jerónimo Pelegrín de Aragüés",
+    "from_place_key": "madrid",
+    "from_place_label": "Madrid",
+    "to_place_key": "mallorca",
+    "to_place_label": "Mallorca",
+    "is_inferred": true,
+    "confidence_label": "Media",
+    "themes": [],
+    "event_ids": [
+      "evt_audiencia_secreta_soldado"
+    ],
+    "images": [
+      "images/130-372.jpg"
+    ],
+    "evidence_quote": "Amigo, Por mucho que diga, no podré explicar la resistencia que hace mi señor don Juan a la enfermedad y..."
+  },
+  {
+    "id_carta": "1206",
+    "date_iso": "1668-10-06",
+    "granularity": "day",
+    "from_person": "Gabriel Roger",
+    "to_person": "Jerónimo Pelegrín de Aragüés",
+    "from_place_key": "madrid",
+    "from_place_label": "Madrid",
+    "to_place_key": "mallorca",
+    "to_place_label": "Mallorca",
+    "is_inferred": true,
+    "confidence_label": "Media",
+    "themes": [],
+    "event_ids": [],
+    "images": [
+      "images/131-373.jpg"
+    ],
+    "evidence_quote": "En acabando de recibir la de v. m. de 12 septiembre tengo la mano sobre este papel volviendo la buena..."
+  },
+  {
+    "id_carta": "1207",
+    "date_iso": "1668-10-06",
+    "granularity": "day",
+    "from_person": "Diego Matías de Aragüés",
+    "to_person": "Jerónimo Pelegrín de Aragüés",
+    "from_place_key": "madrid",
+    "from_place_label": "Madrid",
+    "to_place_key": "mallorca",
+    "to_place_label": "Mallorca",
+    "is_inferred": true,
+    "confidence_label": "Media",
+    "themes": [],
+    "event_ids": [
+      "evt_crisis_agua_aspa_juan"
+    ],
+    "images": [
+      "images/132-374a.jpg",
+      "images/133-374b.jpg"
+    ],
+    "evidence_quote": "Por Barcelona recibo la de v. m. del 12 del pasado con los dos pliegos que han venido para el..."
+  },
+  {
+    "id_carta": "1208",
+    "date_iso": "1668-10-07",
+    "granularity": "day",
+    "from_person": "José Balell",
+    "to_person": "Jerónimo Pelegrín de Aragüés",
+    "from_place_key": "barcelona",
+    "from_place_label": "Barcelona",
+    "to_place_key": "mallorca",
+    "to_place_label": "Mallorca",
+    "is_inferred": true,
+    "confidence_label": "Media",
+    "themes": [],
+    "event_ids": [
+      "evt_visita_principe_toscana"
+    ],
+    "images": [
+      "images/134-375.jpg"
+    ],
+    "evidence_quote": "Amigo y señor, Breve y compendioso llegué de mi jornada, como tengo dado aviso con otras. Juntamente remití las cartas..."
+  },
+  {
+    "id_carta": "1209",
+    "date_iso": "1668-10-10",
+    "granularity": "day",
+    "from_person": "Diego Matías de Aragüés",
+    "to_person": "Jerónimo Pelegrín de Aragüés",
+    "from_place_key": "madrid",
+    "from_place_label": "Madrid",
+    "to_place_key": "mallorca",
+    "to_place_label": "Mallorca",
+    "is_inferred": true,
+    "confidence_label": "Media",
+    "themes": [],
+    "event_ids": [
+      "evt_memorial_pedro_consejo"
+    ],
+    "images": [
+      "images/135-376.jpg"
+    ],
+    "evidence_quote": "En el pliego de 25 del pasado he recibido la de v. m., holgándome goce de muy buena salud como..."
+  },
+  {
+    "id_carta": "1210",
+    "date_iso": "1668-10-10",
+    "granularity": "day",
+    "from_person": "Gabriel Roger",
+    "to_person": "Jerónimo Pelegrín de Aragüés",
+    "from_place_key": "madrid",
+    "from_place_label": "Madrid",
+    "to_place_key": "mallorca",
+    "to_place_label": "Mallorca",
+    "is_inferred": true,
+    "confidence_label": "Media",
+    "themes": [],
+    "event_ids": [],
+    "images": [
+      "images/136-377a.jpg",
+      "images/137-377b.jpg"
+    ],
+    "evidence_quote": "Respondo a su carta de su tío de 25 septiembre, recibida por vía de Valencia, diciéndole que salud hay, que..."
+  },
+  {
+    "id_carta": "1211",
+    "date_iso": "1668-10-12",
+    "granularity": "day",
+    "from_person": "Miguel Sancho",
+    "to_person": "Jerónimo Pelegrín de Aragüés",
+    "from_place_key": "alicante",
+    "from_place_label": "Alicante",
+    "to_place_key": "mallorca",
+    "to_place_label": "Mallorca",
+    "is_inferred": true,
+    "confidence_label": "Media",
+    "themes": [],
+    "event_ids": [],
+    "images": [
+      "images/138-378a.jpg",
+      "images/139-378b.jpg"
+    ],
+    "evidence_quote": "Ninguna he tenido para haber de responder. Todas las cartas que hasta ahora han venido para Madrid las tengo remitidas..."
+  },
+  {
+    "id_carta": "1212",
+    "date_iso": "1668-10-13",
+    "granularity": "day",
+    "from_person": "José de Cisneros",
+    "to_person": "Jerónimo Pelegrín de Aragüés",
+    "from_place_key": "madrid",
+    "from_place_label": "Madrid",
+    "to_place_key": "mallorca",
+    "to_place_label": "Mallorca",
+    "is_inferred": true,
+    "confidence_label": "Media",
+    "themes": [],
+    "event_ids": [
+      "evt_demandas_telas_madrid"
+    ],
+    "images": [
+      "images/140-379a.jpg",
+      "images/141-379b.jpg"
+    ],
+    "evidence_quote": "Señor mío, Mucho [he] extrañado no haber tenido carta de v. m. ni respuesta a las que le [he] escrito,..."
+  },
+  {
+    "id_carta": "1213",
+    "date_iso": "1668-10-24",
+    "granularity": "day",
+    "from_person": "Diego Matías de Aragüés",
+    "to_person": "Jerónimo Pelegrín de Aragüés",
+    "from_place_key": "madrid",
+    "from_place_label": "Madrid",
+    "to_place_key": "mallorca",
+    "to_place_label": "Mallorca",
+    "is_inferred": true,
+    "confidence_label": "Media",
+    "themes": [],
+    "event_ids": [
+      "evt_demandas_telas_madrid"
+    ],
+    "images": [
+      "images/142-380a.jpg",
+      "images/143-380b.jpg"
+    ],
+    "evidence_quote": "Ya se ha comenzado la obra. El consejo ha consultado la futura con que por toda esta semana subirá el..."
+  },
+  {
+    "id_carta": "1214",
+    "date_iso": "1668-10-17",
+    "granularity": "day",
+    "from_person": "Diego Matías de Aragüés",
+    "to_person": "Jerónimo Pelegrín de Aragüés",
+    "from_place_key": "madrid",
+    "from_place_label": "Madrid",
+    "to_place_key": "mallorca",
+    "to_place_label": "Mallorca",
+    "is_inferred": true,
+    "confidence_label": "Media",
+    "themes": [],
+    "event_ids": [
+      "evt_crisis_agua_aspa_juan",
+      "evt_memorial_pedro_consejo"
+    ],
+    "images": [
+      "images/144-381a.jpg",
+      "images/145-381b.jpg"
+    ],
+    "evidence_quote": "Por Barcelona tengo escrito a v. m. últimamente y carta para el señor don Juan Miguel Sureda y un papel..."
+  },
+  {
+    "id_carta": "1215",
+    "date_iso": "1668-10-18",
+    "granularity": "day",
+    "from_person": "Miguel Sancho",
+    "to_person": "Jerónimo Pelegrín de Aragüés",
+    "from_place_key": "alicante",
+    "from_place_label": "Alicante",
+    "to_place_key": "mallorca",
+    "to_place_label": "Mallorca",
+    "is_inferred": true,
+    "confidence_label": "Media",
+    "themes": [],
+    "event_ids": [],
+    "images": [
+      "images/146-382a.jpg",
+      "images/147-382b.jpg"
+    ],
+    "evidence_quote": "Su carta de v. m. de 4 del corriente tengo recibida con las cartas para el señor don Pedro y..."
+  },
+  {
+    "id_carta": "1216",
+    "date_iso": "1668-10-21",
+    "granularity": "day",
+    "from_person": "Andreu Corró",
+    "to_person": "Jerónimo Pelegrín de Aragüés",
+    "from_place_key": "pollenca",
+    "from_place_label": "Pollença",
+    "to_place_key": "mallorca",
+    "to_place_label": "Mallorca",
+    "is_inferred": true,
+    "confidence_label": "Media",
+    "themes": [],
+    "event_ids": [],
+    "images": [
+      "images/148-383aa.jpg",
+      "images/148-383a.jpg",
+      "images/149-383b.jpg"
+    ],
+    "evidence_quote": "Jeroni Pelegri, La de v. m. he rebuda, de que em som molt alegrat saber noves de sa salut, que..."
+  },
+  {
+    "id_carta": "1217",
+    "date_iso": "1668-10-24",
+    "granularity": "day",
+    "from_person": "Miguel Sancho",
+    "to_person": "Jerónimo Pelegrín de Aragüés",
+    "from_place_key": "alicante",
+    "from_place_label": "Alicante",
+    "to_place_key": "mallorca",
+    "to_place_label": "Mallorca",
+    "is_inferred": true,
+    "confidence_label": "Media",
+    "themes": [],
+    "event_ids": [],
+    "images": [
+      "images/150-384a.jpg",
+      "images/151-384b.jpg"
+    ],
+    "evidence_quote": "Señor mío, La carta de v. m. de 20 del corriente tengo recibida a 22 con las cartas para el..."
+  },
+  {
+    "id_carta": "1218",
+    "date_iso": "1668-10-27",
+    "granularity": "day",
+    "from_person": "Gabriel Roger",
+    "to_person": "Jerónimo Pelegrín de Aragüés",
+    "from_place_key": "madrid",
+    "from_place_label": "Madrid",
+    "to_place_key": "mallorca",
+    "to_place_label": "Mallorca",
+    "is_inferred": true,
+    "confidence_label": "Media",
+    "themes": [],
+    "event_ids": [],
+    "images": [
+      "images/152-385.jpg"
+    ],
+    "evidence_quote": "Señor, Don Juan se halla en la misma manera. Se hacen todos los remedios humanos y divinos: Dios nos dé..."
+  },
+  {
+    "id_carta": "1219",
+    "date_iso": "1668-10-31",
+    "granularity": "day",
+    "from_person": "Diego Matías de Aragüés",
+    "to_person": "Jerónimo Pelegrín de Aragüés",
+    "from_place_key": "madrid",
+    "from_place_label": "Madrid",
+    "to_place_key": "mallorca",
+    "to_place_label": "Mallorca",
+    "is_inferred": true,
+    "confidence_label": "Media",
+    "themes": [],
+    "event_ids": [],
+    "images": [
+      "images/153-386.jpg"
+    ],
+    "evidence_quote": "Dos cartas recibo a un mismo tiempo de v. m. de 9 y 20 del corriente. Huélgome de las buenas..."
+  },
+  {
+    "id_carta": "1220",
+    "date_iso": "1668-10-31",
+    "granularity": "day",
+    "from_person": "José Balell",
+    "to_person": "Jerónimo Pelegrín de Aragüés",
+    "from_place_key": "barcelona",
+    "from_place_label": "Barcelona",
+    "to_place_key": "mallorca",
+    "to_place_label": "Mallorca",
+    "is_inferred": true,
+    "confidence_label": "Media",
+    "themes": [],
+    "event_ids": [
+      "evt_fuga_juan_austria",
+      "evt_prision_bernardo_patino",
+      "evt_viaje_san_german_caller"
+    ],
+    "images": [
+      "images/154-387a.jpg",
+      "images/155-387b.jpg"
+    ],
+    "evidence_quote": "He recibido la de v. m. de 14 de octubre junto con el pliego para el Sr. don Pedro, que..."
+  },
+  {
+    "id_carta": "1221",
+    "date_iso": "1668-11-02",
+    "granularity": "day",
+    "from_person": "Pedro Aiza y Doménech",
+    "to_person": "Jerónimo Pelegrín de Aragüés",
+    "from_place_key": "ibiza",
+    "from_place_label": "Ibiza",
+    "to_place_key": "mallorca",
+    "to_place_label": "Mallorca",
+    "is_inferred": true,
+    "confidence_label": "Media",
+    "themes": [],
+    "event_ids": [],
+    "images": [
+      "images/156-388a.jpg",
+      "images/157-388b.jpg"
+    ],
+    "evidence_quote": "Amigo y señor mío, Esta halle a v. m. con la salud que yo deseo para mí. Yo la tengo,..."
+  },
+  {
+    "id_carta": "1222",
+    "date_iso": "1668-11-03",
+    "granularity": "day",
+    "from_person": "Pablo Corbella",
+    "to_person": "Jerónimo Pelegrín de Aragüés",
+    "from_place_key": "mahon",
+    "from_place_label": "Maó",
+    "to_place_key": "mallorca",
+    "to_place_label": "Mallorca",
+    "is_inferred": true,
+    "confidence_label": "Media",
+    "themes": [],
+    "event_ids": [
+      "evt_viaje_san_german_caller",
+      "evt_sangrias_corbella"
+    ],
+    "images": [
+      "images/158-389a.jpg",
+      "images/159-389b.jpg"
+    ],
+    "evidence_quote": "Amigo y señor mío, Desde Arenys de mar escribí a v. m. dándole aviso cómo me había venido en las..."
+  },
+  {
+    "id_carta": "1223",
+    "date_iso": "1668-11-06",
+    "granularity": "day",
+    "from_person": "Pedro Santacilia y Pax",
+    "to_person": "Jerónimo Pelegrín de Aragüés",
+    "from_place_key": "madrid",
+    "from_place_label": "Madrid",
+    "to_place_key": "mallorca",
+    "to_place_label": "Mallorca",
+    "is_inferred": true,
+    "confidence_label": "Media",
+    "themes": [],
+    "event_ids": [
+      "evt_fuga_juan_austria"
+    ],
+    "images": [
+      "images/160-390a.jpg",
+      "images/161-390b.jpg"
+    ],
+    "evidence_quote": "Nuevas mejores se aguardan de haber tomado los montes donde es nacido el señor don Juan, que fueron a prender..."
+  },
+  {
+    "id_carta": "1224",
+    "date_iso": "1668-11-07",
+    "granularity": "day",
+    "from_person": "Diego Matías de Aragüés",
+    "to_person": "Jerónimo Pelegrín de Aragüés",
+    "from_place_key": "madrid",
+    "from_place_label": "Madrid",
+    "to_place_key": "mallorca",
+    "to_place_label": "Mallorca",
+    "is_inferred": true,
+    "confidence_label": "Media",
+    "themes": [],
+    "event_ids": [],
+    "images": [
+      "images/162-391.jpg"
+    ],
+    "evidence_quote": "Respondo a la carta que he recibido de 24 del pasado. Toda ella la ha visto el señor don Pedro..."
+  },
+  {
+    "id_carta": "1225",
+    "date_iso": "1668-11-08",
+    "granularity": "day",
+    "from_person": "Luis Viguet",
+    "to_person": "Jerónimo Pelegrín de Aragüés",
+    "from_place_key": "valencia",
+    "from_place_label": "Valencia",
+    "to_place_key": "mallorca",
+    "to_place_label": "Mallorca",
+    "is_inferred": true,
+    "confidence_label": "Media",
+    "themes": [],
+    "event_ids": [],
+    "images": [
+      "images/163-392a.jpg"
+    ],
+    "evidence_quote": "Senyor Jeroni Pelegri de Aragues, Con mucho gusto recibo las cartas de v. m. y las remito mis dueños, como..."
+  },
+  {
+    "id_carta": "1226",
+    "date_iso": "1668-11-10",
+    "granularity": "day",
+    "from_person": "José Balell",
+    "to_person": "Jerónimo Pelegrín de Aragüés",
+    "from_place_key": "barcelona",
+    "from_place_label": "Barcelona",
+    "to_place_key": "mallorca",
+    "to_place_label": "Mallorca",
+    "is_inferred": true,
+    "confidence_label": "Media",
+    "themes": [],
+    "event_ids": [],
+    "images": [
+      "images/165-393.jpg"
+    ],
+    "evidence_quote": "Amigo, Paciencia por lo corto y mala letra, porque escribo en palacio nuevo. Remito esta noche la que me incluyó..."
+  },
+  {
+    "id_carta": "1227",
+    "date_iso": "1668-11-19",
+    "granularity": "day",
+    "from_person": "José Balell",
+    "to_person": "Jerónimo Pelegrín de Aragüés",
+    "from_place_key": "barcelona",
+    "from_place_label": "Barcelona",
+    "to_place_key": "mallorca",
+    "to_place_label": "Mallorca",
+    "is_inferred": true,
+    "confidence_label": "Media",
+    "themes": [],
+    "event_ids": [],
+    "images": [
+      "images/166-394a.jpg",
+      "images/167-394b.jpg"
+    ],
+    "evidence_quote": "Amigo y señor, Son las diez de la noche cuando me avisan que al amanecer parte esta saetía francesa que..."
+  },
+  {
+    "id_carta": "1228",
+    "date_iso": "1668-11-24",
+    "granularity": "day",
+    "from_person": "José Balell",
+    "to_person": "Jerónimo Pelegrín de Aragüés",
+    "from_place_key": "barcelona",
+    "from_place_label": "Barcelona",
+    "to_place_key": "mallorca",
+    "to_place_label": "Mallorca",
+    "is_inferred": true,
+    "confidence_label": "Media",
+    "themes": [],
+    "event_ids": [
+      "evt_fuga_juan_austria"
+    ],
+    "images": [
+      "images/168-395.jpg"
+    ],
+    "evidence_quote": "Amigo y señor, En este puerto me avisan que esta noche se parte embarcación, con que hallándome con el incluso..."
+  },
+  {
+    "id_carta": "1229",
+    "date_iso": "1668-02-02",
+    "granularity": "day",
+    "from_person": "Andrés García de Castro",
+    "to_person": "Jerónimo Pelegrín de Aragüés",
+    "from_place_key": "valencia",
+    "from_place_label": "Valencia",
+    "to_place_key": "mallorca",
+    "to_place_label": "Mallorca",
+    "is_inferred": true,
+    "confidence_label": "Media",
+    "themes": [
+      "Económica"
+    ],
+    "event_ids": [],
+    "images": [
+      "images/169-396a.jpg",
+      "images/170-396b.jpg"
+    ],
+    "evidence_quote": "Amigo y señor mío, Tengo enviado a v. m. el albornoz con el patrón Sebastian Prochet; espero a estas horas..."
+  },
+  {
+    "id_carta": "1230",
+    "date_iso": "1668-02-12",
+    "granularity": "day",
+    "from_person": "Mateu Armengol",
+    "to_person": "Jerónimo Pelegrín de Aragüés",
+    "from_place_key": "mallorca",
+    "from_place_label": "Mallorca",
+    "to_place_key": "sin_especificar",
+    "to_place_label": "Sin Especificar",
+    "is_inferred": true,
+    "confidence_label": "Baja",
+    "themes": [
+      "Recomendación"
+    ],
+    "event_ids": [
+      "evt_patronazgo_batle_inca"
+    ],
+    "images": [
+      "images/171-397a.jpg",
+      "images/172-397b.jpg"
+    ],
+    "evidence_quote": ". Jeronim Pelegri, Per haver rebudes cartes mi senyora de la feliç desembarcació a Valencia i a Madrid esser arribats..."
+  },
+  {
+    "id_carta": "1231",
+    "date_iso": "1669-03-19",
+    "granularity": "day",
+    "from_person": "Bartolomé Fullana",
+    "to_person": "Jerónimo Pelegrín de Aragüés",
+    "from_place_key": "mallorca",
+    "from_place_label": "Mallorca",
+    "to_place_key": "sin_especificar",
+    "to_place_label": "Sin Especificar",
+    "is_inferred": true,
+    "confidence_label": "Baja",
+    "themes": [],
+    "event_ids": [],
+    "images": [
+      "images/173-398.jpg"
+    ],
+    "evidence_quote": "Per aquí tots estan en grandíssim {ESP. cuidado} per no tenir ninguna notícia certa de v. m., doncs en tres..."
+  },
+  {
+    "id_carta": "1232",
+    "date_iso": "1669-03-17",
+    "granularity": "day",
+    "from_person": "Mateu Armengol",
+    "to_person": "Jerónimo Pelegrín de Aragüés",
+    "from_place_key": "mallorca",
+    "from_place_label": "Mallorca",
+    "to_place_key": "sin_especificar",
+    "to_place_label": "Sin Especificar",
+    "is_inferred": true,
+    "confidence_label": "Baja",
+    "themes": [],
+    "event_ids": [
+      "evt_asesinato_mateu_anglada",
+      "evt_patronazgo_batle_inca"
+    ],
+    "images": [
+      "images/174-399.jpg"
+    ],
+    "evidence_quote": "Amb cartes que es reberen el dia de Santa Eulàlia sé que tots v. m. gosen de complida salut. Mi..."
+  },
+  {
+    "id_carta": "1233",
+    "date_iso": "1669-03-19",
+    "granularity": "day",
+    "from_person": "Juan Cabrer",
+    "to_person": "Jerónimo Pelegrín de Aragüés",
+    "from_place_key": "carcel_del_palacio_episcopal_de_mallorca",
+    "from_place_label": "Cárcel del Palacio Episcopal de Mallorca",
+    "to_place_key": "mallorca",
+    "to_place_label": "Mallorca",
+    "is_inferred": true,
+    "confidence_label": "Media",
+    "themes": [],
+    "event_ids": [
+      "evt_prision_juan_cabrer"
+    ],
+    "images": [
+      "images/175-400a.jpg",
+      "images/176-400b.jpg"
+    ],
+    "evidence_quote": "Jesús Señor mío, Una de v. m. recibí a los 20 corrientes, de cuya data es 23 enero, de la..."
+  }
+]
