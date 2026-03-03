@@ -1,12 +1,16 @@
 <!DOCTYPE html>
 <html lang="es">
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Epistolario de Don Pedro de Santacilia y Pax</title>
     <script src="https://cdn.tailwindcss.com"></script>
-    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=Merriweather:ital,wght@0,300;0,400;0,700;1,300;1,400&display=swap" rel="stylesheet">
-    <link href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@24,400,0,0" rel="stylesheet">
+    <link
+        href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=Merriweather:ital,wght@0,300;0,400;0,700;1,300;1,400&display=swap"
+        rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@24,400,0,0"
+        rel="stylesheet">
     <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
     <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
     <script>
@@ -28,35 +32,57 @@
         }
     </script>
     <style>
-        body { font-family: 'Inter', sans-serif; background-color: #fcfbf8; color: #1b180d; }
-        .font-serif { font-family: 'Merriweather', serif; }
+        body {
+            font-family: 'Inter', sans-serif;
+            background-color: #fcfbf8;
+            color: #1b180d;
+        }
+
+        .font-serif {
+            font-family: 'Merriweather', serif;
+        }
+
         /* View sections handled by Tailwind hidden/flex classes */
-        #map-container, #timeline-map-container { background-color: #eaddcf; z-index: 1; }
+        #map-container,
+        #timeline-map-container {
+            background-color: #eaddcf;
+            z-index: 1;
+        }
+
         .leaflet-layer,
         .leaflet-control-zoom-in,
         .leaflet-control-zoom-out,
         .leaflet-control-attribution {
-          filter: grayscale(100%) sepia(20%) contrast(1.1) opacity(0.8);
+            filter: grayscale(100%) sepia(20%) contrast(1.1) opacity(0.8);
         }
+
         /* Arc animations */
         .leaflet-interactive.arc-path {
             stroke-dasharray: 1000;
             stroke-dashoffset: 1000;
             animation: dash 3s linear forwards;
         }
+
         @keyframes dash {
-            to { stroke-dashoffset: 0; }
+            to {
+                stroke-dashoffset: 0;
+            }
         }
+
         .moving-letter-label {
             pointer-events: none;
         }
-        .static-sender-label, .static-recipient-label {
+
+        .static-sender-label,
+        .static-recipient-label {
             pointer-events: none;
         }
+
         .moving-letter-content {
             transform: translate(-50%, -50%);
             transition: opacity 0.5s ease;
         }
+
         .custom-slider::-webkit-slider-thumb {
             appearance: none;
             width: 20px;
@@ -65,9 +91,10 @@
             background: #2d2a26;
             cursor: pointer;
             border: 2px solid #fff;
-            box-shadow: 0 2px 5px rgba(0,0,0,0.3);
+            box-shadow: 0 2px 5px rgba(0, 0, 0, 0.3);
             margin-top: -9px;
         }
+
         .custom-slider::-moz-range-thumb {
             width: 20px;
             height: 20px;
@@ -75,29 +102,33 @@
             background: #2d2a26;
             cursor: pointer;
             border: 2px solid #fff;
-            box-shadow: 0 2px 5px rgba(0,0,0,0.3);
+            box-shadow: 0 2px 5px rgba(0, 0, 0, 0.3);
         }
+
         .custom-slider::-webkit-slider-runnable-track {
             width: 100%;
             height: 2px;
             cursor: pointer;
             background: transparent;
         }
+
         .static-label-content {
             transform: translate(-50%, -100%);
             margin-top: -16px;
             width: max-content;
         }
-        
+
         /* Push Leaflet zoom controls down to avoid overlapping with custom overlays */
         #view-dashboard .leaflet-top.leaflet-left {
             margin-top: 80px;
         }
+
         #view-timeline .leaflet-top.leaflet-left {
             margin-top: 200px;
         }
     </style>
 </head>
+
 <body class="h-screen flex flex-col overflow-hidden">
 
     <!-- Top Navigation -->
@@ -111,33 +142,44 @@
         </div>
         <nav class="flex items-center gap-6">
             <div class="hidden md:flex items-center gap-2 bg-[#f3f0e7] p-1 rounded-lg mr-2" id="lenses-container">
-                <button onclick="setLens('none')" id="lens-none" class="px-3 py-1 text-xs font-bold uppercase tracking-wider rounded bg-white shadow-sm text-primary transition-all">Normal</button>
-                <button onclick="setLens('noticias')" id="lens-noticias" class="px-3 py-1 text-xs font-bold uppercase tracking-wider rounded text-text-muted hover:text-primary transition-all">Noticias</button>
-                <button onclick="setLens('salud')" id="lens-salud" class="px-3 py-1 text-xs font-bold uppercase tracking-wider rounded text-text-muted hover:text-primary transition-all">Salud</button>
-                <button onclick="setLens('objetos')" id="lens-objetos" class="px-3 py-1 text-xs font-bold uppercase tracking-wider rounded text-text-muted hover:text-primary transition-all">Objetos</button>
+                <button onclick="setLens('none')" id="lens-none"
+                    class="px-3 py-1 text-xs font-bold uppercase tracking-wider rounded bg-white shadow-sm text-primary transition-all">Normal</button>
+                <button onclick="setLens('noticias')" id="lens-noticias"
+                    class="px-3 py-1 text-xs font-bold uppercase tracking-wider rounded text-text-muted hover:text-primary transition-all">Noticias</button>
+                <button onclick="setLens('salud')" id="lens-salud"
+                    class="px-3 py-1 text-xs font-bold uppercase tracking-wider rounded text-text-muted hover:text-primary transition-all">Salud</button>
+                <button onclick="setLens('objetos')" id="lens-objetos"
+                    class="px-3 py-1 text-xs font-bold uppercase tracking-wider rounded text-text-muted hover:text-primary transition-all">Objetos</button>
             </div>
-            <button onclick="switchView('dashboard')" id="nav-dashboard" class="nav-btn font-bold text-primary border-b-2 border-primary pb-1">Dashboard</button>
-            <button onclick="switchView('timeline')" id="nav-timeline" class="nav-btn text-text-muted hover:text-primary pb-1">Línea de Tiempo</button>
-            <button onclick="startTour()" id="nav-tour" class="nav-btn text-text-muted hover:text-primary pb-1 flex items-center gap-1"><span class="material-symbols-outlined text-[18px]">play_circle</span> Tour</button>
+            <button onclick="switchView('dashboard')" id="nav-dashboard"
+                class="nav-btn font-bold text-primary border-b-2 border-primary pb-1">Dashboard</button>
+            <button onclick="switchView('timeline')" id="nav-timeline"
+                class="nav-btn text-text-muted hover:text-primary pb-1">Línea de Tiempo</button>
+            <button onclick="startTour()" id="nav-tour"
+                class="nav-btn text-text-muted hover:text-primary pb-1 flex items-center gap-1"><span
+                    class="material-symbols-outlined text-[18px]">play_circle</span> Tour</button>
             <div class="h-6 w-px bg-[#e7e1cf] mx-2"></div>
-            <label for="folder-upload" class="cursor-pointer flex items-center gap-2 bg-[#f3f0e7] hover:bg-[#e7e1cf] px-3 py-1.5 rounded-lg text-sm font-medium text-secondary transition">
+            <label for="folder-upload"
+                class="cursor-pointer flex items-center gap-2 bg-[#f3f0e7] hover:bg-[#e7e1cf] px-3 py-1.5 rounded-lg text-sm font-medium text-secondary transition">
                 <span class="material-symbols-outlined text-[18px]">folder_open</span>
                 Importar Carpeta
             </label>
-            <input type="file" id="folder-upload" webkitdirectory directory multiple class="hidden" onchange="handleFileUpload(event)">
+            <input type="file" id="folder-upload" webkitdirectory directory multiple class="hidden"
+                onchange="handleFileUpload(event)">
         </nav>
     </header>
 
     <!-- VIEWS -->
     <main class="flex-1 relative overflow-hidden flex">
-        
+
         <!-- 1. DASHBOARD VIEW -->
         <section id="view-dashboard" class="w-full h-full flex flex-col">
             <!-- Map Area (Top) -->
             <div class="w-full h-[45vh] relative shrink-0 border-b border-[#e7e1cf] z-0">
                 <div id="map-container" class="w-full h-full bg-[#eaddcf]"></div>
                 <!-- Overlay Stats -->
-                <div class="absolute top-4 left-4 z-[400] bg-white/90 backdrop-blur p-3 rounded-xl shadow-sm border border-[#e7e1cf] flex gap-6 pointer-events-auto">
+                <div
+                    class="absolute top-4 left-4 z-[400] bg-white/90 backdrop-blur p-3 rounded-xl shadow-sm border border-[#e7e1cf] flex gap-6 pointer-events-auto">
                     <div class="text-center">
                         <p class="text-[10px] uppercase tracking-wider text-text-muted font-bold mb-0.5">Cartas</p>
                         <p id="stat-cartas" class="text-xl font-serif font-bold text-primary leading-none">0</p>
@@ -152,15 +194,41 @@
             <!-- Filters Section (Middle) -->
             <div class="bg-white border-b border-[#e7e1cf] p-3 shrink-0 z-10 shadow-sm">
                 <div class="flex flex-wrap gap-3 items-center text-sm max-w-[1600px] mx-auto w-full">
-                    <div class="flex items-center gap-2 bg-[#fcfbf8] border border-[#e7e1cf] rounded-lg px-3 py-1.5 flex-1 min-w-[200px]">
+                    <div
+                        class="flex items-center gap-2 bg-[#fcfbf8] border border-[#e7e1cf] rounded-lg px-3 py-1.5 flex-1 min-w-[300px] relative">
                         <span class="material-symbols-outlined text-text-muted text-[18px]">search</span>
-                        <input type="text" id="filter-text" placeholder="Buscar en texto o nombres..." class="bg-transparent border-none outline-none w-full text-secondary placeholder:text-text-muted">
+                        <input type="text" id="filter-text" placeholder="Buscar en cartas (texto, personas, lugares...)"
+                            class="bg-transparent border-none outline-none w-full text-secondary placeholder:text-text-muted pr-6">
+                        <button id="clear-search-btn"
+                            class="absolute right-2 top-1/2 -translate-y-1/2 text-text-muted hover:text-primary hidden focus:outline-none"
+                            onclick="document.getElementById('filter-text').value=''; applyFilters();"
+                            title="Limpiar búsqueda">
+                            <span class="material-symbols-outlined text-[16px]">close</span>
+                        </button>
                     </div>
-                    <select id="filter-remitente" class="bg-[#fcfbf8] border border-[#e7e1cf] rounded-lg px-3 py-1.5 text-secondary outline-none focus:border-primary"><option value="">Remitente (Todos)</option></select>
-                    <select id="filter-destinatario" class="bg-[#fcfbf8] border border-[#e7e1cf] rounded-lg px-3 py-1.5 text-secondary outline-none focus:border-primary"><option value="">Destinatario (Todos)</option></select>
-                    <select id="filter-origen" class="bg-[#fcfbf8] border border-[#e7e1cf] rounded-lg px-3 py-1.5 text-secondary outline-none focus:border-primary"><option value="">Origen (Todos)</option></select>
-                    <select id="filter-dest" class="bg-[#fcfbf8] border border-[#e7e1cf] rounded-lg px-3 py-1.5 text-secondary outline-none focus:border-primary"><option value="">Destino (Todos)</option></select>
-                    <select id="filter-idioma" class="bg-[#fcfbf8] border border-[#e7e1cf] rounded-lg px-3 py-1.5 text-secondary outline-none focus:border-primary"><option value="">Idioma (Todos)</option></select>
+                    <div id="search-results-count"
+                        class="text-xs font-bold text-primary bg-[#f3f0e7] px-2 py-1 rounded hidden border border-[#e7e1cf]">
+                        0 resultados</div>
+                    <select id="filter-remitente"
+                        class="bg-[#fcfbf8] border border-[#e7e1cf] rounded-lg px-3 py-1.5 text-secondary outline-none focus:border-primary">
+                        <option value="">Remitente (Todos)</option>
+                    </select>
+                    <select id="filter-destinatario"
+                        class="bg-[#fcfbf8] border border-[#e7e1cf] rounded-lg px-3 py-1.5 text-secondary outline-none focus:border-primary">
+                        <option value="">Destinatario (Todos)</option>
+                    </select>
+                    <select id="filter-origen"
+                        class="bg-[#fcfbf8] border border-[#e7e1cf] rounded-lg px-3 py-1.5 text-secondary outline-none focus:border-primary">
+                        <option value="">Origen (Todos)</option>
+                    </select>
+                    <select id="filter-dest"
+                        class="bg-[#fcfbf8] border border-[#e7e1cf] rounded-lg px-3 py-1.5 text-secondary outline-none focus:border-primary">
+                        <option value="">Destino (Todos)</option>
+                    </select>
+                    <select id="filter-idioma"
+                        class="bg-[#fcfbf8] border border-[#e7e1cf] rounded-lg px-3 py-1.5 text-secondary outline-none focus:border-primary">
+                        <option value="">Idioma (Todos)</option>
+                    </select>
                 </div>
             </div>
 
@@ -168,8 +236,9 @@
             <div class="flex-1 overflow-y-auto bg-[#fcfbf8] p-4">
                 <!-- Curator's Table Container -->
                 <div id="curator-table-container" class="max-w-[1600px] mx-auto mb-6 hidden"></div>
-                
-                <div id="letter-list" class="max-w-[1600px] mx-auto grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-4">
+
+                <div id="letter-list"
+                    class="max-w-[1600px] mx-auto grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-4">
                     <!-- Letters injected here -->
                 </div>
             </div>
@@ -178,15 +247,18 @@
         <!-- 2. TIMELINE VIEW -->
         <section id="view-timeline" class="w-full h-full hidden flex-col relative">
             <div id="timeline-map-container" class="w-full h-full absolute inset-0"></div>
-            
+
             <!-- Summary Overlay (Top Left) -->
-            <div id="timeline-summary-overlay" class="absolute top-4 left-4 z-[400] bg-white/95 backdrop-blur rounded-xl shadow-lg border border-[#e7e1cf] p-4 max-w-md w-full opacity-0 pointer-events-none transition-opacity duration-300">
+            <div id="timeline-summary-overlay"
+                class="absolute top-4 left-4 z-[400] bg-white/95 backdrop-blur rounded-xl shadow-lg border border-[#e7e1cf] p-4 max-w-md w-full opacity-0 pointer-events-none transition-opacity duration-300">
                 <div id="timeline-summary-content" class="text-sm"></div>
             </div>
 
             <!-- Events Panel (Left, below summary) -->
-            <div class="absolute top-32 left-4 w-80 bg-white/95 backdrop-blur rounded-xl shadow-lg border border-[#e7e1cf] flex flex-col max-h-[calc(100%-250px)] z-[400] overflow-hidden pointer-events-auto transition-all duration-300" id="panel-periodico">
-                <div class="p-4 border-b border-[#e7e1cf] bg-[#fcfbf8] shrink-0 flex justify-between items-center cursor-pointer" onclick="document.getElementById('timeline-events-list').classList.toggle('hidden');">
+            <div class="absolute top-32 left-4 w-80 bg-white/95 backdrop-blur rounded-xl shadow-lg border border-[#e7e1cf] flex flex-col max-h-[calc(100%-250px)] z-[400] overflow-hidden pointer-events-auto transition-all duration-300"
+                id="panel-periodico">
+                <div class="p-4 border-b border-[#e7e1cf] bg-[#fcfbf8] shrink-0 flex justify-between items-center cursor-pointer"
+                    onclick="document.getElementById('timeline-events-list').classList.toggle('hidden');">
                     <h3 class="font-serif font-bold text-primary flex items-center gap-2">
                         <span class="material-symbols-outlined text-[18px]">newspaper</span>
                         Periódico del Mes
@@ -199,8 +271,10 @@
             </div>
 
             <!-- Timeline Feed (Crónica) -->
-            <div class="absolute top-4 right-4 w-80 bg-white/95 backdrop-blur rounded-xl shadow-lg border border-[#e7e1cf] flex flex-col max-h-[calc(100%-180px)] z-[400] overflow-hidden pointer-events-auto transition-all duration-300" id="panel-cronica">
-                <div class="p-4 border-b border-[#e7e1cf] bg-[#fcfbf8] shrink-0 flex justify-between items-center cursor-pointer" onclick="document.getElementById('timeline-feed-content').classList.toggle('hidden');">
+            <div class="absolute top-4 right-4 w-80 bg-white/95 backdrop-blur rounded-xl shadow-lg border border-[#e7e1cf] flex flex-col max-h-[calc(100%-180px)] z-[400] overflow-hidden pointer-events-auto transition-all duration-300"
+                id="panel-cronica">
+                <div class="p-4 border-b border-[#e7e1cf] bg-[#fcfbf8] shrink-0 flex justify-between items-center cursor-pointer"
+                    onclick="document.getElementById('timeline-feed-content').classList.toggle('hidden');">
                     <h3 class="font-serif font-bold text-primary flex items-center gap-2">
                         <span class="material-symbols-outlined text-[18px]">history_edu</span>
                         Crónica de Envíos
@@ -208,31 +282,41 @@
                     <span class="material-symbols-outlined text-text-muted text-[18px]">expand_more</span>
                 </div>
                 <div id="timeline-feed-content" class="flex-1 overflow-y-auto p-4 space-y-3 text-sm">
-                    <p class="text-text-muted italic text-xs text-center">Inicia la línea de tiempo para ver los eventos.</p>
+                    <p class="text-text-muted italic text-xs text-center">Inicia la línea de tiempo para ver los
+                        eventos.</p>
                 </div>
             </div>
 
             <!-- Timeline Controls -->
-            <div class="absolute bottom-8 left-1/2 -translate-x-1/2 w-11/12 max-w-4xl bg-white/95 backdrop-blur rounded-xl shadow-lg border border-[#e7e1cf] p-6 z-[400] overflow-hidden">
+            <div
+                class="absolute bottom-8 left-1/2 -translate-x-1/2 w-11/12 max-w-4xl bg-white/95 backdrop-blur rounded-xl shadow-lg border border-[#e7e1cf] p-6 z-[400] overflow-hidden">
                 <!-- Progress Bar -->
                 <div class="absolute top-0 left-0 right-0 h-1 bg-[#e7e1cf]">
                     <div id="playback-progress-bar" class="h-full bg-primary w-0 transition-none"></div>
                 </div>
-                
+
                 <div class="flex items-center gap-6 mt-1">
                     <div class="flex flex-col items-center gap-2 shrink-0">
                         <div class="flex items-center gap-2">
-                            <button onclick="jumpToPrevEvent()" class="flex items-center justify-center size-8 rounded-full bg-[#f3f0e7] text-text-muted hover:bg-[#e7e1cf] hover:text-primary transition-all" title="Evento anterior">
+                            <button onclick="jumpToPrevEvent()"
+                                class="flex items-center justify-center size-8 rounded-full bg-[#f3f0e7] text-text-muted hover:bg-[#e7e1cf] hover:text-primary transition-all"
+                                title="Evento anterior">
                                 <span class="material-symbols-outlined text-[20px]">skip_previous</span>
                             </button>
-                            <button onclick="togglePlay()" class="flex items-center justify-center size-12 rounded-full bg-primary text-white hover:bg-[#a38420] shadow-md transition-all">
-                                <span id="play-btn-icon" class="material-symbols-outlined text-[28px] ml-1">play_arrow</span>
+                            <button onclick="togglePlay()"
+                                class="flex items-center justify-center size-12 rounded-full bg-primary text-white hover:bg-[#a38420] shadow-md transition-all">
+                                <span id="play-btn-icon"
+                                    class="material-symbols-outlined text-[28px] ml-1">play_arrow</span>
                             </button>
-                            <button onclick="jumpToNextEvent()" class="flex items-center justify-center size-8 rounded-full bg-[#f3f0e7] text-text-muted hover:bg-[#e7e1cf] hover:text-primary transition-all" title="Siguiente evento">
+                            <button onclick="jumpToNextEvent()"
+                                class="flex items-center justify-center size-8 rounded-full bg-[#f3f0e7] text-text-muted hover:bg-[#e7e1cf] hover:text-primary transition-all"
+                                title="Siguiente evento">
                                 <span class="material-symbols-outlined text-[20px]">skip_next</span>
                             </button>
                         </div>
-                        <select id="playback-speed" class="bg-[#f3f0e7] border border-[#e7e1cf] text-text-muted text-[10px] font-bold uppercase rounded px-1 py-0.5 outline-none cursor-pointer" title="Tiempo de espera entre eventos">
+                        <select id="playback-speed"
+                            class="bg-[#f3f0e7] border border-[#e7e1cf] text-text-muted text-[10px] font-bold uppercase rounded px-1 py-0.5 outline-none cursor-pointer"
+                            title="Tiempo de espera entre eventos">
                             <option value="3000">Lento</option>
                             <option value="1500" selected>Normal</option>
                             <option value="500">Rápido</option>
@@ -242,12 +326,15 @@
                         <div class="flex justify-between items-end mb-2 px-1">
                             <span id="timeline-start-label" class="text-xs font-bold text-text-muted">Enero 1668</span>
                             <span id="current-month-display" class="text-xl font-bold text-primary">Enero 1668</span>
-                            <span id="timeline-end-label" class="text-xs font-bold text-text-muted">Diciembre 1669</span>
+                            <span id="timeline-end-label" class="text-xs font-bold text-text-muted">Diciembre
+                                1669</span>
                         </div>
                         <div class="relative w-full py-3 flex items-center flex-col">
-                            <div class="relative w-full h-2 bg-[#e7e1cf] rounded-lg z-0 overflow-hidden flex" id="timeline-heat-strip"></div>
+                            <div class="relative w-full h-2 bg-[#e7e1cf] rounded-lg z-0 overflow-hidden flex"
+                                id="timeline-heat-strip"></div>
                             <div id="timeline-markers" class="absolute left-0 right-0 h-0 z-10 top-1/2"></div>
-                            <input type="range" id="timeline-slider" min="0" max="23" value="0" class="w-full h-2 bg-transparent appearance-none cursor-pointer absolute z-20 custom-slider top-1/2 -translate-y-1/2">
+                            <input type="range" id="timeline-slider" min="0" max="23" value="0"
+                                class="w-full h-2 bg-transparent appearance-none cursor-pointer absolute z-20 custom-slider top-1/2 -translate-y-1/2">
                         </div>
                         <div class="flex justify-between mt-1 text-xs text-text-muted px-1">
                             <span id="timeline-start-year">1668</span>
@@ -259,29 +346,43 @@
         </section>
 
         <!-- 3. READER VIEW -->
-        <section id="view-reader" class="w-full h-full hidden flex-col md:flex-row bg-[#fcfbf8] absolute inset-0 z-[500]">
+        <section id="view-reader"
+            class="w-full h-full hidden flex-col md:flex-row bg-[#fcfbf8] absolute inset-0 z-[500]">
             <!-- Header for Reader -->
-            <div class="absolute top-0 left-0 right-0 h-14 bg-white border-b border-[#e7e1cf] flex items-center justify-between px-4 z-10 shadow-sm">
-                <button onclick="closeReader()" class="flex items-center gap-2 text-text-muted hover:text-primary transition">
+            <div
+                class="absolute top-0 left-0 right-0 h-14 bg-white border-b border-[#e7e1cf] flex items-center justify-between px-4 z-10 shadow-sm">
+                <button onclick="closeReader()"
+                    class="flex items-center gap-2 text-text-muted hover:text-primary transition">
                     <span class="material-symbols-outlined">arrow_back</span>
                     <span class="font-medium">Volver al Legajo</span>
                 </button>
                 <div class="flex items-center gap-3 bg-[#f3f0e7] p-1 rounded-lg">
-                    <button id="btn-literal" onclick="toggleTranscription('literal')" class="px-3 py-1 text-sm font-medium rounded text-text-muted hover:text-primary">Literal</button>
-                    <button id="btn-modern" onclick="toggleTranscription('modern')" class="px-3 py-1 text-sm font-medium rounded bg-white shadow-sm text-primary">Modernizada</button>
+                    <button id="btn-literal" onclick="toggleTranscription('literal')"
+                        class="px-3 py-1 text-sm font-medium rounded text-text-muted hover:text-primary">Literal</button>
+                    <button id="btn-modern" onclick="toggleTranscription('modern')"
+                        class="px-3 py-1 text-sm font-medium rounded bg-white shadow-sm text-primary">Modernizada</button>
                 </div>
             </div>
 
             <!-- Left: Manuscript -->
-            <div class="w-full md:w-1/2 h-full pt-14 border-r border-[#e7e1cf] bg-[#2d2a26] relative overflow-hidden group">
+            <div
+                class="w-full md:w-1/2 h-full pt-14 border-r border-[#e7e1cf] bg-[#2d2a26] relative overflow-hidden group">
                 <div class="w-full h-full flex items-center justify-center p-8 overflow-auto">
                     <!-- Placeholder for manuscript image -->
-                    <img src="https://images.unsplash.com/photo-1577083552431-6e5fd01aa342?q=80&w=1000&auto=format&fit=crop" alt="Manuscrito" class="max-w-full max-h-full object-contain shadow-2xl transition-transform duration-300" id="manuscript-img">
+                    <img src="https://images.unsplash.com/photo-1577083552431-6e5fd01aa342?q=80&w=1000&auto=format&fit=crop"
+                        alt="Manuscrito"
+                        class="max-w-full max-h-full object-contain shadow-2xl transition-transform duration-300"
+                        id="manuscript-img">
                 </div>
                 <!-- Zoom Controls -->
-                <div class="absolute bottom-6 left-1/2 -translate-x-1/2 flex items-center gap-2 bg-white/10 backdrop-blur p-2 rounded-full border border-white/20 opacity-0 group-hover:opacity-100 transition-opacity">
-                    <button onclick="zoomManuscript(-0.2)" class="text-white hover:text-primary p-1 rounded-full hover:bg-white/20"><span class="material-symbols-outlined">remove</span></button>
-                    <button onclick="zoomManuscript(0.2)" class="text-white hover:text-primary p-1 rounded-full hover:bg-white/20"><span class="material-symbols-outlined">add</span></button>
+                <div
+                    class="absolute bottom-6 left-1/2 -translate-x-1/2 flex items-center gap-2 bg-white/10 backdrop-blur p-2 rounded-full border border-white/20 opacity-0 group-hover:opacity-100 transition-opacity">
+                    <button onclick="zoomManuscript(-0.2)"
+                        class="text-white hover:text-primary p-1 rounded-full hover:bg-white/20"><span
+                            class="material-symbols-outlined">remove</span></button>
+                    <button onclick="zoomManuscript(0.2)"
+                        class="text-white hover:text-primary p-1 rounded-full hover:bg-white/20"><span
+                            class="material-symbols-outlined">add</span></button>
                 </div>
             </div>
 
@@ -291,8 +392,12 @@
                     <div class="mb-8 border-b border-[#e7e1cf] pb-6">
                         <h2 id="reader-title" class="text-3xl font-bold mb-4 text-secondary">Carta</h2>
                         <div class="flex flex-wrap gap-4 text-sm text-text-muted">
-                            <span id="reader-date" class="flex items-center gap-1 bg-[#f3f0e7] px-3 py-1 rounded-full"><span class="material-symbols-outlined text-[16px]">calendar_today</span> ...</span>
-                            <span id="reader-route" class="flex items-center gap-1 bg-[#f3f0e7] px-3 py-1 rounded-full"><span class="material-symbols-outlined text-[16px]">route</span> ...</span>
+                            <span id="reader-date"
+                                class="flex items-center gap-1 bg-[#f3f0e7] px-3 py-1 rounded-full"><span
+                                    class="material-symbols-outlined text-[16px]">calendar_today</span> ...</span>
+                            <span id="reader-route"
+                                class="flex items-center gap-1 bg-[#f3f0e7] px-3 py-1 rounded-full"><span
+                                    class="material-symbols-outlined text-[16px]">route</span> ...</span>
                         </div>
                     </div>
                     <div id="reader-content" class="font-serif text-lg leading-relaxed text-[#2d2a26]">
@@ -305,10 +410,13 @@
     </main>
 
     <!-- SIDEBAR (Ficha de carta) -->
-    <aside id="letter-sidebar" class="fixed top-0 right-0 w-full md:w-[450px] h-full bg-[#fcfbf8] shadow-2xl border-l border-[#e7e1cf] transform translate-x-full transition-transform duration-300 z-[1000] flex flex-col">
+    <aside id="letter-sidebar"
+        class="fixed top-0 right-0 w-full md:w-[450px] h-full bg-[#fcfbf8] shadow-2xl border-l border-[#e7e1cf] transform translate-x-full transition-transform duration-300 z-[1000] flex flex-col">
         <div class="flex items-center justify-between p-4 border-b border-[#e7e1cf] bg-white shrink-0">
             <h2 class="font-serif font-bold text-lg text-primary">Ficha de la Carta</h2>
-            <button onclick="closeLetterSidebar()" class="text-text-muted hover:text-primary bg-[#f3f0e7] rounded-full p-1"><span class="material-symbols-outlined text-[20px]">close</span></button>
+            <button onclick="closeLetterSidebar()"
+                class="text-text-muted hover:text-primary bg-[#f3f0e7] rounded-full p-1"><span
+                    class="material-symbols-outlined text-[20px]">close</span></button>
         </div>
         <div id="letter-sidebar-content" class="flex-1 overflow-y-auto p-6 space-y-6">
             <!-- Content injected here -->
@@ -316,24 +424,30 @@
     </aside>
 
     <!-- EVENT MODAL -->
-    <div id="event-modal" class="fixed inset-0 bg-[#2d2a26]/80 backdrop-blur-sm z-[3000] hidden flex items-center justify-center p-4 opacity-0 transition-opacity duration-300">
-        <div class="bg-[#fcfbf8] rounded-xl shadow-2xl max-w-lg w-full max-h-[90vh] flex flex-col overflow-hidden transform scale-95 transition-transform duration-300" id="event-modal-content">
+    <div id="event-modal"
+        class="fixed inset-0 bg-[#2d2a26]/80 backdrop-blur-sm z-[3000] hidden flex items-center justify-center p-4 opacity-0 transition-opacity duration-300">
+        <div class="bg-[#fcfbf8] rounded-xl shadow-2xl max-w-lg w-full max-h-[90vh] flex flex-col overflow-hidden transform scale-95 transition-transform duration-300"
+            id="event-modal-content">
             <div class="p-6 border-b border-[#e7e1cf] bg-white flex justify-between items-start">
                 <div>
                     <div class="flex items-center gap-2 text-primary font-bold text-xs uppercase tracking-widest mb-2">
                         <span class="material-symbols-outlined text-[16px]">newspaper</span>
                         Periódico del XVII
                     </div>
-                    <h2 id="event-title" class="font-serif text-2xl font-bold text-secondary leading-tight">Título del Evento</h2>
+                    <h2 id="event-title" class="font-serif text-2xl font-bold text-secondary leading-tight">Título del
+                        Evento</h2>
                     <p id="event-date" class="text-sm text-text-muted mt-1">Fecha</p>
                 </div>
-                <button onclick="closeEventCard()" class="text-text-muted hover:text-primary bg-[#f3f0e7] rounded-full p-1"><span class="material-symbols-outlined text-[20px]">close</span></button>
+                <button onclick="closeEventCard()"
+                    class="text-text-muted hover:text-primary bg-[#f3f0e7] rounded-full p-1"><span
+                        class="material-symbols-outlined text-[20px]">close</span></button>
             </div>
             <div class="flex-1 overflow-y-auto p-6 space-y-6">
                 <p id="event-summary" class="text-sm leading-relaxed text-secondary"></p>
                 <div id="event-quotes" class="space-y-3"></div>
                 <div id="event-sources-container" class="border-t border-[#e7e1cf] pt-4">
-                    <h4 class="text-xs font-bold uppercase tracking-widest text-text-muted mb-3">Cartas Relacionadas</h4>
+                    <h4 class="text-xs font-bold uppercase tracking-widest text-text-muted mb-3">Cartas Relacionadas
+                    </h4>
                     <div id="event-sources" class="space-y-2"></div>
                 </div>
             </div>
@@ -341,22 +455,36 @@
     </div>
 
     <!-- TOUR BAR -->
-    <div id="tour-bar" class="fixed bottom-0 left-0 right-0 bg-[#2d2a26] text-white p-4 z-[4000] hidden flex-col md:flex-row items-center justify-between gap-4 shadow-[0_-10px_40px_rgba(0,0,0,0.3)] transform translate-y-full transition-transform duration-500">
+    <div id="tour-bar"
+        class="fixed bottom-0 left-0 right-0 bg-[#2d2a26] text-white p-4 z-[4000] hidden flex-col md:flex-row items-center justify-between gap-4 shadow-[0_-10px_40px_rgba(0,0,0,0.3)] transform translate-y-full transition-transform duration-500">
         <div class="flex-1 max-w-3xl mx-auto text-center md:text-left px-4">
             <div class="flex items-center gap-3 mb-1 justify-center md:justify-start">
-                <span id="tour-step-counter" class="text-[10px] font-bold uppercase tracking-widest text-[#c5a028] bg-[#c5a028]/20 px-2 py-0.5 rounded">Paso 1</span>
+                <span id="tour-step-counter"
+                    class="text-[10px] font-bold uppercase tracking-widest text-[#c5a028] bg-[#c5a028]/20 px-2 py-0.5 rounded">Paso
+                    1</span>
                 <h3 id="tour-title" class="font-bold text-lg text-white"></h3>
             </div>
             <p id="tour-subtitle" class="font-serif text-base italic text-[#e7e1cf] leading-relaxed"></p>
         </div>
         <div class="flex items-center gap-4 shrink-0 bg-white/10 p-2 rounded-full backdrop-blur">
-            <button onclick="playTourAudio()" id="tour-audio-btn" class="flex items-center justify-center size-10 rounded-full hover:bg-white/20 transition-colors opacity-50" title="Escuchar Audio"><span class="material-symbols-outlined">volume_up</span></button>
-            <button onclick="restartTour()" class="flex items-center justify-center size-10 rounded-full hover:bg-white/20 transition-colors" title="Reiniciar Tour"><span class="material-symbols-outlined">replay</span></button>
-            <button onclick="prevTourStep()" class="flex items-center justify-center size-10 rounded-full hover:bg-white/20 transition-colors" title="Anterior"><span class="material-symbols-outlined">skip_previous</span></button>
-            <button onclick="toggleTourAutoplay()" id="tour-autoplay-btn" class="flex items-center justify-center size-12 rounded-full bg-primary hover:bg-[#a38420] transition-colors shadow-lg" title="Auto-play"><span class="material-symbols-outlined">play_arrow</span></button>
-            <button onclick="nextTourStep()" class="flex items-center justify-center size-10 rounded-full hover:bg-white/20 transition-colors" title="Siguiente"><span class="material-symbols-outlined">skip_next</span></button>
+            <button onclick="playTourAudio()" id="tour-audio-btn"
+                class="flex items-center justify-center size-10 rounded-full hover:bg-white/20 transition-colors opacity-50"
+                title="Escuchar Audio"><span class="material-symbols-outlined">volume_up</span></button>
+            <button onclick="restartTour()"
+                class="flex items-center justify-center size-10 rounded-full hover:bg-white/20 transition-colors"
+                title="Reiniciar Tour"><span class="material-symbols-outlined">replay</span></button>
+            <button onclick="prevTourStep()"
+                class="flex items-center justify-center size-10 rounded-full hover:bg-white/20 transition-colors"
+                title="Anterior"><span class="material-symbols-outlined">skip_previous</span></button>
+            <button onclick="toggleTourAutoplay()" id="tour-autoplay-btn"
+                class="flex items-center justify-center size-12 rounded-full bg-primary hover:bg-[#a38420] transition-colors shadow-lg"
+                title="Auto-play"><span class="material-symbols-outlined">play_arrow</span></button>
+            <button onclick="nextTourStep()"
+                class="flex items-center justify-center size-10 rounded-full hover:bg-white/20 transition-colors"
+                title="Siguiente"><span class="material-symbols-outlined">skip_next</span></button>
             <div class="w-px h-8 bg-white/20 mx-2"></div>
-            <button onclick="exitTour()" class="text-xs font-bold uppercase tracking-widest text-[#e7e1cf] hover:text-white px-3">Salir</button>
+            <button onclick="exitTour()"
+                class="text-xs font-bold uppercase tracking-widest text-[#e7e1cf] hover:text-white px-3">Salir</button>
         </div>
     </div>
 
@@ -440,7 +568,7 @@
 
             let origenName = data.lugar || (data.origen ? data.origen.nombre : "Desconocido");
             let origenCoords = data.origen ? { lat: data.origen.lat, lng: data.origen.lng } : (locationCoords[origenName] || { lat: 39.5696, lng: 2.6502 });
-            
+
             let destinoName = data.destino ? data.destino.nombre : "Palma";
             if (!data.destino) {
                 if (data.remitente && data.remitente.includes("Santacilia")) destinoName = "Madrid";
@@ -476,9 +604,43 @@
             };
         }
 
+        function normalizeString(str) {
+            if (!str) return '';
+            return str.toLowerCase().normalize("NFD").replace(/[\u0300-\u036f]/g, "").replace(/\s+/g, " ").trim();
+        }
+
+        function buildSearchIndex() {
+            window.searchIndex = letters.map(letter => {
+                const parts = [
+                    letter.remitente,
+                    letter.destinatario,
+                    letter.origen?.nombre,
+                    letter.destino?.nombre,
+                    letter.fecha,
+                    letter.texto_literal,
+                    letter.texto_modernizado
+                ];
+
+                if (letter.edgeData) {
+                    const e = letter.edgeData;
+                    if (e.themes) parts.push(...e.themes);
+                    if (e.event_ids) parts.push(...e.event_ids);
+                    if (e.entities?.objects) parts.push(...e.entities.objects);
+                    if (e.places_mentioned) parts.push(...e.places_mentioned);
+                    if (e.people_mentioned) parts.push(...e.people_mentioned);
+                }
+
+                return {
+                    id: letter.id,
+                    haystack: normalizeString(parts.filter(Boolean).join(' '))
+                };
+            });
+        }
+
         // Initialize Application
         document.addEventListener('DOMContentLoaded', () => {
             letters = letters.map(normalizeLetter);
+            buildSearchIndex();
             filteredLetters = [...letters];
             initDashboard();
             initTimeline();
@@ -490,8 +652,8 @@
             const uniqueNodes = new Set();
             const dataToUse = filteredLetters.length > 0 || document.getElementById('filter-text')?.value ? filteredLetters : letters;
             dataToUse.forEach(l => {
-                if(l.origen && l.origen.nombre) uniqueNodes.add(l.origen.nombre);
-                if(l.destino && l.destino.nombre) uniqueNodes.add(l.destino.nombre);
+                if (l.origen && l.origen.nombre) uniqueNodes.add(l.origen.nombre);
+                if (l.destino && l.destino.nombre) uniqueNodes.add(l.destino.nombre);
             });
             document.getElementById('stat-cartas').innerText = dataToUse.length;
             document.getElementById('stat-nodos').innerText = uniqueNodes.size;
@@ -503,30 +665,30 @@
 
             const jsonFiles = [];
             const imgFiles = [];
-            
+
             derivedData = { edges: [], events: [], tour: null, coords: {}, places: [], report: null, overview: null, lensPanels: null };
             window.letterIndex = {};
 
             for (let i = 0; i < files.length; i++) {
                 const file = files[i];
                 const path = file.webkitRelativePath || file.name;
-                
+
                 if (path.endsWith('letter_edges.json') || file.name === 'letter_edges.json') {
-                    try { derivedData.edges = JSON.parse(await file.text()); } catch(e) { console.warn("Error parsing letter_edges", e); }
+                    try { derivedData.edges = JSON.parse(await file.text()); } catch (e) { console.warn("Error parsing letter_edges", e); }
                 } else if (path.endsWith('event_markers.json') || file.name === 'event_markers.json') {
-                    try { derivedData.events = JSON.parse(await file.text()); } catch(e) { console.warn("Error parsing event_markers", e); }
+                    try { derivedData.events = JSON.parse(await file.text()); } catch (e) { console.warn("Error parsing event_markers", e); }
                 } else if (path.endsWith('tour_legajo10.json') || file.name === 'tour_legajo10.json') {
-                    try { derivedData.tour = JSON.parse(await file.text()); } catch(e) { console.warn("Error parsing tour", e); }
+                    try { derivedData.tour = JSON.parse(await file.text()); } catch (e) { console.warn("Error parsing tour", e); }
                 } else if (path.endsWith('coords.json') || file.name === 'coords.json') {
-                    try { derivedData.coords = JSON.parse(await file.text()); } catch(e) { console.warn("Error parsing coords", e); }
+                    try { derivedData.coords = JSON.parse(await file.text()); } catch (e) { console.warn("Error parsing coords", e); }
                 } else if (path.endsWith('places.json') || file.name === 'places.json') {
-                    try { derivedData.places = JSON.parse(await file.text()); } catch(e) { console.warn("Error parsing places", e); }
+                    try { derivedData.places = JSON.parse(await file.text()); } catch (e) { console.warn("Error parsing places", e); }
                 } else if (path.endsWith('validation_report.json') || file.name === 'validation_report.json') {
-                    try { derivedData.report = JSON.parse(await file.text()); } catch(e) { console.warn("Error parsing report", e); }
+                    try { derivedData.report = JSON.parse(await file.text()); } catch (e) { console.warn("Error parsing report", e); }
                 } else if (path.endsWith('demo_overview.md') || file.name === 'demo_overview.md') {
-                    try { derivedData.overview = await file.text(); } catch(e) { console.warn("Error parsing overview", e); }
+                    try { derivedData.overview = await file.text(); } catch (e) { console.warn("Error parsing overview", e); }
                 } else if (path.endsWith('lens_panels.json') || file.name === 'lens_panels.json') {
-                    try { derivedData.lensPanels = JSON.parse(await file.text()); } catch(e) { console.warn("Error parsing lens_panels", e); }
+                    try { derivedData.lensPanels = JSON.parse(await file.text()); } catch (e) { console.warn("Error parsing lens_panels", e); }
                 } else if (file.name.endsWith('.json')) {
                     jsonFiles.push(file);
                 } else if (file.type.startsWith('image/')) {
@@ -538,11 +700,10 @@
             imageMap = {};
             imgFiles.forEach(file => {
                 const url = URL.createObjectURL(file);
-                imageMap[file.name] = url;
-                if (file.webkitRelativePath) {
-                    imageMap[file.webkitRelativePath] = url;
-                }
-                imageMap["images/" + file.name] = url;
+                const basename = file.name;
+                imageMap[basename] = url;
+                if (file.webkitRelativePath) imageMap[file.webkitRelativePath] = url;
+                imageMap["images/" + basename] = url;
             });
 
             // Read JSONs
@@ -577,17 +738,17 @@
                             parsedDate = new Date(edge.date_iso);
                         }
                     }
-                    
+
                     let origenCoords = null;
                     if (edge.from_place_key && derivedData.coords && derivedData.coords[edge.from_place_key]) {
                         origenCoords = derivedData.coords[edge.from_place_key];
                     }
-                    
+
                     let destinoCoords = null;
                     if (edge.to_place_key && derivedData.coords && derivedData.coords[edge.to_place_key]) {
                         destinoCoords = derivedData.coords[edge.to_place_key];
                     }
-                    
+
                     return {
                         id: edge.id_carta,
                         remitente: edge.from_person || "Desconocido",
@@ -611,15 +772,16 @@
 
             // Sort by date
             letters.sort((a, b) => a.parsedDate - b.parsedDate);
+            buildSearchIndex();
             filteredLetters = [...letters];
-            
+
             // Re-render UI
             updateFilters();
             applyFilters();
-            
+
             renderTimelineMarkers();
             updateTimeline(document.getElementById('timeline-slider').value);
-            
+
             alert(`Se han importado ${letters.length} cartas y ${imgFiles.length} imágenes correctamente.`);
         }
 
@@ -631,24 +793,24 @@
             document.getElementById('view-dashboard').classList.remove('flex');
             document.getElementById('view-timeline').classList.add('hidden');
             document.getElementById('view-timeline').classList.remove('flex');
-            
+
             const target = document.getElementById(`view-${view}`);
             target.classList.remove('hidden');
             target.classList.add('flex');
-            
+
             document.querySelectorAll('.nav-btn').forEach(el => {
                 el.classList.remove('font-bold', 'text-primary', 'border-b-2', 'border-primary');
                 el.classList.add('text-text-muted');
             });
-            
+
             const activeNav = document.getElementById(`nav-${view}`);
-            if(activeNav) {
+            if (activeNav) {
                 activeNav.classList.remove('text-text-muted');
                 activeNav.classList.add('font-bold', 'text-primary', 'border-b-2', 'border-primary');
             }
 
-            if(view === 'dashboard' && mapDashboard) mapDashboard.invalidateSize();
-            if(view === 'timeline' && mapTimeline) mapTimeline.invalidateSize();
+            if (view === 'dashboard' && mapDashboard) mapDashboard.invalidateSize();
+            if (view === 'timeline' && mapTimeline) mapTimeline.invalidateSize();
         }
 
         function initDashboard() {
@@ -671,7 +833,7 @@
             L.tileLayer('https://{s}.basemaps.cartocdn.com/light_all/{z}/{x}/{y}{r}.png', {
                 attribution: '&copy; OpenStreetMap contributors'
             }).addTo(mapTimeline);
-            
+
             eventsLayer = L.layerGroup().addTo(mapTimeline);
 
             const slider = document.getElementById('timeline-slider');
@@ -686,7 +848,7 @@
             let score = 0;
             const text = (letter.texto_modernizado + " " + letter.texto_literal).toLowerCase();
             const edge = letter.edgeData || {};
-            
+
             if (lens === 'noticias') {
                 if (edge.event_ids && edge.event_ids.length > 0) {
                     score += edge.event_ids.length * 10;
@@ -716,7 +878,7 @@
 
         function setLens(lens) {
             currentLens = lens;
-            
+
             const lenses = ['none', 'noticias', 'salud', 'objetos'];
             lenses.forEach(l => {
                 const btn = document.getElementById(`lens-${l}`);
@@ -733,11 +895,49 @@
 
             renderCuratorTable(lens);
             applyFilters();
-            
+
             const slider = document.getElementById('timeline-slider');
             if (slider) {
                 updateTimeline(parseInt(slider.value));
             }
+        }
+
+        const KPI_TITLES_ES = {
+            relevant_letters: 'Cartas relevantes',
+            events: 'Eventos',
+            peak_month: 'Mes pico',
+            peak_month_label: 'Etiqueta del mes pico',
+            peak_score_note: 'Nota',
+            routes: 'Rutas',
+            people: 'Personas',
+            top_places: 'Lugares clave'
+        };
+
+        function escapeHtml(str) {
+            if (!str) return '';
+            return String(str)
+                .replace(/&/g, "&amp;")
+                .replace(/</g, "&lt;")
+                .replace(/>/g, "&gt;")
+                .replace(/"/g, "&quot;")
+                .replace(/'/g, "&#039;");
+        }
+
+        function getDisplayLabel(item) {
+            if (!item || typeof item !== 'object') return 'Elemento sin nombre';
+            const candidates = [
+                item.label,
+                item.title,
+                item.name,
+                item.term,
+                item.person,
+                item.route,
+                item.route_label,
+                item.id,
+                item.event_id
+            ].filter(Boolean);
+            const val = candidates[0];
+            return (typeof val === 'string' && val.trim()) ? val.trim() : 'Elemento sin nombre';
         }
 
         function renderCuratorTable(lens) {
@@ -766,11 +966,15 @@
 
             let kpisHtml = '';
             if (lensData.kpis) {
-                kpisHtml = Object.entries(lensData.kpis).map(([key, value]) => `
+                kpisHtml = Object.entries(lensData.kpis).map(([key, value]) => {
+                    const normalizedKey = key.toLowerCase().replace(/\s+/g, '_');
+                    const label = KPI_TITLES_ES[normalizedKey] || key.replaceAll('_', ' ');
+                    return `
                     <span class="bg-[#f3f0e7] text-secondary px-2 py-1 rounded text-xs font-medium border border-[#e7e1cf]">
-                        ${key.replace('_', ' ').toUpperCase()}: <strong class="text-primary">${value}</strong>
+                        ${label}: <strong class="text-primary">${value}</strong>
                     </span>
-                `).join('');
+                    `;
+                }).join('');
             }
 
             let bulletsHtml = '';
@@ -787,35 +991,82 @@
                 panelsHtml = `
                     <div class="grid grid-cols-1 md:grid-cols-3 gap-4 mt-4">
                         ${lensData.panels.slice(0, 3).map(panel => {
-                            let itemsHtml = '';
-                            if (panel.items && panel.items.length > 0) {
-                                itemsHtml = panel.items.slice(0, 6).map(item => {
-                                    let onClick = '';
-                                    let cursorClass = 'cursor-default';
-                                    let hoverClass = '';
-                                    
-                                    if (panel.type === 'top_events' && item.id) {
-                                        onClick = `onclick="openEventCard('${item.id}')"`;
-                                        cursorClass = 'cursor-pointer';
-                                        hoverClass = 'hover:bg-[#f3f0e7] hover:text-primary';
-                                    } else if (panel.type === 'top_routes' && item.from && item.to) {
-                                        // Optional: add map_highlight_route logic if needed
-                                        cursorClass = 'cursor-pointer';
-                                        hoverClass = 'hover:bg-[#f3f0e7] hover:text-primary';
-                                    } else if (panel.type === 'top_people') {
-                                        onClick = `onclick="document.getElementById('filter-text').value='${item.label}'; applyFilters();"`;
-                                        cursorClass = 'cursor-pointer';
-                                        hoverClass = 'hover:bg-[#f3f0e7] hover:text-primary';
-                                    } else if ((panel.type === 'medical_terms' || panel.type === 'objects') && item.label) {
-                                        onClick = `onclick="document.getElementById('filter-text').value='${item.label}'; applyFilters();"`;
+                    let itemsHtml = '';
+
+                    if (panel.type === 'top_routes' && (!panel.items || panel.items.length === 0)) {
+                        const routeCounts = {};
+                        filteredLetters.forEach(l => {
+                            if (l.origen && l.origen.nombre && l.destino && l.destino.nombre && l.origen.nombre !== "Desconocido" && l.destino.nombre !== "Desconocido") {
+                                const rKey = `${l.origen.nombre}|${l.destino.nombre}`;
+                                routeCounts[rKey] = (routeCounts[rKey] || 0) + 1;
+                            }
+                        });
+                        panel.items = Object.entries(routeCounts)
+                            .sort((a, b) => b[1] - a[1])
+                            .slice(0, 6)
+                            .map(([k, count]) => {
+                                const [f, t] = k.split('|');
+                                return { route: `${f} &rarr; ${t}`, from: f, to: t, count };
+                            });
+                    }
+
+                    if (panel.items && panel.items.length > 0) {
+                        itemsHtml = panel.items.slice(0, 6).map(item => {
+                            let onClick = '';
+                            let cursorClass = 'cursor-default';
+                            let hoverClass = '';
+
+                            if (panel.type === 'top_events' && item.id) {
+                                onClick = `onclick="openEventCard('${item.id}')"`;
+                                cursorClass = 'cursor-pointer';
+                                hoverClass = 'hover:bg-[#f3f0e7] hover:text-primary';
+                            } else if (panel.type === 'top_routes' && item.from && item.to) {
+                                onClick = `onclick="document.getElementById('filter-origen').value='${item.from}'; document.getElementById('filter-dest').value='${item.to}'; applyFilters();"`;
+                                cursorClass = 'cursor-pointer';
+                                hoverClass = 'hover:bg-[#f3f0e7] hover:text-primary';
+                            } else if (panel.type === 'top_people') {
+                                const pName = item.label || item.person || item.name;
+                                onClick = `onclick="document.getElementById('filter-remitente').value='${pName}'; applyFilters(); setTimeout(() => { if(filteredLetters.length === 0) { document.getElementById('filter-remitente').value=''; document.getElementById('filter-destinatario').value='${pName}'; applyFilters(); } }, 50);"`;
+                                cursorClass = 'cursor-pointer';
+                                hoverClass = 'hover:bg-[#f3f0e7] hover:text-primary';
+                            } else if ((panel.type === 'medical_terms' || panel.type === 'objects') && item.label) {
+                                onClick = `onclick="document.getElementById('filter-text').value='${item.label}'; applyFiltersDebounced();"`;
+                                cursorClass = 'cursor-pointer';
+                                hoverClass = 'hover:bg-[#f3f0e7] hover:text-primary';
+                            }
+
+                            const displayLabel = getDisplayLabel(item);
+                            if (displayLabel === 'Elemento sin nombre') return '';
+
+                            let finalOnClick = onClick;
+                            if (!finalOnClick) {
+                                if (item.event_id) {
+                                    finalOnClick = `onclick="openEventCard('${item.event_id}')"`;
+                                    cursorClass = 'cursor-pointer';
+                                    hoverClass = 'hover:bg-[#f3f0e7] hover:text-primary';
+                                } else if (item.person || item.name) {
+                                    const pName = item.person || item.name;
+                                    finalOnClick = `onclick="document.getElementById('filter-remitente').value='${pName}'; applyFilters(); setTimeout(() => { if(filteredLetters.length === 0) { document.getElementById('filter-remitente').value=''; document.getElementById('filter-destinatario').value='${pName}'; applyFilters(); } }, 50);"`;
+                                    cursorClass = 'cursor-pointer';
+                                    hoverClass = 'hover:bg-[#f3f0e7] hover:text-primary';
+                                } else if (item.route || (item.from && item.to)) {
+                                    const from = item.from || (item.route && item.route.split(/[\u2192&rarr;>]/)[0].trim());
+                                    const to = item.to || (item.route && item.route.split(/[\u2192&rarr;>]/)[1].trim());
+                                    if (from && to) {
+                                        finalOnClick = `onclick="document.getElementById('filter-origen').value='${from}'; document.getElementById('filter-dest').value='${to}'; applyFilters();"`;
                                         cursorClass = 'cursor-pointer';
                                         hoverClass = 'hover:bg-[#f3f0e7] hover:text-primary';
                                     }
-
-                                    return `<li ${onClick} class="text-xs text-secondary py-1 border-b border-[#e7e1cf] last:border-0 truncate transition-colors ${cursorClass} ${hoverClass}" title="${item.label}">${item.label}</li>`;
-                                }).join('');
+                                }
                             }
-                            return `
+                            let onClickAttr = (finalOnClick && typeof finalOnClick === 'string')
+                                ? (finalOnClick.includes('onclick=') ? finalOnClick : `onclick="${finalOnClick.replace(/"/g, '&quot;')}"`)
+                                : '';
+
+                            return `<li ${onClickAttr} class="text-xs text-secondary py-1 border-b border-[#e7e1cf] last:border-0 truncate transition-colors ${cursorClass} ${hoverClass}" title="${escapeHtml(displayLabel)}">${escapeHtml(displayLabel)}</li>`;
+                        }).join('');
+                    }
+                    return `
                                 <div class="bg-white p-3 rounded-lg border border-[#e7e1cf] shadow-sm">
                                     <h4 class="text-xs font-bold text-text-muted uppercase tracking-wider mb-2">${panel.title || panel.type}</h4>
                                     <ul class="space-y-1">
@@ -823,7 +1074,7 @@
                                     </ul>
                                 </div>
                             `;
-                        }).join('')}
+                }).join('')}
                     </div>
                 `;
             }
@@ -835,8 +1086,9 @@
                         <div>
                             <h3 class="font-serif text-xl font-bold text-primary flex items-center gap-2">
                                 ${lensData.title || lens.charAt(0).toUpperCase() + lens.slice(1)}
-                                <span class="material-symbols-outlined text-[16px] text-text-muted cursor-help" title="Esta lente reordena y explica por qué estas cartas destacan.">help</span>
+                                <span class="material-symbols-outlined text-[16px] text-text-muted cursor-help" title="Las lentes reordenan por relevancia y resaltan motivos (evento/tema/objeto).">help</span>
                             </h3>
+                            <p class="text-xs text-text-muted font-medium mb-1">Esta lente reordena las cartas por relevancia y muestra un resumen curatorial. No elimina cartas; cambia el foco.</p>
                             <p class="text-sm text-secondary font-medium mt-1">${lensData.one_liner || ''}</p>
                         </div>
                         <div class="flex flex-wrap gap-2 justify-end max-w-[40%]">
@@ -853,9 +1105,9 @@
             const container = document.getElementById('timeline-markers');
             if (!container) return;
             container.innerHTML = '';
-            
+
             const monthsSet = new Set();
-            
+
             if (derivedData.edges && derivedData.edges.length > 0) {
                 derivedData.edges.forEach(e => {
                     if (e.date_iso) {
@@ -870,7 +1122,7 @@
                             monthsSet.add(m);
                         } else if (e.date) {
                             const d = new Date(e.date);
-                            const m = `${d.getFullYear()}-${String(d.getMonth()+1).padStart(2, '0')}`;
+                            const m = `${d.getFullYear()}-${String(d.getMonth() + 1).padStart(2, '0')}`;
                             monthsSet.add(m);
                         } else if (e.year && e.month) {
                             const m = `${e.year}-${String(e.month).padStart(2, '0')}`;
@@ -879,7 +1131,7 @@
                     });
                 }
             }
-            
+
             if (monthsSet.size > 0) {
                 timelineMonthKeys = Array.from(monthsSet).sort();
             } else {
@@ -898,12 +1150,12 @@
             }
 
             const monthNames = ["Enero", "Febrero", "Marzo", "Abril", "Mayo", "Junio", "Julio", "Agosto", "Septiembre", "Octubre", "Noviembre", "Diciembre"];
-            
+
             if (timelineMonthKeys.length > 0) {
                 const firstKey = timelineMonthKeys[0].split('-');
                 const lastKey = timelineMonthKeys[timelineMonthKeys.length - 1].split('-');
-                document.getElementById('timeline-start-label').innerText = `${monthNames[parseInt(firstKey[1])-1]} ${firstKey[0]}`;
-                document.getElementById('timeline-end-label').innerText = `${monthNames[parseInt(lastKey[1])-1]} ${lastKey[0]}`;
+                document.getElementById('timeline-start-label').innerText = `${monthNames[parseInt(firstKey[1]) - 1]} ${firstKey[0]}`;
+                document.getElementById('timeline-end-label').innerText = `${monthNames[parseInt(lastKey[1]) - 1]} ${lastKey[0]}`;
                 document.getElementById('timeline-start-year').innerText = firstKey[0];
                 document.getElementById('timeline-end-year').innerText = lastKey[0];
             }
@@ -919,7 +1171,7 @@
                             if (e.date_iso) m = e.date_iso.substring(0, 7);
                             else if (e.date) {
                                 const d = new Date(e.date);
-                                m = `${d.getFullYear()}-${String(d.getMonth()+1).padStart(2, '0')}`;
+                                m = `${d.getFullYear()}-${String(d.getMonth() + 1).padStart(2, '0')}`;
                             } else if (e.year && e.month) {
                                 m = `${e.year}-${String(e.month).padStart(2, '0')}`;
                             }
@@ -930,10 +1182,10 @@
                             if (e.theme === 'Salud' || e.theme === 'Justicia') score += 2;
                         });
                     }
-                    
+
                     const maxScore = 10;
                     const opacity = Math.min(score / maxScore, 1);
-                    
+
                     const rect = document.createElement('div');
                     rect.className = 'flex-1 h-full bg-[#c5a028] border-r border-white/20';
                     rect.style.opacity = opacity > 0 ? (0.2 + opacity * 0.8) : 0;
@@ -944,7 +1196,7 @@
             timelineMonthKeys.forEach((monthKey, index) => {
                 const hasLetters = letters.some(l => {
                     if (!l.parsedDate) return false;
-                    const m = `${l.parsedDate.getFullYear()}-${String(l.parsedDate.getMonth()+1).padStart(2, '0')}`;
+                    const m = `${l.parsedDate.getFullYear()}-${String(l.parsedDate.getMonth() + 1).padStart(2, '0')}`;
                     return m === monthKey;
                 });
 
@@ -955,7 +1207,7 @@
                     marker.style.left = `calc(10px + ${leftPercent} * (100% - 20px))`;
                     marker.style.transform = 'translate(-50%, -50%)';
                     const parts = monthKey.split('-');
-                    marker.title = `Ver cartas de ${monthNames[parseInt(parts[1])-1]} ${parts[0]}`;
+                    marker.title = `Ver cartas de ${monthNames[parseInt(parts[1]) - 1]} ${parts[0]}`;
                     marker.onclick = (e) => {
                         e.stopPropagation();
                         const slider = document.getElementById('timeline-slider');
@@ -977,7 +1229,7 @@
             const r2 = (r / 2) / Math.cos(thetaOffset);
             const centerLat = latlng1[0] + r2 * Math.sin(theta + thetaOffset);
             const centerLng = latlng1[1] + r2 * Math.cos(theta + thetaOffset);
-            
+
             const points = [];
             for (let i = 0; i <= 20; i++) {
                 const t = i / 20;
@@ -1019,7 +1271,7 @@
             Object.values(routes).forEach(route => {
                 const p1 = [route.origen.lat, route.origen.lng];
                 const p2 = [route.destino.lat, route.destino.lng];
-                
+
                 const curvePoints = getCurvePoints(p1, p2, 1);
                 const color = colors[colorIndex % colors.length];
                 colorIndex++;
@@ -1033,7 +1285,7 @@
                     opacity: 0.6,
                     className: 'arc-path cursor-pointer transition-all duration-300'
                 }).addTo(mapInstance);
-                
+
                 const midPoint = curvePoints[Math.floor(curvePoints.length / 2)];
                 const labelText = route.count > 1 ? `${route.count} cartas` : route.letters[0].fecha;
                 const labelIcon = L.divIcon({
@@ -1049,33 +1301,33 @@
                 const originMarker = L.circleMarker(p1, {
                     radius: 5 + Math.min(5, route.count * 0.5), fillColor: '#2d2a26', color: '#fff', weight: 2, fillOpacity: 1, className: 'cursor-pointer transition-all duration-300'
                 }).addTo(mapInstance);
-                
+
                 const destMarker = L.circleMarker(p2, {
                     radius: 5 + Math.min(5, route.count * 0.5), fillColor: color, color: '#fff', weight: 2, fillOpacity: 1, className: 'cursor-pointer transition-all duration-300'
                 }).addTo(mapInstance);
-                
+
                 route.letters.forEach(letter => {
-                    dashboardLayers[letter.id] = { 
+                    dashboardLayers[letter.id] = {
                         line, originMarker, destMarker, labelMarker, color, routeKey: `${route.origen.nombre}-${route.destino.nombre}`, baseWeight
                     };
                 });
-                
+
                 arcArray.push(line, originMarker, destMarker, labelMarker);
 
                 const handleMouseOver = () => {
                     route.letters.forEach(l => highlightListElement(l.id));
-                    
+
                     line.setStyle({ weight: baseWeight + 3, opacity: 1 });
                     line.bringToFront();
                     originMarker.setStyle({ radius: 8 + Math.min(5, route.count * 0.5), opacity: 1, fillOpacity: 1 });
                     originMarker.bringToFront();
                     destMarker.setStyle({ radius: 8 + Math.min(5, route.count * 0.5), opacity: 1, fillOpacity: 1 });
                     destMarker.bringToFront();
-                    
+
                     const labelEl = document.getElementById(`label-route-${route.origen.nombre}-${route.destino.nombre}`);
                     if (labelEl) labelEl.classList.remove('opacity-0');
                 };
-                
+
                 const handleMouseOut = () => {
                     resetListHighlight();
                     resetMapHighlight();
@@ -1096,7 +1348,7 @@
 
             Object.values(dashboardLayers).forEach(layers => {
                 const labelEl = document.getElementById(`label-route-${layers.routeKey}`);
-                
+
                 if (layers.routeKey === targetLayer.routeKey) {
                     layers.line.setStyle({ weight: layers.baseWeight + 3, opacity: 1 });
                     layers.line.bringToFront();
@@ -1104,13 +1356,13 @@
                     layers.originMarker.bringToFront();
                     layers.destMarker.setStyle({ radius: 8, opacity: 1, fillOpacity: 1 });
                     layers.destMarker.bringToFront();
-                    
+
                     if (labelEl) labelEl.classList.remove('opacity-0');
                 } else {
                     layers.line.setStyle({ weight: layers.baseWeight, opacity: 0.15 });
                     layers.originMarker.setStyle({ opacity: 0.15, fillOpacity: 0.15 });
                     layers.destMarker.setStyle({ opacity: 0.15, fillOpacity: 0.15 });
-                    
+
                     if (labelEl) labelEl.classList.add('opacity-0');
                 }
             });
@@ -1119,9 +1371,9 @@
         function highlightLocation(locationName) {
             resetMapHighlight();
             resetListHighlight();
-            
+
             const relatedLetters = filteredLetters.filter(l => (l.origen && l.origen.nombre === locationName) || (l.destino && l.destino.nombre === locationName));
-            
+
             relatedLetters.forEach(l => {
                 highlightMapElement(l.id);
                 highlightListElement(l.id);
@@ -1133,7 +1385,7 @@
                 layers.line.setStyle({ weight: layers.baseWeight, opacity: 0.6 });
                 layers.originMarker.setStyle({ radius: 5, opacity: 1, fillOpacity: 1 });
                 layers.destMarker.setStyle({ radius: 5, opacity: 1, fillOpacity: 1 });
-                
+
                 const labelEl = document.getElementById(`label-route-${layers.routeKey}`);
                 if (labelEl) labelEl.classList.add('opacity-0');
             });
@@ -1188,20 +1440,31 @@
             populate('filter-origen', origenes, 'Origen (Todos)');
             populate('filter-dest', destinos, 'Destino (Todos)');
             populate('filter-idioma', idiomas, 'Idioma (Todos)');
-            
+
             const textFilter = document.getElementById('filter-text');
             if (textFilter) {
-                textFilter.addEventListener('input', applyFilters);
+                textFilter.removeEventListener('input', applyFiltersDebounced);
+                textFilter.addEventListener('input', applyFiltersDebounced);
             }
         }
 
+        let searchTimeoutId = null;
+        function applyFiltersDebounced() {
+            clearTimeout(searchTimeoutId);
+            searchTimeoutId = setTimeout(applyFilters, 150);
+        }
+
         function applyFilters() {
-            const text = document.getElementById('filter-text')?.value.toLowerCase() || '';
+            const rawText = document.getElementById('filter-text')?.value || '';
+            const text = normalizeString(rawText);
             const rem = document.getElementById('filter-remitente')?.value || '';
             const dest = document.getElementById('filter-destinatario')?.value || '';
             const ori = document.getElementById('filter-origen')?.value || '';
             const des = document.getElementById('filter-dest')?.value || '';
             const idi = document.getElementById('filter-idioma')?.value || '';
+
+            const clearBtn = document.getElementById('clear-search-btn');
+            if (clearBtn) clearBtn.style.display = rawText ? 'block' : 'none';
 
             filteredLetters = letters.filter(l => {
                 let match = true;
@@ -1210,13 +1473,19 @@
                 if (ori && (!l.origen || l.origen.nombre !== ori)) match = false;
                 if (des && (!l.destino || l.destino.nombre !== des)) match = false;
                 if (idi && l.idioma !== idi) match = false;
-                
-                if (text) {
-                    const searchable = `${l.remitente} ${l.destinatario} ${l.origen?.nombre} ${l.destino?.nombre} ${l.texto_literal} ${l.texto_modernizado}`.toLowerCase();
-                    if (!searchable.includes(text)) match = false;
+
+                if (text && window.searchIndex) {
+                    const indexed = window.searchIndex.find(idx => idx.id === l.id);
+                    if (indexed && !indexed.haystack.includes(text)) match = false;
                 }
                 return match;
             });
+
+            const resultsCount = document.getElementById('search-results-count');
+            if (resultsCount) {
+                resultsCount.innerText = `${filteredLetters.length} resultados`;
+                resultsCount.style.display = rawText ? 'block' : 'none';
+            }
 
             if (currentLens !== 'none') {
                 filteredLetters.sort((a, b) => {
@@ -1237,7 +1506,7 @@
             const container = document.getElementById('letter-list');
             if (!container) return;
             container.innerHTML = '';
-            
+
             data.forEach((letter, index) => {
                 const colors = ['#c5a028', '#4a6741', '#8b5a2b', '#2d6a4f', '#9c6644', '#6b705c'];
                 const color = colors[index % colors.length];
@@ -1285,24 +1554,35 @@
         }
         function updateTimeline(index) {
             if (!timelineMonthKeys || timelineMonthKeys.length === 0) return;
-            
+
             const monthKey = timelineMonthKeys[index];
-            const parts = monthKey.split('-');
-            const year = parseInt(parts[0]);
-            const month = parseInt(parts[1]);
-            const monthNames = ["Enero", "Febrero", "Marzo", "Abril", "Mayo", "Junio", "Julio", "Agosto", "Septiembre", "Octubre", "Noviembre", "Diciembre"];
-            
-            document.getElementById('current-month-display').innerText = `${monthNames[month-1]} ${year}`;
+            let labelText = '';
+            if (monthKey) {
+                const parts = monthKey.split('-');
+                if (parts.length === 2) {
+                    const year = parseInt(parts[0]);
+                    const month = parseInt(parts[1]);
+                    const monthNames = ["Enero", "Febrero", "Marzo", "Abril", "Mayo", "Junio", "Julio", "Agosto", "Septiembre", "Octubre", "Noviembre", "Diciembre"];
+                    const monthLabel = monthNames[month - 1];
+                    labelText = (monthLabel || '') + ' ' + (year || '');
+                } else {
+                    labelText = monthKey;
+                }
+            } else {
+                labelText = '(sin fecha)';
+            }
+
+            document.getElementById('current-month-display').innerText = labelText.trim();
 
             const currentMonthLetters = [];
             const previousLetters = [];
-            
+
             letters.forEach(l => {
                 if (!l.parsedDate) return;
                 const lYear = l.parsedDate.getFullYear();
                 const lMonth = l.parsedDate.getMonth() + 1;
                 const lKey = `${lYear}-${String(lMonth).padStart(2, '0')}`;
-                
+
                 if (lKey < monthKey) {
                     previousLetters.push(l);
                 } else if (lKey === monthKey) {
@@ -1319,7 +1599,7 @@
 
             // Draw previous (faded)
             drawTimelineArcs(mapTimeline, previousLetters, timelineArcs, true);
-            
+
             // Draw current (highlighted)
             drawTimelineArcs(mapTimeline, currentMonthLetters, timelineArcs, false);
 
@@ -1333,19 +1613,19 @@
                         item.classList.add('opacity-50', 'scale-95');
                         item.classList.remove('border-primary', 'shadow-md');
                     });
-                    
+
                     // Add month header
                     if (feedContainer.querySelector('.italic')) feedContainer.innerHTML = '';
                     const header = document.createElement('div');
                     header.className = 'sticky top-0 bg-[#fcfbf8]/95 backdrop-blur py-1 z-10 text-center border-b border-[#e7e1cf] mb-2';
-                    header.innerHTML = `<span class="text-[10px] font-bold tracking-widest uppercase text-primary">${monthNames[month-1]} ${year}</span>`;
+                    header.innerHTML = `<span class="text-[10px] font-bold tracking-widest uppercase text-primary">${labelText.trim()}</span>`;
                     feedContainer.appendChild(header);
                 }
 
                 currentMonthLetters.forEach(l => animateLetter(l, mapTimeline, currentMonthLetters.length));
             }
             lastMonthIndex = index;
-            
+
             // Update Events
             if (eventsLayer) {
                 eventsLayer.clearLayers();
@@ -1355,13 +1635,13 @@
                         if (e.date_iso) m = e.date_iso.substring(0, 7);
                         else if (e.date) {
                             const d = new Date(e.date);
-                            m = `${d.getFullYear()}-${String(d.getMonth()+1).padStart(2, '0')}`;
+                            m = `${d.getFullYear()}-${String(d.getMonth() + 1).padStart(2, '0')}`;
                         } else if (e.year && e.month) {
                             m = `${e.year}-${String(e.month).padStart(2, '0')}`;
                         }
                         return m === monthKey;
                     });
-                    
+
                     currentEvents.forEach(ev => {
                         let coords = null;
                         if (ev.place_keys && ev.place_keys.length > 0) {
@@ -1372,7 +1652,7 @@
                         } else if (ev.lat && ev.lng) {
                             coords = [ev.lat, ev.lng];
                         }
-                        
+
                         if (coords) {
                             const icon = L.divIcon({
                                 className: 'event-marker',
@@ -1382,7 +1662,7 @@
                                 iconSize: [30, 30],
                                 iconAnchor: [15, 15]
                             });
-                            
+
                             const marker = L.marker(coords, { icon, zIndexOffset: 2000 }).addTo(eventsLayer);
                             marker.on('click', () => openEventCard(ev));
                         }
@@ -1414,7 +1694,7 @@
                     }
                 }
             }
-            
+
             // Update Summary Overlay
             const summaryOverlay = document.getElementById('timeline-summary-overlay');
             const summaryContent = document.getElementById('timeline-summary-content');
@@ -1429,7 +1709,7 @@
                     `;
                 } else {
                     summaryContent.innerHTML = `
-                        <p class="text-[10px] font-bold text-text-muted uppercase mb-1">${monthNames[month-1]} ${year}</p>
+                        <p class="text-[10px] font-bold text-text-muted uppercase mb-1">${monthNames[month - 1]} ${year}</p>
                         <p class="font-serif font-bold text-primary text-base leading-tight mb-1">Múltiples correspondencias (${currentMonthLetters.length} cartas)</p>
                         <p class="text-xs text-secondary">Actividad simultánea en varias rutas.</p>
                     `;
@@ -1443,16 +1723,16 @@
             let bounds = L.latLngBounds();
             if (currentMonthLetters.length > 0) {
                 currentMonthLetters.forEach(l => {
-                    if(l.origen) bounds.extend([l.origen.lat, l.origen.lng]);
-                    if(l.destino) bounds.extend([l.destino.lat, l.destino.lng]);
+                    if (l.origen) bounds.extend([l.origen.lat, l.origen.lng]);
+                    if (l.destino) bounds.extend([l.destino.lat, l.destino.lng]);
                 });
             } else if (previousLetters.length > 0) {
                 previousLetters.forEach(l => {
-                    if(l.origen) bounds.extend([l.origen.lat, l.origen.lng]);
-                    if(l.destino) bounds.extend([l.destino.lat, l.destino.lng]);
+                    if (l.origen) bounds.extend([l.origen.lat, l.origen.lng]);
+                    if (l.destino) bounds.extend([l.destino.lat, l.destino.lng]);
                 });
             }
-            
+
             if (bounds.isValid()) {
                 mapTimeline.flyToBounds(bounds, { padding: [80, 80], duration: 1.5, maxZoom: 6, easeLinearity: 0.25 });
             }
@@ -1464,7 +1744,7 @@
         function togglePlay() {
             const btn = document.getElementById('play-btn-icon');
             const progressBar = document.getElementById('playback-progress-bar');
-            
+
             if (timelineTimeout) {
                 clearTimeout(timelineTimeout);
                 clearInterval(progressInterval);
@@ -1502,12 +1782,12 @@
             const slider = document.getElementById('timeline-slider');
             let currentVal = parseInt(slider.value);
             const months = getMonthsWithLetters();
-            
+
             if (months.length === 0) return;
-            
+
             let nextVal = months.find(m => m > currentVal);
             if (nextVal === undefined) nextVal = months[0]; // Loop back to start
-            
+
             slider.value = nextVal;
             updateTimeline(nextVal);
         }
@@ -1516,12 +1796,12 @@
             const slider = document.getElementById('timeline-slider');
             let currentVal = parseInt(slider.value);
             const months = getMonthsWithLetters();
-            
+
             if (months.length === 0) return;
-            
+
             let prevVal = [...months].reverse().find(m => m < currentVal);
             if (prevVal === undefined) prevVal = months[months.length - 1]; // Loop to end
-            
+
             slider.value = prevVal;
             updateTimeline(prevVal);
         }
@@ -1529,40 +1809,40 @@
         function playNextEvent() {
             const btn = document.getElementById('play-btn-icon');
             if (btn.innerText !== 'pause') return;
-            
+
             let slider = document.getElementById('timeline-slider');
             let currentVal = parseInt(slider.value);
             const months = getMonthsWithLetters();
-            
+
             // If no letters at all, just stop
             if (months.length === 0) {
                 togglePlay();
                 return;
             }
-            
+
             let nextVal = months.find(m => m > currentVal);
             if (nextVal === undefined) nextVal = months[0];
-            
+
             slider.value = nextVal;
             updateTimeline(nextVal);
-            
+
             const speedSelector = document.getElementById('playback-speed');
             const delay = speedSelector ? parseInt(speedSelector.value) : 1500;
             const totalWait = delay + 2500; // 2.5s animation + delay
-            
+
             // Progress Bar Animation
             const progressBar = document.getElementById('playback-progress-bar');
             if (progressBar) {
                 progressBar.style.transition = 'none';
                 progressBar.style.width = '0%';
-                
+
                 // Force reflow
                 void progressBar.offsetWidth;
-                
+
                 progressBar.style.transition = `width ${totalWait}ms linear`;
                 progressBar.style.width = '100%';
             }
-            
+
             timelineTimeout = setTimeout(playNextEvent, totalWait);
         }
 
@@ -1571,7 +1851,7 @@
             const p1 = [letter.origen.lat, letter.origen.lng];
             const p2 = [letter.destino.lat, letter.destino.lng];
             const curvePoints = getCurvePoints(p1, p2);
-            
+
             // Add to feed
             const feedContainer = document.getElementById('timeline-feed-content');
             if (feedContainer) {
@@ -1596,7 +1876,7 @@
                     </p>
                 `;
                 feedContainer.appendChild(feedItem);
-                
+
                 // Smooth scroll to bottom
                 setTimeout(() => {
                     feedContainer.scrollTo({
@@ -1652,7 +1932,7 @@
             });
             const destLabel = L.marker(p2, { icon: destIcon }).addTo(mapInstance);
             timelineArcs.push(destLabel);
-            
+
             // Moving Envelope
             const icon = L.divIcon({
                 className: 'moving-letter-label',
@@ -1662,27 +1942,27 @@
                        </div>`,
                 iconSize: [0, 0]
             });
-            
+
             const marker = L.marker(curvePoints[0], { icon: icon, zIndexOffset: 1000 }).addTo(mapInstance);
             marker.isAnimating = true;
             timelineArcs.push(marker); // Keep track to clear it if needed
-            
+
             let start = null;
             const duration = 3000; // 3 seconds animation
-            
+
             function step(timestamp) {
                 if (!marker.isAnimating) return;
                 if (!start) start = timestamp;
                 const progress = (timestamp - start) / duration;
-                
+
                 if (progress < 1) {
                     const index = progress * (curvePoints.length - 1);
                     const i = Math.floor(index);
                     const f = index - i;
-                    
+
                     if (i < curvePoints.length - 1) {
-                        const lat = curvePoints[i][0] + (curvePoints[i+1][0] - curvePoints[i][0]) * f;
-                        const lng = curvePoints[i][1] + (curvePoints[i+1][1] - curvePoints[i][1]) * f;
+                        const lat = curvePoints[i][0] + (curvePoints[i + 1][0] - curvePoints[i][0]) * f;
+                        const lng = curvePoints[i][1] + (curvePoints[i + 1][1] - curvePoints[i][1]) * f;
                         marker.setLatLng([lat, lng]);
                     }
                     requestAnimationFrame(step);
@@ -1704,7 +1984,7 @@
                 const p1 = [letter.origen.lat, letter.origen.lng];
                 const p2 = [letter.destino.lat, letter.destino.lng];
                 const curvePoints = getCurvePoints(p1, p2);
-                
+
                 const line = L.polyline(curvePoints, {
                     color: isFaded ? '#a39b82' : '#c5a028',
                     weight: isFaded ? 1.5 : 3,
@@ -1714,16 +1994,16 @@
                 arcArray.push(line);
 
                 const originMarker = L.circleMarker(p1, {
-                    radius: isFaded ? 4 : 6, 
-                    fillColor: isFaded ? '#a39b82' : '#2d2a26', 
+                    radius: isFaded ? 4 : 6,
+                    fillColor: isFaded ? '#a39b82' : '#2d2a26',
                     color: '#fff', weight: 1, fillOpacity: isFaded ? 0.5 : 1
                 }).bindTooltip("Origen: " + (letter.origen.nombre || "Desconocido")).addTo(mapInstance);
                 arcArray.push(originMarker);
 
                 const destMarker = L.circleMarker(p2, {
-                    radius: isFaded ? 4 : 7, 
-                    fillColor: isFaded ? '#eaddcf' : '#c5a028', 
-                    color: isFaded ? '#a39b82' : '#2d2a26', 
+                    radius: isFaded ? 4 : 7,
+                    fillColor: isFaded ? '#eaddcf' : '#c5a028',
+                    color: isFaded ? '#a39b82' : '#2d2a26',
                     weight: 2, fillOpacity: isFaded ? 0.6 : 1
                 }).bindTooltip("Destino: " + (letter.destino.nombre || "Desconocido")).addTo(mapInstance);
                 arcArray.push(destMarker);
@@ -1737,15 +2017,15 @@
             const reader = document.getElementById('view-reader');
             reader.classList.remove('hidden');
             reader.classList.add('flex');
-            
+
             document.getElementById('reader-title').innerText = letter.nombre_carta || `De ${letter.remitente} a ${letter.destinatario}`;
             document.getElementById('reader-date').innerHTML = `<span class="material-symbols-outlined text-[16px]">calendar_today</span> ${letter.fecha}`;
             document.getElementById('reader-route').innerHTML = `<span class="material-symbols-outlined text-[16px]">route</span> ${(letter.origen && letter.origen.nombre) || 'Desconocido'} &rarr; ${(letter.destino && letter.destino.nombre) || 'Desconocido'}`;
-            
+
             currentZoom = 1;
             const imgEl = document.getElementById('manuscript-img');
             imgEl.style.transform = `scale(${currentZoom})`;
-            
+
             // Set image from map or fallback
             let imgSrc = "https://images.unsplash.com/photo-1577083552431-6e5fd01aa342?q=80&w=1000&auto=format&fit=crop";
             if (letter.imagenes && letter.imagenes.length > 0) {
@@ -1758,7 +2038,7 @@
                 }
             }
             imgEl.src = imgSrc;
-            
+
             toggleTranscription('modern');
         }
 
@@ -1771,9 +2051,9 @@
 
         const formatText = (text, isModern, highlightQuote = null) => {
             if (!text) return "";
-            
+
             let formattedText = text;
-            
+
             // If there are no newlines, try to add them intelligently based on 17th-century Spanish letter patterns
             if (!formattedText.includes('\n')) {
                 if (!isModern) {
@@ -1784,13 +2064,13 @@
                     let t = formattedText;
                     // Greeting
                     t = t.replace(/^(Amigo y señor mío,|Muy señor mío,|Señor mío,|Excelentísimo Señor,)\s*/i, '$1\n\n');
-                    
+
                     // Sign-offs and common endings
                     t = t.replace(/(Besa las manos|Guarde Dios|cuya vida guarde|Dios guarde|Quedo a la obediencia|Su más seguro servidor|Perdóneme v\. m\.)/gi, '\n\n$1');
-                    
+
                     // Dates/Locations at the end
                     t = t.replace(/(\. )([A-Z][a-z]+ y [a-z]+, a \d+ de \d{4}|\bMadrid, \d+|\bValencia, \d+|\bZaragoza, \d+)/g, '$1\n\n$2');
-                    
+
                     let paragraphs = t.split(/\n\n+/);
                     let newParagraphs = [];
                     for (let p of paragraphs) {
@@ -1817,7 +2097,7 @@
 
             const paragraphs = formattedText.split(/\n+/).filter(p => p.trim() !== '');
             if (paragraphs.length === 0) return "";
-            
+
             let html = paragraphs.map((p, i) => {
                 if (isModern && i === 0 && !p.match(/^(Amigo y señor mío,|Muy señor mío,|Señor mío,|Excelentísimo Señor,)$/i)) {
                     return `<p class="mb-4 first-letter:text-5xl first-letter:font-bold first-letter:text-primary first-letter:float-left first-letter:mr-3 first-letter:mt-[-6px] leading-relaxed">${p}</p>`;
@@ -1829,13 +2109,13 @@
                 }
                 return `<p class="mb-4 leading-relaxed">${p}</p>`;
             }).join('');
-            
+
             if (highlightQuote) {
                 // Try to highlight the quote. We'll do a simple string replacement.
                 // To handle potential minor differences in spacing, we could use a regex,
                 // but for now a direct replace (case-insensitive) is safest to avoid breaking HTML.
                 const escapeRegExp = (string) => string.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
-                
+
                 // Create a regex that allows flexible whitespace between words in the quote
                 const words = highlightQuote.split(/\s+/).filter(w => w.length > 0);
                 if (words.length > 0) {
@@ -1843,18 +2123,18 @@
                     html = html.replace(flexibleQuoteRegex, '<mark class="bg-yellow-200 text-yellow-900 px-1 rounded font-medium">$1</mark>');
                 }
             }
-            
+
             return html;
         };
 
         function toggleTranscription(type) {
-            if(!currentLetter) return;
+            if (!currentLetter) return;
             currentTranscription = type;
-            
+
             const btnLiteral = document.getElementById('btn-literal');
             const btnModern = document.getElementById('btn-modern');
-            
-            if(type === 'literal') {
+
+            if (type === 'literal') {
                 btnLiteral.className = "px-3 py-1 text-sm font-medium rounded bg-white shadow-sm text-primary";
                 btnModern.className = "px-3 py-1 text-sm font-medium rounded text-text-muted hover:text-primary";
                 document.getElementById('reader-content').innerHTML = formatText(currentLetter.texto_literal, false);
@@ -1867,8 +2147,8 @@
 
         function zoomManuscript(delta) {
             currentZoom += delta;
-            if(currentZoom < 0.5) currentZoom = 0.5;
-            if(currentZoom > 3) currentZoom = 3;
+            if (currentZoom < 0.5) currentZoom = 0.5;
+            if (currentZoom > 3) currentZoom = 3;
             document.getElementById('manuscript-img').style.transform = `scale(${currentZoom})`;
         }
 
@@ -1876,12 +2156,12 @@
         function openLetterSidebar(letterId, highlightEvidence = false) {
             let originalLetter = window.letterIndex[letterId];
             let edgeData = derivedData.edges.find(e => e.id_carta == letterId || e.letter_id == letterId);
-            
+
             if (!originalLetter && !edgeData) {
                 console.warn(`Letter ${letterId} not found.`);
                 return;
             }
-            
+
             const title = originalLetter?.nombre_carta || edgeData?.title || `Carta ${letterId}`;
             const date = edgeData?.date_iso || originalLetter?.fecha || "Fecha desconocida";
             const sender = edgeData?.from_person || originalLetter?.remitente || "Desconocido";
@@ -1889,46 +2169,44 @@
             const origin = edgeData?.from_place_label || originalLetter?.lugar || "Desconocido";
             const destination = edgeData?.to_place_label || (originalLetter?.destino ? originalLetter.destino.nombre : "Desconocido");
             const confidence = edgeData?.confidence_label || null;
-            
+
             let imagesHtml = '';
             let images = edgeData?.images && edgeData.images.length > 0 ? edgeData.images : (originalLetter?.imagenes || []);
             if (images.length > 0) {
                 imagesHtml = `<div class="flex overflow-x-auto gap-2 pb-2 snap-x">`;
                 images.forEach(img => {
-                    let imgSrc = img;
-                    if (imageMap[img]) {
-                        imgSrc = imageMap[img];
+                    let imgSrc = null;
+                    const basename = img.split('/').pop();
+                    const cleanPath = img.replace('./', '').replace(/^.*images\//, 'images/');
+
+                    if (imageMap[img]) imgSrc = imageMap[img];
+                    else if (imageMap[basename]) imgSrc = imageMap[basename];
+                    else if (imageMap[cleanPath]) imgSrc = imageMap[cleanPath];
+                    else if (imageMap["images/" + basename]) imgSrc = imageMap["images/" + basename];
+
+                    if (!imgSrc && !img.startsWith('http') && !img.startsWith('data:')) {
+                        imagesHtml += `<div class="h-48 w-32 bg-[#f3f0e7] flex items-center justify-center rounded shadow-sm snap-center text-text-muted text-xs text-center p-2 border border-[#e7e1cf]">Imagen no encontrada:<br>${basename}</div>`;
                     } else {
-                        const basename = img.split('/').pop();
-                        if (imageMap["images/" + basename]) {
-                            imgSrc = imageMap["images/" + basename];
-                        } else if (imageMap[basename]) {
-                            imgSrc = imageMap[basename];
-                        }
-                    }
-                    
-                    if (imgSrc === img && !img.startsWith('http') && !img.startsWith('data:')) {
-                        imagesHtml += `<div class="h-48 w-32 bg-[#f3f0e7] flex items-center justify-center rounded shadow-sm snap-center text-text-muted text-xs text-center p-2 border border-[#e7e1cf]">Imagen no disponible</div>`;
-                    } else {
-                        imagesHtml += `<img src="${imgSrc}" class="h-48 w-auto object-cover rounded shadow-sm snap-center cursor-pointer" onclick="window.open('${imgSrc}', '_blank')" alt="Manuscrito">`;
+                        const finalSrc = imgSrc || img;
+                        imagesHtml += `<img src="${finalSrc}" loading="lazy" class="h-48 w-auto object-cover rounded shadow-sm snap-center cursor-pointer" onclick="window.open('${finalSrc}', '_blank')" alt="Manuscrito">`;
                     }
                 });
                 imagesHtml += `</div>`;
             }
-            
+
             let chipsHtml = '';
             const themes = edgeData?.themes || [];
             const eventIds = edgeData?.event_ids || [];
-            
+
             const makeChips = (arr, icon, colorClass) => arr.map(item => `<span class="inline-flex items-center gap-1 px-2 py-1 rounded-full text-xs font-medium ${colorClass}"><span class="material-symbols-outlined text-[14px]">${icon}</span>${item}</span>`).join('');
-            
+
             chipsHtml += makeChips(themes, 'category', 'bg-blue-50 text-blue-700 border border-blue-200');
             chipsHtml += makeChips(eventIds, 'event', 'bg-purple-50 text-purple-700 border border-purple-200');
-            
+
             if (chipsHtml) {
                 chipsHtml = `<div class="flex flex-wrap gap-2 mt-2">${chipsHtml}</div>`;
             }
-            
+
             let quotesHtml = '';
             if (edgeData?.evidence_quote) {
                 quotesHtml = `<div class="mt-4 space-y-2">
@@ -1936,7 +2214,7 @@
                     <blockquote class="border-l-2 border-primary pl-3 text-sm italic text-secondary bg-[#f3f0e7]/50 py-2 pr-2 rounded-r">${edgeData.evidence_quote}</blockquote>
                 </div>`;
             }
-            
+
             let confHtml = '';
             if (confidence) {
                 let confColor = confidence.toLowerCase() === 'alta' ? 'text-green-600' : (confidence.toLowerCase() === 'media' ? 'text-yellow-600' : 'text-red-600');
@@ -1948,7 +2226,7 @@
             let textHtml = '';
             const texto_modernizado = originalLetter?.transcripcion?.modernizada || originalLetter?.texto_modernizado;
             const texto_literal = originalLetter?.transcripcion?.literal || originalLetter?.texto_literal;
-            
+
             if (texto_modernizado || texto_literal) {
                 const quoteToHighlight = highlightEvidence ? edgeData?.evidence_quote : null;
                 textHtml = `
@@ -1993,7 +2271,7 @@
                     ${textHtml}
                 </div>
             `;
-            
+
             document.getElementById('letter-sidebar-content').innerHTML = html;
             document.getElementById('letter-sidebar').classList.remove('translate-x-full');
         }
@@ -2005,18 +2283,18 @@
         function switchSidebarTab(tab) {
             const data = window.currentSidebarLetter;
             if (!data) return;
-            
+
             const btnModern = document.getElementById('sidebar-tab-modern');
             const btnLiteral = document.getElementById('sidebar-tab-literal');
             const content = document.getElementById('sidebar-text-content');
-            
+
             if (tab === 'modern' && data.texto_modernizado) {
-                if(btnModern) btnModern.className = "px-3 py-1 text-xs font-bold rounded bg-primary text-white";
-                if(btnLiteral) btnLiteral.className = "px-3 py-1 text-xs font-bold rounded bg-[#f3f0e7] text-text-muted hover:bg-[#e7e1cf]";
+                if (btnModern) btnModern.className = "px-3 py-1 text-xs font-bold rounded bg-primary text-white";
+                if (btnLiteral) btnLiteral.className = "px-3 py-1 text-xs font-bold rounded bg-[#f3f0e7] text-text-muted hover:bg-[#e7e1cf]";
                 content.innerHTML = formatText(data.texto_modernizado, true, data.quoteToHighlight);
             } else if (tab === 'literal' && data.texto_literal) {
-                if(btnLiteral) btnLiteral.className = "px-3 py-1 text-xs font-bold rounded bg-primary text-white";
-                if(btnModern) btnModern.className = "px-3 py-1 text-xs font-bold rounded bg-[#f3f0e7] text-text-muted hover:bg-[#e7e1cf]";
+                if (btnLiteral) btnLiteral.className = "px-3 py-1 text-xs font-bold rounded bg-primary text-white";
+                if (btnModern) btnModern.className = "px-3 py-1 text-xs font-bold rounded bg-[#f3f0e7] text-text-muted hover:bg-[#e7e1cf]";
                 content.innerHTML = formatText(data.texto_literal, false, data.quoteToHighlight);
             }
         }
@@ -2026,7 +2304,7 @@
             document.getElementById('event-title').innerText = ev.title || "Evento Histórico";
             document.getElementById('event-date').innerText = ev.date || ev.display_date || "";
             document.getElementById('event-summary').innerText = ev.summary || ev.description || "";
-            
+
             const quotesContainer = document.getElementById('event-quotes');
             quotesContainer.innerHTML = '';
             if (ev.quotes && ev.quotes.length > 0) {
@@ -2034,7 +2312,7 @@
                     quotesContainer.innerHTML += `<blockquote class="border-l-2 border-primary pl-3 text-sm italic text-secondary bg-[#f3f0e7]/50 py-2 pr-2 rounded-r">${q}</blockquote>`;
                 });
             }
-            
+
             const sourcesContainer = document.getElementById('event-sources');
             sourcesContainer.innerHTML = '';
             if (ev.letters_source && ev.letters_source.length > 0) {
@@ -2050,7 +2328,7 @@
             } else {
                 document.getElementById('event-sources-container').classList.add('hidden');
             }
-            
+
             const modal = document.getElementById('event-modal');
             const content = document.getElementById('event-modal-content');
             modal.classList.remove('hidden');
@@ -2079,17 +2357,17 @@
                 alert("No se ha cargado el archivo tour_legajo10.json o no tiene pasos.");
                 return;
             }
-            
+
             tourActive = true;
             currentTourStep = 0;
-            
+
             switchView('timeline');
-            
+
             const tourBar = document.getElementById('tour-bar');
             tourBar.classList.remove('hidden');
             void tourBar.offsetWidth;
             tourBar.classList.remove('translate-y-full');
-            
+
             applyTourStep(currentTourStep);
         }
 
@@ -2104,7 +2382,7 @@
             setTimeout(() => {
                 tourBar.classList.add('hidden');
             }, 500);
-            
+
             closeLetterSidebar();
             closeEventCard();
         }
@@ -2159,26 +2437,26 @@
         function applyTourStep(index) {
             const step = derivedData.tour.steps[index];
             if (!step) return;
-            
+
             const counterEl = document.getElementById('tour-step-counter');
             if (counterEl) counterEl.innerText = `Paso ${index + 1} / ${derivedData.tour.steps.length}`;
-            
+
             const titleEl = document.getElementById('tour-title');
             if (titleEl) titleEl.innerText = step.title || "Tour";
 
             document.getElementById('tour-subtitle').innerText = step.audio_script || step.text || "";
-            
+
             if (tourAudio) {
                 tourAudio.pause();
                 tourAudio = null;
             }
-            
+
             if (step.audio_url) {
                 document.getElementById('tour-audio-btn').classList.remove('opacity-50');
             } else {
                 document.getElementById('tour-audio-btn').classList.add('opacity-50');
             }
-            
+
             if (step.lat && step.lng) {
                 const zoom = step.zoom || 6;
                 mapTimeline.flyTo([step.lat, step.lng], zoom, { duration: 2 });
@@ -2187,7 +2465,7 @@
                 const zoom = step.zoom || 6;
                 mapTimeline.flyTo([coords.lat, coords.lng], zoom, { duration: 2 });
             }
-            
+
             if (step.ui_actions && step.ui_actions.length > 0) {
                 step.ui_actions.forEach(action => dispatchAction(action));
             }
@@ -2202,7 +2480,7 @@
                         const index = timelineMonthKeys.indexOf(m);
                         if (index !== -1) {
                             const slider = document.getElementById('timeline-slider');
-                            if(slider) {
+                            if (slider) {
                                 slider.value = index;
                                 updateTimeline(index);
                             }
@@ -2242,7 +2520,7 @@
                             const innerHTML = contentDiv.innerHTML;
                             const cleanQuote = action.quote.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
                             let regex = new RegExp(`(${cleanQuote})`, 'gi');
-                            
+
                             if (regex.test(innerHTML)) {
                                 contentDiv.innerHTML = innerHTML.replace(regex, '<mark class="bg-yellow-200 text-black px-1 rounded">$1</mark>');
                             } else {
@@ -2253,7 +2531,7 @@
                                     contentDiv.innerHTML = innerHTML.replace(regex, '<mark class="bg-yellow-200 text-black px-1 rounded">$1</mark>');
                                 }
                             }
-                            
+
                             setTimeout(() => {
                                 const mark = contentDiv.querySelector('mark');
                                 if (mark) mark.scrollIntoView({ behavior: 'smooth', block: 'center' });
@@ -2278,10 +2556,10 @@
                                 opacity: 0.8,
                                 className: 'arc-path'
                             }).addTo(mapTimeline);
-                            
+
                             L.circleMarker(p1, { radius: 8, fillColor: '#2d2a26', color: '#fff', weight: 2, fillOpacity: 1 }).addTo(mapTimeline);
                             L.circleMarker(p2, { radius: 8, fillColor: '#c5a028', color: '#fff', weight: 2, fillOpacity: 1 }).addTo(mapTimeline);
-                            
+
                             mapTimeline.flyToBounds(L.latLngBounds([p1, p2]), { padding: [50, 50], duration: 1.5 });
                             setTimeout(() => mapTimeline.removeLayer(line), 5000);
                         }
@@ -2304,4 +2582,5 @@
         }
     </script>
 </body>
+
 </html>
