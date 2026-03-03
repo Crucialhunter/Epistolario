@@ -11,6 +11,7 @@ import { providers } from '../services/providers';
 import { ChevronDown, ChevronUp, SlidersHorizontal, X, Plus, RotateCcw } from 'lucide-react';
 import { useBenchmarkStore } from '../store/benchmarkStore';
 import { runPrecomputeQueue } from '../services/precompute';
+import { stableStringify } from '../utils/stableStringify';
 
 export default function Workspace() {
   const { docId } = useParams();
@@ -38,16 +39,16 @@ export default function Workspace() {
   const currentVariantId = selectedVariantIds[currentPageIndex] || 'orig';
   const currentPageVariants = variants?.filter(v => v.pageIndex === currentPageIndex) || [];
 
-  // We need to stringify selectedVariantIds for the cacheKey
-  const variantIdsString = JSON.stringify(selectedVariantIds);
+  // Stable stringify for variant matching (key-order independent)
+  const stableVariantIdsString = stableStringify(selectedVariantIds);
 
   const runResult = useLiveQuery(
     () => db.runResults
       .where('docId')
       .equals(docId || '')
-      .and(r => r.modelId === selectedModelId && r.mode === mode && JSON.stringify(r.variantIds || {}) === variantIdsString)
+      .and(r => r.modelId === selectedModelId && r.mode === mode && stableStringify(r.variantIds) === stableVariantIdsString)
       .first(),
-    [docId, selectedModelId, mode, variantIdsString]
+    [docId, selectedModelId, mode, stableVariantIdsString]
   );
 
   const promptSnapshot = useLiveQuery(
@@ -193,8 +194,8 @@ export default function Workspace() {
     }
 
     const cacheKey = templateToUse.engine === 'split'
-      ? `${docId}:${selectedModelId}:${mode}:${variantIdsString}:${templateToUse.id}`
-      : `${docId}:${selectedModelId}:unified:${variantIdsString}:${templateToUse.id}`;
+      ? `${docId}:${selectedModelId}:${mode}:${stableVariantIdsString}:${templateToUse.id}`
+      : `${docId}:${selectedModelId}:unified:${stableVariantIdsString}:${templateToUse.id}`;
 
     const newTask = {
       id: crypto.randomUUID(),

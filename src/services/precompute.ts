@@ -3,6 +3,7 @@ import { providers, blobToBase64 } from './providers';
 import { normalizeLiteral, normalizeModernizada } from '../utils/normalizer';
 import { calculateCER, calculateWER, computeScore } from '../utils/scoring';
 import { useBenchmarkStore, BenchmarkTask } from '../store/benchmarkStore';
+import { normalizeVariantIds, stableStringify } from '../utils/stableStringify';
 
 const sleep = (ms: number) => new Promise(resolve => setTimeout(resolve, ms));
 
@@ -361,7 +362,7 @@ async function saveSplitResult(task: BenchmarkTask, docId: string, gt: any, json
     docId,
     modelId: task.provider.id,
     mode: task.mode as 'literal' | 'modernizada' | 'fast',
-    variantIds: task.variantIds || {},
+    variantIds: normalizeVariantIds(task.variantIds),
     promptSnapshotId: task.prompt.id,
     promptTemplateId: task.promptTemplateId,
     createdAt: Date.now(),
@@ -398,7 +399,7 @@ async function saveUnifiedResult(task: BenchmarkTask, docId: string, gt: any, js
     docId,
     modelId: task.provider.id,
     mode: 'literal',
-    variantIds: task.variantIds || {},
+    variantIds: normalizeVariantIds(task.variantIds),
     promptSnapshotId: task.prompt.id,
     promptTemplateId: task.promptTemplateId,
     createdAt: Date.now(),
@@ -430,7 +431,7 @@ async function saveUnifiedResult(task: BenchmarkTask, docId: string, gt: any, js
     docId,
     modelId: task.provider.id,
     mode: 'modernizada',
-    variantIds: task.variantIds || {},
+    variantIds: normalizeVariantIds(task.variantIds),
     promptSnapshotId: task.prompt.id,
     promptTemplateId: task.promptTemplateId,
     createdAt: Date.now(),
@@ -548,5 +549,51 @@ if (typeof window !== 'undefined' && import.meta.env?.DEV) {
     }
 
     console.log(`[SmokeTest] COMPLETED. Check UI for the generated records.`);
+  };
+
+  (window as any).__listRuns = async (docId: string) => {
+    const runs = await db.runResults.where('docId').equals(docId).toArray();
+    if (runs.length === 0) {
+      console.log('[__listRuns] No runs found for docId:', docId);
+      return;
+    }
+    console.table(runs.map(r => ({
+      id: r.id.substring(0, 8),
+      docId: r.docId.substring(0, 8),
+      modelId: r.modelId,
+      mode: r.mode,
+      stableVariantIds: stableStringify(r.variantIds),
+      status: r.status,
+      parsedText: (r.parsedText || '').substring(0, 50) + '...'
+    })));
+    console.log(`[__listRuns] Total: ${runs.length} run(s)`);
+  };
+
+  (window as any).__debugQuery = async (docId: string, modelId: string, mode: string, variantIds: any) => {
+    const stableTarget = stableStringify(variantIds);
+    console.log(`[__debugQuery] Looking for: docId=${docId}, modelId=${modelId}, mode=${mode}, stableVariantIds=${stableTarget}`);
+
+    const allRuns = await db.runResults.where('docId').equals(docId).toArray();
+    console.log(`[__debugQuery] Total runs for this doc: ${allRuns.length}`);
+
+    const hits = allRuns.filter(r => r.modelId === modelId && r.mode === mode && stableStringify(r.variantIds) === stableTarget);
+    console.log(`[__debugQuery] Hits: ${hits.length}`);
+
+    if (hits.length > 0) {
+      console.table(hits.map(r => ({ id: r.id.substring(0, 8), mode: r.mode, status: r.status })));
+    }
+
+    const misses = allRuns.filter(r => !(r.modelId === modelId && r.mode === mode && stableStringify(r.variantIds) === stableTarget));
+    if (misses.length > 0) {
+      console.log('[__debugQuery] Non-matching runs and why:');
+      for (const r of misses) {
+        const reasons: string[] = [];
+        if (r.modelId !== modelId) reasons.push(`modelId: got "${r.modelId}" want "${modelId}"`);
+        if (r.mode !== mode) reasons.push(`mode: got "${r.mode}" want "${mode}"`);
+        const rStable = stableStringify(r.variantIds);
+        if (rStable !== stableTarget) reasons.push(`variantIds: got ${rStable} want ${stableTarget}`);
+        console.log(`  run ${r.id.substring(0, 8)}: ${reasons.join(', ')}`);
+      }
+    }
   };
 }
