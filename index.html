@@ -110,8 +110,15 @@
             </div>
         </div>
         <nav class="flex items-center gap-6">
+            <div class="hidden md:flex items-center gap-2 bg-[#f3f0e7] p-1 rounded-lg mr-2" id="lenses-container">
+                <button onclick="setLens('none')" id="lens-none" class="px-3 py-1 text-xs font-bold uppercase tracking-wider rounded bg-white shadow-sm text-primary transition-all">Normal</button>
+                <button onclick="setLens('noticias')" id="lens-noticias" class="px-3 py-1 text-xs font-bold uppercase tracking-wider rounded text-text-muted hover:text-primary transition-all">Noticias</button>
+                <button onclick="setLens('salud')" id="lens-salud" class="px-3 py-1 text-xs font-bold uppercase tracking-wider rounded text-text-muted hover:text-primary transition-all">Salud</button>
+                <button onclick="setLens('objetos')" id="lens-objetos" class="px-3 py-1 text-xs font-bold uppercase tracking-wider rounded text-text-muted hover:text-primary transition-all">Objetos</button>
+            </div>
             <button onclick="switchView('dashboard')" id="nav-dashboard" class="nav-btn font-bold text-primary border-b-2 border-primary pb-1">Dashboard</button>
             <button onclick="switchView('timeline')" id="nav-timeline" class="nav-btn text-text-muted hover:text-primary pb-1">Línea de Tiempo</button>
+            <button onclick="startTour()" id="nav-tour" class="nav-btn text-text-muted hover:text-primary pb-1 flex items-center gap-1"><span class="material-symbols-outlined text-[18px]">play_circle</span> Tour</button>
             <div class="h-6 w-px bg-[#e7e1cf] mx-2"></div>
             <label for="folder-upload" class="cursor-pointer flex items-center gap-2 bg-[#f3f0e7] hover:bg-[#e7e1cf] px-3 py-1.5 rounded-lg text-sm font-medium text-secondary transition">
                 <span class="material-symbols-outlined text-[18px]">folder_open</span>
@@ -159,6 +166,9 @@
 
             <!-- List Section (Bottom) -->
             <div class="flex-1 overflow-y-auto bg-[#fcfbf8] p-4">
+                <!-- Curator's Table Container -->
+                <div id="curator-table-container" class="max-w-[1600px] mx-auto mb-6 hidden"></div>
+                
                 <div id="letter-list" class="max-w-[1600px] mx-auto grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-4">
                     <!-- Letters injected here -->
                 </div>
@@ -174,13 +184,28 @@
                 <div id="timeline-summary-content" class="text-sm"></div>
             </div>
 
+            <!-- Events Panel (Left, below summary) -->
+            <div class="absolute top-32 left-4 w-80 bg-white/95 backdrop-blur rounded-xl shadow-lg border border-[#e7e1cf] flex flex-col max-h-[calc(100%-250px)] z-[400] overflow-hidden pointer-events-auto transition-all duration-300" id="panel-periodico">
+                <div class="p-4 border-b border-[#e7e1cf] bg-[#fcfbf8] shrink-0 flex justify-between items-center cursor-pointer" onclick="document.getElementById('timeline-events-list').classList.toggle('hidden');">
+                    <h3 class="font-serif font-bold text-primary flex items-center gap-2">
+                        <span class="material-symbols-outlined text-[18px]">newspaper</span>
+                        Periódico del Mes
+                    </h3>
+                    <span class="material-symbols-outlined text-text-muted text-[18px]">expand_more</span>
+                </div>
+                <div id="timeline-events-list" class="flex-1 overflow-y-auto p-4 bg-[#fcfbf8]">
+                    <div class="text-sm text-text-muted italic text-center">Selecciona un mes para ver eventos.</div>
+                </div>
+            </div>
+
             <!-- Timeline Feed (Crónica) -->
-            <div class="absolute top-4 right-4 w-80 bg-white/95 backdrop-blur rounded-xl shadow-lg border border-[#e7e1cf] flex flex-col max-h-[calc(100%-180px)] z-[400] overflow-hidden pointer-events-auto">
-                <div class="p-4 border-b border-[#e7e1cf] bg-[#fcfbf8] shrink-0">
+            <div class="absolute top-4 right-4 w-80 bg-white/95 backdrop-blur rounded-xl shadow-lg border border-[#e7e1cf] flex flex-col max-h-[calc(100%-180px)] z-[400] overflow-hidden pointer-events-auto transition-all duration-300" id="panel-cronica">
+                <div class="p-4 border-b border-[#e7e1cf] bg-[#fcfbf8] shrink-0 flex justify-between items-center cursor-pointer" onclick="document.getElementById('timeline-feed-content').classList.toggle('hidden');">
                     <h3 class="font-serif font-bold text-primary flex items-center gap-2">
                         <span class="material-symbols-outlined text-[18px]">history_edu</span>
                         Crónica de Envíos
                     </h3>
+                    <span class="material-symbols-outlined text-text-muted text-[18px]">expand_more</span>
                 </div>
                 <div id="timeline-feed-content" class="flex-1 overflow-y-auto p-4 space-y-3 text-sm">
                     <p class="text-text-muted italic text-xs text-center">Inicia la línea de tiempo para ver los eventos.</p>
@@ -215,18 +240,18 @@
                     </div>
                     <div class="flex-1 flex flex-col justify-center">
                         <div class="flex justify-between items-end mb-2 px-1">
-                            <span class="text-xs font-bold text-text-muted">Enero 1668</span>
+                            <span id="timeline-start-label" class="text-xs font-bold text-text-muted">Enero 1668</span>
                             <span id="current-month-display" class="text-xl font-bold text-primary">Enero 1668</span>
-                            <span class="text-xs font-bold text-text-muted">Diciembre 1669</span>
+                            <span id="timeline-end-label" class="text-xs font-bold text-text-muted">Diciembre 1669</span>
                         </div>
-                        <div class="relative w-full py-3 flex items-center">
-                            <div class="absolute left-0 right-0 h-2 bg-[#e7e1cf] rounded-lg z-0"></div>
-                            <div id="timeline-markers" class="absolute left-0 right-0 h-0 z-10"></div>
-                            <input type="range" id="timeline-slider" min="0" max="23" value="0" class="w-full h-2 bg-transparent appearance-none cursor-pointer relative z-20 custom-slider">
+                        <div class="relative w-full py-3 flex items-center flex-col">
+                            <div class="relative w-full h-2 bg-[#e7e1cf] rounded-lg z-0 overflow-hidden flex" id="timeline-heat-strip"></div>
+                            <div id="timeline-markers" class="absolute left-0 right-0 h-0 z-10 top-1/2"></div>
+                            <input type="range" id="timeline-slider" min="0" max="23" value="0" class="w-full h-2 bg-transparent appearance-none cursor-pointer absolute z-20 custom-slider top-1/2 -translate-y-1/2">
                         </div>
                         <div class="flex justify-between mt-1 text-xs text-text-muted px-1">
-                            <span>1668</span>
-                            <span>1669</span>
+                            <span id="timeline-start-year">1668</span>
+                            <span id="timeline-end-year">1669</span>
                         </div>
                     </div>
                 </div>
@@ -278,6 +303,62 @@
         </section>
 
     </main>
+
+    <!-- SIDEBAR (Ficha de carta) -->
+    <aside id="letter-sidebar" class="fixed top-0 right-0 w-full md:w-[450px] h-full bg-[#fcfbf8] shadow-2xl border-l border-[#e7e1cf] transform translate-x-full transition-transform duration-300 z-[1000] flex flex-col">
+        <div class="flex items-center justify-between p-4 border-b border-[#e7e1cf] bg-white shrink-0">
+            <h2 class="font-serif font-bold text-lg text-primary">Ficha de la Carta</h2>
+            <button onclick="closeLetterSidebar()" class="text-text-muted hover:text-primary bg-[#f3f0e7] rounded-full p-1"><span class="material-symbols-outlined text-[20px]">close</span></button>
+        </div>
+        <div id="letter-sidebar-content" class="flex-1 overflow-y-auto p-6 space-y-6">
+            <!-- Content injected here -->
+        </div>
+    </aside>
+
+    <!-- EVENT MODAL -->
+    <div id="event-modal" class="fixed inset-0 bg-[#2d2a26]/80 backdrop-blur-sm z-[3000] hidden flex items-center justify-center p-4 opacity-0 transition-opacity duration-300">
+        <div class="bg-[#fcfbf8] rounded-xl shadow-2xl max-w-lg w-full max-h-[90vh] flex flex-col overflow-hidden transform scale-95 transition-transform duration-300" id="event-modal-content">
+            <div class="p-6 border-b border-[#e7e1cf] bg-white flex justify-between items-start">
+                <div>
+                    <div class="flex items-center gap-2 text-primary font-bold text-xs uppercase tracking-widest mb-2">
+                        <span class="material-symbols-outlined text-[16px]">newspaper</span>
+                        Periódico del XVII
+                    </div>
+                    <h2 id="event-title" class="font-serif text-2xl font-bold text-secondary leading-tight">Título del Evento</h2>
+                    <p id="event-date" class="text-sm text-text-muted mt-1">Fecha</p>
+                </div>
+                <button onclick="closeEventCard()" class="text-text-muted hover:text-primary bg-[#f3f0e7] rounded-full p-1"><span class="material-symbols-outlined text-[20px]">close</span></button>
+            </div>
+            <div class="flex-1 overflow-y-auto p-6 space-y-6">
+                <p id="event-summary" class="text-sm leading-relaxed text-secondary"></p>
+                <div id="event-quotes" class="space-y-3"></div>
+                <div id="event-sources-container" class="border-t border-[#e7e1cf] pt-4">
+                    <h4 class="text-xs font-bold uppercase tracking-widest text-text-muted mb-3">Cartas Relacionadas</h4>
+                    <div id="event-sources" class="space-y-2"></div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- TOUR BAR -->
+    <div id="tour-bar" class="fixed bottom-0 left-0 right-0 bg-[#2d2a26] text-white p-4 z-[4000] hidden flex-col md:flex-row items-center justify-between gap-4 shadow-[0_-10px_40px_rgba(0,0,0,0.3)] transform translate-y-full transition-transform duration-500">
+        <div class="flex-1 max-w-3xl mx-auto text-center md:text-left px-4">
+            <div class="flex items-center gap-3 mb-1 justify-center md:justify-start">
+                <span id="tour-step-counter" class="text-[10px] font-bold uppercase tracking-widest text-[#c5a028] bg-[#c5a028]/20 px-2 py-0.5 rounded">Paso 1</span>
+                <h3 id="tour-title" class="font-bold text-lg text-white"></h3>
+            </div>
+            <p id="tour-subtitle" class="font-serif text-base italic text-[#e7e1cf] leading-relaxed"></p>
+        </div>
+        <div class="flex items-center gap-4 shrink-0 bg-white/10 p-2 rounded-full backdrop-blur">
+            <button onclick="playTourAudio()" id="tour-audio-btn" class="flex items-center justify-center size-10 rounded-full hover:bg-white/20 transition-colors opacity-50" title="Escuchar Audio"><span class="material-symbols-outlined">volume_up</span></button>
+            <button onclick="restartTour()" class="flex items-center justify-center size-10 rounded-full hover:bg-white/20 transition-colors" title="Reiniciar Tour"><span class="material-symbols-outlined">replay</span></button>
+            <button onclick="prevTourStep()" class="flex items-center justify-center size-10 rounded-full hover:bg-white/20 transition-colors" title="Anterior"><span class="material-symbols-outlined">skip_previous</span></button>
+            <button onclick="toggleTourAutoplay()" id="tour-autoplay-btn" class="flex items-center justify-center size-12 rounded-full bg-primary hover:bg-[#a38420] transition-colors shadow-lg" title="Auto-play"><span class="material-symbols-outlined">play_arrow</span></button>
+            <button onclick="nextTourStep()" class="flex items-center justify-center size-10 rounded-full hover:bg-white/20 transition-colors" title="Siguiente"><span class="material-symbols-outlined">skip_next</span></button>
+            <div class="w-px h-8 bg-white/20 mx-2"></div>
+            <button onclick="exitTour()" class="text-xs font-bold uppercase tracking-widest text-[#e7e1cf] hover:text-white px-3">Salir</button>
+        </div>
+    </div>
 
     <script>
         // MOCK DATA
@@ -342,6 +423,9 @@
         let timelineArcs = [];
         let currentZoom = 1;
         let imageMap = {}; // Maps filename to object URL
+        let derivedData = { edges: [], events: [], tour: null, coords: {} };
+        let timelineMonthKeys = [];
+        let currentLens = 'none';
 
         function normalizeLetter(data) {
             const locationCoords = {
@@ -419,10 +503,31 @@
 
             const jsonFiles = [];
             const imgFiles = [];
+            
+            derivedData = { edges: [], events: [], tour: null, coords: {}, places: [], report: null, overview: null, lensPanels: null };
+            window.letterIndex = {};
 
             for (let i = 0; i < files.length; i++) {
                 const file = files[i];
-                if (file.name.endsWith('.json')) {
+                const path = file.webkitRelativePath || file.name;
+                
+                if (path.endsWith('letter_edges.json') || file.name === 'letter_edges.json') {
+                    try { derivedData.edges = JSON.parse(await file.text()); } catch(e) { console.warn("Error parsing letter_edges", e); }
+                } else if (path.endsWith('event_markers.json') || file.name === 'event_markers.json') {
+                    try { derivedData.events = JSON.parse(await file.text()); } catch(e) { console.warn("Error parsing event_markers", e); }
+                } else if (path.endsWith('tour_legajo10.json') || file.name === 'tour_legajo10.json') {
+                    try { derivedData.tour = JSON.parse(await file.text()); } catch(e) { console.warn("Error parsing tour", e); }
+                } else if (path.endsWith('coords.json') || file.name === 'coords.json') {
+                    try { derivedData.coords = JSON.parse(await file.text()); } catch(e) { console.warn("Error parsing coords", e); }
+                } else if (path.endsWith('places.json') || file.name === 'places.json') {
+                    try { derivedData.places = JSON.parse(await file.text()); } catch(e) { console.warn("Error parsing places", e); }
+                } else if (path.endsWith('validation_report.json') || file.name === 'validation_report.json') {
+                    try { derivedData.report = JSON.parse(await file.text()); } catch(e) { console.warn("Error parsing report", e); }
+                } else if (path.endsWith('demo_overview.md') || file.name === 'demo_overview.md') {
+                    try { derivedData.overview = await file.text(); } catch(e) { console.warn("Error parsing overview", e); }
+                } else if (path.endsWith('lens_panels.json') || file.name === 'lens_panels.json') {
+                    try { derivedData.lensPanels = JSON.parse(await file.text()); } catch(e) { console.warn("Error parsing lens_panels", e); }
+                } else if (file.name.endsWith('.json')) {
                     jsonFiles.push(file);
                 } else if (file.type.startsWith('image/')) {
                     imgFiles.push(file);
@@ -437,6 +542,7 @@
                 if (file.webkitRelativePath) {
                     imageMap[file.webkitRelativePath] = url;
                 }
+                imageMap["images/" + file.name] = url;
             });
 
             // Read JSONs
@@ -446,8 +552,14 @@
                     const text = await file.text();
                     const data = JSON.parse(text);
                     if (Array.isArray(data)) {
+                        data.forEach(d => {
+                            const id = d.id_carta || d.id;
+                            if (id) window.letterIndex[id] = d;
+                        });
                         newLetters.push(...data.map(normalizeLetter));
                     } else {
+                        const id = data.id_carta || data.id;
+                        if (id) window.letterIndex[id] = data;
                         newLetters.push(normalizeLetter(data));
                     }
                 } catch (e) {
@@ -455,24 +567,60 @@
                 }
             }
 
-            if (newLetters.length > 0) {
-                // Sort by date
-                newLetters.sort((a, b) => a.parsedDate - b.parsedDate);
-                
+            if (derivedData.edges && derivedData.edges.length > 0) {
+                letters = derivedData.edges.map(edge => {
+                    let parsedDate = new Date(1668, 0, 1);
+                    if (edge.date_iso) {
+                        if (edge.date_iso.length === 7) { // YYYY-MM
+                            parsedDate = new Date(edge.date_iso + "-01");
+                        } else {
+                            parsedDate = new Date(edge.date_iso);
+                        }
+                    }
+                    
+                    let origenCoords = null;
+                    if (edge.from_place_key && derivedData.coords && derivedData.coords[edge.from_place_key]) {
+                        origenCoords = derivedData.coords[edge.from_place_key];
+                    }
+                    
+                    let destinoCoords = null;
+                    if (edge.to_place_key && derivedData.coords && derivedData.coords[edge.to_place_key]) {
+                        destinoCoords = derivedData.coords[edge.to_place_key];
+                    }
+                    
+                    return {
+                        id: edge.id_carta,
+                        remitente: edge.from_person || "Desconocido",
+                        destinatario: edge.to_person || "Desconocido",
+                        fecha: edge.date_iso || "Sin fecha",
+                        parsedDate: parsedDate,
+                        origen: { nombre: edge.from_place_label || edge.from_place_key, lat: origenCoords?.lat, lng: origenCoords?.lng },
+                        destino: { nombre: edge.to_place_label || edge.to_place_key, lat: destinoCoords?.lat, lng: destinoCoords?.lng },
+                        texto_literal: "",
+                        texto_modernizado: "",
+                        imagenes: edge.images || [],
+                        edgeData: edge
+                    };
+                });
+            } else if (newLetters.length > 0) {
                 letters = newLetters;
-                filteredLetters = [...letters];
-                
-                // Re-render UI
-                updateFilters();
-                applyFilters();
-                
-                renderTimelineMarkers();
-                updateTimeline(document.getElementById('timeline-slider').value);
-                
-                alert(`Se han importado ${letters.length} cartas y ${imgFiles.length} imágenes correctamente.`);
             } else {
                 alert("No se encontraron archivos JSON válidos en la carpeta.");
+                return;
             }
+
+            // Sort by date
+            letters.sort((a, b) => a.parsedDate - b.parsedDate);
+            filteredLetters = [...letters];
+            
+            // Re-render UI
+            updateFilters();
+            applyFilters();
+            
+            renderTimelineMarkers();
+            updateTimeline(document.getElementById('timeline-slider').value);
+            
+            alert(`Se han importado ${letters.length} cartas y ${imgFiles.length} imágenes correctamente.`);
         }
 
         function switchView(view) {
@@ -504,7 +652,7 @@
         }
 
         function initDashboard() {
-            mapDashboard = L.map('map-container').setView([39.5, 2.5], 6);
+            mapDashboard = L.map('map-container', { preferCanvas: true }).setView([39.5, 2.5], 6);
             L.tileLayer('https://{s}.basemaps.cartocdn.com/light_all/{z}/{x}/{y}{r}.png', {
                 attribution: '&copy; OpenStreetMap contributors'
             }).addTo(mapDashboard);
@@ -517,11 +665,14 @@
             // drawArcs is now called by applyFilters()
         }
 
+        let eventsLayer;
         function initTimeline() {
-            mapTimeline = L.map('timeline-map-container').setView([39.5, 2.5], 6);
+            mapTimeline = L.map('timeline-map-container', { preferCanvas: true }).setView([39.5, 2.5], 6);
             L.tileLayer('https://{s}.basemaps.cartocdn.com/light_all/{z}/{x}/{y}{r}.png', {
                 attribution: '&copy; OpenStreetMap contributors'
             }).addTo(mapTimeline);
+            
+            eventsLayer = L.layerGroup().addTo(mapTimeline);
 
             const slider = document.getElementById('timeline-slider');
             slider.addEventListener('input', (e) => {
@@ -531,36 +682,288 @@
             updateTimeline(0);
         }
 
+        function getLetterLensScore(letter, lens) {
+            let score = 0;
+            const text = (letter.texto_modernizado + " " + letter.texto_literal).toLowerCase();
+            const edge = letter.edgeData || {};
+            
+            if (lens === 'noticias') {
+                if (edge.event_ids && edge.event_ids.length > 0) {
+                    score += edge.event_ids.length * 10;
+                }
+                if (edge.themes) {
+                    if (edge.themes.includes('Política')) score += 5;
+                    if (edge.themes.includes('Corte')) score += 5;
+                    if (edge.themes.includes('Justicia')) score += 5;
+                    if (edge.themes.includes('Marina')) score += 5;
+                }
+            } else if (lens === 'salud') {
+                if (edge.themes && edge.themes.includes('Salud')) score += 20;
+                const medicalTerms = ['salud', 'enfermedad', 'sangría', 'médico', 'botica', 'peste', 'calentura', 'dolor', 'cura'];
+                medicalTerms.forEach(term => {
+                    if (text.includes(term)) score += 2;
+                });
+            } else if (lens === 'objetos') {
+                if (edge.themes && (edge.themes.includes('Comercio') || edge.themes.includes('Logística'))) score += 10;
+                if (edge.evidence_quote && edge.evidence_quote.length > 0) score += 5;
+                const objectTerms = ['picote', 'tela', 'miel', 'albornoz', 'canarios', 'reales', 'ducados', 'trigo', 'seda'];
+                objectTerms.forEach(term => {
+                    if (text.includes(term)) score += 3;
+                });
+            }
+            return score;
+        }
+
+        function setLens(lens) {
+            currentLens = lens;
+            
+            const lenses = ['none', 'noticias', 'salud', 'objetos'];
+            lenses.forEach(l => {
+                const btn = document.getElementById(`lens-${l}`);
+                if (btn) {
+                    if (l === lens) {
+                        btn.classList.remove('text-text-muted', 'hover:text-primary');
+                        btn.classList.add('bg-white', 'shadow-sm', 'text-primary');
+                    } else {
+                        btn.classList.add('text-text-muted', 'hover:text-primary');
+                        btn.classList.remove('bg-white', 'shadow-sm', 'text-primary');
+                    }
+                }
+            });
+
+            renderCuratorTable(lens);
+            applyFilters();
+            
+            const slider = document.getElementById('timeline-slider');
+            if (slider) {
+                updateTimeline(parseInt(slider.value));
+            }
+        }
+
+        function renderCuratorTable(lens) {
+            const container = document.getElementById('curator-table-container');
+            if (!container) return;
+
+            if (lens === 'none' || !derivedData.lensPanels) {
+                container.classList.add('hidden');
+                container.innerHTML = '';
+                return;
+            }
+
+            // Try to find lens data. It could be under derivedData.lensPanels[lens] or derivedData.lensPanels.lenses[lens]
+            let lensData = derivedData.lensPanels[lens];
+            if (!lensData && derivedData.lensPanels.lenses) {
+                lensData = derivedData.lensPanels.lenses[lens];
+            }
+
+            if (!lensData) {
+                container.classList.add('hidden');
+                container.innerHTML = '';
+                return;
+            }
+
+            container.classList.remove('hidden');
+
+            let kpisHtml = '';
+            if (lensData.kpis) {
+                kpisHtml = Object.entries(lensData.kpis).map(([key, value]) => `
+                    <span class="bg-[#f3f0e7] text-secondary px-2 py-1 rounded text-xs font-medium border border-[#e7e1cf]">
+                        ${key.replace('_', ' ').toUpperCase()}: <strong class="text-primary">${value}</strong>
+                    </span>
+                `).join('');
+            }
+
+            let bulletsHtml = '';
+            if (lensData.summary_bullets && lensData.summary_bullets.length > 0) {
+                bulletsHtml = `
+                    <ul class="list-disc pl-5 text-sm text-secondary mt-2 space-y-1">
+                        ${lensData.summary_bullets.map(b => `<li>${b}</li>`).join('')}
+                    </ul>
+                `;
+            }
+
+            let panelsHtml = '';
+            if (lensData.panels && lensData.panels.length > 0) {
+                panelsHtml = `
+                    <div class="grid grid-cols-1 md:grid-cols-3 gap-4 mt-4">
+                        ${lensData.panels.slice(0, 3).map(panel => {
+                            let itemsHtml = '';
+                            if (panel.items && panel.items.length > 0) {
+                                itemsHtml = panel.items.slice(0, 6).map(item => {
+                                    let onClick = '';
+                                    let cursorClass = 'cursor-default';
+                                    let hoverClass = '';
+                                    
+                                    if (panel.type === 'top_events' && item.id) {
+                                        onClick = `onclick="openEventCard('${item.id}')"`;
+                                        cursorClass = 'cursor-pointer';
+                                        hoverClass = 'hover:bg-[#f3f0e7] hover:text-primary';
+                                    } else if (panel.type === 'top_routes' && item.from && item.to) {
+                                        // Optional: add map_highlight_route logic if needed
+                                        cursorClass = 'cursor-pointer';
+                                        hoverClass = 'hover:bg-[#f3f0e7] hover:text-primary';
+                                    } else if (panel.type === 'top_people') {
+                                        onClick = `onclick="document.getElementById('filter-text').value='${item.label}'; applyFilters();"`;
+                                        cursorClass = 'cursor-pointer';
+                                        hoverClass = 'hover:bg-[#f3f0e7] hover:text-primary';
+                                    } else if ((panel.type === 'medical_terms' || panel.type === 'objects') && item.label) {
+                                        onClick = `onclick="document.getElementById('filter-text').value='${item.label}'; applyFilters();"`;
+                                        cursorClass = 'cursor-pointer';
+                                        hoverClass = 'hover:bg-[#f3f0e7] hover:text-primary';
+                                    }
+
+                                    return `<li ${onClick} class="text-xs text-secondary py-1 border-b border-[#e7e1cf] last:border-0 truncate transition-colors ${cursorClass} ${hoverClass}" title="${item.label}">${item.label}</li>`;
+                                }).join('');
+                            }
+                            return `
+                                <div class="bg-white p-3 rounded-lg border border-[#e7e1cf] shadow-sm">
+                                    <h4 class="text-xs font-bold text-text-muted uppercase tracking-wider mb-2">${panel.title || panel.type}</h4>
+                                    <ul class="space-y-1">
+                                        ${itemsHtml}
+                                    </ul>
+                                </div>
+                            `;
+                        }).join('')}
+                    </div>
+                `;
+            }
+
+            container.innerHTML = `
+                <div class="bg-white rounded-xl border border-[#c5a028] shadow-sm p-5 relative overflow-hidden">
+                    <div class="absolute top-0 left-0 w-1 h-full bg-[#c5a028]"></div>
+                    <div class="flex items-start justify-between mb-3">
+                        <div>
+                            <h3 class="font-serif text-xl font-bold text-primary flex items-center gap-2">
+                                ${lensData.title || lens.charAt(0).toUpperCase() + lens.slice(1)}
+                                <span class="material-symbols-outlined text-[16px] text-text-muted cursor-help" title="Esta lente reordena y explica por qué estas cartas destacan.">help</span>
+                            </h3>
+                            <p class="text-sm text-secondary font-medium mt-1">${lensData.one_liner || ''}</p>
+                        </div>
+                        <div class="flex flex-wrap gap-2 justify-end max-w-[40%]">
+                            ${kpisHtml}
+                        </div>
+                    </div>
+                    ${bulletsHtml}
+                    ${panelsHtml}
+                </div>
+            `;
+        }
+
         function renderTimelineMarkers() {
             const container = document.getElementById('timeline-markers');
             if (!container) return;
             container.innerHTML = '';
             
-            const monthsWithLetters = new Set();
-            letters.forEach(l => {
-                if (!l.parsedDate) return;
-                const year = l.parsedDate.getFullYear();
-                const month = l.parsedDate.getMonth();
-                const monthIndex = (year - 1668) * 12 + month;
-                if (monthIndex >= 0 && monthIndex <= 23) {
-                    monthsWithLetters.add(monthIndex);
+            const monthsSet = new Set();
+            
+            if (derivedData.edges && derivedData.edges.length > 0) {
+                derivedData.edges.forEach(e => {
+                    if (e.date_iso) {
+                        const m = e.date_iso.substring(0, 7);
+                        monthsSet.add(m);
+                    }
+                });
+                if (derivedData.events) {
+                    derivedData.events.forEach(e => {
+                        if (e.date_iso) {
+                            const m = e.date_iso.substring(0, 7);
+                            monthsSet.add(m);
+                        } else if (e.date) {
+                            const d = new Date(e.date);
+                            const m = `${d.getFullYear()}-${String(d.getMonth()+1).padStart(2, '0')}`;
+                            monthsSet.add(m);
+                        } else if (e.year && e.month) {
+                            const m = `${e.year}-${String(e.month).padStart(2, '0')}`;
+                            monthsSet.add(m);
+                        }
+                    });
                 }
-            });
+            }
+            
+            if (monthsSet.size > 0) {
+                timelineMonthKeys = Array.from(monthsSet).sort();
+            } else {
+                timelineMonthKeys = [];
+                for (let y = 1668; y <= 1669; y++) {
+                    for (let m = 1; m <= 12; m++) {
+                        timelineMonthKeys.push(`${y}-${String(m).padStart(2, '0')}`);
+                    }
+                }
+            }
 
-            monthsWithLetters.forEach(monthIndex => {
-                const leftPercent = (monthIndex / 23);
-                const marker = document.createElement('div');
-                marker.className = 'absolute top-1/2 w-3 h-3 bg-white rounded-full cursor-pointer shadow-sm border-2 border-[#c5a028] hover:scale-150 transition-transform z-10';
-                marker.style.left = `calc(10px + ${leftPercent} * (100% - 20px))`;
-                marker.style.transform = 'translate(-50%, -50%)';
-                marker.title = "Ver cartas de este mes";
-                marker.onclick = (e) => {
-                    e.stopPropagation();
-                    const slider = document.getElementById('timeline-slider');
-                    slider.value = monthIndex;
-                    updateTimeline(monthIndex);
-                };
-                container.appendChild(marker);
+            const slider = document.getElementById('timeline-slider');
+            if (slider) {
+                slider.max = timelineMonthKeys.length - 1;
+                slider.value = 0;
+            }
+
+            const monthNames = ["Enero", "Febrero", "Marzo", "Abril", "Mayo", "Junio", "Julio", "Agosto", "Septiembre", "Octubre", "Noviembre", "Diciembre"];
+            
+            if (timelineMonthKeys.length > 0) {
+                const firstKey = timelineMonthKeys[0].split('-');
+                const lastKey = timelineMonthKeys[timelineMonthKeys.length - 1].split('-');
+                document.getElementById('timeline-start-label').innerText = `${monthNames[parseInt(firstKey[1])-1]} ${firstKey[0]}`;
+                document.getElementById('timeline-end-label').innerText = `${monthNames[parseInt(lastKey[1])-1]} ${lastKey[0]}`;
+                document.getElementById('timeline-start-year').innerText = firstKey[0];
+                document.getElementById('timeline-end-year').innerText = lastKey[0];
+            }
+
+            const heatStrip = document.getElementById('timeline-heat-strip');
+            if (heatStrip) {
+                heatStrip.innerHTML = '';
+                timelineMonthKeys.forEach((monthKey) => {
+                    let score = 0;
+                    if (derivedData.events) {
+                        const eventsInMonth = derivedData.events.filter(e => {
+                            let m = '';
+                            if (e.date_iso) m = e.date_iso.substring(0, 7);
+                            else if (e.date) {
+                                const d = new Date(e.date);
+                                m = `${d.getFullYear()}-${String(d.getMonth()+1).padStart(2, '0')}`;
+                            } else if (e.year && e.month) {
+                                m = `${e.year}-${String(e.month).padStart(2, '0')}`;
+                            }
+                            return m === monthKey;
+                        });
+                        score += eventsInMonth.length;
+                        eventsInMonth.forEach(e => {
+                            if (e.theme === 'Salud' || e.theme === 'Justicia') score += 2;
+                        });
+                    }
+                    
+                    const maxScore = 10;
+                    const opacity = Math.min(score / maxScore, 1);
+                    
+                    const rect = document.createElement('div');
+                    rect.className = 'flex-1 h-full bg-[#c5a028] border-r border-white/20';
+                    rect.style.opacity = opacity > 0 ? (0.2 + opacity * 0.8) : 0;
+                    heatStrip.appendChild(rect);
+                });
+            }
+
+            timelineMonthKeys.forEach((monthKey, index) => {
+                const hasLetters = letters.some(l => {
+                    if (!l.parsedDate) return false;
+                    const m = `${l.parsedDate.getFullYear()}-${String(l.parsedDate.getMonth()+1).padStart(2, '0')}`;
+                    return m === monthKey;
+                });
+
+                if (hasLetters) {
+                    const leftPercent = (index / (timelineMonthKeys.length - 1 || 1));
+                    const marker = document.createElement('div');
+                    marker.className = 'absolute top-1/2 w-3 h-3 bg-white rounded-full cursor-pointer shadow-sm border-2 border-[#c5a028] hover:scale-150 transition-transform z-10';
+                    marker.style.left = `calc(10px + ${leftPercent} * (100% - 20px))`;
+                    marker.style.transform = 'translate(-50%, -50%)';
+                    const parts = monthKey.split('-');
+                    marker.title = `Ver cartas de ${monthNames[parseInt(parts[1])-1]} ${parts[0]}`;
+                    marker.onclick = (e) => {
+                        e.stopPropagation();
+                        const slider = document.getElementById('timeline-slider');
+                        slider.value = index;
+                        updateTimeline(index);
+                    };
+                    container.appendChild(marker);
+                }
             });
         }
 
@@ -596,7 +999,7 @@
             // Group by route
             const routes = {};
             data.forEach((letter) => {
-                if (!letter.origen || !letter.destino) return;
+                if (!letter.origen || !letter.destino || letter.origen.lat == null || letter.destino.lat == null) return;
                 const routeKey = `${letter.origen.nombre}|${letter.destino.nombre}`;
                 if (!routes[routeKey]) {
                     routes[routeKey] = {
@@ -815,6 +1218,16 @@
                 return match;
             });
 
+            if (currentLens !== 'none') {
+                filteredLetters.sort((a, b) => {
+                    let scoreA = getLetterLensScore(a, currentLens);
+                    let scoreB = getLetterLensScore(b, currentLens);
+                    return scoreB - scoreA;
+                });
+            } else {
+                filteredLetters.sort((a, b) => a.parsedDate - b.parsedDate);
+            }
+
             renderLetterList(filteredLetters);
             drawArcs(mapDashboard, filteredLetters, dashboardArcs);
             updateStats();
@@ -832,7 +1245,7 @@
                 const div = document.createElement('div');
                 div.id = `letter-card-${letter.id}`;
                 div.className = 'letter-card p-4 rounded-xl border border-transparent hover:border-[#c5a028] hover:bg-[#f3f0e7] cursor-pointer transition-all shadow-sm bg-white flex flex-col h-full';
-                div.onclick = () => openReader(letter);
+                div.onclick = () => openLetterSidebar(letter.id);
                 div.onmouseenter = () => {
                     highlightMapElement(letter.id);
                     highlightListElement(letter.id);
@@ -841,6 +1254,19 @@
                     resetMapHighlight();
                     resetListHighlight();
                 };
+                let reasonHtml = '';
+                if (currentLens !== 'none' && letter.edgeData) {
+                    const score = getLetterLensScore(letter, currentLens);
+                    if (score > 0 && letter.edgeData.evidence_quote) {
+                        reasonHtml = `
+                            <div class="mt-3 pt-3 border-t border-[#e7e1cf]">
+                                <p class="text-[10px] font-bold uppercase tracking-widest text-primary mb-1">Relevancia: ${currentLens}</p>
+                                <p class="text-xs italic text-text-muted line-clamp-3">"${letter.edgeData.evidence_quote}"</p>
+                            </div>
+                        `;
+                    }
+                }
+
                 div.innerHTML = `
                     <div class="flex justify-between items-start mb-2">
                         <span class="text-xs font-bold px-2 py-1 rounded" style="background-color: ${color}20; color: ${color}">${letter.fecha}</span>
@@ -848,6 +1274,7 @@
                     </div>
                     <p class="font-bold text-sm text-secondary truncate" title="${letter.remitente}">${letter.remitente}</p>
                     <p class="text-xs text-text-muted truncate" title="a ${letter.destinatario}">a ${letter.destinatario}</p>
+                    ${reasonHtml}
                     <div class="mt-auto pt-3 flex items-center gap-1 text-xs text-text-muted bg-[#fcfbf8] p-1.5 rounded border border-[#e7e1cf]">
                         <span class="material-symbols-outlined text-[14px]" style="color: ${color}">route</span>
                         <span class="truncate">${(letter.origen && letter.origen.nombre) || 'Desconocido'} &rarr; ${(letter.destino && letter.destino.nombre) || 'Desconocido'}</span>
@@ -856,9 +1283,13 @@
                 container.appendChild(div);
             });
         }
-        function updateTimeline(monthIndex) {
-            const year = 1668 + Math.floor(monthIndex / 12);
-            const month = (monthIndex % 12) + 1;
+        function updateTimeline(index) {
+            if (!timelineMonthKeys || timelineMonthKeys.length === 0) return;
+            
+            const monthKey = timelineMonthKeys[index];
+            const parts = monthKey.split('-');
+            const year = parseInt(parts[0]);
+            const month = parseInt(parts[1]);
             const monthNames = ["Enero", "Febrero", "Marzo", "Abril", "Mayo", "Junio", "Julio", "Agosto", "Septiembre", "Octubre", "Noviembre", "Diciembre"];
             
             document.getElementById('current-month-display').innerText = `${monthNames[month-1]} ${year}`;
@@ -867,12 +1298,14 @@
             const previousLetters = [];
             
             letters.forEach(l => {
+                if (!l.parsedDate) return;
                 const lYear = l.parsedDate.getFullYear();
                 const lMonth = l.parsedDate.getMonth() + 1;
+                const lKey = `${lYear}-${String(lMonth).padStart(2, '0')}`;
                 
-                if (lYear < year || (lYear === year && lMonth < month)) {
+                if (lKey < monthKey) {
                     previousLetters.push(l);
-                } else if (lYear === year && lMonth === month) {
+                } else if (lKey === monthKey) {
                     currentMonthLetters.push(l);
                 }
             });
@@ -891,7 +1324,7 @@
             drawTimelineArcs(mapTimeline, currentMonthLetters, timelineArcs, false);
 
             // Animate current month letters
-            if (monthIndex !== lastMonthIndex) {
+            if (index !== lastMonthIndex) {
                 const feedContainer = document.getElementById('timeline-feed-content');
                 if (feedContainer && currentMonthLetters.length > 0) {
                     // Dim previous items
@@ -911,7 +1344,76 @@
 
                 currentMonthLetters.forEach(l => animateLetter(l, mapTimeline, currentMonthLetters.length));
             }
-            lastMonthIndex = monthIndex;
+            lastMonthIndex = index;
+            
+            // Update Events
+            if (eventsLayer) {
+                eventsLayer.clearLayers();
+                if (derivedData.events && derivedData.events.length > 0) {
+                    const currentEvents = derivedData.events.filter(e => {
+                        let m = '';
+                        if (e.date_iso) m = e.date_iso.substring(0, 7);
+                        else if (e.date) {
+                            const d = new Date(e.date);
+                            m = `${d.getFullYear()}-${String(d.getMonth()+1).padStart(2, '0')}`;
+                        } else if (e.year && e.month) {
+                            m = `${e.year}-${String(e.month).padStart(2, '0')}`;
+                        }
+                        return m === monthKey;
+                    });
+                    
+                    currentEvents.forEach(ev => {
+                        let coords = null;
+                        if (ev.place_keys && ev.place_keys.length > 0) {
+                            const pk = ev.place_keys[0];
+                            if (derivedData.coords[pk]) {
+                                coords = [derivedData.coords[pk].lat, derivedData.coords[pk].lng];
+                            }
+                        } else if (ev.lat && ev.lng) {
+                            coords = [ev.lat, ev.lng];
+                        }
+                        
+                        if (coords) {
+                            const icon = L.divIcon({
+                                className: 'event-marker',
+                                html: `<div class="bg-[#2d2a26] text-[#fcfbf8] rounded-full p-1.5 shadow-lg border-2 border-[#c5a028] flex items-center justify-center hover:scale-110 transition-transform cursor-pointer">
+                                        <span class="material-symbols-outlined text-[16px]">newspaper</span>
+                                       </div>`,
+                                iconSize: [30, 30],
+                                iconAnchor: [15, 15]
+                            });
+                            
+                            const marker = L.marker(coords, { icon, zIndexOffset: 2000 }).addTo(eventsLayer);
+                            marker.on('click', () => openEventCard(ev));
+                        }
+                    });
+
+                    const eventsContainer = document.getElementById('timeline-events-list');
+                    if (eventsContainer) {
+                        eventsContainer.innerHTML = '';
+                        if (currentEvents.length > 0) {
+                            currentEvents.forEach(e => {
+                                const div = document.createElement('div');
+                                div.className = 'p-3 bg-white rounded-lg shadow-sm border-l-4 border-[#c5a028] mb-2 cursor-pointer hover:bg-[#f3f0e7] transition-colors';
+                                div.onclick = () => openEventCard(e);
+                                div.innerHTML = `
+                                    <div class="text-xs text-text-muted mb-1 font-bold">${e.date || e.date_iso || `${e.month}/${e.year}`}</div>
+                                    <div class="text-sm font-serif">${e.description || e.name || e.title || 'Evento histórico'}</div>
+                                    ${e.theme ? `<div class="mt-2 text-[10px] uppercase bg-[#f3f0e7] text-[#8b5a2b] inline-block px-2 py-0.5 rounded">${e.theme}</div>` : ''}
+                                `;
+                                eventsContainer.appendChild(div);
+                            });
+                        } else {
+                            eventsContainer.innerHTML = '<div class="text-sm text-text-muted italic p-4 text-center">No hay eventos históricos registrados para este mes.</div>';
+                        }
+                    }
+                } else {
+                    const eventsContainer = document.getElementById('timeline-events-list');
+                    if (eventsContainer) {
+                        eventsContainer.innerHTML = '<div class="text-sm text-text-muted italic p-4 text-center">No hay eventos históricos registrados para este mes.</div>';
+                    }
+                }
+            }
             
             // Update Summary Overlay
             const summaryOverlay = document.getElementById('timeline-summary-overlay');
@@ -986,10 +1488,11 @@
             letters.forEach(l => {
                 if (!l.parsedDate) return;
                 const year = l.parsedDate.getFullYear();
-                const month = l.parsedDate.getMonth();
-                const monthIndex = (year - 1668) * 12 + month;
-                if (monthIndex >= 0 && monthIndex <= 23) {
-                    monthsWithLetters.add(monthIndex);
+                const month = l.parsedDate.getMonth() + 1;
+                const monthKey = `${year}-${String(month).padStart(2, '0')}`;
+                const index = timelineMonthKeys.indexOf(monthKey);
+                if (index !== -1) {
+                    monthsWithLetters.add(index);
                 }
             });
             return Array.from(monthsWithLetters).sort((a, b) => a - b);
@@ -1064,7 +1567,7 @@
         }
 
         function animateLetter(letter, mapInstance, concurrentCount = 1) {
-            if (!letter.origen || !letter.destino) return;
+            if (!letter.origen || !letter.destino || letter.origen.lat == null || letter.destino.lat == null) return;
             const p1 = [letter.origen.lat, letter.origen.lng];
             const p2 = [letter.destino.lat, letter.destino.lng];
             const curvePoints = getCurvePoints(p1, p2);
@@ -1076,10 +1579,13 @@
                 feedItem.className = 'feed-item bg-white border-2 border-primary p-3 rounded-xl shadow-md cursor-pointer hover:bg-[#fcfbf8] transition-all transform origin-top';
                 feedItem.onclick = () => {
                     const lYear = letter.parsedDate.getFullYear();
-                    const lMonth = letter.parsedDate.getMonth();
-                    const mIndex = (lYear - 1668) * 12 + lMonth;
-                    document.getElementById('timeline-slider').value = mIndex;
-                    updateTimeline(mIndex);
+                    const lMonth = letter.parsedDate.getMonth() + 1;
+                    const monthKey = `${lYear}-${String(lMonth).padStart(2, '0')}`;
+                    const mIndex = timelineMonthKeys.indexOf(monthKey);
+                    if (mIndex !== -1) {
+                        document.getElementById('timeline-slider').value = mIndex;
+                        updateTimeline(mIndex);
+                    }
                 };
                 feedItem.innerHTML = `
                     <p class="text-[10px] font-bold text-text-muted uppercase mb-1">${letter.fecha}</p>
@@ -1194,7 +1700,7 @@
 
         function drawTimelineArcs(mapInstance, data, arcArray, isFaded) {
             data.forEach(letter => {
-                if (!letter.origen || !letter.destino) return;
+                if (!letter.origen || !letter.destino || letter.origen.lat == null || letter.destino.lat == null) return;
                 const p1 = [letter.origen.lat, letter.origen.lng];
                 const p2 = [letter.destino.lat, letter.destino.lng];
                 const curvePoints = getCurvePoints(p1, p2);
@@ -1263,74 +1769,90 @@
             currentLetter = null;
         }
 
+        const formatText = (text, isModern, highlightQuote = null) => {
+            if (!text) return "";
+            
+            let formattedText = text;
+            
+            // If there are no newlines, try to add them intelligently based on 17th-century Spanish letter patterns
+            if (!formattedText.includes('\n')) {
+                if (!isModern) {
+                    // Literal text: split by "1. ", "2. ", etc.
+                    formattedText = formattedText.replace(/(\b\d+\.\s)/g, '\n$1');
+                } else {
+                    // Modern text: auto-paragraphing
+                    let t = formattedText;
+                    // Greeting
+                    t = t.replace(/^(Amigo y señor mío,|Muy señor mío,|Señor mío,|Excelentísimo Señor,)\s*/i, '$1\n\n');
+                    
+                    // Sign-offs and common endings
+                    t = t.replace(/(Besa las manos|Guarde Dios|cuya vida guarde|Dios guarde|Quedo a la obediencia|Su más seguro servidor|Perdóneme v\. m\.)/gi, '\n\n$1');
+                    
+                    // Dates/Locations at the end
+                    t = t.replace(/(\. )([A-Z][a-z]+ y [a-z]+, a \d+ de \d{4}|\bMadrid, \d+|\bValencia, \d+|\bZaragoza, \d+)/g, '$1\n\n$2');
+                    
+                    let paragraphs = t.split(/\n\n+/);
+                    let newParagraphs = [];
+                    for (let p of paragraphs) {
+                        if (p.length > 250) {
+                            let sentences = p.split(/\.\s+(?=[A-Z])/);
+                            let currentPara = "";
+                            for (let i = 0; i < sentences.length; i++) {
+                                currentPara += sentences[i] + (i < sentences.length - 1 ? ". " : "");
+                                if (currentPara.length > 200 && i < sentences.length - 1) {
+                                    newParagraphs.push(currentPara.trim());
+                                    currentPara = "";
+                                }
+                            }
+                            if (currentPara.trim().length > 0) {
+                                newParagraphs.push(currentPara.trim());
+                            }
+                        } else {
+                            newParagraphs.push(p.trim());
+                        }
+                    }
+                    formattedText = newParagraphs.join('\n\n');
+                }
+            }
+
+            const paragraphs = formattedText.split(/\n+/).filter(p => p.trim() !== '');
+            if (paragraphs.length === 0) return "";
+            
+            let html = paragraphs.map((p, i) => {
+                if (isModern && i === 0 && !p.match(/^(Amigo y señor mío,|Muy señor mío,|Señor mío,|Excelentísimo Señor,)$/i)) {
+                    return `<p class="mb-4 first-letter:text-5xl first-letter:font-bold first-letter:text-primary first-letter:float-left first-letter:mr-3 first-letter:mt-[-6px] leading-relaxed">${p}</p>`;
+                }
+                if (!isModern) {
+                    // For literal, format the line number
+                    let lineFormatted = p.replace(/^(\d+\.)\s/, '<span class="text-text-muted text-xs mr-2 w-4 inline-block text-right font-mono">$1</span> ');
+                    return `<p class="mb-1 leading-relaxed pl-6 -ml-6">${lineFormatted}</p>`;
+                }
+                return `<p class="mb-4 leading-relaxed">${p}</p>`;
+            }).join('');
+            
+            if (highlightQuote) {
+                // Try to highlight the quote. We'll do a simple string replacement.
+                // To handle potential minor differences in spacing, we could use a regex,
+                // but for now a direct replace (case-insensitive) is safest to avoid breaking HTML.
+                const escapeRegExp = (string) => string.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
+                
+                // Create a regex that allows flexible whitespace between words in the quote
+                const words = highlightQuote.split(/\s+/).filter(w => w.length > 0);
+                if (words.length > 0) {
+                    const flexibleQuoteRegex = new RegExp('(' + words.map(escapeRegExp).join('\\s+') + ')', 'gi');
+                    html = html.replace(flexibleQuoteRegex, '<mark class="bg-yellow-200 text-yellow-900 px-1 rounded font-medium">$1</mark>');
+                }
+            }
+            
+            return html;
+        };
+
         function toggleTranscription(type) {
             if(!currentLetter) return;
             currentTranscription = type;
             
             const btnLiteral = document.getElementById('btn-literal');
             const btnModern = document.getElementById('btn-modern');
-            
-            const formatText = (text, isModern) => {
-                if (!text) return "";
-                
-                let formattedText = text;
-                
-                // If there are no newlines, try to add them intelligently based on 17th-century Spanish letter patterns
-                if (!formattedText.includes('\n')) {
-                    if (!isModern) {
-                        // Literal text: split by "1. ", "2. ", etc.
-                        formattedText = formattedText.replace(/(\b\d+\.\s)/g, '\n$1');
-                    } else {
-                        // Modern text: auto-paragraphing
-                        let t = formattedText;
-                        // Greeting
-                        t = t.replace(/^(Amigo y señor mío,|Muy señor mío,|Señor mío,|Excelentísimo Señor,)\s*/i, '$1\n\n');
-                        
-                        // Sign-offs and common endings
-                        t = t.replace(/(Besa las manos|Guarde Dios|cuya vida guarde|Dios guarde|Quedo a la obediencia|Su más seguro servidor|Perdóneme v\. m\.)/gi, '\n\n$1');
-                        
-                        // Dates/Locations at the end
-                        t = t.replace(/(\. )([A-Z][a-z]+ y [a-z]+, a \d+ de \d{4}|\bMadrid, \d+|\bValencia, \d+|\bZaragoza, \d+)/g, '$1\n\n$2');
-                        
-                        let paragraphs = t.split(/\n\n+/);
-                        let newParagraphs = [];
-                        for (let p of paragraphs) {
-                            if (p.length > 250) {
-                                let sentences = p.split(/\.\s+(?=[A-Z])/);
-                                let currentPara = "";
-                                for (let i = 0; i < sentences.length; i++) {
-                                    currentPara += sentences[i] + (i < sentences.length - 1 ? ". " : "");
-                                    if (currentPara.length > 200 && i < sentences.length - 1) {
-                                        newParagraphs.push(currentPara.trim());
-                                        currentPara = "";
-                                    }
-                                }
-                                if (currentPara.trim().length > 0) {
-                                    newParagraphs.push(currentPara.trim());
-                                }
-                            } else {
-                                newParagraphs.push(p.trim());
-                            }
-                        }
-                        formattedText = newParagraphs.join('\n\n');
-                    }
-                }
-
-                const paragraphs = formattedText.split(/\n+/).filter(p => p.trim() !== '');
-                if (paragraphs.length === 0) return "";
-                
-                return paragraphs.map((p, i) => {
-                    if (isModern && i === 0 && !p.match(/^(Amigo y señor mío,|Muy señor mío,|Señor mío,|Excelentísimo Señor,)$/i)) {
-                        return `<p class="mb-4 first-letter:text-5xl first-letter:font-bold first-letter:text-primary first-letter:float-left first-letter:mr-3 first-letter:mt-[-6px] leading-relaxed">${p}</p>`;
-                    }
-                    if (!isModern) {
-                        // For literal, format the line number
-                        let lineFormatted = p.replace(/^(\d+\.)\s/, '<span class="text-text-muted text-xs mr-2 w-4 inline-block text-right font-mono">$1</span> ');
-                        return `<p class="mb-1 leading-relaxed pl-6 -ml-6">${lineFormatted}</p>`;
-                    }
-                    return `<p class="mb-4 leading-relaxed">${p}</p>`;
-                }).join('');
-            };
             
             if(type === 'literal') {
                 btnLiteral.className = "px-3 py-1 text-sm font-medium rounded bg-white shadow-sm text-primary";
@@ -1348,6 +1870,437 @@
             if(currentZoom < 0.5) currentZoom = 0.5;
             if(currentZoom > 3) currentZoom = 3;
             document.getElementById('manuscript-img').style.transform = `scale(${currentZoom})`;
+        }
+
+        // --- SIDEBAR (Ficha de Carta) ---
+        function openLetterSidebar(letterId, highlightEvidence = false) {
+            let originalLetter = window.letterIndex[letterId];
+            let edgeData = derivedData.edges.find(e => e.id_carta == letterId || e.letter_id == letterId);
+            
+            if (!originalLetter && !edgeData) {
+                console.warn(`Letter ${letterId} not found.`);
+                return;
+            }
+            
+            const title = originalLetter?.nombre_carta || edgeData?.title || `Carta ${letterId}`;
+            const date = edgeData?.date_iso || originalLetter?.fecha || "Fecha desconocida";
+            const sender = edgeData?.from_person || originalLetter?.remitente || "Desconocido";
+            const recipient = edgeData?.to_person || originalLetter?.destinatario || "Desconocido";
+            const origin = edgeData?.from_place_label || originalLetter?.lugar || "Desconocido";
+            const destination = edgeData?.to_place_label || (originalLetter?.destino ? originalLetter.destino.nombre : "Desconocido");
+            const confidence = edgeData?.confidence_label || null;
+            
+            let imagesHtml = '';
+            let images = edgeData?.images && edgeData.images.length > 0 ? edgeData.images : (originalLetter?.imagenes || []);
+            if (images.length > 0) {
+                imagesHtml = `<div class="flex overflow-x-auto gap-2 pb-2 snap-x">`;
+                images.forEach(img => {
+                    let imgSrc = img;
+                    if (imageMap[img]) {
+                        imgSrc = imageMap[img];
+                    } else {
+                        const basename = img.split('/').pop();
+                        if (imageMap["images/" + basename]) {
+                            imgSrc = imageMap["images/" + basename];
+                        } else if (imageMap[basename]) {
+                            imgSrc = imageMap[basename];
+                        }
+                    }
+                    
+                    if (imgSrc === img && !img.startsWith('http') && !img.startsWith('data:')) {
+                        imagesHtml += `<div class="h-48 w-32 bg-[#f3f0e7] flex items-center justify-center rounded shadow-sm snap-center text-text-muted text-xs text-center p-2 border border-[#e7e1cf]">Imagen no disponible</div>`;
+                    } else {
+                        imagesHtml += `<img src="${imgSrc}" class="h-48 w-auto object-cover rounded shadow-sm snap-center cursor-pointer" onclick="window.open('${imgSrc}', '_blank')" alt="Manuscrito">`;
+                    }
+                });
+                imagesHtml += `</div>`;
+            }
+            
+            let chipsHtml = '';
+            const themes = edgeData?.themes || [];
+            const eventIds = edgeData?.event_ids || [];
+            
+            const makeChips = (arr, icon, colorClass) => arr.map(item => `<span class="inline-flex items-center gap-1 px-2 py-1 rounded-full text-xs font-medium ${colorClass}"><span class="material-symbols-outlined text-[14px]">${icon}</span>${item}</span>`).join('');
+            
+            chipsHtml += makeChips(themes, 'category', 'bg-blue-50 text-blue-700 border border-blue-200');
+            chipsHtml += makeChips(eventIds, 'event', 'bg-purple-50 text-purple-700 border border-purple-200');
+            
+            if (chipsHtml) {
+                chipsHtml = `<div class="flex flex-wrap gap-2 mt-2">${chipsHtml}</div>`;
+            }
+            
+            let quotesHtml = '';
+            if (edgeData?.evidence_quote) {
+                quotesHtml = `<div class="mt-4 space-y-2">
+                    <h4 class="text-xs font-bold uppercase tracking-widest text-text-muted">Evidencia</h4>
+                    <blockquote class="border-l-2 border-primary pl-3 text-sm italic text-secondary bg-[#f3f0e7]/50 py-2 pr-2 rounded-r">${edgeData.evidence_quote}</blockquote>
+                </div>`;
+            }
+            
+            let confHtml = '';
+            if (confidence) {
+                let confColor = confidence.toLowerCase() === 'alta' ? 'text-green-600' : (confidence.toLowerCase() === 'media' ? 'text-yellow-600' : 'text-red-600');
+                confHtml = `<div class="flex items-center gap-2 text-xs font-medium ${confColor} bg-white px-2 py-1 rounded border border-[#e7e1cf] w-max">
+                    <span class="material-symbols-outlined text-[16px]">verified</span> Confianza: ${confidence}
+                </div>`;
+            }
+
+            let textHtml = '';
+            const texto_modernizado = originalLetter?.transcripcion?.modernizada || originalLetter?.texto_modernizado;
+            const texto_literal = originalLetter?.transcripcion?.literal || originalLetter?.texto_literal;
+            
+            if (texto_modernizado || texto_literal) {
+                const quoteToHighlight = highlightEvidence ? edgeData?.evidence_quote : null;
+                textHtml = `
+                    <div class="mt-6 border-t border-[#e7e1cf] pt-4">
+                        <div class="flex gap-2 mb-4">
+                            ${texto_modernizado ? `<button onclick="switchSidebarTab('modern')" id="sidebar-tab-modern" class="px-3 py-1 text-xs font-bold rounded bg-primary text-white">Modernizada</button>` : ''}
+                            ${texto_literal ? `<button onclick="switchSidebarTab('literal')" id="sidebar-tab-literal" class="px-3 py-1 text-xs font-bold rounded bg-[#f3f0e7] text-text-muted hover:bg-[#e7e1cf]">Literal</button>` : ''}
+                        </div>
+                        <div id="sidebar-text-content" class="font-serif text-sm leading-relaxed text-secondary">
+                            ${texto_modernizado ? formatText(texto_modernizado, true, quoteToHighlight) : formatText(texto_literal, false, quoteToHighlight)}
+                        </div>
+                    </div>
+                `;
+                window.currentSidebarLetter = { texto_modernizado, texto_literal, quoteToHighlight };
+            }
+
+            const html = `
+                <div class="space-y-4">
+                    ${imagesHtml}
+                    <div>
+                        <h3 class="font-serif text-xl font-bold text-primary leading-tight mb-2">${title}</h3>
+                        <div class="flex flex-wrap gap-2 text-xs text-text-muted mb-3">
+                            <span class="flex items-center gap-1 bg-[#f3f0e7] px-2 py-1 rounded"><span class="material-symbols-outlined text-[14px]">calendar_today</span> ${date}</span>
+                            <span class="flex items-center gap-1 bg-[#f3f0e7] px-2 py-1 rounded"><span class="material-symbols-outlined text-[14px]">route</span> ${origin} &rarr; ${destination}</span>
+                        </div>
+                        ${confHtml}
+                    </div>
+                    
+                    <div class="grid grid-cols-2 gap-4 text-sm bg-white p-3 rounded-lg border border-[#e7e1cf]">
+                        <div>
+                            <p class="text-[10px] uppercase font-bold text-text-muted mb-1">Remitente</p>
+                            <p class="font-medium">${sender}</p>
+                        </div>
+                        <div>
+                            <p class="text-[10px] uppercase font-bold text-text-muted mb-1">Destinatario</p>
+                            <p class="font-medium">${recipient}</p>
+                        </div>
+                    </div>
+                    
+                    ${chipsHtml}
+                    ${quotesHtml}
+                    ${textHtml}
+                </div>
+            `;
+            
+            document.getElementById('letter-sidebar-content').innerHTML = html;
+            document.getElementById('letter-sidebar').classList.remove('translate-x-full');
+        }
+
+        function closeLetterSidebar() {
+            document.getElementById('letter-sidebar').classList.add('translate-x-full');
+        }
+
+        function switchSidebarTab(tab) {
+            const data = window.currentSidebarLetter;
+            if (!data) return;
+            
+            const btnModern = document.getElementById('sidebar-tab-modern');
+            const btnLiteral = document.getElementById('sidebar-tab-literal');
+            const content = document.getElementById('sidebar-text-content');
+            
+            if (tab === 'modern' && data.texto_modernizado) {
+                if(btnModern) btnModern.className = "px-3 py-1 text-xs font-bold rounded bg-primary text-white";
+                if(btnLiteral) btnLiteral.className = "px-3 py-1 text-xs font-bold rounded bg-[#f3f0e7] text-text-muted hover:bg-[#e7e1cf]";
+                content.innerHTML = formatText(data.texto_modernizado, true, data.quoteToHighlight);
+            } else if (tab === 'literal' && data.texto_literal) {
+                if(btnLiteral) btnLiteral.className = "px-3 py-1 text-xs font-bold rounded bg-primary text-white";
+                if(btnModern) btnModern.className = "px-3 py-1 text-xs font-bold rounded bg-[#f3f0e7] text-text-muted hover:bg-[#e7e1cf]";
+                content.innerHTML = formatText(data.texto_literal, false, data.quoteToHighlight);
+            }
+        }
+
+        // --- EVENT CARD (Periódico) ---
+        function openEventCard(ev) {
+            document.getElementById('event-title').innerText = ev.title || "Evento Histórico";
+            document.getElementById('event-date').innerText = ev.date || ev.display_date || "";
+            document.getElementById('event-summary').innerText = ev.summary || ev.description || "";
+            
+            const quotesContainer = document.getElementById('event-quotes');
+            quotesContainer.innerHTML = '';
+            if (ev.quotes && ev.quotes.length > 0) {
+                ev.quotes.forEach(q => {
+                    quotesContainer.innerHTML += `<blockquote class="border-l-2 border-primary pl-3 text-sm italic text-secondary bg-[#f3f0e7]/50 py-2 pr-2 rounded-r">${q}</blockquote>`;
+                });
+            }
+            
+            const sourcesContainer = document.getElementById('event-sources');
+            sourcesContainer.innerHTML = '';
+            if (ev.letters_source && ev.letters_source.length > 0) {
+                ev.letters_source.forEach(letterId => {
+                    sourcesContainer.innerHTML += `
+                        <button onclick="closeEventCard(); openLetterSidebar('${letterId}')" class="w-full text-left bg-white border border-[#e7e1cf] hover:border-primary p-3 rounded-lg flex items-center justify-between group transition-colors">
+                            <span class="text-sm font-medium text-secondary group-hover:text-primary">Ver Carta ${letterId}</span>
+                            <span class="material-symbols-outlined text-text-muted group-hover:text-primary">arrow_forward</span>
+                        </button>
+                    `;
+                });
+                document.getElementById('event-sources-container').classList.remove('hidden');
+            } else {
+                document.getElementById('event-sources-container').classList.add('hidden');
+            }
+            
+            const modal = document.getElementById('event-modal');
+            const content = document.getElementById('event-modal-content');
+            modal.classList.remove('hidden');
+            void modal.offsetWidth;
+            modal.classList.remove('opacity-0');
+            content.classList.remove('scale-95');
+        }
+
+        function closeEventCard() {
+            const modal = document.getElementById('event-modal');
+            const content = document.getElementById('event-modal-content');
+            modal.classList.add('opacity-0');
+            content.classList.add('scale-95');
+            setTimeout(() => {
+                modal.classList.add('hidden');
+            }, 300);
+        }
+
+        // --- TOUR (Modo Exposición) ---
+        let currentTourStep = 0;
+        let tourActive = false;
+        let tourAudio = null;
+
+        function startTour() {
+            if (!derivedData.tour || !derivedData.tour.steps || derivedData.tour.steps.length === 0) {
+                alert("No se ha cargado el archivo tour_legajo10.json o no tiene pasos.");
+                return;
+            }
+            
+            tourActive = true;
+            currentTourStep = 0;
+            
+            switchView('timeline');
+            
+            const tourBar = document.getElementById('tour-bar');
+            tourBar.classList.remove('hidden');
+            void tourBar.offsetWidth;
+            tourBar.classList.remove('translate-y-full');
+            
+            applyTourStep(currentTourStep);
+        }
+
+        function exitTour() {
+            tourActive = false;
+            if (tourAudio) {
+                tourAudio.pause();
+                tourAudio = null;
+            }
+            const tourBar = document.getElementById('tour-bar');
+            tourBar.classList.add('translate-y-full');
+            setTimeout(() => {
+                tourBar.classList.add('hidden');
+            }, 500);
+            
+            closeLetterSidebar();
+            closeEventCard();
+        }
+
+        function nextTourStep() {
+            if (currentTourStep < derivedData.tour.steps.length - 1) {
+                currentTourStep++;
+                applyTourStep(currentTourStep);
+            } else {
+                exitTour();
+            }
+        }
+
+        function prevTourStep() {
+            if (currentTourStep > 0) {
+                currentTourStep--;
+                applyTourStep(currentTourStep);
+            }
+        }
+
+        let tourAutoplayInterval = null;
+
+        function toggleTourAutoplay() {
+            const btn = document.getElementById('tour-autoplay-btn');
+            const icon = btn.querySelector('.material-symbols-outlined');
+            if (tourAutoplayInterval) {
+                clearInterval(tourAutoplayInterval);
+                tourAutoplayInterval = null;
+                icon.innerText = 'play_arrow';
+                btn.classList.remove('bg-[#a38420]');
+            } else {
+                icon.innerText = 'pause';
+                btn.classList.add('bg-[#a38420]');
+                tourAutoplayInterval = setInterval(() => {
+                    if (currentTourStep < derivedData.tour.steps.length - 1) {
+                        nextTourStep();
+                    } else {
+                        toggleTourAutoplay(); // stop at end
+                    }
+                }, 5000); // 5 seconds per step
+            }
+        }
+
+        function restartTour() {
+            if (tourAutoplayInterval) {
+                toggleTourAutoplay(); // Stop autoplay if running
+            }
+            currentTourStep = 0;
+            applyTourStep(currentTourStep);
+        }
+
+        function applyTourStep(index) {
+            const step = derivedData.tour.steps[index];
+            if (!step) return;
+            
+            const counterEl = document.getElementById('tour-step-counter');
+            if (counterEl) counterEl.innerText = `Paso ${index + 1} / ${derivedData.tour.steps.length}`;
+            
+            const titleEl = document.getElementById('tour-title');
+            if (titleEl) titleEl.innerText = step.title || "Tour";
+
+            document.getElementById('tour-subtitle').innerText = step.audio_script || step.text || "";
+            
+            if (tourAudio) {
+                tourAudio.pause();
+                tourAudio = null;
+            }
+            
+            if (step.audio_url) {
+                document.getElementById('tour-audio-btn').classList.remove('opacity-50');
+            } else {
+                document.getElementById('tour-audio-btn').classList.add('opacity-50');
+            }
+            
+            if (step.lat && step.lng) {
+                const zoom = step.zoom || 6;
+                mapTimeline.flyTo([step.lat, step.lng], zoom, { duration: 2 });
+            } else if (step.place_key && derivedData.coords && derivedData.coords[step.place_key]) {
+                const coords = derivedData.coords[step.place_key];
+                const zoom = step.zoom || 6;
+                mapTimeline.flyTo([coords.lat, coords.lng], zoom, { duration: 2 });
+            }
+            
+            if (step.ui_actions && step.ui_actions.length > 0) {
+                step.ui_actions.forEach(action => dispatchAction(action));
+            }
+        }
+
+        function dispatchAction(action) {
+            try {
+                if (action.type === 'timeline_focus') {
+                    const dateStr = action.from || action.date;
+                    if (dateStr) {
+                        const m = dateStr.substring(0, 7);
+                        const index = timelineMonthKeys.indexOf(m);
+                        if (index !== -1) {
+                            const slider = document.getElementById('timeline-slider');
+                            if(slider) {
+                                slider.value = index;
+                                updateTimeline(index);
+                            }
+                        }
+                    }
+                } else if (action.type === 'open_side_panel') {
+                    if (action.letter_id) {
+                        openLetterSidebar(action.letter_id, action.highlight_evidence);
+                    }
+                } else if (action.type === 'show_event_card') {
+                    if (action.event_id && derivedData.events) {
+                        const ev = derivedData.events.find(e => e.id === action.event_id || e.event_id === action.event_id);
+                        if (ev) openEventCard(ev);
+                    }
+                } else if (action.type === 'map_pulse_location') {
+                    let lat = action.lat;
+                    let lng = action.lng;
+                    if (action.place_key && derivedData.coords && derivedData.coords[action.place_key]) {
+                        lat = derivedData.coords[action.place_key].lat;
+                        lng = derivedData.coords[action.place_key].lng;
+                    }
+                    if (lat != null && lng != null) {
+                        const pulseIcon = L.divIcon({
+                            className: 'pulse-marker-tour',
+                            html: `<div class="w-8 h-8 bg-primary/50 rounded-full animate-ping"></div><div class="w-4 h-4 bg-primary rounded-full absolute top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2"></div>`,
+                            iconSize: [32, 32],
+                            iconAnchor: [16, 16]
+                        });
+                        const marker = L.marker([lat, lng], { icon: pulseIcon }).addTo(mapTimeline);
+                        mapTimeline.flyTo([lat, lng], 8, { duration: 1.5 });
+                        setTimeout(() => mapTimeline.removeLayer(marker), 5000);
+                    }
+                } else if (action.type === 'highlight_quote') {
+                    if (action.quote) {
+                        const contentDiv = document.getElementById('sidebar-text-content');
+                        if (contentDiv) {
+                            const innerHTML = contentDiv.innerHTML;
+                            const cleanQuote = action.quote.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
+                            let regex = new RegExp(`(${cleanQuote})`, 'gi');
+                            
+                            if (regex.test(innerHTML)) {
+                                contentDiv.innerHTML = innerHTML.replace(regex, '<mark class="bg-yellow-200 text-black px-1 rounded">$1</mark>');
+                            } else {
+                                // Fallback: try to match ignoring punctuation and extra spaces
+                                const normalizedQuote = action.quote.replace(/[^\w\s]/g, '').replace(/\s+/g, '\\s*');
+                                regex = new RegExp(`(${normalizedQuote})`, 'gi');
+                                if (regex.test(innerHTML)) {
+                                    contentDiv.innerHTML = innerHTML.replace(regex, '<mark class="bg-yellow-200 text-black px-1 rounded">$1</mark>');
+                                }
+                            }
+                            
+                            setTimeout(() => {
+                                const mark = contentDiv.querySelector('mark');
+                                if (mark) mark.scrollIntoView({ behavior: 'smooth', block: 'center' });
+                            }, 100);
+                        }
+                    }
+                } else if (action.type === 'set_theme_filter') {
+                    if (action.theme) {
+                        setLens(action.theme.toLowerCase());
+                    }
+                } else if (action.type === 'map_highlight_route') {
+                    if (action.from_place_key && action.to_place_key && derivedData.coords) {
+                        const from = derivedData.coords[action.from_place_key];
+                        const to = derivedData.coords[action.to_place_key];
+                        if (from && to) {
+                            const p1 = [from.lat, from.lng];
+                            const p2 = [to.lat, to.lng];
+                            const curvePoints = getCurvePoints(p1, p2, 1);
+                            const line = L.polyline(curvePoints, {
+                                color: '#c5a028',
+                                weight: 8,
+                                opacity: 0.8,
+                                className: 'arc-path'
+                            }).addTo(mapTimeline);
+                            
+                            L.circleMarker(p1, { radius: 8, fillColor: '#2d2a26', color: '#fff', weight: 2, fillOpacity: 1 }).addTo(mapTimeline);
+                            L.circleMarker(p2, { radius: 8, fillColor: '#c5a028', color: '#fff', weight: 2, fillOpacity: 1 }).addTo(mapTimeline);
+                            
+                            mapTimeline.flyToBounds(L.latLngBounds([p1, p2]), { padding: [50, 50], duration: 1.5 });
+                            setTimeout(() => mapTimeline.removeLayer(line), 5000);
+                        }
+                    }
+                }
+            } catch (e) {
+                console.warn("Error dispatching action", action, e);
+            }
+        }
+
+        function playTourAudio() {
+            if (tourAudio) {
+                if (tourAudio.paused) tourAudio.play();
+                else tourAudio.pause();
+            } else {
+                const btn = document.getElementById('tour-audio-btn');
+                btn.classList.add('animate-pulse');
+                setTimeout(() => btn.classList.remove('animate-pulse'), 2000);
+            }
         }
     </script>
 </body>
