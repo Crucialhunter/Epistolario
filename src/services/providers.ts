@@ -41,6 +41,9 @@ export const geminiAdapter: ProviderAdapter = {
         const mimeType = img.split(';')[0].split(':')[1];
         return { inlineData: { data: '<BASE64_IMAGE_DATA_HIDDEN>', mimeType } };
       });
+      if (!prompt || typeof prompt !== 'string' || prompt.trim() === '') {
+        throw new Error("Prompt is empty or invalid. Aborting API call to Gemini.");
+      }
 
       parts.push({ text: prompt });
       requestPayloadParts.push({ text: prompt });
@@ -96,6 +99,9 @@ export const openaiAdapter: ProviderAdapter = {
   async generateTranscription(imageBase64s: string[], prompt: string, apiKey: string, onLog?: (type: 'info' | 'error' | 'warning' | 'success', msg: string, data?: any) => void) {
     try {
       const openai = new OpenAI({ apiKey, dangerouslyAllowBrowser: true });
+      if (!prompt || typeof prompt !== 'string' || prompt.trim() === '') {
+        throw new Error("Prompt is empty or invalid. Aborting API call to OpenAI.");
+      }
 
       const contentParts: any[] = [{ type: 'text', text: prompt }];
       const requestPayloadContentParts: any[] = [{ type: 'text', text: prompt }];
@@ -166,6 +172,9 @@ export const anthropicSonnetAdapter: ProviderAdapter = {
         contentParts.push({ type: 'image', source: { type: 'base64', media_type: mediaType, data: base64Data } });
         requestPayloadContentParts.push({ type: 'image', source: { type: 'base64', media_type: mediaType, data: '<BASE64_IMAGE_DATA_HIDDEN>' } });
       }
+      if (!prompt || typeof prompt !== 'string' || prompt.trim() === '') {
+        throw new Error("Prompt is empty or invalid. Aborting API call to Anthropic.");
+      }
       contentParts.push({ type: 'text', text: prompt });
       requestPayloadContentParts.push({ type: 'text', text: prompt });
 
@@ -231,6 +240,9 @@ export const anthropicOpusAdapter: ProviderAdapter = {
         const mediaType = img.split(';')[0].split(':')[1] as any;
         contentParts.push({ type: 'image', source: { type: 'base64', media_type: mediaType, data: base64Data } });
         requestPayloadContentParts.push({ type: 'image', source: { type: 'base64', media_type: mediaType, data: '<BASE64_IMAGE_DATA_HIDDEN>' } });
+      }
+      if (!prompt || typeof prompt !== 'string' || prompt.trim() === '') {
+        throw new Error("Prompt is empty or invalid. Aborting API call to Anthropic.");
       }
       contentParts.push({ type: 'text', text: prompt });
       requestPayloadContentParts.push({ type: 'text', text: prompt });

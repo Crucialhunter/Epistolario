@@ -21,7 +21,7 @@ export default function RunBenchmarkModal({ isOpen, onClose, selectedDocIds }: R
   const [isStarting, setIsStarting] = useState(false);
   const [skipProcessed, setSkipProcessed] = useState(true);
   const [taskCount, setTaskCount] = useState<number | null>(null);
-  
+
   const store = useBenchmarkStore();
 
   useEffect(() => {
@@ -38,7 +38,7 @@ export default function RunBenchmarkModal({ isOpen, onClose, selectedDocIds }: R
       const calculateTasks = async () => {
         const savedKeys = localStorage.getItem('paleobench_api_keys');
         const apiKeys = savedKeys ? JSON.parse(savedKeys) : {};
-        
+
         let docs = await db.documents.toArray();
         if (selectedDocIds && selectedDocIds.length > 0) {
           docs = docs.filter(d => selectedDocIds.includes(d.id));
@@ -48,7 +48,7 @@ export default function RunBenchmarkModal({ isOpen, onClose, selectedDocIds }: R
         for (const doc of docs) {
           for (const provider of providers) {
             if (provider.id !== 'gemini-3.1-pro-preview' && !apiKeys[provider.id]) continue;
-            
+
             if (selectedTemplate.engine === 'split') {
               for (const mode of ['literal', 'modernizada'] as const) {
                 if (skipProcessed) {
@@ -89,11 +89,11 @@ export default function RunBenchmarkModal({ isOpen, onClose, selectedDocIds }: R
   const handleStart = async () => {
     if (!selectedTemplate) return;
     setIsStarting(true);
-    
+
     try {
       const savedKeys = localStorage.getItem('paleobench_api_keys');
       const apiKeys = savedKeys ? JSON.parse(savedKeys) : {};
-      
+
       // Create prompt snapshots for history
       let litSnapshotId = '';
       let modSnapshotId = '';
@@ -102,15 +102,20 @@ export default function RunBenchmarkModal({ isOpen, onClose, selectedDocIds }: R
       if (selectedTemplate.engine === 'split') {
         const litContent = `${selectedTemplate.systemPrompt}\n\n${selectedTemplate.literalPrompt}`;
         const modContent = `${selectedTemplate.systemPrompt}\n\n${selectedTemplate.modernizadaPrompt}`;
-        
+
         const litSnap = { id: crypto.randomUUID(), mode: 'literal' as const, version: 1, content: litContent, createdAt: Date.now() };
         const modSnap = { id: crypto.randomUUID(), mode: 'modernizada' as const, version: 1, content: modContent, createdAt: Date.now() };
-        
+
         await db.prompts.bulkAdd([litSnap, modSnap]);
         litSnapshotId = litSnap.id;
         modSnapshotId = modSnap.id;
+      } else if (selectedTemplate.engine === 'fast') {
+        const fastContent = `${selectedTemplate.systemPrompt || ''}\n\n${selectedTemplate.fastPrompt || ''}`.trim();
+        const fastSnap = { id: crypto.randomUUID(), mode: 'modernizada' as const, version: 1, content: fastContent, createdAt: Date.now() };
+        await db.prompts.add(fastSnap);
+        unifiedSnapshotId = fastSnap.id;
       } else {
-        const unifiedContent = `${selectedTemplate.systemPrompt}\n\n${selectedTemplate.unifiedPrompt}`;
+        const unifiedContent = `${selectedTemplate.systemPrompt || ''}\n\n${selectedTemplate.unifiedPrompt || ''}`.trim();
         const uniSnap = { id: crypto.randomUUID(), mode: 'literal' as const, version: 1, content: unifiedContent, createdAt: Date.now() };
         await db.prompts.add(uniSnap);
         unifiedSnapshotId = uniSnap.id;
@@ -121,17 +126,17 @@ export default function RunBenchmarkModal({ isOpen, onClose, selectedDocIds }: R
       if (selectedDocIds && selectedDocIds.length > 0) {
         docs = docs.filter(d => selectedDocIds.includes(d.id));
       }
-      
+
       const newTasks: BenchmarkTask[] = [];
-      
+
       for (const doc of docs) {
         for (const provider of providers) {
           if (provider.id !== 'gemini-3.1-pro-preview' && !apiKeys[provider.id]) continue;
-          
+
           if (selectedTemplate.engine === 'split') {
             for (const mode of ['literal', 'modernizada'] as const) {
               const cacheKey = `${doc.id}:${provider.id}:${mode}:orig:${selectedTemplate.id}`;
-              
+
               if (skipProcessed) {
                 const existing = await db.runResults
                   .where('docId').equals(doc.id)
@@ -139,7 +144,7 @@ export default function RunBenchmarkModal({ isOpen, onClose, selectedDocIds }: R
                   .first();
                 if (existing) continue;
               }
-              
+
               newTasks.push({
                 id: crypto.randomUUID(),
                 docId: doc.id,
@@ -154,44 +159,59 @@ export default function RunBenchmarkModal({ isOpen, onClose, selectedDocIds }: R
               });
             }
           } else {
-            // Unified engine
-            const cacheKey = `${doc.id}:${provider.id}:unified:orig:${selectedTemplate.id}`;
-            
+            // Unified or Fast engine
+            const isFast = selectedTemplate.engine === 'fast';
+            const cacheKey = `${doc.id}:${provider.id}:${isFast ? 'modernizada' : 'unified'}:orig:${selectedTemplate.id}`;
+
             if (skipProcessed) {
-              const existingLit = await db.runResults
-                .where('docId').equals(doc.id)
-                .and(r => r.modelId === provider.id && r.mode === 'literal' && r.promptTemplateId === selectedTemplate.id)
-                .first();
-              const existingMod = await db.runResults
-                .where('docId').equals(doc.id)
-                .and(r => r.modelId === provider.id && r.mode === 'modernizada' && r.promptTemplateId === selectedTemplate.id)
-                .first();
-              if (existingLit && existingMod) continue;
+              if (isFast) {
+                const existingFast = await db.runResults
+                  .where('docId').equals(doc.id)
+                  .and(r => r.modelId === provider.id && r.mode === 'modernizada' && r.promptTemplateId === selectedTemplate.id)
+                  .first();
+                if (existingFast) continue;
+              } else {
+                const existingLit = await db.runResults
+                  .where('docId').equals(doc.id)
+                  .and(r => r.modelId === provider.id && r.mode === 'literal' && r.promptTemplateId === selectedTemplate.id)
+                  .first();
+                const existingMod = await db.runResults
+                  .where('docId').equals(doc.id)
+                  .and(r => r.modelId === provider.id && r.mode === 'modernizada' && r.promptTemplateId === selectedTemplate.id)
+                  .first();
+                if (existingLit && existingMod) continue;
+              }
             }
-            
+
             newTasks.push({
               id: crypto.randomUUID(),
               docId: doc.id,
               docTitle: doc.title,
               provider,
-              mode: 'unified',
-              engine: 'unified',
+              mode: isFast ? 'modernizada' : 'unified',
+              engine: selectedTemplate.engine,
               promptTemplateId: selectedTemplate.id,
-              prompt: { id: unifiedSnapshotId, mode: 'literal', version: 1, content: selectedTemplate.unifiedPrompt!, createdAt: Date.now() },
+              prompt: {
+                id: unifiedSnapshotId,
+                mode: isFast ? 'modernizada' : 'literal',
+                version: 1,
+                content: isFast ? `${selectedTemplate.systemPrompt || ''}\n\n${selectedTemplate.fastPrompt || ''}`.trim() : `${selectedTemplate.systemPrompt || ''}\n\n${selectedTemplate.unifiedPrompt || ''}`.trim(),
+                createdAt: Date.now()
+              },
               cacheKey,
               status: 'pending'
             });
           }
         }
       }
-      
+
       store.setTasks([...store.tasks, ...newTasks]);
       store.setDrawerOpen(true);
       onClose();
-      
+
       // Start queue in background
       runPrecomputeQueue(apiKeys);
-      
+
     } catch (err) {
       console.error(err);
       alert('Failed to start benchmark');
@@ -209,7 +229,7 @@ export default function RunBenchmarkModal({ isOpen, onClose, selectedDocIds }: R
             <X className="w-5 h-5" />
           </button>
         </div>
-        
+
         <div className="flex-1 overflow-y-auto p-6 space-y-6">
           <div className="bg-stone/30 p-4 rounded-lg border border-ink/5 text-sm text-ink/70">
             Select a Prompt Template to run. You can create and manage templates in the Settings page.
@@ -218,7 +238,7 @@ export default function RunBenchmarkModal({ isOpen, onClose, selectedDocIds }: R
           <div>
             <div className="flex justify-between items-center mb-2">
               <label className="block text-sm font-medium text-ink">Prompt Template</label>
-              <button 
+              <button
                 onClick={() => { onClose(); navigate('/settings'); }}
                 className="text-xs text-ink/50 hover:text-ink flex items-center space-x-1"
               >
@@ -256,6 +276,15 @@ export default function RunBenchmarkModal({ isOpen, onClose, selectedDocIds }: R
                   <span className="text-xs font-semibold text-ink/50 uppercase tracking-wider block mb-1">Unified Prompt:</span>
                   <div className="text-xs font-mono text-ink/80 bg-stone/10 p-2 rounded max-h-32 overflow-y-auto whitespace-pre-wrap">{selectedTemplate.unifiedPrompt}</div>
                 </div>
+              ) : selectedTemplate.engine === 'fast' ? (
+                <div>
+                  <span className="text-xs font-semibold text-ink/50 uppercase tracking-wider block mb-1">Effective Prompt Preview:</span>
+                  <div className="text-xs font-mono text-ink/80 bg-stone/10 p-2 rounded max-h-32 overflow-y-auto whitespace-pre-wrap">{(selectedTemplate.systemPrompt ? selectedTemplate.systemPrompt + '\n\n' : '') + (selectedTemplate.fastPrompt || '')}</div>
+                  <div className="mt-3 text-xs text-ink/60 bg-olive/5 border border-olive/20 p-2 rounded">
+                    <span className="font-semibold text-olive/80 mr-1">Expected Schema:</span>
+                    <span className="font-mono text-ink/80">idioma_detectado + transcripcion_modernizada</span>
+                  </div>
+                </div>
               ) : (
                 <div className="grid grid-cols-2 gap-4">
                   <div>
@@ -280,8 +309,8 @@ export default function RunBenchmarkModal({ isOpen, onClose, selectedDocIds }: R
               </p>
             </div>
             <label className="flex items-center space-x-2 text-sm font-medium text-ink cursor-pointer">
-              <input 
-                type="checkbox" 
+              <input
+                type="checkbox"
                 checked={skipProcessed}
                 onChange={(e) => setSkipProcessed(e.target.checked)}
                 className="rounded border-ink/20 text-olive focus:ring-olive/50"

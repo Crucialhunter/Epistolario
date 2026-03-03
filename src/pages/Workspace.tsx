@@ -16,12 +16,12 @@ export default function Workspace() {
   const { docId } = useParams();
   const [searchParams] = useSearchParams();
   const initialModel = searchParams.get('model') || 'gemini-3.1-pro-preview';
-  
+
   const document = useLiveQuery(() => db.documents.get(docId || ''));
   const groundTruth = useLiveQuery(() => db.groundTruths.where('docId').equals(docId || '').first());
   const variants = useLiveQuery(() => db.imageVariants.where('docId').equals(docId || '').toArray());
   const promptTemplates = useLiveQuery(() => db.promptTemplates.toArray());
-  
+
   const [mode, setMode] = useState<'literal' | 'modernizada'>('literal');
   const [selectedModelId, setSelectedModelId] = useState<string>(initialModel);
   const [currentPageIndex, setCurrentPageIndex] = useState<number>(0);
@@ -37,7 +37,7 @@ export default function Workspace() {
 
   const currentVariantId = selectedVariantIds[currentPageIndex] || 'orig';
   const currentPageVariants = variants?.filter(v => v.pageIndex === currentPageIndex) || [];
-  
+
   // We need to stringify selectedVariantIds for the cacheKey
   const variantIdsString = JSON.stringify(selectedVariantIds);
 
@@ -108,7 +108,7 @@ export default function Workspace() {
       alert('Maximum of 3 variants allowed per page. Please delete one first.');
       return;
     }
-    
+
     canvasRef.current.toBlob(async (blob) => {
       if (blob) {
         const variantId = crypto.randomUUID();
@@ -143,10 +143,10 @@ export default function Workspace() {
 
   const handleRerun = async () => {
     if (!docId || !document || !groundTruth) return;
-    
+
     const savedKeys = localStorage.getItem('paleobench_api_keys');
     const apiKeys = savedKeys ? JSON.parse(savedKeys) : {};
-    
+
     if (selectedModelId !== 'gemini-3.1-pro-preview' && !apiKeys[selectedModelId]) {
       alert(`Please configure API key for ${providers.find(p => p.id === selectedModelId)?.name} in Settings.`);
       return;
@@ -174,13 +174,15 @@ export default function Workspace() {
 
     let promptSnapshotId = runResult?.promptSnapshotId;
     let promptContent = '';
-    
+
     if (!promptSnapshotId) {
       // Create a new snapshot if we don't have one
       if (templateToUse.engine === 'split') {
-        promptContent = mode === 'literal' ? `${templateToUse.systemPrompt}\n\n${templateToUse.literalPrompt}` : `${templateToUse.systemPrompt}\n\n${templateToUse.modernizadaPrompt}`;
+        promptContent = mode === 'literal' ? `${templateToUse.systemPrompt || ''}\n\n${templateToUse.literalPrompt || ''}`.trim() : `${templateToUse.systemPrompt || ''}\n\n${templateToUse.modernizadaPrompt || ''}`.trim();
+      } else if (templateToUse.engine === 'fast') {
+        promptContent = `${templateToUse.systemPrompt || ''}\n\n${templateToUse.fastPrompt || ''}`.trim();
       } else {
-        promptContent = `${templateToUse.systemPrompt}\n\n${templateToUse.unifiedPrompt}`;
+        promptContent = `${templateToUse.systemPrompt || ''}\n\n${templateToUse.unifiedPrompt || ''}`.trim();
       }
       const newSnap = { id: crypto.randomUUID(), mode: mode as 'literal' | 'modernizada', version: 1, content: promptContent, createdAt: Date.now() };
       await db.prompts.add(newSnap);
@@ -190,7 +192,7 @@ export default function Workspace() {
       promptContent = existingSnap?.content || '';
     }
 
-    const cacheKey = templateToUse.engine === 'split' 
+    const cacheKey = templateToUse.engine === 'split'
       ? `${docId}:${selectedModelId}:${mode}:${variantIdsString}:${templateToUse.id}`
       : `${docId}:${selectedModelId}:unified:${variantIdsString}:${templateToUse.id}`;
 
@@ -219,9 +221,9 @@ export default function Workspace() {
 
   const gtText = mode === 'literal' ? groundTruth.literal : groundTruth.modernizada;
   const normalizedGtText = mode === 'literal' ? normalizeLiteral(gtText) : normalizeModernizada(gtText);
-  
+
   const displayText = showNormalized ? normalizedGtText : gtText;
-  
+
   const predictionText = runResult?.parsedText || 'No benchmark run yet for this model and mode.';
   const displayPrediction = showNormalized && runResult?.status === 'success'
     ? (mode === 'literal' ? normalizeLiteral(predictionText) : normalizeModernizada(predictionText))
@@ -248,7 +250,7 @@ export default function Workspace() {
                   </select>
                 </div>
               )}
-              <button 
+              <button
                 onClick={() => handleSelectVariant('orig')}
                 className={`text-xs px-2 py-1 rounded font-medium ${currentVariantId === 'orig' ? 'bg-ink text-paper' : 'bg-stone text-ink/70 hover:bg-stone/80'}`}
               >
@@ -256,13 +258,13 @@ export default function Workspace() {
               </button>
               {currentPageVariants.map(v => (
                 <div key={v.id} className={`flex items-center text-xs rounded font-medium ${currentVariantId === v.id ? 'bg-ink text-paper' : 'bg-stone text-ink/70 hover:bg-stone/80'}`}>
-                  <button 
+                  <button
                     onClick={() => handleSelectVariant(v.id)}
                     className="px-2 py-1"
                   >
                     {v.name}
                   </button>
-                  <button 
+                  <button
                     onClick={() => handleDeleteVariant(v.id)}
                     className="px-1 py-1 hover:text-burgundy"
                     title="Delete variant"
@@ -272,7 +274,7 @@ export default function Workspace() {
                 </div>
               ))}
               {currentPageVariants.length < 3 && currentVariantId === 'orig' && (
-                <button 
+                <button
                   onClick={handleBakeVariant}
                   className="text-xs px-2 py-1 bg-olive/10 text-olive rounded hover:bg-olive/20 transition-colors flex items-center space-x-1"
                   title="Save current filters as a new variant"
@@ -282,7 +284,7 @@ export default function Workspace() {
                 </button>
               )}
             </div>
-            <button 
+            <button
               onClick={() => setShowFilters(!showFilters)}
               className="flex items-center space-x-1 text-xs text-ink/60 hover:text-ink transition-colors ml-4"
             >
@@ -292,7 +294,7 @@ export default function Workspace() {
             </button>
           </div>
         </div>
-        
+
         <div className="flex-1 relative overflow-hidden">
           {imageUrl ? (
             <ImageViewer imageUrl={imageUrl} filters={filters} canvasRef={canvasRef} />
@@ -300,21 +302,21 @@ export default function Workspace() {
             <div className="flex items-center justify-center h-full text-ink/40 text-sm">No image available</div>
           )}
         </div>
-        
+
         {showFilters && (
           <div className="border-t border-ink/10 bg-paper p-4">
             <div className="flex items-center justify-between mb-3">
               <h3 className="text-xs font-semibold text-ink/60 uppercase tracking-wider">Filters</h3>
               <div className="flex items-center space-x-4">
                 <label className="flex items-center space-x-2 text-xs font-medium text-ink cursor-pointer">
-                  <input 
+                  <input
                     type="checkbox" checked={filters.invert}
                     onChange={(e) => setFilters(f => ({ ...f, invert: e.target.checked }))}
                     className="rounded border-ink/20 text-olive focus:ring-olive/50"
                   />
                   <span>Invert Colors</span>
                 </label>
-                <button 
+                <button
                   onClick={() => setFilters({ brightness: 100, contrast: 100, invert: false })}
                   className="text-xs text-ink/50 hover:text-ink"
                 >
@@ -328,7 +330,7 @@ export default function Workspace() {
                   <span>Brightness</span>
                   <span>{filters.brightness}%</span>
                 </label>
-                <input 
+                <input
                   type="range" min="0" max="200" value={filters.brightness}
                   onChange={(e) => setFilters(f => ({ ...f, brightness: parseInt(e.target.value) }))}
                   className="w-full accent-olive"
@@ -339,7 +341,7 @@ export default function Workspace() {
                   <span>Contrast</span>
                   <span>{filters.contrast}%</span>
                 </label>
-                <input 
+                <input
                   type="range" min="0" max="200" value={filters.contrast}
                   onChange={(e) => setFilters(f => ({ ...f, contrast: parseInt(e.target.value) }))}
                   className="w-full accent-olive"
@@ -354,13 +356,13 @@ export default function Workspace() {
       <div className="w-1/2 flex flex-col bg-white">
         <div className="h-12 border-b border-ink/10 flex items-center px-4 justify-between bg-paper">
           <div className="flex space-x-4">
-            <button 
+            <button
               onClick={() => setMode('literal')}
               className={`text-sm font-medium pb-1 ${mode === 'literal' ? 'text-ink border-b-2 border-ink' : 'text-ink/50 hover:text-ink'}`}
             >
               Literal
             </button>
-            <button 
+            <button
               onClick={() => setMode('modernizada')}
               className={`text-sm font-medium pb-1 ${mode === 'modernizada' ? 'text-ink border-b-2 border-ink' : 'text-ink/50 hover:text-ink'}`}
             >
@@ -368,7 +370,7 @@ export default function Workspace() {
             </button>
           </div>
           <div className="flex items-center space-x-4">
-            <select 
+            <select
               value={selectedModelId}
               onChange={(e) => setSelectedModelId(e.target.value)}
               className="text-xs bg-stone border-none rounded px-2 py-1 focus:ring-0"
@@ -393,7 +395,7 @@ export default function Workspace() {
               <RotateCcw className="w-3.5 h-3.5" />
             </button>
             <label className="flex items-center space-x-2 text-xs font-medium text-ink/70 ml-2">
-              <input 
+              <input
                 type="checkbox" checked={showNormalized}
                 onChange={(e) => setShowNormalized(e.target.checked)}
                 className="rounded border-ink/20 text-olive focus:ring-olive/50"
@@ -406,84 +408,94 @@ export default function Workspace() {
           </div>
         </div>
         <div className="flex-1 p-4 overflow-y-auto">
-           {/* Metadata Comparison */}
-           {(groundTruth?.metadata || runResult?.parsedMetadata) && (
-             <MetadataComparison 
-               groundTruth={groundTruth?.metadata} 
-               prediction={runResult?.parsedMetadata} 
-             />
-           )}
-           
-           <div className="mb-4">
-             <div className="flex items-center justify-between mb-2">
-               <h3 className="text-xs font-semibold text-ink/60 uppercase tracking-wider">Ground Truth</h3>
-               {promptSnapshot && (
-                 <button 
-                   onClick={() => setShowPrompt(!showPrompt)}
-                   className="text-xs text-ink/50 hover:text-ink transition-colors"
-                 >
-                   {showPrompt ? 'Hide Prompt' : 'View Prompt'}
-                 </button>
-               )}
-             </div>
-             
-             {showPrompt && promptSnapshot && (
-               <div className="mb-4 p-3 bg-stone/10 rounded border border-ink/5 text-xs font-mono text-ink/80 whitespace-pre-wrap">
-                 <div className="font-semibold mb-1 text-ink/60">Prompt used for this result:</div>
-                 {promptSnapshot.content}
-               </div>
-             )}
-             
-             <div className="p-4 bg-stone/5 rounded-lg border border-ink/5 font-serif text-sm whitespace-pre-wrap">
-               {displayText}
-             </div>
-           </div>
-           
-           <div>
-             <div className="flex items-center justify-between mb-2">
-               <h3 className="text-xs font-semibold text-ink/60 uppercase tracking-wider flex items-center space-x-2">
-                 <span>{providers.find(p => p.id === selectedModelId)?.name}</span>
-                 {runResult && (
-                   <span 
-                     className="text-ink/40 font-mono text-[10px] bg-stone px-1.5 py-0.5 rounded cursor-help"
-                     title="CER (Character Error Rate): % of characters that differ. Lower is better.&#10;WER (Word Error Rate): % of words that differ. Lower is better."
-                   >
-                     CER: {runResult.cer.toFixed(1)}% | WER: {runResult.wer.toFixed(1)}%
-                   </span>
-                 )}
-                 {runResult?.tokens && (
-                   <span 
-                     className="text-ink/40 font-mono text-[10px] bg-stone px-1.5 py-0.5 rounded cursor-help"
-                     title={`Input: ${(runResult.tokens as any).inputTokens || (runResult.tokens as any).promptTokens || 0} | Output: ${(runResult.tokens as any).outputTokens || (runResult.tokens as any).completionTokens || 0} | Latency: ${runResult.latencyMs}ms`}
-                   >
-                     {runResult.tokens.totalTokens} tokens | {runResult.latencyMs}ms
-                   </span>
-                 )}
-               </h3>
-               <div className="flex bg-stone rounded p-0.5">
-                 <button 
-                   onClick={() => setViewMode('diff')}
-                   className={`text-xs px-2 py-1 rounded ${viewMode === 'diff' ? 'bg-white shadow-sm font-medium' : 'text-ink/60 hover:text-ink'}`}
-                 >
-                   Diff
-                 </button>
-                 <button 
-                   onClick={() => setViewMode('raw')}
-                   className={`text-xs px-2 py-1 rounded ${viewMode === 'raw' ? 'bg-white shadow-sm font-medium' : 'text-ink/60 hover:text-ink'}`}
-                 >
-                   Raw
-                 </button>
-               </div>
-             </div>
-             
-             {viewMode === 'diff' ? (
-               <DiffViewer groundTruth={displayText} prediction={displayPrediction} mode={mode} />
-             ) : (
-               <div className="p-4 bg-stone/5 rounded-lg border border-ink/5 font-serif text-sm whitespace-pre-wrap">
-                 {displayPrediction}
-               </div>
-             )}
-           </div>
+          {/* Metadata Comparison */}
+          {(groundTruth?.metadata || runResult?.parsedMetadata) && (
+            <MetadataComparison
+              groundTruth={groundTruth?.metadata}
+              prediction={runResult?.parsedMetadata}
+            />
+          )}
+
+          <div className="mb-4">
+            <div className="flex items-center justify-between mb-2">
+              <h3 className="text-xs font-semibold text-ink/60 uppercase tracking-wider">Ground Truth</h3>
+              {promptSnapshot && (
+                <button
+                  onClick={() => setShowPrompt(!showPrompt)}
+                  className="text-xs text-ink/50 hover:text-ink transition-colors"
+                >
+                  {showPrompt ? 'Hide Prompt' : 'View Prompt'}
+                </button>
+              )}
+            </div>
+
+            {showPrompt && promptSnapshot && (
+              <div className="mb-4 p-3 bg-stone/10 rounded border border-ink/5 text-xs font-mono text-ink/80 whitespace-pre-wrap">
+                <div className="font-semibold mb-1 text-ink/60">Prompt used for this result:</div>
+                {promptSnapshot.content}
+              </div>
+            )}
+
+            <div className="p-4 bg-stone/5 rounded-lg border border-ink/5 font-serif text-sm whitespace-pre-wrap">
+              {displayText}
+            </div>
+          </div>
+
+          <div>
+            <div className="flex items-center justify-between mb-2">
+              <h3 className="text-xs font-semibold text-ink/60 uppercase tracking-wider flex items-center space-x-2">
+                <span>{providers.find(p => p.id === selectedModelId)?.name}</span>
+                {runResult && (
+                  <span
+                    className="text-ink/40 font-mono text-[10px] bg-stone px-1.5 py-0.5 rounded cursor-help"
+                    title="CER (Character Error Rate): % of characters that differ. Lower is better.&#10;WER (Word Error Rate): % of words that differ. Lower is better."
+                  >
+                    CER: {runResult.cer.toFixed(1)}% | WER: {runResult.wer.toFixed(1)}%
+                  </span>
+                )}
+                {runResult?.tokens && (
+                  <span
+                    className="text-ink/40 font-mono text-[10px] bg-stone px-1.5 py-0.5 rounded cursor-help"
+                    title={`Input: ${(runResult.tokens as any).inputTokens || (runResult.tokens as any).promptTokens || 0} | Output: ${(runResult.tokens as any).outputTokens || (runResult.tokens as any).completionTokens || 0} | Latency: ${runResult.latencyMs}ms`}
+                  >
+                    {runResult.tokens.totalTokens} tokens | {runResult.latencyMs}ms
+                  </span>
+                )}
+                {runResult?.passes && (
+                  <span className={`text-[10px] font-bold uppercase tracking-wider px-1.5 py-0.5 rounded ${runResult.passes > 1 ? 'bg-amber-100 text-amber-700' : 'bg-stone/20 text-ink/60'}`} title={`Passes: ${runResult.passes}`}>
+                    P{runResult.passes}
+                  </span>
+                )}
+                {runResult?.ocrFallbackUsed && (
+                  <span className="text-[10px] font-bold uppercase tracking-wider px-1.5 py-0.5 rounded bg-rose-100 text-rose-800" title="OCR Fallback triggered">
+                    OCR
+                  </span>
+                )}
+              </h3>
+              <div className="flex bg-stone rounded p-0.5">
+                <button
+                  onClick={() => setViewMode('diff')}
+                  className={`text-xs px-2 py-1 rounded ${viewMode === 'diff' ? 'bg-white shadow-sm font-medium' : 'text-ink/60 hover:text-ink'}`}
+                >
+                  Diff
+                </button>
+                <button
+                  onClick={() => setViewMode('raw')}
+                  className={`text-xs px-2 py-1 rounded ${viewMode === 'raw' ? 'bg-white shadow-sm font-medium' : 'text-ink/60 hover:text-ink'}`}
+                >
+                  Raw
+                </button>
+              </div>
+            </div>
+
+            {viewMode === 'diff' ? (
+              <DiffViewer groundTruth={displayText} prediction={displayPrediction} mode={mode} />
+            ) : (
+              <div className="p-4 bg-stone/5 rounded-lg border border-ink/5 font-serif text-sm whitespace-pre-wrap">
+                {displayPrediction}
+              </div>
+            )}
+          </div>
         </div>
       </div>
       <ConfirmModal
