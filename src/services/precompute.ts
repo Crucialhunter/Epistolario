@@ -449,3 +449,104 @@ async function saveUnifiedResult(task: BenchmarkTask, docId: string, gt: any, js
     ...fallbackLogs
   });
 }
+
+// =========================================================================
+// DEV SMOKE TEST HARNESS
+// =========================================================================
+// @ts-ignore: import.meta.env is defined by Vite during dev
+if (typeof window !== 'undefined' && import.meta.env?.DEV) {
+  (window as any).__smokeBench = async (
+    docId: string,
+    modelId: string,
+    engine: 'fast' | 'unified' = 'fast',
+    shapeType: 'valid_fast' | 'array_objects' | 'array_ocr' = 'valid_fast'
+  ) => {
+    console.log(`[SmokeTest] Starting mock run for doc=${docId}, model=${modelId}, engine=${engine}, shape=${shapeType}`);
+
+    let rawResponse = '';
+    let jsonResponse: any = null;
+    let initialParsedShape: 'object' | 'array_ocr' | 'array_objects' = 'object';
+    let passes = 1;
+
+    if (shapeType === 'valid_fast') {
+      jsonResponse = {
+        idioma_detectado: "castellano",
+        transcripcion_modernizada: "(SMOKE TEST) En la villa de Madrid, a veinte días del mes..."
+      };
+      rawResponse = JSON.stringify(jsonResponse, null, 2);
+    } else if (shapeType === 'array_objects') {
+      initialParsedShape = 'array_objects';
+      jsonResponse = [
+        { idioma_detectado: "castellano", transcripcion_modernizada: "(SMOKE B1) Texto corto ignorado." },
+        { idioma_detectado: "castellano", transcripcion_modernizada: "(SMOKE B2) Texto más largo que debe ganar tras normalizar." }
+      ];
+      rawResponse = JSON.stringify(jsonResponse, null, 2);
+    } else if (shapeType === 'array_ocr') {
+      initialParsedShape = 'array_ocr';
+      jsonResponse = [
+        { text_content: "Este es un texto", box_2d: [10, 10, 100, 20] },
+        { text_content: "extraído por OCR", box_2d: [15, 30, 120, 40] }
+      ];
+      rawResponse = JSON.stringify(jsonResponse, null, 2);
+    }
+
+    const { normalizedJson, shape } = normalizeProviderResponse(jsonResponse, initialParsedShape);
+    initialParsedShape = shape;
+    jsonResponse = normalizedJson;
+
+    if (initialParsedShape === 'array_ocr') {
+      passes = 2;
+      console.log('[SmokeTest] Triggered array_ocr fallback. Bypassing API and dropping fallback fake object.');
+      jsonResponse = {
+        idioma_detectado: "castellano",
+        transcripcion_modernizada: "(SMOKE OCR FALLBACK) Texto procesado tras OCR extraction."
+      };
+      rawResponse = JSON.stringify(jsonResponse, null, 2);
+    } else if (initialParsedShape === 'array_objects') {
+      console.log('[SmokeTest] array_objects collapsed into longest string:', jsonResponse.transcripcion_modernizada);
+      rawResponse = JSON.stringify(jsonResponse, null, 2);
+    }
+
+    const isValid = validateByPreset(jsonResponse, engine === 'fast', false);
+    if (!isValid) {
+      console.error('[SmokeTest] Validation failed for generated shape!');
+      return;
+    }
+
+    const gt = await db.groundTruths.where('docId').equals(docId).first();
+    if (!gt) {
+      console.error(`[SmokeTest] No Ground Truth found for doc ${docId}`);
+      return;
+    }
+
+    const template = await db.promptTemplates.where('engine').equals(engine).first();
+
+    const mockTask: BenchmarkTask = {
+      id: crypto.randomUUID(),
+      docId,
+      docTitle: 'Smoke Test Doc',
+      provider: providers.find(p => p.id === modelId) || providers[0],
+      mode: engine === 'fast' ? 'fast' : 'unified',
+      engine,
+      prompt: { id: 'mock-prompt', mode: (engine === 'fast' ? 'fast' : 'literal') as any, version: 1, content: 'Mock prompt', createdAt: Date.now() },
+      promptTemplateId: template?.id || 'mock-template',
+      cacheKey: `${docId}:${modelId}:unified:{"0":"orig"}:${template?.id || 'mock'}`,
+      variantIds: { 0: 'orig' },
+      status: 'success'
+    };
+
+    const apiMetrics = { inputTokens: 100, outputTokens: 50, totalTokens: 150, latencyMs: 1200 };
+    const fallbackLogs = { parsedShape: initialParsedShape, ocrFallbackUsed: passes === 2, passes };
+
+    console.log(`[SmokeTest] Dispatching DB Save...`);
+    console.log(`[SmokeTest] DB Lookup Key Config -> { docId: "${docId}", modelId: "${modelId}", mode: "${mockTask.mode}", variantIds: {"0":"orig"} }`);
+
+    if (engine === 'fast') {
+      await saveSplitResult(mockTask, docId, gt, jsonResponse, rawResponse, apiMetrics, fallbackLogs);
+    } else {
+      await saveUnifiedResult(mockTask, docId, gt, jsonResponse, rawResponse, apiMetrics, fallbackLogs);
+    }
+
+    console.log(`[SmokeTest] COMPLETED. Check UI for the generated records.`);
+  };
+}
