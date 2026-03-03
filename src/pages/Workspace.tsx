@@ -230,6 +230,9 @@ export default function Workspace() {
     ? (mode === 'literal' ? normalizeLiteral(predictionText) : normalizeModernizada(predictionText))
     : predictionText;
 
+  const isDemoResult = runResult?.rawResponse?.includes('ground_truth_demo') || (runResult?.tokens as any)?.totalTokens === 0 && runResult?.latencyMs === 0;
+  const lastKeyError = (() => { try { return JSON.parse(localStorage.getItem('paleobench_last_key_error') || 'null'); } catch { return null; } })();
+
   return (
     <div className="flex-1 flex overflow-hidden">
       {/* Left Panel: Image Viewer & Filters */}
@@ -458,6 +461,11 @@ export default function Workspace() {
                     title="CER (Character Error Rate): % of characters that differ. Lower is better.&#10;WER (Word Error Rate): % of words that differ. Lower is better."
                   >
                     CER: {runResult.cer.toFixed(1)}% | WER: {runResult.wer.toFixed(1)}%
+                  </span>
+                )}
+                {isDemoResult && (
+                  <span className="text-[10px] font-bold uppercase tracking-wider px-2 py-0.5 rounded bg-amber-100 text-amber-800 border border-amber-300" title="This result was generated in Demo Mode using Ground Truth data">
+                    DEMO
                   </span>
                 )}
                 {runResult?.tokens && (

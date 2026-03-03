@@ -116,6 +116,39 @@ async function processTask(task: BenchmarkTask, apiKey: string) {
     return;
   }
 
+  // ===== DEMO MODE BYPASS =====
+  const isDemoMode = localStorage.getItem('paleobench_demo_mode') === 'true';
+  if (isDemoMode) {
+    store.addLog(task.id, { type: 'warning', message: '🧪 DEMO MODE: Skipping API call. Using Ground Truth as prediction.' });
+
+    const demoJson = {
+      idioma_detectado: 'castellano',
+      transcripcion_modernizada: gt.modernizada || '(No ground truth modernizada available)',
+      _source: 'ground_truth_demo'
+    };
+    const demoRaw = JSON.stringify(demoJson, null, 2);
+    const demoMetrics = { inputTokens: 0, outputTokens: 0, totalTokens: 0, latencyMs: 0 };
+    const demoFallback = { parsedShape: 'object' as const, ocrFallbackUsed: false, passes: 0, finalJson: demoRaw };
+
+    const mockTask = { ...task, mode: task.mode || 'fast' };
+
+    if (mockTask.engine === 'fast' || mockTask.engine === 'split') {
+      await saveSplitResult(mockTask as any, task.docId, gt, demoJson, demoRaw, demoMetrics, demoFallback);
+    } else {
+      await saveUnifiedResult(mockTask as any, task.docId, gt, {
+        idioma_detectado: 'castellano',
+        metadatos: {},
+        transcripcion: { literal: gt.literal || '', modernizada: gt.modernizada || '' },
+        _source: 'ground_truth_demo'
+      }, demoRaw, demoMetrics, demoFallback);
+    }
+
+    store.addLog(task.id, { type: 'success', message: '🧪 DEMO: Result saved from Ground Truth.' });
+    store.updateTask(task.id, { status: 'success', endTime: Date.now(), apiMetrics: demoMetrics, passes: 0 });
+    await sleep(200);
+    return;
+  }
+
   // Check cache (only for split engine, unified is always fresh for now or we can check both)
   if (task.engine === 'split') {
     const cached = await db.runResults.where('cacheKey').equals(task.cacheKey).first();
@@ -280,6 +313,16 @@ ${extractedOcrText}
       const errorMessage = err?.message || String(err);
       lastError = errorMessage;
       store.addLog(task.id, { type: 'error', message: `API call failed: ${errorMessage}` });
+
+      // Abort retries immediately for invalid API key errors
+      const { isApiKeyError } = await import('./providers');
+      if (isApiKeyError(errorMessage)) {
+        store.addLog(task.id, { type: 'error', message: '🔑 API key is invalid. Aborting retries. Go to Settings > Test Key.' });
+        rawResponse = errorMessage;
+        localStorage.setItem('paleobench_last_key_error', JSON.stringify({ provider: task.provider.id, reason: 'invalid_api_key', at: Date.now(), message: errorMessage }));
+        break; // Exit retry loop
+      }
+
       if (attempt < maxAttempts) {
         const waitTime = attempt * backoffIncrementMs;
         store.addLog(task.id, { type: 'warning', message: `Retrying in ${waitTime / 1000} seconds...` });

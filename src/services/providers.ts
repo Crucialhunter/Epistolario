@@ -93,6 +93,35 @@ export const geminiAdapter: ProviderAdapter = {
   }
 };
 
+export function isApiKeyError(errorMessage: string): boolean {
+  const patterns = ['API_KEY_INVALID', 'API key not valid', 'invalid api key', 'PERMISSION_DENIED', 'API key expired'];
+  return patterns.some(p => errorMessage.toLowerCase().includes(p.toLowerCase()));
+}
+
+export async function testGeminiKey(apiKey: string): Promise<{ ok: boolean; status: string; message: string }> {
+  if (!apiKey || apiKey.trim() === '') {
+    return { ok: false, status: 'empty', message: 'No API key provided.' };
+  }
+  try {
+    const ai = new GoogleGenAI({ apiKey });
+    const response = await ai.models.generateContent({
+      model: 'gemini-3.1-pro-preview',
+      contents: 'Reply with the single word OK.',
+    });
+    const text = response.text || '';
+    return { ok: true, status: 'valid', message: `Key valid. Model responded: "${text.substring(0, 30).trim()}"` };
+  } catch (error: any) {
+    const msg = error?.message || String(error);
+    if (isApiKeyError(msg)) {
+      return { ok: false, status: 'invalid_key', message: `API key is invalid: ${msg}` };
+    }
+    if (msg.toLowerCase().includes('quota') || msg.toLowerCase().includes('billing')) {
+      return { ok: false, status: 'quota', message: `Quota/billing issue: ${msg}` };
+    }
+    return { ok: false, status: 'error', message: `Unexpected error: ${msg}` };
+  }
+}
+
 export const openaiAdapter: ProviderAdapter = {
   id: 'gpt-5.2',
   name: 'GPT-5.2',
