@@ -15,6 +15,7 @@
     <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
     <script>
         tailwind.config = {
+            darkMode: 'class', // Fuerza que el modo oscuro sea manual (nunca se activará sin la clase .dark)
             theme: {
                 extend: {
                     colors: {
@@ -130,6 +131,20 @@
 </head>
 
 <body class="h-screen flex flex-col overflow-hidden">
+
+    <!-- LOADING GATE -->
+    <div id="loading-gate"
+        class="fixed inset-0 z-[5000] bg-[#fcfbf8] flex flex-col items-center justify-center transition-opacity duration-500">
+        <div class="text-primary animate-pulse mb-6">
+            <span class="material-symbols-outlined text-[64px]">history_edu</span>
+        </div>
+        <h1 class="font-serif text-3xl font-bold text-secondary mb-2">Epistolario de Don Pedro</h1>
+        <p class="text-text-muted font-medium mb-8">Cargando el Legajo 10...</p>
+        <div class="w-64 h-1 bg-[#e7e1cf] rounded-full overflow-hidden">
+            <div id="loading-progress" class="h-full bg-primary w-0 transition-all duration-300"></div>
+        </div>
+        <p id="loading-status" class="text-xs text-text-muted mt-4">Conectando con el archivo...</p>
+    </div>
 
     <!-- Top Navigation -->
     <header class="flex items-center justify-between border-b border-[#e7e1cf] bg-[#fcfbf8] px-6 py-3 shrink-0 z-50">
@@ -544,6 +559,14 @@
             }
         ];
 
+        window.APP_STATE = {
+            mode: "loading",
+            letters: [],
+            edges: [],
+            derived: {},
+            ready: false
+        };
+
         let currentLetter = null;
         let currentTranscription = 'modern';
         let mapDashboard, mapTimeline;
@@ -639,41 +662,57 @@
 
         async function loadDatasetDemo() {
             try {
-                const res = await fetch('./dataset_demo/manifest.json');
+                // Determine absolute base path from location if needed
+                const basePath = window.location.pathname.endsWith('/') ? window.location.pathname : window.location.pathname.split('/').slice(0, -1).join('/') + '/';
+                const manifestUrl = `${basePath}dataset_demo/manifest.json`.replace(/\/\//g, '/');
+
+                const statusEl = document.getElementById('loading-status');
+                const progEl = document.getElementById('loading-progress');
+                if (statusEl) statusEl.innerText = "Cargando manifest...";
+                if (progEl) progEl.style.width = "20%";
+
+                const res = await fetch(manifestUrl);
                 if (!res.ok) return false;
                 const manifest = await res.json();
 
                 // Cargar Derived Data Estático
                 const fetchJSON = async (path) => {
-                    try { const r = await fetch(path); return r.ok ? await r.json() : null; } catch (e) { return null; }
+                    const url = `${basePath}${path}`.replace(/\/\//g, '/');
+                    try { const r = await fetch(url); return r.ok ? await r.json() : null; } catch (e) { return null; }
                 };
+
+                if (statusEl) statusEl.innerText = "Cargando datos derivados...";
+                if (progEl) progEl.style.width = "40%";
 
                 derivedData = { edges: [], events: [], tour: null, coords: {}, places: [], report: null, overview: null, lensPanels: null };
                 window.letterIndex = {};
 
-                derivedData.edges = (await fetchJSON('./dataset_demo/derived/letter_edges.json')) || [];
-                derivedData.events = (await fetchJSON('./dataset_demo/derived/event_markers.json')) || [];
-                derivedData.tour = await fetchJSON('./dataset_demo/derived/tour_legajo10.json');
-                derivedData.coords = (await fetchJSON('./dataset_demo/derived/coords.json')) || {};
-                derivedData.places = (await fetchJSON('./dataset_demo/derived/places.json')) || [];
-                derivedData.lensPanels = await fetchJSON('./dataset_demo/derived/lens_panels.json');
-                derivedData.report = await fetchJSON('./dataset_demo/derived/validation_report.json');
+                derivedData.edges = (await fetchJSON('dataset_demo/derived/letter_edges.json')) || [];
+                derivedData.events = (await fetchJSON('dataset_demo/derived/event_markers.json')) || [];
+                derivedData.tour = await fetchJSON('dataset_demo/derived/tour_legajo10.json');
+                derivedData.coords = (await fetchJSON('dataset_demo/derived/coords.json')) || {};
+                derivedData.places = (await fetchJSON('dataset_demo/derived/places.json')) || [];
+                derivedData.lensPanels = await fetchJSON('dataset_demo/derived/lens_panels.json');
+                derivedData.report = await fetchJSON('dataset_demo/derived/validation_report.json');
 
                 // Mapear Imágenes
                 imageMap = {};
                 if (manifest.images) {
                     manifest.images.forEach(img => {
-                        const relUrl = `./dataset_demo/images/${img}`;
+                        const relUrl = `${basePath}dataset_demo/images/${img}`.replace(/\/\//g, '/');
                         imageMap[img] = relUrl;
                         imageMap["images/" + img] = relUrl;
                     });
                 }
 
+                if (statusEl) statusEl.innerText = "Descargando manuscritos...";
+                if (progEl) progEl.style.width = "70%";
+
                 // Cargar letters
                 const newLetters = [];
                 if (manifest.letters) {
                     for (let file of manifest.letters) {
-                        const data = await fetchJSON(`./dataset_demo/letters/${file}`);
+                        const data = await fetchJSON(`dataset_demo/letters/${file}`);
                         if (data) {
                             if (Array.isArray(data)) {
                                 data.forEach(d => {
@@ -690,8 +729,12 @@
                     }
                 }
 
+                if (statusEl) statusEl.innerText = "Procesando...";
+                if (progEl) progEl.style.width = "90%";
+
+                let finalLetters = [];
                 if (derivedData.edges && derivedData.edges.length > 0) {
-                    letters = derivedData.edges.map(edge => {
+                    finalLetters = derivedData.edges.map(edge => {
                         let parsedDate = new Date(1668, 0, 1);
                         if (edge.date_iso) {
                             if (edge.date_iso.length === 7) {
@@ -723,11 +766,13 @@
                         };
                     });
                 } else if (newLetters.length > 0) {
-                    letters = newLetters;
+                    finalLetters = newLetters;
                 }
 
-                letters.sort((a, b) => a.parsedDate - b.parsedDate);
+                finalLetters.sort((a, b) => a.parsedDate - b.parsedDate);
+                letters = finalLetters;
 
+                if (progEl) progEl.style.width = "100%";
                 return true;
             } catch (e) {
                 console.error("Autoload falló:", e);
@@ -735,22 +780,56 @@
             }
         }
 
+        function dismissLoadingGate() {
+            const gate = document.getElementById('loading-gate');
+            if (gate) {
+                gate.style.opacity = '0';
+                setTimeout(() => { gate.style.display = 'none'; }, 500);
+            }
+        }
+
         // Initialize Application
         document.addEventListener('DOMContentLoaded', async () => {
+            const urlParams = new URLSearchParams(window.location.search);
+            const useSeed = urlParams.get('seed') === '1';
+
+            if (!useSeed) {
+                letters = []; // Clear hardcoded mock data
+            }
+
             const hasAutoload = await loadDatasetDemo();
 
-            letters = letters.map(normalizeLetter);
-            buildSearchIndex();
-            filteredLetters = [...letters];
-            initDashboard();
-            initTimeline();
-            updateFilters();
-            applyFilters();
+            if (!hasAutoload && !useSeed) {
+                const statusEl = document.getElementById('loading-status');
+                if (statusEl) statusEl.innerHTML = '<span class="text-red-600 font-bold">Error: No se pudo cargar el Legajo 10 de la base de datos (404).</span><br>Asegúrese de que la carpeta dataset_demo está inyectada en el servidor.';
+                // Allow user to use "Subir carpeta" anyway after a delay
+                setTimeout(dismissLoadingGate, 3000);
+            } else {
+                APP_STATE.mode = useSeed ? "seed" : "embedded";
+                APP_STATE.letters = letters;
+                APP_STATE.derived = derivedData;
+                APP_STATE.ready = true;
 
-            if (hasAutoload && letters.length > 0) {
-                renderTimelineMarkers();
-                updateTimeline(0);
-                alert(`Autoload exitoso: importadas ${letters.length} cartas desde el servidor estático.`);
+                letters = letters.map(normalizeLetter);
+                buildSearchIndex();
+                filteredLetters = [...letters];
+                initDashboard();
+                initTimeline();
+                updateFilters();
+                applyFilters();
+
+                if (hasAutoload && letters.length > 0) {
+                    renderTimelineMarkers();
+                    updateTimeline(0);
+
+                    // Añadir un indicador en el título del header para confirmar a simple vista
+                    const headerInfo = document.querySelector('header p.text-text-muted');
+                    if (headerInfo) {
+                        headerInfo.innerText = `Legajo 10 (${letters.length} cartas, origen: ${APP_STATE.mode})`;
+                    }
+                }
+
+                dismissLoadingGate();
             }
         });
 
