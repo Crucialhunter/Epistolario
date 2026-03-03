@@ -174,6 +174,11 @@
                 class="nav-btn text-text-muted hover:text-primary pb-1 flex items-center gap-1"><span
                     class="material-symbols-outlined text-[18px]">play_circle</span> Tour</button>
             <div class="h-6 w-px bg-[#e7e1cf] mx-2"></div>
+            <button id="theme-toggle"
+                class="nav-btn p-1.5 rounded-full hover:bg-[#e7e1cf] text-text-muted hover:text-primary transition-colors flex items-center justify-center bg-white shadow-sm border border-[#e7e1cf]"
+                title="Alternar Tema">
+                <span id="theme-icon" class="material-symbols-outlined text-[18px]">light_mode</span>
+            </button>
             <label for="folder-upload"
                 class="cursor-pointer flex items-center gap-2 bg-[#f3f0e7] hover:bg-[#e7e1cf] px-3 py-1.5 rounded-lg text-sm font-medium text-secondary transition">
                 <span class="material-symbols-outlined text-[18px]">folder_open</span>
@@ -786,6 +791,38 @@
                 gate.style.opacity = '0';
                 setTimeout(() => { gate.style.display = 'none'; }, 500);
             }
+        }
+
+        // Theme Toggle Setup
+        const themeToggleBtn = document.getElementById('theme-toggle');
+        const themeIcon = document.getElementById('theme-icon');
+        const htmlEl = document.documentElement;
+
+        if (localStorage.getItem('epistolario_theme') === 'dark') {
+            htmlEl.classList.add('dark');
+            htmlEl.style.colorScheme = 'dark';
+            if (themeIcon) themeIcon.innerText = 'dark_mode';
+        } else {
+            htmlEl.classList.remove('dark');
+            htmlEl.style.colorScheme = 'light';
+            if (themeIcon) themeIcon.innerText = 'light_mode';
+        }
+
+        if (themeToggleBtn) {
+            themeToggleBtn.addEventListener('click', () => {
+                const isDark = htmlEl.classList.contains('dark');
+                if (isDark) {
+                    htmlEl.classList.remove('dark');
+                    htmlEl.style.colorScheme = 'light';
+                    themeIcon.innerText = 'light_mode';
+                    localStorage.setItem('epistolario_theme', 'light');
+                } else {
+                    htmlEl.classList.add('dark');
+                    htmlEl.style.colorScheme = 'dark';
+                    themeIcon.innerText = 'dark_mode';
+                    localStorage.setItem('epistolario_theme', 'dark');
+                }
+            });
         }
 
         // Initialize Application
@@ -1851,14 +1888,14 @@
                         let coords = null;
                         if (ev.place_keys && ev.place_keys.length > 0) {
                             const pk = ev.place_keys[0];
-                            if (derivedData.coords[pk]) {
+                            if (derivedData.coords[pk] && derivedData.coords[pk].lat !== undefined) {
                                 coords = [derivedData.coords[pk].lat, derivedData.coords[pk].lng];
                             }
-                        } else if (ev.lat && ev.lng) {
+                        } else if (ev.lat !== undefined && ev.lng !== undefined) {
                             coords = [ev.lat, ev.lng];
                         }
 
-                        if (coords) {
+                        if (coords && coords[0] !== undefined && coords[1] !== undefined) {
                             const icon = L.divIcon({
                                 className: 'event-marker',
                                 html: `<div class="bg-[#2d2a26] text-[#fcfbf8] rounded-full p-1.5 shadow-lg border-2 border-[#c5a028] flex items-center justify-center hover:scale-110 transition-transform cursor-pointer">
@@ -1928,13 +1965,13 @@
             let bounds = L.latLngBounds();
             if (currentMonthLetters.length > 0) {
                 currentMonthLetters.forEach(l => {
-                    if (l.origen) bounds.extend([l.origen.lat, l.origen.lng]);
-                    if (l.destino) bounds.extend([l.destino.lat, l.destino.lng]);
+                    if (l.origen && l.origen.lat !== undefined) bounds.extend([l.origen.lat, l.origen.lng]);
+                    if (l.destino && l.destino.lat !== undefined) bounds.extend([l.destino.lat, l.destino.lng]);
                 });
             } else if (previousLetters.length > 0) {
                 previousLetters.forEach(l => {
-                    if (l.origen) bounds.extend([l.origen.lat, l.origen.lng]);
-                    if (l.destino) bounds.extend([l.destino.lat, l.destino.lng]);
+                    if (l.origen && l.origen.lat !== undefined) bounds.extend([l.origen.lat, l.origen.lng]);
+                    if (l.destino && l.destino.lat !== undefined) bounds.extend([l.destino.lat, l.destino.lng]);
                 });
             }
 
