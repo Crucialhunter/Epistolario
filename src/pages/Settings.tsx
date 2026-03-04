@@ -92,6 +92,18 @@ export default function Settings() {
       <div className="max-w-3xl mx-auto w-full px-4 py-8">
         <h1 className="font-serif text-3xl font-medium text-ink mb-8">Ajustes</h1>
 
+        <div className="bg-blue-50 border border-blue-200 text-blue-800 px-4 py-3 rounded-xl mb-8 flex items-start gap-3 shadow-sm">
+          <div className="mt-0.5">
+            <svg className="w-5 h-5 opacity-70" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+              <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M13 16h-1v-4h-1m1-4h.01M21 12a9 9 0 11-18 0 9 9 0 0118 0z" />
+            </svg>
+          </div>
+          <div className="text-sm">
+            <strong className="block font-medium mb-1 text-blue-900">Desplegado en Pages</strong>
+            Puedes conectar tus datos locales de forma segura. Usa <strong>Importar carpeta/archivos</strong> en el Dashboard para cargar tu dataset local sin necesidad de subirlo a ningún servidor.
+          </div>
+        </div>
+
         <div className="space-y-8">
           <section className="bg-white p-6 rounded-xl shadow-sm border border-ink/5">
             <h2 className="text-lg font-medium mb-4">Configuración de API</h2>
