@@ -74,13 +74,14 @@ export default function Settings() {
   };
 
   const handleClearAllData = async () => {
-    await db.transaction('rw', [db.documents, db.groundTruths, db.imageVariants, db.runResults, db.prompts, db.promptTemplates], async () => {
+    await db.transaction('rw', [db.documents, db.groundTruths, db.imageVariants, db.runResults, db.prompts, db.promptTemplates, db.reviews], async () => {
       await db.documents.clear();
       await db.groundTruths.clear();
       await db.imageVariants.clear();
       await db.runResults.clear();
       await db.prompts.clear();
       await db.promptTemplates.clear();
+      await db.reviews.clear();
     });
     setIsClearModalOpen(false);
     window.location.reload();
@@ -148,8 +149,8 @@ export default function Settings() {
                 {/* Key check result */}
                 {keyCheck && (
                   <div className={`mt-2 flex items-start space-x-2 p-3 rounded-lg border text-sm ${keyCheck.ok
-                      ? 'bg-olive/5 border-olive/20 text-olive'
-                      : 'bg-burgundy/5 border-burgundy/20 text-burgundy'
+                    ? 'bg-olive/5 border-olive/20 text-olive'
+                    : 'bg-burgundy/5 border-burgundy/20 text-burgundy'
                     }`}>
                     {keyCheck.ok ? <CheckCircle2 className="w-4 h-4 mt-0.5 shrink-0" /> : <XCircle className="w-4 h-4 mt-0.5 shrink-0" />}
                     <div>

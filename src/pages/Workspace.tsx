@@ -8,10 +8,11 @@ import MetadataComparison from '../components/MetadataComparison';
 import ConfirmModal from '../components/ConfirmModal';
 import { normalizeLiteral, normalizeModernizada } from '../utils/normalizer';
 import { providers } from '../services/providers';
-import { ChevronDown, ChevronUp, SlidersHorizontal, X, Plus, RotateCcw } from 'lucide-react';
+import { ChevronDown, ChevronUp, SlidersHorizontal, X, Plus, RotateCcw, CheckCircle2, AlertTriangle, XCircle, Clock } from 'lucide-react';
 import { useBenchmarkStore } from '../store/benchmarkStore';
 import { runPrecomputeQueue } from '../services/precompute';
 import { stableStringify } from '../utils/stableStringify';
+import type { ReviewStatus } from '../types';
 
 export default function Workspace() {
   const { docId } = useParams();
@@ -34,6 +35,9 @@ export default function Workspace() {
   const [filters, setFilters] = useState({ brightness: 100, contrast: 100, invert: false });
   const [imageUrl, setImageUrl] = useState<string | null>(null);
   const [variantToDelete, setVariantToDelete] = useState<string | null>(null);
+  const [metadataOpen, setMetadataOpen] = useState(() => localStorage.getItem('ui.metadataPanelCollapsed') !== 'false');
+  const [reviewComment, setReviewComment] = useState('');
+  const [showCommentInput, setShowCommentInput] = useState(false);
   const store = useBenchmarkStore();
 
   const currentVariantId = selectedVariantIds[currentPageIndex] || 'orig';
@@ -57,6 +61,79 @@ export default function Workspace() {
   );
 
   const template = promptTemplates?.find(t => t.id === runResult?.promptTemplateId);
+
+  // Review query
+  const review = useLiveQuery(
+    () => db.reviews.where('[docId+modelId+mode]').equals([docId || '', selectedModelId, mode]).first(),
+    [docId, selectedModelId, mode]
+  );
+
+  // Review counts for current model
+  const reviewCounts = useLiveQuery(
+    () => db.reviews.where('modelId').equals(selectedModelId).toArray(),
+    [selectedModelId]
+  );
+  const totalDocs = useLiveQuery(() => db.documents.count(), []);
+
+  const reviewStatusConfig: Record<ReviewStatus, { label: string; icon: typeof CheckCircle2; color: string; bg: string }> = {
+    pending: { label: 'Pendiente', icon: Clock, color: 'text-ink/50', bg: 'bg-stone' },
+    approved: { label: 'Aprobado', icon: CheckCircle2, color: 'text-emerald-700', bg: 'bg-emerald-50' },
+    needs_edit: { label: 'Requiere edición', icon: AlertTriangle, color: 'text-amber-700', bg: 'bg-amber-50' },
+    rejected: { label: 'Rechazado', icon: XCircle, color: 'text-red-700', bg: 'bg-red-50' }
+  };
+
+  const currentStatus: ReviewStatus = (review?.status as ReviewStatus) || 'pending';
+  const StatusIcon = reviewStatusConfig[currentStatus].icon;
+  const reviewedCount = reviewCounts?.filter(r => r.status !== 'pending').length || 0;
+
+  const handleReviewChange = async (newStatus: ReviewStatus) => {
+    if (!docId) return;
+    const existing = await db.reviews.where('[docId+modelId+mode]').equals([docId, selectedModelId, mode]).first();
+    if (existing) {
+      await db.reviews.update(existing.id, { status: newStatus, updatedAt: Date.now() });
+    } else {
+      await db.reviews.add({
+        id: crypto.randomUUID(),
+        docId,
+        modelId: selectedModelId,
+        mode,
+        variantIdsString: stableStringify(selectedVariantIds),
+        status: newStatus,
+        comment: '',
+        updatedAt: Date.now()
+      });
+    }
+  };
+
+  const handleSaveComment = async () => {
+    if (!docId) return;
+    const existing = await db.reviews.where('[docId+modelId+mode]').equals([docId, selectedModelId, mode]).first();
+    if (existing) {
+      await db.reviews.update(existing.id, { comment: reviewComment, updatedAt: Date.now() });
+    } else {
+      await db.reviews.add({
+        id: crypto.randomUUID(),
+        docId,
+        modelId: selectedModelId,
+        mode,
+        variantIdsString: stableStringify(selectedVariantIds),
+        status: 'pending',
+        comment: reviewComment,
+        updatedAt: Date.now()
+      });
+    }
+    setShowCommentInput(false);
+  };
+
+  useEffect(() => {
+    if (review?.comment) setReviewComment(review.comment);
+    else setReviewComment('');
+  }, [review?.comment]);
+
+  const toggleMetadata = (open: boolean) => {
+    setMetadataOpen(open);
+    localStorage.setItem('ui.metadataPanelCollapsed', open ? 'true' : 'false');
+  };
 
   const canvasRef = useRef<HTMLCanvasElement>(null);
 
@@ -358,6 +435,43 @@ export default function Workspace() {
 
       {/* Right Panel: Ground Truth & Diff Viewer */}
       <div className="w-1/2 flex flex-col bg-white">
+        {/* Review status bar */}
+        <div className="border-b border-ink/10 px-4 py-2 bg-paper flex items-center justify-between gap-2">
+          <div className="flex items-center gap-2">
+            <StatusIcon className={`w-4 h-4 ${reviewStatusConfig[currentStatus].color}`} />
+            <select
+              value={currentStatus}
+              onChange={(e) => handleReviewChange(e.target.value as ReviewStatus)}
+              className={`text-xs font-medium px-2 py-1 rounded border border-ink/10 ${reviewStatusConfig[currentStatus].bg} ${reviewStatusConfig[currentStatus].color} cursor-pointer`}
+            >
+              {Object.entries(reviewStatusConfig).map(([key, cfg]) => (
+                <option key={key} value={key}>{cfg.label}</option>
+              ))}
+            </select>
+            <button
+              onClick={() => setShowCommentInput(!showCommentInput)}
+              className="text-[10px] text-ink/50 hover:text-ink underline"
+            >
+              {review?.comment ? 'Editar nota' : 'Añadir nota'}
+            </button>
+          </div>
+          <span className="text-[10px] text-ink/40 font-mono">
+            Revisadas: {reviewedCount} / {totalDocs || 0}
+          </span>
+        </div>
+        {showCommentInput && (
+          <div className="border-b border-ink/10 px-4 py-2 bg-amber-50/50 flex items-center gap-2">
+            <input
+              type="text"
+              value={reviewComment}
+              onChange={(e) => setReviewComment(e.target.value)}
+              placeholder="Nota de revisión…"
+              className="flex-1 text-xs px-2 py-1 rounded border border-ink/10 bg-white"
+              onKeyDown={(e) => e.key === 'Enter' && handleSaveComment()}
+            />
+            <button onClick={handleSaveComment} className="text-xs px-2 py-1 bg-olive/10 text-olive rounded hover:bg-olive/20">Guardar</button>
+          </div>
+        )}
         <div className="h-12 border-b border-ink/10 flex items-center px-4 justify-between bg-paper">
           <div className="flex space-x-4">
             <button
@@ -410,21 +524,14 @@ export default function Workspace() {
                 onChange={(e) => setShowNormalized(e.target.checked)}
                 className="rounded border-ink/20 text-olive focus:ring-olive/50"
               />
-              <span>Show Normalized</span>
+              <span>Normalizado</span>
             </label>
             <span className="text-xs font-mono bg-stone px-2 py-1 rounded text-ink/70">
-              Score: {runResult?.scoreGlobal !== undefined ? Math.round(runResult.scoreGlobal) : '--'}/100
+              Puntuación: {runResult?.scoreGlobal !== undefined ? Math.round(runResult.scoreGlobal) : '--'}/100
             </span>
           </div>
         </div>
         <div className="flex-1 p-4 overflow-y-auto">
-          {/* Metadata Comparison */}
-          {(groundTruth?.metadata || runResult?.parsedMetadata) && (
-            <MetadataComparison
-              groundTruth={groundTruth?.metadata}
-              prediction={runResult?.parsedMetadata}
-            />
-          )}
 
           <div className="mb-4">
             <div className="flex items-center justify-between mb-2">
@@ -511,6 +618,30 @@ export default function Workspace() {
               </div>
             )}
           </div>
+
+          {/* Collapsible Metadata Panel — moved to bottom */}
+          {(groundTruth?.metadata || runResult?.parsedMetadata) && (
+            <div className="mt-4 border border-ink/10 rounded-lg overflow-hidden">
+              <button
+                onClick={() => toggleMetadata(!metadataOpen)}
+                className="w-full flex items-center justify-between px-4 py-2.5 bg-stone/30 hover:bg-stone/50 transition-colors"
+              >
+                <span className="text-xs font-semibold text-ink/60 uppercase tracking-wider">Metadatos (opcional)</span>
+                <div className="flex items-center gap-2">
+                  <span className="text-[10px] text-ink/40">GT vs Predicción</span>
+                  {metadataOpen ? <ChevronUp className="w-3.5 h-3.5 text-ink/40" /> : <ChevronDown className="w-3.5 h-3.5 text-ink/40" />}
+                </div>
+              </button>
+              {metadataOpen && (
+                <div className="p-3">
+                  <MetadataComparison
+                    groundTruth={groundTruth?.metadata}
+                    prediction={runResult?.parsedMetadata}
+                  />
+                </div>
+              )}
+            </div>
+          )}
         </div>
       </div>
       <ConfirmModal

@@ -1,5 +1,5 @@
 import Dexie, { Table } from 'dexie';
-import { Document, GroundTruth, ImageVariant, RunResult, PromptSnapshot, PromptTemplate } from '../types';
+import { Document, GroundTruth, ImageVariant, RunResult, PromptSnapshot, PromptTemplate, Review } from '../types';
 
 export class PaleoBenchDB extends Dexie {
   documents!: Table<Document, string>;
@@ -8,6 +8,7 @@ export class PaleoBenchDB extends Dexie {
   runResults!: Table<RunResult, string>;
   prompts!: Table<PromptSnapshot, string>;
   promptTemplates!: Table<PromptTemplate, string>;
+  reviews!: Table<Review, string>;
 
   constructor() {
     super('PaleoBenchDB');
@@ -57,6 +58,10 @@ export class PaleoBenchDB extends Dexie {
       });
     });
 
+    this.version(4).stores({
+      reviews: 'id, docId, modelId, mode, [docId+modelId+mode]'
+    });
+
     this.on('populate', () => {
       this.promptTemplates.bulkAdd([
         {
@@ -79,6 +84,18 @@ export class PaleoBenchDB extends Dexie {
           unifiedPrompt: 'Analyze the provided manuscript image. Determine if the language is Spanish or Catalan. Extract metadata (date, sender, recipient, location). Provide both a literal transcription (preserving original spelling and abbreviations) and a modernized transcription (expanding abbreviations and updating spelling).\n\nIf you see `--modernizada_only` in the prompt, you may omit the literal transcription or leave it empty.\n\nCRITICAL: Return EXACTLY this JSON structure:\n{\n  "idioma_detectado": "castellano o catalan",\n  "razonamiento_idioma": "Breve explicación",\n  "metadatos": {\n    "fecha": "",\n    "remitente": "",\n    "destinatario": "",\n    "lugar": ""\n  },\n  "transcripcion_literal": "",\n  "transcripcion_modernizada": ""\n}',
           createdAt: Date.now() + 1,
           isDefault: true
+        },
+        {
+          id: 'default-fast',
+          name: 'V3 - FAST (Modernizada)',
+          color: 'blue',
+          engine: 'fast',
+          systemPrompt: 'You are an expert paleographer for 17th-century Spanish/Catalan manuscripts.',
+          fastPrompt: 'Task:\nDetect language: output exactly "castellano" or "catalan".\nProduce a modernized transcription (required): expand abbreviations and modernize spelling; keep meaning.\n\nHard rules:\nReturn a SINGLE JSON OBJECT. Never return an array.\nOutput ONLY JSON (no markdown, no extra keys).\nIf unsure about a word, use [ilegible].\n\nReturn EXACTLY this JSON:\n{\n"idioma_detectado": "castellano|catalan",\n"transcripcion_modernizada": ""\n}',
+          createdAt: Date.now() + 2,
+          isDefault: true,
+          maxAttempts: 3,
+          backoffIncrementMs: 2000
         }
       ]);
     });
@@ -114,6 +131,22 @@ export async function initializeDefaultPrompts() {
       unifiedPrompt: 'Analyze the provided manuscript image. Determine if the language is Spanish or Catalan. Extract metadata (date, sender, recipient, location). Provide both a literal transcription (preserving original spelling and abbreviations) and a modernized transcription (expanding abbreviations and updating spelling).\n\nIf you see `--modernizada_only` in the prompt, you may omit the literal transcription or leave it empty.\n\nCRITICAL: Return EXACTLY this JSON structure:\n{\n  "idioma_detectado": "castellano o catalan",\n  "razonamiento_idioma": "Breve explicación",\n  "metadatos": {\n    "fecha": "",\n    "remitente": "",\n    "destinatario": "",\n    "lugar": ""\n  },\n  "transcripcion_literal": "",\n  "transcripcion_modernizada": ""\n}',
       createdAt: Date.now() + 1,
       isDefault: true
+    });
+  }
+
+  const defaultFast = await db.promptTemplates.get('default-fast');
+  if (!defaultFast) {
+    await db.promptTemplates.put({
+      id: 'default-fast',
+      name: 'V3 - FAST (Modernizada)',
+      color: 'blue',
+      engine: 'fast',
+      systemPrompt: 'You are an expert paleographer for 17th-century Spanish/Catalan manuscripts.',
+      fastPrompt: 'Task:\nDetect language: output exactly "castellano" or "catalan".\nProduce a modernized transcription (required): expand abbreviations and modernize spelling; keep meaning.\n\nHard rules:\nReturn a SINGLE JSON OBJECT. Never return an array.\nOutput ONLY JSON (no markdown, no extra keys).\nIf unsure about a word, use [ilegible].\n\nReturn EXACTLY this JSON:\n{\n"idioma_detectado": "castellano|catalan",\n"transcripcion_modernizada": ""\n}',
+      createdAt: Date.now() + 2,
+      isDefault: true,
+      maxAttempts: 3,
+      backoffIncrementMs: 2000
     });
   }
 }

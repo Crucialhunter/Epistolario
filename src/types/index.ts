@@ -105,3 +105,16 @@ export interface PromptSnapshot {
   content: string;
   createdAt: number;
 }
+
+export type ReviewStatus = 'pending' | 'approved' | 'needs_edit' | 'rejected';
+
+export interface Review {
+  id: string;
+  docId: string;
+  modelId: string;
+  mode: string;
+  variantIdsString: string;
+  status: ReviewStatus;
+  comment: string;
+  updatedAt: number;
+}
