@@ -98,6 +98,15 @@ export default function Workspace() {
   const canvasRef = useRef<HTMLCanvasElement>(null);
 
   useEffect(() => {
+    if (docId && document && (document.lastViewedAt === undefined || document.isUnreadOverride === true)) {
+      db.documents.update(docId, {
+        lastViewedAt: Date.now(),
+        isUnreadOverride: false
+      });
+    }
+  }, [docId, document?.id, document?.lastViewedAt, document?.isUnreadOverride]);
+
+  useEffect(() => {
     if (document?.pages && document.pages.length > 0) {
       // Ensure all pages have a selected variant (default 'orig')
       const newSelected = { ...selectedVariantIds };

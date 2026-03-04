@@ -22,6 +22,8 @@ export interface Document {
   metadata?: DocumentMetadata;
   createdAt: number;
   archived?: boolean;
+  lastViewedAt?: number;
+  isUnreadOverride?: boolean;
 }
 
 export interface GroundTruth {

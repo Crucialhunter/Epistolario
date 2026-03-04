@@ -3,7 +3,7 @@ import { useLiveQuery } from 'dexie-react-hooks';
 import { db } from '../db/db';
 import { Link, useNavigate } from 'react-router';
 import { motion } from 'motion/react';
-import { FileText, Plus, Trash2, Play, Loader2, Archive, ArchiveRestore, Clock, CheckCircle2, AlertTriangle, XCircle, Search, Filter } from 'lucide-react';
+import { FileText, Plus, Trash2, Play, Loader2, Archive, ArchiveRestore, Clock, CheckCircle2, AlertTriangle, XCircle, Search, Filter, Eye, EyeOff } from 'lucide-react';
 import DocumentModal from '../components/DocumentModal';
 import RunBenchmarkModal from '../components/RunBenchmarkModal';
 import ConfirmModal from '../components/ConfirmModal';
@@ -32,10 +32,12 @@ export default function Dashboard() {
   const [docToDelete, setDocToDelete] = useState<any>(null);
   const [bulkDeleteConfirm, setBulkDeleteConfirm] = useState(false);
 
-  const [sortBy, setSortBy] = useState<'editorial' | 'cer_asc' | 'date_desc' | 'no_runs' | 'name_asc'>('editorial');
+  const [sortBy, setSortBy] = useState<'editorial' | 'cer_asc' | 'date_desc' | 'no_runs' | 'name_asc' | 'unread_first'>('editorial');
   const [filterStates, setFilterStates] = useState<Set<ReviewStatus>>(new Set(['aprobado', 'requiere_edicion', 'pendiente', 'rechazado']));
   const [filterConAprobado, setFilterConAprobado] = useState(false);
   const [filterSinEjecuciones, setFilterSinEjecuciones] = useState(false);
+  const [filterUnread, setFilterUnread] = useState(false);
+  const [filterUnreadWithRuns, setFilterUnreadWithRuns] = useState(false);
   const [searchQuery, setSearchQuery] = useState('');
 
   const docResults = useMemo(() => {
@@ -86,6 +88,7 @@ export default function Dashboard() {
     if (!documents) return [];
     return documents.map(doc => ({
       ...doc,
+      isUnread: doc.isUnreadOverride === true || doc.lastViewedAt == null,
       editorial: getEditorialState(doc.id)
     }));
   }, [documents, docResults]);
@@ -93,9 +96,11 @@ export default function Dashboard() {
   const sortedAndFiltered = useMemo(() => {
     let filtered = enrichedDocuments.filter(doc => {
       if (searchQuery && !doc.title.toLowerCase().includes(searchQuery.toLowerCase())) return false;
+      if (filterUnread && !doc.isUnread) return false;
+      if (filterUnreadWithRuns && (!doc.isUnread || doc.editorial.totalRuns === 0)) return false;
       if (filterSinEjecuciones && doc.editorial.totalRuns > 0) return false;
       if (filterConAprobado && doc.editorial.status !== 'aprobado') return false;
-      if (!filterSinEjecuciones && !filterConAprobado) {
+      if (!filterSinEjecuciones && !filterConAprobado && !filterUnread && !filterUnreadWithRuns) {
         if (!filterStates.has(doc.editorial.status)) return false;
       }
       return true;
@@ -120,6 +125,9 @@ export default function Dashboard() {
           return b.createdAt - a.createdAt;
         case 'name_asc':
           return a.title.localeCompare(b.title);
+        case 'unread_first':
+          if (a.isUnread !== b.isUnread) return a.isUnread ? -1 : 1;
+          return b.editorial.latestRun - a.editorial.latestRun;
         default:
           return 0;
       }
@@ -394,6 +402,14 @@ export default function Dashboard() {
                 <input type="checkbox" checked={filterSinEjecuciones} onChange={(e) => setFilterSinEjecuciones(e.target.checked)} className="rounded border-ink/20 text-olive focus:ring-olive/50" />
                 <span>Sin ejecuciones</span>
               </label>
+              <label className="flex items-center gap-1.5 text-xs text-ink/60 cursor-pointer bg-white px-3 py-1.5 rounded-lg border border-ink/10 shadow-sm hover:bg-stone/50 transition-colors">
+                <input type="checkbox" checked={filterUnread} onChange={(e) => setFilterUnread(e.target.checked)} className="rounded border-ink/20 text-olive focus:ring-olive/50" />
+                <span>No vistos</span>
+              </label>
+              <label className="flex items-center gap-1.5 text-xs text-ink/60 cursor-pointer bg-white px-3 py-1.5 rounded-lg border border-ink/10 shadow-sm hover:bg-stone/50 transition-colors">
+                <input type="checkbox" checked={filterUnreadWithRuns} onChange={(e) => setFilterUnreadWithRuns(e.target.checked)} className="rounded border-ink/20 text-olive focus:ring-olive/50" />
+                <span>No vistos + transcr.</span>
+              </label>
             </div>
           </div>
 
@@ -406,7 +422,8 @@ export default function Dashboard() {
             >
               <option value="editorial">Estado editorial</option>
               <option value="cer_asc">Mejor CER</option>
-              <option value="date_desc">Última ejecución</option>
+              <option value="date_desc">Última transcripción</option>
+              <option value="unread_first">No vistos primero</option>
               <option value="no_runs">Sin ejecuciones</option>
               <option value="name_asc">Nombre</option>
             </select>
@@ -457,8 +474,11 @@ export default function Dashboard() {
                       <div className="w-8 h-8 rounded bg-stone flex items-center justify-center text-ink/50">
                         <FileText className="w-4 h-4" />
                       </div>
-                      <Link to={`/workspace/${doc.id}`} className="font-medium text-ink hover:underline" onClick={(e) => e.stopPropagation()}>
-                        {doc.title} {doc.archived && <span className="text-xs bg-ink/10 text-ink/60 px-2 py-0.5 rounded ml-2">Archivado</span>}
+                      <Link to={`/workspace/${doc.id}`} className="font-medium text-ink flex items-center flex-wrap gap-2 hover:underline" onClick={(e) => e.stopPropagation()}>
+                        <span>{doc.title}</span>
+                        {doc.archived && <span className="text-[10px] uppercase font-bold tracking-wider bg-ink/10 text-ink/60 px-1.5 py-0.5 rounded">Archivado</span>}
+                        {doc.isUnread && <span className="text-[10px] uppercase font-bold tracking-wider bg-blue-100 text-blue-800 px-1.5 py-0.5 rounded">No visto</span>}
+                        {doc.isUnread && doc.editorial.totalRuns > 0 && <span className="text-[10px] uppercase font-bold tracking-wider bg-emerald-100 text-emerald-800 px-1.5 py-0.5 rounded shadow-sm ring-1 ring-emerald-200">Transcripción lista</span>}
                       </Link>
                     </div>
                   </td>
@@ -507,6 +527,21 @@ export default function Dashboard() {
                   </td>
                   <td className="px-6 py-4 text-right">
                     <div className="flex items-center justify-end space-x-4">
+                      <button
+                        onClick={async (e) => {
+                          e.preventDefault();
+                          e.stopPropagation();
+                          if (doc.isUnread) {
+                            await db.documents.update(doc.id, { isUnreadOverride: false, lastViewedAt: doc.lastViewedAt || Date.now() });
+                          } else {
+                            await db.documents.update(doc.id, { isUnreadOverride: true });
+                          }
+                        }}
+                        className="text-ink/40 hover:text-blue-600 transition-colors"
+                        title={doc.isUnread ? "Marcar como visto" : "Marcar como no visto"}
+                      >
+                        {doc.isUnread ? <Eye className="w-4 h-4" /> : <EyeOff className="w-4 h-4" />}
+                      </button>
                       {doc.archived && (
                         <button
                           onClick={(e) => handleRestore(e, doc.id)}
