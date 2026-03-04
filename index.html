@@ -459,36 +459,54 @@
                     onclick="document.getElementById('live-debug-panel').classList.toggle('hidden')">Debug</button>
             </div>
             <div class="flex items-center gap-4">
-                <div class="flex items-center gap-2">
-                    <button id="live-audio-btn" onclick="if(window.liveTimelineObj) window.liveTimelineObj.toggleMute()"
-                        class="flex items-center gap-1 bg-[#f3f0e7] border border-[#e7e1cf] text-text-muted hover:text-primary px-3 py-1.5 rounded-lg transition-colors"
-                        title="Activar/Desactivar Audio">
-                        <span class="material-symbols-outlined text-[18px]" id="live-audio-icon">volume_up</span>
-                        <span class="text-xs font-bold uppercase tracking-widest" id="live-audio-text">Audio: ON</span>
+                <div class="flex items-center gap-1 bg-[#f3f0e7] rounded-lg p-1 border border-[#e7e1cf]">
+                    <!-- Boton Mute Global -->
+                    <button id="live-mute-btn" onclick="if(window.liveTimelineObj) window.liveTimelineObj.toggleMute()"
+                        class="flex items-center justify-center p-1.5 rounded text-text-muted hover:text-primary transition-colors"
+                        title="Activar/Desactivar Audio Global">
+                        <span class="material-symbols-outlined text-[18px]" id="live-mute-icon">volume_up</span>
                     </button>
-                    <div class="w-px h-6 bg-[#e7e1cf] mx-1"></div>
-                    <button id="live-prev-btn" onclick="if(window.liveTimelineObj) window.liveTimelineObj.jump(-1)"
-                        class="flex items-center justify-center size-8 rounded-full bg-[#f3f0e7] text-text-muted hover:bg-[#e7e1cf] hover:text-primary transition-all"
-                        title="Anterior">
-                        <span class="material-symbols-outlined text-[20px]">skip_previous</span>
+                    <div class="w-px h-5 bg-[#e7e1cf] mx-0.5"></div>
+                    <!-- Play Manual del Evento -->
+                    <button id="live-audio-play-btn"
+                        onclick="if(window.liveTimelineObj) window.liveTimelineObj.toggleAudioManual()"
+                        class="flex items-center justify-center p-1.5 rounded text-text-muted hover:text-primary transition-colors"
+                        title="Reproducir/Pausar Locución Actual">
+                        <span class="material-symbols-outlined text-[18px]" id="live-audio-play-icon">play_arrow</span>
                     </button>
-                    <button id="live-play-btn" onclick="if(window.liveTimelineObj) window.liveTimelineObj.togglePlay()"
-                        class="flex items-center justify-center size-10 rounded-full bg-primary text-white hover:bg-[#a38420]
-                shadow-md transition-all">
-                        <span class="material-symbols-outlined text-[24px] ml-0.5">play_arrow</span>
-                    </button>
-                    <button id="live-next-btn" onclick="if(window.liveTimelineObj) window.liveTimelineObj.jump(1)"
-                        class="flex items-center justify-center size-8 rounded-full bg-[#f3f0e7] text-text-muted hover:bg-[#e7e1cf] hover:text-primary transition-all"
-                        title="Siguiente">
-                        <span class="material-symbols-outlined text-[20px]">skip_next</span>
+                    <div class="w-px h-5 bg-[#e7e1cf] mx-0.5"></div>
+                    <!-- Sincronizacion -->
+                    <button id="live-sync-btn" onclick="if(window.liveTimelineObj) window.liveTimelineObj.toggleSync()"
+                        class="flex items-center gap-1 p-1.5 px-2 rounded text-text-muted hover:text-primary transition-colors bg-primary/10 border border-primary/50"
+                        title="Modo Sincronizado ON">
+                        <span class="material-symbols-outlined text-[16px] text-primary" id="live-sync-icon">link</span>
+                        <span class="text-[10px] font-bold uppercase tracking-widest hidden sm:inline"
+                            id="live-sync-text">Sync</span>
                     </button>
                 </div>
                 <div class="w-px h-6 bg-[#e7e1cf]"></div>
-                <button onclick="switchView('dashboard')"
-                    class="text-xs font-bold uppercase tracking-widest text-text-muted hover:text-primary transition-colors flex items-center gap-1">
-                    <span class="material-symbols-outlined text-[16px]">close</span> Salir
+                <button id="live-prev-btn" onclick="if(window.liveTimelineObj) window.liveTimelineObj.jump(-1)"
+                    class="flex items-center justify-center size-8 rounded-full bg-[#f3f0e7] text-text-muted hover:bg-[#e7e1cf] hover:text-primary transition-all"
+                    title="Anterior">
+                    <span class="material-symbols-outlined text-[20px]">skip_previous</span>
+                </button>
+                <button id="live-play-btn" onclick="if(window.liveTimelineObj) window.liveTimelineObj.togglePlay()"
+                    class="flex items-center justify-center size-10 rounded-full bg-primary text-white hover:bg-[#a38420]
+                shadow-md transition-all">
+                    <span class="material-symbols-outlined text-[24px] ml-0.5">play_arrow</span>
+                </button>
+                <button id="live-next-btn" onclick="if(window.liveTimelineObj) window.liveTimelineObj.jump(1)"
+                    class="flex items-center justify-center size-8 rounded-full bg-[#f3f0e7] text-text-muted hover:bg-[#e7e1cf] hover:text-primary transition-all"
+                    title="Siguiente">
+                    <span class="material-symbols-outlined text-[20px]">skip_next</span>
                 </button>
             </div>
+            <div class="w-px h-6 bg-[#e7e1cf]"></div>
+            <button onclick="switchView('dashboard')"
+                class="text-xs font-bold uppercase tracking-widest text-text-muted hover:text-primary transition-colors flex items-center gap-1">
+                <span class="material-symbols-outlined text-[16px]">close</span> Salir
+            </button>
+        </div>
         </div>
 
         <!-- Scrubber Tooltip -->

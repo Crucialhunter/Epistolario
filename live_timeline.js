@@ -20,7 +20,9 @@
         pendingStepLive: false,
         initialized: false,
         lastHeroTime: 0, // Timestamp to track 12s cooldown
-        muted: localStorage.getItem('epistolario_audio_muted') === 'true'
+        muted: localStorage.getItem('epistolario_audio_muted') === 'true',
+        syncMode: localStorage.getItem('epistolario_timeline_sync') !== 'false',
+        audioPlaying: false
     };
 
     window.liveTimelineObj = {
@@ -60,20 +62,88 @@
             }
         },
         updateAudioBtnUI: function () {
-            const icon = document.getElementById('live-audio-icon');
-            const text = document.getElementById('live-audio-text');
-            const btn = document.getElementById('live-audio-btn');
-            if (icon && text && btn) {
+            const iconMute = document.getElementById('live-mute-icon');
+            const btnMute = document.getElementById('live-mute-btn');
+            if (iconMute && btnMute) {
                 if (STATE.muted) {
-                    icon.innerText = 'volume_off';
-                    text.innerText = 'Audio: OFF';
-                    icon.classList.add('text-red-600');
+                    iconMute.innerText = 'volume_off';
+                    iconMute.classList.add('text-red-600');
+                    btnMute.title = "Activar Audio Global";
                 } else {
-                    icon.innerText = 'volume_up';
-                    text.innerText = 'Audio: ON';
-                    icon.classList.remove('text-red-600');
+                    iconMute.innerText = 'volume_up';
+                    iconMute.classList.remove('text-red-600');
+                    btnMute.title = "Silenciar Audio Global";
                 }
             }
+
+            const btnSync = document.getElementById('live-sync-btn');
+            const iconSync = document.getElementById('live-sync-icon');
+            if (btnSync && iconSync) {
+                if (STATE.syncMode) {
+                    iconSync.innerText = 'link';
+                    iconSync.classList.remove('text-gray-400');
+                    iconSync.classList.add('text-primary');
+                    btnSync.classList.add('bg-primary/10', 'border-primary/50');
+                    btnSync.classList.remove('bg-[#f3f0e7]', 'border-[#e7e1cf]');
+                    btnSync.title = "Modo Sincronizado ON";
+                } else {
+                    iconSync.innerText = 'link_off';
+                    iconSync.classList.add('text-gray-400');
+                    iconSync.classList.remove('text-primary');
+                    btnSync.classList.remove('bg-primary/10', 'border-primary/50');
+                    btnSync.classList.add('bg-[#f3f0e7]', 'border-[#e7e1cf]');
+                    btnSync.title = "Modo Sincronizado OFF (Dwell normal)";
+                }
+            }
+
+            const btnAudioPlay = document.getElementById('live-audio-play-btn');
+            const iconAudioPlay = document.getElementById('live-audio-play-icon');
+            if (btnAudioPlay && iconAudioPlay) {
+                if (STATE.muted) {
+                    btnAudioPlay.parentElement.classList.add('opacity-50', 'pointer-events-none');
+                } else {
+                    btnAudioPlay.parentElement.classList.remove('opacity-50', 'pointer-events-none');
+                }
+
+                if (STATE.audioPlaying) {
+                    iconAudioPlay.innerText = 'pause';
+                    btnAudioPlay.title = "Pausar Locución Actual";
+                } else {
+                    iconAudioPlay.innerText = 'play_arrow';
+                    btnAudioPlay.title = "Reproducir Locución Actual";
+                }
+            }
+        },
+        toggleSync: function () {
+            STATE.syncMode = !STATE.syncMode;
+            localStorage.setItem('epistolario_timeline_sync', STATE.syncMode);
+            this.updateAudioBtnUI();
+        },
+        toggleAudioManual: function () {
+            if (STATE.muted) return;
+            const currentItem = STATE.playlist[STATE.idx];
+            if (!currentItem || !currentItem.audio_path) return;
+
+            if (STATE.audioPlaying) {
+                if (window.AudioManager) window.AudioManager.pause();
+                STATE.audioPlaying = false;
+            } else {
+                if (window.AudioManager) {
+                    // Si ya estaba cargado/pausado pero es el mismo 
+                    if (window.AudioManager.currentEventId === currentItem.event_id && window.AudioManager.current && window.AudioManager.current.paused) {
+                        window.AudioManager.resume();
+                    } else {
+                        // Play from start (manual overlay without awaiting timeline progression)
+                        window.AudioManager._doPlay(currentItem);
+                        window.AudioManager.current.addEventListener('ended', () => {
+                            STATE.audioPlaying = false;
+                            this.updateAudioBtnUI();
+                        }, { once: true });
+                    }
+                }
+                STATE.audioPlaying = true;
+            }
+            this.updateAudioBtnUI();
         },
         togglePlay: function () {
             this.setPlay(!STATE.playing);
@@ -390,9 +460,21 @@
             const bar = document.getElementById('live-progress-bar');
             if (bar) bar.style.transition = 'none';
 
-            let playedAudio = false;
+            // Si el motor llega aquí, es modo schedule. Limpia flags.
+            STATE.isAudioMode = false;
+            STATE.audioPlaying = false;
+            this.updateAudioBtnUI();
 
-            if (!STATE.muted && window.AudioManager && currentItem.audio_path) {
+            if (window.AudioManager) window.AudioManager.stop();
+
+            const dwell = this.computeDwell(currentItem);
+            if (window.DEBUG_TIMELINE_AUDIO) console.info(`[TimelineViva] scheduleNext: delayMs=${dwell} reason=BASE`);
+
+            STATE.progressTotal = dwell;
+            STATE.progressStart = Date.now();
+
+            // Auto-arranque de audio si SyncMode ON y No Muted
+            if (!STATE.muted && STATE.syncMode && currentItem.audio_path) {
                 STATE.isAudioMode = true;
                 if (window.DEBUG_TIMELINE_AUDIO) console.info(`[TimelineViva] scheduleNext: event=${currentItem.event_id} audio=ON path=${currentItem.audio_path}`);
 
@@ -403,7 +485,13 @@
                     setTimeout(() => { if (bar) { bar.style.transition = 'width 10s linear'; bar.style.width = '95%'; } }, 50);
                 }
 
-                playedAudio = await window.AudioManager.playAndWait(currentItem);
+                STATE.audioPlaying = true;
+                this.updateAudioBtnUI();
+
+                let playedAudio = await window.AudioManager.playAndWait(currentItem);
+
+                STATE.audioPlaying = false;
+                this.updateAudioBtnUI();
 
                 if (!STATE.playing || STATE.playlist[STATE.idx] !== currentItem) return;
 
@@ -425,17 +513,6 @@
                     return;
                 }
             }
-
-            // Fallback a Dwell Mode (Audio OFF o fallo)
-            STATE.isAudioMode = false;
-            if (window.DEBUG_TIMELINE_AUDIO) console.info(`[TimelineViva] scheduleNext: event=${currentItem.event_id || currentItem.id_carta} audio=OFF/FAILED`);
-            if (window.AudioManager) window.AudioManager.stop();
-
-            const dwell = this.computeDwell(currentItem);
-            if (window.DEBUG_TIMELINE_AUDIO) console.info(`[TimelineViva] scheduleNext: delayMs=${dwell} reason=BASE`);
-
-            STATE.progressTotal = dwell;
-            STATE.progressStart = Date.now();
 
             const tick = () => {
                 if (!STATE.playing) return;
