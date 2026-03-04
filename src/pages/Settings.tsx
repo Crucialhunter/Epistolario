@@ -90,18 +90,18 @@ export default function Settings() {
   return (
     <div className="flex-1 overflow-y-auto w-full">
       <div className="max-w-3xl mx-auto w-full px-4 py-8">
-        <h1 className="font-serif text-3xl font-medium text-ink mb-8">Settings</h1>
+        <h1 className="font-serif text-3xl font-medium text-ink mb-8">Ajustes</h1>
 
         <div className="space-y-8">
           <section className="bg-white p-6 rounded-xl shadow-sm border border-ink/5">
-            <h2 className="text-lg font-medium mb-4">API Configuration</h2>
+            <h2 className="text-lg font-medium mb-4">Configuración de API</h2>
             <p className="text-sm text-ink/60 mb-6">
-              Configure your API keys for the different models. Keys are stored locally in your browser.
+              Configura tus claves de API para los diferentes modelos. Las claves se guardan localmente en tu navegador.
             </p>
 
             <div className="space-y-4">
               <div>
-                <label className="block text-sm font-medium text-ink mb-1">OpenAI API Key</label>
+                <label className="block text-sm font-medium text-ink mb-1">Clave de API de OpenAI</label>
                 <input
                   type="password"
                   value={keys['gpt-5.2'] || ''}
@@ -111,7 +111,7 @@ export default function Settings() {
                 />
               </div>
               <div>
-                <label className="block text-sm font-medium text-ink mb-1">Anthropic API Key</label>
+                <label className="block text-sm font-medium text-ink mb-1">Clave de API de Anthropic</label>
                 <input
                   type="password"
                   value={keys['claude-4.6-sonnet'] || keys['claude-4.6-opus'] || ''}
@@ -124,7 +124,7 @@ export default function Settings() {
                 />
               </div>
               <div>
-                <label className="block text-sm font-medium text-ink mb-1">Google Gemini API Key</label>
+                <label className="block text-sm font-medium text-ink mb-1">Clave de API de Google Gemini</label>
                 <div className="flex space-x-2">
                   <input
                     type="password"
@@ -139,9 +139,9 @@ export default function Settings() {
                     className="px-4 py-2 bg-olive/10 text-olive rounded-md text-sm font-medium hover:bg-olive/20 transition-all disabled:opacity-40 disabled:cursor-not-allowed flex items-center space-x-2 shrink-0"
                   >
                     {isTesting ? (
-                      <><Loader2 className="w-4 h-4 animate-spin" /><span>Testing…</span></>
+                      <><Loader2 className="w-4 h-4 animate-spin" /><span>Probando…</span></>
                     ) : (
-                      <span>Test Key</span>
+                      <span>Probar clave</span>
                     )}
                   </button>
                 </div>
@@ -154,7 +154,7 @@ export default function Settings() {
                     }`}>
                     {keyCheck.ok ? <CheckCircle2 className="w-4 h-4 mt-0.5 shrink-0" /> : <XCircle className="w-4 h-4 mt-0.5 shrink-0" />}
                     <div>
-                      <div className="font-medium">{keyCheck.ok ? '✅ Key Valid' : `❌ ${keyCheck.status.toUpperCase()}`}</div>
+                      <div className="font-medium">{keyCheck.ok ? '✅ Clave válida' : `❌ ${keyCheck.status.toUpperCase()}`}</div>
                       <div className="text-xs opacity-80 mt-0.5">{keyCheck.message}</div>
                       <div className="text-[10px] opacity-50 mt-1">{new Date(keyCheck.at).toLocaleString()}</div>
                     </div>
@@ -170,9 +170,9 @@ export default function Settings() {
               <div className="flex items-center space-x-3">
                 <FlaskConical className="w-5 h-5 text-amber-600" />
                 <div>
-                  <h2 className="text-lg font-medium">Demo Mode</h2>
+                  <h2 className="text-lg font-medium">Modo Demo</h2>
                   <p className="text-sm text-ink/60 mt-1">
-                    When enabled, benchmarks use Ground Truth data as predictions instead of calling the API. Results are tagged as <span className="font-mono text-amber-700 bg-amber-100 px-1 rounded text-xs">DEMO</span>.
+                    Cuando está activado, los benchmarks usan los datos de Ground Truth como predicciones en lugar de llamar a la API. Los resultados se etiquetan como <span className="font-mono text-amber-700 bg-amber-100 px-1 rounded text-xs">DEMO</span>.
                   </p>
                 </div>
               </div>
@@ -188,7 +188,7 @@ export default function Settings() {
             </div>
             {demoMode && (
               <div className="mt-4 p-3 bg-amber-50 border border-amber-200 rounded-lg text-sm text-amber-800">
-                <strong>Demo Mode is ON.</strong> Benchmark runs will NOT call any API. Instead, they will use Ground Truth modernizada text as stand-in predictions (tagged as <code>source: ground_truth_demo</code>).
+                <strong>Modo Demo ACTIVADO.</strong> Las ejecuciones de benchmark NO llamarán a ninguna API. En su lugar, usarán el texto modernizado de Ground Truth como predicciones (etiquetadas como <code>source: ground_truth_demo</code>).
               </div>
             )}
           </section>
@@ -196,15 +196,15 @@ export default function Settings() {
           <PromptLibrary />
 
           <section className="bg-white p-6 rounded-xl shadow-sm border border-burgundy/20">
-            <h2 className="text-lg font-medium mb-4 text-burgundy">Danger Zone</h2>
+            <h2 className="text-lg font-medium mb-4 text-burgundy">Zona de peligro</h2>
             <p className="text-sm text-ink/60 mb-6">
-              Permanently delete all documents, variants, run results, and prompt templates from your local database. This action cannot be undone.
+              Borra permanentemente todos los documentos, variantes, resultados y plantillas de la base de datos local. Esta acción no se puede deshacer.
             </p>
             <button
               onClick={() => setIsClearModalOpen(true)}
               className="px-4 py-2 bg-burgundy/10 text-burgundy rounded-md text-sm font-medium hover:bg-burgundy/20 transition-all"
             >
-              Clear All Data
+              Borrar todos los datos
             </button>
           </section>
         </div>
@@ -212,9 +212,9 @@ export default function Settings() {
 
       <ConfirmModal
         isOpen={isClearModalOpen}
-        title="Clear All Data"
-        message="Are you absolutely sure you want to delete ALL data? This includes all documents, variants, run results, and custom prompt templates. This action cannot be undone."
-        confirmText="Yes, delete everything"
+        title="Borrar todos los datos"
+        message="¿Estás completamente seguro de que quieres borrar TODOS los datos? Esto incluye todos los documentos, variantes, resultados y plantillas personalizadas. Esta acción no se puede deshacer."
+        confirmText="Sí, borrar todo"
         onConfirm={handleClearAllData}
         onCancel={() => setIsClearModalOpen(false)}
       />

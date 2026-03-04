@@ -223,7 +223,7 @@ export default function RunBenchmarkModal({ isOpen, onClose, selectedDocIds }: R
 
     } catch (err) {
       console.error(err);
-      alert('Failed to start benchmark');
+      alert('Error al iniciar el benchmark');
     } finally {
       setIsStarting(false);
     }
@@ -233,7 +233,7 @@ export default function RunBenchmarkModal({ isOpen, onClose, selectedDocIds }: R
     <div className="fixed inset-0 z-50 flex items-center justify-center bg-ink/50 backdrop-blur-sm">
       <div className="bg-paper w-full max-w-2xl rounded-xl shadow-xl overflow-hidden flex flex-col max-h-[90vh]">
         <div className="flex items-center justify-between px-6 py-4 border-b border-ink/10">
-          <h2 className="font-serif text-xl font-medium">Configure Benchmark</h2>
+          <h2 className="font-serif text-xl font-medium">Configurar benchmark</h2>
           <button onClick={onClose} className="text-ink/50 hover:text-ink">
             <X className="w-5 h-5" />
           </button>
@@ -241,18 +241,18 @@ export default function RunBenchmarkModal({ isOpen, onClose, selectedDocIds }: R
 
         <div className="flex-1 overflow-y-auto p-6 space-y-6">
           <div className="bg-stone/30 p-4 rounded-lg border border-ink/5 text-sm text-ink/70">
-            Select a Prompt Template to run. You can create and manage templates in the Settings page.
+            Selecciona una plantilla de prompt para ejecutar. Puedes crear y gestionar plantillas en la página de Ajustes.
           </div>
 
           <div>
             <div className="flex justify-between items-center mb-2">
-              <label className="block text-sm font-medium text-ink">Prompt Template</label>
+              <label className="block text-sm font-medium text-ink">Plantilla de prompt</label>
               <button
                 onClick={() => { onClose(); navigate('/settings'); }}
                 className="text-xs text-ink/50 hover:text-ink flex items-center space-x-1"
               >
                 <Settings className="w-3 h-3" />
-                <span>Manage Templates</span>
+                <span>Gestionar plantillas</span>
               </button>
             </div>
             <select
@@ -261,7 +261,7 @@ export default function RunBenchmarkModal({ isOpen, onClose, selectedDocIds }: R
               className="w-full px-3 py-2 border border-ink/20 rounded-md focus:outline-none focus:ring-2 focus:ring-olive/50 bg-white text-sm"
             >
               {templates?.map(t => (
-                <option key={t.id} value={t.id}>{t.name} ({t.engine === 'unified' ? '1 API Call' : '2 API Calls'})</option>
+                <option key={t.id} value={t.id}>{t.name} ({t.engine === 'unified' ? '1 Llamada' : '2 Llamadas'})</option>
               ))}
             </select>
           </div>
@@ -269,7 +269,7 @@ export default function RunBenchmarkModal({ isOpen, onClose, selectedDocIds }: R
           {selectedTemplate && (
             <div className="p-4 bg-white border border-ink/10 rounded-lg space-y-3">
               <div className="flex items-center space-x-2">
-                <span className="text-xs font-semibold text-ink/50 uppercase tracking-wider">Engine:</span>
+                <span className="text-xs font-semibold text-ink/50 uppercase tracking-wider">Motor:</span>
                 <span className={`text-[10px] uppercase tracking-wider font-bold px-2 py-0.5 rounded-full border border-ink/10`}
                   style={{ backgroundColor: `var(--color-${selectedTemplate.color}-100, #f5f5f4)`, color: `var(--color-${selectedTemplate.color}-700, #444)` }}
                 >
@@ -277,31 +277,31 @@ export default function RunBenchmarkModal({ isOpen, onClose, selectedDocIds }: R
                 </span>
               </div>
               <div>
-                <span className="text-xs font-semibold text-ink/50 uppercase tracking-wider block mb-1">System Prompt:</span>
+                <span className="text-xs font-semibold text-ink/50 uppercase tracking-wider block mb-1">Prompt de Sistema:</span>
                 <div className="text-xs font-mono text-ink/80 bg-stone/10 p-2 rounded">{selectedTemplate.systemPrompt}</div>
               </div>
               {selectedTemplate.engine === 'unified' ? (
                 <div>
-                  <span className="text-xs font-semibold text-ink/50 uppercase tracking-wider block mb-1">Unified Prompt:</span>
+                  <span className="text-xs font-semibold text-ink/50 uppercase tracking-wider block mb-1">Prompt Unificado:</span>
                   <div className="text-xs font-mono text-ink/80 bg-stone/10 p-2 rounded max-h-32 overflow-y-auto whitespace-pre-wrap">{selectedTemplate.unifiedPrompt}</div>
                 </div>
               ) : selectedTemplate.engine === 'fast' ? (
                 <div>
-                  <span className="text-xs font-semibold text-ink/50 uppercase tracking-wider block mb-1">Effective Prompt Preview:</span>
+                  <span className="text-xs font-semibold text-ink/50 uppercase tracking-wider block mb-1">Vista previa del prompt efectivo:</span>
                   <div className="text-xs font-mono text-ink/80 bg-stone/10 p-2 rounded max-h-32 overflow-y-auto whitespace-pre-wrap">{(selectedTemplate.systemPrompt ? selectedTemplate.systemPrompt + '\n\n' : '') + (selectedTemplate.fastPrompt || '')}</div>
                   <div className="mt-3 text-xs text-ink/60 bg-olive/5 border border-olive/20 p-2 rounded">
-                    <span className="font-semibold text-olive/80 mr-1">Expected Schema:</span>
+                    <span className="font-semibold text-olive/80 mr-1">Esquema esperado:</span>
                     <span className="font-mono text-ink/80">idioma_detectado + transcripcion_modernizada</span>
                   </div>
                 </div>
               ) : (
                 <div className="grid grid-cols-2 gap-4">
                   <div>
-                    <span className="text-xs font-semibold text-ink/50 uppercase tracking-wider block mb-1">Literal Prompt:</span>
+                    <span className="text-xs font-semibold text-ink/50 uppercase tracking-wider block mb-1">Prompt Literal:</span>
                     <div className="text-xs font-mono text-ink/80 bg-stone/10 p-2 rounded max-h-32 overflow-y-auto whitespace-pre-wrap">{selectedTemplate.literalPrompt}</div>
                   </div>
                   <div>
-                    <span className="text-xs font-semibold text-ink/50 uppercase tracking-wider block mb-1">Modernizada Prompt:</span>
+                    <span className="text-xs font-semibold text-ink/50 uppercase tracking-wider block mb-1">Prompt Modernizada:</span>
                     <div className="text-xs font-mono text-ink/80 bg-stone/10 p-2 rounded max-h-32 overflow-y-auto whitespace-pre-wrap">{selectedTemplate.modernizadaPrompt}</div>
                   </div>
                 </div>
@@ -311,10 +311,10 @@ export default function RunBenchmarkModal({ isOpen, onClose, selectedDocIds }: R
 
           <div className="flex items-center justify-between bg-olive/5 p-4 rounded-lg border border-olive/20">
             <div>
-              <h3 className="font-medium text-ink">Execution Scope</h3>
+              <h3 className="font-medium text-ink">Alcance de ejecución</h3>
               <p className="text-xs text-ink/60 mt-1">
-                {selectedDocIds ? `Running on ${selectedDocIds.length} selected document(s).` : 'Running on all documents.'}
-                {' '}This will generate <strong className="text-ink">{taskCount !== null ? taskCount : '...'} tasks</strong>.
+                {selectedDocIds ? `Ejecutando en ${selectedDocIds.length} documento(s).` : 'Ejecutando en todos los documentos.'}
+                {' '}Esto generará <strong className="text-ink">{taskCount !== null ? taskCount : '...'} tareas</strong>.
               </p>
             </div>
             <label className="flex items-center space-x-2 text-sm font-medium text-ink cursor-pointer">
@@ -324,7 +324,7 @@ export default function RunBenchmarkModal({ isOpen, onClose, selectedDocIds }: R
                 onChange={(e) => setSkipProcessed(e.target.checked)}
                 className="rounded border-ink/20 text-olive focus:ring-olive/50"
               />
-              <span>Skip already processed</span>
+              <span>Omitir ya procesados</span>
             </label>
           </div>
         </div>
@@ -336,7 +336,7 @@ export default function RunBenchmarkModal({ isOpen, onClose, selectedDocIds }: R
               onClick={onClose}
               className="px-4 py-2 text-sm font-medium text-ink/70 hover:text-ink"
             >
-              Cancel
+              Cancelar
             </button>
             <motion.button
               whileHover={{ scale: 1.02 }}
@@ -346,7 +346,7 @@ export default function RunBenchmarkModal({ isOpen, onClose, selectedDocIds }: R
               className="flex items-center space-x-2 px-4 py-2 bg-ink text-paper rounded-md text-sm font-medium hover:bg-ink/90 transition-all shadow-sm hover:shadow-md disabled:opacity-50 disabled:pointer-events-none"
             >
               <Play className="w-4 h-4" />
-              <span>{isStarting ? 'Starting...' : 'Start Benchmark'}</span>
+              <span>{isStarting ? 'Iniciando...' : 'Iniciar benchmark'}</span>
             </motion.button>
           </div>
         </div>

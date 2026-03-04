@@ -183,7 +183,7 @@ export default function Workspace() {
   const handleBakeVariant = async () => {
     if (!canvasRef.current || !docId) return;
     if (currentPageVariants.length >= 3) {
-      alert('Maximum of 3 variants allowed per page. Please delete one first.');
+      alert('Máximo de 3 variantes permitidas por página. Borra una primero.');
       return;
     }
 
@@ -226,7 +226,7 @@ export default function Workspace() {
     const apiKeys = savedKeys ? JSON.parse(savedKeys) : {};
 
     if (selectedModelId !== 'gemini-3.1-pro-preview' && !apiKeys[selectedModelId]) {
-      alert(`Please configure API key for ${providers.find(p => p.id === selectedModelId)?.name} in Settings.`);
+      alert(`Configura la clave de API para ${providers.find(p => p.id === selectedModelId)?.name} en Ajustes.`);
       return;
     }
 
@@ -241,7 +241,7 @@ export default function Workspace() {
     }
 
     if (!templateToUse) {
-      alert('No prompt template found. Please create one in Settings.');
+      alert('No se encontró plantilla de prompt. Crea una en Ajustes.');
       return;
     }
 
@@ -294,7 +294,7 @@ export default function Workspace() {
   };
 
   if (!document || !groundTruth) {
-    return <div className="p-8 text-center text-ink/60">Loading document...</div>;
+    return <div className="p-8 text-center text-ink/60">Cargando documento...</div>;
   }
 
   const gtText = mode === 'literal' ? groundTruth.literal : groundTruth.modernizada;
@@ -302,7 +302,7 @@ export default function Workspace() {
 
   const displayText = showNormalized ? normalizedGtText : gtText;
 
-  const predictionText = runResult?.parsedText || 'No benchmark run yet for this model and mode.';
+  const predictionText = runResult?.parsedText || 'No hay resultados para este modelo y modo.';
   const displayPrediction = showNormalized && runResult?.status === 'success'
     ? (mode === 'literal' ? normalizeLiteral(predictionText) : normalizeModernizada(predictionText))
     : predictionText;
@@ -319,14 +319,14 @@ export default function Workspace() {
             <div className="flex items-center space-x-2 flex-wrap gap-y-2">
               {document.pages && document.pages.length > 1 && (
                 <div className="flex items-center space-x-1 mr-4 border-r border-ink/10 pr-4">
-                  <span className="text-xs text-ink/60">Page:</span>
+                  <span className="text-xs text-ink/60">Página:</span>
                   <select
                     value={currentPageIndex}
                     onChange={(e) => setCurrentPageIndex(Number(e.target.value))}
                     className="text-xs bg-stone border-none rounded px-2 py-1 focus:ring-0"
                   >
                     {document.pages.map((_, idx) => (
-                      <option key={idx} value={idx}>{idx + 1} of {document.pages?.length}</option>
+                      <option key={idx} value={idx}>{idx + 1} de {document.pages?.length}</option>
                     ))}
                   </select>
                 </div>
@@ -348,7 +348,7 @@ export default function Workspace() {
                   <button
                     onClick={() => handleDeleteVariant(v.id)}
                     className="px-1 py-1 hover:text-burgundy"
-                    title="Delete variant"
+                    title="Borrar variante"
                   >
                     <X className="w-3 h-3" />
                   </button>
@@ -358,10 +358,10 @@ export default function Workspace() {
                 <button
                   onClick={handleBakeVariant}
                   className="text-xs px-2 py-1 bg-olive/10 text-olive rounded hover:bg-olive/20 transition-colors flex items-center space-x-1"
-                  title="Save current filters as a new variant"
+                  title="Guardar filtros actuales como nueva variante"
                 >
                   <Plus className="w-3 h-3" />
-                  <span>Bake Variant</span>
+                  <span>Fijar variante</span>
                 </button>
               )}
             </div>
@@ -370,7 +370,7 @@ export default function Workspace() {
               className="flex items-center space-x-1 text-xs text-ink/60 hover:text-ink transition-colors ml-4"
             >
               <SlidersHorizontal className="w-3 h-3" />
-              <span>Filters</span>
+              <span>Filtros</span>
               {showFilters ? <ChevronDown className="w-3 h-3" /> : <ChevronUp className="w-3 h-3" />}
             </button>
           </div>
@@ -380,14 +380,14 @@ export default function Workspace() {
           {imageUrl ? (
             <ImageViewer imageUrl={imageUrl} filters={filters} canvasRef={canvasRef} />
           ) : (
-            <div className="flex items-center justify-center h-full text-ink/40 text-sm">No image available</div>
+            <div className="flex items-center justify-center h-full text-ink/40 text-sm">No hay imagen disponible</div>
           )}
         </div>
 
         {showFilters && (
           <div className="border-t border-ink/10 bg-paper p-4">
             <div className="flex items-center justify-between mb-3">
-              <h3 className="text-xs font-semibold text-ink/60 uppercase tracking-wider">Filters</h3>
+              <h3 className="text-xs font-semibold text-ink/60 uppercase tracking-wider">Filtros</h3>
               <div className="flex items-center space-x-4">
                 <label className="flex items-center space-x-2 text-xs font-medium text-ink cursor-pointer">
                   <input
@@ -395,20 +395,20 @@ export default function Workspace() {
                     onChange={(e) => setFilters(f => ({ ...f, invert: e.target.checked }))}
                     className="rounded border-ink/20 text-olive focus:ring-olive/50"
                   />
-                  <span>Invert Colors</span>
+                  <span>Invertir colores</span>
                 </label>
                 <button
                   onClick={() => setFilters({ brightness: 100, contrast: 100, invert: false })}
                   className="text-xs text-ink/50 hover:text-ink"
                 >
-                  Reset
+                  Restablecer
                 </button>
               </div>
             </div>
             <div className="flex space-x-6">
               <div className="flex-1">
                 <label className="flex justify-between text-xs font-medium text-ink mb-1">
-                  <span>Brightness</span>
+                  <span>Brillo</span>
                   <span>{filters.brightness}%</span>
                 </label>
                 <input
@@ -419,7 +419,7 @@ export default function Workspace() {
               </div>
               <div className="flex-1">
                 <label className="flex justify-between text-xs font-medium text-ink mb-1">
-                  <span>Contrast</span>
+                  <span>Contraste</span>
                   <span>{filters.contrast}%</span>
                 </label>
                 <input
@@ -513,7 +513,7 @@ export default function Workspace() {
             )}
             <button
               onClick={handleRerun}
-              title="Rerun this model for this document"
+              title="Reejecutar modelo para este documento"
               className="p-1 rounded bg-stone hover:bg-stone/80 text-ink/70 transition-colors"
             >
               <RotateCcw className="w-3.5 h-3.5" />
@@ -541,14 +541,14 @@ export default function Workspace() {
                   onClick={() => setShowPrompt(!showPrompt)}
                   className="text-xs text-ink/50 hover:text-ink transition-colors"
                 >
-                  {showPrompt ? 'Hide Prompt' : 'View Prompt'}
+                  {showPrompt ? 'Ocultar prompt' : 'Ver prompt'}
                 </button>
               )}
             </div>
 
             {showPrompt && promptSnapshot && (
               <div className="mb-4 p-3 bg-stone/10 rounded border border-ink/5 text-xs font-mono text-ink/80 whitespace-pre-wrap">
-                <div className="font-semibold mb-1 text-ink/60">Prompt used for this result:</div>
+                <div className="font-semibold mb-1 text-ink/60">Prompt utilizado:</div>
                 {promptSnapshot.content}
               </div>
             )}
@@ -565,31 +565,31 @@ export default function Workspace() {
                 {runResult && (
                   <span
                     className="text-ink/40 font-mono text-[10px] bg-stone px-1.5 py-0.5 rounded cursor-help"
-                    title="CER (Character Error Rate): % of characters that differ. Lower is better.&#10;WER (Word Error Rate): % of words that differ. Lower is better."
+                    title="CER: Tasa de error de caracteres. Menor es mejor.&#10;WER: Tasa de error de palabras. Menor es mejor."
                   >
                     CER: {runResult.cer.toFixed(1)}% | WER: {runResult.wer.toFixed(1)}%
                   </span>
                 )}
                 {isDemoResult && (
-                  <span className="text-[10px] font-bold uppercase tracking-wider px-2 py-0.5 rounded bg-amber-100 text-amber-800 border border-amber-300" title="This result was generated in Demo Mode using Ground Truth data">
+                  <span className="text-[10px] font-bold uppercase tracking-wider px-2 py-0.5 rounded bg-amber-100 text-amber-800 border border-amber-300" title="Resultado generado en Modo Demo con Ground Truth">
                     DEMO
                   </span>
                 )}
                 {runResult?.tokens && (
                   <span
                     className="text-ink/40 font-mono text-[10px] bg-stone px-1.5 py-0.5 rounded cursor-help"
-                    title={`Input: ${(runResult.tokens as any).inputTokens || (runResult.tokens as any).promptTokens || 0} | Output: ${(runResult.tokens as any).outputTokens || (runResult.tokens as any).completionTokens || 0} | Latency: ${runResult.latencyMs}ms`}
+                    title={`Entrada: ${(runResult.tokens as any).inputTokens || (runResult.tokens as any).promptTokens || 0} | Salida: ${(runResult.tokens as any).outputTokens || (runResult.tokens as any).completionTokens || 0} | Latencia: ${runResult.latencyMs}ms`}
                   >
                     {runResult.tokens.totalTokens} tokens | {runResult.latencyMs}ms
                   </span>
                 )}
                 {runResult?.passes && (
-                  <span className={`text-[10px] font-bold uppercase tracking-wider px-1.5 py-0.5 rounded ${runResult.passes > 1 ? 'bg-amber-100 text-amber-700' : 'bg-stone/20 text-ink/60'}`} title={`Passes: ${runResult.passes}`}>
+                  <span className={`text-[10px] font-bold uppercase tracking-wider px-1.5 py-0.5 rounded ${runResult.passes > 1 ? 'bg-amber-100 text-amber-700' : 'bg-stone/20 text-ink/60'}`} title={`Pasadas: ${runResult.passes}`}>
                     P{runResult.passes}
                   </span>
                 )}
                 {runResult?.ocrFallbackUsed && (
-                  <span className="text-[10px] font-bold uppercase tracking-wider px-1.5 py-0.5 rounded bg-rose-100 text-rose-800" title="OCR Fallback triggered">
+                  <span className="text-[10px] font-bold uppercase tracking-wider px-1.5 py-0.5 rounded bg-rose-100 text-rose-800" title="Se usó OCR como alternativa">
                     OCR
                   </span>
                 )}
@@ -646,9 +646,9 @@ export default function Workspace() {
       </div>
       <ConfirmModal
         isOpen={!!variantToDelete}
-        title="Delete Variant"
-        message="Are you sure you want to delete this image variant?"
-        confirmText="Delete"
+        title="Borrar variante"
+        message="¿Seguro que quieres borrar esta variante?"
+        confirmText="Borrar"
         onConfirm={confirmDeleteVariant}
         onCancel={() => setVariantToDelete(null)}
       />

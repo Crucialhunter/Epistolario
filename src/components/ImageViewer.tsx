@@ -64,7 +64,7 @@ export default function ImageViewer({ imageUrl, filters, canvasRef }: ImageViewe
       if (ctx) {
         canvas.width = imageRef.current.naturalWidth;
         canvas.height = imageRef.current.naturalHeight;
-        
+
         ctx.filter = `brightness(${filters.brightness}%) contrast(${filters.contrast}%) ${filters.invert ? 'invert(100%)' : ''}`;
         ctx.drawImage(imageRef.current, 0, 0);
       }
@@ -76,7 +76,7 @@ export default function ImageViewer({ imageUrl, filters, canvasRef }: ImageViewe
   };
 
   return (
-    <div 
+    <div
       ref={containerRef}
       className="relative w-full h-full overflow-hidden bg-stone/20 cursor-grab active:cursor-grabbing"
       onMouseDown={handleMouseDown}
@@ -105,13 +105,13 @@ export default function ImageViewer({ imageUrl, filters, canvasRef }: ImageViewe
         <img
           ref={imageRef}
           src={imageUrl}
-          alt="Document"
+          alt="Documento"
           className="max-w-[90%] max-h-[90%] object-contain shadow-md"
           style={filterStyle}
           draggable={false}
         />
       </div>
-      
+
       {/* Hidden canvas for baking variants */}
       <canvas ref={canvasRef} className="hidden" />
     </div>

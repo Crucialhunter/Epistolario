@@ -76,7 +76,7 @@ export default function DocumentModal({ isOpen, onClose }: DocumentModalProps) {
         try {
           const parsed = JSON.parse(text);
           const imagePaths: string[] = parsed.imagenes || [];
-          
+
           let metadata = { ...parsed };
           delete metadata.transcripcion;
           delete metadata.imagenes;
@@ -90,10 +90,10 @@ export default function DocumentModal({ isOpen, onClose }: DocumentModalProps) {
           for (let j = 0; j < imagePaths.length; j++) {
             const imgPath = imagePaths[j];
             const imgFileName = imgPath.split('/').pop();
-            
+
             // Match exactly the filename or the relative path
-            const matchingImg = imageFilesList.find(f => 
-              f.webkitRelativePath.endsWith(imgPath) || 
+            const matchingImg = imageFilesList.find(f =>
+              f.webkitRelativePath.endsWith(imgPath) ||
               f.name === imgFileName
             );
 
@@ -105,7 +105,7 @@ export default function DocumentModal({ isOpen, onClose }: DocumentModalProps) {
           if (docPages.length > 0) {
             const docId = crypto.randomUUID();
             const gtId = crypto.randomUUID();
-            
+
             docsToAdd.push({
               id: docId,
               title: baseTitle,
@@ -130,19 +130,19 @@ export default function DocumentModal({ isOpen, onClose }: DocumentModalProps) {
       }
 
       if (docsToAdd.length > 0) {
-        setBatchProgress({ total: docsToAdd.length, current: docsToAdd.length, status: `Saving ${docsToAdd.length} documents to database...` });
+        setBatchProgress({ total: docsToAdd.length, current: docsToAdd.length, status: `Guardando ${docsToAdd.length} documentos...` });
         await db.transaction('rw', db.documents, db.groundTruths, async () => {
           await db.documents.bulkAdd(docsToAdd);
           await db.groundTruths.bulkAdd(gtsToAdd);
         });
-        alert(`Successfully imported ${docsToAdd.length} documents!`);
+        alert(`¡${docsToAdd.length} documentos importados!`);
         onClose();
       } else {
-        alert('No matching images found for the JSON files in the selected folder.');
+        alert('No se encontraron imágenes para los archivos JSON seleccionados.');
       }
     } catch (error) {
       console.error('Batch import failed:', error);
-      alert('Batch import failed');
+      alert('Error en la importación por lotes');
     } finally {
       setIsSubmitting(false);
       setBatchProgress(null);
@@ -209,7 +209,7 @@ export default function DocumentModal({ isOpen, onClose }: DocumentModalProps) {
     <div className="fixed inset-0 z-50 flex items-center justify-center bg-ink/50 backdrop-blur-sm">
       <div className="bg-paper w-full max-w-2xl rounded-xl shadow-xl overflow-hidden flex flex-col max-h-[90vh]">
         <div className="flex items-center justify-between px-6 py-4 border-b border-ink/10">
-          <h2 className="font-serif text-xl font-medium">Add Documents</h2>
+          <h2 className="font-serif text-xl font-medium">Añadir documentos</h2>
           <button onClick={onClose} className="text-ink/50 hover:text-ink">
             <X className="w-5 h-5" />
           </button>
@@ -220,21 +220,21 @@ export default function DocumentModal({ isOpen, onClose }: DocumentModalProps) {
             onClick={() => setImportMode('single')}
             className={`flex-1 py-3 text-sm font-medium transition-colors ${importMode === 'single' ? 'bg-stone/20 text-ink border-b-2 border-ink' : 'text-ink/60 hover:bg-stone/10'}`}
           >
-            Single Document
+            Documento individual
           </button>
           <button
             onClick={() => setImportMode('batch')}
             className={`flex-1 py-3 text-sm font-medium transition-colors ${importMode === 'batch' ? 'bg-stone/20 text-ink border-b-2 border-ink' : 'text-ink/60 hover:bg-stone/10'}`}
           >
-            Batch Folder Import
+            Importar carpeta (Lotes)
           </button>
         </div>
-        
+
         {importMode === 'single' ? (
           <>
             <form onSubmit={handleSubmit} className="flex-1 overflow-y-auto p-6 space-y-6">
               <div>
-                <label className="block text-sm font-medium text-ink mb-1">Images</label>
+                <label className="block text-sm font-medium text-ink mb-1">Imágenes</label>
                 <div className="relative">
                   <input
                     type="file"
@@ -248,30 +248,30 @@ export default function DocumentModal({ isOpen, onClose }: DocumentModalProps) {
                     <div className="flex items-center space-x-3">
                       {imageFiles.length > 0 ? <CheckCircle2 className="w-5 h-5 text-olive" /> : <UploadCloud className="w-5 h-5 text-ink/50" />}
                       <span className={`text-sm ${imageFiles.length > 0 ? 'text-olive font-medium' : 'text-ink/60'}`}>
-                        {imageFiles.length > 0 ? `${imageFiles.length} image(s) selected` : 'Click or drag to select images...'}
+                        {imageFiles.length > 0 ? `${imageFiles.length} imagen(es) seleccionada(s)` : 'Haz clic o arrastra para seleccionar imágenes...'}
                       </span>
                     </div>
-                    {imageFiles.length > 0 && <span className="text-xs text-olive/70 bg-olive/10 px-2 py-1 rounded">Ready</span>}
+                    {imageFiles.length > 0 && <span className="text-xs text-olive/70 bg-olive/10 px-2 py-1 rounded">Listo</span>}
                   </div>
                 </div>
               </div>
 
               <div>
-                <label className="block text-sm font-medium text-ink mb-1">Title</label>
+                <label className="block text-sm font-medium text-ink mb-1">Título</label>
                 <input
                   type="text"
                   required
                   value={title}
                   onChange={(e) => setTitle(e.target.value)}
                   className="w-full px-3 py-2 border border-ink/20 rounded-md focus:outline-none focus:ring-2 focus:ring-olive/50 bg-white"
-                  placeholder="e.g., Carta de Indias 1542"
+                  placeholder="ej. Carta de Indias 1542"
                 />
               </div>
 
               <div>
                 <label className="block text-sm font-medium text-ink mb-1">
-                  Import from JSON (Optional)
-                  <span className="text-xs text-ink/50 ml-2 font-normal">Pastes metadata and transcriptions</span>
+                  Importar desde JSON (Opcional)
+                  <span className="text-xs text-ink/50 ml-2 font-normal">Pega metadatos y transcripciones</span>
                 </label>
                 <textarea
                   value={metadataJson}
@@ -290,7 +290,7 @@ export default function DocumentModal({ isOpen, onClose }: DocumentModalProps) {
                   onChange={(e) => setLiteral(e.target.value)}
                   rows={6}
                   className="w-full px-3 py-2 border border-ink/20 rounded-md focus:outline-none focus:ring-2 focus:ring-olive/50 bg-white font-serif"
-                  placeholder="Enter the exact paleographic transcription..."
+                  placeholder="Introduce la transcripción paleográfica exacta..."
                 />
               </div>
 
@@ -302,7 +302,7 @@ export default function DocumentModal({ isOpen, onClose }: DocumentModalProps) {
                   onChange={(e) => setModernizada(e.target.value)}
                   rows={6}
                   className="w-full px-3 py-2 border border-ink/20 rounded-md focus:outline-none focus:ring-2 focus:ring-olive/50 bg-white font-sans"
-                  placeholder="Enter the modernized version..."
+                  placeholder="Introduce la versión modernizada..."
                 />
               </div>
             </form>
@@ -313,7 +313,7 @@ export default function DocumentModal({ isOpen, onClose }: DocumentModalProps) {
                 onClick={onClose}
                 className="px-4 py-2 text-sm font-medium text-ink/70 hover:text-ink"
               >
-                Cancel
+                Cancelar
               </button>
               <motion.button
                 whileHover={{ scale: 1.02 }}
@@ -323,7 +323,7 @@ export default function DocumentModal({ isOpen, onClose }: DocumentModalProps) {
                 className="px-4 py-2 bg-ink text-paper rounded-md text-sm font-medium hover:bg-ink/90 transition-all shadow-sm hover:shadow-md disabled:opacity-50 disabled:pointer-events-none flex items-center space-x-2"
               >
                 {isSubmitting && <div className="w-4 h-4 border-2 border-paper border-t-transparent rounded-full animate-spin" />}
-                <span>{isSubmitting ? 'Saving...' : 'Save Document'}</span>
+                <span>{isSubmitting ? 'Guardando...' : 'Guardar documento'}</span>
               </motion.button>
             </div>
           </>
@@ -331,11 +331,11 @@ export default function DocumentModal({ isOpen, onClose }: DocumentModalProps) {
           <div className="flex-1 p-6 flex flex-col items-center justify-center space-y-6">
             <div className="text-center max-w-md">
               <FolderUp className="w-12 h-12 text-ink/30 mx-auto mb-4" />
-              <h3 className="text-lg font-medium text-ink mb-2">Import a Folder</h3>
+              <h3 className="text-lg font-medium text-ink mb-2">Importar una carpeta</h3>
               <p className="text-sm text-ink/70 mb-6">
-                Select a folder containing your JSON files and an "images" subfolder. The system will automatically match the images referenced in the JSON files and create the documents.
+                Selecciona una carpeta que contenga tus archivos JSON. El sistema emparejará automáticamente las imágenes (con nombres relativos) referenciadas en los JSON y creará los documentos.
               </p>
-              
+
               <div className="relative inline-block">
                 <input
                   type="file"
@@ -347,7 +347,7 @@ export default function DocumentModal({ isOpen, onClose }: DocumentModalProps) {
                   disabled={isSubmitting}
                   className="absolute inset-0 w-full h-full opacity-0 cursor-pointer z-10 disabled:cursor-not-allowed"
                 />
-                <motion.button 
+                <motion.button
                   whileHover={{ scale: 1.02 }}
                   whileTap={{ scale: 0.98 }}
                   disabled={isSubmitting}
@@ -356,12 +356,12 @@ export default function DocumentModal({ isOpen, onClose }: DocumentModalProps) {
                   {isSubmitting ? (
                     <>
                       <div className="w-4 h-4 border-2 border-paper border-t-transparent rounded-full animate-spin" />
-                      <span>Processing...</span>
+                      <span>Procesando...</span>
                     </>
                   ) : (
                     <>
                       <FolderUp className="w-4 h-4" />
-                      <span>Select Folder</span>
+                      <span>Seleccionar carpeta</span>
                     </>
                   )}
                 </motion.button>
@@ -375,7 +375,7 @@ export default function DocumentModal({ isOpen, onClose }: DocumentModalProps) {
                   <span>{batchProgress.current} / {batchProgress.total}</span>
                 </div>
                 <div className="w-full bg-stone/30 rounded-full h-2 overflow-hidden">
-                  <div 
+                  <div
                     className="bg-olive h-full transition-all duration-300 ease-out"
                     style={{ width: `${(batchProgress.current / batchProgress.total) * 100}%` }}
                   />

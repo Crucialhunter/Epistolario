@@ -11,7 +11,7 @@ export default function Layout() {
   const store = useBenchmarkStore();
 
   const handleExport = async () => {
-    const includeImages = confirm('Include images in export? (Makes file larger)');
+    const includeImages = confirm('¿Incluir imágenes en la exportación? (Hace el archivo más grande)');
     await exportData(includeImages);
   };
 
@@ -24,11 +24,11 @@ export default function Layout() {
     if (file) {
       try {
         await importData(file);
-        alert('Data imported successfully!');
+        alert('¡Datos importados correctamente!');
         window.location.reload();
       } catch (err) {
         console.error(err);
-        alert('Failed to import data.');
+        alert('Error al importar datos.');
       }
     }
   };
@@ -44,25 +44,23 @@ export default function Layout() {
             <nav className="flex space-x-1">
               <Link
                 to="/"
-                className={`px-3 py-1.5 rounded-md text-sm font-medium transition-colors ${
-                  location.pathname === '/' ? 'bg-stone text-ink' : 'text-ink/70 hover:bg-stone/50 hover:text-ink'
-                }`}
+                className={`px-3 py-1.5 rounded-md text-sm font-medium transition-colors ${location.pathname === '/' ? 'bg-stone text-ink' : 'text-ink/70 hover:bg-stone/50 hover:text-ink'
+                  }`}
               >
                 <div className="flex items-center space-x-2">
                   <Home className="w-4 h-4" />
-                  <span>Dashboard</span>
+                  <span>Panel de control</span>
                 </div>
               </Link>
             </nav>
           </div>
-          
+
           <div className="flex items-center space-x-2">
-            <button 
+            <button
               onClick={() => store.setDrawerOpen(!store.isDrawerOpen)}
-              className={`p-2 rounded-md transition-colors flex items-center space-x-2 ${
-                store.isRunning ? 'bg-olive/10 text-olive' : 'text-ink/70 hover:bg-stone'
-              }`}
-              title="Task Queue"
+              className={`p-2 rounded-md transition-colors flex items-center space-x-2 ${store.isRunning ? 'bg-olive/10 text-olive' : 'text-ink/70 hover:bg-stone'
+                }`}
+              title="Cola de tareas"
             >
               <Activity className={`w-4 h-4 ${store.isRunning ? 'animate-pulse' : ''}`} />
               {store.isRunning && (
@@ -73,18 +71,17 @@ export default function Layout() {
             </button>
             <div className="w-px h-4 bg-ink/20 mx-2" />
             <input type="file" ref={fileInputRef} className="hidden" accept=".json" onChange={handleFileChange} />
-            <button onClick={handleImportClick} className="p-2 text-ink/70 hover:bg-stone rounded-md transition-colors" title="Import JSON">
+            <button onClick={handleImportClick} className="p-2 text-ink/70 hover:bg-stone rounded-md transition-colors" title="Importar JSON">
               <Upload className="w-4 h-4" />
             </button>
-            <button onClick={handleExport} className="p-2 text-ink/70 hover:bg-stone rounded-md transition-colors" title="Export JSON">
+            <button onClick={handleExport} className="p-2 text-ink/70 hover:bg-stone rounded-md transition-colors" title="Exportar JSON">
               <Download className="w-4 h-4" />
             </button>
             <div className="w-px h-4 bg-ink/20 mx-2" />
             <Link
               to="/settings"
-              className={`p-2 rounded-md transition-colors ${
-                location.pathname === '/settings' ? 'bg-stone text-ink' : 'text-ink/70 hover:bg-stone/50 hover:text-ink'
-              }`}
+              className={`p-2 rounded-md transition-colors ${location.pathname === '/settings' ? 'bg-stone text-ink' : 'text-ink/70 hover:bg-stone/50 hover:text-ink'
+                }`}
             >
               <Settings className="w-4 h-4" />
             </Link>
@@ -95,7 +92,7 @@ export default function Layout() {
       <main className="flex-1 flex flex-col min-h-0 overflow-hidden">
         <Outlet />
       </main>
-      
+
       <TaskDrawer />
     </div>
   );

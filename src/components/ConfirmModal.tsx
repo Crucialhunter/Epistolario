@@ -15,8 +15,8 @@ export default function ConfirmModal({
   isOpen,
   title,
   message,
-  confirmText = 'Confirm',
-  cancelText = 'Cancel',
+  confirmText = 'Confirmar',
+  cancelText = 'Cancelar',
   onConfirm,
   onCancel
 }: ConfirmModalProps) {
@@ -35,20 +35,20 @@ export default function ConfirmModal({
                 <AlertTriangle className="w-5 h-5" />
                 <h2 className="font-medium">{title}</h2>
               </div>
-              <button 
+              <button
                 onClick={onCancel}
                 className="p-1 text-ink/50 hover:text-ink transition-colors rounded-md hover:bg-stone"
               >
                 <X className="w-4 h-4" />
               </button>
             </div>
-            
+
             <div className="p-6">
               <p className="text-ink/80 text-sm leading-relaxed">
                 {message}
               </p>
             </div>
-            
+
             <div className="flex items-center justify-end space-x-3 p-4 border-t border-ink/5 bg-stone/10">
               <button
                 onClick={onCancel}

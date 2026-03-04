@@ -8,8 +8,8 @@ import TaskInspectorModal from './TaskInspectorModal';
 const formatTime = (timestamp?: number) => {
   if (!timestamp) return '--/--/-- --:--:--';
   const d = new Date(timestamp);
-  return d.toLocaleDateString([], { month: '2-digit', day: '2-digit', year: '2-digit' }) + ' ' + 
-         d.toLocaleTimeString([], { hour12: false, hour: '2-digit', minute: '2-digit', second: '2-digit' });
+  return d.toLocaleDateString([], { month: '2-digit', day: '2-digit', year: '2-digit' }) + ' ' +
+    d.toLocaleTimeString([], { hour12: false, hour: '2-digit', minute: '2-digit', second: '2-digit' });
 };
 
 const formatDuration = (start?: number, end?: number) => {
@@ -41,27 +41,38 @@ const TaskItem = ({ task, isExpanded, onToggleExpand, onInspect }: { task: Bench
             {task.status === 'success' && <CheckCircle2 className="w-4 h-4 text-olive" />}
             {task.status === 'error' && <AlertCircle className="w-4 h-4 text-burgundy" />}
           </div>
-          
+
           <div>
             <div className="text-sm font-medium text-ink flex items-center space-x-2 flex-wrap gap-y-1">
               <span>{task.docTitle}</span>
               <span className="text-xs px-1.5 py-0.5 bg-stone rounded text-ink/70">{task.provider.name}</span>
-              <span className="text-xs px-1.5 py-0.5 bg-stone rounded text-ink/70">{task.mode}</span>
+              <span className="text-xs px-1.5 py-0.5 bg-stone rounded text-ink/70">{task.engine} / {task.mode}</span>
+              {task.engine === 'fast' && (
+                <span className="text-[10px] uppercase font-bold px-1.5 py-0.5 bg-emerald-100 text-emerald-800 rounded">FAST</span>
+              )}
+              {task.passes !== undefined && (
+                <span className={`text-[10px] uppercase font-bold px-1.5 py-0.5 rounded ${task.passes > 1 ? 'bg-amber-100 text-amber-800' : 'bg-stone/10 text-ink/60'}`} title={`Passes executed: ${task.passes}`}>
+                  P{task.passes}
+                </span>
+              )}
+              {task.passes !== undefined && task.passes > 1 && (
+                <span className="text-[10px] uppercase font-bold px-1.5 py-0.5 bg-rose-100 text-rose-800 rounded" title="OCR Fallback triggered">OCR</span>
+              )}
             </div>
-            
+
             <div className="text-[10px] text-ink/50 mt-1.5 flex items-center space-x-3 font-mono">
               {task.startTime && (
-                <span title="Start time">
-                  Start: {formatTime(task.startTime)}
+                <span title="Inicio">
+                  Inicio: {formatTime(task.startTime)}
                 </span>
               )}
               {lastUpdate && task.status !== 'pending' && (
-                <span title="Last update">
-                  Upd: {formatTime(lastUpdate)}
+                <span title="Última actualización">
+                  Act: {formatTime(lastUpdate)}
                 </span>
               )}
               {task.startTime && (
-                <span title="Duration" className={task.status === 'running' ? 'text-olive font-medium' : ''}>
+                <span title="Duración" className={task.status === 'running' ? 'text-olive font-medium' : ''}>
                   Dur: {formatDuration(task.startTime, task.endTime)}
                 </span>
               )}
@@ -78,16 +89,16 @@ const TaskItem = ({ task, isExpanded, onToggleExpand, onInspect }: { task: Bench
             )}
           </div>
         </div>
-        
+
         <div className="flex flex-col space-y-2 items-end ml-2">
-          <button 
+          <button
             onClick={onInspect}
             className="text-xs text-ink/50 hover:text-ink flex items-center space-x-1 bg-stone/50 px-2 py-1 rounded transition-colors"
           >
             <Eye className="w-3 h-3" />
-            <span>Inspect</span>
+            <span>Inspeccionar</span>
           </button>
-          <button 
+          <button
             onClick={onToggleExpand}
             className="text-xs text-ink/50 hover:text-ink flex items-center space-x-1"
           >
@@ -96,7 +107,7 @@ const TaskItem = ({ task, isExpanded, onToggleExpand, onInspect }: { task: Bench
           </button>
         </div>
       </div>
-      
+
       {isExpanded && (
         <div className="mt-3 p-3 bg-stone/20 rounded border border-ink/5 text-xs font-mono text-ink/80 whitespace-pre-wrap">
           {task.prompt.content}
@@ -121,17 +132,17 @@ export default function TaskDrawer() {
   const handleRetryFailed = () => {
     const savedKeys = localStorage.getItem('paleobench_api_keys');
     const apiKeys = savedKeys ? JSON.parse(savedKeys) : {};
-    
+
     failedTasks.forEach(task => {
       store.updateTask(task.id, { status: 'pending', error: undefined });
     });
-    
+
     runPrecomputeQueue(apiKeys);
   };
 
   const renderTask = (task: BenchmarkTask) => {
     return (
-      <TaskItem 
+      <TaskItem
         key={task.id}
         task={task}
         isExpanded={expandedTaskId === task.id}
@@ -145,11 +156,11 @@ export default function TaskDrawer() {
     <div className="fixed inset-y-0 right-0 w-96 bg-paper shadow-2xl border-l border-ink/10 flex flex-col z-50 transform transition-transform duration-300">
       <div className="h-14 border-b border-ink/10 flex items-center justify-between px-4 bg-white">
         <h2 className="font-medium text-ink flex items-center space-x-2">
-          <span>Benchmark Queue</span>
+          <span>Cola de benchmarks</span>
           {store.isRunning && (
             <span className="flex items-center space-x-1 text-xs bg-olive/10 text-olive px-2 py-0.5 rounded-full">
               <span className="w-1.5 h-1.5 bg-olive rounded-full animate-pulse" />
-              <span>Running</span>
+              <span>Ejecutando</span>
             </span>
           )}
         </h2>
@@ -157,36 +168,36 @@ export default function TaskDrawer() {
           <X className="w-5 h-5" />
         </button>
       </div>
-      
+
       <div className="flex-1 overflow-y-auto">
         {store.tasks.length === 0 ? (
           <div className="p-8 text-center text-ink/40 text-sm">
-            No tasks in queue.
+            No hay tareas en la cola.
           </div>
         ) : (
           <div className="divide-y divide-ink/5">
             {activeTasks.length > 0 && (
               <div className="bg-olive/5">
                 <div className="px-4 py-2 text-xs font-semibold text-olive uppercase tracking-wider border-b border-olive/10">
-                  Active ({activeTasks.length})
+                  Activas ({activeTasks.length})
                 </div>
                 {activeTasks.map(renderTask)}
               </div>
             )}
-            
+
             {pendingTasks.length > 0 && (
               <div>
                 <div className="px-4 py-2 text-xs font-semibold text-ink/50 uppercase tracking-wider border-b border-ink/5 bg-stone/10">
-                  Pending ({pendingTasks.length})
+                  Pendientes ({pendingTasks.length})
                 </div>
                 {pendingTasks.map(renderTask)}
               </div>
             )}
-            
+
             {completedTasks.length > 0 && (
               <div>
                 <div className="px-4 py-2 text-xs font-semibold text-ink/50 uppercase tracking-wider border-b border-ink/5 bg-stone/10">
-                  Completed ({completedTasks.length})
+                  Completadas ({completedTasks.length})
                 </div>
                 {completedTasks.map(renderTask)}
               </div>
@@ -194,33 +205,33 @@ export default function TaskDrawer() {
           </div>
         )}
       </div>
-      
+
       {store.tasks.length > 0 && !store.isRunning && (
         <div className="p-4 border-t border-ink/10 bg-stone/10 flex flex-col space-y-2">
           {failedTasks.length > 0 && (
-            <motion.button 
+            <motion.button
               whileHover={{ scale: 1.02 }}
               whileTap={{ scale: 0.98 }}
               onClick={handleRetryFailed}
               className="w-full py-2 flex items-center justify-center space-x-2 bg-burgundy text-white rounded-md text-sm font-medium hover:bg-burgundy/90 transition-all shadow-sm hover:shadow-md"
             >
               <RotateCcw className="w-4 h-4" />
-              <span>Retry {failedTasks.length} Failed Tasks</span>
+              <span>Reintentar {failedTasks.length} tareas fallidas</span>
             </motion.button>
           )}
-          <button 
+          <button
             onClick={() => store.clearTasks()}
             className="w-full py-2 text-sm font-medium text-ink/60 hover:text-ink transition-colors"
           >
-            Clear Queue
+            Borrar cola
           </button>
         </div>
       )}
-      
-      <TaskInspectorModal 
-        task={inspectedTask} 
-        isOpen={!!inspectedTask} 
-        onClose={() => setInspectedTask(null)} 
+
+      <TaskInspectorModal
+        task={inspectedTask}
+        isOpen={!!inspectedTask}
+        onClose={() => setInspectedTask(null)}
       />
     </div>
   );
