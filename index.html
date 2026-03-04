@@ -435,6 +435,21 @@
     <!-- 4. LIVE TIMELINE VIEW -->
     <section id="view-live-timeline"
         class="w-full h-full hidden flex-col relative bg-[#fcfbf8] absolute inset-0 z-[400]">
+
+        <!-- Fondo Opcional Carta -->
+        <div id="timeline-bg-letter-container" class="absolute inset-0 z-0 hidden pointer-events-none">
+            <!-- Capa de imagen -->
+            <div id="timeline-bg-letter-img"
+                class="absolute inset-x-8 bottom-24 top-24 bg-contain bg-center bg-no-repeat opacity-[0.08] transition-opacity duration-500 pointer-events-none origin-top mix-blend-multiply"
+                style="background-image: none;"></div>
+            <!-- Zona de hover para iluminar -->
+            <div id="timeline-bg-hover-zone"
+                class="absolute top-16 left-0 right-0 h-32 z-10 hover:cursor-zoom-in pointer-events-auto"
+                onmouseenter="document.getElementById('timeline-bg-letter-img').classList.replace('opacity-[0.08]', 'opacity-100');"
+                onmouseleave="document.getElementById('timeline-bg-letter-img').classList.replace('opacity-100', 'opacity-[0.08]');">
+            </div>
+        </div>
+
         <!-- Top controls & Title -->
         <div
             class="absolute top-0 left-0 right-0 h-16 bg-white/90 backdrop-blur border-b border-[#e7e1cf] flex items-center justify-between px-6 z-10 shadow-sm">
@@ -447,6 +462,12 @@
                         class="rounded border-[#e7e1cf] text-primary focus:ring-primary h-4 w-4"
                         onchange="if(window.liveTimelineObj) window.liveTimelineObj.toggleOnlyEvents(this.checked)">
                     Solo Acontecimientos
+                </label>
+                <label class="flex items-center gap-2 text-sm text-text-muted cursor-pointer ml-4">
+                    <input type="checkbox" id="live-bg-letter"
+                        class="rounded border-[#e7e1cf] text-primary focus:ring-primary h-4 w-4"
+                        onchange="if(window.liveTimelineObj) window.liveTimelineObj.toggleBgLetter(this.checked)">
+                    <span class="material-symbols-outlined text-[16px]">image</span> Ver carta de fondo
                 </label>
                 <select id="live-playback-speed"
                     class="ml-2 bg-[#f3f0e7] border border-[#e7e1cf] text-text-muted text-xs font-bold uppercase rounded px-2 py-1 outline-none cursor-pointer"

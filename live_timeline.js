@@ -17,12 +17,12 @@
         resumeState: null,
         pausedAt: null,
         isAudioMode: false,
-        pendingStepLive: false,
         initialized: false,
         lastHeroTime: 0, // Timestamp to track 12s cooldown
         muted: localStorage.getItem('epistolario_audio_muted') === 'true',
         syncMode: localStorage.getItem('epistolario_timeline_sync') !== 'false',
-        audioPlaying: false
+        audioPlaying: false,
+        showBgLetter: localStorage.getItem('epistolario_timeline_bg_letter') === 'true'
     };
 
     window.liveTimelineObj = {
@@ -43,6 +43,9 @@
             const hud = document.getElementById('live-progress-hud');
             if (hud) hud.classList.remove('opacity-0');
             this.updateAudioBtnUI();
+
+            const bgToggle = document.getElementById('live-bg-letter');
+            if (bgToggle) bgToggle.checked = STATE.showBgLetter;
         },
         toggleMute: function () {
             STATE.muted = !STATE.muted;
@@ -144,6 +147,89 @@
                 STATE.audioPlaying = true;
             }
             this.updateAudioBtnUI();
+        },
+        toggleBgLetter: function (bool) {
+            STATE.showBgLetter = bool;
+            localStorage.setItem('epistolario_timeline_bg_letter', bool);
+            this.updateBgLetter();
+        },
+        updateBgLetter: function () {
+            const bgImg = document.getElementById('timeline-bg-letter-img');
+            const bgContainer = document.getElementById('timeline-bg-letter-container');
+
+            if (!STATE.showBgLetter) {
+                if (bgContainer) bgContainer.classList.add('hidden');
+                if (bgImg) bgImg.style.backgroundImage = 'none';
+                return;
+            }
+
+            const currentItem = STATE.playlist[STATE.idx];
+            if (!currentItem) return;
+
+            // Resolve ID
+            let letterId = null;
+            if (currentItem.primary_letter_id) letterId = currentItem.primary_letter_id;
+            else if (currentItem.type === 'HERO_EVENT' && currentItem.letters_source && currentItem.letters_source.length > 0) letterId = currentItem.letters_source[0];
+            else if (currentItem.type === 'MICRO_LETTER' && (currentItem.id_carta || currentItem.id)) letterId = currentItem.id_carta || currentItem.id;
+
+            if (!letterId) {
+                if (bgContainer) bgContainer.classList.add('hidden');
+                if (bgImg) bgImg.style.backgroundImage = 'none';
+                return;
+            }
+
+            // Find letter data
+            let targetLetter = null;
+            if (window.APP_STATE && window.APP_STATE.derived && window.APP_STATE.derived.letters) {
+                targetLetter = window.APP_STATE.derived.letters.find(l => l.id === letterId || l.id_carta === letterId);
+            }
+            if (!targetLetter && window.letters) {
+                targetLetter = window.letters.find(l => l.id === letterId || l.id_carta === letterId);
+            }
+            if (!targetLetter && window.APP_STATE && window.APP_STATE.derived && window.APP_STATE.derived.edges) {
+                targetLetter = window.APP_STATE.derived.edges.find(l => l.id === letterId || l.id_carta === letterId);
+            }
+
+            if (!targetLetter || (!targetLetter.imagenes && !targetLetter.image_files)) {
+                if (bgContainer) bgContainer.classList.add('hidden');
+                if (bgImg) bgImg.style.backgroundImage = 'none';
+                return;
+            }
+
+            const imgs = targetLetter.imagenes || targetLetter.image_files || [];
+            if (imgs.length === 0) {
+                if (bgContainer) bgContainer.classList.add('hidden');
+                if (bgImg) bgImg.style.backgroundImage = 'none';
+                return;
+            }
+
+            const rawPath = imgs[0];
+            let imgSrc = null;
+
+            if (window.imageMap) {
+                if (window.imageMap[rawPath]) imgSrc = window.imageMap[rawPath];
+                else {
+                    const basename = rawPath.split('/').pop();
+                    const cleanPath = "images/" + basename;
+                    if (window.imageMap[basename]) imgSrc = window.imageMap[basename];
+                    else if (window.imageMap[cleanPath]) imgSrc = window.imageMap[cleanPath];
+                    else if (window.imageMap["images/" + basename]) imgSrc = window.imageMap["images/" + basename];
+                }
+            }
+            if (!imgSrc && window.getAssetUrl) {
+                const basename = rawPath.split('/').pop();
+                const cleanPath = "images/" + basename;
+                imgSrc = window.getAssetUrl(cleanPath);
+            }
+
+            if (!imgSrc) {
+                if (bgContainer) bgContainer.classList.add('hidden');
+                if (bgImg) bgImg.style.backgroundImage = 'none';
+                return;
+            }
+
+            if (bgContainer) bgContainer.classList.remove('hidden');
+            if (bgImg) bgImg.style.backgroundImage = `url('${imgSrc}')`;
         },
         togglePlay: function () {
             this.setPlay(!STATE.playing);
@@ -609,6 +695,9 @@
 
             // Sync visual cursor
             this.updateDensityCursor();
+
+            // Sync background image letter
+            this.updateBgLetter();
         },
         updateDensityStrip: function () {
             const strip = document.getElementById('live-density-strip');
