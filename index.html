@@ -170,6 +170,9 @@
                 class="nav-btn font-bold text-primary border-b-2 border-primary pb-1">Dashboard</button>
             <button onclick="switchView('timeline')" id="nav-timeline"
                 class="nav-btn text-text-muted hover:text-primary pb-1">Línea de Tiempo</button>
+            <button onclick="switchView('live-timeline')" id="nav-live-timeline"
+                class="nav-btn text-text-muted hover:text-primary pb-1 flex items-center gap-1"><span
+                    class="material-symbols-outlined text-[18px]">view_timeline</span> Timeline Viva</button>
             <button onclick="startTour()" id="nav-tour"
                 class="nav-btn text-text-muted hover:text-primary pb-1 flex items-center gap-1"><span
                     class="material-symbols-outlined text-[18px]">play_circle</span> Tour</button>
@@ -429,6 +432,217 @@
 
     </main>
 
+    <!-- 4. LIVE TIMELINE VIEW -->
+    <section id="view-live-timeline"
+        class="w-full h-full hidden flex-col relative bg-[#fcfbf8] absolute inset-0 z-[400]">
+        <!-- Top controls & Title -->
+        <div
+            class="absolute top-0 left-0 right-0 h-16 bg-white/90 backdrop-blur border-b border-[#e7e1cf] flex items-center justify-between px-6 z-10 shadow-sm">
+            <div class="flex items-center gap-3">
+                <span class="material-symbols-outlined text-primary text-2xl">view_timeline</span>
+                <h2 class="font-serif text-xl font-bold text-secondary">Timeline Viva</h2>
+                <div class="h-4 w-px bg-[#e7e1cf] mx-2"></div>
+                <label class="flex items-center gap-2 text-sm text-text-muted cursor-pointer">
+                    <input type="checkbox" id="live-only-events"
+                        class="rounded border-[#e7e1cf] text-primary focus:ring-primary h-4 w-4"
+                        onchange="if(window.liveTimelineObj) window.liveTimelineObj.toggleOnlyEvents(this.checked)">
+                    Solo Acontecimientos
+                </label>
+                <select id="live-playback-speed"
+                    class="ml-2 bg-[#f3f0e7] border border-[#e7e1cf] text-text-muted text-xs font-bold uppercase rounded px-2 py-1 outline-none cursor-pointer"
+                    onchange="if(window.liveTimelineObj) window.liveTimelineObj.setSpeed(parseFloat(this.value))">
+                    <option value="1">Velocidad x1</option>
+                    <option value="1.5">Velocidad x1.5</option>
+                </select>
+                <!-- Debug mode trigger hidden -->
+                <button id="live-debug-toggle" class="hidden text-xs text-text-muted bg-gray-200 px-2 py-1 rounded"
+                    onclick="document.getElementById('live-debug-panel').classList.toggle('hidden')">Debug</button>
+            </div>
+            <div class="flex items-center gap-4">
+                <div class="flex items-center gap-2">
+                    <button id="live-audio-btn" onclick="if(window.liveTimelineObj) window.liveTimelineObj.toggleMute()"
+                        class="flex items-center gap-1 bg-[#f3f0e7] border border-[#e7e1cf] text-text-muted hover:text-primary px-3 py-1.5 rounded-lg transition-colors"
+                        title="Activar/Desactivar Audio">
+                        <span class="material-symbols-outlined text-[18px]" id="live-audio-icon">volume_up</span>
+                        <span class="text-xs font-bold uppercase tracking-widest" id="live-audio-text">Audio: ON</span>
+                    </button>
+                    <div class="w-px h-6 bg-[#e7e1cf] mx-1"></div>
+                    <button id="live-prev-btn" onclick="if(window.liveTimelineObj) window.liveTimelineObj.jump(-1)"
+                        class="flex items-center justify-center size-8 rounded-full bg-[#f3f0e7] text-text-muted hover:bg-[#e7e1cf] hover:text-primary transition-all"
+                        title="Anterior">
+                        <span class="material-symbols-outlined text-[20px]">skip_previous</span>
+                    </button>
+                    <button id="live-play-btn" onclick="if(window.liveTimelineObj) window.liveTimelineObj.togglePlay()"
+                        class="flex items-center justify-center size-10 rounded-full bg-primary text-white hover:bg-[#a38420]
+                shadow-md transition-all">
+                        <span class="material-symbols-outlined text-[24px] ml-0.5">play_arrow</span>
+                    </button>
+                    <button id="live-next-btn" onclick="if(window.liveTimelineObj) window.liveTimelineObj.jump(1)"
+                        class="flex items-center justify-center size-8 rounded-full bg-[#f3f0e7] text-text-muted hover:bg-[#e7e1cf] hover:text-primary transition-all"
+                        title="Siguiente">
+                        <span class="material-symbols-outlined text-[20px]">skip_next</span>
+                    </button>
+                </div>
+                <div class="w-px h-6 bg-[#e7e1cf]"></div>
+                <button onclick="switchView('dashboard')"
+                    class="text-xs font-bold uppercase tracking-widest text-text-muted hover:text-primary transition-colors flex items-center gap-1">
+                    <span class="material-symbols-outlined text-[16px]">close</span> Salir
+                </button>
+            </div>
+        </div>
+
+        <!-- Scrubber Tooltip -->
+        <div id="live-scrubber-tooltip"
+            class="absolute bottom-12 bg-white/95 backdrop-blur text-xs px-3 py-2 rounded-lg shadow-xl border border-[#e7e1cf] pointer-events-none hidden whitespace-nowrap z-[450] transform -translate-x-1/2">
+            <div id="live-scrubber-date" class="font-bold text-primary mb-0.5 tracking-wider uppercase text-[10px]">
+            </div>
+            <div id="live-scrubber-title" class="text-secondary max-w-xs truncate font-medium"></div>
+        </div>
+
+        <!-- Density Strip -->
+        <div class="absolute bottom-6 left-12 right-12 h-8 flex items-center z-10 group">
+            <div id="live-density-strip"
+                class="w-full h-2 group-hover:h-3 transition-all bg-[#eaddcf] rounded-full overflow-hidden flex relative cursor-pointer"
+                onclick="if(window.liveTimelineObj) window.liveTimelineObj.handleScrubberClick(event)"
+                onmousemove="if(window.liveTimelineObj) window.liveTimelineObj.handleScrubberHover(event)"
+                onmouseleave="if(window.liveTimelineObj) window.liveTimelineObj.handleScrubberLeave()">
+            </div>
+            <div id="live-density-cursor"
+                class="absolute h-4 group-hover:h-5 w-1.5 bg-primary rounded-full transition-all duration-300 pointer-events-none"
+                style="left: 0%;"></div>
+        </div>
+
+        <!-- Temporal Header -->
+        <div
+            class="absolute top-[20%] left-1/2 -translate-x-1/2 z-0 opacity-10 pointer-events-none text-center select-none w-full overflow-hidden">
+            <h1 id="live-temporal-header"
+                class="font-serif text-[10rem] md:text-[14rem] font-bold text-[#c5a028] leading-none whitespace-nowrap tracking-tighter">
+            </h1>
+        </div>
+
+        <!-- The Track -->
+        <div class="flex-1 w-full h-full relative overflow-hidden flex items-center justify-center pt-8">
+            <div
+                class="absolute left-1/2 top-24 -translate-x-1/2 flex flex-col items-center opacity-50 z-0 select-none">
+                <span class="text-[10px] font-bold uppercase tracking-widest text-[#a38420] mb-1">Punto
+                    Actual</span>
+                <div class="w-px h-[50vh] bg-gradient-to-b from-[#c5a028]/50 via-[#c5a028]/10 to-transparent"></div>
+            </div>
+
+            <div id="live-track" class="w-full h-full relative flex items-center justify-center perspective-[1000px]">
+                <!-- Items are injected here -->
+            </div>
+        </div>
+
+        <!-- Progress HUD -->
+        <div class="absolute bottom-20 left-1/2 -translate-x-1/2 z-20 flex flex-col items-center gap-2 pointer-events-none transition-opacity duration-300"
+            id="live-progress-hud">
+            <div class="text-[10px] font-bold uppercase tracking-widest text-text-muted bg-white/80 backdrop-blur px-3 py-1 rounded-full border border-[#e7e1cf] shadow-sm"
+                id="live-progress-text">
+                Pausado
+            </div>
+            <div class="w-48 h-1 bg-[#e7e1cf] rounded-full overflow-hidden shadow-inner">
+                <div id="live-progress-bar" class="h-full bg-primary w-0"></div>
+            </div>
+        </div>
+
+        <!-- Debug Panel -->
+        <div id="live-debug-panel"
+            class="absolute bottom-16 right-4 bg-black/80 text-green-400 font-mono text-xs p-4 rounded-lg z-50 hidden max-w-sm pointer-events-none">
+            <div id="live-debug-content"></div>
+        </div>
+
+        <style>
+            .live-item {
+                position: absolute;
+                top: 50%;
+                left: 50%;
+                /* We reduced visual teleportation by smoothing transform over 0.5s instead of 0.8s, and giving scale an ease-out */
+                transition: transform 0.5s cubic-bezier(0.25, 1, 0.5, 1), opacity 0.5s ease-out;
+                will-change: transform, opacity;
+            }
+
+            /* Extended past/future to keep elements rendered but hidden instead of teleporting them in from scale(0) too late */
+            .live-future-5 {
+                transform: translate(380%, -50%) scale(0.6);
+                opacity: 0;
+                z-index: 5;
+                pointer-events: none;
+            }
+
+            .live-future-4 {
+                transform: translate(300%, -50%) scale(0.65);
+                opacity: 0;
+                z-index: 10;
+                pointer-events: none;
+            }
+
+            .live-future-3 {
+                transform: translate(220%, -50%) scale(0.7);
+                opacity: 0.3;
+                z-index: 20;
+                pointer-events: none;
+            }
+
+            .live-future-2 {
+                transform: translate(140%, -50%) scale(0.8);
+                opacity: 0.5;
+                z-index: 30;
+                pointer-events: none;
+            }
+
+            .live-future-1 {
+                transform: translate(75%, -50%) scale(0.9);
+                opacity: 0.8;
+                z-index: 40;
+                cursor: pointer;
+            }
+
+            .live-center {
+                transform: translate(-50%, -50%) scale(1.05);
+                opacity: 1;
+                z-index: 100;
+                box-shadow: 0 25px 50px -12px rgba(0, 0, 0, 0.25);
+                cursor: pointer;
+            }
+
+            .live-past-1 {
+                transform: translate(-175%, -50%) scale(0.9);
+                opacity: 0.8;
+                z-index: 40;
+                cursor: pointer;
+            }
+
+            .live-past-2 {
+                transform: translate(-240%, -50%) scale(0.8);
+                opacity: 0.5;
+                z-index: 30;
+                pointer-events: none;
+            }
+
+            .live-past-3 {
+                transform: translate(-320%, -50%) scale(0.7);
+                opacity: 0.3;
+                z-index: 20;
+                pointer-events: none;
+            }
+
+            .live-past-4 {
+                transform: translate(-400%, -50%) scale(0.65);
+                opacity: 0;
+                z-index: 10;
+                pointer-events: none;
+            }
+
+            .live-past-5 {
+                transform: translate(-480%, -50%) scale(0.6);
+                opacity: 0;
+                z-index: 5;
+                pointer-events: none;
+            }
+        </style>
+    </section>
+
     <!-- SIDEBAR (Ficha de carta) -->
     <aside id="letter-sidebar"
         class="fixed top-0 right-0 w-full md:w-[450px] h-full bg-[#fcfbf8] shadow-2xl border-l border-[#e7e1cf] transform translate-x-full transition-transform duration-300 z-[1000] flex flex-col">
@@ -450,9 +664,16 @@
             id="event-modal-content">
             <div class="p-6 border-b border-[#e7e1cf] bg-white flex justify-between items-start">
                 <div>
-                    <div class="flex items-center gap-2 text-primary font-bold text-xs uppercase tracking-widest mb-2">
-                        <span class="material-symbols-outlined text-[16px]">newspaper</span>
-                        Periódico del XVII
+                    <div
+                        class="flex items-center gap-2 text-primary font-bold text-xs uppercase tracking-widest mb-2 flex-wrap">
+                        <span class="flex items-center gap-1"><span
+                                class="material-symbols-outlined text-[16px]">newspaper</span> Periódico del XVII</span>
+                        <button id="event-audio-toggle" onclick="toggleEventAudio()"
+                            class="hidden ml-2 items-center gap-1 bg-[#f3f0e7] hover:bg-[#e7e1cf] text-primary px-2 py-0.5 rounded transition-colors"
+                            title="Activar/Desactivar Narración">
+                            <span class="material-symbols-outlined text-[14px]">volume_up</span>
+                            <span class="normal-case tracking-normal">Audio</span>
+                        </button>
                     </div>
                     <h2 id="event-title" class="font-serif text-2xl font-bold text-secondary leading-tight">Título del
                         Evento</h2>
@@ -582,6 +803,166 @@
         let derivedData = { edges: [], events: [], tour: null, coords: {} };
         let timelineMonthKeys = [];
         let currentLens = 'none';
+
+        function getAssetUrl(relPath) {
+            const basePath = window.location.pathname.endsWith('/') ? window.location.pathname : window.location.pathname.substring(0, window.location.pathname.lastIndexOf('/') + 1);
+            return `${basePath}dataset_demo/${relPath}`.replace(/\/\//g, '/');
+        }
+
+        function sanitizeAudioPath(p) {
+            if (!p) return p;
+            while (p.endsWith('.mp3.mp3')) {
+                p = p.replace(/\.mp3\.mp3$/, '.mp3');
+                console.warn('[AudioManager] Doble .mp3 corregido en runtime:', p);
+            }
+            return p;
+        }
+
+        function isValidLatLng(lat, lng) {
+            return typeof lat === 'number' && typeof lng === 'number' && isFinite(lat) && isFinite(lng);
+        }
+
+        window.AudioManager = {
+            current: null,
+            currentEventId: null,
+            isEnabled: true,
+            unlocked: false,
+            _debounceTimer: null,
+            _currentPlayPromiseResolve: null,
+            unlock() {
+                if (this.unlocked) return Promise.resolve();
+                const a = new Audio();
+                a.src = 'data:audio/wav;base64,UklGRiQAAABXQVZFZm10IBAAAAABAAEAQB8AAIA+AAACABAAZGF0YQAAAAA=';
+                a.muted = true;
+                return a.play().then(() => {
+                    a.pause();
+                    a.currentTime = 0;
+                    a.muted = false;
+                    this.unlocked = true;
+                    console.info('[AudioManager] Audio desbloqueado.');
+                }).catch(() => {
+                    console.warn('[AudioManager] unlock() fallo, necesita interaccion del usuario.');
+                });
+            },
+            playEvent(eventObj) {
+                if (!this.isEnabled) return;
+                if (!eventObj || !eventObj.audio_path) {
+                    this.stop();
+                    return;
+                }
+                if (this.currentEventId === eventObj.event_id && this.current && !this.current.paused) return;
+
+                // Debounce anti-rafaga: cancelar si llega otro play en < 300ms
+                clearTimeout(this._debounceTimer);
+                this._debounceTimer = setTimeout(() => {
+                    this._doPlay(eventObj);
+                }, 150);
+            },
+            playAndWait(eventObj) {
+                this.stop();
+
+                if (!this.isEnabled || !eventObj || !eventObj.audio_path) {
+                    return Promise.resolve(false);
+                }
+
+                this.currentEventId = eventObj.event_id;
+                const url = getAssetUrl(sanitizeAudioPath(eventObj.audio_path));
+
+                if (window.DEBUG_TIMELINE_AUDIO) {
+                    console.info('[AudioManager] playAndWait started:', eventObj.event_id, url);
+                }
+
+                this.current = new Audio(url);
+
+                return new Promise((resolve) => {
+                    this._currentPlayPromiseResolve = resolve;
+
+                    const finish = (success = true) => {
+                        if (this._currentPlayPromiseResolve === resolve) {
+                            this._currentPlayPromiseResolve = null;
+                            if (window.DEBUG_TIMELINE_AUDIO) console.info('[AudioManager] playAndWait ended:', eventObj.event_id, success);
+                            resolve(success);
+                        }
+                    };
+
+                    this.current.addEventListener('ended', () => finish(true), { once: true });
+                    this.current.addEventListener('error', (e) => {
+                        console.warn('[AudioManager] Error playing audio:', url, e);
+                        finish(false);
+                    }, { once: true });
+
+                    this.current.play().then(() => {
+                        this.unlocked = true;
+                        if (window.DEBUG_TIMELINE_AUDIO) console.info('[AudioManager] audio play started successfully');
+                    }).catch(e => {
+                        console.warn('[AudioManager] Autoplay bloqueado / Fallo play:', e.name);
+                        this._showUnlockHint();
+                        // Resolvemos con false inmediatamente
+                        finish(false);
+                    });
+                });
+            },
+            _doPlay(eventObj) {
+                this.stop();
+                this.currentEventId = eventObj.event_id;
+                const url = getAssetUrl(sanitizeAudioPath(eventObj.audio_path));
+                console.info('[AudioManager] Play:', eventObj.event_id, '->', url);
+                this.current = new Audio(url);
+                this.current.play().then(() => {
+                    this.unlocked = true;
+                }).catch(e => {
+                    console.warn('[AudioManager] Autoplay bloqueado:', e.name);
+                    this._showUnlockHint();
+                });
+            },
+            stop() {
+                clearTimeout(this._debounceTimer);
+                if (this.current) {
+                    this.current.pause();
+                    this.current.currentTime = 0;
+                }
+                if (this._currentPlayPromiseResolve) {
+                    this._currentPlayPromiseResolve(false);
+                    this._currentPlayPromiseResolve = null;
+                }
+                this.current = null;
+                this.currentEventId = null;
+            },
+            pause() {
+                clearTimeout(this._debounceTimer);
+                if (this.current) {
+                    this.current.pause();
+                }
+            },
+            resume() {
+                if (this.current && this.isEnabled) {
+                    this.current.play().catch(e => console.warn('[AudioManager] Resume bloqueado:', e.name));
+                }
+            },
+            toggleEnabled(bool) {
+                this.isEnabled = bool !== undefined ? bool : !this.isEnabled;
+                if (!this.isEnabled) {
+                    this.stop();
+                }
+            },
+            _showUnlockHint() {
+                let hint = document.getElementById('audio-unlock-hint');
+                if (!hint) {
+                    hint = document.createElement('div');
+                    hint.id = 'audio-unlock-hint';
+                    hint.className = 'fixed bottom-20 left-1/2 -translate-x-1/2 bg-[#2d2a26] text-white px-4 py-2 rounded-full shadow-lg z-[9999] text-sm flex items-center gap-2 cursor-pointer transition-opacity';
+                    hint.innerHTML = '<span class="material-symbols-outlined text-[16px]">volume_up</span> Pulsa para activar audio';
+                    hint.addEventListener('click', () => {
+                        this.unlock().then(() => {
+                            hint.style.opacity = '0';
+                            setTimeout(() => hint.remove(), 300);
+                        });
+                    });
+                    document.body.appendChild(hint);
+                    setTimeout(() => { if (hint.parentNode) { hint.style.opacity = '0'; setTimeout(() => hint.remove(), 300); } }, 6000);
+                }
+            }
+        };
 
         function normalizeLetter(data) {
             const locationCoords = {
@@ -1028,6 +1409,11 @@
             document.getElementById('view-dashboard').classList.remove('flex');
             document.getElementById('view-timeline').classList.add('hidden');
             document.getElementById('view-timeline').classList.remove('flex');
+            const liveView = document.getElementById('view-live-timeline');
+            if (liveView) {
+                liveView.classList.add('hidden');
+                liveView.classList.remove('flex');
+            }
 
             const target = document.getElementById(`view-${view}`);
             target.classList.remove('hidden');
@@ -1493,7 +1879,7 @@
             // Group by route
             const routes = {};
             data.forEach((letter) => {
-                if (!letter.origen || !letter.destino || letter.origen.lat == null || letter.destino.lat == null) return;
+                if (!letter.origen || !letter.destino || !isValidLatLng(letter.origen.lat, letter.origen.lng) || !isValidLatLng(letter.destino.lat, letter.destino.lng)) return;
                 const routeKey = `${letter.origen.nombre}|${letter.destino.nombre}`;
                 if (!routes[routeKey]) {
                     routes[routeKey] = {
@@ -1895,7 +2281,7 @@
                             coords = [ev.lat, ev.lng];
                         }
 
-                        if (coords && coords[0] !== undefined && coords[1] !== undefined) {
+                        if (coords && isValidLatLng(coords[0], coords[1])) {
                             const icon = L.divIcon({
                                 className: 'event-marker',
                                 html: `<div class="bg-[#2d2a26] text-[#fcfbf8] rounded-full p-1.5 shadow-lg border-2 border-[#c5a028] flex items-center justify-center hover:scale-110 transition-transform cursor-pointer">
@@ -2089,7 +2475,7 @@
         }
 
         function animateLetter(letter, mapInstance, concurrentCount = 1) {
-            if (!letter.origen || !letter.destino || letter.origen.lat == null || letter.destino.lat == null) return;
+            if (!letter.origen || !letter.destino || !isValidLatLng(letter.origen.lat, letter.origen.lng) || !isValidLatLng(letter.destino.lat, letter.destino.lng)) return;
             const p1 = [letter.origen.lat, letter.origen.lng];
             const p2 = [letter.destino.lat, letter.destino.lng];
             const curvePoints = getCurvePoints(p1, p2);
@@ -2222,7 +2608,7 @@
 
         function drawTimelineArcs(mapInstance, data, arcArray, isFaded) {
             data.forEach(letter => {
-                if (!letter.origen || !letter.destino || letter.origen.lat == null || letter.destino.lat == null) return;
+                if (!letter.origen || !letter.destino || !isValidLatLng(letter.origen.lat, letter.origen.lng) || !isValidLatLng(letter.destino.lat, letter.destino.lng)) return;
                 const p1 = [letter.origen.lat, letter.origen.lng];
                 const p2 = [letter.destino.lat, letter.destino.lng];
                 const curvePoints = getCurvePoints(p1, p2);
@@ -2255,6 +2641,7 @@
         let lastMonthIndex = -1;
 
         function openReader(letter) {
+            if (window.AudioManager) window.AudioManager.pause();
             currentLetter = letter;
             const reader = document.getElementById('view-reader');
             reader.classList.remove('hidden');
@@ -2289,6 +2676,7 @@
             reader.classList.add('hidden');
             reader.classList.remove('flex');
             currentLetter = null;
+            if (window.resumeLiveIfNeeded) window.resumeLiveIfNeeded();
         }
 
         const formatText = (text, isModern, highlightQuote = null) => {
@@ -2396,6 +2784,7 @@
 
         // --- SIDEBAR (Ficha de Carta) ---
         function openLetterSidebar(letterId, highlightEvidence = false) {
+            if (window.AudioManager) window.AudioManager.pause();
             let originalLetter = window.letterIndex[letterId];
             let edgeData = derivedData.edges.find(e => e.id_carta == letterId || e.letter_id == letterId);
 
@@ -2520,6 +2909,7 @@
 
         function closeLetterSidebar() {
             document.getElementById('letter-sidebar').classList.add('translate-x-full');
+            if (window.resumeLiveIfNeeded) window.resumeLiveIfNeeded();
         }
 
         function switchSidebarTab(tab) {
@@ -2591,22 +2981,71 @@
             void modal.offsetWidth;
             modal.classList.remove('opacity-0');
             content.classList.remove('scale-95');
+
+            if (window.AudioManager) {
+                window.AudioManager.playEvent(ev);
+                if (window.updateEventAudioBtn) window.updateEventAudioBtn(ev);
+            }
+        }
+
+        function toggleEventAudio() {
+            if (!window.AudioManager) return;
+            window.AudioManager.toggleEnabled();
+            if (window.AudioManager.isEnabled && window.currentEventObj) {
+                window.AudioManager.playEvent(window.currentEventObj);
+            }
+            if (window.updateEventAudioBtn) window.updateEventAudioBtn();
+        }
+
+        function updateEventAudioBtn(ev) {
+            if (ev) window.currentEventObj = ev;
+            const btn = document.getElementById('event-audio-toggle');
+            if (!btn || !window.AudioManager) return;
+
+            if (window.currentEventObj && window.currentEventObj.audio_path) {
+                btn.classList.remove('hidden');
+                btn.classList.add('inline-flex');
+                if (window.AudioManager.isEnabled) {
+                    btn.innerHTML = '<span class="material-symbols-outlined text-[14px]">volume_up</span> <span class="normal-case tracking-normal">Reproduciendo</span>';
+                    btn.classList.add('bg-primary', 'text-white');
+                    btn.classList.remove('bg-[#f3f0e7]', 'text-primary');
+                } else {
+                    btn.innerHTML = '<span class="material-symbols-outlined text-[14px]">volume_off</span> <span class="normal-case tracking-normal">Pausado</span>';
+                    btn.classList.remove('bg-primary', 'text-white');
+                    btn.classList.add('bg-[#f3f0e7]', 'text-primary');
+                }
+            } else {
+                btn.classList.add('hidden');
+                btn.classList.remove('inline-flex');
+            }
         }
 
         function closeEventCard() {
+            if (window.AudioManager) window.AudioManager.pause();
             const modal = document.getElementById('event-modal');
             const content = document.getElementById('event-modal-content');
             modal.classList.add('opacity-0');
             content.classList.add('scale-95');
             setTimeout(() => {
                 modal.classList.add('hidden');
+                if (window.resumeLiveIfNeeded) window.resumeLiveIfNeeded();
             }, 300);
         }
 
         // --- TOUR (Modo Exposición) ---
         let currentTourStep = 0;
         let tourActive = false;
-        let tourAudio = null;
+
+        function playTourAudio() {
+            if (!window.AudioManager) return;
+            window.AudioManager.toggleEnabled();
+
+            const step = derivedData.tour.steps[currentTourStep];
+            if (window.AudioManager.isEnabled && step && step.primary_event_id && derivedData.events) {
+                const evToPlay = derivedData.events.find(e => e.id === step.primary_event_id || e.event_id === step.primary_event_id);
+                if (evToPlay) window.AudioManager.playEvent(evToPlay);
+            }
+        }
 
         function startTour() {
             if (!derivedData.tour || !derivedData.tour.steps || derivedData.tour.steps.length === 0) {
@@ -2629,10 +3068,8 @@
 
         function exitTour() {
             tourActive = false;
-            if (tourAudio) {
-                tourAudio.pause();
-                tourAudio = null;
-            }
+            if (window.AudioManager) window.AudioManager.pause();
+
             const tourBar = document.getElementById('tour-bar');
             tourBar.classList.add('translate-y-full');
             setTimeout(() => {
@@ -2702,15 +3139,21 @@
 
             document.getElementById('tour-subtitle').innerText = step.audio_script || step.text || "";
 
-            if (tourAudio) {
-                tourAudio.pause();
-                tourAudio = null;
-            }
+            if (window.AudioManager) {
+                let evToPlay = null;
+                if (step.primary_event_id && derivedData.events) {
+                    evToPlay = derivedData.events.find(e => e.id === step.primary_event_id || e.event_id === step.primary_event_id);
+                }
 
-            if (step.audio_url) {
-                document.getElementById('tour-audio-btn').classList.remove('opacity-50');
-            } else {
-                document.getElementById('tour-audio-btn').classList.add('opacity-50');
+                if (evToPlay && evToPlay.audio_path) {
+                    window.AudioManager.playEvent(evToPlay);
+                    document.getElementById('tour-audio-btn').classList.remove('opacity-50');
+                    document.getElementById('tour-audio-btn').classList.add('text-primary');
+                } else {
+                    window.AudioManager.pause();
+                    document.getElementById('tour-audio-btn').classList.add('opacity-50');
+                    document.getElementById('tour-audio-btn').classList.remove('text-primary');
+                }
             }
 
             if (step.lat && step.lng) {
@@ -2758,7 +3201,7 @@
                         lat = derivedData.coords[action.place_key].lat;
                         lng = derivedData.coords[action.place_key].lng;
                     }
-                    if (lat != null && lng != null) {
+                    if (isValidLatLng(lat, lng)) {
                         const pulseIcon = L.divIcon({
                             className: 'pulse-marker-tour',
                             html: `<div class="w-8 h-8 bg-primary/50 rounded-full animate-ping"></div><div class="w-4 h-4 bg-primary rounded-full absolute top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2"></div>`,
@@ -2802,7 +3245,7 @@
                     if (action.from_place_key && action.to_place_key && derivedData.coords) {
                         const from = derivedData.coords[action.from_place_key];
                         const to = derivedData.coords[action.to_place_key];
-                        if (from && to) {
+                        if (from && to && isValidLatLng(from.lat, from.lng) && isValidLatLng(to.lat, to.lng)) {
                             const p1 = [from.lat, from.lng];
                             const p2 = [to.lat, to.lng];
                             const curvePoints = getCurvePoints(p1, p2, 1);
@@ -2826,17 +3269,9 @@
             }
         }
 
-        function playTourAudio() {
-            if (tourAudio) {
-                if (tourAudio.paused) tourAudio.play();
-                else tourAudio.pause();
-            } else {
-                const btn = document.getElementById('tour-audio-btn');
-                btn.classList.add('animate-pulse');
-                setTimeout(() => btn.classList.remove('animate-pulse'), 2000);
-            }
-        }
+        // playTourAudio ya esta definido arriba con AudioManager
     </script>
+    <script src="live_timeline.js"></script>
 </body>
 
 </html>
