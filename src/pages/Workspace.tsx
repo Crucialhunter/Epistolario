@@ -62,74 +62,34 @@ export default function Workspace() {
 
   const template = promptTemplates?.find(t => t.id === runResult?.promptTemplateId);
 
-  // Review query
-  const review = useLiveQuery(
-    () => db.reviews.where('[docId+modelId+mode]').equals([docId || '', selectedModelId, mode]).first(),
-    [docId, selectedModelId, mode]
-  );
-
-  // Review counts for current model
-  const reviewCounts = useLiveQuery(
-    () => db.reviews.where('modelId').equals(selectedModelId).toArray(),
-    [selectedModelId]
-  );
+  // Removed review and reviewCounts queries
   const totalDocs = useLiveQuery(() => db.documents.count(), []);
 
   const reviewStatusConfig: Record<ReviewStatus, { label: string; icon: typeof CheckCircle2; color: string; bg: string }> = {
-    pending: { label: 'Pendiente', icon: Clock, color: 'text-ink/50', bg: 'bg-stone' },
-    approved: { label: 'Aprobado', icon: CheckCircle2, color: 'text-emerald-700', bg: 'bg-emerald-50' },
-    needs_edit: { label: 'Requiere edición', icon: AlertTriangle, color: 'text-amber-700', bg: 'bg-amber-50' },
-    rejected: { label: 'Rechazado', icon: XCircle, color: 'text-red-700', bg: 'bg-red-50' }
+    pendiente: { label: 'Pendiente', icon: Clock, color: 'text-ink/50', bg: 'bg-stone' },
+    aprobado: { label: 'Aprobado', icon: CheckCircle2, color: 'text-emerald-700', bg: 'bg-emerald-50' },
+    requiere_edicion: { label: 'Requiere edición', icon: AlertTriangle, color: 'text-amber-700', bg: 'bg-amber-50' },
+    rechazado: { label: 'Rechazado', icon: XCircle, color: 'text-red-700', bg: 'bg-red-50' }
   };
 
-  const currentStatus: ReviewStatus = (review?.status as ReviewStatus) || 'pending';
+  const currentStatus: ReviewStatus = runResult?.reviewStatus || 'pendiente';
   const StatusIcon = reviewStatusConfig[currentStatus].icon;
-  const reviewedCount = reviewCounts?.filter(r => r.status !== 'pending').length || 0;
 
   const handleReviewChange = async (newStatus: ReviewStatus) => {
-    if (!docId) return;
-    const existing = await db.reviews.where('[docId+modelId+mode]').equals([docId, selectedModelId, mode]).first();
-    if (existing) {
-      await db.reviews.update(existing.id, { status: newStatus, updatedAt: Date.now() });
-    } else {
-      await db.reviews.add({
-        id: crypto.randomUUID(),
-        docId,
-        modelId: selectedModelId,
-        mode,
-        variantIdsString: stableStringify(selectedVariantIds),
-        status: newStatus,
-        comment: '',
-        updatedAt: Date.now()
-      });
-    }
+    if (!runResult) return;
+    await db.runResults.update(runResult.id, { reviewStatus: newStatus, reviewedAt: Date.now() });
   };
 
   const handleSaveComment = async () => {
-    if (!docId) return;
-    const existing = await db.reviews.where('[docId+modelId+mode]').equals([docId, selectedModelId, mode]).first();
-    if (existing) {
-      await db.reviews.update(existing.id, { comment: reviewComment, updatedAt: Date.now() });
-    } else {
-      await db.reviews.add({
-        id: crypto.randomUUID(),
-        docId,
-        modelId: selectedModelId,
-        mode,
-        variantIdsString: stableStringify(selectedVariantIds),
-        status: 'pending',
-        comment: reviewComment,
-        updatedAt: Date.now()
-      });
-    }
+    if (!runResult) return;
+    await db.runResults.update(runResult.id, { reviewNote: reviewComment, reviewedAt: Date.now() });
     setShowCommentInput(false);
   };
 
   useEffect(() => {
-    if (review?.comment) setReviewComment(review.comment);
+    if (runResult?.reviewNote) setReviewComment(runResult.reviewNote);
     else setReviewComment('');
-  }, [review?.comment]);
-
+  }, [runResult?.reviewNote]);
   const toggleMetadata = (open: boolean) => {
     setMetadataOpen(open);
     localStorage.setItem('ui.metadataPanelCollapsed', open ? 'true' : 'false');
@@ -452,12 +412,9 @@ export default function Workspace() {
               onClick={() => setShowCommentInput(!showCommentInput)}
               className="text-[10px] text-ink/50 hover:text-ink underline"
             >
-              {review?.comment ? 'Editar nota' : 'Añadir nota'}
+              {runResult?.reviewNote ? 'Editar nota' : 'Añadir nota'}
             </button>
           </div>
-          <span className="text-[10px] text-ink/40 font-mono">
-            Revisadas: {reviewedCount} / {totalDocs || 0}
-          </span>
         </div>
         {showCommentInput && (
           <div className="border-b border-ink/10 px-4 py-2 bg-amber-50/50 flex items-center gap-2">

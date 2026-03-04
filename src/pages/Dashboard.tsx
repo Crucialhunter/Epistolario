@@ -3,12 +3,21 @@ import { useLiveQuery } from 'dexie-react-hooks';
 import { db } from '../db/db';
 import { Link, useNavigate } from 'react-router';
 import { motion } from 'motion/react';
-import { FileText, Plus, Trash2, Play, Loader2, Archive, ArchiveRestore } from 'lucide-react';
+import { FileText, Plus, Trash2, Play, Loader2, Archive, ArchiveRestore, Clock, CheckCircle2, AlertTriangle, XCircle, Search, Filter } from 'lucide-react';
 import DocumentModal from '../components/DocumentModal';
 import RunBenchmarkModal from '../components/RunBenchmarkModal';
 import ConfirmModal from '../components/ConfirmModal';
 import { useBenchmarkStore } from '../store/benchmarkStore';
 import { providers } from '../services/providers';
+import { useMemo } from 'react';
+import type { ReviewStatus, RunResult } from '../types';
+
+const reviewStatusConfig: Record<ReviewStatus, { label: string; icon: any; color: string; bg: string; priority: number }> = {
+  aprobado: { label: 'Aprobado', icon: CheckCircle2, color: 'text-emerald-700', bg: 'bg-emerald-50', priority: 1 },
+  requiere_edicion: { label: 'Requiere ed.', icon: AlertTriangle, color: 'text-amber-700', bg: 'bg-amber-50', priority: 2 },
+  pendiente: { label: 'Pendiente', icon: Clock, color: 'text-ink/50', bg: 'bg-stone', priority: 3 },
+  rechazado: { label: 'Rechazado', icon: XCircle, color: 'text-red-700', bg: 'bg-red-50', priority: 4 }
+};
 
 export default function Dashboard() {
   const documents = useLiveQuery(() => db.documents.toArray());
@@ -23,12 +32,99 @@ export default function Dashboard() {
   const [docToDelete, setDocToDelete] = useState<any>(null);
   const [bulkDeleteConfirm, setBulkDeleteConfirm] = useState(false);
 
-  const sortedDocuments = documents?.sort((a, b) => {
-    if (a.archived === b.archived) {
+  const [sortBy, setSortBy] = useState<'editorial' | 'cer_asc' | 'date_desc' | 'no_runs' | 'name_asc'>('editorial');
+  const [filterStates, setFilterStates] = useState<Set<ReviewStatus>>(new Set(['aprobado', 'requiere_edicion', 'pendiente', 'rechazado']));
+  const [filterConAprobado, setFilterConAprobado] = useState(false);
+  const [filterSinEjecuciones, setFilterSinEjecuciones] = useState(false);
+  const [searchQuery, setSearchQuery] = useState('');
+
+  const docResults = useMemo(() => {
+    if (!runResults) return {};
+    return runResults.reduce((acc, r) => {
+      if (!acc[r.docId]) acc[r.docId] = [];
+      acc[r.docId].push(r);
+      return acc;
+    }, {} as Record<string, RunResult[]>);
+  }, [runResults]);
+
+  const getEditorialState = (docId: string) => {
+    const results = docResults[docId] || [];
+    if (results.length === 0) return { status: 'pendiente' as ReviewStatus, primaryRun: null as RunResult | null, bestCer: null as number | null, latestRun: 0, totalRuns: 0 };
+
+    const approved = results.filter(r => r.reviewStatus === 'aprobado');
+    const needsEdit = results.filter(r => r.reviewStatus === 'requiere_edicion');
+
+    const sortByBest = (runs: RunResult[]) => [...runs].sort((a, b) => {
+      const cerA = typeof a.cer === 'number' ? a.cer : 100;
+      const cerB = typeof b.cer === 'number' ? b.cer : 100;
+      if (cerA !== cerB) return cerA - cerB;
       return b.createdAt - a.createdAt;
+    });
+
+    let primaryRun: RunResult | null = null;
+    let status: ReviewStatus = 'pendiente';
+
+    if (approved.length > 0) {
+      primaryRun = sortByBest(approved)[0];
+      status = 'aprobado';
+    } else if (needsEdit.length > 0) {
+      primaryRun = sortByBest(needsEdit)[0];
+      status = 'requiere_edicion';
+    } else if (results.length > 0) {
+      primaryRun = sortByBest(results)[0];
+      status = primaryRun.reviewStatus || 'pendiente';
     }
-    return a.archived ? 1 : -1;
-  });
+
+    const validCers = results.map(r => r.cer).filter(c => typeof c === 'number');
+    const bestCer = validCers.length > 0 ? Math.min(...validCers) : null;
+    const latestRun = Math.max(...results.map(r => r.createdAt));
+
+    return { status, primaryRun, bestCer, latestRun, totalRuns: results.length };
+  };
+
+  const enrichedDocuments = useMemo(() => {
+    if (!documents) return [];
+    return documents.map(doc => ({
+      ...doc,
+      editorial: getEditorialState(doc.id)
+    }));
+  }, [documents, docResults]);
+
+  const sortedAndFiltered = useMemo(() => {
+    let filtered = enrichedDocuments.filter(doc => {
+      if (searchQuery && !doc.title.toLowerCase().includes(searchQuery.toLowerCase())) return false;
+      if (filterSinEjecuciones && doc.editorial.totalRuns > 0) return false;
+      if (filterConAprobado && doc.editorial.status !== 'aprobado') return false;
+      if (!filterSinEjecuciones && !filterConAprobado) {
+        if (!filterStates.has(doc.editorial.status)) return false;
+      }
+      return true;
+    });
+
+    return filtered.sort((a, b) => {
+      if (a.archived !== b.archived) return a.archived ? 1 : -1;
+
+      switch (sortBy) {
+        case 'editorial':
+          const pA = reviewStatusConfig[a.editorial.status].priority;
+          const pB = reviewStatusConfig[b.editorial.status].priority;
+          if (pA !== pB) return pA - pB;
+          return (a.editorial.bestCer ?? 100) - (b.editorial.bestCer ?? 100);
+        case 'cer_asc':
+          return (a.editorial.bestCer ?? 100) - (b.editorial.bestCer ?? 100);
+        case 'date_desc':
+          return b.editorial.latestRun - a.editorial.latestRun;
+        case 'no_runs':
+          if (a.editorial.totalRuns === 0 && b.editorial.totalRuns > 0) return -1;
+          if (b.editorial.totalRuns === 0 && a.editorial.totalRuns > 0) return 1;
+          return b.createdAt - a.createdAt;
+        case 'name_asc':
+          return a.title.localeCompare(b.title);
+        default:
+          return 0;
+      }
+    });
+  }, [enrichedDocuments, sortBy, filterStates, filterConAprobado, filterSinEjecuciones, searchQuery]);
 
   const handleArchiveOrDelete = async (e: React.MouseEvent, doc: any) => {
     e.preventDefault();
@@ -251,6 +347,72 @@ export default function Dashboard() {
           </div>
         </div>
 
+        {/* Filters and sorting bar */}
+        <div className="flex flex-col lg:flex-row gap-4 mb-6 items-start lg:items-center justify-between">
+          <div className="flex items-center gap-2 flex-1 flex-wrap">
+            <div className="relative w-64">
+              <Search className="w-4 h-4 text-ink/40 absolute left-3 top-1/2 -translate-y-1/2" />
+              <input
+                type="text"
+                placeholder="Buscar documento..."
+                value={searchQuery}
+                onChange={(e) => setSearchQuery(e.target.value)}
+                className="w-full pl-9 pr-4 py-2 bg-white border border-ink/10 rounded-lg text-sm focus:outline-none focus:ring-2 focus:ring-olive/50 focus:border-olive/50 transition-all shadow-sm"
+              />
+            </div>
+
+            <div className="flex bg-white border border-ink/10 rounded-lg p-1 shadow-sm">
+              {(Object.keys(reviewStatusConfig) as ReviewStatus[]).map(status => {
+                const cfg = reviewStatusConfig[status];
+                const isActive = filterStates.has(status);
+                const Icon = cfg.icon;
+                return (
+                  <button
+                    key={status}
+                    onClick={() => {
+                      const newSet = new Set(filterStates);
+                      if (isActive) newSet.delete(status);
+                      else newSet.add(status);
+                      setFilterStates(newSet);
+                    }}
+                    className={`px-3 py-1.5 text-xs font-medium rounded-md transition-all flex items-center gap-1.5 ${isActive ? cfg.bg + ' ' + cfg.color : 'text-ink/40 hover:bg-stone/50'}`}
+                    title={cfg.label}
+                  >
+                    <Icon className="w-3.5 h-3.5" />
+                    <span className="hidden sm:inline">{cfg.label}</span>
+                  </button>
+                );
+              })}
+            </div>
+
+            <div className="flex items-center gap-3 border-l border-ink/10 pl-3">
+              <label className="flex items-center gap-1.5 text-xs text-ink/60 cursor-pointer bg-white px-3 py-1.5 rounded-lg border border-ink/10 shadow-sm hover:bg-stone/50 transition-colors">
+                <input type="checkbox" checked={filterConAprobado} onChange={(e) => setFilterConAprobado(e.target.checked)} className="rounded border-ink/20 text-olive focus:ring-olive/50" />
+                <span>Solo aprobados</span>
+              </label>
+              <label className="flex items-center gap-1.5 text-xs text-ink/60 cursor-pointer bg-white px-3 py-1.5 rounded-lg border border-ink/10 shadow-sm hover:bg-stone/50 transition-colors">
+                <input type="checkbox" checked={filterSinEjecuciones} onChange={(e) => setFilterSinEjecuciones(e.target.checked)} className="rounded border-ink/20 text-olive focus:ring-olive/50" />
+                <span>Sin ejecuciones</span>
+              </label>
+            </div>
+          </div>
+
+          <div className="flex items-center gap-2 bg-white px-3 py-1.5 rounded-lg border border-ink/10 shadow-sm shrink-0">
+            <Filter className="w-4 h-4 text-ink/40" />
+            <select
+              value={sortBy}
+              onChange={(e) => setSortBy(e.target.value as any)}
+              className="text-sm border-none bg-transparent focus:outline-none focus:ring-0 cursor-pointer text-ink/70 font-medium"
+            >
+              <option value="editorial">Estado editorial</option>
+              <option value="cer_asc">Mejor CER</option>
+              <option value="date_desc">Última ejecución</option>
+              <option value="no_runs">Sin ejecuciones</option>
+              <option value="name_asc">Nombre</option>
+            </select>
+          </div>
+        </div>
+
         <div className="bg-white rounded-xl shadow-sm border border-ink/5 overflow-hidden">
           <table className="w-full text-left border-collapse">
             <thead>
@@ -269,14 +431,14 @@ export default function Dashboard() {
               </tr>
             </thead>
             <tbody className="divide-y divide-ink/5">
-              {sortedDocuments?.length === 0 && (
+              {sortedAndFiltered?.length === 0 && (
                 <tr>
                   <td colSpan={4} className="px-6 py-12 text-center text-ink/50 text-sm">
-                    No se encontraron documentos. Añade uno para empezar a comparar.
+                    No se encontraron documentos coincidentes.
                   </td>
                 </tr>
               )}
-              {sortedDocuments?.map((doc) => (
+              {sortedAndFiltered?.map((doc) => (
                 <tr
                   key={doc.id}
                   onClick={() => navigate(`/workspace/${doc.id}`)}
@@ -301,12 +463,46 @@ export default function Dashboard() {
                     </div>
                   </td>
                   <td className="px-6 py-4">
-                    <div className="flex items-center space-x-2">
-                      {providers.map(p => (
-                        <div key={p.id}>
-                          {getStatusBadge(doc.id, p.id)}
+                    <div className="flex flex-col space-y-2">
+                      <div className="flex items-center space-x-2">
+                        {doc.editorial.primaryRun ? (
+                          <select
+                            value={doc.editorial.status}
+                            onClick={(e) => e.stopPropagation()}
+                            onChange={async (e) => {
+                              const newStatus = e.target.value as ReviewStatus;
+                              await db.runResults.update(doc.editorial.primaryRun!.id, { reviewStatus: newStatus, reviewedAt: Date.now() });
+                            }}
+                            className={`text-[11px] font-medium px-2 py-0.5 rounded border ${reviewStatusConfig[doc.editorial.status].bg} ${reviewStatusConfig[doc.editorial.status].color} ${doc.editorial.status === 'aprobado' ? 'border-emerald-200' : 'border-ink/10'} cursor-pointer outline-none hover:brightness-95 transition-all`}
+                            title="Cambiar estado de la ejecución principal"
+                          >
+                            {Object.entries(reviewStatusConfig).map(([key, cfg]) => (
+                              <option key={key} value={key}>{cfg.label}</option>
+                            ))}
+                          </select>
+                        ) : (
+                          <span className={`inline-flex items-center space-x-1 px-2 py-0.5 rounded border border-ink/10 text-[11px] font-medium ${reviewStatusConfig[doc.editorial.status].bg} ${reviewStatusConfig[doc.editorial.status].color}`}>
+                            {(() => { const Icon = reviewStatusConfig[doc.editorial.status].icon; return <Icon className="w-3 h-3" />; })()}
+                            <span>{reviewStatusConfig[doc.editorial.status].label}</span>
+                          </span>
+                        )}
+
+                        {doc.editorial.primaryRun && (
+                          <span className="text-[11px] text-ink/60 bg-stone px-1.5 py-0.5 rounded border border-ink/5 font-medium shadow-sm">
+                            {providers.find(p => p.id === doc.editorial.primaryRun?.modelId)?.name || doc.editorial.primaryRun.modelId} · {doc.editorial.primaryRun.mode}
+                          </span>
+                        )}
+                      </div>
+
+                      {doc.editorial.totalRuns > 0 ? (
+                        <div className="text-[10px] text-ink/40 font-mono">
+                          Ejec.: {doc.editorial.totalRuns} · Mejor CER: {doc.editorial.bestCer !== null ? `${(doc.editorial.bestCer * 100).toFixed(1)}%` : 'N/A'} · Último: {new Date(doc.editorial.latestRun).toLocaleDateString()}
                         </div>
-                      ))}
+                      ) : (
+                        <div className="text-[10px] text-ink/40 font-mono flex items-center gap-1">
+                          <AlertTriangle className="w-3 h-3 opacity-50" /> Sin ejecuciones, listo para benchmark.
+                        </div>
+                      )}
                     </div>
                   </td>
                   <td className="px-6 py-4 text-right">

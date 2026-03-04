@@ -96,7 +96,12 @@ export interface RunResult {
   ocrText?: string;
   finalJson?: string;
   passes?: number;
+  reviewStatus?: ReviewStatus;
+  reviewNote?: string;
+  reviewedAt?: number;
 }
+
+export type ReviewStatus = 'pendiente' | 'aprobado' | 'requiere_edicion' | 'rechazado';
 
 export interface PromptSnapshot {
   id: string;
@@ -106,7 +111,7 @@ export interface PromptSnapshot {
   createdAt: number;
 }
 
-export type ReviewStatus = 'pending' | 'approved' | 'needs_edit' | 'rejected';
+export type DeprecatedReviewStatus = 'pending' | 'approved' | 'needs_edit' | 'rejected';
 
 export interface Review {
   id: string;
@@ -114,7 +119,7 @@ export interface Review {
   modelId: string;
   mode: string;
   variantIdsString: string;
-  status: ReviewStatus;
+  status: DeprecatedReviewStatus;
   comment: string;
   updatedAt: number;
 }
