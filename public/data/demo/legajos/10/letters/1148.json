@@ -1,0 +1,35 @@
+{
+  "id_carta": "1148",
+  "url_origen": "http://santacilia.info/info_carta2.php?id=1148",
+  "legajo": 10,
+  "signatura": "026-314a",
+  "nombre_carta": "Carta de Sebastián Garau a Jerónimo Pelegrín de Aragüés",
+  "fecha": "24 de junio de 1668",
+  "lugar": "Palma",
+  "remitente": "Sebastián Garau",
+  "destinatario": "Jerónimo Pelegrín de Aragüés",
+  "temas": "Sin especificar",
+  "idioma": "catalán",
+  "resumen": "Lorem ipsum ad his scripta blandit partiendo, eum fastidii accumsan euripidis in, eum liber hendrerit an. Qui ut wisi vocibus suscipiantur, quo dicit ridens inciderint id. Quo mundi lobortis reformidans eu, legimus senserit definiebas an eos. Eu sit tincidunt incorrupte definitionem, vis mutat affert percipit cu, eirmod consectetuer signiferumque eu per. In usu latine equidem dolores.",
+  "transcripcion": {
+    "modernizada": "{ESP. Dueño y señor mío}, No voldria enfadar a v. m. En la caritat li deman per amor de Déu Nostre Senyor i confio de la seva benignitat m'afavorirà envers Déu Nostre Senyor en la petició li deman. I és que tinc mon germà, en Salvador Garau, nebot d'en Miquel Garau, apotecari de la vila de Llucmajor, i el me'n porti en Menorca antes de la persecució per temor no fos com els altres, que el me porti de Galdent mig any antes, que serà ajustat amb altres per haver-los mort mon pare, Sebastia Garau, i sense temps sense altra ninguna ordre del senyor virrei, i així s'està en Menorca fins al dia d'avui. I així voldria v. m. me fes caritat de veure com està ha criminal i si li aseneria temps el senyor virrei, i contar-li este temps que ha estat allà. Si pot, per amor de Déu, el suplico a v. m. me farà el favor i disposi de mi en tot el de son gust. La senyora Caterina li besa les mans i està bona. Faci el favor per amor de Déu Nostre Senyor i més d'esta sa cel·la i convent de Son Bonaventura de Llucmajor, avui als 24 juny de 1668. Criat de v. m. {LAT. frater Sebastianus Garau} [1§] Al senyor Jeroni Peregri, que Nostre Senyor guardi en casa del senyor don Pedro Santacilia en el carrer del mercat, en Ciutat.",
+    "literal": "1. Dueño y Sr. mio 2. no voldria enfadar ha Vª.Mª. en la caritat 3. ly demos y hamor de deu Ntro. Sr.; y confio de la 4. sua benignidat me affavorisca en vos deu Ntro. Sr. 5. en la petitio ly demas; y en Tineti mon 6. germa, en Salvador Garau nebot del Sr. Michel 7. Garau Appott de la vila de llucmajor y lo me por 8. ti en Manorca antes de la persecutio per temor 9. no fos com los altres, q lo me porti de Galdent mig 10. any antes, q sera ajustat ab altres per averles mort 11. mon pare Sebestia Garau, i sens te[m]ps y sens altra 12. ningu orde del Señor Visorey; y axi sesta en 13. Manorca fins el die de vuy; y axi voldria Vª. 14. Mª. me fes charitat de veure co sta ha crimi 15. nal y si ly asenerie te[m]ps el Señor Viso Rey, y con 16. tarly el temps que ha stat ally. Sy pot per amor de 17. deu lo suplica ha Vª.Mª. me fara eix favor 18. y dispongue de mi en tot lo de son gust . [ hay una firma que parece la de Miguel Malo] 19. la sra. Catherina ly besa las mans y sta bona 20. fasse eix fervor per hamor de deu Ntro. Sr. y mas 21. de esta sa Celda, y convent de Son Bonaventura de 22. llucmejor, vuy als 24 juny de 1668 23. Criat de Vª.Mª. [LAT. frater Sebastianus Garau] [☞]"
+  },
+  "imagenes": [
+    {
+      "src": "/data/demo/legajos/10/images/1148__01__026-314a.jpg",
+      "order": 1,
+      "originalFilename": "026-314a.jpg"
+    },
+    {
+      "src": "/data/demo/legajos/10/images/1148__02__027-314b.jpg",
+      "order": 2,
+      "originalFilename": "027-314b.jpg"
+    }
+  ],
+  "capturado_en": "2026-02-25T17:24:19.160Z",
+  "hasImages": true,
+  "primaryImage": "/data/demo/legajos/10/images/1148__01__026-314a.jpg",
+  "previousCartaId": "1147",
+  "nextCartaId": "1149"
+}

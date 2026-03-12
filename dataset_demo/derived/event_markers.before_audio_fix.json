@@ -1,0 +1,1224 @@
+[
+  {
+    "event_id": "evt_muerte_presidente_castilla",
+    "date_iso": "1668-05-23",
+    "granularity": "day",
+    "title": "Muerte repentina del Presidente de Castilla",
+    "summary": "Fallece sorpresivamente el nuevo Presidente de Castilla con sospechas de envenenamiento; se rumorea la sucesión de Diego Sarmiento.",
+    "theme": "Política",
+    "confidence": "Alta",
+    "place_labels": [
+      "valencia",
+      "madrid"
+    ],
+    "people": [
+      "Diego Riquelme de Quirós",
+      "Diego Sarmiento de Valladares"
+    ],
+    "letters_source": [
+      "1136",
+      "1137"
+    ],
+    "evidence_quotes": [
+      {
+        "id_carta": "1136",
+        "quote": "muerte del nuevo Presidente de Castilla... no faltan contemplativos que aseguran le hayan ayudado"
+      },
+      {
+        "id_carta": "1137",
+        "quote": "Diego Sarmiento de Valladares... dicen hacer presidente de Castilla porque ha muerto"
+      }
+    ],
+    "place_keys": [
+      "valencia",
+      "madrid"
+    ],
+    "audio_file": "1668-05-23__evt_muerte_presidente_castilla__muerte-repentina-del-presidente-de-castilla.mp3.mp3",
+    "audio_path": "mp3/1668-05-23__evt_muerte_presidente_castilla__muerte-repentina-del-presidente-de-castilla.mp3.mp3",
+    "audio_enabled": true
+  },
+  {
+    "event_id": "evt_paces_francia",
+    "date_iso": "1668-06-25",
+    "granularity": "day",
+    "title": "Publicación de las Paces con Francia",
+    "summary": "Se publica oficialmente la paz: Francia devuelve el ducado de Borgoña pero conserva las plazas ganadas en Flandes.",
+    "theme": "Política",
+    "confidence": "Alta",
+    "place_labels": [
+      "madrid"
+    ],
+    "people": [],
+    "letters_source": [
+      "1149",
+      "1154"
+    ],
+    "evidence_quotes": [
+      {
+        "id_carta": "1149",
+        "quote": "Ya se publicaron las paces con Francia a 25 del corriente"
+      },
+      {
+        "id_carta": "1149",
+        "quote": "vuelve el francés, el ducado de Borgoña, y que se queda con las plazas"
+      }
+    ],
+    "place_keys": [
+      "madrid"
+    ],
+    "audio_file": "1668-06-25__evt_paces_francia__publicacion-de-las-paces-con-francia.mp3.mp3",
+    "audio_path": "mp3/1668-06-25__evt_paces_francia__publicacion-de-las-paces-con-francia.mp3.mp3",
+    "audio_enabled": true
+  },
+  {
+    "event_id": "evt_viaje_santacilia",
+    "date_iso": "1668-07-02",
+    "granularity": "day",
+    "title": "Llegada de los Santacilia a Valencia",
+    "summary": "Don Pedro y don Juan de Santacilia llegan a Valencia de camino a la Corte, siendo recibidos por el gobernador.",
+    "theme": "Corte",
+    "confidence": "Alta",
+    "place_labels": [
+      "valencia",
+      "madrid"
+    ],
+    "people": [
+      "Pedro Santacilia y Pax",
+      "Juan de Santacilia"
+    ],
+    "letters_source": [
+      "1152",
+      "1153"
+    ],
+    "evidence_quotes": [
+      {
+        "id_carta": "1152",
+        "quote": "Acabamos de llegar ayer a la tarde a Valencia que encontramos al señor gobernador"
+      },
+      {
+        "id_carta": "1153",
+        "quote": "em partesc esta nit per a la cort amb bon ganado i salut"
+      }
+    ],
+    "place_keys": [
+      "valencia",
+      "madrid"
+    ],
+    "audio_file": "1668-07-02__evt_viaje_santacilia__llegada-de-los-santacilia-a-valencia.mp3.mp3",
+    "audio_path": "mp3/1668-07-02__evt_viaje_santacilia__llegada-de-los-santacilia-a-valencia.mp3.mp3",
+    "audio_enabled": true
+  },
+  {
+    "event_id": "evt_ejecucion_mallada",
+    "date_iso": "1668-06-06",
+    "granularity": "day",
+    "title": "Ejecución exprés de Josep Mallada",
+    "summary": "Josep Mallada, antiguo mayordomo del virrey, es encarcelado y ejecutado con garrote en menos de dos horas.",
+    "theme": "Justicia",
+    "confidence": "Alta",
+    "place_labels": [
+      "madrid"
+    ],
+    "people": [
+      "Josep Mallada"
+    ],
+    "letters_source": [
+      "1139"
+    ],
+    "evidence_quotes": [
+      {
+        "id_carta": "1139",
+        "quote": "Josep Mallada... en menos de dos horas mientras duro el tiempo que se confeso le hizo dar garrote"
+      }
+    ],
+    "place_keys": [
+      "madrid"
+    ],
+    "audio_file": "1668-06-06__evt_ejecucion_mallada__ejecucion-expres-de-josep-mallada.mp3.mp3",
+    "audio_path": "mp3/1668-06-06__evt_ejecucion_mallada__ejecucion-expres-de-josep-mallada.mp3.mp3",
+    "audio_enabled": true
+  },
+  {
+    "event_id": "evt_salida_rey_atocha",
+    "date_iso": "1668-07-02",
+    "granularity": "day",
+    "title": "Primera salida pública del Rey a Atocha",
+    "summary": "El monarca sale de palacio por primera vez para visitar Atocha, recorriendo una corte iluminada y aclamado por la gente.",
+    "theme": "Corte",
+    "confidence": "Alta",
+    "place_labels": [
+      "madrid"
+    ],
+    "people": [
+      "Carlos II"
+    ],
+    "letters_source": [
+      "1154"
+    ],
+    "evidence_quotes": [
+      {
+        "id_carta": "1154",
+        "quote": "salió su majestad a Nuestra Señora de Atocha, que fue el primer día que ha salido de casa"
+      },
+      {
+        "id_carta": "1154",
+        "quote": "estuvo el pobre rey que se volvía dormido y la gente echándole muchos vítores"
+      }
+    ],
+    "place_keys": [
+      "madrid"
+    ],
+    "audio_file": "1668-07-02__evt_salida_rey_atocha__primera-salida-publica-del-rey-a-atocha.mp3.mp3",
+    "audio_path": "mp3/1668-07-02__evt_salida_rey_atocha__primera-salida-publica-del-rey-a-atocha.mp3.mp3",
+    "audio_enabled": true
+  },
+  {
+    "event_id": "evt_demandas_picote_caller",
+    "date_iso": "1668-06",
+    "granularity": "month",
+    "title": "Demanda de tejidos mallorquines en Cerdeña",
+    "summary": "Corresponsales en Cáller solicitan la compra y envío urgente de tela y picote desde Mallorca, interrumpiendo misiones corsarias por la paz.",
+    "theme": "Comercio",
+    "confidence": "Alta",
+    "place_labels": [
+      "caller",
+      "oristan",
+      "mallorca"
+    ],
+    "people": [
+      "Pablo Corbella",
+      "Josep Pujol",
+      "Manuel de Sarabia Velázquez"
+    ],
+    "letters_source": [
+      "1138",
+      "1142"
+    ],
+    "evidence_quotes": [
+      {
+        "id_carta": "1138",
+        "quote": "haber menester ciento veinte palmos conforme a la muestra... de la misma calidad y color"
+      },
+      {
+        "id_carta": "1142",
+        "quote": "comprarme ocho cañas y dos palmos de picote de Mallorca de lo mejor que hubiere"
+      }
+    ],
+    "place_keys": [
+      "mallorca",
+      "oristan",
+      "caller"
+    ],
+    "audio_file": "1668-06__evt_demandas_picote_caller__demanda-de-tejidos-mallorquines-en-cerdena.mp3.mp3",
+    "audio_path": "mp3/1668-06__evt_demandas_picote_caller__demanda-de-tejidos-mallorquines-en-cerdena.mp3.mp3",
+    "audio_enabled": true
+  },
+  {
+    "event_id": "evt_prisiones_baleares",
+    "date_iso": "1668-06",
+    "granularity": "month",
+    "title": "Prisiones y justicia local en Baleares",
+    "summary": "Lluch Estarelles es liberado pero sus marineros siguen presos, y Salvador Garau permanece cautivo en Menorca por asesinato.",
+    "theme": "Justicia",
+    "confidence": "Alta",
+    "place_labels": [
+      "andratx",
+      "llucmajor",
+      "menorca"
+    ],
+    "people": [
+      "Lluch Estarelles",
+      "Salvador Garau"
+    ],
+    "letters_source": [
+      "1145",
+      "1148"
+    ],
+    "evidence_quotes": [
+      {
+        "id_carta": "1145",
+        "quote": "han posat en Lluch Estarelles en llibertat, i que els seus mariners estan presos"
+      },
+      {
+        "id_carta": "1148",
+        "quote": "s'està en Menorca fins al dia d'avui... per haver-los mort mon pare"
+      }
+    ],
+    "place_keys": [
+      "llucmajor",
+      "andratx",
+      "menorca"
+    ],
+    "audio_file": "1668-06__evt_prisiones_baleares__prisiones-y-justicia-local-en-baleares.mp3.mp3",
+    "audio_path": "mp3/1668-06__evt_prisiones_baleares__prisiones-y-justicia-local-en-baleares.mp3.mp3",
+    "audio_enabled": true
+  },
+  {
+    "event_id": "evt_llegada_santacilia_corte",
+    "date_iso": "1668-07-11",
+    "granularity": "day",
+    "title": "Llegada de los Santacilia a la Corte",
+    "summary": "Don Pedro y don Juan de Santacilia llegan a Madrid, instalándose temporalmente en un cuarto ocupado por un clérigo.",
+    "theme": "Corte",
+    "confidence": "Alta",
+    "place_labels": [
+      "madrid"
+    ],
+    "people": [
+      "Pedro Santacilia y Pax",
+      "Juan de Santacilia"
+    ],
+    "letters_source": [
+      "1158",
+      "1159"
+    ],
+    "evidence_quotes": [
+      {
+        "id_carta": "1158",
+        "quote": "A 11 de julio entramos a esta corte con salud, gracias a Dios"
+      },
+      {
+        "id_carta": "1159",
+        "quote": "llegó aquí con el señor don Juan a los once del corriente muy buenos"
+      }
+    ],
+    "place_keys": [
+      "madrid"
+    ],
+    "audio_file": "1668-07-11__evt_llegada_santacilia_corte__llegada-de-los-santacilia-a-la-corte.mp3.mp3",
+    "audio_path": "mp3/1668-07-11__evt_llegada_santacilia_corte__llegada-de-los-santacilia-a-la-corte.mp3.mp3",
+    "audio_enabled": true
+  },
+  {
+    "event_id": "evt_asesinatos_cerdena",
+    "date_iso": "1668-07",
+    "granularity": "month",
+    "title": "Asesinatos en la nobleza sarda",
+    "summary": "Llegan a la Corte noticias alarmantes sobre los asesinatos del marqués de Laconi y, poco después, del marqués de Camarasa.",
+    "theme": "Política",
+    "confidence": "Alta",
+    "place_labels": [
+      "madrid",
+      "caller"
+    ],
+    "people": [
+      "Marqués de Laconi",
+      "Marqués de Camarasa"
+    ],
+    "letters_source": [
+      "1161",
+      "1173"
+    ],
+    "evidence_quotes": [
+      {
+        "id_carta": "1161",
+        "quote": "La muerte del marques de Laconi y sus criados hasta ahora no se ha sabido más"
+      },
+      {
+        "id_carta": "1173",
+        "quote": "después de la muerte del marques de Laconi ha venido la del marques de Camarasa"
+      }
+    ],
+    "place_keys": [
+      "madrid",
+      "caller"
+    ],
+    "audio_file": "1668-07__evt_asesinatos_cerdena__asesinatos-en-la-nobleza-sarda.mp3.mp3",
+    "audio_path": "mp3/1668-07__evt_asesinatos_cerdena__asesinatos-en-la-nobleza-sarda.mp3.mp3",
+    "audio_enabled": true
+  },
+  {
+    "event_id": "evt_pendencia_nobles_descalzas",
+    "date_iso": "1668-07",
+    "granularity": "month",
+    "title": "Altercado y destierro de la alta nobleza",
+    "summary": "Varios nobles son desterrados a diferentes presidios tras protagonizar una pendencia ante los reyes durante una salida a las Descalzas.",
+    "theme": "Corte",
+    "confidence": "Alta",
+    "place_labels": [
+      "madrid"
+    ],
+    "people": [
+      "Conde de Melgar",
+      "Duque de Abrantes",
+      "Carlos II"
+    ],
+    "letters_source": [
+      "1165"
+    ],
+    "evidence_quotes": [
+      {
+        "id_carta": "1165",
+        "quote": "hubo una pendencia con la guarda en que se hallaron los señores conde de Melgar"
+      },
+      {
+        "id_carta": "1165",
+        "quote": "por el desacato delante sus majestades los han desterrado a todos a diferentes presidios"
+      }
+    ],
+    "place_keys": [
+      "madrid"
+    ],
+    "audio_file": "1668-07__evt_pendencia_nobles_descalzas__altercado-y-destierro-de-la-alta-nobleza.mp3.mp3",
+    "audio_path": "mp3/1668-07__evt_pendencia_nobles_descalzas__altercado-y-destierro-de-la-alta-nobleza.mp3.mp3",
+    "audio_enabled": true
+  },
+  {
+    "event_id": "evt_enfermedad_juan_santacilia",
+    "date_iso": "1668-08",
+    "granularity": "month",
+    "title": "Grave enfermedad de Don Juan",
+    "summary": "Don Juan de Santacilia cae gravemente enfermo con fiebres altas y corrimientos de sangre, impidiéndole entrar a los Pajes.",
+    "theme": "Salud",
+    "confidence": "Alta",
+    "place_labels": [
+      "madrid"
+    ],
+    "people": [
+      "Juan de Santacilia",
+      "Gabriel Roger"
+    ],
+    "letters_source": [
+      "1173",
+      "1174"
+    ],
+    "evidence_quotes": [
+      {
+        "id_carta": "1173",
+        "quote": "el señor don Juan harto malo, conque no ha podido lograr el irse a la Casa de los Pajes"
+      },
+      {
+        "id_carta": "1174",
+        "quote": "después de haber tenido mucho corrimiento de sangre nos ha venido abundancia de calentura"
+      }
+    ],
+    "place_keys": [
+      "madrid"
+    ],
+    "audio_file": "1668-08__evt_enfermedad_juan_santacilia__grave-enfermedad-de-don-juan.mp3.mp3",
+    "audio_path": "mp3/1668-08__evt_enfermedad_juan_santacilia__grave-enfermedad-de-don-juan.mp3.mp3",
+    "audio_enabled": true
+  },
+  {
+    "event_id": "evt_san_german_virrey_cerdena",
+    "date_iso": "1668-08-08",
+    "granularity": "day",
+    "title": "Duque de San Germán a Cerdeña",
+    "summary": "Ante la grave crisis política sarda, la corona nombra al Duque de San Germán como nuevo virrey de Cerdeña.",
+    "theme": "Política",
+    "confidence": "Alta",
+    "place_labels": [
+      "madrid",
+      "caller"
+    ],
+    "people": [
+      "Duque de San Germán"
+    ],
+    "letters_source": [
+      "1173"
+    ],
+    "evidence_quotes": [
+      {
+        "id_carta": "1173",
+        "quote": "Han nombrado por virrey de Cerdeña a don German, que se partirá de aquí dentro diez días"
+      }
+    ],
+    "place_keys": [
+      "madrid",
+      "caller"
+    ],
+    "audio_file": "1668-08-08__evt_san_german_virrey_cerdena__duque-de-san-german-a-cerdena.mp3.mp3",
+    "audio_path": "mp3/1668-08-08__evt_san_german_virrey_cerdena__duque-de-san-german-a-cerdena.mp3.mp3",
+    "audio_enabled": true
+  },
+  {
+    "event_id": "evt_deudas_viuda_rendon",
+    "date_iso": "1668-07-30",
+    "granularity": "day",
+    "title": "Pleito por las fianzas del capitán Aulí",
+    "summary": "María Rendón Sarmiento suplica ayuda desde Cádiz para librarse de una fianza de 800 pesos contraída por su marido difunto.",
+    "theme": "Justicia",
+    "confidence": "Alta",
+    "place_labels": [
+      "cadiz",
+      "mallorca"
+    ],
+    "people": [
+      "María Rendón Sarmiento",
+      "Pedro de Aulí"
+    ],
+    "letters_source": [
+      "1156",
+      "1169"
+    ],
+    "evidence_quotes": [
+      {
+        "id_carta": "1169",
+        "quote": "me dejó metida en una fianza de ochocientos pesos que gastó en el viaje que hizo"
+      },
+      {
+        "id_carta": "1169",
+        "quote": "mandó en su testamento se pagase de la hacienda que tenía en Mallorca"
+      }
+    ],
+    "place_keys": [
+      "cadiz",
+      "mallorca"
+    ],
+    "audio_file": "1668-07-30__evt_deudas_viuda_rendon__pleito-por-las-fianzas-del-capitan-auli.mp3.mp3",
+    "audio_path": "mp3/1668-07-30__evt_deudas_viuda_rendon__pleito-por-las-fianzas-del-capitan-auli.mp3.mp3",
+    "audio_enabled": true
+  },
+  {
+    "event_id": "evt_envio_perra_miel",
+    "date_iso": "1668-07-22",
+    "granularity": "day",
+    "title": "Regalo de caza y miel desde Ibiza",
+    "summary": "Fructuoso Giner envía una valiosa perra cazadora y 29 libras de miel de romero para ganar favores del doctor Rius.",
+    "theme": "Logística",
+    "confidence": "Alta",
+    "place_labels": [
+      "ibiza",
+      "mallorca"
+    ],
+    "people": [
+      "Fructuoso Giner",
+      "Josep Rius"
+    ],
+    "letters_source": [
+      "1171"
+    ],
+    "evidence_quotes": [
+      {
+        "id_carta": "1171",
+        "quote": "remití a d. Josep Rius... una perra que con costarme mucho trabajo para hallarla"
+      },
+      {
+        "id_carta": "1171",
+        "quote": "Le remití la perra y una cántara de miel de romero, cosa rica"
+      }
+    ],
+    "place_keys": [
+      "mallorca",
+      "ibiza"
+    ],
+    "audio_file": "1668-07-22__evt_envio_perra_miel__regalo-de-caza-y-miel-desde-ibiza.mp3.mp3",
+    "audio_path": "mp3/1668-07-22__evt_envio_perra_miel__regalo-de-caza-y-miel-desde-ibiza.mp3.mp3",
+    "audio_enabled": true
+  },
+  {
+    "event_id": "evt_destierro_juan_austria",
+    "date_iso": "1668-08-22",
+    "granularity": "day",
+    "title": "Destierro de Don Juan de Austria y refriega naval",
+    "summary": "Se decreta el confinamiento de Don Juan de Austria en Consuegra, mientras llegan noticias de un choque naval entre Francia y Holanda.",
+    "theme": "Política",
+    "confidence": "Alta",
+    "place_labels": [
+      "madrid",
+      "consuegra"
+    ],
+    "people": [
+      "Juan de Austria",
+      "Condestable de Castilla"
+    ],
+    "letters_source": [
+      "1177"
+    ],
+    "evidence_quotes": [
+      {
+        "id_carta": "1177",
+        "quote": "el Sr. don Ju[li]o se ba a consuegra por mandado de su Magd"
+      },
+      {
+        "id_carta": "1177",
+        "quote": "armadas de francia y olanda han tenido un gran encuentro"
+      }
+    ],
+    "place_keys": [
+      "consuegra",
+      "madrid"
+    ],
+    "audio_file": "1668-08-22__evt_destierro_juan_austria__destierro-de-don-juan-de-austria-y-refriega-naval.mp3.mp3",
+    "audio_path": "mp3/1668-08-22__evt_destierro_juan_austria__destierro-de-don-juan-de-austria-y-refriega-naval.mp3.mp3",
+    "audio_enabled": true
+  },
+  {
+    "event_id": "evt_embajador_portugal",
+    "date_iso": "1668-08-29",
+    "granularity": "day",
+    "title": "Llegada del embajador de Portugal",
+    "summary": "El Conde de Miranda, nuevo embajador de Portugal, entra en Madrid con gran lucimiento, a la espera de ser recibido por el rey.",
+    "theme": "Corte",
+    "confidence": "Alta",
+    "place_labels": [
+      "madrid"
+    ],
+    "people": [
+      "Conde de Miranda",
+      "Carlos II"
+    ],
+    "letters_source": [
+      "1183"
+    ],
+    "evidence_quotes": [
+      {
+        "id_carta": "1183",
+        "quote": "ha entrado ya el embajador de Portugal que es el conde de Miranda"
+      },
+      {
+        "id_carta": "1183",
+        "quote": "pero no a echo aun su entrada a besar la mano al Rey"
+      }
+    ],
+    "place_keys": [
+      "madrid"
+    ],
+    "audio_file": "1668-08-29__evt_embajador_portugal__llegada-del-embajador-de-portugal.mp3.mp3",
+    "audio_path": "mp3/1668-08-29__evt_embajador_portugal__llegada-del-embajador-de-portugal.mp3.mp3",
+    "audio_enabled": true
+  },
+  {
+    "event_id": "evt_saetia_genovesa",
+    "date_iso": "1668-08-25",
+    "granularity": "day",
+    "title": "Represalia contra saetía genovesa",
+    "summary": "El virrey de Mallorca inmoviliza una saetía genovesa quitándole timón y velas para asegurar el cobro de una satisfacción pendiente.",
+    "theme": "Justicia",
+    "confidence": "Alta",
+    "place_labels": [
+      "mallorca"
+    ],
+    "people": [
+      "Pedro Santacilia y Pax"
+    ],
+    "letters_source": [
+      "1180"
+    ],
+    "evidence_quotes": [
+      {
+        "id_carta": "1180",
+        "quote": "saetia genovesa cargada de Botada, y quel Sr. Virrey le havia mandado quitar timon"
+      },
+      {
+        "id_carta": "1180",
+        "quote": "se sirva detenerle, y passar adelante cobrandolas"
+      }
+    ],
+    "place_keys": [
+      "mallorca"
+    ],
+    "audio_file": "1668-08-25__evt_saetia_genovesa__represalia-contra-saetia-genovesa.mp3.mp3",
+    "audio_path": "mp3/1668-08-25__evt_saetia_genovesa__represalia-contra-saetia-genovesa.mp3.mp3",
+    "audio_enabled": true
+  },
+  {
+    "event_id": "evt_botadura_arenys",
+    "date_iso": "1668-08",
+    "granularity": "month",
+    "title": "Preparativos para la botadura de un bajel",
+    "summary": "Se concentran galeras y autoridades en Arenys de Mar para asistir a la complicada botadura de un nuevo navío.",
+    "theme": "Logística",
+    "confidence": "Alta",
+    "place_labels": [
+      "arenys_de_mar",
+      "barcelona"
+    ],
+    "people": [
+      "Duque de Osuna",
+      "Príncipe de Pomblín"
+    ],
+    "letters_source": [
+      "1182",
+      "1185"
+    ],
+    "evidence_quotes": [
+      {
+        "id_carta": "1182",
+        "quote": "las galeras de Serdeña a donde las a mandado benir el Sr. Duque de Osuna"
+      },
+      {
+        "id_carta": "1185",
+        "quote": "echar en el agua el bajel ofrécense muchas dificultades que se vencerán"
+      }
+    ],
+    "place_keys": [
+      "barcelona",
+      "arenys_de_mar"
+    ],
+    "audio_file": "1668-08__evt_botadura_arenys__preparativos-para-la-botadura-de-un-bajel.mp3.mp3",
+    "audio_path": "mp3/1668-08__evt_botadura_arenys__preparativos-para-la-botadura-de-un-bajel.mp3.mp3",
+    "audio_enabled": true
+  },
+  {
+    "event_id": "evt_viaje_san_german",
+    "date_iso": "1668-09",
+    "granularity": "month",
+    "title": "Viaje y enfermedad del duque de San Germán",
+    "summary": "El recién nombrado virrey de Cerdeña parte de Madrid pero enferma con fiebres al llegar a Alicante con sus galeras.",
+    "theme": "Política",
+    "confidence": "Alta",
+    "place_labels": [
+      "madrid",
+      "alicante",
+      "caller"
+    ],
+    "people": [
+      "Duque de San Germán"
+    ],
+    "letters_source": [
+      "1184",
+      "1192"
+    ],
+    "evidence_quotes": [
+      {
+        "id_carta": "1184",
+        "quote": "AjerSe partio para Cerdeña a ser virrey el duque san German"
+      },
+      {
+        "id_carta": "1192",
+        "quote": "ayer salio en tierra y esta malo en la cama con calentura"
+      }
+    ],
+    "place_keys": [
+      "alicante",
+      "madrid",
+      "caller"
+    ],
+    "audio_file": "1668-09__evt_viaje_san_german__viaje-y-enfermedad-del-duque-de-san-german.mp3.mp3",
+    "audio_path": "mp3/1668-09__evt_viaje_san_german__viaje-y-enfermedad-del-duque-de-san-german.mp3.mp3",
+    "audio_enabled": true
+  },
+  {
+    "event_id": "evt_recuperacion_juan_santacilia",
+    "date_iso": "1668-09",
+    "granularity": "month",
+    "title": "Convalecencia y purgas de don Juan",
+    "summary": "Don Juan Santacilia empieza a levantarse de la cama, sometido a severas purgas y con estricta prohibición médica de beber agua.",
+    "theme": "Salud",
+    "confidence": "Alta",
+    "place_labels": [
+      "madrid"
+    ],
+    "people": [
+      "Juan de Santacilia",
+      "Diego Matías de Aragüés",
+      "Gabriel Roger"
+    ],
+    "letters_source": [
+      "1186",
+      "1189"
+    ],
+    "evidence_quotes": [
+      {
+        "id_carta": "1186",
+        "quote": "doblado goso de ver a mi señor Don Juan fuera de la cama"
+      },
+      {
+        "id_carta": "1189",
+        "quote": "guardándose en bever que es el remedio eficaz y sino tendra riesgo"
+      }
+    ],
+    "place_keys": [
+      "madrid"
+    ],
+    "audio_file": "1668-09__evt_recuperacion_juan_santacilia__convalecencia-y-purgas-de-don-juan.mp3.mp3",
+    "audio_path": "mp3/1668-09__evt_recuperacion_juan_santacilia__convalecencia-y-purgas-de-don-juan.mp3.mp3",
+    "audio_enabled": true
+  },
+  {
+    "event_id": "evt_excomunion_cotoner",
+    "date_iso": "1668-09-12",
+    "granularity": "day",
+    "title": "Excomunión de Francesc Cotoner",
+    "summary": "En medio de tensiones legales, se avisa sobre la excomunión de Francesc Cotoner, que podría afectar a quienes interactúen con él.",
+    "theme": "Religión",
+    "confidence": "Alta",
+    "place_labels": [
+      "madrid",
+      "mallorca"
+    ],
+    "people": [
+      "Pedro Santacilia y Pax",
+      "Francesc Cotoner"
+    ],
+    "letters_source": [
+      "1190"
+    ],
+    "evidence_quotes": [
+      {
+        "id_carta": "1190",
+        "quote": "puis la escomunicatio de Francesch Cotoner arribara a esser en participans"
+      },
+      {
+        "id_carta": "1190",
+        "quote": "trahent lletras de vivendi, et recognoscendi"
+      }
+    ],
+    "place_keys": [
+      "mallorca",
+      "madrid"
+    ],
+    "audio_file": "1668-09-12__evt_excomunion_cotoner__excomunion-de-francesc-cotoner.mp3.mp3",
+    "audio_path": "mp3/1668-09-12__evt_excomunion_cotoner__excomunion-de-francesc-cotoner.mp3.mp3",
+    "audio_enabled": true
+  },
+  {
+    "event_id": "evt_crisis_agua_aspa_juan",
+    "date_iso": "1668-10",
+    "granularity": "month",
+    "title": "Crisis médica de D. Juan por el 'agua de Aspa'",
+    "summary": "Don Juan empeora gravemente tras ingerir 'agua de Aspa'; una junta médica de urgencia le prohíbe beber agua.",
+    "theme": "Salud",
+    "confidence": "Alta",
+    "place_labels": [
+      "madrid"
+    ],
+    "people": [
+      "Juan de Santacilia",
+      "Diego Matías de Aragüés"
+    ],
+    "letters_source": [
+      "1207",
+      "1214"
+    ],
+    "evidence_quotes": [
+      {
+        "id_carta": "1207",
+        "quote": "el señor don Juan ha empeorado con una agua de Aspa... si la toma el tercer día hubiera rebentado"
+      },
+      {
+        "id_carta": "1214",
+        "quote": "con el agua de Aspe que tomó por dos veces le ha empeorado y entregado"
+      }
+    ],
+    "place_keys": [
+      "madrid"
+    ],
+    "audio_file": "1668-10__evt_crisis_agua_aspa_juan__crisis-medica-de-d-juan-por-el-agua-de-aspa.mp3.mp3",
+    "audio_path": "mp3/1668-10__evt_crisis_agua_aspa_juan__crisis-medica-de-d-juan-por-el-agua-de-aspa.mp3.mp3",
+    "audio_enabled": true
+  },
+  {
+    "event_id": "evt_audiencia_secreta_soldado",
+    "date_iso": "1668-10",
+    "granularity": "month",
+    "title": "Audiencia secreta de un soldado con la Reina",
+    "summary": "Un soldado misterioso consigue una audiencia privada de media hora con la reina, desatando rumores y secretismo en palacio.",
+    "theme": "Corte",
+    "confidence": "Alta",
+    "place_labels": [
+      "madrid"
+    ],
+    "people": [
+      "Reina",
+      "Blasco de Loyola",
+      "Gabriel Roger"
+    ],
+    "letters_source": [
+      "1205"
+    ],
+    "evidence_quotes": [
+      {
+        "id_carta": "1205",
+        "quote": "vino un soldado y pidió audiencia secreta a la reina... y habló con su majestad más de media hora"
+      }
+    ],
+    "place_keys": [
+      "madrid"
+    ],
+    "audio_file": "1668-10__evt_audiencia_secreta_soldado__audiencia-secreta-de-un-soldado-con-la-reina.mp3.mp3",
+    "audio_path": "mp3/1668-10__evt_audiencia_secreta_soldado__audiencia-secreta-de-un-soldado-con-la-reina.mp3.mp3",
+    "audio_enabled": true
+  },
+  {
+    "event_id": "evt_visita_principe_toscana",
+    "date_iso": "1668-09",
+    "granularity": "month",
+    "title": "Visita del Príncipe de Toscana a Cataluña",
+    "summary": "El hijo del Gran Duque de Florencia visita Arenys y Barcelona con sus galeras antes de partir hacia Madrid.",
+    "theme": "Corte",
+    "confidence": "Alta",
+    "place_labels": [
+      "arenys_de_mar",
+      "barcelona",
+      "madrid"
+    ],
+    "people": [
+      "Príncipe de Toscana"
+    ],
+    "letters_source": [
+      "1203",
+      "1208"
+    ],
+    "evidence_quotes": [
+      {
+        "id_carta": "1203",
+        "quote": "el hijo del gran duque de Florencia viene con las galeras a ver mundo estaba con s. e. en Arenys"
+      },
+      {
+        "id_carta": "1208",
+        "quote": "Viernes se fue a Madrid el príncipe de Toscana, hijo mayor del gran duque de Florencia"
+      }
+    ],
+    "place_keys": [
+      "madrid",
+      "barcelona",
+      "arenys_de_mar"
+    ],
+    "audio_file": "1668-09__evt_visita_principe_toscana__visita-del-principe-de-toscana-a-cataluna.mp3.mp3",
+    "audio_path": "mp3/1668-09__evt_visita_principe_toscana__visita-del-principe-de-toscana-a-cataluna.mp3.mp3",
+    "audio_enabled": true
+  },
+  {
+    "event_id": "evt_memorial_pedro_consejo",
+    "date_iso": "1668-10",
+    "granularity": "month",
+    "title": "Avance del memorial de D. Pedro en el Consejo",
+    "summary": "El memorial de pretensiones de D. Pedro Santacilia avanza favorablemente en el Consejo de Aragón bajo un decreto extenso.",
+    "theme": "Política",
+    "confidence": "Alta",
+    "place_labels": [
+      "madrid"
+    ],
+    "people": [
+      "Pedro Santacilia y Pax",
+      "Diego Matías de Aragüés"
+    ],
+    "letters_source": [
+      "1209",
+      "1214"
+    ],
+    "evidence_quotes": [
+      {
+        "id_carta": "1209",
+        "quote": "Ya está remitido y en el consejo el memorial del señor d. Pedro con un decreto muy honrado y largo"
+      },
+      {
+        "id_carta": "1214",
+        "quote": "memorial de la pretensión bajo decreto de más de media plana para el Consejo de Aragón muy honrado"
+      }
+    ],
+    "place_keys": [
+      "madrid"
+    ],
+    "audio_file": "1668-10__evt_memorial_pedro_consejo__avance-del-memorial-de-d-pedro-en-el-consejo.mp3.mp3",
+    "audio_path": "mp3/1668-10__evt_memorial_pedro_consejo__avance-del-memorial-de-d-pedro-en-el-consejo.mp3.mp3",
+    "audio_enabled": true
+  },
+  {
+    "event_id": "evt_demandas_telas_madrid",
+    "date_iso": "1668-10",
+    "granularity": "month",
+    "title": "Demanda de telas mallorquinas en la Corte",
+    "summary": "Desde Madrid se piden urgentemente varas de picote y tela negra para vestidos particulares y para agasajar a opositores.",
+    "theme": "Comercio",
+    "confidence": "Alta",
+    "place_labels": [
+      "madrid",
+      "mallorca",
+      "valencia"
+    ],
+    "people": [
+      "José de Cisneros",
+      "Diego Matías de Aragüés",
+      "Pedro Santacilia y Pax"
+    ],
+    "letters_source": [
+      "1212",
+      "1213"
+    ],
+    "evidence_quotes": [
+      {
+        "id_carta": "1212",
+        "quote": "añada al que le tengo pedido veintidós varas de plateado y otras veintidós del amusco"
+      },
+      {
+        "id_carta": "1213",
+        "quote": "han de ser treinta varas castellanas... que es empeño del señor don Pedro y para persona de oposición"
+      }
+    ],
+    "place_keys": [
+      "mallorca",
+      "madrid",
+      "valencia"
+    ],
+    "audio_file": "1668-10__evt_demandas_telas_madrid__demanda-de-telas-mallorquinas-en-la-corte.mp3.mp3",
+    "audio_path": "mp3/1668-10__evt_demandas_telas_madrid__demanda-de-telas-mallorquinas-en-la-corte.mp3.mp3",
+    "audio_enabled": true
+  },
+  {
+    "event_id": "evt_enfermedad_juan_miquel",
+    "date_iso": "1668-08-21",
+    "granularity": "day",
+    "title": "Enfermedad súbita de Juan Miquel",
+    "summary": "Juan Miquel cae gravemente enfermo con sangrado nasal, fiebre y dolores que le impiden moverse, sorprendiendo a los médicos.",
+    "theme": "Salud",
+    "confidence": "Alta",
+    "place_labels": [
+      "madrid"
+    ],
+    "people": [
+      "Juan Miguel de Santacilia y Togores",
+      "Pedro Santacilia y Pax"
+    ],
+    "letters_source": [
+      "1200"
+    ],
+    "evidence_quotes": [
+      {
+        "id_carta": "1200",
+        "quote": "s'emmalaltí en Joan Miquel: sang pel nas, febre i dolors per tot el cos, que està sense poder-se girar"
+      }
+    ],
+    "place_keys": [
+      "madrid"
+    ],
+    "audio_file": "1668-08-21__evt_enfermedad_juan_miquel__enfermedad-subita-de-juan-miquel.mp3.mp3",
+    "audio_path": "mp3/1668-08-21__evt_enfermedad_juan_miquel__enfermedad-subita-de-juan-miquel.mp3.mp3",
+    "audio_enabled": true
+  },
+  {
+    "event_id": "evt_fuga_juan_austria",
+    "date_iso": "1668-10",
+    "granularity": "month",
+    "title": "Intento de arresto y fuga de Don Juan de Austria",
+    "summary": "Fracasa el intento de apresar a don Juan de Austria en Consuegra, quien se ausenta y reaparece cerca de Barcelona.",
+    "theme": "Política",
+    "confidence": "Alta",
+    "place_labels": [
+      "madrid",
+      "consuegra",
+      "barcelona"
+    ],
+    "people": [
+      "Juan de Austria"
+    ],
+    "letters_source": [
+      "1220",
+      "1223",
+      "1228"
+    ],
+    "evidence_quotes": [
+      {
+        "id_carta": "1223",
+        "quote": "fueron a prender en Consuegra que las que me escribes cuanto menos se discurriere en estas materias lo tendré"
+      },
+      {
+        "id_carta": "1220",
+        "quote": "quisieron prender al Sr. don Juan que se ha ausentado y unos dicen está en Aragón"
+      }
+    ],
+    "place_keys": [
+      "consuegra",
+      "madrid",
+      "barcelona"
+    ],
+    "audio_file": "1668-10__evt_fuga_juan_austria__intento-de-arresto-y-fuga-de-don-juan-de-austria.mp3.mp3",
+    "audio_path": "mp3/1668-10__evt_fuga_juan_austria__intento-de-arresto-y-fuga-de-don-juan-de-austria.mp3.mp3",
+    "audio_enabled": true
+  },
+  {
+    "event_id": "evt_prision_bernardo_patino",
+    "date_iso": "1668-10-31",
+    "granularity": "day",
+    "title": "Prisión de Bernardo Patino por revelaciones a la Reina",
+    "summary": "Un capitán revela información secreta a la reina en las Descalzas, desencadenando la prisión de Bernardo Patino y graves investigaciones.",
+    "theme": "Corte",
+    "confidence": "Alta",
+    "place_labels": [
+      "madrid",
+      "barcelona"
+    ],
+    "people": [
+      "Bernardo Patino",
+      "Reina"
+    ],
+    "letters_source": [
+      "1220"
+    ],
+    "evidence_quotes": [
+      {
+        "id_carta": "1220",
+        "quote": "Sr. D. Bernardo Patino está preso... que ha descubierto un capitán que habló a la reina"
+      }
+    ],
+    "place_keys": [
+      "madrid",
+      "barcelona"
+    ],
+    "audio_file": "1668-10-31__evt_prision_bernardo_patino__prision-de-bernardo-patino-por-revelaciones-a-la-reina.mp3.mp3",
+    "audio_path": "mp3/1668-10-31__evt_prision_bernardo_patino__prision-de-bernardo-patino-por-revelaciones-a-la-reina.mp3.mp3",
+    "audio_enabled": true
+  },
+  {
+    "event_id": "evt_viaje_san_german_caller",
+    "date_iso": "1668-11-03",
+    "granularity": "day",
+    "title": "Viaje del Duque de San Germán a Cáller",
+    "summary": "El nuevo virrey de Cerdeña parte con once galeras hacia su destino, haciendo escala en Mahón tras maniobras logísticas.",
+    "theme": "Política",
+    "confidence": "Alta",
+    "place_labels": [
+      "barcelona",
+      "arenys_de_mar",
+      "mahon",
+      "caller"
+    ],
+    "people": [
+      "Duque de San Germán",
+      "Pablo Corbella"
+    ],
+    "letters_source": [
+      "1220",
+      "1222"
+    ],
+    "evidence_quotes": [
+      {
+        "id_carta": "1220",
+        "quote": "El duque de Saint Germain se partió sábado con 11 galeras"
+      },
+      {
+        "id_carta": "1222",
+        "quote": "me vuelvo a Caller con el duque de San German, que va por virrey"
+      }
+    ],
+    "place_keys": [
+      "caller",
+      "mahon",
+      "barcelona",
+      "arenys_de_mar"
+    ],
+    "audio_file": "1668-11-03__evt_viaje_san_german_caller__viaje-del-duque-de-san-german-a-caller.mp3.mp3",
+    "audio_path": "mp3/1668-11-03__evt_viaje_san_german_caller__viaje-del-duque-de-san-german-a-caller.mp3.mp3",
+    "audio_enabled": true
+  },
+  {
+    "event_id": "evt_sangrias_corbella",
+    "date_iso": "1668-11-03",
+    "granularity": "day",
+    "title": "Graves tratamientos médicos a Pablo Corbella",
+    "summary": "Pablo Corbella sobrevive milagrosamente en Barcelona tras pasar 33 días postrado y sufrir nueve sangrías extremas.",
+    "theme": "Salud",
+    "confidence": "Alta",
+    "place_labels": [
+      "barcelona",
+      "mahon"
+    ],
+    "people": [
+      "Pablo Corbella"
+    ],
+    "letters_source": [
+      "1222"
+    ],
+    "evidence_quotes": [
+      {
+        "id_carta": "1222",
+        "quote": "estado en Barcelona treinta y tres días sin levantarme de la cama, nueve veces sangrado y sin esperanza"
+      }
+    ],
+    "place_keys": [
+      "mahon",
+      "barcelona"
+    ],
+    "audio_file": "1668-11-03__evt_sangrias_corbella__graves-tratamientos-medicos-a-pablo-corbella.mp3.mp3",
+    "audio_path": "mp3/1668-11-03__evt_sangrias_corbella__graves-tratamientos-medicos-a-pablo-corbella.mp3.mp3",
+    "audio_enabled": true
+  },
+  {
+    "event_id": "evt_asesinato_mateu_anglada",
+    "date_iso": "1669-03-17",
+    "granularity": "day",
+    "title": "Asesinato cometido por el escribano Mateu Anglada",
+    "summary": "Circula en Mallorca la noticia de que Mateu Anglada, escribano de la corte del veguer, ha asesinado a una mujer.",
+    "theme": "Justicia",
+    "confidence": "Alta",
+    "place_labels": [
+      "mallorca"
+    ],
+    "people": [
+      "Mateu Anglada"
+    ],
+    "letters_source": [
+      "1232"
+    ],
+    "evidence_quotes": [
+      {
+        "id_carta": "1232",
+        "quote": "Mateu Anglada, escrivà de la cort del veguer, per haver morta una dona corre per aquí"
+      }
+    ],
+    "place_keys": [
+      "mallorca"
+    ],
+    "audio_file": "1669-03-17__evt_asesinato_mateu_anglada__asesinato-cometido-por-el-escribano-mateu-anglada.mp3.mp3",
+    "audio_path": "mp3/1669-03-17__evt_asesinato_mateu_anglada__asesinato-cometido-por-el-escribano-mateu-anglada.mp3.mp3",
+    "audio_enabled": true
+  },
+  {
+    "event_id": "evt_patronazgo_batle_inca",
+    "date_iso": "1669-02-12",
+    "granularity": "day",
+    "title": "Gestiones en la Corte para la alcaldía de Inca",
+    "summary": "Mateu Armengol solicita a la familia Santacilia usar sus influencias en Madrid para nombrar a su yerno alcalde de Inca.",
+    "theme": "Política",
+    "confidence": "Alta",
+    "place_labels": [
+      "inca",
+      "mallorca",
+      "madrid"
+    ],
+    "people": [
+      "Mateu Armengol",
+      "Francisco Carbonell"
+    ],
+    "letters_source": [
+      "1230",
+      "1232"
+    ],
+    "evidence_quotes": [
+      {
+        "id_carta": "1230",
+        "quote": "Francesc Carbonell... es elet de batle d'Inca. V. m. se servirà que vinga elegit batle"
+      }
+    ],
+    "place_keys": [
+      "mallorca",
+      "madrid",
+      "inca"
+    ],
+    "audio_file": "1669-02-12__evt_patronazgo_batle_inca__gestiones-en-la-corte-para-la-alcaldia-de-inca.mp3.mp3",
+    "audio_path": "mp3/1669-02-12__evt_patronazgo_batle_inca__gestiones-en-la-corte-para-la-alcaldia-de-inca.mp3.mp3",
+    "audio_enabled": true
+  },
+  {
+    "event_id": "evt_prision_juan_cabrer",
+    "date_iso": "1669-03-19",
+    "granularity": "day",
+    "title": "Un año de prisión de Juan Cabrer en el Palacio Episcopal",
+    "summary": "Juan Cabrer cumple un año encarcelado en el Palacio Episcopal de Mallorca y suplica ayuda desesperada para ser liberado.",
+    "theme": "Justicia",
+    "confidence": "Alta",
+    "place_labels": [
+      "mallorca"
+    ],
+    "people": [
+      "Juan Cabrer"
+    ],
+    "letters_source": [
+      "1233"
+    ],
+    "evidence_quotes": [
+      {
+        "id_carta": "1233",
+        "quote": "estar enfadado de prisión, pues sabe que a 22 marzo ha hecho un año que estoy en esta"
+      }
+    ],
+    "place_keys": [
+      "mallorca"
+    ],
+    "audio_file": "1669-03-19__evt_prision_juan_cabrer__un-ano-de-prision-de-juan-cabrer-en-el-palacio-episcopal.mp3.mp3",
+    "audio_path": "mp3/1669-03-19__evt_prision_juan_cabrer__un-ano-de-prision-de-juan-cabrer-en-el-palacio-episcopal.mp3.mp3",
+    "audio_enabled": true
+  }
+]

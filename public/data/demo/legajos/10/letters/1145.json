@@ -1,0 +1,35 @@
+{
+  "id_carta": "1145",
+  "url_origen": "http://santacilia.info/info_carta2.php?id=1145",
+  "legajo": 10,
+  "signatura": "022-311a",
+  "nombre_carta": "Carta de Pedro Santacilia y Pax a Jerónimo Pelegrín de Aragüés",
+  "fecha": "18 de junio de 1668",
+  "lugar": "Andratx",
+  "remitente": "Pedro Santacilia y Pax",
+  "destinatario": "Jerónimo Pelegrín de Aragüés",
+  "temas": "Sin especificar",
+  "idioma": "catalán",
+  "resumen": "Lorem ipsum ad his scripta blandit partiendo, eum fastidii accumsan euripidis in, eum liber hendrerit an. Qui ut wisi vocibus suscipiantur, quo dicit ridens inciderint id. Quo mundi lobortis reformidans eu, legimus senserit definiebas an eos. Eu sit tincidunt incorrupte definitionem, vis mutat affert percipit cu, eirmod consectetuer signiferumque eu per. In usu latine equidem dolores.",
+  "transcripcion": {
+    "modernizada": "Tinc entès pels amics de la fragata han posat en Lluch Estarelles en llibertat, i que els seus mariners estan presos. Parlaràs amb el patró Joan Serra, i escriuràs-me, qui són els presos, i com estan perquè als de Madrid els pugui ajudar en el que podré. Déu te guardi. Port d'Andratx i juny 18, 1668. Don Pedro Senyor Jeroni Pelegri [1§] El patró Lluch Estarelles, el patró Tomas Fort, Juan Tremoli, Bartolomeu Ventejol, Juan Barbeta, Fransesc Castella, Angelo Cosara.",
+    "literal": "1. Tinch entes per els amichs de la fragata han posat 2. en lluch estarellas en libertat, y q sos mariners esta presos 3. parlaras en lo patro Joan Serra, y escriurasme, qui son 4. los presos, y com esta para q lo de Madrid los pugue 5. ajudar en lo q podre Deutegde Port de Andraig y 6. Juny 18 1668. 7. Don Pedro [☞]"
+  },
+  "imagenes": [
+    {
+      "src": "/data/demo/legajos/10/images/1145__01__022-311a.jpg",
+      "order": 1,
+      "originalFilename": "022-311a.jpg"
+    },
+    {
+      "src": "/data/demo/legajos/10/images/1145__02__023-311b.jpg",
+      "order": 2,
+      "originalFilename": "023-311b.jpg"
+    }
+  ],
+  "capturado_en": "2026-02-25T17:24:14.358Z",
+  "hasImages": true,
+  "primaryImage": "/data/demo/legajos/10/images/1145__01__022-311a.jpg",
+  "previousCartaId": "1144",
+  "nextCartaId": "1146"
+}

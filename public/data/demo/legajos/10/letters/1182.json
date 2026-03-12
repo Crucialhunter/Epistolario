@@ -1,0 +1,40 @@
+{
+  "id_carta": "1182",
+  "url_origen": "http://santacilia.info/info_carta2.php?id=1182",
+  "legajo": 10,
+  "signatura": "090-349a",
+  "nombre_carta": "Carta de Pablo Corbella a Jerónimo Pelegrín de Aragüés",
+  "fecha": "27 de agosto de 1668",
+  "lugar": "Arenys de Mar",
+  "remitente": "Pablo Corbella",
+  "destinatario": "Jerónimo Pelegrín de Aragüés",
+  "temas": "Sin especificar",
+  "idioma": "castellano",
+  "resumen": "Lorem ipsum ad his scripta blandit partiendo, eum fastidii accumsan euripidis in, eum liber hendrerit an. Qui ut wisi vocibus suscipiantur, quo dicit ridens inciderint id. Quo mundi lobortis reformidans eu, legimus senserit definiebas an eos. Eu sit tincidunt incorrupte definitionem, vis mutat affert percipit cu, eirmod consectetuer signiferumque eu per. In usu latine equidem dolores.",
+  "transcripcion": {
+    "modernizada": "Amigo y señor, Yo me hallo en este lugar con las galeras de Cerdeña, a donde las ha mandado venir el duque de Osuna para con otras dos de España varar o echar a la mar un bajel que se ha hecho aquí, y partiendo un bergantín doy a v. m. esta noticia; y de que habiendo sucedido en Càller (Cagliari) lo que v. m. habrá sabido de haber muerto el señor virrey viendo estaba aquello de nueva data y que se venían las dos galeras Capitana y Patrona con mi señora la marquesa de Camarasa y su casa en la primera y en la segunda el príncipe Ludovi sirviendo esta ocasión me embarqué para volverme en ellas, que me parece será con brevedad con el marqués o duque de San German que está [1§] nombrado por virrey de aquel reino y de lo que hubiere o donde fuere avisaré a v. m. Ahora v. m. se sirva decir al señor don Diego Jeronimo Costa le beso las manos y que yo he venido desde Càller (Cagliari) en la Patrona con el señor Pedro, nuestro patrón, que antes de este partió su excelencia por la costa para Madrid con don Josep Navarro y don Luis Parisano y que a 17 le salió a recibir su agente vizconde que su excelencia nos dijo volvería a Barcelona dentro de veinte días, que a mi me escribe estará allí más de lo que pensaba. Espero el sábado que viene para saber algunas. Guarde Nuestro Señor a v. m. como deseo en toda felicidad. Arenys de Mar y agosto, 27 de 1668. Amigo de v. m. que sus manos besa, Pablo Corbella. PD: v. m. dé de mi parte muchos recados al señor Pedro Sanchez. Jeronimo Pelegrin de Aragues [2§] A Jeronimo Pelegrin de Aragues, guarde Dios. Vive en casa el señor d. Pedro Santacilia. En Mallorca. [con otra letra] Arenys, 27 de agosto 1668. De don Pablo Corbella",
+    "literal": "1. Amigo y sr. yo me allo en este lugar con 2. las galeras de Serdeña a donde las 3. a mandado benir el Sr. Duque de Osuna 4. pa con otras dos de España barar, o, echar 5. a la mar un bajel que se a hecho aquí y 6. partiendo un bergantin doy a V.M. esta 7. noticia y de que aviendo sucedido en Caller 8. lo que V.M. abra sabido de aver muerto 9. al Sr. Virrey biendo estaba aquello de nueba 10. data y que se benian las dos galeras 11. Capna y Patrona con mi Sra. la Maquesa 12. de Camarasa y su casa en la primera 13. y en la segunda el Sr. Principe Lu 14. dovi sirbiendo esta ocasión me embar 15. que pa balerme en ellas que me 16. parece sera con brevedad con el Sr. 17. Marqués, o duque de San German questa [☞]"
+  },
+  "imagenes": [
+    {
+      "src": "/data/demo/legajos/10/images/1182__01__090-349a.jpg",
+      "order": 1,
+      "originalFilename": "090-349a.jpg"
+    },
+    {
+      "src": "/data/demo/legajos/10/images/1182__02__091-349b.jpg",
+      "order": 2,
+      "originalFilename": "091-349b.jpg"
+    },
+    {
+      "src": "/data/demo/legajos/10/images/1182__03__092-349c.jpg",
+      "order": 3,
+      "originalFilename": "092-349c.jpg"
+    }
+  ],
+  "capturado_en": "2026-02-25T17:25:48.554Z",
+  "hasImages": true,
+  "primaryImage": "/data/demo/legajos/10/images/1182__01__090-349a.jpg",
+  "previousCartaId": "1181",
+  "nextCartaId": "1183"
+}

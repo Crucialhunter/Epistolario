@@ -1,0 +1,30 @@
+{
+  "id_carta": "1228",
+  "url_origen": "http://santacilia.info/info_carta2.php?id=1228",
+  "legajo": 10,
+  "signatura": "168-395",
+  "nombre_carta": "Carta de José Balell a Jerónimo Pelegrín de Aragüés",
+  "fecha": "24 de noviembre de 1668",
+  "lugar": "Barcelona",
+  "remitente": "José Balell",
+  "destinatario": "Jerónimo Pelegrín de Aragüés",
+  "temas": "Sin especificar",
+  "idioma": "castellano",
+  "resumen": "Lorem ipsum ad his scripta blandit partiendo, eum fastidii accumsan euripidis in, eum liber hendrerit an. Qui ut wisi vocibus suscipiantur, quo dicit ridens inciderint id. Quo mundi lobortis reformidans eu, legimus senserit definiebas an eos. Eu sit tincidunt incorrupte definitionem, vis mutat affert percipit cu, eirmod consectetuer signiferumque eu per. In usu latine equidem dolores.",
+  "transcripcion": {
+    "modernizada": "Amigo y señor, En este puerto me avisan que esta noche se parte embarcación, con que hallándome con el incluso del señor d. Pedro le remito sin escribir a otro que a v. m., y así se servirá de dar mis recados a mi señora y al señor d. Nicolás y a todos los amigos. Al señor d. Juan tenemos junto [?] a tiro de arcabuz de esta ciudad y pues sabrá lo demás por la del señor d. Pedro. Le escribo quiera Dios que las materias se remedien, que guarde a v. m. muchos años como deseo. Barcelona y noviembre, 24 de 1668. Cierto servidor y amigo de v. m. que sus manos besa, Josep Balell Señor Jeronimo Pelegrin de Aragues",
+    "literal": "1. Amigo y sr. en este puerto me 2. avisan que esta noche se par 3. te embarcacion con que ha 4. llandome con el Juiloso del 5. Sr. D. Po le remito sin escri 6. bir a otro que a V.M. y asi se 7. servira de dar mis recados a 8. mi Sra. y al Sr. D. Nicolás y a to 9. dos los amigos. Al sr. D. Juan 10. tenemos junto [^??^] a tiro 11. de arcabus desta ciud y pues sabra lo demas por la del Sr. d. 12. Pedro lo escrivo quiera Dios que 13. las materias se remedien 14. que gde a V.M. ms a< ño>s como 15. deseo. Barcelona y nbre 24 16. de 1668.17. Vuestro seror y Amigo de V.M. q s m b 18. Joseph Balell 19. [^Sr. Geronimo Pelegrin de Aragues^] [☞]"
+  },
+  "imagenes": [
+    {
+      "src": "/data/demo/legajos/10/images/1228__01__168-395.jpg",
+      "order": 1,
+      "originalFilename": "168-395.jpg"
+    }
+  ],
+  "capturado_en": "2026-02-25T17:27:31.074Z",
+  "hasImages": true,
+  "primaryImage": "/data/demo/legajos/10/images/1228__01__168-395.jpg",
+  "previousCartaId": "1227",
+  "nextCartaId": "1229"
+}

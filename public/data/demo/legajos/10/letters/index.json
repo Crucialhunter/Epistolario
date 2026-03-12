@@ -1,0 +1,992 @@
+[
+  {
+    "id_carta": "1135",
+    "fecha": "22 de mayo de 1668",
+    "remitente": "Jerónimo Pelegrín de Aragüés",
+    "destinatario": "Antoni Company",
+    "lugar": "Palma",
+    "temas": "Solicitud de información",
+    "hasImages": true,
+    "primaryImage": "/data/demo/legajos/10/images/1135__01__001-301aa.jpg"
+  },
+  {
+    "id_carta": "1136",
+    "fecha": "22 de mayo de 1668",
+    "remitente": "Andrés García de Castro",
+    "destinatario": "Jerónimo Pelegrín de Aragüés",
+    "lugar": "Valencia",
+    "temas": "Económica",
+    "hasImages": true,
+    "primaryImage": "/data/demo/legajos/10/images/1136__01__003-302.jpg"
+  },
+  {
+    "id_carta": "1137",
+    "fecha": "30 de mayo de 1668",
+    "remitente": "Miguel Malo",
+    "destinatario": "Jerónimo Pelegrín de Aragüés",
+    "lugar": "Madrid",
+    "temas": "Sin especificar",
+    "hasImages": true,
+    "primaryImage": "/data/demo/legajos/10/images/1137__01__004-303.jpg"
+  },
+  {
+    "id_carta": "1138",
+    "fecha": "2 de junio de 1668",
+    "remitente": "Pablo Corbella",
+    "destinatario": "Jerónimo Pelegrín de Aragüés",
+    "lugar": "Càller (Cagliari)",
+    "temas": "Sin especificar",
+    "hasImages": true,
+    "primaryImage": "/data/demo/legajos/10/images/1138__01__005-304a.jpg"
+  },
+  {
+    "id_carta": "1139",
+    "fecha": "6 de junio de 1668",
+    "remitente": "Diego Matías de Aragüés",
+    "destinatario": "Jerónimo Pelegrín de Aragüés",
+    "lugar": "Madrid",
+    "temas": "Sin especificar",
+    "hasImages": true,
+    "primaryImage": "/data/demo/legajos/10/images/1139__01__008-305a.jpg"
+  },
+  {
+    "id_carta": "1140",
+    "fecha": "8 de junio de 1668",
+    "remitente": "Diego Matías de Aragüés",
+    "destinatario": "Jerónimo Pelegrín de Aragüés",
+    "lugar": "Madrid",
+    "temas": "Bélica",
+    "hasImages": true,
+    "primaryImage": "/data/demo/legajos/10/images/1140__01__011-306a.jpg"
+  },
+  {
+    "id_carta": "1141",
+    "fecha": "14 de junio de 1668",
+    "remitente": "Francesc Gual i Sunyer",
+    "destinatario": "Jerónimo Pelegrín de Aragüés",
+    "lugar": "Madrid",
+    "temas": "Sin especificar",
+    "hasImages": true,
+    "primaryImage": "/data/demo/legajos/10/images/1141__01__014-307.jpg"
+  },
+  {
+    "id_carta": "1142",
+    "fecha": "16 de junio de 1668",
+    "remitente": "Manuel de Sarabia Velázquez",
+    "destinatario": "Jerónimo Pelegrín de Aragüés",
+    "lugar": "Càller (Cagliari)",
+    "temas": "Sin especificar",
+    "hasImages": true,
+    "primaryImage": "/data/demo/legajos/10/images/1142__01__015-308a.jpg"
+  },
+  {
+    "id_carta": "1143",
+    "fecha": "16 de junio de 1668",
+    "remitente": "Pablo Corbella",
+    "destinatario": "Jerónimo Pelegrín de Aragüés",
+    "lugar": "Càller (Cagliari)",
+    "temas": "Sin especificar",
+    "hasImages": true,
+    "primaryImage": "/data/demo/legajos/10/images/1143__01__018-309a.jpg"
+  },
+  {
+    "id_carta": "1144",
+    "fecha": "18 de junio de 1668",
+    "remitente": "Fructuoso Giner",
+    "destinatario": "Jerónimo Pelegrín de Aragüés",
+    "lugar": "Ibiza",
+    "temas": "Sin especificar",
+    "hasImages": true,
+    "primaryImage": "/data/demo/legajos/10/images/1144__01__020-310a.jpg"
+  },
+  {
+    "id_carta": "1145",
+    "fecha": "18 de junio de 1668",
+    "remitente": "Pedro Santacilia y Pax",
+    "destinatario": "Jerónimo Pelegrín de Aragüés",
+    "lugar": "Andratx",
+    "temas": "Sin especificar",
+    "hasImages": true,
+    "primaryImage": "/data/demo/legajos/10/images/1145__01__022-311a.jpg"
+  },
+  {
+    "id_carta": "1146",
+    "fecha": "20 de junio de 1668",
+    "remitente": "Miguel Malo",
+    "destinatario": "Jerónimo Pelegrín de Aragüés",
+    "lugar": "Madrid",
+    "temas": "Sin especificar",
+    "hasImages": true,
+    "primaryImage": "/data/demo/legajos/10/images/1146__01__024-312.jpg"
+  },
+  {
+    "id_carta": "1147",
+    "fecha": "23 de julio de 1668",
+    "remitente": "Miguel Malo",
+    "destinatario": "Jerónimo Pelegrín de Aragüés",
+    "lugar": "Madrid",
+    "temas": "Sin especificar",
+    "hasImages": true,
+    "primaryImage": "/data/demo/legajos/10/images/1147__01__025-313.jpg"
+  },
+  {
+    "id_carta": "1148",
+    "fecha": "24 de junio de 1668",
+    "remitente": "Sebastián Garau",
+    "destinatario": "Jerónimo Pelegrín de Aragüés",
+    "lugar": "Palma",
+    "temas": "Sin especificar",
+    "hasImages": true,
+    "primaryImage": "/data/demo/legajos/10/images/1148__01__026-314a.jpg"
+  },
+  {
+    "id_carta": "1149",
+    "fecha": "28 de junio de 1668",
+    "remitente": "Miguel Malo",
+    "destinatario": "Jerónimo Pelegrín de Aragüés",
+    "lugar": "Madrid",
+    "temas": "Sin especificar",
+    "hasImages": true,
+    "primaryImage": "/data/demo/legajos/10/images/1149__01__028-315.jpg"
+  },
+  {
+    "id_carta": "1150",
+    "fecha": "28 de junio de 1668",
+    "remitente": "Arnau de Santacilia",
+    "destinatario": "Jerónimo Pelegrín de Aragüés",
+    "lugar": "Valencia",
+    "temas": "Sin especificar",
+    "hasImages": true,
+    "primaryImage": "/data/demo/legajos/10/images/1150__01__029-316.jpg"
+  },
+  {
+    "id_carta": "1151",
+    "fecha": "30 de junio de 1668",
+    "remitente": "Miguel Malo",
+    "destinatario": "Jerónimo Pelegrín de Aragüés",
+    "lugar": "Madrid",
+    "temas": "Sin especificar",
+    "hasImages": true,
+    "primaryImage": "/data/demo/legajos/10/images/1151__01__030-317.jpg"
+  },
+  {
+    "id_carta": "1152",
+    "fecha": "2 de julio de 1668",
+    "remitente": "Gabriel Roger",
+    "destinatario": "Jerónimo Pelegrín de Aragüés",
+    "lugar": "Valencia",
+    "temas": "Sin especificar",
+    "hasImages": true,
+    "primaryImage": "/data/demo/legajos/10/images/1152__01__031-318a.jpg"
+  },
+  {
+    "id_carta": "1153",
+    "fecha": "3 de julio de 1668",
+    "remitente": "Pedro Santacilia y Pax",
+    "destinatario": "Jerónimo Pelegrín de Aragüés",
+    "lugar": "Valencia",
+    "temas": "Sin especificar",
+    "hasImages": true,
+    "primaryImage": "/data/demo/legajos/10/images/1153__01__033-319.jpg"
+  },
+  {
+    "id_carta": "1154",
+    "fecha": "4 de julio de 1668",
+    "remitente": "Miguel Malo",
+    "destinatario": "Jerónimo Pelegrín de Aragüés",
+    "lugar": "Madrid",
+    "temas": "Sin especificar",
+    "hasImages": true,
+    "primaryImage": "/data/demo/legajos/10/images/1154__01__034-320a.jpg"
+  },
+  {
+    "id_carta": "1155",
+    "fecha": "4 de julio de 1668",
+    "remitente": "Diego Matías de Aragüés",
+    "destinatario": "Jerónimo Pelegrín de Aragüés",
+    "lugar": "Madrid",
+    "temas": "Sin especificar",
+    "hasImages": true,
+    "primaryImage": "/data/demo/legajos/10/images/1155__01__036-321a.jpg"
+  },
+  {
+    "id_carta": "1156",
+    "fecha": "6 de julio de 1668",
+    "remitente": "María Rendón Sarmiento",
+    "destinatario": "Jerónimo Pelegrín de Aragüés",
+    "lugar": "Cádiz",
+    "temas": "Mujer",
+    "hasImages": true,
+    "primaryImage": "/data/demo/legajos/10/images/1156__01__038-322.jpg"
+  },
+  {
+    "id_carta": "1157",
+    "fecha": "10 de julio de 1668",
+    "remitente": "Juan Lañez",
+    "destinatario": "Jerónimo Pelegrín de Aragüés",
+    "lugar": "Sin especificar",
+    "temas": "Sin especificar",
+    "hasImages": true,
+    "primaryImage": "/data/demo/legajos/10/images/1157__01__039-323.jpg"
+  },
+  {
+    "id_carta": "1158",
+    "fecha": "20 de julio de 1668",
+    "remitente": "Juan Miguel de Santacilia y Togores",
+    "destinatario": "Jerónimo Pelegrín de Aragüés",
+    "lugar": "Madrid",
+    "temas": "Sin especificar",
+    "hasImages": true,
+    "primaryImage": "/data/demo/legajos/10/images/1158__01__040-324a.jpg"
+  },
+  {
+    "id_carta": "1159",
+    "fecha": "20 de julio de 1668",
+    "remitente": "Diego Matías de Aragüés",
+    "destinatario": "Jerónimo Pelegrín de Aragüés",
+    "lugar": "Madrid",
+    "temas": "Sin especificar",
+    "hasImages": true,
+    "primaryImage": "/data/demo/legajos/10/images/1159__01__042-325a.jpg"
+  },
+  {
+    "id_carta": "1160",
+    "fecha": "20 de julio de 1668",
+    "remitente": "Gabriel Roger",
+    "destinatario": "Jerónimo Pelegrín de Aragüés",
+    "lugar": "Madrid",
+    "temas": "Sin especificar",
+    "hasImages": true,
+    "primaryImage": "/data/demo/legajos/10/images/1160__01__045-326a.jpg"
+  },
+  {
+    "id_carta": "1161",
+    "fecha": "21 de julio de 1668",
+    "remitente": "Pedro Santacilia y Pax",
+    "destinatario": "Jerónimo Pelegrín de Aragüés",
+    "lugar": "Madrid",
+    "temas": "Sin especificar",
+    "hasImages": true,
+    "primaryImage": "/data/demo/legajos/10/images/1161__01__047-327a.jpg"
+  },
+  {
+    "id_carta": "1162",
+    "fecha": "21 de julio de 1668",
+    "remitente": "Josep Togores",
+    "destinatario": "Jerónimo Pelegrín de Aragüés",
+    "lugar": "Madrid",
+    "temas": "Sin especificar",
+    "hasImages": true,
+    "primaryImage": "/data/demo/legajos/10/images/1162__01__049-328a.jpg"
+  },
+  {
+    "id_carta": "1163",
+    "fecha": "22 de julio de 1668",
+    "remitente": "Juan Grimalt",
+    "destinatario": "Jerónimo Pelegrín de Aragüés",
+    "lugar": "Santa Margalida",
+    "temas": "Sin especificar",
+    "hasImages": true,
+    "primaryImage": "/data/demo/legajos/10/images/1163__01__051-329a.jpg"
+  },
+  {
+    "id_carta": "1164",
+    "fecha": "25 de julio de 1668",
+    "remitente": "Pedro Santacilia y Pax",
+    "destinatario": "Jerónimo Pelegrín de Aragüés",
+    "lugar": "Madrid",
+    "temas": "Sin especificar",
+    "hasImages": true,
+    "primaryImage": "/data/demo/legajos/10/images/1164__01__052-330a.jpg"
+  },
+  {
+    "id_carta": "1165",
+    "fecha": "25 de julio de 1668",
+    "remitente": "Miguel Malo",
+    "destinatario": "Jerónimo Pelegrín de Aragüés",
+    "lugar": "Madrid",
+    "temas": "Sin especificar",
+    "hasImages": true,
+    "primaryImage": "/data/demo/legajos/10/images/1165__01__054-331a.jpg"
+  },
+  {
+    "id_carta": "1166",
+    "fecha": "28 de julio de 1668",
+    "remitente": "Jaume Nadal i Riera",
+    "destinatario": "Jerónimo Pelegrín de Aragüés",
+    "lugar": "Manacor",
+    "temas": "Sin especificar",
+    "hasImages": true,
+    "primaryImage": "/data/demo/legajos/10/images/1166__01__056-332a.jpg"
+  },
+  {
+    "id_carta": "1167",
+    "fecha": "28 de julio de 1668",
+    "remitente": "Jaume Francesc",
+    "destinatario": "Jerónimo Pelegrín de Aragüés",
+    "lugar": "Reus",
+    "temas": "Sin especificar",
+    "hasImages": true,
+    "primaryImage": "/data/demo/legajos/10/images/1167__01__058-333a.jpg"
+  },
+  {
+    "id_carta": "1168",
+    "fecha": "30 de julio de 1668",
+    "remitente": "Luis Viguet",
+    "destinatario": "Jerónimo Pelegrín de Aragüés",
+    "lugar": "Valencia",
+    "temas": "Sin especificar",
+    "hasImages": true,
+    "primaryImage": "/data/demo/legajos/10/images/1168__01__062-334a.jpg"
+  },
+  {
+    "id_carta": "1169",
+    "fecha": "30 de julio de 1668",
+    "remitente": "María Rendón Sarmiento",
+    "destinatario": "Jerónimo Pelegrín de Aragüés",
+    "lugar": "Cádiz",
+    "temas": "Mujer",
+    "hasImages": true,
+    "primaryImage": "/data/demo/legajos/10/images/1169__01__064-335.jpg"
+  },
+  {
+    "id_carta": "1170",
+    "fecha": "31 de julio de 1668",
+    "remitente": "Miguel Sancho",
+    "destinatario": "Jerónimo Pelegrín de Aragüés",
+    "lugar": "Alicante",
+    "temas": "Sin especificar",
+    "hasImages": true,
+    "primaryImage": "/data/demo/legajos/10/images/1170__01__065-336a.jpg"
+  },
+  {
+    "id_carta": "1171",
+    "fecha": "22 de julio de 1668",
+    "remitente": "Fructuoso Giner",
+    "destinatario": "Jerónimo Pelegrín de Aragüés",
+    "lugar": "Ibiza",
+    "temas": "Sin especificar",
+    "hasImages": true,
+    "primaryImage": "/data/demo/legajos/10/images/1171__01__067-337a.jpg"
+  },
+  {
+    "id_carta": "1172",
+    "fecha": "1 de agosto de 1668",
+    "remitente": "Andrés García de Castro",
+    "destinatario": "Jerónimo Pelegrín de Aragüés",
+    "lugar": "Valencia",
+    "temas": "Sin especificar",
+    "hasImages": true,
+    "primaryImage": "/data/demo/legajos/10/images/1172__01__070-338a.jpg"
+  },
+  {
+    "id_carta": "1173",
+    "fecha": "8 de agosto de 1668",
+    "remitente": "Diego Matías de Aragüés",
+    "destinatario": "Jerónimo Pelegrín de Aragüés",
+    "lugar": "Madrid",
+    "temas": "Sin especificar",
+    "hasImages": true,
+    "primaryImage": "/data/demo/legajos/10/images/1173__01__073-339a.jpg"
+  },
+  {
+    "id_carta": "1174",
+    "fecha": "9 de agosto de 1668",
+    "remitente": "Gabriel Roger",
+    "destinatario": "Jerónimo Pelegrín de Aragüés",
+    "lugar": "Madrid",
+    "temas": "Sin especificar",
+    "hasImages": true,
+    "primaryImage": "/data/demo/legajos/10/images/1174__01__075-340a.jpg"
+  },
+  {
+    "id_carta": "1175",
+    "fecha": "15 de agosto de 1668",
+    "remitente": "Gabriel Roger",
+    "destinatario": "Jerónimo Pelegrín de Aragüés",
+    "lugar": "Madrid",
+    "temas": "Sin especificar",
+    "hasImages": true,
+    "primaryImage": "/data/demo/legajos/10/images/1175__01__077-341a.jpg"
+  },
+  {
+    "id_carta": "1176",
+    "fecha": "18 de agosto de 1668",
+    "remitente": "Andreu Corró",
+    "destinatario": "Jerónimo Pelegrín de Aragüés",
+    "lugar": "Pollença",
+    "temas": "Sin especificar",
+    "hasImages": true,
+    "primaryImage": "/data/demo/legajos/10/images/1176__01__079-342a.jpg"
+  },
+  {
+    "id_carta": "1177",
+    "fecha": "22 de agosto de 1668",
+    "remitente": "Miguel Malo",
+    "destinatario": "Jerónimo Pelegrín de Aragüés",
+    "lugar": "Madrid",
+    "temas": "Sin especificar",
+    "hasImages": true,
+    "primaryImage": "/data/demo/legajos/10/images/1177__01__081-344.jpg"
+  },
+  {
+    "id_carta": "1178",
+    "fecha": "25 de agosto de 1668",
+    "remitente": "Gabriel Roger",
+    "destinatario": "Jerónimo Pelegrín de Aragüés",
+    "lugar": "Madrid",
+    "temas": "Sin especificar",
+    "hasImages": true,
+    "primaryImage": "/data/demo/legajos/10/images/1178__01__082-345.jpg"
+  },
+  {
+    "id_carta": "1179",
+    "fecha": "25 de agosto de 1668",
+    "remitente": "Diego Matías de Aragüés",
+    "destinatario": "Jerónimo Pelegrín de Aragüés",
+    "lugar": "Madrid",
+    "temas": "Sin especificar",
+    "hasImages": true,
+    "primaryImage": "/data/demo/legajos/10/images/1179__01__083-346a.jpg"
+  },
+  {
+    "id_carta": "1180",
+    "fecha": "25 de agosto de 1668",
+    "remitente": "Pedro Santacilia y Pax",
+    "destinatario": "Jerónimo Pelegrín de Aragüés",
+    "lugar": "Madrid",
+    "temas": "Sin especificar",
+    "hasImages": true,
+    "primaryImage": "/data/demo/legajos/10/images/1180__01__086-347a.jpg"
+  },
+  {
+    "id_carta": "1181",
+    "fecha": "25 de agosto de 1668",
+    "remitente": "Pedro Santacilia y Pax",
+    "destinatario": "Jerónimo Pelegrín de Aragüés",
+    "lugar": "Madrid",
+    "temas": "Sin especificar",
+    "hasImages": true,
+    "primaryImage": "/data/demo/legajos/10/images/1181__01__088-348a.jpg"
+  },
+  {
+    "id_carta": "1182",
+    "fecha": "27 de agosto de 1668",
+    "remitente": "Pablo Corbella",
+    "destinatario": "Jerónimo Pelegrín de Aragüés",
+    "lugar": "Arenys de Mar",
+    "temas": "Sin especificar",
+    "hasImages": true,
+    "primaryImage": "/data/demo/legajos/10/images/1182__01__090-349a.jpg"
+  },
+  {
+    "id_carta": "1183",
+    "fecha": "29 de agosto de 1668",
+    "remitente": "Miguel Malo",
+    "destinatario": "Jerónimo Pelegrín de Aragüés",
+    "lugar": "Madrid",
+    "temas": "Sin especificar",
+    "hasImages": true,
+    "primaryImage": "/data/demo/legajos/10/images/1183__01__093-350.jpg"
+  },
+  {
+    "id_carta": "1184",
+    "fecha": "22 de agosto de 1668",
+    "remitente": "Diego Matías de Aragüés",
+    "destinatario": "Jerónimo Pelegrín de Aragüés",
+    "lugar": "Madrid",
+    "temas": "Sin especificar",
+    "hasImages": true,
+    "primaryImage": "/data/demo/legajos/10/images/1184__01__094-351a.jpg"
+  },
+  {
+    "id_carta": "1185",
+    "fecha": "30 de agosto de 1668",
+    "remitente": "José Balell",
+    "destinatario": "Jerónimo Pelegrín de Aragüés",
+    "lugar": "Barcelona",
+    "temas": "Sin especificar",
+    "hasImages": true,
+    "primaryImage": "/data/demo/legajos/10/images/1185__01__096-352a.jpg"
+  },
+  {
+    "id_carta": "1186",
+    "fecha": "4 de septiembre de 1668",
+    "remitente": "Gabriel Roger",
+    "destinatario": "Jerónimo Pelegrín de Aragüés",
+    "lugar": "Madrid",
+    "temas": "Sin especificar",
+    "hasImages": true,
+    "primaryImage": "/data/demo/legajos/10/images/1186__01__098-353a.jpg"
+  },
+  {
+    "id_carta": "1187",
+    "fecha": "8 de septiembre de 1668",
+    "remitente": "Cristobal Madron",
+    "destinatario": "Jerónimo Pelegrín de Aragüés",
+    "lugar": "Valencia",
+    "temas": "Sin especificar",
+    "hasImages": true,
+    "primaryImage": "/data/demo/legajos/10/images/1187__01__100-354.jpg"
+  },
+  {
+    "id_carta": "1188",
+    "fecha": "8 de septiembre de 1668",
+    "remitente": "Pedro Santacilia y Pax",
+    "destinatario": "Jerónimo Pelegrín de Aragüés",
+    "lugar": "Madrid",
+    "temas": "Sin especificar",
+    "hasImages": true,
+    "primaryImage": "/data/demo/legajos/10/images/1188__01__101-355a.jpg"
+  },
+  {
+    "id_carta": "1189",
+    "fecha": "8 de septiembre de 1668",
+    "remitente": "Diego Matías de Aragüés",
+    "destinatario": "Jerónimo Pelegrín de Aragüés",
+    "lugar": "Madrid",
+    "temas": "Sin especificar",
+    "hasImages": true,
+    "primaryImage": "/data/demo/legajos/10/images/1189__01__103-356aJPG.jpg"
+  },
+  {
+    "id_carta": "1190",
+    "fecha": "12 de septiembre de 1668",
+    "remitente": "Pedro Santacilia y Pax",
+    "destinatario": "Jerónimo Pelegrín de Aragüés",
+    "lugar": "Madrid",
+    "temas": "Sin especificar",
+    "hasImages": true,
+    "primaryImage": "/data/demo/legajos/10/images/1190__01__105-357a.jpg"
+  },
+  {
+    "id_carta": "1191",
+    "fecha": "12 de septiembre de 1668",
+    "remitente": "Diego Matías de Aragüés",
+    "destinatario": "Jerónimo Pelegrín de Aragüés",
+    "lugar": "Madrid",
+    "temas": "Sin especificar",
+    "hasImages": true,
+    "primaryImage": "/data/demo/legajos/10/images/1191__01__107-358a.jpg"
+  },
+  {
+    "id_carta": "1192",
+    "fecha": "13 de septiembre de 1668",
+    "remitente": "Miguel Sancho",
+    "destinatario": "Jerónimo Pelegrín de Aragüés",
+    "lugar": "Alicante",
+    "temas": "Sin especificar",
+    "hasImages": true,
+    "primaryImage": "/data/demo/legajos/10/images/1192__01__109-359.jpg"
+  },
+  {
+    "id_carta": "1193",
+    "fecha": "14 de septiembre de 1668",
+    "remitente": "Pedro Santacilia y Pax",
+    "destinatario": "Jerónimo Pelegrín de Aragüés",
+    "lugar": "Madrid",
+    "temas": "Sin especificar",
+    "hasImages": true,
+    "primaryImage": "/data/demo/legajos/10/images/1193__01__110-360a.jpg"
+  },
+  {
+    "id_carta": "1194",
+    "fecha": "14 de septiembre de 1668",
+    "remitente": "Basilio de Castellví y Ponce",
+    "destinatario": "Jerónimo Pelegrín de Aragüés",
+    "lugar": "Valencia",
+    "temas": "Sin especificar",
+    "hasImages": true,
+    "primaryImage": "/data/demo/legajos/10/images/1194__01__112-361.jpg"
+  },
+  {
+    "id_carta": "1195",
+    "fecha": "14 de septiembre de 1668",
+    "remitente": "Ramon Alamany",
+    "destinatario": "Jerónimo Pelegrín de Aragüés",
+    "lugar": "Andratx",
+    "temas": "Sin especificar",
+    "hasImages": true,
+    "primaryImage": "/data/demo/legajos/10/images/1195__01__113-362a.jpg"
+  },
+  {
+    "id_carta": "1196",
+    "fecha": "15 de septiembre de 1668",
+    "remitente": "Pedro Decanedo",
+    "destinatario": "Jerónimo Pelegrín de Aragüés",
+    "lugar": "Valencia",
+    "temas": "Sin especificar",
+    "hasImages": true,
+    "primaryImage": "/data/demo/legajos/10/images/1196__01__114-363.jpg"
+  },
+  {
+    "id_carta": "1197",
+    "fecha": "18 de septiembre de 1668",
+    "remitente": "José Balell",
+    "destinatario": "Jerónimo Pelegrín de Aragüés",
+    "lugar": "Barcelona",
+    "temas": "Sin especificar",
+    "hasImages": true,
+    "primaryImage": "/data/demo/legajos/10/images/1197__01__115-364a.jpg"
+  },
+  {
+    "id_carta": "1198",
+    "fecha": "19 de octubre de 1668",
+    "remitente": "Juan Francisco Pueyo y Clavería",
+    "destinatario": "Jerónimo Pelegrín de Aragüés",
+    "lugar": "Madrid",
+    "temas": "Sin especificar",
+    "hasImages": true,
+    "primaryImage": "/data/demo/legajos/10/images/1198__01__117-365a.jpg"
+  },
+  {
+    "id_carta": "1199",
+    "fecha": "19 de septiembre de 1668",
+    "remitente": "Diego Matías de Aragüés",
+    "destinatario": "Jerónimo Pelegrín de Aragüés",
+    "lugar": "Madrid",
+    "temas": "Sin especificar",
+    "hasImages": true,
+    "primaryImage": "/data/demo/legajos/10/images/1199__01__119-366a.jpg"
+  },
+  {
+    "id_carta": "1200",
+    "fecha": "21 de agosto de 1668",
+    "remitente": "Pedro Santacilia y Pax",
+    "destinatario": "Jerónimo Pelegrín de Aragüés",
+    "lugar": "Madrid",
+    "temas": "Sin especificar",
+    "hasImages": true,
+    "primaryImage": "/data/demo/legajos/10/images/1200__01__122-367a.jpg"
+  },
+  {
+    "id_carta": "1201",
+    "fecha": "22 de septiembre de 1668",
+    "remitente": "Gabriel Amengual",
+    "destinatario": "Jerónimo Pelegrín de Aragüés",
+    "lugar": "Roma",
+    "temas": "Sin especificar",
+    "hasImages": true,
+    "primaryImage": "/data/demo/legajos/10/images/1201__01__124-368a.jpg"
+  },
+  {
+    "id_carta": "1202",
+    "fecha": "26 de septiembre de 1668",
+    "remitente": "Diego Matías de Aragüés",
+    "destinatario": "Jerónimo Pelegrín de Aragüés",
+    "lugar": "Madrid",
+    "temas": "Sin especificar",
+    "hasImages": true,
+    "primaryImage": "/data/demo/legajos/10/images/1202__01__126-369a.jpg"
+  },
+  {
+    "id_carta": "1203",
+    "fecha": "29 de septiembre de 1668",
+    "remitente": "José Balell",
+    "destinatario": "Jerónimo Pelegrín de Aragüés",
+    "lugar": "Barcelona",
+    "temas": "Sin especificar",
+    "hasImages": true,
+    "primaryImage": "/data/demo/legajos/10/images/1203__01__128-370.jpg"
+  },
+  {
+    "id_carta": "1204",
+    "fecha": "24 de septiembre de 1668",
+    "remitente": "Pere Joan Font",
+    "destinatario": "Jerónimo Pelegrín de Aragüés",
+    "lugar": "Muro",
+    "temas": "Sin especificar",
+    "hasImages": true,
+    "primaryImage": "/data/demo/legajos/10/images/1204__01__129-371a.jpg"
+  },
+  {
+    "id_carta": "1205",
+    "fecha": "1 de octubre de 1668",
+    "remitente": "Gabriel Roger",
+    "destinatario": "Jerónimo Pelegrín de Aragüés",
+    "lugar": "Madrid",
+    "temas": "Sin especificar",
+    "hasImages": true,
+    "primaryImage": "/data/demo/legajos/10/images/1205__01__130-372.jpg"
+  },
+  {
+    "id_carta": "1206",
+    "fecha": "6 de octubre de 1668",
+    "remitente": "Gabriel Roger",
+    "destinatario": "Jerónimo Pelegrín de Aragüés",
+    "lugar": "Madrid",
+    "temas": "Sin especificar",
+    "hasImages": true,
+    "primaryImage": "/data/demo/legajos/10/images/1206__01__131-373.jpg"
+  },
+  {
+    "id_carta": "1207",
+    "fecha": "6 de octubre de 1668",
+    "remitente": "Diego Matías de Aragüés",
+    "destinatario": "Jerónimo Pelegrín de Aragüés",
+    "lugar": "Madrid",
+    "temas": "Sin especificar",
+    "hasImages": true,
+    "primaryImage": "/data/demo/legajos/10/images/1207__01__132-374a.jpg"
+  },
+  {
+    "id_carta": "1208",
+    "fecha": "7 de octubre de 1668",
+    "remitente": "José Balell",
+    "destinatario": "Jerónimo Pelegrín de Aragüés",
+    "lugar": "Barcelona",
+    "temas": "Sin especificar",
+    "hasImages": true,
+    "primaryImage": "/data/demo/legajos/10/images/1208__01__134-375.jpg"
+  },
+  {
+    "id_carta": "1209",
+    "fecha": "10 de octubre de 1668",
+    "remitente": "Diego Matías de Aragüés",
+    "destinatario": "Jerónimo Pelegrín de Aragüés",
+    "lugar": "Madrid",
+    "temas": "Sin especificar",
+    "hasImages": true,
+    "primaryImage": "/data/demo/legajos/10/images/1209__01__135-376.jpg"
+  },
+  {
+    "id_carta": "1210",
+    "fecha": "10 de octubre de 1668",
+    "remitente": "Gabriel Roger",
+    "destinatario": "Jerónimo Pelegrín de Aragüés",
+    "lugar": "Madrid",
+    "temas": "Sin especificar",
+    "hasImages": true,
+    "primaryImage": "/data/demo/legajos/10/images/1210__01__136-377a.jpg"
+  },
+  {
+    "id_carta": "1211",
+    "fecha": "12 de octubre de 1668",
+    "remitente": "Miguel Sancho",
+    "destinatario": "Jerónimo Pelegrín de Aragüés",
+    "lugar": "Alicante",
+    "temas": "Sin especificar",
+    "hasImages": true,
+    "primaryImage": "/data/demo/legajos/10/images/1211__01__138-378a.jpg"
+  },
+  {
+    "id_carta": "1212",
+    "fecha": "13 de octubre de 1668",
+    "remitente": "José de Cisneros",
+    "destinatario": "Jerónimo Pelegrín de Aragüés",
+    "lugar": "Madrid",
+    "temas": "Sin especificar",
+    "hasImages": true,
+    "primaryImage": "/data/demo/legajos/10/images/1212__01__140-379a.jpg"
+  },
+  {
+    "id_carta": "1213",
+    "fecha": "24 de octubre de 1668",
+    "remitente": "Diego Matías de Aragüés",
+    "destinatario": "Jerónimo Pelegrín de Aragüés",
+    "lugar": "Madrid",
+    "temas": "Sin especificar",
+    "hasImages": true,
+    "primaryImage": "/data/demo/legajos/10/images/1213__01__142-380a.jpg"
+  },
+  {
+    "id_carta": "1214",
+    "fecha": "17 de octubre de 1668",
+    "remitente": "Diego Matías de Aragüés",
+    "destinatario": "Jerónimo Pelegrín de Aragüés",
+    "lugar": "Madrid",
+    "temas": "Sin especificar",
+    "hasImages": true,
+    "primaryImage": "/data/demo/legajos/10/images/1214__01__144-381a.jpg"
+  },
+  {
+    "id_carta": "1215",
+    "fecha": "18 de octubre de 1668",
+    "remitente": "Miguel Sancho",
+    "destinatario": "Jerónimo Pelegrín de Aragüés",
+    "lugar": "Alicante",
+    "temas": "Sin especificar",
+    "hasImages": true,
+    "primaryImage": "/data/demo/legajos/10/images/1215__01__146-382a.jpg"
+  },
+  {
+    "id_carta": "1216",
+    "fecha": "21 de octubre de 1668",
+    "remitente": "Andreu Corró",
+    "destinatario": "Jerónimo Pelegrín de Aragüés",
+    "lugar": "Pollença",
+    "temas": "Sin especificar",
+    "hasImages": true,
+    "primaryImage": "/data/demo/legajos/10/images/1216__01__148-383aa.jpg"
+  },
+  {
+    "id_carta": "1217",
+    "fecha": "24 de octubre de 1668",
+    "remitente": "Miguel Sancho",
+    "destinatario": "Jerónimo Pelegrín de Aragüés",
+    "lugar": "Alicante",
+    "temas": "Sin especificar",
+    "hasImages": true,
+    "primaryImage": "/data/demo/legajos/10/images/1217__01__150-384a.jpg"
+  },
+  {
+    "id_carta": "1218",
+    "fecha": "27 de octubre de 1668",
+    "remitente": "Gabriel Roger",
+    "destinatario": "Jerónimo Pelegrín de Aragüés",
+    "lugar": "Madrid",
+    "temas": "Sin especificar",
+    "hasImages": true,
+    "primaryImage": "/data/demo/legajos/10/images/1218__01__152-385.jpg"
+  },
+  {
+    "id_carta": "1219",
+    "fecha": "31 de octubre de 1668",
+    "remitente": "Diego Matías de Aragüés",
+    "destinatario": "Jerónimo Pelegrín de Aragüés",
+    "lugar": "Madrid",
+    "temas": "Sin especificar",
+    "hasImages": true,
+    "primaryImage": "/data/demo/legajos/10/images/1219__01__153-386.jpg"
+  },
+  {
+    "id_carta": "1220",
+    "fecha": "31 de octubre de 1668",
+    "remitente": "José Balell",
+    "destinatario": "Jerónimo Pelegrín de Aragüés",
+    "lugar": "Barcelona",
+    "temas": "Sin especificar",
+    "hasImages": true,
+    "primaryImage": "/data/demo/legajos/10/images/1220__01__154-387a.jpg"
+  },
+  {
+    "id_carta": "1221",
+    "fecha": "2 de noviembre de 1668",
+    "remitente": "Pedro Aiza y Doménech",
+    "destinatario": "Jerónimo Pelegrín de Aragüés",
+    "lugar": "Ibiza",
+    "temas": "Sin especificar",
+    "hasImages": true,
+    "primaryImage": "/data/demo/legajos/10/images/1221__01__156-388a.jpg"
+  },
+  {
+    "id_carta": "1222",
+    "fecha": "3 de noviembre de 1668",
+    "remitente": "Pablo Corbella",
+    "destinatario": "Jerónimo Pelegrín de Aragüés",
+    "lugar": "Maó",
+    "temas": "Sin especificar",
+    "hasImages": true,
+    "primaryImage": "/data/demo/legajos/10/images/1222__01__158-389a.jpg"
+  },
+  {
+    "id_carta": "1223",
+    "fecha": "6 de noviembre de 1668",
+    "remitente": "Pedro Santacilia y Pax",
+    "destinatario": "Jerónimo Pelegrín de Aragüés",
+    "lugar": "Madrid",
+    "temas": "Sin especificar",
+    "hasImages": true,
+    "primaryImage": "/data/demo/legajos/10/images/1223__01__160-390a.jpg"
+  },
+  {
+    "id_carta": "1224",
+    "fecha": "7 de noviembre de 1668",
+    "remitente": "Diego Matías de Aragüés",
+    "destinatario": "Jerónimo Pelegrín de Aragüés",
+    "lugar": "Madrid",
+    "temas": "Sin especificar",
+    "hasImages": true,
+    "primaryImage": "/data/demo/legajos/10/images/1224__01__162-391.jpg"
+  },
+  {
+    "id_carta": "1225",
+    "fecha": "8 de noviembre de 1668",
+    "remitente": "Luis Viguet",
+    "destinatario": "Jerónimo Pelegrín de Aragüés",
+    "lugar": "Valencia",
+    "temas": "Sin especificar",
+    "hasImages": true,
+    "primaryImage": "/data/demo/legajos/10/images/1225__01__163-392a.jpg"
+  },
+  {
+    "id_carta": "1226",
+    "fecha": "10 de noviembre de 1668",
+    "remitente": "José Balell",
+    "destinatario": "Jerónimo Pelegrín de Aragüés",
+    "lugar": "Barcelona",
+    "temas": "Sin especificar",
+    "hasImages": true,
+    "primaryImage": "/data/demo/legajos/10/images/1226__01__165-393.jpg"
+  },
+  {
+    "id_carta": "1227",
+    "fecha": "19 de noviembre de 1668",
+    "remitente": "José Balell",
+    "destinatario": "Jerónimo Pelegrín de Aragüés",
+    "lugar": "Barcelona",
+    "temas": "Sin especificar",
+    "hasImages": true,
+    "primaryImage": "/data/demo/legajos/10/images/1227__01__166-394a.jpg"
+  },
+  {
+    "id_carta": "1228",
+    "fecha": "24 de noviembre de 1668",
+    "remitente": "José Balell",
+    "destinatario": "Jerónimo Pelegrín de Aragüés",
+    "lugar": "Barcelona",
+    "temas": "Sin especificar",
+    "hasImages": true,
+    "primaryImage": "/data/demo/legajos/10/images/1228__01__168-395.jpg"
+  },
+  {
+    "id_carta": "1229",
+    "fecha": "2 de febrero de 1668",
+    "remitente": "Andrés García de Castro",
+    "destinatario": "Jerónimo Pelegrín de Aragüés",
+    "lugar": "Valencia",
+    "temas": "Económica",
+    "hasImages": true,
+    "primaryImage": "/data/demo/legajos/10/images/1229__01__169-396a.jpg"
+  },
+  {
+    "id_carta": "1230",
+    "fecha": "12 de febrero de 1668",
+    "remitente": "Mateu Armengol",
+    "destinatario": "Jerónimo Pelegrín de Aragüés",
+    "lugar": "Mallorca",
+    "temas": "Recomendación",
+    "hasImages": true,
+    "primaryImage": "/data/demo/legajos/10/images/1230__01__171-397a.jpg"
+  },
+  {
+    "id_carta": "1231",
+    "fecha": "19 de marzo de 1669",
+    "remitente": "Bartolomé Fullana",
+    "destinatario": "Jerónimo Pelegrín de Aragüés",
+    "lugar": "Mallorca",
+    "temas": "Sin especificar",
+    "hasImages": true,
+    "primaryImage": "/data/demo/legajos/10/images/1231__01__173-398.jpg"
+  },
+  {
+    "id_carta": "1232",
+    "fecha": "17 de marzo de 1669",
+    "remitente": "Mateu Armengol",
+    "destinatario": "Jerónimo Pelegrín de Aragüés",
+    "lugar": "Mallorca",
+    "temas": "Sin especificar",
+    "hasImages": true,
+    "primaryImage": "/data/demo/legajos/10/images/1232__01__174-399.jpg"
+  },
+  {
+    "id_carta": "1233",
+    "fecha": "19 de marzo de 1669",
+    "remitente": "Juan Cabrer",
+    "destinatario": "Jerónimo Pelegrín de Aragüés",
+    "lugar": "Cárcel del Palacio Episcopal de Mallorca",
+    "temas": "Sin especificar",
+    "hasImages": true,
+    "primaryImage": "/data/demo/legajos/10/images/1233__01__175-400a.jpg"
+  }
+]
