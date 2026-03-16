@@ -1,0 +1,38 @@
+{
+  "legajo_id": "24",
+  "id_carta": "4010",
+  "order_in_legajo": 58,
+  "signatura": "084:4063.JPG",
+  "nombre_carta": "Carta de Àngela Andreu a Pedro Santacilia y Pax",
+  "fecha_original": "6 de febrero de 1641",
+  "lugar": "Tortosa",
+  "remitente": "Àngela Andreu",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Senyor don Pedro, En esta faig a saber com mon marit és mort, Déu el tingui en el cel, i estic en desig de saber de sa salut si és bona, que rebré gran {ESP. contento} de saber-ho i també li faig a saber com tinc dos matxos en albarda al camp que els se'n porta misser Ballet, jutge de l'Audiència, i estan encomanats al seu comissari que és d'allí de Tortosa qui es diu Gaspar Novell. Suplico a v. m. se n'informi i procuri que no es perdin i si pogués que se'n tornassin en rebria gran {ESP. contento}. Jo tinc salut, llaors a Déu, si mana d'alguna cosa en son servei. Guardi Déu. De Tortosa, a 6 de febrer del l'any 1641. Per al que mani, Vídua de Pau Escriva Transcripción literal"
+  ],
+  "literal": [
+    "1. Señor Don pedro en esta fas a saber com mon2. marit es mort deu lo tingua en lo cel y estich3. en desig de saber de sa salud si es bona que4. rebre gran contento de sabello y tambe li5. fas Asaber com tinch dos machos en Albar6. da Al Camp quels sen porta micer ballet7. jutgue de la Audiencia y estan acomanats8. Al Seu Comisari que es de Alli de Tortosa9. quis diu Gaspar novell Suplico A Vm sen10. informo y precura ques nos perden y si pogues11. que sen tornasen ne rebria gran contento jo12. tinch salud llaor[?] a deu si mane denguna cosa13. en son servey guarde deu de Tortosa A 6 de14. febre[r] del layn 164115. Peral que mane16. V[ídua]a de pau escriva [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "084:4063.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo24/084:4063.JPG",
+      "url": "/legajos/legajo-24/images/084:4063.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "084:4063.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-24/cartas/004010.json",
+  "primary_image_url": "/legajos/legajo-24/images/084:4063.JPG"
+}

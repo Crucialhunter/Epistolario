@@ -1,0 +1,38 @@
+{
+  "legajo_id": "24",
+  "id_carta": "4036",
+  "order_in_legajo": 87,
+  "signatura": "115:4089.JPG",
+  "nombre_carta": "Carta de Vicenç Benet a Pedro Santacilia y Pax",
+  "fecha_original": "25 de noviembre de 1644",
+  "lugar": "Mallorca",
+  "remitente": "Vicenç Benet",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Señor gobernador, después que me partí de Tarragona y dejé al señor don Joan de Boixadors en poder de mi señora la condesa y me honró v. s. en Vinarós, donde llegué enfermo y haber corrido Aragón y Valencia últimamente, aporté con el señor virrey don Giuseppe de Torres a Mallorca y con ocasión de haberse partido las galeras tan aprisa quedó en la Patrona en poder del comité una manga de bocasín negro con raya y una arquilla pequeña. Suplico a v. s. sea servido mandar se entregue al portador de esta y mandarme muchas cosas de servicio de v. s., de Mallorca a 25 de noviembre 1644. De v. s. Vicente Benet de Res, de la compañía de Jesús Transcripción literal"
+  ],
+  "literal": [
+    "1. Señor Governador despues que me partí de Tarrago2. na y dexe al Señor don Joan de Bojados en poder3. de mi Señora la condesa y me honro Vsa. en vinaroz4. donde llegue enfermo y aver corrido Aragon y Valencia5. ultimamente aporte con el Señor Virrey don Jusepe de6. Torres a Mallorca y con ocasion de averse partido las7. galeras tan aprisa quedo en la Patrona en poder8. del comite una Manga de Boçacin negro con raya9. y una arquilla pequeña suplico a Vsa sea servido 10. mandar se entregue al portador desta y mandarme11. muchas cosas de cervicio de Vsa. de Mallorca12. a 25 de Noviembre 1644.13. De Vsa. 14. Vicente Bened de15. Res de la Compañia16. de Jesus [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "115:4089.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo24/115:4089.JPG",
+      "url": "/legajos/legajo-24/images/115:4089.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "115:4089.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-24/cartas/004036.json",
+  "primary_image_url": "/legajos/legajo-24/images/115:4089.JPG"
+}

@@ -1,0 +1,48 @@
+{
+  "legajo_id": "6",
+  "id_carta": "740",
+  "order_in_legajo": 6,
+  "signatura": "405-201a",
+  "nombre_carta": "Carta de Bernat Nadal a Cecilia Zaforteza y Sureda de Sant Martí",
+  "fecha_original": "fecha sin especificar",
+  "lugar": "Madrid",
+  "remitente": "Bernat Nadal",
+  "destinatario": "Cecilia Zaforteza y Sureda de Sant Martí",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Mi señora Dna. Cecilia: Acabo de recibir la muy favorecida de v. m., su fecha de 23 de diciembre, en que me asegura no tener la menor novedad en su salud, cuya noticia me ha causado el mayor gusto que podía esperar, como igualmente el que mis pocos méritos (^[??]) tengo contraídos en el feliz éxito del pleito de Santacilia (^ merezcan) hayan (^sido dignos) merecido (^de la aceptación) el aplauso de v. m., como lo acreditan las vivas expresiones en que tanto me favorece, las que me prometen el amparo y la protección (^de v. m. y) (^amparo) de v. m., en mi supuesto logro, las mayores felicidades que puedo desear. Esto es cuanto se me ofrece participar a v. m., quedando como siempre a sus pies y con vivos deseos de que Dios N<uest>ro S<eño>r le conserve la vida de v. m. los dilatados años que desea, como se lo suplica su más afecto y reconocido servidor que sus pies besa Sus pies besa. Nadal. Nadal. [1§] Por lo que espero merecer de v. m. el que haga los buenos servicios que pueda, para que dicho mi señor d. Juan me remita cuanto antes el dinero que necesito para (^pagar) satisfacer al dicho platero, como es justo, (^y razón) porque de lo contrario no sé en qué parará. Igualmente le tengo escrito diferentes veces que no puedo detenerme más en esta Corte, y ahora menos, por el motivo de haberse votado el pleito, a que me respondió que luego de estar concluida la plata (^podía pasar ahí) no tenía la menor dificultad en que regresase ahí, pues esta diligencia quedará evacuada en toda la semana que viene, en cuyo supuesto (^hago cuenta) aguardo respuesta (^de la que) de dicho mi señor d. Juan (^como igualmente el dinero) en que me comunique las órdenes correspondientes para determinar mi viaje. Y no haciéndolo así, me será preciso (^hacer otra cosa) tomar otra providencia, (^que me será muy sensible) lo que sentiré infinito, pero me es indispensable el pasar ahí por los muchos motivos que me acompañan, pero con el bien entendido que siempre estaré pronto para volver a esta Corte, siendo del agrado de mi señor d. Juan. Esto es cuanto se me ofrece participar a v. m., suplicándole con todas veras me diga claramente cuál es la intención de mi señor d. Juan para [2§] mi mayor acierto, asegurando a v. m. que estoy tan violento que no puedo más. Dios me dé la paciencia que necesito y guarde la vida de v. m. los muchos años que deseo. Su más afecto y amigo verdadero, A d. Bernardo Nadal y Deiá, Proveedor de Presos de Fe del Santo Tribunal de Palma. Madrid. Transcripción literal"
+  ],
+  "literal": [
+    "1. Mi Señora D<oñ>a Cecilia: 2. Acabo de recivir la muy favorecida de V.M. su fecha 3. de 23 de Diciembre en que me asegura no tener 4. la menor novedad en su salud, cuia noticia me 5. ha causado el maior gusto que podia esperar, como 6. igualmente, el que mis pocos meritos (^[?]) tengo contrai- 7. dos en el feliz exito del Pleito de Santacilias, (^merescan) 8. haian (^sido dignos) merecido (^de la aceptacion) el aplauso de V.M., como lo acre- 9. ditan las vivas expreciones en que tanto me favo- 10. rece, las que me prometen el amparo y la proteccion (^de V.M. y) 11. (^amparo) de V.M. en mi supuesto logro las maiores felici- 12. dades que puedo dezear. 13. Esto es quanto se me ofrece participar á V.M., que- 14. dando como siempre a sus piez y con vivos dezeos de 15. que Dios N< uestro> S< eñ>or le conserve la vida de V.M. los 16. dilatados años que dezea, como se lo suplica 17. Su mas afecto y reconocido servidor 18. que S< us> P< ies> B< esa> 19. sus Pies Besa Nadal 20. Nadal [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "405-201a.jpg",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo06/405-201a.jpg",
+      "url": "/legajos/legajo-06/images/405-201a.jpg"
+    },
+    {
+      "filename": "406-201b.jpg",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo06/406-201b.jpg",
+      "url": "/legajos/legajo-06/images/406-201b.jpg"
+    },
+    {
+      "filename": "407-201c.jpg",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo06/407-201c.jpg",
+      "url": "/legajos/legajo-06/images/407-201c.jpg"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "405-201a.jpg",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-06/cartas/000740.json",
+  "primary_image_url": "/legajos/legajo-06/images/405-201a.jpg"
+}

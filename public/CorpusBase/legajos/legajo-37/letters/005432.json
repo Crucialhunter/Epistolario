@@ -1,0 +1,38 @@
+{
+  "legajo_id": "37",
+  "id_carta": "5432",
+  "order_in_legajo": 57,
+  "signatura": "024:16",
+  "nombre_carta": "Carta de Bernat Rosselló Custos a Persona desconocida",
+  "fecha_original": "10 de abril de 1693",
+  "lugar": "Ciutadella",
+  "remitente": "Bernat Rosselló Custos",
+  "destinatario": "Persona desconocida",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Compara la de v. m. he rebuda i vist el continguda en ella que en diu del comanador Rossinyol que és pensa que el virrei vol que cumpla l'any li dic que a 21 de bril el farà que serà pro nta i sinó com manco se pensara en veure en Mallorca de magat perquè jo tenc amics qui mi portaran i en deixaran a on voler en el Sr. Joanot li donarar 15 ll. que jo les tenc per rebudes d'Andreu i a se mastresa que vaga cobra nt en {ESP. modo} i que no desseberesce ningú sin agasacant tot els pagesos Déu guardi molts anys fet els 10 abril de 1693. Bª ls. Ms. de v. m. Bernat Rossello Custos [1§] Transcripción literal"
+  ],
+  "literal": [
+    "1. Sr. Conpara la de Vm he rabuda y vist2. lo continguda en ella q en diu del3. Sr. comanador Rusiñol q es pensa que4. el Sr. virey vol que cunpla lo añ li di[c]h5. q a 21 de bril lo fara q sera pro6. nta y sino com manco se pensara en7. vaura en mallorca de magat per q yo8. ten[c]h ami[c]h[s] qui mi portaran y en dexaran9. aont voler en el Sr. Juanot li donarar10. 15 ll. que yo las ten[c]h per rabudas de11. Sr. andr[e]u y a se mastresa que vaga cobra-12. nt en modo y q no desseberesce ningu13. sin agasacant tot los pagesos D[e]u Gde. m[olt]s14. a[ny]s fet els 10 bril de 169315. Bª ls. Ms. de Vmd.16. Barnat Rossalló Custos [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "024:16.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo37/024:16.JPG",
+      "url": "/legajos/legajo-37/images/024:16.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "024:16.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-37/cartas/005432.json",
+  "primary_image_url": "/legajos/legajo-37/images/024:16.JPG"
+}

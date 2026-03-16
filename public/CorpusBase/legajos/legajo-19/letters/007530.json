@@ -1,0 +1,38 @@
+{
+  "legajo_id": "19",
+  "id_carta": "7530",
+  "order_in_legajo": 287,
+  "signatura": "033_cg12",
+  "nombre_carta": "Carta de No consta a Persona desconocida",
+  "fecha_original": "26 de marzo de 1659",
+  "lugar": "Mallorca",
+  "remitente": "No consta",
+  "destinatario": "Persona desconocida",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Â [1§] Transcripción literal"
+  ],
+  "literal": [
+    "1."
+  ],
+  "imagenes": [
+    {
+      "filename": "033_cg12.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo19/033_cg12.JPG",
+      "url": "/legajos/legajo-19/images/033_cg12.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "033_cg12.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (3)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-19/cartas/007530.json",
+  "primary_image_url": "/legajos/legajo-19/images/033_cg12.JPG"
+}

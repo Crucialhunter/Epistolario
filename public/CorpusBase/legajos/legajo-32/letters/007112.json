@@ -1,0 +1,42 @@
+{
+  "legajo_id": "32",
+  "id_carta": "7112",
+  "order_in_legajo": 134,
+  "signatura": "144:1870a.JPG",
+  "nombre_carta": "Carta de Marc Sancho a Pedro Santacilia y Pax",
+  "fecha_original": "4 de mayo de 1665",
+  "lugar": "Ciutadella",
+  "remitente": "Marc Sancho",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "[1§] [2§] [3§] Transcripción literal"
+  ],
+  "literal": [
+    "1. 1. 1."
+  ],
+  "imagenes": [
+    {
+      "filename": "144:1870a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo32/144:1870a.JPG",
+      "url": "/legajos/legajo-32/images/144:1870a.JPG"
+    },
+    {
+      "filename": "145:1870b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo32/145:1870b.JPG",
+      "url": "/legajos/legajo-32/images/145:1870b.JPG"
+    },
+    {
+      "filename": "146:1870c.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo32/146:1870c.JPG",
+      "url": "/legajos/legajo-32/images/146:1870c.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "144:1870a.JPG",
+  "warnings": [],
+  "raw_source": "raw/legajos/legajo-32/cartas/007112.json",
+  "primary_image_url": "/legajos/legajo-32/images/144:1870a.JPG"
+}

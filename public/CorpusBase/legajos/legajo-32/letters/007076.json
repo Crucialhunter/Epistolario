@@ -1,0 +1,43 @@
+{
+  "legajo_id": "32",
+  "id_carta": "7076",
+  "order_in_legajo": 100,
+  "signatura": "095:1834a.JPG",
+  "nombre_carta": "Carta de Nicolás de Santacilia y Togores a Pedro Santacilia y Pax",
+  "fecha_original": "21 de marzo de 1665",
+  "lugar": "Madrid",
+  "remitente": "Nicolás de Santacilia y Togores",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "La de v. m. de 3 de marzo holgándome mucho que tenga salud como se la deseo yo la tengo gracias a Dios buena siempre a su disposición Lo que v. m. me escribe del conde de su pretensión, que le respondieron que por ahora había bastantes que pusiece los ojos en otra cosa, y cuanto fuims a ver el duque de Cardona que ya se lo tengo escrido con otra le digo que le parecía a su excelencia si pediría lo de mayordomo del rey y le respondió que apretase la mano aquí y quedaron aquí en todas ocasiones siempre ha estado a mi lado Novedades no las hay solo que ysieron a don Diego Corea general de caballería y habido muchos señores que la preten [1§] dian y han quedado muy sentidos A mi madre y señora muchos recaudos de mi parta y a mis hermanos y a los demás señores. Guarde Dios a v. m. muchos años como deseo y me importa Madrid a 21 de marzo de 1665 la jornada ya no se amb la de ninguna manera para esta primavera Su más humilde hijo de v. m. que sus manos besa Don Nicolas de Santacilia y Togores mi padre y señor [2§] Transcripción literal"
+  ],
+  "literal": [
+    "1. La de VM de 3 de Março olgandome 2. mucho que tenga salud como se la deseo yo 3. la tengo grasias a Dios buena sienpre a su 4. dispusiçion 5. Lo que VM me escrive del Conde de su pre6. tension, que le respondieron que por aora 7. avia bastantes que pusiece los ojos en 8. otra cosa, y quanto fuims a ver el Duque 9. de Cardona que ya se lo tengo escrido con 10. otra le digo que le paresia a su Exª. si pedi11. ria lo de Mayordomo del Rey y le respo12. ndio que apretase la mano aqui y que13. daron aqui en todas ocasiones sienpre a esta14. do a mi lado 15. Novedades no las ay solo que ysieron a 16. Don Diego Corea general de Cavalleria 17. y avido muchos señores que la preten [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "095:1834a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo32/095:1834a.JPG",
+      "url": "/legajos/legajo-32/images/095:1834a.JPG"
+    },
+    {
+      "filename": "096:1834b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo32/096:1834b.JPG",
+      "url": "/legajos/legajo-32/images/096:1834b.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "095:1834a.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-32/cartas/007076.json",
+  "primary_image_url": "/legajos/legajo-32/images/095:1834a.JPG"
+}

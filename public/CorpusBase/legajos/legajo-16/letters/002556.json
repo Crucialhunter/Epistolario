@@ -1,0 +1,38 @@
+{
+  "legajo_id": "16",
+  "id_carta": "2556",
+  "order_in_legajo": 42,
+  "signatura": "072:2050.JPG",
+  "nombre_carta": "Carta de Diego Matías de Aragüés a Pedro Santacilia y Pax",
+  "fecha_original": "28 de marzo de 1667",
+  "lugar": "Madrid",
+  "remitente": "Diego Matías de Aragüés",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Remito con esto a v. s. la carta a inclusa de su majestad para el señor virrey y en ella va copia del memorial que va con esta y copia de la carta, para que v. s. vea por si no se acordare lo que se ha de obrar con el señor virrey y que se le solicite la respuesta avisándome cuando la hiciere. También va el memorial últimamente he dado sobre esta pretensión del oficio. Esto parece saldremos de ello por toda la semana de la Pascua que todas las diligencias están hechas, así en lo alto como en la junta del gobierno. Dios nos dé buen suceso. V. s. verá si será bien con este virrey se despache esta carta, o se la guarde al señor don Miguel Salva que se parte de aquí al otro día de la Pascua. Por Barcelona donde se detendrá, me promete. También de hoy en ocho se irá el señor don Jorge Dezcallar por Barcelona, que ya tiene tomado su carruaje. V. s. me mande le sirva y guarde Dios los muchos años que le deseo. Madrid a 28 de marzo 1667. Besa las manos de v. s. su mayor servidor, Diego Matias de Aragues Señor don Pedro Santacilia y Pax Transcripción literal"
+  ],
+  "literal": [
+    "1. Remito con esto a VS. la carta a inclusa de su M[a]gd para 2. el Sr Virrey y en ella va copia del meml queva 3. conesta y copia dela carta, para que VS. bea por si 4. nose acordare loquese ha de obrar con el Sr Virrey 5. y que selesolicite la respta avisandome quandola 6. hiciere. tanbien va el meml ultimamte he 7. dado sobre esta pretension del offizío. Esto pareçe 8. saldremos dello por toda la semana dela Pasqua 9. quetodas las diligencias estanhechas, assi enlo 10. alto como Enla Junta del Govierno Dios nos 11. de buen suçesso. VS. bera si sera bien coneste 12. Virrey se despache esta carta, o, se aguarde al 13. Señor D Miguel Zalba queseparte de aqui al 14. otro dia dela Pasqua. Por Barçelona donde se 15. detendra mepromete. tanbien de oy en ocho se hira 16. El Sr d Jorge Escallar por Barçelona, que ya 17. tiene tomado su carruaje. VS. me mande lesirva 18. y gde Dios los ms a< ño>s que le deseo Md a 28 de Mo 1667 19. BlM de Vs. s[u]ms 20. Diego Mathias de Aragues 21. [Margen izquierdo][^Sr D Pedro Santacilia y Pax] [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "072:2050.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo16/072:2050.JPG",
+      "url": "/legajos/legajo-16/images/072:2050.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "072:2050.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (3)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-16/cartas/002556.json",
+  "primary_image_url": "/legajos/legajo-16/images/072:2050.JPG"
+}

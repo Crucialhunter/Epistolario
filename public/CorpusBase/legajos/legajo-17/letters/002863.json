@@ -1,0 +1,38 @@
+{
+  "legajo_id": "17",
+  "id_carta": "2863",
+  "order_in_legajo": 129,
+  "signatura": "217:1405.JPG",
+  "nombre_carta": "Carta de Jerónimo Pelegrín de Aragüés a Pedro Santacilia y Pax",
+  "fecha_original": "1 de mayo de 1660",
+  "lugar": "Xorrigo (Mallorca)",
+  "remitente": "Jerónimo Pelegrín de Aragüés",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Señor mío con dos de v. m. del corriente los cuales saber de su buena salud, guarde muchos años como le deseo. El negocio del licenciado. memoria en publicar. Me hallo en esta corte. Servir y dar gusto a v. m. de partirme solo mi. tengo escrito a mi Sr. con mucho deseo que. abreviar más, y a. un hombre estar en su. piojos a casa de posa. de Xorrigo Guarde DiosMayo 1660 Muy. Jerónimo. Pedro Juan Sastre [1§] Transcripción literal"
+  ],
+  "literal": [
+    "1. Señor mio con dos de V.M. [...] 2. del Corriente los quales [...] 3. saber de su buena Salud [...] 4. muchos años com le[...] 5. El negocio del sr. licen[ciado] [...] 6. memoria en publicar[...] 7. me hallo en esta Corte[...] 8. servir y dar gusto a VM[...] 9. departirme solo mi[...] 10. tengo escrito a mi sr.[...] 11. con mucho deseo que[...] 12. abreviar mas, y a[...] 13. un hombre estar en su[...] 14. pioxos a Cassa de posa[...] 15. de Sorigo; Gde Dios[...] 16. Majo 166017. Muy [...] 18. Geronymo[...] 19. Sr. Pedro Juan Sastre [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "217:1405.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo17/217:1405.JPG",
+      "url": "/legajos/legajo-17/images/217:1405.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "217:1405.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (4)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-17/cartas/002863.json",
+  "primary_image_url": "/legajos/legajo-17/images/217:1405.JPG"
+}

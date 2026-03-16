@@ -1,0 +1,52 @@
+{
+  "legajo_id": "37",
+  "id_carta": "5448",
+  "order_in_legajo": 6,
+  "signatura": "057:32a",
+  "nombre_carta": "Carta de Persona desconocida a Persona desconocida",
+  "fecha_original": "fecha sin especificar",
+  "lugar": "Mallorca",
+  "remitente": "Persona desconocida",
+  "destinatario": "Persona desconocida",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Comptes, notes breus y llista de menestrals [1§] Xifres y comptes diversos en trossets de paper petits. Notes breus y més comptes. [2§] Transcripción literal"
+  ],
+  "literal": [
+    "1. Comptes, notes breus i llista de menestrals1. [f.33a-33o] Xifres i comptes diverses en trossets de paper petits; notes breus Més comptes."
+  ],
+  "imagenes": [
+    {
+      "filename": "057:32a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo37/057:32a.JPG",
+      "url": "/legajos/legajo-37/images/057:32a.JPG"
+    },
+    {
+      "filename": "058:32b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo37/058:32b.JPG",
+      "url": "/legajos/legajo-37/images/058:32b.JPG"
+    },
+    {
+      "filename": "059:32c.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo37/059:32c.JPG",
+      "url": "/legajos/legajo-37/images/059:32c.JPG"
+    },
+    {
+      "filename": "060:32d.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo37/060:32d.JPG",
+      "url": "/legajos/legajo-37/images/060:32d.JPG"
+    },
+    {
+      "filename": "061:32e.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo37/061:32e.JPG",
+      "url": "/legajos/legajo-37/images/061:32e.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "057:32a.JPG",
+  "warnings": [],
+  "raw_source": "raw/legajos/legajo-37/cartas/005448.json",
+  "primary_image_url": "/legajos/legajo-37/images/057:32a.JPG"
+}

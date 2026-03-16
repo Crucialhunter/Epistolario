@@ -1,0 +1,43 @@
+{
+  "legajo_id": "21",
+  "id_carta": "3318",
+  "order_in_legajo": 3,
+  "signatura": "010:5607a.JPG",
+  "nombre_carta": "Carta de comte de Perelada i marquès d'Anglesol a Miquel de Torrelles i Setmenat",
+  "fecha_original": "29 de noviembre de 1611",
+  "lugar": "Lugar sin especificar",
+  "remitente": "comte de Perelada i marquès d'Anglesol",
+  "destinatario": "Miquel de Torrelles i Setmenat",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Jo amic vostre i meu esa amb {ESP. cuidado} del negoci que vos saben i deuja [Agujero] ner [?] poser Saliedir que dubsava d'aquí crema pogueren diri res però com a on sada en [?] el negoci els apar que tot els [?] sinó que Voi i digau vostre paria [?] apreguntar-nos que ens apar [?] si creíeu Per aquí prest al que se [?] les dificultats que hi tenen haurà [?] i Dé els guardi Barcelona de novembre 1631 El comte de Perelada per l'esta feta no shescriu [?] que les casa van de sols falta el que és suplicam queseria tenir el [?] tiga amb tot rebre meta donen [?] poder que troben dificultat amb el major quenoi dic [?] i no confeso amb tot segura molta fiare és que selanara meeu deu vos guardi Vostra Amic el senyor comte de Perelada dami que el Torrelles 29 novembre 16111 Sic Transcripción literal"
+  ],
+  "literal": [
+    "1. Jo amich vostro y meu essa ab [cu]idado 2. del negosi q vos saben y deuja [Agujero] ner [Ilegible]3. poser Saliedir q dubsava de aqui crema 4. pogueren diri res pero com aont sade en [Ilegible]5. lo negosi los apar q tot los [Ilegible] sino 6. q Voi y digau vostron paria [Ilegible]7. apreguntarnos quens apar [Ilegible]8. si creieu Per asi prest al q se [Ilegible]9. las dificultats quei tenen aura [Ilegible]10. y deu los guarde Barselo[na]11. de 9bre 1631 12. Lo Comte de Pere[lada] 13. per la esta feta no shescriu [Ilegible]14. que las cassa van de sols falta lo ques 15. suplicam queseria tenir lo [Ilegible]16. tiga abtot rebre meta donen [Ilegible] porer 17. que troban dificultat ablo major quenoi dic[?]18. ino confeso abtot segure molta fiare es q[Fragmentado]19. selanara meeu deu vos guarde 20. Vostra Amich [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "010:5607a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo21/010:5607a.JPG",
+      "url": "/legajos/legajo-21/images/010:5607a.JPG"
+    },
+    {
+      "filename": "011:5607b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo21/011:5607b.JPG",
+      "url": "/legajos/legajo-21/images/011:5607b.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "010:5607a.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-21/cartas/003318.json",
+  "primary_image_url": "/legajos/legajo-21/images/010:5607a.JPG"
+}

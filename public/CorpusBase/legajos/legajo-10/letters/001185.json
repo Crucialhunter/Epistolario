@@ -1,0 +1,43 @@
+{
+  "legajo_id": "10",
+  "id_carta": "1185",
+  "order_in_legajo": 54,
+  "signatura": "096-352a",
+  "nombre_carta": "Carta de José Balell a Jerónimo Pelegrín de Aragüés",
+  "fecha_original": "30 de agosto de 1668",
+  "lugar": "Barcelona",
+  "remitente": "José Balell",
+  "destinatario": "Jerónimo Pelegrín de Aragüés",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Respondo a 4 con que me hallo de v. m.: la una de 12, dos de 14, y la otra de 20, que recibí a 26; y todos los pliegos grandes y pequeños para el señor don Pedro remití a Madrid con el cuidado que debo y los demás, conque todas estarán en manos de sus dueños; y este correo remitiré las dos estan en mi poder: la una para el señor don Pedro y la otra para el señor Diego Matias de Aragues, su tío y señor mío. Y no perderé ocasión de dar las noticias del estado con que se halla el señor D. Juan, de que me mandó dar noticia el señor don Pedro. El sábado pasado no muy buena si con esperanzas quiera su divina majestad darle la salud que merece y deseo y a todos los interesados consuelo innato con muchas dichas. La inclusa remito del señor d. Pedro para mi señora, cuya mano beso como criado suyo y otra para v. m. del señor su tío. Las novedades tenemos que las paces durarán poco si Dios no lo remedia o se concede lo que Francia pide en Flandes, que son las pertenencias de las plazas con que se quedaron que entre ellas entra Nioporte y otras de consecuencia siendo la mayor que nos cobran las que nos quedan como valencianas y otras. Señor d. Jeronimo Pelegrin de Aragues [1§] Y todo esto sucede porque nuestros ministros no supieron extinguir y dar [?] donde habían de llegar tales pertinencias. Esperase al señor duque de San German para pasar con su virreinato de Cerdeña y gracias a Dios según noticia que aquel reino goza de buena calidad con que todo se remediará. Acá nuestras tropas están padeciendo y el país cansado de sostenerlas, empieza a haber disensiones que pasarán a más si no se remedia. Y los caballos ya empiezan a pasarse a Francia con que los franceses se acabarán de remontar y más disminuciones. Parece que habrá mutación de este virreinato, y que se ha hecho merced al señor duque de Osuna de la presidencia de órdenes pasando a ocupar que lo verá a la de Sicilia y que va [?] vendría [?] Liege o el príncipe de Parma, si bien hay otros pretendientes. Su excelencia se halla con toda la corte en Arenys y no fui para asistir en esta ocasión al pasaje de las cartas y servir al señor D. Pedro, al señor D. Nicolás y a v. m. como todos lo veré [?] para echar en el agua el bajel ofrécense muchas dificultades que se vencerán con la asistencia de su excelencia. De mi señora la duquesa y maestre [?] de campo y demás [?] cabos y con la asistencia de las galeras y la compañía del pupilo, que luego que llegó a esta ciudad fue llamada para representar y divertir el tiempo. Suplico a v. m. sea servido dar noticia de estas novedades al señor d. Nicolás, a quien escribo y no tengo tiempo a repetirlas porque esta noche se va el bergantín. Guarde Nuestro señor a v. m. muchos años y me mande como puede. Barcelona, agosto 30 a 1668. No puedo dejar de decir como el que traía el último pliego tan encomendado de v. m. fue negligente en darmelo y que no quiso cumplir esta obligación y lo mismo se servirá dejar al amigo y señor Juan Sierra pues también lo recomendó, que beso su mano y que soy todo suyo que no le escribo por no tener tiempo. Sírvase de darla la inclusa y las novedades al señor consejero mi amigo y señor que me importa. Cierto servidor y amigo de v. m. que sus manos besa, Josep Balell. Transcripción literal"
+  ],
+  "literal": [
+    "1. Respondo a 4 con que me hallo de V.M 2. la una de 12 dos de 14 y la otra de 20 que 3. recivi a 26 y todos los pliegos grandes y 4. pequeños pa el Sr. Don Po remito a Madrid 5. con el cuidado que devo y los demas con que 6. todas estaran en manos de sus dueños y esse 7. correo remitire las dos estan en mi poder 8. la una pa el Sr. Don Po y la otra pa el Sr. Diego 9. Matias de Aragues, su tio y sr. mio y no 10. perdere ocasión de dar las noticias del estado 11. con que se halla el Sr. d. Juan de que me 12. mando dar noticia el sr. don po. El savado 13. pasado no mui buena si con esperanças 14. quiera su divina Mad darle la salud 15. que merece y deso y a todos los interesados 16. consuelo inato con muchas dichas. 17. 18. La inclusa remito del sr. D. Po para mi sra. cuya 19. mano beso como criado suyo y otra 20. pa V.M. del sr. su tio. 21. Las novedades tenemos que las pazes dura 22. ran poco si Dios no lo remedia, o se con 23. cede lo que francia pide en flandes que son 24. las pertinencias, de las plaças, con que 25. se quedaron que entre ellas entra Nio 26. porte y otras de consequencia siendo la 27. major que nos cobran las que nos 28. quedan como valencianas y otras 29. [^Geronimo Pelegrin de Aragues^] [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "096-352a.jpg",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo10/096-352a.jpg",
+      "url": "/legajos/legajo-10/images/096-352a.jpg"
+    },
+    {
+      "filename": "097-352b.jpg",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo10/097-352b.jpg",
+      "url": "/legajos/legajo-10/images/097-352b.jpg"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "096-352a.jpg",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING",
+      "message": "Se detectaron caracteres sospechosos de encoding (5)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-10/cartas/001185.json",
+  "primary_image_url": "/legajos/legajo-10/images/096-352a.jpg"
+}

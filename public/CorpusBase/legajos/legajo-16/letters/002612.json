@@ -1,0 +1,38 @@
+{
+  "legajo_id": "16",
+  "id_carta": "2612",
+  "order_in_legajo": 99,
+  "signatura": "161:2112.JPG",
+  "nombre_carta": "Carta de Nicolás de Santacilia y Togores a Pedro Santacilia y Pax",
+  "fecha_original": "23 de julio de 1667",
+  "lugar": "Madrid",
+  "remitente": "Nicolás de Santacilia y Togores",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Lo de v. m. ecribido de 26 de Junío, por mano del doctor Onofre Esteban, que ha llegado a esta corte bueno No dudo habrá falta de embarcaciones pues v. m. no tiene cartas que por todas partes hemos escrito larga y así habrá muchas recibidas El lunes pasado mañana Sale el Embajador de Francia de Madrid y su rey Fercenando pla sas en Flandes y algunos de consideración Truyol tiene por muy cierto el tercio que se ha de levantar en ese reino pero aún no sesabe cosa cierta yo voy avivando mi negocio lo más que puedo mi hermano me escribe, que me degan [?] hay noma nos miscarta, bien se los pueden dar con toda seguridad. Guarde Dios a v. m. muchos años como deseo y es menester Madrid a 23 de Julio 1667 Su más humilde hijo de v. m. que SuManobesa Sr. don Nicolas de Santacilia y Togores mi señor y mi padre [1§] Transcripción literal"
+  ],
+  "literal": [
+    "1. Lo de Vm ecribido de 26 de Junío, por ma2. no del doctor honofre estevan, que allegado a 3. esta Corte bueno 4. No dudo abra falta de enbarcaciones pues VM. 5. no tiene Cartas que por todas partes emos escrito 6. larga y asi habra muchas resevidas 7. El lunes pasado mañana Sale el Embajador de 8. fransia de Madrid y su Rey Ferçenando pla9. sas en flandes y algunos de Consideracion 10. Truyol tiene por muy sierto el tersio que 11. se ade llevantar enese Reyno pero aun no 12. sesabe Cosa sierta 13. yo voy avivando mi negosio lo mas que puedo 14. mi hermano meescrive, que me degan[?] ay noma15. nos miscarta, bien selos pueden dar Con toda 16. seguridad Guarde Dios a VM muchos años Como 17. deseo y emenester Madrid a 23 de Julio 1667 18. Su mas humilde hijo 19. de VM q S[u]M[]B[] 20. Don Nicolas de Sta Cilia y Togores21. [Margen izquierdo][^ mi Sr y mi Padre] [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "161:2112.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo16/161:2112.JPG",
+      "url": "/legajos/legajo-16/images/161:2112.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "161:2112.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-16/cartas/002612.json",
+  "primary_image_url": "/legajos/legajo-16/images/161:2112.JPG"
+}

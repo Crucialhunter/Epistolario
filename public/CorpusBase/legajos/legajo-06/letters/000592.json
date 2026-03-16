@@ -1,0 +1,43 @@
+{
+  "legajo_id": "6",
+  "id_carta": "592",
+  "order_in_legajo": 95,
+  "signatura": "114-63a",
+  "nombre_carta": "Carta de Guillermo Reynes a Cecilia Zaforteza y Sureda de Sant Martí",
+  "fecha_original": "21 de diciembre de 1756",
+  "lugar": "Madrid",
+  "remitente": "Guillermo Reynes",
+  "destinatario": "Cecilia Zaforteza y Sureda de Sant Martí",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Señora, Por carta escrita al Sr. D. Juan Despuig he tenido la noticia del desconsuelo en que v. s. se halla por la temprana muerte del Sr. D. Gabriel, primo de v. s. y mi mayor amigo y favorecedor, y considerando que mi carta solo puede servir para renovar a v. s. su tan vivo dolor sin poder darle el consuelo que necesita, había resuelto el no escribir, pero me ha parecido no cumplía con las leyes de gratitud si no expresaba por carta a v. s. el sentimiento que me cabe de tan gran pérdida correspondiente a los favores que le he debido en esta corte. No dudo servirá a v. s. de algún consuelo haber sido su muerte tan católica como ejemplar su vida, a que espero se le habrá seguido el premio de la gloria. [1§] El amigo Dr. Tomás se halla penetrado del más vivo dolor por contemplar a v. s. en lance de tanta aflicción, pero uno y otro no cesaremos de rogar al Sr. dé a v. s. la fortaleza que necesita para resistir a tanta pena. Espero continuará v. s. en hacerme las honras que acostumbraba a sus servidores el difunto primo de v. s., asegurándose de mi inalterable atención a la persona y casa de v. s. y de mi ciega obediencia a sus preceptos. N. Sr. guarde a v. s. muchos años y le dé el consuelo de que necesita. Madrid y diciembre 21 de 1756. Besa las manos de v. s. su menor servidor y capellán, Dr. Guillermo Reynés. Sra. Dña. Cecilia Zaforteza. Transcripción literal"
+  ],
+  "literal": [
+    "1. Señora 2. Por carta escrita al Sr. Dn. Juan 3. DezPuig he tenido la noticia 4. del desconsuelo en que V.S. se halla 5. por la temprana muerte del 6. Sr. Dn. Gabriel primo de V.S. y mi 7. mayor amigo y favorecedor y con- 8. siderando que mi carta solo pue- 9. de servir para renovar a V.S. su 10. tan vivo dolor, sin poder darle 11. el consuelo, que necessita, havia 12. resuelto el no escrivir ; pero 13. me ha parecido no cumplia 14. con las leyes de gratitud sino 15. expressava por carta á V.S. 16. el sentimiento que me cabe 17. de tan gran perdida correspon- 18. diente á los favores que le he 19. devido en esta corte. No dudo 20. servira á V.S. de algun consue- 21. lo aver sido su muerte tan 22. catholica, como exemplar su vi- 23. da á que espero se le haura 24. seguido el premio de la gloria [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "114-63a.jpg",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo06/114-63a.jpg",
+      "url": "/legajos/legajo-06/images/114-63a.jpg"
+    },
+    {
+      "filename": "115-63b.jpg",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo06/115-63b.jpg",
+      "url": "/legajos/legajo-06/images/115-63b.jpg"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "114-63a.jpg",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-06/cartas/000592.json",
+  "primary_image_url": "/legajos/legajo-06/images/114-63a.jpg"
+}

@@ -1,0 +1,38 @@
+{
+  "legajo_id": "12",
+  "id_carta": "1546",
+  "order_in_legajo": 53,
+  "signatura": "067_6138.JPG",
+  "nombre_carta": "Carta de Àngela Andreu a Pedro Santacilia y Pax",
+  "fecha_original": "26 de marzo de 1641",
+  "lugar": "Tortosa",
+  "remitente": "Àngela Andreu",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Con otra tengo escrito a v. m. los trabajos que he padecido y padezco después de la muerte de mi marido, tan amigo de v. m., que [?] gloria y en conformidad de esto le suplico [?] mirar en poder de quien están dos [mulas] son de mi casa y ha[ce] tiempo que [?] campo. Yo, señor, confieso que no [?] y que v. m. me ha de servir de padres [?] de dichos mulos. Dará razón a v. m. Josep Balell del Real Consejo y [?] te procurar en que se paguen los [?] o derechos que dichos mulos han [?] de tantos de enero hasta el día que [?] facultad devolvérmelos que esta [?] la procuraré merecer y servir a v. m. [?] ñando la fineza de mi voluntad y que [?] le deseo servir suplicándole [?] por quitarme del cuidado tengo [?] mulos que faltando aquellos les [?] ocasión de padecer. Guarde Dios [?] las felicidades y acrecentamientos que esta su menor criada desea. Tortosa y marzo a 26 de 1641. Angela Andreu, viuda de Pau Escriva Mi señor don Pedro de Santacilia [1§] Transcripción literal"
+  ],
+  "literal": [
+    "1. Con otra tengo (^es) escrito a Vm los trabajos que2. he padecido y padesco despues de la muerte de3. mi marido (tan amigo de Vm) que [...]4. gloria y en conformidad desto le sup[li]co [...]5. mirar en poder de quien estan dos [...]6. son de mi casa y ha tiempo que [...]7. campo yo Señor confiesso que no [...]8. y que Vm me ha de servir de padres [...]9. De dichos mulos dara raçon a Vm [...]10. Josepe Balet del Rela consejo [...]11. te procurar en que se pague los [...]12. o d[e]rechos que dichos mulos han [...]13. de tantos de enero hasta el dia [...]14. facultat de bolvermelos que esta [...]15. la procurare merecer y servir a Vm [...]16. nyando la finesa de mi voluntad y que [...]17. le deseo servir supplicandole [...]18. por quitarme del cuydado tengo [...]19. mulos que faltando aquellos les [...+20. ocasion de padecer Gde Dios [...]21. las felicidades y acrecentamientos que este 22. su menor criada desea Tortosa y Março23. a 26 de 164124. Angela Andreu v[iud]a25. de Pau escrivà26. mi Sr. don Pedro de Sta. Cilia [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "067_6138.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo12/067_6138.JPG",
+      "url": "/legajos/legajo-12/images/067_6138.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "067_6138.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-12/cartas/001546.json",
+  "primary_image_url": "/legajos/legajo-12/images/067_6138.JPG"
+}

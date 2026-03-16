@@ -1,0 +1,38 @@
+{
+  "legajo_id": "15",
+  "id_carta": "2163",
+  "order_in_legajo": 59,
+  "signatura": "102:6388.JPG",
+  "nombre_carta": "Carta de Jerónimo de Aganza y Javier a Pedro Santacilia y Pax",
+  "fecha_original": "27 de marzo de 1639",
+  "lugar": "Pamplona",
+  "remitente": "Jerónimo de Aganza y Javier",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "El señor capitán don Joan Vivot me ha dado [su carta de] v. m. unos días ha recibí otras [tres y en] [?] todas mucha merced y a [l] cuñado al señor don Joan alabé bodas [?] en su despacho. Y se parte luego Montara [?] [y el] ondesgl [?]. [Han estado aquí] dos días. [{CAT. Ahir} se fue] mortara y Sr. don Joan Arañez [?] hoy. Lo [ que] escriben de Francia es que a la [Valeta] [malarm] en inglaterra apuñaladas y al [du que] de San Simón en [¿¿desasir loirio muy mal el de la fersa. Fersa [?] ] se [fue a Inglaterra] y {CAT. en} Simón queda preso. El de Mirabel pasó por Francia. Ahora {CAT. diu} que vio para gente grande de [sur] [?] en todos de la paz y [{CAT. en diu} ] que la reina de Inglaterra viene a Francia a procurar que [se] hagan las paces. No vi otra cosa de nuevo. v. m. sabe que me tiene muy harto a su obediencia. Guarde Dios a v. m. como deseo. De Pamplona y marzo, 27, de 1639, Don Jeronimo de Aganza y Javier. [Señor don Pedro Santacilia] Transcripción literal"
+  ],
+  "literal": [
+    "1. El sr Capitan don Jo Bibot me 2. adados unartadoVm unes dia a rrescibi 3. otras drescintodas mucha md ea cunya4. nado al Sor don Jo alabre bodas[?] desudespa5. cho separle luego. mortara al ondesgl[?] 6. avissado aynidos dias aier sepre morta7. ra i don Jo arañez[?] oi. los escriben 8. de francia es q ala Galera malarmen9. inglaterra apuñaladas y aldeqde san10. Simon endesasir loirio mui mal el dela11. fersa fersa sesin amglaterra yan simon 12. queda preso. el de mirabelpaso por fran13. cia agua diu q lio poragente qrandedesus 14. en todos delapaz. yedice q la rreina de 15. inglaterra biene afrancia aproqurar q16. siaganlas paces novi otracosa de nuebo 17. Vm save q me tiene miu arto asuobe18. diencia ge dios aVm comodeseo de Pampa 19. i marci 27 de 1639 20. Don geronimode 21. Aganz e Xavier22. [Margen izquierdo][^Sr Don Po Santa] [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "102:6388.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo15/102:6388.JPG",
+      "url": "/legajos/legajo-15/images/102:6388.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "102:6388.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-15/cartas/002163.json",
+  "primary_image_url": "/legajos/legajo-15/images/102:6388.JPG"
+}

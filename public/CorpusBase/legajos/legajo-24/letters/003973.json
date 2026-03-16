@@ -1,0 +1,43 @@
+{
+  "legajo_id": "24",
+  "id_carta": "3973",
+  "order_in_legajo": 88,
+  "signatura": "040:4026a.JPG",
+  "nombre_carta": "Carta de Catalina Fernández de Córdoba y Figueroa a Pedro Santacilia y Pax",
+  "fecha_original": "11 de abril de 1645",
+  "lugar": "Perpiñán",
+  "remitente": "Catalina Fernández de Córdoba y Figueroa",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Deseaba su carta de vmd. y así la he estimado por lo que en ella me dice ha sentido del correo que despachó el duque, que solo vmd. es el prior de la fe en esta casa. Lo cierto es lo debe ser, que se le tiene toda buena ley. Vmd. me diga todo lo que entendiere y en qué para aquella amistad, que el conocimiento que tengo del marqués me dice muchas cosas: terrible, caballero terrible, y muchas veces terrible. Cada día deseo más el retiro de mi casa y otra casa no nos está bien en la era que corre. Díjome v.m. que siente del casami[1§]ento de Celada, que en esta pregunta conocerá el mío. Pedro me da cuidado lo que le hacen gastar sin causa; hubiérame holgado conociera vmd. a Antonio y es buen mozo y de no malas esperanzas. Vea vmd. en qué le puedo servir y escriba largo sin recelo. Guarde Dios a v.m. Perpiñan, 11 de abril 1645 La duquesa de Segorbe y de Cardona Transcripción literal"
+  ],
+  "literal": [
+    "1. deseava su carta de vmd. y asi la e2. estimado por lo q en ella me di3. ze a sentido del correo q despa4. cho elduq solo vmd. es el prior de 5. la fe enesta casa lo zierto es lo de6. ve ser q se le tiene toda buena7. ley Vmd. me diga to lo q entendie8. re y en q para aqlla amis9. tad q el Conozimiento q ten10. go delmarq me dize muchas11. cosas terrible cavallero terri12. ble y muchas bezes terrible cada13. dia deseo mas el Retiro de mi14. casa y otra casa no nos esta bien15. en la era q corre16. digome vmd q siente del casami17. Sor. Don Pº [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "040:4026a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo24/040:4026a.JPG",
+      "url": "/legajos/legajo-24/images/040:4026a.JPG"
+    },
+    {
+      "filename": "041:4026b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo24/041:4026b.JPG",
+      "url": "/legajos/legajo-24/images/041:4026b.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "040:4026a.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (2)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-24/cartas/003973.json",
+  "primary_image_url": "/legajos/legajo-24/images/040:4026a.JPG"
+}

@@ -1,0 +1,57 @@
+{
+  "legajo_id": "26",
+  "id_carta": "4352",
+  "order_in_legajo": 88,
+  "signatura": "124:3446a.JPG",
+  "nombre_carta": "Carta de Antonio de Villacorta y Mercado a Pedro Santacilia y Pax",
+  "fecha_original": "31 de diciembre de 1639",
+  "lugar": "Berasain",
+  "remitente": "Antonio de Villacorta y Mercado",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Por no haber tenido ocasión, no he respondido a dos que he tenido en diferentes ocasiones de v. m. en que tengo la licencia para Rafael Puch [?] un cuñado vuestro [?] que me alegro mucho de ello porque mientras menos mujeres haya en la compañía la tendré más quieta. Sólo me pesa que de v. m. licencia para que se vayan con caballo, porque esta compañía está muy falta de caballos y en abriendo v. m. la puerta todos dirán que son suyos y yo no puedo saber si es así. Suplico a v. m. si puede ser haga que el herrero deje el caballo que harta merced le hace v. m. en darle licencia sin él, porque es acor [?] ejemplar para otros que tienen esa misma pretensión al otro soldado que es Suihan [?] que v. m. dió licencia se la he detenido, porque se fue del cuartel sin orden mía y fuera de eso no está [?] dice tan mala ni tiene como pagarme algún dinero que le he dejado hasta que haya muestra. Mi tío me ha escrito que no habla palabra hasta ver en que para Salsas y que a todos los soldados les dan dos pagas y los envían a Rosellón. Avíseme v. m. si ha llegado su licencia y si ha de ir v. m. a Pamplona antes de irse para que yo diese a v. m. la mano antes. Sr. D. Pedro Santacilia y Pax [1§] Los soldados están quietos y yo lo procuro, como v. m. se podrá informar algunos caballos me caen enfermos mucho a que estoy en esta valle 20 cada día aguardo orden para mudarme. Los diputados de esta valle no quieren hacerme buenas las bocas muertas de los cabos de escuadra y del capellán y furiel sin ver la orden que ha salido de su excelencia, para ello suplico a v. m., si la tiene, me la remita o me envíe a decir donde la hallare. Yo quedo al servicio de v. m. siempre, a quien Dios guarde como deseo, de Berasain y diciembre último de 1639. D. Antonio de Villacorta y Mercado Servidor de v. m., que sus manos besa. Transcripción literal"
+  ],
+  "literal": [
+    "1. Por no aber tenido ocasion no e respondido a dos que e te2. nido en differentes ocasiones de Vm. en que tengo3. la liçencia para rafael puch un cuñado vuestro[?] q4. me alegro mucho dello porq mientras menos5. mujeres aia en la compa la tendre mas quieta6. solo me pesa que de Vm. liçençia para que se baian7. con caballo porq esta compa esta mui falta de ca8. ballos i en abriendo Vm la puerta todos diran q9. son suios i io no puedo saber si es assi suplo a Vm.10. si puede ser aga que el errero deje el caballo que11. arta md le ace Vm. en darle liçençia sin el por12. q es acor ejenplar para otros que tienen essa mes13. ma pretension al otro soldado que es Suihan[?]14. q Vm. dio liçençia se la e detenido porq se fue del15. cuartel sin orden mia i fuera de esso no esta [?]16. diçe tan male ni tiene como pagarme algun17. dinero que le e dejado asta q aia muestra18. Mi tio me a escrito q no abla palabra asta ber en que para19. Salsas i q a todos los soldados les dan dos pagas20. i los enbian a rossellon aviseme Vm. si a llegado21. su liçençia i si a de ir Vm. a panploa antes de22. irse para que io vese a v.m. la mano antes23. Sr. D. Pº Sta. Çilia y Paz [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "124:3446a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo26/124:3446a.JPG",
+      "url": "/legajos/legajo-26/images/124:3446a.JPG"
+    },
+    {
+      "filename": "125:3446b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo26/125:3446b.JPG",
+      "url": "/legajos/legajo-26/images/125:3446b.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "124:3446a.JPG",
+  "warnings": [
+    {
+      "code": "IMAGE_DOWNLOAD_FAIL",
+      "message": "HTTP 404",
+      "context": {
+        "url": "http://santacilia.info/intranet2/img/Legajo26/124:3446a.JPG"
+      }
+    },
+    {
+      "code": "IMAGE_DOWNLOAD_FAIL",
+      "message": "HTTP 404",
+      "context": {
+        "url": "http://santacilia.info/intranet2/img/Legajo26/125:3446b.JPG"
+      }
+    },
+    {
+      "code": "IMAGE_COUNT_MISMATCH",
+      "message": "Imágenes detectadas (2) != descargadas (0)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-26/cartas/004352.json",
+  "primary_image_url": "/legajos/legajo-26/images/124:3446a.JPG"
+}

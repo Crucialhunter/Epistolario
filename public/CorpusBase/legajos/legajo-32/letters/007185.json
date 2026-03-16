@@ -1,0 +1,43 @@
+{
+  "legajo_id": "32",
+  "id_carta": "7185",
+  "order_in_legajo": 184,
+  "signatura": "257:1943a.JPG",
+  "nombre_carta": "Carta de Isabel de Salvá a Pedro Santacilia y Pax",
+  "fecha_original": "28 de abril de 1666",
+  "lugar": "Madrid",
+  "remitente": "Isabel de Salvá",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "LLETRA COMPLICADA [1§] [2§] Transcripción literal"
+  ],
+  "literal": [
+    "1. LLETRA COMPLICADA1."
+  ],
+  "imagenes": [
+    {
+      "filename": "257:1943a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo32/257:1943a.JPG",
+      "url": "/legajos/legajo-32/images/257:1943a.JPG"
+    },
+    {
+      "filename": "258:1943b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo32/258:1943b.JPG",
+      "url": "/legajos/legajo-32/images/258:1943b.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "257:1943a.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-32/cartas/007185.json",
+  "primary_image_url": "/legajos/legajo-32/images/257:1943a.JPG"
+}

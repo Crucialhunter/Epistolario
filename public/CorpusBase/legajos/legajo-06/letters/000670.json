@@ -1,0 +1,43 @@
+{
+  "legajo_id": "6",
+  "id_carta": "670",
+  "order_in_legajo": 170,
+  "signatura": "259-131a",
+  "nombre_carta": "Carta de Juana Thomás a Cecilia Zaforteza y Sureda de Sant Martí",
+  "fecha_original": "10 de junio de 1778",
+  "lugar": "Madrid",
+  "remitente": "Juana Thomás",
+  "destinatario": "Cecilia Zaforteza y Sureda de Sant Martí",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Madrid y junio 10 de 1778. Mi señora, Celebraré que esta halle a v. s. con salud perfecta, de cuyo beneficio, a Dios gracias, disfruto en compañía de Guillermo y los muchachos, los que ofrezco al servicio de v. s., y en especial el que nació en Sigüenza el día de San Esteban, que es muy bonito y muy bueno. Participo a v. s. como Su Ilustrísima ha hecho a Guillermo ayuda de cámara y empezará a servirle luego que salgan de Madrid. Yo al presente me hallo en Madrid con motivo de ver a Guillermo y para que este viese a su hijo, y para ver la corte. Después de mañana partiré para Sigüenza y, según he oído decir, Su Ilustrísima a últimos de este se partirá y toda la familia para [1§] su obispado, pues según dicen dentro pocos días bajará la determinación de su majestad sobre sus expedientes. Y así, si v. s. quiere escribirme podrá dirigir la carta a Sigüenza. Suplico a v. s. que cuando vea a mis hermanas les avise que sean buenas, que vivan con temor de Dios, que no ofendan a nadie y se conserven en su santa gracia. Y si v. s. puede favorecerles en algo, se lo apreciaré muchísimo, dándoles muchas expresiones de mi parte; las mismas le estimaré dé al Señor d. Gabriel Tomás, y v. s. las tomará a medida de su gusto. Ínterin, ruego a Dios le guarde muchos años. Juana Tomás,quien sus manos besa. Mi señora da. Cecilia Zaforteza Transcripción literal"
+  ],
+  "literal": [
+    "1. Madrid, y Junio 10 de 1778 2. Mi Señora celebraré que esta 3. halle á V.S. con salud perfeta 4. de cuyo beneficio á Dios graci- 5. as disfruto en compañía de 6. Gillermo, y los muchachos los 7. que ofresco al servicio de V.S. 8. y en especial el que nacio en 9. Siguenza el dia de Sn. Este- 10. van que es muy bonito y muy 11. bueno. Participo á V.S. como Su 12. Illma ha hecho á Guillermo 13. Ajuda de Camara y empesa- 14. rá á servirle luego que salg- 15. an de Madrid Yo al presente 16. me hallo en Madrid con moti- 17. vo de ver a Guillermo y para 18. que este viese á su Hijo, y para 19. ver la corte; despues de ma- 20. ñana partiré para Siguen- 21. za y segun he oido decir Su 22. Illma á ultimos de este se par- 23. tira y toda la familia para [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "259-131a.jpg",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo06/259-131a.jpg",
+      "url": "/legajos/legajo-06/images/259-131a.jpg"
+    },
+    {
+      "filename": "260-131b.jpg",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo06/260-131b.jpg",
+      "url": "/legajos/legajo-06/images/260-131b.jpg"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "259-131a.jpg",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (2)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-06/cartas/000670.json",
+  "primary_image_url": "/legajos/legajo-06/images/259-131a.jpg"
+}

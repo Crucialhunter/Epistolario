@@ -1,0 +1,43 @@
+{
+  "legajo_id": "15",
+  "id_carta": "2259",
+  "order_in_legajo": 157,
+  "signatura": "252:6484a.JPG",
+  "nombre_carta": "Carta de Joan Avilés a Pedro Santacilia y Pax",
+  "fecha_original": "6 de diciembre de 1647",
+  "lugar": "Vinarós",
+  "remitente": "Joan Avilés",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "El senyor don Pedro, me pareix ha volgut moure una muntanya de núvols en la que damunt té escrita. Tinc per cert que la núvolada l' [ha] volguda formar en Vinarós, i en el blanc ha ferit [ahir] en Mallorca es jove. I si [viu], vindrà temps que [prendrà] alló que trobarà i no tindrà ocasió de triar, que la joventut dona mol [t] s brios. I vindrà juns [?] en què ens trobarà a [m] b ells. Està fora d'esta vila a folgar-se. M'ha manat enviara {ESP. ésta} . Sé que gosa de salut. Jo la tinc a [m] b tots els {ESP. demés} de casa. Llargament escrigui en dies {ESP. atràs}, per un ca [p] tiu de les coses de Valéncia, i ara sols dic que el governador d'esta placia ha tengut carta de son germà, que de 15 d'agost fins als 10 del pasat s'habien mort onze mil persones. Diu-se que en total algun poc les malalties. Els pobles circunveïns a Valéncia estan ja infeccionats, i particularment Torrent, en Valéncia. Estan els jutges a [m] b portals impedint no entre {ESP. ningún} malalt. Nostre Senyor ho remedie com pot i haurem de menester. I guardi a v. m. mol [t] s anys. Vinarós i desembre, a 6 de 1647. Capellà de v. m., Joan Avilés Transcripción literal"
+  ],
+  "literal": [
+    "1. El Sor don Pedro me pareix ha volgut moure una 2. montayna de nuvols en la que damunt te escrita 3. tinch persert que la nuvolada la volguda formar en 4. Vinaros y lo blanc ha ferit aii en mallorca es Jove 5. y si isise vindra tems que pendra allo que trobara 6. y no tindra ocasio de triar que la Joventud dona mols 7. brios y vindra Juns[?] en que nos trobara ab ells esta fora 8. desta Vila afolgarse meha manat embiara esta seque 9. gosa Salud Jo la tinch ab tots los demes decasa folgare 10. sia tal lade Vmd. ab tots los demes de casa llargament 11. escrigui endies atras per un Catiu de les coses de Valensia 12. y ara sols dich que el governador desta plasa ha tengut 13. carta de son germa que de 15 de Agost fins als 10 del 14. pasat se avien mort onse mil persones diuse que an 15. total algun poch les malalties los pobles sircunveïns a Va16. lensia estan los Jutges ab portals enpedint no en17. tre ningun malalt nostre Sor ho remedie com pot y haurem 18. de menester y gde a Vmd. mols Anys Vinaros y debe. 19. a 6 de 1647. 20. Capella de Vmd. 21. Joan Avyles [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "252:6484a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo15/252:6484a.JPG",
+      "url": "/legajos/legajo-15/images/252:6484a.JPG"
+    },
+    {
+      "filename": "253:6484b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo15/253:6484b.JPG",
+      "url": "/legajos/legajo-15/images/253:6484b.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "252:6484a.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-15/cartas/002259.json",
+  "primary_image_url": "/legajos/legajo-15/images/252:6484a.JPG"
+}

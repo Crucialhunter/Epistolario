@@ -1,0 +1,38 @@
+{
+  "legajo_id": "37",
+  "id_carta": "5458",
+  "order_in_legajo": 10,
+  "signatura": "130:42",
+  "nombre_carta": "Carta de Margalida Càller i Serralta a Persona desconocida",
+  "fecha_original": "fecha sin especificar",
+  "lugar": "Mallorca",
+  "remitente": "Margalida Càller i Serralta",
+  "destinatario": "Persona desconocida",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "La confraria dels Àngels, la senyora Margalida Caller i Serralta i altres El Dr. Bassa [?] Que per quant en la Real Audiència ii a causa de graduació general de la heretat de Miquel Zanglada, del qual es successor Don Nicolau de Santacilia, que [?] Puigserver procurador dels administradors del convent de San Francesc s'oposa en aquella que allí se li respondrà tot el que sia de raó i justícia i no molest el dit Don Nicolau per altra curia. Transcripción literal"
+  ],
+  "literal": [
+    "1. La confraria dels Angels2. La Sra. Margata. Callar 3. y Sarralta y altras 4. lo Dr. Bassa 5. [?]6. Que per quant en la Real A. [?] 7. ja caussa de Garaduatio General de la 8. heretat de Michel Cenglada del qual 9. es sucessor Don Nicolau de 10. Sta. Cilia, que [?] Puigserber procurador 11. de los administrados del convent de San 12. Fransech se oppos. en aquella que alli 13. se li respondra tot lo que sia de raho 14. y justicia y no molest el dit Don 15. nicolau per altra curia. [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "130:42.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo37/130:42.JPG",
+      "url": "/legajos/legajo-37/images/130:42.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "130:42.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-37/cartas/005458.json",
+  "primary_image_url": "/legajos/legajo-37/images/130:42.JPG"
+}

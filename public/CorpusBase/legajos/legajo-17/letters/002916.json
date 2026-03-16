@@ -1,0 +1,43 @@
+{
+  "legajo_id": "17",
+  "id_carta": "2916",
+  "order_in_legajo": 181,
+  "signatura": "309:1458a.JPG",
+  "nombre_carta": "Carta de Diego Matías de Aragüés a Pedro Santacilia y Pax",
+  "fecha_original": "10 de julio de 1660",
+  "lugar": "Madrid",
+  "remitente": "Diego Matías de Aragüés",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Por les últimas cartes que ha recibido Jerónimo he sabido {ESP. goza} v. m. de buena salut i tota su casa que sia com se la deseo siempre, i a està bueno nuestro relator i m'ha ofrecido muy presto senyalarà dia per a esser relacion del pleito de la Inquisició. En cuanto a lo del apuntamiento no obstante el que s'ha dicho de nuevo en este memorial de com con les certificaciones no espero buen sueldo porque estoy en què els 500 escudos quiere se vuelvan i se junten lo demàs que tiene dado orden al consejo. i com que el no esser esta gràcia a v. m. es per no esser ejemplar con otros, en esto el miércoles per València la darà màs notícia a v. m. el Sr. don Juan està bueno i querido els dies pasado tuvo sangre de narices ja se la remedió sin llegar a sangria dels brazos. i a tienen hay obispo {ESP. ayer} se publicó en el consejo en el Sr. don Pedro Manjarres inquisidor que hoy es d'este Supremo d'Inquisicion [1§] La lletra no es veu bé [2§] Transcripción literal"
+  ],
+  "literal": [
+    "1. Por las Ultimas Cartas q ha recivido 2. Geo he savido goza Vm. de buena 3. salud y toda su casa q sea como se 4. la deseo siempre,5. Ya esta bueno nro Relator y me 6. ha offresido muy presto senalara dia 7. pa hazer relacion del pleyto de la 8. Inqon9. En qto a lo del apuntamto no obstante 10. lo q se ha dicho de nuebo eneste 11. meml de como con las certificaciones 12. no espero buen sueldo porq estoy en q 13. los 500 esdos quiere se buelvan y se 14. junten lo demas q tiene dado orden al 15. Consso. Y como q el no hazer esta 16. gracia a Vm. es por no hazer ecxem17. plar con otros, enesto el miercoles 18. por Valencia le dara mas noticia a Vm. 19. el Sr. don Juan esta bueno y querido 20. los dias passado tubo sangre de narizes 21. ya se le remedio sin llegar a sangria 22. de los brazos.23. Ya tienen ay obispo ayer se publico 24. en el Consso en el Sr Don Pedro Manjarres 25. Inqor q oy es deste Supremo de Inqon [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "309:1458a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo17/309:1458a.JPG",
+      "url": "/legajos/legajo-17/images/309:1458a.JPG"
+    },
+    {
+      "filename": "310:1458b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo17/310:1458b.JPG",
+      "url": "/legajos/legajo-17/images/310:1458b.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "309:1458a.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (3)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-17/cartas/002916.json",
+  "primary_image_url": "/legajos/legajo-17/images/309:1458a.JPG"
+}

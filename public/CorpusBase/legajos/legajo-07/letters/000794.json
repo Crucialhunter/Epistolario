@@ -1,0 +1,38 @@
+{
+  "legajo_id": "7",
+  "id_carta": "794",
+  "order_in_legajo": 2,
+  "signatura": "40-25 copy",
+  "nombre_carta": "Carta de Leonor de Berga i Santacilia a Jerónimo Pelegrín de Aragüés",
+  "fecha_original": "fecha sin especificar",
+  "lugar": "lugar sin especificar",
+  "remitente": "Leonor de Berga i Santacilia",
+  "destinatario": "Jerónimo Pelegrín de Aragüés",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Jeroni, aquí va a na Francina compra una gallina i vegeu qui ha de mestre. No dic més. Déu el guardi. Donya Leonor Santacilia. Jeroni Pelegri Transcripción literal"
+  ],
+  "literal": [
+    "1. Garoni a qui va a na fransina clon- 2. pra una galina y vagau qui a 3. de mestre no dic mes Deu lo 4. grada 24 5. Dona Elianor Sta Cilia 6. Garoni Palligri [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "40-25 copy.gif",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo07/40-25 copy.gif",
+      "url": "/legajos/legajo-07/images/40-25 copy.gif"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "40-25 copy.gif",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (4)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-07/cartas/000794.json",
+  "primary_image_url": "/legajos/legajo-07/images/40-25 copy.gif"
+}

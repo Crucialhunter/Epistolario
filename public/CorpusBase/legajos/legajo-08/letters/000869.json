@@ -1,0 +1,38 @@
+{
+  "legajo_id": "8",
+  "id_carta": "869",
+  "order_in_legajo": 168,
+  "signatura": "077-62 copia",
+  "nombre_carta": "Carta de Joan Fàbregues a Persona desconocida",
+  "fecha_original": "24 de mayo de 1649",
+  "lugar": "Alaior",
+  "remitente": "Joan Fàbregues",
+  "destinatario": "Persona desconocida",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Per complir les parelles de la guarda de les coves, que sols són vuit, falta un home, i l'any passat sobrà un home en dita guarda qui ja ni acostumava ser que és Pere Camps de la possessió de [?]. I per ordre de v. s. se posa i aplica dit Pere Camps a la guardiade la [?] i com ara falta a dita guarda de les coves suplicam a v. s. sigui servit manar que dit Pere Camps torni a fer guàrdia a les coves que d'eixa manera estaran les parelles complides, el que rebrem a mercè de v. s., {ESP. cuya} molt il·lustre persona {ESP. lo divino} guardi. D'Alaior i maig, a 24 de 1644. Joan Fabregues i Pell Llopis, notari Llorenç Pons Senyor governador Síndics d'Alaior Transcripción literal"
+  ],
+  "literal": [
+    "1. Per complir las parellas dela guarde delas Covas que 2. sols son vajt, falta un home, y lo any passat do [^-] 3. bra un home endita guarda qui ja ni acostumave 4. ser que es Pere Camps dela possº de tormeden y p 5. orde deV.Sª se possa y aplica dit Pere Camps 6. a la guarda del conseia y com are falte adita 7. guarde delas covas supplica avSª sea servit 8. manar que dit Pere Camps torn a fer guarde alas 9. covas que de exa manera esteran las parejas com [^-]10. plidas lo q rebrem a merce dev.Sª cuja molt Jll< > 11. persona la devina g< > de Alayor y maig a 24 de 12. 1644 13. Joan Fabregues y p ell llopis nottj 14. Jorens Pons 15. S< > Gove< > sindichs de Alayor [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "077-62 copia.jpg",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo08/077-62 copia.jpg",
+      "url": "/legajos/legajo-08/images/077-62 copia.jpg"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "077-62 copia.jpg",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-08/cartas/000869.json",
+  "primary_image_url": "/legajos/legajo-08/images/077-62 copia.jpg"
+}

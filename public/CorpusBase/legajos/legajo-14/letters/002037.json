@@ -1,0 +1,43 @@
+{
+  "legajo_id": "14",
+  "id_carta": "2037",
+  "order_in_legajo": 139,
+  "signatura": "227:2549a.JPG",
+  "nombre_carta": "Carta de Diego Matías de Aragüés a Pedro Santacilia y Pax",
+  "fecha_original": "21 de diciembre de 1661",
+  "lugar": "Madrid",
+  "remitente": "Diego Matías de Aragüés",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Las dos cartas de v. m. he recibido de 21 y 24 del pasado, y las que vinieron para los Sres. regentes Pueyo y exta. di en sus manos, y a Jeronimo Mancho. El Sr. don Juan está bueno y alentado y ahora ocupado en servir. En razón de las cuentas reconozco el favor y merced que v. m. me hace en que me dice no las verá, suplícole a v. m. se sirva de que tome ese mal rato en que se las llevan porque puede haber hierro así para v. m. como para mi y porque sepa de la manera que se ha gastado su dinero de v. m. pues es cantidad, y pues v. m. me dice le haga materia de lo que se debe al margen va de ésta. En el pleito de la Inquisición me he holgado de que se hagan todas las diligencias hoy y que no le dejen de vista, pues me dicen se han pasado a secuestrar bienes del canónigo Togores, me ha dado particular contento. Y en esto mismo no ignoro en que a v. m. no son menester recuerdos, y lo que me obligó a hacer memoria (que no es de mi genio) fue porque estoy asegurado se había dado a v. m. a entender yo no había hecho cosa de provecho y que otro era el que lo dejo todo concluido. [NOTA] Al Mercadal hasta Navidad de este año 1 136 reales Vellon. Al capabero hasta dicho día 0 o 80 reales Vellon ACABAR. Transcripción literal"
+  ],
+  "literal": [
+    "1. Las dos cartas de Vm. he recivido de 2. 21. y 24 del passado, Y las q vinieron3. p[ar]a los Sses Regtes Pueyo y exta. 4. di en sus manos, y a Gero Mancho.5. El Sr. don Juan esta bueno y alentado6. y agora occupado en servir7. En razon de las qtas reconozco el favor y8. md. que V.m. me haze en q me dize no9. las vera, sup[li]cole a Vm se sirva10. de q tome esse mal rato en q se las levan11. perq< puede haver hierro assi p[ar]a Vm. como12. para mi y porq sepa de la manera q se ha13. gastado su dinero de Vm. pues es cantidad,14. y pues Vm. me dize le haga m[ateri]a de lo q se deve15. a la margen ba desta.16. En el pleyto de la Inqon me he olgado de q17. se hagan todas las diligas ay y q no le dexen18. de vista, pues me dicen se han passado á19. sequestrar bienes del Sr. Cango Togores20. me ha dado particular contento. Y21. enesto mismo no Ignoro en q a Vm. no son22. menester requerdos, y lo q me obligó á23. hazer memoria (q no es de mi genio) fue24. porq estoy asegurado se havia dado a Vm.25. a entender yo no havia hecho cosa de probe26. cho y q otro era el q lo dexo todo concluydo27. HI HA UNA NOTA AL MARGE DRET28. [^Al Mercadar hasta navidad29. deste ano 1 136 Rs Vellon30. Al capabero hasta d[ic]ho dia 0 o 80 Rs Von31. ACABAR [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "228:2549b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo14/228:2549b.JPG",
+      "url": "/legajos/legajo-14/images/228:2549b.JPG"
+    },
+    {
+      "filename": "227:2549a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo14/227:2549a.JPG",
+      "url": "/legajos/legajo-14/images/227:2549a.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "228:2549b.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (3)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-14/cartas/002037.json",
+  "primary_image_url": "/legajos/legajo-14/images/228:2549b.JPG"
+}

@@ -1,0 +1,43 @@
+{
+  "legajo_id": "11",
+  "id_carta": "1502",
+  "order_in_legajo": 270,
+  "signatura": "458:5357a.JPG",
+  "nombre_carta": "Carta de Diego Matías de Aragüés a Pedro Santacilia y Pax",
+  "fecha_original": "23 de septiembre de 1665",
+  "lugar": "Madrid",
+  "remitente": "Diego Matías de Aragüés",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Por Barcelona tengo escrita dándole razón de la muerte del rey que goce de Dios y hago por Valencia estos renglones, con que en este no tengo que alargarme pues a lla habido el aviso dando razón por menor de todo, con que no excuso el volver a dar a v. s. el pesame, siendo golpe tan grande veremos la disposición que había en esto de la jornada de Alemania, que dicen será muy cierta para el abril, y si quedarán los pajes que estaban nombrados para hor en ella y conforme lo que fuere avisaré a v. s. Jerónimo juzgo se volverá luego, porque presto estará despachado de todo, y su memorial para renunciar las 25 platas le di, al vicecanciller y hable en todo largamente con un papel de advertencias y luego se despachara mañana así Dios guarde a v. s. me diga si ha recibido todos mis pliegos, o los que han llegado a su mano mucho corre la voz de que al conde de Medellin le envían por virrey de Nápoles. Por si v. s. escribiere al vicecanciller le [1§] le trate de excelencia porque se ha calzado con esto de ser de la junta que ha de asistir para el despacho y Gobierno de la reina Ntra. Sra. y a se ha puesto la petición en el tribunal del nuncio contra el Obsipo para las pensiones del letrado que es de los mejores que acuden allí me da muy buenas esperanzas, y por cosa asentada de que se concederán las letras de ejecución y embargo de bienes y frutos. v. s. me mande le sirva que sus manos besamos y las de mi Sra. doña Leonor del Sr. don Juan y todos esos Sres. muchas veces Dña. Margarita y yo, y guarde Dios como deseo. Madrid 23 septiembre 1665. Besa las manos de v. s. su mayor servidor Diego Matias de Aragues Sr. don Pedro Santacilia y Pax [2§] Transcripción literal"
+  ],
+  "literal": [
+    "1. Por Barcelona tengo escrita dandole 2. razon de la muerte del Rey que goze de Dios 3. y ago por Valencia estos renglones, con que 4. en este no tengo que alargarme pues a lla 5. habido el aviso dando razon por menor 6. de todo, con que no escuso el bolver a dar 7. a VS el pesame, siendo golpe tan grande 8. veremos la disposicion que habia en esto 9. de la jornada de Alemania, que dicen sera 10. muy cierta para el abril, y si quedaran 11. los Pajes que estavan nombrados para hor 12. en ella y conforme lo que fuere avisare a VS 13. Germo juzgo se bolvera luego, porque 14. presto estara despachado de todo, y su 15. memorial para renunciar las 25 ptas le di, al 16. Sr. Vicecanciller y hable en todo largamente 17. con un papel de advertencias y luego se 18. despachara mañana 19. Asi Dios gde a VS me diga si ha recivido 20. todos mis pliegos, o los que han llegado a su mano 21. mucho corre la voz de que al sr. Conde de Medellin 22. le embian por Virrey de Napoles. 23. Por si VS escriviere al sr. Vicecanciller le [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "458:5357a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo11/458:5357a.JPG",
+      "url": "/legajos/legajo-11/images/458:5357a.JPG"
+    },
+    {
+      "filename": "459:5357b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo11/459:5357b.JPG",
+      "url": "/legajos/legajo-11/images/459:5357b.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "458:5357a.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (3)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-11/cartas/001502.json",
+  "primary_image_url": "/legajos/legajo-11/images/458:5357a.JPG"
+}

@@ -1,0 +1,43 @@
+{
+  "legajo_id": "28",
+  "id_carta": "4766",
+  "order_in_legajo": 75,
+  "signatura": "115:3700a.JPG",
+  "nombre_carta": "Carta de Macià Monsarró a Pedro Santacilia y Pax",
+  "fecha_original": "4 de mayo de 1639",
+  "lugar": "Zaragoza",
+  "remitente": "Macià Monsarró",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "[1§] Marranos [?] 21 abril 1639 Macia Monsarro Señor don Pedro, a mí me ha pedido Pedro Gascón, prg. de don Miguel, mi señor, suplicara a v. m. fuera servido de mandar a los soldados que se remitan a Sariñena, que se harán allí con todo buen pasaje, que es su patria. Y pues está tan en su mano de v. m. que conozca la villa por su medio de v. m. mucho beneficio, se lo suplico, que don Miguel lo estimará mucho, porque está muy obligado a la fineza y cuidado con que el dicho Pedro Gascón le escribe en sus negocios surido [?] de tanta calidad y cantidad como v. m. sabe. Del pasaje del marqués de Villafranca no hay que tener cuidado, que aunque sea medianoche avisaré a v. m. De los caballos no se ha hecho cosa. Hoy envío a v. m. el memorial que v. m. me pidió y es buena ocasión que don Miguel Castellot hoy esta en su compañía de v. m., sabe el estado de este negocio y la ocasión que tuvo el que suplica para defenderse de un hombre de tan mal nombre. De todo [?] me haga merced. A quien beso la mano. Zaragoza, y mayo a 4 1639. Macia Monsarro. Transcripción literal"
+  ],
+  "literal": [
+    "1. Señor Don Pedro a mi me ha pidido Pedro Gascon2. prg de Don Miguel mi señor suplicara a vmd3. fuera servido de mandar a los soldados que se4. remitan a sarinena que se haran alli con5. todo buen pasaje que es su patria. y pues6. esta tan en su mano de vmd que conozca7. la villa por su medio de vm mucho benefi8. cio selo suplico, que don Miguel lo9. estimara mucho. porque esta muj obligado10. ala fineza j cuidado conque el dho11. Pedro gascon le scrive en sus negotios12. surido [?] de tanta calidad j cantidad como13. vm save.14. Del pasaje del marques de billafran15. ca no aj que tener cuidado que aunque16. sea media noche avissare a vm de17. los cavallos no se ha echo cossa,18. oj imbio a vm el memorial que vm19. me pidio y es buena ocasion que don20. miguel castellot oy esta en su con21. pania de vmd sabe el estado deste22. negotio j la ocasion que tubo el que su23. plica para defenderse de un hombre24. de tan mal nombre, de todo [?] 25. me haga md a quien besso la mano26. Çarago j majo a 4 163927. masia monsarro [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "115:3700a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo28/115:3700a.JPG",
+      "url": "/legajos/legajo-28/images/115:3700a.JPG"
+    },
+    {
+      "filename": "116:3700b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo28/116:3700b.JPG",
+      "url": "/legajos/legajo-28/images/116:3700b.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "115:3700a.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (2)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-28/cartas/004766.json",
+  "primary_image_url": "/legajos/legajo-28/images/115:3700a.JPG"
+}

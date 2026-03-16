@@ -1,0 +1,43 @@
+{
+  "legajo_id": "6",
+  "id_carta": "555",
+  "order_in_legajo": 54,
+  "signatura": "043-25a",
+  "nombre_carta": "Carta de Thomàs Zaforteza a Cecilia Zaforteza y Sureda de Sant Martí",
+  "fecha_original": "26 de junio de 1746",
+  "lugar": "Palma",
+  "remitente": "Thomàs Zaforteza",
+  "destinatario": "Cecilia Zaforteza y Sureda de Sant Martí",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Cecília, Esper esta et trobarà amb perfecta salut en companyia de l’oncle Francesc i {ESP. demés} senyors. Les notícies que corren són que en Chatofort immediatament d’haver ajustat son matrimoni amb dona Gràcia Escofet, per {ESP. medi} del pare Horrach, dels caputxins, el qual diuen té especial habilitat en este {ESP. asumpto} s’és emmalaltit i encara que no té {ESP. calentura} pateix una gran vigília; i tots concorden en què és molt mal començar la prometença d’esta manera. El correu arribà ahir a les [1§] dues de la tarda i ha portat una carta al comandant, del comandant de Palència, la qual diu, que havent sobrevingut diferents dificultats i en particular la d’haver dues dones, en la companyia qui havia de venir a Mallorca, que no és volen embarcar, havia resolt dita companyia de no venir este any, però, que per la seva poderosa intercessió s’havien {ESP. allanat} totes estes dificultats, i que la companyia vindria amb la major diligència. Nosaltres ací tots el passam bé, gràcies a Déu. No tenc cosa més que avisar-te. De part de l'avi, ma mare, dona Caterina, mon pare, i les nebodes rebràs moltes memòries. I Déu te guardi molts [En la parte izquierda, dearriba a abajo] anys. Ciutat als 26 de juny 1746. Ton germà, qui més te vol, Tomàs Zaforteza i Berga Transcripción literal"
+  ],
+  "literal": [
+    "1. Cicilia esper esta et troberá ab 2. perfeta salut en compañia d lo 3. Onclo Fch, y dames Señors. Las no- 4. ticias, que corren son, que en Cha- 5. tofort immediatament de haver a- 6. justat son Matrimoni ab Da. Gra- 7. cia Escophet, per medi de Pare 8. Corrach; dels Caputxins, el qual 9. dihuen te especial habilidat en 10. este assumpto; se es enmalaltit. y 11. encare que no te calentura, patex 12. una gran vigilia; y tots concor- 13. dan en que es molt mal comen- 14. çar La prometensa de esta mane- 15. ra. 16. El Correu arribá air á las [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "043-25a.jpg",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo06/043-25a.jpg",
+      "url": "/legajos/legajo-06/images/043-25a.jpg"
+    },
+    {
+      "filename": "044-25b.jpg",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo06/044-25b.jpg",
+      "url": "/legajos/legajo-06/images/044-25b.jpg"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "043-25a.jpg",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (2)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-06/cartas/000555.json",
+  "primary_image_url": "/legajos/legajo-06/images/043-25a.jpg"
+}

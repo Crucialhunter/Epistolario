@@ -1,0 +1,45 @@
+{
+  "legajo_id": "26",
+  "id_carta": "4346",
+  "order_in_legajo": 82,
+  "signatura": "118:3440.JPG",
+  "nombre_carta": "Carta de Mateu Jaume a Pedro Santacilia y Pax",
+  "fecha_original": "18 de diciembre de 1639",
+  "lugar": "Caparosso",
+  "remitente": "Mateu Jaume",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Al punto que llegó Juan Adan me puse en busca de Jaime Pujadas y de Boleda y de Francisco Barai me dijo un caballero de este lugar que Jaume Pujadas y Boleda estaban ya más de mi y quinientos pasos fuera del lugar y hallé en sus posadas otros que les sacaban los caballos, cogí los dichos caballos y armas y los traje a mi posada cogí a Francisco Barai y me ha confesado todo lo que hay en eso y es que estando en la villa de San Martin demanaron licencia al cabo de escuadra [?] con conformidad los tres a tafalla y cuando fueron pasados Berasain hallaron una cuadrilla de arrieros con cargas y les pidieron dineros para herrar los caballos y los arrieros se alborotaron y acudieron de un cuartel de donde estaban soldados de don Gregorio Mercado. Se fueron a su cuartel y estos tales volvieron al cuartel de San Martin. Esa es la relación que ha hecho Francisco Barai que está preso. Le prometo a v. m. que los soldados que se quedaron conmigo en Caparroso están muy quietos. V. m. enviará la respuesta como se ha de hacer esto lo más breve que se pudiere. El señor virrey ha metido a todos treinta en la villa de Caparroso y con esto no tengo de que avisar a v. m. sino que Nuestro Señor guarde de Caparroso, a 18 de diciembre 1639. El teniente Mateu Jaume Mi Sr. gobernador Transcripción literal"
+  ],
+  "literal": [
+    "1. Al punto que llego Juan adan me puse en busca de2. Jaime Puiadas y de boleda y de Franco. Barai me digo3. un cavallero deste lugar que iaume puiadas y4. boleda estavan ya mas de mi y quinientos pasos fuera5. del lugar y alle en sus posadas otros que les sacavan6. los cavallos cogi los dichos cavallos y armas y los trage a mi7. posada cogi a Franco. Barai i me a confesado todo lo que8. ai en eso y es que estando en la villa de san mar9. tin demanaron licencia al cavo descuadra10. noges con conformidad los tres a tafalla y quando11. fueron pasados Varasuan allaron na cuadrilla de arieros12. con cargas i les pidieron dineros para erar los cava13. llos y los arieros se alborotaron y acudieron de14. un cuartel de donde estavan soldados de don Gre15. gorio mercado se fueron a su cuartel y estos tales16. bolbieron al cuartel de san martin esa es la rela17. cion que echo Franco. Bara que esa preso le prome18. to a Vmd. que los soldados que se quedaron19. conmigo en Caparoso estan mui quietos Vmd. yn20. biara la respuesta como se a de acer esto lo mas bre21. be que se pudiere el señor vireino a metido a todos22. treinta en la villa de caparoso y con esto no tengo 23. de que avisar a Vmd. sino que nuestro Señor guarde24. De Caparoso a 18 de dicienbre 163925. El tiniente mateu [...]26. Mi Sr. gobernador [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "118:3440.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo26/118:3440.JPG",
+      "url": "/legajos/legajo-26/images/118:3440.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "118:3440.JPG",
+  "warnings": [
+    {
+      "code": "IMAGE_DOWNLOAD_FAIL",
+      "message": "HTTP 404",
+      "context": {
+        "url": "http://santacilia.info/intranet2/img/Legajo26/118:3440.JPG"
+      }
+    },
+    {
+      "code": "IMAGE_COUNT_MISMATCH",
+      "message": "Imágenes detectadas (1) != descargadas (0)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-26/cartas/004346.json",
+  "primary_image_url": "/legajos/legajo-26/images/118:3440.JPG"
+}

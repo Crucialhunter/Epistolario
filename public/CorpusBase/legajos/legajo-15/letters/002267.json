@@ -1,0 +1,38 @@
+{
+  "legajo_id": "15",
+  "id_carta": "2267",
+  "order_in_legajo": 166,
+  "signatura": "263:6492.JPG",
+  "nombre_carta": "Carta de Agustí Seguí a Pedro Santacilia y Pax",
+  "fecha_original": "2 de abril de 1648",
+  "lugar": "Malta",
+  "remitente": "Agustí Seguí",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "[Senyor don Pedro] Mon germà, Agustí Seguí, té correspondència a [m] b Pompeyo {ESP. isla} d'aqueixa ciutat de Gènova. Si v. m. nos pot fer mercè d'ell i a mi, de valer-se d'uns pocs diners que ell tindrà sense la rebrem tots singular, que per et efecte, ell ja té ordre; no perquè v. m. n'estigue falta, sinó perquè ens faci mercè de valer-se d'ells i honrar-nos a [m] b esta ocasió. I no dexde mana [r] -nos moltes coses de son servei, el qual Déu guardi la salut i el deix tornar en la seva pàtria. Malsa i abril, 2, de 1648. Miquel Seguí, notari. Agustí Seguí. Transcripción literal"
+  ],
+  "literal": [
+    "1. [Margen izquierdo][^Sr D Pedro]2. Mon germa Agusti segui te Correspondencia ab 3. Pompeyo Isola deaquexa Ciutat de genova, li .m. 4. nos pot fer merçe delly ami de valersa de uns 5. pochs diners que ell tindra sens la rebrem tots 6. singular, que p[] et effecta ell yate orde; no perque 7. v.m. ne estigue falta, sino per que nos fasse merçe 8. devalerse deells y honrarnos abesta ocasio. yno dex 9. demanacnos moltas cosas deson servey. el qual deu 10. gde lasalut y lo dex tornar en lasua patria. Malsa 11. y Abril 2. de 1648. 12. My segui ni [?] 13. Agusti Sagui [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "263:6492.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo15/263:6492.JPG",
+      "url": "/legajos/legajo-15/images/263:6492.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "263:6492.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (2)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-15/cartas/002267.json",
+  "primary_image_url": "/legajos/legajo-15/images/263:6492.JPG"
+}

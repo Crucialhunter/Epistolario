@@ -1,0 +1,43 @@
+{
+  "legajo_id": "20",
+  "id_carta": "3280",
+  "order_in_legajo": 155,
+  "signatura": "317:6061a.JPG",
+  "nombre_carta": "Carta de Laura de Alagón y Cardona a Leonor Santacilia i Despuig",
+  "fecha_original": "14 de septiembre de 1668",
+  "lugar": "Valencia",
+  "remitente": "Laura de Alagón y Cardona",
+  "destinatario": "Leonor Santacilia i Despuig",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Recibo su carta de v. s. de 28 del pasado con particular estimación a la merced que v. s. se sirve hacerme en ella porque beso a v. s. las manos alegrándome infinito de que v. s. tenga la salud que le deseo, cuya noticia celebro con el alborozo que corresponde a mi obligación y con ella doy a v. s. la enhorabuena de la mejoría del señor don Juan, cuyo achaque nos ha tenido con mucho cuidado y en este correo nos saca de él el señor don Pedro diciendo queda fuera del riesgo, y tanto que los doctores trataban de purgarle, conque se reconoce cuán mejorado está su merced. Quiera Dios que el primer pasaje puede v. s. tener noticias de quedar enteramente libre habiendo dejado la cama. La mosquitera que v. s. me ha hecho favor de enviarme he recibido, que es famosa y la única defensa para la plaga de los mosquitos que hay en esta ciudad por que doy a v. s. las debidas gracias y le beso las manos por la merced que se ha servido de hacerme, en que no hallo más descuento que suplicar a v. s. me dé muchas ocasiones de servirla, que serán [1§] siempre las de mi mayor estimación. Dios guarde a v. s. muchos años como deseo. Valencia y septiembre a 14 1668 Servidora de v. s. que su mano besa, doña Laura de Alagon Mi señora da. Leonor Santacilia y Despuig [2§] Transcripción literal"
+  ],
+  "literal": [
+    "1. Recivo su carta de V.S. de 28. del pasado con 2. particular estimaçion a la merçed que V.S. se sirve 3. hazerme en ella porque beso a V.S. las manos ale- 4. grandome infinito de que V.S. tenga la salud q 5. le deseo cuya notiçia celebro con el alboroço que 6. corresponde a mi obligaçion y con ella doy a V.S. la 7. norabuena de la mejoria del sr. Don Juan 8. cuyo achaque nos â tenido con mucho cuy- 9. dado y en este correo nos saca del el sr. Don 10. Pedro diciendo queda fuera del riezgo y tan- 11. to que los Dotores tratavan de purgarle conque 12. se reconoçe cuan mejorado esta su merçed. 13. quiera Dios que el primer pasaje puede V.S. 14. tener notiçias de quedar enteramente libre 15. haviendo dejado la cama 16. La Mosquitera que V.S. me ha hecho favor 17. de imbiarme he reçevido que es famosa y la 18. unica defensa para la plaga de los Mosquitos 19. que ay en esta ciudad porque doy a V.S. las 20. devidas graçias y le beso las manos por la 21. merçed que se â servido de hazerme en que 22. no hallo mas descuento que suplicar â V.S. 23. me de ms ocaciones de servirla que seran [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "317:6061a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo20/317:6061a.JPG",
+      "url": "/legajos/legajo-20/images/317:6061a.JPG"
+    },
+    {
+      "filename": "318:6061b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo20/318:6061b.JPG",
+      "url": "/legajos/legajo-20/images/318:6061b.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "317:6061a.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-20/cartas/003280.json",
+  "primary_image_url": "/legajos/legajo-20/images/317:6061a.JPG"
+}

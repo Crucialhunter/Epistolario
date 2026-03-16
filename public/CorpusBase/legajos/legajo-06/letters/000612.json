@@ -1,0 +1,48 @@
+{
+  "legajo_id": "6",
+  "id_carta": "612",
+  "order_in_legajo": 108,
+  "signatura": "149-77a",
+  "nombre_carta": "Carta de Cecilia Zaforteza y Sureda de Sant Martí a Persona desconocida",
+  "fecha_original": "18 de abril de 1770",
+  "lugar": "Mallorca",
+  "remitente": "Cecilia Zaforteza y Sureda de Sant Martí",
+  "destinatario": "Persona desconocida",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Excelentísimo señor, muy Sr. mío. Teniendo esta ocasión para continuar mi buena fe a v. e. espero tengo de merecerle el que v. e. patrocine en un todo a este mi querido sobrino. Él se va a gusto de sus mayores con la vocación [1§] muy constante de ser sanjuanista, pues no tiene a nuestro ver sosiego hasta llevar la cruz. Confío [que] v. e. le dará el más pronto despacho para llegar al destino a que Dios le inspira a mi sobrino. V. excelentísima espero me mande y deberle su bondad, o cariño y buenos consejos [?] de uno y otro prometo todo el acierto en dirigir éste mi hijo. V. e. mande con toda franqueza, con toda confianza, y asegúrese de mi buena ley mientras ruego al Sr. guarde muchos años. Mallorca y abril 18 1770. Sra. [?] de [?] Cecilia Zaforteza Transcripción literal"
+  ],
+  "literal": [
+    "1. Eccmo Señor 2. Muy Sr. mio, teniendo 3. esta ocasion para 4. continuar mi bu- 5. ena féé a V.xa. es- 6. pero tengo de me- 7. reserle el que 8. V.xa. Patrocine en 9. un todo á este 10. mi querido sobrino 11. el se va á gusto 12. de sus Mayores 13. con la vocacion [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "149-77a.jpg",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo06/149-77a.jpg",
+      "url": "/legajos/legajo-06/images/149-77a.jpg"
+    },
+    {
+      "filename": "150-77ba.jpg",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo06/150-77ba.jpg",
+      "url": "/legajos/legajo-06/images/150-77ba.jpg"
+    },
+    {
+      "filename": "150-77bb.jpg",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo06/150-77bb.jpg",
+      "url": "/legajos/legajo-06/images/150-77bb.jpg"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "149-77a.jpg",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-06/cartas/000612.json",
+  "primary_image_url": "/legajos/legajo-06/images/149-77a.jpg"
+}

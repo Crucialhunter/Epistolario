@@ -1,0 +1,78 @@
+{
+  "legajo_id": "11",
+  "num_cartas": 274,
+  "num_imagenes": 469,
+  "rango_temporal": [
+    1642,
+    1665
+  ],
+  "remitentes_frecuentes": [
+    {
+      "name": "Pedro Juan de la Guardia",
+      "count": 12
+    },
+    {
+      "name": "Pere Onofre Tauler",
+      "count": 11
+    },
+    {
+      "name": "Diego Matías de Aragüés",
+      "count": 10
+    },
+    {
+      "name": "Rafael Vives García",
+      "count": 9
+    },
+    {
+      "name": "Juan Miguel Santacilia",
+      "count": 8
+    }
+  ],
+  "destinatarios_frecuentes": [
+    {
+      "name": "Pedro Santacilia y Pax",
+      "count": 260
+    },
+    {
+      "name": "Persona desconocida",
+      "count": 7
+    },
+    {
+      "name": "Vicente de Aragón",
+      "count": 2
+    },
+    {
+      "name": "No consta",
+      "count": 2
+    },
+    {
+      "name": "Leonor Santacilia i Despuig",
+      "count": 2
+    }
+  ],
+  "lugares_frecuentes": [
+    {
+      "name": "Madrid",
+      "count": 64
+    },
+    {
+      "name": "Mallorca",
+      "count": 61
+    },
+    {
+      "name": "Valencia",
+      "count": 44
+    },
+    {
+      "name": "Ciutadella",
+      "count": 17
+    },
+    {
+      "name": "Alcúdia",
+      "count": 16
+    }
+  ],
+  "temas_frecuentes": [],
+  "warnings_count": 93,
+  "densidad_narrativa_estimada": "Media"
+}

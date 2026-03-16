@@ -1,0 +1,38 @@
+{
+  "legajo_id": "31",
+  "id_carta": "6957",
+  "order_in_legajo": 197,
+  "signatura": "292:1709.JPG",
+  "nombre_carta": "Carta de conde de Santa María de Formiguera a Pedro Santacilia y Pax",
+  "fecha_original": "16 de octubre de 1663",
+  "lugar": "Lugar sin especificar",
+  "remitente": "conde de Santa María de Formiguera",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Sr. sor Juana i la neboda de v. s. sor Maria religioses de St. hironim no manaran [?] suplicar [?] a v. s. per Sr. don [?] dill de [?] es com no [?] de casa aquest [?] l'hi suplic [?] als 16 octubre 1663 Servidor [?] de Formiguera don Pedro Santacilia i Pax [1§] Transcripción literal"
+  ],
+  "literal": [
+    "1. Sr sor Juana y la neboda 2. de V. S. sor maria religiosas de 3. St. hironim no manaran [?] 4. supplicar [?] a V. S. 5. per Don ??dill de [?] 6. ?? es com no [?] de casa 7. est [?] lai supplic [?] 8. ?? als 16 8bre 1663 9. Servidor 10. ??11. de Formiguera 12. Sr Don Pedro santacilia y pax [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "292:1709.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo31/292:1709.JPG",
+      "url": "/legajos/legajo-31/images/292:1709.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "292:1709.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-31/cartas/006957.json",
+  "primary_image_url": "/legajos/legajo-31/images/292:1709.JPG"
+}

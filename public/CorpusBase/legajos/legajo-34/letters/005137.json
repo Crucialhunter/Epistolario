@@ -1,0 +1,38 @@
+{
+  "legajo_id": "34",
+  "id_carta": "5137",
+  "order_in_legajo": 166,
+  "signatura": "252:7052.JPG",
+  "nombre_carta": "Carta de Pascual de Aragón a Pedro Santacilia y Pax",
+  "fecha_original": "20 de octubre de 1657",
+  "lugar": "Madrid",
+  "remitente": "Pascual de Aragón",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Por carta que he recibido de v. m. de 3 de septiembre veo goza de la buena salud que deseo, de que quedo con todo gusto y con igual afecto dispuesto al servicio de v. m., para asistir en cuanto se le ofreciere que pueda yo manifestarle. En el despacho que v. m. me dice de Jeronimo Peligrin y Aragues, para que sirva el oficio en que v. m. le ha nombrado, asistiré con muy buena voluntad, y solicitaré experimente v. m. en todas ocasiones la que tendré para servirle. Dios guarde a v. m. muchos años. Madrid, 20 de Octubre 1657. Muy de v. m. Sr. don Pasqual de Aragon. Duplicado Sr. d. Pedro Santacilia y Pax [1§] Transcripción literal"
+  ],
+  "literal": [
+    "1. Porcarta que herezivido de Vm de 3 de septiembre2. Veo goza de la buena salud que deseo, deque quedo con3. todo gusto y con y gual afecto dispuesto al servicio 4. deVm, para asistir en quanto sele ofreziere que5. puedayo manifestar le.6. enel despacho queVm medize de Geronimo Peliguin 7. y Aragues, paraquesirva elofiçio enqueVm le anon/8. brado, asistire con muy buena voluntad, y solicita/9. re experimente Vm entodas ocasiones laqueten/10. dreparaservirle, Dios gde a Vm muchos años Md 11. 20 de Octre 1657 12. Mui deem.13. don Pasqual14. de Aragon15. [25, marge esquerre] Duppdo16. [26, extrem inferior] Sr. D. Pedro Sta. cilia y Pax [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "252:7052.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo34/252:7052.JPG",
+      "url": "/legajos/legajo-34/images/252:7052.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "252:7052.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-34/cartas/005137.json",
+  "primary_image_url": "/legajos/legajo-34/images/252:7052.JPG"
+}

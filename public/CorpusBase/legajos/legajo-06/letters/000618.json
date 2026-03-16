@@ -1,0 +1,43 @@
+{
+  "legajo_id": "6",
+  "id_carta": "618",
+  "order_in_legajo": 116,
+  "signatura": "160-83a",
+  "nombre_carta": "Carta de Juan Nadal a Cecilia Zaforteza y Sureda de Sant Martí",
+  "fecha_original": "25 de mayo de 1770",
+  "lugar": "Barcelona",
+  "remitente": "Juan Nadal",
+  "destinatario": "Cecilia Zaforteza y Sureda de Sant Martí",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Mi senyora, Esper esta trobarà a v. m. amb perfecta salut. La mia és bona per a servir-la. Don notícia a v. m. com vaig arribar a esta de Barcelona el 21 {ESP. cerca} les quatre i mitja de la tarda sense la menor novetat. Desembarcàrem {ESP. circa} les set i després del desembarcar el primer que encontrí fou en Joan i m’acompanyà a casa de D. Tomàs, el que el sabé {ESP. cerca} les vuit i vingué amb molta pressa, alegrant-se molt de què fos arribat, el que està molt content i alegre, ja per saber que v. m. està bona com també per gustar-li molt esta ciutat. Ell se parteix avui per a Madrid a la tarda i jo per Calders demà. Els {ESP. demés} també molt contents i de tots rebrà memòries, quedant sempre per servir a v. m. i si se li ofereix res d’esta ciutat disponga. Déu guardi a v. m. molts anys. Barcelona i maig als 25 de 1770. Joan Nadal, prevere. Son menor capellà qui sa mà besa. A mi senyora dona Cecília Transcripción literal"
+  ],
+  "literal": [
+    "1. Mi Sra. Esper es- 2. ta troberá á V.M. ab 3. perfeta salut la mia es 4. bona per a servirla. 5. Don noticia á V.M. com 6. vatx arribar á esta de Bar- 7. celona als 21 circa las 8. quatre y mitge de la tar- 9. de sens la menor novedat 10. désembercarem circa las 11. set y despues del desembarch 12. el primer que encontrí 13. fonch en Juan y me acom- 14. pená á casa de Dn. Thomas 15. el que lo sabé circa las 16. vuyt y vingue ab molta [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "160-83a.jpg",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo06/160-83a.jpg",
+      "url": "/legajos/legajo-06/images/160-83a.jpg"
+    },
+    {
+      "filename": "161-83b.jpg",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo06/161-83b.jpg",
+      "url": "/legajos/legajo-06/images/161-83b.jpg"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "160-83a.jpg",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-06/cartas/000618.json",
+  "primary_image_url": "/legajos/legajo-06/images/160-83a.jpg"
+}

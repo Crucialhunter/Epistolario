@@ -1,0 +1,43 @@
+{
+  "legajo_id": "7",
+  "id_carta": "786",
+  "order_in_legajo": 37,
+  "signatura": "29-17a copy",
+  "nombre_carta": "Carta de Luis [??] Pou Ferrá y Nadal a Pedro Rubio Benedicto y Herrero",
+  "fecha_original": "6 de noviembre de 1694",
+  "lugar": "Binibassá­",
+  "remitente": "Luis [??] Pou Ferrá y Nadal",
+  "destinatario": "Pedro Rubio Benedicto y Herrero",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "{ESP. Amigo}. La confiança que tinc de tu m'ha obligat en cansar-te, i així estimaria em fessis mercè d’enviar-me sa calesa dijous dematí que fos a Son Nasi o l’Alqueria d’Avall, que la gent se’n vol anar a Son Forteza i divendres a migdia serà en ciutat. A la senyora del pare mestre mil {ESP. recados} i que no puc viure d'enyorança. Al sr. metge i a tots posem als seus peus, quedant sempre a la teva obediència d’esta ta casa de Binibassi. Novembre i 6 de 1694. Luis [?] Pou Ferrà i Nadal Estimaré sa resposta per al portador. Don Nicolau Santacilia i Olim de Berga. Me la do i altres i jo ho diré a ma mare. [1§] A don Nicolau Berga i Santacilia, guardi Déu. En Ciutat. Transcripción literal"
+  ],
+  "literal": [
+    "1. Amigo Le cofiansse que tinc da tu me ab obbligat en cansarte 2. y axi estimerie em feses mersse de enviarme se cale- 3. sse digous demeti que fos a só nassi o le alcarie devall 4. que la gent sen vol anar a só fortase y divenres 5. a mix die sera en ciutat a le señore del pare mestre 6. mil recados y que no puc viure de añorasse a se so [?] me- 7. ge y a tots posem a sos peu, quedant senpre a te obedi 8. ensie deste se casse de Binebassi nbre y 6 de 1694 9. Luus [?] Pou ferra y Nadal 10. estimere se resposte per 11. el portador 12. Don Nicolau de Sante Cicilie y olim de Berge Me la do y 13. Altres y jo eu dire a me Mare [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "29-17a copy.gif",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo07/29-17a copy.gif",
+      "url": "/legajos/legajo-07/images/29-17a copy.gif"
+    },
+    {
+      "filename": "29-17b copy.gif",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo07/29-17b copy.gif",
+      "url": "/legajos/legajo-07/images/29-17b copy.gif"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "29-17a copy.gif",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-07/cartas/000786.json",
+  "primary_image_url": "/legajos/legajo-07/images/29-17a copy.gif"
+}

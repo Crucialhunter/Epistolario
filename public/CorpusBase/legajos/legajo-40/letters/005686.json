@@ -1,0 +1,32 @@
+{
+  "legajo_id": "40",
+  "id_carta": "5686",
+  "order_in_legajo": 27,
+  "signatura": "073:38",
+  "nombre_carta": "Carta de Persona desconocida a Persona desconocida",
+  "fecha_original": "fecha sin especificar",
+  "lugar": "Mallorca",
+  "remitente": "Persona desconocida",
+  "destinatario": "Persona desconocida",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Memòria del que ha pesat la canyella [1§] Transcripción literal"
+  ],
+  "literal": [
+    "1. Memoria de lo que a pesat la canella"
+  ],
+  "imagenes": [
+    {
+      "filename": "073:38.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo40/073:38.JPG",
+      "url": "/legajos/legajo-40/images/073:38.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "073:38.JPG",
+  "warnings": [],
+  "raw_source": "raw/legajos/legajo-40/cartas/005686.json",
+  "primary_image_url": "/legajos/legajo-40/images/073:38.JPG"
+}

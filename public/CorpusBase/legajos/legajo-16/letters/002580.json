@@ -1,0 +1,38 @@
+{
+  "legajo_id": "16",
+  "id_carta": "2580",
+  "order_in_legajo": 66,
+  "signatura": "110:2080.JPG",
+  "nombre_carta": "Carta de Diego Matías de Aragüés a Pedro Santacilia y Pax",
+  "fecha_original": "30 de abril de 1667",
+  "lugar": "Madrid",
+  "remitente": "Diego Matías de Aragüés",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Y se ha comenzado a levantar con muy buen brio. El señor don Nicolas que escribe a v. s. la inclusa, Dios ha sido servido que haya tenido tan buena suerte en mejorar tan aprisa, habrá de estar algunos días convaleciente hasta poder volver a palacio mientras este acá no ha de menester criado, para después seber a lo que es necesario, y en todo lo demás me remito a lo que tengo escrito a v. s. Tengo avisado como tiene un hijo el señor duque de Cardona que esta contentísimo, y le he dado la enhorabuena de parte de v. s. y se la dé por escrito, y al señor cardenal también. El señor duque de Alba tomó posesión de mayordomo mayor, y está en el cuarto de palacio que dejó el señor cardenal duque de Montalto. No hay de nuevo sino lo que se dice de la muerte del pontífice. v. s. me mande le sirva que sus manos besamos doña Margarita y yo y las de mi señora doña Leonor y señor don Juan y guarde Dios muchos años como deseo. Madrid a 30 de abril de 1667. Besa las manos de v. s. su mayor servidor Diego Matias de Aragues Señor don Pedro Santacilia y Pax [1§] Transcripción literal"
+  ],
+  "literal": [
+    "1. Y se á comenzado alevantar con muy buen brio El 2. Sr D Nicolas que escrive a Vs. la inclusa, Dios á 3. sido servído que aya tenido tan buena suerte En 4. megorar tan aprissa, havra de estar algunos dias 5. Convaleçiente hasta poder volver á Palaçio mien6. tras este aca no ha menester criado, para despues 7. seberalo que es neçesarío, y entodo lo demas me 8. Remito alo que tengo escrito a Vs. 9. Tengo avísado como tiene un hijo el Sr Duque de Cardona 10. que esta Contentissímo, y lehedado la enorabue11. na de parte de Vs. y se lade por escríto, y alsr 12. Cardenal tanbien; 13. el Senor Duque de Alva tomo posessíon de Mayordomo 14. mayor, y esta en el quarto de Palaçio que dexo el 15. Sr Cardenal Duque de montalto. 16. No ay de nuebo sino lo qie se diçe de la muerte del 17. Pontifiçe. VS. me mande le sirva q sus manos bessos 18. da Margta Y Yo y las demi Sa da Leonor y sr Don Juan 19. y gde Dios ms a< ño>s como desseo. Madrid a 30 de Abril 20. de 1667 21. BlM de Vs. s[u] m s 22. Diego Mathias de Aragues 23. [Margen izquierdo][^Sr Don Pedro Sta Cilia y Pax] [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "110:2080.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo16/110:2080.JPG",
+      "url": "/legajos/legajo-16/images/110:2080.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "110:2080.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (3)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-16/cartas/002580.json",
+  "primary_image_url": "/legajos/legajo-16/images/110:2080.JPG"
+}

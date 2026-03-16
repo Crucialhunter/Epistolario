@@ -1,0 +1,38 @@
+{
+  "legajo_id": "34",
+  "id_carta": "5173",
+  "order_in_legajo": 202,
+  "signatura": "305:7088.JPG",
+  "nombre_carta": "Carta de Pedro de Aragón a Pedro Santacilia y Pax",
+  "fecha_original": "24 de julio de 1658",
+  "lugar": "Madrid",
+  "remitente": "Pedro de Aragón",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "v. s. me ha hecho mucha Madrid con su carta que deseaba a Viso de su salud gócela v. s. Por muchosos con las Alegrias que deseo muy seguro estoy delavoluntad de v. s. y car la que me da la Enora Vuena de la merced que su majestad (Diosle guarde)66 ha hecho a mi herma/ no el Sr. D. Pascual y Rocio lo debe v. s. a nuestro afecto y este cierto que. En cuanto Podamos le ver a v. s. [?] manopo lo haremos como loa Creditanlas experiencias nomeolvi/ de v. s. pues savequan suyo me tiene sien/ pre guarde Dios a v. s. muchos ann como deseo Madrid Julio 24 de 1658 v. s. no seacuerda yadenadie co/ mo atantos días que se puedeestar quiero que lo extraño mucho acuerdesecuando deciaavs no se hallabasinaser biages Po to Aragón 21, marge esquerre S Sr. D. Pedro Sta. Scilia paz [1§] Transcripción literal"
+  ],
+  "literal": [
+    "1. Vs meaecho mucha Md consu Carta 2. q de seava a Visso de su salud gocela3. VS. Por muchosos Conlas Alegrias q4. deseo =5. Muy seguro estoy delavoluntad de vs. y car6. la q meda la Enora Vuena dela md q7. Su Magd (Dioslegde)66 ahecho ami herma/8. no el Sr. D. Pasqual Y Rocio lo debe VS. a nro9. afecto yeste cierto q En qto Podamos le ver10. a VS [ ??] mano[p]o lo haremos Como11. loa Creditanlas experiencias nomeolvi/12. de VS pues savequan suio me tiene sien/13. pre gde Diosa VS ms ann como deseo14. Md Jullio 24 de 165815. VS no seaquerda yadenayde co/16. mo atantos dias quesepuedeestar17. quiero quelo estraño mucho18. aquerdesequando deciaavs19. noseallabasinaser byages20. [ ] Po [ ]to Aragon21. [31, marge esquerre] S D. Po Sta. Scilia Paz [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "305:7088.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo34/305:7088.JPG",
+      "url": "/legajos/legajo-34/images/305:7088.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "305:7088.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-34/cartas/005173.json",
+  "primary_image_url": "/legajos/legajo-34/images/305:7088.JPG"
+}

@@ -1,0 +1,38 @@
+{
+  "legajo_id": "21",
+  "id_carta": "3365",
+  "order_in_legajo": 54,
+  "signatura": "087:5654.JPG",
+  "nombre_carta": "Carta de Antoni Bernat Verí a Pedro Santacilia y Pax",
+  "fecha_original": "6 de marzo de 1632",
+  "lugar": "Mallorca",
+  "remitente": "Antoni Bernat Verí",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Amb Grandíssima Manera em sóc alegrat de la nova m'han nonada da de la gineta li ha feta mercè sa magestat i de la llibertat gossa i salut Nostre Senyor li conserva i li dóna vida per a millor així com amb totes ocasions desitja servir a v. m. amb esta m'oferesc que si v. m. gusta anar-lo a servir decapella d'esa companyia i en tot també dos nebots meus dills de mon germà per a homes. i si v. m. gusta de tot me'l farà manar avisar per ací no hi ha cosa nova que dega avisar a v. m. el bisbe és arribat a on selvament ha de sembercat en sóller ahir ados hores apassar de dia i guardi Nostre Senyor a v. m. {ESP. Miliones d'anyos i de Mallorca } i març als 6 de 1632 de v. m. Com sempre Antoni Bernat Veri pre A mi Srt Sr. D. Pedro Santacilia i Pax [1§] Transcripción literal"
+  ],
+  "literal": [
+    "1. Ab Grandissima Manera em so alegrat dela nova mehan nonade 2. da dela gineta li ha feta merçe sa Magestad y dela llibertat gossa 3. y salut nro senor ley conserva y li dona vida pera Millor 4. Axi com ab totas occations desitje servir a vm. ab esta 5. me oferesc de que si vm. gusta hanarlo aservir decapella 6. dese compania y entot tembe dos nebots meus dills de mon 7. Jerma pera homens. y si vm. gusta de tot lem fera menar 8. avisar per Assi noy ha cossa nova de que dega havisar [a] 9. v.m. lo sr Bisbe es arribat abon selvament ha [de]10. sembercat en soller air ados horas apassar [^ de dia] y Guarde 11. nro senor á V.m.{ESP Miliones de Años y de Mallorca 12. y Marts als .6. de 1632 13. de v.m. Com sempre 14. Antoni Bernat Veri pre15. [Margen izquierdo][^ Ami Srt d Pedro sta cilia y pax] [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "087:5654.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo21/087:5654.JPG",
+      "url": "/legajos/legajo-21/images/087:5654.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "087:5654.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-21/cartas/003365.json",
+  "primary_image_url": "/legajos/legajo-21/images/087:5654.JPG"
+}

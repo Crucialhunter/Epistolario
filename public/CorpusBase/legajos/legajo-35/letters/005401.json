@@ -1,0 +1,32 @@
+{
+  "legajo_id": "35",
+  "id_carta": "5401",
+  "order_in_legajo": 213,
+  "signatura": "266:8248.JPG",
+  "nombre_carta": "Carta de Pedro Santacilia y Pax a Marc Sancho",
+  "fecha_original": "18 de junio de 1669",
+  "lugar": "Peralada",
+  "remitente": "Pedro Santacilia y Pax",
+  "destinatario": "Marc Sancho",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "La imatge no es veu nítida. [1§] Transcripción literal"
+  ],
+  "literal": [
+    "1. La imatge no es veu nítida."
+  ],
+  "imagenes": [
+    {
+      "filename": "266:8248.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo35/266:8248.JPG",
+      "url": "/legajos/legajo-35/images/266:8248.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "266:8248.JPG",
+  "warnings": [],
+  "raw_source": "raw/legajos/legajo-35/cartas/005401.json",
+  "primary_image_url": "/legajos/legajo-35/images/266:8248.JPG"
+}

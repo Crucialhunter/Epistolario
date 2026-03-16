@@ -1,0 +1,43 @@
+{
+  "legajo_id": "18",
+  "id_carta": "3095",
+  "order_in_legajo": 133,
+  "signatura": "206:4934a.JPG",
+  "nombre_carta": "Carta de Nicolás de Santacilia y Togores a Pedro Santacilia y Pax",
+  "fecha_original": "17 de septiembre de 1664",
+  "lugar": "Madrid",
+  "remitente": "Nicolás de Santacilia y Togores",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Señor con particular gusto recibo su carta de v. m. de 28 del pasado por las buenas nuevas me da de su llegada y de su buena salud que sea para muchos años yo la tengo, a Dios gracias, buena para servir a v. m. Pésame mucho la Muerte de Gab riel Matas que lo he sentido sum amente Dios le tenga al Sielo, Aquí le envió una carta para su Muger Guarde Dios a v. m. como deseo y me importa Madrid a 17 de cetiembre 1664; a mi madre y senyora y hermanos Muchos recaudos y a los de nas de casa y en particular a [1§] los señores bergas no olvidándome de los señores Olesas; y holgáreme que Arnare hayalle gado a tan buen tiempo que le pueda acomod ar Su más humilde hijo de v. s. que sus manos besa don Nicolas de Santacilia y Togores mi padre y señor [2§] Transcripción literal"
+  ],
+  "literal": [
+    "1. Señor con particular gusto recibo su 2. carta de VM. de 28 del pasado por 3. las buenas nuevas me da de su 4. llegada y de su buena salud q 5. sea para muchos años yo la tengo 6. a Dios grasias buena para servir a 7. VM 8. Pesame mucho la Muerte de Gab-9. riel Matas que lo esentido sum-10. amente Dios le tenga al Sielo, Aqui 11. le enbio una carta para su Muger 12. Guarde Dios a VM. como deseo y me 13. inporta Madrid a 17 de cetiembre 14. 1664; a mi Madre y senora y her-15. manos Muchos recaudos y alos de=16. nas de Casa y en particular a [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "206:4934a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo18/206:4934a.JPG",
+      "url": "/legajos/legajo-18/images/206:4934a.JPG"
+    },
+    {
+      "filename": "207:4934b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo18/207:4934b.JPG",
+      "url": "/legajos/legajo-18/images/207:4934b.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "206:4934a.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-18/cartas/003095.json",
+  "primary_image_url": "/legajos/legajo-18/images/206:4934a.JPG"
+}

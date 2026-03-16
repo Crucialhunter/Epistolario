@@ -1,0 +1,53 @@
+{
+  "legajo_id": "9",
+  "id_carta": "1018",
+  "order_in_legajo": 55,
+  "signatura": "080-40a",
+  "nombre_carta": "Carta de Diego Álvarez a Arnau de Santacilia",
+  "fecha_original": "26 de marzo de 1675",
+  "lugar": "Milán",
+  "remitente": "Diego Álvarez",
+  "destinatario": "Arnau de Santacilia",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Amígo y señor, Recibo la de v. m. que para mí ha sido de mucha estimación por las buenas nuevas que se sirve darme de su salud y del buen tiempo [?] en que se halla la recluta y espero en Dios que en breve se hallará v. m. en este estado v. m. no remita la medalla a don Mateo de Isasi pues a su venida de v. m. Me hará favor de traerla y le suplico me favorezca de traerme un poco de color. En papel que se lo estimaré a v. m. y pagaré lo que costare. Veo lo que v. m. me dice de don Manuel Aguado y el se debe de haber casado con tal persona como el es, pues si tuviera vergüenza no había de pasar a este estado habiendo hecho en ellas cosas que son notorias. En todo el ejército vio lo que v. m. me dice acerca del alférez Andres Albertí cuando vino hacer dejación le aconsejé como debía para que sentase en su compañía de v. m. i me respondió quería salir del tercio [1§] y ir a la compañía de don Carlos de Borja y para reducirla ven menester harto porque me propuso se quería ir a España por alguna hacienda que había heredado cosa que creo no sea así, ofreciéndole yo que sentase en la compañía de v. m. y que a su venida de v. m. a este es todo yo le sacaría a v. m. la voluntad para que pasase a la compañía del maestre de campo. No lo quiso hacer con que ha procedido. Muy ruín tras de [?] yo creo que esa carta que va con esta [?] pues me la han remitido se lo di y es otra me la envió Juan Moreno que dice es del capitán Luís Moreno y que importa mucho. Señor yo le voy dando todos los meses al capitán don Francisco Villalonga 130 libras y tomó su recibo y le remito al sargento mayor Bellón el cual harto ahora me ha dado muy cumplida sastisfacción. El capitán don Francisco Villalonga me pide cien escudos, los cuales dice son para acomodar aquella persona que v. m. sabe y siendo cantidad, le he respondido no lo puedo hacer sin orden de v. m. y así espero la respuesta. [2§] Aquí se pasa muestra a los 28 de este y espero en Dios pasarán las cosas de la compañía muy bien yo le he escrito al sargento Romero, don Francisco Villalonga ha ido la muestra con que a mi venida se sabrá como se ha pasado y en otro como lo avisaré a v. m. a quien se pasa a palabra muy [?] de que se le ha procurado y compañía a don Mateo de Isasi y me pesará en el alona [?] yo se lo escribo este correo y de lo que hubiere avisaré a v. m. Don Josep Mejía murío y su compañía se ha dado al ayudante Antonio de Aranda y la ayudantía a don Francisco de Aguirre dícese que aquí habrá guerra, pero no lo creo a todos esos señores. Beso las manos de v. m. guarde Nuestro Señor muchos años. Milán a 26 de marzo 1675. Besa las manos de v. m. Su amigo y servidor, Diego Alvarez Señor capitán don Aranu de Santacilia [3§] del ayudante Diego Alvarez Transcripción literal"
+  ],
+  "literal": [
+    "1. Amígo y Señor rezibo la de Vmd. queparamí 2. asído de mucha estímaçíon por las buenas nue3. vas quesesírbe darme desusalud y del beunos 4. to[?] en que se alla larecluta yespero en Ds que 5. en breve seallara Vmd. eneste estado 6. Vmd. noremíta lamedalla a D mateo deyssasí pu7. es asuvrenída de Vmd. Me ara favor detraerla 8. y le suplíco Mefavorezca de traerme un poco de 9. Color. Enpapel queselo estímare a Vmd. y pagare 10. lo que costare 11. Beo lo que Vmd. Medize de D Manuel aguado y else 12. deve de aver Cassado Contal persona Como el 13. es pues si tubiera Verguenza Noaví de passar 14. aeste esto avíendo hecho enel las cossas que 15. Son notorías Entodo elexto 16. Biolo que Vmd. Medize azerca del Alfz andres al17. bertí quando víno azer dejaçíon leaconseje 18. Como devía para quesentase en su Compa de Vmd. 19. ymerespondío quería Salír del terçío [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "080-40a.jpg",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo09/080-40a.jpg",
+      "url": "/legajos/legajo-09/images/080-40a.jpg"
+    },
+    {
+      "filename": "081-40ba.jpg",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo09/081-40ba.jpg",
+      "url": "/legajos/legajo-09/images/081-40ba.jpg"
+    },
+    {
+      "filename": "081-40bb.jpg",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo09/081-40bb.jpg",
+      "url": "/legajos/legajo-09/images/081-40bb.jpg"
+    },
+    {
+      "filename": "082-40c.jpg",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo09/082-40c.jpg",
+      "url": "/legajos/legajo-09/images/082-40c.jpg"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "080-40a.jpg",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-09/cartas/001018.json",
+  "primary_image_url": "/legajos/legajo-09/images/080-40a.jpg"
+}

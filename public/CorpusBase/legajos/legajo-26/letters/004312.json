@@ -1,0 +1,38 @@
+{
+  "legajo_id": "26",
+  "id_carta": "4312",
+  "order_in_legajo": 48,
+  "signatura": "066:3406.JPG",
+  "nombre_carta": "Carta de Macià Monsarró a Pedro Santacilia y Pax",
+  "fecha_original": "23 de octubre de 1639",
+  "lugar": "Zaragoza",
+  "remitente": "Macià Monsarró",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Don Diego de Rocaberti ha passat avui a Madrid i m'ha encomanat que enviés estes cartes a v. m. Don Miquel [?] que don Juan Senmanat estava en Perpinyà {ESP. sin esperanzas de su vida, lo que suplico a v. m.} és que si no ve tan prest a Saragossa que m'escrgui una carta per al virrei. {ESP. La estafeta pasada remití un pliego a Juan Dominico} llargament {ESP. de todo} al pare capellà i Paracuellos {ESP. i el teniente i a todos los amigos de mi parte mil besamanos i no digo más sino que Dios guarde a v. m. muchos años de Zaragoza a 23 de octubre 1639. Macia Monsarro Transcripción literal"
+  ],
+  "literal": [
+    "1. Don Diego de rocamarti a pasat avuy a mad y me2. a encomanat que envies estas cartas a Vm don3. Miquel mesoriu que don Juan Sanmanat4. estava en Perpina sin esperansas de5. su vida lo que suplico a Vm es que si6. no ve tan presto en Caraga que7. mescria una carta por el vi8. rey lastafeta pasada remiti9. un pliego a Juan Dominico10. llargament de todo al para ca11. pella y para Cuellos i el tiniente12. y a todos los amigos de mi par13. te mil besamanos y no digo mas14. sino que Dios gde. a Vm muchos años15. de Caraga a 23 de otubre 163916. Masia Monsarro [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "066:3406.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo26/066:3406.JPG",
+      "url": "/legajos/legajo-26/images/066:3406.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "066:3406.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (2)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-26/cartas/004312.json",
+  "primary_image_url": "/legajos/legajo-26/images/066:3406.JPG"
+}

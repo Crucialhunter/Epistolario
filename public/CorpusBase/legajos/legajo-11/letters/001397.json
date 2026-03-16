@@ -1,0 +1,32 @@
+{
+  "legajo_id": "11",
+  "id_carta": "1397",
+  "order_in_legajo": 2,
+  "signatura": "276:5252g.JPG",
+  "nombre_carta": "Carta de Francisco Forteza a No consta",
+  "fecha_original": "fecha sin especificar",
+  "lugar": "lugar sin especificar",
+  "remitente": "Francisco Forteza",
+  "destinatario": "No consta",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Por diferentes cartas tengo avisado a v. m. de la prisión del sr. Jaime en Denia y de las diligencias que se han [...]. {CAT. Esta carta és de don Francisco Forteza i no hi ha hagut temps de copiar-la. No importa sinó veure la} cortedad {CAT. d'en Jaume Anglada, que si tal m'hagués seguit hagués rebentat}. Transcripción literal"
+  ],
+  "literal": [
+    "1. Por diferentes cartas tengo avisado a VMd de la prision del sr. Jaime 2. en Denia y de las diligencias que se han 3. {CAT [^esta carta es de don Ffco Forteza y noy agut temps copiar la no importa sino veure la cortedad den Jaume Anglada que si tal me agues seguit aguera rebentat^] [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "276:5252g.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo11/276:5252g.JPG",
+      "url": "/legajos/legajo-11/images/276:5252g.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "276:5252g.JPG",
+  "warnings": [],
+  "raw_source": "raw/legajos/legajo-11/cartas/001397.json",
+  "primary_image_url": "/legajos/legajo-11/images/276:5252g.JPG"
+}

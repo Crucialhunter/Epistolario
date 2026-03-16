@@ -1,0 +1,38 @@
+{
+  "legajo_id": "34",
+  "id_carta": "5112",
+  "order_in_legajo": 140,
+  "signatura": "215:7027.JPG",
+  "nombre_carta": "Carta de Vicente de Aragón a Pedro Santacilia y Pax",
+  "fecha_original": "2 de julio de 1657",
+  "lugar": "Valencia",
+  "remitente": "Vicente de Aragón",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "mío aunque v. s. metienetanolvidado no escus are en todo lo que se meofreciere cansará v. s. estando cierto continuara enhaz érmela merced quesi emprehe deseadoydese haré merecera [?], hanme pedido se haya diligenciade cobrar esa ropaque va en esa memoriay suplicoá v. s. me haga mercedde cobrar lairemitírmela cuanto antes que me impertafur laper conaque me ha en con mendado [?] y Mrca emplepue/ doservir peracapues sabe con elgenoglacudireá cer/ virleyobedecerle Dios guardeavs muchos a [?] s va/ lenciay julio 2 de 1657 Amigo de v. s. don vicente de Aragen 14, extrem inferior Sr. don Pedro Santacilia y Pax [1§] Transcripción literal"
+  ],
+  "literal": [
+    "1. Sr. mio aunque vs metienetanolvidado no escus are entodo2. lo quesemeofreziere cansarà vs estando cierto continuara3. enhaz ermelamerced quesi emprehe deseadoydese hare4. merezera[?], hanme pedido se haya diligentiade cobrar [es]sa 5. ropaque va en [es]sa memoriay suplicoà vs mehaga mercedde6. cobrar layremitirmela quanto antes que me imper[tafur]7. laper conaque meha en co mendado [?] y [Mrca] enplepue/8. doservir peracapues sabe conelge[n]oglacudireà cer/9. virleyobedezerle Dios gdeavs muchos a[?]s va/10. lenciay Jullio 2 de 165711. Amigo de vs12. Don vicente13. de Aragen14. [24, extrem inferior] Sr. Don Pedro Sta Cilia y Pax [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "215:7027.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo34/215:7027.JPG",
+      "url": "/legajos/legajo-34/images/215:7027.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "215:7027.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-34/cartas/005112.json",
+  "primary_image_url": "/legajos/legajo-34/images/215:7027.JPG"
+}

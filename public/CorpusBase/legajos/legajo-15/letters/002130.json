@@ -1,0 +1,43 @@
+{
+  "legajo_id": "15",
+  "id_carta": "2130",
+  "order_in_legajo": 27,
+  "signatura": "042:6353a",
+  "nombre_carta": "Carta de condesa de Zavellá a Persona desconocida",
+  "fecha_original": "27 de septiembre de 1629",
+  "lugar": "Barcelona",
+  "remitente": "condesa de Zavellá",
+  "destinatario": "Persona desconocida",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Resam moltíssim que les tercianes se sian atrevides a v. m., més voldrà Nostre Senyor que tot sia per millor, que Déu sap hauré de mal, bé i així com sap el que ens convé, no hi ha sinó rendir-nos a sa voluntat i esperar amb ell, que tot anirà bé. V. m. ha de saber una cosa: que malalties d' aire incorporat i corromput com pens que tenien en aqueixa terra, solen ser pitjors les convalescències que les malalties i llarg millores; i, així, prego al comte amb la que li escric, que si es pot posar en una llitera, que és venga allí a la terra, que pens que hi són les millors aires i aigües de Catalunya. Per experiència ho tenen els caputxins, que si tenen malalts, li prescriuen a convalèixer allí, i en dos dies estan bons, i estos senyors ho han provat. Ara que està la senyora dona Joana tan gallarda i bona, com si no hagués estat mala, menjant de bon gust, no havent entès menjat sinó ous i caldos. El senyor don Francisco està també gallard i bo, i així [?] molt al compte, que li assegur que cobrarà dins de dos dies, que aquest {ESP. puesto} es saníssim. En tota cosa no tinc sinó a Pedro [?] un patge i un altre patget, que el senyor don Francisco ha donat, i {ESP. ellos} han de fer tots els oficis de casa. [1§] Això escric per donar raó a v. m. el que m'assenyala en sa carta. Jo pens que com v. m. té per molt devot a don Arnau que és comana amb les nacions [?]. Ja li he dit el que v. m. li mana, que l'he oblit, per dir-li el res [?]. Ací cada dia jo pens que en fa amb tota puntualitat. Comença a estudiar biaempimament [?] me diu el senyor Ribelles, Déu el faci bé i li done a v. m. molt {ESP. contento} . {ESP. El de les confituras} deu anar de folga perquè això son galeres d'Espanya i de Nàpols, que no porten sinó mitges i grandíssimes ri queses del duc d'Alba, quant més que si tal hi hagués en faria provisió per a quan mon germà serà ací que un crivat de la duquessa no ha de mendicar a preu [?] tan miserable, com és la {ESP. mía}, que però això me l'he posada prop dels caputxins que de pobresa més val que en lloc estigui embarassar. Que tant guardi Nostre Senyor a v. m., que li torni la salut complidíssima en l'ànima i en el cos, com desig. Barcelona, a 27 de setembre, 1629. La comtessa de Zavella. Transcripción literal"
+  ],
+  "literal": [
+    "1. Resam moltissim que las tercianas sesian 2. atrevidas a V.M. mes voldra nostre Sor 3. quetot sia perlo millor quedeu sab hau4. rer, demal be: y axi com sab loquens conve 5. noi ha sino rendirnos asa voluntat, y es6. perar ab ell, quetot axira be. 7. V.M. hade saber una cosa que malaltias de 8. aire encorporat, y corrumput com pens lo que 9. tenien en aquexa terra solen ser pijors las 10. convalescencias quelas malaltias, yllargmilloras 11. y axi prego al compte ablaqueli escrich quei 12. sis pot posar ab una llitera quesen venga ali 13. ala terra, que pens quei son las mellors aires 14. y aiguas de cathaluia, yper esperiencia ho te15. nen los caputxins, quesi tenen malalts li p16. scruien a comvalexer ali, yen dos dias estan 17. bons, yestos Senors ho han provat hare ques18. tala senora don[a] jane tant gallarda y bona 19. com si no hagues estat mala, menjant de 20. bon gust, no havent entes menjat sino ous, 21. y caldos loSor don francisco esta tanbe ga 22. llart ybo, yaxi pervadescalli[?] molt al comp23. te queli asegur que cobrara dins de dos 24. dias, que aquest puesto es sanissim. 25. Entota cosa notinch sino apedrolo, y un patje 26. y un altre patjet quelo Sor don francisco ha 27. donat, y ellos han de fer tots los officis de casa [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "042:6353a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo15/042:6353a.JPG",
+      "url": "/legajos/legajo-15/images/042:6353a.JPG"
+    },
+    {
+      "filename": "043:6353b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo15/043:6353b.JPG",
+      "url": "/legajos/legajo-15/images/043:6353b.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "042:6353a.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-15/cartas/002130.json",
+  "primary_image_url": "/legajos/legajo-15/images/042:6353a.JPG"
+}

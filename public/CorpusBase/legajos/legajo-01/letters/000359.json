@@ -1,0 +1,60 @@
+{
+  "legajo_id": "1",
+  "id_carta": "359",
+  "order_in_legajo": 50,
+  "signatura": "115-250a",
+  "nombre_carta": "Carta de Juan Francisco Pueyo y Clavería a Jerónimo Pelegrín de Aragüés",
+  "fecha_original": "18 de enero de 1668",
+  "lugar": "Madrid",
+  "remitente": "Juan Francisco Pueyo y Clavería",
+  "destinatario": "Jerónimo Pelegrín de Aragüés",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Señor mío, he recibido la de vuestra merced de 22 de noviembre tres días ha por mano del señor Diego Matías, y no he recibido la carta que vuestra merced me dice escribe largo con esta misma embarcación. No sé adónde para, y me alegro mucho con las buenas nuevas que me trae de su salud, nuestro Señor se la dilate largos años.",
+    "Veo, como vuestra merced me dice, que ha cobrado de Pedro Martorell cien reales, que para lo que debe es muy buen principio. Procure vuestra merced sacarle la resta lo mejor que pueda, que a ello ayudará mi amigo el fiscal Costa, y a averiguar los sueldos de esas alcaidías para que no sea más la una que la otra.",
+    "En todo lo que yo pueda asistir y servir al ayudante don Arnaldo de Santacilia, lo haré con mucho gusto, por ser cosa del señor don Pedro y mandármelo vuestra merced, a quien deseo guarde nuestro Señor muchos años.",
+    "Madrid y enero, a 18 de 1668.",
+    "Beso las manos de vuestra merced, su mayor servidor Juan Francisco de Pueyo y Claveria",
+    "Señor don Jeronimo Pelegrin de Aragues.",
+    "{CAT. Madrid, 18 gener 1668. De don Juan Francisco Pueyo y Clavería. Resposta amb lo patró Roger i ordre a Diego Matias de Aragues. Li paguí 253 reals plata a 23 de febrer 1668}"
+  ],
+  "literal": [
+    "1. Señor mio he recivido la de V.M. de 22 de noviembre",
+    "2. tres dias hà por mano del Sr. Diego Matias y no he recivido la",
+    "3. carta q V.M. me dize escrive largo con esta misma embarcacion.",
+    "4. No se adonde para, y me alegro mucho con las buenas nuebas",
+    "5. que me trae de su salud. Ntro. sr. se la dilate largos años.",
+    "6. Veo como V.M. me dize que hà cobrado de Po Martorell cien",
+    "7. Rs que para lo que debe es muy buen principio. Procure V.M. sa",
+    "8. carle la resta lo mexor que pueda, que a ello ayudara mi Amigo",
+    "9. el Fiscal Costa, y a averiguar los sueldos deesas Alcaydias",
+    "10. para q no sea mas la una q la otra.",
+    "11. En todo lo que yo pueda assitir y servir al ayudante Don",
+    "12. Arnaldo de Santacilia lo hare con mucho gusto por ser cosa",
+    "13. del Sr. D. pedro y mandarmelo V.M. a quien deseo ge",
+    "14. Ntro. Sr. muos años. Md y enero a 18 de 1668.",
+    "15. B l m de V.M.",
+    "16. Su mayor seror",
+    "17. J Franco Pueyo y Claveria",
+    "18. Sr. D. Gero Pelegrin de Aragues. [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "115-250a.gif",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo01/115-250a.gif",
+      "url": "/legajos/legajo-01/images/115-250a.gif"
+    },
+    {
+      "filename": "116-250b.gif",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo01/116-250b.gif",
+      "url": "/legajos/legajo-01/images/116-250b.gif"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "115-250a.gif",
+  "warnings": [],
+  "raw_source": "raw/legajos/legajo-01/cartas/000359.json",
+  "primary_image_url": "/legajos/legajo-01/images/115-250a.gif"
+}

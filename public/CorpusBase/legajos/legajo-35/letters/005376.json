@@ -1,0 +1,38 @@
+{
+  "legajo_id": "35",
+  "id_carta": "5376",
+  "order_in_legajo": 186,
+  "signatura": "225:8223.JPG",
+  "nombre_carta": "Carta de Jerónimo Villanueva a Pedro Santacilia y Pax",
+  "fecha_original": "15 de marzo de 1662",
+  "lugar": "Madrid",
+  "remitente": "Jerónimo Villanueva",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "He recibido dos de v. m. duplicado de 20 de febrero y otra de 2 de marzo con las inclusas para su majestad, sobre haber quebrado Antonio Morrelles que para proceder contra él se remitirá, cuanto antes, despacho de su majestad. para el virrey, que es muy justo se haga ejemplar demostración por lo que conviene al servicio de su majestad. yo estoy con mucha estimación del favor que v. m. siempre me hace. Guarde. Dios a v. m. muchos años como deseo. Madrid, a 15 de marzo de 1662. También queda en mi poder el despacho sobre la notificación que hizo a v. m. de orden de su inquisidor el regente visita Dr. (en) sobre la paga de los salarios. y de la resolución que se tomaré en el consejoavisaré a v. m. Besa la mano de v. m. Su mayor servidor Jerónimo de Villanueva Sr. don Pedro Santacilia y Pax. Transcripción literal"
+  ],
+  "literal": [
+    "1. He recivido dos de Vm duppdo. De 20 de Febrero y otra de2. 2 de Marzo con las inclusas para su Magd. sobre haver quebrado3. Antonio Morrelles q para proceder contra el se remitira quanto4. antes despacho de su Magd. para el virrey que es muy5. justo se haga exemplar demostracion por lo que conviene al6. servº de su Magd. yo estoy con mucha estimacion del favor7. q VM siempre me hace8. Gde Dios a VM muchos Años como desseo Md. a 159. de Marzo de 166210. Tambien queda en mi poder el despacho sobre la notificacion11. que hizo a Vm de orden de Su Iqor. El Sr. Rgte visita12. dor (^en) sobre la paga del os sal[ari]os y de la resolucion13. que se tomare en el Conssº avisare a VM14. B l m de Vm15. Su mor. Seror.16. Geronimo de Villanueva17. Sr. Don Pedro Santacilia y Pax. [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "225:8223.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo35/225:8223.JPG",
+      "url": "/legajos/legajo-35/images/225:8223.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "225:8223.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-35/cartas/005376.json",
+  "primary_image_url": "/legajos/legajo-35/images/225:8223.JPG"
+}

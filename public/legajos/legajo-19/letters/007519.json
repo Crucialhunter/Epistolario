@@ -1,0 +1,32 @@
+{
+  "legajo_id": "19",
+  "id_carta": "7519",
+  "order_in_legajo": 273,
+  "signatura": "001_cg1.JPG",
+  "nombre_carta": "Carta de Persona desconocida a Pedro Santacilia y Pax",
+  "fecha_original": "10 de mayo de 1656",
+  "lugar": "Mallorca",
+  "remitente": "Persona desconocida",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "[1§] Transcripción literal"
+  ],
+  "literal": [
+    "1."
+  ],
+  "imagenes": [
+    {
+      "filename": "001_cg1.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo19/001_cg1.JPG",
+      "url": "/legajos/legajo-19/images/001_cg1.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "001_cg1.JPG",
+  "warnings": [],
+  "raw_source": "raw/legajos/legajo-19/cartas/007519.json",
+  "primary_image_url": "/legajos/legajo-19/images/001_cg1.JPG"
+}

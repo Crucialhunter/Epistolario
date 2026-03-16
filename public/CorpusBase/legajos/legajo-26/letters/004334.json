@@ -1,0 +1,50 @@
+{
+  "legajo_id": "26",
+  "id_carta": "4334",
+  "order_in_legajo": 70,
+  "signatura": "100:3428.JPG",
+  "nombre_carta": "Carta de Tomás Cornelio Tríes a Pedro Santacilia y Pax",
+  "fecha_original": "11 de diciembre de 1639",
+  "lugar": "Zaragoza",
+  "remitente": "Tomás Cornelio Tríes",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Por la de v. m. de 6 veo como el amigo Monsarró le dio noticia de mi indisposición. Yo me hallo mucho mejor, gracias a Dios, para servir a v. m. en todo cuanto me quisiere mandar. A Monsarró he dado el capote que don Luis Carrillo me remitió para que enviase a v. m. y tres pellejos, que en días pasados me trajo y por ellos pagué treita y seis reales que v. m. me los hará buenos a la cuenta y a v. m. guarde Nro. Sr. de Zaragoza, a 11 de octubre 1639. Tomas Cornelio Tries Sr. don Pedro Santacilia y Pax Transcripción literal"
+  ],
+  "literal": [
+    "1. Por la de Vm de 6 veo como el amigo Monsarro le dio2. notiçia de mi indispuçiçion yo me allo mucho mechor3. gracias a Dios para servir a Vm. en todo quanto me4. quisiere mandar a Monsarro e dado el capote que don5. Luys Carrillo me remitio para que embiase a Vm6. y tres pelexos que en dias pasados me traxo y por ellos7. pague treyta y seys reales que Vm me los ara8. buenos a la qtta y a Vm guarde Nro. Sr. de9. Caraga a 11 de Xe. 163910. Tomas Cornelio Tries11. Sr. Don Pº Sant Çilia y Pax [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "100:3428.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo26/100:3428.JPG",
+      "url": "/legajos/legajo-26/images/100:3428.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "100:3428.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (2)",
+      "context": {}
+    },
+    {
+      "code": "IMAGE_DOWNLOAD_FAIL",
+      "message": "HTTP 404",
+      "context": {
+        "url": "http://santacilia.info/intranet2/img/Legajo26/100:3428.JPG"
+      }
+    },
+    {
+      "code": "IMAGE_COUNT_MISMATCH",
+      "message": "Imágenes detectadas (1) != descargadas (0)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-26/cartas/004334.json",
+  "primary_image_url": "/legajos/legajo-26/images/100:3428.JPG"
+}

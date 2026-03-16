@@ -1,0 +1,38 @@
+{
+  "legajo_id": "15",
+  "id_carta": "2256",
+  "order_in_legajo": 155,
+  "signatura": "248:6481.JPG",
+  "nombre_carta": "Carta de Jaime Antonio Cardell y Femenía a Pedro Santacilia y Pax",
+  "fecha_original": "26 de noviembre de 1647",
+  "lugar": "Palermo",
+  "remitente": "Jaime Antonio Cardell y Femenía",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "A mi señor don Pedro. Con esta [s] ocasiones aviso a v. m., como el señor marques de Los Veles, al punto que recibió las carta [s], quiso Dios que murió y mi negocio quedó en balco. [Así], suplico a [Su Señoría] sea servido de acordarme de mi persona, con mi señor el castellano, que hace mucho por respeto de su persona, de mi persona, que habiendo por virrey el cardenal Tribucio [?], ya hace mucho. muchas gracias. No tengo otra cosa que decir a [Vosiñoría], como yo [he] estado criado de [Vosiñoría] y soy, de toda mi vida, criado de [Vosignoría]. No digo más a [Voseñoría]. Fenisco [¿Finisco [?] ¿IT [?] Fenisco, a 26 de noviembre, años 1641, Palermo. [De advertir] [Vosiñoría] que tuve una carta de mi señor, duque de Mondalto, por respeto de su persona, de [Vosiñoría], criado de y [humilísimo] criado de [Vosiñoría]. Su criado y esclavo, Jaime Atonia Cardel Al señor don Pedro. [ ] [Al señor don Pedro Santacilia ] Transcripción literal"
+  ],
+  "literal": [
+    "1. Amiseñor don Pedro conesta ocaciones aviso a vm. come el Sr marques de 2. losveles alpunto q ricibio las carta quiso dios que murio y minigociosquedo en balco 3. ansi suplico asesegoria sea servido de acordarme demi persona con miseñor el castillano 4. que ase mucho por respeto [^desu persona] demi persona que abenido por virey elcardenal Tribucio [?]5. yase mucho muchas gracias no tengootracosa que decir avosiguria el general 6. es el sr marques: demonte alegre quetiene muchas amitades conel sr Delorgual [?] 7. esi pieso que notengo otra esperanza yapara desumano de vosiguria como yo 8. estado criado de vosiguria ysoy (^su)de toda mi vida criado devosiguria 9. nodigo mas a Vsiguria fenisco a 26 de nubie_ annos 1641 Palermo 10. Devirtir vosiguria que tube una carta de miseñor duque de mondal[?]11. to por respeto desu persona de vosiguria criado de yomillisimo criado de 12. vosiguria 13. Sucriado y esclabo 14. Jayme atonia cardel 15. Al sr don Pedro santasilia16. [Margen izquierdo][^Al señor Do Pedo santasilia] [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "248:6481.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo15/248:6481.JPG",
+      "url": "/legajos/legajo-15/images/248:6481.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "248:6481.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-15/cartas/002256.json",
+  "primary_image_url": "/legajos/legajo-15/images/248:6481.JPG"
+}

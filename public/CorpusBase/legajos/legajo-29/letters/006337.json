@@ -1,0 +1,43 @@
+{
+  "legajo_id": "29",
+  "id_carta": "6337",
+  "order_in_legajo": 34,
+  "signatura": "061:4154a.JPG",
+  "nombre_carta": "Carta de Salvador Viñales a Pedro Santacilia y Pax",
+  "fecha_original": "3 de diciembre de 1640",
+  "lugar": "Castillo Gobon",
+  "remitente": "Salvador Viñales",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "[1§] [2§] Transcripción literal"
+  ],
+  "literal": [
+    "1. 1."
+  ],
+  "imagenes": [
+    {
+      "filename": "061:4154a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo29/061:4154a.JPG",
+      "url": "/legajos/legajo-29/images/061:4154a.JPG"
+    },
+    {
+      "filename": "062:4154b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo29/062:4154b.JPG",
+      "url": "/legajos/legajo-29/images/062:4154b.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "061:4154a.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-29/cartas/006337.json",
+  "primary_image_url": "/legajos/legajo-29/images/061:4154a.JPG"
+}

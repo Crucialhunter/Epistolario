@@ -1,0 +1,57 @@
+{
+  "legajo_id": "26",
+  "id_carta": "4330",
+  "order_in_legajo": 66,
+  "signatura": "094:3424a.JPG",
+  "nombre_carta": "Carta de Antonio Pellicer Tovar a Pedro Santacilia y Pax",
+  "fecha_original": "7 de diciembre de 1639",
+  "lugar": "Salsas",
+  "remitente": "Antonio Pellicer Tovar",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Sr. mío. No hay más novedad a decir de las que escribí a v. m. sino que la plaza todavía se sustenta y que las enfermedades crecen y las muertes continuan. Ayer murió don Melchor Gallart, he pedido su compañía, pero pienso el virrey la quiere dar a un catalan, todos dicen la injusticia que me hace que esta compañía era mía de derecho. En fin esta cavº. me ha quitado incomodidad y a v. m. que no tuviera en su gobierno 300 caballos mas. Dios se lo pague. Avíseme v. m. su negocio algo de licencia que si algún consuelo tengo es pensar ha de ir v. m. a Madrid con que v. m. será lo que quisiere, monsiur de Santone, gobernador de Leocata se vino a nro. ejército. con tres caballos que le querían quitar la cabeza porque no defendió diecinueve barcas que un alférez de la armada real tomó con unas lanchas en Mi Sr. Salsas 2 Diciembre 1639 Sr. don Antonio Pellicer [1§] la playa que esta delante de Leocata que tienen echa una fortificación y está a cargo aquello del que gobierna la plaza de Gerona que era traidor de monsiur de Basi a su padre quitáronle el gobierno y le llevaban a cortar la cabeza el se escapó. Al Pe quisieron degollar, pero se alborotó Lenguadoc con que no se atrevio el príncipe conde ni don Luis y así le llevaron a la bastida el Santorre. Dice que ha de hacer milagros. Plegue a Dios no sean basílicos para nosotros Andres Llorentes el que gobernaba a Salsas por su majestad. Murió en Narbona. Avíseme v. m. como le va a v. m. de pagas como están los caballos, al pe. y a Antonio Mateu beso las manos y a los Sres. capitanes, don Gregorio Marcado y don Juan Vivot, en viéndolos v. m. me hará merced darles recados de mi parte y a v. m. que me mande pues sabe cuan suyo soy hasta morir. Guardeme Dios a v. m. muchos años como deseo, del Campo sobre Salsas a 7 Diciembre 1639. Don Antonio Pellicer de Tovar Si v. m. tiene en Zaragoza quien eche las cartas en la estafeta, sírvase que mis cartas vengan sueltas con el sobre escrito para mi porte a Perpiñán. Transcripción literal"
+  ],
+  "literal": [
+    "1. Sr. mio No ay mas novedad a decir de las2. que escrivi a Vm. sino que la placa toda avia3. se sustenta i que las enfermedades crecen y las4. muertes continuan ayer murio don melchor ga5. llart, e pedido su compania pero piensso el vi6. rrey la quiere dar a un catalan, todos dicen7. la injusticia que me ace que esta compª era8. mia de derecho En fin Sr. esta cavº me a quitado9. incomodidad y a Vm que no tubiera en su go10. vierno 300 cavallos mas. Dios se lo pague a11. visseme Vm su negocio algo de Liz[encia] que si al12. gun consuelo tengo es penssar a de yr Vm a m[adri]d13. con que Vm sera lo que quissiere, monsiur de14. Santone governador de Leocata se vino a nro. extº.15. con tres cavºs que le querian quitar la caveça porque16. no defendio diez i nueve barcas que un Alferez de17. la armada Rl. tomo con unas lanchas en18. Mi Sr. 19. Salsas 2 deze. 163920. Don Anttº Pelliçer [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "094:3424a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo26/094:3424a.JPG",
+      "url": "/legajos/legajo-26/images/094:3424a.JPG"
+    },
+    {
+      "filename": "095:3424b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo26/095:3424b.JPG",
+      "url": "/legajos/legajo-26/images/095:3424b.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "094:3424a.JPG",
+  "warnings": [
+    {
+      "code": "IMAGE_DOWNLOAD_FAIL",
+      "message": "HTTP 404",
+      "context": {
+        "url": "http://santacilia.info/intranet2/img/Legajo26/094:3424a.JPG"
+      }
+    },
+    {
+      "code": "IMAGE_DOWNLOAD_FAIL",
+      "message": "HTTP 404",
+      "context": {
+        "url": "http://santacilia.info/intranet2/img/Legajo26/095:3424b.JPG"
+      }
+    },
+    {
+      "code": "IMAGE_COUNT_MISMATCH",
+      "message": "Imágenes detectadas (2) != descargadas (0)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-26/cartas/004330.json",
+  "primary_image_url": "/legajos/legajo-26/images/094:3424a.JPG"
+}

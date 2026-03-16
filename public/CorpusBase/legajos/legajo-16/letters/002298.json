@@ -1,0 +1,43 @@
+{
+  "legajo_id": "16",
+  "id_carta": "2298",
+  "order_in_legajo": 4,
+  "signatura": "002:2017a.JPG",
+  "nombre_carta": "Carta de Nicolás de Santacilia y Togores a Pedro Santacilia y Pax",
+  "fecha_original": "13 de enero de 1667",
+  "lugar": "Barcelona",
+  "remitente": "Nicolás de Santacilia y Togores",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "A diez de octubre se hicieron las entregas, con mucha ostentación y alegría, porque dejamos a la señora emperatriz muy buena, aunque con harto sentimiento de apartarnos de su servicio, porque es la mas [?] señora que hemos conocido. En particular, el día que nos despidió nos hizo dos mil honras, don Luis Ponce me hizo mucha suerte, y me dio, un abrazo para v. m. No dudo que será muy bien recibido el duque de Alburquerque, aún está con sus tercianas, muy acabado en Génova. La condesa de Eril, ya estará con la señora emperatriz, y unas cartas que había aquí me las remitieron con un criado suyo, y como nosotros nos apartamos del camino, que [1§] fuimos a ver a Venecia no las recibí. Guarde Dios a v. m. a muchos años. Barcelona a 13 de enero 1667. Sr. don Nicolas de Santacilia y Togores Mi padre Transcripción literal"
+  ],
+  "literal": [
+    "1. Adies de octubre se isieron las 2. Entregas , Con mucho ostentasion y 3. alegria, porque dejamos ala Sra 4. Enperatris, muy buena, aunque 5. Con arto sentimiento de apartarnos 6. de su serviçio, porque es lamas bin[?]7. dea Sra quehemos Conosido, enparti8. Cular eldia que nos despedios nos 9. iso dos mil onras, Don luis ponse 10. me iso mucha suerte, y me dio, un 11. abraço para VM, no dudo que 12. sera muy bien resibido 13. El Duque de Alburquerque, aun 14. esta Con sus tersianas, muy acaba= 15. do en jenova 16. La Condesa de Eril, ya estara Con 17. la Sra Enperatris, y unas Cartas que 18. avia aqui, melas remitieros Con 19. un Criado suyo, y Como nosotros 20. nos aparta mos del Camino; que [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "002:2017a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo16/002:2017a.JPG",
+      "url": "/legajos/legajo-16/images/002:2017a.JPG"
+    },
+    {
+      "filename": "003:2017b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo16/003:2017b.JPG",
+      "url": "/legajos/legajo-16/images/003:2017b.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "002:2017a.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-16/cartas/002298.json",
+  "primary_image_url": "/legajos/legajo-16/images/002:2017a.JPG"
+}

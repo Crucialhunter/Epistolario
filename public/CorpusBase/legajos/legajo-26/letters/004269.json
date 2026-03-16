@@ -1,0 +1,43 @@
+{
+  "legajo_id": "26",
+  "id_carta": "4269",
+  "order_in_legajo": 13,
+  "signatura": "004:3363a.JPG",
+  "nombre_carta": "Carta de Pedro de Aragón a Pedro Santacilia y Pax",
+  "fecha_original": "26 de julio de 1627",
+  "lugar": "Almonacid",
+  "remitente": "Pedro de Aragón",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Siempre que se dé v. m. es para mi muy buena nueva y huelgo que este con muy buena salud. Por acá se pasa bien y cada día más hallado en la soledad que de verdad es un bien que para quien se halla como yo inestimable. Bien cierto estoy que v. m. me hará merced en todo lo que se me ofreciere y tiene v. m. en mi con toda seguridad amigo que le deseará servir siempre. La gente moza es de todo alivio en la soledad y ayudarán a pasar muy buenos ratos. Dios se los guarde a v. m. y los vea con don Sr. D. Pedro Santacilia [1§] lo que merece y [?]. Guarde Dios a v. m. muchos años. Almonacid 26 de Julio. D. Pedro de Aragon Transcripción literal"
+  ],
+  "literal": [
+    "1. Sienpre que se de Vm. es para2. my muy buena nueba y guel3. go que este con muy buena4. saludpor aca se pasa byen5. y cada dia mas allado en la6. soledad que de berdad es un by-7. en que para quien se alla co8. mo yo ynestimable9. byen sierto estoy que Vm. me10. ara merzed en todo lo que11. se me ofreciere y tiene Vm12. en my con toda siguridad13. amygo que le deseara ser14. byr sienpre.15. La gente moza es de todo ali16. byo en la soledad y ayuda-17. ran a pasar muy bue-18. nos ratos dios se loz gu-19. arde a Vm y los bea con20. Don Pº Santasilia [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "004:3363a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo26/004:3363a.JPG",
+      "url": "/legajos/legajo-26/images/004:3363a.JPG"
+    },
+    {
+      "filename": "005:3363b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo26/005:3363b.JPG",
+      "url": "/legajos/legajo-26/images/005:3363b.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "004:3363a.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-26/cartas/004269.json",
+  "primary_image_url": "/legajos/legajo-26/images/004:3363a.JPG"
+}

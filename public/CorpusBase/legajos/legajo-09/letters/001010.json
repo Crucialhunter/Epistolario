@@ -1,0 +1,43 @@
+{
+  "legajo_id": "9",
+  "id_carta": "1010",
+  "order_in_legajo": 47,
+  "signatura": "065-32a",
+  "nombre_carta": "Carta de Diego Álvarez a Arnau de Santacilia",
+  "fecha_original": "7 de noviembre de 1674",
+  "lugar": "Milán",
+  "remitente": "Diego Álvarez",
+  "destinatario": "Arnau de Santacilia",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Señor mío, Recibo la de v. m. y me holgaré le halle esta con la salud que este su servidor le desea. Yo he escrito con el sentimiento que se debe a su alférez de v. m. y sargento pues pudieran tener diferente correspondencia con la merced que v. m. le ha hecho; ahí remito la respuesta de la carta del señor Maestre de Campo. Las novedades de aquí se reducen a que han hecho un ejército nuevo de italianos para recibir y Maestre de Campo [?] conde Barbo y a su hermano sargento mayor y las cosas de vigilia van muy mal pues el castillo de San Salvador Serin dio la muda del final se hecho y don Juan de Faias ha ido a mudar a fuera [1§] de muestra [?] Seerie [?] que la habrá por todo este mes. El gobernador de Carmona, Jaime Samper, fue Dios servido de llevárselo; aquí hay muchos pretendientes sobre este puesto, no se sabe a quien se dará. Al amigo Villalonga le voy socorriendo con todo lo que me pide y ya le tengo avisado no socorra nomás de con la mesada. Y en cuanto a las cartas de Sansin le aseguro a v. m. que a mí no me las remitirán pues si yo hubiere sabido eran de ahí no las hubiera remítido a v. m. si no se las hubiera vuelto a enviar. Guarde Dios a v. m. muchos años. Milán, a 7 de noviembre 1674. Besa las manos de v. m. su amigo y servidor, Diego Alvarez Señor capitán don Arnau de Santacilia Transcripción literal"
+  ],
+  "literal": [
+    "1. Señor mío Recíbo la de Vmd. ymeolgare 2. lealle esta Conla salud que este su servídor 3. le desea yo eescrito conel sentímíento que 4. Sedeve. asu Alfz de Vmd. y sargto pues pu5. dieran tener díferente Corespondençia 6. Con la mrd que Vmd. leahecho, ay remíto 7. larespuesta dela Carta. del Señor Mre 8. de Campo las novedades de aquí sereduzen 9. aquean hecho un eo nuevo deytalianos 10. para rezibir. Y Mre de Campo del al 11. Conde Barbo y asu Hermano Sargto ma12. yor y las cosas de vívilía[?] han muí mal 13. pero [?] el Castillo de San salvador serín14. dío lamudo del final sehecho y Don 15. Juan de faias aydo amudar asurera[?] [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "065-32a.jpg",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo09/065-32a.jpg",
+      "url": "/legajos/legajo-09/images/065-32a.jpg"
+    },
+    {
+      "filename": "066-32b.jpg",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo09/066-32b.jpg",
+      "url": "/legajos/legajo-09/images/066-32b.jpg"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "065-32a.jpg",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-09/cartas/001010.json",
+  "primary_image_url": "/legajos/legajo-09/images/065-32a.jpg"
+}

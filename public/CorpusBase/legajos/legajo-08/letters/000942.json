@@ -1,0 +1,43 @@
+{
+  "legajo_id": "8",
+  "id_carta": "942",
+  "order_in_legajo": 47,
+  "signatura": "212-138a copia",
+  "nombre_carta": "Carta de Rafael Vives García a Pedro Santacilia y Pax",
+  "fecha_original": "31 de agosto de 1642",
+  "lugar": "Maó",
+  "remitente": "Rafael Vives García",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Seis meses [se] cumplen que se empezó el general manifiesto para la ejecución del Real Privilegio, ocupación que todos sabía estar finida. Tanta prueba podrán hacer los señores de ciudad de los demás que quizás les salga caro, si justicia tienen, no les faltan cuando se dé sentencia al pleito que ellos empezaron ni con el cumplimiento de la real voluntad se les quitan las esperanzas con que viven, ni a las villas les da nuevo derecho. Suplico a v. s. [?] queden consolados con ver tantos gastos y trabajos logrados estas para mi primo capellán de v. s. Le suplico besan luego y a sus manos y a mí que me mande en que les sirva y Dios me lo guarde como deseo. Mahón y agosto, a 31 de 1642. Rafael Vives y Garcia Señor gobernador. [1§] Mao, 31 agost. Vives. Visto. Transcripción literal"
+  ],
+  "literal": [
+    "1. Sey meses cumplen q se empeço el gl Manifiesto 2. paralaex< > del Rl Privilegio, occupaçion que 3. cudos sabia astar finida, tantaprueba podran 4. hazer los señores de Ciudª delos demas, q quiças les 5. salga Caro, si justª tienen, no les faltan quado 6. sedesentençia alpleyto q ellos empeçaron, ny 7. con el Cumplim< > dela Rl V[olu]ntat seles quitan 8. lasesperanças Conq viven, ny alas Villas les da 9. Nuebo decho Supp[li]> aVS. Sup< > queden con- 10. solados con ver tantosgastos y trabajos lo- 11. grados = staspara mi primo Capellan de 12. V.S. Le supp[li]< > Veçan luego yasus manos 13. yami que memande enq lesirba y dio[s] 14. melog< > Como deseo Mahon y Agosto a 31. 15. de 1642 16. Rafael Vives y Garçia 17. S< > G< > [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "212-138a copia.jpg",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo08/212-138a copia.jpg",
+      "url": "/legajos/legajo-08/images/212-138a copia.jpg"
+    },
+    {
+      "filename": "213-138b copia.jpg",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo08/213-138b copia.jpg",
+      "url": "/legajos/legajo-08/images/213-138b copia.jpg"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "212-138a copia.jpg",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-08/cartas/000942.json",
+  "primary_image_url": "/legajos/legajo-08/images/212-138a copia.jpg"
+}

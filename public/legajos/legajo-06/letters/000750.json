@@ -1,0 +1,38 @@
+{
+  "legajo_id": "6",
+  "id_carta": "750",
+  "order_in_legajo": 15,
+  "signatura": "426-211",
+  "nombre_carta": "Carta de Anna Maria Zaforteza a Cecilia Zaforteza y Sureda de Sant Martí",
+  "fecha_original": "fecha sin especificar",
+  "lugar": "Mallorca",
+  "remitente": "Anna Maria Zaforteza",
+  "destinatario": "Cecilia Zaforteza y Sureda de Sant Martí",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Tia Cecília, Perdoni de sa mala criança que li vaig fer. Quant vinga ja li demanaré perdó. Sor Anna Maria Zaforteza Transcripción literal"
+  ],
+  "literal": [
+    "1. Tia Cecilia perdon 2. da sa mala crianca que 3. li vax fer quant vinga 4. ja li damanare perdo 5. Sor Anna Maria Çaforteza [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "426-211.jpg",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo06/426-211.jpg",
+      "url": "/legajos/legajo-06/images/426-211.jpg"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "426-211.jpg",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-06/cartas/000750.json",
+  "primary_image_url": "/legajos/legajo-06/images/426-211.jpg"
+}

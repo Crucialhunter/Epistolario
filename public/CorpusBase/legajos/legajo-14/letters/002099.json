@@ -1,0 +1,43 @@
+{
+  "legajo_id": "14",
+  "id_carta": "2099",
+  "order_in_legajo": 175,
+  "signatura": "329:2609a.JPG",
+  "nombre_carta": "Carta de Diego Matías de Aragüés a Pedro Santacilia y Pax",
+  "fecha_original": "1 de octubre de 1662",
+  "lugar": "Madrid",
+  "remitente": "Diego Matías de Aragüés",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Los pliegos que recibí por Valencia tengo respondido por allí y ahora recibo por el de Balell por Barcelona en que va por el mismo estas que son de 22 y 19 del pasa. No obstante las orden que habrán ido y irán en razón de don Rodrigo de Borja habrá mucha novedad, diferente de las que por allá imaginarán, que a su tiempo verá a v. s. linda cosa es tener el padre alcalde. Acá están ya las cédulas del 10 por 100 sin haber depositado en el Patrimonio el dinero. El Sr. don Nicolas le va mejor, si bien ha sido fuerza estando a la mitad de la curación de la abertura del cuello haberle de purgar y hoy lo está segunda vez [?] con que no se le darán las cartas hasta manaña. Ha leído muy bien y hecho muchos cursos, que si a los principios se hubiera dejado el gobernar, no se hallara segunda vez con el trabajo de la abertura del cuello, y en esta también no ha querido seguir el dictamen del médico, que antes de la abertura se había de hacer lo que ahora esta purgando, con que hasta estar bueno no puede tratar de volver a sus pretensiones, sino el día púrgalos demás está en pie, y sale algunas veces de casa. [1§] Será posible le quieran acomodar como a otros han hecho haciéndole capitán de caballos y 30 soldados [?] en lugar de encomiendas v. s. me diga del [?] de los despachos del nuncio y lo que ha obrado con ellos. Muy mal corre lo de Flandes, ahora dicen que vaya el Sr. don Juan, dicen se va excusando, ello dirá Banse haciendo esfuerzos de dinero y levas de caballos. El conde de Zavella se está retirado, ha recibido las cartas de v. s. No se deja ver. V. s. me mande le sirva, que sus manos besamos Dña. Magdalena y yo, y las de nra. Sra. Dña. Leonor, el Sr. don Juan y todos esos Sres. muchas veces y guarde Dios como deseo Madrid, 1º Octubre 1662. Besa la mano de v. s. su menor servidor Diego Matias de Aragues Sr. don Pedro Santacilia y Pax. Transcripción literal"
+  ],
+  "literal": [
+    "1. Los pliegos q resivi por Valensia tengo res2. pondido por alli. Y agora recivo por el de Balell3. per Barcelona en q ba por el mismo estas4. q son de 22 y 19?? del passado,5. No obstante las orden q habran hido y6. hiran en razon de Don Rodrigo de Borja7. habra mucha novedad, diferente de las q8. por alla imaginaran, q a su tiempo vera9. VS. linda cosa es tener el padre Alcalde10. Aca estan ya las cedulas del 10 por 10011. sin haver depositado en el Patrimonio el dinero12. El Sr. don Nicolas le ba mejor, si bien13. ha sido fuerza estando a la mitad de la 14. curaçion de la abertura del cuello haver15. le de purgar y oy lo esta segunda vez [^?]16. con q no se le daran las cartas hasta17. manaña, alehido muy bien y hecho18. muchos curssos, q si a los prencipios19. se hubiera dexado el governar, no se20. hallara segunda vez con el trabajo de la21. abertura del cuello, y en esta tambien22. ne ha querido seguir el ditamen del Medico.23. q antes de la abertura se havia de hazer24. lo q agora esta purgando, con q hasta25. estar bueno no puede tratar de bolver26. a sus pretensiones, sino el dia purgalos27. de mas esta en pie, y sa le algas vezes de casa [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "329:2609a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo14/329:2609a.JPG",
+      "url": "/legajos/legajo-14/images/329:2609a.JPG"
+    },
+    {
+      "filename": "330:2609b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo14/330:2609b.JPG",
+      "url": "/legajos/legajo-14/images/330:2609b.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "329:2609a.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (3)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-14/cartas/002099.json",
+  "primary_image_url": "/legajos/legajo-14/images/329:2609a.JPG"
+}

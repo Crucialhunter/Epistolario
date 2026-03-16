@@ -1,0 +1,38 @@
+{
+  "legajo_id": "7",
+  "id_carta": "771",
+  "order_in_legajo": 10,
+  "signatura": "00-1a copy",
+  "nombre_carta": "Carta de Josep Vila a Jerónimo Pelegrín de Aragüés",
+  "fecha_original": "23 de julio de 1664",
+  "lugar": "Valencia",
+  "remitente": "Josep Vila",
+  "destinatario": "Jerónimo Pelegrín de Aragüés",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Amigo y señor mío, Con dos de vuestra merced me hallo, la una de 20 del presente y la otra de 27. De todas, amigo, me he holgado por darme aviso de la salud de vuestra merced y en particular de la primera por quitarme los cuidados que de vuestra merced tenía, que cierto no merezco yo tener aviso de vuestra merced, de sus acciones, siquiera para mi consuelo y para encomendarle a Dios, aunque indigno. Y siendo de esta manera pienso que vuestra merced aún no me tiene por amigo, pues no tiene osadía de descubrir a un tan grande servidor como le soy yo, aunque vuestra merced no haga mención de mi que cierto he estado con grande cuidado de su salud y muy largo pienso de las noticias de pasar a Mallorca mi señor. Me alegra, y más cuando tendré aviso que ya estará allí, que ruego a Dios que sea presto y con salud y vida de mi sra. y de sus hijos para más aumento de ellos y de su casa y demás de ellas. En cuanto a las noticias de Mallorca no sé nada de nuevo. Dos correos ha que escribí a vuestra merced las aflicciones en que me hallaba por no tener noticias de vuestra merced y también las nuevas que por allí había. Jerónimo Roselló me dijo que había remitido una carta a vuestra merced de Mallorca. Pienso que vuestra merced tendrá cartas de su casa. Vuestra merced vea qué nos manda a mi y a Contestí, que siempre será obedecido. Y en lo demás me lo guarde Dios . De Valencia y julio a 23 de 1664. Josep Vila. Señor Jeronimo Pelegrin Transcripción literal"
+  ],
+  "literal": [
+    "1. Amigo y sr. mio con dos de V. M. me 2. hallo la una de 20. del presente j la otra 3. de 27. de todas Amigo me he olgado por 4. darme aviso de la salut de V. M. j en par = 5. ticular de la primera por quitarme los 6. cujdados que de V. M. tenia que cierto 7. no me rescojo [?] tener aviso de V.M. de sus 8. acciones sis quiera para mi consuelo y para 9. encomendarle a dios aunque jndigno = 10. j siendo desta manera pienso que V. M. 11. aun no me tenie por amigo pues no 12. tiene osadia de descubrir aun tan gran ? 13. de servidor como le soj jo aunque V. M. 14. no aga mension demi que cier[t]o he estado 15. con grande cujdado de su salut y muj largo 16. pienso = de las notitias de pasar A Mallorca 17. mi Sr. me alegra j mas quando tendre aviso 18. que ja estara alli que ruego a dios que sea presto 19. y con salut y vida de mi Sra y de sus hijos 20. para mas aumento dellos y de su casa j demas 21. dellas, en quanto a las notitias de mallorca 22. no se nada de nuevo, dos coreos a que scrivi 23. a V. M. [las aflixiones en que me alla aca por no tener notitias de V. M. j tambien lo nuebas que por alli avia] Geronimo rosello me dixo que avia 24. remitido una carta a V.M. de mallorca 25. pienso que V.M. tendra cartas de su casa V.M. 26. vea que nos manda a mi j a contesti que 27. siempre sera obedesido y enlo demas 28. me lo gde dios de Valencia y julio a 23 29. de 1664 Jucep Vila 30. Sr. Geronimo pelagrin [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "00-1a copy.gif",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo07/00-1a copy.gif",
+      "url": "/legajos/legajo-07/images/00-1a copy.gif"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "00-1a copy.gif",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (4)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-07/cartas/000771.json",
+  "primary_image_url": "/legajos/legajo-07/images/00-1a copy.gif"
+}

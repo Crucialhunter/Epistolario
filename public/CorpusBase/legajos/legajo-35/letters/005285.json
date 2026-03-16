@@ -1,0 +1,38 @@
+{
+  "legajo_id": "35",
+  "id_carta": "5285",
+  "order_in_legajo": 97,
+  "signatura": "099:8131.JPG",
+  "nombre_carta": "Carta de Gabriel Seguí a Pedro Santacilia y Pax",
+  "fecha_original": "24 de julio de 1644",
+  "lugar": "Maó",
+  "remitente": "Gabriel Seguí",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "No es possible poder servir a v. s. amb altra cosa més que estos cinc melonets que aporta el patró Joan de Nans. v. s. perdoni de la po quedat, i reba esta voluntat que és gran de servir a v. s., a qui Déu guardi a. de Maó i juliol a 24 de 1644. Gabriel Seguí Senyor guardi or. Transcripción literal"
+  ],
+  "literal": [
+    "1. No es posible poder servir a VSª ab2. altra cosa mes q estos sinch malonets3. q aporta lo Patro Juan de Nans, VSª4. perdoni de la poquedat, y reba esta volun5. tat que es gran de servir a VSª a qui6. Deu gde. de Maho y juliol a 247. de 16448. Gabriel Saguí9. Señor gdor. [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "099:8131.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo35/099:8131.JPG",
+      "url": "/legajos/legajo-35/images/099:8131.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "099:8131.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-35/cartas/005285.json",
+  "primary_image_url": "/legajos/legajo-35/images/099:8131.JPG"
+}

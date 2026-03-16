@@ -1,0 +1,43 @@
+{
+  "legajo_id": "12",
+  "id_carta": "1603",
+  "order_in_legajo": 112,
+  "signatura": "162_6196a.JPG",
+  "nombre_carta": "Carta de Laudòmia Rossa i Domènech a Pedro Santacilia y Pax",
+  "fecha_original": "23 de enero de 1649",
+  "lugar": "Valencia",
+  "remitente": "Laudòmia Rossa i Domènech",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Sr. don Pedro Amb esta sola i breu vinc avisar a v. m. com estic molt espantada i confusa que no m'hagi v. m. avisada de la salut d'una persona de mi tan estimada i volguda com és v. m. de què en este món no tinc cosa més a mon gust que servir i desig de saber com {ESP. gosa} v. m. de tots els de casa de v. m. moltíssima salut i així per amor de Déu amb totes ocasions que pugui me faci mercè d'avisar-me del seu bé. Ací tots tenim salut, sols jo que estic un poc de mala gana però tots al servici i manar del Sr. mi amo que mi Sr. D. Pedro Santacilia i després d'haver rebut v. m. els meus besamans les mateixes a mi Sra. dona Magdalena i dona Beatriu i el Sr. D. Joan Miquel i tots els de casa de v. m. i si cosa puc jo servir a v. m. m'avisi, del Grau de València als 23 de gener 1649. De v. m. molt criada Laudomia Domenech [1§] Transcripción literal"
+  ],
+  "literal": [
+    "1. Sr. Don Pedro2. Ab esta sola y breu vinch avissar a Vmd.3. com estich molt espantada y confusa de4. que no meja vmd. Avisada de la salud5. de huna persona de mi tant estimada6. y volguda com es Vmd, que en este mon7. no tinch cossa mes amon gust que servir8. y deszitg de saber com gossa Vmd, y tots9. los de cassa de vmd, moltisima salud10. y axi per amor de Deu Sr, ab totes ocasions11. que puga me fassa merse de avisarma del12. seu be assi tots tanim salud sols jo13. que estich un poch de mala gana pero14. tots al sarvisi y manar del Sr, mi amo que15. mi Sr, d, Pedro Sta Cilia y despres de aver rebut16. vmd. Los meus bessamans las matexas a Mi Sra. dona17. madalena y dona biatriu y el Sr. d. Juan Michle18. y tots los de cassa de Vmd. Y si cossa puch jo servir19. a Vmd, me avissa del Grau de Valentia als 2320. de Jener 164921. De Vmd. Molt criada22. Laudomia Domenech [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "162_6196a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo12/162_6196a.JPG",
+      "url": "/legajos/legajo-12/images/162_6196a.JPG"
+    },
+    {
+      "filename": "163_6196b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo12/163_6196b.JPG",
+      "url": "/legajos/legajo-12/images/163_6196b.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "162_6196a.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (2)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-12/cartas/001603.json",
+  "primary_image_url": "/legajos/legajo-12/images/162_6196a.JPG"
+}

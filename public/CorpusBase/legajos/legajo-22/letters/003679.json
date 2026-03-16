@@ -1,0 +1,43 @@
+{
+  "legajo_id": "22",
+  "id_carta": "3679",
+  "order_in_legajo": 59,
+  "signatura": "111:5048a.JPG",
+  "nombre_carta": "Carta de Miguel Guiño a Pedro Santacilia y Pax",
+  "fecha_original": "3 de marzo de 1639",
+  "lugar": "Zaragoza",
+  "remitente": "Miguel Guiño",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Sr. mío no puedo dejar de acudir a las obligaciones que me corre de servir a v. m. y reconocerle como siempre por amo mío. Su majestad me ha dado mi entretenimiento en este reino y con orden que me esplaye de las cosas de guerra que hecharé de ver será a propósito y de particular he de reconocer las entradas de este reino al de Francia, hasta ahora no me ha empleado en cosa ninguna. Aquí me estoy como herrero sin carbón, además se me ha hecho merced de la futura de la primera sargentía mayor de partido. Dios me dé lo que es menester. Aviso a v. m. de estas menudencias para cuando fuere servido de honrarme de mandarme muchas cosas, sepa donde estoy. Holgaré que esta halle a v. m. con la salud que para mi deseo. Al Sr. licenciado Domenech beso mil veces sus manos y que ya sabe soy criado. El capitán D. Alonso de Aragues que está aquí levantado ha nombrado al sargento Gregorio Perello por su alférez y cuando me lo dijo le di las gracias como si me hubiera ayudado la bandera. Sr. me tiene aquí a su servicio y a las obras me remito. Dios a v. m. guarde como [?] Sr. D. Pedro Santacilia y Pax [1§] de Zaragoza y marzo 3 de 1639. Esa carta me dio del marques de los Velez, que vino con otra mía de D. Luis Criado de v. m. Miguel Guiño Transcripción literal"
+  ],
+  "literal": [
+    "1. Sr mio no puedo dexar de acudir a las hobligaciones2. que me corre de çerbir a v.m. y reconoçerle como siepre3. por amo mio, su magd. mea dado mi entretenimiento en4. este reyno y co horde que me epleye e las cosas de5. guerra que hechare de ver ser a proposito y e particular6. e reconoçer las entradas deste reyno al de fraçia, hasta agora7. no me a epleado e coça ninguna; aqui me estoy como8. herrero sin carbon; ademas se me a hecho merçed de9. la futura de la primer sargentia mayor de partido10. dios me de lo que he menester, abiso a v.m. destas11. menudensias para quado fuere çerbido de horarme12. e madarme muchas cosas sepa donde estoy holgare13. que esta halle a v.m. co la salud que para mi deseo.14. al sor. liçesiado domenec beso mil besses sus manos15. y que ya sabe soy queriado, el capn. d. Al[on]so de Aragues 16. questa aqui levantado anobrado al sarg[en]to gregorio17. perello por su alf[ere]z y quado me lo dixo le di las [gracias]18. como si me hubiera ayuidado la bandera Sor.19. me tiene aqui a su çerbisio y a las hobras [me]20. remito Xpo. a v.m. gde. como [...]21. Sr. d. Pº Stasilia y pax [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "111:5048a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo22/111:5048a.JPG",
+      "url": "/legajos/legajo-22/images/111:5048a.JPG"
+    },
+    {
+      "filename": "112:5048b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo22/112:5048b.JPG",
+      "url": "/legajos/legajo-22/images/112:5048b.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "111:5048a.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-22/cartas/003679.json",
+  "primary_image_url": "/legajos/legajo-22/images/111:5048a.JPG"
+}

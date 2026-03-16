@@ -1,0 +1,77 @@
+{
+  "legajo_id": "40",
+  "id_carta": "5707",
+  "order_in_legajo": 45,
+  "signatura": "105:59a",
+  "nombre_carta": "Carta de Persona desconocida a Persona desconocida",
+  "fecha_original": "fecha sin especificar",
+  "lugar": "Mallorca",
+  "remitente": "Persona desconocida",
+  "destinatario": "Persona desconocida",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Fulls 59a-59j: Una carta redactada majoritáriament en italiá y algun fragment en llatí. Conté alguns fulls de comptes en italiá [1§] Transcripción literal"
+  ],
+  "literal": [
+    "1. Fulls [69a-59j]: Una carta redactada majoritàriament en italià i algun fragment en llatí. Conté alguns Fulls de comptes en italià"
+  ],
+  "imagenes": [
+    {
+      "filename": "105:59a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo40/105:59a.JPG",
+      "url": "/legajos/legajo-40/images/105:59a.JPG"
+    },
+    {
+      "filename": "106:59b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo40/106:59b.JPG",
+      "url": "/legajos/legajo-40/images/106:59b.JPG"
+    },
+    {
+      "filename": "107:59c.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo40/107:59c.JPG",
+      "url": "/legajos/legajo-40/images/107:59c.JPG"
+    },
+    {
+      "filename": "108:59d.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo40/108:59d.JPG",
+      "url": "/legajos/legajo-40/images/108:59d.JPG"
+    },
+    {
+      "filename": "109:59e.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo40/109:59e.JPG",
+      "url": "/legajos/legajo-40/images/109:59e.JPG"
+    },
+    {
+      "filename": "110:59f.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo40/110:59f.JPG",
+      "url": "/legajos/legajo-40/images/110:59f.JPG"
+    },
+    {
+      "filename": "111:59g.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo40/111:59g.JPG",
+      "url": "/legajos/legajo-40/images/111:59g.JPG"
+    },
+    {
+      "filename": "112:59h.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo40/112:59h.JPG",
+      "url": "/legajos/legajo-40/images/112:59h.JPG"
+    },
+    {
+      "filename": "113:59i.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo40/113:59i.JPG",
+      "url": "/legajos/legajo-40/images/113:59i.JPG"
+    },
+    {
+      "filename": "114:59j.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo40/114:59j.JPG",
+      "url": "/legajos/legajo-40/images/114:59j.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "105:59a.JPG",
+  "warnings": [],
+  "raw_source": "raw/legajos/legajo-40/cartas/005707.json",
+  "primary_image_url": "/legajos/legajo-40/images/105:59a.JPG"
+}

@@ -1,0 +1,43 @@
+{
+  "legajo_id": "16",
+  "id_carta": "2663",
+  "order_in_legajo": 150,
+  "signatura": "239:2163a.JPG",
+  "nombre_carta": "Carta de Diego Matías de Aragüés a Pedro Santacilia y Pax",
+  "fecha_original": "9 de noviembre de 1667",
+  "lugar": "Madrid",
+  "remitente": "Diego Matías de Aragüés",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Estoy aguardando cartas de v. s. en respuesta de las que tengo escritas. El señor don Nicolas aunque no está aundel todo Curado, está muy mejorado juzgo que solo aguarda para su viaje una ayuda de costa que esta solicitando y según me han dicho esta arriba la consulta, con que no puede durar, y como ha más de dos meses se le hizo La merced de capitán de Caballos, el conde de Talara dice que hate de irse aunir espada, yo señor ya digo todo lo que alcance y se lo envío adecir, y que no a guarde que le envíe a llamar este señor que es el señor conde de Medellin Viniese se podrá disponer como su Excelencia ordenare ello importa que este Mozo Salga y este a la vista de v. s. hasta que se disponga de su persona para ir a servir su oscupación, o, lo que más Convenga y para con v. s. me han venido a decir que con licencia, o, sin ella sale muchas noches fuerade lacasa de los Pajes. [1§] el señor conde de Zavella se parte dentro 2 días para Cataluña por Carg [?] a está bueno y también fuera bueno que esa tal compañía fuera el señor don Nicolas hasta Barcelona. Nose me ofrece por ahora otra cosa, en esto v. s. mediga que sabe de sus fragatas ylos demás y como va con el señor don Miguel Salva v. s. me mande le sirva que sus manos besamos doña Margarita y yo con las de mi señora doña Leonor el señor don Juan y todos estos señores muchas veces. y guarde Dios como deseo Madrid 9 noviembre 1667 besa lasmanos de v. s. su mayor servidor Diego Matias de Aragues Señor don Pedro Santacilia y Pax. [2§] Transcripción literal"
+  ],
+  "literal": [
+    "1. Estoy aguardando Cartas de VS. en 2. respuesta delas q tengo escritas. 3. El sr don Nicolas aunq no esta 4. aundel todo Curado, esta muy mejorado 5. Juzgo q solo aguarda pa su Viaje 6. una ayuda de Costa q esta solicitando 7. y segun me han dicho esta arriva la 8. Consulta, conq no puede durar, Y 9. Como ha mas de dos meses sele hizo 10. La md de Capn de Cavallos, el Conde 11. de Talara dize q hate de hirse aunir 12. espada, yo sr ya digo todo lo q 13. alcanze y selo embio adecir, yq no 14. aguarde q le embie allamar este sr 15. q es el sr Conde de medellin Viniesse 16. se podra disponer Como su Exa ordenare 17. ello importa q este Mozo Salga y este 18. ala vista de Vs. hasta q se dispon19. ga de su persona pa hir a servir 20. su oscupacion, o, lo q mas Convenga 21. Y pa Con VS. me han Venido a decir 22. q con licencia, o, sin ella sale muchas 23. noches fuerade lacasa de los Pajes. [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "239:2163a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo16/239:2163a.JPG",
+      "url": "/legajos/legajo-16/images/239:2163a.JPG"
+    },
+    {
+      "filename": "240:2163b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo16/240:2163b.JPG",
+      "url": "/legajos/legajo-16/images/240:2163b.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "239:2163a.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (3)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-16/cartas/002663.json",
+  "primary_image_url": "/legajos/legajo-16/images/239:2163a.JPG"
+}

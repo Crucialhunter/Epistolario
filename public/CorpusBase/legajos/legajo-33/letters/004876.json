@@ -1,0 +1,38 @@
+{
+  "legajo_id": "33",
+  "id_carta": "4876",
+  "order_in_legajo": 71,
+  "signatura": "112:6792.JPG",
+  "nombre_carta": "Carta de Diego de Cáncer a Pedro Santacilia y Pax",
+  "fecha_original": "16 de octubre de 1629",
+  "lugar": "Castellón",
+  "remitente": "Diego de Cáncer",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "yo lege anoche tarde de perpinan donde estado quince días en una cama y así no tengo noticia D. elo que v. m. me manda pero de hoy más tendré el cuidado que de vo en servir a v. m. abisándole con puntualidad de lo que me manda en su carta Dios a v. m. guarde castelon y octubre a 16 1629 Sr. don Diego de Cancer Sr. don Pedro Santa Sillia [1§] Transcripción literal"
+  ],
+  "literal": [
+    "1. Yo lege anoche tarde de perpinan donde2. estado quinse dias en una cama y asi3. no tengo notisia d elo que vm me manda4. pero de oi mas tendre el cuidado que de5. vo en servir a vm abisandole con puntualidad6. de lo que me manda en su carta dios a vm7. guarde castelon y otubre a 16 16298. Don Diego de Cançer9. Sr Don Pedro Santa Sillia [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "112:6792.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo33/112:6792.JPG",
+      "url": "/legajos/legajo-33/images/112:6792.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "112:6792.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-33/cartas/004876.json",
+  "primary_image_url": "/legajos/legajo-33/images/112:6792.JPG"
+}

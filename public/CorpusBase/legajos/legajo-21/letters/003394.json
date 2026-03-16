@@ -1,0 +1,43 @@
+{
+  "legajo_id": "21",
+  "id_carta": "3394",
+  "order_in_legajo": 83,
+  "signatura": "127:5683a.JPG",
+  "nombre_carta": "Carta de Pedro Fajardo de Requeséns-Zúñiga y Pimentel (V marqués de los Vélez) a Pedro Santacilia y Pax",
+  "fecha_original": "9 de noviembre de 1638",
+  "lugar": "Pamplona",
+  "remitente": "Pedro Fajardo de Requeséns-Zúñiga y Pimentel (V marqués de los Vélez)",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "El capitán don Gaspar Calvillo y Avellaneda me ha dado la carta de v. m. de 2 de este en que me avisa como el Sr. almirante socorrió por vía deprestamo esas compañías con cinco mil reales para que puedan volver a los alojamientos y v. m. volvió a enviar un teniente con mi despacho para solicitar el que han menester para marchar las compañías y no dudo tendrán ya orden para hacer lo y así envió un comisario que faltaba para guiar la de don Gaspar y en Aragón tengo prevenido estenala Raya los que han de alojar las en las cin con villas. Guarde Dios a v. m. como deseo de Pamplona 9 de noviembre 1638 El marques de los Velez Sr. don Pedro de Santacilia [1§] Pamplona 9 Noviembre 1638 el marques de los Velez rdo. [2§] Transcripción literal"
+  ],
+  "literal": [
+    "1. El cappn Don Gaspar calvillo y avellane2. da me adado lacarta de Vm de 2 deste en 3. que me avissa como el sor Almirante socorrio 4. porbia deprestamo essas companias con 5. cinco mill Reales para que puedan bolver 6. a los alojamientos y Vm. bolvio a embiar 7. Un teniente con mi despacho para soliçitar 8. el que an menester para marchar lascon9. panias yno dudo tendran ya orden para 10. hacer lo y assi embio Un comissario que 11. faltava para guiar lade Don Gaspar 12. y en Aragon tengo prevenido estenala 13. Raya los que ande alojar las en las cin14. co Villas gde Dios a Vm como desseo de 15. Pampna 9 de Novie1638 16. El Marqs de los veles 17. [Margen izquierdo][^ Sor Don Po desanta ciçilia] [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "127:5683a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo21/127:5683a.JPG",
+      "url": "/legajos/legajo-21/images/127:5683a.JPG"
+    },
+    {
+      "filename": "128:5683b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo21/128:5683b.JPG",
+      "url": "/legajos/legajo-21/images/128:5683b.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "127:5683a.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (5)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-21/cartas/003394.json",
+  "primary_image_url": "/legajos/legajo-21/images/127:5683a.JPG"
+}

@@ -1,0 +1,38 @@
+{
+  "legajo_id": "37",
+  "id_carta": "5456",
+  "order_in_legajo": 9,
+  "signatura": "128:40.JPG",
+  "nombre_carta": "Carta de Persona desconocida a Jerónimo Pelegrín de Aragüés",
+  "fecha_original": "fecha sin especificar",
+  "lugar": "Mallorca",
+  "remitente": "Persona desconocida",
+  "destinatario": "Jerónimo Pelegrín de Aragüés",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "A Jeronimo Pelegrin y Aragues, que Dios guarde. Mallorca Transcripción literal"
+  ],
+  "literal": [
+    "1. A Geronímo Pelegrín2. y Aragues que D[ios] Guarde3. Mallorca [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "128:40.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo37/128:40.JPG",
+      "url": "/legajos/legajo-37/images/128:40.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "128:40.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (4)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-37/cartas/005456.json",
+  "primary_image_url": "/legajos/legajo-37/images/128:40.JPG"
+}

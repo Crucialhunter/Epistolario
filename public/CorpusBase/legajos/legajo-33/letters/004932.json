@@ -1,0 +1,43 @@
+{
+  "legajo_id": "33",
+  "id_carta": "4932",
+  "order_in_legajo": 123,
+  "signatura": "187:6848a",
+  "nombre_carta": "Carta de Osorio García de Toledo a Persona desconocida",
+  "fecha_original": "31 de agosto de 1633",
+  "lugar": "Barcelona",
+  "remitente": "Osorio García de Toledo",
+  "destinatario": "Persona desconocida",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "yo soy hombre de pocos renglones, pero buen amigo de mis amigos, y de v. m. tanto, que siento el no tener nuevas suyas, aunque mis primos me las dan muy buenas y de que v. m. anda en la rueda de la fortuna de ella saque v. m. los grandes acrecentamientos que merece, que si ara en guerra, de tan honrosas calidades, y de tan gran cappitan General. Por acá todo es miserias y malas horas señal que algunas nos dará Dios buenas, tras estas: No he conocido a Barcelona viéndola despo blada de gente, pero el buen Sr. D. Diego de Rocabertó no falta. mis primos están buenos, aunque El duque ha tenido un poco de gota, y sepa v. m. que soy tan para trición que creo que he de venir a ser de esto conseller. Por ahora no hay cosa que pida [1§] llamarse nueva, si bien hay pronósticos de que ha de venir Su majestad. a Cataluña, yo alo menos no lo se, ni lo creo. v. m. escriba historial mente y después de haber hecho grandes azañas se nos vuelva que buen rincón es Mallorca, y no mal retiro este lugar guarde. Nro. Sr. a v. m. los muchos años que deseo Barcelona a 31 de agosto 1633 v. m. sabe cual es mi letra y aquí se be por eso no escribo de mi mano Sr. don [?] de Toledo [?] [2§] Transcripción literal"
+  ],
+  "literal": [
+    "1. Yo soy hombre de pocos ringlones, pero buen2. amigo de mis amigos, y de Vm. tanto, que3. siento el no tener nuebas suyas, aunque4. mis primos me las dan muy buenas y de q5. Vm. anda en la rueda de la fortuna de ella6. saque Vm. los grandes acreçentamientos q7. mereze, que si ara en guerra, de tan honrrosas8. calidades, y de tan gran capp[ita]n G[e]n[era]l. Por9. aca todo es miserias y malas oras señal10. que algunas nos dara Dios buenas, tras estas:11. No he conoçido a Barz[elo]na viendola despo12. blada de gente, pero el buen D. Diego de13. Rocabertó no falta. Mis primos estan14. buenos, aunque El Duque ha tenido un15. poco de gota, y sepa Vm. q soy tan pa16. triçio que creo q he de benir a ser desto17. conseller. Por aora no ay cosa que pida [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "187:6848a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo33/187:6848a.JPG",
+      "url": "/legajos/legajo-33/images/187:6848a.JPG"
+    },
+    {
+      "filename": "188:6848b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo33/188:6848b.JPG",
+      "url": "/legajos/legajo-33/images/188:6848b.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "187:6848a.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-33/cartas/004932.json",
+  "primary_image_url": "/legajos/legajo-33/images/187:6848a.JPG"
+}

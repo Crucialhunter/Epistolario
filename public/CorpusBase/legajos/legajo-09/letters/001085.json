@@ -1,0 +1,38 @@
+{
+  "legajo_id": "9",
+  "id_carta": "1085",
+  "order_in_legajo": 120,
+  "signatura": "214-107",
+  "nombre_carta": "Carta de Francisco Ramírez de Arellano a Arnau de Santacilia",
+  "fecha_original": "4 de junio de 1677",
+  "lugar": "Palermo",
+  "remitente": "Francisco Ramírez de Arellano",
+  "destinatario": "Arnau de Santacilia",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Señor mío, Logro con todo gusto la ocasión de pasar a manos de v. m. las adjuntas dos cartas que han llegado a esta señoría para con ella solicitar las favorables nuevas de su salud que le deseo y que no tenga tan ociosa mi obediencia en su servicio cuando sabe v. m. con el par afecto que me emplearé en él. Dios guarde a v. m. los muchos años que deseo Palermo, 4 de junio 1677 Besa la mano de v. m. su mayor servidor, Francisco Ramirez de Arellano, sargento mayor Señor d. Arnau de Santacilia [1§] Transcripción literal"
+  ],
+  "literal": [
+    "1. Sr mio Logro con todo gusto laocasion de pasar amanos de 2. Vm las adjuntas dos cartas que han llegado aesta sria 3. para conella solicitar las favorables nuevas desu salud 4. que ledeseo y q notenga tanociosa mi obvediencia 5. ensu Servicio quando save Vm conel par 6. afecto queme empleare enel, Ds gde a Vm 7. los muchos años q desseo Palo [?] 4 de 8. Jun[i]o 1677 9. Blm de Vm 10. su mor seror 11. franco Ramirez de Arellano 12. [Margen izquierdo][^ Sr Sargto mor D Arnao desta Cilia] [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "214-107.jpg",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo09/214-107.jpg",
+      "url": "/legajos/legajo-09/images/214-107.jpg"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "214-107.jpg",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-09/cartas/001085.json",
+  "primary_image_url": "/legajos/legajo-09/images/214-107.jpg"
+}

@@ -1,0 +1,43 @@
+{
+  "legajo_id": "21",
+  "id_carta": "3463",
+  "order_in_legajo": 152,
+  "signatura": "274:5751a.JPG",
+  "nombre_carta": "Carta de Diego Gómez Mendoza a Pedro Santacilia y Pax",
+  "fecha_original": "9 de julio de 1639",
+  "lugar": "Zaragoza",
+  "remitente": "Diego Gómez Mendoza",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Amigo por esta os aviso como ayer se hizo la gracia del perdón de Paracuellos y os aseguro que ha sido necesario no dejarlo de la mano que aunque el gobernador tenía gusto de que se hiciese en el consejo hay algunos que no le son afectos con que lo estorbaban y fue necesario que el gobernador lo tomará con las veras que lo tomó para salir con él y así podréis remitirle luego con una licencia que cuando llegue tendrá ya el perdón su mujer, vuelvo os ha encargar lo del [?] que os escribí con Paracuellos que yo os remitiré lo que costare, o lo daré acá a la persona que quisiereis. Sólo quiero sea de vuestro gusto y de vuestra mano que es lo que deseo y estimaré, mi hermano don Raimundo ha solicitado esto con las veras que podéis fiar de su amistad que es muy buesto y tendrá a mucha dicha os acordéis de mandarle que os servirá con mucha fineza os besa la mano y yo hago lo mismo. Dios os guarde de Zaragoza y julio a 9 1639. Vuestro siempre Don Diego Gomez de Mendoza Sr. don Pedro Santacilia y Pax [1§] Zaragoza 9 Julio 1639 Don Diego Gomez Mendoza rdo. Transcripción literal"
+  ],
+  "literal": [
+    "1. Amigo por esta os abiso como aier se hizo 2. la graçia delperdon de Paracuellos y os 3. aseguro q ha sido neçesario no dexar lo de 4. la mano q aunq elsr Gobernador tenia 5. gusto de q se hiziesse enel consexo ai algunos 6. q no le son afectos conq lo estorbaban y fue 7. neçesario q el sr Gobr lo tomara conlas 8. beras q lo tomo pa salir conel yasi podreis 9. remitirle luego conuna licençia q qdo llege 10. tendra ia el perdon su mujer, buelbo os 11. ha encargar lo del ropon q os escribi con 12. paramellos q io os remitire lo q costare 13. , o, lo dare aca a la persona q quisiereis 14. solo quiero sea de buestro gusto y debuestra 15. mano q es lo q deseo y estimare, mi her[?] 16. don Reymundo a soliçitado esto con las 17. beras q podeis fiar desu amitad q es muy 18. buesto y tendra amucha dicha os acordeis de 19. mandarle q os serbira con mucha fineza 20. os besa la mano y io ago lo mismo dios 21. osge de Caragca y Julio a 9. 1639 22. Vro siempre 23. don diego Gomez 24. de Mendoza25. [Margen izquierdo][^ Sr don Pedro Santa Cilia y pax] [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "274:5751a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo21/274:5751a.JPG",
+      "url": "/legajos/legajo-21/images/274:5751a.JPG"
+    },
+    {
+      "filename": "275:5751b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo21/275:5751b.JPG",
+      "url": "/legajos/legajo-21/images/275:5751b.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "274:5751a.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-21/cartas/003463.json",
+  "primary_image_url": "/legajos/legajo-21/images/274:5751a.JPG"
+}

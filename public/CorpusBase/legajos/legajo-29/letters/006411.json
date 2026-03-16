@@ -1,0 +1,48 @@
+{
+  "legajo_id": "29",
+  "id_carta": "6411",
+  "order_in_legajo": 162,
+  "signatura": "169:4228a",
+  "nombre_carta": "Carta de Bartolomé Mercadal a Persona desconocida",
+  "fecha_original": "5 de abril de 1662",
+  "lugar": "Madrid",
+  "remitente": "Bartolomé Mercadal",
+  "destinatario": "Persona desconocida",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Â [1§] Â [2§] Â [3§] Transcripción literal"
+  ],
+  "literal": [
+    "1. 1. 1."
+  ],
+  "imagenes": [
+    {
+      "filename": "169:4228a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo29/169:4228a.JPG",
+      "url": "/legajos/legajo-29/images/169:4228a.JPG"
+    },
+    {
+      "filename": "170:4228b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo29/170:4228b.JPG",
+      "url": "/legajos/legajo-29/images/170:4228b.JPG"
+    },
+    {
+      "filename": "171:4228c.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo29/171:4228c.JPG",
+      "url": "/legajos/legajo-29/images/171:4228c.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "169:4228a.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (10)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-29/cartas/006411.json",
+  "primary_image_url": "/legajos/legajo-29/images/169:4228a.JPG"
+}

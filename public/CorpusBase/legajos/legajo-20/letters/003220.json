@@ -1,0 +1,43 @@
+{
+  "legajo_id": "20",
+  "id_carta": "3220",
+  "order_in_legajo": 92,
+  "signatura": "128:6001a.JPG",
+  "nombre_carta": "Carta de Basilio de Castellví y Ponce a Pedro Santacilia y Pax",
+  "fecha_original": "17 de octubre de 1667",
+  "lugar": "Valencia",
+  "remitente": "Basilio de Castellví y Ponce",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Señor mio; aunque tengo escrito a v. s. pocos días a no ha de faltar mi obligación a solicitar en todos tiempos muy buenas nuevas de la salud de v. s. a quien suplico me las participe iguales que serán para mi de toda estimación mayormente si vinieren acompañadas de muchos empleos del servicio de v. s. que acrediten mi obediencia. yo quedo, a Dios gracias, bueno que es harta dicha en medio del tiempo que corre tan de sigual motivo de algunas enfermedades que estamos experimentando Dña. Laura y Giuseppe están buenos y todos besamos a v. s. las manos con las de mi Sra. Dña. Leonor y el Sr. don Juan. de Madrid no avisan cosa particular ni hay novedad en lio de Flandes al Sr. don Juan se le continuan las instancias [?] para que vaya a Gobernar aquellos esta dos y las toma muy a pelo. al duque de Lerma [?] ha concedido S.M. últimamente quince días de prorrogación para el ajuste de algunos intere ses [1§] En esta parte de la carta se utiliza la [?] ç [?] en más ocasiones que en la parte A. [1§] con la orden para que después de este plazo ponga en ejecución su partida cuando no se pasara a la provisión de este virreinato. Los más contemplativos son de para ser que su exno [?] vendrá a favorecer nos y se puede tener por cierto según las premisas que se están viendo. doy a v. s. muchas veces [?] la enhorabuena de la mejoría del Sr. don Nicolas que me avisa Diego [?] Matias en este último correo quedaba muy adelantada su convalecencia [?] y juntamente repito a v. s. la enhorabuena de la merced que se le ha hecho de capitán de caballos para Barcelona v. s. le vea muy dichoso y con los puestos que merecen sus muchas prendas. Por acá no se ofrece cosa articular de que poder avisar a v. s. cuya vida guarde Dios ms años como deseo. Valencia y octubre a 27 [?] de 1667 [?]. Beso a v. s. su mano su mayor don Basilio de Castellvi y Ponce Sr. don Pedro Santacilia y Pax. [2§] Transcripción literal"
+  ],
+  "literal": [
+    "1. Señor mio; aunque tengo escrito a V.S. pocos dias a no a de 2. faltar mi obligacion á solicitar en todos tiempos muy 3. buenas nuevas de la salud de V.S. a quien suplico me 4. las participe iguales que seran para mi de toda esti- 5. macion mayormente si vinieren acompañadas de mu- 6. chos empleos del servicio deV.S. que acrediten mi 7. obediencia. Yo quedo a Dios gracias bueno que es har- 8. ta dicha en medio del tiempo que corre tan de- 9. sigual motivo de algunas enfermedades que esta- 10. mos experimentando Da. Laura y Jusepe estan buenos 11. y todos besamos a V.S. las manos con las de mi Sra. 12. Da. Leonor y el Sr. Don Juan. 13. De Madrid no avisan cosa particular ni ay nobedad 14. en lio de flandes al Sr. Don Juan se le continuan 15. las instançias[?] para que vaya a Governar aquellos esta- 16. dos y las toma muy a pelo. al Sr. Duque de Lerma[?] 17. ha conceddido S.M. ultimamente quince dias de 18. prorrogacion para el ajuste de algunos intere- 19. ses 20. En esta parte de la carta se utiliza la ?ç? en más ocasiones que en la parte A. [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "128:6001a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo20/128:6001a.JPG",
+      "url": "/legajos/legajo-20/images/128:6001a.JPG"
+    },
+    {
+      "filename": "129:6001b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo20/129:6001b.JPG",
+      "url": "/legajos/legajo-20/images/129:6001b.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "128:6001a.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-20/cartas/003220.json",
+  "primary_image_url": "/legajos/legajo-20/images/128:6001a.JPG"
+}

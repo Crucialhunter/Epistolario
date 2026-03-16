@@ -1,0 +1,38 @@
+{
+  "legajo_id": "18",
+  "id_carta": "3092",
+  "order_in_legajo": 130,
+  "signatura": "202:4931.JPG",
+  "nombre_carta": "Carta de Jerónimo Mancho a Pedro Santacilia y Pax",
+  "fecha_original": "16 de septiembre de 1664",
+  "lugar": "Madrid",
+  "remitente": "Jerónimo Mancho",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Con mucho gusto recibo la carta de v. s. de 29 del pasado en que se sirve darme aviso del buen paseje y vuelta a su casa de v. s., con la salud que desea. Yo no canso a v. s. con mis cartas porque como se halla aquí Jeronimo Pelegrin me parece que no falto en esto cuando sabe el que ninguno se adelanta más que yo en el servicio de v. s. También del habrá dado cuenta a v. s. del buen suceso del hábito del Sr. don Gabriel de Berga y puedo asegurar a v. s. que mi sobrino ha tenido la principal parte. Es esto como lo sabe muy bien Pelegrin y no dudaré yo que esos señores le serán agradecidos pues en materia negada ya. Una vez ha sido menester doblada mañana para desvanecer aquello ya hice fianza por las pruebas del Sr. don Nicolás y siempre estoy y estaré al servicio de v. s. cuya vida guarde Dios muchos años como deseo. Madrid a 16 de septiembre de 1664. Besa la mano de v. s. Su más afecto servidor Jeronimo Mancho Sr. don Pedro de Santacilia y Pax [1§] Transcripción literal"
+  ],
+  "literal": [
+    "1. Con mucho gusto recivo la carta de VS. de 29 del 2. pasado en que se sirve darme aviso del buen paseje 3. y Buelta a su casa de VS, con la salud que desea 4. Yo no canso a VS. con mis cartas porque como se halla 5. aqui Geronymo Pelegrin mepareze que no falto en 6. esto quando save el que ninguno se adelanta mas q 7. yo enel servicio de VS. 8. Tambien del sr havra dado quenta a VS. del buen succeso 9. del abito del sr don Gabriel de Verga y puedo asegurar 10. a VS. que mi sobrino ha tenido la principalparte 11. es esto como lo sabe muy bien Pelegrin y no dudare 12. yo que esos señores le seran agradecidos pues en 13. materia negada ya Una vez ha sido menester 14. doblada maña para desvanezer aquello = 15. Ya hize fianza por las pruebas delsr don Nicolas 16. y siempre estoy y estare al servo de VS. cuya 17. Vida gde Dios muchos años como desseo. Md 18. a 16 de Sete de 1664 19. Blm de VS 20. Su mas afecto serr 21. Geronymo Mancho22. [Margen izquierdo][^ Sr Don Pedro de Santacilia y Pax] [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "202:4931.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo18/202:4931.JPG",
+      "url": "/legajos/legajo-18/images/202:4931.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "202:4931.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-18/cartas/003092.json",
+  "primary_image_url": "/legajos/legajo-18/images/202:4931.JPG"
+}

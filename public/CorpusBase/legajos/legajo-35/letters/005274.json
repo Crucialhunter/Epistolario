@@ -1,0 +1,38 @@
+{
+  "legajo_id": "35",
+  "id_carta": "5274",
+  "order_in_legajo": 85,
+  "signatura": "086:8120.JPG",
+  "nombre_carta": "Carta de Tomàs Abadia a Pedro Santacilia y Pax",
+  "fecha_original": "13 de febrero de 1644",
+  "lugar": "Maó",
+  "remitente": "Tomàs Abadia",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "El capità Joan Carreres, com sap v. s., té ordre d'entregar bescuit a estes galeres el que hauran menester, obligant-se el governador del lloc com ho dulare [?] v. s. esta obligació finirà si a cas Déu serà servit llevar-se’l que segons diuen té poca vida. I així, si demprés hauran menester més bescuit serà necessari nova ordre; sobre d'açò serví dit Carreres a v. s. aquí m'ha paregut avisar per la posta perquè ens causa perjui en la dilatio. Déu guardi a. a v. s. com pot. de Maó i febrer 13 de 1644 Tomàs Abadia Goveernador Transcripción literal"
+  ],
+  "literal": [
+    "1. El Capa Juan Carreras com sap VSª te orde2. de entregar bescuyt a estas galeras el que3. hauran menester obligantse el Govor del lloch4. com ho dulare VSª esta obligo finira si acars5. Deu sera servit llevarsel q segons diuen te6. poca vida Y axi si dempres hauran menester7. mes bescuyt sera mecessari nova orde; sobre de8. asso servi dit carreras a VSª a qui me9. ha aparegut avisar per la posta perq10. nos cause perjuy en la dilatio Deu gde11. a VSª. com pot de Maho y febrer12. 13 de 164413. Thomas Abadia14. Sr. Goveor [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "086:8120.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo35/086:8120.JPG",
+      "url": "/legajos/legajo-35/images/086:8120.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "086:8120.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-35/cartas/005274.json",
+  "primary_image_url": "/legajos/legajo-35/images/086:8120.JPG"
+}

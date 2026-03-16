@@ -1,0 +1,43 @@
+{
+  "legajo_id": "12",
+  "id_carta": "1523",
+  "order_in_legajo": 27,
+  "signatura": "034_6116a.JPG",
+  "nombre_carta": "Carta de Alonso de Aranjuez y Cortés a Pedro Santacilia y Pax",
+  "fecha_original": "8 de marzo de 1639",
+  "lugar": "Zaragoza",
+  "remitente": "Alonso de Aranjuez y Cortés",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "El capitán Miguel Giño me dijo la merced que v. m. [?] en razón de la elección de Gregorio Perello, de más de haber hecho tan buena elección quedo muy gustoso en saber el gusto que ha tenido v. m. de ello. Quisiera yo que hubiera en la compañía más puesto que probar para ocupar a Gregorio Perello porque ahora me corre más obligación de servirle, por ser cosa de v. m., suplicando me mande v. m. lo que fuere servido en la ciudad y donde estuviere; y guarde Dios a v. m. De Zaragoza, marzo a 8 de 1639. Don Alonso de Aranjuez y Cortes Sr. D. Pedro Santacilia Transcripción literal"
+  ],
+  "literal": [
+    "1. El Capp[it]an miguel giño me dijo la mer 2. ce que Vm ia enra conde de la helecion de3. gregorio perello de mas de aber e4. cho tanbien una helecion quedo muy gu5. toso en saber el gusto que a tenido Vm6. dello quisiera yo que hubiera en la7. conpañia mas puesto que probar para o8. cupar a gregoria perello porque ara9. me coren mas obligacion de serbirle10. por ser cosa de Vm suplicarndo me man11. de Vm lo que fuere servido en la ciu12. da y donde estubiere y gde dios a vm13. de Caragoca marco a 8 de 163914. Don Alonso de Aran15. guez y Cortes [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "034_6116a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo12/034_6116a.JPG",
+      "url": "/legajos/legajo-12/images/034_6116a.JPG"
+    },
+    {
+      "filename": "035_6116b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo12/035_6116b.JPG",
+      "url": "/legajos/legajo-12/images/035_6116b.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "034_6116a.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-12/cartas/001523.json",
+  "primary_image_url": "/legajos/legajo-12/images/034_6116a.JPG"
+}

@@ -1,0 +1,38 @@
+{
+  "legajo_id": "9",
+  "id_carta": "981",
+  "order_in_legajo": 16,
+  "signatura": "004-3",
+  "nombre_carta": "Carta de Diego Álvarez a Arnau de Santacilia",
+  "fecha_original": "10 de octubre de 1673",
+  "lugar": "Milán",
+  "remitente": "Diego Álvarez",
+  "destinatario": "Arnau de Santacilia",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Senor mío, Ayer me han entregado la orden para el señor maestre de Campo y según me han hecho v. m. a España a la leva y porque espero nos veremos en breve no tengo otra cosa que decir a v. m., cuya vida guarde Dios muchos años. Milán, a 10 de octubre 1673. Besa las manos de v. m. su mayor servidor, Diego Alvarez Señor capitán don Arnau de Santacilia. Transcripción literal"
+  ],
+  "literal": [
+    "1. Senor mío ayer mean entregado 2. Laorden Para el sr mre deCampo 3. Ysegun mean hecho Vmd. ha españa 4. a laleva Ypor que espero nosbere5. mos en breve no tengo otra cosa 6. que decír aVmd. quia Bida gude 7. Dios Muchos años Milan a 10 8. de otubre 1673 9. Bl m de Vmd. 10. Sumayor Servidor 11. Diego alvarez12. [Margen izquierdo][^Sr Capn Don arnao de Santazílía] [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "004-3.jpg",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo09/004-3.jpg",
+      "url": "/legajos/legajo-09/images/004-3.jpg"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "004-3.jpg",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-09/cartas/000981.json",
+  "primary_image_url": "/legajos/legajo-09/images/004-3.jpg"
+}

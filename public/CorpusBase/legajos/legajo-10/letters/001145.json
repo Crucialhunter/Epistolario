@@ -1,0 +1,43 @@
+{
+  "legajo_id": "10",
+  "id_carta": "1145",
+  "order_in_legajo": 13,
+  "signatura": "022-311a",
+  "nombre_carta": "Carta de Pedro Santacilia y Pax a Jerónimo Pelegrín de Aragüés",
+  "fecha_original": "18 de junio de 1668",
+  "lugar": "Andratx",
+  "remitente": "Pedro Santacilia y Pax",
+  "destinatario": "Jerónimo Pelegrín de Aragüés",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Tinc entès pels amics de la fragata han posat en Lluch Estarelles en llibertat, i que els seus mariners estan presos. Parlaràs amb el patró Joan Serra, i escriuràs-me, qui són els presos, i com estan perquè als de Madrid els pugui ajudar en el que podré. Déu te guardi. Port d'Andratx i juny 18, 1668. Don Pedro Senyor Jeroni Pelegri [1§] El patró Lluch Estarelles, el patró Tomas Fort, Juan Tremoli, Bartolomeu Ventejol, Juan Barbeta, Fransesc Castella, Angelo Cosara. Transcripción literal"
+  ],
+  "literal": [
+    "1. Tinch entes per els amichs de la fragata han posat 2. en lluch estarellas en libertat, y q sos mariners esta presos 3. parlaras en lo patro Joan Serra, y escriurasme, qui son 4. los presos, y com esta para q lo de Madrid los pugue 5. ajudar en lo q podre Deutegde Port de Andraig y 6. Juny 18 1668. 7. Don Pedro [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "022-311a.jpg",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo10/022-311a.jpg",
+      "url": "/legajos/legajo-10/images/022-311a.jpg"
+    },
+    {
+      "filename": "023-311b.jpg",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo10/023-311b.jpg",
+      "url": "/legajos/legajo-10/images/023-311b.jpg"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "022-311a.jpg",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING",
+      "message": "Se detectaron caracteres sospechosos de encoding (4)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-10/cartas/001145.json",
+  "primary_image_url": "/legajos/legajo-10/images/022-311a.jpg"
+}

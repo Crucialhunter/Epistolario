@@ -1,0 +1,43 @@
+{
+  "legajo_id": "22",
+  "id_carta": "3685",
+  "order_in_legajo": 65,
+  "signatura": "123:5054a.JPG",
+  "nombre_carta": "Carta de José de Bayetola a Pedro Santacilia y Pax",
+  "fecha_original": "16 de abril de 1639",
+  "lugar": "Zaragoza",
+  "remitente": "José de Bayetola",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Con la que he recibido de v. m. de 11 de este veo la merced que me hace v. m. y que este ya tan aprestado en su partida con que saldrá v. m. de esos cuarteles que los juzgo muy acabados con deseo de ver a v. m. siempre que llegaré a esta ciudad y con mucho gusto de tener muchas ocasiones para servirle como piden mis obligaciones las cartas se han dado todas y las respuestas van con esta como v. m. lo verá, y entretanto guarde Nro. Sr. como deseo muchos años. Zaragoza y abril a 13 de 1639. Suplico a v. m. que cuando pasare en esta ciudad permita llegue a mi, noticia para que se cumpla con alguna parte de mis obligaciones y confieso por muy propia la merced que v. m. hace a mi hijo, de que estamos todos muy reconocidos. D. Josep de Bayetola Sr. don Pedro Santacilia y Pax. [1§] Zaragoza 13 abril rdo. 1639 Don Josep de Bayetola Transcripción literal"
+  ],
+  "literal": [
+    "1. Con la que e reçebido de Vm. de 11 deste veo2. la mer[ce]d que me haçe Vm. y que este ya3. tan aprestado en su partida con que saldra4. Vm. de essos quarteles que los juzgo muy a5. cavados con deseo de ver a Vm. siempre que6. llegare aesta Çiudad y con mucho gusto7. de tener muchas occasiones para servirle8. como piden mis obligaçiones= las cartas9. sean dado todas y las respuestas van con10. esta como Vm. lo vera y entretanto gde.11. nro. Sr. como deseo muchos años12. Carag[oz]a y Abril a 13 de 163913. Sup[li]co a v.m. q[ue] quando pasare enesta14. Ciudad permita llegue a mi noticia15. para q[ue] se cumpla con alguna parte16. de mis oblig[acion]es y confiesso por muy17. propia la merced q[ue] V.m. haçe a mi ijo?? 18. de q[ue] estamos todos muy reconocidos19. D. Josef de Bayetolas??20. Sr. Don Pº Sta.çilia y Pax. [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "123:5054a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo22/123:5054a.JPG",
+      "url": "/legajos/legajo-22/images/123:5054a.JPG"
+    },
+    {
+      "filename": "124:5054b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo22/124:5054b.JPG",
+      "url": "/legajos/legajo-22/images/124:5054b.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "123:5054a.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-22/cartas/003685.json",
+  "primary_image_url": "/legajos/legajo-22/images/123:5054a.JPG"
+}

@@ -1,0 +1,38 @@
+{
+  "legajo_id": "16",
+  "id_carta": "2658",
+  "order_in_legajo": 145,
+  "signatura": "229:2158.JPG",
+  "nombre_carta": "Carta de Gerónimo García a Pedro Santacilia y Pax",
+  "fecha_original": "30 de octubre de 1667",
+  "lugar": "Ibiza",
+  "remitente": "Gerónimo García",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "56 25 81 Señor mío habiendo hecho escala en un puerto de esta isla un bergantín de esa ciudad logro la ocasión de responder a la de v. s. de 21 de este que Recibo con mucho gusto, y estimación por la merced que en ella me hace v. s. y le doy aviso de haber recibido las inclusas que la acompañavan, que días hace las esperaba por contenerse en ellas algunas respuesta de su majestad por guerra sobre las Asistencias de este islas, y real fuerza. Viva v. s. delatados años por la merced que me hace y aprecio las novedades que me participa, y Suplico a v. s. no me tenga ocioso en repetidos empleos de su servicio que deseo te nerles muy frecuentes. Dios guarde a v. s. muchos años como puede, y deseo. Ibiza 30 de octubre de 1667. Besa las manos de v. s. Su mayor servidor Sr. don Jeronimo Garcia Señor don Pedro Santacilia y Pax [1§] Transcripción literal"
+  ],
+  "literal": [
+    "1. [Margen izquierdo][^ 56]2. 253. 814. Sr mio haviendo hecho escala en un puerto 5. desta Isla un vergantin de essa Ciudad logro 6. la ocasion de responder a la de VS. de 21. 7. deste que Recibo con mucho gusto, y estimacion 8. por la merçed que en ella me haze VS. y 9. le doy aviso de haver reçibido las Inclu-10. sas que la acompañavan, que dias haze las 11. esperava por contenerse en ellas algunas respues-12. ta de su Magd por Guerra sobre las Assis-13. tencias deste Islas, y Rl fuerza. 14. Viva VS. delatados años por la merçed que 15. me haze y aprecio las novedades que me 16. participa, y Sup[li]co a VS. no me tenga oçioso 17. en repetidos enpleos de su servo que desseo te18. nerles muy frequentes. Dios gde a VS. ms 19. a<ño>s como puede, y desseo. Ibiza 30 de 8bre de 20. 1667 21. B[] l[] M[] de Vs. 22. Sumaior serbidor 23. Don geronimo Garzia24. [Margen izquierdo][^Sr D Po Stasilia y Pax] [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "229:2158.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo16/229:2158.JPG",
+      "url": "/legajos/legajo-16/images/229:2158.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "229:2158.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (2)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-16/cartas/002658.json",
+  "primary_image_url": "/legajos/legajo-16/images/229:2158.JPG"
+}

@@ -1,0 +1,43 @@
+{
+  "legajo_id": "31",
+  "id_carta": "6943",
+  "order_in_legajo": 182,
+  "signatura": "268:1694a.JPG",
+  "nombre_carta": "Carta de Sebastià Mesquida a Pedro Santacilia y Pax",
+  "fecha_original": "24 de septiembre de 1663",
+  "lugar": "Manacor",
+  "remitente": "Sebastià Mesquida",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Illstríssimo Senyor Vui que com [?] als 23 del corrent m'ha vingut jua caselles dient o fent ma istància que barbara Jaume V. acuia maltractada li muller la qual es filla de dita V. i després ma vingué dita V. dient ma que Anant on la casa li surti el dit joa Caselles i que la maltracta de paraules [?] que li perde el respecte només sinó en donar-li una sempeta i després i {ESP. medi} de bones persones li son fets amics de tot el qual Sr. don avís Avosa senyoria la persona del qual Déu guardi molts Anis Restant prompte Data en manacor als 24 setembre 1663 Sabastia masquide batle real [1§] Al ilmo don Pedro de Santa [?] i Pax cavaller de l'hàbit de Calatrava llt. i capità general del present Regna Transcripción literal"
+  ],
+  "literal": [
+    "1. Illstrissimo Señor 2. Vui que con [?] als 23 del corrent me a vingut juá casellas dient 3. o fent ma istancia que barbara jaume Vª. acuia maltractada le muller 4. la qual es filla de dita Vª. y denpres ma vingue dita Vª. dient ma 5. que Anant on le casa li surti lo dit joá Casellas i que la maltracta de 6. paraules [?] que li perde el respecta nomes sino en donarli una sempe7. ta i despres y medi de bones persones le son fets amichs de tot lo 8. qual don avis Avosa senoria la persona del qual Deu guarde molts 9. Anis Restant prompta Data en manacor als 24 7bre 1663 10. Sabastia masquide Balle Real [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "268:1694a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo31/268:1694a.JPG",
+      "url": "/legajos/legajo-31/images/268:1694a.JPG"
+    },
+    {
+      "filename": "269:1694b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo31/269:1694b.JPG",
+      "url": "/legajos/legajo-31/images/269:1694b.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "268:1694a.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (2)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-31/cartas/006943.json",
+  "primary_image_url": "/legajos/legajo-31/images/268:1694a.JPG"
+}

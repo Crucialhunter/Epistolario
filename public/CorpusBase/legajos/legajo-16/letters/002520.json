@@ -1,0 +1,43 @@
+{
+  "legajo_id": "16",
+  "id_carta": "2520",
+  "order_in_legajo": 9,
+  "signatura": "007:2020a.JPG",
+  "nombre_carta": "Carta de Basilio de Castellví y Ponce a Pedro Santacilia y Pax",
+  "fecha_original": "19 de enero de 1667",
+  "lugar": "Valencia",
+  "remitente": "Basilio de Castellví y Ponce",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Señor mío, en cuantas ocasiones se ofrecieren ha de solicitar mi afecto las buenas nuevas que deseo de su salud de v. s. que son las de mi mayor estimación, suplico a v. s. me participe estas noticias acompañadas de muchos empleos del servicio de v. s. en cuya [?] pueda librar el desempeño de mi obligación en esta casa de v. s. quedamos buenos Dña. Laura Giuseppe y yo y todos besamos a v. s. las manos con las de mi Sra. Dña. Leonor y el Sr. don Juan. Estos días ha sido Dios servido de llevarse para si al marques de Leganes, cuyo suceso nos ha dejado con el sentimiento que corresponde a semejante pérdida. Así por las muchas prendas que concurrían en su excelencia como por los aciertos que tuvo en su gobierno este queda hoy en poder del marques de Morata, su hijo, nuevo marques de Leganes por haberle hecho merced su majestad de la reina Nra. Sra. del ínterin de estos cargos. Yo fui consultado para él por el Consejo de Aragón y firmados [1§] Mis despachos por todos los ministros uniformemente y estando la reina Nra. Sra. con la pluma en la mano para firmar los pudieron tanto el valimiento del conde de Castríllo a instancías de mi Sra. la marquesa de Leganes la mayor y demás parientes del marqués que hallaron disposición en la real clemencia de S. M. para que mudase la resolución supliendo la edad al marqués (que aún no tiene dieciocho años cumplidos) de que he quedado yo muy contento porque es famoso caballero y de su gran capacidad. Nos podemos prometer se continúe la paz y quietud de que hoy goza este reino. Yo por mi parte le asistiré en cuanto pudiere deseándole muy felices aciertos. El marques de Astorga se va ya despidiendo para ejecutar su jornada que la hace por tierra hasta Marsella remito a v. s. los pliegos inclusos, quedando con deseos de que Dios me guarde a v. s. largos años. Valencia y enero a 19 de 1667. Beso a v. s. las manos su mayor servidor, Don Basilio de Castellvi y Ponce Sr. don Pedro Santacilia y Pax Transcripción literal"
+  ],
+  "literal": [
+    "1. Señor mío; enquantas ocaçíones seofreçíeren ha desolíçí=2. tar mí afecto las buenas nuevas que deseo de su salud 3. de VS. que son las de mí Mayor estimaçíon, suplíco 4. â V.S. Meparticípe estas Noticías acompañadas de 5. Muchos empleos del servíçío de VS. en cuyaexon 6. pueda líbrar el desempeño de mí obligaçíon enesta 7. casa de V.S. quedamos buenos Da Laura Jusepe 8. y yo y todos besamos â VS. las manos con las 9. de mísra Da Leonor y el sr Don Juan = 10. Estos días hasído díos servído de llevarse para 11. sí al sr Marques de leganes, cuyo suceso nos 12. ha dejado conel sentímíento que corresponde â se=13. mejante perdída assí por las muchas prendas quecon=14. currían en su exa como por los açíertos que tuvo 15. en su govíerno este queda oy en poder del sr Mar16. qs de Morata su hijo nuevo Marqs de leganes 17. por haverle hecho Merçed su Magd dela Reyna 18. Nra Sra del ínterín de estos cargos. yo fuy consulta19. do para el por el consso de aragon y fírmados [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "007:2020a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo16/007:2020a.JPG",
+      "url": "/legajos/legajo-16/images/007:2020a.JPG"
+    },
+    {
+      "filename": "008:2020b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo16/008:2020b.JPG",
+      "url": "/legajos/legajo-16/images/008:2020b.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "007:2020a.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-16/cartas/002520.json",
+  "primary_image_url": "/legajos/legajo-16/images/007:2020a.JPG"
+}

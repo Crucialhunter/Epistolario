@@ -1,0 +1,43 @@
+{
+  "legajo_id": "19",
+  "id_carta": "7685",
+  "order_in_legajo": 6,
+  "signatura": "368_7892a.JPG",
+  "nombre_carta": "Carta de Joan Maltès a Pedro Santacilia y Pax",
+  "fecha_original": "fecha sin especificar",
+  "lugar": "Mallorca",
+  "remitente": "Joan Maltès",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Sr. don Pedro, Nostre Sr. li doni a v. m. molt bon acabament de festes, aquestes i moltes altres, i molt bon sempre, i el vulla guardar de traïdors i males companyies. Ja sap v. m. com estic en lo llit de la dolor, que no em puc valer ni sustentar, que del torment que passo no puc sufrir los pecats en les cames. Jo d'anar en galera ja n'estic aconhortat puix no hi ha hagut remei per a mi. Suplico a v. m. me faci mercè de mirar en que no m'embarqués, per estar de la manera que estic conforme sap tothom. Això té de fer lo fiscal per que no m'embarquen. Me tenen de portar a braços, i en ser allí seré mort perquè enles cames no i tinc sinó son els ossos. Jo patesc de fam i misèria lo que Déu del cel sap, que no tinc socors ni ajuda de persona d'aquest món, que encara no he pres pa de rei [?]. Suplico a v. m. me faci mercè d'afavorir-me amb alguna caritat del que sia gust de v. m. i fer-me mercè de donar-ho al donador de la present, o enviar-me per qui v. m. sia servit, perquè estic mig preterit [?] de la fam i misèria que passo. I confiat del favor i caritat de v. m., Déu guardi a v. m. De la presó, avui diumenge i també se pot informar amb lo barber de la manera que estic. Criat de v. m. Joan Maltes. Al Sr. don Pedro Santacilia. Gde. Ntr. Sr.. En casa don Diego de Pau, al carrer de la Mercè. Transcripción literal"
+  ],
+  "literal": [
+    "1. Sr. Don Pedro nostre Sr. li done @ v. m. molt bon 2. acabament de festes aquestas y moltas altres y molt bon 3. senpre il vulla guardar de traydors y males conpanyes 4. ja sab v. m. com estich enlo llit de la dolor que nom puch 5. valer ni sustentar que del torment que passo no puch 6. sufrir los pecats enles cames jo de anar en galera jan 7. estich aconortat puix noi hagut remey para mi supplico 8. @ v. m. me fasa merce de mirar en que no men barque 9. per estar de la manera questich conforme sab totom axo te 10. de fer lo fiscal perque nomen barquen me tenen de 11. portar abrasos y enser alli sere mort perque enles cames 12. noi tinch sino son los osos, jo patesch de fam y miseria 13. lo que Deu del cel sab que no tinch socor ni ajuda de 14. persona de aquest mon que encara no he pres [?] 15. supplico @ v. m. me fasa merce de afavorirne ab 16. alguna caritat del quesia gust de v. m. y ferme merce 17. de donarho al donador de la pnt, o, enviarme 18. per qui v. m. sia servit per que estich mig [?] 19. dela fam y miseria que passo y confiat del favor 20. y caritat de v. m. [?] @ v. m. ge. dela 21. preso vuy diumenge y tambe se pot enfermar 22. ablo barber dela manera q estich23. Criat de v. m. Joan Maltas [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "368_7892a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo19/368_7892a.JPG",
+      "url": "/legajos/legajo-19/images/368_7892a.JPG"
+    },
+    {
+      "filename": "369_7892b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo19/369_7892b.JPG",
+      "url": "/legajos/legajo-19/images/369_7892b.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "368_7892a.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-19/cartas/007685.json",
+  "primary_image_url": "/legajos/legajo-19/images/368_7892a.JPG"
+}

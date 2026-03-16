@@ -1,0 +1,38 @@
+{
+  "legajo_id": "10",
+  "id_carta": "1194",
+  "order_in_legajo": 63,
+  "signatura": "112-361",
+  "nombre_carta": "Carta de Basilio de Castellví y Ponce a Jerónimo Pelegrín de Aragüés",
+  "fecha_original": "14 de septiembre de 1668",
+  "lugar": "Valencia",
+  "remitente": "Basilio de Castellví y Ponce",
+  "destinatario": "Jerónimo Pelegrín de Aragüés",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "He recibido su carta de v. m. de 28 del pasado y me deja muy gustoso saber queda v. m. con buena salud: holgáreme se continúe con mucha felicidad. Yo quedo bueno, al servicio de v. m. y con mucho deseo de que se ofrezcan ocasiones en que v. m. experimente mi voluntad. En esta ocasión remito a mi señora dña. Leonor los pliegos que han venido del señor don Pedro y no dudo el susto con que su señoría estará de la falta de salud del señor don Juan, que llegó a estar de cuidado, pero queda ya muy mejorado, a Dios gracias, y trataban los médicos de purgarle, como lo verá v. m. por los pliegos con que van ahora, con que saldrá mi señora dña. Leonor del cuidado en que le habrá tenido la falta de cartas habiendo llegado ahí Jeronimo Castany sin ellas, y más cuando las ha habido para otros. No se me ofrece otra cosa que decir a v. m., a quien guarde Dios muchos años. Valencia y septiembre, a 14 de 1668. Su amigo de v. m.Don Basilio de Castellvi y Ponce Señor Jeronimo Pelegrin de Aragues Transcripción literal"
+  ],
+  "literal": [
+    "1. He recivido su carta de V.M. de 28 del pasado 2. y me deja muy gustoso saber queda V.M. con buena sa 3. lud holgareme se continue con mucha felicidad. Yo 4. quedo bueno al servicio de V.M. y con mucho deseo 5. de que se ofrescan ocasiones en que V.M. experimente 6. mi voluntad. 7. En esta ocacion remito a mi Sra. Dª Leonor los pliegos 8. que han venido del Sr. Don pedro y no dudo el 9. susto con que su sria estara de la falta de salud del 10. Sr. Don Juan que llego a estar de cuydado pero queda 11. ya muy mejorado a Dios gracias, y tratavan los 12. medicos de purgarle como lo vera V.M. por los plie 13. gos con que van aora con que saldra mi Sra. Dª. Leonor 14. del cuydado en que le habra tenido la falta de 15. cartas haviendo llehado ay Gmo Castany sin ellas 16. y mas cuando las a havido para otros. No se me ofre 17. ce otra cosa que decir a V.M. a quien gde Dios ms 18. an< ño>s. Vala y sette a 14 de 1668. 19. Su amigo de V.Mo 20. [^??Balisilio de Castelar Ponce??^]21. [^Sr. Gmo Pelegrin de Aragues^] [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "112-361.jpg",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo10/112-361.jpg",
+      "url": "/legajos/legajo-10/images/112-361.jpg"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "112-361.jpg",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING",
+      "message": "Se detectaron caracteres sospechosos de encoding (5)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-10/cartas/001194.json",
+  "primary_image_url": "/legajos/legajo-10/images/112-361.jpg"
+}

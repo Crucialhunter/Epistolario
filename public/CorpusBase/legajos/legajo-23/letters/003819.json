@@ -1,0 +1,43 @@
+{
+  "legajo_id": "23",
+  "id_carta": "3819",
+  "order_in_legajo": 74,
+  "signatura": "151:3231a.JPG",
+  "nombre_carta": "Carta de Catalina Fernández de Córdoba y Figueroa a Pedro Santacilia y Pax",
+  "fecha_original": "27 de febrero de 1639",
+  "lugar": "Arbeca",
+  "remitente": "Catalina Fernández de Córdoba y Figueroa",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Por la última carta de v.m. de 1º de este veo como quedaba con salud, de que me huelgo, por lo que se la deseo. Y estimaré que lo de la leva de los dragones se efectúe porque esta causa traigan por acá, pero no querría que fuese contra su voluntad de v.m., sino que todas las ocupaciones de su empleo fuesen de su gusto y comodidad. Al duque, mi señor, he tenido nuevamente muy apretado de la gota, causándome el cuidado que se deja entender que con tanta frecuencia le combata este accidente. Queda ya más aliviado y como quiera que estuviéremos los de esta casa para servir a v.m., que guarde Dios como puede. Arbeca, 27 de febrero 1639. La duquesa de Segorbe y de Cardona Señor don Pedro de Santacilia [1§] Arbeca, 27 febrero 1639. Mi señora la duquesa de Segorbe. Recibido. Transcripción literal"
+  ],
+  "literal": [
+    "1. Por la Ultima Carta de Vm. de 1º deste veo como quedava2. con salud de que me huelgo. por lo que se la Desseo, Y estimare 3. q lo de la leva de los Dragones se efectue porque esta Causa le traygan4. por aca, pero no querria q fuesse contra su voluntad de Vm. sino que5. todas las ocupaciones de su empleo fuesen de su gusto y comodidad,6. Al Duque mi Sor. he tenido nuevamte muy apretado de la gota. causando7. me el cuydado que se dexa entender que con tanta frequençia le comba8. ta este acçidente queda ya mas aliviado y como quiera que estuvie 9. remos los de esta Casa para servir a Vm. que Gude Dios como puede10. Arbeca 27 de febro 1639.11. La duqsa de sege12. y de Cardona13. Sor. D. Po de Sta. Çilia [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "151:3231a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo23/151:3231a.JPG",
+      "url": "/legajos/legajo-23/images/151:3231a.JPG"
+    },
+    {
+      "filename": "152:3231b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo23/152:3231b.JPG",
+      "url": "/legajos/legajo-23/images/152:3231b.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "151:3231a.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (2)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-23/cartas/003819.json",
+  "primary_image_url": "/legajos/legajo-23/images/151:3231a.JPG"
+}

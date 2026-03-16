@@ -1,0 +1,38 @@
+{
+  "legajo_id": "19",
+  "id_carta": "7821",
+  "order_in_legajo": 127,
+  "signatura": "565_8019.JPG",
+  "nombre_carta": "Carta de GÂº Godoy Carbajal a Pedro Santacilia y Pax",
+  "fecha_original": "fecha sin especificar",
+  "lugar": "lugar sin especificar",
+  "remitente": "GÂº Godoy Carbajal",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Amigo y sor mío muy cierto estoy de la merced que v. m. me tiene prometida de acomodarme por su mano para que yo pase a Vinarós embarcado y mis caballos y mulas v. m. me avise que orden tengo de tener que me importa el partirme a Madrid con toda prisa y todo lo hace v. m. como dueño y sor de todo y así le supco me haga merced de la brevedad a [?] y concertar lo que no meresio re [?] na la. Guarde Dios a vm mill años fª has [?] Sr. don Rº de godoycarbajalen altra páginaA Sr. D. Pedro Santacilia g [?] Dios caballero del abito de Calatrava y gobernador general de los aragones de la caballería D. España Transcripción literal"
+  ],
+  "literal": [
+    "1. Amigo y sor mio muy cierto 2. estoy de la md q VM me 3. tiene prometida de aco4. modarme por su mano pa5. ra q yo pase a binaros 6. enbarcado y mis caba7. llos y mulas vm me abi8. se q orden tengo de te9. ner q me inporta el par10. tirme a madrid con to11. da priesa y todo lo ace 12. vm como dueño y sor de 13. todo y asi le supco me aga 14. md de la brevedad a [?] 15. y concertar lo q no meresio 16. re [?] na la gde dios a vm 17. mill años ffª has [?] 18. Don Rº de godoy19. carbajal20. [en altra pàgina]21. A D. Pº Santacilia g ??22. Dios Cavallero del abito 23. de Calatrava y governador 24. General de los aragones de 25. la cavalleria despaña [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "565_8019.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo19/565_8019.JPG",
+      "url": "/legajos/legajo-19/images/565_8019.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "565_8019.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (7)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-19/cartas/007821.json",
+  "primary_image_url": "/legajos/legajo-19/images/565_8019.JPG"
+}

@@ -1,0 +1,38 @@
+{
+  "legajo_id": "14",
+  "id_carta": "2060",
+  "order_in_legajo": 161,
+  "signatura": "259:2571.JPG",
+  "nombre_carta": "Carta de Carlos Velázquez a Pedro Santacilia y Pax",
+  "fecha_original": "1 de marzo de 1662",
+  "lugar": "Palermo",
+  "remitente": "Carlos Velázquez",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Com v. m. sia patric a les matèries m'ha paregut que sense son consell no puc anar {ESP. acertat} i així li dóna avís de mos intents i és que per aquí m'han aconsellat que sia capità d'infanteria i d'esta manera essent-ho ma {ESP. hacienda} poca que no ve esser més d'una part 11 lliures [?] i d'altre part 62 lliures [?] Tot el que tinc en Palerm és cosa poca perquè ma tia la monja no fa cas de mi com si jo no fos son nebot i vist jo que v. m. em pot ajudar moltíssim fins arribar a {ESP. alcançar} mon desig si vol persuadir a mon oncle també per a ajudar-me [?] i d'eixa manera jo seré per aquí estimat perquè en Palerm els capitans d'infanteria són molt estimats i per ço suplica humilment me vulgui velar que com me considero sense pare ni mare tinc a sa mercè per pare i ma tia Leonor per mare, als quals dona Déu Nostre Sr. el que desitgen i els vulgui donar molts anys de vida i salut i essent per més besa a sa mercè les mans, de Palerm i març el primer 1662. Don Carlos Velazquez Mi Sr. D. Pedro de Santacilia Transcripción literal"
+  ],
+  "literal": [
+    "1. Com Vm sia patrich a las materias me ha aparagut2. que sens son consell no puch enar asertat y axi li3. dona avis de mos intents y es que per assi me4. han aconsellat que sia capita de infenteria y5. desta manera essent ho ma assenda poca6. que no ve esser mes de una part 11 lliures??7. y de altre part 62 lliures?? Tot lo que tinch8. en Palerm es cosa poca perque me tia la9. monge no fa cas de mi con si io no fos10. son nebot i vist io que V.m. em pot ayudar11. moltissim fins arribar alcansar mon desig12. si vol persuadir á mon onclo tanbe pora13. ajudar ma?? y dexa manera io sare14. per assi estimat perque en Pale[r]m los15. capitans de infenteria son molt estimats16. y per ço supplica humilment me vulla17. velar que com me considero sens pare ni18. mare tinch á su merse per para y 19. me tia Eleonor per mara a los quals dona20. deu nostro Sr. lo que desitgen y els vulla21. donar molts anys de vida y salut y22. essent per mes besa a su merse las mans23. de Palerm y Mars, el primer 166224. Don Carles Velasques25. Mi Sr. D. Pedro de26. Sta cilia [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "259:2571.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo14/259:2571.JPG",
+      "url": "/legajos/legajo-14/images/259:2571.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "259:2571.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-14/cartas/002060.json",
+  "primary_image_url": "/legajos/legajo-14/images/259:2571.JPG"
+}

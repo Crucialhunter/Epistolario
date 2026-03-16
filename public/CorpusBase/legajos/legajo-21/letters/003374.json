@@ -1,0 +1,38 @@
+{
+  "legajo_id": "21",
+  "id_carta": "3374",
+  "order_in_legajo": 66,
+  "signatura": "097:5663.JPG",
+  "nombre_carta": "Carta de Gregori Perelló a Pedro Santacilia y Pax",
+  "fecha_original": "20 de marzo de 1632",
+  "lugar": "Barcelona",
+  "remitente": "Gregori Perelló",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Sr. don Pedro Santacilia, mi Sr. Ahir arribà el Sr. don Antoni Gual i Martin passen en casa de na Margalida [?] s'és pesentat davant mi sa laduqesa en el gent a manat a castalo que la santes 8 reials de ració a quenas canyes [?] m'ha donades don Domingo cosia de la carta de mi Sra. la duquessa per a Bernat Ferrer. No tenim res una galera ja de partida per a Génova jo miraré don Josep té terer si és bona ocasió per a en viandes en Molines m'ha dit que és molt bona ocasió jo me n'asseguraré molt bé entès de donar-les que cagan ben segures per a si no tenim res donau d'aquell nisgut [?] a v. m. sinó el general [?] se noracom un bèstia dies que si v. m. no ve perest se'n torna a Madrid per la posta vingui parest sbvol trobarà en aquesta terra dona marades calar esta desganada de feberas en la sagnada anit a passada molt mala nit que va mal cristo ens guardi, de Barcelona a de 20 de març de 1632. Gregori Perello [?] Transcripción literal"
+  ],
+  "literal": [
+    "1. [Margen izquierdo][^ don pedero satsilia mi sr]2. Sr air ariba lo sr don antoni gual 3. i martin posan pucasa[?] de na margalira 4. vici ses pesentat devant mi sa laduqesa 5. en lo gent a manat a castalo quela 6. santas 8 reials de rasio a quenas canyas[?] 7. mea donadas don domingo cosia de la carta 8. de mi sra la duquesa pera bernat ferer no 9. tenim res una galera jade pertida 10. pera genova jo mi rare don josepe 11. terer siesbona aucasio pera en viandas 12. en molinas mea dic ques molt bona 13. aucasio jo mena sagurare molt be en 14. tes de donarles de que cagan ben saguras 15. pera si notenim res donau dequell nisgut[?]16. a vm. sino lo Gral [?] se noracom 17. un bestia dies que si vm no ve perest 18. sen torna a maderid per la posta vin19. ga parest sbvol troberar en aquesta 20. tera dona marades calar esta desganada 21. de feberas an la sangada anit a pasada 22. molt mala nit que va mal cristo nos guarda de Barselona 23. a de 20 de mars de 1632 24. Gergori[?] perallo 25. [Ilegible] [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "097:5663.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo21/097:5663.JPG",
+      "url": "/legajos/legajo-21/images/097:5663.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "097:5663.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-21/cartas/003374.json",
+  "primary_image_url": "/legajos/legajo-21/images/097:5663.JPG"
+}

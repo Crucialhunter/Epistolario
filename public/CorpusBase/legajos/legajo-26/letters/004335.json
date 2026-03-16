@@ -1,0 +1,45 @@
+{
+  "legajo_id": "26",
+  "id_carta": "4335",
+  "order_in_legajo": 71,
+  "signatura": "101:3429.JPG",
+  "nombre_carta": "Carta de Dionisio de Aybar a Pedro Santacilia y Pax",
+  "fecha_original": "11 de diciembre de 1639",
+  "lugar": "Zaragoza",
+  "remitente": "Dionisio de Aybar",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Ayer sábado llegué a Zaragoza y luego envié a buscar a Paracuellos para que antes de irse los arrieros enviase el capote y lo demás que v. m. manda. Así lo ha hecho y también remite las cartas que hay para v. m. No he salido de la posada si no es a la Virgen del Pilar a oír misa, pero en la posada que estoy está también el maese de campo del castillo de Jaca, pidiendo licencia y tampoco el de Nocera se la Dña. Preguntando de nuevas dice que las que tiene el duque más frescas de ayer son el morir mucha gente y que de nuestra parte no se ha hecho diligencia ninguna fiados en las estratagemas de echar niños y impedidos por las murallas y otras demostraciones de dar a entender que no se podían sustentar y solo dice que era con fin de que no se hiciesen minas. Tienen por cierto que no se ganará la plaza. Yo no puedo decir para qué días se bien quisiera no ser desgraciado en que v. m. desamparase nuestro lugar a Dios mi al padre capellán beso las manos. Zaragoza y diciembre a 11 de 1639. Don Dionisio de Aybar Sr. don Pedro Santacilia Transcripción literal"
+  ],
+  "literal": [
+    "1. Ayer sabado llegue a Zaragoza y luego enbie2. a buscar a Paracuellos para que antes de yr3. se los arrieros enbiasse el capote y lo demas4. que Vm manda assi lo ha hecho y tan5. bien remite las cartas q ay para Vm=6. No he salido de la possada sino es a la birgen7. del pilar a oyr missa pero en la possada q estoy8. esta tanbien el maese de canpo del castillo de9. Xaca pidiendo licencia y tanpoco el de Nochera10. se la da Preguntando de nuebas dize q las que11. tiene el duque mas frescas de ayer son el mo12. rir mucha gente y que de nuestra parte no se ha13. hecho diligencia ninguna fiados en las estra14. jaemas de echar niños y ynpedidos por las15. murallas y otras demostraciones de dar a enten16. der que no se podien sustentar Y solo dize17. que era con fin de que no se hiziesen minas18. tienen por zierto que no se ganara la plaza Yo19. no puedo dezir para q dias se bien quisiera20. no ser desgraciado en q Vm desanparase21. Nuestro Lug a Dios mi Sr. al padre cape(ll)22. llan beso las manos Çaragoza y deze.23. a 11 de 163924. Don Dionisio de Aybar25. Sr. Don Pe. Santazilia [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "101:3429.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo26/101:3429.JPG",
+      "url": "/legajos/legajo-26/images/101:3429.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "101:3429.JPG",
+  "warnings": [
+    {
+      "code": "IMAGE_DOWNLOAD_FAIL",
+      "message": "HTTP 404",
+      "context": {
+        "url": "http://santacilia.info/intranet2/img/Legajo26/101:3429.JPG"
+      }
+    },
+    {
+      "code": "IMAGE_COUNT_MISMATCH",
+      "message": "Imágenes detectadas (1) != descargadas (0)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-26/cartas/004335.json",
+  "primary_image_url": "/legajos/legajo-26/images/101:3429.JPG"
+}

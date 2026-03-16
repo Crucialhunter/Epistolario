@@ -1,0 +1,43 @@
+{
+  "legajo_id": "7",
+  "id_carta": "781",
+  "order_in_legajo": 18,
+  "signatura": "22-12a copy",
+  "nombre_carta": "Carta de Jerónimo Pelegrín de Aragüés a Diego Matías de Aragüés",
+  "fecha_original": "15 de noviembre de 1668",
+  "lugar": "Lugar sin especificar",
+  "remitente": "Jerónimo Pelegrín de Aragüés",
+  "destinatario": "Diego Matías de Aragüés",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Tío y señor mío, hoy nos hallamos a 15. Novedades ningunas en esta tierra. Sírvase vuestra merced decir a mi señor don Pedro que el conde de Ayamans [ha] comulgado. Don Ramón Gual de [?], lo mismo. Don Francisco Sureda de Santmarti, apretado de apilación y otros achaques. Del despacho que vino de su majestad para alivio de los pobres corsarios no hay nada hasta hoy. Es mera dilación porque no ha venido bien despachado. Con toda prudencia se hace la solicitación. El señor Armella, cuando tenga gusto, lo mandará como le pareciere, que aseguro a vuestra merced está en su mano todo. El mar está cerrado. El señor duque de San Germain, en Mahón con 11 galeras hasta el día de hoy, que envía a pedir. Algunas niñerías con un bergantín. Los tiempos muy recios, pues los navíos no se atreven a pasar. Los pobres aislados careciendo de cartas, pues no las tenemos desde 18 del pasado. Dios, por su bendita misericordia, me las traiga, y guarde a vuestra merced muchos años, como deseo y he [de] menester. De esta su casa, 15 de noviembre 1668. Su sobrino de vuestra merced que sus manos besa, Jeronimo Pelegrin de Aragues. Señor tío, Diego Matias de Aragues. [1§] Jeronimo Pelegrin Transcripción literal"
+  ],
+  "literal": [
+    "1. Tio y Sr. mio oy nos hallamos a 15. novedades ningunas. 2. en esta tierra. sirvasse. V.M. dicir. a mi sr. don Po que el 3. conde de Ayamans comulgado, Don Ramon Gual de [?]. 4. lo mismo: Don franco sureda de St. Martí. apretado de 5. opilacion y otros achaques. = 6. Del despacho que vino de su Majd para Alibio de los pobres 7. cosarios no hay nada asta oy es mera dilaçion porque 8. no ha venido vien despachado; con toda prudencía se 9. haçe la sulitaçion. el Sr. Armella quando tenga 10. gusto lo mandara como le pareciere, que asiguro 11. a V.M. esta en su mano todo. 12. el mar esta cerrado el Sr. Duque de San Jerman en Mahon 13. con. 11. galeras asta el dia de oy. que Jnvia a pedir. 14. algunas ninerías. con un bergantin. Los tiempos muy 15. recios pues los navios no seatreven a passar: los pobres 16. Islados careciendo de cartas pues no las tenemos des- 17. de 18. del passado, Dios por su vendita misericordia 18. me las traiga. Y Gde a Vm ms a< ño>s Como deseo y he 19. menester desta su cassa 15. de noviembre 1668 20. Su subrino de VM. q s m B 21. Geronymo Pelegrin de Aragues 22. Sr. Tío Diego Mathias de Aragues. [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "22-12a copy.gif",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo07/22-12a copy.gif",
+      "url": "/legajos/legajo-07/images/22-12a copy.gif"
+    },
+    {
+      "filename": "23-12b copy.gif",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo07/23-12b copy.gif",
+      "url": "/legajos/legajo-07/images/23-12b copy.gif"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "22-12a copy.gif",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (7)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-07/cartas/000781.json",
+  "primary_image_url": "/legajos/legajo-07/images/22-12a copy.gif"
+}

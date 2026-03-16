@@ -1,0 +1,38 @@
+{
+  "legajo_id": "39",
+  "id_carta": "5617",
+  "order_in_legajo": 17,
+  "signatura": "26:8277.JPG",
+  "nombre_carta": "Carta de Miquel Lluís Ballester Togores a Pedro Santacilia y Pax",
+  "fecha_original": "22 de enero de 1633",
+  "lugar": "Madrid",
+  "remitente": "Miquel Lluís Ballester Togores",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Juan Lopes me digué que Sr. D. Pedro Pacheco havia ja fet el negoci avui jo solissitare que l'enviï a Barcelona el rei se parteix avui pel pardo so estat a {ESP. palacio} i tots aquells cavallers m'han demanat de v. m. que des que v. m. ses partit no els havia vists no deix v. m. de manar-me moltes coses de son servei que acudiré al grandíssim gust i sinó li es fastidi escriurem de son camí sols al altra carta en què escric llarg a v. m. confio tindré resposta de demà a 8 dies de Bercelona enviades dues cartes l'inquisidor Cotoner i m'ha dit les i tornàs envi ar crec que haurà judicat que per Bercelone seran primer a Mallorca ge. Déu a v. m. molts anys de Madrid a 22 de gener 1633 Miquel Luis Ballester Togores Sr. D. Pedro Santacilia [1§] Transcripción literal"
+  ],
+  "literal": [
+    "1. Juan Lopes me digue que D.2. Pedro Pacheco avia ja fet lo3. negossi vuy jo solissitare que4. lo enviy a barcelone lo rey se5. partax vuy per el pardo so estat6. a palacio y tots aquels cavalers me7. han demanat de v.m. que desde8. que v.m. ses partit nols avia vists9. no dex v.m. de manarme moltas10. cosses de son servey que11. acudire al grandissim gust12. y sino li es fastidi escriure[m]13. de son cami sols al altre carta14. en que escrich llarch a v.m. co[n]15. fio tindre resposta de dema a 16. 8 dies de Bercelona anviades17. dos cartas lo inquisidor Cotoner18. y me ha dit las hi tornas envi19. ar crech que aura judicat20. que per Bercelone seran primer21. a Mallorca ge. Deu a V.m. mols22. añys de Madrid a 22 de gener 163323. Miquel Luis Ballester 24. Togores25. Sor. D. Pedro Sta.Cilia [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "26:8277.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo39/26:8277.JPG",
+      "url": "/legajos/legajo-39/images/26:8277.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "26:8277.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-39/cartas/005617.json",
+  "primary_image_url": "/legajos/legajo-39/images/26:8277.JPG"
+}

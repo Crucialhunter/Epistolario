@@ -1,0 +1,38 @@
+{
+  "legajo_id": "29",
+  "id_carta": "6401",
+  "order_in_legajo": 90,
+  "signatura": "158:4219.JPG",
+  "nombre_carta": "Carta de Augustí Cortés a Pedro Santacilia y Pax",
+  "fecha_original": "de 1651",
+  "lugar": "Lugar sin especificar",
+  "remitente": "Augustí Cortés",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "[1§] Augusti Cortes Transcripción literal"
+  ],
+  "literal": [
+    "1."
+  ],
+  "imagenes": [
+    {
+      "filename": "158:4219.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo29/158:4219.JPG",
+      "url": "/legajos/legajo-29/images/158:4219.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "158:4219.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (2)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-29/cartas/006401.json",
+  "primary_image_url": "/legajos/legajo-29/images/158:4219.JPG"
+}

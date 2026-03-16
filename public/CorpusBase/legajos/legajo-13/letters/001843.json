@@ -1,0 +1,43 @@
+{
+  "legajo_id": "13",
+  "id_carta": "1843",
+  "order_in_legajo": 110,
+  "signatura": "179:2347a.JPG",
+  "nombre_carta": "Carta de José Balell a Pedro Santacilia y Pax",
+  "fecha_original": "1 de diciembre de 1668",
+  "lugar": "Barcelona",
+  "remitente": "José Balell",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Señor don Pedro de Santacilia y Pax, mi señor He recibido la de v. s. de este sábado con la noticia me manda dar de haberse Dios llevado a mayor vida el alma del Sr. don Juan su querido hijo después de tan prolija enfermedad como lo demás de juzgar de su divina misericordia y por lo ejemplar que vivió tan religiosamente hasta lo último de su muerte, Al fin es camino que todos hemos de hacer, de cuya pérdida le doy el pésame como le he tenido y le encomendaré a Dios con mis pobres oraciones y también para que consuele a v. s. que lo debe de necesitar como cuan le quería tanto y le suplico se resigne a la divina voluntad como es hacedor de todas las cosas. Cuando juzgo lo habrá menester para aquietar a su raro entendimiento y al consuelo que necesita todos los pliegos estaban en mi poder para Mallorca pasaron y tendré cuidado en los venideros El Sr. don Juan está muy bien hallado en la Torre de Armengol y nuestro [?] invitado y asistido de todos los de esta ciudad de muchos [1§] del reino y su alteza agasaja a todos de manera que enseña con su deidad lo mucho que nos quiere Dios. Muchos años sea servido de poner el remedio que conveniere y cuanto más presto mejor y no dar que reir a tantos enemigos que pueden tomar la ocasión que se ofrece esta pobre caballería, siendo un [?] tan previso se pierde y más por falta de forrajes que no los hay y los oficiales y soldados padeciendo y este país se cansa de alojamientos en tiempo de paz y pues sabe que todo soy suyo para cuanto valga y sin reserva. Guarde Nuestro Señor a v. s. muchos años puede, deseo y es menester en compañía de cuanto quiere y merece. Barcelona y diciembre primero de 1668. Cierto criado de v. s. que su mano besa, Josep Balell Transcripción literal"
+  ],
+  "literal": [
+    "1. Sr d Po d Sta Cilia y Pax mi Sr2. He Reciv[i]do la de VS deste Savado3. con la noticia me Manda dar4. de haverse dios llevado a mayor5. Bida el Alma del Sr. d Juan su que6. rido hijo despues de tan prolija7. enfermedad Como lo demas de8. jusgar de su Divina misericordia9. y por lo exemplar que vivio tan10. Religiosamte hasta lo Ultimo d11. su muerte, Alfin es camino que 12. todos hemos de hazer de Cuia perdi13. da le doi el pesame como le te14. nido y le encomendare a dios con 15. mis pobres oraciones y tanvien16. pa que Consuele a V.S. que lo deve de17. necessitar como quan le queria18. tanto y le supp[li]co se Resigne19. a la divina boluntad como es ha20. zedor de todas las cosas quando21. juzgo lo habra menester pa aquie22. tar a su Raro entendimto y al con23. suelo que necesita24. Todos los pliegos estavan en mi 25. poder pa Mallorca pasaron y ten26. dre cuidado en los venideros27. El Sr. d Juan esta muy bien halla28. do en la Torre de Armengol29. y nuestro[?] invitado y asistido de30. todos los desta Ciud de muchos [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "179:2347a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo13/179:2347a.JPG",
+      "url": "/legajos/legajo-13/images/179:2347a.JPG"
+    },
+    {
+      "filename": "180:2347b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo13/180:2347b.JPG",
+      "url": "/legajos/legajo-13/images/180:2347b.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "179:2347a.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-13/cartas/001843.json",
+  "primary_image_url": "/legajos/legajo-13/images/179:2347a.JPG"
+}

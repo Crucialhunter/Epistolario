@@ -1,0 +1,37 @@
+{
+  "legajo_id": "38",
+  "id_carta": "5478",
+  "order_in_legajo": 2,
+  "signatura": "002:2a.JPG",
+  "nombre_carta": "Carta de Persona desconocida a Pedro Santacilia y Pax",
+  "fecha_original": "fecha sin especificar",
+  "lugar": "lugar sin especificar",
+  "remitente": "Persona desconocida",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Compte de queviures. No va signat ni té data. [1§] Transcripción literal"
+  ],
+  "literal": [
+    "1. Compte de queviures. No va signat ni té data."
+  ],
+  "imagenes": [
+    {
+      "filename": "002:2a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo38/002:2a.JPG",
+      "url": "/legajos/legajo-38/images/002:2a.JPG"
+    },
+    {
+      "filename": "003:2b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo38/003:2b.JPG",
+      "url": "/legajos/legajo-38/images/003:2b.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "002:2a.JPG",
+  "warnings": [],
+  "raw_source": "raw/legajos/legajo-38/cartas/005478.json",
+  "primary_image_url": "/legajos/legajo-38/images/002:2a.JPG"
+}

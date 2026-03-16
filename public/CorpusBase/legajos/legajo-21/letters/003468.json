@@ -1,0 +1,43 @@
+{
+  "legajo_id": "21",
+  "id_carta": "3468",
+  "order_in_legajo": 148,
+  "signatura": "284:5756a",
+  "nombre_carta": "Carta de marqués de Torreguso a Persona desconocida",
+  "fecha_original": "23 de junio de 1639",
+  "lugar": "Tolosa",
+  "remitente": "marqués de Torreguso",
+  "destinatario": "Persona desconocida",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Ilustrísimo Sr. Cierto que me he hallado anino mientras entendi hallan v. s. en Mallorca y llegado a él me dicen está v. s. dos leguas lejos que por la prisa con que vinió y vuleva no he tenido tiempo de enviar a llamarle. Nos veremos otro día y aunque me ha renegado después en venida del duque que lo es tnn servidor suyo como el [?] por eso deja de ser su muy aficionado servidor. Yo estos días atrás le escribo y enviado su carta al [?] porque se le [?] me si ella y en partiqular le rogaba que en Tolosa me enviase las mercedes con los dueños y [?] aviso afinado de que vale cada uno de ellos y dicen que si me aguardan me quedaré con ellos y sus dueños con mis dineros supe a su lo haga y tanto y más se lo supe cuanto su experiencia estima el que he hecho con caballos buenos como la necesidad que de ellas. Nro. Sr. le guarde a v. m. como deseo, [?] Junio 1639. [?] [1§] Tolosa 23 Julio 1639 El marques de Torreguso rta. Transcripción literal"
+  ],
+  "literal": [
+    "1. illre sr 2. çierta q me e allado anino mientras en3. tendi allan VS en maya y llegado a 4. el me dixen esta VS dos legas lexos 5. q por laprissa co q e vinio y vuleva 6. no e tinido tiempo de embiar a llama7. le nos veremos otro dia y aunq me 8. ha renegado despues en venida del duq 9. q lo es tan servr suyo como el pudi[Ilegible] 10. por esso dexa de ser su muy affiçionado 11. serr = yo estos dias atras le scriba y 12. embiado su Carta alPrai[?] porque se 13. le recupedose remira[?] me si ella y en 14. partiqular le rogava q en Tolosa me 15. enviasse las merçees co los dueños y o[?] 16. haviso affinado de q vale cada un dellos 17. y diçen q si me aguardan me que 18. dara co ellos y sus dueños co mis 19. dineros supe asu lo agha y tanto y mas se losupe qt su espe20. riença estimael q e echo co Cavallos buenos comoho la 21. neçessidad q dellas nro sr le Ge VM como d[e]seo Mifa[?] 22. Junio 1639 23. [Ilegible] [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "284:5756a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo21/284:5756a.JPG",
+      "url": "/legajos/legajo-21/images/284:5756a.JPG"
+    },
+    {
+      "filename": "285:5756b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo21/285:5756b.JPG",
+      "url": "/legajos/legajo-21/images/285:5756b.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "284:5756a.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-21/cartas/003468.json",
+  "primary_image_url": "/legajos/legajo-21/images/284:5756a.JPG"
+}

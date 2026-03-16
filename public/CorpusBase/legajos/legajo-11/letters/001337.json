@@ -1,0 +1,32 @@
+{
+  "legajo_id": "11",
+  "id_carta": "1337",
+  "order_in_legajo": 106,
+  "signatura": "183:5197.JPG",
+  "nombre_carta": "Carta de Pere Onofre Tauler a Pedro Santacilia y Pax",
+  "fecha_original": "11 de septiembre de 1643",
+  "lugar": "Alcúdia",
+  "remitente": "Pere Onofre Tauler",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "El {ESP. hermano} Sitjar de la companyia de Jesús vingué amb ordre del pare rector i ha estat en esta casa tres dies agaurdant una embarcació per esa {ESP. isla} i vegent que no seria tan [?] se partí i deixà en mon poder dos baguls i un matalàs per a remetre a v. s. Dix a boca que son del Sr. Nicolau Dameto, van amb esta i he pagat els nòlits de diner que em deixa dit {ESP. hermano} v. s. se servirà manar avisar del {ESP. recibo} i de tot el que sia de son servei perquè no estigui jo ociós en ell. El Sr. el guardi a v. s. com pot i desitja d'Alcúdia i setembre a 11 de 1643. Pere Onofre Tauler Sr. governador de Menorca [1§] Transcripción literal"
+  ],
+  "literal": [
+    "1. El hermano Sitgar de la Compañia de Jesus 2. vinge ab orde del Pare Rector y ha estat 3. en esta casa tres dias agaurdant una enbarcasio 4. per essa isla y vaent que no seria tan [^??^] 5. se parti y dexa en mon poder dos bauls 6. y un matalas per a remetre a VS dix 7. a boca de que son dels Sr. Ns Dameto, van ab 8. esta y he pagat los no lits de diner quem 9. dexa dit ermano VS se servira manar 10. avisar del resivo y de tot lo que sia de son 11. servey peraque no estiga jo dichos en ell lo Sr. gde 12. a VS com pot y desitja de Alcudia 13. y sbre a 11 de 1643 14. Pera Nofre Tauler 15. [^Sr. Governador de Manorca^] [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "183:5197.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo11/183:5197.JPG",
+      "url": "/legajos/legajo-11/images/183:5197.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "183:5197.JPG",
+  "warnings": [],
+  "raw_source": "raw/legajos/legajo-11/cartas/001337.json",
+  "primary_image_url": "/legajos/legajo-11/images/183:5197.JPG"
+}

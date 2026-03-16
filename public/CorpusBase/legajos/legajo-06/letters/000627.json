@@ -1,0 +1,43 @@
+{
+  "legajo_id": "6",
+  "id_carta": "627",
+  "order_in_legajo": 126,
+  "signatura": "180-92a",
+  "nombre_carta": "Carta de Juan Perelló a Cecilia Zaforteza y Sureda de Sant Martí",
+  "fecha_original": "7 de julio de 1770",
+  "lugar": "Madrid",
+  "remitente": "Juan Perelló",
+  "destinatario": "Cecilia Zaforteza y Sureda de Sant Martí",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Mi senyora dona Cecília, Després de tenir-me a la seva obediència, li particip com dia 22 del passat vaig rebre la seva del dia 10 del mateix, de què em vaig alegrar moltíssim de veure {ESP. gosa} de perfecta salut. Tots nosaltres anam {ESP. disfrutant} de la mateixa, gràcies a Déu, i en particular D. Tomàs, el qual està boníssim, però frisa molt de sortir d’esta vila de Madrid, de manera que diu que no hi ha res dins esta vila qui li don gust, i que tot el que ha vist ho donaria solament per esser allà a on desitja, i v. m. sap. I el cert és que el que jo altre temps prenia per riure, ara crec el que ell deia, veient la seva quimera tan forta, doncs tots els seus pensaments són a Malta i no amb altra cosa. Li don notícia com el dissabte de Sant Pere {ESP. cerca} les 8 de la tarda entrà el rei amb tota la seva família, vingué d’Aranjuez i dia 18 del corrent diuen que se’n va a la granja per estar una temporada. Don Tomàs i jo sortírem a la porta per veure com entraria i el vérem molt bé els cotxes i gent a peu que hi havia era sense nombre. No escric altres menudències perquè sé que don Tomàs ha escrit un plec de deu o dotze fulles i no ha deixat res per a mi. Rebrà moltes memòries de tots els expressats en la seva i de mi duplicades, les quals participarà a tots els de casa de mi senyor i als capellans d'una i altra casa, mentre qued a les seves ordres i pregant a Déu. Guardi a v. m. tots els anys de mon desig. Madrid i juliol 7 de 1770. Son segur servidor i afecte capellà, Juan Perello, prevere. Dona Cecilia Zaforteza. Transcripción literal"
+  ],
+  "literal": [
+    "1. Mi Sra. Da. Cecilia despues de ten- 2. dirma á la sua obediencia li particip 3. com die 22 del passat vatx rebra la sua 4. del die 10 del matex de que hem vatx ale- 5. grar moltissim de veura goza de perfeta 6. salud, tots nosaltres enam disfrutant de la 7. matexa gs á Deu, y en particular D. Thomas 8. el qual está bonissim, pero frisa molt de 9. surtir de esta Vila de Madrid de manera 10. que diu que no eyha res dins esta Vi- 11. la qui li don gust, y que tot lo que ha 12. vist eu doneria solament per asser alla 13. ahont dezitge, y V.Md. sap, y lo cert es que 14. lo que yo altre temps prenia per riura 15. are crech lo que ell deya vayhent la 16. sua quimera tant forta pues tots los 17. seus pensaments son á Malta, y no ab al- 18. tra cosa; li don noticia com el disapte 19. de St. Pera circa las 8 de la tarde entrá 20. el Rey ab tota la sua familia, vingué de 21. Aranjuez, y die 18 del corrent diuen que sen [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "180-92a.jpg",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo06/180-92a.jpg",
+      "url": "/legajos/legajo-06/images/180-92a.jpg"
+    },
+    {
+      "filename": "181-92b.jpg",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo06/181-92b.jpg",
+      "url": "/legajos/legajo-06/images/181-92b.jpg"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "180-92a.jpg",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (2)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-06/cartas/000627.json",
+  "primary_image_url": "/legajos/legajo-06/images/180-92a.jpg"
+}

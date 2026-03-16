@@ -1,0 +1,48 @@
+{
+  "legajo_id": "2",
+  "id_carta": "431",
+  "order_in_legajo": 21,
+  "signatura": "43-20a",
+  "nombre_carta": "Carta de Juan Garcías a Gregorio Quint Zaforteza",
+  "fecha_original": "29 de noviembre de 1716",
+  "lugar": "Roma",
+  "remitente": "Juan Garcías",
+  "destinatario": "Gregorio Quint Zaforteza",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Muy señor mío, pongo a noticia de vuestra merced cómo a primeros de octubre próximo pasado, por parte de Margarita Roig, se presentó en la secretaría de obispos y regulares el informe de ese señor obispo con algunos otros papeles que todavía no hemos visto. A 10 del dicho mes, monseñor secretario nombró por ponente de la dicha causa al excelentísimo Espinola, cardenal recién hecho de su santidad, el cual todavía no ha mandado comunicar a las partes el dicho informe de su ilustrísima, por haberse estado pasado de un mes fuera de la corte por tomar el aire bueno. Suplico a vuestra merced sea servido asegurar a esa madre abadesa y demás religiosas que a su tiempo procuraré cumplir con mi obligación, y que estén ciertas que se les hará justicia sin que teman los atropellamientos de ese señor obispo. Basta sea dependencia que vuestra merced me encarga con tanto empeño. Hasta ahora, como no hemos visto el susodicho informe, no puede el abogado formar juicio de las razones asisten a las dichas religiosas. Hasta después de navidad no será posible que se vea la causa, porque es preciso dar tiempo a los abogados de poder escribir. Esto es cuanto se [roto] [1§] dependencias puedo por ahora avisar a vuestra merced. Dios guarde a vuestra merced los muchos años deseo, le suplico y he menester. Roma y noviembre, a 29 de 1716. A su tiempo responderé a la madre abadesa, a la que con el correo pasado recibí del mes de agosto. Besa la mano de vuestra merced, su mayor y verdadero servidor,don Juan Garcias. Muy ilustre señor don Gregorio Quint Zaforteza. [2§] A don Gregorio Quint Zaforteza guarde Dios muchos años. Sacristán y canónigo de la Santa Iglesia de Mallorca. Transcripción literal"
+  ],
+  "literal": [
+    "1. Muy Señor mio. Pongo a noticia de Vmd. como a prime- 2. ros de 8< octu>bre prossimo passado por parte de Mar[g]arita 3. Roig se presentó en la Secretaria de Obispos y Regu-4. lares el informe de esse S< eño>r Obispo con algunos otros 5. papeles, que todavia no hemos visto. A 10 del dicho 6. mes monseñor Secretario nombró por Poniente de la d< ich>a 7. causa al E< minentísi>mo Spinola Card< ena>l recien echo de S< u> Santidad 8. el qual todavia no ha mandado comunicar a las partes 9. el dicho informe de S< u> Il< us>t< rísi>ma por haverse estado passado 10. de un mes fuera de la Corte por tomar el ayre bueno 11. Suplico a Vmd. sea serbido asegurar a essa Madre Abadeza 12. y demas Religiosas que a su tiempo procuraré cum- 13. plir con mi obligacion, y que esten ciertas que se les hara 14. justicia sin que teman los atropellamientos de esse S< eño>r 15. Obispo, basta sea dependencia que Vmd. me ancarga 16. con tanto empeño. 17. Asta aora como no hemos visto el sus< o>d< ich>o informe, no pue-18. de el Avogado formar juicio de las razones asisten a las dichas 19. Religiosas. Asta despues de Navidad no sara possible 20. que se vea la causa porq< ue> es preciso dar tiempo a los 21. Avogados de poder escrivir. Esto es q< uan>to se [...] [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "43-20a.jpg",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo02/43-20a.jpg",
+      "url": "/legajos/legajo-02/images/43-20a.jpg"
+    },
+    {
+      "filename": "44-20b.jpg",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo02/44-20b.jpg",
+      "url": "/legajos/legajo-02/images/44-20b.jpg"
+    },
+    {
+      "filename": "45-20c.jpg",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo02/45-20c.jpg",
+      "url": "/legajos/legajo-02/images/45-20c.jpg"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "43-20a.jpg",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-02/cartas/000431.json",
+  "primary_image_url": "/legajos/legajo-02/images/43-20a.jpg"
+}

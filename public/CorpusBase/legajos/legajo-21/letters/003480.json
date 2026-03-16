@@ -1,0 +1,38 @@
+{
+  "legajo_id": "21",
+  "id_carta": "3480",
+  "order_in_legajo": 168,
+  "signatura": "310:5768.JPG",
+  "nombre_carta": "Carta de Jerónimo Ribó a Pedro Santacilia y Pax",
+  "fecha_original": "14 de septiembre de 1639",
+  "lugar": "Tolosa",
+  "remitente": "Jerónimo Ribó",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Recibo su carta de v. m. de 13 de este en que me dice viene marchando para esta villa con sus compañías habiendo pasado tantos trabajos [?] representa en las cuatro de la costa marítima y puede estar cierto que de mi parte he hecho cuanto he podido, v. m. habrá tenido orden después de escrita [?] a suya para lo que debe hacer con que él está. No soy más largo, guarde el Sr. a v. m. como puede, San Francisco de Tolosa 14 de septiembre 1639. Jeronimo Ribo Sr. D. Pedro Santacilia y Pax Transcripción literal"
+  ],
+  "literal": [
+    "1. Rvo sucarta de Vm de 13 deste én que medize Viene marchando pa 2. esta villa consus compas haviendo passado tantos travajos [Ilegible] repressta 3. en las quatro delacosta maritna y puede estar cierto que de mi 4. parte he echo quanto hepodido, Vm habra tenido hordendespues 5. deéscrita[?] hasuya para loque deve hazer conquel esta no soy 6. mas largo, q Elusa[?] Vm Como puede, sanfranco detolossa 14 7. de sepe 1639 8. [Ilegible] [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "310:5768.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo21/310:5768.JPG",
+      "url": "/legajos/legajo-21/images/310:5768.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "310:5768.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (2)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-21/cartas/003480.json",
+  "primary_image_url": "/legajos/legajo-21/images/310:5768.JPG"
+}

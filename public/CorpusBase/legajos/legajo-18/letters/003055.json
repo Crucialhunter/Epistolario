@@ -1,0 +1,43 @@
+{
+  "legajo_id": "18",
+  "id_carta": "3055",
+  "order_in_legajo": 89,
+  "signatura": "151:4894a.JPG",
+  "nombre_carta": "Carta de Agustín Benedid a Pedro Santacilia y Pax",
+  "fecha_original": "1 de agosto de 1663",
+  "lugar": "Madrid",
+  "remitente": "Agustín Benedid",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "mío Sea enhorabuena el haber entrado v. s. a gobernar ese reino por la absencia del virrey, y yo quisiera dársela a v. s. de la propiedad, aunque sea tan odioso el gobernar entre propia Patria, pero v. s. sabrá con su gran prudencia administrar con tanta igualdad la justicia que consiga el tener los aotodos contentos. yo he tenido tan poca dicha con el conde de Pla sencía, que no he podido conseguir en cerca de tres años la cobranza de nobecientos itantos reales que el rey me lihó enefectos que beneficiase su sria y así recurro a v. s. y le suplico se sirva hacerme merced de ver si en eltiempo del gobierno de v. s. puede disponer lasatisfaccio de esta libranza que por ser de tan poca cantidad me parece no le será dificultoso a la mucha med que v. s. está acostumbrado hacerme entantos años que le soy servidor, la libranza está en poder del [1§] regente Sr. don Juan Martorell, y aseguro a v. s. que me Sería este Socorro de mucho alivio porque me hallo con muchos empeños y solo deseo el efecto de este para pagar a don Josep Ruvire [?] Receptor del consejo que enconfianza de que sería pronto ese dinero me socorrió aquí con el Dios guarde a v. s. muchos años como deseo de Madrid a 1º de agosto de 1663. Ba v. s. l m Su mayor servidor Augn Benedid [?] Sr. don Pedro de Santacilia y Pax [2§] Transcripción literal"
+  ],
+  "literal": [
+    "1. Sr mio Sea enorabuena el haver entrado VS a 2. governar esse Reyno por la absencia del sr Virrey, y 3. yo quisiera darsela a VS. dela propiedad, aunque 4. sea tan odioso el governar entre propia Patria, 5. pero VS. sabra con su gran prudencia administrar 6. con tanta igualdad la Justicia que Consiga el tener 7. los aotodos contentos. 8. Yo hetenido tan poca dicha con el sr Conde de Pla=9. sencía, que no he podido conseguir en çerca de tres años 10. la cobransa de nobecientos ytantos Reales queel 11. Rey me lihô eneffectos que beneficiase su sria 12. y assi recurro a VS. y lesup[li]co se sirva hazerme 13. md de ver si en eltiempo del govierno de VS 14. puede disponer lasatisfacio desta libranza que 15. porser detan poca cantidad me pareze nole 16. sera dificultoso àla mucha med que VS. está 17. acostumbrado hazerme entantos años quele 18. soy servidor, la libranza esta en poder del sr [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "151:4894a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo18/151:4894a.JPG",
+      "url": "/legajos/legajo-18/images/151:4894a.JPG"
+    },
+    {
+      "filename": "152:4894b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo18/152:4894b.JPG",
+      "url": "/legajos/legajo-18/images/152:4894b.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "151:4894a.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-18/cartas/003055.json",
+  "primary_image_url": "/legajos/legajo-18/images/151:4894a.JPG"
+}

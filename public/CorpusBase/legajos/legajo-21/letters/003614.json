@@ -1,0 +1,38 @@
+{
+  "legajo_id": "21",
+  "id_carta": "3614",
+  "order_in_legajo": 303,
+  "signatura": "520:5902.JPG",
+  "nombre_carta": "Carta de Constanza Dávila y Borja a Pedro Santacilia y Pax",
+  "fecha_original": "5 de agosto de 1669",
+  "lugar": "Valencia",
+  "remitente": "Constanza Dávila y Borja",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Tengo entendido por d. Pedro [De]canedo como v. s. ha casado al señor d. Nicolás, de que doy a v. s. la enhorabuena: Dios guarde a v. s. muchos años para que pueda ver muy dilatada sucesión conforme necesita de ella su casa de v. s. Suplico a v. s. cuan encarecidamente puedo me haga merced de acordarse de mí, en que se me libre alguna cantidad considerable pues sabe v. s. el tiempo que ha que no se me ha librado nada, pues que el reparo que esos señores tenían de la apocha ya no lo tienen puesto que es ya firmada. Yo fío de la merced que v. s. me hace se acordará de mí y de lo que se lo suplicó a v. s. mi señora la condesa de Paredes y mi señora dña. Laura, que con esa me prometo tener buen suceso. Dios guarde a v. s. muchos años como puede y deseo. Valencia y agosto, 4 de 1669. A mi señora dña. Leonor beso las manos. [Letra original de la remitente: Servidora de v. s. que sus manos besa,Doña Constanza Davila y Borja] Transcripción literal"
+  ],
+  "literal": [
+    "1. Tengo entendido por Dn Pedro Canedo como VS. a casado 2. al Sor D Nicolas de que doy a V.S. la norabuena Dios gde 3. a VS. ms añs para que pueda ver muy dilatada sucesion 4. conforme necesita della su casa de VS. = 5. Supo a VS. quan encarecidamte puedo me hada merd de 6. de acordarse demi, en que seme libre alguna catidad conside 7. rable pues sa VS. el tiempo que ha que no semse alibrado na 8. da; pues que el reparo que essos senyores tenian dela apoca 9. ya no lotienen puesto que es ya firmada; yo fio dela 10. merd que VS. mehaze se acordara demi, y de lo que se lo supo 11. a VS. mi Sa la Condessa de Paredes, y mi Sa Da Laura que 12. con essa me prometo tener buen sucesso. Dios ge a VS. ms 13. añs como puede y desseo Valea y Agto 4 de 1669 14. A mi Sa Da Leonor beso las manos 15. servidora de VS q m b 16. doña costansa 17. davila y Borja [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "520:5902.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo21/520:5902.JPG",
+      "url": "/legajos/legajo-21/images/520:5902.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "520:5902.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-21/cartas/003614.json",
+  "primary_image_url": "/legajos/legajo-21/images/520:5902.JPG"
+}

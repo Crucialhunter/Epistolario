@@ -1,0 +1,48 @@
+{
+  "legajo_id": "24",
+  "id_carta": "4030",
+  "order_in_legajo": 81,
+  "signatura": "107:4083a.JPG",
+  "nombre_carta": "Carta de Pedro de Aragón a Pedro Santacilia y Pax",
+  "fecha_original": "26 de febrero de 1643",
+  "lugar": "Montpeller",
+  "remitente": "Pedro de Aragón",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Avisa de llegar el día de tener carta de v. que de todos los amigos si hay algunos en la mala fortuna los he tenido y uno he dudado de que lo es pero estaba con cuidado por mi pasan aventuras inauditas. Rstro fijo tengo y no lo torcere por más que la fortuna me traiga como una pelota. No hay esperanzas de salir si hay en con la caída del conde duque espero que me lo hará, lo que ha reusado hasta a que no me querían en España como si para todo no rehuyese de llegar el día y saberse si obré sin orden y contra orden como decía el papel que habrá ya llegado ahí. Yo lo paso bien de salud, a Dios gracias, y procuro cuan Sr. don Pedro Santacilia [1§] to puedo huir de mi imaginación pero hago poco. Don Antonio Pellicer está en España, que le enviease lo que procurase su libertad que es harto buen mozo y basta ser amigo de v. s. Ya le habrá escrito v. s. me escriba largo y espero algún día que nos veremos y desearé que v. s. tenga lo mucho que merece sea enhorabuena el haber tomado estado [?] que me lo había escrito. Guarde Dios a v. s. muchos años como deseo. Montpeller y 26 de febrero 1643. Servidor y amigo de v. s. D. Pedro de Aragon [2§] A don Pedro Santacilia y Pax, guarde Dios muchos años. Transcripción literal"
+  ],
+  "literal": [
+    "1. abisa de llegar el dia de tener car2. ta de v. que de todos los amygos3. si ay algunos en la mala for4. tuna los he tenydo y uno he5. dudado de que lo es per vestasa[?]6. con quidado por my pasan aben7. turas ynauditas rostro fijo8. tengo y no le torsere por mas9. que la fortuna me trayga como10. una pelota no ay esperansas11. de salir si hay en con la cayda12. del conde duque espero que me13. lo ara lo que a reusado asta a14. qui que no me querian enes15. paña como si para todo no 16. reuhiyese de llegar el dia17. y saberse si obre sin orden18. y contra orden como decía19. el papel que abra ya llegado a20. y yo lo paso byen de salud21. a dios grasias y proquro quan22. Sr. don Pº Santasilia [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "107:4083a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo24/107:4083a.JPG",
+      "url": "/legajos/legajo-24/images/107:4083a.JPG"
+    },
+    {
+      "filename": "108:4083b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo24/108:4083b.JPG",
+      "url": "/legajos/legajo-24/images/108:4083b.JPG"
+    },
+    {
+      "filename": "109:4083c.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo24/109:4083c.JPG",
+      "url": "/legajos/legajo-24/images/109:4083c.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "107:4083a.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-24/cartas/004030.json",
+  "primary_image_url": "/legajos/legajo-24/images/107:4083a.JPG"
+}

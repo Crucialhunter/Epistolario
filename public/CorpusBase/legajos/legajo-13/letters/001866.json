@@ -1,0 +1,43 @@
+{
+  "legajo_id": "13",
+  "id_carta": "1866",
+  "order_in_legajo": 134,
+  "signatura": "211:2370a.JPG",
+  "nombre_carta": "Carta de Basilio de Castellví y Ponce a Pedro Santacilia y Pax",
+  "fecha_original": "8 de enero de 1669",
+  "lugar": "Valencia",
+  "remitente": "Basilio de Castellví y Ponce",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Señor mío celebro como debo las noticias que v. s. es servido participarme de su salud en carta de 2 del corriente yo quedo a la obediencia de v. s. bueno y muy gustoso con haber logrado la dicha de besar las manos al Sr. don Nicolas, antes que me partiera a mi visita viene con muy buena salud y solo sentiré sea su detención tan corta para servirle como debemos. he le traído a mi casa donde solo habrá experimentado el buen afecto que profesamos a la de v. s. desearé le dé Dios muy buen viaje y que v. s. logre su arribo a esa corte con toda felicidad. Por acá no se ofrece cosa particular de que avisar a v. s., cuya vida guarde Dios muchos años como deseo. Valencia y enero a 8 de 1669. Sr. mío particular, dicha mía ha sido el haberme hallado, por accidente, estos días, en Valencia, y haber logrado la dicha de haber podido besar las manos al Sr. don Nicolás y que honróse mi casa así Sr. don Pedro Santacilia y Pax [1§] que tan de paso esta tarde ha partido y le he dejado un cuarto, va a dormir a la venta nueva. Juzgo no llegará hasta el domingo, porque mañana, no parara en Requena. Va con salud, gracias a Dios . Yo me vuelvo mañana a mi visita. Besa a v. s. la mano su mayor servidor Don Basilio de Castellvi y Ponce [2§] Transcripción literal"
+  ],
+  "literal": [
+    "1. Señor mio celebro como devo las noticias2. que V.S. es servido participarme de su3. salud en carta de 2 del corriente yo4. quedo ala obediencia de V.S. bueno y muy5. gustoso con haver logrado la dicha de6. besar las manos al Sr. Don Nicolas antes 7. que me partiera ami visita viene con muy8. buena salud y solo sentire sea su detencion9. tan corta para servirle como devemos he=10. le traydo ami casa donde solo habra ex=11. perimentado el buen afecto que profesamos12. ala de V.S. deseare lede Dios muy buen13. viaje y que V.S. logre su arribo aessa cor=14. te con toda felicidad. Por aca nose15. ofreçe cosa particular de que avisar á V.S.16. cuya vida gde Dios ms a< ño>s como deseo.17. Vala y Henero á 8 de 1669.18. Sor mio particular, dicha mia asido el averme19. allado, por açidente, estos dias, en Valençia, y aver20. logrado la dicha de aver podido besar las manos21. al Sor. Don Nicolas y que un rrose[?] mi casa avis[?]22. Sr. Don Pedro Santazilia y Pax. [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "211:2370a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo13/211:2370a.JPG",
+      "url": "/legajos/legajo-13/images/211:2370a.JPG"
+    },
+    {
+      "filename": "212:2370b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo13/212:2370b.JPG",
+      "url": "/legajos/legajo-13/images/212:2370b.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "211:2370a.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-13/cartas/001866.json",
+  "primary_image_url": "/legajos/legajo-13/images/211:2370a.JPG"
+}

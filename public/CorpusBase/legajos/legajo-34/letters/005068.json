@@ -1,0 +1,38 @@
+{
+  "legajo_id": "34",
+  "id_carta": "5068",
+  "order_in_legajo": 96,
+  "signatura": "149:6983.JPG",
+  "nombre_carta": "Carta de Diego Matías de Aragüés a Pedro Santacilia y Pax",
+  "fecha_original": "22 de noviembre de 1656",
+  "lugar": "Madrid",
+  "remitente": "Diego Matías de Aragüés",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "doy aviso a v. m. como hoy se ha dado orden para que se le dé a v. m. La ayuda de costa que a los antecesores de v. m. se da va que ha costado más pasos replicas que ella tiene de Reales, porque se ha pretendido no se le debía den a v. m. por no tener tanto trabajo en el oficio como solia per haberle desonerado de mucho trabajo que tenía de antes. y otras muchas causas, al fin con la razón y persia se ha vencido, v. m. se servirá de dar orden al Anediano del dinero que tuve menester que me parece será menester para este despacho más de 550 reales y lo demás que su merced tiene avisado a v. m. porque seda el despacho por tres años. y secuentan desde el día que v. m. Juro en suoficio y los tres años importan 600 ducados v. m. me mande le sirva y guarde Dios los muchos años que le deseo Madrid a 22 de noviembre 1656. Besa la mano de v. m. su mayor servidor Diego Matias de Aragues Sr. don Pedro Santacilia y Pax [1§] Transcripción literal"
+  ],
+  "literal": [
+    "1. Doy aviso a Vm. Como oy se ha dado 2. orden pa q selede a Vm. La ayuda de costa3. q a los antecessores de Vm. se da ba4. q ha costado mas passos replicas5. q ella tiene de Reales, porq seha6. pre tendido no se le devia de[n] a Vm.7. por no tener tanto trabajo enelofficio8. como solia per haver le desonerado9. de mucho trabajo q tenia de antes.10. y otras muchas causas, al fin con la11. razon y persia se ha vencido, Vm.12. se servira dedar orden al [ ] A[ne]diano13. de el dinero q [t]uve menester q me pareze14. sera menester pa este despacho mas de 550 Rs15. y lodemas q su md tiene avisado a Vm16. perq seda el despacho por tres años.17. y sequentan desde el dia q Vm. Juro en18. suofficio y los tres años importan 600 dos19. Vm memande le sirva y ge dios los muchos20. años q ledeseo Md a 22 de noviembre 165621. Vesa la mano de Vm22. su mayor seror23. Diego Mathias de24. Aragues25. Sr. don Pedro Sta Cilla y Pax [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "149:6983.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo34/149:6983.JPG",
+      "url": "/legajos/legajo-34/images/149:6983.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "149:6983.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (3)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-34/cartas/005068.json",
+  "primary_image_url": "/legajos/legajo-34/images/149:6983.JPG"
+}

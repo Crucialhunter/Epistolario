@@ -1,0 +1,43 @@
+{
+  "legajo_id": "25",
+  "id_carta": "4071",
+  "order_in_legajo": 5,
+  "signatura": "009_105a.JPG",
+  "nombre_carta": "Carta de José Balell a Pedro Santacilia y Pax",
+  "fecha_original": "7 de febrero de 1667",
+  "lugar": "Barcelona",
+  "remitente": "José Balell",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Amigo y Sr. Mucho he extrañado que con 5 bergantines que han llegado no haber tenido mandatos de nro. amo y que un pliego que venía para el Sr. D. Nicolas que le he remitido este correo venía suelto y la misma administración he hecho de haberlos tenido de v. m. que sabe le deseo servir y lo haré con mucho gusto, quedando siempre con. y su tío el Sr. Diego Matias de Aragues de quien remito un pliego para el Sr. D. Pedro que ha mucho está camino de él por falta de pasaje. El Sr. D. Nicolás y demás de la jornada ya estarán en Madrid porque salieron de aquí el día después de San Antonio y tenía el Sr. D. Diego Cuellar que me dio muchos recados para v. m. y le ha comunicado que me mandó su Sr. don Pedro. Aún tengo un arcabuco [?] que tome para el Sr. D. Nicolas de 330 [?] con empeño de uno y además va [NO ES VEU BÉ] [1§] Transcripción literal"
+  ],
+  "literal": [
+    "1. Amigo y sr. mucho he estra2. ñado que con 5 bergantines3. que han llegado no haver tenido 4. mandatos de nro. amo y que un5. pliego que benia pª el Sr. D. Nicolas6. que le he remitido este correo ve7. nia suelto y la mismª Admin[istra]8. cion he heco de haverlos tenido9. de V.m. que save le dez[e]o servir y lo10. hare con mucho gusto quedan11. do siempre con [............................]12. [...] y su tio el Sr. Diego Mathias13. de Aragues de quien remito un pli14. ego pª el Sr. D. Pº que ha mucho15. esta camino del por falta de pa16. caje= El Sr. D. Nicolas y demas de la17. jornada ya estaran en Madrid18. porque salieron de aqui el dia19. despues de San antonio y tenia20. el Sr. D. Diego Cuellas que me dio21. muchos recados pª Vm. y le ha [co]22. municado que me mando su Sr. [Don Pe-]23. dro24. Aun tengo un arcabuco[?] que tome para25. el Sr. D. Nicolas de 330 [?]26. con empeño de uno i ademas va27. NO ES VEU BÉ [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "009_105a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo25/009_105a.JPG",
+      "url": "/legajos/legajo-25/images/009_105a.JPG"
+    },
+    {
+      "filename": "010_105b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo25/010_105b.JPG",
+      "url": "/legajos/legajo-25/images/010_105b.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "009_105a.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-25/cartas/004071.json",
+  "primary_image_url": "/legajos/legajo-25/images/009_105a.JPG"
+}

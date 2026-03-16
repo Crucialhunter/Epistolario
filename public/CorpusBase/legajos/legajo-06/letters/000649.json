@@ -1,0 +1,43 @@
+{
+  "legajo_id": "6",
+  "id_carta": "649",
+  "order_in_legajo": 148,
+  "signatura": "222-114a",
+  "nombre_carta": "Carta de Geroni Estrany a Cecilia Zaforteza y Sureda de Sant Martí",
+  "fecha_original": "4 de mayo de 1772",
+  "lugar": "Palma",
+  "remitente": "Geroni Estrany",
+  "destinatario": "Cecilia Zaforteza y Sureda de Sant Martí",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Mi senyora, Rebrà tom 3 i 4 de les cartes de Sta. Teresa de Jesús, que esta nit m’han remès que és el que v. m. me tenia recomanat. No hi ha novetat en casa de v. m. salut i gràcia. Palma i maig 4 de 72 Estrany Mi senyora dona Cecilia Zaforteza i de Berga, viuda. [1§] A dona Cecilia Zaforteza i de Berga, viuda, guarda Déu molts anys. Son Berga Transcripción literal"
+  ],
+  "literal": [
+    "1. Mi Señora rebra Tom 3 2. y 4 de las Cartas de 3. Sta. Theresa de Jesus, que 4. esta nit me han rames 5. que es lo queV.M. me 6. tenia recomenat. No 7. haya novedad en casa 8. de V.M. salud y gracia 9. Palma y Maig 4 de 72 10. Estrañy 11. Mi Sra Da. Cecilia Çaforteza y 12. de Berga Va [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "222-114a.jpg",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo06/222-114a.jpg",
+      "url": "/legajos/legajo-06/images/222-114a.jpg"
+    },
+    {
+      "filename": "223-114b.jpg",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo06/223-114b.jpg",
+      "url": "/legajos/legajo-06/images/223-114b.jpg"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "222-114a.jpg",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-06/cartas/000649.json",
+  "primary_image_url": "/legajos/legajo-06/images/222-114a.jpg"
+}

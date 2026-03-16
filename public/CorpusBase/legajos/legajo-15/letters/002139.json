@@ -1,0 +1,53 @@
+{
+  "legajo_id": "15",
+  "id_carta": "2139",
+  "order_in_legajo": 35,
+  "signatura": "058:6363a.JPG",
+  "nombre_carta": "Carta de Tomàs de Verí a Pedro Santacilia y Pax",
+  "fecha_original": "19 de agosto de 1638",
+  "lugar": "Alejandría",
+  "remitente": "Tomàs de Verí",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Amigo y señor mío, no puedo dejar de encarecer la alegreza y contento, he tenido, con la venida de v. m. en Barcelona. Confiado tengo de recibir muchas honras de su mano. Por algunos amigos tengo entendido que venían de esas partes, cómo había buscado toda España con los dragones y que a v. m. le iba muy bien con sus aumentos. Yo me huelgo de todo en el alma, y siendo v. m. tan señor mío, paréceme estará quejoso de que yo me dejase de continuar el corresponder. como me dijeron que v. m. estaba en Portugal y no tenía parte segura, yo no sabía por donde encaminar cartas y lo tenía por perdido. Esto ha sido la causa de no continuar. de ahí adelante avisaré de estas partes de ordinario, que a mi me importa el no perder la correspondencia, que no he perdido ni pienso perder. Algunas cartas ordinarias tengo de mi padre, en que me mandan para que yo vaya allá. No las pasando en palabras, pero la verdad, lleva el diablo la gana que yo tengo antes si el marqués. Señor don Pedro Santacilia Transcripción literal"
+  ],
+  "literal": [
+    "1. Amígo y señor mío no puedo dexar de encare2. cer la alegresa y contentento, e, tenido con 3. la venida de Vmd. en Barcelona confia4. do tengo de Resevir mutchas onrras de su 5. mano; por algunos amigos tengo en tendi6. do que venian desas partes como avia7. buscado toda españía con los dragones y 8. que a Vd. Le iva mui bien con sus au9. mentos. jo me huelgo de todo en el alma 10. y siendo Vd. Tan Sor mio pareseme esta11. ra quexoso de que jo me dexase de 12. continuar el corresponder como me dixero 13. que Vd.estava en purtugal y no tenia 14. parte segura jo nosabia por donde en15. caminar cartas y lo tenia por perdido 16. esto asido la causa de no continuar de ai 17. adelante avisare destas partes de ordinario 18. que ami me inporta el no perder la 19. correspondencia q no he perdido ni pie20. nso perder; Algunas cartas ordinarias 21. tengo de mi padre en que me matan 22. paraque jovaja alla; noiles pasando en 23. palabras pero la verda lleva eldiablo la 24. gana que jo tengo antes si el Marquez.25. [Margen izquierdo][^Sor Don Pedro santasilia] [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "058:6363a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo15/058:6363a.JPG",
+      "url": "/legajos/legajo-15/images/058:6363a.JPG"
+    },
+    {
+      "filename": "059:6363b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo15/059:6363b.JPG",
+      "url": "/legajos/legajo-15/images/059:6363b.JPG"
+    },
+    {
+      "filename": "060:6363c.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo15/060:6363c.JPG",
+      "url": "/legajos/legajo-15/images/060:6363c.JPG"
+    },
+    {
+      "filename": "061:6363d.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo15/061:6363d.JPG",
+      "url": "/legajos/legajo-15/images/061:6363d.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "058:6363a.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (2)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-15/cartas/002139.json",
+  "primary_image_url": "/legajos/legajo-15/images/058:6363a.JPG"
+}

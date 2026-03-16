@@ -1,0 +1,43 @@
+{
+  "legajo_id": "2",
+  "id_carta": "436",
+  "order_in_legajo": 24,
+  "signatura": "55-25a",
+  "nombre_carta": "Carta de Juan Garcías a Gregorio Quint Zaforteza",
+  "fecha_original": "de julio de 1717",
+  "lugar": "Roma",
+  "remitente": "Juan Garcías",
+  "destinatario": "Gregorio Quint Zaforteza",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Muy señor mío. Aguardo con impaciencia que pase de ese puerto al de Génova alguna embarcación para saber cuánto tardaron mis repetidas que escribí a vuestra merced en junio pasado con la noticia de haberse ganado la causa de mi señora la priora y religiosas de Santa Teresa, con tales circunstancias que no habrán causado poca novedad aún a los primeros letrados de ese reino, y no menor mortificación a los interesados, digo señores arcediano y canónigo Togores. En las que escribí a vuestra merced los días 19 y 26 del dicho mes de junio habrá recibido una docena de ejemplares del decreto y resolución de la congregación, que hice estampar en esta estamparía cameral para que hiciera mayor ruido y fuese más público en esa ciudad el golpe de dichos protectores de Margarita Roig. Le suplico me avise cómo lo habrán tomado los dichos señores. También habrá recibido un duplicado auténtico del dicho decreto, aunque es verdad que hacen la misma fe los estampados. En la dicha carta del día 5 remití a vuestra merced las cuentas de lo puramente gastado y pagado hasta aquel día, que [1§] de las dichas cuentas habrá visto importaba setenta y dos escudos y medio de moneda romana, de los cuales aquel mismo día firmé letras contra de mi señora la priora y convento, a razón de treinta y seis sueldos por escudo, pagables al señor capiscol, que no dudo habrá dado luego mi señora priora la debida providencia por el pagamiento. Y harto me pesa una cierta noticia de cierto disgustillo con dicho señor capiscol, que a haberlo sabido hubiera dirigido las dichas letras a Gabriel Aguilo, que para mí era todo lo mismo. En dichas mis cartas previne a vuestra merced que a su tiempo le hubiere avisado de algunos otros gastillos hechos después de la resolución, como son una dobla en la secretaría a los oficiales; en la estamparía pontificia dieciocho reales por la estampa, y más dos escudos y veinte baioques* por los portes de los pliegos remitidos a Génova, que, en todo, los dichos gastillos importan siete escudos y medio de moneda. No pongo en cuenta una arroba de {ITA. ciocolate} que regalé de antes a ciertos amigos, porque esto lo dejo a la prudente y experimentada comprensión de vuestra merced, a quien debo indecibles obligaciones. Me olvidaba de participar a vuestra merced que el excelentísimo ponente, mi señor, nunca quiso dar la nueva audiencia a la parte contraria. Baiocco. Nombre italiano de una moneda pontificia en uso desde el s. XV a 1867. Transcripción literal"
+  ],
+  "literal": [
+    "1. Muy Señor mio. Aguardo con impasiencia que passe de 2. esse Puerto al de Genova alguna embarcasion para sa- 3. ber quanto tardaron mis repetidas que escriví a Vm. en 4. junio passado con la noticia de haverse ganado la causa 5. de mi Señora la Priora y Religiosas de S< an>ta Tereza con tales 6. circustancias que no abran causado poca novedad aun a 7. los primeros Letrados de esse Reyno, y no menor mortifi- 8. casion a los interesados digo S< eño>res Arzediano y Can< oni>go Togores 9. en las que escrivi a Vm. los dias 19 y 26 del dicho mes de junio 10. abra recebido una dozena de e[je]mplares del Decreto y re- 11. solusion de la Cong< regacio>n, que hize estampar en esta Estamparia 12. cameral paraq hiziera mayor ruido y fuesse mas publico 13. en essa Ciudad el golpe de dichos Protectores de Margarita 14. Roig. Le suplico me avise como lo abran tomado los 15. dichos S< eño>res. Tambien abra recebido un duplicado auten- 16. tico del dicho decreto, aunq es verdad q hazen la mesma 17. fe los estampados. 18. En las dicha carta del dia 5 remiti a Vm. las cuentas 19. de lo puramente gastado y pagado asta aquel dia que [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "55-25a.jpg",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo02/55-25a.jpg",
+      "url": "/legajos/legajo-02/images/55-25a.jpg"
+    },
+    {
+      "filename": "56-25b.jpg",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo02/56-25b.jpg",
+      "url": "/legajos/legajo-02/images/56-25b.jpg"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "55-25a.jpg",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-02/cartas/000436.json",
+  "primary_image_url": "/legajos/legajo-02/images/55-25a.jpg"
+}

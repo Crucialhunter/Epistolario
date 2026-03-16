@@ -1,0 +1,43 @@
+{
+  "legajo_id": "28",
+  "id_carta": "4716",
+  "order_in_legajo": 26,
+  "signatura": "038:3650a.JPG",
+  "nombre_carta": "Carta de condesa de Zavellá a Pedro Santacilia y Pax",
+  "fecha_original": "22 de noviembre de 1628",
+  "lugar": "Barcelona",
+  "remitente": "condesa de Zavellá",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Bé pot v. m. pensar que si a mon parer anàs i a mon gust, que ja seria aquí. Més totes les persones a qui he tingut de tenir atendència els ha paregut que de ninguna manera ho havia de fer. I com una pobra dona no pot pendre una mula de lloguer, partir és trista cosa, i tristíssima per extrem. El pare Benardino i totes les religions, cas[es] de Barcelona i quasi tothom qui jo [1§] conec fan contínues pregàries i promeses per al comte, que per sa bondat infinita Déu se vulgui apiadar de nosaltres. Aquí envii esta relíquia de Santa Maria [dels] Socors que està fent continus miracles. Tingui-n'hi fe, per amor de Déu, que si la hi tenguessin, alcançarà salut i vida per al comte. Vulgui Déu per sa bondat, com sap que ho hem [de] menester, i guardi a v. m. Barcelona, a 22 de novembre de 1628. La comtessa de Zavella. Transcripción literal"
+  ],
+  "literal": [
+    "1. be pot vm pensar que2. si a mon parer anas y amon3. gust que ja seria aqui4. mes totas las personas5. anaqui etingut de tenir6. atendensia losa aparegut7. que de ninguna manera8. oa (^b) via de fer y com una9. pobra dona no pot pendra10. una mula de lloger,11. partir es trista cosa y12. tristisima per estrem13. lo para bernerdino y totas14. las religions cas[es] de barse15. lona y casi totom qui jo [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "038:3650a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo28/038:3650a.JPG",
+      "url": "/legajos/legajo-28/images/038:3650a.JPG"
+    },
+    {
+      "filename": "039:3650b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo28/039:3650b.JPG",
+      "url": "/legajos/legajo-28/images/039:3650b.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "038:3650a.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-28/cartas/004716.json",
+  "primary_image_url": "/legajos/legajo-28/images/038:3650a.JPG"
+}

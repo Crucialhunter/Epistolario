@@ -1,0 +1,38 @@
+{
+  "legajo_id": "41",
+  "id_carta": "7426",
+  "order_in_legajo": 111,
+  "signatura": "112:52.JPG",
+  "nombre_carta": "Carta de conde de Santa María de Formiguera a Pedro Santacilia y Pax",
+  "fecha_original": "4 de abril de 1633",
+  "lugar": "Palma",
+  "remitente": "conde de Santa María de Formiguera",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "?? el papel está doblado de Procurador RealAl señor Don Pedro Santasilia leuanta ?? asi en est Regnauna companyia que sa magestad me ha manat se fareprocurar?? a la persona que las ?? vos aporteraacistir i aiudar ?? li en que fase molts soldats que loque fareu vos ho agraire in estomare ?? en lo que esraho mes que si fos cosa mia propria; a mes que escosa del servey desa magestad a que tots tenim tantaobligatio de acudir in tendre ?? memoria en qualseuol ocasio que sens offeresca quant vos deucom pot di Ciutat a 4 de abril de 1633El conde de Santa Mariade formiguera [1§] Transcripción literal"
+  ],
+  "literal": [
+    "1. [?? el papel está doblado] de Procurador Real2. Al s< eño>r Don Pedro Santasilia leuanta [??] asi en est Regna3. una companyia que sa mag< esta>d me ha manat se fare4. procurar[??] a la persona que las [??] vos aportera5. acistir i aiudar [??] li en que fase molts soldats que lo6. que fareu vos ho agraire in estomare [??] en lo que es7. raho mes que si fos cosa mia propria; a mes que es8. cosa del servey desa mag< esta>d a que tots tenim tanta9. obligatio de acudir in tendre [??] memoria en qual10. seuol ocasio que sens offeresca quant vos deu11. com pot di Ciutat a 4 de Abril de 163312. El conde de S< an>ta Maria13. de formiguera [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "112:52.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo41/112:52.JPG",
+      "url": "/legajos/legajo-41/images/112:52.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "112:52.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-41/cartas/007426.json",
+  "primary_image_url": "/legajos/legajo-41/images/112:52.JPG"
+}

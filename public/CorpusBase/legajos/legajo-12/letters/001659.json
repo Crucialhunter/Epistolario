@@ -1,0 +1,38 @@
+{
+  "legajo_id": "12",
+  "id_carta": "1659",
+  "order_in_legajo": 4,
+  "signatura": "243_6252.JPG",
+  "nombre_carta": "Carta de Conde de Zavellá a Pedro Santacilia y Pax",
+  "fecha_original": "fecha sin especificar",
+  "lugar": "Barcelona",
+  "remitente": "Conde de Zavellá",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Sr. D. Pedro de Santacilia Señor mío recibo su carta [?] v. m. por el patrón a les [?] dicho mirara lo que se [?] cia para haberle enqu [?] se la menester que nad [?] servir a v. m. como yo [?] el Sr. D. Juan llego buen [?] gracias y con su A. [?] conde de Savalla [?] le he llevado en mi [?] por mala que sea ser [?] que una barraca [?] me da [?] y dice [?] a v. m. Las nuevas a [?] mío que juzgo a v. m. que [?] presto según me dicen gu [?] a v. m. muchos años del [?] sobre Barcelona. u Octubre 20 de [?] Su mayor Ser. de v. m. don Gabriel de Lupian [?] En el lateral mío porque v. m. esta cansado de cartas mías no soy largo po que presto nos veremos en Barcelona que estos negocios van muy bien y la compañía es como doy descanso [?]. a Dios Guarde a v. m. El mayor S de v. m. El conde de Zavella Transcripción literal"
+  ],
+  "literal": [
+    "1. Sr. D. Pedro de Sta. Sisilia 2. Señor mio recibo su carta [?] 3. Vm. por el patron a les [?] 4. dicho mirara lo que se [?] 5. çia para haberle enqu [?] 6. sela menester que nad [?] 7. serbir a Vm. como yo [?] 8. el Sr. D. Juan llego buen [?] 9. graçias y con su A. [?] 10. conde de Savalla [?] 11. le he llevado en mi [?] 12. por mala que sea ser [?] 13. que una barraca [?] 14. me da [?] y dice [?] 15. a Vm. las nuevas a [?] 16. mio que jusgo a Vm. q [?] 17. presto sigun me dizen gu [?] 18. a Vm muchos años del [?] 19. sobre Barna. u otubre 20 de [?] 20. Su mayor Ser. de Vm. 21. Don Gabriel de Lupian [?] 22. [En el lateral]23. Sr. mio porq Vm esta cansado de cartas mias no soy largo po 24. q presto nos veremos en Barcelona q estos negocios van muy bien 25. y la compañia es como doy descanso [?]. a Dios Gde. a Vm 26. El mayor S de Vm 27. El conde de Çavella [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "243_6252.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo12/243_6252.JPG",
+      "url": "/legajos/legajo-12/images/243_6252.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "243_6252.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-12/cartas/001659.json",
+  "primary_image_url": "/legajos/legajo-12/images/243_6252.JPG"
+}

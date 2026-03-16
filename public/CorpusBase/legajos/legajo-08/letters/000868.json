@@ -1,0 +1,43 @@
+{
+  "legajo_id": "8",
+  "id_carta": "868",
+  "order_in_legajo": 161,
+  "signatura": "075-61a copia",
+  "nombre_carta": "Carta de Gabriel Seguí a Persona desconocida",
+  "fecha_original": "3 de abril de 1649",
+  "lugar": "Maó",
+  "remitente": "Gabriel Seguí",
+  "destinatario": "Persona desconocida",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "A dues hores de nit la posta per donar avís a v. s. de com havien entrats a este port quatre vaixells de Nàpols. Ara que seran algunes dues hores i mitja de dia han arribat a esta vila dos o tres cavallers dels dits vaixells i m'han donat este plec per a v.s., que don Enrique Ponce de León, qui governa dits vaixells, els ha donat dins el qual refereixen haver carta de sa magestat. Al general diuen esa Espanya i que l'han d'aguardar a est port. Els dits vaixells venien entrat a la volta d'esta vila. En essent en el moll aniré a besar les mans a dit senyor i m'informaré més llarg, si bé veig no hi haurà necessitat de tornar [a] escriure a v.s. sobre dita matèria. Si altra cosa no s'innovarà doncs ells ja donen avís a v.s. s'aculli molt il·lustríssima persona Déu me guardi. De Maó i abril, a 3 de 1649. Gabriel Segui Senyor governador [1§] Menorca Transcripción literal"
+  ],
+  "literal": [
+    "1. A dos horas denit laposta p donar avis a vsª 2. de Com havian entrats a st port quatra vaxells de 3. napolo hara q seran algunas dos horas y mitja 4. de dia han [arribat] aesta vila dos o tres cavallers 5. dels dits vaxells y an me donat estplech p a vsª 6. q D< > Anriche Ponse deLeon qui governa dits 7. vaxells. los hadonat dins loqualreferexan haver 8. carta desaMag< >. Algeneral divan esaespaña 9. Yquelo ande aguardar a st port. Los dits vaxells 10. venen entrant acavolsa de estavila enessent 11. anal moll anire abesar las mans a sit s< > Y me 12. jnformare mes llarch sibe veigx noy aura nese- 13. sitat detornar escriura avsª sobredita materia 14. sialtra cosa nosejnnovera puis ells ja donen 15. avis a vsª acuia molt Jll< > persona deume 16. g< > de Maho. Y Abril a 3 de 1649. 17. Gabriel Sagui 18. Señor g< > [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "075-61a copia.jpg",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo08/075-61a copia.jpg",
+      "url": "/legajos/legajo-08/images/075-61a copia.jpg"
+    },
+    {
+      "filename": "076-61b copia.jpg",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo08/076-61b copia.jpg",
+      "url": "/legajos/legajo-08/images/076-61b copia.jpg"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "075-61a copia.jpg",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-08/cartas/000868.json",
+  "primary_image_url": "/legajos/legajo-08/images/075-61a copia.jpg"
+}

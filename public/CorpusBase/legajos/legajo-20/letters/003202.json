@@ -1,0 +1,37 @@
+{
+  "legajo_id": "20",
+  "id_carta": "3202",
+  "order_in_legajo": 77,
+  "signatura": "100:5983a.JPG",
+  "nombre_carta": "Carta de Miquel Amengual a Pedro Santacilia y Pax",
+  "fecha_original": "2 de enero de 1666",
+  "lugar": "Binissalem",
+  "remitente": "Miquel Amengual",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Molt il·lustre Aquí va Gabriel Nicolau qui és l'home qui m'ha buscat i ajudat a cercar els arbres que v. s. m'ha manat, es home {ESP. apto} per a posar els dits arbres si v. s. gusta, rebrà set empelts d'albercoquer, sis d'en Perpinyà i un d'en Ferrer. Rebrà també quinze massaneres, i quinze pereras, de les quals n'hi ha quatre empeltades. V. s. rebrà la bona voluntat i no deixarà de manar-me tot el que serà son gust, que jo sempre prompte. De Binissalem i d'esta sa casa i gener als 2 de 1666. De v. s. son servidor Miquel Amengual son lloctinent. [1§] Al molt il·lustre Sr. D. Pedro Santacilia i Pax, procurador reial que Déu guardi molts anys etts. Ciutat [2§] Transcripción literal"
+  ],
+  "literal": [
+    "1. Molt Ill<[?]>e sr. 2. Aqui va Gabriel Nicolau qui es lo home qui me ha buscat 3. y aiudat a sercar los abres que V.s. me ha menat, es home 4. apto per a posar los dits abres si V.s gusta, rebra set 5. ompels[?] de albercoquer, sis den perpiñya y un den forrer[?], 6. rebra tambe quinsa masaneras, y quinsa pareras, de las 7. quals nia[?] quatre empeltades[?]; V.s. rebra la bona voluntat 8. y no dexera de menarme tot lo que sera son gust, que 9. yo sempra prompto. de Binissalem y de esta sa casa 10. y Janer als 2. de 1666. 11. De V.s. son servidor Michel Ar- 12. mengual son llochtinent. [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "100:5983a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo20/100:5983a.JPG",
+      "url": "/legajos/legajo-20/images/100:5983a.JPG"
+    },
+    {
+      "filename": "101:5983b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo20/101:5983b.JPG",
+      "url": "/legajos/legajo-20/images/101:5983b.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "100:5983a.JPG",
+  "warnings": [],
+  "raw_source": "raw/legajos/legajo-20/cartas/003202.json",
+  "primary_image_url": "/legajos/legajo-20/images/100:5983a.JPG"
+}

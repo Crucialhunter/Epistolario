@@ -1,0 +1,38 @@
+{
+  "legajo_id": "34",
+  "id_carta": "5082",
+  "order_in_legajo": 110,
+  "signatura": "167:6997.JPG",
+  "nombre_carta": "Carta de Basilio de Castellví y Ponce a Pedro Santacilia y Pax",
+  "fecha_original": "19 de enero de 1657",
+  "lugar": "Valencia",
+  "remitente": "Basilio de Castellví y Ponce",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Señor mío el señor D. Juan Miguel nos favorecido en este lugar el tiempo que seatardado en disponerse en bar/ casión a la logrado muy segura de que quedo muy contento, La falta de salud que tengo de dos meses aestaparte no me ha dado lugar a acompañalle todos los días pero eleservido con lo que meamandado y a todo loquetocare a v. s. estaré dispu/ esto aservirle como debo estimaré que v. s. me dé muchas ocasiones deservirle. Sr. D. Laura y Giuseppe Besan a v. s. las manos Dios guarde a v. s. los muchos años que deseo Valencia y enero a 19 de 1657 muy buen vireitiene v. s. con el conde de Placencia al duque de Montalto nosdicen le llevan arroma alaen/ bajada, mucho he de sentir suausencia BaVismo su mar servidor Sr. don Basilio de Castellvi y Ponce Sr. D. Pedro de Santacilia [1§] Transcripción literal"
+  ],
+  "literal": [
+    "1. Señor mio el señor D. Juan Miguel nos afavorecido en2. este lugar el tiempo que seatardado en dis ponerse en bar/3. casion a la logrado muy sigura de que quedo muy contento,4. La falta de salud que tengo de dos meses aestaparte no me5. adado lugar a aconpañalle todos los dias pero eleservido con6. lo que meamandado y atodo loquetocare a VS. estare dispu/7. esto aserville como devo estimare que VS mede muchas8. ocasiones deserville. D Laura y Jusepe Besan a VS las9. manos Dios gde a VS los ms años que deseo Valenzia y10. henero a 19 de 165711. mui buen vireitiene vs con el Sor conde de Placencia al12. Sr duq de Montalto nosdizen le llevan arroma alaen/13. bajada, mucho he de sentir suausençia14. BaVismo su mar sdor15. don Basilio de Castelui16. y Ponçe17. S. D. Pedro de Santacizilia [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "167:6997.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo34/167:6997.JPG",
+      "url": "/legajos/legajo-34/images/167:6997.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "167:6997.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-34/cartas/005082.json",
+  "primary_image_url": "/legajos/legajo-34/images/167:6997.JPG"
+}

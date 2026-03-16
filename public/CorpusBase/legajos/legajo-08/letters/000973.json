@@ -1,0 +1,38 @@
+{
+  "legajo_id": "8",
+  "id_carta": "973",
+  "order_in_legajo": 155,
+  "signatura": "260-169 copia",
+  "nombre_carta": "Carta de Thomás Áufre y Velasco a Persona desconocida",
+  "fecha_original": "22 de abril de 1646",
+  "lugar": "Menorca",
+  "remitente": "Thomás Áufre y Velasco",
+  "destinatario": "Persona desconocida",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "De los 28 de agosto del año pasado recibí una de v.m. juntamente con los 20 [?] que su majestad ha enviado para la paga de la gente de guerra de esta isla, los cuales se han entregado y distribuido. Con mi intervención ya lleva los despachos necesarios el patrón Francisco Barceló de la entrega de ellos. Teniéndoma aquí v.m. siempre para servirle al dicho patrón se le han dado los despachos por duplicados. Guarde Dios a v.m. muchos años. Menorca a 22 de abril de 1646. Thomás de Aúfra y Velasco D. Pedro Santacilia Transcripción literal"
+  ],
+  "literal": [
+    "1. Delos 28 de agosto. del año pasado Reçivi una 2. de V.m juntam< > Con los 20 ? q su M[a]g< > ha Invia- 3. do p< [a]> la paga dela gente deguerra desta Isla los quales 4. sean entregado y distribuido: Con mi Intervencion 5. ya lleva los despachos nesesarios El Patron Fran< > 6. Barselo dela entrega dellos teniendome aqui 7. Vm. siempre p< [a]> servirle= al dho Patron se lean 8. dado. los despachos por duplicados g< > Dios a vm 9. muchos años Menorca A 22 de Abril de 164seis? 10. Thomas de Çufre y V< >? 11. [?] P< > S< > Silia [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "260-169 copia.jpg",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo08/260-169 copia.jpg",
+      "url": "/legajos/legajo-08/images/260-169 copia.jpg"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "260-169 copia.jpg",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (2)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-08/cartas/000973.json",
+  "primary_image_url": "/legajos/legajo-08/images/260-169 copia.jpg"
+}

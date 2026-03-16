@@ -1,0 +1,38 @@
+{
+  "legajo_id": "15",
+  "id_carta": "2243",
+  "order_in_legajo": 142,
+  "signatura": "230:6468.JPG",
+  "nombre_carta": "Carta de Martín de Rocabertí a Pedro Santacilia y Pax",
+  "fecha_original": "29 de agosto de 1647",
+  "lugar": "Lugar sin especificar",
+  "remitente": "Martín de Rocabertí",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Señor mío, Yo ya he probado el vado de lo que v. m. me encomendó, pero he hallado paño para poder disponerlo de gusto de v. m. a buen seguro que no se perderá por mí. En hallando lugar de volverlo a disponer, lo haré con grandísimo gusto, que nadie se holgará se sus aumentos de v. m., como yo, pues en ello tengo tanta parte, que como él es tan atento en hablar, más tiene dentro, que no descubre a quien habla. Ya su teniente está embarcado en la capitana real de los bajeles por purgar la galera real, flaca, para pasar el golfo. Guárdeme Dios a v. m. en compañía de su familia, con mucha salud y vida, como el más afecto servidor y sobrino se lo desea. A 29 de agosto de 1647. Su más aficionado servidor, sobrino de v. m.,Don Martin de Rocaberti Señor don Pedro Santacilia Transcripción literal"
+  ],
+  "literal": [
+    "1. Sr mio jo jae provado el Vado de lo 2. que Vm me encomendo pero eallado 3. panyo. para poder disponerlo. de Gusto 4. de Vm abuensiguro que no se perdera 5. por mi enallando lugar de bolver lo 6. a disponer. lo are congrandissimo Gusto 7. que nadie se olgara de sus aumento de 8. Vm Como jo. pues en ello tengo tantaparte 9. que Como el [^es] tan atento en ablar. mas tiene 10. dentro que no descubre aquien abla Ja su 11. tte[?] esta enbarcado enla Capitana real. de 12. los vaxeles por Purgar. la galera real flaca 13. para Passar el Golfo[?]. G[u]armedios. a Vm en Con=14. panya de su familia Con mutxa salut i Vida 15. Como el mas affeto servidor y sobrino selo 16. desea a 29 de Agosto de 1647 17. Sumas afficionado servidor 18. sobrin de Vm d Martin de Rocaberti19. [Margen izquierdo][^Sr D Pedro Santacilia] [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "230:6468.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo15/230:6468.JPG",
+      "url": "/legajos/legajo-15/images/230:6468.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "230:6468.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (2)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-15/cartas/002243.json",
+  "primary_image_url": "/legajos/legajo-15/images/230:6468.JPG"
+}

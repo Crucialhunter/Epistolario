@@ -1,0 +1,38 @@
+{
+  "legajo_id": "16",
+  "id_carta": "2605",
+  "order_in_legajo": 93,
+  "signatura": "153:2105.JPG",
+  "nombre_carta": "Carta de Luis de Aragón (VII duque de Cardona) a Pedro Santacilia y Pax",
+  "fecha_original": "23 de junio de 1667",
+  "lugar": "Madrid",
+  "remitente": "Luis de Aragón (VII duque de Cardona)",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "como podré yo dejar depersuadirme cuanto habrá holgado v. s. de la misericordia que nuestroseñor nos ha hecho tan grande en el na cimiento de Joaquin; di cuenta a v. s. por lo que lo había de celebrar y vuelvo le aofre ser a v. s. por su servidor y por mi obligación Dios guarde a v. s. muchos años Madrid 23 Junio 1667 [?] su servidor Sr. don Luis de Aragón señor don Pedro Santacilia y Pax, Anotación a lápiz Sr. don Luis de Aragón, duque de Cardona [1§] Transcripción literal"
+  ],
+  "literal": [
+    "1. Como podre yo dejar depersuadirme 2. quanto abra olgado VS. de la misericordia 3. que nrosr nos a hecho tan grande en el na4. zimiento de Joachin; di quenta a VS. por lo 5. que lo avia de zelebrar y buelbo le aofre6. zer a VS. porsuservidor y por mi obligaz[i]on 7. Diosgde a VS. muchos años Md 23 Junio 8. 1667 9. [Ilegible] 10. su servidor 11. Don luis de Aragon 12. [Margen izquierdo][^ sr D Po Sta Zilia y Paz, ]13. [Anotación a lápiz][^ Don Luis de Aragon, Duque de Cardona] [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "153:2105.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo16/153:2105.JPG",
+      "url": "/legajos/legajo-16/images/153:2105.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "153:2105.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-16/cartas/002605.json",
+  "primary_image_url": "/legajos/legajo-16/images/153:2105.JPG"
+}

@@ -1,0 +1,38 @@
+{
+  "legajo_id": "32",
+  "id_carta": "7133",
+  "order_in_legajo": 147,
+  "signatura": "174:1891.JPG",
+  "nombre_carta": "Carta de Ángela de Celaya y Esporrín a Pedro Santacilia y Pax",
+  "fecha_original": "23 de julio de 1665",
+  "lugar": "Ciudadela",
+  "remitente": "Ángela de Celaya y Esporrín",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "El ser mi necesidad tanta me obliga a suplicarle y cansarle me haga merced de favorecerme con el sr. Marcos Sancho, su lugarteniente en esta isla, para que dé 125 libras que tengo cada año en el Real Patrimonio ha un año y siete meses; que no he recibido nada porque dice que primero se ha de rematar el capitán Gil Cardona, siendo que dicho sr. tiene de su patrimonio, y yo no tengo más de esta miseria sino antes lo que era patrimonio mío gastó d. José en servicio de su majestad y con su condición. Así, vuelvo a suplicar, pues es tan poca esta miseria y yo ser mujer después que se tenga atendencia que no haya de ir a las puertas; y cuando no sea por ser quien soy y por tanta la necesidad por lo menos le obligará a hacerme este favor el haber sido mujer de d. José Esporrín, que me consta era su grande amigo de v.s., a quien Dios me guarde como deseo. De Ciudadela de Menorca, a 23 julio de 1665. De v.s. criada que sus manos besa, da. Ángela de Celaya y Esporrín Transcripción literal"
+  ],
+  "literal": [
+    "1."
+  ],
+  "imagenes": [
+    {
+      "filename": "174:1891.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo32/174:1891.JPG",
+      "url": "/legajos/legajo-32/images/174:1891.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "174:1891.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (2)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-32/cartas/007133.json",
+  "primary_image_url": "/legajos/legajo-32/images/174:1891.JPG"
+}

@@ -1,0 +1,38 @@
+{
+  "legajo_id": "38",
+  "id_carta": "5495",
+  "order_in_legajo": 116,
+  "signatura": "038:19",
+  "nombre_carta": "Carta de Escrivà Miralles a Persona desconocida",
+  "fecha_original": "1 de enero de 1667",
+  "lugar": "Sineu i Sant Joan",
+  "remitente": "Escrivà Miralles",
+  "destinatario": "Persona desconocida",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Delme de bestiar 1667 de la vila de Sineu i St. Juan lliurat a Vicens Amengual de la vila de Selva habitador en Sancelles per 371 ll fiansas Antoni Torrens hortolar del ter ma Cristophol Morey de Castellet de Sta. Margarita Pere Pons de Salva del lloc de Moscari Miralles sba. Sr. D. Juan Bautista Zaforteza mansari Sr. don Diego Clapes mansari Sr. D. Ramon Sureda Canongi mensari Antoni Piza Ador. del Bisbat Pere Onofre Mayol pdor. de la mensa Ca pitular [1§] Transcripción literal"
+  ],
+  "literal": [
+    "1. Delme de bestiar 1667 de la2. vila de Sineu y St. Juan3. lliurat á Vicens Amengual de la4. vila de Selva habitador en Sancelles5. per 371 ll6. fiansas7. Antoni Torrens hortolar del ter8. ma9. Christophol Morey de Castellet de Sta. Marg[ari]tta10. Pere Pons de Salva del lloch de Moscari11. Miralles sba.12. D. Juan Bapt[ist]a 13. Çaforteza mans[ari]14. Don Diego Clapes mans[ari]15. D. Ramon Sureda Canongi mensari16. Antoni Piza Ador. del Bisbat 17. Pere Honofre Mayol 18. pdor. de la mensa Ca-19. pitular [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "038:19.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo38/038:19.JPG",
+      "url": "/legajos/legajo-38/images/038:19.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "038:19.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (2)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-38/cartas/005495.json",
+  "primary_image_url": "/legajos/legajo-38/images/038:19.JPG"
+}

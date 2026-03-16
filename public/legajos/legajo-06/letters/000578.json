@@ -1,0 +1,48 @@
+{
+  "legajo_id": "6",
+  "id_carta": "578",
+  "order_in_legajo": 81,
+  "signatura": "085-49a",
+  "nombre_carta": "Carta de Joan Thomas de Boxadors a Cecilia Zaforteza y Sureda de Sant Martí",
+  "fecha_original": "4 de julio de 1752",
+  "lugar": "Son Pastor",
+  "remitente": "Joan Thomas de Boxadors",
+  "destinatario": "Cecilia Zaforteza y Sureda de Sant Martí",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Tia i senyora mia, Perdoni v. s. que hagi diferit tant temps a respondré a la seva apreciada carta de 26 d’abril, assegurant-la que aquesta tardança no té altre motiu que les moltes ocupacions que en estos mesos meu {ESP. empleo}. Agraesc infinit la confiança amb què v. s. me mana i li suplico me la de la seva amistat, i per satisfacció del negoci, quedant jo així amb la llibertat de poder explicar a v. s. quant puc tenir el gust d’obeir-la. Ha passat alguna dificultat [que] m’impedeix de {ESP. lograr} esta fortuna. Tals són les circumstàncies en què rebo l’estimat precepte de v. s. d’interposar-me amb els srs. del Consell de Palma, a si que el pare prior pugui subsistir de la seva càtedra de prima al pare Tomàs, doncs havent escrit molts mesos ha per complaure el Sr. Escofet, (a qui com v. s. no ignora hem degut infinits favors) recomanant al mateix P. prior un altre, no em queda àrbitre per {ESP. emplear} els meus bons oficis per adelantar les pretensions del subjecte per qui v. s. s’interessa. Si v. s. se fos servida dispensar-me ses ordres, {CAST. antes} que jo fos entrat si té {CAST. empeny} expressar, hauria tingut el {ESP. consuelo} de deixar-los puntualment executats. Però trobant-me ja amb la paraula donada i la feta, no cal que forma una recomanació que el que he obrat i s’oposaria al que he promès. V. s. és tant pundonorosa que no dubto aprovarà estos sentiments, bé que no siguin conformes als desigs, i pregant-la que sense reserva alguna m’{ESP. emplee} en el que sia de son gust, repetesc m'obligació i m’amistat a l’obediència de v. s. Déu guardi a v. s. molts anys com desitjo. Son Pastor i juliol 4 de 1752. Besa la mà de v. s. son nebot i afecte servidor, Joan Tomàs de Boixadors Tia i senyora mia A mi senyora dona Cecilia Zaforteza, Mallorca. Transcripción literal"
+  ],
+  "literal": [
+    "1. Tia y Señora mia: Perdone V.S. que haja differit 2. tant temps a respondrer á la sua apreciada carta 3. de 26 de Abril, assegurantla que esta tardanza 4. no te altre motiu, que las moltas ocupacions que 5. en esta os mesos[?] meu empleo. Agraesc 6. infinit la confianza ab que V.S. me mana, y li supli- 7. co me la [?] de la sua amistat, y 8. per satisfacio del negoci[?]; quedant jo aixis 9. ab la llibertat de poder esplicar á V.S. quant puch 10. tenir lo gust de obeirla á passat alguna dificultat 11. me impedeix de lograr esta fortuna. Tals son les cir- 12. cunstancias en que rebo lo estimat precepte de V.S.; 13. de interposarme ab los SSrs. del Consell de Palma , á 14. si[?] que lo Pe Prior pugue subsistir de la sua Cathedra de 15. Prima al P[?] Thomàs, pues havent escrit molts 16. mesos ha, per complaurer al Sr. Escofet, (a qui com 17. V.S. no ignora havem degut infinits favors, ) recomanant 18. al mateix P. Prior un altre, nom? queda arbitre per 19. emplear los meus bons officis per adelantar las pre- [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "085-49a.jpg",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo06/085-49a.jpg",
+      "url": "/legajos/legajo-06/images/085-49a.jpg"
+    },
+    {
+      "filename": "086-49b.jpg",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo06/086-49b.jpg",
+      "url": "/legajos/legajo-06/images/086-49b.jpg"
+    },
+    {
+      "filename": "087-49c.jpg",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo06/087-49c.jpg",
+      "url": "/legajos/legajo-06/images/087-49c.jpg"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "085-49a.jpg",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-06/cartas/000578.json",
+  "primary_image_url": "/legajos/legajo-06/images/085-49a.jpg"
+}

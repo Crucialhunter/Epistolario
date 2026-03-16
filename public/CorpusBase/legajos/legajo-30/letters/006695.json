@@ -1,0 +1,38 @@
+{
+  "legajo_id": "30",
+  "id_carta": "6695",
+  "order_in_legajo": 197,
+  "signatura": "258:5533.JPG",
+  "nombre_carta": "Carta de Basilio de Castellví y Ponce a Pedro Santacilia y Pax",
+  "fecha_original": "17 de julio de 1661",
+  "lugar": "Valencia",
+  "remitente": "Basilio de Castellví y Ponce",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Senyor mio muchos dies ha que no tengo cartes de v. s. [?] pel que estimo LLETRA DIFÍCIL [1§] Transcripción literal"
+  ],
+  "literal": [
+    "1. Señor mio muchos dias ha q no tengo cartas 2. de VS [?] por lo q estimo 3. LLETRA DIFÍCIL [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "258:5533.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo30/258:5533.JPG",
+      "url": "/legajos/legajo-30/images/258:5533.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "258:5533.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-30/cartas/006695.json",
+  "primary_image_url": "/legajos/legajo-30/images/258:5533.JPG"
+}

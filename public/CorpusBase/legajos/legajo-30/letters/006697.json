@@ -1,0 +1,43 @@
+{
+  "legajo_id": "30",
+  "id_carta": "6697",
+  "order_in_legajo": 199,
+  "signatura": "260:5535a.JPG",
+  "nombre_carta": "Carta de conde de Santa María de Formiguera a Pedro Santacilia y Pax",
+  "fecha_original": "4 de agosto de 1661",
+  "lugar": "Santa Margalida",
+  "remitente": "conde de Santa María de Formiguera",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "[1§] [2§] Transcripción literal"
+  ],
+  "literal": [
+    "1. 1."
+  ],
+  "imagenes": [
+    {
+      "filename": "260:5535a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo30/260:5535a.JPG",
+      "url": "/legajos/legajo-30/images/260:5535a.JPG"
+    },
+    {
+      "filename": "261:5535b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo30/261:5535b.JPG",
+      "url": "/legajos/legajo-30/images/261:5535b.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "260:5535a.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-30/cartas/006697.json",
+  "primary_image_url": "/legajos/legajo-30/images/260:5535a.JPG"
+}

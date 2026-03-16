@@ -1,0 +1,43 @@
+{
+  "legajo_id": "6",
+  "id_carta": "654",
+  "order_in_legajo": 153,
+  "signatura": "230-119a",
+  "nombre_carta": "Carta de F. Vilella Mayor a Cecilia Zaforteza y Sureda de Sant Martí",
+  "fecha_original": "20 de diciembre de 1772",
+  "lugar": "Palma",
+  "remitente": "F. Vilella Mayor",
+  "destinatario": "Cecilia Zaforteza y Sureda de Sant Martí",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Muy ilustre Sra., muy Sra. mía y mi venerada dueña, Remito a v. s. este corto obsequio que más me ha servido de entretenimiento que de fatiga y perdone V.S de [?] los cuatro borrones, y si acaso a v. s. se le ofrece algún frontal o pulis [?] para alguna de sus capillas, suplico a v. s. me lo mande pintar, sin querer paga alguna si no es sólo que importasen [?] los colores, remitiendo sólo el bastidor y tela. Nuestro Señor guarde la ilustre persona [1§] de v. s. los muchos años que le deseo, y Nuestro Sr. dé a v. s. muy Felices Pascuas del Nacimiento de Nuestro Redentor. Palma, a 20 de diciembre de 1772. Besa las manos de v. s. su más rendido y afecto criado [?] mayor. M. ilustre Sra. marquesa de Villafranca, viuda. Transcripción literal"
+  ],
+  "literal": [
+    "1. Muy Illtre Sra. 2. Muy Sra. Mia, y mi 3. Venerada Dueña re- 4. mito, á V.S. este corto 5. Obcequio, que mas me 6. á cervido de entreteni- 7. miento q de fatiga 8. y perdone V.S de[?] lo cua- 9. tro borrones, y ci aca- 10. so á V.S. ce le ofrece 11. algun frontal o pulis[?] 12. para alguna de sus 13. Capillas suplico á V.S. 14. me lo mande pintar, 15. cin querer paga al- 16. guna ci no es solo q[u]e 17. importasen[?] los colores 18. remitiendo solo el 19. bastidor, y tela Nuestro 20. Señor gde la illtre. persa. lo [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "230-119a.jpg",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo06/230-119a.jpg",
+      "url": "/legajos/legajo-06/images/230-119a.jpg"
+    },
+    {
+      "filename": "231-119b.jpg",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo06/231-119b.jpg",
+      "url": "/legajos/legajo-06/images/231-119b.jpg"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "230-119a.jpg",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-06/cartas/000654.json",
+  "primary_image_url": "/legajos/legajo-06/images/230-119a.jpg"
+}

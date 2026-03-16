@@ -1,0 +1,38 @@
+{
+  "legajo_id": "36",
+  "id_carta": "7958",
+  "order_in_legajo": 120,
+  "signatura": "177:7851.JPG",
+  "nombre_carta": "Carta de Mateu Fortesa i Suñer a Pedro Santacilia y Pax",
+  "fecha_original": "22 de octubre de 1669",
+  "lugar": "Madrid",
+  "remitente": "Mateu Fortesa i Suñer",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Senyor mio he tingudes notícies de que v. s. {ESP. gosa} de bona salut que deu li conserva molts anys con jo desitj estic de partida perquéxa ciutat antes que faci mestret que ací no hi fa cosa per estar la reina male setnade quatre [?], en gran melaencolia encara que avui diuen està millor però els reis estan millor fins que son morts. Déu nos Sr. don el que més convenga de son servei: no se Sr. don Gregori si vendrà en mi demà es treuen els despaixos si no va jo dure ordre de prendre possessió i guarde. Déu a v. s., em m'han tot el que sia de son gust que en tot me tindrà a la obediència al Sr. don Nicolau mil besamans de Madrid a 22 de 8be. 1669 Servidor de v. s. que ses mans besa Sr. don Mateu Forteza i Sunyer Sr. don Pedro Santacilia i Paix Transcripción literal"
+  ],
+  "literal": [
+    "1. Señor mio e tingudes notisias de 2. que VSª. gosa de bona salut que deu 3. li conserva mols ains con io des4. ige = estich de pertida pera que5. xa siutat antes que fasa mestret 6. que asi noi fa cosa per estar la Reina 7. male setnade quatra ??, en gran 8. melaencolia encara que vui diuen 9. esta milor pero los Reis estan milor 10. fins que son morts. Deu nos don lo que mes 11. convenga de son servei: no se Don gregori 12. si vendra en mi dema es treuen los despa13. ixos si no va io dure orde de pendra 14. posesio i gde. Deu a VSª, em man tot 15. lo que sia de son gust que en tot me tin16. dra a le obediencia al Sr. Don Nicolau 17. mil besa mans de Madrid a 22 de 8be. 1669 18. Servidor de VSª q. S. M. B. 19. Don Mateu Fortesa 20. y Suñer 21. Sr. Don Pedro Sta. 22. Silia y Paix [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "177:7851.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo36/177:7851.JPG",
+      "url": "/legajos/legajo-36/images/177:7851.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "177:7851.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-36/cartas/007958.json",
+  "primary_image_url": "/legajos/legajo-36/images/177:7851.JPG"
+}

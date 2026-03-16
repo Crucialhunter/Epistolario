@@ -1,0 +1,55 @@
+{
+  "legajo_id": "6",
+  "id_carta": "677",
+  "order_in_legajo": 177,
+  "signatura": "272-138a",
+  "nombre_carta": "Carta de Jaime Terrassa a Cecilia Zaforteza y Sureda de Sant Martí",
+  "fecha_original": "9 de marzo de 1779",
+  "lugar": "Sigüenza",
+  "remitente": "Jaime Terrassa",
+  "destinatario": "Cecilia Zaforteza y Sureda de Sant Martí",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Senyora dona Cecília, Senyora, tinc notícia particular que {ESP. su Ilustrísima} estarà en Muro al més llarg el dissabte de Trinitat. En esta sa possessió agraciaré moltíssim a v. s. el que novament em faci quedar llecit [?] en esta rectoria. A este fi esper de v. m. que me enviarà per al dador d'esta un pavelló de domàs, dues cortines de muda, una de portal, dues per a les finestres, y un {ESP. tapete} per la taula en que ha de treballar {ESP. su Ilustrísima}, com també dues catifes, una per a la capella i l'altra per al llit de {ESP. su Ilustrísima}, sis [1§] canelobres de plata, l'adrés del tinter de plata, un poc de gitza, sis ganivets, i plata per a la taula, en què ha de dinar {ESP. su Ilustrísima}, dos sotacopes i dues o tres bacines de plata. Este favor, que esper rebre de v. s. serà per a mi, entre els innumerables que he experimentat, un nou motiu de pregar a Deu, que mantengui a v. s. molts anys i amb aquella salut perpètua, que és la vertadera als ulls del Senyor. Muro, i maig 20 de 1779. Besa les mans de v. s., son segur servidor i capellà, D. Jaume Terrassa Pre. i rector de Muro Sa. Da. Cecilia Zaforteza, viuda. Transcripción literal"
+  ],
+  "literal": [
+    "1. Señora 2. Tinch noticia particular de que su 3. Illma. estera en Muro lo mes llarch 4. el dissapte de Trinidad; en esta su- 5. posisio agraciare moltissim a V.S. 6. el que novament hem fasse quedar 7. llecit [?] en esta Rretoria A este fi es- 8. per de V.M. que me enviará per el 9. Dador de esta un Pavalló de domas; 10. duas cortinas de muda; una de por- 11. tal; duas per las finestras, y un ta- 12. pete per la taula en que ha de tre- 13. ballar su Illma.; com tabe duas ca- 14. tifas, una per la capella, y la altre 15. per el Llit de su Illma. ; sis canalo- [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "272-138a.jpg",
+      "original_url": "http://www.studiolum.com/Web3/img/Legajo06/272-138a.jpg",
+      "url": "/legajos/legajo-06/images/272-138a.jpg"
+    },
+    {
+      "filename": "273-138b.jpg",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo06/273-138b.jpg",
+      "url": "/legajos/legajo-06/images/273-138b.jpg"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "272-138a.jpg",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    },
+    {
+      "code": "IMAGE_DOWNLOAD_FAIL",
+      "message": "HTTP 404",
+      "context": {
+        "url": "http://www.studiolum.com/Web3/img/Legajo06/272-138a.jpg"
+      }
+    },
+    {
+      "code": "IMAGE_COUNT_MISMATCH",
+      "message": "Imágenes detectadas (2) != descargadas (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-06/cartas/000677.json",
+  "primary_image_url": "/legajos/legajo-06/images/272-138a.jpg"
+}

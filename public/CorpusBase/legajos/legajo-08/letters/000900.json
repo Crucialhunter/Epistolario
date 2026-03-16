@@ -1,0 +1,43 @@
+{
+  "legajo_id": "8",
+  "id_carta": "900",
+  "order_in_legajo": 97,
+  "signatura": "144-94a copia",
+  "nombre_carta": "Carta de Thomás Áufre y Velasco a Pedro Santacilia y Pax",
+  "fecha_original": "13 de junio de 1644",
+  "lugar": "Lugar sin especificar",
+  "remitente": "Thomás Áufre y Velasco",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Cuando remití a v.m e hice el pagamento último de la dotación de este castillo no había más fábrica de las dos que dije a v.s. en esa villa de que se había de hacer la carnicería, y después de hecho el recado del pagamento puso mano el castellano en las demás casas y carnicería, con que yo entiendo tener culpa ninguna. Si después continúa su pretensión no obstante los avisos de v.s. con las órdenes de su magestad y así su carta de v.s. de 9 de este se la di en la missma obra delante de los que trabajaban, que oyeren los peloteros que corrimos y en resolución él está resuelto a proseguirlo. Solo siento su seguridad en decir públicamente que aunque su magestad se lo mandara no lo dejará de hacer. Respondile que su resolución era en daño de los que lo trabajaban, porque era cierto no se le pagarían. Dice que ya se les pagará de lo que les quedó devolver de tiempo de Domingo de Herrerra y que les sería todo uno. Yo le dije que también habría duda si lo quería hacer pagar v.s. por ser con cuidado y que cuando formar y empezar tales fábricas se había de comunicar [1§] a v. s. Como quien tiene la mano en los despachos de esta consigo dije que su magestad es superior, pero yo entiendo que para cualquier trabajo se ha de ajustar con la bolsa y no con la potestad. Él dice quedará [?] a su magestad para que lo tenga por bien y prometo a v.s. son tantos los disgustos que me cuestan estas casas que no pueden imaginar. Porque sabe me eximo de estas obras; yo pienso que cansarse v.s. más en esto es martillar en hierro fierro: vs. de su parte tiene hecho su obligación. Él se tendrá la culpa en cualquier accidente que suceda. Me ha dicho el alcade escribiesa a v.s. no era tanto como habían dicho a v.s., lo que yo digo es que a la hora de esta están hechas 4 viviendas de alojamientos con sus corrales y dos que son la carnicería y casa del soldado a caballo, que son seis y dos que quiere hacer. Son gastos tan superfluos como se ve necesitando más de aderezo algunos alojamientos que cuando se quiera adrezar dilatándolo no lo hará su magestad con un año de dotación. Mi obligación no es más que advertirlo dar para y lo que está en mi mano. Rehusar el despacho a eso entiendo haber procedido siempre con toda atención. Dios guarde a v.s. muchos años como deseo. Castillo de San Felipe, junio a 13 de 1644. Thomás de Aúfre y Velasco Señor gobernador Transcripción literal"
+  ],
+  "literal": [
+    "1. Quando Remiti aV.S. y hice el Pagam<> ultimo dela 2. Dotacion deste Castillo no avia mas fabrica delas dos 3. quedije aV.S. enessa Villa deq se avia de haçer la Cra- 4. niceria y despues de hecho el Recado del Pagam< > puso 5. mano el castellano enlas demas casas y Carniseria 6. Conque jo no entiendo tener Culpa ninguna. Sides- 7. pues continua su pretençion no obstante los avisos 8. deV.S. Con las Hordenes de suM[a]g< > y assi su carta de 9. V.S. de 9 deste sela di enlamis< [a]> Obra delante delos q 10. travajavan q oyeren los peloteros que Corrimos y en 11. Resoluçion el esta Resuelto aproseguirlo solo siento su 12. segu[r]idad en deçir publicam< > que aunque suMag< > selo 13. mandara. nolo dejara de haçer Respondile que su Re- 14. soluçion era endaño delos q lotravajavan p que era 15. sierto. no sele pagarian. diçe que. jaseles pagara delo 16. q les quedo devº de tpo de Domgo de Herrera. y que 17. les seria todo uno yo le dije. quetamvien abria duda 18. si lo queria haçer pagar V.S. p ser concuydado y q q< > 19. formar y empeçar tales fabricas se avia de Comunicar [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "144-94a copia.jpg",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo08/144-94a copia.jpg",
+      "url": "/legajos/legajo-08/images/144-94a copia.jpg"
+    },
+    {
+      "filename": "145-94b copia.jpg",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo08/145-94b copia.jpg",
+      "url": "/legajos/legajo-08/images/145-94b copia.jpg"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "144-94a copia.jpg",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (2)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-08/cartas/000900.json",
+  "primary_image_url": "/legajos/legajo-08/images/144-94a copia.jpg"
+}

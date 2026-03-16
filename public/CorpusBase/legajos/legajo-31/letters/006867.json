@@ -1,0 +1,38 @@
+{
+  "legajo_id": "31",
+  "id_carta": "6867",
+  "order_in_legajo": 109,
+  "signatura": "154:1618.JPG",
+  "nombre_carta": "Carta de Joan Antoni Albertí a Pedro Santacilia y Pax",
+  "fecha_original": "23 de septiembre de 1661",
+  "lugar": "Ciutadella",
+  "remitente": "Joan Antoni Albertí",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "La de v. s. dels 31 del passat he rebuda i amb ella vist la mercèd m'ha feta amb la puntualitat que li demanava que cert no sé com pagar tants favors confio el temps me donarà Déu vida experimentera v. s. la mia voluntat, i que el més suplicat me descansas no fou altre intent que donar satisfasio de ma persona doncs amb els comptes experimenteran estos senyors mon desitjo el que no [?] cregut enant continuant; jo confio estos dies paserem aquells del primer dia entre servint l'ofici sui el dia últim que jura el Sr. don Bartº Mercadal que fou els 18 d'aquest mes, i per sempre me prostre a sus peus, i faxde son emparo aguardant-me mano moltes coses perquè experiment mon desig guardi Déu a v. s. molts anys amb companyia d'eixes mis senyores de Ciutadella i setembre a 23 de 1661. Molt servidor de v. s. que ses mans besa Joan Ant Alberti Transcripción literal"
+  ],
+  "literal": [
+    "1. La de VSª dels 31 del pasat he rabuda i ab ella 2. vist la marced me ha fetta ab la puntualitat que 3. li demenave que cert no se com pagar tans favors 4. confio lo temps me donera Deu vida esperimentera 5. VSª la mia voluntat, i que lo mes supplicat me 6. descansas no fonch altre intent que donar satisfasio 7. de ma persona puis ab los comptes experimenteran 8. estos seños mon desitjo lo que no [?] cregut 9. enant continuant; jo confio estos dies passeram 10. aquells del primer die entre servint el offici sui 11. lo die ultim que jura lo Sr Don Bartº Mercadal que 12. fonch els 18 de est mes, y per sempra me prostre 13. a sus peus, i fax de son enparo aguardant me 14. mano moltes cosses paraque experiment mon 15. desitx Gde Deu a VSª molts anys ab companyia de 16. exas mis señoras de Ciutadella y 7bre a 23 de 1661. 17. Molt servidor de VSª 18. q. S. M. B. 19. Sor Joan Ant Alberti [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "154:1618.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo31/154:1618.JPG",
+      "url": "/legajos/legajo-31/images/154:1618.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "154:1618.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-31/cartas/006867.json",
+  "primary_image_url": "/legajos/legajo-31/images/154:1618.JPG"
+}

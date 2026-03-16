@@ -1,0 +1,38 @@
+{
+  "legajo_id": "26",
+  "id_carta": "4512",
+  "order_in_legajo": 248,
+  "signatura": "369:3607.JPG",
+  "nombre_carta": "Carta de Nicolás de Santacilia y Togores a Pedro Santacilia y Pax",
+  "fecha_original": "23 de septiembre de 1665",
+  "lugar": "Madrid",
+  "remitente": "Nicolás de Santacilia y Togores",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Ayer don Fernando de Borja llamó al [?] para saber los nombres de los pajes y cuántos había que estaban en la casa, también pusieron a mi hermano en la lista. Estese v. m. prevenido por lo que puede suceder, y fuera mucho mejor que estuviera acá, porque podrá ser que cuando lo envíen a llamar se tarden las cartas, y no llegue a tiempo y no será fácil después alcanzar nada. A mi me parece que nos harán mercedes y nos enviarán con Dios. La casa del rey se desace y la de la reina la ocupa los meninos. Nos ocuparán a nosotros. Mis compañeros han escrito a los otros que están fuera para que vengan. Jerónimo escribirá más largo. Guarde Dios a v. m. michos años como deseo y es menester. Madrid a 23 de Setiembre 1665. Don Nicolas de Santacilia y Togores Mi padre y señor Transcripción literal"
+  ],
+  "literal": [
+    "1. Ayer Don Fernando de Borga llamo al Ayo2. para saber los nonbres de los pages y qua=3. nto avia que estavan en la casa, tanbien4. pusieron a mi hermano en la lista, estese VM5. prevenido por lo que puede suseder, y fuera6. mucho megor que estuviera aca, porque7. podra ser que quando lo inbien a llamar8. se tarden las cartas, y no llege a tienpo y9. no sera fasil despue[s] alcansar nada, a mi me10. parese que nos aran mersedes y nos in=11. biaran con Dios La casa del Rey se desa=12. se y la de la Reyna la ocupa los meninos13. nos ocuparan a nosotros mis conpañeros14. an escrito a los otros que estan fuera para15. que vengan Geronimo escrivira mas16. largo Guarde Dios a VM michos años17. como deseo y e menester Madrid a 2318. de setienbre 166519. Don Nicolas de Sta. Cilia y Togores20. Mi Padre y Señor [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "369:3607.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo26/369:3607.JPG",
+      "url": "/legajos/legajo-26/images/369:3607.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "369:3607.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-26/cartas/004512.json",
+  "primary_image_url": "/legajos/legajo-26/images/369:3607.JPG"
+}

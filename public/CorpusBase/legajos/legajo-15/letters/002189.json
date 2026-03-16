@@ -1,0 +1,43 @@
+{
+  "legajo_id": "15",
+  "id_carta": "2189",
+  "order_in_legajo": 89,
+  "signatura": "139:6414a.JPG",
+  "nombre_carta": "Carta de Mateu Fortesa i Suñer a Pedro Santacilia y Pax",
+  "fecha_original": "10 de mayo de 1645",
+  "lugar": "Madrid",
+  "remitente": "Mateu Fortesa i Suñer",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "La de v. s. tinc rebuda, en què me diu en el sentiment està d'eixir d'aquí. Ja sabrà com don Josep de Rocaberti està proveït per aqueix govern, i ara li don avís de com s'és partit, i va aquí en tota presa, en que v. s. serà fora d'aqueix {ESP. desterro}. Jo pens partir-me d'ací per tot aquest mes. En què el senyor don Vicente diu que jo no [puc] eixir d'ací, sinó que em treguin fora, i que em porten la roba, i que me'n vaja, que d'altra manera no pot ser, que jo no sé com pot eixir d'ací un home que no [sia] per força. I tots els de bon gust, quan eixim d'ací diem que tornarem prest. I encara que un home vegi que Sr. don Pedro Santacilia no pot tornar, al {ESP. menos} té el {ESP. consuelo} que tornarà. Ja és força anar a Mallorca per certa causa, i des que estic determinat, estic com un home a qui han feta sentència de mort. Ho sent tant com v. s. estar a Menorca, així sent a {ESP. ir} de Madrid. I guardi Déu a v. s. i em mani el que sia de son gust, que a qualsevol part estic a sa disposició. De Madrid, a 10 de maig 1645. Don Mateu Forteza i Suñer Transcripción literal"
+  ],
+  "literal": [
+    "1. La de VSa tinc rabuda enque em diu 2. en lo sentiment estade axir de aqui ja 3. sabra com don Josep de rocaberti esta pro4. veit, per aquex govern i ara lidon avis 5. de con sespertit i va aqui entota presa 6. en que VSa sera fora deaquex destero 7. jo pens pertirme desi per tot aquest mes 8. enque el Senor don Visente diu que jo no 9. que asir desi sino qie emtregan fora i que 10. em porten leroba i que menvaga que de11. altra menera nopot ser que jo nose 12. com pot axir de asi unome que no ha (^per) 13. esforsa i tots los de bon gust quant 14. axim desi diem que tornarem prest 15. i encara que unome vegaque16. [Margen izquierdo] [^Don Pedro Sa Cilia] [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "139:6414a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo15/139:6414a.JPG",
+      "url": "/legajos/legajo-15/images/139:6414a.JPG"
+    },
+    {
+      "filename": "140:6414b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo15/140:6414b.JPG",
+      "url": "/legajos/legajo-15/images/140:6414b.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "139:6414a.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-15/cartas/002189.json",
+  "primary_image_url": "/legajos/legajo-15/images/139:6414a.JPG"
+}

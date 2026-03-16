@@ -1,0 +1,38 @@
+{
+  "legajo_id": "32",
+  "id_carta": "7039",
+  "order_in_legajo": 32,
+  "signatura": "020:1797.JPG",
+  "nombre_carta": "Carta de Diego Matías de Aragüés a Pedro Santacilia y Pax",
+  "fecha_original": "2 de enero de 1664",
+  "lugar": "Mallorca",
+  "remitente": "Diego Matías de Aragüés",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Â [1§] Transcripción literal"
+  ],
+  "literal": [
+    "1."
+  ],
+  "imagenes": [
+    {
+      "filename": "020:1797.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo32/020:1797.JPG",
+      "url": "/legajos/legajo-32/images/020:1797.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "020:1797.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (6)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-32/cartas/007039.json",
+  "primary_image_url": "/legajos/legajo-32/images/020:1797.JPG"
+}

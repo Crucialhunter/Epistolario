@@ -1,0 +1,43 @@
+{
+  "legajo_id": "25",
+  "id_carta": "4135",
+  "order_in_legajo": 69,
+  "signatura": "139_169a.JPG",
+  "nombre_carta": "Carta de Manuel de Sarabia Velázquez a Jerónimo Pelegrín de Aragüés",
+  "fecha_original": "6 de junio de 1667",
+  "lugar": "Càller (Cagliari)",
+  "remitente": "Manuel de Sarabia Velázquez",
+  "destinatario": "Jerónimo Pelegrín de Aragüés",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Sr. Jeronimo Pelegri, mi amigo. Amigo mío, con mucha soledad me dejas pues habiendo venido dos barcas de ese reino y un bergantin, no he tenido carta tuya, holgáreme mucho no sea por falta de salud. Dios te la dé como yo la deseo para mi. Yo quedo con ella, gracias a Dios, y mi madre aunque no del todo buena, siempre para servirte. A tu mujer, hijos, beso las manos, y que me holgaré gocen de muy buena salud. En muchas cartas te he escrito, como te tengo un caballero para enviarte, y te he dicho que le digas al capitan, del San Francisco, va [?], vale que tu quisieres que te la lleve, y nunca me has repondido, y ahora finalmente me hallo con el en casa, y estoy esperando a que venga Fleges, o Baulo, porque lo lleve, porque este patron Ballester, no la ha querido llevar, porque dice que no puede en su barca llevarlo, y así no dejes de encargarlo a cualquiera que venga, i por tu vida que no me dejes de escribir, en todas les ocasiones que hubiere, que para mi son tus cartas de toda estimación y consuelo de saber quedas con salud. Al señor don Pedro i todos esos señores besarás las manos de mi parte, y que vean si me mandan algo por acà que siempre les he de servir. Dios te guarde los años de mi deseo. Cáller i Junio 6 de 1667. Tu amigo y servidor que más desea ver Manuel de Sarabia Velazquez [1§] {CAT. Càller, 6 Juny 1667, de don Manuel de Sarabia Velazquez}. Respuesta a 14 de {CAT. juliol de dit, per la barca d'en Mateu. Transcripción literal"
+  ],
+  "literal": [
+    "1. Sr. Geronimo peregri, mi amigo2. Amigo mío, con mucha soledad me dexas3. pues abiendo benido dos barcas de ese4. reino, i un bergantin, no etenido carta tu5. ya, olgareme mucho no sea por falta de6. salud, dios te la de como yo la deseo para7. mí, yo quedo con ella gracias a Dios i mi ma8. dre aunque no del todo buena, siempre para9. serbirte, a tu muger, ixos, beso las manos, i que10. me olgare gocen de mui buena salud=11. En muchas cartas te escrito, como te temgo un12. caballo para embiarte, i te e dicho que le13. digas al capitan, de san Franco., va fleges, val14. que tu cisieres que te le llebe, i nunca meas15. repondido, i aora finalmente me allo16. con el en casa, i estoi esperando a que ben17. ga Fleges, u baulo, para que lo llebe, por18. que este patron ballester, no le a querido19. llebar, porque dice queno puede en su bar20. ca llebarlo, i asi no dexes de encargar21. lo a cualquiera que benga, i por tu bida22. que no me dexes de escribir, en todas las ocasiones que ubiere, que para mí23. son tus cartas de toda estimacion, i consuelo de saber quedas con salud24. al senor don pedro i todos esos senores besaras las manos de mi part, i que bean25. si me mandan algo por aca que sienpre les e de serbir, dios te guarde los anos26. de mi deseo, Caller i Junio 6 de 166727. Tu amigo i serbidor28. que mas desea ber29. Manuel de sa30. rabia Velazquez [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "139_169a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo25/139_169a.JPG",
+      "url": "/legajos/legajo-25/images/139_169a.JPG"
+    },
+    {
+      "filename": "140_169b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo25/140_169b.JPG",
+      "url": "/legajos/legajo-25/images/140_169b.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "139_169a.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (5)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-25/cartas/004135.json",
+  "primary_image_url": "/legajos/legajo-25/images/139_169a.JPG"
+}

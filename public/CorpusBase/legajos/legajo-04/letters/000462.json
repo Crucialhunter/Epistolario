@@ -1,0 +1,43 @@
+{
+  "legajo_id": "4",
+  "id_carta": "462",
+  "order_in_legajo": 15,
+  "signatura": "000-1a",
+  "nombre_carta": "Carta de Antoni Sobirà a Persona desconocida",
+  "fecha_original": "12 de noviembre de 1604",
+  "lugar": "Perpiñán",
+  "remitente": "Antoni Sobirà",
+  "destinatario": "Persona desconocida",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Il·lustre i molt reverend senyor, Estos dies passats vingué d'Empordà mossèn Jeroni Rodes, procurador [?] del Sr. don Francisco de Rocaberti, i em deixà manat remetre el restant diner devia jo al Sr. don Francisco per la paga caiguda el Sant Miquel de setembre passat a v. m., que v. m. tindria {ESP. cuidado} remetre-la al Sr. don Francisco i {ESP. ganar} esta terra molt corta. Fins avui no he trobat {ESP. còmodo} per a proveir aquí el diner, que pensava seria forçat enviar-los de contants; i per no trobar-se ací un amic meu que es diu Jeroni Bosch m'ha fet plaer d'escriure en Girona que dues-centes lliures fors tenia ell allí les remetessin per mi amb lletres de canvi amb mi, i ací m'ho [?] per ser-me molt amic m'ha fet plaer de fer-me altra lletra de cent lliures fors, la qual va amb la present, que amb tot seran 300 lliures d'aqueixa moneda, i quan els de Girona no hagin enviada la lletra a v. m. ja tindré jo avís dimecres plaent al Sr. que jo faré vagi de qualsevol manera, i som restats el Sr. mossèn Jeroni i jo que ell serà ací el primer dia i tindré a punt tot el compte del que he pagat pel Sr. don Francisco i el que restarà, que entenc serà poca cosa; s'anirà la [?] juntament amb dit compte, i si cosa per ací a v. m. s'ofereix me mani, excel·lentíssim Sr. la il·lustre molt reverend persona de v. m. amb salut conservi i [?] amb tots, de Perpinyà, a 12 de novembre 1604. Il·lustre i molt reverend Sr. servirà a v. m. Antoni Sobira. Jesús, Maria, en Perpinyà a 23 de novembre 1604. 1000 lliures pagarà a doble usat per esta [?] de canvi a don Dimas de Boixadors, mil reals per altres tants rebuts ací de mossèn Antoni Sobira i X amb tots. Rafel Jaen [1§] A l'il·lustre i molt reverend Sr. don Dimas de Boixadors al carrer dels mercaders. En Barcelona. De port 16 [?] Transcripción literal"
+  ],
+  "literal": [
+    "1. Illse y molt Rnt Sor. 2. Estos dies pasats vingue de emporda mo. Gironimi Rodes per [?] 3. dor del Sor. don franco de rocaberti ymdexa manat remete 4. lo restant diner devia jo al Sor. don franco p la paga 5. caiguda lo st miquel de sette pasat a V. m. que V. m. 6. tindria cuidado remetrel al sor. don franco y ganar 7. esta terra molt corta fins vuj no e trobat comodo 8. per a proveir aqui lo diner que pensava seria forsat 9. enviarlos de comtans y p no trobarse asi un amich 10. meu ques diu geronim bosch me a fet pler de escrivir 11. en gerona que dos centes lliures fors tenia ell alli 12. las remetesen p mi ab lletras de cambi ab m[i]13. y asi 14. mo jaen p serme molt amich me a fet pler de fer 15. me altra lletra de cent lliures fors la qual va ab 16. la qnt que ab tot seran 300 lls. de aquexa mone- 17. da y quant los de gerona no ayan enviada la lletra 18. a V.m. ja tindre jo avis dimecres plaent al sor. que 19. jo fare vaya de qualsevol manera y som restats lo 20. mo. Gironi y jo que ell sera asi lo pmer dia y tindre 21. apunt tot lo compte del que e pagat p lo sor. don franco 22. y lo que restare que entench sera poca cosa sanira 23. la reliqum [?] juntament ab dit compte y si cosa p asi 24. a V. m .se hoferex me man. Exl Sor. La lle y molt 25. Rsme. psona de V.m. ab salut conserve y xpo ab tots. 26. de perp. a 12 de no[e]27. 1604 28. Ille. y molt Rsnt. Sor. 29. Servira a V.m. 30. Antonj Sobira 31. JMs Ma. en PP. a 23. de 9. e 1604. 1000 Lle. 32. Pagara a doble usat p esta l de cambi a don dimas 33. de boxados mil Reals p altres tants rebuts assi de mo. 34. Antoni Sobira y Xo. ab tots. 35. Rafel Jaen [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "000-1a.jpg",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo04/000-1a.jpg",
+      "url": "/legajos/legajo-04/images/000-1a.jpg"
+    },
+    {
+      "filename": "001-1b.jpg",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo04/001-1b.jpg",
+      "url": "/legajos/legajo-04/images/001-1b.jpg"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "000-1a.jpg",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (2)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-04/cartas/000462.json",
+  "primary_image_url": "/legajos/legajo-04/images/000-1a.jpg"
+}

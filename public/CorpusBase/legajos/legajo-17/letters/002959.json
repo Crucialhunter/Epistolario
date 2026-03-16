@@ -1,0 +1,43 @@
+{
+  "legajo_id": "17",
+  "id_carta": "2959",
+  "order_in_legajo": 224,
+  "signatura": "390:1501a.JPG",
+  "nombre_carta": "Carta de Diego Matías de Aragüés a Pedro Santacilia y Pax",
+  "fecha_original": "8 de septiembre de 1660",
+  "lugar": "Madrid",
+  "remitente": "Diego Matías de Aragüés",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Por una carta de Jerónimo de 25 del pasado he sabido como v. m. estaba libre del achaque de dolor de y xada que se puede dar enhorabuena v. m. este tan cumplida salud como le deseo en vida de mi Sra. doña Leonor que su mano besamos da Margarita con las de v. m. y todos esos Sres. muchas veces. Acá continuan aún los calores de manera que parece estamos en mitad de las caniculares, y poresta causa y hasta que refresque el tiempo el Sr. don Juan se estará en mi casa y el médico le haya dado unos jarabes para que se le acabe de quitar y limpiar la opilación que lo esta casi libre de ella y se halla muy agil, y en los paseos que bien para hacer xercición no puede seguirle Jerónimo y come de buen gusto y bien y muy moderado en el beber que es lo que más necesitaba y espero que ha de quedar de manera que ha de ser muy otro, y sin embargo de lo que ha tenido ha crecido más de dos dedos y enfortecido de [1§] cuerpo que espero que ha de salir vicarro mozo Dios le dé salud que se puede esperar muy buen cargo. y a v. m. habrá sabido como murió nuestro Rela tor de la Inquisición en 9 días, tengo mucho andado con el otro y espero ha despacharme presto, y al inquisidor general se lo tengo suplicado y representándole todo lo que le ofrece en la materia. y todos estos Sres. del consejo entendido como el contrario no va a otro fin sino a poner largas no se me ofrece ahora otra cosa pues en todas mis cartas tengo avisado de lo demás, que parece no han llegado a manos de v. m. pues aún en la de Jerónimo no hace v. m. mención de ella. Guarde Dios a v. m. muchos años. Madrid a 8 de septiembre 1660. Besa la mano de v. m. su mayor servidor Diego Matias de Aragues En razón de la Pensión del Sr. don Yo de los 200 ducados que se le han dado en Mallorca, no obstante que en el despacho del obispo va especificado será fuerza el sacar despacho de ellos para que se le dé la bula y el correo que viene se le enviara a v. m. don Pedro Santacilia y Pax [2§] Transcripción literal"
+  ],
+  "literal": [
+    "1. Por una carta de Gero de 25 del passado 2. he savido como Vm estava libre del 3. achaque de dolor de Yxada q se puede 4. dar enhorabuena Vm este tan cumplida 5. salud como le desseo en vida de mi 6. Sra. doña Leonor q su mano vesamos 7. da Magta con las de Vm. 8. y todos essos Ssres. muchas vezes. 9. Aca continuan aun los calores de 10. manera q pareze estamos en mitad 11. de las caniculares, y poresta causa 12. y hasta q refresque el tpo el Sr. don 13. Juan se estara en mi casa y el medico 14. le haya dado unos Jaraves para que 15. se le acave de quitar y limpiar la 16. opilacion q lo esta casi libre della 17. y se halla muy agil, y en los paseos 18. q bien pa hazer xercicio no puede 19. seguirle Gero y come de buen gusto 20. y bien y muy moderado en el bever 21. q es lo que mas necessitava y espero q22. ha de quedar de manera q ha de ser 23. muy otro, y sin embargo de lo q ha tenido 24. ha crecido mas de dos dedos y enforteçido de [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "390:1501a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo17/390:1501a.JPG",
+      "url": "/legajos/legajo-17/images/390:1501a.JPG"
+    },
+    {
+      "filename": "391:1501b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo17/391:1501b.JPG",
+      "url": "/legajos/legajo-17/images/391:1501b.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "390:1501a.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (3)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-17/cartas/002959.json",
+  "primary_image_url": "/legajos/legajo-17/images/390:1501a.JPG"
+}

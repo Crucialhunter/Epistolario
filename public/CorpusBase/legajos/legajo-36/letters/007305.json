@@ -1,0 +1,38 @@
+{
+  "legajo_id": "36",
+  "id_carta": "7305",
+  "order_in_legajo": 52,
+  "signatura": "076:7780.JPG",
+  "nombre_carta": "Carta de Joan Avilés a Pedro Santacilia y Pax",
+  "fecha_original": "19 de junio de 1648",
+  "lugar": "Vinarós",
+  "remitente": "Joan Avilés",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "En una que ha escrit Sr. don Pedro gavalda escriguí quatre renglons Despuig se m'ha oferit haver d'escriure a Joan i Gabriel ruis i així suplico a v. m. mane donar-la a un criat en mans pròpies per aquí ens han vengut a visitar els srs. francesos en dos ocasions i la nostra cavalleria els ha pres una 20 de precioners ha 9 dies que esta l'exercit en Tortosa i fins ha huy no se ninguna [?] sospita que no serà [?] així per no haver portar artilleria com per la poca gent que té no són sinó 6000 infants i 2000 cavalls i en el principi donen ja fam que vol un per ha de [?] els reals huy m'han dit que va talant la campanyia i si es fort se'n voldrà anar [?] ho farà com pot i a v. m. guardi molts anys Vinarós i juny a 19 de 1648. Capella de v. m. i pr Bé Joan [?] [1§] Transcripción literal"
+  ],
+  "literal": [
+    "1. En una que ha escrit Don Pedro ga2. valda escrigui quatre reglons despuig 3. se me ha offerit aver de escriure a 4. Joan y grabiel ruis y aixi soplico 5. a V. md. mane donarla aun criat en 6. mans propies - per assi nos an 7. vengut a visitar los Sors. franzesos 8. en dos ocasions y la nostra cavalle9. ria los ha pres una 20 de presioners 10. ha 9 dies que esta lo exersit en Tor11. tosa y fins ha huy no se ninguna 12. ?? sospita que no sera [?] aixi 13. per no aver portar artilleria com per 14. la poca gent que te no son sino 15. 6000 infants y 2000 cavalls y en 16. lo prinsipi donen ja fam que vol 17. un pa de [?] los reals huy me 18. han dit que va talant la campanyia 19. y si es fort sen voldra anar [?] ho fa20. ra com pot y a V. md. gde mols anys 21. Vinaros y juny a 19 de 1648. 22. Capella de V. md. y 23. pr Be Joan ?? [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "076:7780.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo36/076:7780.JPG",
+      "url": "/legajos/legajo-36/images/076:7780.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "076:7780.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-36/cartas/007305.json",
+  "primary_image_url": "/legajos/legajo-36/images/076:7780.JPG"
+}

@@ -1,0 +1,38 @@
+{
+  "legajo_id": "8",
+  "id_carta": "905",
+  "order_in_legajo": 78,
+  "signatura": "154-100 copia",
+  "nombre_carta": "Carta de Francisco María Chevi a Pedro Santacilia y Pax",
+  "fecha_original": "10 de enero de 1644",
+  "lugar": "Lugar sin especificar",
+  "remitente": "Francisco María Chevi",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Señor mío, ayer supe que Dios había dado una hija a v. s.: Dios le dé muchos años de vida en vida de v. s. y de mi sra. Yo tenía determinado de ir a Ciudadela como ya se lo había dicho a v. s. que iría al punto supuse hubiese partido mi sra. y como Dios ha sido servido que tengo mi mujer mala esta ha sido la causa no haber ido para haber mi obligación todos los de mi casa han tenido muy grande contento y quiera Dios presto darle un hijo varón a v. s., que Dios sabe lo que nos conviene a todos y así tengo entendido que v. s. ha tenido muy grande contento y ruego a Dios de muchos años de vida a v. s. en vida de mi sra. y la buena hija y todas sus cosas del castillo. Y enero, a 10 de 1644. Pedro Caules de Haro Ya creo habrá recibido el pliego que envié a v. s. y la carta por mi capitán general y me holgaría saber cómo le pareció a v. s. la dicha carta y si v. s. la ha enviado. Señor don Pedro Santacilia, gobernador y capitán general. Mi señor. Transcripción literal"
+  ],
+  "literal": [
+    "1. Señor mio. ayher supe quedios haviad[ad]o una 2. hija avsª dios ledemuchos años de 3. vida envida devsª y demisª yo teni[a] 4. determinado de yr aciudadela como yase 5. lo havia dicho avsª que yria Alpunto 6. supuse haviese partido misª ycomodios 7. a sido servido que tengo mi muger mala 8. esta hasido lacausa no haver ydo para haber 9. mi obligacion todos los de micasa Antenido 10. muy grande contento y quieradios presto dar 11. le un hijo baron avsª quedios sabeloquenos 12. conviene atodos yansitengo entendido que 13. vsª atenido muy grande contento yruego 14. adios de muchos años devida avsª envida 15. demisª ylabuenahija y todass uscosas 16. delcastillo y henero a 10 de 1644 17. PedroCaulesdeharo 18. ya creo abrarecivido elpliego ynvie 19. a vsª ylacarta pormicap< > gnal ymeol- 20. garia saber comoleparecio avsª la dicha 21. carta y sivsª la enviada 22. S< > Don Pedrosantacilia 23. g< > ycap< gnal mis< > [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "154-100 copia.jpg",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo08/154-100 copia.jpg",
+      "url": "/legajos/legajo-08/images/154-100 copia.jpg"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "154-100 copia.jpg",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-08/cartas/000905.json",
+  "primary_image_url": "/legajos/legajo-08/images/154-100 copia.jpg"
+}

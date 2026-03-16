@@ -1,0 +1,43 @@
+{
+  "legajo_id": "18",
+  "id_carta": "3033",
+  "order_in_legajo": 67,
+  "signatura": "112:4872a.JPG",
+  "nombre_carta": "Carta de Josep de Rocabertí a Pedro Santacilia y Pax",
+  "fecha_original": "29 de octubre de 1662",
+  "lugar": "Barcelona",
+  "remitente": "Josep de Rocabertí",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "{ESP. mío} la brevetat amb què és parteix esta embarcació amb les Sres. religioses que passen a fundar a eixa ciutat no em dona lloc de fer moltes lincas en resposta de les que v. m. me té escrit recomanant-nos la persona del Clement çocies i per dit efe cte i Per molt del Sr. don Josep Marti hem els dos procurat aconsellar-li el que ens ha paregut devia per ara fer per exir-se de certa locura que un cavaller de Guesca s'havia posat al cap i em el ser ino se nt en la culpa que seli importava ha mistat [?] plenament i per altres raó ns que la mercè referira li hem aconsellat que de Nia amontarsa [?] i tra ctar de sos estudis per a venir a Graduar se quant asa mercè lisera bon vist i en l'entretant se procurava disnada de la locura al tal cavaller, torno, a, segurar a v. m. que enquant a est cava [1§] ller no hi ha hagut perat Venial {CAST. antes} bé perquè no li passas pel cap de tornar a Guesca per matar-se amb el tal d'halla li hem per me [?] ha dit sa embarcació com en efecta contra sa voluntat el hem obligat a fer-ho deu a v. m. guardee com pot i desejo en companyia n'hi ha de tots els d'esa casa cuyas mans besam dona Inas i fills i jo Barcelona i octubre 29 de 1662 de v. m. molt cert servidor que ses mans besa don Josep de Rocaberti Sr. don Pedro Santacilia i Pax [2§] Transcripción literal"
+  ],
+  "literal": [
+    "1. {ESP Sr Mio} la brevedad ab ques parteix esta 2. enbarcacio ab las sras religiosas que passen 3. a fundar a exa ciutat nom dona lloc de 4. fer moltas lincas en resposta delas que 5. Vm. me te escrit recomanantnos la 6. persona del sr Clement Çocias y per dit effe7. cte y Per molt del sr don Joseph Marti 8. havem los dos procurat aconsellarli loque 9. nos ha aparegut devia per ara fer per 10. exirse de serta locura que un cavaller de 11. Guesca se havia posat al cap y am lo 12. ser inosent en la culpa que seli importava 13. ha mistat[?] plenament y per altros raho14. ns que la merse referira li havem 15. aconsellat que de Nia amontarsa[?] y tra16. ctar de sos estudis pera Venir a Graduar 17. se quant asa marse lisera bon vist y 18. enlo entretant se procurava disnada 19. dela locura al tal cavaller, torno, a, 20. segurar a Vm que enquant a est cava [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "112:4872a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo18/112:4872a.JPG",
+      "url": "/legajos/legajo-18/images/112:4872a.JPG"
+    },
+    {
+      "filename": "113:4872b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo18/113:4872b.JPG",
+      "url": "/legajos/legajo-18/images/113:4872b.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "112:4872a.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-18/cartas/003033.json",
+  "primary_image_url": "/legajos/legajo-18/images/112:4872a.JPG"
+}

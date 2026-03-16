@@ -1,0 +1,38 @@
+{
+  "legajo_id": "6",
+  "id_carta": "673",
+  "order_in_legajo": 173,
+  "signatura": "266-134",
+  "nombre_carta": "Carta de Juan Zaforteza a Cecilia Zaforteza y Sureda de Sant Martí",
+  "fecha_original": "10 de septiembre de 1778",
+  "lugar": "Lugar sin especificar",
+  "remitente": "Juan Zaforteza",
+  "destinatario": "Cecilia Zaforteza y Sureda de Sant Martí",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "10 de 7bre [septiembre] de 1778. Tía y muy señora mía. Me alegraré que ésta halle a v. s. con la más perfecta salud que para mí deseo. La mía buena, en compañía de mi madre y demás para cuanto sea de su gusto mandarme. Las novedades que ocurren son pocas. Solamente de haber empezado los sermones de las oposiciones. Esta mañana recibirá v. s. muchas memorias de todos los de casa y de mí, a medida de su gusto, etc. Beso los pies de v. s. Su sobrino, Juan. Tía Cecilia. Transcripción literal"
+  ],
+  "literal": [
+    "1. 10 de 7bre de 1778 2. Tia y Muy Señora Mia: 3. me alegrare que esta halle á 4. V.S. con la mas perfeta salud 5. que para mi dezeó la mia bu- 6. ena en compañia de mi Madre 7. y demas para quanto sea de su 8. gusto mandarme, las noveda- 9. des q[u]e ocurren son pocas sola- 10. mente de haver empesado los 11. sermones de las oposiciones, 12. esta mañana Recivira V.S. 13. ms ms de todos los de casa y de 14. mi a medida de su gusto etc. 15. B L P de V.S. 16. Su sobrino 17. Juan 18. Tia Cecília [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "266-134.jpg",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo06/266-134.jpg",
+      "url": "/legajos/legajo-06/images/266-134.jpg"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "266-134.jpg",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-06/cartas/000673.json",
+  "primary_image_url": "/legajos/legajo-06/images/266-134.jpg"
+}

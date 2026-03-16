@@ -1,0 +1,38 @@
+{
+  "legajo_id": "13",
+  "id_carta": "1850",
+  "order_in_legajo": 117,
+  "signatura": "189:2354.JPG",
+  "nombre_carta": "Carta de Basilio de Castellví y Ponce a Pedro Santacilia y Pax",
+  "fecha_original": "16 de diciembre de 1668",
+  "lugar": "Menorca",
+  "remitente": "Basilio de Castellví y Ponce",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Señor mío he recibido, su carta de v. s. de 4 de este en esta villa de la ollería donde estoy haciendo la visita de este año motivo de faltar con puntualidad nuestra correspondencia, huélgome mucho de sabe por ella está v. s. con la salud que le deseo que no es poca dicha en el desconsuelo present,e yo estoy para servir a v. s. de cualquier manera esperando muchas ocasiones en que servir a v. s. Todas las cartas que v. s. remitió en pliego largo llegaron en manos de doña Laura y con mucha puntualidad remitirán a Mallorca sino ando ya con que v. s. puede salir de cuidado cada día se ofrecerán. Hay nuevas novedades yo me huelgo mucho de hallarme en paraje donde no séningunas. D. Giuseppe de Borja me dicen que ha llegado a Valencia con segundas cartas. Del Sr. don Juan no se me ofrece otra novedad que participar a v. s. a quien Dios como deseo guardela. Menorca a 16 de diciembre de 1668. v. s. tenga muy buenas pascuas, que bien es menester, su gran valor de v. s. pero sencillas Besa a v. s. la mano su mayor servidor Don Basilio de Castellvi y Ponce Sr. don Pedro Santacilia [1§] Transcripción literal"
+  ],
+  "literal": [
+    "1. Señor mío herresevido, su carta de VS de 4 deste en2. esta Villa de la ollería donde estoy asiendo lavisita3. deste año motivo de faltar con puntualidad4. nra correspondençia huelgo me mucho de5. sabe por ella este VS con la sd que le desseo que6. no es poca d[i]cha en el des consuelo presente yo estoy7. para servir a VS. decualquier manera esperando8. muchas ocasiones en que servir a VS=9. todas las cartas que VS remitio en pliego 10. largo llegaron en manos de Doña Laura y con11. mucha puntualidad remitiran a mallorca12. sino any do ya con que VS puede salir decuydado13. cada día se ofreceran ay nuebas novedades yo me14. guelgo mucho deallarme en paraje donde no se15. ningunas. D. Jusepe de Borja me dicen que alle16. gado a Valencia consegundas cartas del Sr. Don Juan17. no se meofrece otra novedad que participar á VS.18. a quien Dios como desseo gde la Merca a 16 de diciembre19. de 1668 VS tenga mui buenas Pascuas, que bien es me20. nester, su gran valor de VS para tenellas21. Ba a VS l[a] m s[u] mor Sdor22. Don Basilio de Castelví23. y Ponçe 24. Sr. Don Pedro Santa çiçilia [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "189:2354.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo13/189:2354.JPG",
+      "url": "/legajos/legajo-13/images/189:2354.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "189:2354.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-13/cartas/001850.json",
+  "primary_image_url": "/legajos/legajo-13/images/189:2354.JPG"
+}

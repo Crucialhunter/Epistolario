@@ -1,0 +1,38 @@
+{
+  "legajo_id": "27",
+  "id_carta": "4635",
+  "order_in_legajo": 104,
+  "signatura": "178:4444.JPG",
+  "nombre_carta": "Carta de Martín de Rocabertí a Pedro Santacilia y Pax",
+  "fecha_original": "20 de julio de 1647",
+  "lugar": "Lugar sin especificar",
+  "remitente": "Martín de Rocabertí",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Sr. mío mucho me huelgo de tener esta [?] de poder besar su mano de v. m. y haber llegado a plaza con la armada en compañía de primo [?]. Aquí se dice para [?] en esa isla, con que se me cumplirá mi contrato [?] poder [?] emplearme a su servicio. A [?] merced a D. Martin Carlos de [?] general de la flota de la isla sirviendo campaña, con que quedará vaca la [?] galeones de Italia y así v. m. podrá tener ocasión de hacer lo que v. m. estuviera mejor, y así como a sobrino y quiérele de {ITA. tuto} corazón se lo advierte para que haga las diligencias si le conviniere. Guárdemele Dios a 20 de julio de 1647. Su mas [?] servidor y sobrino don Martin de Rocaberti Sr. D. Pedro Santacilia Transcripción literal"
+  ],
+  "literal": [
+    "1. Sr. mio mutxo me huelgo d tener esta bia[ ??]2. de poder besar su mano de m yaver llegado a [ ]3. Placa con la fermata en Conpanya de P[rimo?]4. aquisedicen pararen[si?] ensa isla . Con que seme5. cunplira mi Contrato Con[bar?] poder Cen[affeti?]6. enplarme asu servitio. A[?]fea [?]7. merse a dn Martin Carlos de Aherte[ do?]8. General de la flota de la isla sirviendo [ ]9. Canpanya. Con que Quedara vaca la [illegible]10. darede Galeones de Italia yasi vm. podra11. tener ocasión de aser lo que Vml estuviera12. meyor. yasi Como asobrino yquier le[?]13. de tuto Coracon se lo advierte paraque agalas14. diligentias sile Cinviniere ge me le dios a 2015. de julio de 164716. fueras a [ll?]e [ ] servidor17. i sobrino de Martin de Roe[ ]d[?]18. [28, extrem inferior esquerre] Sr. d. Pedro Santacilia. [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "178:4444.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo27/178:4444.JPG",
+      "url": "/legajos/legajo-27/images/178:4444.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "178:4444.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (2)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-27/cartas/004635.json",
+  "primary_image_url": "/legajos/legajo-27/images/178:4444.JPG"
+}

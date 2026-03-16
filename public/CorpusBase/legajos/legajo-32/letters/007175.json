@@ -1,0 +1,38 @@
+{
+  "legajo_id": "32",
+  "id_carta": "7175",
+  "order_in_legajo": 173,
+  "signatura": "239:1933.JPG",
+  "nombre_carta": "Carta de José Balell a Pedro Santacilia y Pax",
+  "fecha_original": "6 de marzo de 1666",
+  "lugar": "Barcelona",
+  "remitente": "José Balell",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Sr. D. Pª. Santacilia mi Ultimamte bese la mano a v. s. con pliego del conde de Zavella y di noticia de haber dado todos los pliegos. Mando remitir y juntamte. di noticia a todas las novedades y las continuo con el incluso y aunq. el inquisidor Sr. D. Francisco de Saravia las dará más por extenso como las tiene de todas partes a v. s. que así nulo la dicha esta mañana y me hace toda md. no he querido excusar las mías. y besar la mano a v. s. como lo hago y le suplico me tenga en su gracia y me mande como quiera puede pues sabe que otro uno es más criado de v. s. que yo. cuya vida guarde. Nro. Sr. muchos años en lo mi pª. de todos esos mis Sres. como puede y [?] criado de señoría y he menester. Barcelona y marzo a 6 de 1666 cierto criado de v. s. que sus manos besa Josep Balell Transcripción literal"
+  ],
+  "literal": [
+    "1. Sr. D. Pª. Santacilia mi Sr. 2. Ultimamte bese la mano a VS con 3. pliego del Sr Conde de Cavalla y di 4. noticia de haver dado todos los plie5. gos. Mando remitir y juntamte. 6. di noticia a todas las novedades 7. y las continuo con el incluso y aunq. 8. el Sr. Inqor D Franco de Saravia las da9. ra mas por extenso como las tiene 10. de todas partes a VS que asi nulo la 11. dicha esta mañana y me haze toda 12. md. no he querido escusar las mias. 13. y besar la mano a VS como lo ago 14. y le suppco. me tenga en su gracia y me 15. mande como quiera puede pues save 16. que otro uno es mas criado de VS que 17. yo. cuya bida gde. nro. Sr. muchos 18. años en lo mi pª. de todos esos mis 19. SSs. como puede y [?] criado de Sª y he 20. menester. Barcelona y Marzo a 21. 6 de 1666 22. Çierto criado de VS qsmb 23. Joseph Balell [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "239:1933.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo32/239:1933.JPG",
+      "url": "/legajos/legajo-32/images/239:1933.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "239:1933.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-32/cartas/007175.json",
+  "primary_image_url": "/legajos/legajo-32/images/239:1933.JPG"
+}

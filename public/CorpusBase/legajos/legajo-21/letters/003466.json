@@ -1,0 +1,43 @@
+{
+  "legajo_id": "21",
+  "id_carta": "3466",
+  "order_in_legajo": 155,
+  "signatura": "280:5754a.JPG",
+  "nombre_carta": "Carta de Macià Monsarró a Pedro Santacilia y Pax",
+  "fecha_original": "10 de julio de 1639",
+  "lugar": "Zaragoza",
+  "remitente": "Macià Monsarró",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "El Sr. don Miguel Castellote me ha dicho hoy que v. m. estaba en Fuenterrabía. De esta estafeta no he tenido sino una carta la que remito a v. m. En Zaragoza tenemos el conde d. Jeronimo Roy que le han hecho tornar atrás desde Figueres que la alcanza un [?] ya vuelva esta ciudad y esta he detenido. No hemos adónde ir. A don Miguel Castellot le envía las nuevas de Cataluña, y no ofreciéndose otra cosa le guarde Nro. Sr. De Zaragoza y julio a 10 de 1639. El perdón de Paracuellos va en el pliego de don Diego Gomez. Macia Monsarro Un amigo mio me ha pedido súplica a v. m. que habiendo que el duque de Nocera viene a ser virrey de Aragón y la viendo cuan grande amigo a v. m. suyo me ha dicho que v. m. me hiciera a mi de escribir a Madrid al dicho sr. duque de Nocera que ha [?] su excelencia no tuviera ayuda de cámara que este amigo que digo le sirviera con muy grande gusto, el cual ha servido al marques de los Velez y por estar en Navarra el dicho sr. marqués no se atreve ir allá, porque no le prueba la [?] y es de la patria y hombre que v. m. no tendrá que dar satisfacción del por qué sabe muy bien el que ha de ser y confiado de la que v. m. me haga espero que con el medio de v. m. tendrá esto buen suceso y lo estimaré mucho. Macia Monsarro [1§] Zaragoza 10 Julio 1639 Macia Monsarro rdo. Transcripción literal"
+  ],
+  "literal": [
+    "1. El sr d Miguel Castellode meadho oy que Vm 2. estaba enfuenterama desta estafeta no hetenido si3. no Una carta laque remito a Vm. encaraga tenemos 4. elconde d Geronimo Roy que le anecho tornar atras 5. desde figueres que la alcança Unconco ya buellva 6. esta çiudad yesta edetenido no havemos adonde yra 7. don Miguel castellot leavia los nuebos de catalu8. na yno hofreciendole otra cosa legde nro Sr 9. de caraga y Julio a 10 de 1639 10. lo perdon de pere millor ba enel plego de don 11. diego gomez 12. masia monsarro 13. Unamigo mio mea pedido Suppa a Vm. quehaviendo 14. que el duque denochera biene aser birey dearagon 15. y la biendo quan grande amigo a V.m. suyo meadho q 16. Vm. mehiziera mi descrivir amadrid aldho Sr duque 17. denochera quehacalo[?] suexcelencia no tubiera agu18. da de camara que este amigo que digo le sirviera con 19. muy grandegusto elqual aservido al marques delos 20. Veles y por estar ennavara el dho marques no le 21. atreve yralla porque nole prueba laaeria[?] yes de 22. lapatria yombre que Vm no tendra quedar satisfa23. çion del porque save muy bien loque ade azer 24. y confiado dela que Vm. me haga espero que conel medio de Vm. tendra esto buen su 25. çeso y lo estimare mucho 26. masia monsarro [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "280:5754a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo21/280:5754a.JPG",
+      "url": "/legajos/legajo-21/images/280:5754a.JPG"
+    },
+    {
+      "filename": "281:5754b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo21/281:5754b.JPG",
+      "url": "/legajos/legajo-21/images/281:5754b.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "280:5754a.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (2)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-21/cartas/003466.json",
+  "primary_image_url": "/legajos/legajo-21/images/280:5754a.JPG"
+}

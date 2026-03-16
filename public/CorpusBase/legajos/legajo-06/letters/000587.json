@@ -1,0 +1,48 @@
+{
+  "legajo_id": "6",
+  "id_carta": "587",
+  "order_in_legajo": 91,
+  "signatura": "104-58a",
+  "nombre_carta": "Carta de Ignasi Vila a Cecilia Zaforteza y Sureda de Sant Martí",
+  "fecha_original": "2 de octubre de 1756",
+  "lugar": "Barcelona",
+  "remitente": "Ignasi Vila",
+  "destinatario": "Cecilia Zaforteza y Sureda de Sant Martí",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Molt senyora, dona Cecília, Gustós rebo la de v. s. de 20 del passat per les bones notícies encontro de sa salut, mentre que, a Déu gràcies, queda la que m’assisteix junt la parenta i fills pel que sia de son {ESP. agrado} manar-nos. He rebut les pedres violades, les quealshe retornades a son {ESP. duenyo}, que com en l’antecedent no me’n parlava, pensí també no se les hagués detingudes; però això no implica. Quant a les dues cares de {ESP. panyo} me demana en sa memòria aniran el correu vinent, doncs amb aquest no s’ha pogut despatxar. He rebut carta del Dr. Gabriel que està bo, a Déu gràcies, i segons me diu penso tindrem per tot aquest mes en esta don Gabriel de Berga per restituir-se en eixa en son {ESP. empleo} i penso haurà quatre o sis dies que ha rebut tot el que de son ordre li envií. Avui li escric al dit Dr. Gabriel i no dubto me participarà el dia partirà mi Sr. D. Gabriel de Berga per poder-ne dar avís a v. s., que és quant amb la present se m’ofereix cansar a v. s., retornant-li les degudes memòries de part [de] mia parenta i fills amb tot efecte, mentre quedam per servir-la i ens mani en el de son {ESP. agrado}. D’esta sa casa, Barcelona i octubre als 2 de 1756. Besa la mà de v. s., son més humil servidor, Ignasi Vila Molt senyora, dona Cecilia Zaforteza Transcripción literal"
+  ],
+  "literal": [
+    "1. Molt Sra. Da. Cicilia gustos rebo la 2. de V.Sria. de 20 del passat per las bonas 3. noticias encontro de sa salut mentres 4. que á Deu gracias queda la que me 5. assisteix junt la Parenta y fills per lo 6. que sia de son agrado manarnos. 7. he rebut las pedras violades las que he 8. retornades á son Duenyo, que Com 9. en la Anteseden no men parlava 10. pensí tambe no se las agues detingu- br> des; pero esto no Inplica 11. En quan a las dos Caras de panyo me 12. demana en sa memoria aniran 13. lo Correu Vinent pues ab este no se 14. ha pogut despatxar. 15. He rebut Carta del Dr. Gabriel [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "104-58a.jpg",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo06/104-58a.jpg",
+      "url": "/legajos/legajo-06/images/104-58a.jpg"
+    },
+    {
+      "filename": "105-58b.jpg",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo06/105-58b.jpg",
+      "url": "/legajos/legajo-06/images/105-58b.jpg"
+    },
+    {
+      "filename": "105-58bb.jpg",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo06/105-58bb.jpg",
+      "url": "/legajos/legajo-06/images/105-58bb.jpg"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "104-58a.jpg",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-06/cartas/000587.json",
+  "primary_image_url": "/legajos/legajo-06/images/104-58a.jpg"
+}

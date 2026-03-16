@@ -1,0 +1,38 @@
+{
+  "legajo_id": "11",
+  "id_carta": "1306",
+  "order_in_legajo": 75,
+  "signatura": "130:5166.JPG",
+  "nombre_carta": "Carta de Rafael Vives García a Pedro Santacilia y Pax",
+  "fecha_original": "15 de julio de 1643",
+  "lugar": "Madrid",
+  "remitente": "Rafael Vives García",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Mas largo escribo a v. s. con otra estrago el mismo día y por diferente vía en mi por y digo que v. s. con el asesor me harán merced de tratar con el prior de Mahón que escriba a su majestad una carta re presentándole su mucha edad y que por ella no puede acudir tan cumplidamente como desea a las obligaciones de la rectoria [?] sucede [?] le por sus servicios sea servido mandar que se le dé en coadmitir y futuro sucesor a Dr. Rafael Vives y Garcia uno de los beneficiados de la iglesia parroquial de la dicha villa y en quien concurre las calidades necesarias que con esta carta y la aprobación de su ilustrísima que avanzare tendré en la rectoría para cuando Dios quiera y será obligación mía que luego que (/quiera Dios) vaya le asista al asesor y sirva mi parte y no le estará mal a su merced tenerme a su servicio y de esta carta me enviara dos copias con toda pues besa y perdone v. s. el enfado que es atrevimiento que merece perdón supuesto que ha de ser todo para ra servir a v. s. y al asesor que en está ya enterado de esta materia y a todos guarde Dios muchos siglos. De Madrid y julio @ 15 de 1643. Rafael Vives y Garcia Sr. gobernador. Al asesor no le escribo porque me parece que no conviene por ahora. Transcripción literal"
+  ],
+  "literal": [
+    "1. Mas largo escrivo a VS con otra estrago el 2. mismo dia y por differente via en mi y digo que 3. VS con el sr. Assr me haran md de tratar con el 4. sr. Por de Mahon que escriva a su Mad una carta re 5. presentandole su mucha edad y que por ella no pue 6. de acudir tan cumplidamente como desea a las obligacio 7. nes de la Rectoria [^??sucede??^] le por susn serbos 8. sea serbido mandar que se le de en coadmitir y futuro 9. sucessor a Dr. Rafael Vives y Garcia uno de los 10. beneficiados de la Iglesia Parrochial de la dicha villa 11. y en quien concurre las calidades necessarias 12. que con esta carta y la aprobacion de su Ilma que 13. abansare tendre en la Rectoria para quando Dios 14. quiera y sera obligacion mea que luego que (/quiera Dios) 15. vaya le assista al Sr. Aor y sirba mi pte y 16. no le estara mal a su md tenerme a su ser y de 17. esta carta me imbiara dos copias con toda pues 18. besa y perdone VS el enfado que es atrevimiento 19. que merece perdon supuesto que ha de ser todo pa 20. ra serbir a VS y al sr. Assr qui en esta ja entera 21. do desta materia y a todos gde Dios ms ss de 22. Md y julio @ 15 de 1643 23. Rafael Vives y Garcia 24. [^Sr. Gor. Al sr. Ar no le escribo por que me parece que no conviene por agora^] [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "130:5166.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo11/130:5166.JPG",
+      "url": "/legajos/legajo-11/images/130:5166.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "130:5166.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-11/cartas/001306.json",
+  "primary_image_url": "/legajos/legajo-11/images/130:5166.JPG"
+}

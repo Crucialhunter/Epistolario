@@ -1,0 +1,43 @@
+{
+  "legajo_id": "29",
+  "id_carta": "6494",
+  "order_in_legajo": 197,
+  "signatura": "291:4311a.JPG",
+  "nombre_carta": "Carta de Nicolás de Santacilia y Togores a Pedro Santacilia y Pax",
+  "fecha_original": "14 de febrero de 1665",
+  "lugar": "Madrid",
+  "remitente": "Nicolás de Santacilia y Togores",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Señor, con mucho cuidado estoy por no haber tenido carta de v. m. holgándome que la tuviese como sé la deseo, yo la tengo, gracias a Dios. Yo aún estoy preso, estoy esperando cada hora que me suelten para ponerme el hábito. El conde de Zavella fue a hablar al caballerizo mayor. Me hace mucha merced don Pedro Moya y don Jaime Julian me vinieron a ver el miércoles pasado en pudiendo les volveré la visita. Guarde Dios a v. m. muchos años como le deseo y me importa. Madrid a 14 de febrero 1665. Su más humilde hijo de v. m. que sus manos besaDon Nicolas de Santacilia y Togores A mi madre muchos recaudos de mi parte, y a mis hermanos y a esos señores y la gente de casa [1§] Madrid 14 Febrero 1665. Nicolas Santacilia Transcripción literal"
+  ],
+  "literal": [
+    "1. Señor con mucho cuidado estoy por no aver 2. tenido carta de VM. olgandome que la tuvi3. ese como se la deso yo la tengo grasias a 4. Dios; yo aun estoy preso estoy esperando cada 5. ora que me suelten para ponerme el abito 6. el Conde de Çavella fue ablar al Cavalleri7. so Mayor me ase mucha merse 8. Don Pedro Moys y Don jayme gulian me 9. vinieron aver el miercoles pasado enpudien10. do les bolvere la vysita Guarde Dios a VM 11. muchos años como le deseo y me ynporta 12. Madrid a 14 de febrero 1665 13. Su mas humilde hijo de 14. VM q S. M. B 15. Don Nicola de Sta.Cilia y Togores 16. [en el marge esquerre] 17. A mi Madre muchos recaudos 18. de mi parte, y a mys hermanos 19. i a esos Señores y la gente de casa [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "291:4311a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo29/291:4311a.JPG",
+      "url": "/legajos/legajo-29/images/291:4311a.JPG"
+    },
+    {
+      "filename": "292:4311b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo29/292:4311b.JPG",
+      "url": "/legajos/legajo-29/images/292:4311b.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "291:4311a.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-29/cartas/006494.json",
+  "primary_image_url": "/legajos/legajo-29/images/291:4311a.JPG"
+}

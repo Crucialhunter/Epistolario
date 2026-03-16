@@ -1,0 +1,43 @@
+{
+  "legajo_id": "13",
+  "id_carta": "1895",
+  "order_in_legajo": 143,
+  "signatura": "252:2399a.JPG",
+  "nombre_carta": "Carta de Basilio de Castellví y Ponce a Pedro Santacilia y Pax",
+  "fecha_original": "12 de febrero de 1669",
+  "lugar": "Valencia",
+  "remitente": "Basilio de Castellví y Ponce",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Señor mío llegue anoche a esta ciudad habiendo acabado la visita de la ollería bueno al servicio de v. s. y con bravos deseos de que v. s. me tenga empleado en muchas cosas de su gusto; he hallado dos cartas de v. s. de 30 del pasado y 6 del corriente y en ambas veo queda v. s. con buena salud y que la goza el Sr. don Nicolas cuyas manos beso noticia que celebro con la demostración de alborozo que corresponde a mi obligación por mayor servidor de v. s. Parece que con la resolución de acercarse el Sr. don Juan a Madrid y habiéndose interpuesto su santidad mudarán de semblante las materias presentes que en tanto cuidado nos habían puesto y que tendrán el exito muy feliz encaminándose al mayor servicio de su majestad y quietud universal de la Munar chia y como suceda en la forma que v. s. insinúa aunque se quede sin la gloria el dueño de haberlo conseguido en lo aparente [1§] Importara poco No tengo ninguna noticia de que fuese consultado en lo de Milán el cardenal Moncada ni su excelentísima me habla en ello;aora he sabido que lo han dado al duque de Osuna con que estamos fuera de la duda brevemente juzgo habrá pocos que le aventajen a su excelencia en caso de haber sido elejido y que importara siempre mucho al servicio de su majestad tener le ocupado. Por acá no hay novedades ningunas de que poder avisar a v. s. cuya vida guarde Dios muchos años como deseo. Valencia y febrero a 12 de 1669. besa a v. s. la mano su mayor servidor Don Basilio de Castellvi y Ponce Sr. don Pedro Santacilia y Pax. [2§] Transcripción literal"
+  ],
+  "literal": [
+    "1. Señor mio llegue anoche a esta ciudad haviendo2. acavado la visita de la olleria bueno al ser=3. vicio de VS y con bravos deseos de que V.S. me4. tenga empleado en ms cosas de su gusto; he5. hallado dos cartas de V.S. de 30 del pasado6. y 6 del corriente y en ambas veo queda VS7. con buena salud y que la goza el Sr. Don 8. Nicolas cuyas manos beso noticia que celebro con9. la demostraçion de alboroço que corresponde10. ami obligacion por mayor servidor de V.S.=11. Pareçe que con la resolucion de acercarse12. el Sr don Juan a Madrid y haviendose in=13. terpuesto su santidad mudaran de semblante14. las materias presentes q entanto cuydado nos15. havian puesto y que tendran el exito muy16. feliz encaminandose al mayor servicio de17. Su Magd y quietud universal de la Munar=18. chia y como suceda en la forma que V.S.19. insinua aunque se quede sin la gloria el20. dueño de haverlo conseguido en lo aparente [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "252:2399a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo13/252:2399a.JPG",
+      "url": "/legajos/legajo-13/images/252:2399a.JPG"
+    },
+    {
+      "filename": "253:2399b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo13/253:2399b.JPG",
+      "url": "/legajos/legajo-13/images/253:2399b.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "252:2399a.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-13/cartas/001895.json",
+  "primary_image_url": "/legajos/legajo-13/images/252:2399a.JPG"
+}

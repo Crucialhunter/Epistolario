@@ -1,0 +1,43 @@
+{
+  "legajo_id": "23",
+  "id_carta": "3924",
+  "order_in_legajo": 179,
+  "signatura": "318:3337a.JPG",
+  "nombre_carta": "Carta de Mateu Fortesa i Suñer a Pedro Santacilia y Pax",
+  "fecha_original": "29 de junio de 1669",
+  "lugar": "Madrid",
+  "remitente": "Mateu Fortesa i Suñer",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Ací tinguérem notícia que v. s. estava desganat que realment ens tingué en grandíssim {ESP. cuidado}, però gràcies a Déu sabem {ESP. gosa} de bona salut que Déu l'hi conservi molts anys. Per ací no tenim cosa nova, sinó que el Sr. don Juan és a Saragossa al seu govern i per vicari que de les corones d'Arago. Ací no tenim sinó festes i toros, avui dia de St. Pere i St. Pau tenim la major festa que s'hagi feta mai que la plateria, calle major diuen està molt millor que quan la entrada de la reina. El cert és que és cosa gran i els {ESP. gastos} és cosa d'orats i no és creïble. Sant Gil qui fa la festa de St. Pere d'Alcantara està tot que pareix ordre [?] que causa admiració a tots el que tenc que avisar a v. s. que el vicecanceller em mana li donés Sr. don Pedro Santacilia i Pax [1§] un paper com li doní de les conveniències que tenia Mallorca i {ESP. demés} illes i cartes d'Espanya tenir les naus tingueren dificultat dels bastimens i {ESP. demés} {ESP. gastos} que s'havien [de] menester per dit efecte, en què han trobat {ESP. medi} com sustentar-los i com el cardenal mi Sr. és president de la junta d'armades tenen {ESP. medis} pera ajustar-ho [?] en què s'ha resolt enviar al virrei que digui son parer en la conveniència i informe no sé com podrà dir no sia convenient cosa de tant de profit per la cristiandat, servei de Rey i de les illes i costes d'Espanya en tot el que v. s. podrà ajudar, dient les conveniències em farà mercè que encara que no m'ho donin a mi, no deixaré de veure les conveniències que se remetrien [?]. Diego Maties està millor que va per casa lo des vila [?] es proveirà estos dies el marques d'Aytona [?] per un amic seu, i fa tot el que pot. Són 34 pretensors [?] els qui són vinguts en terna són un català, el governador de Menorca, i don Jeroni Truyols. La regència de Mallorca pens ens proveira de molts dies per algunes dificultats i guardi Déu a v. s. de Madrid a 29 de juny 1669. {ESP. quien su mano besa}Don Mateu Forteza i Suñer [2§] Transcripción literal"
+  ],
+  "literal": [
+    "1. Asi tingeram notisia que V.Sa. estava des2. genat que Reial ment nos tingue en gran3. disim cuidado pero gratias a deu sabem gosa4. de bona salut que deu lai conserva mols5. ains= parasi no tenim cosa nova sino6. que el Sr. don Juan es en Saragosa al seu7. govern i per Vicari q[u]e de les coronas de Arago8. asi no tenim sino festas i toros vui dia de St.9. Pera i St. Pau tenim la maior festa que10. saia feta mai que la plataria, cale maior11. diuen esta molt milor que quant le en12. trade de le reina lo sert es que es cosa gran13. i los gastos es cosa de orats i nos creibla 14. Sant gil qui fa la festa de St. Pera del15. Cantere esta tot que pareix orde16. martel[?] que causa etmirasio a tots17. lo que tench que avisar a Vsa. que18. el Sr. Visicansiler em mana li donas19. Sr. Don Pedro St. Silia20. y Paix [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "318:3337a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo23/318:3337a.JPG",
+      "url": "/legajos/legajo-23/images/318:3337a.JPG"
+    },
+    {
+      "filename": "319:3337b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo23/319:3337b.JPG",
+      "url": "/legajos/legajo-23/images/319:3337b.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "318:3337a.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-23/cartas/003924.json",
+  "primary_image_url": "/legajos/legajo-23/images/318:3337a.JPG"
+}

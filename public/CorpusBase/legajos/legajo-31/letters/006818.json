@@ -1,0 +1,38 @@
+{
+  "legajo_id": "31",
+  "id_carta": "6818",
+  "order_in_legajo": 58,
+  "signatura": "076:1569.JPG",
+  "nombre_carta": "Carta de Francesc Rosselló a Pedro Santacilia y Pax",
+  "fecha_original": "23 de marzo de 1661",
+  "lugar": "Ibiza",
+  "remitente": "Francesc Rosselló",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "La de v. s. de 10 del corriente con una copia de la resolución de la Junta sobre el naufragio del patrón Juan Paulo napolitano que se ejecutara puntualmente como v. s. lo manda Parese me que el señor gobernador [?] en pasaba a Madrid y tengo lo por cierto porque ha cuatro o cinco días que se ha prestado una fragata que colo aguarda para partir si conviene y va a Valencia atraer al señor don Rodrigo de Borja para gobernar esta isla que cierto es muy honrado caballero y en los negocios tiene mucha espera. hahiya sabrá v. s. que el señor don Juseph Descals viene porque es derrendencia Dios hencamine Dios guarde a v. s. muchos años Eivisa a Marzo a los 23 de 1661 una palabrita de recomendación con el Sr. don Josep en lo que fuere justo no dañara servidor de v. m. que sus manos besa Francisco Rosellón [?] Sr. don Pedro St. Sicilia y Pax [1§] Transcripción literal"
+  ],
+  "literal": [
+    "1. La de V. S. de 10 del corriente con una 2. copia de la resolusion de la Junta sobre el 3. naufragio del Patron Juan Paulo napolita4. no que se executara puntualmente co5. mo V. S. lo manda = 6. Parese me que el señor Governador [?] en 7. pasava a madrid y tengo lo por cierto por 8. que ha quatro o cinco dias que se a pres9. tado una fragata que colo aguarda par10. a partir si conviene y va a Valencia 11. atraer al señor Don Rodrigo de Borja 12. para governar esta isla que cierto es 13. muy honrrado cavallero y en los ne14. gosios tiene mucha espera. hahiya 15. sabra V. S. quel señor Don Juseph Descals 16. viene porques derrendençia Dios hen17. camine Dios gde. a VS. muchos años 18. Iviça a Março a los 23 de 1661 19. una palabrita de recomendation 20. con el Sr. Don Joseph en lo que fuere 21. justo no dañara 22. Sdor de VM. q. s. m. B. 23. Françisco Rossellon [?] 24. Sr. Don Pedro St. siçilia y Pax [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "076:1569.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo31/076:1569.JPG",
+      "url": "/legajos/legajo-31/images/076:1569.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "076:1569.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-31/cartas/006818.json",
+  "primary_image_url": "/legajos/legajo-31/images/076:1569.JPG"
+}

@@ -1,0 +1,38 @@
+{
+  "legajo_id": "26",
+  "id_carta": "4458",
+  "order_in_legajo": 197,
+  "signatura": "284:3553.JPG",
+  "nombre_carta": "Carta de Francisco Díaz Pimienta a Pedro Santacilia y Pax",
+  "fecha_original": "30 de junio de 1647",
+  "lugar": "Tarragona",
+  "remitente": "Francisco Díaz Pimienta",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Con mucho gusto y estimación de la merced que v. s. me hace. Recibi su carta que me dio tan buenas nuevas de su salud que sea siempre muy perfecta, yo la tengo para servir a v. s. [?] venido en un barco desde Cádiz a servir y asistir al Sr. D. Juan con hascr muerto el general de la armda que llegó el caso de que yo pasase a ella en virtud de la orden de su majestad, con que tendré ocasión de besar la mano a v. s. que guarde Dios muchos años como deseo. Tarragona, a 30 de junio de 1647. Francisco Diaz Pimienta D. Pedro de Santacilia Pax Transcripción literal"
+  ],
+  "literal": [
+    "1. Con mucho gusto y estim[aci]on de2. la md. que VS. me haxe rese3. vi su carta que me dio tan4. buenas nuevas de su salud5. que sea siempre muy perfecta6. yo la tengo para servir a VS7. [?] venido en un barco8. desde Cadiz a servir y asistir a9. el Sr D. Juº con hasser muerto10. el Sr. Genl. De la Armda que lle11. go el caso de que yo pasase a ella12. en virtud de la horden de su Magd.13. con q[ue] tendre ocazion de vesar14. l. m. a VS q[ue] gde. Dios muchos15. as. como deseo Tarrag[o]na a 30 de16. Junio de 164717. Franco. Diaz Pimienta18. Sr.D. Pº de Sta Çiçilia Pax [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "284:3553.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo26/284:3553.JPG",
+      "url": "/legajos/legajo-26/images/284:3553.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "284:3553.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-26/cartas/004458.json",
+  "primary_image_url": "/legajos/legajo-26/images/284:3553.JPG"
+}

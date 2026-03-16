@@ -1,0 +1,38 @@
+{
+  "legajo_id": "15",
+  "id_carta": "2198",
+  "order_in_legajo": 97,
+  "signatura": "152:6423.JPG",
+  "nombre_carta": "Carta de Laudòmia Rossa i Domènech a Pedro Santacilia y Pax",
+  "fecha_original": "11 de agosto de 1645",
+  "lugar": "Valencia",
+  "remitente": "Laudòmia Rossa i Domènech",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Senyor don Pedro, Faig-li a saber de la mia salut com és bona, gràcies a Déu, així sia la de v. m., com jo desitge, i tots els de casa. Faig-li a saber a v. m. d'aquella llicènciaque en deuen, que li vull demanar de consell [?] que em dirà que en faci amb estos mallorquins, o sinó, en farà v. m. mercè de posar-me un procurador que m'ho [?] jo d'aquí. Li miraré la procura. Senyors, aquí m'han dit que hi ha dos llondros catalans. V. m. em farà mercè de comprar-me'n un, i no dic més. Laudemia, ma muller li besa les mans, i tots els de ma casa. I si s'ofereix cosa ninguna, v. m. mani en totes coses. Fet en València, 11 d'agost 1645. Que besam les mans a la senyoria.El pare Domènech, Miquel Domenech i Leudomia Ros, criades de v. m. Transcripción literal"
+  ],
+  "literal": [
+    "1. Senor Don Pedro fas li asseber dela Mia selud 2. com es Bone grasies adeu an sie lade Vm 3. comjo desitge y tots los de cassa fas lí 4. asseber a Vm de aquella llisserie quen 5. deuen que li vull demenar de Contel [?] quen 6. dira que fassa ab estos mellorquins o sino 7. am fara Vm merçe de possarmi un pro8. curador que mo copria jo de Aqui le amirare 9. la procura. 10. Senor aqui me andit que ya dos Londros cata11. lans Vm em fara merçe de comprarmen 12. un ino dich mes Laudernie me muller li Bessa 13. las mans mil voltes itots de me cassa 14. y si se15. oferex cosse ninguna Vm man 16. en totes cosses fet en Vallencia 11 de Agost 17. 18. 1645 que Bessam las mans ala Sra 19. el Pare domenech 20. Michel Domenech 21. y Leudernie Rosse 22. criades de Vm [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "152:6423.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo15/152:6423.JPG",
+      "url": "/legajos/legajo-15/images/152:6423.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "152:6423.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (2)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-15/cartas/002198.json",
+  "primary_image_url": "/legajos/legajo-15/images/152:6423.JPG"
+}

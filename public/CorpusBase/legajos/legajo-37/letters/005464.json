@@ -1,0 +1,42 @@
+{
+  "legajo_id": "37",
+  "id_carta": "5464",
+  "order_in_legajo": 12,
+  "signatura": "147:48a",
+  "nombre_carta": "Carta de No consta a Persona desconocida",
+  "fecha_original": "fecha sin especificar",
+  "lugar": "lugar sin especificar",
+  "remitente": "No consta",
+  "destinatario": "Persona desconocida",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Compte del que anirà pagant per compte i ordre de dna. Catalina Zaforteza i Santacilia, vídua de don Arnau de Santacilia, conforme els albarans en llibre. Primer compte en dit llibre tot en la primera pàgina haver pagat. Relació de comptes... Transcripción literal"
+  ],
+  "literal": [
+    "1. Fulls [58a-48c]: Compte de lo que anira pagant per compte y orde de Dna, Cavª. Fuster y Sta Cilia Vª de Don Arnau de Sta. Cilia conforme los alberans en llibre"
+  ],
+  "imagenes": [
+    {
+      "filename": "147:48a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo37/147:48a.JPG",
+      "url": "/legajos/legajo-37/images/147:48a.JPG"
+    },
+    {
+      "filename": "148:48b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo37/148:48b.JPG",
+      "url": "/legajos/legajo-37/images/148:48b.JPG"
+    },
+    {
+      "filename": "149:48c.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo37/149:48c.JPG",
+      "url": "/legajos/legajo-37/images/149:48c.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "147:48a.JPG",
+  "warnings": [],
+  "raw_source": "raw/legajos/legajo-37/cartas/005464.json",
+  "primary_image_url": "/legajos/legajo-37/images/147:48a.JPG"
+}

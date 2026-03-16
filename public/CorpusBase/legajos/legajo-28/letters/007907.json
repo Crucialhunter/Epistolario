@@ -1,0 +1,43 @@
+{
+  "legajo_id": "28",
+  "id_carta": "7907",
+  "order_in_legajo": 153,
+  "signatura": "266:3785a.JPG",
+  "nombre_carta": "Carta de Pedro Aulí a Pedro Santacilia y Pax",
+  "fecha_original": "8 de enero de 1663",
+  "lugar": "Cádiz",
+  "remitente": "Pedro Aulí",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Señor. Después de haber besado la mano a v. s. le doy aviso de la mía salud como es buena y Dios se la dé a v. s. como su servidor deseja. Lo que tenemos de novedades por acá es que la capitana real y los demás navíos de guerra han entrado en la carraca para dar carena y la infantería todavía está embarcada por una detención que [ha] habido. Entre el duque de Alburquerque y el duque de Medinaceli han escrito a su majestad, que Dios guarde, muchas veces por ocasion de alocar [alojar] la infantería, y ahora se ha resuelto que el duque de Alburquerque se va a Sevilla a servir y queda gobernando el duque de Medinaceli, que me parece todo corre por su cuenta en que tenemos confianza de ir alocar [alojar] la gente. Yo me hallo con mi compañía en el navío nombrado Nuestra Señora de la Almudena en que me hallo en [con] cincuenta hombres sin la primera plana. No tengo otra cosa de que avisar a vsª sino que Dios lo guarde los años de mi desejo. Cádiz, y enero al 8 de 1663. [1§] El portador de esta se llama Aparicio de Uriundo, que va en esa ciudad con una tartana y es persona conocida, y tengo algunas obligaciones. V. sª. me hará favor hacer por él lo que pudiere en cuanto el embarcar la ropa que va a mercar, que lo estimaré en mucho. Servidor de v. s. que sus manos besa, Pedro Auli. Señor don Pedro Santacilia. Transcripción literal"
+  ],
+  "literal": [
+    "1. Señor2. Despues de haver besado la mano a vsª le doy Aviso3. de la mia salud como es buena y Dios sela de A vsª4. como su servidor deseja = lo que tenemos de5. novedades por aca es que la capitana real y los6. demas navios de Gerra an entrado en la carra7. ca para dar carena y la Infantaria toda via8. esta enbarcada por una detension que avido en9. tre el Duque de alburquerque y al Duque de10. medina celis an escrito A su magtad que dios11. guarda mutxas veses por ocasion de alocar12. la infantaria y aora se arasuelto que al Duque13. de alburquerque se va a sevilla a cervir y queda14. governando el duque de medina celis que15. me parese todo corre por su quenta en que16. tenemos confiansa de ir alocar la gente yo17. me allo con mi compania en el navio nombr18. ado Nuestra Señora de la almudena en que19. me alo en sinquenta hombres sin la y rim20. era plana no tengo otra cosa de que avisar21. a vsª sino que dios lo gde. los años de22. mi desejo Cadis i Jenero al 8. de 1663 [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "266:3785a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo28/266:3785a.JPG",
+      "url": "/legajos/legajo-28/images/266:3785a.JPG"
+    },
+    {
+      "filename": "267:3785b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo28/267:3785b.JPG",
+      "url": "/legajos/legajo-28/images/267:3785b.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "266:3785a.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-28/cartas/007907.json",
+  "primary_image_url": "/legajos/legajo-28/images/266:3785a.JPG"
+}

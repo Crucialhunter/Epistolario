@@ -1,0 +1,43 @@
+{
+  "legajo_id": "17",
+  "id_carta": "2907",
+  "order_in_legajo": 173,
+  "signatura": "293:1449.JPG",
+  "nombre_carta": "Carta de Miquel Joan Perelló a Pedro Santacilia y Pax",
+  "fecha_original": "14 de junio de 1660",
+  "lugar": "Selva",
+  "remitente": "Miquel Joan Perelló",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Mi Sr.. Després de les degudes comendacions etts., li escric esta fent-li a saber com a ista de Joan Miquel Sastre, de Lloseta, m'han intima [?] d'una lletra conforme lo tillet [?] va dins de certa i envi en el bidell que hi tocàs raons, i estic informat que jeu malalt, i així per estar apresat a collir un poc de blat no som anat aquí a donar satisfacció. M'ha paregut fer carta a v. s. suplicant-lo que si van aquí a fer inesta [?] dilatar-ho tres o quatre dies que sens falta hi aniré. I quan sia forçós tot ho dexaré i aniré. Voldria de v. s. resposta. Déu lo guardi molts anys. Selva 14 juny 1660 Criat de v. s. Miquel Joan Perello [1§] Sr. [?] Diaz Inquisidor apostòlic [?] contra la heretgia pravetat [?] en el Regne de Mallorca etc. Davant de [?] aparegut 8 Dient i [?] Al molt il·lustre sr. don Pedro Santacilia i Pax, Procurador Reial en lo present Regne de Mallorca, que Déu guardi etc. Ciutat [2§] Transcripción literal"
+  ],
+  "literal": [
+    "1. Mi Sr.2. Denpres de les digudes Comendacions ettc. li es3. crich esta fent li a seber com a ista de4. Juan michell Sastre de llozeta man intima5. de une lletre conforme lo tillet va dins de 6. carta y envi anel Bidell quey tocas rehons 7. y stich informat que jeu malalt y axi per 8. estar apresat a cullir un poch de blat no som 9. anat aqui a donar satisfatio, ma aperegut 10. fer carta a VaSa. suplicant lo que si van 11. aqui a fer inesta dilatar ho tres, o, quatre 12. dies que sens falta hi anire y quant sia 13. forsos tot ho dexire y anire voldria14. de Va. Sa. Resposta Deulo guarde molts añys. 15. Selva 19 Juny 166016. Criat de Va. Sa. michell Juan 17. perello [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "293:1449.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo17/293:1449.JPG",
+      "url": "/legajos/legajo-17/images/293:1449.JPG"
+    },
+    {
+      "filename": "294:1449b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo17/294:1449b.JPG",
+      "url": "/legajos/legajo-17/images/294:1449b.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "293:1449.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-17/cartas/002907.json",
+  "primary_image_url": "/legajos/legajo-17/images/293:1449.JPG"
+}

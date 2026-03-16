@@ -1,0 +1,38 @@
+{
+  "legajo_id": "33",
+  "id_carta": "4951",
+  "order_in_legajo": 139,
+  "signatura": "216:6867.JPG",
+  "nombre_carta": "Carta de Jerónimo del Castillo a Pedro Santacilia y Pax",
+  "fecha_original": "3 de mayo de 1639",
+  "lugar": "Zaragoza",
+  "remitente": "Jerónimo del Castillo",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Ayer escribí a v. m., en recomendación de un soldado ahora me dan su carta con fecha de 7 y no me dice en ella si vuelven los caballos que abien no tenido aviso que están en la [?] con sa que nos a puesto en [?] pues quedo acortado el remitirlos a v. m. de bajo del presupuesto que se continua encaminando al menor gasto y mayor servicio de su majestad Estas dos cosas las sabrá disponer líndamente v. m. y quedo empeñado en el las y el dr, [?] ayudará a dar las órdenes ya sistencia que convenga como quien tiene tan buen acierto en cuanto pasa por su ma no. a v. m. me guarde duos como deseo Zaragoza 3 de mayo 1639 Jeronimo del Castillo Sr. don Pedro St cilia [1§] Transcripción literal"
+  ],
+  "literal": [
+    "1. Ayer escribi a Vm, en recomen2. daçion de un soldado agora me dan su3. carta con fecha de 7 y no me diçe en ella4. si buelben los caballos que abien no5. tenido abiso que estan en la [?] co6. sa que nos a puesto en [?] pues7. quedo acortado el remitirlos a Vm de 8. bajo del presupuesto que se continua9. encaminando al menor gasto y mayor ser10. biçio de Su Mgd. Estas dos cosas las11. sabra disponer lindamente Vm y que12. do enpeñado enellas y el sr dr, [?]13. [?] ayudara a dar las ordenes ya sisten14. çia que conbenga como quien tiene tan15. buen açierto en quanto pasa por su ma16. no. A Vm me gde duos como deseo Çar[a]g[oz]a17. 3 de Mayo 163918. Geronimo del Castillo19. Sr. Don Pº St çilia [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "216:6867.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo33/216:6867.JPG",
+      "url": "/legajos/legajo-33/images/216:6867.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "216:6867.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-33/cartas/004951.json",
+  "primary_image_url": "/legajos/legajo-33/images/216:6867.JPG"
+}

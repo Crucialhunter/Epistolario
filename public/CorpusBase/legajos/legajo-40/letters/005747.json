@@ -1,0 +1,42 @@
+{
+  "legajo_id": "40",
+  "id_carta": "5747",
+  "order_in_legajo": 108,
+  "signatura": "283:99a",
+  "nombre_carta": "Carta de Persona desconocida a Persona desconocida",
+  "fecha_original": "16 de julio de 1663",
+  "lugar": "Mallorca",
+  "remitente": "Persona desconocida",
+  "destinatario": "Persona desconocida",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Fulls 99a-99c: Compte de la ferramenta de les dues finestres que ha de fer mestre Guillem Prats per a la casa del Mercat, a 16 de juliol 1663 [1§] Transcripción literal"
+  ],
+  "literal": [
+    "1. Fulls [209a-99c]: Compta de la ferramenta de las dos finestras que ha de fer me. Guillem Prats per la cassa del Mercat a 16 de Juriol 1663"
+  ],
+  "imagenes": [
+    {
+      "filename": "283:99a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo40/283:99a.JPG",
+      "url": "/legajos/legajo-40/images/283:99a.JPG"
+    },
+    {
+      "filename": "284:99b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo40/284:99b.JPG",
+      "url": "/legajos/legajo-40/images/284:99b.JPG"
+    },
+    {
+      "filename": "285:99c.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo40/285:99c.JPG",
+      "url": "/legajos/legajo-40/images/285:99c.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "283:99a.JPG",
+  "warnings": [],
+  "raw_source": "raw/legajos/legajo-40/cartas/005747.json",
+  "primary_image_url": "/legajos/legajo-40/images/283:99a.JPG"
+}

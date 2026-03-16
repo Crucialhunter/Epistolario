@@ -1,0 +1,38 @@
+{
+  "legajo_id": "11",
+  "id_carta": "1240",
+  "order_in_legajo": 17,
+  "signatura": "009:5100.JPG",
+  "nombre_carta": "Carta de Ana María Marañón a Pedro Santacilia y Pax",
+  "fecha_original": "28 de febrero de 1643",
+  "lugar": "Madrid",
+  "remitente": "Ana María Marañón",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Señor mío, Como yo me hallo indigna de que v. m. reciba cartas mías no he querido enfadar a v. m. con ellas hasta ahora que se me ha ofrecido el suplicar a v. m. me ampare en serme buen intercesor con señor d. Juan Suñer, mi señor. Ya v. m. tendrá noticia de cómo su padre me dejó un legado por el tiempo que gasté en su servicio: hasta ahora no me ha pagado su merced blanca. Bartolomé Delgado y yo le hemos escrito nuevas que ya v. m. tendrá noticia de que nos casamos y en todas humillándonos lo posible y pidiéndoselo como de [roto] -na y de ninguna hemos podido tener respuesta de su V [?] y a Nuestro me quiero valer de su amparo de v. m. para que v. m. le escriba que se apiade de nosotros y juntamente remitirle la que va con esta. Esta ocasión hemos tenido de que al señor Giuseppe Navarro se le ofreció el haber [de] menester una ama y yo tenía una conocida y la llevé por orden de Gaspar Canella que están muy contentos con ella, y sabiendo estos señores que yo conocía a v. m. me dijeron que v. m. se había casado y así le doy el parabién a v. m. Por amor de Dios le suplico a v. m. que me [?] de cobrar respuesta se la dé don Juan, mi señor, y remitírmela a manos de Giuseppe Navarro porque estamos con muchísima necesidad que bien puede considerar v. m. lo poco que yo tenía y lo poco que Bartolome tenía también. No soy más larga por no enfadar a v. m. a {CAT. madò} Lihana [?] que me han dicho está en servicio de v. m. le dará a v.m. recado de mi parte. Guarde Dios a v. m. como deseo en vida de mi señora doña Maria. Madrid, febrero 28 de 1643. Criada de v. m., Ana María Marañón Señor d. Pedro Santacilia Transcripción literal"
+  ],
+  "literal": [
+    "1. Sr. Mio como yo me hallo indigna de que V.M. Reciva cartas mias 2. no he querido enfadar V.M. con ellas hasta aora que se me a ofreçido 3. el suplicar a V.M. me ampare en serme buen intercesor con D. 4. Juº Suñer mi Señor. Ya V.M. tendra notizia de como su padre 5. me dejo un legado por el tiempo que gaste en su servicio, hasta 6. aora no me a pagado su md blanca. Bartolome Delgado y yo lee 7. mos escrito nuebas (que ya V.M. tendra notizia de que nos casamos) 8. y en todas humillandonos lo posible y pidiendoselo como de [falta una palabra por roto] 9. na y de ninguna hemos podido tener respuesta de su V[^??^] 10. Ya N.Sr. me quiero valer de su amparo de V.M. para que V.M. le 11. escriva que se apiade de nosotros y juntamente remitirle 12. la que ba con esta. Esta ocasion hemos tenido de que al Sr. Juseppe Na 13. barro sele ofrecio el aver menester una ama y yo tenia 14. una conoçida y la lleve por orden de Gaspar Canella que estan 15. mui contentos con ella, y saviendo estos señores que yo conocia 16. a V.M. me dijeron que V.M. se havia casado y así le doy el para 17. bien a V.M. por amor de Dios le suplico a V.M. que me honrre 18. [^??^] [^??^] de cobrar respuesta se la de para su mi Señora 19. y remitamela a manos de Jusepe Nabarro porque estamos 20. con muchisima necesidad que bien puede considerar V.M. 21. Lo poco que yo tenia y lo poco que Bartolome tenia tambien no 22. soi mas larga por no enfadar a V.M. [^??amada Lihana??^] 23. que me an dicho esta conservamos de V.M. le dara a [^??^] 24. recaudo de mi parte. Gde Dios a V.M. como deseo en vida 25. de mi Sra, Doña Maria. Md febrero 28 de 1643. 26. Criada de V.M. Anamaria Marañon 27. [^Sr. D. Pedro Santacilia^] [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "009:5100.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo11/009:5100.JPG",
+      "url": "/legajos/legajo-11/images/009:5100.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "009:5100.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (3)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-11/cartas/001240.json",
+  "primary_image_url": "/legajos/legajo-11/images/009:5100.JPG"
+}

@@ -1,0 +1,52 @@
+{
+  "legajo_id": "37",
+  "id_carta": "5473",
+  "order_in_legajo": 59,
+  "signatura": "169:57a",
+  "nombre_carta": "Carta de Persona desconocida a Persona desconocida",
+  "fecha_original": "4 de noviembre de 1702",
+  "lugar": "Mallorca",
+  "remitente": "Persona desconocida",
+  "destinatario": "Persona desconocida",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Fulls 57a-57b: Albarans: Folis 57c-57e: Llista dels dols que se han de hacer per lo antero del cadaver de D. Arnau de Santacilia als 4 Noviembre 1702 [?] [1§] Transcripción literal"
+  ],
+  "literal": [
+    "1. Fulls [67a-57b]: Albarans: Folis [67c-57e]: Llista dels dols que se han de fer per lo antero del cadaver de Dn. Arnau de Sta. Cilia als 4 9bre 1702[?]"
+  ],
+  "imagenes": [
+    {
+      "filename": "169:57a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo37/169:57a.JPG",
+      "url": "/legajos/legajo-37/images/169:57a.JPG"
+    },
+    {
+      "filename": "170:57b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo37/170:57b.JPG",
+      "url": "/legajos/legajo-37/images/170:57b.JPG"
+    },
+    {
+      "filename": "171:57c.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo37/171:57c.JPG",
+      "url": "/legajos/legajo-37/images/171:57c.JPG"
+    },
+    {
+      "filename": "172:57d.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo37/172:57d.JPG",
+      "url": "/legajos/legajo-37/images/172:57d.JPG"
+    },
+    {
+      "filename": "173:57e.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo37/173:57e.JPG",
+      "url": "/legajos/legajo-37/images/173:57e.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "169:57a.JPG",
+  "warnings": [],
+  "raw_source": "raw/legajos/legajo-37/cartas/005473.json",
+  "primary_image_url": "/legajos/legajo-37/images/169:57a.JPG"
+}

@@ -1,0 +1,43 @@
+{
+  "legajo_id": "21",
+  "id_carta": "3358",
+  "order_in_legajo": 61,
+  "signatura": "078:5647a.JPG",
+  "nombre_carta": "Carta de àñigo García a Pedro Santacilia y Pax",
+  "fecha_original": "9 de marzo de 1632",
+  "lugar": "Lugar sin especificar",
+  "remitente": "àñigo García",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Amigo y Sr. mío de mi Sra. supe como habíase tenido poca suerte en el camino pues os aportastes donde una gentil posada que aseguro como amigo que lo he sentido en extremo y que esto lo a mi y si os acordáis os lo dije avisadme como os halla vinme mandáis algo de vuestro servicio que es nadie os servirá con más gusto. Yo quedo bueno a vuestro servicio y el conde me manda os de muchos recaudos y os suplica os acordéis de los amigos i mira que hemos de ser camaradas y hacer juntos la vida santa el juramento nos han dado de merced hemos llegado a las siete a este lugar daremos la vuelta [1§] a merced el lunes porque el [?] domingo yo lo debo porque es P [?] lugar. D. Antonio Esberta esta [?] que le vi ayer en la calle mayo. [?] no hay que os dar porque nos a Dios [?] y que os guarde muchos años. Alcalá 9 de marzo 1632. Vuestro amigo don Iñigo de Garcia Transcripción literal"
+  ],
+  "literal": [
+    "1. Amigo y sr mio de misra cupe como 2. abiase tenido poca suerte enel camíno 3. pues os aòreastes donde una Jentil 4. porada que asíguro como amigo que lo 5. esentído en Arimo y questo lo ami y síos 6. acordais os lodije abisad me como os alla 7. vinme mandais algo de buestro servo que 8. es nade os servira con mas gusto = 9. yo quedo bueno a Vro servicío y el 10. conde me mda ozdemuchos Recaudos 11. yos supp[li]ca os acordeis de los , amí12. gos ymíra Sr que emos de sercamara13. das y hazer Juntos lavída san14. ta = el Juramto nos anhado de 15. md emos llegado a las síete 16. aste Lugar daremos la buelta [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "078:5647a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo21/078:5647a.JPG",
+      "url": "/legajos/legajo-21/images/078:5647a.JPG"
+    },
+    {
+      "filename": "079:5647b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo21/079:5647b.JPG",
+      "url": "/legajos/legajo-21/images/079:5647b.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "078:5647a.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (4)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-21/cartas/003358.json",
+  "primary_image_url": "/legajos/legajo-21/images/078:5647a.JPG"
+}

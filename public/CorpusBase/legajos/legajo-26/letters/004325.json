@@ -1,0 +1,50 @@
+{
+  "legajo_id": "26",
+  "id_carta": "4325",
+  "order_in_legajo": 63,
+  "signatura": "087:3419.JPG",
+  "nombre_carta": "Carta de Ramon de Rocabertí a Pedro Santacilia y Pax",
+  "fecha_original": "6 de diciembre de 1639",
+  "lugar": "Lugar sin especificar",
+  "remitente": "Ramon de Rocabertí",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "La palabra entre soldados se acostumbra de guardar con muchas veras y así teniendo de tener deme [?] don Martín el acto, y no por ningún otro caso ha dilatado sino por no tener toda comodidad de dinero se suplica a v. m. con todas veras acuda con la promesa después que dejé de escribir a v. m. emprendí de tener el acto de Pª. de esta universidad, el cual se me han lucido los trabajos bien (del qual) harto bien con esperanzas que v. m. nos pagará los trabajos como a tanto envíandonos algunas albricias para estas navidades, lo cual aguardamos con grande deseo, (que) en ocasiones (no) tenemos [?] tan pocos dineros. A mi me han pedido suplicase a v. m. esto que le voy diciendo de parte de unos caballeros navarros, los cuales nos honran muchísimo, y así es bien que conozcan que v. m. nos es tío y que nuestros ruegos valen algo si lo menos los de un aprendiz de conde, pero siempre muy su criado. Me han dicho también que en el lugar de Cerdeña a donde v. m. tiene aposentados soldados, tienen ellos algunos deudos a donde estimarán muchísimo haga v. m. los soldados no sean desvergonzados tanto en vistas como en las demás cosas esto estiman a v. m. Lo hago con toda porque debemos mucho a esos señores y así todo lo que v. m. usará de misericordia lo estimaré muchísimo. A quien Dios Guarde a v. m. muchos años. Hoy a los 6 de diciembre 1639. Don Ramon de Rocaberti, su sobrino. Sr. don Pedro Santacilia [1§] Transcripción literal"
+  ],
+  "literal": [
+    "1. La palabra entre soldados se acostumbra de guardar2. con mutchas veras y ansi teniendo de tener deme[?] Don Mar3. tin el acto, ÿ no por ningun otro casa ha dilatado sino por no4. tener toda comodidat de dinero se suplica a Vmd. co5. todas veras acuda con la promessa6. Despues que dexe de scribir a Vmd. enprendi de tener7. el acto de Pª desta universidat, el qual se mean8. lucido los trabajos bien (^del qual) arto bien con esperansas9. que Vmd. nos pagara los trabajos como a tan tio envian10. donos algunas albrisias para estas navidades lo qual (agu)11. aguardamos con grande deseo, (^que) en ocasiones (^no) tenemos12. (^??) tan pocos dineros13. A mi me an pidido suplicase a V.m. esto que le voi14. diciendo de parte de unos cavalleros navarros los quales15. nos honran mutchissimo, i ansi es bien que conoscan que16. Vmd. nos es tio y que nuestros ruegos valen algo si lo17. menos los de un aprendis de conde pero siempre mui18. su criado. Me an ditcho tambien que en el lugar de Sedanaa19. adonde V.m. tiene aposentados soldados, tienen ellos algu20. nos deudos adonde stimaran mutchisimo aga Vmd. los21. soldados no sean desvergonsados tanto en vistas como en22. las demas cosas esto stiman a Vmd. lo ago con toda23. porque devemos mutcho a essos señyores ÿ ansi todo lo24. que Vmd. usara de misericordia lo stimare mutchis25. simo a quien Dios Guarde a Vmd. mutchos añyos26. Oÿ a los 6 de desiembre 1639 Don Ramon de Rocaberti27. su sobrino28. Sr. Don pedro Sta. Cilia [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "087:3419.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo26/087:3419.JPG",
+      "url": "/legajos/legajo-26/images/087:3419.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "087:3419.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    },
+    {
+      "code": "IMAGE_DOWNLOAD_FAIL",
+      "message": "HTTP 404",
+      "context": {
+        "url": "http://santacilia.info/intranet2/img/Legajo26/087:3419.JPG"
+      }
+    },
+    {
+      "code": "IMAGE_COUNT_MISMATCH",
+      "message": "Imágenes detectadas (1) != descargadas (0)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-26/cartas/004325.json",
+  "primary_image_url": "/legajos/legajo-26/images/087:3419.JPG"
+}

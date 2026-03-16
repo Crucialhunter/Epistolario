@@ -1,0 +1,38 @@
+{
+  "legajo_id": "29",
+  "id_carta": "6481",
+  "order_in_legajo": 149,
+  "signatura": "268:4298.JPG",
+  "nombre_carta": "Carta de Basilio de Castellví y Ponce a Pedro Santacilia y Pax",
+  "fecha_original": "1 de octubre de 1651",
+  "lugar": "Valencia",
+  "remitente": "Basilio de Castellví y Ponce",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "[1§] Transcripción literal"
+  ],
+  "literal": [
+    "1."
+  ],
+  "imagenes": [
+    {
+      "filename": "268:4298.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo29/268:4298.JPG",
+      "url": "/legajos/legajo-29/images/268:4298.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "268:4298.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-29/cartas/006481.json",
+  "primary_image_url": "/legajos/legajo-29/images/268:4298.JPG"
+}

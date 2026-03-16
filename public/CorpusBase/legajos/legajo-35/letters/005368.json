@@ -1,0 +1,38 @@
+{
+  "legajo_id": "35",
+  "id_carta": "5368",
+  "order_in_legajo": 179,
+  "signatura": "209:8215.JPG",
+  "nombre_carta": "Carta de Bartolomé Mercadal a Pedro Santacilia y Pax",
+  "fecha_original": "30 de diciembre de 1661",
+  "lugar": "Ciutadella",
+  "remitente": "Bartolomé Mercadal",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Esta nit passada que contàvem a 29 del corrent a 4. hores de nit, tinguiavís d'Antoni Rabasa, colector del Mercadal com havia naufragat una saetia en el golf d’en Sans, per a tge que dista del port de Fornells algun mig quart de llegua, la qual saetia venia d'Aliorna (sic) i anava per Alger, segons diuen (sic). Jo em partesc, en continent, per donar cobro a les coses que els efectes del mar, poden treure i, essent en dit lloc, donaré avís més llargament a v. s. a per duplicat, que sols de prompte fas esta diligència. Déu Nre. Sr. guardi a. a v. s. Ciutadella, i desembre, 30 de 1661. Molt servidor de v. s. que ses mans besa Sr. don Bartomeu Mercadal Por. Real Transcripción literal"
+  ],
+  "literal": [
+    "1. Esta nit passada que contavem a 29. del corrent2. a 4. hores de nnit tingui avis de Antoni Rebassa3. Collector del Mercadal com havia naufragat una4. seyetia en el Golf den Sans paratja q dista del5. port de Fornells algun mig quart de llegua la6. qual setyetia venia de Aliorna y enava per7. Alger sagon diven jo em partesch encontinent8. p donar cobro a las cosas que los effectas del mar9. poden treure y essent en dit lloch donare avis10. mes llargamt a VSa. per duplicat q sols de11. prompta fas esta diligencia Deu Nre. Sr. gde.12. a V.Sa. Ciutadella y dezbre. 30 de 166113. Molt sdor. de VS. q.s.m.B.14. Don Bartt. Mercadal15. Sr. Por. Real [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "209:8215.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo35/209:8215.JPG",
+      "url": "/legajos/legajo-35/images/209:8215.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "209:8215.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-35/cartas/005368.json",
+  "primary_image_url": "/legajos/legajo-35/images/209:8215.JPG"
+}

@@ -1,0 +1,74 @@
+{
+  "legajo_id": "2",
+  "num_cartas": 26,
+  "num_imagenes": 60,
+  "rango_temporal": [
+    1709,
+    1718
+  ],
+  "remitentes_frecuentes": [
+    {
+      "name": "Joan Martorell Squella",
+      "count": 11
+    },
+    {
+      "name": "No consta",
+      "count": 3
+    },
+    {
+      "name": "Juan García",
+      "count": 3
+    },
+    {
+      "name": "Juan Garcías",
+      "count": 2
+    },
+    {
+      "name": "Francisco Antonio la Portilla",
+      "count": 1
+    }
+  ],
+  "destinatarios_frecuentes": [
+    {
+      "name": "Gregorio Quint Zaforteza",
+      "count": 23
+    },
+    {
+      "name": "No consta",
+      "count": 1
+    },
+    {
+      "name": "Juan García",
+      "count": 1
+    },
+    {
+      "name": "Persona desconocida",
+      "count": 1
+    }
+  ],
+  "lugares_frecuentes": [
+    {
+      "name": "Barcelona",
+      "count": 12
+    },
+    {
+      "name": "Roma",
+      "count": 5
+    },
+    {
+      "name": "Mallorca",
+      "count": 3
+    },
+    {
+      "name": "Sóller",
+      "count": 2
+    },
+    {
+      "name": "Madrid",
+      "count": 1
+    }
+  ],
+  "temas_frecuentes": [],
+  "warnings_count": 7,
+  "densidad_narrativa_estimada": "Media"
+}

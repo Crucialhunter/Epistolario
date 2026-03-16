@@ -1,0 +1,38 @@
+{
+  "legajo_id": "17",
+  "id_carta": "2899",
+  "order_in_legajo": 164,
+  "signatura": "281:1441JPG",
+  "nombre_carta": "Carta de Gerónimo Marmena a Pedro Santacilia y Pax",
+  "fecha_original": "2 de junio de 1660",
+  "lugar": "Madrid",
+  "remitente": "Gerónimo Marmena",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Bien puede v. m. asegurarse por lo afecto servidor que le soy que a ninguno de cuantos tiene v. m. le cabe más parte de gusto que a mi de todas las conveniencias de su casa y en esta de su hijo de v. m. la he tenido con especialidad porque por su persona lo merece y sirve muy bien este empleo que espero ha de ser principio para otros muchos Suplico a v. m. me haga favor siempre que se ofreciere la ocasión de tratar de la paga de la renta de mi padre adelantar esta mata así en la cantidad como en la brevedad porque a muchísimo tiempo no se le ha dado nada deviéndósele mucho y le será fuerza pedir al consejo y a su majestad mande se le dé satisfacción que es preciso haya habido dinero de suerte que alcance a pagar su grado que no es de los peores y sírvase v. m. darme muchas órdenes de su servicio pues sabe el deseo que tengo de emplear me en el guarde Nro. Sr. a v. m. como deseo. Madrid y junio a 2 de 1660 de v. m. su mayor servidor Jeronimo Marmena [?] Sr. D. Pedro Santacilia y Pax. [1§] Transcripción literal"
+  ],
+  "literal": [
+    "1. Bien puede VM asegurarsse por lo afecto seror q2. le soy q aninguno de quantos tiene Vm. le cabe3. mas parte de gusto q a mi de todas las convenien-4. cias de su casa y en esta de su hijo de VM la he teni5. do con espeçialidad porq por su persona lo mere6. ze y sirve muy bien este empleo q espero ha de ser7. principio pa otros muchos8. Sup[li]co a Vm. me haga favor siempre q se offreziere9. la ocasion de tratar de la paga de la renta de mi Pa-10. dre adelantar esta mata assi en la cantidad como11. en la brevedad porq a muchissimo tiempo no se12. le ha dado nada deviendosele mucho y le sera fuer13. za pidir al Conso y a Su Magd mande sele de14. satisfaccion ques es preçiso aya havido dinero de15. suerte q alcanze á pagar su grado que no es16. de los peores y sirvase Vm. darme muchas ordenes17. de su sero pues save el deseo q tengo deemplear18. me en el gde Nro Sr. a VM como deseo. Md19. y Junio a 2 de 166020. De VM su mr seror21. Geronimo Marmena[?]22. Sr D Po Santaçilia y Pax. [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "281:1441JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo17/281:1441JPG",
+      "url": "/legajos/legajo-17/images/281:1441JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "281:1441JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-17/cartas/002899.json",
+  "primary_image_url": "/legajos/legajo-17/images/281:1441JPG"
+}

@@ -1,0 +1,43 @@
+{
+  "legajo_id": "12",
+  "id_carta": "1653",
+  "order_in_legajo": 156,
+  "signatura": "234_6246a.JPG",
+  "nombre_carta": "Carta de Isabel de Salvá a Pedro Santacilia y Pax",
+  "fecha_original": "16 de agosto de 1651",
+  "lugar": "Madrid",
+  "remitente": "Isabel de Salvá",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "[1§] Transcripción literal"
+  ],
+  "literal": [
+    "1. 2. 3. 4. 5. 6. 7. 8. 9. 10. 11. 12. 13. 14. 15. 16. 17. 18. 19. 20. 21. 22. 23. 24. 25. 26. 27. 28. 29. 30. [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "234_6246a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo12/234_6246a.JPG",
+      "url": "/legajos/legajo-12/images/234_6246a.JPG"
+    },
+    {
+      "filename": "235_6246b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo12/235_6246b.JPG",
+      "url": "/legajos/legajo-12/images/235_6246b.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "234_6246a.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-12/cartas/001653.json",
+  "primary_image_url": "/legajos/legajo-12/images/234_6246a.JPG"
+}

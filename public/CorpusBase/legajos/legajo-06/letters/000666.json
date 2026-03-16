@@ -1,0 +1,38 @@
+{
+  "legajo_id": "6",
+  "id_carta": "666",
+  "order_in_legajo": 166,
+  "signatura": "252-128",
+  "nombre_carta": "Carta de Bartolomé Verd y Pons a Cecilia Zaforteza y Sureda de Sant Martí",
+  "fecha_original": "de enero de 1778",
+  "lugar": "Palma",
+  "remitente": "Bartolomé Verd y Pons",
+  "destinatario": "Cecilia Zaforteza y Sureda de Sant Martí",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "El licenciado en Medicina Bartolomé Verd y Pons, desea obtener el grado mayor en la misma facultad en el día 25 de enero del corriente año de 1778, proponiéndose con el mismo acto obsequiar la fiesta, que la real literaria universidad tributa al Dr. iluminado el beato Raimundo Lulio en aquel día, para el cual vida convida a v. s. a las tres de la tarde en la iglesia de San Francisco de Asís, suplicándole le favorezca con su asistencia. Transcripción literal"
+  ],
+  "literal": [
+    "1. El Licenciado en Medi- 2. cina Bartholome Verd y 3. Pons, desea obtener el Grado 4. mayor en la mesma facultad 5. en el dia 25. de Enero del 6. corriente año de 1778. pro- 7. poniendose con el mismo 8. Acto obsequiar la fiesta, que 9. la Rl. Literaria Universidad 10. tributa al Dr. Illuminado el 11. Beato Raymundo Lulio en 12. aquel dia, para el qual con- 13. bida à V. à las tres de la 14. tarde en la Iglesia de San 15. Francisco de Assis, suplican- 16. dole le favoresca con su asis- 17. tencia [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "252-128.jpg",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo06/252-128.jpg",
+      "url": "/legajos/legajo-06/images/252-128.jpg"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "252-128.jpg",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (2)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-06/cartas/000666.json",
+  "primary_image_url": "/legajos/legajo-06/images/252-128.jpg"
+}

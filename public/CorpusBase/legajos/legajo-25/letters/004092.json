@@ -1,0 +1,43 @@
+{
+  "legajo_id": "25",
+  "id_carta": "4092",
+  "order_in_legajo": 26,
+  "signatura": "050_126a.JPG",
+  "nombre_carta": "Carta de Diego Matías de Aragüés a Jerónimo Pelegrín de Aragüés",
+  "fecha_original": "26 de marzo de 1667",
+  "lugar": "Madrid",
+  "remitente": "Diego Matías de Aragüés",
+  "destinatario": "Jerónimo Pelegrín de Aragüés",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Al Sr. don Pedro respondo todo lo que se me ofrece por ahora con que lo verá por su carta con que y así hago estos renglones. La diligencia de Nra. Señora del Pilar se está haciendo por medio de un canónigo que esta aquí. En el memorial de Jaime Bauza no se ha tomado aún resolución. Avisaré del suceso. Ya tengo avisado a v. m. como los oficios que tenía Pelayo hoy los dio la reina a Guillermo el Enano. Tengo remitido días a él crédito de Nadal. El Sr. don Miguel Salva me dice tratará de su jornada en pasando vacaciones. Ya estamos prevenidos encargarle lo que v. m. me tiene avisado. La carta para el Dr. Armella se la dé en su mano y que porque no escribe al señor don Josep Romeu. Todos estamos buenos en casa, a Dios gracias, que a v. m. y a mi sobrina besamos [1§] las manos y a los niños abrazos y guarde Dios como deseamos. Madrid a 26 de marzo de 1667. Tío y servidor de v. m. Diego Matias de Aragues Sr. Jeronimo Pelegrín de Aragues, mi sobrino 26 Marzo Transcripción literal"
+  ],
+  "literal": [
+    "1. Al Sr. don Pedro respondo todo lo que2. se me ofrece por aora con que lo bera por su3. carta (^??) y assí ago estos renglones.4. La diligençia de Nra. Señora del Pilar 5. se esta haçiendo por medio de un canonigo6. q esta aqui7. En el memorial de Jayme Baussa no se8. a tomado aun resoluçion avisare del suçesso9. ya tengo avisado a Vmd. como los offiçios10. q tenia Pelayo ay los dio la Reyna a11. Guillermo el ennano 12. Tengo remitido dias a el credito de Na13. dal el Sr. don Miguel Salva me diçe14. tratara de su jornada en pasando vaca15. çiones, ya estamos prevenidos encargarle16. lo que Vmd. me tiene avisado. La carta17. para el Dr. Armella se la de en su18. mano y que por q no escrive al señor19. Don Joseph Romeu.20. Todos estamos buenos en cassa a Dios21. graçias q a Vmd. y a mi sobrina besamos [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "050_126a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo25/050_126a.JPG",
+      "url": "/legajos/legajo-25/images/050_126a.JPG"
+    },
+    {
+      "filename": "051_126b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo25/051_126b.JPG",
+      "url": "/legajos/legajo-25/images/051_126b.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "050_126a.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (7)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-25/cartas/004092.json",
+  "primary_image_url": "/legajos/legajo-25/images/050_126a.JPG"
+}

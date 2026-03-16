@@ -1,0 +1,32 @@
+{
+  "legajo_id": "19",
+  "id_carta": "7520",
+  "order_in_legajo": 69,
+  "signatura": "002_cg2",
+  "nombre_carta": "Carta de Persona desconocida a Persona desconocida",
+  "fecha_original": "fecha sin especificar",
+  "lugar": "lugar sin especificar",
+  "remitente": "Persona desconocida",
+  "destinatario": "Persona desconocida",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "ha passat la carregada Arros _____________ 3qª. 14 tbascuit ______________ 14 qª. 7 tbascuit ______________ 6 qª. ii t Transcripción literal"
+  ],
+  "literal": [
+    "1. ha pesat la carrega2. de Arros _____________ 3qª. 14 tt3. bascuit ______________ 14 qª. 7 tt4. bascuit ______________ 6 qª. ii tt [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "002_cg2.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo19/002_cg2.JPG",
+      "url": "/legajos/legajo-19/images/002_cg2.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "002_cg2.JPG",
+  "warnings": [],
+  "raw_source": "raw/legajos/legajo-19/cartas/007520.json",
+  "primary_image_url": "/legajos/legajo-19/images/002_cg2.JPG"
+}

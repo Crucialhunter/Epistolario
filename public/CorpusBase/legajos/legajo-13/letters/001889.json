@@ -1,0 +1,43 @@
+{
+  "legajo_id": "13",
+  "id_carta": "1889",
+  "order_in_legajo": 165,
+  "signatura": "243:2393a.JPG",
+  "nombre_carta": "Carta de Basilio de Castellví y Ponce a Pedro Santacilia y Pax",
+  "fecha_original": "8 de diciembre de 1669",
+  "lugar": "Valencia",
+  "remitente": "Basilio de Castellví y Ponce",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Señor mio, hállome sin carta de v. s. muchos días ha y sentiría fuera la ocasión falta de salud quiera Dios no sea así y que tenga v. s. la que le deseo que bien se me puede fiar de lo que le soy servidor. Yo quedo al servicio de v. s. bueno. Da. Laura y Giuseppe lo están y besan a v. s. las manos y todos las de mi casa, Dña. Leonor y esos señores. Hállome ya en Valencia de asíento de cuatro días a esta parte habiendo dejado la aldea con mucho sentimiento porque era vida de apetecer la que allí se pasaba con mucha libertad y comodidad y sin ningún cumplimiento de los que aquí se experimentan que no sirven sino de matar. Las novedades que nos trae este último correo son haberse dado la presidencia de Castilla al conde de Villaumbrosa, el virreinato de Sicilia al [?] de Ligni y la embajada de Alemania al marques de los Balbases con que ahora quedan las caballerías de Flandes y Milán vacas con que no faltarán muchos pretendientes. Llas galeras de Sicilia corren por el Pe. de Pomblin aunque le ha salido al encuentro a la pretensión el marques de Bayona. [1§] Malas nuevas corren de la salud del Papa, quesas [?] han de Roma con cartas de 26 de octubre quedaba con conocido peligro. No se me ofrece otra cosa de que dar cuenta a v. s. sino acordarle cuan a su obediencia me tiene v. s. y que para mi no puede haber mayor gusto que v. s. haga experiencia de esta verdad. Dios guarde a v. s. muchos años como deseo. Valencia y diciembre a 8 de 1669. Señor mío hállome ya en Valencia pero en mi para de volver a salir de ella, para la visita de las villas reales, de Ircino [?]. Doña Laura y Giuseppe besan a v. s. las manos, las de mi Sra. doña Leonor y a esos señores. Besa a v. s. su mano su mayor servidor y amigo Don Basilio de Castellvi y Ponce Sr. don Pedro Santacilia y Pax. Transcripción literal"
+  ],
+  "literal": [
+    "1. Señor mio; hallome sin carta de VS muchos dias á y sentiria2. fuera la ocaçion falta de salud quiera Dios no sea assi3. y que tenga V.S. la que le deseo que bien se me puede4. fiar de lo que le soy servidor Yo quedo al servicio de5. V.S. bueno Da. Laura y Jusepe lo estan y besan a V.S. las6. manos y todos las de mi Sra. Da. Leonor y essos Sres.=7. Hallome ya en Valencia de asiento de cuatro dias aesta8. parte haviendo dejado la aldea con mucho senti=9. miento porque era vida de apeteçer la que alli se10. pasava con mucha libertad y comodidad y sin ningun11. cumplimiento de los que aqui se experimentan que no12. sirven sino de matar=13. Las nobedades que nos trahe este ultimo correo son14. haverse dado la Presidencia de Castilla al Sr. Conde 15. de Villaumbrosa, el Virreynato de Siçilia al Pe de16. Ligni y la embajada de Alemania al Marqs de17. los Balbases con que aora quedan las cavallerias18. de flandez y Milan vacas con que no faltaran mucho19. pretendientes; Las Galeras de Siçilia corren por el20. Sr. Pe. de Pomblin aunque lea salido al encuentro á la 21. pretençion el Sr. Marqs de Bayona= [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "243:2393a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo13/243:2393a.JPG",
+      "url": "/legajos/legajo-13/images/243:2393a.JPG"
+    },
+    {
+      "filename": "244:2393b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo13/244:2393b.JPG",
+      "url": "/legajos/legajo-13/images/244:2393b.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "243:2393a.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-13/cartas/001889.json",
+  "primary_image_url": "/legajos/legajo-13/images/243:2393a.JPG"
+}

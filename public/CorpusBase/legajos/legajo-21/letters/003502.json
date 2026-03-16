@@ -1,0 +1,43 @@
+{
+  "legajo_id": "21",
+  "id_carta": "3502",
+  "order_in_legajo": 191,
+  "signatura": "354:5790a.JPG",
+  "nombre_carta": "Carta de Pedro Fajardo de Requeséns-Zúñiga y Pimentel (V marqués de los Vélez) a Pedro Santacilia y Pax",
+  "fecha_original": "19 de noviembre de 1639",
+  "lugar": "Pamplona",
+  "remitente": "Pedro Fajardo de Requeséns-Zúñiga y Pimentel (V marqués de los Vélez)",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "He recibido su carta de v. m., y en el particular que me representa de que no se pueda sustentar los caballos con la cebada que se les da y que es necesario dar a cada uno al día se le [?] medio de Castilla le he comunicado con el proveedor y reusa en que se de más de la que hasta ahora se ha dado y [?] en el real que se vaya a cada soldado cabe muy bien [?] que v. m. dice, no alcanza para lo que se da por cuenta [?] su majestad porque le costó a más sueldo precio [?] y el haberse dado en la provincia [?] falta de forrajes que [?] sobrados no se tiene por conveniencia la forma que hasta ahora sea hecho sino que [?] adelante que es lo que se me ofrece que responder a v. m. y encaragarle mucho cuide de que los soldados tengan toda buena conformidad con los vecinos. Guarde Dios a v. m. muchos años, Pamplona 19 de noviembre 1639. El marques de los Velez Sr. don Pedro Santacilia [1§] Pamplona 19 Noviembre 1639 El marques de los Velez rdo. Transcripción literal"
+  ],
+  "literal": [
+    "1. He recivido sucarta de Vm., y en el particular queme 2. representa deque no sepueda sustentar los cavallos con la 3. cevada que selesda y quees neceso daracada uno aldia 4. selemin ymedio decastilla; le écomunicado conelproveor 5. y Reusa enque sedemas dela que hasta agora seadado y [Ilegible]6. enel Rl quese Vaja acada soldado cavemuy bien [Ilegible]7. q Vm. díze, no alcança paraloque seda porquenta [Ilegible]8. S[u] Md porque l4ecosto amas sueldo preçio [Ilegible] 9. y el haverse dado en la prova [Ilegible]10. falta de forrajes que [Ilegible]11. sobrados nosetiene por conveniencia [Ilegible]12. la forma que hasta agora sea hecho sino que [Ilegible] 13. adelante quees loquese me ofreze que responder a Vm. 14. y encaragarle mucho cuyde dequelos soldados tengan 15. toda buena conformidad conlos vezinos Ge Dios 16. a Vm. muchos años Pamppa 19 de Nove 1639 17. El Marqs delos veles 18. [Margen izquierdo][^ Sr Don Po santaçilia] [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "354:5790a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo21/354:5790a.JPG",
+      "url": "/legajos/legajo-21/images/354:5790a.JPG"
+    },
+    {
+      "filename": "355:5790b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo21/355:5790b.JPG",
+      "url": "/legajos/legajo-21/images/355:5790b.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "354:5790a.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (5)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-21/cartas/003502.json",
+  "primary_image_url": "/legajos/legajo-21/images/354:5790a.JPG"
+}

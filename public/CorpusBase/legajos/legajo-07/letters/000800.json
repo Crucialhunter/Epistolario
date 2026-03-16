@@ -1,0 +1,43 @@
+{
+  "legajo_id": "7",
+  "id_carta": "800",
+  "order_in_legajo": 28,
+  "signatura": "47-31a copy",
+  "nombre_carta": "Carta de Josep Togores a Jerónimo Pelegrín de Aragüés",
+  "fecha_original": "19 de marzo de 1672",
+  "lugar": "Lugar sin especificar",
+  "remitente": "Josep Togores",
+  "destinatario": "Jerónimo Pelegrín de Aragüés",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Senyor Jeroni, farà d’enviar pa i vi de Son Balaguer i un poc de sal per a sa cuina nostra i salsa i carn. Fet a 19 de març, 1672. Josep Togores. I dues dobles dau-li vos i anís. [1§] Al senyor Jeroni Pelegri, que Déu guardi. Ciutat. Transcripción literal"
+  ],
+  "literal": [
+    "1. Señor garoni fera denviar pa y vi 2. de son bleleger y un poc de sal p se 3. cuine nosbra y sarsa y carn fet a 19 4. de mars 1672 Joseph togoras 5. y dos dobles de levos y anis [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "47-31a copy.gif",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo07/47-31a copy.gif",
+      "url": "/legajos/legajo-07/images/47-31a copy.gif"
+    },
+    {
+      "filename": "48-31b copy.gif",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo07/48-31b copy.gif",
+      "url": "/legajos/legajo-07/images/48-31b copy.gif"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "47-31a copy.gif",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (4)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-07/cartas/000800.json",
+  "primary_image_url": "/legajos/legajo-07/images/47-31a copy.gif"
+}

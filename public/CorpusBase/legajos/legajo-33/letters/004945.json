@@ -1,0 +1,43 @@
+{
+  "legajo_id": "33",
+  "id_carta": "4945",
+  "order_in_legajo": 135,
+  "signatura": "206:6861a.JPG",
+  "nombre_carta": "Carta de Juan Suñer a Pedro Santacilia y Pax",
+  "fecha_original": "8 de septiembre de 1638",
+  "lugar": "Madrid",
+  "remitente": "Juan Suñer",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "mucho me he alegrado con la v. m. con que me avisa como va marchando con las compañías y si tiene orden pasara a Navara que lo tengo por sin duda porque el aprieto y necesidad en que se va poniendo les ha de obligar como también con los hábitos en caso que seia no lo excusaré yo y me holgaré mucho hallar a v. m. porque me será de gran convenencia y alivio y así sabien do que v. m. va que se servirá de avisármelo no are prevensión de cavalo ni armas porque corera por cuenta de v. m. el mandar lo disponerlo v. m. mandará avisar de lo que hay por allá que joa re lo mismo avisando a donde tengo de escribir yo quedo con salud gracias a Dios y me alegro la tenga v. m. y si gustoa algo por acá me avise y guarde Dios a v. m. de Madrid y septiembre a los 8 de 1638 Sr. don Juan Suñer Juan Sr. don Pedro Stasesilia y Pax [1§] Madrid 8 Septiembre 1638 Sr. don Juan Suñer y Juan [2§] Transcripción literal"
+  ],
+  "literal": [
+    "1. Mucho me alegrado con la V.m. con que me avisa2. como va marxando con las conpanias y si tiene3. orden pasara a Navara que lo tengo por sin du4. da porque el aprieto y nesesidad en que se va5. poniendo les a de obligar como tanbien con los6. abitos en caso que seia no lo escusare jo y me7. olgare mucho allar a V.m. porque me sara8. de g[r]an convenensia y alivio y asi sabien9. do que V.m. va que se servira de avisarmelo10. no are prevension de cavalo ni armas por11. que corera por quenta de V.m el mandar lo12. disponerlo V.m mandara avisar de lo que13. ay por alla que joa re lo mesmo avisando14. adonde tengo descrivir jo quedo con salut15. grasias a dios y me aleg[r]o la tenga V.m y si16. gustoa algo poraca me avise y guarde Dios17. a V.m de madrid y setiembre a los 8 de 163818. Don Juan 19. Suñer Juan20. Sr. Don Pedro Stasesilia y Pax [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "206:6861a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo33/206:6861a.JPG",
+      "url": "/legajos/legajo-33/images/206:6861a.JPG"
+    },
+    {
+      "filename": "207:6861b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo33/207:6861b.JPG",
+      "url": "/legajos/legajo-33/images/207:6861b.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "206:6861a.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-33/cartas/004945.json",
+  "primary_image_url": "/legajos/legajo-33/images/206:6861a.JPG"
+}

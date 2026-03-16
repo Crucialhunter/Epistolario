@@ -1,0 +1,38 @@
+{
+  "legajo_id": "31",
+  "id_carta": "6925",
+  "order_in_legajo": 165,
+  "signatura": "238:1676.JPG",
+  "nombre_carta": "Carta de Jerónimo Mancho a Pedro Santacilia y Pax",
+  "fecha_original": "29 de agosto de 1663",
+  "lugar": "Madrid",
+  "remitente": "Jerónimo Mancho",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Por una que recibí de v. s. y otra que he visto de Jeronimo Pelegrin para su tío, veo la merced que v. s. desea hacerme sobre mi ayuda de costa, de que estoy con el debido reconocimiento. Y así no excuso dar a v. s. las gracias de su afecto y suplicar a v. s. de nuevo que aunque son cuatrocientos ducados tomaré el comenzar a cobrar aquello en que v. s. pudiere favorecerme cuando llegue la ocasión, deseando muchas del servicio de v. s. cuya vida guarde Dios muchos años como deseo. Madrid a 29 de agosto de 1663. Gran cosa sería si v. s. acabase de efectuar el echar de ese reino los bandidos de ambas parcialidades. Ya he dicho yo a estos señores que ninguno ejecutará esto mejor que v. s. Besa la mano de v. s. su más reconocido servidor, Jeronimo Mancho Sr. don Pedro Santacilia y Pax [1§] Transcripción literal"
+  ],
+  "literal": [
+    "1. Por una que recebi de v.s. y otra que he 2. visto de Geronymo Pelegrin para su tio veo 3. la mrd. que V. S. desea hazerme sobre mi ayuda 4. de [?] de que [?] con el devido reconocimto. 5. y assi no escuso dar a V. S. las gracias de su 6. afecto y supplicar a V. S. de nuevo que aunq 7. son quatrocientos ducados tomare el comen 8. zar a cobrar aquello en que V. S. pudiere favo9. recerme quando llegue la ocasion deseando mu 10. chas del servicio de V. S. cuya vida gde. 11. Dios muchos años como desseo Md. a 29 de 12. Agosto de 1663. 13. gran cosa seria si V. S. acabasse de efectuar 14. el hechar desse Reyno los Vandidos de ambas 15. parcialidades, ya he dicho yo a estos Señores 16. que ninguno executara esto mejor q VS. 17. B. l. m. de V. S. 18. Su mas reconocido Ser. 19. Geronymo Mancho 20. Sr. Don PEdro SantaCilia y Pax [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "238:1676.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo31/238:1676.JPG",
+      "url": "/legajos/legajo-31/images/238:1676.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "238:1676.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-31/cartas/006925.json",
+  "primary_image_url": "/legajos/legajo-31/images/238:1676.JPG"
+}

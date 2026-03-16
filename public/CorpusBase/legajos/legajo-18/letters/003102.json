@@ -1,0 +1,38 @@
+{
+  "legajo_id": "18",
+  "id_carta": "3102",
+  "order_in_legajo": 117,
+  "signatura": "217:4941.JPG",
+  "nombre_carta": "Carta de Conde de Zavellá a Pedro Santacilia y Pax",
+  "fecha_original": "8 de julio de 1664",
+  "lugar": "Madrid",
+  "remitente": "Conde de Zavellá",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "mío Salas anda Soharto pero a mi no me falta nada sino dinero. en una Juanta que he tenido todos hans hallado muy buena Cara amiJusticia y entrando mucho anímo. yo espero premí [?] tantas laresolución delamo en mis pretensiones, buena o mala participare luego a v. s. ysobre ellas gobernaremos las materias. Dios mege a v. s. como deseo. Madrid Julio a 8 de 1664 mi de v. s. que sus m b El conde de Zavella Todavía se diseq Cardona no irá a la jornada porque es molerias [?] Sr. D. Pedro Santacilia, mi Sr. [1§] Transcripción literal"
+  ],
+  "literal": [
+    "1. Sr mio Salas anda Soharto 2. pero ami nome falta nada sino 3. dinero. enuna Juanta q hetenido 4. todos hans hallado muy buena 5. Cara amiJusticia y entrando 6. mucho anímo. Yo espero premí[?]7. tantas laresolucion delamo en 8. mis pretensiones, buena o mala 9. participare luego a VS. ysobre ellas 10. governaremos las materias. Dios 11. mege a VS como deseo. Md Julio 12. a 8 de 1664 mi Sr de VS 13. q sus m b 14. El Conde de Çavella 15. Todavia se diseq Car16. dona no irà a la Jornada porq es molerias[?]17. [Margen izquierdo][^ [Sr] D Pedro Sta Cilia misr ] [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "217:4941.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo18/217:4941.JPG",
+      "url": "/legajos/legajo-18/images/217:4941.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "217:4941.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-18/cartas/003102.json",
+  "primary_image_url": "/legajos/legajo-18/images/217:4941.JPG"
+}

@@ -1,0 +1,48 @@
+{
+  "legajo_id": "6",
+  "id_carta": "640",
+  "order_in_legajo": 140,
+  "signatura": "206-105a",
+  "nombre_carta": "Carta de Joan Vila i Coll a Cecilia Zaforteza y Sureda de Sant Martí",
+  "fecha_original": "23 de octubre de 1770",
+  "lugar": "Barcelona",
+  "remitente": "Joan Vila i Coll",
+  "destinatario": "Cecilia Zaforteza y Sureda de Sant Martí",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Barcelona i octubre a 23 de 1770. Muy Sra. dona Cecília, Celebraré que estes cuatro ratlles {ESP. encontrin} a v. s. i {ESP. demés} de son bon afecte amb perfecta salut, mentre que, a Déu gràcies, queda la que ens assisteix junt la parenta i fills i {ESP. demés} d'esta sa casa per tot quant sia de l’{ESP. agrado} de v. s. manar-nos. Com este correu passa el Sr. don Tomàs son nebot, bo i {ESP. bizarro}, junt tota sa família, el que espero com el favor de Déu {ESP. lograran} un feliç viatge i {ESP. encontraran} a v. s. [1§] en esta de Mallorca, sin la menor novetat. El que dóna v. s. mil enhorabones que dit Sr. D. Tomàs s'hagi restituït a Mallorca sense haver tingut la menor cosa i haver {ESP. lograt} sempre perfecta salut. Sra. dona Cecília, v. s. podrà tolerar les mies faltes, si jo he faltat en ninguna cosa que servir a don Tomàs. V. s. pot estar segura que si he faltat en res no serà estat per no voler-ho fer sinó per no poder-hi fer més. I, així, v. s. i don Tomàs i {ESP. demés} de sa casa ara i sempre podran disposar de mi i tota la família, que sempre estarem servidors de v. s. Pere Ferrer entregarà a v. s. dues rebudes meves que v. s. ja veurà el que és. Això és quant al present se m’ofereix participar a v. s. i quedo als seus ordres i pregant al Sr. la guardi molts anys com desitjo. Besa la mà de v. s. son segur servidor, Joan Vila i Coll. Muy senyora dona Cecilia Zaforteza Transcripción literal"
+  ],
+  "literal": [
+    "1. Barna y 8bre a 23 de 1770. 2. Muy Sa. Da. Cecilia selebrare que 3. estas quatro Rallas enquantrian á 4. V.S. y demes de son bon afechte ab pe- 5. rfeta salut; mentres que á Deu 6. Grassias queda la que nos assisteix 7. junt la Parenta, y fills, y demes de 8. esta sa Casa per tot quan sia del 9. agrado de V.S. manarnos. 10. Con este Correu pasa el Sr. Dn. Tho- 11. mas Son Nabot, bo, y Bizarro, junt 12. tota sa familia, lo que espero con 13. al fabor de Deu lograran un 14. felis Biatge, yncontraran á V.S. [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "206-105a.jpg",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo06/206-105a.jpg",
+      "url": "/legajos/legajo-06/images/206-105a.jpg"
+    },
+    {
+      "filename": "207-105ba.jpg",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo06/207-105ba.jpg",
+      "url": "/legajos/legajo-06/images/207-105ba.jpg"
+    },
+    {
+      "filename": "207-105bb.jpg",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo06/207-105bb.jpg",
+      "url": "/legajos/legajo-06/images/207-105bb.jpg"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "206-105a.jpg",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-06/cartas/000640.json",
+  "primary_image_url": "/legajos/legajo-06/images/206-105a.jpg"
+}

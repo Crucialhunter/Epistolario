@@ -1,0 +1,43 @@
+{
+  "legajo_id": "23",
+  "id_carta": "3919",
+  "order_in_legajo": 173,
+  "signatura": "310:3332a.JPG",
+  "nombre_carta": "Carta de Miquel Suau a Sebastià Suau",
+  "fecha_original": "26 de febrero de 1669",
+  "lugar": "Bruselas",
+  "remitente": "Miquel Suau",
+  "destinatario": "Sebastià Suau",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Muy ilustre señor Son tantas las honras y favores que v. s. me hace, que sería en mi delito, sino mostraba en parte el agradecimiento que me queda con estos malformados renglones, besándole la mano por todos ellos, que aunque sé, obra v. s. según su generoso natural en favorecer a los que poco pueden, veo que en mi es con alguna circunstancia más, la cual agradezco a v. s. con todo afecto y rendimiento, suplicándole me la continue en todo lo que [1§] se ofreciere de mis aumentos, pues es v. s. quien ha de amparar y favorecer los hijos de la Patria, para que uno de ella venga a conseguir ser maestre de campo en estos estados. Al Dr. Garcies escribo más largo, v. s. se sirva de tenerla por propia. Remito a v. s. la repuesta del Sr. D. Antonio Pimentel. Estimo en mucho la de v. s. a quien guarde Nro. Sr. los años que deseo puede y es menester, de Bruselas a 26 de febrero 1669. Besa la mano de v. s. su menor criado Miquel Suau Mi primo, el coronel Sebastian Suau, besa a v. s. la mano. Transcripción literal"
+  ],
+  "literal": [
+    "1. Muy illustre Señor2. Son tantas las honrras y favores3. que V.Sa. me hace, que seria en mi4. delito, sino mostrava en parte el5. agradecimiento que me queda6. con estos malformados ringlo-7. nes, besandole la mano por todos 8. ellos, que aunque sé obra V.Sa.9. segun su generoso natural en10. favoreser a los que poco pueden11. veo que en mi es con alguna12. sircunstancia mas, la qual13. agradesco a V.Sa. con todo afecto14. y rendimiento, suplicandole15. me la continue en todo lo que [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "310:3332a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo23/310:3332a.JPG",
+      "url": "/legajos/legajo-23/images/310:3332a.JPG"
+    },
+    {
+      "filename": "311:3332b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo23/311:3332b.JPG",
+      "url": "/legajos/legajo-23/images/311:3332b.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "310:3332a.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (2)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-23/cartas/003919.json",
+  "primary_image_url": "/legajos/legajo-23/images/310:3332a.JPG"
+}

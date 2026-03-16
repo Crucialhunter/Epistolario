@@ -1,0 +1,38 @@
+{
+  "legajo_id": "29",
+  "id_carta": "6505",
+  "order_in_legajo": 206,
+  "signatura": "316:4322.JPG",
+  "nombre_carta": "Carta de Nicolás de Santacilia y Togores a Pedro Santacilia y Pax",
+  "fecha_original": "22 de octubre de 1665",
+  "lugar": "Madrid",
+  "remitente": "Nicolás de Santacilia y Togores",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "No dudo que habrá llegado Jerónimo ya, y le informará de todo lo que ha habido estos días pasados, y por qué camino ha entrado don Blasco Loyola en el despacho, que aún no se había partido. Muchas novedades hay ahora aunque no muy ciertas, pero lo más cierto es que don Fernando de Berga ha hecho dejación de la plaza de caballería mayor, y el conde de Monterey también la ha hecho de alcalde mayor de El Pardo. Esto no los ha parecido muy bien a los del lugar. Nosotros cobramos la ayuda de esta mañana, y don Blasco ha dicho al [?] que nos previniésemos para Enero. Los mallorquines están despechados. Don Giuseppe Santacilia aprisa le tendré [?] y podrá ser que haya llegado. Madrid a 22 de octube 1665. Don Nicolas de Santacilia Mi padre y señor Transcripción literal"
+  ],
+  "literal": [
+    "1. No dudo que abra llegado Geronimo 2. ya, y le informara de todo lo que avido estos 3. dias pasados, y por que camino a entrado 4. Don Blasco Loyola en el despacho, que 5. aun no se avia partido; muchas nove6. dades ay aora aunque no muy siertas 7. pero lo mas sierto es que Don Fernan8. do de Berga aceho degasion de la 9. plasa de Cavalleria mayor, y el Conde 10. de Monterey tanbien la echo de al11. cayde mayor del pardo, esto no los 12. a paresido muy bien a los del lugar 13. nosotro cobramos la ayuda de easta ma14. ñana, y Don blasco a dicho al ayo que 15. nos previniesemos para enero los ma16. llorquines estan despechados Don Ju17. sepe StaCilia aprisa le tendre [?] 18. y podra ser que aia llegado Madrid 19. a 22 de octube 1665 20. Don Nicolas de Sta.Cilia 21. mi Padre y Señor [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "316:4322.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo29/316:4322.JPG",
+      "url": "/legajos/legajo-29/images/316:4322.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "316:4322.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-29/cartas/006505.json",
+  "primary_image_url": "/legajos/legajo-29/images/316:4322.JPG"
+}

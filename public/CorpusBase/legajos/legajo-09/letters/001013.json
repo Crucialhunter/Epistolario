@@ -1,0 +1,48 @@
+{
+  "legajo_id": "9",
+  "id_carta": "1013",
+  "order_in_legajo": 50,
+  "signatura": "070-35a",
+  "nombre_carta": "Carta de Josep Vizcaíno a Arnau de Santacilia",
+  "fecha_original": "15 de enero de 1675",
+  "lugar": "Madrid",
+  "remitente": "Josep Vizcaíno",
+  "destinatario": "Arnau de Santacilia",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Amígo y El correo pasado me halle en un lugarcillo cir cumbecino de esta corte; y por esta causa no pude responder a la de v. m. y lo hago ahora, y a la de este correo diciendo que el Capn Sr. don Manuel Aguado es quien está para ir a levantar a Granada, y no Sr. don Fernando de Angulo: y es to mismo es lo que tengo significado a v. m., como reconoce ra de mi carta Remíto a v. m. la ínclusa de Milán, y tambíen la lícencia y fe de oficios de MaIlegible por donde Verá v. m., que solo ha servido poco más de seis años y medío. pues hacenque haya servido más, en no haciendolo constar no aprobecha así pudiere sacar la certífícación del ayudante Diego al barez se la remítíre; más ya v. m. sabe cuan de mala ga na dan las de este género en la sria = La cuenta que v. m., me remie se la vuelvo firmada; y es tá muy a mi satisfacíon; y pudo en la primera ocasión haberla formado así y hubiéramos concluido con ella antes = La persona que ha de pagara Villicílla me ha ofreçido [1§] que me ani? un Vale de mil y tantos reales de esta moneda y que dentro de 20 dias me los pagara Presumo que dichoVallecilla otorgará la carta de vago? por toda esta semana; y que después de su otorgamiento se me dará el Vale = Al Capn Robles le han consultado el Avíto; y no sabré sig nificar a v. m., con el gusto que llegó a darle esta noticia la consulta que se ha hecho ha sido por el Consejo de esta do; porque habiendo experimentado que el srio Ortega (su deudo) híba muy espacío en despachar el memorial y otras cosas de peor calidad; me parecío guiar este negocío por el Consejo de éstado esta mañana di la carta del Robles a don Jeronimo Ortega y si he de hablar ingenuamente no hizo la estimación de ella que el Avisa ra; antes bien mostrándose enfadado la aparto aún lado dela Mesa sin leerla ni habrirla; y haciéndole yo insignuado que se gastaba la hacienda del rey ínutílmente y que he ra imposible que en esa ciudad pudieran levantar siete compañías aún mismo tiempo me respondió que el no podía remediarlo; ni que se podía hacer otra cosa; pero que nolos? [2§] tanto se había hecho consulta a su majestad sobre este particular estaré atadiendo a lo que resulta de ello y si die Ilegible aque salgan dos Vanderas de esa ciudad procuraré sea la de v. m. y la del Capn Robles a quien se servirá v. m., dar la ínclusa y a mi muchas ordenes de su servicio y le guarde Dios ms años Madrid 15 de énero 1675 Besa la mano de v. m. su amigo y servidor Josep Vizcaino Me alegro de que haya arribadoa a esa ciudad con buena salud después de tanta inbasion de Moros; El Sr. D. Pedro Lariz a quien se servirá v. m. de dar mis memorias = Capn Sr. don Arnau de Santacilia [3§] Transcripción literal"
+  ],
+  "literal": [
+    "1. Amígo y sr El correo passado me halle en un lugarcillo cir2. cumbecino desta Corte; y por esta caussa no pude responder 3. ala de Vm. y lo ago aora, y ala deste correo diciendo que 4. el Capn Don Manuel Aguado es quíen está parahir a 5. lebantar a Granada, yno Don Fernando de Angulo: y es6. to mismo es lo que tengo significado a Vm, como reconoze 7. ra de mi carta 8. Remíto a Vm. la ínclussa de Milan, y tambíen la lízencia y 9. fee de oficios de Ma[Ilegible] por donde Verá Vm, que solo 10. ha servido poco mas de seys años y medío. Pues hacenque 11. aya servido mas, en no haçíendolo constar no aprobecha 12. asi pudíere sacar la certífícaçíon del Ayudante Diego Al13. barez se la remítíre; mas ya Vm. sabe quan de mala ga14. na dan las deste genero en la sria = 15. La quenta que Vm, me remie sela buelbo fírmada; y es 16. tá muy amí satísfacíon; Y pudo en la primera ocassion 17. haverla formado assí; y hubieramos concluydo con ella 18. antes = 19. La Persona que ha de pagara Villicílla me ha ofreçido [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "070-35a.jpg",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo09/070-35a.jpg",
+      "url": "/legajos/legajo-09/images/070-35a.jpg"
+    },
+    {
+      "filename": "071-35ba.jpg",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo09/071-35ba.jpg",
+      "url": "/legajos/legajo-09/images/071-35ba.jpg"
+    },
+    {
+      "filename": "071-35bb.jpg",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo09/071-35bb.jpg",
+      "url": "/legajos/legajo-09/images/071-35bb.jpg"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "070-35a.jpg",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-09/cartas/001013.json",
+  "primary_image_url": "/legajos/legajo-09/images/070-35a.jpg"
+}

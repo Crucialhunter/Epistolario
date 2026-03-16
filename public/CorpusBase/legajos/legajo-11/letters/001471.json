@@ -1,0 +1,43 @@
+{
+  "legajo_id": "11",
+  "id_carta": "1471",
+  "order_in_legajo": 238,
+  "signatura": "409:5326a.JPG",
+  "nombre_carta": "Carta de Bartolomé Mercadal a Pedro Santacilia y Pax",
+  "fecha_original": "14 de marzo de 1656",
+  "lugar": "Ciutadella",
+  "remitente": "Bartolomé Mercadal",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Sr. mioPer la barca del patró Monar, i recome nat a St. Petro, rebrà v. s. dos caixes la una gran i l'altra petita mercades de la seva marca amb 120 U candelas de seu, i dins la petita 12 martes que és quant he pogut {ESP. alcançar} per causa que el governador ha fet pregons en pena de 25 lliures que no puguin els naturals ven dre les martes sinó als batles de les vils i en Ciutadella a si mercè i així es dificultosíssim troberna sinó per mercè i sacrets v. s. se servirà de port de ma muller presentarlas a mi senyores Sra. Dna. Leonor major i menor, i en aqueixos cavallers mi srs. els cinc casafos 4 de me'l fina vella i un d'ostras blancas en escabetxe cosa molt bona, i molt millor que ls al tres que eren vermelles i perdonera de la po quedat que aquest any serà difucul tos regalar a v. s. de formatges i me'n tega per falta de no haveri orelles [1§] però sempre que jo tinga ocasió de trobar-ne no deixaré d'acudir a obligació tan precisa Déu Nostre Sr. me guardi a v. s. com li suplico i tinca menester Ciuta d'ella i març 14 de 1656 Molt servidor de v. s. que ses mans besa Sr. don Bartolome Mercadal [2§] Transcripción literal"
+  ],
+  "literal": [
+    "1. [^sr. mio^]2. Per la barca del patro Monar, y recome 3. nat a St. Petro, rebra VS dos caxas 4. la una gran y laltra petita mercades 5. de la seva marca ab 120 U candelas 6. de seu, y dins la petita 12 martes que 7. es quant he pogut alcansar per causa 8. que el governador ha fets pregons en pena de 9. 25 lliures que no pugan los naturals ven 10. dre les martes sino a los Balles de 11. las vils y en Ciutadella a si mersed 12. y axi es dificultossisim troberna sino 13. per merd y sacrets VS es servira de 14. port de me muller presentarlas a mi 15. señoras D. Eleonor Mayor y menor , y 16. en aquexos cavalles mi sres. los sinch 17. casafos 4 de mel fina vella y 18. un de ostras blancas en escabetxe cosa 19. molt bona, y molt millor que ls al 20. tres que eren vermelles y perdonera de 21. la poquedad que aquest any sera difucul 22. tos regalar a VS de formatges y men 23. tega per falta de no havery orellas [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "409:5326a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo11/409:5326a.JPG",
+      "url": "/legajos/legajo-11/images/409:5326a.JPG"
+    },
+    {
+      "filename": "410:5326b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo11/410:5326b.JPG",
+      "url": "/legajos/legajo-11/images/410:5326b.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "409:5326a.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-11/cartas/001471.json",
+  "primary_image_url": "/legajos/legajo-11/images/409:5326a.JPG"
+}

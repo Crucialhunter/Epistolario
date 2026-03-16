@@ -1,0 +1,43 @@
+{
+  "legajo_id": "32",
+  "id_carta": "7046",
+  "order_in_legajo": 38,
+  "signatura": "035:1804a.JPG",
+  "nombre_carta": "Carta de Arnau Santacilia i Santacilia a Pedro Santacilia y Pax",
+  "fecha_original": "2 de enero de 1664",
+  "lugar": "Mallorca",
+  "remitente": "Arnau Santacilia i Santacilia",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Â [1§] Â [2§] Transcripción literal"
+  ],
+  "literal": [
+    "1. 1."
+  ],
+  "imagenes": [
+    {
+      "filename": "035:1804a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo32/035:1804a.JPG",
+      "url": "/legajos/legajo-32/images/035:1804a.JPG"
+    },
+    {
+      "filename": "036:1804b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo32/036:1804b.JPG",
+      "url": "/legajos/legajo-32/images/036:1804b.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "035:1804a.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (6)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-32/cartas/007046.json",
+  "primary_image_url": "/legajos/legajo-32/images/035:1804a.JPG"
+}

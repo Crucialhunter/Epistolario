@@ -1,0 +1,48 @@
+{
+  "legajo_id": "33",
+  "id_carta": "4869",
+  "order_in_legajo": 62,
+  "signatura": "099:6785a",
+  "nombre_carta": "Carta de Diego Vallès a Persona desconocida",
+  "fecha_original": "21 de septiembre de 1629",
+  "lugar": "Sant Feliu",
+  "remitente": "Diego Vallès",
+  "destinatario": "Persona desconocida",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "En Recompensa de lo que sé que v. m. se ha de holgar haciéndole sabedor de como hoy día de St. Mateo ha sido Dios servido me haya errado mi cotidiana, le pido me haga merced de avisarme de su llegada a este lugar que haya sido con la salud que para mi deseo estoy tan flaco como v. m. me vio y lo encarezco harto con no atreverme a escribir sino por mano agena, ni al amigo Felipe de Prada a quien dará v. m. de mi parte mil saludos y que en estar para ello le escribiré largo, y mintras tanto me perdone la carta que suplique a v. m. mandare dar al conde de Perelada y se procurase la respuesta no puede ir por cierto accidente si bien importa poco, y lo que ella podía obrar no será necesario supuesto la merced que en todo me prometo de v. m. y así en con formidad de esto le suplico que por el medio que a v. m. mejor visto le fuere me la haga en que se le pida al conde de su señoría licencia para que Fernando valles mi hermano tome posesión de una carlania Gaspar Nudos [1§] que os posehe Juan Foleras de Cervera que esta situada en el termino de Anglesola, y ha de hacer esto Rafael Juan Montaner notario de Cervera y así entiendo vastara que por ahora envíe una carta misiva, o, como el conde mandare, no tiene luysmo ni otro derecho que pagar sino tan solamente necesita de esta investidura. [?] y por ser negocio que importa la brevedad no se difiere a que su Señoría venga y se cansa a v. m. con esto que me guarde Dios infinitos años como deseo Barcelona y septiembre a 21 de 1629 Diego Valles [2§] Diego Valles criado del Do. Pº Ardiaca de Aragón me ha escrito la que va con esta, suplico a v. m. si hubiere lugar en lo que pide me la haga en que su Señoría del consentimiento y le liencia (sic) para que Fernando de valles su hermano tome posesión de la carla nia que dice y v. m. perdone que fiado que por criado de esta casa y servidor de v. m. he de presebir (sic) este beneficio para este amigo que daré con nuevas obligaciones al servicio de v. m. a quien vuelva nuestro Señor la salud tan cumplida como v. m. se lo sabrá pedir Castellon primero de octubre 1629 Gaspar de Nudos Dº. Pedro Santacilia [3§] Transcripción literal"
+  ],
+  "literal": [
+    "1. En Recompensa de lo que se que V.m. se ha de2. olgar haciendole savidor de como oy dia3. de St. Matheo a sido dios servido me4. haya herrado mi cotidiana, le pido me aga5. m[erce]d de avisarme de su llegada aeste lugar6. que aya sido con la salud que para mí7. deseo estoy tan flaco como V.m. me vio y8. lo encarezco harto con no atreverme a escri9. vir sino por mano agena, ni al amigo10. Phelippe de Prada a quien dara V.m. de mi11. parte mil saludos y que en estar para ello12. le escrivire largo, y mintras tanto me13. perdone14. La carta que supplique a V.m. mandare dar15. al Sor conde de Peralada y se procurasse la16. respuesta no puede hir por cierto accidente17. si bien inporta poco, y lo que ella podia18. obrar no sera necessario supuesto la m[erce]d que19. en todo me prometo de V.m. y assi en con20. formidad de esto le supplico que por el medio21. que a V.m. mejor visto le fuere me la aga22. en que se le pida al conde de su señoria23. licencia para que fernando valles mi24. hermano tome posesion de una carlania25. Sr. Gaspar Nudos [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "099:6785a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo33/099:6785a.JPG",
+      "url": "/legajos/legajo-33/images/099:6785a.JPG"
+    },
+    {
+      "filename": "100:6785b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo33/100:6785b.JPG",
+      "url": "/legajos/legajo-33/images/100:6785b.JPG"
+    },
+    {
+      "filename": "101:6785c.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo33/101:6785c.JPG",
+      "url": "/legajos/legajo-33/images/101:6785c.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "099:6785a.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-33/cartas/004869.json",
+  "primary_image_url": "/legajos/legajo-33/images/099:6785a.JPG"
+}

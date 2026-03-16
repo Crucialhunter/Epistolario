@@ -1,0 +1,36 @@
+{
+  "legajo_id": "15",
+  "id_carta": "2134",
+  "order_in_legajo": 32,
+  "signatura": "050:6355.JPG",
+  "nombre_carta": "Carta de Vicens Magarola a Pedro Santacilia y Pax",
+  "fecha_original": "25 de mayo de 1631",
+  "lugar": "Vic",
+  "remitente": "Vicens Magarola",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Els mallorquins de v. m., que venien per ordres, se'n tornen amb elles i contents, i jo no en manco per haver tingut lloc de servir a v. m. A qui suplico, procuri ocasions moltes de manar-me amb certesa, que en tot el serviré com dec. Vic i maig 25 1631. Vicens Magarola Senyor don Pedro Santacilia Transcripción literal"
+  ],
+  "literal": [],
+  "imagenes": [
+    {
+      "filename": "050:6355.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo15/050:6355.JPG",
+      "url": "/legajos/legajo-15/images/050:6355.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "050:6355.JPG",
+  "warnings": [
+    {
+      "code": "MISSING_LITERAL",
+      "message": "Transcripción literal vacía",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-15/cartas/002134.json",
+  "primary_image_url": "/legajos/legajo-15/images/050:6355.JPG"
+}

@@ -1,0 +1,43 @@
+{
+  "legajo_id": "28",
+  "id_carta": "7932",
+  "order_in_legajo": 179,
+  "signatura": "309:3810a.JPG",
+  "nombre_carta": "Carta de Luis de Aragón (VII duque de Cardona) a Pedro Santacilia y Pax",
+  "fecha_original": "28 de septiembre de 1665",
+  "lugar": "Madrid",
+  "remitente": "Luis de Aragón (VII duque de Cardona)",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "He holgado con esta carta que respondo a v. s. suya, y de hablar con quien me la ha traído. Estoy al servicio de v. s. con jornada o sin ella, que lo que no tuvo fuste por medio de quien se trataba, este había de ser el ser. Mejorose la elección, pues el que la lleva por mar y por tierra está graduado a asegurar los aciertos. Nro. Sr. nos dé su gracia. Téngame en la suya v. s., que le guarde muchos años. Madrid, a 28 septiembre 1665. [?] Su servidor Don Luis de Aragon. Sr. D. Pedro Santacilia y Pax. [1§] nº 74 Madrid, 28 septiembre 1665. Gabriel de Berga [Otra letra, a lápiz] Don Luis de Aragon, duque de Cardona. Transcripción literal"
+  ],
+  "literal": [
+    "1. He olgado con esta carta que respondo a vs suya2. y de hablar con quien mela atraido. estoy al serviçio3. de vs con jornada o sin ella que lo que no tubo fuste4. por medio de quien se tratava este avia de ser el ser.5. mejorose la elecçion pues el que la lleva por mar y6. por tierra esta graduado á asegurar los aziertos7. nro. sor. nos de su grazia tengame en la suya vs8. que le gde muchos años Madrid a 28 septe. 16659. [?] 10. Servidor11. Sr. don luys de Aragon12. Sr. D. Pedro Sta.çilia y Paz [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "309:3810a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo28/309:3810a.JPG",
+      "url": "/legajos/legajo-28/images/309:3810a.JPG"
+    },
+    {
+      "filename": "310:3810b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo28/310:3810b.JPG",
+      "url": "/legajos/legajo-28/images/310:3810b.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "309:3810a.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-28/cartas/007932.json",
+  "primary_image_url": "/legajos/legajo-28/images/309:3810a.JPG"
+}

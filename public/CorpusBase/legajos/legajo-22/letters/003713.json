@@ -1,0 +1,43 @@
+{
+  "legajo_id": "22",
+  "id_carta": "3713",
+  "order_in_legajo": 96,
+  "signatura": "170:5082a.JPG",
+  "nombre_carta": "Carta de Miguel de Salvá y de Vallgornera a Pedro Santacilia y Pax",
+  "fecha_original": "4 de noviembre de 1665",
+  "lugar": "Madrid",
+  "remitente": "Miguel de Salvá y de Vallgornera",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Señor mío con muy justa causa me da v. m. el pésame de la muerte de su majestad, que haya gloria pues ha sido tal mi sentimiento que me parece no tiene igual y le juzgo a v. m. con el mismo conforme pide sus muchas atenciones de que se la vuelvo a v. m. con el desconsuelo que se deja imaginar en perdida de tanta consecuencia y guarde Dios a v. m. los años que deseo. Madrid y noviembre 4 de 1665. Muy seguro servidor de v. m. que sus manos besa Don Miguel de Salva y de Vallgornera Sr. don Pedro de Santacilia y Pax [1§] Madrid 4 Noviembre 1665 Miguel Salva y de Vallgornera Transcripción literal"
+  ],
+  "literal": [
+    "1. Señor mio con muy Justa caussa me da Vm, el pessame de la muerte2. de su Magd. que aya gloria pues a ssido tal mi sentimiento que3. me pareze no tiene igual y le juzgo a Vm. con el mismo4. conforme pide sus muchas atenciones de que se le buelvo5. a Vm. con el desconsuelo que se dexa Imaginar en6. perdida de tanta conssequençia y gde. Dios a Vm. los7. años que desseo M[adri]d y No[viem]b[r]e 4 de 16658. muy seg[u]ro s[ervid]or de Vm9. que sus m.b.10. Don Miguel de Çalba11. y de Vallgornera12. Sr. Don Pedro de Sta. Cilia y Paz [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "170:5082a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo22/170:5082a.JPG",
+      "url": "/legajos/legajo-22/images/170:5082a.JPG"
+    },
+    {
+      "filename": "171:5082b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo22/171:5082b.JPG",
+      "url": "/legajos/legajo-22/images/171:5082b.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "170:5082a.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (2)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-22/cartas/003713.json",
+  "primary_image_url": "/legajos/legajo-22/images/170:5082a.JPG"
+}

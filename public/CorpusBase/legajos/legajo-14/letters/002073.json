@@ -1,0 +1,43 @@
+{
+  "legajo_id": "14",
+  "id_carta": "2073",
+  "order_in_legajo": 178,
+  "signatura": "280:2584a.JPG",
+  "nombre_carta": "Carta de Diego Matías de Aragüés a Pedro Santacilia y Pax",
+  "fecha_original": "25 de noviembre de 1662",
+  "lugar": "Madrid",
+  "remitente": "Diego Matías de Aragüés",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Por Barcelona, en pliego de Anton Real he recibido el de v. m. que me ha dado el mejor día que podía esperar y lo mismo a Da. Margarita por tener nuevas de la llegada del Sr. don Juan a su casa de v. m. con tan buena salud como v. m. me significa en su carta que sea por muchos años y le veamos tan bién logrado como deseamos y merece que de verdad es apacible y tan sufrido y disimulado que nos dejaba admirados con la paciencia y disimulación que pasaba sus males. Lo que importa es que sus comidas ordinarias las haga y que de las extraordinarias se guarde y que no como [?] que con eso se hará famoso mozo, y no quitarle el dar unas gotas de vino, en sus venidas de comer y cenar y hacer sus ejercicios de ir a caballo, danzar Sr. don Pedro Santacilia y Pax [1§] y jugar a las armas, y que lea en buenos libros y en historias, particularmente. y que continue mucho en el escribir porque está falto. Al fin tenga ocupado el tiempo y no esté en ocio. Las cartas daré todas a sus dueños, si bien los Sres. Romeo y Anza [?] no están aquí y al Sr. Romeo lo han enviado a Irún a la división de unos términos [?] con Francia. Al Sr. don Juan, que respondéremos a sus cartas, Dña. Margarita y yo que besamos sus manos y todas las recomendadas se darán sus recaudos. Por Valencia tengo escrito últimamente de 22 de éste en que remito los [?] títulos del hábito del inquisidor que me olvidé entregárselos, y las cuentas que están [?] pliego grande. V. m. se servirá mandar avisarme de su recibo y a mi que le sirva, que besamos sus manos de v. m. doña Margarita y yo y las de mi Sra. Dña. Leonor y todos Sres. muchas veces y guarde Dios como deseo. Madrid a 25 noviembre 1662. Besa la mano de v. m. su mayor servidor, Diego Matias de Aragues La carta del Sr. Ramon vuelvo a enviar que ha 8 días se fue sin decir palabra. El pliego recibió luego la Sra. Dña. Antonia Pablo Comella, aún está en Valencia. [ATENCIÓ, HI HA UNA NOTA QUE NO ENTENC] Transcripción literal"
+  ],
+  "literal": [
+    "1. Por Barcelona en pliego de Anton2. Real he recivido el de Vm. q me ha3. dado el mejor dia q podia esperar4. y lo mismo a da. Magta por tener5. nuebas de la llegada del Sr. don Juan6. a su casa de Vm. con tan buena salud7. como Vm. me significa en su carta8. q sea por muchos anos y le veamos9. tam bien logrado como deseamos y 10. mereze q de verdad es apacible y tan11. sufrido y disimulado q nos dexava12. admirados con la paciencia y disimula13. cion q passava sus males, lo q14. importa es q sus comidas ordinarias15. las haga y q de las extraordinarias16. se guarde y q no como brocenas????17. q con esso se hara famosso mozo,18. y no quitarle el dar unas gotas de19. bino, en sus benidas de comer y cenar20. y hazer sus exos de hir a cavallo, danzar21. Sr. don Pedro Sta. cilia22. y Pax [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "280:2584a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo14/280:2584a.JPG",
+      "url": "/legajos/legajo-14/images/280:2584a.JPG"
+    },
+    {
+      "filename": "281:2584b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo14/281:2584b.JPG",
+      "url": "/legajos/legajo-14/images/281:2584b.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "280:2584a.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (3)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-14/cartas/002073.json",
+  "primary_image_url": "/legajos/legajo-14/images/280:2584a.JPG"
+}

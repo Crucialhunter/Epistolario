@@ -1,0 +1,37 @@
+{
+  "legajo_id": "22",
+  "id_carta": "3661",
+  "order_in_legajo": 42,
+  "signatura": "069:5020a.JPG",
+  "nombre_carta": "Carta de Gabriel de Berga y Zanglada a Pedro Santacilia y Pax",
+  "fecha_original": "24 de abril de 1632",
+  "lugar": "Mallorca",
+  "remitente": "Gabriel de Berga y Zanglada",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "He estimat en molt en la que de v. m. de 26 del passat he rebuda tant del bon succés com d'haver-se recordat d'aquest son servidor. {ESP. Gos} v. m. infinits anys de la llibertat i pugui-li donar jo aquest i molts {ESP. parabiens} de majors mercès que sens dubte tinc jo confiança que no serà eixa sola mercè, sinó moltes altres. Déu Nostre Sr. ho encamini i el guardi com pot i jo desitjo. De Mallorca i abril als 23 de 1632. Gabriel de Berga Sr. D. Pedro Santacilia i Pax [1§] Mallorca 24 abril, rta. 1642 [error por 1632] Gabriel de Berga Transcripción literal"
+  ],
+  "literal": [
+    "1. he estymat en molt en le que de v.m.2. de 26 del pasat he rebude tant del bon3. sucses co de averse recordat de aquest son4. servydor: gos v.m. infynits ays de le ly5. bertat y pugua ly donar io aquest y 6. mols berabyens de meiors merses que7. sens dupta tinch io cofyanse que no sera8. essa sola merse syno moltes altras deu nos9. tro Sr ho encamyne y el gde. com pot10. y io desyge de mallorca y Abril als11. 23 de 163212. gabriel de berga13. Sr. do pedro sta.cylia y pax [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "069:5020a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo22/069:5020a.JPG",
+      "url": "/legajos/legajo-22/images/069:5020a.JPG"
+    },
+    {
+      "filename": "070:5020b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo22/070:5020b.JPG",
+      "url": "/legajos/legajo-22/images/070:5020b.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "069:5020a.JPG",
+  "warnings": [],
+  "raw_source": "raw/legajos/legajo-22/cartas/003661.json",
+  "primary_image_url": "/legajos/legajo-22/images/069:5020a.JPG"
+}

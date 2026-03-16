@@ -1,0 +1,48 @@
+{
+  "legajo_id": "30",
+  "id_carta": "6624",
+  "order_in_legajo": 147,
+  "signatura": "139:5462a.JPG",
+  "nombre_carta": "Carta de Josep de Rocabertí a Pedro Santacilia y Pax",
+  "fecha_original": "10 de junio de 1652",
+  "lugar": "Ibiza",
+  "remitente": "Josep de Rocabertí",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Â [1§] td width=\"490\" valign=\"top\">Â [2§] Â [3§] Transcripción literal"
+  ],
+  "literal": [
+    "1. td width=\"46%\" style=\" padding-right:20px; text-align:justify; line-height:20px;\" valign=\"top\">1. 1. 1."
+  ],
+  "imagenes": [
+    {
+      "filename": "139:5462a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo30/139:5462a.JPG",
+      "url": "/legajos/legajo-30/images/139:5462a.JPG"
+    },
+    {
+      "filename": "140:5462b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo30/140:5462b.JPG",
+      "url": "/legajos/legajo-30/images/140:5462b.JPG"
+    },
+    {
+      "filename": "141:5462c.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo30/141:5462c.JPG",
+      "url": "/legajos/legajo-30/images/141:5462c.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "139:5462a.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (10)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-30/cartas/006624.json",
+  "primary_image_url": "/legajos/legajo-30/images/139:5462a.JPG"
+}

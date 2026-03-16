@@ -1,0 +1,43 @@
+{
+  "legajo_id": "38",
+  "id_carta": "5547",
+  "order_in_legajo": 12,
+  "signatura": "131:71a",
+  "nombre_carta": "Carta de Bartomeu Codonyer Carrió a Persona desconocida",
+  "fecha_original": "fecha sin especificar",
+  "lugar": "lugar sin especificar",
+  "remitente": "Bartomeu Codonyer Carrió",
+  "destinatario": "Persona desconocida",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "LLETRA COMPLICADA [1§] Transcripción literal"
+  ],
+  "literal": [
+    "1. LLETRA COMPLICADA"
+  ],
+  "imagenes": [
+    {
+      "filename": "131:71a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo38/131:71a.JPG",
+      "url": "/legajos/legajo-38/images/131:71a.JPG"
+    },
+    {
+      "filename": "132:71b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo38/132:71b.JPG",
+      "url": "/legajos/legajo-38/images/132:71b.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "131:71a.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-38/cartas/005547.json",
+  "primary_image_url": "/legajos/legajo-38/images/131:71a.JPG"
+}

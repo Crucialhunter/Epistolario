@@ -1,0 +1,38 @@
+{
+  "legajo_id": "15",
+  "id_carta": "2271",
+  "order_in_legajo": 170,
+  "signatura": "269:6496.JPG",
+  "nombre_carta": "Carta de Joan Avilés a Pedro Santacilia y Pax",
+  "fecha_original": "24 de julio de 1648",
+  "lugar": "Vinarós",
+  "remitente": "Joan Avilés",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "[Dies] dies ha escriguí a v. m., i li envii lo gos. Folgaré sia a propòsit, que cert desitjo {ESP. acertar} a servir-lo. Nosaltres [estam] a [m] b les majors {ESP. aflicciones] que mai havem tingut, perquè hem passat per un aloyament en so Cible [?]. Ha estat a discreció. [Avui] [fultur] [?] de Vinaròs 100 cases de la Java, Traiguera i Canet, ni es de la {ESP. mitad} dels veïns en estos tres no han segat els forments A 22 d'este se n'anà el senyor don Francisco de [Mello] a [Aiguaviva] a [m] b tot l'exèrcit i artilleria pay [?]. M'estava allí per veure el francès a on fava punta. Tot este maestrat queda a [m] b el senyor virrei i gent del regne, a [m] b 300 cavalls de l'exèrcit. Déu ens millor guardar, que pareix que les forces d'Espanya estan extingides, i [ESP dé] a v. m. molts anys, com es menester i desitjo. Vinaròs i juliol, a 24 de 1648. Capellà de v. m., Joan Avilés. [Senyor don Pedro] Transcripción literal"
+  ],
+  "literal": [
+    "1. Dhit dies ha escrigui a V.md. y li em2. bi lo gos folgare sia aproposit que sert 3. desijo asertar a servir lo nos altres os4. tam ab les majors aflicsiones que may 5. avem tingut perque avem pasat per 6. un aloyament en so Cible[?] ha estat a 7. discrecio huy sultur [?] de Vinaros 100 Cases 8. de la java, trayguera y canet ni es de[Fragmentado] 9. la mitat dels veins en estos tres [Fragmentado]10. no han segat (^los) los forments a 22 11. de este senana lo Sor don francisco 12. de melo a Aygua Urisa[?] ab tot lo oxer13. sit y artilleria payrme estava alli per 14. veure lo franses a on fava punta. tot 15. este maestrat queda ab lo Sr Virey 16. y gent del regne ab 300 Cavalls del 17. exercit Deu nos millor guardar que 18. pareix que les forses de espayna estan 19. estinguides y yde a V.md. mols anys 20. com he menester y desijo Vinaros y 21. Juliol a 24 de 1648 22. Capella de Vmd 23. Joan Avyles 24. [Margen izquierdo][^Sor don pedro] [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "269:6496.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo15/269:6496.JPG",
+      "url": "/legajos/legajo-15/images/269:6496.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "269:6496.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-15/cartas/002271.json",
+  "primary_image_url": "/legajos/legajo-15/images/269:6496.JPG"
+}

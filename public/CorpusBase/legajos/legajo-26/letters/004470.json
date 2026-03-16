@@ -1,0 +1,43 @@
+{
+  "legajo_id": "26",
+  "id_carta": "4470",
+  "order_in_legajo": 208,
+  "signatura": "299:3565a.JPG",
+  "nombre_carta": "Carta de Francisco Díaz Pimienta a Pedro Santacilia y Pax",
+  "fecha_original": "1 de agosto de 1647",
+  "lugar": "Tarragona",
+  "remitente": "Francisco Díaz Pimienta",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Sr. mío, aunque su majestad me pasó del barco a la mayor nao de la monarquía y antes de salir de Madrid me aseguró el título de capitán general de esta armada por muerte del difunto. Hasta ahora no me lo ha remitido, aunque lo espero en el primer correo y sirvo con el de gobernador general con la misma mano, poder y autoridad que así lo contiene la cédula que hallé en poder del Sr. don Juan y lo digo a v. s. para que difiera para en toda la merced que me hace porque le beso la mano infinitas veces asegurando a v. s. que en cualquier Sr. don Pedro de Santacilia Pax [1§] estado me tendrá muy a su servicio. Si en esa isla se hallare alguna mula (no macho) [?] sea de muy aventajado [?] y mozo lleva orden de don Julian Moreto de Co [?] la por la dirección y [?] dad de v. s. a quien. la haga buscar como de [?] gusto Dios guarde a v. s. muchos años como deseo de la Real de Tarragona [?] de agosto de 1647. Francisco Diaz Pimienta Transcripción literal"
+  ],
+  "literal": [
+    "1. Sr. mio aunque Su Mgd. me pa-2. so del barco a la mayor nao de3. la monarquia y antes de salir4. de M[adri]d me aseguro el titulo5. de capitan General de esta Ar6. m[a]da por muerte de el difunto has7. ta aora no me lo a Remitido8. aunq[ue] lo espero en el primer9. coreo y sirvo con el de go10. vernador general con la11. misma mano poder y autori12. dad que asi lo cont[ien]e la çedula13. que halle em poder del Sr. Don14. Juº y lo digo a V.S. para q[ue]15. difiera para en toda la md.16. que me haçe por que le veso17. l[a] m[ano] infinitas vezes asegu18. rando a VS que en qualquier19. [Sr. Don] Pº de Sta. Siçilia Pax [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "299:3565a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo26/299:3565a.JPG",
+      "url": "/legajos/legajo-26/images/299:3565a.JPG"
+    },
+    {
+      "filename": "300:3565b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo26/300:3565b.JPG",
+      "url": "/legajos/legajo-26/images/300:3565b.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "299:3565a.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-26/cartas/004470.json",
+  "primary_image_url": "/legajos/legajo-26/images/299:3565a.JPG"
+}

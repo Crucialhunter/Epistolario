@@ -1,0 +1,43 @@
+{
+  "legajo_id": "6",
+  "id_carta": "743",
+  "order_in_legajo": 9,
+  "signatura": "411-204a",
+  "nombre_carta": "Carta de Caterina Ana a Cecilia Zaforteza y Sureda de Sant Martí",
+  "fecha_original": "fecha sin especificar",
+  "lugar": "Mallorca",
+  "remitente": "Caterina Ana",
+  "destinatario": "Cecilia Zaforteza y Sureda de Sant Martí",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Breve memoria para la muy ilustre señora da. Cecilia Zaforteza respecto Caterina Ana, pretendiente para el ingreso de la Casa de la Piedad, y que no puede aguardar más. Señora, desvanecidas las muy prudentes razones que alegaban los regidores de la Casa de La Piedad para no admitir a dicha Caterina Ana, solo falta al presente para su ingreso el que queden bien los regidores con v. s. por el empeño que v. s. interpuso al mismo fin, y que no han querido admitir los dichos regidores [1§] a dicha Caterina Ana sin que v. s. pase recado a los regidores, que será su agrado dicha admisión. Besa la mano de v. s.,. Caterina Ana Transcripción literal"
+  ],
+  "literal": [
+    "1. Breve memoria pa- 2. ra La M< uy> I< lustre> S< eño>ra Da. 3. Cecilia Zaforteza 4. respeto Catharina 5. Ana pretendiente 6. para el ingreso de 7. la Casa de La Pie- 8. dad, y que no puede 9. aguardar mas. 10. S< eño>ra, desvanecidas 11. las muy prudentes 12. razones que alega- 13. van los Regido- 14. res de la Casa de la 15. Piedad para no ad- 16. mitir a dicha Ca- 17. tharina Ana; solo 18. falta al presente pa- 19. ra su ingreso, el que 20. queden bien los Re- 21. gidores con V.S. por 22. el empeño que V.S. 23. interpuso al mesmo 24. fin: y que no ha< n> que- 25. rido admitir los 26. dichos Regidores [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "411-204a.jpg",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo06/411-204a.jpg",
+      "url": "/legajos/legajo-06/images/411-204a.jpg"
+    },
+    {
+      "filename": "412-204b.jpg",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo06/412-204b.jpg",
+      "url": "/legajos/legajo-06/images/412-204b.jpg"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "411-204a.jpg",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-06/cartas/000743.json",
+  "primary_image_url": "/legajos/legajo-06/images/411-204a.jpg"
+}

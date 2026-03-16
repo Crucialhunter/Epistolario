@@ -1,0 +1,78 @@
+{
+  "legajo_id": "15",
+  "num_cartas": 193,
+  "num_imagenes": 303,
+  "rango_temporal": [
+    1624,
+    1669
+  ],
+  "remitentes_frecuentes": [
+    {
+      "name": "Bernat Ferrer",
+      "count": 8
+    },
+    {
+      "name": "Joan Avilés",
+      "count": 7
+    },
+    {
+      "name": "Nicolau Oliver Fullana",
+      "count": 7
+    },
+    {
+      "name": "Joan Estelrich",
+      "count": 6
+    },
+    {
+      "name": "Jerónimo de Aganza y Javier",
+      "count": 6
+    }
+  ],
+  "destinatarios_frecuentes": [
+    {
+      "name": "Pedro Santacilia y Pax",
+      "count": 166
+    },
+    {
+      "name": "Persona desconocida",
+      "count": 24
+    },
+    {
+      "name": "Beatriu Santacilia i Togores",
+      "count": 1
+    },
+    {
+      "name": "Pedro Cavaller",
+      "count": 1
+    },
+    {
+      "name": "Leonor Despuig",
+      "count": 1
+    }
+  ],
+  "lugares_frecuentes": [
+    {
+      "name": "Valencia",
+      "count": 35
+    },
+    {
+      "name": "Tarragona",
+      "count": 27
+    },
+    {
+      "name": "Barcelona",
+      "count": 18
+    },
+    {
+      "name": "Vinarós",
+      "count": 14
+    },
+    {
+      "name": "Lugar sin especificar",
+      "count": 10
+    }
+  ],
+  "temas_frecuentes": [],
+  "warnings_count": 69,
+  "densidad_narrativa_estimada": "Media"
+}

@@ -1,0 +1,43 @@
+{
+  "legajo_id": "24",
+  "id_carta": "4041",
+  "order_in_legajo": 93,
+  "signatura": "122:4094a",
+  "nombre_carta": "Carta de Manuel de Bañuelos y Velasco a Persona desconocida",
+  "fecha_original": "30 de septiembre de 1649",
+  "lugar": "Tarragona",
+  "remitente": "Manuel de Bañuelos y Velasco",
+  "destinatario": "Persona desconocida",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "No he querido que se vayan estos navíos sin carta mía suplicando a v. m. me dé muy buenas nuevas de su salud y me mande muchas de su gusto, con el seguro de ser obedecido con mucha puntualiadad. EstaaArmada se halla sin bastimentos y con orden para asistir en estas costas. Todo el más tiempo que el invierno nos permitiere y así su majestad sea servido de ordenar nos provean de bastimentos en Mallorca. Don Juan de Garay marcha la vuelta de Barcelona con 100 infantes y 30 caballos y la armada le ha de seguir. Dios sea servido de darnos algún buen suceso. Dios guarde a v. m. los años que deseo. Almirante real junta, en Tarragona 30 de septiembre de 1649 es. Su mayor servidor de v. m. que besa su mano Don Manuel de Banuelos y Velasco Sr. D. Pedro de Santacilia [1§] De Tarragona de don Manuel de Banuelos, almirante de la armada real, de 30 Septiembre 1649. Transcripción literal"
+  ],
+  "literal": [
+    "1. No e querido que se bayan estos navios sin carta mia2. suplicando a Vm. me de mui buenas nuevas de su3. salud. y me mande. muchas de su gusto, con el se 4. guro de ser ovedezido con mucha puntualiadad5. esta Arrm[a]da se alla sin bastimtos y con orden6. para asistir en estas costas. todo el mas tiempo7. que el ymbierno nos permitiere y asi Su Magd8. sea servido de ordenar nos provean de bastimtos9. en Mallorca10. Don Ju de Garay marcha la buelta de Varzelona11. con 100 ynfantes y 30 cavallos y la Armada12. le a de seguir Dios sea servido de darnos algun13. buen suzeso. Dios gde a Vm los Años que deseo14. Almiranta Real junta en Tarragona. 30 de 15. septi[em]bre de 1649 es16. Su mayor serbidor de17. Vm que besa su mano18. Don manuel Banuelos19. y ??20. Sor. D. Pedro de Santaziçilia [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "122:4094a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo24/122:4094a.JPG",
+      "url": "/legajos/legajo-24/images/122:4094a.JPG"
+    },
+    {
+      "filename": "123:4094b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo24/123:4094b.JPG",
+      "url": "/legajos/legajo-24/images/123:4094b.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "122:4094a.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-24/cartas/004041.json",
+  "primary_image_url": "/legajos/legajo-24/images/122:4094a.JPG"
+}

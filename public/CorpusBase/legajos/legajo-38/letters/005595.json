@@ -1,0 +1,43 @@
+{
+  "legajo_id": "38",
+  "id_carta": "5595",
+  "order_in_legajo": 57,
+  "signatura": "197:119a",
+  "nombre_carta": "Carta de Francesc Rosselló a Persona desconocida",
+  "fecha_original": "10 de mayo de 1662",
+  "lugar": "Ibiza",
+  "remitente": "Francesc Rosselló",
+  "destinatario": "Persona desconocida",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Por el patrón Cama de Moro he sabido que v. s. quedaba con salud de que recibí particular contento por tan buena nueva que la goce v. s. por muchos años con las felicidades y aumetnos que merece y yo deseo. Llegó aquí este patrón quemado toda la cara, manos y pies que estando en Portals dixó que se lepusó fuego a una pólvora que estaba empugando sobre la cubierta de su barco y alcanzó también el fuego a otros cuatro marineros suyos, que por no estar de servicio sé que daron en tierra mejoró este patrón y quiso tratar de buscar gente aquí para seguir su viaje, pidió dineros y aunque en una carta abierta que lleva de v. s. para los virreyes y Gobernadores no lo expre sa con todo viendo yo que ellos no tenían intención muy ilustre Prodor. real [1§] de pasar adelante y gastar la para tica sin provecho en daño de v. s. para excusarle y que prosiguiese su viaje le di el dinero que me ha pedido que son treinta Ps de 8 si acaso v. s. lo tendrá por bien podrá mandar avisármelo cuando no procuraré cobrar del dicho patrón y por si acaso volviere y quisiere otra ves volver a provar su fortuna y le faltaré para tica o otra cosa siendo gusto de v. s. le daré al dicho patrón todo lo que v. s. me ordenare pues es obligación mía acudir con puntualidad a cuanto fuere de su servicio cio de v. s. con este patrón Pedro Guevara, recibirá v. s. dos can taros de miel de Romero uno grande y otro pequeño escrito en ellos con tinta el nombre de v. s. suplico le perdone la miseria pero aseguro a v. s. con toda verdad que habiendo hecho todas las diligencias posibles pra. buscar más no se ha hallado ni creo que se haya con gido otra tanta en esta isla, en otra ocasión daré ma jores muestras de mi obligación Guarde Dios a v. s. muchos años como deseo {CAT. Eivissa} y mayo 10 de 1662. Servidor de v. m.l. que sus manos besa Francisco Rosellón [2§] Transcripción literal"
+  ],
+  "literal": [
+    "1. Por el patron Cama de Moro he sabido que V.S. quedava2. con salud de que reçebi particular contento por tan3. buena nueva que la gosse V.S. por muchos años con las4. feliçidades y aumetnos que mereçe y yo dezeo.5. Llegó aqui este patron quemado toda la cara, manos6. y pies que estando en Portals dixó que se lepusó fuego7. á una polvora que estava enpugando sobre la cubierta8. de su barco y alcansó tambien el fuego á otros quatro9. marineros suyos, que por no estar de servicio se que-10. daron en tierra mejoró este patron y quiso tratar11. de buscar jente aqui para seguir su viaje, pidió12. dineros y aunque en una carta abierta que lleva13. de V.S. para los Virreyes y Governadores no lo expre-14. sa con todo viendo yo que ellos no tenian intençion15. Muy Ille. Sor Prodor. Rl. [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "197:119a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo38/197:119a.JPG",
+      "url": "/legajos/legajo-38/images/197:119a.JPG"
+    },
+    {
+      "filename": "198:119b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo38/198:119b.JPG",
+      "url": "/legajos/legajo-38/images/198:119b.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "197:119a.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-38/cartas/005595.json",
+  "primary_image_url": "/legajos/legajo-38/images/197:119a.JPG"
+}

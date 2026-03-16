@@ -1,0 +1,38 @@
+{
+  "legajo_id": "28",
+  "id_carta": "4796",
+  "order_in_legajo": 103,
+  "signatura": "164:3730.JPG",
+  "nombre_carta": "Carta de Vicente de Aragón a Pedro Santacilia y Pax",
+  "fecha_original": "6 de diciembre de 1641",
+  "lugar": "Villarreal",
+  "remitente": "Vicente de Aragón",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Sr. mío, no sabré decir lo que me he holgado con su carta de v.m. de 1 de este, pues al cabo de tanto tiempo he merecido el que v. m. se acordara de mí, y así desde aquí adelante es menester que v. m. me tenga más en su memoria, y se acuerde soy su amigo y que debo muchas ocasiones en que obedecerle, y estaré esperando el día, que v. m. me ofrece, de que nos veamos con sumo gusto; y tengo harta envidia a mi hermano por no poder gozar de sus favores de v. m. A quien guarde Dios muchos años. Villarreal y diciembre 6 de 1641. Don Vicente de Aragon. Sr. don Pedro Santacilia. Transcripción literal"
+  ],
+  "literal": [
+    "1. Sr mio, no sabre dezir loque me he holgado con su2. carta de vm de 1 de este, pues al cabo de tanto3. tiempo he merezido el que vm se acordara de4. mi y assi dende aqui adelante es menester5. que vm me tenga mas en su memoria, y se6. aquerde, soy su amigo y que devo muchas oca7. siones enque obedezerle, y estare esperando el8. dia, que vm me ofreze, de que nos veamos9. con sumo gusto y tengo harta embidia à10. mi hermano, por no poder gozar de sus fa11. vores de vm, a quien gde Dios muchos12. años Villareal y Deziembre 6 de 64113. Don Vicente14. de Aragon15. Sr. Don Pº Sta Cicilia [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "164:3730.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo28/164:3730.JPG",
+      "url": "/legajos/legajo-28/images/164:3730.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "164:3730.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-28/cartas/004796.json",
+  "primary_image_url": "/legajos/legajo-28/images/164:3730.JPG"
+}

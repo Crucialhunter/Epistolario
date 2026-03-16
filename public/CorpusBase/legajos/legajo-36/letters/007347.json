@@ -1,0 +1,38 @@
+{
+  "legajo_id": "36",
+  "id_carta": "7347",
+  "order_in_legajo": 91,
+  "signatura": "133:7822.JPG",
+  "nombre_carta": "Carta de Diego Matías de Aragüés a Pedro Santacilia y Pax",
+  "fecha_original": "2 de mayo de 1660",
+  "lugar": "Madrid",
+  "remitente": "Diego Matías de Aragüés",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Estos renglones hago solo pª. decir a v. m. que hoy han tenido muchas cartas de Mallorca de [?] de este, y pª. el Sr. don Juan [?] pª. mi no hay uno, teniéndome con mucho cuidado sin han llegado los despachos de la Inqon. mi de esto [?] de las demás que tengo escritas después acá no he tenido aviso y de verdad [?] que les dé sentir y que haya tan poco cuidado, que habiendo tenido los otros, haya más vixilancia para esto, que en la casa de v. m. pues ha Barcelona han venido embarcaciones con [?] con esta suspensión y cuidado. El Sr. don Juan está con salud y está en lo mismo, estaba por Barcelona por el conde de Savalla [?] se obro la partida de los 50 reales que a Jeronimo . Mancho se remitió con que las recaudo v. m. me mande le sirva a mi Sra. doña Leonor Besamos la mano Dña. Margarita y yo con las de v. m. guarde Dios como deseo Madrid a 2 Mayo 1660 Besa la mano de v. m. su menor servidor Diego Matias de Aragues Sr. don Pedro Santacilia y Pax Transcripción literal"
+  ],
+  "literal": [
+    "1. Estos renglones hago solo pª. desir a Vm. 2. q. oy han tenido muchas cartas de Mallorca 3. de [?] deste, y pª. el Sr. Don Juan [?] 4. pª. mi no ay uno, teniendome con 5. mucho cuydado sin han llegado los 6. despachos de la Inqon. mi desto 7. ?? de las demas q. tengo escritas despues 8. aca no he tenido aviso y de verdad 9. ?? q les de sentir y q haya tan poco 10. cuydado, q. haviendo tenido los otros, 11. aya mas vixilanzia para esto, q en la 12. casa de Vm. pues ha Barcelona han 13. venido embarcaciones con [?] con 14. esta suspension y cuydado. 15. El Sr. Don Juan esta con salud y esta 16. en lo mismo, estaba por Barcelona 17. por el Sr Conde de Savalla 18. ?? se obro la partida de los 50 Rs. 19. q a Gerº. Mancho se remitio con q las recaudo 20. Vm. me mande le sirva a mi Sra. doña 21. Leonor Vesamos la mano Dª. Magta. y yo 22. con las de Vm gde. Dios como deseo Md. a 2 23. Mayo 1660 24. B. l. m. de Vm. s. m. s. 25. Diego Mathias de Aragues 26. Sr. Don Pedro Sta. Cilia y Pax [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "133:7822.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo36/133:7822.JPG",
+      "url": "/legajos/legajo-36/images/133:7822.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "133:7822.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (3)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-36/cartas/007347.json",
+  "primary_image_url": "/legajos/legajo-36/images/133:7822.JPG"
+}

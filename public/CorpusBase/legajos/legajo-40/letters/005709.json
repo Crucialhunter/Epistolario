@@ -1,0 +1,42 @@
+{
+  "legajo_id": "40",
+  "id_carta": "5709",
+  "order_in_legajo": 47,
+  "signatura": "119:61a",
+  "nombre_carta": "Carta de Persona desconocida a Persona desconocida",
+  "fecha_original": "fecha sin especificar",
+  "lugar": "Mallorca",
+  "remitente": "Persona desconocida",
+  "destinatario": "Persona desconocida",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Compte de tot el que ha administrat el noble Sr. don Pedro Santacilia i Pax de l'hà abit de Calatrava com a procurador de dona Contasina [?] Magarola i Despuig i son fill don Francisco Magarola [1§] Transcripción literal"
+  ],
+  "literal": [
+    "1. Conta de tot lo que aministrat lo noble Ser. Don Predro Sanctasia y Pax del abit de Caletrave com a procurador de dona Contasina[?] Magarola y des Puix y son fill don Francisco Magarola"
+  ],
+  "imagenes": [
+    {
+      "filename": "119:61a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo40/119:61a.JPG",
+      "url": "/legajos/legajo-40/images/119:61a.JPG"
+    },
+    {
+      "filename": "120:61b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo40/120:61b.JPG",
+      "url": "/legajos/legajo-40/images/120:61b.JPG"
+    },
+    {
+      "filename": "121:61c.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo40/121:61c.JPG",
+      "url": "/legajos/legajo-40/images/121:61c.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "119:61a.JPG",
+  "warnings": [],
+  "raw_source": "raw/legajos/legajo-40/cartas/005709.json",
+  "primary_image_url": "/legajos/legajo-40/images/119:61a.JPG"
+}

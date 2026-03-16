@@ -1,0 +1,38 @@
+{
+  "legajo_id": "21",
+  "id_carta": "3536",
+  "order_in_legajo": 225,
+  "signatura": "408:5824.JPG",
+  "nombre_carta": "Carta de Antoni Amorós a Pedro Santacilia y Pax",
+  "fecha_original": "7 de diciembre de 1643",
+  "lugar": "Alcúdia",
+  "remitente": "Antoni Amorós",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Illm Sr. La de v. s. rebí les de don Miquel Sureda i {ESP. demés} i en continent les remetré a Ciutat, a on recapta també mateix tinc rebuda la cadena. En tot estic prompte per la que v. s. manarà a qui Nostre Sr. guardi molts anys com desitj, junt amb mi Sra. i {ESP. demés} de {ESP. Palacio} a 7 desembre 1643. Criat de v. s. Antoni Amoros Esta nit proppassada feren venir la gent qui ja estava embarcada per a servir-se per allò de Son Pax on envia el virrei a v. s. i també al procurador reiall Maranes. Les que van amb esta el de Son Pax aporta el batle qui va aquí que és prevere Ferre, crec totes esper aqueixa tartana genovesa qui es fuita d'ací que li teníem segrestada per al rei per quan venia de Barcelona i [?] aportaré roba de quatre bandes, en totes tinc pel que eixa manera d'Alcúdia a 7 desembre 1643. Il·lustríssim Sr. D. Pedro Santacilia, governandor de la {ESP. isla} de Menorca. Transcripción literal"
+  ],
+  "literal": [
+    "1. Illm sor 2. le de vsa. Rabe ilas de don ml surada y de mes ian con3. tinent las ramete an ciutat abon racapta tenbe matex 4. tinch rabude le cadena Antot astich pronta per la que 5. vsa menera a quí nostro sor guarde molts anis com desige 6. junt an mi sra i de mes depelatio a 7 desenbra 1643 7. Criat de vsa 8. Antoni Amoros 9. esta niyt propasa de teran venir lagent qui jastave enbarcade 10. per apartinse per lo de son paix an bia al sor visrey a vsa. Y tanbe al sor 11. pracuredor Rajal mayames las que van anbesta lo desonpax aporta 12. lo balla qui va aqui ques p[?] tarrer [?] crach totas asper aquexa tarta 13. genovessa quis fuita desi que le taniam secrestada per al Rey perquant 14. venía de Barsellona y daias aportare roba de quatre banda Antotas15. tich per lo que ixa menem delcudia a 7 desenbra 164316. [Margen izquierdo][^ Illm sor dn Pedro sta sillia governendor delaisslla de menorque] [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "408:5824.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo21/408:5824.JPG",
+      "url": "/legajos/legajo-21/images/408:5824.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "408:5824.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-21/cartas/003536.json",
+  "primary_image_url": "/legajos/legajo-21/images/408:5824.JPG"
+}

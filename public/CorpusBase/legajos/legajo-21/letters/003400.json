@@ -1,0 +1,43 @@
+{
+  "legajo_id": "21",
+  "id_carta": "3400",
+  "order_in_legajo": 91,
+  "signatura": "138:5689a.JPG",
+  "nombre_carta": "Carta de Pedro Jiménez de Murillo a Pedro Santacilia y Pax",
+  "fecha_original": "11 de diciembre de 1638",
+  "lugar": "Tauste",
+  "remitente": "Pedro Jiménez de Murillo",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Sr. mío, hanme alegrado sumamente las buenas nuevas de su salud de v. m. como en tristecídome la poca disposición que esa villa muestra para que pueda v. m. quedar servido y la compañía contenta del estado que v. m. tiene en ese lugar y yo en este, lo he dicho siempre al gobernador de este reino y que si no era viniendo socorridas hubieran de tener estas compañías muchos lances, aquí se han pasado algunos, y los vecinos de ella lo hacen razonablemente con los soldados, y últimamente comen con los que les dan, que aunque el principio lo han llevado con aspereza, pero al presente obran de esta manera, esperando la respuesta de un jurado que ha ido de aquí a representarlo a Zaragoza yo me ponía [1§] a caballo para ir hay y a servir a v. m. como a tan dueño y señor mío pero los de este lugar no me quieren dejar temerosos no suceda aquí alguna inquietud porque no está aquí don Gregorio y el teniente esta enfermo. También estoy esperando como que a toda diligencia despaché anteayer, y cuanto antes pueda despacharme de aquí iré hoy a servir a v. m. Anteayer estuvo aquí muy pocas horas conmigo Miguel de Bayetola y se fue a Zaragoza y me maravilló muchísimo de lo que v. m. me dice que ha pasado que lo siento en el alma que pueda tanto con él el amor de la patria. Aquí pasan los soldados desde anteayer que, a que están, y lo cierto es que no pasan sin comer, yo como digo a v. m. procurase desembarazarme y si puedo ir mañana no es perare otro día, Nro. Sr. Guarde a v. m. muchos años como deseo. En Tauste, a 11 de diciembre 1638. Del Sr. don Jerónimo he tenido carta en las cinco villas, y que el gobernador de este reino ira proveyendo del dinero que fuere necesario para socorrerla. Don Pedro Jimenez de Murillo Sr. don Pedro Santacilia y Pax, lo guarde [2§] Transcripción literal"
+  ],
+  "literal": [
+    "1. Sor mio. Anme alegrado sumamte las buenas 2. nuebas desu salud de Vm. como en tristeci-3. dome la poca disposicion q essa villa muestra 4. para q pueda Vm. quedar serdo y la con-5. pañia contenta del estado q Vm. tiene en 6. esse lugar y yo en este, lo e dho siempre al 7. Sr Govor deste Reyo y q si no era biniendo so-8. corridas abieran de tener estas compañias mu9. chos lances, aqui se an passado algunos, y los 10. vezinos della lo hazen razonablemte con los solda11. dos, y ultimamte comen con los q les dan, q aunq 12. el principio lo an llebado con aspereça pero 13. al pnte obran desta manera, esperando la 14. respuesta de un Jurado q a hido de aqui a 15. representarlo a Çaraga Yo me ponía [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "138:5689a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo21/138:5689a.JPG",
+      "url": "/legajos/legajo-21/images/138:5689a.JPG"
+    },
+    {
+      "filename": "139:5689b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo21/139:5689b.JPG",
+      "url": "/legajos/legajo-21/images/139:5689b.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "138:5689a.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-21/cartas/003400.json",
+  "primary_image_url": "/legajos/legajo-21/images/138:5689a.JPG"
+}

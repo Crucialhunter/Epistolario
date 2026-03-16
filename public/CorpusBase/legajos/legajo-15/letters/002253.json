@@ -1,0 +1,38 @@
+{
+  "legajo_id": "15",
+  "id_carta": "2253",
+  "order_in_legajo": 110,
+  "signatura": "244:6478.JPG",
+  "nombre_carta": "Carta de Juan García a Pedro Santacilia y Pax",
+  "fecha_original": "de 1647",
+  "lugar": "Alicante",
+  "remitente": "Juan García",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Señor don Pedro de Santacilia Ayer recibí, del conde de Albatera, un pliego, y me mande por su carta le remita a v. m., con primera ocasión, y no la [ha] habido hasta hoy. y así, le remito, cumpliento con la orden de su señoría. Y a v. m. suplico que, en cuanto se le ofreciere a v. m., me mande en esta ciudad, que hace mucha estimación, me dé ocasiones de empleos, así de cartas, [u] otra cualquier cosa que a v. m. se le ofrezca. Otro no se ofrece. Alicante, y de siete, de mil y seiscientos 47 [1647] Juan García Bustamante Transcripción literal"
+  ],
+  "literal": [
+    "1. [Margen izquierdo][^Sr Don Pedro de sa Cicilia]2. Ayer Reçibi de El Conde de AlBatera Unpliego y 3. Memande Porsucarta Lerremita AVmd conprimera 4. Ocassion y no La avido. Hasta oy y asi lerremito. Cun5. Pliendo. Conla Horden desuseñoria. Y a Vmd. sup[li]co 6. que. Enquanto. Seleofreçiere A Vmd. Memande 7. Enestaçiud que hace mucha estimaçion. Medeocasiones 8. deenpleos: asidecartas O ottra qual quiercosa que 9. a Vmd seleofreszca. Ottronose ofrese Alicante 10. y de sie[?] a de mill y seisçientos 47. 11. Juangarçia Bustamte [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "244:6478.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo15/244:6478.JPG",
+      "url": "/legajos/legajo-15/images/244:6478.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "244:6478.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-15/cartas/002253.json",
+  "primary_image_url": "/legajos/legajo-15/images/244:6478.JPG"
+}

@@ -1,0 +1,43 @@
+{
+  "legajo_id": "12",
+  "id_carta": "1640",
+  "order_in_legajo": 143,
+  "signatura": "210_6233a.JPG",
+  "nombre_carta": "Carta de Isabel de Salvá a Pedro Santacilia y Pax",
+  "fecha_original": "26 de abril de 1651",
+  "lugar": "Buen Retiro (Madrid)",
+  "remitente": "Isabel de Salvá",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Una tengo recibida de v.m. con una memoria de lo que v.m. envía, que con eso estará regalada y rica mi sra. y elconde, mi sr., valiente, y el sr. don Pedro contentísimo con su caballo. Guárddeme Dios a v.m. muchos años por tanta merced; en habiéndolo recibido avisaré a v.m., que hasta ahora no ha venido. Las personas reales están buenas, Dios los guarde, y la reina muy preñadísima. Estamos en el Retiro y el rey está en Aranjuez y el conde, mi sr., también está allá. Está bueno, gracias a Dios, y mi sra. también, y todos los demás hijos y nietos. Que v.m. lo esté y todos esos sres. huelgo mucho; ruego a Dios guarde a v.m. en su compañía largos años. V.m. reciba muchos recaudos de m [1§] i hermana y de todos los de casa, que se han holgado mucho v.m. esté bueno. Del Buen Retiro y abril, a 26 de 1651. Doña Isabel de Salvo Transcripción literal"
+  ],
+  "literal": [
+    "1. LLETRA UN POC COMPLICADA"
+  ],
+  "imagenes": [
+    {
+      "filename": "210_6233a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo12/210_6233a.JPG",
+      "url": "/legajos/legajo-12/images/210_6233a.JPG"
+    },
+    {
+      "filename": "211_6233b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo12/211_6233b.JPG",
+      "url": "/legajos/legajo-12/images/211_6233b.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "210_6233a.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-12/cartas/001640.json",
+  "primary_image_url": "/legajos/legajo-12/images/210_6233a.JPG"
+}

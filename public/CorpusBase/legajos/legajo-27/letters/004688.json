@@ -1,0 +1,38 @@
+{
+  "legajo_id": "27",
+  "id_carta": "4688",
+  "order_in_legajo": 157,
+  "signatura": "273:4496",
+  "nombre_carta": "Carta de Rodrigo de Borja Llançol de Romaní y Olivera a Persona desconocida",
+  "fecha_original": "8 de diciembre de 1667",
+  "lugar": "Barcelona",
+  "remitente": "Rodrigo de Borja Llançol de Romaní y Olivera",
+  "destinatario": "Persona desconocida",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "mío dese mucho besar a v. m. la mano antes de embarcarme, pero no puede conseguirlo porque se ofrecieron algunos estorbos y no fue el menor el librarme de otro embargo tan voluntario como el que hemos visto. Va este cierto que vino con todo reconocimiento a la merced que v. m. me ha hecho y con igual deseos de que v. m. me franque muchos empleos de su servicio envío cumplimiento pueda de/ jar más acreditada esta verdad. Guarde Dios a v. m. como puede y deseo Bna y 8 desbre de 1667 Servor de v. m. que su m besa don Rodrigo de Bad [?] ulançol 17, extrem inferior Sr. D. peo de esta Silia [1§] Transcripción literal"
+  ],
+  "literal": [
+    "1. Sr. mio dese mucho besar a Vm la mano antes2. de enbarcarme, Pero no puede conseguirlo porq3. seofrecieron algunos estorbos y no fue el4. menor el librarme de otro enbargo tan5. voluntario como el q avemos visto. Va6. este sierto q vino contodo reconosimiento7. ala md que Vm. mea echo y con igual8. deseos de q V.m. me franque m[i]s empleos de 9. su servio envio cumplimiento pueda de/10. jar mas acreditada esta verdad. Gde Dios11. a V.m. como puede y deseo Bna y 812. desbre de 166713. Servor de V.m.14. que su m bessa15. Don Rodrigo16. de Ba[d?]ulançol17. [27, extrem inferior] Sr. d. peo de sta Silia [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "273:4496.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo27/273:4496.JPG",
+      "url": "/legajos/legajo-27/images/273:4496.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "273:4496.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (2)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-27/cartas/004688.json",
+  "primary_image_url": "/legajos/legajo-27/images/273:4496.JPG"
+}

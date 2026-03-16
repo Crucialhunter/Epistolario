@@ -1,0 +1,38 @@
+{
+  "legajo_id": "29",
+  "id_carta": "6435",
+  "order_in_legajo": 113,
+  "signatura": "206:4252.JPG",
+  "nombre_carta": "Carta de Basilio de Castellví y Ponce a Pedro Santacilia y Pax",
+  "fecha_original": "6 de mayo de 1651",
+  "lugar": "Valencia",
+  "remitente": "Basilio de Castellví y Ponce",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Señor mío, Hállome con dos cartas de v. s. y en [?] veo repetidos favores y honras por los cuales [beso a] v. s. las manos muchas veces y por la honra [?] a la casa del sr. marqués de Villasor [?] siento harto este digusto per ser entre pers [?] ta obligación mía las espera que estará inte [?] do que harto desasosiego sería para [?] no tengo cartas de mi hermano pero algun [?] ven más de lo que yo quisiera. Doña Laura [de Alagón] [?] da y yo procuro recatarle las noticias por [?] ede hacer daño a su preñado, que estará de [?] cumplidos, besa a v. s. las manos y desea que [?] de de mandarnos en que le sirvamos y sentimos mucho la poca salud que v. s. tiene [?] arle de la que sus servidores de v. s. le deseamos. El caballo ha días que partió y ayer tuve la ca [?] n esta en que un amigo que se halló al fra [?] rio. En la estafeta de mañana espero carta [?] gada. Acá tenemos al sr. don Lorenzo made [?] rando galeras para pasar juzgo gozará de [?] del sr. conde de Oropesa. Dios guarde a v. s. como deseo. De Valencia a 6 de mayo, 1651. B. a v. s. la mano su m [?] Don Basilio Castellví y Ponce. Suplico a v. s. mande dar ese pliego para Cerdeña a unas tartanas ahí iban a Cáller. Sr. don Pedro de Santacilia. [Margen izquierdo] Mi señora doña Hipólita y doña Laura [de Alagón] besan a v. s. las manos y todos sentimos mucho la soledad que v. s. nos hace en esta casa. Transcripción literal"
+  ],
+  "literal": [
+    "1. Señor mio allome con dos cartas de VS y en ?? 2. veo repetidos favores y onrras por los cua [?] 3. VS las manos muchas vezes y por la onrra [?] 4. a la casa del Sor Marques de Villasor mie [?] 5. en [?] este digusto por ser en [?] LLETRA DIFÍCIL [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "206:4252.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo29/206:4252.JPG",
+      "url": "/legajos/legajo-29/images/206:4252.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "206:4252.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-29/cartas/006435.json",
+  "primary_image_url": "/legajos/legajo-29/images/206:4252.JPG"
+}

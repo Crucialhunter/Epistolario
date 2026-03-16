@@ -1,0 +1,32 @@
+{
+  "legajo_id": "11",
+  "id_carta": "1235",
+  "order_in_legajo": 5,
+  "signatura": "002:5095.JPG",
+  "nombre_carta": "Carta de Jeroni de Salas a Pedro Santacilia y Pax",
+  "fecha_original": "28 de marzo de 1642",
+  "lugar": "Mallorca",
+  "remitente": "Jeroni de Salas",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Sempre he estat cert com a tan senyor meu em faria mercè com sempre les he rebudes de mà de v.m. restant sempre curt en servir-lo suplic m'emplei en coses de gust perquè jo el pugui servir. A mi senyora governadora i mi senyora da. Beatris, que els beso les mans. De Mallorca, als 28 març 1642. D. Jeroni de Salas D. Pedro Santacilia i Pax Transcripción literal"
+  ],
+  "literal": [
+    "1. Sempre he hestat sert com he tant senor meu hen 2. ferihe merse com sempre les he rebudes de ma de V.mrcd 3. restant senpre curt hen servirlo suplic men plei hen 4. coses de gust per he que jo hel puge servir 5. a mi Senora governadora y mi señor D.Bihetris 6. quels bese les mans de Melorce helts 28 maz 7. 1642. 8. D. Hieroni ffs de Salas 9. [^D. pedro sante silihe hi pas^] [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "002:5095.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo11/002:5095.JPG",
+      "url": "/legajos/legajo-11/images/002:5095.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "002:5095.JPG",
+  "warnings": [],
+  "raw_source": "raw/legajos/legajo-11/cartas/001235.json",
+  "primary_image_url": "/legajos/legajo-11/images/002:5095.JPG"
+}

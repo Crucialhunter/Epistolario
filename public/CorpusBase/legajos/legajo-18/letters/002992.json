@@ -1,0 +1,38 @@
+{
+  "legajo_id": "18",
+  "id_carta": "2992",
+  "order_in_legajo": 24,
+  "signatura": "041:4831.JPG",
+  "nombre_carta": "Carta de Agustí Crespí a Pedro Santacilia y Pax",
+  "fecha_original": "4 de abril de 1660",
+  "lugar": "Lugar sin especificar",
+  "remitente": "Agustí Crespí",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Por no saber con certidumbre si v. m. vendrá esta tarde a la ciudad me ha parecido decir a v. m. que para el ajuste del negocio que comunique con v. m. solo falta la persona y autoridad de v. m. y así cuando a v. m. le parezca y tenga gusto de venir se ajustará todo Dios Guarde a v. m. como deseo de esta Su casa hoy domingo a 4 de abril de 1660 Servidor y criado de v. m. que sus manos besa Augustin Crespi Sr. D. Pedro Santacilia [1§] Transcripción literal"
+  ],
+  "literal": [
+    "1. Por no saber con sertidumbre si Vm 2. bendra esta tarde a la Siudad me 3. a paresido desir a vm. que para 4. el ajuste del negosio que comunique 5. con vm. solo falta la persona i 6. autoridad de vm. i Asi quando a 7. vm. le paresca i tenga gusto de 8. benir se ajustara todo Dios Guarde 9. a vm. Como deseo desta Su Casa 10. hoy domingo a 4 de Abril de 1660 11. Serbidor i criado de vm. 12. q s[] m[] B[] 13. Augustin Crespi14. [Margen izquierdo][^ Sr D pedro Santasilya]15. [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "041:4831.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo18/041:4831.JPG",
+      "url": "/legajos/legajo-18/images/041:4831.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "041:4831.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (2)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-18/cartas/002992.json",
+  "primary_image_url": "/legajos/legajo-18/images/041:4831.JPG"
+}

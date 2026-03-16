@@ -1,0 +1,43 @@
+{
+  "legajo_id": "6",
+  "id_carta": "550",
+  "order_in_legajo": 49,
+  "signatura": "034_20a",
+  "nombre_carta": "Carta de Ignasi Vila a Cecilia Zaforteza y Sureda de Sant Martí",
+  "fecha_original": "13 de noviembre de 1743",
+  "lugar": "Barcelona",
+  "remitente": "Ignasi Vila",
+  "destinatario": "Cecilia Zaforteza y Sureda de Sant Martí",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Molt il·lustre senyora dona Cecília, Gustós rebo la de v. s. de 28 del passat amb la que me som summament alegrat de sa salut i demés de sa casa mentre que a Déu gràcies queda la que m’assisteix junt la parenta, i demés d’esta sa casa pel que sia de son agrado manar-nos. En ordre al que em diu de passar en esta de v. s. Gabriel Tomàs, essent de l’agrado de v. s. d’honrar-me en esta sa casa no hi tinc ningun {ESP. reparo}, ni v. s. amb mi suplicar-me tal cosa, doncs tots desitjam complaure-la i tota esta sa casa està a la seva disposició i com en esta també ens trobam sense bisbe haurà de passar a Vic o a Girona o Tarragona el que des d'ací dispondrem a on li estarà millor. Esto és quant se m'ofereix cansar a v. s. Mentres quedo per servir-la i me mani en el de son agrado. D’esta sa casa Barcelona i novembre als 13 de 1743. Besa la mà de v. s. Ignasi Vila, son servidor Molt senyora Dna. Cecilia Zaforteza y Sureda de Sant Marti Estimaré a v. s. diga a son pare que el correu vinent li respondré i li remetré la gerreta de mel, que en este no ha pogut esser. Transcripción literal"
+  ],
+  "literal": [
+    "1. Molt Il<us>t<r>e S<enyo>ra 2. Da. Cecília gustos rebo la de V. 3. S. de 28 del passat a< m>b la que me som 4. sumament alegrat de sa salut, y 5. demes de sa Casa mentres que á 6. Deu g< ràcie>s queda la que me assisteix 7. junt la Parenta, y demes de esta 8. sa Casa per lo que sie de son agra- 9. do manarnos. 10. En orde a lo que me diu de passar 11. en esta de V.S. Gabriel Thomas 12. essen del agrado de V.S. de hon- 13. rarme en esta sa Casa no hi 14. tinch ningun reparo, ni V.S. 15. a< m>b mi suplicarme tal Cosa, pues 16. tots desitjam Complaurerla y [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "034_20a.jpg",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo06/034_20a.jpg",
+      "url": "/legajos/legajo-06/images/034_20a.jpg"
+    },
+    {
+      "filename": "035_20b.jpg",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo06/035_20b.jpg",
+      "url": "/legajos/legajo-06/images/035_20b.jpg"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "034_20a.jpg",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-06/cartas/000550.json",
+  "primary_image_url": "/legajos/legajo-06/images/034_20a.jpg"
+}

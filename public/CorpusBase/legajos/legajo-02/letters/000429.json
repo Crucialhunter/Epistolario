@@ -1,0 +1,50 @@
+{
+  "legajo_id": "2",
+  "id_carta": "429",
+  "order_in_legajo": 6,
+  "signatura": "39-18a",
+  "nombre_carta": "Carta de Joan Martorell Squella a Gregorio Quint Zaforteza",
+  "fecha_original": "2 de junio de 1711",
+  "lugar": "Lugar sin especificar",
+  "remitente": "Joan Martorell Squella",
+  "destinatario": "Gregorio Quint Zaforteza",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "{ESP. Muy señor mío,} altre tinc escrit a vostra mercè i donades notícies de l'estat del negoci, repetesc en esta, i d’haver rebut el procés junt amb el decret de La Sagrada Congregació del Penitent, de què ha estat molt content el senyor regent Sanchez, qui m’ha dit que vist el (^memorial) procés farà el memorial per sa majestat, que Déu guardi, i si dins l’octava de Corpus se dóna audiència, com se diu, l'entregarà al rei. El senyor comte de Zavellà estos dies me digué anàs a veure el regent del consell d’Aragó, Vidania, en nom seu, que ell el veuria després, i ens tornassem a veure, amb que he vist este senyor i demà me veuré amb Zavellà, si l'ha vist, perquè esta tarda me veuré amb el senyor don Domingo Aguirri. [1§] Al senyor capiscol tinc escrit i remès cartes de Garcia i un decret del senyor Carles, ponent, que és {ESP. algo favorable}, pel que sé ha obrat a Mallorca. També escric al doctor Baltasar i al doctor Gonzàlez. Procuraré les cartes de Roma, i en {ESP. todo quedo} a disposició de vostra mercè. Déu guardi a vostra mercè molts anys. I (^maig a) juny a 2 de 1711. Besa la mà de vostra mercè {ESP. Su más obligado servidor}D. Joan Martorell. {ESP. Muy honorable señor don Gregori Quint y Zaforteza. Muy señor mío.} Transcripción literal"
+  ],
+  "literal": [
+    "1. {esp.} Muy Sr. Mio}, altre tinc escrit á Vmd. y donades 2. noticias del estat del negoci repetesc en esta 3. y de haver rebud el prossés junt a< m>b el decret de 4. La Sag< rada> Cong< regació> del Pe< niten>t de que á estad molt con-5. tent el S< enyo>r Regent Sanchez, qui me ha dit 6. que vist el (^memorial) Prosses ferá el memo-7. rial per Se Mag< esta>d q< ue> Deu g< uar>de, y si dins la ota-8. va de Corpus se dona audiencia com se diu, 9. Lo entreguerá al Rey,10. El S< enyo>r Conde Çavellá estos dies me digue ha- 11. nás á veurer, al Regent del Consell de Ara-12. gó Vidania en nom Seu, que ell lo veuria 13. después. Y nos tornassen á veurer a< m>b que 14. é vist este S< enyo>r y demà me veure a< m>b Çavella 15. si lo a vist, perque esta tarde me he veurer16. a< m>b el S< enyo>r Dn. Domingo Aguirri. [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "39-18a.jpg",
+      "original_url": "http://www.studiolum.com/Web3/img/Legajo02/39-18a.jpg",
+      "url": "/legajos/legajo-02/images/39-18a.jpg"
+    },
+    {
+      "filename": "40-18b.jpg",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo02/40-18b.jpg",
+      "url": "/legajos/legajo-02/images/40-18b.jpg"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "39-18a.jpg",
+  "warnings": [
+    {
+      "code": "IMAGE_DOWNLOAD_FAIL",
+      "message": "HTTP 404",
+      "context": {
+        "url": "http://www.studiolum.com/Web3/img/Legajo02/39-18a.jpg"
+      }
+    },
+    {
+      "code": "IMAGE_COUNT_MISMATCH",
+      "message": "Imágenes detectadas (2) != descargadas (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-02/cartas/000429.json",
+  "primary_image_url": "/legajos/legajo-02/images/39-18a.jpg"
+}

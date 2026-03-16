@@ -1,0 +1,38 @@
+{
+  "legajo_id": "18",
+  "id_carta": "3012",
+  "order_in_legajo": 42,
+  "signatura": "074:4851.JPG",
+  "nombre_carta": "Carta de Josep de Rocabertí a Pedro Santacilia y Pax",
+  "fecha_original": "28 de marzo de 1662",
+  "lugar": "Barcelona",
+  "remitente": "Josep de Rocabertí",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "envio en altres ocasions sem ha demanat sol·licitar a v. m. la paga i satisfacció de Mil reals de plata que Pere Jeroni olivar que sia en el Cel bestrague perquè faltaran diners per a socórrer als soldats que d'orde de v. m. el levantaban en Menorca estant jo Governant aquella {ESP. isla}, i com dita partida se distribui en la leva no puc deixar de dir a v. m. que sebe que dit olivar dona amb molta lisberalitat dit diner i com els socoros corregueren per ma de Toni Tello i Juan font que persso tots livan podrien dir amb més especificació que jo el sort de la matèria i restant v. m. cert de tot servir-se de donar satisfacció a la Sra. maria Serra i olivar perquè ella ni jo no tinguem ocasió de molestar a v. m. mas a qui Déu guardi com pot i desejo Barcelona i maig 28 de 1662 Servidor de v. m. que ses mans besa don Josep de Rocaberti Sr. don Pedro Santacilia i Pax [1§] Transcripción literal"
+  ],
+  "literal": [
+    "1. Invio en altras ocasions sem ha demanat solicitar 2. a Vm. la paga y satisfacio de Mil Reals de Plata 3. que Pera Geroni olivar que cia en lo Cel bestrague 4. perque faltaran dines pera socorrer als soldats qe 5. de orde de Vm lo levantavan en Menorca estant 6. yo Governant aquella Isla, y com dita partida 7. se distribui en la leva no puc dexar de dir a Vm 8. que sebe que dit olivar dona ab molta lisberalitat 9. dit diner y com los socoros corregueran per ma 10. de Toni Tello y Juan font que persso tots livan 11. podrian dir ab mes especificacio que yo lo sort 12. dela materia y restant Vm sert de tot servirse 13. de donar satisfacio ala Sra maria Serra y olivar 14. perque ella ni yo no tingam ocasio de molestar 15. a Vm mas aqui deu Gde com pot y desejo Barna y 16. Maig 28 de 1662 17. Servidor de Vm q S[] M[] B[] 18. Don Joseph de 19. Rocaberti 20. [Margen izquierdo][^ sr don Pedro sta silia y Pax]21. [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "074:4851.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo18/074:4851.JPG",
+      "url": "/legajos/legajo-18/images/074:4851.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "074:4851.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-18/cartas/003012.json",
+  "primary_image_url": "/legajos/legajo-18/images/074:4851.JPG"
+}

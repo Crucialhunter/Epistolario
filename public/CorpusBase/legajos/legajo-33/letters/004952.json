@@ -1,0 +1,38 @@
+{
+  "legajo_id": "33",
+  "id_carta": "4952",
+  "order_in_legajo": 142,
+  "signatura": "217:6868.JPG",
+  "nombre_carta": "Carta de Enrique de Aragón (VI duque de Cardona) a Pedro Santacilia y Pax",
+  "fecha_original": "12 de mayo de 1639",
+  "lugar": "Zaragoza",
+  "remitente": "Enrique de Aragón (VI duque de Cardona)",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "y a deseaba tener carta de v. m. porque a muchos días no la había recibido y juzgaba que se nos acercaba viniendo a esta tierra que me dijeron había llegado dinero a Barcelona para levantar los Dragones, ahora me ha llegado la de primero de este su fecha en Lanaja [?] Sr. don de veo por ahora aquartelado a v. m. y esperando orden para acudir a la parte donde hubiere de obrar esa caballería y la que me dice va llegando el ordinario pasado me escribieron que el marques de los Velez había de salir en campaña a primero de este según lo cual bien se colige que estaba asitiado de los medios necesarios, dígame v. m. lo que en esto hubiere y a donde se declara la empresa que de esta parte de Rose llon me dicen había marchado mucha gente la vuelta del Piamon te donde los buenos progr esos que han tenido nras. armas aprietan al enemigo que es lo que solamente puedo decir por ahora por las noticias que desde aquy se alcanzan y que el virrey de esta provincia se halla ya en Girona en ejecución de las órdenes que para esto debe de haber tenido de su majestad. Guarde Dios a v. m. muchos años Cardona 12 de mayo 1639 muy suyo [?] Sr. D. Pedro Santacilia y Pax [1§] Transcripción literal"
+  ],
+  "literal": [
+    "1. Ya desseava tener carta de Vm porque a muchos dias no la havia2. reçivido y jusgava que se nos açercava viniendo aesta tierra que me dixe3. ron havia llegado dinero a Bar[celon]a para levantar los Dragones, ahora4. me a llegado la de primero deste su fecha en Lanaja[?] Donde veo por5. ahora aquartelado a Vm y esperando orden para acudir a la parte6. donde ubiere de obrar essa cavalleria y la que me diçe va llegando el7. ordinario passado me escrivieron que el Marq[ue]s de los Velez havia de8. salir en campaña a primero deste segun lo qual bien se colige que9. estava asitiado de los medios neçesarios, digame Vm lo que enesto10. ubiere y adonde se declara la empressa que desta parte de Rosse11. llon me diçen havia marchado mucha gente la buelta del Piamon12. te donde los buenos progressos que an tenido nras. Armas aprietan13. al enemigo que es lo que solamente puedo deçir por haora por14. las notiçias que desde aquy se alcançan y que el virrey desta provinçia15. se halla ya en Girona en execucion de las ordenes que para esto16. deve de haver tenido de Su Magd. g[uard]e Dios a Vm muchos años Car17. dona 12 de Mayo 163918. Muy suyo [?]19. [?] 20. Sr. D. Pº Sta Çilia y Pax [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "217:6868.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo33/217:6868.JPG",
+      "url": "/legajos/legajo-33/images/217:6868.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "217:6868.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-33/cartas/004952.json",
+  "primary_image_url": "/legajos/legajo-33/images/217:6868.JPG"
+}

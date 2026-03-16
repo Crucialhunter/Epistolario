@@ -1,0 +1,43 @@
+{
+  "legajo_id": "25",
+  "id_carta": "4097",
+  "order_in_legajo": 31,
+  "signatura": "059_131a.JPG",
+  "nombre_carta": "Carta de Luis Viguet a Jerónimo Pelegrín de Aragüés",
+  "fecha_original": "8 de abril de 1667",
+  "lugar": "Valencia",
+  "remitente": "Luis Viguet",
+  "destinatario": "Jerónimo Pelegrín de Aragüés",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Sr. Jeronimo Pelegri de Aragues Con mucho gusto recibo sus cartas y las encamino y de ellas no hay que tener cuidado, ni de la cajuela que la remitiré luego al amigo Diego Matias y en todo lo demás que yo valiere me tendrá muy a sus órdenes. Guarde Nuestro Sr. a v. m. muchos años. Valencia y abril a los 8 de 1667. Besa la mano de v. m. Luis Viguet [1§] A Jeroni Pelegri d'Aragues, guardi Nostre Sr. Secretari del Sr. D. Pedro Santacilia Mallorca Valencia, de Luis Viguet, 8 de abril 1667. Transcripción literal"
+  ],
+  "literal": [
+    "1. Sr Geronimo Pelegri de arague2. Con mucho gusto resibo sus cartas y las encamino y dellas3. no ay que tener cuydado ni de la cajuela que la remitire4. luego al amigo Diego matias y en todo lo demas que yo vali5. ere me tendra muy a sus ordenes Gde. nuestro Sr. a Vm. m6. uchos años Valensia y Abril a los 8 de 16677. B.l.m.de Vm.8. Luys Viguet [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "059_131a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo25/059_131a.JPG",
+      "url": "/legajos/legajo-25/images/059_131a.JPG"
+    },
+    {
+      "filename": "060_131b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo25/060_131b.JPG",
+      "url": "/legajos/legajo-25/images/060_131b.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "059_131a.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (4)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-25/cartas/004097.json",
+  "primary_image_url": "/legajos/legajo-25/images/059_131a.JPG"
+}

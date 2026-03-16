@@ -1,0 +1,38 @@
+{
+  "legajo_id": "18",
+  "id_carta": "3038",
+  "order_in_legajo": 72,
+  "signatura": "119:4877.JPG",
+  "nombre_carta": "Carta de Cristóbal Crespí de Valldaura y Brizuela a Pedro Santacilia y Pax",
+  "fecha_original": "29 de noviembre de 1662",
+  "lugar": "Madrid",
+  "remitente": "Cristóbal Crespí de Valldaura y Brizuela",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "de muy partr estimación es para mi la noticia que v. m. me da de haber llegado con salud el Sr. D. Ju su hijo qlo deseaba con partr afecto, y todo lo que sea de felicidad y gusto de su casa de v. m. puede asegurarse que nadie lo celebrara con mayor alborozo que yo, y que deseo se ofrezcan muchas ocasiones de su servicio en que poder mostrar mi voluntad. Dios guarde a v. m. largos años Madrid a 29 de noviembre 1662 Al gusto que v. m. ha tenido de ver a su hijo de esa Estrañada el de su perfecta salud y de verle muy bien empleado. Sr. don Cristobal Crespi de Valldaura Sr. don Pedro de Santacilia y Pax. [1§] Transcripción literal"
+  ],
+  "literal": [
+    "1. de muy partr estimon es para mi la noticia que Vm. me da 2. de haver llegado con salud el sr Dn Ju suhijo qlo desseava 3. con partr affecto, y todo lo que sea de felicidad y gusto de 4. su cassa de Vm. puede assegurarse que nadie lo celebrara 5. con mayor alborozo q yo, y que desseo se offrezcan muchas 6. ocasiones de su servo en q poder mostrar mi Voluntad. Dios 7. gde a Vm. largos años Md a 29 de Novre 1662 8. Al gusto que VM. ha tenido de ver asu hijo desa Estrañada 9. el de su perfeta salud y de verle muy bien empleado. 10. Don christoval Crespi 11. de Valdaura12. [Margen izquierdo][^sr Don pedro de Sta Cilia y Pax.] [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "119:4877.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo18/119:4877.JPG",
+      "url": "/legajos/legajo-18/images/119:4877.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "119:4877.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (2)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-18/cartas/003038.json",
+  "primary_image_url": "/legajos/legajo-18/images/119:4877.JPG"
+}

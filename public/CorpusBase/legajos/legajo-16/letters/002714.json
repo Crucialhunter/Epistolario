@@ -1,0 +1,43 @@
+{
+  "legajo_id": "16",
+  "id_carta": "2714",
+  "order_in_legajo": 200,
+  "signatura": "343:2214a.JPG",
+  "nombre_carta": "Carta de Juan Garçes a Pedro Santacilia y Pax",
+  "fecha_original": "24 de febrero de 1668",
+  "lugar": "Castillo de San Felipe (Menorca)",
+  "remitente": "Juan Garçes",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "de 20 de enero es la ultíma con que me hallo favorecido de v. m., de que quedo con la estimación que debo y con nuevos deseos de que se ofrezcan ocasiones del servicio de v. m., en que poder mostrar mi reconocímiento y cumplíen do son su mandato aunque mal coronísta de nuevas diré a v. m., las que me así estén de la faluca quetoco en Alcudia enviada de orden del señor duque de Osuna quetrato undespacho para un servidor de la presa que entendía Su Excelencia se hallaba en este puerto alavuelto adespachar sígun entiendo por carta de su Excelencia que contiene el mismo negocio que leda harto cuídado y más cuando tenga notícia la haprensión que dehella se ha hecho en Cor cega conforme dicen lafaluca no seavísto por acá juzgo habrá tocado en ese reino supuesto el bergantín meatraído dicha carta con más otra de su secretario que escríve lo sigui ente Los ajustes con Portugal dan todos por asentados [1§] para cuyo efecto se partió de Madrid a lisboa el embajador de Inglaterra y no hatrasara la conclusión el haber depuesto del Govíerno al de Berganca Sr. don Pedro su hermano y la remala [?] queda en un Combento pídiendo su dote que la guerra de aquel Príncípado sea delantado poco en así estencías hasta ahora no obstante que ya setrata como ejército y que se encamínara allí todo lo de Portu gal hay que enempezado amoberse los troços de Cataluña y Rosellón y que se espera el duque de Anjou este año con 250 infantes y 60 caballos Él marques de Caracena murió hecho yapresidente deFlandes y el señor don Juan sea excusado de ir ha haquellos estados por no darle medios de su satisfacción y este puesto sea consultado que es cuanto puedo decir a v. m., en orden anovedades con más suplicarle me dé en retorno de esta las nuevas que deseo de la salud de v. m., con muchos empleos de su servicio a que me aplícare con toda puntualidad. Guarde Dios a v. m., felices años como puede y deseo castillo San Feliphe y febrero 24 de 1668 besa las manos a v. m. su mayor servidor Juan Garces señor don Pedro Santa Çílía [2§] Transcripción literal"
+  ],
+  "literal": [
+    "1. De 20 de henero esla ultíma conque mehallo 2. faboreçido de vm, de que quedo con la estíma3. cíon que devo y con nuebos deseos deque se 4. ofrescan ocasíones del servíçío de vm, enque 5. poder mostrar mí reconoçímíento y cumplíen6. do son su mandato aunque mal coronísta de 7. nuebas díre a vm, las que me asísten de 8. la faluca quetoco en Alcudía ymbiada de 9. horden del Sor Duque de Osuna quetrato 10. undespacho para un servídor dela presa 11. que entendía S[u] E[] se hallaba eneste Puerto 12. alabuelto adespachar sígun entíendo por 13. Carta de S[u] E[] que contíene el mesmo negoçio que 14. leda arto cuídado y mas quando tenga notíçía 15. la haprensíon que dehella se ha hecho en Cor16. çega conforme díçen lafaluca no seavísto por 17. aca Jusgo habra tocado enese Reyno supuesto 18. el Bergantin meatraído dha carta con mas 19. otra desu secretarío que escríve lo sigui20. ente 21. Los ajustes con Portugal dan todos por asentados [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "343:2214a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo16/343:2214a.JPG",
+      "url": "/legajos/legajo-16/images/343:2214a.JPG"
+    },
+    {
+      "filename": "344:2214b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo16/344:2214b.JPG",
+      "url": "/legajos/legajo-16/images/344:2214b.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "343:2214a.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-16/cartas/002714.json",
+  "primary_image_url": "/legajos/legajo-16/images/343:2214a.JPG"
+}

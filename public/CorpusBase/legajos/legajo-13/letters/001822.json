@@ -1,0 +1,43 @@
+{
+  "legajo_id": "13",
+  "id_carta": "1822",
+  "order_in_legajo": 86,
+  "signatura": "146:2326a.JPG",
+  "nombre_carta": "Carta de Basilio de Castellví y Ponce a Pedro Santacilia y Pax",
+  "fecha_original": "2 de octubre de 1668",
+  "lugar": "Valencia",
+  "remitente": "Basilio de Castellví y Ponce",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Señor mío recibo su carta de v. s. de 26 del pasado muy gustoso por saber quedaba v. s. en la salud que le deseo y que la del Sr. don Juan se iba cobrando habiendo ya entrado en los medicamentos de purgar y jarabes que acreditan el hallarse sin ca lentura que es el más fuerte enemigo quiera Dios se mejore muy aprisa para que pueda dejar la Cama y cuarto aún tiempo saliendo a divertirse por Madrid Jenerales son las noticias que ha traído laestafeta de la grandeza con que ce lebro su desposorio el príncipe de Pemblin mi sobrino pasando los encara cimientos a decir es la mayor que se ha visto en la corte años a y habiendo sido este en tan corto tiempo se debe admirar muy gran dicho ha tenido mi Sra. La Princesa mi sobrina y todos los intere sados la debemos celebrar con la demostración que le corresponde por Tantas razones quiera Dios se perficione muy aprisa con darles la sucesión que todos deseamos y que tan gran casa ha menester Continua la enfermedad del duque de san Jerman aunque dicen está mejor muy lastimosa cosa ha sido para las materias de Cerdeña esta detención cuando piden tan prompte medicina Por acá no hay novedad de que dar cuenta a v. s. cuya vida guarde Dios muchos años como deseo Dña. Laura y Giuseppe besan a v. s. la mano todos de [?] Don Juan Valencia y octubre a 2 de 1668. Besa a v. s. la mano su mayor servidor, Don Basilio de Castellvi y Ponce Sr. don Pedro Santacilia Valencia Octubre 2 de 1668. Respuesta a 10. Dicho de D. Basilio Castellvi y Ponce Transcripción literal"
+  ],
+  "literal": [
+    "1. Señor mío recivo su carta de V.S. de 26.2. del pasado muy gustoso por saver quedava3. V.S. en la salud que le deseo y que la4. del sr. Don Juan se iba cobrando haviendo5. ya entrado enlos medicamentos de purgar6. y Jaraves que acreditan el allarse sin ca=7. lentura que es el mas fuerte enemigo8. quiera Dios se mejore muy apriça para que 9. pueda dejar la Cama y cuarto aun tiempo10. saliendo á divertirse por Madrid=11. Jenerales son las noticias que á traydo12. laestafeta de la grandeza conque çe13. lebro su desposorio el sr. Principe de14. Pemblin mi sobrino pasando los encare=15. cimientos á deçir es la mayor que se 16. á visto en la corte años á y haviendo17. sido este en tan corto tiempo se deve18. admirar muy gran dicho a tenido mi=19. Sra. La Princesa mi sobrina y todos los intere=20. sados la devemos celebrar con la demos=21. traçion que le corresponde por Tantas=22. 23. [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "146:2326a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo13/146:2326a.JPG",
+      "url": "/legajos/legajo-13/images/146:2326a.JPG"
+    },
+    {
+      "filename": "147:2326b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo13/147:2326b.JPG",
+      "url": "/legajos/legajo-13/images/147:2326b.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "146:2326a.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-13/cartas/001822.json",
+  "primary_image_url": "/legajos/legajo-13/images/146:2326a.JPG"
+}

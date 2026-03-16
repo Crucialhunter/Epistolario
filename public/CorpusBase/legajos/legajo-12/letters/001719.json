@@ -1,0 +1,38 @@
+{
+  "legajo_id": "12",
+  "id_carta": "1719",
+  "order_in_legajo": 202,
+  "signatura": "338_6312.JPG",
+  "nombre_carta": "Carta de Gaspar Domènech a Pedro Santacilia y Pax",
+  "fecha_original": "7 de mayo de 1663",
+  "lugar": "Madrid",
+  "remitente": "Gaspar Domènech",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Deseoso de que v. s. me ocupe en todo lo que sea de su gusto. Le doy razón como entramos en esa corte ayer a la noche donde estaré con la atención que debo de servir a v. s. Hasta ahora no tengo andado ninguna cosa por no haber salido de casa. De todo daré razón a v. s. Jeronimo cuando yo llegué ya se había partido. Procuraré a verme con el Sr. don Nicolás, ofrecerle mi persona y mi poco caudal como criado que soy de v. s. a quien Dios guarde. Madrid a los 7 mayo 1663. Criado de v. s. que su mano besa Gaspar Domenech Sr. D. Pedro de Santacilia y Pax [1§] Transcripción literal"
+  ],
+  "literal": [
+    "1. Desejosso de que v.s. ne ocupe en2. todo lo que seja de su gusto le doy ra3. son como entramos en esa Corte ayer4. a la notche donde estare con la5. etension que devo de servir a6. V.sa. asta agora no tengo andado7. niguna cosa por no aver salido8. de casa de todo dare rason a v.sa.9. Hieronimo quando jo llege ja se10. avia partido procurare averme11. con el sr. Don Nicolas offereserle mi12. persona y mi poco caudal como13. criado que soy de v.sa. quien dios14. gde. madrid a los 7 majo 166315. Criado de v.s.q.s. m[an]o b[e]ssa16. Gaspar Domenech17. Sr. Dn P[e]dro de Sta. Sili y Pax [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "338_6312.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo12/338_6312.JPG",
+      "url": "/legajos/legajo-12/images/338_6312.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "338_6312.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-12/cartas/001719.json",
+  "primary_image_url": "/legajos/legajo-12/images/338_6312.JPG"
+}

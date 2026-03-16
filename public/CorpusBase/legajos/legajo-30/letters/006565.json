@@ -1,0 +1,38 @@
+{
+  "legajo_id": "30",
+  "id_carta": "6565",
+  "order_in_legajo": 126,
+  "signatura": "046:5403.JPG",
+  "nombre_carta": "Carta de Pedro Sureda a Pedro Santacilia y Pax",
+  "fecha_original": "9 de mayo de 1643",
+  "lugar": "Maó",
+  "remitente": "Pedro Sureda",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Â [1§] Transcripción literal"
+  ],
+  "literal": [
+    "1."
+  ],
+  "imagenes": [
+    {
+      "filename": "046:5403.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo30/046:5403.JPG",
+      "url": "/legajos/legajo-30/images/046:5403.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "046:5403.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (3)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-30/cartas/006565.json",
+  "primary_image_url": "/legajos/legajo-30/images/046:5403.JPG"
+}

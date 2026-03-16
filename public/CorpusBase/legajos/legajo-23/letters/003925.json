@@ -1,0 +1,38 @@
+{
+  "legajo_id": "23",
+  "id_carta": "3925",
+  "order_in_legajo": 180,
+  "signatura": "320:3338.JPG",
+  "nombre_carta": "Carta de Luis de Aragón (VII duque de Cardona) a Pedro Santacilia y Pax",
+  "fecha_original": "10 de julio de 1669",
+  "lugar": "Madrid",
+  "remitente": "Luis de Aragón (VII duque de Cardona)",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Recibo tres cartas de v. s. de 8 de mayo y 16 de junio a que respondo a v. s. en esta y por Joaquín, está bueno al servicio de v. s. y pasando su trabajo de [?], dice no ha llegado aún la savandija que v. s. le hace merced. A mi me escribe Vicente Ferrera la tiene allí no la ha remitido, esperando haya quien la traiga. También la recibo de este festejo. No he respondido a estas cartas de v. s. antes por mi jornada, y pues v. s. me cuenta sus achaques (que siento los padezca). He de contar a v. s. el mío que es empezar a apuntarme gota en el pie izquierdo, la orina por cosa ordinaria la dejo estar. Sea enhorabuena el haber casado v. s. al Sr. D. Nicolas, désela v. s. en mi nombre que habiendo sido elección de v. s. se siguirá el no de acaecer en lo esencial y si la novia es tan hermosa y con caudal esta es conveniencia temporal y aquella larga habiendo sucesión. Désela Nro. Sr. a v. s. de muchos nietos se la deseo y ocasiones del servicio de v. s. que guarde Dios muchos años. Madrid 10 Julio 1669. Besa la mano de v. s. Su menor servidor Luis de Aragón Sr. D. Pedro Santacilia y Pax. Transcripción literal"
+  ],
+  "literal": [
+    "1. Rvo tres cartas de VS. de 8 de Mayo y 16 de2. Junio a que Respondo a VS enesta y por Joachin, esta3. bueno al servicio de VS y pasando su travajo de en4. dentar, dize no allegado aun la savandija que VS. 5. le haçe mrd; a mi me escrive Viçente ferrera la tiene6. alli no la a remitido esperando aya quien la traiga7. tambien la recivo deste festejo8. No he rrespondido a estas cartas de VS antes por mi jor9. nada; y pues VS me quenta sus achaques (que siento los pa10. dezca) he de contar a VS el mio que es empeçar á apun11. tarme gota en el pie Izquierdo; la orina por cosa or12. dinaria la dejo estar.13. Sea norabuena el haver casado VS. al sr. D. Nicolas desela14. VS en mi nombre que aviendo sido elecçion de VS.15. se siguira el no descaezer en lo exçensial y si la nobia16. es tan hermosa y con caudal esta es combeniencia tem17. poral y aquella larga haviendo suçesion desela nro. Sr.18. a VS de muchos nietos se la deseo y ocasiones del ser19. vicio de VS que gde Dios mus a< ño>s Md 10 Jullio 166920. B l[a] m de VS21. Su Servidor22. [?] de aragon[?]23. Sr. D. Po Sta Zilia y Paz. [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "320:3338.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo23/320:3338.JPG",
+      "url": "/legajos/legajo-23/images/320:3338.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "320:3338.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-23/cartas/003925.json",
+  "primary_image_url": "/legajos/legajo-23/images/320:3338.JPG"
+}

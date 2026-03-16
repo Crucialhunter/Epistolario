@@ -1,0 +1,43 @@
+{
+  "legajo_id": "11",
+  "id_carta": "1425",
+  "order_in_legajo": 191,
+  "signatura": "341:5280a.JPG",
+  "nombre_carta": "Carta de Mossèn Joan Anglès a Pedro Santacilia y Pax",
+  "fecha_original": "5 de agosto de 1644",
+  "lugar": "Vinarós",
+  "remitente": "Mossèn Joan Anglès",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Sr. don Pedro Amb altra escriguí a v. s. com el governador de Tarragona havia escrit que el nostre exèrcit estava dins Lleida fou {ESP. mentira} el que ja ara de mou és que el governador d'esta plaça té carta que estaven per capitulant les partes per a entregar les plaça i després ha tingut carta del marques de Toralto dient se rebria v. m. la {ESP. enhorabuena de haberse entregado Lerida}. Ahir dijous vingué un frare de francès català que és entrat en Catalunya per espia i ara hi torna, diu que el diumenge a les 8 del matí d'entrega i que els partes foren dijous trauré la roba que podien portes al coll que fos se va sense homes, banderes arrastrant sols que havien donat llicència a 100 homes per aportar-se'n tres peces a Balaguer. Este frare i tres persones més diuen que han estat dins Lleida. El francés te sitiada a Tarragona per mar i per terra, diuen que per terra té set mil homes i mil i sis-cents sense cavalls. El marques de Toralto escriu que per anit estava esperant que li havien de donar l'assalt a les trinxeres. Està amb molt d'{ESP. ánimo} i diu que li ha de costar molta gent al francés {CAST. antes} que les guanyarà. Dimecres a les 6 de la vesprada estigué el duc de Tureis en esta vila, anava a posar 500 homes a Tarragona amb quatre galeres molt reforçades de remers. En la nit se mogué un temporal amb molta aigua i salparen les galeres, no sabem que s'ha fet. Ahir dijous a les 9 de la nit un caçador d'esta vila diu que sentí molta artillera i que durà mitja ahora i que passà mitja hora [1§] i després tornà a sentir molta artilleria davant el mateix {ESP. rato} i que no la sentiriem no sabem si el francés ha envestit a les [?] de Tarragona o al general amb les 4 galeres ha donat el socorro. El Nostre Sr. ens guardi esta plaça com hem de menester i guardi v. s. en companyia de mi senyora molts d'anys com és menester i este son capellà desitja. Vinarós i agost a 5 de 1644. Mossen Joan Angles Transcripción literal"
+  ],
+  "literal": [
+    "1. Ab altra escrigui a VSª com lo governador de 2. Tarragona avia escrit que lo nostre exercit estava 3. dins Leyda fonch mentira lo que ja ara de mou 4. es que lo governador desta plasa te carta que 5. estaven per capitulant les partes per a entregar las 6. plasa y despres a tingut carta del marques de Toral 7. to dient se rebiria VMd la enorabvuena de aver 8. se entregado Lerida ayir dijous vingue un frare 9. de Sr Franses Catala qie es entrat en Catalunya 10. per espia y ara y torna diu que lo domange a 11. les 8 del mati sw entrega y que los partes foren 12. diyou traure la roba que podien portas al coll que 13. fos seva sense au mes, banderes rastrant sols que 14. avien donat lisensia a 100 homens per aportarsen 15. tres peses a Balaguer este frare y tres personas mes 16. dien que an estr dins Lleyda. 17. El franses te sitiada a Tarragona èr mar y per ter 18. ra diuen que per terra te set mil homens y mil 19. y sins sens cavalls lo marques de Toralto escriu que 20. per anit estava esperant que li avien de donar lo 21. asalt a les trincheres esta ab moltat animo y diu 22. que li a de costar molta gent al franses antes que 23. les guaynara dimecres a les 6 de la vesprada esti 24. gue el duch de Tureis en esta vila anava a posar 25. 500 homens a Tarragona ab quatre galeres molt 26. reforsades de remers en la nit se mogue un tempo 27. ral ab molta aygua y salparen les galeres no 28. saben que se ha fet. Ayir dijous a les 9 de la nit 29. un casador desta vila diu que senti molta artillera 30. y que dura mija aora y quie pasa mija ora [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "341:5280a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo11/341:5280a.JPG",
+      "url": "/legajos/legajo-11/images/341:5280a.JPG"
+    },
+    {
+      "filename": "342:5280b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo11/342:5280b.JPG",
+      "url": "/legajos/legajo-11/images/342:5280b.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "341:5280a.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (2)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-11/cartas/001425.json",
+  "primary_image_url": "/legajos/legajo-11/images/341:5280a.JPG"
+}

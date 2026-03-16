@@ -1,0 +1,43 @@
+{
+  "legajo_id": "19",
+  "id_carta": "7816",
+  "order_in_legajo": 301,
+  "signatura": "557_8015a.JPG",
+  "nombre_carta": "Carta de Isabel de Salvá a Pedro Santacilia y Pax",
+  "fecha_original": "1 de junio de 1661",
+  "lugar": "Buen Retiro (Madrid)",
+  "remitente": "Isabel de Salvá",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Señor mío, Muchos días hace que tengo cartas de v. m.: este lo hallé con la buena salud que yo deseo, amén, y a todos de su casa de v. m. Nuestro caballero paje está muy bueno, y crecido, que es con tanto balo y muy imitador de su padre en ecerme merced y regalarme es menester que v. m. se lo agradecca de mi parte; las comtas de vestidos que v. m. que me hace merced he recibido ahora, porque nuestro amigo Pº Juan ha aguardado que biniera el Sr. don Vicente de Aragón para que biniera y se guardas por lo cual vuelvo besar a v. m. las manos que con eso mi cuñada y yo nos encelaremos; las Comdesas mis señoras están buenas, y tal personas reales también Dios les guarde. LA Reina Nª. Sra. su prenado con felice salud, que ya cumple 4 faltas ha 4 de este mes. El príncipe Nº. está bueno aunque flaquito ya v. m. sabrá como el Duce de Cardona se caso con una hija del conde de San Esteban; y un Hijo del de San Esteban con una Hija del Duce, no hay otra cosa de nuevo. Mi Hermana y yo estamos con çalud y [1§] trambas besamos las manos a v. m., y ha esas mis señoras con cuya compañía me guarde Dios a v. m. como deseo Amen del buen retiro [2§] Transcripción literal"
+  ],
+  "literal": [
+    "1. Sr mio mchos dias ha que tengo cartas de V. M. es-2. te lo alle con la buena çalud, que jo deçeo Amen 3. y ha todos de su casa de V. M. nuestro cabalero pa4. je esta mui bueno, y creç[^er]ido, ques con tanto balo y 5. mui imitador de su Padre en eçerme merçed y re6. galarme es menester que V. M. se lo agradesca de mi 7. parte; las comtas de vestidosque V. M. q me ase mer8. cet he recibido aora, porq nuestro amigo Pº Juan 9. ha aguardado que biniera el Sr. Don Biçente de Ar10. agon para que biniera y se guardas por lo qual bu11. elvo beçar ha V. M. las manos que 12. con esso mi cuñada y jo nos encelaremos; las Comde=13. sas mis senoras estan buenas, y tal personas Reales tam14. bien Dios les guarde. LA Reina Nª. Sª. su pre15. nado con feliçe salut, que ja cumple 4 faltas ha 4 16. deste mes. El Principe Nº. Sr. esta bueno aunq fla17. quito ja V. M. sabra como el Duce de cardona se caso 18. con una hija del Conde de San estevan; y un Hijo del 19. de San estevan con una Hija del Duce, no ai otra cosa 20. de nuebo. Mi Hermana y yo estamos con çalud y [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "557_8015a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo19/557_8015a.JPG",
+      "url": "/legajos/legajo-19/images/557_8015a.JPG"
+    },
+    {
+      "filename": "558_8015b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo19/558_8015b.JPG",
+      "url": "/legajos/legajo-19/images/558_8015b.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "557_8015a.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-19/cartas/007816.json",
+  "primary_image_url": "/legajos/legajo-19/images/557_8015a.JPG"
+}

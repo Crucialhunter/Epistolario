@@ -1,0 +1,43 @@
+{
+  "legajo_id": "15",
+  "id_carta": "2255",
+  "order_in_legajo": 154,
+  "signatura": "246:6480a",
+  "nombre_carta": "Carta de Bartolomé de Medina a Persona desconocida",
+  "fecha_original": "15 de noviembre de 1647",
+  "lugar": "Palermo",
+  "remitente": "Bartolomé de Medina",
+  "destinatario": "Persona desconocida",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Señor di, para mi señor y amigo. He tenido dos cartas de v. s., y al marques de los Velez di las que hay a [l] portador. Y se comenzó a tratar del negocio de Antonio Cardel, que con los tumultos inquietos de este reino se dilató el negocio hasta que el virrei Capo [?] en sumo, de manera que hoy está en peligro. En mejorándose volverá al negocio. Hasta salir en el baldín que dará esta. [Estará aviso] que ha visto en materia de lligos [?] El virrei y los españoles estamos en el castillo, hasta ahora sin poder la mi nula vida; que han pretendido echarnos del reino. Son portucias [?] largas de contar, que no faltará quien lo haga mejor ocupae que yo. Lo de Nápoles no sé si habrá parado ance hel mucha parte de la tierra. Meses ha artillería de los castillos y bajeles, y la nobleza y los nuestros han muerto hasta el último. Aviso más de 12 mil hombres. todo se sabrá por allá presto, y yo se lo avisaré despacio. Cuando se ajusten estas ciudades que ahora no lo están, y avisaré del mismo cardel con que me remito. Holgame me mucho que v. s. haya salido de en su los [?] pres de las bestias, retirándose a su casa, donde le dé Dios hijos y much [o] s aumentos, como desea. Palermo, de [1] 647, noviembre, 15. Bartolomé de Medina. Señor mío: El marqués, señor de los bales murió tan pobre que su casa no tiene con qué salir de aquí. Hase avisado al príncipe, que está en Nápoles. Para ello aquella vida se empleó [con] manera que ha sido menester [pelear] para que se iré de esta y su trecho. mucho daño. Hoy se ha tenido abrir pleba asustando, y aquí no lo está ésta. Si se detiene deportado y se sabe, lo cierto avisan a v. s. Ha quedado por intes el de Monte a León, mientras viene triseles o [?], si quisiere y han más en aquel negocio de hades lo pudille. [MArgen izquierdo] [Señor de Pedro, mi señor] Transcripción literal"
+  ],
+  "literal": [
+    "1. Sr Di paa misr yamigo. etenido dos cartas 2. de Vs yal marqs delos beles . di las qhai a. El portador 3. ysecomenço atratar. Del negoçio de antonio cardel. 4. q conlos tumultos, ynquietos deeste rreino. Sedilato. 5. el negoçio. hasta. q El. virrei Capo[?] ensu mode ma6. nera. q oi Esta. enpeligro En mejorando sebolve7. ra. al negocio. hasta. salir EnEl . Baldin. q dara 8. Esta. entara. avilo q abisto en materia delligos 9. Elbirrei ylos españoles. Estamos enestecastillo has10. taora sin Poder. la mi nula vida[?] q anpretendido 11. Echarnos. del. rreino sonp[?] tucias largas decon12. tar. q no faltara. quienlo haga. mexoso Cupa Eq 13. Yo. lo de napoles nosesiabraparado an cehel mu14. chaparte del. atierra meces ha art[i]lleria delos cas15. tillos y bageles. ylanoblecay los nuestros an 16. muerto hasta el ultimo abiso masde 12. mil 17. onbres todo sesabra. poralla presto yio selo 18. abisare. deespacio. Cuandoseajusten 19. Estas çiudades q aora no lo estan yabisare 20. del. mismode cardel Con q me rremito. [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "246:6480a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo15/246:6480a.JPG",
+      "url": "/legajos/legajo-15/images/246:6480a.JPG"
+    },
+    {
+      "filename": "247:6480b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo15/247:6480b.JPG",
+      "url": "/legajos/legajo-15/images/247:6480b.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "246:6480a.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-15/cartas/002255.json",
+  "primary_image_url": "/legajos/legajo-15/images/246:6480a.JPG"
+}

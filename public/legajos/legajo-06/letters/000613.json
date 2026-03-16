@@ -1,0 +1,38 @@
+{
+  "legajo_id": "6",
+  "id_carta": "613",
+  "order_in_legajo": 111,
+  "signatura": "151-78",
+  "nombre_carta": "Carta de Juan Perelló a Cecilia Zaforteza y Sureda de Sant Martí",
+  "fecha_original": "1 de mayo de 1770",
+  "lugar": "Barcelona",
+  "remitente": "Juan Perelló",
+  "destinatario": "Cecilia Zaforteza y Sureda de Sant Martí",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Mi senyora dona Cecília, Voldria esta trobàs a v. m. amb perfecta salut com la que nosaltres anam {ESP. disfrutant}, gràcies a Déu. D. Tomàs està molt alegre en esta ciutat de Barcelona i m’ha dit que avui a la tarda mos havíem de partir sens falta. I, així, perdonarà que seré molt breu i em tindrà en secret de tot el que li diré, i es que, segons estic entès, D. Tomàs Mallorca qui tal vegada era del de mi a prendre sa creu de Malta. Avui partim d'i sense donar-mos ha de ningú i veurem que se’n seguirà. I per motiu hem donat als que anam a Poblet i a Montserrat. Quan el correu se’n tornarà ja li escriuré tot quant haurem trafegat. Quedo a les seves ordres i de tots els {ESP. demés} de casa del senyor. A l’intèrim que estic pregant a Déu el guardi tots els anys de mon desig. Barcelona i maig al primer de 1770. Besa la mà de v. m. son més afecte i segur servidor, Joan Perelló, prevere. Dona Cecilia Zaforteza i Berga Transcripción literal"
+  ],
+  "literal": [
+    "1. Mi Sra. Da. Cecilia voldria esta trobás á V.M. 2. ab perfeta salud, com la que nosaltres enam 3. disfrutant gs á Deu; Dn. Thomas está molt ale- 4. gra en esta de Barcelona, y me ha dit que 5. vuy á la tarde mos haviem de partir sens 6. falta [^??], y axi perdonerá que sa- 7. ré molt breu, y hem tindrá en sacret de 8. tot lo que li diré, y es que segons estich en- 9. tés Dn. Thomas [^??] Mallorca [^??] qui 10. tal [^vegada] [^??] era del [^??] de [^??] [^??es], mi [^??] 11. [^??] ha [^??] pen- 12. dre se creu de Malta [^??] 13. [^??] vuy partim de [^??] y 14. sens donarmos á [^??] de nigu y veurém 15. que sen seguirá, y per motiu havem donat 16. á los [^??] que enam á Poblet, y á 17. Monserrat; quant el Corréu sen tornerá 18. ya li escriuré tot quant haurem trefegát, 19. quedo á las suas ordes y de tots los dames de 20. Casa del Sor al interim que estich pregant 21. á Deu lo Gde tots los as de Mon dezitx Barna 22. y Maig al primer de 1770. 23. B L[a] M[a] D V.M. 24. Son mes affecta y 25. Segur serdor Juan Perello Pre. 26. Da. Cecilia Çaforteza, y Berga [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "151-78.jpg",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo06/151-78.jpg",
+      "url": "/legajos/legajo-06/images/151-78.jpg"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "151-78.jpg",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (2)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-06/cartas/000613.json",
+  "primary_image_url": "/legajos/legajo-06/images/151-78.jpg"
+}

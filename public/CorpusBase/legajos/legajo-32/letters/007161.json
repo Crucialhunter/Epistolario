@@ -1,0 +1,38 @@
+{
+  "legajo_id": "32",
+  "id_carta": "7161",
+  "order_in_legajo": 160,
+  "signatura": "213:1919.JPG",
+  "nombre_carta": "Carta de Pedro Portocarrero Fernández de Córdoba y Aragón (VII conde de Medellín) a Pedro Santacilia y Pax",
+  "fecha_original": "30 de diciembre de 1665",
+  "lugar": "Madrid",
+  "remitente": "Pedro Portocarrero Fernández de Córdoba y Aragón (VII conde de Medellín)",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Amigo y s. mío, con toda estimación y reconocimiento recibo la carta con que v. s. se sirve de favorecerme porque asegurándome queda v. s. con perfecta salud, no me queda más que desear: En la merced que v. s. me hace muy fácil me es de creer lo que deseará mis conveniencias. Hasta ahora no se me ha ocupado en nada y solo lo siento por no tener qué poner a su orden de v. s. A ella quedo con muy buena voluntad y deseos de servir a v. s. a [?] guarde Dios muchos años. Madrid y diciembre 30 1665. amigo y sor mo v. s. sabe sor [?] de servir siempre blm de v. s. su amigo y ser Dr. conde de Medellin marques [?] S Sr. D. Pedro señoría Secilia y Ps: Transcripción literal"
+  ],
+  "literal": [
+    "1. Amigo y S mio con toda estimazon y reconocimto 2. reçivo la carta con que VS se sirbe de faborecerme 3. por que asegurandome queda VS con perfecta salud 4. no me queda mas que desear: 5. En la md que VS me haçe muy façil me es 6. de creher lo que deseara mis combeniencias. Asta aora 7. no se me â ocupado en nada y solo lo siento por no tener 8. q poner a su orden de VS. a ella quedo con muy buena 9. voluntad y deseos de servir a VS a [?] 10. Gde Dios ms años Md y Dize 30 11. 1665 12. amigo y sor mo Vs sabe sor 13. ?? de serbir siempre 14. blm de VS su 15. amigo y ser dor 16. Conde de Medellin 17. Marques [?] 18. S Dn Pedro Sª Sezilia y Ps: [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "213:1919.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo32/213:1919.JPG",
+      "url": "/legajos/legajo-32/images/213:1919.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "213:1919.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (4)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-32/cartas/007161.json",
+  "primary_image_url": "/legajos/legajo-32/images/213:1919.JPG"
+}

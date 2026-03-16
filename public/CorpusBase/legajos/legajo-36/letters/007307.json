@@ -1,0 +1,41 @@
+{
+  "legajo_id": "36",
+  "id_carta": "7307",
+  "order_in_legajo": 53,
+  "signatura": "078:7782a.JPG",
+  "nombre_carta": "Carta de Persona desconocida a Pedro Santacilia y Pax",
+  "fecha_original": "22 de octubre de 1648",
+  "lugar": "Lugar sin especificar",
+  "remitente": "Persona desconocida",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Transcripción literal"
+  ],
+  "literal": [],
+  "imagenes": [
+    {
+      "filename": "078:7782a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo36/078:7782a.JPG",
+      "url": "/legajos/legajo-36/images/078:7782a.JPG"
+    },
+    {
+      "filename": "079:7782b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo36/079:7782b.JPG",
+      "url": "/legajos/legajo-36/images/079:7782b.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "078:7782a.JPG",
+  "warnings": [
+    {
+      "code": "MISSING_LITERAL",
+      "message": "Transcripción literal vacía",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-36/cartas/007307.json",
+  "primary_image_url": "/legajos/legajo-36/images/078:7782a.JPG"
+}

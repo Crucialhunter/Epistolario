@@ -1,0 +1,43 @@
+{
+  "legajo_id": "27",
+  "id_carta": "4532",
+  "order_in_legajo": 4,
+  "signatura": "001:4341a.JPG",
+  "nombre_carta": "Carta de Francisco Simón de Bernun a Pedro Santacilia y Pax",
+  "fecha_original": "30 de mayo de 1616",
+  "lugar": "Pollença",
+  "remitente": "Francisco Simón de Bernun",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Mucho he holgado de ver el preso de don Pedro, y en particular la coartada tan bien probada, porque se vea la verdad de todo y se pueda informar de ella contra los que tanto se han quejado delante de su majestad, como verá a v. m. por las inclusas que van con esa, y sea para entre los dos y vaya v. m. imaginando como se escribirá a su majestad y e responderá de esto [?] indo tasuro [?] nubló de mentiras. Yo entiendo convendrá sacar auténtico todas les contenciones de 20 años a esta parte, sólo las palabras con que se ha referido y [?] al virrei y audiencia con respeto y estilo tan antiguo de las cortes, y el poco respeto con que respondieron a las nuestras etts. Y cuantos han estado en la cárcel, y arrestados por su instancia, y como se han sacado por no hallar cosa verdadera en sus culpas etts. y que si hemos sacado algunas ha sido por ver su inocencia o por no confiar de lo que les oponían. Con cuanto respeto se trata con el virrei y [?] y el poco que ellos tienen a las eclesiásticas, pues los estropean, sino les saludan estando descomulgados y publicado por tales. En lo de don Pedro me parece que v. m. juntase algunos juristas y visto el proceso resuelvan lo que les pareciere y v. m. con ellos resuelva y ejectue lo que fuera de justo. Yo creo sería bien que don Pedro se fuese a su majestad con el preso y informase de la verdad. La causa del cabildo no me parece mala, si se puede abreviar con la misma sustancia estará mejor. [1§] Yo deseo mucho abreviar que voy cansado y acudir a la ciudad para responder a las del rey, aunque ya tengo escrito al secretario Villanueva, y al vicecanciller, que preso responderá a las de su majestad enviando informaciones de la verdad contra tantas cosas falsas que le han escrito. Guarde Dios a v. m., de Pollença a 30 de mayo 1616. Francisco Simon [?] Transcripción literal"
+  ],
+  "literal": [
+    "1. Mucho he holgado de ver el presso de don 2. Pedro, y en particular la coartada tan bien3. probada, paraq se vea la verdad de todo, y se4. pueda informar de ella contra los q tanto se han5. quexado delante de su majestad como vera V.m.6. por las inclusas que van con essa, y sea para en7. tre los dos y vaya V.m. imaginando como se 8. escrivira a su majestad y se respondera [desto?]9. indo [tasuro?] nublo1 de mentiras.10. Yo entiendo convendra sacar a[?]tentico todas11. las contentiones de 20 años a esta parte, solo las12. palabras conq se ha [referido?] y [?]2 al virrey13. y audiencia con respecto y estilo tan antiguo14. de las cortes, y el poco respecto con q respondiero[n?]15. alas nuestras [etg.]316. y cuantos han estado en la carcel, y arrestados p[or?]17. su instancia, y como se han sacado por no halla[r?]418. cosa verdadera en sus culpas [etg.]5 y q si avemos19. sacado algunas ha sido por ver su innocencia o20. por no confiar de lo que les [o?]ponian.21. con cuanto respecto se trata con el Virrey y [?]622. y el poco q ellos tienen alas ecclesiasticas, pues23. los atrope[?]n sino les saludan estando descomulgados.24. Y publica[?]o por tales . etg725. en lo de don Pedro me parese q V.m. juntasse26. algunos juristas y visto el proceso resuelvan lo q27. les pareseiere y V.m. con ellos resuelva y exectue 28. lo q fuese de just yo creo seria bien que don pedro29. se fuesse a su majestad con el presso y informasse de30. la verdad.31. La causa del cabildo no me paresse mala, si se que32. de abreviar con la misma substantia estara mejor [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "001:4341a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo27/001:4341a.JPG",
+      "url": "/legajos/legajo-27/images/001:4341a.JPG"
+    },
+    {
+      "filename": "002:4341b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo27/002:4341b.JPG",
+      "url": "/legajos/legajo-27/images/002:4341b.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "001:4341a.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-27/cartas/004532.json",
+  "primary_image_url": "/legajos/legajo-27/images/001:4341a.JPG"
+}

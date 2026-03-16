@@ -1,0 +1,43 @@
+{
+  "legajo_id": "13",
+  "id_carta": "1845",
+  "order_in_legajo": 112,
+  "signatura": "182:2349a.JPG",
+  "nombre_carta": "Carta de Jaume Juan Julián a Pedro Santacilia y Pax",
+  "fecha_original": "4 de diciembre de 1668",
+  "lugar": "Valencia",
+  "remitente": "Jaume Juan Julián",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Muy Sr. mío, con decir que llegué el domingo pasado libre de todo peligro y con muy buena salud, entiendo habré dicho que ha sido mi viaje feliz, cuya felicidad estimaré mucho se continue sirviendo a v. s. en todo lo que me mandare y fuere de su gusto. Pasaré a Mallorca el lunes donde tendrá siempre un afecto grande y un ánimo rendido deseoso siempre de merecer la gloria de servidor de v. s. a cuya vida guarde Dios [?]. Hecha en Valencia a 4 de diciembre año 1668. De v. s. muy afecto y servidor que su mano besa Don Jaime Juan Julia Sr. D. Pedro Santacilia [1§] Valencia Diciembre de 1668 de D. Jaime Juan Julia [2§] Transcripción literal"
+  ],
+  "literal": [
+    "1. Mui Sor mio. con dezir que lle-2. gue el domingo pasado libre3. de todo peligro y con mui bue-4. na salud, entiendo aure dicho5. que asido mi viage felize, cuia6. felicidad estimare mucho se conti-7. nue sirviendo a Vsa. en todo lo8. que me mandare y fuere de su9. gusto; pasare amallorca el10. lunes donde tendra sienpre un 11. afecto grande y un animo rendi-12. do deseoso sienpre de merecer13. la gloria de servidor de VSa. 14. cuia vida gde Dios (^[?])15. echa en Vala a 4 de dezien16. bre año 1668.17. De VSa. mui afecto y servidor18. Serdor q s[u] m B19. Don Jayme Juan Julia20. Sor D. Pedro Santacilia21. 22. [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "182:2349a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo13/182:2349a.JPG",
+      "url": "/legajos/legajo-13/images/182:2349a.JPG"
+    },
+    {
+      "filename": "183:2349b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo13/183:2349b.JPG",
+      "url": "/legajos/legajo-13/images/183:2349b.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "182:2349a.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-13/cartas/001845.json",
+  "primary_image_url": "/legajos/legajo-13/images/182:2349a.JPG"
+}

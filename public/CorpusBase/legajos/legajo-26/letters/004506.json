@@ -1,0 +1,38 @@
+{
+  "legajo_id": "26",
+  "id_carta": "4506",
+  "order_in_legajo": 242,
+  "signatura": "358:3601.JPG",
+  "nombre_carta": "Carta de Nicolás de Santacilia y Togores a Pedro Santacilia y Pax",
+  "fecha_original": "16 de septiembre de 1665",
+  "lugar": "Madrid",
+  "remitente": "Nicolás de Santacilia y Togores",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Señor, recibo la de v. m. con Jerónimo cuando estábamos para partirnos a 10 del que viene y al inter ha sucedido que su majestad, que Dios guarde, está con la unción. Dios nos dé lo que sabe que conviene. Por este correo no puedo decir mi sentir a v. m. hasta ver en que pararán las materias, ni sabemos como se dispondrán. Lo cierto es que es menester tener los ojos abiertos, particularmente en esas islas, que el orgullo del francés no está enamorado de otra cosa. Mi deseo solo es ir a asistir a v. m., porque si se ofrece, tenga un hijo a su lado para defender la patria y el servicio de mi rey y señor con que lo digo todo. Dios me guarde a v. m. muchos años como deseo y es menester. Madrid a 16 de Setiembre 1665. Su más humilde hijo de v. m. que sus manos besaDon Nicolas de Santacilia y Togores Mi padre y señor Transcripción literal"
+  ],
+  "literal": [
+    "1. Señor resibo la de Vm con Geronimo quando esta2. va(va)mos para partirnos a 10 dell que viene y al3. inter a susedido que Su Magd. que Dios guarde4. esta con la unsion Dios nos de lo que sabe que 5. con viene6. Por este coreo no puedo desir mi sentir a Vm7. asta ver en que pararan las materias ni sa[be]8. mos como se dispondran lo sierto es que es9. menester tener los ojos abiertos particular10. mente en esas islas que el orgullo del fran11. ses no esta enamorado de otro cosa mi deseo solo12. es ir asistir a VM porque si se ofrese tenga un hi[jo]13. a su lado para defender la patria y el servisio de14. mi Rey y Señor con que lo digo todo Dios me15. guarde a Vm muchos años como deseo y e menes16. ter. Madrid a 16 de setienbre 166517. Su mas humilde 18. hijo de VM q. S. M.B19. Don Nicolas de Sta Cilia y Togores20. Mi Padre y Señor [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "358:3601.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo26/358:3601.JPG",
+      "url": "/legajos/legajo-26/images/358:3601.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "358:3601.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-26/cartas/004506.json",
+  "primary_image_url": "/legajos/legajo-26/images/358:3601.JPG"
+}

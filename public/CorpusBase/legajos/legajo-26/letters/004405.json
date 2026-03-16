@@ -1,0 +1,38 @@
+{
+  "legajo_id": "26",
+  "id_carta": "4405",
+  "order_in_legajo": 151,
+  "signatura": "208:3499.JPG",
+  "nombre_carta": "Carta de Martí Vallterra Vaquena a Pedro Santacilia y Pax",
+  "fecha_original": "29 de enero de 1644",
+  "lugar": "Dénia",
+  "remitente": "Martí Vallterra Vaquena",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "En el tiempo que me hallo en la casa del duque mi Sr. que Dios tiene en Barcelona conocí muy bien el afecto y voluntad que v. m. tenía a todas sus cosas y en esa conformidad sé que prosigue v. m. con las del duque mi Sr. que hoy es y se cuan justo es que sus criados, y yo en particular, le reconozcamos a v. m. su voluntad y le sirvamos en todas las ocasiones que gustare emplearnos. Hago la estimación del ofrecimiento que v. m. me hace de la barca, pero haréla mayor de que v. m. entienda que tengo escrito al Sr. canónigo Pedro Juan de la Guardia que me ordenó la persona a quien gusta que la entregue que al momento lo ejecutaré para que v. m. cobre lo que es suyo y emplee mi voluntad que siempre estará sujeta a servirle. Guarde Dios a v. m. en Denia 29 de enero 1644. Don Marti Vallterra Vaquena Sr. gobernador de Menorca Transcripción literal"
+  ],
+  "literal": [
+    "1. En el tiempo que me allo en la casa2. del duque mi Sor. que Dios tiene en3. barcelona conosi muy bien el afec4. to y voluntad que Vm. tenia a to5. das sus cosas y en essa conformi6. dad se que prosigue Vm. con las del7. duque mi Sor. que oy es y se quan 8. justo es que sus criados e yo en9. particular le reconoscamos a Vm.10. su voluntad y le sirvamos en to11. das las occassiones que gustare12. emplearnos hago la estimacion13. del ofrecimiento que Vm me ha14. ce de la barca pero harela major15. de que Vm. entienda que tengo es16. crito al Sor. canonigo Pedro Juan17. de la Guardia que me ordeno la18. persona a quien gusta que la19. entregue que al momento lo exe20. cutare para que Vm. cobre lo 21. que es suyo y emplee mi volun22. tad que siempre estara sujeta23. a serville Ge. Dios a Vm. en Denia24. 29 de henero 164425. Don Martín26. Vallterra Vaquena27. Sor. Governador de28. Menorca [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "208:3499.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo26/208:3499.JPG",
+      "url": "/legajos/legajo-26/images/208:3499.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "208:3499.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-26/cartas/004405.json",
+  "primary_image_url": "/legajos/legajo-26/images/208:3499.JPG"
+}

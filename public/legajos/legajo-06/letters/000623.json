@@ -1,0 +1,53 @@
+{
+  "legajo_id": "6",
+  "id_carta": "623",
+  "order_in_legajo": 121,
+  "signatura": "172-88aa",
+  "nombre_carta": "Carta de Tomás Mariano Quint Zaforteza a Cecilia Zaforteza y Sureda de Sant Martí",
+  "fecha_original": "20 de junio de 1770",
+  "lugar": "Madrid",
+  "remitente": "Tomás Mariano Quint Zaforteza",
+  "destinatario": "Cecilia Zaforteza y Sureda de Sant Martí",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Madrid i juny 20 de 1770. Tia Cecília, Esper esta la trobarà amb perfecta salut. Jo la {ESP. gos} bona, a Déu gràcies, amb tota la família pel que manarà. Avui dematí dedins el llit he sentit com la fora arribava i {ESP. luego} he enviat a casa seva a dar-li la benvinguda. I {ESP. luego} en Nadal Sastre ha dit com duia una carta i jo {ESP. luego} ja no he tingut repòs ni quietud fins que l’he llegida. I no li puc dir el que em som alegrat de la seva carta, que tot el dematí [a la izquierda, de arriba abajo]he estat llegint-la i sempre li trobava {ESP. saborino}. [En la otra página, el final del documento][1§] En vull. I, així, tia Cecília no se descuit d’enviar-me en Caliu. Així com la hi deman, així pens que ho farà i no hi pos {ESP. dubte ninguna}. Això és el que se m’ofereix de v. m. i que estiga bona que crega que desig tant la seva salut com la mia, o més. Dirà a en Canyeret que no s'és tractat de no escriure’m. De part de tots rebrà moltes memòries i de son nebot, qui més l’estima, les pendrà a {ESP. medida} del seu gust. Déu la guardi molts anys. Son nebot qui més l’estima, Tomàs Mariano Quint Zaforteza [En la derecha, de abajo a arriba]Tia Cecília [2§] No li dic res de les cartes, que de Barcelona fins a Madrid no vaig fer sinó llegir-les, de manera que ja les sé de cor de repetir i és sentit. Del que em diu que no m’{ESP. olvit} del patriarca sant Josep no tengui ansia que des que som sortit de Mallorca els dos mesos que a cada més he feta la novena i el dia 19 em som confessat a Barcelona en els missionistes i a Madrid a Sant Sebastià i, pel camí, el dia de Pasqua de Pentecostes em vaig confessar a [a la derecha, de abajo a arriba]la ciutat de Daroca. Tia Cecília, no creurà el gust [En la otra página][3§] que tenc d’anar de camí, sempre hi voldria anar. Jo no acabaria mai d’escriure-li perquè sempre tenc sa ploma en sa mà per v. m. i v. m. m’ha escrita una carta per a en Nadal qui tenia dues planes netes. Sobretot el que importa és que no se descuit d’escriure’m llarg o breu. A casa, fins fa pocs dies, és estat un carreró de mallorquins que venien a veure’m i jo deia als criats que els digués que ja no hi era, però mai hi son poguts entrar. En Miquel i en Joan estan enamo- [a la izquierda, de arriba abajo]rats que no hi veuen i no fan res d'ha de foraster Transcripción literal"
+  ],
+  "literal": [
+    "1. Madrid y Juñi 2. 20 de 1770 3. Tia Cecilia esper esta la trobe- 4. ra ab perfeta salud jo la gos bona 5. á Deu gracias en tota la familia pe- 6. r lo que manara 7. Vuy demati de dins 8. el llit he sentit com la fora[?] Arri- 9. bava y luego he enviat á casa sua 10. á darli la benvinguda y lugo en Na- 11. dal Sastre á dit com duie una Carta 12. y jo luego ja no he tingut repos ni 13. quietut fins que la he llegida y no 14. li puch dir lo que hem som alecrat 15. de la sua carta. que tot lo demeti 16. [ A la izquierda, de arriba abajo ]17. he estat leginli y sempre li trobava seborino. [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "172-88aa.jpg",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo06/172-88aa.jpg",
+      "url": "/legajos/legajo-06/images/172-88aa.jpg"
+    },
+    {
+      "filename": "172-88ab.jpg",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo06/172-88ab.jpg",
+      "url": "/legajos/legajo-06/images/172-88ab.jpg"
+    },
+    {
+      "filename": "173-88bb.jpg",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo06/173-88bb.jpg",
+      "url": "/legajos/legajo-06/images/173-88bb.jpg"
+    },
+    {
+      "filename": "173-88ba.jpg",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo06/173-88ba.jpg",
+      "url": "/legajos/legajo-06/images/173-88ba.jpg"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "172-88aa.jpg",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (2)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-06/cartas/000623.json",
+  "primary_image_url": "/legajos/legajo-06/images/172-88aa.jpg"
+}

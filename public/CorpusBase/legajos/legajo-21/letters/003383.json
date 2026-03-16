@@ -1,0 +1,38 @@
+{
+  "legajo_id": "21",
+  "id_carta": "3383",
+  "order_in_legajo": 73,
+  "signatura": "108:5672.JPG",
+  "nombre_carta": "Carta de Àngela Constantí i Casquer a Pedro Santacilia y Pax",
+  "fecha_original": "8 de mayo de 1632",
+  "lugar": "Tarragona",
+  "remitente": "Àngela Constantí i Casquer",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Com a confiada que v. m. m'ha de fer mercè en tota ocasió el suplica me la faci en esta al senyor Granada, mon gendre, a qui v. m. coneix. Desitja procurar un privilegi de cavaller, que sé que si hi ha ocasió el bon {esp. medi} de v. m. seria d'importància. I així, suplica a v. m. me la faci en manar-me avisar si acàs hi ha lloc de procurar-ho, que per no fer-ne fressa no hi vol anar Granada, que no sabia si hi haurà confiances. En tot estarem en son parer de v. m. , al qual guardi Nostre Senyor com pot. En Tarragona i maig a 8 de 1632 Angela Constanti i Casquer Senyor don Pedro Santacilia Transcripción literal"
+  ],
+  "literal": [
+    "1. coma confiada que v.m. mea de fer 2. merse en tota ocasio lo soplica lam fase e[n] 3. esta (lo sor granada mon gendra a [q]ui4. v.m. conex desiga procurar un [priui]5. legi de cavaller que se quesia ocasio lo 6. bon medi de v.m. seria de in portansi7. y axi soplica a v.m. lam fase en mana 8. me avisar si acasia loc de procuraro q[ue] 9. per no ferna fersa noy vol anar grana10. da queno sapia si yaura confianses en to[t]11. estarem an son parer de v.m. al qual 12. guarde nre sor com pot en tarragona y 13. Maig a 8 de 1632 14. Angela constanti 15. y casquer 16. [Margen izquierdo][^ sor Don pedro santa silia] [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "108:5672.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo21/108:5672.JPG",
+      "url": "/legajos/legajo-21/images/108:5672.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "108:5672.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (2)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-21/cartas/003383.json",
+  "primary_image_url": "/legajos/legajo-21/images/108:5672.JPG"
+}

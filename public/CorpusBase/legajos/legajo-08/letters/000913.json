@@ -1,0 +1,38 @@
+{
+  "legajo_id": "8",
+  "id_carta": "913",
+  "order_in_legajo": 86,
+  "signatura": "166-108 copia",
+  "nombre_carta": "Carta de Thomás Áufre y Velasco a Pedro Santacilia y Pax",
+  "fecha_original": "29 de marzo de 1644",
+  "lugar": "Castillo de San Felipe (Menorca)",
+  "remitente": "Thomás Áufre y Velasco",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Dé Dios a v. s. muy buenas pascuas de resurrección con la salud, aumentos y gustos que puede y sus servidores de v. s. deseamos en compañía de mi señoras doña Magdalena, la recién nacida y demás señores, y que se acuerde y nos tengan más en memoria los ausentes sacándonos Dios de la maldición de Astyado teveas [?], llevándonos a puerto de salvación. Dios guarde a v. s. muchos años. San Felipe y marzo, a 29 de 1644. Thomás de Aúfre y Velasco Gobernador Transcripción literal"
+  ],
+  "literal": [
+    "1. De Dios aV.s. muy buenas Pascuas dee Resurrecçion con la 2. salud. aumentos y gustos que puede y sus servidores de V.s. de sea- 3. mos. encomp< [a]> demi S< > Doña Madalena. la Recien nacida y de- 4. mas señores y que seacuerde y nos tengan mas en memoria. los 5. ausentes. sacandonos. Dios dela mal diçion de Asstyado te veas 6. llevandonos apuerto de salvaçion Dios g< > aV.s. muços años S PH< >. 7. y Março A 29 de 1644 8. Thomas de Çufre y V< >? 9. S< > Governador [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "166-108 copia.jpg",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo08/166-108 copia.jpg",
+      "url": "/legajos/legajo-08/images/166-108 copia.jpg"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "166-108 copia.jpg",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (2)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-08/cartas/000913.json",
+  "primary_image_url": "/legajos/legajo-08/images/166-108 copia.jpg"
+}

@@ -1,0 +1,43 @@
+{
+  "legajo_id": "25",
+  "id_carta": "4145",
+  "order_in_legajo": 77,
+  "signatura": "158_179a.JPG",
+  "nombre_carta": "Carta de Miguel Malo a Jerónimo Pelegrín de Aragüés",
+  "fecha_original": "22 de junio de 1667",
+  "lugar": "Madrid",
+  "remitente": "Miguel Malo",
+  "destinatario": "Jerónimo Pelegrín de Aragüés",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Sr. mío recibo la de v. m. de 5 del corriente y me huelgo que v. m. y toda su casa estén muy buenos, por acá la tenemos, a Dios gracias, para servirles y me huelgo que mis cartas hayan pasado con tanta brevedad. Ya tengo escrito como el virrey se partió para esa isla y que v. m. va muy recomendado a su señoria y mi Sra. Dña. Jeronima Salva su mujer y también al Sr. D. Vicente Bescansa y a D. Lorenzo de Castro, para que tengan a v. m. mucha merced. En el negocio del Sr. Mateo Maestre tengo escrito varias veces después que ha venido la renunciación por auto de escribano y ahora digo que ha de venir renunciando desde luego en su hijo Joaquin Maestre y no importa que venga por auto, sino una carta simple que lo diga y esto que sea luego que no tenemos más tiempo que hasta Septiembre. También se partió el abogado fiscal D. Jeronimo Costas y juró aquí en manos del vicecanciller a 19 del corriente y pasará con el virrey, ya también va v. m. recomendado [1§] a su persona y así le visitará v. m. que es paisano y ya que es muy buen caballero. Las novedades son estar ya de asiento el Sr. D. Juan en Madrid y entrar en el Consejo de Estado y que por Flandes prosigue el francés con darnos guerra y ha venido nueva que está muy malo y que a su armada en la Rochela le ha dado peste. Dios nos dé paces y me pesa mucho que esos mares estén tan llenos de corsarios, de moros y franceses que ellos no tienen palabra ni obra buena. Guarde Dios a v. m. con compañía de toda su casa y beso a v. m. la mano por haber participado de las sobrasadas que me ha dado el tío que son famosas. Madrid y junio a 22 de 1667. Sr. mío todos estos Sres. van muy recomendados por v. m. y el Sr. D. Jeronimo Costas que es Sr. mío. V. m. le sirva en todo lo que pudiere y a los criados del virrey y a la señoría Dña. Angela una [?] la virreina que lleva carta mía para v. m. y haga que luego haga lo que dijo el Sr. Mateo Maestre y a Dios también se va con el virrey el [?] Lope [?] es amigo v. m. le dé mis recados. Ya di la carta al Sr. Pueyo. Servidor de v. m. que sus manos besa Miguel Malo Sr. Jeronimo Pelegrin y Aragues Transcripción literal"
+  ],
+  "literal": [
+    "1. Sr mio R[eci]vo la de Vm. de 5 del corriente y2. me guelgo que Vm. y toda su cassa esten muy 3. buenos por aca la tenemos a Dios (^D) Graçias pª4. servirles y me guelgo que mis cartas ayan pasa5. do con tanta brevedad=6. Ya tengo escrito como el sr. Virrey se partio7. pª esa Isla y que Vm. ba muy recomendado8. a su Sria. y mi Sa. D. Ger[oni]ma Salba su muger y 9. tambien a el Sr. D. Viçente Bescansa y a D. Lore[n]10. ço de Castro pª que tengan a Vm mucha m[erce]d11. En el negoçio del sr. Matheo Maestre tengo es12. crito barias beçes despues que a benido la13. renunçiaçion por auto de escriv[an]o y aora digo14. que a de venir renunciando desde luego en15. su hijo Juachin Maestre y no importa q 16. benga por auto sino una carta simple que 17. lo diga y esto que sea luego que no tenemos18. mas tiempo que asta sett[iembr]e=19. Tambien se partio el sr. Abogado Fiscal Dn.20. Germo. Costas y juro aqui en manos del sr.21. Viçecançeller a 19 del corr[ien]te y pasara con el22. sr. virrey y atambien ba Vm recomendado [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "158_179a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo25/158_179a.JPG",
+      "url": "/legajos/legajo-25/images/158_179a.JPG"
+    },
+    {
+      "filename": "159_179b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo25/159_179b.JPG",
+      "url": "/legajos/legajo-25/images/159_179b.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "158_179a.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (4)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-25/cartas/004145.json",
+  "primary_image_url": "/legajos/legajo-25/images/158_179a.JPG"
+}

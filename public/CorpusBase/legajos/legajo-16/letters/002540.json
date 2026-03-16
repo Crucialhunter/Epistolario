@@ -1,0 +1,43 @@
+{
+  "legajo_id": "16",
+  "id_carta": "2540",
+  "order_in_legajo": 26,
+  "signatura": "044:2040a.JPG",
+  "nombre_carta": "Carta de Diego Matías de Aragüés a Pedro Santacilia y Pax",
+  "fecha_original": "26 de febrero de 1667",
+  "lugar": "Madrid",
+  "remitente": "Diego Matías de Aragüés",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Prométome que todas mis cartas que tengo escritas a v. s. aquí por Valencia como por Barcelona habrán llegado a sus manos con que no me queda que decir, sólo en dar aviso a v. s. como el señor don Nicolas llegó a esta corte [el] jueves 17 de este algo indispuesto, cansancio del camino, no es cosa de cuidado. Está en palacio con sus compañeros que todos juntos entraron con el marques de la Guardia. Juan Seguals se está en mi casa, hasta ahora parece ser no quiere volver con el señor don Nicolás, y el señor don Nicolás me ha dicho que sí quiere volver que de muy buena gana a mi me parece que no hay más que hacer en esto, ambos escribirán las razones que han tenido. En entrando ahora la Cuaresma entendéremos en la pretensión (siendo Dios servido) también en lo de las pensiones del obispo que tengo muy [?] el arbitrio y para que nos despachen presto por medio mi señora la condesa de Ricla. Las últimas cartas que recibí del primero de este tengo respondido por Valencia con un pliego grande para Jeronimo, y el miércoles volveré a escribir por Valencia. La carta para el señor virrey que en ella va un memorial mío que se sirvirá v. s. de verle Con la carta, antes que se le dé que va en falso me haga v. s. merced de hablarle y encomendarle mi persona para que en la terna [1§] me haga merced honrarme &ndach; a Jerónimo le escribo de [?] as para esta pretensión, y así v. s. se sirva encomendárselo. v. s. me mande le sirva que sus manos besamos con las de mi señora doña Leonor y señor don Juan muchas veces doña Margarita y yo Dios guarde a v. s. muchos años como deseo. Madrid y febrero a 23 de 1667. En esta conformidad tengo escrito por Barcelona con la primera que llegaré a manos de v. s. le suplico vea al señor virrey, y le pida me honre en esta ocasión, y a Jerónimo que [?] de esta solicitud v. s. se sirva leer la carta y mem [?] que va para el virrey antes que la reina haciendo la [?] después besa la mano de v. s. Su mayor servidor, Diego Matias de Aragues Señor don Pedro Santacilia y Pax Transcripción literal"
+  ],
+  "literal": [
+    "1. Prometome que todas mis cartas que tengo Escrítas a VS. assí 2. por Valençia como por Barçelona habran llegado asus 3. manos conque nomequeda que decir, solo endar avísso á 4. Vs. como el Sr don Nicolas llego aesta corte Juebes 17 5. deste algo Indispto Cansançio del camíno no es cosa desuy6. dado Esta En palacio consus compañeros que todos Juntos 7. Entraron conel Marques de la Guardia. 8. Juan Seguals seesta En mi cassa hastaora pareçe ser noquíere 9. Volver conel Sr don Nicolas, Yel Sr don Nicolas me ha 10. dícho que sí quíere Volver que demuy buena gana 11. ami mepareçe que no ay mas que haçer enesto, ambos 12. Escríviran las Raçones que han tenído. 13. En entrando aora la quaresma Entenderemos en la 14. pretenssíon (siendo Díos servído) tanvíen en lode 15. Las penssíones del Obispo q tengo muy grangíado el 16. alvítrío y para quenos despachen presto por medio mí 17. Señora LaCondessa de Ricla. 18. Las ultimas cartas que Reçíví del prímero deste tengo 19. Respondido por Valençia con un pliego grande para Gero20. nimo, y el miercoles Volbere a escrivir por Valençía 21. La carta para el Sr Virrey que En ellava Un memo22. ríal mio que se sirvira Vs. de berle con la carta, 23. antes que se lede que va En falsso meaga Vs merd de 24. ablarle y Encomendarle miperssona paraq en la terma [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "044:2040a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo16/044:2040a.JPG",
+      "url": "/legajos/legajo-16/images/044:2040a.JPG"
+    },
+    {
+      "filename": "045:2040b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo16/045:2040b.JPG",
+      "url": "/legajos/legajo-16/images/045:2040b.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "044:2040a.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (3)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-16/cartas/002540.json",
+  "primary_image_url": "/legajos/legajo-16/images/044:2040a.JPG"
+}

@@ -1,0 +1,38 @@
+{
+  "legajo_id": "30",
+  "id_carta": "6733",
+  "order_in_legajo": 155,
+  "signatura": "319:5571.JPG",
+  "nombre_carta": "Carta de Rodrigo de Borja Llançol de Romaní y Olivera a Pedro Santacilia y Pax",
+  "fecha_original": "14 de 1661",
+  "lugar": "Ibiza",
+  "remitente": "Rodrigo de Borja Llançol de Romaní y Olivera",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "IMATGE BORROSA [1§] Transcripción literal"
+  ],
+  "literal": [
+    "1. IMATGE BORROSA"
+  ],
+  "imagenes": [
+    {
+      "filename": "319:5571.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo30/319:5571.JPG",
+      "url": "/legajos/legajo-30/images/319:5571.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "319:5571.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (2)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-30/cartas/006733.json",
+  "primary_image_url": "/legajos/legajo-30/images/319:5571.JPG"
+}

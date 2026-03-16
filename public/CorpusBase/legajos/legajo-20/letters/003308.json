@@ -1,0 +1,38 @@
+{
+  "legajo_id": "20",
+  "id_carta": "3308",
+  "order_in_legajo": 182,
+  "signatura": "356:6089.JPG",
+  "nombre_carta": "Carta de Nicolás de Santacilia y Togores a Leonor Santacilia i Despuig",
+  "fecha_original": "6 de marzo de 1669",
+  "lugar": "Madrid",
+  "remitente": "Nicolás de Santacilia y Togores",
+  "destinatario": "Leonor Santacilia i Despuig",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Dos cartas de v. m. he recibido con el gusto que siempre, holgandome mucho goce de perfecta salud. Mi padre y Sr. también la gozamos para todo cuanto fuere de su gusto de v. m. sin reserva alguna aunque los pretendientes suelen engañarse habiendo de salir de esta corte. Me atrevo a decir juzgo será con brevedad aunque no se ha tomado resolución. Guarde Dios a v. m. como deseo, Madrid 6 de marzo 1669. Su más humilde hijo de v. m. que sus manos besa Don Nicolas de Santacilia Por acá se gasta mucho dinero yo lo he acabado y mi padre gasta mucho y así sirvase de socorrerme con algo Mi Sra. y mi madre Transcripción literal"
+  ],
+  "literal": [
+    "1. Dos cartas de VM e resibido con 2. el gusto que siempre olgando me mu 3. cho gose de perfeta salud, mi Padre 4. y tanbien la gosamos para todo quan 5. to fuere de su gusto de VM sin 6. reserva alguna 7. Aunque los pretendientes suelen en- 8. gañarse aviendo de salir desta Corte9. me atrevo a desir jusgo sera con bre- 10. vedad aunque no sea tomado resolu 11. sion Guarde Dios a VM como deseo Ma 12. drid 6 de Março 1669 13. Su mas humilde hijo 14. de VM q SMB 15. Don Nicolas de Sta Cilia16. Por aca se gasta mucho di- 17. nero yo lo e acabado y mi 18. Padre gasta mucho y asi sir- 19. vase de socorrerme con 20. algo 21. Mi Sra. y mi Madre [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "356:6089.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo20/356:6089.JPG",
+      "url": "/legajos/legajo-20/images/356:6089.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "356:6089.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-20/cartas/003308.json",
+  "primary_image_url": "/legajos/legajo-20/images/356:6089.JPG"
+}

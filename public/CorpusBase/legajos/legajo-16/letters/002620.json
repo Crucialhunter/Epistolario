@@ -1,0 +1,38 @@
+{
+  "legajo_id": "16",
+  "id_carta": "2620",
+  "order_in_legajo": 108,
+  "signatura": "175:2120.JPG",
+  "nombre_carta": "Carta de Isidro Marqués a Pedro Santacilia y Pax",
+  "fecha_original": "13 de agosto de 1667",
+  "lugar": "Madrid",
+  "remitente": "Isidro Marqués",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Señor mío Asen [?] el señor conde de Talara no ha enviado la consulta del señor don Nicolas pero de hoy a mañana la dará y ya el señor don Pelasco esta hablade y yo siempre muy pronto a servir yobedecer a v. s. en cuanto me mandare Dios guarde a v. s. muchos años como deseo Madrid a 13 de agosto de 1667 v. s. se sirva mandar encaminar la inclusa en habiendo ocasión. Besa las manos de v. s. su mayor servidor Isidre marques a don Pedro de Santacilia [1§] Transcripción literal"
+  ],
+  "literal": [
+    "1. Señor mio Asen[?] elsr Conde de 2. Talara no ha enviado la Consulta del 3. Sr D Nicolas pero de oy à ma4. naña la dara y ya el sr Don 5. Pelasco esta hablade y yo siempre 6. muy prompto a servir yobedecer 7. aVS. en quanto me mandare Dios 8. ge a VS. muchos años como desseo 9. Md a 13 de Agosto de 1667 10. VS. se sirva mandar encaminar la 11. inclussa en havdo ocasion 12. B[] l[] M[] de Vs. s[u] m[] s[] 13. Isidre Marques 14. [Margen izquierdo][^ A D Pedro de Santaçilia] [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "175:2120.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo16/175:2120.JPG",
+      "url": "/legajos/legajo-16/images/175:2120.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "175:2120.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-16/cartas/002620.json",
+  "primary_image_url": "/legajos/legajo-16/images/175:2120.JPG"
+}

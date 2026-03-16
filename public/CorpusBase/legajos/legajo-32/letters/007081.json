@@ -1,0 +1,32 @@
+{
+  "legajo_id": "32",
+  "id_carta": "7081",
+  "order_in_legajo": 105,
+  "signatura": "102:1839.JPG",
+  "nombre_carta": "Carta de Josep del Calvo y Monreal a Pedro Santacilia y Pax",
+  "fecha_original": "23 de marzo de 1665",
+  "lugar": "Zaragoza",
+  "remitente": "Josep del Calvo y Monreal",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Transcripción literal"
+  ],
+  "literal": [
+    "1."
+  ],
+  "imagenes": [
+    {
+      "filename": "102:1839.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo32/102:1839.JPG",
+      "url": "/legajos/legajo-32/images/102:1839.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "102:1839.JPG",
+  "warnings": [],
+  "raw_source": "raw/legajos/legajo-32/cartas/007081.json",
+  "primary_image_url": "/legajos/legajo-32/images/102:1839.JPG"
+}

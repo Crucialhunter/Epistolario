@@ -1,0 +1,38 @@
+{
+  "legajo_id": "25",
+  "id_carta": "4138",
+  "order_in_legajo": 72,
+  "signatura": "147_172.JPG",
+  "nombre_carta": "Carta de Miguel Malo a Jerónimo Pelegrín de Aragüés",
+  "fecha_original": "8 de junio de 1667",
+  "lugar": "Madrid",
+  "remitente": "Miguel Malo",
+  "destinatario": "Jerónimo Pelegrín de Aragüés",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Deseo que v. m. tenga salud y su señoría el virrey partió por ese reino a primero de junio y v. m. va recomendado así de sus señorías como de su sobrino Bescansa y de sus criados todos y de mis señorías. [?] Jeronimo [?] su mujer yo y [?] como se verá. Sr. mío v. m. haga que el Sr. Mateo Maestre haga que luego el nombramiento en su hijo Joaquín Maestre y que se ha de dar luego y aunque no tenga acto de escritura no importa, sino que sea por carta simple y desde luego. Guarde Dios a v. m. como deseo. Madrid a 8 de junio de 1667. Servidor de v. m. que sus manos besa Miguel Malo Sr. Jeronimo Pelegrin y Aragues Transcripción literal"
+  ],
+  "literal": [
+    "1. Deseo q Vm tenga salud y su2. Sª el Sr Virrey partio por3. ese Reyº a primero de Junio y4. Vm ba recomendado asi de sus5. Sras. como de su sº Bescansa y de6. sus criados todos y de mis7. Sas.[?] Germo [?] su mujer yo i8. [?] como se bera9. Sr. mio Vm haga q el sr. Ma10. theo Maestre haga q luego11. el nonbramiento en su hijo12. Juachin Maestre y q se a de13. dar luego y aunq no tenga acto14. de escritura no ynporta sino q15. sea por carta simplie y desde luego gde. Dios16. a Vm como deseo M[adri]d a 8 de Junio de 166517. Ser[vid]or de Vm q s.m.b.18. Miguel Malo19. Sr. Germo. Pelegrin y Aragues [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "147_172.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo25/147_172.JPG",
+      "url": "/legajos/legajo-25/images/147_172.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "147_172.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (4)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-25/cartas/004138.json",
+  "primary_image_url": "/legajos/legajo-25/images/147_172.JPG"
+}

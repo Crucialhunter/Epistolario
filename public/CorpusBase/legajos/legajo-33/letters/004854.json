@@ -1,0 +1,38 @@
+{
+  "legajo_id": "33",
+  "id_carta": "4854",
+  "order_in_legajo": 48,
+  "signatura": "074:6770.JPG",
+  "nombre_carta": "Carta de Felip Malendrí a Pedro Santacilia y Pax",
+  "fecha_original": "19 de mayo de 1629",
+  "lugar": "Sant Feliu",
+  "remitente": "Felip Malendrí",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Abe que v. m. nos recorda de manar-me ninguna cosa de son servei sabent quant apassionat servidor li so no he volgut perdre esta ocasió de propi que mes arribat d'aquí pergurant a V. m. que li so tan apassionat com dic i així se serves ca v. m. donar-me moltes ocasions perquè obres pugas donar testimoni del destiyx que sampre he tingut i tinc de servir-lo ma nantme moltes coses v. m. a qui N. grde. com pot i desitge d'aquest Castell de Salses [?] maytx als 19 de 1629 Sr. don Felip malendriy i de senesterros [?] Sr. don Pedro Santacilia [1§] Transcripción literal"
+  ],
+  "literal": [
+    "1. Abe q[ue] v.m. nos recorda de manarme ninguna2. cosa de son servey sabent quant apassionat ser3. vidor li so no he volgut perdrer esta ocasio de4. propi q[ue] mes arribat de aqui pergurant a V.5. m. q[ue] li so tan apassionat com dic y axi se serves6. ca v.m. donarme moltas ocasions perq[ue]7. obras pugas donar testimoni del destiyx8. q[ue] sanpre he tingut y tinc de servirlo ma9. nantme moltas cosas V.m. a qui Nre Sor grde.10. com pot y desitye dest Castell de Salses[?]11. maytx als 19 de 162912. Don Felip malendriy13. y de senesterros[?]14. Sr Don Pedro Santacilia [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "074:6770.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo33/074:6770.JPG",
+      "url": "/legajos/legajo-33/images/074:6770.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "074:6770.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-33/cartas/004854.json",
+  "primary_image_url": "/legajos/legajo-33/images/074:6770.JPG"
+}

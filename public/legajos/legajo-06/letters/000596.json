@@ -1,0 +1,43 @@
+{
+  "legajo_id": "6",
+  "id_carta": "596",
+  "order_in_legajo": 99,
+  "signatura": "123-67a",
+  "nombre_carta": "Carta de Ignasi Vila a Cecilia Zaforteza y Sureda de Sant Martí",
+  "fecha_original": "12 de febrero de 1757",
+  "lugar": "Barcelona",
+  "remitente": "Ignasi Vila",
+  "destinatario": "Cecilia Zaforteza y Sureda de Sant Martí",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Molt il·lustre, mi senyora dona Cecília, Gustós rebo la de v. s. del 5 del passat per les bones notícies encontrí de sa salut, mentre que, a Déu gràcies, queda la que m'assisteix junt la parenta i fills pel que sia de son {ESP. agrado} manar-nos. Pere Ferrer m’ha entregat els dos cans amb el {ESP. modo} se li entregaren i ben conduïts, del que dono a v. senyora les gràcies, apreciant son bon afecte. El dit entregarà a v. senyora el rellotge d’or que m’havia entregat el Dr. Gabriel de son ordre i un vidre de {ESP. delantera} de cotxe que no sé cert si es de v. s. o cosa de v. s., que és son importa vint i quatre peces de vuit. Avui ha rebut carta del Dr. Gabriel que està bo i pensa ens veurem prest. v. s. perdoni que la brevetat del correu no me permet dilatar-me, mentre quedo per servir-la i retornar-li les degudes saluts de part mia i demés. D’esta sa casa Barcelona i febrer als 12 de 1757. Besa la mà de v. s. son més humil servidor, Ignasi Vila Molt senyora, dona Cecilia Zaforteza. Transcripción literal"
+  ],
+  "literal": [
+    "1. Molt Ilta. Mi Sra. Da. Cicilia 2. gustos rebo la de V.S. del 5 del 3. passat per las bonas noticias 4. encontro de sa salut mentres 5. que á Deu gs queda la que me 6. assisteix junt la Parenta y fills 7. per lo que sia de son agrado 8. manarnos. 9. Pera farre me ha entregat los 10. dos cans ab lo modo se li entre- 11. garen y ben conduits de lo que 12. dono á V.Sra. las gracias apre- 13. siant son bon afecta 14. lo dit entregara á V.Sra. lo 15. rellotge de or que me avia en- 16. tregat lo Dr. Gabriel de son orde [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "123-67a.jpg",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo06/123-67a.jpg",
+      "url": "/legajos/legajo-06/images/123-67a.jpg"
+    },
+    {
+      "filename": "124-67b.jpg",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo06/124-67b.jpg",
+      "url": "/legajos/legajo-06/images/124-67b.jpg"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "123-67a.jpg",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-06/cartas/000596.json",
+  "primary_image_url": "/legajos/legajo-06/images/123-67a.jpg"
+}

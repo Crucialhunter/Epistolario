@@ -1,0 +1,38 @@
+{
+  "legajo_id": "11",
+  "id_carta": "1246",
+  "order_in_legajo": 14,
+  "signatura": "016:5106.JPG",
+  "nombre_carta": "Carta de Bernat Suñer a Pedro Santacilia y Pax",
+  "fecha_original": "18 de febrero de 1643",
+  "lugar": "Palma",
+  "remitente": "Bernat Suñer",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Sr. mio, Com a tant sr. meu, he volgut imitar a v. s. me pesa l'avantatge que té per imitar-lo, i seguir-lo del tot. Avui sóc promès amb la sra. Marianna Cardona; confio serà per més [borrado] i a v. s., {ESP. cuya} persona {ESP. muy} il·lustre la divina guardi. De Ciutat i febrer a 18 de 1643. Don Bernat Sunyer Tinc a cert a Pere Bonnín tot el que se li oferirà haver de menester, folgaria m'empràs en qualsevol cosa tant és el desig que tinc de servir a v. s. Suplic a v. s. doncs el temps ens dona llor ens avisi si té al cansat del pare [borrado]. Sr. governador Transcripción literal"
+  ],
+  "literal": [
+    "1. Sr. mio com a tant Sr. meu 2. he volgut imitar a V.S. me 3. pessa la ventanje que te per 4. imitarlo, y seguirlo del tot. 5. Vuy me so promes ab la Sra. 6. Marianne Cardone [confioi] 7. sera per mes [borrado] 8. y a V.S. cuya persona muy 9. Ille. la divina Gde de 10. Ciutat y fabrer a 18 de 1643. 11. Don Bernat Suñe 12. tinch asert a Pere bon nin 13. tot lo que se li oferira aver me nes 14. ter olgaria me empras en 15. qualsevol cosa tant es el 16. desig que tinch de servir a V.S. 17. Suplic a V.S. puis lo temps nos dona 18. llor nos avis si te alcansat del Pare [humedad y roto]19. [^Sr. Gdor^] [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "016:5106.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo11/016:5106.JPG",
+      "url": "/legajos/legajo-11/images/016:5106.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "016:5106.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-11/cartas/001246.json",
+  "primary_image_url": "/legajos/legajo-11/images/016:5106.JPG"
+}

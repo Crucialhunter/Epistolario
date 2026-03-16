@@ -1,0 +1,38 @@
+{
+  "legajo_id": "26",
+  "id_carta": "4289",
+  "order_in_legajo": 25,
+  "signatura": "033:3383.JPG",
+  "nombre_carta": "Carta de Bonaventura de Lanuza Montbuí y Vilarig a Pedro Santacilia y Pax",
+  "fecha_original": "21 de diciembre de 1629",
+  "lugar": "Girona",
+  "remitente": "Bonaventura de Lanuza Montbuí y Vilarig",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Gaspar Oliver fou el qui rebé la plata de mi Sra. la duquessa de Cardona, juntament amb dos cobretaules de domàs blau i així el torn a enviar perquè ho entregui tot en mans de qui la dona rebré mercè v. m. li dóna la plata que porta aquí i a mi me mani tot el que sia de son gust i servei. Guardi Déu a v. m. com desitjo. Girona i desembre als 21 de 1629. Don Bonaventura de Lanuza Mombuy i Bilarig Sr. D. Pedro Santacilia i Pax Transcripción literal"
+  ],
+  "literal": [
+    "1. Gaspar Oliver fou lo qui rebe la plata de2. mi Sora. la duquessa de Cardona juntament3. ab dos cobritaulas de domas blau y axi lo tor4. ne enviar pera que o entregue tot en mans5. de qui la dona rebre merçe V.m. li done la6. plata que aporta aquí y a mi me mane tot7. lo que sia de son gust y servey gde. Deu a V.m.8. com desijo Gerona y desembre als 21 de 16299. Don Bonaventura de la10. nuça monbuy y bilarig11. Sr. D. Pedro Sta.cilia y Pax [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "033:3383.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo26/033:3383.JPG",
+      "url": "/legajos/legajo-26/images/033:3383.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "033:3383.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-26/cartas/004289.json",
+  "primary_image_url": "/legajos/legajo-26/images/033:3383.JPG"
+}

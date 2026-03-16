@@ -1,0 +1,43 @@
+{
+  "legajo_id": "33",
+  "id_carta": "4944",
+  "order_in_legajo": 134,
+  "signatura": "204:6860a.JPG",
+  "nombre_carta": "Carta de Ana María de Salas y Tovar a Pedro Santacilia y Pax",
+  "fecha_original": "18 de agosto de 1638",
+  "lugar": "Madrid",
+  "remitente": "Ana María de Salas y Tovar",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Señor d. Pedro Santacilia y Pax De las muchas honras que todos hemos recibido de su mano de v. m. no se podía prometerme nos dé la buena honra y merced que v. m. ha hecho a mi hijo, de lo cual tengo la estimación que merece quedando tan estimada de ello que quisiera saberme suplicar conforme mi conocimiento. En fin, mi señor, me remito a que a v. m. se lo pague el Cielo alargándole los días de la vida y prósperos sucesos como espero en su divina majestad le ha de dar a v. m. como esta reconocida se lo suplica, y a mi hijo le dé lugar para que acierte en todo a servirle a v. m. tal nieto para que reconozca las mercedes y favores que v. m. le ha hecho y hace. Paguéselo Dios a v. m. con [1§] con bienes eternos guardando su vida como todos hemos menester. Amén. De Madrid, a 18 de agosto de 1638 años. Su servidora de v. m., doña Maria de Salas y Tovar Madrid, 18 agosto 1638. Doña Ana de Salas [2§] Transcripción literal"
+  ],
+  "literal": [
+    "1. Sr. D. pedro Sta2. Cilia y Paz3. De las muchas onras que todos4. emos recebido de su mano de5. Vmd. no se podia prometerme6. nos de la buelba onra i m[erce]d que Vmd.7. a echo a mi hijo de lo qual tengo8. la estimacion que merece9. quedando tan estimada dello10. que quisiera saberme suplicar11. comforme mi conocimien12. to en fin mi señor me remi13. to a que a Vmd. se lo page el cie14. lo alargandole los dias de la bi15. da y prosperos sucesos como16. espero en su dibina magestad17. le a de dar a Vmd. como esta re18. conocida se lo suplica y a mi hi19. jo le de lugar para que a cierte20. en todo a servirle a Vmd. tal21. nieto para que reconozca las22. 23. mercedes y fabores que vmd. le a echo24. y ace pageselo dios a Vmd. con [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "204:6860a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo33/204:6860a.JPG",
+      "url": "/legajos/legajo-33/images/204:6860a.JPG"
+    },
+    {
+      "filename": "205:6860b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo33/205:6860b.JPG",
+      "url": "/legajos/legajo-33/images/205:6860b.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "204:6860a.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-33/cartas/004944.json",
+  "primary_image_url": "/legajos/legajo-33/images/204:6860a.JPG"
+}

@@ -1,0 +1,38 @@
+{
+  "legajo_id": "12",
+  "id_carta": "1615",
+  "order_in_legajo": 123,
+  "signatura": "182_6208.JPG",
+  "nombre_carta": "Carta de Pedro Portocarrero Fernández de Córdoba y Aragón (VII conde de Medellín) a Pedro Santacilia y Pax",
+  "fecha_original": "31 de diciembre de 1650",
+  "lugar": "Madrid",
+  "remitente": "Pedro Portocarrero Fernández de Córdoba y Aragón (VII conde de Medellín)",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "La lletra no es veu bé Transcripción literal"
+  ],
+  "literal": [
+    "1. La lletra no es veu bé"
+  ],
+  "imagenes": [
+    {
+      "filename": "182_6208.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo12/182_6208.JPG",
+      "url": "/legajos/legajo-12/images/182_6208.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "182_6208.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (4)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-12/cartas/001615.json",
+  "primary_image_url": "/legajos/legajo-12/images/182_6208.JPG"
+}

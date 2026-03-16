@@ -1,0 +1,38 @@
+{
+  "legajo_id": "14",
+  "id_carta": "2022",
+  "order_in_legajo": 124,
+  "signatura": "209:2535.JPG",
+  "nombre_carta": "Carta de marqués de Aytona a Pedro Santacilia y Pax",
+  "fecha_original": "20 de octubre de 1661",
+  "lugar": "Madrid",
+  "remitente": "marqués de Aytona",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Con mucha estimación y gusto he recibido la carta de v. m. de los 2 de Julio por las noticias que la acompañan de su buena salud yo la tengo muy buena, gracias a Dios, y me asisten siempre muy buenos deseos de servirle y así será muy mal de no avisarme de todo lo que se ofreciere. No tengo correspondencia con el provincial de Aragón el P. M. Maurició de Lezama, me informare de quien es para escribirle por su recomendado de v. m. que lo haré con todo gusto. El Sr. D. Juan su hijo de v. m. está bueno y yo le estimo mucho por parecerse tanto a v. m. y en cualquier cosa que se le ofreciere le asistiré con muy buena voluntad. Guarde Dios a v. m. muchos años. Madrid y octubre 20 de 1661. De v. m. el marques de Aytona Sr. D. Pedro de Santacilia y Pax [1§] Transcripción literal"
+  ],
+  "literal": [
+    "1. Con mucha estimacion y gusto he recivido2. la carta de VM de los 2 de Julio por las3. notiçias que la acompañan de su buena salud4. yo la tengo muy buena gracias a Dios, y me 5. asisten siempre muy buenos deseos de ser6. virle y assi sara mui mal de no havi=7. sarme de todo lo que se offreciere.8. No tengo correspondencia con el Provincial9. de Aragon el Pa Mo Mauricio de Lezana me10. informare de quien es para escrivirle por11. su recomendado de VM que lo hare con12. todo gusto.13. El Sr. D. Juan su hijo de Vm esta bueno y yo le14. estimo mucho por parezerse tanto a VM15. y en qualquier cosa que se le offreciere le16. asistire con mui buena voluntad. Gde. Dios17. a VM mus. as. Md. y octtbre 20 de 1661 18. Sor. de vmd.19. Marques 20. de Aytona21. Sr. D. Pedro de Sta. Cecilia y Pax [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "209:2535.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo14/209:2535.JPG",
+      "url": "/legajos/legajo-14/images/209:2535.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "209:2535.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-14/cartas/002022.json",
+  "primary_image_url": "/legajos/legajo-14/images/209:2535.JPG"
+}

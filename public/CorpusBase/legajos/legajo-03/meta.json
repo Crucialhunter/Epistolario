@@ -1,0 +1,66 @@
+{
+  "legajo_id": "3",
+  "num_cartas": 23,
+  "num_imagenes": 42,
+  "rango_temporal": [
+    1660,
+    1668
+  ],
+  "remitentes_frecuentes": [
+    {
+      "name": "Jerónimo Pelegrín de Aragüés",
+      "count": 2
+    },
+    {
+      "name": "Antonio Juan Luis de la Cerda y Enríquez (VII Duque de Medinaceli)",
+      "count": 1
+    },
+    {
+      "name": "Felipe IV",
+      "count": 1
+    },
+    {
+      "name": "duque de Medinaceli",
+      "count": 1
+    },
+    {
+      "name": "Fernando de Teruel y Quesada",
+      "count": 1
+    }
+  ],
+  "destinatarios_frecuentes": [
+    {
+      "name": "Juan Miguel de Santacilia y Togores",
+      "count": 21
+    },
+    {
+      "name": "Luis de Guzmán Ponce de León",
+      "count": 1
+    },
+    {
+      "name": "Persona desconocida",
+      "count": 1
+    }
+  ],
+  "lugares_frecuentes": [
+    {
+      "name": "Madrid",
+      "count": 14
+    },
+    {
+      "name": "Mallorca",
+      "count": 6
+    },
+    {
+      "name": "Puerto de Santa María",
+      "count": 2
+    },
+    {
+      "name": "Alicante",
+      "count": 1
+    }
+  ],
+  "temas_frecuentes": [],
+  "warnings_count": 12,
+  "densidad_narrativa_estimada": "Media"
+}

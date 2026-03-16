@@ -1,0 +1,38 @@
+{
+  "legajo_id": "11",
+  "id_carta": "1461",
+  "order_in_legajo": 223,
+  "signatura": "397:5316.JPG",
+  "nombre_carta": "Carta de Bartolomé Mercadal a Pedro Santacilia y Pax",
+  "fecha_original": "28 de septiembre de 1651",
+  "lugar": "Ciutadella",
+  "remitente": "Bartolomé Mercadal",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Sr. don Pedro Santacilia Ausencia de tres años, ocupaciones de mi oficio y obligaciones de volver visitas no me dieron lugar de escribir a v. m. con el mismo bergatin en que vine. Esta excusa están legítima y ver dadera que v. m. será servido admitirla en satisfacción de la omisión que he tenido en cosa de tanta obligación. yo señor mío llegué a esta isla y casa de v. m. a 14 del presente con entera çalut gracias al autor de ella estimaré saber de la de v. m. como a tan aficionado servidor. Luego que llegue di la de v. m. al gobernador y no le tengo hablado del particular recomendado porque me consta no tenen un mal, pero tengo preve nido diligencias en donde podré hallar los yaga os que v. m. me tiene mandado en uno y otro procuraré quede v. m. servido y de lo que se ofreciere daré aviso. Al padre Domenech beso la mano y suplico a v. m. mande darle muchos recaudos a Dios que me guarde a v. m. como se lo suplico y tengo menester Ciudela y septiembre 28 de 1651 mayor servidor de v. m. que sus manos besa Sr. don Bartolomé Mercadal Mi señora Doñá Margarita y el abogado fiscal quedan muy buenos y luego seelio aquel lio en propia mano, a Dios gracias, [1§] Transcripción literal"
+  ],
+  "literal": [
+    "1. [^Sr. don Pedro Santacilia^] 2. Ausencia de tres años, ocupaciones de mi oficio 3. y obligaciones de bolver visitas no me dieron 4. lugar deescrivir a VM con el mismo bergatin 5. en que vine. Esta escusa estan legitima y ver 6. dadera que VM sera servido admitirla en 7. satisfacion de la ommicion que he tenido en cosa 8. de tanta obligacion=. Yo señor mio llegue a esta 9. isla y casa de VM a 14 del presente con entera 10. çalut gracias al autor della estimare saber de 11. la de VM como a tan afisionado servidor=. 12. Luego que llegue di la de VM al Sr. Governador y no le 13. tengo ablado del particular recomendado porque 14. me consta no tenen un mal, pero tengo preve 15. nido diligencias en donde podre allar los yaga 16. os que Vm me tiene mandado en uno y otro 17. procurare quede VM servido y de lo que se 18. ofreciere dare aviso=. Al padre Domenech 19. beso la mano y supo a Vm mande darle 20. muchos recaudos a Dios que me gde a VM 21. como se lo supo y tengo menester Ciudela 22. y sre 28 de 1651 23. Mayor serr de VM qsmb 24. Don Bartte Mercadal 25. Mi señora Doñá Margarita y el sr. abogado fiscal quedan 26. muy buenos y luego seelio aquel lio en propria mano a Dios grs [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "397:5316.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo11/397:5316.JPG",
+      "url": "/legajos/legajo-11/images/397:5316.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "397:5316.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-11/cartas/001461.json",
+  "primary_image_url": "/legajos/legajo-11/images/397:5316.JPG"
+}

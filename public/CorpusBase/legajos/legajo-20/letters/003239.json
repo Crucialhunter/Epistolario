@@ -1,0 +1,43 @@
+{
+  "legajo_id": "20",
+  "id_carta": "3239",
+  "order_in_legajo": 116,
+  "signatura": "258:6020a.JPG",
+  "nombre_carta": "Carta de Josep de Rocabertí a Pedro Santacilia y Pax",
+  "fecha_original": "20 de marzo de 1668",
+  "lugar": "Barcelona",
+  "remitente": "Josep de Rocabertí",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Rebí la carta d'nforma del {ESP. sargento} major Balell i no poso dubte ningun que v. m. té molt en sa memòria els afectes de nostra casa, i que jo no faltaré (durant me deu vida) a tot el que hagi ser del servei de v. m. i en eixa confiança folgaré que puc en tenir per ací al Sr. don Nicolas per a servir-lo en tot el que vulgui manar-nos, en raó de la mercè que té feta de capità de cavalls. Jo penso que l'{ESP. amigo} Balell haurà escrit a v. m. el que hi pot haver perquè est cavaller que en [?] governa no [?] de premiar serveis [?] sols la [?] paga dels que el [?] mes açò dic per entre els dos i que el Sr. don Nicolàs vinga amb esta advertència gran nova és la de lajust amb Portugal deixant apart altres raons que podrien causar [?] però el [?] governo i amb esta pau reforçam Flandes i Catalunya per [?] de [?] d'altesa i porta efectius [?] vuit mil infants espanyols i molta suma [1§] de diner (ja tindran aquí les capitulacions de Portugal) i per esta part [?] totes les tropes de Portugal que entre els tres ejercits pasan de set mil cavalls els inglesos que [?] al portugués [?] també amb què tindrem gros número de cavalleria i d'infanteria i diuen [?] se formarà en la primavera poderós exercit amb què podem estar de molt millor [?] {ESP. ànimo} que antes de la pau Déu ho encamini tot i guardi a v. m. com pot i desitjo. Barcelona i Març 20 de 1668. Servidor de v. m. que ses mans besa Don Josep de Rocaberti Sr. don Pedro Santacilia i Pax Transcripción literal"
+  ],
+  "literal": [
+    "1. Rebi la carta de Informa[?] del sargento maj- 2. or Balell y no poso dupte ningu en que 3. Vm te molt en sa memoria los affestes[?] de 4. nostra casa, y que yo no faltare ( durant me 5. deu vida ) a tot lo que haya[?] ser del servei[?] de 6. Vm y en exa confiansa folgare que pug- 7. am tenir per aci[?] al Sr. don Nicolas per a[?] ser- 8. virlo en tot lo que vulla manarnos 9. en raho de la merse que te feta de capita 10. de cavalls ya penso que el amigo Balell 11. haura escrit a Vm lo qui[?] pot haver perq 12. est[?] cavaller que ne[?] governa no [?] 13. [?] de premiar serveis[?] sols le[?] paga dels 14. quel [?] mes aso dich per entre los 15. dos y que lo Sr don Nicolas vinga ab esta 16. advertencia 17. gran nova es la del ajust ab portugal dex- 18. ant apart altras rahons que podrian causar[?] 19. pero lo [?] governo y ab esta pau 20. reforsam flandes y cataluña per [?] 21. de [?] de Altesa y porta efectius[?] 22. vuit mil infants españols y molta suma [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "258:6020a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo20/258:6020a.JPG",
+      "url": "/legajos/legajo-20/images/258:6020a.JPG"
+    },
+    {
+      "filename": "259:6020b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo20/259:6020b.JPG",
+      "url": "/legajos/legajo-20/images/259:6020b.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "258:6020a.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-20/cartas/003239.json",
+  "primary_image_url": "/legajos/legajo-20/images/258:6020a.JPG"
+}

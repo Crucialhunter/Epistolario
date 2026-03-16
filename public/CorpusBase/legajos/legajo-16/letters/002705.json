@@ -1,0 +1,38 @@
+{
+  "legajo_id": "16",
+  "id_carta": "2705",
+  "order_in_legajo": 191,
+  "signatura": "324:2205.JPG",
+  "nombre_carta": "Carta de Antoni Maimó a Pedro Santacilia y Pax",
+  "fecha_original": "13 de febrero de 1668",
+  "lugar": "Valencia",
+  "remitente": "Antoni Maimó",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Señor don Pedro Santacilia Por lo pasado no he tenido ocasión de escribir a v. s. por no haber tenido motivo de servirle en cosa alguna y estimaré de haber muchas para que v. s. conozca de haber acá un señor suyo besconesto a sus órdenes &ndach; llegue de Sardena en. 5 de este. con barca, en viaje de 7. días muy Prefiero [?], Gracias a Dios, de larguero. y en Cáller me fue encomendada de don Jaime Gavala la carta. para v. s. que va con esa. que siendo. de su gusto. mandara. avisarme. del recibo, mandándome siempre en que le syrva. quedando con besar sus manos. cuya persona guarde Dios felices años Valencia y 13 Febrero de 1668 susiervo de v. s. Antonio Mainon [1§] Transcripción literal"
+  ],
+  "literal": [
+    "1. [Margen izquierdo][^ Sr D Pedro Santa Cilia]2. Por lo passado no he tenido occasion de escrivir 3. a VS. por no haver tenido mottivo de servirle 4. en cosa alguna y estimare de haver muchas 5. para que VS conosca de haver aca un señor suyo 6. besconesto a sus ordenes ? llegue de Sardena 7. en .5. deste. Con barca, en viaje de 7. dias muy 8. Prefiero[?], Gracias a Dios, de larguero. y en Caller 9. me fue encomendada de Don Jayme Gavala 10. la Carta. para VS. que va con essa. que siendo. de 11. su gusto. mandara. avisarme. del recivo, - mandandome 12. siempre en que le syrva. quedando con besar sus 13. manos. Cuya Persona gue Dios felices anos 14. Valencia y 13 febrero de 1668 15. susiero de VS 16. Anto Mainon [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "324:2205.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo16/324:2205.JPG",
+      "url": "/legajos/legajo-16/images/324:2205.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "324:2205.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-16/cartas/002705.json",
+  "primary_image_url": "/legajos/legajo-16/images/324:2205.JPG"
+}

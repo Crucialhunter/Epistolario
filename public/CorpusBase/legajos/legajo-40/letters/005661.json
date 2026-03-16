@@ -1,0 +1,32 @@
+{
+  "legajo_id": "40",
+  "id_carta": "5661",
+  "order_in_legajo": 112,
+  "signatura": "037:13",
+  "nombre_carta": "Carta de Persona desconocida a Persona desconocida",
+  "fecha_original": "30 de octubre de 1663",
+  "lugar": "Mallorca",
+  "remitente": "Persona desconocida",
+  "destinatario": "Persona desconocida",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Nota breu que diu: a 30 octubre 1663 te me. Antoni Riera per compte del procurador reial vuitanta vuit ll. desset sous i quatre Sr. D. te per compte del salari de [?] [1§] Transcripción literal"
+  ],
+  "literal": [
+    "1. Nota breu que diu: A 30 8bre 1663 te me. Antoni Riera p[er] compte del Sr Procurador Raial vuitanta vuyt ll deset sous y quatre d. te p[er] compte del selari de [?]"
+  ],
+  "imagenes": [
+    {
+      "filename": "037:13.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo40/037:13.JPG",
+      "url": "/legajos/legajo-40/images/037:13.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "037:13.JPG",
+  "warnings": [],
+  "raw_source": "raw/legajos/legajo-40/cartas/005661.json",
+  "primary_image_url": "/legajos/legajo-40/images/037:13.JPG"
+}

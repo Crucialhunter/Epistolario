@@ -1,0 +1,38 @@
+{
+  "legajo_id": "19",
+  "id_carta": "7573",
+  "order_in_legajo": 296,
+  "signatura": "134_cg55.JPG",
+  "nombre_carta": "Carta de Juan García a Pedro Santacilia y Pax",
+  "fecha_original": "24 de septiembre de 1660",
+  "lugar": "Mallorca",
+  "remitente": "Juan García",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "[1§] Transcripción literal"
+  ],
+  "literal": [
+    "1."
+  ],
+  "imagenes": [
+    {
+      "filename": "134_cg55.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo19/134_cg55.JPG",
+      "url": "/legajos/legajo-19/images/134_cg55.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "134_cg55.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-19/cartas/007573.json",
+  "primary_image_url": "/legajos/legajo-19/images/134_cg55.JPG"
+}

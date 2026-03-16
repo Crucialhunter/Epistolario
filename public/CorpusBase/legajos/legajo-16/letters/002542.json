@@ -1,0 +1,43 @@
+{
+  "legajo_id": "16",
+  "id_carta": "2542",
+  "order_in_legajo": 28,
+  "signatura": "047:2042a.JPG",
+  "nombre_carta": "Carta de Diego Matías de Aragüés a Pedro Santacilia y Pax",
+  "fecha_original": "26 de febrero de 1667",
+  "lugar": "Madrid",
+  "remitente": "Diego Matías de Aragüés",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Por Barcelona recibo la carta de v. s. de 16 del corriente, holgándome goce de muy buena salud como se la deseo, todas las cartas de v. s. hasta hoy de recibido y v. s. no me dice haya recibido las mías tantas como tengo escritas. En este año y en los últimos del pasado, holgaré saber hayan llegado a manos de v. s. En los negocios no tiene v. s. que tener cuidado que le tengo como propio mío y en particular tengo dispuesto el memorial para lo del oficio y aguardo lo más para ejecutarlo, que el señor don Nicolas salga de casa de los pajes con salud para hacer las diligencias. Está mejorado de su indisposición y no es cosa de cuidado. Siento mucho haya dado a v. s. disgusto en lo que obró cuando llegó a Barcelona, son mozos y les parece que todo se ha de llevar a rezar. V. s. no tome por esto pena alguna que es lo que importa, hartas verdades han salido de las que yo le tengo escrito a v. s. y por decirle lo que le convenía venimos ha estado de estar enemistados. Esto no viene a importar que yo siempre he de estar a las órdenes de v. s. y procuraré servirle en cuanto fuere posible. Remítame a todo lo demás a lo que tengo escrito por todas [1§] partes que ya habrán llegado a manos de v. s. mis cartas. Por acá todo está suspenso y no hay novedad particular, ocho días a esta de [?] aquí el señor Juan, presúmese irá a Badajoz, o a Flandes, y para esta parte se hacen levas de gente. El señor don Miguel Salva todavía esta despació, ni trata de ese viaje ni sacar los despachos. V. s. me mande le sirva que sus manos besamos doña Margarita y yo y las de mi señora doña Leonor y el señor don Juan y todos esos señores mil veces y guarde Dios los miles años que le deseo. Madrid a, 26 de febrero de 1667. Besa la mano de v. s. su mayor servidor, Diego Matias de Aragues Señor don Pedro Santacilia y Pax Transcripción literal"
+  ],
+  "literal": [
+    "1. Por Barçelona Reçivo la carta de Vs. de 16 del co2. rriente, olgandome goce de muy buena salud como 3. se la desseo, todas las cartas de Vs hasta oy de Re4. çivido y Vs. nome diçe aya Reçivido las mias tantas 5. Como tengo escritas Eneste año y en los iltimos del 6. pasado, olgare saber ayan llegado amanos de Vsª 7. En los negocios no tiene Vs quetener cuydado quele 8. tengo Comopropío mio y Enparticular tengo dispto 9. el memorial para lo delofficio y aguardo lomas 10. para Executarlo que el señor don Nicolas salga 11. de cassa de los pajes con salud para haçer las dili12. gas esta mejorado desu Yndispn y no es cossa de cuyda13. do, Siento mucho ayadado a Vs. disgusto enloque 14. obro quando llego a Barçelona son Moços y les pare15. çe que todo se ha de llevar a Resar, Vs no tome por 16. esto pena alga que es loque importa, artas berda17. des an salido de las que Yo letengo Escríto a VS y 18. por deçirle loqie le convenia benimos a estado de 19. estar Inamistados, Esto noviene a importar que 20. Yo siempre he deestar a las ordenes de Vs y procu21. rare servirle enquanto fuere pusible, remitame 22. a todo lodemas alo que tengo escrito por todas [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "047:2042a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo16/047:2042a.JPG",
+      "url": "/legajos/legajo-16/images/047:2042a.JPG"
+    },
+    {
+      "filename": "048:2042b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo16/048:2042b.JPG",
+      "url": "/legajos/legajo-16/images/048:2042b.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "047:2042a.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (3)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-16/cartas/002542.json",
+  "primary_image_url": "/legajos/legajo-16/images/047:2042a.JPG"
+}

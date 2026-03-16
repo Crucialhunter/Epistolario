@@ -1,0 +1,38 @@
+{
+  "legajo_id": "18",
+  "id_carta": "3084",
+  "order_in_legajo": 120,
+  "signatura": "191:4923.JPG",
+  "nombre_carta": "Carta de Pedro de Verí a Pedro Santacilia y Pax",
+  "fecha_original": "9 de agosto de 1664",
+  "lugar": "Madrid",
+  "remitente": "Pedro de Verí",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Amb la de v. s. del correu passat tinc particular gust per partí sipar-me d'esa salut de v. s. que no liprospere amb feliç viatge a Mallorca El estat demo negoci és que puja la consulta al rei ysies gren resolució en ella tractarem de nostre viatge elmes quive folgar-me que v. s. m'honre donant-me moltes ordres de son servei que per a mi seran de molta estimacio, {ESP. cuya} persona guardi el Cel molts anys Madrid i agost a 9 de 1664 de v. s. que ses mans besa don Pedro de Veri Sr. don Pedro de Santacilia i Pax [1§] Transcripción literal"
+  ],
+  "literal": [
+    "1. Ab la de V.Sª del correu passat 2. tinc particular gust per parti-3. siparme dese salud de V.Sª 4. que no sr liprospere ab felis 5. viatge a Mallca 6. El estat demo negoci es que 7. puja la consulta al Rey ysies 8. gren resolucio en ella tractarem 9. de nostre viatje elmes quive 10. folgarme que V.Sª me honre 11. donantme moltas ordes deson 12. servey que para mi seran de 13. molta estimacio, cuya persona 14. gde el Çel molts anys Ma-15. drid y Agost a 9 de 1664 16. De VSª Sr q s[] m[] b[] 17. Don Pedro de Veri18. [Margen izquierdo][^ Sr Don Pedro de Sta Cilia y Pax]19. [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "191:4923.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo18/191:4923.JPG",
+      "url": "/legajos/legajo-18/images/191:4923.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "191:4923.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-18/cartas/003084.json",
+  "primary_image_url": "/legajos/legajo-18/images/191:4923.JPG"
+}

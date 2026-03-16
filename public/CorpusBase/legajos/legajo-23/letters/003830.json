@@ -1,0 +1,38 @@
+{
+  "legajo_id": "23",
+  "id_carta": "3830",
+  "order_in_legajo": 84,
+  "signatura": "163:3243.JPG",
+  "nombre_carta": "Carta de Sebastià Ballester a Pedro Santacilia y Pax",
+  "fecha_original": "9 de junio de 1644",
+  "lugar": "Alcudia",
+  "remitente": "Sebastià Ballester",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Molt me pesa no poder-me {ESP. despedir} de sa sria. En tot m'he {ESP. despedit} de mi sra. Nos n'anarem dematí i no tingué ocasió, tinguerem molt bon temps. Arribàrem a les 3 hores de [?] de migdia en Alcudia en el [?] Sr. [?] alegra lo que [?] noves a v. sra. de que han mort 8 homes, dit [?] escriurà mes llarc. Molt me pesa que un còmit de galera digués que jo li havia pres una olleta de safrà. Dit còmit era de la mia galera, i és fama que també fou en la mia presa de roba com a encobridor de dit robo, encara que jo ho hagués fet, no en haguera aracabalat [?] en el sr. paborde mil besa mans [?] i a totes les sres. de sa casa, i al pare Domenech a v. sria. molts anys amb salut, augmenta en gràcia [?] adios. De la ciutat d'Alcudia, juny als 9 de 1644 Capellà de v. s. . Sebastia Ballester Sr. don Pedro Santacilia [1§] Transcripción literal"
+  ],
+  "literal": [
+    "1. M.Sr.2. Molt me pessa no poderme despedir de su sria.3. en tot ma despedide mi sra. nos ne anare demati y 4. no tingue ocasio, tinguere molt bon temps aribare5. a les 3 hores de [FORAT] de mixdia an alcudia anel 6. lo Sor. [FORAT] legra lo que [?]7. noves a V.Sra. de que an mort 8. homens dit Sr.[?]8. escriura mes llarc. molt me pesa que un com[it]9. de galera digues que jo li abia pres une olleta de10. safra dit comit era de la mia galera y es fama q[ue]11. tanbe fonc en la mia pressa de roba co a ancob[ri]12. dor de dit robo ancare que jo ho agues fet, non13. aguera aracabalat anel Sr. poborde mill b m14. y a totes las Sres. de sa cassa y al pare domenec gde [Deu] 15. a V.Sria. molts añys an salut aumenta en gracia[?]16. adios de la Ciutat del Cudia juñy als 9 de17. 164418. Capella de V.Sria.19. Sebastia ballester20. Sr. Don Pedro, Sta. Cilia [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "163:3243.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo23/163:3243.JPG",
+      "url": "/legajos/legajo-23/images/163:3243.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "163:3243.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-23/cartas/003830.json",
+  "primary_image_url": "/legajos/legajo-23/images/163:3243.JPG"
+}

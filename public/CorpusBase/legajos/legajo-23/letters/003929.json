@@ -1,0 +1,38 @@
+{
+  "legajo_id": "23",
+  "id_carta": "3929",
+  "order_in_legajo": 184,
+  "signatura": "324:3342.JPG",
+  "nombre_carta": "Carta de Pedro Marqués a Pedro Santacilia y Pax",
+  "fecha_original": "12 de julio de 1669",
+  "lugar": "Madrid",
+  "remitente": "Pedro Marqués",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Señor mío. La carta con que v. s. me favorece he recibido con la estimación que debo por las buenas nuevas que me da de su salud y del nuevo empleo del Sr. D. Nicolás, yo espero en Nro. Sr. que ha de conceder a v. s. mucha vida y ha de ver larga sucesión de este matrimonio. Al Sr. D. Blasco he dado la carta de v. s. y en respondiendo cuidaré de enviar la carta a v. s. quedando siempre dispuesto a obedecer y servir a v. s. como tengo obligación. Guarde Dios a v. s. muy largos años como deseo. Madrid a 12 de julio de 1669. Besa la mano v. s. su mayor servidor D. Pedro Marques Suplico a v. s. mande remitir la inclusa a mi padre sin enviarla a otra mano. Sr. D. Pedro de Santacilia Transcripción literal"
+  ],
+  "literal": [
+    "1. Señor mio. La carta con que VS. me favo2. reze he recivido con la estimacion que devo3. por las buenas nuevas que me da de su salud4. y del nuevo empleo del Sr. D. Nicolas5. Yo espero en Nro Sr. que ha de conceder a VS.6. mucha vida y ha de ver larga sucession7. deste matrimonio. Al Sr. D. Blasco he8. dado la carta de VS. y en respondiendo cuy9. dare de enviar la Carta a VS. quedando10. siempre dispuesto a obedecer y servir a VS.11. como tengo obligacion. Gde Dios a VS.12. muy largos años como desseo Md a 12 de13. Jullio de 166914. B l[a] Ma VS. su mor sdor15. D. Pedro[?] Marquez16. [^Sup[li]co a VS. mande17. remitir la inclusa18. a mi Padre sin en19. viarla á otra mano]20. Sr. D. Po. de Santacilia [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "324:3342.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo23/324:3342.JPG",
+      "url": "/legajos/legajo-23/images/324:3342.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "324:3342.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-23/cartas/003929.json",
+  "primary_image_url": "/legajos/legajo-23/images/324:3342.JPG"
+}

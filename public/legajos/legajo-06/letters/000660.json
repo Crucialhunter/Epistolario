@@ -1,0 +1,43 @@
+{
+  "legajo_id": "6",
+  "id_carta": "660",
+  "order_in_legajo": 160,
+  "signatura": "240-124a",
+  "nombre_carta": "Carta de Pedro Tomás Cifre a Cecilia Zaforteza y Sureda de Sant Martí",
+  "fecha_original": "26 de abril de 1776",
+  "lugar": "Palma",
+  "remitente": "Pedro Tomás Cifre",
+  "destinatario": "Cecilia Zaforteza y Sureda de Sant Martí",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Palma y abril 26 de 1776. Muy Señora mía, y de mi mayor veneración. Teniendo yo muy presente cuanto se ha dignado hacer v. s. (que a la verdad es muchísimo) a favor de mi amada sobrina sor María Teresa, ya para su ingreso en la religión, ya en la continuación de beneficios con tanta caridad hasta su profesión tan solemne y lustrosa, no tengo expresiones bastantes para reconocer el afecto verdaderamente de cariñosa espiritual madre, y por tanto más noble que la natural, que tan bizarramente se ha mostrado v. s. Yo la rindo humildes gracias por tanta beneficencia; y como siempre seré corto en darlas a v. s., suplico y rogaré de continuo a Dios que la remunere esas obras de caridad en multiplicados bienes espirituales, en crecidos aumentos de su divina gracia y en felicisísimos años de larga vida para el empleo y ejercicio de heroicas virtudes, especialmente de la que es reina de todas ellas, la caridad [1§] para con Dios, que siempre influye a socorrer a los pobres, [?] en cuyas manos logre finalmente v. s. en el Cielo seguros y mejorados los bienes temporales que ha expendido y expende en crecidas limosnas. Asimismo, como supongo sabe v. s., muy buenas noticias de sor María Teresa, que ese arbolito que v. s. plantó en el jardín ameno de las religiosísimas Madres Teresas ha dado sabrosos frutos y todo cede en gloria de v. s. Por ello, pues, la doy repetidas norabuenas y parabienes, y que los goce muchísimos años, y aún mayores de cada día con los adelantamientos en virtudes de ésta mi sobrina, y la más respetuosa atención a v. s. de ésta su amada hija. Apreciaré de v. s. me emplee en cosas de su agrado para segura finca de mi gratitud y por los deseos de servirla puntualmente en cuanto quiera favorecerme con sus preceptos. Dios guarde a v. s. muchos años como se lo ruego. Besa las manos de v. s. su muy atento y obligado servidor, Fr. Pedro Tomas Cifre, de la Orden de Na. Sra. del Carmen. Mi Sra. Dña. Cecilia Zaforteza y Berga. Transcripción literal"
+  ],
+  "literal": [
+    "1. Palma, y Abril 26 de 1776 2. Muy Señora mia, y de mi mayor 3. veneracion. 4. Teniendo yo muy presente quanto se ha digna- 5. do hacer V.Sa. (que à la verdad es muchisi- 6. mo) a favor de mi amada sobrina Sor Ma- 7. ria Teresa, ya para su ingreso en la Religi- 8. on, ya en la continuacion de beneficios con 9. tanta caridad hasta su Profesion tan solem- 10. ne, y lustrosa; no tengo expresiones bastan- 11. tes para reconocer el afecto verdaderamen- 12. te de cariñosa espiritual Madre, y por tanto 13. mas noble, que la natural, que tan bisarra- 14. mente se ha mostrado V.Sa. yo la rindo hu- 15. mildes gracias por tanta beneficencia; y co- 16. mo siempre seré corto en darlas á V.Sa. supli- 17. co, y rogaré de continuo á Dios, que la re- 18. munére esas obras de caridad en multipli- 19. cados bienes espirituales, en crecidos aumen- 20. tos de su Divina gracia, y en felicisisimos 21. años de larga vida, para el empleo y eger- 22. cicio de heroicas virtudes, especialmente de 23. la que es Reyna de todas ellas , la Caridad [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "240-124a.jpg",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo06/240-124a.jpg",
+      "url": "/legajos/legajo-06/images/240-124a.jpg"
+    },
+    {
+      "filename": "241-124b.jpg",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo06/241-124b.jpg",
+      "url": "/legajos/legajo-06/images/241-124b.jpg"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "240-124a.jpg",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (2)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-06/cartas/000660.json",
+  "primary_image_url": "/legajos/legajo-06/images/240-124a.jpg"
+}

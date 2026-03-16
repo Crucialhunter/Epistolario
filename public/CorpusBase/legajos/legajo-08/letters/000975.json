@@ -1,0 +1,43 @@
+{
+  "legajo_id": "8",
+  "id_carta": "975",
+  "order_in_legajo": 49,
+  "signatura": "263-171a copia",
+  "nombre_carta": "Carta de Rafael García a Persona desconocida",
+  "fecha_original": "25 de octubre de 1642",
+  "lugar": "Lugar sin especificar",
+  "remitente": "Rafael García",
+  "destinatario": "Persona desconocida",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "El capitán ha resuelto dejar en esta villa un hombre con el despacho por si acaso cuando salga en busca de las galeras estarán ellas acá, y así suplico a v. s. que sea servido mandar al baile de Mahón y al del Mercadal que si llegasen luego despachen un propio a v. s. con aviso porque el que quedara con el despacho vaya a darle y que cada uno de ellos tenga orden de avisarlo así a las galeras. Guarde Dios a v. s. como deseo. De la tartana, a 25 de octubre 1642. El [?] Rafael [?] y Garcia. Señor gobernador. Acá tenemos hombre que llevará la carta a Mahón que [?] xpol [?] carreres [?] [1§] Al almirante Sr. don Pedro Santacilia, gobernador y capitán general de esta isla. Guarde Dios. Transcripción literal"
+  ],
+  "literal": [
+    "1. El Cap<> ha resuelto dexar enesta villa 2. unhombre con eldespacho porsi acaso 3. quando salga en busca delas galeras 4. estaran ellas aca, Yassy supp< > aV.S. q 5. sea servido mandar albayle deMahon 6. yaldel Marcadal q si llegassen lue- 7. go despachen un propio a V.S. con avis[o] 8. porq el que quedaracon eldespacho 9. vaya adar[l]e? y q cada uno dellos ten- 10. ga orden de avisar lo assy alas galeras 11. g< > dios aV.S. como deseo dela tar- 12. tana a. 25. de 8< > 1642 13. El a? Rafael a? y Garçia 14. S< > G< > 15. aca tenemos hombre q llevara 16. lacarta a Mahon queu?? xpol?? 17. carreres?? 18. Al Alm< > don Pedro 19. S< > Cilia G< > y Cap< > 20. g< > desta Isla g< > dios [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "263-171a copia.jpg",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo08/263-171a copia.jpg",
+      "url": "/legajos/legajo-08/images/263-171a copia.jpg"
+    },
+    {
+      "filename": "263-171b copia.jpg",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo08/263-171b copia.jpg",
+      "url": "/legajos/legajo-08/images/263-171b copia.jpg"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "263-171a copia.jpg",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-08/cartas/000975.json",
+  "primary_image_url": "/legajos/legajo-08/images/263-171a copia.jpg"
+}

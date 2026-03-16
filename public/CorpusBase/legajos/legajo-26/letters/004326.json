@@ -1,0 +1,45 @@
+{
+  "legajo_id": "26",
+  "id_carta": "4326",
+  "order_in_legajo": 61,
+  "signatura": "088:3420.JPG",
+  "nombre_carta": "Carta de Vicente Santolaria a Pedro Santacilia y Pax",
+  "fecha_original": "4 de diciembre de 1639",
+  "lugar": "Huesca",
+  "remitente": "Vicente Santolaria",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Por no haber sabido donde v. m. andaba este verano, no he escrito para que nos hiciese saber de su salud, pues de ella me tengo por muy enteresado. Estos Sres. en mi compañía la han tenido, gloria a Dios, y han estudiado con cuidado como v. m. verá por esas conclusiones que hoy ha tenido el Sr. D. Ramon con mi hermano de la catedra de prima de leyes, ha salido muy lúcido, prosiguiendo el lucimiento de las otras que v. m. le honró. Estas han sido de turno que son de las que tiene cada catedrático por su semana, y así no tenían dilación. Dígolo esto porque estuviera bien que el Sr. D. Martin tuviera las suyas antes que el Sr. (Martin) Ramon las (suyas) segundas, pero no ha sido la falta suya porque ha[ce] días las tiene estudiadas, sino por no haber llegado el dinero de mi Sra. la condesa, y aunque es verdad ha[ce] meses lo he escrito; pero me escriben lo envían luego, y aún no se sabe cuando llegará. Y así por tener más confianza y puntualidad en v. m. le doy noticia de ello, pues cumplo con lo que me mandó, que fue le hiciese saber cuando el Sr. don Martín hubiese de tener conclusiones. Así lo hago advirtiendo a v. m. que no está en otro la falta, suplicándole la puntualidad en esto, y en mandarme en su servicio, a quien Dios guarde felices años. Huesca y diciembre 4 de 1639. Capellán de v. m. el Dr. Vicente Santolaria Sr. D. Pedro Santacilia y Pax Transcripción literal"
+  ],
+  "literal": [
+    "1. Por no haver sabido donde V.m. andaba este verano, no he2. escrito, para que nos hiciese saber de su salud pues della me tengo3. por muy enteresado. Estos Ses. en mi compañia la han4. tenido gloria à Dios y han estudiado con cuydado, como V.m.5. vera por essas conclusiones q oy ha tenido el Sor. D. Ramon6. con mi hermano de la catedra de prima de leyes, ha salido7. muy lucido, prosiguiendo el lucimiento de las otras q V.m. le honrro8. Estas han sido de turno q son de las que tiene cada catredatico9. por su semana; y assi no tenian delasion; digolo esto proque10. estubiera bien, que el Sor. D. Martin, tubiera las sluyas antes 11. q el Sor. (^Martin) Ramon las (^suyas) segundas; pero no ha sido la falta12. suya porque hà dias las tiene estudiadas; sino por no haber13. llegado el dinero de mi Sra. la Condessa; y aunque es verdad14. hà meses lo he escrito; pero me escriben lo imbian luego, y aun 15. no se sabe quando llegara. Y assi por tener mas confiansa y16. puntualidad en V.m. le doy notisia della, pues cumplo con17. lo q me mando que fue le hiciese saber quando el Sor. Don18. Martin hubiese de tener conclusiones; assi lo hago advirtiendo19. à V.m. que no està en otro la falta, supplicandole la puntua20. lidad, en esto, y en mandarme en su servicio, à quien21. Dios ge feliçes años. Huesca y Deciembre 4 de 163922. Capellan de V.m. el Dor. Ve. Santolaria23. Sor. D. Pº Sa. Cilia y Pax [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "088:3420.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo26/088:3420.JPG",
+      "url": "/legajos/legajo-26/images/088:3420.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "088:3420.JPG",
+  "warnings": [
+    {
+      "code": "IMAGE_DOWNLOAD_FAIL",
+      "message": "HTTP 404",
+      "context": {
+        "url": "http://santacilia.info/intranet2/img/Legajo26/088:3420.JPG"
+      }
+    },
+    {
+      "code": "IMAGE_COUNT_MISMATCH",
+      "message": "Imágenes detectadas (1) != descargadas (0)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-26/cartas/004326.json",
+  "primary_image_url": "/legajos/legajo-26/images/088:3420.JPG"
+}

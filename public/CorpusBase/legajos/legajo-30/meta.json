@@ -1,0 +1,70 @@
+{
+  "legajo_id": "30",
+  "num_cartas": 238,
+  "num_imagenes": 360,
+  "rango_temporal": [
+    1619,
+    1667
+  ],
+  "remitentes_frecuentes": [
+    {
+      "name": "Persona desconocida",
+      "count": 49
+    },
+    {
+      "name": "Juan Seguals",
+      "count": 22
+    },
+    {
+      "name": "Diego Matías de Aragüés",
+      "count": 8
+    },
+    {
+      "name": "Josep Esporrín",
+      "count": 7
+    },
+    {
+      "name": "Juan Miguel de Santacilia y Togores",
+      "count": 7
+    }
+  ],
+  "destinatarios_frecuentes": [
+    {
+      "name": "Pedro Santacilia y Pax",
+      "count": 121
+    },
+    {
+      "name": "Persona desconocida",
+      "count": 116
+    },
+    {
+      "name": "No consta - Probablemente Pedro Santacilia y Pax",
+      "count": 1
+    }
+  ],
+  "lugares_frecuentes": [
+    {
+      "name": "Mallorca",
+      "count": 139
+    },
+    {
+      "name": "Madrid",
+      "count": 37
+    },
+    {
+      "name": "Valencia",
+      "count": 11
+    },
+    {
+      "name": "Lugar sin especificar",
+      "count": 7
+    },
+    {
+      "name": "Ciutadella",
+      "count": 7
+    }
+  ],
+  "temas_frecuentes": [],
+  "warnings_count": 174,
+  "densidad_narrativa_estimada": "Media"
+}

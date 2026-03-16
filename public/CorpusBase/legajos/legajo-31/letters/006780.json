@@ -1,0 +1,43 @@
+{
+  "legajo_id": "31",
+  "id_carta": "6780",
+  "order_in_legajo": 19,
+  "signatura": "028:1531a.JPG",
+  "nombre_carta": "Carta de Llucià Arbona a Pedro Santacilia y Pax",
+  "fecha_original": "21 de diciembre de 1660",
+  "lugar": "Sóller",
+  "remitente": "Llucià Arbona",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Molt illstre senyor Rebra Vosenyoria pel portador d'esta dos Vovons d'Agrura i perdona de la misèria i tinga molt santes i alegres festes Amb tots els de sa casa nostre el guardi molts anys de Soller i desembre als 21 1660 Son Humil tinent llucia Arbona Al molt Illtre Pdor Real Al molt Illtre Senyor don Pedro de Santacilia i Pax cavaller del Habit de Calatrava procurador de sa magestat. que Déu el guardi molts anys ets Ciutat Transcripción literal"
+  ],
+  "literal": [
+    "1. Molt illstre señor 2. Rebra Voseñoria per lo portador desta dos Vovons de Agru3. ra y perdona de la miseria y tinga molt santas y alegres festes 4. Ab tots los de sa casa nostro Sr lo gde. molts anys de 5. Soller y desembre als 21 1660 6. Son Humil tinent llucia Arbona 7. Al molt Illtre 8. Pdor Real [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "028:1531a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo31/028:1531a.JPG",
+      "url": "/legajos/legajo-31/images/028:1531a.JPG"
+    },
+    {
+      "filename": "029:1531b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo31/029:1531b.JPG",
+      "url": "/legajos/legajo-31/images/029:1531b.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "028:1531a.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (2)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-31/cartas/006780.json",
+  "primary_image_url": "/legajos/legajo-31/images/028:1531a.JPG"
+}

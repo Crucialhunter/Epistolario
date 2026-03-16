@@ -1,0 +1,38 @@
+{
+  "legajo_id": "31",
+  "id_carta": "6975",
+  "order_in_legajo": 215,
+  "signatura": "314:1726.JPG",
+  "nombre_carta": "Carta de Jerónimo Mancho a Pedro Santacilia y Pax",
+  "fecha_original": "26 de julio de 1664",
+  "lugar": "Madrid",
+  "remitente": "Jerónimo Mancho",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Ja v. s. sabe que mi afecto a su servicio no necesita de cumplimentos pues sin ellos estoy y estaré siempre muy dispuesto a obedecer los mandatos de v. s. Veo la detención de v. s. en esa ciudad donde juzgo invernara v. s. si la de aguardar la resolución [?] señor Dios guarde a v. s. los muchos años que deseo Madrid a 26 de julio de 1664. Besa la mano de v. s. su más afecto Ser. Jeronimo Mancho No escribo a Pelegrin por juzgarle de vuelta por [?] Sr. don Pedro de Santacilia y Pax [1§] Transcripción literal"
+  ],
+  "literal": [
+    "1. Ja V. S. sabe que mi afecto a su servicio 2. no necesita de cumplimentos pues sin ellos 3. estoy y estare siempre muy dispuesto a 4. obedecer los mandatos de V. S. 5. Veo la detencion de VS. en esa Ciudad donde 6. juzgo invernara V. S. si la de aguardar 7. la resolucion [?] señor Dios Gde a V. S. 8. los muchos años q desseo Md a 26 de 9. Julio de 1664. 10. B. l. m. de V. S. 11. su mas afecto Ser. 12. Geronymo Mancho 13. No escrivo a Pelegrin por juzgarle de 14. buelta por [?] 15. Sr don Pº. de Santacilia y Pax [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "314:1726.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo31/314:1726.JPG",
+      "url": "/legajos/legajo-31/images/314:1726.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "314:1726.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-31/cartas/006975.json",
+  "primary_image_url": "/legajos/legajo-31/images/314:1726.JPG"
+}

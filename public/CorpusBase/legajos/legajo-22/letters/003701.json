@@ -1,0 +1,43 @@
+{
+  "legajo_id": "22",
+  "id_carta": "3701",
+  "order_in_legajo": 83,
+  "signatura": "150:5070a.JPG",
+  "nombre_carta": "Carta de Pedro Monleón a Pedro Santacilia y Pax",
+  "fecha_original": "25 de octubre de 1648",
+  "lugar": "Madrid",
+  "remitente": "Pedro Monleón",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Sr. D. Pedro Santacilia y Pax, mi Sr. No sé cuando han de llegar mis cartas a sus manos de v. m. pues de ninguna de ellas tengo respuesta ni avisos de su recibo. Por ellas he dado las noticias que he podido y son que la privanza está como estaba sin que haya novedad. Los negocios que hallamos aquí de mala digestión no se sabe en que han de parar. Su majestad, Dios le guarde, está ya bueno. Sea su divina majestad bendito por este bien. Mañana se parte al Escorial y el de Maqueda para la jornada de la reina nra. Sra. volviendo su majestad, dicen se embarca en Malaga y pasa a Génova con grandes pasaportes para poder pasar por Cataluña y Francia. Medina de las Torres está ya bueno. De Francia se cuentan nuevas de grandes alborotos, y que asisten a los alterados los del parlamento y que piden tres cosas: paz con España, franqueza de gabelas y que Maximo sea depuesto de su privanza. Esto tiene mucho fundamento. Podrá ser que ahí le tengan [1§] también, no nos estaría mal, pero Tortosa se ha de recuperar para que no nos veamos en peores trabajos. No sabemos en que han de parar este año nras. armas, déles Nro. Sr. los sucesos que hemos menester y a v. m. me guarde como deseo. Madrid y octubre 25 de 1648. De v. m. su mayor servidor que su mano besaPedro de Monleon Transcripción literal"
+  ],
+  "literal": [
+    "1. Sr. D. Pº Sta. Cilia2. y Pax mi Sr.3. No se quando han de llegar mis Cartas a sus4. manos de V.M. pues de ning[un]a dellas5. tengo respuesta ni avisos de su recibo. Por ellas6. he dado las noticias que he podido y son q[ue] la7. privança esta como estava sin que haya novedad, Los 8. negocios q[ue] hallamos aqui de mala digestion no se9. sabe en q[ue] han de parar. Su Magd. Dios le gde. esta10. ya bueno sea su divina Magd. bendito por este11. bien, mañana se parte al escurial. Y el de 12. Magueda para la Jornada de la Reyna nra. Sra.13. bolviendo su Magd. dizen se embarca en Malaga y14. passa a Genova con grandes passaportes para poder passar15. por Cath[aluñ]a y Francia Medina de las Torres esta16. ya bueno. de Francia se cuenta[n] nuevas de grandes17. alborotos, y que assisten a los Alterados los del Par= 18. lamento y q[ue] piden tres cosas- Paz con españa, franqueza19. de gabelas y q[ue] Mazcimo sea depuesto de su privanza20. esto tiene mucho fundamento Podra ser q[ue] ahi le tengan [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "150:5070a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo22/150:5070a.JPG",
+      "url": "/legajos/legajo-22/images/150:5070a.JPG"
+    },
+    {
+      "filename": "151:5070b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo22/151:5070b.JPG",
+      "url": "/legajos/legajo-22/images/151:5070b.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "150:5070a.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-22/cartas/003701.json",
+  "primary_image_url": "/legajos/legajo-22/images/150:5070a.JPG"
+}

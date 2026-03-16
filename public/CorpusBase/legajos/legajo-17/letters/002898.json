@@ -1,0 +1,38 @@
+{
+  "legajo_id": "17",
+  "id_carta": "2898",
+  "order_in_legajo": 163,
+  "signatura": "280:1440.JPG",
+  "nombre_carta": "Carta de Basilio de Castellví y Ponce a Pedro Santacilia y Pax",
+  "fecha_original": "2 de junio de 1660",
+  "lugar": "Valencia",
+  "remitente": "Basilio de Castellví y Ponce",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Aunque conozco la falta de dinero con que están todas las recetas y que la de ese reino sin ninguna duda padecera este achaque no me ha sido posible negarme por habérmelo pedido persona muy de mi obligación a suplicar a v. s. como lo hago se sirva de ayudar a facilitar la cobranza de 20 ducados de que mi señora doña Leonor Villalonga [?] ha hecho paga, a don Miguel Serrano de Amezquita de los reditos que S. M. tiene hecha merced a dicha Sa. doña Leonor que son 300 L sobre esa Recepta, v. s. perdone este enfado y me haga el favor que fuere posible que estimaré infinito que conozcan en el efecto de este negocio cuanto vale para con v. s. mi intercesión Dios guarde a v. s. muchos años como deseo Valencia y 2 de junio de 1660 Beso a v. s. sus manos, su mayor servidor don Basilio de Castellvi y Ponce Sr. D. Pedro de Santacilia y Pax. [1§] Transcripción literal"
+  ],
+  "literal": [
+    "1. Aunque conozco la falta de dinero con que estan todas las2. Recetas y que la deese Reyno sin ninguna duda padecera3. este achaque nomeasido posible negarme por haverme4. lo pedido persona mui de mi obligacion a suplicar a VS5. Como lo hago se sirva de ayudar a façilitar la cobrança6. de 20 ducados de que mi Señora doña Leonor Valonga[?]7. ahecho paga, a don Miguel Serano de Amezquita de los8. Reditos que S.M. tiene hecha merced a dha Sa. Doña9. Leonor que son 300 L sobre esa Recepta, VS perdone10. este emfado y me ha el fabor que fuere posible ques11. timare ynfinito que conozcan enel efeto deste negoçio12. Cuanto bale para con VS mi intercesion Dios guarde a VS13. muchos Años como deseo Valencia y 2 de Junio de < 1>66014. B a VS s mo su mor sdor15. Don Basilio de Castelví16. i Ponçe17. Sr. D Po de Sta. Silia y Pax. [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "280:1440JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo17/280:1440JPG",
+      "url": "/legajos/legajo-17/images/280:1440JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "280:1440JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-17/cartas/002898.json",
+  "primary_image_url": "/legajos/legajo-17/images/280:1440JPG"
+}

@@ -1,0 +1,61 @@
+{
+  "legajo_id": "37",
+  "id_carta": "5452",
+  "order_in_legajo": 38,
+  "signatura": "088:36a",
+  "nombre_carta": "Carta de Persona desconocida a Persona desconocida",
+  "fecha_original": "1 de enero de 1675",
+  "lugar": "Mallorca",
+  "remitente": "Persona desconocida",
+  "destinatario": "Persona desconocida",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Transcripción literal"
+  ],
+  "literal": [],
+  "imagenes": [
+    {
+      "filename": "088:36a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo37/088:36a.JPG",
+      "url": "/legajos/legajo-37/images/088:36a.JPG"
+    },
+    {
+      "filename": "089:36b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo37/089:36b.JPG",
+      "url": "/legajos/legajo-37/images/089:36b.JPG"
+    },
+    {
+      "filename": "090:36c.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo37/090:36c.JPG",
+      "url": "/legajos/legajo-37/images/090:36c.JPG"
+    },
+    {
+      "filename": "091:36d.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo37/091:36d.JPG",
+      "url": "/legajos/legajo-37/images/091:36d.JPG"
+    },
+    {
+      "filename": "092:36e.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo37/092:36e.JPG",
+      "url": "/legajos/legajo-37/images/092:36e.JPG"
+    },
+    {
+      "filename": "093:36f.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo37/093:36f.JPG",
+      "url": "/legajos/legajo-37/images/093:36f.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "088:36a.JPG",
+  "warnings": [
+    {
+      "code": "MISSING_LITERAL",
+      "message": "Transcripción literal vacía",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-37/cartas/005452.json",
+  "primary_image_url": "/legajos/legajo-37/images/088:36a.JPG"
+}

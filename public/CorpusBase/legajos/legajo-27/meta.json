@@ -1,0 +1,78 @@
+{
+  "legajo_id": "27",
+  "num_cartas": 162,
+  "num_imagenes": 280,
+  "rango_temporal": [
+    1616,
+    1669
+  ],
+  "remitentes_frecuentes": [
+    {
+      "name": "conde de Peralada",
+      "count": 19
+    },
+    {
+      "name": "Persona desconocida",
+      "count": 12
+    },
+    {
+      "name": "Diego de Rocabertí",
+      "count": 5
+    },
+    {
+      "name": "Nicolau de Montanyans y Togores",
+      "count": 4
+    },
+    {
+      "name": "Ramon Quint",
+      "count": 4
+    }
+  ],
+  "destinatarios_frecuentes": [
+    {
+      "name": "Pedro Santacilia y Pax",
+      "count": 121
+    },
+    {
+      "name": "Persona desconocida",
+      "count": 34
+    },
+    {
+      "name": "Bernat Ripoll",
+      "count": 1
+    },
+    {
+      "name": "Miquel Oliver",
+      "count": 1
+    },
+    {
+      "name": "Francisco de Pau i Rocabertí",
+      "count": 1
+    }
+  ],
+  "lugares_frecuentes": [
+    {
+      "name": "Barcelona",
+      "count": 39
+    },
+    {
+      "name": "Mallorca",
+      "count": 27
+    },
+    {
+      "name": "Madrid",
+      "count": 24
+    },
+    {
+      "name": "Lugar sin especificar",
+      "count": 9
+    },
+    {
+      "name": "Valencia",
+      "count": 8
+    }
+  ],
+  "temas_frecuentes": [],
+  "warnings_count": 50,
+  "densidad_narrativa_estimada": "Media"
+}

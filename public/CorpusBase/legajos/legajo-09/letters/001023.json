@@ -1,0 +1,43 @@
+{
+  "legajo_id": "9",
+  "id_carta": "1023",
+  "order_in_legajo": 62,
+  "signatura": "090-45a",
+  "nombre_carta": "Carta de Josep Vizcaíno a Arnau de Santacilia",
+  "fecha_original": "18 de junio de 1675",
+  "lugar": "Madrid",
+  "remitente": "Josep Vizcaíno",
+  "destinatario": "Arnau de Santacilia",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Amigo y señor Di las cartas que acompaña van a la de v. m. de 11 del corriente y cierto que me ha pesado el queles hayan quitado la gente Mas a v. m. ya (estando le concedi da la licencia por dos partes) le importa poco, Por el consejo de guerra ya avise a v. m. que dime morial pidiéndola y juntamente una ayuda de costa consíderable se la han concedido a v. m. y dos pagas; demás de esto el señor vicecanciller por ganar tiempo hahe cho consulta a su majestad dicien do lo que importaba el quesele diésela licencia para pasar a Mallorca; y se la ha concedido y ha acabado de bajar la orden a la secretaria de Guerra; que h aunque ya no era menester supuesto que al consejo de guerra se la ha va la carta para el señor Presídente [1§] vía ya concedido más por mucho pan nunca mal azo [?] no ha habido tiempo de disponer la licencia para ra poderla remitir este correo firmada de su majestad y me ha ofrecido el secretario de guerra que para ga nar tiempo y que v. m. se parta luego me daría esta noche una carta para que el señor presiden te de sa ciudad le dé a v. m. le cencia de ponerse en camino supuetso que su majestad se la ha concedido voy por ella esya muy tarde y si melada separa mucho tiempo y después se puede con la licencia de su majestad anotar en los oficios de Malaga Dios guarde a v. m. muchos años Madrid 18 de junio 1675 besa lasmanos de v. m. Su Amigo y servidor Josep Vizcaya v. m. acuerde al señor don Pedro Lariz el tafetan que me pomación ya queablaremos largo de todo el señor Vallecilla dice que tendrá pronto el dinero para cuando v. m. arribe a esta corte Señor capitán don Arnau de Santacilia [2§] Transcripción literal"
+  ],
+  "literal": [
+    "1. Amigo y sr Di las Cartas q acompaña 2. ban ala de Vm de 11 del corrien3. te y cierto que me ha pessado el 4. queles hayan quitado la Jente 5. Mas a Vm ya (estando le conzedi6. da la liza por dos partes ) le im7. porta poco, Por el consejo de Gue8. rra ya havisse a Vm que dime 9. morial pidiendola y Juntamte 10. Una ayuda de costa consíderable 11. sela han conzedido a Vm y dos 12. pagas; demas desto el Sr Vize13. canciller por ganar tpo hahe14. cho consulta a su Magd dizien15. do lo que importaba el quesele 16. diesela lizencia para pasar a 17. Mallorca; y sela ha conzedido y 18. ha hacabado de bajar la orden 19. ala sria de Guerra; que haunque 20. ya no era menester supuesto 21. que al consejo de Guerra sela ha22. [Margen izquierdo][^ Va la Carta para el Sor Presídente] [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "090-45a.jpg",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo09/090-45a.jpg",
+      "url": "/legajos/legajo-09/images/090-45a.jpg"
+    },
+    {
+      "filename": "091-45b.jpg",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo09/091-45b.jpg",
+      "url": "/legajos/legajo-09/images/091-45b.jpg"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "090-45a.jpg",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-09/cartas/001023.json",
+  "primary_image_url": "/legajos/legajo-09/images/090-45a.jpg"
+}

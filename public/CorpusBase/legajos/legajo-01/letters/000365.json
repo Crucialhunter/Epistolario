@@ -1,0 +1,56 @@
+{
+  "legajo_id": "1",
+  "id_carta": "365",
+  "order_in_legajo": 55,
+  "signatura": "129-256a",
+  "nombre_carta": "Carta de Isidro Márquez a Jerónimo Pelegrín de Aragüés",
+  "fecha_original": "28 de enero de 1668",
+  "lugar": "Madrid",
+  "remitente": "Isidro Márquez",
+  "destinatario": "Jerónimo Pelegrín de Aragüés",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Señor mío, su carta de vuestra merced recibí por mano del señor ayudante Arnau de Santacilia, y me he alegrado mucho de su buena salud, y le beso la mano muchas veces por el cuidado de las alcaparras, que aún no ha llegado la galera que las trae. El corte de vestido para mi mujer me entregó, que es de muy lindo gusto, y no he visto cosa mejor del género. Vuestra merced diga al señor don Juan que le beso la mano por tanto favor, y que le escribiré, y al señor don Nicolas en la primera ocasión. Yo todavía me hallo en la cama cinco meses ha, pero gracias a Dios estoy mejor de cualquier modo para servir a vuestra merced como debo. Dios guarde a vuestra merced muchos años.",
+    "Madrid y enero, a 28 de 1668.",
+    "Servidor de vuestra merced, Isidro Marques.",
+    "Señor Jeronimo Pelegrin.",
+    "[1§] Recibida 26 marzo 1668. Respuesta 2 mayo de dicho don Isidro Márquez."
+  ],
+  "literal": [
+    "1. Señor Mío, su carta de Vm. Recebi por mano de el",
+    "2. Señor Aiudante Arnau de Santecilia, y me he alegra-",
+    "3. do Mucho de su buena salud y le beso la mano",
+    "4. muchas beces, por el cuidado de las Alcaparras que",
+    "5. aun no ha llegado la galera que las trae, el corte de bes-",
+    "6. tido para mi muger me entrego que es de mui",
+    "7. lindo gusto, y no e bisto cosa mexor de el genero",
+    "8. Vm. diga a el Sr. Don Juan que le beso la mano",
+    "9. por tanto fabor, y que le escribire y al Sr. D. Nicolas",
+    "10. en la primera ocasion. yo toda abia me hallo en la",
+    "11. cama, cinco meses ha, pero gracias a Dios estoi me-",
+    "12. xor, de cualquier modo para serbir a Vm. como",
+    "13. debo, Dios gde a Vm. muchos años, Md y Enero a 28",
+    "14. de 1668. Servdor de Vm.",
+    "15. Isidro Marquez",
+    "16. Sr. Geronimo Pelegrin [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "129-256a.gif",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo01/129-256a.gif",
+      "url": "/legajos/legajo-01/images/129-256a.gif"
+    },
+    {
+      "filename": "130-256b.gif",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo01/130-256b.gif",
+      "url": "/legajos/legajo-01/images/130-256b.gif"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "129-256a.gif",
+  "warnings": [],
+  "raw_source": "raw/legajos/legajo-01/cartas/000365.json",
+  "primary_image_url": "/legajos/legajo-01/images/129-256a.gif"
+}

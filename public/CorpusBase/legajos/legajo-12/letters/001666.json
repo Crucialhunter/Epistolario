@@ -1,0 +1,37 @@
+{
+  "legajo_id": "12",
+  "id_carta": "1666",
+  "order_in_legajo": 171,
+  "signatura": "254_6259a.JPG",
+  "nombre_carta": "Carta de conde de Montoro a Pedro Santacilia y Pax",
+  "fecha_original": "20 de marzo de 1654",
+  "lugar": "Mallorca",
+  "remitente": "conde de Montoro",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "de Madrid dan tanta prisa en la leva del tercio que es fuerza ACABAR-LA [1§] Transcripción literal"
+  ],
+  "literal": [
+    "1. De M[adri]d dan tanta prissa en la leva del tercio2. que es fuerza ACABAR-LA [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "254_6259a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo12/254_6259a.JPG",
+      "url": "/legajos/legajo-12/images/254_6259a.JPG"
+    },
+    {
+      "filename": "255_6259b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo12/255_6259b.JPG",
+      "url": "/legajos/legajo-12/images/255_6259b.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "254_6259a.JPG",
+  "warnings": [],
+  "raw_source": "raw/legajos/legajo-12/cartas/001666.json",
+  "primary_image_url": "/legajos/legajo-12/images/254_6259a.JPG"
+}

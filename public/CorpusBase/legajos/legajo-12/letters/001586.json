@@ -1,0 +1,43 @@
+{
+  "legajo_id": "12",
+  "id_carta": "1586",
+  "order_in_legajo": 93,
+  "signatura": "124_6179a.JPG",
+  "nombre_carta": "Carta de Pedro Velázquez de la Cerda a Pedro Santacilia y Pax",
+  "fecha_original": "14 de febrero de 1645",
+  "lugar": "Castillo de San Felipe",
+  "remitente": "Pedro Velázquez de la Cerda",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Sr. mío aunque mi obligación era en llegando yo a esta isla ir a besar a v. s. su mano, y a suplicarle me recibiese y promoviese por su servicio el empeño en que me hallo de haber de asistir con Dña. Margarita justa piedad me facilitará el perdón, y confiado en la grandeza y valor de v. s. me atrevo a darle parte de lo siguiente. Sabrá v. s. que estos días que hemos estado en este castillo ha asistido un mozo mallorquín que se dice Gabriel Oliver socolor [?] que quería pasar a Italia con el príncipe de Palaconia [?] y ayer lunes tuvo tanto atrevimiento que llamó un paje mío, y después de muchos ofrecimientos y promesas le quiso dar un billete para Dña. Margarita advirtiéndole que fuese amagado de mi, el paje le dio esperanzas, y luego siendo ya la oración, me contó todo el suceso, considere v. s. que quede yo, y viendo al Sr. Oliver que se había puesto a caballo para irse a mano, me di tanta maña que le alcancé y tuvo suerte de confiarse en sus piernas, las cuales le valieron, pero quiso Dios que le acertó un arcabuzazo en un brazo, del cual quedó estropeado, y se está curando. v. s. es caballero y ha hecho demostraciones de su valor, considerará la causa que me ha movido, y con su prudencia ordenará lo que le parecerá más conveniente. Del caso no hay más testigo que Dios, v. s. sabe muy bien cuan desgraciada ha sido Dña. Margarita, ella [1§] está muy satisfecha de la buena voluntad que siempre v. s. ha mostrado en tiempo del conde que esté en gloria, y yo de la misma manera creo que v. s. no dejará de meterle mano en el negocio y ayudar la justicia que tengo y pues v. s. sabe cuan señor ha sido y es de Dña. Margarita y de los suyos. No diré más, sino que v. s. me tendrá a donde yo estuviere muy a su servicio en todo lo que se sirviera mandarme. Guarde Dios a v. s. los años que sus servidores desean, castillo de San Felipe, 14 de febrero 1645. Don Pedro Velazquez de la Cerda [2§] Transcripción literal"
+  ],
+  "literal": [
+    "1. Sr. mio2. Aunque mi obligacion era en llegando yo á esta3. Isla, yr a besar a V.S. su mano, y a suplicarle me4. reçibiesse i promoviesse?? Por su Serv[ici]o el empeño en q me5. hallo de haver de asistir co dª Marg[ari]ta ????6. me façilitará el perdon, y cofiado en la grandeça y valor7. de V.S. me atrevo a darle parte de lo siguiente8. Sabra V.S. que estos dias que hemos estado eneste Castillo9. ha asistido un moço mallorquin q se diçe Gabriel Olivar10. socolor?? Que queria pasar a Italia co el Prinçipe de11. Palaconia?? Y ayer lunes tuvo tato atrevimieto que llamó12. un page mio, y despues de muchos ofrecimientos y promesas13. le quiso dar un villete para d. Marg[ari]ta advirtiendole que14. fuese amagado de mi, el page le dio esperazas, yl uego siento15. ya la oraçion, me coto todo el suçessso, considere V.S. que16. quede yo, y viendo al Olivar que se havia puesta á Cavallo17. para iyrse a Mano, me di tata maña que le alcançe y tuvo18. suerte de cofiarse en sus piernas, las quales le valieron, pero19. quiso Dios que le açerto un arcabuçaco en un braço; del qual20. queda estropeado, y se esta curando. V.S. es cavallero, y ha hecho21. demostraçiones de su valor, cosiderará la causa q me ha mo-22. vido, y co su prudençia ordenará lo que le pareçera mas23. coveniente del caso no hay mas testigo q Dios, V.S. sabe24. muy bien qua desgraçiada ha sido dª Marg[ari]ta ella [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "124_6179a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo12/124_6179a.JPG",
+      "url": "/legajos/legajo-12/images/124_6179a.JPG"
+    },
+    {
+      "filename": "125_6179b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo12/125_6179b.JPG",
+      "url": "/legajos/legajo-12/images/125_6179b.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "124_6179a.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-12/cartas/001586.json",
+  "primary_image_url": "/legajos/legajo-12/images/124_6179a.JPG"
+}

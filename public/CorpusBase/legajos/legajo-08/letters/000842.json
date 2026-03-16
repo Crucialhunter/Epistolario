@@ -1,0 +1,43 @@
+{
+  "legajo_id": "8",
+  "id_carta": "842",
+  "order_in_legajo": 156,
+  "signatura": "043-35a copia",
+  "nombre_carta": "Carta de Gabriel Seguí a Persona desconocida",
+  "fecha_original": "11 de febrero de 1649",
+  "lugar": "Maó",
+  "remitente": "Gabriel Seguí",
+  "destinatario": "Persona desconocida",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "La matí per comenda de mon germà tinc donat avís a v. s. de la novetat s'havia Saguida en el castell des [?] nt Philip en el [?] {ESP. almirant} Gabriel oliva d'una arcaraburada liantirada Després d'haver escrit per Veura que l'alcalde tardava en tornar-me res porta sóc anat allí per informarma, i allí l'alcalde es i xit i mua dit que a les hores meestava escrivint del sucses, i m'hadit que don Pedro velascos de la cerda marit de dona Margalida Puig per certas causes tocants a la reputació quellargament dit don Pedro Segons m'ha dit dit Alcay escriu a v. s. juntament dit alcalde ha aguardat a la barrera de la rosa amb companyia d'uncriat seu ha dit oliva i havent li preses les regnas del cavallen que dit oliva anava li hadit que volia parlar abell i el dit oliva no se sitamensa d'alguna cosa hapegat d'esparonades en el Cavall per escapar-los i a les horesdit Sr. don Pedro lihatirat, el dit oliva diu que és el criat quilia tirat, tots com cordam en el fet La ferida té en el braç dret trevesat detres balas. Segons diu Jurat [?] Montoya qui loha curat nota os farit ham aperigut dir al alcalde que no deixàs partir les setjaties deest port ni i xir del castell ha dit don Pedro qui sees retirat allí amb locriat, fins tinga f. 35b ordre de v. s. quimanana ordenar el fiador de Justisia a una molt il·lustre persona Déu Nostre Senyor guardi Demaho. i febrer a 11 de 1649. Gabriel Segui [1§] ordre de v. s. quimanana ordenar el fiador de Justisia a una molt il·lustre persona Déu Nostre Senyor guardi de Maó. i febrer a 11 de 1649. Gabriel Segui Transcripción literal"
+  ],
+  "literal": [
+    "1. LA mati p comenda de mon germa tinch donat avis 2. a V.Sª dela novetat se havia Saguida anal castell 3. des< > Philip en lo??A< > Gabriel oliva de una 4. arcaraburada liantirada = Denpres de haver scrit p 5. Veura q lo alcayt tardava en tornarma res porta so 6. anat alli p informarma, Y alli lo alcayt es Yxit 7. Y mua dit que alas horas meestava scrivint del 8. sucses, Yme hadit q D< > Pedro velascos dela Çerda 9. marit de Doña Marg< > Puig p certas causas 10. tocants a la reputasio que llargament dit D< > Pedro 11. Segons mehadit dit Alcay scriu a Vsª. junta 12. dit Alcayt ha aguardat ala barrera dela 13. rosa ab Compania de uncriat seu adit oliva 14. y havent li presas las regnas del cavallenque 15. dit oliva anava li hadit q volia parlar abell 16. Y lodit oliva nose sitamensa de alguna cosa 17. hapegat de esparonadas anal Cavall p escaparlos 18. Y alas horasdit D< > Pedro lihatirat, lodit oliva 19. diu que es lo criat quilia tirat, tots Con cordam en 20. lo fet = La ferida te anal bras dret trevesat detres 21. balas. Segons diu Ju?? Montoya qui loha 22. curat note os farit ham aperigut dir alo 23. Alcayt q no dexas partir las setjatias deest 24. port ni Yxir del Castell a dit D< > Pedro 25. qui sees retirat alli ab locriat, fins tinga [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "043-35a copia.jpg",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo08/043-35a copia.jpg",
+      "url": "/legajos/legajo-08/images/043-35a copia.jpg"
+    },
+    {
+      "filename": "044-35b copia.jpg",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo08/044-35b copia.jpg",
+      "url": "/legajos/legajo-08/images/044-35b copia.jpg"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "043-35a copia.jpg",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-08/cartas/000842.json",
+  "primary_image_url": "/legajos/legajo-08/images/043-35a copia.jpg"
+}

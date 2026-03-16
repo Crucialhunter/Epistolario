@@ -1,0 +1,37 @@
+{
+  "legajo_id": "14",
+  "id_carta": "1933",
+  "order_in_legajo": 33,
+  "signatura": "057:2437a.JPG",
+  "nombre_carta": "Carta de Persona desconocida a Pedro Santacilia y Pax",
+  "fecha_original": "27 de junio de 1632",
+  "lugar": "Mallorca",
+  "remitente": "Persona desconocida",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Jesús, Maria. Una tinc rebuda de v. m. en què em som folgat molt sebre de la salut de v. m. en què m'avisa de la mercè que el rei li ha feta, amb què em som alegrat molt, si bé amb el pratró Seguí ja li tinc escrit més llargament. En totes ocasions v. m. em mani, que estic aparellat per servir-lo conforme tinc oblligació. No dic més, de Mallorca als 27 de juny 1632. Albert F [?] Senyor don Pedro Santacilia [1§] A don Pedro de Santacilia, que {ESP. Dios} guardi. En Barcelona [2§] Transcripción literal"
+  ],
+  "literal": [
+    "1. Jesus Maria2. Una tinch rabude de V.M. an que an som folgat3. molt sabre de la salut de v.m. anque me vissa4. de la marse que al Rey li ha feta an que am som5. alegrat molt si be an lo pratro segui ja li tinc[h]6. ascrit mes larga ment an totas ocassion v.m.7. an man que astich aparelat per çarvirlo con8. forme tinch oblligatio no dich mes de ma[l]9. lorca als 27. de Jun. 163210. Albert F[?]11. Señor Don Pedro St.12. Silia [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "057:2437a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo14/057:2437a.JPG",
+      "url": "/legajos/legajo-14/images/057:2437a.JPG"
+    },
+    {
+      "filename": "058:2437b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo14/058:2437b.JPG",
+      "url": "/legajos/legajo-14/images/058:2437b.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "057:2437a.JPG",
+  "warnings": [],
+  "raw_source": "raw/legajos/legajo-14/cartas/001933.json",
+  "primary_image_url": "/legajos/legajo-14/images/057:2437a.JPG"
+}

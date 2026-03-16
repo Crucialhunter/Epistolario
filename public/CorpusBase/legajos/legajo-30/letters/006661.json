@@ -1,0 +1,37 @@
+{
+  "legajo_id": "30",
+  "id_carta": "6661",
+  "order_in_legajo": 163,
+  "signatura": "204:5499a.JPG",
+  "nombre_carta": "Carta de El comte de Santa Maria de Formiguera a Pedro Santacilia y Pax",
+  "fecha_original": "19 de marzo de 1661",
+  "lugar": "Santa Margalida",
+  "remitente": "El comte de Santa Maria de Formiguera",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "[1§] [2§] Transcripción literal"
+  ],
+  "literal": [
+    "1. 1."
+  ],
+  "imagenes": [
+    {
+      "filename": "204:5499a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo30/204:5499a.JPG",
+      "url": "/legajos/legajo-30/images/204:5499a.JPG"
+    },
+    {
+      "filename": "205:5499b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo30/205:5499b.JPG",
+      "url": "/legajos/legajo-30/images/205:5499b.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "204:5499a.JPG",
+  "warnings": [],
+  "raw_source": "raw/legajos/legajo-30/cartas/006661.json",
+  "primary_image_url": "/legajos/legajo-30/images/204:5499a.JPG"
+}

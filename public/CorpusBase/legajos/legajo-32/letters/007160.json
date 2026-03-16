@@ -1,0 +1,38 @@
+{
+  "legajo_id": "32",
+  "id_carta": "7160",
+  "order_in_legajo": 81,
+  "signatura": "212:1918.JPG",
+  "nombre_carta": "Carta de Nicolás de Santacilia y Togores a Pedro Santacilia y Pax",
+  "fecha_original": "15 de febrero de 1664",
+  "lugar": "Madrid",
+  "remitente": "Nicolás de Santacilia y Togores",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Por acá no hay novedad ninguna de que dar cuenta a v. m. solo escribo estas cuatro rayas dándole las buenas porque hay que las tenga con mi madre y señora y mis hermanos con todos esos caballeros muy gustosas no degándola gente de la casa La jornada cierta para Febrero como [?] tengo escrito por todas partes, pero estoy entendiendo que las cartas se detienen en alguna parte. Guarde Dios a v. m. muchos años como deseo y es menester Madrid a 15 de diciembre 1665 Su más humilde hijo de v. m. que sus manos besa Don Nicolas de Santacilia y Togores mi padre y señor Transcripción literal"
+  ],
+  "literal": [
+    "1. Por aca no ay novedad ninguna de que 2. dar quenta a VM. solo escrivo estas qua3. tro rayas dandole las buenas por que 4. ai que las tenga con mi madre y señora 5. y mis hermanos con todos esos cava6. lleros muy gustosas no degandola 7. gente de la casa 8. La jornada sierta para febrero como 9. ?? tengo escrito por todas partes, pero 10. estoy entendiendo que las cartas se 11. detienen en alguna parte Guarde Dios 12. a VM muchos años como deseo y e 13. menester Madrid a 15 de Desienbre 1665 14. Su mas humilde hijo 15. de VM q. S. M. B. 16. Don Nicolas de Sta.Cilia y Togores 17. mi Padre y Señor [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "212:1918.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo32/212:1918.JPG",
+      "url": "/legajos/legajo-32/images/212:1918.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "212:1918.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-32/cartas/007160.json",
+  "primary_image_url": "/legajos/legajo-32/images/212:1918.JPG"
+}

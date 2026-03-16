@@ -1,0 +1,43 @@
+{
+  "legajo_id": "18",
+  "id_carta": "3072",
+  "order_in_legajo": 106,
+  "signatura": "174:4911a.JPG",
+  "nombre_carta": "Carta de Bernardí Tries a Pedro Santacilia y Pax",
+  "fecha_original": "22 de octubre de 1663",
+  "lugar": "Sóller",
+  "remitente": "Bernardí Tries",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "mi senyor Sabrà v.Sª Com trobantme en Soller he sabut era arribat el virrei, Com jo li tinc suplicat la Gratia per Gabriel Calefell fiet, i per Joan ambrosy confia serà servit honrar-me amb dit negoti m'ha paregut serviré li esta suplicant-lo de nou sia de son servei manar fer dita que ha rebre a singular gratia, i mercè restant sempre prompte Besant les mans de v. s. Soller octubre 22. 1663 de vocenurie Bernadi tries [1§] A la senoria molt Illre de mi senyor D. Pedro esta Sicília, i Pax lloct i capità general i salut [2§] Transcripción literal"
+  ],
+  "literal": [
+    "1. [Margen izquierdo][^ mi senor]2. Sabra v.Sª Com trobantme en Soller he sabut 3. era arribat el sr virrrey, Com jo li tinch 4. suplicat la Gratia per Gabriel Calefell fiet, y 5. per joan ambrosy confia sera servit honrarme 6. ab dit negoti me ha aparegut servire li esta su=7. plicantlo de nou sia de son servey manar fer 8. dita que ha rebre á singular gratia, y merçe 9. restant sempre prompte Besant les mans de 10. V.Sª Soller octubre 22. 1663 11. de vocenurie Ber[n]adi tries [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "174:4911a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo18/174:4911a.JPG",
+      "url": "/legajos/legajo-18/images/174:4911a.JPG"
+    },
+    {
+      "filename": "175:4911b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo18/175:4911b.JPG",
+      "url": "/legajos/legajo-18/images/175:4911b.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "174:4911a.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-18/cartas/003072.json",
+  "primary_image_url": "/legajos/legajo-18/images/174:4911a.JPG"
+}

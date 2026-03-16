@@ -1,0 +1,38 @@
+{
+  "legajo_id": "35",
+  "id_carta": "5246",
+  "order_in_legajo": 58,
+  "signatura": "051:8092.JPG",
+  "nombre_carta": "Carta de Bartomeu Seguí i Mercadal a Pedro Santacilia y Pax",
+  "fecha_original": "18 de agosto de 1642",
+  "lugar": "Lugar sin especificar",
+  "remitente": "Bartomeu Seguí i Mercadal",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Per comandes del patró Llorenç Taltavull, qui va aquí amb la barca carregada de melons, rebrà v. s. sis melons marcats de la nostra marca dels quals v. s. serà servit prendre la bona voluntat manant-me sempre el que sia de son servei a {CAST {ESP. cuya} il·lustra [?] persona Déu N. Senyor guardi a. molts d’anys [?] 18 de 1642 Bartomeu Seguí i Mercadal Senyor guardi or. Transcripción literal"
+  ],
+  "literal": [
+    "1. Per comandas del Patro Llorens Taltavull2. qui va aqui ab la barca carregada de3. malons rebra VSª. sis malons marcats4. de la fora marca dels quals VSª. sera5. servit pendra la bona voluntat manant6. me sempra lo q sia de son servey a cuia7. [Illustre??] perçona deu Nres. Señor gde 8. [molts d?anys] [?] 18 de 16429. Bartto Sagui y marcadal10. Señor gdor. [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "051:8092.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo35/051:8092.JPG",
+      "url": "/legajos/legajo-35/images/051:8092.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "051:8092.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-35/cartas/005246.json",
+  "primary_image_url": "/legajos/legajo-35/images/051:8092.JPG"
+}

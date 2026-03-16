@@ -1,0 +1,43 @@
+{
+  "legajo_id": "36",
+  "id_carta": "7317",
+  "order_in_legajo": 63,
+  "signatura": "091:7792a.JPG",
+  "nombre_carta": "Carta de Josep de Rocabertí a Pedro Santacilia y Pax",
+  "fecha_original": "6 de septiembre de 1652",
+  "lugar": "Ibiza",
+  "remitente": "Josep de Rocabertí",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Responc cibe amb molta fresa a [?] que acab de rebrar de v. s. i la de l'amigo llupia que cert em sóc alegrat summament de les bones noves que a v. s. escriu i de veure l'exercit de l'altra part de Barna. que suposat és tanta la seva ter quedat que ni per [?] ni guerra els espantan bé serà que experimentar els rigors de [?] tots els traïdors que tenen les torres i cases de recreho al [?] dedor de Barcelona Jo sol·licito [?] de {ESP. luego} que sem faci mer [?] de donarma llicència que em [?] ar que nom pot estar bé [?] Sr. don Pedro Stcilia i Pax reputació estar-me a la mira i altres en campanya i així suplico a v. s. quant encaridament [?] que si per algun mitjà pot v. s. [?] que jo conseguesca esta llicència que ho faci que serà posar-me una es i un clau al front Pesam que mi senyora la comtessa hagi mal parit deu se apiada de tots i guardi a v. s. com pot i jo desitjo Eivissa i setembre 6 de 1652 Sr. don Josep de Rocaberti en quant al negoci de Juan de Puixdorfilaprocuraré cervir-lo per amic parent i recomanat de v. s. Transcripción literal"
+  ],
+  "literal": [
+    "1. Responc cibe ab molta fresa a ?? 2. que acab de rebrar de VS y la 3. del amigo llupia que sert me 4. so alegrat sumament de las bon5. as novas que a VS escriu y de 6. veurer lo exercit de laltra part 7. de Barna. que suposat es tanta 8. la sua terquedat que ni per [?] 9. ni guerra los espantan be sara 10. que esperimentar los rigors de ?? 11. tots los traidors que tenan las 12. torres y casas de recreho al ?? 13. dedor de Barna= Jo solicito ?? 14. de luego que sem fasa mer [?] 15. de donarma llisencia quem ?? 16. ar que nom pot estar be [?] 17. Sr. Don Pedro Stcilia y Pax [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "091:7792a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo36/091:7792a.JPG",
+      "url": "/legajos/legajo-36/images/091:7792a.JPG"
+    },
+    {
+      "filename": "092:7792b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo36/092:7792b.JPG",
+      "url": "/legajos/legajo-36/images/092:7792b.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "091:7792a.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-36/cartas/007317.json",
+  "primary_image_url": "/legajos/legajo-36/images/091:7792a.JPG"
+}

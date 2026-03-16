@@ -1,0 +1,38 @@
+{
+  "legajo_id": "35",
+  "id_carta": "5318",
+  "order_in_legajo": 134,
+  "signatura": "142:8165.JPG",
+  "nombre_carta": "Carta de Gabriel Seguí a Pedro Santacilia y Pax",
+  "fecha_original": "24 de abril de 1645",
+  "lugar": "Maó",
+  "remitente": "Gabriel Seguí",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Don Enrique Ponce que governa estos galeones ahir llevà el timó a la saetia, que diguia v. s. havia vingut de Sardenya. I perquè m'ha apa regut acció incompetent l'anar a saber d'ell la causa d'haver-ho fet sense intervenció mia, i el motiu que diu ha pres és que v. s. el ha avisat que l'armada de França està per estos març i que tem que si l'encativen ha de donar relació d'estos vaixells. Dita saetia aporta sa patent i cartes pel virrei de València i molts religiosos que aporten els passaports, com ho veurà V. S, pel portador d’esta. v. s. en tot manarà el faedor, a qui Déu guardi com desitjo. Maó, i abril 24 de 1645. Gabriel Seguí Sr. governador. Transcripción literal"
+  ],
+  "literal": [
+    "1. Don Enriq Ponce que governa estos galeones Ayr2. lleva el timo a la sagetia q digui a V.Sª.3. havia vingut de Serdeña Y perq me ha apa=4. regut actio incompetent lo anar a saber de ell5. la causa de haver ho fet sens intervencio mia6. y el motiu que diu ha pres es que V.S.ª lo ha7. avisat q la armada de françia esta per estos8. mars y que tem q si la encativan ha de9. donar relacio deestos vaxells Dita sagetia10. aporta sa patent y cartas per el virrey11. de Valencia y molts religiosos q aporten12. los passaports com ho veura V.Sª per el13. portador desta, VSª en tot manara lo fahedor14. a qui Deu gde. com desitjo Maho y Abril15. 24 de 164516. Gabriel Sagui17. Sr. Govor. [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "142:8165.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo35/142:8165.JPG",
+      "url": "/legajos/legajo-35/images/142:8165.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "142:8165.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-35/cartas/005318.json",
+  "primary_image_url": "/legajos/legajo-35/images/142:8165.JPG"
+}

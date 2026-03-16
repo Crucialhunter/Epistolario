@@ -1,0 +1,43 @@
+{
+  "legajo_id": "6",
+  "id_carta": "544",
+  "order_in_legajo": 43,
+  "signatura": "024_14a",
+  "nombre_carta": "Carta de J. Maria Clariana y Montaner a Cecilia Zaforteza y Sureda de Sant Martí",
+  "fecha_original": "21 de julio de 1741",
+  "lugar": "Barcelona",
+  "remitente": "J. Maria Clariana y Montaner",
+  "destinatario": "Cecilia Zaforteza y Sureda de Sant Martí",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Amiga y querida mía, No puede dejar mi obligación de participarte cómo el día 18 del presente mes arribamos a este puerto de Barcelona donde me tendrás pronta para cuanto fuere de tu agrado el mandarme, que te serviré con la más fina voluntad y [1§] cariño que siempre te he profesado, y quedo tuya de todo corazón, rogando a Dios te guarde los muchos años que deseo. Barcelona y julio a 21 de 1741. Tu amiga que de corazón te quiere, J. María Clariana y Montaner. Amiga y querida da. Cecilia [Za]forteza y Sureda Transcripción literal"
+  ],
+  "literal": [
+    "1. Amiga y querida mia no 2. puede dejar mi Obligacion 3. de participarte Como el dia 18 4. del presente mes Arrivamos 5. â este Puerto de Barzelona 6. donde me tendras pronta para 7. quanto fuere de tu agrado el 8. mandarme, que te servire 9. Con la mas fina Voluntad y [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "024_14a.jpg",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo06/024_14a.jpg",
+      "url": "/legajos/legajo-06/images/024_14a.jpg"
+    },
+    {
+      "filename": "025_14b.jpg",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo06/025_14b.jpg",
+      "url": "/legajos/legajo-06/images/025_14b.jpg"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "024_14a.jpg",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-06/cartas/000544.json",
+  "primary_image_url": "/legajos/legajo-06/images/024_14a.jpg"
+}

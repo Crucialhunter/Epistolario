@@ -1,0 +1,38 @@
+{
+  "legajo_id": "32",
+  "id_carta": "7207",
+  "order_in_legajo": 207,
+  "signatura": "291:1965.JPG",
+  "nombre_carta": "Carta de Elisen de Rocabertí a Pedro Santacilia y Pax",
+  "fecha_original": "8 de octubre de 1666",
+  "lugar": "Bétera (Valencia)",
+  "remitente": "Elisen de Rocabertí",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Recibo su carta de v. s. con la triste nueva de la pérdida de mi hermana y señora la condesa de Zavellá que me tiene tan afligida que no tengo otro consuelo sin saber bien por su alma y así suplico a v. s. me haga merced de ayudarme en esto y de mandarme de lo que fuere de su mayor servicio y estimaré muchas ocasiones de él. Mis hijos besan a v. s. la mano y están a su obediencia y disposición. Dios guarde a v. s. largos años. Bétera y octubre, a 8 de 1666. Su mayor servidora de v. s., que su mano besa, doña Elisen de Rocaberti Al señor d. Pedro de Santacilia, mi tío. Transcripción literal"
+  ],
+  "literal": [
+    "1. Recibo su carta de VS. con la triste nueva 2. de la perdida de mi ermana i Sª la condesa de cau[e]3. lla que me tiene tan affligida que no 4. tengo otro consuelo sin saver bien por su 5. alma y asi suplico a VS. me aga mer6. ced de ayudarme en esto y de mandar7. me de lo que fuere de su maior servicio y 8. estimare muchas ocasionesdel mis hijos 9. besan a VS. la mano y estaran obediencia 10. y dispucision Dios gde. a VS. largos años 11. betera y otubre a 8 de 1666 12. su mar servidora de 13. VS que su mano besa 14. Doña Elisen 15. de rocaberti 16. Al Sr. D. Pedro de santasilia mi tio [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "291:1965.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo32/291:1965.JPG",
+      "url": "/legajos/legajo-32/images/291:1965.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "291:1965.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-32/cartas/007207.json",
+  "primary_image_url": "/legajos/legajo-32/images/291:1965.JPG"
+}

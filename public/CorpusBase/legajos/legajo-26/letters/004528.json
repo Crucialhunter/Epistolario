@@ -1,0 +1,38 @@
+{
+  "legajo_id": "26",
+  "id_carta": "4528",
+  "order_in_legajo": 263,
+  "signatura": "390:3624.JPG",
+  "nombre_carta": "Carta de Isidro Marqués a Pedro Santacilia y Pax",
+  "fecha_original": "31 de julio de 1669",
+  "lugar": "Madrid",
+  "remitente": "Isidro Marqués",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Señor mío. El Sr. D. Blasco ha visto la carta que v. s. me mandó responder a ella que es la inclusa yo me holgaré se halle v. s. con la buena salud que le deseo y le vuelvo a dar la enhorabuena del nuevo estado del Sr. D. Nicolás, quedando siempre a la obediencia de v. s. como debo y tengo obligaciones. Dios guarde a v. s. muchos años como deseo. Madrid a 31 de Julio 1669. Suplico a v. s. mande dar la inclusa al arcadiano [?] Beso la mano a v. s., su menor servidorIsidro Marques Sr. D. Pedro de Santacilia Transcripción literal"
+  ],
+  "literal": [
+    "1. Señor mio El Sr. D. Blasco ha [?]2. visto la carta de VS. me mando res3. ponder a ella q[ue] es la inclussa4. yo me holgare se halle VS con la buena5. salud que le desseo y le buelvo a dar6. la norabuena del nuevo estado del Sr.7. D. Nicolas quedando siempre a la8. obediencia de VS. como devo y tengo obli9. gaciones. Dios gde. a VS. muchos años10. como desseo M[adri]d a 31 de Jullio 166911. Sup[li]co a VS mande12. dar la inclussa13. al Sr. Arzediano[?]14. B. l. M. a VS. su mor. sdor.15. Isidro Marques16. Sr. D. Pº de Sta Cilia [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "390:3624.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo26/390:3624.JPG",
+      "url": "/legajos/legajo-26/images/390:3624.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "390:3624.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-26/cartas/004528.json",
+  "primary_image_url": "/legajos/legajo-26/images/390:3624.JPG"
+}

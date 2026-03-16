@@ -1,0 +1,38 @@
+{
+  "legajo_id": "12",
+  "id_carta": "1531",
+  "order_in_legajo": 36,
+  "signatura": "049_6124.JPG",
+  "nombre_carta": "Carta de Jerónimo del Castillo a Pedro Santacilia y Pax",
+  "fecha_original": "3 de julio de 1640",
+  "lugar": "Zaragoza",
+  "remitente": "Jerónimo del Castillo",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Acompaño las inclusas con estos renglones que han llegado a mi poder y pocos días ha que vino otra que si no me engaño era del Sr. duque de Cardona, volvía a encaminar a v. m. a cuyo servicio quedo como lo estaré toda la vida, désela Nro. Sr. muy cumplida a v. m. y guarde como deseo, Zaragoza y julio a 3 de 1640. Jeronimo del Castillo gloria patrigloria patri Sr. D. Pedro Santacilia Vistos papeles de don Pedro de Santacilia y Pax de [?] procurador Real del Real Patrimonio Transcripción literal"
+  ],
+  "literal": [
+    "1. Aconpaño las inclusas con2. estos renglones que han llegado3. a mi poder y pocos dias ha que4. vino otra que sino mengaño era5. del Sr. Duq[u]e de Cardona bolvila6. a encaminar a Vm a cuyo servi[ci]o7. quedo como lo estare toda la vida8. desela Nro. Sr. muy cumplida9. a Vm y Gde como deseo Carag[oz]a10. y Julio a 3 de 164011. Geronimo del Castillo12. gloria patri13. gloria patri14. Sr. D. Pº Santacília [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "049_6124.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo12/049_6124.JPG",
+      "url": "/legajos/legajo-12/images/049_6124.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "049_6124.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-12/cartas/001531.json",
+  "primary_image_url": "/legajos/legajo-12/images/049_6124.JPG"
+}

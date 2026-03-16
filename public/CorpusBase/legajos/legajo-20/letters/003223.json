@@ -1,0 +1,37 @@
+{
+  "legajo_id": "20",
+  "id_carta": "3223",
+  "order_in_legajo": 97,
+  "signatura": "133:6004a.JPG",
+  "nombre_carta": "Carta de Persona desconocida a Pedro Santacilia y Pax",
+  "fecha_original": "20 de enero de 1668",
+  "lugar": "Madrid",
+  "remitente": "Persona desconocida",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Por su carta de v. m. de 21 de noviembre veo la [?] que han obrado los de la isla de Córcega con el bergantín corsista de esa ciudad y es lance muy digno de que se ponga en la noticia de su majestad como este consejo lo ha hecho y de que su majestad tome resolución sobre un negocio que podrá ser de tan mala consecuencia si se dejase consentido, y v. m. cumple con su obligación. En haber dado esta noticia y en todo lo que le toca hace, y a hecho, lo mismo siempre. Guarde Dios a v. m. muchos años, Madrid y enero 20 de 1668. Beso las manos de v. m. su menor servidorel marques de [?] Sr. D. Pedro Santacilia y Pax [1§] vistos, cartas del criado a D. Pedro Santacilia y Pax [?] Transcripción literal"
+  ],
+  "literal": [
+    "1. Por su carta de Vm de 21 de novre. beo la [?] 2. q an obrado los de la Isla de Corçega. Con el bergantin 3. Corsista desa Ciud y es lançe muy digno de que se ponga 4. en la notiçia de su M[a]gd. Como este Consso lo á heçho[?] y de q 5. su M[a]gesta>d tome Resolu< [?]>on sobre un negoçio que podrá[?] ser 6. de tan mala consequençia si se dejase consentido[?]. Y Vm. 7. Cumple. Con su obligaçion. En haver dado esta notiçia 8. Y en todo lo que le toca[?] haçe, y a hecho lo mismo siempre 9. gde Dios a Vm ms a< ño>s Md[?] Y heno 20 de 1668 10. B. l ms de Vm su mr[?] serr[?] 11. [?] marques 12. de [?][?] 13. sr Dn Pedro Staçilia Y pax [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "133:6004a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo20/133:6004a.JPG",
+      "url": "/legajos/legajo-20/images/133:6004a.JPG"
+    },
+    {
+      "filename": "134:6004b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo20/134:6004b.JPG",
+      "url": "/legajos/legajo-20/images/134:6004b.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "133:6004a.JPG",
+  "warnings": [],
+  "raw_source": "raw/legajos/legajo-20/cartas/003223.json",
+  "primary_image_url": "/legajos/legajo-20/images/133:6004a.JPG"
+}

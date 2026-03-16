@@ -1,0 +1,38 @@
+{
+  "legajo_id": "13",
+  "id_carta": "1840",
+  "order_in_legajo": 107,
+  "signatura": "174:2344.JPG",
+  "nombre_carta": "Carta de Jerónimo Pelegrín de Aragüés a Pedro Santacilia y Pax",
+  "fecha_original": "21 de noviembre de 1668",
+  "lugar": "Mallorca",
+  "remitente": "Jerónimo Pelegrín de Aragüés",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Lo que puc dir a v. s. és que el Sr. Mateu Armengol, després que v. m. és fora sempre ha estat en esta sa casa assistint en tot i per tot com v. m. pot creure de la seva bona voluntat, etc. Tota via lo sr. son fill Jaume Armengol, que v. s.coneix, ha servit a sa magestat molts anys d'alferes i és casat. En Cadis, per sa reputació, tota via està entretingut en esta ciutat, i fora de sa casa i muller. V. s. té aquí el duc de Medinaceli, mi sr., i el duc d'Alcalà. El sr. Mateu i jo suplicam a v. s. se servesca v. s. parlar amb aqueixos senyors si acomodaran amb una companyia en la armada dit alferes Jaume Armengol, perquè pugui continuar els seus serveis i tornar en sa casa amb tota honra, puix v. s.coneix sa casa. Déu lo me guarde molt, com desig i he menester, de Mallorca, 21 de novembre 1668, dissabte de santa Cecília. Li deman esta gràcia, que el virrei ha fet forat [?] i, com hi ha competència de música nova i vella, vejam qui guanyarà. Son criat de v. s. que sa mà besa, Jeronimo Pelegrin i Aragues Senyor don Pedro jo confio que v. s. m'honrarà, puix sap que som criat de v. s. Mateu Armengol Mi Sr. don Pedro Transcripción literal"
+  ],
+  "literal": [
+    "1. Lo que puch dir a VS es que el Sr. Matheu Armengol2. despres que VM es fora sempre a estat en esta sa cassa3. asistint en tot y pertot, Com V.M. pot creure de la sua bona4. voluntat, etta.5. Totavia lo sr. son fill Jaum Armengol que VS conex ha servit6. a Sa Magd molts añys de Alferes i es Cassat, en Cadiz per7. sa reputaçio totavia esta entretingut, en esta Ciutat, y fora8. de sa Cassa y muller.= V.S. te aqui lo Sr. Duque de Medina 9. celi mi Sr. y el Sr. Duque de Alcala; lo Sr. Matheu y jo,10. suppm a VS seservexça V.S. parlar ab aquexos senors11. si acomodran abuna Comppa en la Arma dit Alferez12. Jaume Armengol peraque puga continuar sos serveys13. j tornar en sacassa ab tota onrra puis V.S. conex14. sacassa Deu lom guarde molt com desig y he menester15. de Mallorça 21. de 9bre 1668. Diapte[?] de Sta Sicilia16. li deman esta gracia que el Sr. Virrey la fet finat17. y com hia Conpetencia de musica, nova y vella veiam18. qui guaniara=19. Son Criat de V.S. q s[a] m[a] B20. Geronymo Pelegrin y Aragues21. Señor Don Pedro jo confio que V.S. me onrera22. pque sap que som criat de V.S.23. S. Matheu Armangol24. Mi Sr. Don Po [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "174:2344.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo13/174:2344.JPG",
+      "url": "/legajos/legajo-13/images/174:2344.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "174:2344.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (4)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-13/cartas/001840.json",
+  "primary_image_url": "/legajos/legajo-13/images/174:2344.JPG"
+}

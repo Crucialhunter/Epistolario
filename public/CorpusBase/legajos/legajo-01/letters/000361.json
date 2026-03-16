@@ -1,0 +1,57 @@
+{
+  "legajo_id": "1",
+  "id_carta": "361",
+  "order_in_legajo": 52,
+  "signatura": "119-252a",
+  "nombre_carta": "Carta de Luis Viguet a Jerónimo Pelegrín de Aragüés",
+  "fecha_original": "25 de enero de 1668",
+  "lugar": "Valencia",
+  "remitente": "Luis Viguet",
+  "destinatario": "Jerónimo Pelegrín de Aragüés",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Senyor Jeroni Pelegri d'Aragues",
+    "La de vostra mercè tinc rebuda per mans del senyor don Arnau, i en ella molt content per veure gaudeix de bona salut. Que sia per molts anys. No l'he servit al senyor don Arnau com sa mercè mereixia, però pense se n’ha anat gustós a Madrid. Vostra mercè no {ESP. rehuse} el manar-me moltes coses de son gust, que a tot serà obeït. Al senyor don Pedro dirà vostra mercè que no excuse ninguna cosa que jo pugui assistir-li, que ho faré amb gran gust. Guardi Nostre Senyor a vostra mercè molts anys. Valencia i gener als 25 de 1668.",
+    "Beso les mans de vostra mercè, Lluis Viguet",
+    "A Jeroni Pelegri d'Aragues. Guardi Nostre Senyor.",
+    "Mallorca.",
+    "Valencia, de Luis Viguet, de 25 gener 1668. Resposta a 22 febrer dit."
+  ],
+  "literal": [
+    "1. Sr. Geroni Pelegri de Aragues",
+    "2. La de V.M. tinch rebuda per mans del Sr. d. Arnau y enella molt",
+    "3. contento per veure Gda de bona salut que sie per molts añy",
+    "4. no le servit al Sr. d. Arnau com Su merse meregia pero pense",
+    "5. sen a nat gustos a Madrid. V.M. no reuse el manarme moltes",
+    "6. coses de son gust que a tot sera obeyt. al Sr. Don Pedro dira",
+    "7. V.M. que no escuse ninguna cosa que yo puga asistirli que",
+    "8. o fare en Gran Gust Gde Nostre Sr. a V.M. molts añy",
+    "9. Valencia y Jiner als 25 de 1668.",
+    "10. B L M de V.M.",
+    "11. Lloys Viguet [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "119-252a.gif",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo01/119-252a.gif",
+      "url": "/legajos/legajo-01/images/119-252a.gif"
+    },
+    {
+      "filename": "120-252ba.gif",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo01/120-252ba.gif",
+      "url": "/legajos/legajo-01/images/120-252ba.gif"
+    },
+    {
+      "filename": "120-252bb.gif",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo01/120-252bb.gif",
+      "url": "/legajos/legajo-01/images/120-252bb.gif"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "119-252a.gif",
+  "warnings": [],
+  "raw_source": "raw/legajos/legajo-01/cartas/000361.json",
+  "primary_image_url": "/legajos/legajo-01/images/119-252a.gif"
+}

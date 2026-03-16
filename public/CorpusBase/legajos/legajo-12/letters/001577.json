@@ -1,0 +1,38 @@
+{
+  "legajo_id": "12",
+  "id_carta": "1577",
+  "order_in_legajo": 84,
+  "signatura": "109_6168.JPG",
+  "nombre_carta": "Carta de Pedro de Aragón a Pedro Santacilia y Pax",
+  "fecha_original": "6 de febrero de 1642",
+  "lugar": "Tarragona",
+  "remitente": "Pedro de Aragón",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "LLETRA COMPLICADA [1§] Transcripción literal"
+  ],
+  "literal": [
+    "1. LLETRA COMPLICADA"
+  ],
+  "imagenes": [
+    {
+      "filename": "109_6168.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo12/109_6168.JPG",
+      "url": "/legajos/legajo-12/images/109_6168.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "109_6168.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-12/cartas/001577.json",
+  "primary_image_url": "/legajos/legajo-12/images/109_6168.JPG"
+}

@@ -1,0 +1,38 @@
+{
+  "legajo_id": "16",
+  "id_carta": "2522",
+  "order_in_legajo": 8,
+  "signatura": "010:2022.JPG",
+  "nombre_carta": "Carta de Nicolás de Santacilia y Togores a Pedro Santacilia y Pax",
+  "fecha_original": "17 de enero de 1667",
+  "lugar": "Barcelona",
+  "remitente": "Nicolás de Santacilia y Togores",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Desde que llegue a Milán, vino de limosna, y así ha sido preciso, valerme de algunos amigos, porque no me he podido excusar de lo que han hecho los demás compañeros, y ahora por postre, hemos hecho vestidor a la moda de Francia, por no causar mucha novedad, con que me llegó, asiento y sin cuenta, reales de a ocho, y esto lo escribo con tanta claridad, porque vea v. m., que no lo gasto en flores, y luego que Diego Matias [?] no me dio un cuanto siquiera para Juan y una jornada de diez veces, que si yo no me hubiera ingeniado para su mula, y que comiera en el estado, todo cuando me han dado no bastará para este. Guarde Dios a v. m. muchos años como deseo y es menester. Barcelona a 17 de enero 1667. Su más humilde hijo de v. m. que su mano besa, Sr. don Nicolas de Santacilia y Togores Mi padre Transcripción literal"
+  ],
+  "literal": [
+    "1. Desde que llege a Milan, vino de limos=2. na, y asi asido presiço, valerme de algunos 3. amigo, porque no me he podido escusar de 4. lo, que an echo los demas Conpañeros, y 5. aora por postre, emos echo vestidor ala= 6. moda de françia, por no Causar mucha 7. novedad, Con que mellego, asiento y sinque8. nta, reales de aocho, y esto lo escrivo Con tan=9. ta Claridad, porque vea VM, que no lo gas=10. to en flores, y luego que diego Matias[?]11. no medio un quarto siquiera para Juan 12. y una jornada de dies vieses, que si yo no 13. me uviera ingeniado para su mula, y que 14. Comiera en el estado, todo quando me anda15. do no bastara para este Guarde Dios a VM 16. muchos años Como deseo y emenester Barse17. lona a 17 de Enero 1667 18. Su mas humilde hijo 19. de VM q S[u]M]B 20. Don Nicolas de Stacilia yTogores21. [Margen izquierda][^ mi Padre] [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "010:2022.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo16/010:2022.JPG",
+      "url": "/legajos/legajo-16/images/010:2022.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "010:2022.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-16/cartas/002522.json",
+  "primary_image_url": "/legajos/legajo-16/images/010:2022.JPG"
+}

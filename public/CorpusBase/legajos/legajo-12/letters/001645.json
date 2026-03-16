@@ -1,0 +1,43 @@
+{
+  "legajo_id": "12",
+  "id_carta": "1645",
+  "order_in_legajo": 149,
+  "signatura": "218_6238a.JPG",
+  "nombre_carta": "Carta de Isabel de Salvá a Pedro Santacilia y Pax",
+  "fecha_original": "7 de junio de 1651",
+  "lugar": "Madrid",
+  "remitente": "Isabel de Salvá",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Deseo halle esta a v.m. con tan entera salud como yo deseo, amén. Las personas reales, Dios las guarde, la tienen. Solo la sra. infanta está sangrada por un corrimiento que le ha dado a las narices, pero es sin calentura; y la reina tan preñada que salió de cuenta el domingo de la santísima trinidad y tan bueno que’s cosa de ver el rey tan contento no tratando de otra cosa sino de fiestas y galas. Quiera Dios dar nacer príncipe para colmo de todo. Mi sra. está buena, gracias a Dios, y tan regalada y rica con tantas cosas como v.m. le ha enviado, porque todo vino con mucha puntualidad. Las telas son famosas y tantas que hay para muchos años; alcaparras [1§] lindísimas y las tallas también, que todo le sabe muy bien a mi sra., y el aceite también, que’s tanto que hay para todo el lugar. Guarde dios a v.m. por la merced. Y las espadas todo se recibió con grande cuidado de que lo trajo v.m. y a saber ¿? si no es así suplico le me perdone el haberlo todo el aviso porque no he podido. Yo también estoy buena y todos en casa, y besan a v.m. l<as> manos y en particular mi hermana. Los <hijos y> nietos de mi sra. también están todos bu<enos>, y mi sra. preñada en tres meses que lo <de>be hacer muy bien la portuguesa. A v<m> guarde Dios como puede en compañia <de> todos esos sres. muchos años. Amén. Ma<dri>d y junio 7 de 1651 Doña Isabel de Salvo Sr don Pedro de Santacilia Transcripción literal"
+  ],
+  "literal": [
+    "1. LLETRA COMPLICADA"
+  ],
+  "imagenes": [
+    {
+      "filename": "218_6238a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo12/218_6238a.JPG",
+      "url": "/legajos/legajo-12/images/218_6238a.JPG"
+    },
+    {
+      "filename": "219_6238b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo12/219_6238b.JPG",
+      "url": "/legajos/legajo-12/images/219_6238b.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "218_6238a.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-12/cartas/001645.json",
+  "primary_image_url": "/legajos/legajo-12/images/218_6238a.JPG"
+}

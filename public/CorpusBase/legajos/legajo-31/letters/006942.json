@@ -1,0 +1,43 @@
+{
+  "legajo_id": "31",
+  "id_carta": "6942",
+  "order_in_legajo": 181,
+  "signatura": "266:1693a.JPG",
+  "nombre_carta": "Carta de Sebastià Mesquida a Pedro Santacilia y Pax",
+  "fecha_original": "19 de septiembre de 1663",
+  "lugar": "Manacor",
+  "remitente": "Sebastià Mesquida",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Illm ahir que comptàvem als 18 setembre 1663 havent que Mateu gelebert amb què em dona instª. que serà davingut de paraules amb Bernat vidali en continent que dit gelebert se'n fou anat en sa casa a la qual l'havia arestat em dona així mateix Instª. que havia tingudes per a uels amb dit gelebert amb què així mateix li doni rest i presó en sa casa i en continent per {ESP. medi} de bones persones foran amics de tot el qual dóna avís a su Il·lustríssima la persona del qual guardi Nostre Senyor dat en Manacor als 19 setembre 1663 Sabastia masquide batle Real [1§] Al Ilmo Sr. Dó Pedro Santacilia i Pax cavaller de l'hàbit de Calatrava lloc i capità general [?] present reino [2§] Transcripción literal"
+  ],
+  "literal": [
+    "1. Illm Sr. 2. air que contavem als 18 setembre 1663 avenque Matheu gele3. bert ab que am dona instª. que sera davingut de paraules 4. ab barnat vidali ancontinent que dit gelebert sen fonch 5. anat en se casa a le qual lo avia arestat am dona axi matex 6. Instª. que avia tingudas parauels ab dit gelebert ab que axi 7. matex li doni rest i preso en se casa i ancontinent per me8. di de bonas personas foran amichs de tot lo qual dona 9. avis a su Illma la parsona del qual guarde Nostro señor dat 10. en Manacor als 19 7bre 1663 11. Sabastia masquide Balle Real [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "266:1693a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo31/266:1693a.JPG",
+      "url": "/legajos/legajo-31/images/266:1693a.JPG"
+    },
+    {
+      "filename": "267:1693b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo31/267:1693b.JPG",
+      "url": "/legajos/legajo-31/images/267:1693b.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "266:1693a.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (2)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-31/cartas/006942.json",
+  "primary_image_url": "/legajos/legajo-31/images/266:1693a.JPG"
+}

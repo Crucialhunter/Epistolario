@@ -1,0 +1,38 @@
+{
+  "legajo_id": "34",
+  "id_carta": "5095",
+  "order_in_legajo": 123,
+  "signatura": "190:7010.JPG",
+  "nombre_carta": "Carta de Fructuoso Piqué a Pedro Santacilia y Pax",
+  "fecha_original": "25 de abril de 1657",
+  "lugar": "Madrid",
+  "remitente": "Fructuoso Piqué",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "mucho me espanto que v. m. no haya recibido cartas mías, habiendo escrito muchas pero ha habido grandes temporales en el mar, y algunas están detenidas en Valencia y Barcelona y otras se han perdido. y a llegaron las que v. m. envió para los señores consexeros de estado, y se está hazdo la diliga con buena esperanza Dios lo disponga que me holgaré mucho de ello por el consuelo de v. m. Estamos muy adelante de este año y v. m. no me hapagado los 200 ducados de mi Renta de Navidad, ni los 800 reales de mi Alcaydia, suplico a v. m. que pues yo no me olvido de servirle, se acuerde v. m. de hacerme merced como se la procuro merecer, y lo espero de su mano. ese pliego de Marcos Valles me importa le reciba luego suplico a v. m. se le haga dar, y avisarme de ello y aNuestro Señor que guarde a v. m. muchos años como deseeo. Madrid a 25 de abril 1657. Besa la mano de v. m. su mayor servidor Fructuoso Pique extrem inferior Duplicado Procurador real Sr. don Pedro Santacilia y Pax [1§] Transcripción literal"
+  ],
+  "literal": [
+    "1. Mucho me espanto que vm. no haya recivido2. cartas mias, haviendo escrito muchas pero ha havido3. grandes temporales enel mar, y algunas estan detenidas4. en Vala y Barna y otras se han perdido.5. Ya llegaron las que vm. embio para los Sres Consexeros6. de estado, y se esta hazdo la diliga con buena esperanza7. Dios lo disponga queme holgare mucho dello por el consuelo8. de Vm9. Estamos muy adelante deste año y vm no me hapagado10. los 200 ducados demi Renta de Navidad, ni los 80011. Rs demi Alcaydia, Supp[li]co avm que pues yo no me olvido12. de servirle, se acuerde vm. de hazerme mrd como sela13. procuro merezer, y lo espero desumano.14. Esse pliego de Marcos Valles me importa le Reciva15. luego supp[li]co avm sele haga dar, y avisarme dello16. y anro señor que gde avm muchos años como deseeo.17. Md a 25 de Abril 165718. B l[a] m de vm19. su mayor seror20. Fructuoso Pique21. [extrem inferior]22. Duppdo23. Sr. Procuor Rl Don Po Santa Silia y Pax [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "190:7010.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo34/190:7010.JPG",
+      "url": "/legajos/legajo-34/images/190:7010.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "190:7010.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-34/cartas/005095.json",
+  "primary_image_url": "/legajos/legajo-34/images/190:7010.JPG"
+}

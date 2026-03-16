@@ -1,0 +1,38 @@
+{
+  "legajo_id": "23",
+  "id_carta": "3822",
+  "order_in_legajo": 128,
+  "signatura": "155:3234.JPG",
+  "nombre_carta": "Carta de Diego de Guardiola y Guzmán a Pedro Santacilia y Pax",
+  "fecha_original": "9 de enero de 1661",
+  "lugar": "Penedés",
+  "remitente": "Diego de Guardiola y Guzmán",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Don Pedro, don Alonso de Molina es persona a quien tengo mucha obligación y así os suplico por cuanto no tiene plaza que ha venido conmigo hasta ahora le embarques y le hagas la merced que espero me escriba como digo con un criado solo [?] Dios os guarde de Penedés 9 de enero de 1641 Vuestro amigo Don Diego de Guardiola y Guzman [1§] Transcripción literal"
+  ],
+  "literal": [
+    "1. Don Pedro don alonso de molina es persona2. a quien tengo mucha obligasion y asi3. os suplico por cuando no tiene placa q a4. venido con migo astagora le enbar5. gues y le agas la merced q espero me6. ascriba como digo con un criado solo [?]7. [?] dios os guarde de Panades8. 9 de enero de 16419. buestro amigo10. Don diego de guardiola y gusman [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "155:3234.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo23/155:3234.JPG",
+      "url": "/legajos/legajo-23/images/155:3234.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "155:3234.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-23/cartas/003822.json",
+  "primary_image_url": "/legajos/legajo-23/images/155:3234.JPG"
+}

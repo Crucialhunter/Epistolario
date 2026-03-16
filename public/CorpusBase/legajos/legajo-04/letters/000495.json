@@ -1,0 +1,48 @@
+{
+  "legajo_id": "4",
+  "id_carta": "495",
+  "order_in_legajo": 50,
+  "signatura": "071-35a",
+  "nombre_carta": "Carta de Persona desconocida a Pedro de Verí",
+  "fecha_original": "6 de octubre de 1674",
+  "lugar": "Madrid",
+  "remitente": "Persona desconocida",
+  "destinatario": "Pedro de Verí",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Sr. mío, por haber escrito todos los correos en respuesta de las que he recibido de v. m. así por Valencia como por Barcelona seré breve. El vicecanciller no se ha levantado. No va al consejo, aunque está mejor. Aquel recado que v. m. envía a manos de su señor lo entregará luego D. Silvestre, que así quedó conmigo y con su señor el día 3 de este mes, y solo esperan que llegue de Valencia para entregarlo y los memoriales para que se hagan las segundas consultas. Se pondrán con tiempo en el consejo sin que quede diligencia que hacer para su consecución, y yo [1§] tengo hablados a todos estos jueces que me han ofrecido harán las firmas. El día 3 por Valencia avisé a v. m. de haber entregado las cartas últimas al Sr. D. Miguel Salva, al Sr. D. Juan Forteza y su pliego a D. Silvestre Prats. Las cartas de 8 de septiembre que v. m. y el Sr. Leonardo Zaforteza me escribieron por Barcelona no han llegado ni hay nuevas de tal bergantín, habiendo llegado las duplicadas de la misma fecha por vía de Valencia 15 días ha. La carta de quejas de la ciudad y que v. m. me encargó que pusiese en consejo se vio con gran atención y se le escribe al señor virrey persiga a los bandidos, visite las cárceles y cumpla a provisión del virreinato. Se difirió hasta venir al consejo el vicecanciller y no hay duda en la mudanza y todo el consejo está en ello, [2§] conque los señores jurados reconocerán la fineza con que los sintió [?] y ahí se envía orden para que tomen 17.500 libras de la tabla para los gastos anuales y no sean enseguida poco siendo contra Real Pragmática. Nuestro señor guarde a v.m. muchos años. Madrid y octubre, a 6 de 1674. Beso sus manos de v. m. Su más reverendo y afecto criado. D. Pablo [?] Los señores D. Miguel Salva y D. Juan Forteza me dijeron escribían a v. m. por Valencia el día 3 y lo propio a D. Silvestre y Nro. Señor. Sr. D. Pedro de Veri, Sr. mío. Transcripción literal"
+  ],
+  "literal": [
+    "1. Sr. mio por aber escrito en respuesta de las que e re2. cibido de V.M. asi por Valencia co3. mo por Barcelona sere breve.4. El Sr. Vich canciller no sea le5. bantado. No ba al Conso aunque6. esta mejor= Aquel recado q V.M. imbia amanos de su se 7. ñor lo entregara luego D. Silbes 8. tre que assi quedo conmigo9. y con su Sr. el dia 3 deste 10. mus y solo esperan que llegue de11. Valencia para entregarlo, y los12. memoriales para que se agan las13. segundas consultas se pondran14. con tiempo en el conso sin que15. quede dilijencia que acer pa16. ra su consecucion y yo ten [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "071-35a.jpg",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo04/071-35a.jpg",
+      "url": "/legajos/legajo-04/images/071-35a.jpg"
+    },
+    {
+      "filename": "072-35b.jpg",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo04/072-35b.jpg",
+      "url": "/legajos/legajo-04/images/072-35b.jpg"
+    },
+    {
+      "filename": "073-35c.jpg",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo04/073-35c.jpg",
+      "url": "/legajos/legajo-04/images/073-35c.jpg"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "071-35a.jpg",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-04/cartas/000495.json",
+  "primary_image_url": "/legajos/legajo-04/images/071-35a.jpg"
+}

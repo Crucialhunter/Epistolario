@@ -1,0 +1,38 @@
+{
+  "legajo_id": "6",
+  "id_carta": "635",
+  "order_in_legajo": 135,
+  "signatura": "197-100",
+  "nombre_carta": "Carta de Tomás Mariano Quint Zaforteza a Cecilia Zaforteza y Sureda de Sant Martí",
+  "fecha_original": "8 de agosto de 1770",
+  "lugar": "Madrid",
+  "remitente": "Tomás Mariano Quint Zaforteza",
+  "destinatario": "Cecilia Zaforteza y Sureda de Sant Martí",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Madrid i agost 8 de 1770. Tia Cecília, va la {ESP. despedida}, en què li dic que estic boníssim per servir-la i si vol res de mi disponga que sempre [hi] seré. Son nebot qui més l’estima,Tomàs Mariano Quint Zaforteza. Son les 10 i per ara no som més llarg. Tia Cecília Transcripción literal"
+  ],
+  "literal": [
+    "1. [ f. 100 ]2. Madrid y Agost 3. 8 de 1770 4. Tia Cecilia va la 5. despedida en que li dich que 6. estich bonisim per servirla y 7. si vol res de mi disponga q[u]e 8. sempra sere son nebot qui 9. mes la estima 10. Thomas Meria- 11. no Quint Çafort- 12. eza 13. son la 10 14. y per ara 15. no som mes llarch. 16. Tia Ceci(^la)lia [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "197-100.jpg",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo06/197-100.jpg",
+      "url": "/legajos/legajo-06/images/197-100.jpg"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "197-100.jpg",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (2)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-06/cartas/000635.json",
+  "primary_image_url": "/legajos/legajo-06/images/197-100.jpg"
+}

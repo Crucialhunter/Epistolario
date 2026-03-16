@@ -1,0 +1,38 @@
+{
+  "legajo_id": "22",
+  "id_carta": "3699",
+  "order_in_legajo": 81,
+  "signatura": "148:5068.JPG",
+  "nombre_carta": "Carta de Pedro Monleón a Pedro Santacilia y Pax",
+  "fecha_original": "26 de septiembre de 1648",
+  "lugar": "Madrid",
+  "remitente": "Pedro Monleón",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Sr. D. Pedro Santacilia i Pax mon amo Greu me sap que no pugui escriure a v. m. algunes degollacions, el negoci va molt calent no se el que serà. Al duc de Hijar portaren estos dies de S. Torcas i el posaren en una casa particular apretadíssim que sols li parla i dona a menjar un alcalde de {ESP. corte}. Hay moltes prisions fetes i se'n van fent amb gran secret. Sa magestat gracies a Déu ja està bo, si bé no ha donat audiència, diuen que el dia de St. Miquel ix en públic i escriguí de la privança que estava en la mateixa permanència. El consell de guerra esta reduït a la junta del comte de Monterrey, Mortara, don Fernando Dexada i don Fernando Ruiz de Contreras etts. Guardi Nre. Sr. a v. m. ditxosos anys. Madrid i setembre 26 de 1648. De v. m. molt servidor que ses mans besaPedro de Monleon Transcripción literal"
+  ],
+  "literal": [
+    "1. Sr. D. Pº Sta. Cilia2. y Pax mon amo3. Greu me sab q[ue] no puga escriure á V.M.4. algunes degollacions, lo negoci va molt calent5. no se lo q[ue] sera. Al duch de Hijar porta=6. ren estos dies de S. Torcas y lo posaren en una7. casa part[icula]r apretadissim q[ue] sols li parle y done8. a menjar un Alcalde de Corte, ay moltes prisions9. fetes y sen van fent ab gran secret. Se Magt.10. gracies a deu yasta bo si be no ha donat11. aud[ienci]a diuhen q[ue] el dia de S. Miquel ix12. en publich. Ya escrigui de la privança13. q[ue] estave en la matexa permanencia lo14. Concell de guerra esta reduit a la Junta del15. Sr. Conde de Monterrey, Mortara, Don Fer[nan]do16. Dexada y don Fer[nan]do Ruiz de Contreras etts.17. Gde. N. Sr. a V.M. dichosos añys. Ma[dri]d 18. y sett[embr]e 26 de 1648. 19. de V.M. molt serv[id]or20. q[ue] ses mans besa21. Pº de Monleon [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "148:5068.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo22/148:5068.JPG",
+      "url": "/legajos/legajo-22/images/148:5068.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "148:5068.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-22/cartas/003699.json",
+  "primary_image_url": "/legajos/legajo-22/images/148:5068.JPG"
+}

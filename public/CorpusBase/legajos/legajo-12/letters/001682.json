@@ -1,0 +1,38 @@
+{
+  "legajo_id": "12",
+  "id_carta": "1682",
+  "order_in_legajo": 109,
+  "signatura": "277_6275.JPG",
+  "nombre_carta": "Carta de Gaspar Domènech a Pedro Santacilia y Pax",
+  "fecha_original": "11 de agosto de 1647",
+  "lugar": "Madrid",
+  "remitente": "Gaspar Domènech",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "a los 6 del corriente he llegado en esta corte donde me tendrá v. m. para lo que seja su gusto mandame las cartas tengo dadas y todos estos señores con su buena Intersación me han hecho mucha merced el hermano del Sr. D. Pascual está muy malo; lo que le suplico que no me tenga ocioso en lo que seja del gusto de v. m. que en Dios guarde muchos años y Madrid a los 11 de agosto 1632 criado de v. m. Gaspar Domenech Sr. D. Pedro Santacilia [1§] Transcripción literal"
+  ],
+  "literal": [
+    "1. A los 6 del corriente ellegado en esta2. corte donde me tendra v.md. para3. lo que seja su gusto mandame las4. cartas tengo dadas y todos estos Sres.5. con su buena Intersasion me an etcho6. mutcha mersed el ermano del Sr.7. Dn. Pasqual esta mui mallo; lo que8. le supp[li]co que no me tenga ossiosso en9. lo que seja del gusto de v.md. quen10. dios gde. mutchos Añyos y madrid11. a los 11 de Agosto 163212. Criado de v.md.13. Gaspar Domenech14. Sr. Dn. Pedro Sta Silia [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "277_6275.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo12/277_6275.JPG",
+      "url": "/legajos/legajo-12/images/277_6275.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "277_6275.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-12/cartas/001682.json",
+  "primary_image_url": "/legajos/legajo-12/images/277_6275.JPG"
+}

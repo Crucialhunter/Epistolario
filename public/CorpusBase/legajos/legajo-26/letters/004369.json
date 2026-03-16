@@ -1,0 +1,50 @@
+{
+  "legajo_id": "26",
+  "id_carta": "4369",
+  "order_in_legajo": 104,
+  "signatura": "145:3463.JPG",
+  "nombre_carta": "Carta de Juan de Vélvez y Cavanillas a Pedro Santacilia y Pax",
+  "fecha_original": "1 de julio de 1642",
+  "lugar": "Malta",
+  "remitente": "Juan de Vélvez y Cavanillas",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Señor mío, dicen de v. m. es gobernador de Menorca. Siento v. m. vaya retirado a ese escollo. Avíseme v. m. que ha sido la cosa i me dé muy buenas nuevas de su salud. La ocasion de ir las galeras a Mallorca me convida a escribirle. Ya sabe lo que le estimo. Suplícole me dé muchas nuevas de su salud que deseo sean muy buenas. Yo deseo volverme que me hallo [?] por acá, no sé cuando beso muchas veces le nombramos i hacemos brindis a su salud, que le aseguro tiene muchos amigos. Nuestro Señor le guarde como puede y yo deseo. Malta a 1 de julio de 1642. Beso a v. m. las manos por Don Juan de Velvez y Cavanillas Señor gobernador i capitán general del reino de Menorca Transcripción literal"
+  ],
+  "literal": [
+    "1. Senor mio dicen de vm es Gobernador de 2. menorca siento vmd vaia retirado a hese 3. escollo aviseme vmd queasido la cusa i me 4. de mui buenas nuebas de su salud la ocasion 5. de ir las galeras a Mallorca me conbida 6. a escribille ia sabe lo que le estimo 7. suplicole me de muchas nuebas de 8. su salud que desean sean mui buenas 9. io deseo bolberme que me allo [?] 10. por aca no se quando besa muchas beces 11. le nombramos i asemos brindes a su salud 12. que le asiguro tiene muchos amigos 13. nuestro Sñor le guarde como puede 14. io deseo Malta a 1 de Julio de 1642.15. Beso a Vmd las manos por 16. Don Juan de Belbez 17. y Cabanillas18. Señor Gobernador i capi19. tan general del reino de Menorca [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "145:3463.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo26/145:3463.JPG",
+      "url": "/legajos/legajo-26/images/145:3463.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "145:3463.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    },
+    {
+      "code": "IMAGE_DOWNLOAD_FAIL",
+      "message": "HTTP 404",
+      "context": {
+        "url": "http://santacilia.info/intranet2/img/Legajo26/145:3463.JPG"
+      }
+    },
+    {
+      "code": "IMAGE_COUNT_MISMATCH",
+      "message": "Imágenes detectadas (1) != descargadas (0)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-26/cartas/004369.json",
+  "primary_image_url": "/legajos/legajo-26/images/145:3463.JPG"
+}

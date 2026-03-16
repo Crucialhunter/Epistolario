@@ -1,0 +1,43 @@
+{
+  "legajo_id": "23",
+  "id_carta": "3870",
+  "order_in_legajo": 127,
+  "signatura": "220:3283a.JPG",
+  "nombre_carta": "Carta de Diego Matías de Aragüés a Pedro Santacilia y Pax",
+  "fecha_original": "8 de enero de 1661",
+  "lugar": "Madrid",
+  "remitente": "Diego Matías de Aragüés",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Estos renglones hago per Alicante remitiéndome a las que tengo escritas y esperando respuesta de ellas. El Sr. don Juan goza de buena salud, a Dios gracias, y estos días ha estado ocupado y per eso no escribe en esta ocasión, para el miércoles por Valencia escribirá a todos. He recibido los pliegos del 14 y 16 del mes pasado, y las inclusas que vinieron en ellos se dieron a sus dueños no se me responde palabra a cosa de lo que tengo escrito desde que salió de aquí Jeronimo. A las otras de los avisos que di como conseguí el auto de la Inquisición para que la ejecución se pase adelante en la Inquisición de Mallorca. Ya veo que no puedo tener aviso de que los han recibido, he puesto petición, ayer para que se me dé el despacho, quiere el contrario estorbarlo con que no se me dé hasta ver la propiedad. [1§] Entiendo conseguía lo contrario presto, y en teniéndole lo remitiré luego por duplicado. V. m. me diga también si el de hoy ha salido antes de vacaciones ejecutaré todo lo que v. m. me ordena así en la asistencia del Sr. don Juan como en lo demás. A Jerónimo no escriba. Ahora he visto lo que me dice y no se me ofrece que decirle otro por ahora, más de lo que le tengo escrito y dicho, y que hoy se ha presentado responder de Andreu que ha llegado a buen tiempo porque estaban muy adelante, y si se descuidara habría negociado. V. m. me mande le sirva, a mi Sra. Dña. Leonor besamos la mano Dña. Margarita, Juanito y yo en las de v. m. y todos esos Sres. muchas veces y guarde Dios como deseo. Madrid a 8 de enero 1661. Besa la mano de v. m. su mayor servidor Diego Matias de Aragues El hábito del Sr. don Juan aún no ha bajado el decreto en saliendo enviaré los despachos para las pruebas. Sr. don Pedro Santacilia y Pax. Transcripción literal"
+  ],
+  "literal": [
+    "1. Estos renglones hago per Alicante2. remitiendome a las q tengo escritas3. y esperando respuesta dellas4. El Sr. don Juan Goza de buena salud5. a Dios gras y estos dias ha estado6. ocupado y per esso no escrive en7. esta ocasion, pa el miercoles por8. Valencia escrivira a todos,9. He recivido los pliegos del 14 y 16.10. del mes passado, y las Inclusas, q11. vinieron en ellos se dieron a sus dueños12. no se me responde palabra, a cosa 13. de lo q tengo escrito desde q salio de 14. aqui Geronimo; A las otras de los 15. avisos q di como consegui el auto16. de la Inqon pa q la exon se pase17. adelante en la Inqon de Mallorca18. ya veo q no puedo tener aviso 19. de q los han recivido, He puesto pe 20. ticion, ayer para q se me de el 21. despacho, quiere el contrario estorbar 22. lo con q no se me de hasta ver la propiedad [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "220:3283a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo23/220:3283a.JPG",
+      "url": "/legajos/legajo-23/images/220:3283a.JPG"
+    },
+    {
+      "filename": "221:3283b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo23/221:3283b.JPG",
+      "url": "/legajos/legajo-23/images/221:3283b.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "220:3283a.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (3)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-23/cartas/003870.json",
+  "primary_image_url": "/legajos/legajo-23/images/220:3283a.JPG"
+}

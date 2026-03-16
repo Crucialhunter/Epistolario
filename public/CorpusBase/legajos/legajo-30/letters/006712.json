@@ -1,0 +1,38 @@
+{
+  "legajo_id": "30",
+  "id_carta": "6712",
+  "order_in_legajo": 214,
+  "signatura": "288:5550.JPG",
+  "nombre_carta": "Carta de Basilio de Castellví y Ponce a Pedro Santacilia y Pax",
+  "fecha_original": "6 de septiembre de 1661",
+  "lugar": "Valencia",
+  "remitente": "Basilio de Castellví y Ponce",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Haceme v. s. particular favor en su carta de 30 de agosto que recibo con higual estimación por la merced que es servido hacerme v. s. participándome nuevas que tanto deseo de su sd. de v. s. hallome con muy buena para servir a v. s. y la acompañan Sr. D. Laura y Giuseppe que besan las manos a mi Sra. Dña. Leonor y yo con ambos hago lo mismo. Asigurese v. s. que obrare cuanto pudiere por el Pe. Benito Mayans pues a más de las prendas que le asisten el mandármelo v. s. bastara para que esfuerze con toda fineza sus particulares no excuse v. s. le suplico darme nuevas ordenes que no faltaré con rendida obediencia. Dios guarde a v. s. infinitos años como deseo Valª. y sete. a 6 de 1661 Ba v. s. l mo su mor Servidor Sr. don Basilio Castellvi y Ponçe Sr. D. Pedro Santacilia [1§] Transcripción literal"
+  ],
+  "literal": [
+    "1. Hazeme V. S. particular fabor en su carta de 30 de Agosto 2. que reçibo con higual estimacion por la md. que es servido 3. hazerme V. S. participandome nuevas que tanto deseo de 4. su sd. de V. S. hallome con muy buena para servir a V. S. y la 5. acompañan D. Laura y Jusepe que besan las manos a mi Sra. 6. D. Leonor y yo con ambos ago lo mismo. 7. Asigurese V. S. que obrare quanto pudiere por el Pe. Benito 8. Mayans pues a mas de las prendas que le asisten el man9. darmelo V. S. bastara para que esfuerçe con toda fineza 10. sus particulares no escuse V. S. le suppco. darme nuebas 11. ordenes que no faltare con rendida obediencia. Dios 12. gde. a V. S. infinitos años como deseo Valª. y sette. a 6 de 13. 1661 14. Ba VS l mo su mor Sdor 15. Don Basilio Castelvi 16. y Ponçe 17. Sr. D. Pedro SantaCicilia [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "288:5550.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo30/288:5550.JPG",
+      "url": "/legajos/legajo-30/images/288:5550.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "288:5550.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-30/cartas/006712.json",
+  "primary_image_url": "/legajos/legajo-30/images/288:5550.JPG"
+}

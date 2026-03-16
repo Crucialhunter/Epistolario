@@ -1,0 +1,43 @@
+{
+  "legajo_id": "25",
+  "id_carta": "4099",
+  "order_in_legajo": 33,
+  "signatura": "063_133a.JPG",
+  "nombre_carta": "Carta de Mateu Armengol a Jerónimo Pelegrín de Aragüés",
+  "fecha_original": "11 de abril de 1667",
+  "lugar": "Galdent (Llucmajor)",
+  "remitente": "Mateu Armengol",
+  "destinatario": "Jerónimo Pelegrín de Aragüés",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Sr. Jeroni Pelegri Després que hagi donat al bon acabament de pasqües a v. m. i a la Sra. Caterina i a tots aqueixos senyors, els quals {ESP. gosen} tots els anys que es desitgen per a mi etts. M'ofereix suplicar a v. m. que faci favor de demanar la gràcia a mi Sr. D. Pedro del lloctinent de procurador reial de la vila de Selva per a un nebot meu, doncs Ne. Sr. és estat servit que és passat d'esta a millor, i pel dit efecte tinc escrit a mi Sr. el dissabte de Pasqua i com no sé si ha rebuda la carta me pareix que al {ESP. medi} de v. m. no em pot faltar, doncs sé que suficient per {ESP. alcançar} coses de major importància, doncs se la mercè que mi Sr. li fa i tinc per experiència per haver experimetnat el bon pit que v. m. té amb sos servidors i com jo som d'aqueixos he {ESP. gosat} i tinc per cert que en esta ocasió farà el que jo faria per v. m. i per no tenir per ara cosa que més suplicar a v. m. sinó la resposta i que em mani moltes coses de son gust, que serà servit que no fent-ho d'aqueixa manera restaré {ESP. atrás} de mon gust, al qual guardi Ne. Sr. amb els augments que es poden {ESP. lograr} d'abril a 11 de 1667. Servidor de v. m. Mateu Armengol [1§] Al Sr. Jeroni Pelegri, que Déu guardi molts anys Galdent Transcripción literal"
+  ],
+  "literal": [
+    "1. Sr. Hm. Palagrí2. Despre que hage donat al boncabament de pasques a V.M. y a la3. Sa. Catharina y a tots aquexos Señors los quals gosan tots los añys4. que es desitgen per a mi ett. Me offerex suplicar a V.M. que fasa5. favor de demenar la grasia á mi Sr. Dn. Pedro del llochtinent6. de pdor. Real de la vila de Salva per un nebot meu puis Ne. Sr.7. es estat servit que es pasat de esta en millor, y per lo dit affec-8. ta tinc escrit a mi Sr. al disabta de pasqual y com no se si arebuda9. la carta me aparex que al medi de V.M. no em pot faltar puis se10. que sufisient per alcansar coses de mejor importansia puis se la11. merse que mi Sr. li fa y tinc per espariensia per aver esparimetnat12. lo bon pit que V.M. te an sos servidos y com jo som de aquexos he13. gosat y tinc per sert que en esta occatio fera lo que jo faria per 14. V.M. y per no tenir per ara cosa que mes suplicar a V.M. sino la15. resposta y que em mana moltes coses de son gust que sera servit que16. no fent, o de aquexa manera restare atras de mon gust, al qual guarda17. Ne. Sr. ab los auments que es poden lograr de Abril a 11 de 166718. Servidor de V.M.19. Matheu Armangol [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "063_133a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo25/063_133a.JPG",
+      "url": "/legajos/legajo-25/images/063_133a.JPG"
+    },
+    {
+      "filename": "064_133b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo25/064_133b.JPG",
+      "url": "/legajos/legajo-25/images/064_133b.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "063_133a.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (4)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-25/cartas/004099.json",
+  "primary_image_url": "/legajos/legajo-25/images/063_133a.JPG"
+}

@@ -1,0 +1,32 @@
+{
+  "legajo_id": "40",
+  "id_carta": "5681",
+  "order_in_legajo": 22,
+  "signatura": "064:33",
+  "nombre_carta": "Carta de Persona desconocida a Persona desconocida",
+  "fecha_original": "fecha sin especificar",
+  "lugar": "Mallorca",
+  "remitente": "Persona desconocida",
+  "destinatario": "Persona desconocida",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Relació de noms de persones de la noblesa mallorquina [1§] Transcripción literal"
+  ],
+  "literal": [
+    "1. Relació de noms de persones de la noblesa mallorquina"
+  ],
+  "imagenes": [
+    {
+      "filename": "064:33.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo40/064:33.JPG",
+      "url": "/legajos/legajo-40/images/064:33.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "064:33.JPG",
+  "warnings": [],
+  "raw_source": "raw/legajos/legajo-40/cartas/005681.json",
+  "primary_image_url": "/legajos/legajo-40/images/064:33.JPG"
+}

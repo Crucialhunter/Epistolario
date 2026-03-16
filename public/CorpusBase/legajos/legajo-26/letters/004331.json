@@ -1,0 +1,57 @@
+{
+  "legajo_id": "26",
+  "id_carta": "4331",
+  "order_in_legajo": 67,
+  "signatura": "096:3425a.JPG",
+  "nombre_carta": "Carta de Mateu Jaume a Pedro Santacilia y Pax",
+  "fecha_original": "9 de diciembre de 1639",
+  "lugar": "Caparroso",
+  "remitente": "Mateu Jaume",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Señor hoy a las doce envió una orden el señor marques de los Velez con ayudante del maese de campo general que recogiese la gente de estos cuatro lugares y que fuese a lugar a la villa de Caparroso y en la villa de San Martín a repartir la gente en los dos lugares igualmente y fue que en la villa de Caparroso estaban los irlandeses y tuvieron un disgusto con los del lugar y esto me parece es a modo de castigo. Pienso que lo pasaremos bien, de los cuatro lugares a donde estaba no se ha podido hacer la cuenta de la cebada. Yo tendría por bien que el furie [?] dase un paso por aquí pues que sabe la libra ya como está el cabo de escuadra no [?] a San Martín con quince y su boca muerta yo me quedo en Caparroso. Francisco Roca suplica a v. m. del caballo de Marcos Tasona y con esto no tengo de que avisar a v. m. sino que nuestro Señor guarde, de Caparroso a 9 de diciembre 1639. El Sr. Mateu Jaime Al licenciado Domenech mil besamanos y a don Francisco Español lo mismo. Una silla y puesto en el desoregada y me ha echado los compañones a rodar [1§] Cuando he recibido las cartas de v. m. ya estaba en Caparroso. Las cartas para el virrey las he encomendado a nuestro comisario que me ha prometido con seguridad que las dará en su mano, y que más nosco [?] Nro. Sr. Guarde a v. m. como deseo dando los aumentos merecidos a sus partes, de Caparsoso y diciembre a 10 de 1639. Transcripción literal"
+  ],
+  "literal": [
+    "1. Señor oi a las doce inbio una orden el señor marq[ues]2. de los Veliz con aiudante del Maese de Canpo3. general que recogiese la gente destos quatro4. lugares i que fuese a logar a la villa de ca5. paroso y en la villa de san martin repartir6. la gente en los dos lugares ygualmente7. y fue que en la villa de caparoso estavan los ir8. landeses i tubieron un disgusto con los del lugar9. y esto me pareze es a modo de castigo pienso10. que lo pasaremos vien, de los cuatro lugares a11. donde estava no se a podido azer la cuen[ta]12. de la cebada yo tendira por bienquel furie[?]13. dase un paso por aqui ues que save la libra14. ya como esta el cavo descuadra no gesbaa15. san martin con quinze y su boca muertal yo me 16. quedo en caparoso Franco. Roca suplica17. a Vmd. del cavallo de Marcos Tasona18. y con esto no tengo de que avisar a Vmd.19. sino que nuestro Señor guarde de Caparoso20. a 9 de decienbre 163921. El Mateu Jaime22. Al licenciado Domenique mil vesamanos y a don Franco. espanol23. lo mesmo24. Una silla i puesto en el desoregada i me a echa25. do los conpanones a rodar [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "096:3425a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo26/096:3425a.JPG",
+      "url": "/legajos/legajo-26/images/096:3425a.JPG"
+    },
+    {
+      "filename": "097:3425b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo26/097:3425b.JPG",
+      "url": "/legajos/legajo-26/images/097:3425b.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "096:3425a.JPG",
+  "warnings": [
+    {
+      "code": "IMAGE_DOWNLOAD_FAIL",
+      "message": "HTTP 404",
+      "context": {
+        "url": "http://santacilia.info/intranet2/img/Legajo26/096:3425a.JPG"
+      }
+    },
+    {
+      "code": "IMAGE_DOWNLOAD_FAIL",
+      "message": "HTTP 404",
+      "context": {
+        "url": "http://santacilia.info/intranet2/img/Legajo26/097:3425b.JPG"
+      }
+    },
+    {
+      "code": "IMAGE_COUNT_MISMATCH",
+      "message": "Imágenes detectadas (2) != descargadas (0)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-26/cartas/004331.json",
+  "primary_image_url": "/legajos/legajo-26/images/096:3425a.JPG"
+}

@@ -1,0 +1,38 @@
+{
+  "legajo_id": "6",
+  "id_carta": "586",
+  "order_in_legajo": 90,
+  "signatura": "103-57",
+  "nombre_carta": "Carta de Manuela Francisca Ramírez a Cecilia Zaforteza y Sureda de Sant Martí",
+  "fecha_original": "11 de septiembre de 1756",
+  "lugar": "Madrid",
+  "remitente": "Manuela Francisca Ramírez",
+  "destinatario": "Cecilia Zaforteza y Sureda de Sant Martí",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Amiga y muy señora mía, Puede v. s. estar confiada en cuanto dependa del arbitrio de mi marido para el buen éxito de su dependencia, a lo que contribuiré en lo que esté de mi parte con sumo gusto. Y crea v. s. le tendré muy especial en que esta pretensión tenga la determinación más favorable y v. s. esta satisfacción y la de mandarme cuanto gustare. Nuestro Señor guarde a v. s. muchos años como puede. Madrid y septiembre 11 de 1756. Besa las manos de v. s. su amiga y más cierta servidora, Manuela Francisca Ramírez. Mi señora da. Cecilia Caforteza y de Berga. Transcripción literal"
+  ],
+  "literal": [
+    "1. Amiga y mui Sra. mia: puede V.S. estar 2. confiada en cuanto dependa del ad- 3. vitrio de mi marido para el buen exi- 4. to de su dependencia, á lo que contribui- 5. rè en lo que estè de mi parte con sumo 6. gusto; y crea V.S. le tendrè mui espe- 7. cial, en que esta pretension tenga 8. la determinacion mas favorable, 9. y V.S. esta satisfaccion, y la de man- 10. darme cuanto gustàre. 11. Nro. Sr. Ge a V.S. ms a< ño>s como 12. puede. Madrid y septre 11 de 1756. 13. B L[a] M de V.S. su Amiga 14. y mas cierta servidora 15. Manuela Frana 16. Ramírez 17. Mi Sra. Da. Cecilia Caforteza, y de Verga. [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "103-57.jpg",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo06/103-57.jpg",
+      "url": "/legajos/legajo-06/images/103-57.jpg"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "103-57.jpg",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (2)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-06/cartas/000586.json",
+  "primary_image_url": "/legajos/legajo-06/images/103-57.jpg"
+}

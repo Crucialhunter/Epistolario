@@ -1,0 +1,38 @@
+{
+  "legajo_id": "26",
+  "id_carta": "4279",
+  "order_in_legajo": 10,
+  "signatura": "017:3373.JPG",
+  "nombre_carta": "Carta de marqués de Leganés a Pedro Santacilia y Pax",
+  "fecha_original": "4 de mayo de 1627",
+  "lugar": "Madrid",
+  "remitente": "marqués de Leganés",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Acabo de recibir la carta de v. m. de 20 de marzo y hu[élgome] de entender que v. m. haya llegado con la [salud que] le deseo a su casa, la mía ha andado est [?] gran quiebra con el mal de la gota de que [?] con alivio conocido y de cualquier mar [?] tendrá v. m. siempre para servirle [?] guna duda en cuanto valiere con [?] debida a la merced siempre me hace. [Guarde Dios] a v. m. muchos años. Madrid a 4 de mayo [?] V. m. me hace sumo favor en [?] de mi corta memoria. Estimaré sumamente toda la vida. Besa la mano de v. m. El marques de Leganes Sr. D. Pedro Santacilia [1§] Transcripción literal"
+  ],
+  "literal": [
+    "1. Acavo de recivir la carta de Vm de 20 de Marzo y hu[...]2. de entender que Vm. haya llegado con la [...]3. le deseo a su cassa la mia a andado est[...]4. gran quiebra con el mal de la gota de que [...]5. con alivio conocido y de qualquier mar[...]6. tendra Vm. siempre para servirle [...]7. guna duda en quanto valiere con[...]8. debida a la mrd siempre me haze [D. ...]9. a Vm. muchos años Md a 4 de Mayo [...]10. Vm me ace sumo favor en [...]11. de mi corta memoria estimare su[...]12. mente toda la vida13. B. l. m. de V.m.14. El Ms de Leganes[?]15. Sr. D. Pº Sta. Zecilia [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "017:3373.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo26/017:3373.JPG",
+      "url": "/legajos/legajo-26/images/017:3373.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "017:3373.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (2)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-26/cartas/004279.json",
+  "primary_image_url": "/legajos/legajo-26/images/017:3373.JPG"
+}

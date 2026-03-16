@@ -1,0 +1,43 @@
+{
+  "legajo_id": "32",
+  "id_carta": "7204",
+  "order_in_legajo": 205,
+  "signatura": "285:1962a.JPG",
+  "nombre_carta": "Carta de Basilio de Castellví y Ponce a Pedro Santacilia y Pax",
+  "fecha_original": "1 de octubre de 1666",
+  "lugar": "Valencia",
+  "remitente": "Basilio de Castellví y Ponce",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Señor mío Vicente Domingo es persona de mi obligación y entre los golpes de fortuna que ha tenido este año habiendo perdido cantidad de dinero considerable con un arrendamiento de una almadraba que ha hecho poquísima pesca, por consuelo de esta perdida enviando una barca cargada de esparto estos días a dicha almadraba se le han continuado los moros en el cab [?] y escapándose los marineros después [?] noticia de que haciendo su navegación ha [?] la Barbería se le rompió el arbol maestro por el temporal que le sobrevino por cuya causa le obligo a dar al travez en la isla de Eivisa con cuatro morosy un francés cautivo y así suplico a v. s. me haga gusto de escribir a la pna. que tuviere v. s. confidente en aquella isla para que haga aprención de esta barca pagando los gastos y reparos que se ofrecieren para el bu que que el dicho Vte. Domingo sale bueno ator [?] lo que se gastara v. s. perdone que en todas ocasiones le [?] y me dé m. de su servicio que sabe v. s. con la obediencia que acudiré a ellas Dios guarde a v. s. los ms. ans. que deseo. Valencia y octubre a pº. de 1666. Ba v. s. lmo Su mayor servidor Sr. don Basilio de Castellvi y Ponce Sr. D. Pedro Santacilia y Pax Transcripción literal"
+  ],
+  "literal": [
+    "1. Señor mio Viçente Domingo es persona de mi obliga2. cion y entre los golpes de fortuna que ha tenido 3. este año haviendo perdido cantidad de dinero 4. considerable con un arrendamiento de una al5. madrava que ha hecho poquisima pesca, por consue6. lo de esta perdida embiando una barca cargada 7. de esparto estos dias â dicha almadrava se le 8. han continuado los moros en el cab [?] 9. y escapandose los marineros despues [?] 10. noticia de que haziendo su navegacion ha [?] 11. la Barberia se le rompio el arbol maestro por 12. el temporal que le sobrevino por cuya causa le 13. obligo a dar al travez en la isla de Iviça 14. con cuatro morosy un frances cautivo y assi su15. plico a V. S. me haga gusto de escrivir a la pna. 16. que tuviere V. S. confidente en aquella isla para 17. que haga aprencion de esta barca pagando los 18. gastos y reparos que se ofreçieren para el buque 19. que el dicho Vte. Domingo sale bueno ator [?] [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "285:1962a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo32/285:1962a.JPG",
+      "url": "/legajos/legajo-32/images/285:1962a.JPG"
+    },
+    {
+      "filename": "286:1962b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo32/286:1962b.JPG",
+      "url": "/legajos/legajo-32/images/286:1962b.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "285:1962a.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-32/cartas/007204.json",
+  "primary_image_url": "/legajos/legajo-32/images/285:1962a.JPG"
+}

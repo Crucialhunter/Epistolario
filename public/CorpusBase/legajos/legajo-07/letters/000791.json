@@ -1,0 +1,43 @@
+{
+  "legajo_id": "7",
+  "id_carta": "791",
+  "order_in_legajo": 27,
+  "signatura": "36-22a copy",
+  "nombre_carta": "Carta de Nicolás de Santacilia y Togores a Jerónimo Pelegrín de Aragüés",
+  "fecha_original": "19 de marzo de 1672",
+  "lugar": "Galdent (Llucmajor)",
+  "remitente": "Nicolás de Santacilia y Togores",
+  "destinatario": "Jerónimo Pelegrín de Aragüés",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Ni vós ni en Maties Garcia no em responeu al que us digué si la fiança està així com [?] entregau-la a en Fuster i quan no, enviau-m'ho amb la conformitat, que frisa. Déu vos guard. Galdent, a 19 de març 1672. Don Nicolas de Santacilia Jeroni Pelegri i Aragues. [1§] A Jeroni Pelegri i Aragues, que Déu guard. Ciutat. Transcripción literal"
+  ],
+  "literal": [
+    "1. Ni Vos ni an Mathias Garcia 2. nom rasponau a lo quas dige 3. si la fiança asta axi com sastilu [?] 4. antragaula anan fuster y quant 5. no anviarmauan la conformitat que 6. frissa Deu vos Guart Galdent 7. a 19 de Mars 1672 8. Don Nicolas de sta Cilia 9. Garoni Palagri y Aragues [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "36-22a copy.gif",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo07/36-22a copy.gif",
+      "url": "/legajos/legajo-07/images/36-22a copy.gif"
+    },
+    {
+      "filename": "36-22b copy.gif",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo07/36-22b copy.gif",
+      "url": "/legajos/legajo-07/images/36-22b copy.gif"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "36-22a copy.gif",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (5)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-07/cartas/000791.json",
+  "primary_image_url": "/legajos/legajo-07/images/36-22a copy.gif"
+}

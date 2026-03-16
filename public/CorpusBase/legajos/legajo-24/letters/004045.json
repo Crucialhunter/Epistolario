@@ -1,0 +1,43 @@
+{
+  "legajo_id": "24",
+  "id_carta": "4045",
+  "order_in_legajo": 98,
+  "signatura": "127:4098a.JPG",
+  "nombre_carta": "Carta de Juan Valero Díaz a Pedro Santacilia y Pax",
+  "fecha_original": "1 de marzo de 1651",
+  "lugar": "Madrid",
+  "remitente": "Juan Valero Díaz",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "V. m. sea bien llegado al descanso de su casa, y no difiera mucho el enviarme la prenda que tiene intento de que venga a criarse acá como quien es. El duque está bueno y su pleito corre con felicidad. Dios nos dé un buen suceso. Mi Sra. la condesa ocupadísima y igual [?] mente contenta con el preñado de la reina nuestra Sra. El conde también tiene salud y todo camina con felicidad. Perdóneme el atrevimiento y envíeme dos mortones, uno menor que otro para destilar agua, que con ser escogidos por su mano de v. m. tendré fe en ellos, y mande v. m. remitirlos a Cristobal Madromo [?] que es un hombre muy conocido en Valencia y [1§] ya tiene orden mía para recibirlos pagar el parte y todo lo que le pidieren en Valencia. V. m. tome por mi este trabajo que yo lo serviré con las demás mercedes que me tiene hechas. Guarde Dios a v. m. muchos años como deseo Madrid a 1 de marzo 1651. Juan Valero Diaz Sr. D. Pedro Santacilia Transcripción literal"
+  ],
+  "literal": [
+    "1. Vm sea bien llegado al descanso de su2. casa, y no difiera mucho el embiarme3. la prenda q tiene intento de q venga4. á criarse aca como quienes.5. El duq esta bueno y su pleyto corre6. con felicidad, dios nos de un buen [suceso??]7. Mi Sra. la Condesa ocupadissima y igu[al-??]8. mente contenta con el Preñado de la9. Reyna nra Sra. El Conde tambien tiene sa10. lud y todo camina con felicidad11. Perdoneme el atrevimiento, y embieme12. dos mortones uno menor q otro para13. destilar agua, q con ser escogidos por su ma14. no de V.m. tendre fe en ellos, y mande15. V.m. remitirlos á Christoval Madromo[?] que es16. un hombre muy conocido en Valencia y [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "127:4098a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo24/127:4098a.JPG",
+      "url": "/legajos/legajo-24/images/127:4098a.JPG"
+    },
+    {
+      "filename": "128:4098b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo24/128:4098b.JPG",
+      "url": "/legajos/legajo-24/images/128:4098b.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "127:4098a.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-24/cartas/004045.json",
+  "primary_image_url": "/legajos/legajo-24/images/127:4098a.JPG"
+}

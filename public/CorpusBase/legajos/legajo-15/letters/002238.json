@@ -1,0 +1,38 @@
+{
+  "legajo_id": "15",
+  "id_carta": "2238",
+  "order_in_legajo": 137,
+  "signatura": "224:6463.JPG",
+  "nombre_carta": "Carta de Gerónimo Gómez de Espinosa a Pedro Santacilia y Pax",
+  "fecha_original": "29 de julio de 1647",
+  "lugar": "Tarragona",
+  "remitente": "Gerónimo Gómez de Espinosa",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Señor, Los días pasados no respondía la de v. m. por no haber entera salud. Ahora la tengo para todo lo que me quisiere mandar, que nadie acudirá [a ella] con más veras que yo. El alférez Antonio Reixac le he visto servir en esta guarnición muy bien, y en todo lo que se ha ofrecido del servicio de su majestad, ha cumplido muy puntualmente. Y así, me corren obligaciones de ayudar a los que sirven bien, a v. m. suplico, en lo que pudiera ayudarle, si bien yo no necesito de encargar cosa tan justa. Aquí me tiene v. m. muy a su servicio, a quién guarde Dios como este servidor antiguo desea. Tarragona, 29 de julio 1647. Muy servidor de v. m.,Don Jeronimo Gomez de Espinosa Señor don Pedro de Santacilia Transcripción literal"
+  ],
+  "literal": [
+    "1. Señor los días pasados norespondí, ala 2. de Vm por noaver entera salud. aora 3. latengo para todo loque me quísíere 4. mandar que nadíe, acudíra aclla con 5. mas beras que yo 6. El alferez. antonío racha leevísto ser7. bir enesta Guarnícíon muíbíen yen 8. todo loque sea ófrecido del servícío, 9. de sumagd acumplido muí puntual10. mente Yasí mecorren obligacíones, 11. de aíudar alos que sírben bíen, 12. a Vm suplico enloque pudíere ayudarle, 13. síbíen yono necesíto, de encargar cosa 14. tan justa / aquí metiene Vm muí 15. asuservício aquíen guarde díos como 16. este servidor antiguo desca taragona 17. 29 de julio 1647 18. Muí servídor de Vm 19. D Germo gomez Deespínosa20. [Margen izquierdo][^Sr D Pedro de Sta cecilia] [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "224:6463.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo15/224:6463.JPG",
+      "url": "/legajos/legajo-15/images/224:6463.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "224:6463.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (2)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-15/cartas/002238.json",
+  "primary_image_url": "/legajos/legajo-15/images/224:6463.JPG"
+}

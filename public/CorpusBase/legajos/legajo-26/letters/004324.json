@@ -1,0 +1,50 @@
+{
+  "legajo_id": "26",
+  "id_carta": "4324",
+  "order_in_legajo": 60,
+  "signatura": "086:3418.JPG",
+  "nombre_carta": "Carta de José de Bayetola a Pedro Santacilia y Pax",
+  "fecha_original": "30 de noviembre de 1639",
+  "lugar": "Zaragoza",
+  "remitente": "José de Bayetola",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Siempre que enviare nuevas de su salud de v. m. que vinieren acompañadas con tan gustosas como lo son para mi las de su venida, las estimaré mucho de que me holgaría tener mucha certeza. Suplico a v. m. que siempre que la enviare me la mande avisar con todo lo que se ofreciere de su servicio. Las cartas para mi [?] y yo he encaminado y con seguridad y haré lo mismo siempre que v. m. enviare otras cuya mano beso y guarde Dios muchos años. Zaragoza y noviembre 30 de 1639. Don Jose de Bagetola Sr. D. Pedro Santacilia y Pax Transcripción literal"
+  ],
+  "literal": [
+    "1. Siempre q inbiare nuevas de su2. salud de V.m. q vinieren acom3. pañadas con tan gustossas como4. lo son para mi las de su venida5. las estimare mucho de q me olgaria6. tener mucha certeza Sup[li]co a V.m.7. q siempre q la henviare me la8. mande avisar con todo lo q se ofre9. ciere de su servo. Las cartas para10. mi Pe y yo he encaminado y con11. siguridad y hare lo mismo siempre12. q V.m. imbiare otras cuya m.b.13. y ge. Dios muchos años. Çaraga14. y Nove. 30 de 163915. Don Jose de Bagetola16. Sr. d. Pº Santacilia y Pax [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "086:3418.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo26/086:3418.JPG",
+      "url": "/legajos/legajo-26/images/086:3418.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "086:3418.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    },
+    {
+      "code": "IMAGE_DOWNLOAD_FAIL",
+      "message": "HTTP 404",
+      "context": {
+        "url": "http://santacilia.info/intranet2/img/Legajo26/086:3418.JPG"
+      }
+    },
+    {
+      "code": "IMAGE_COUNT_MISMATCH",
+      "message": "Imágenes detectadas (1) != descargadas (0)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-26/cartas/004324.json",
+  "primary_image_url": "/legajos/legajo-26/images/086:3418.JPG"
+}

@@ -1,0 +1,43 @@
+{
+  "legajo_id": "18",
+  "id_carta": "3039",
+  "order_in_legajo": 68,
+  "signatura": "120:4878a.JPG",
+  "nombre_carta": "Carta de Basilio de Castellví y Ponce a Pedro Santacilia y Pax",
+  "fecha_original": "4 de noviembre de 1662",
+  "lugar": "Valencia",
+  "remitente": "Basilio de Castellví y Ponce",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "mío aunque el día que partió de aquí el señor don Juan eerá el mejor que se podía desear nos pu dimos prometer que había de llegar asucasade v. s. con todavrevedad me ha tenido con cuidado el viaje hasta haber visto cartas de v. s. y del señor don Juan que dos días a las tuve por Alicante con fha de 9 del pasado saliendo con ellas del cuidado en que me tenía la Navegación de que doy a v. s. la Noraba y sabiendo v. s. cuande mi obligación es el servirle y lo que intereso en ello, juzgo habrá que dado siempre corto mi deseo en lo que en esta casa he mos procurado servir al Sr. don Juan a que no nos ha dado lugar labrevedad del tiempo pero en otras acá siones si en mendara doña Laura da a v. s. la Nora va y a mi Sra. Doña Leonor y muchos recados al Sr. D. Ju y Giuseppe aficionados Espero para otro pasage por dar cuenta a v. s. de t en el le gobernador de Valencia según las primicias que tengo en esta estafeta por acá hay pocas Novedades y las que han venido [1§] en esta estafeta son las que Incluye esa relación Dios guarde a v. s. muchos años como deseo Va y mbre a 4 de 1662 Ba v. s. la mo su mayor s ervi Dr. Sr. don Basilio de Castellvi y Ponce rdo. Sr. don Pedro de Santacilia [2§] Transcripción literal"
+  ],
+  "literal": [
+    "1. Sr mio aunque el dia que partio de aqui el señor 2. Don Juan eera el mexor que sepodia desear nos pu3. dimos prometer que abia de llegar asucasade VS. 4. con todabrevedad me âtenido con cuydado el 5. viaje hasta aver visto cartas de VS. y del señor 6. Don Juan que dos dias â las tuve por Alicante 7. con fha de 9 del pasado saliendo conellas del cuyda8. do enque me tenia la Navegacion deque doy a VS 9. la Noraba y saviendo VS. cuande mi obligon es 10. el serville y loque ynteresso en ello, Juzgo abra que11. dado siempre corto mi deseo enlo que en esta cassa he12. mos procurado servir alsr Don Ju aque no nos 13. adado lugar labrevedad del tmpo pero en otras aca14. siones si en mendara Dona Laura da a VS la Nora15. ba y ami sra Doña leonor y ms recados al sr D Ju 16. y Jusepe afiçíonados Espero pa otro passage por dar 17. cuenta a VS de tenelle Gobernador de Valencia 18. sigun las primicias que tengo enesta estafeta 19. por acâ ay pocas Nobedades ylas que an benido [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "120:4878a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo18/120:4878a.JPG",
+      "url": "/legajos/legajo-18/images/120:4878a.JPG"
+    },
+    {
+      "filename": "121:4878b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo18/121:4878b.JPG",
+      "url": "/legajos/legajo-18/images/121:4878b.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "120:4878a.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-18/cartas/003039.json",
+  "primary_image_url": "/legajos/legajo-18/images/120:4878a.JPG"
+}

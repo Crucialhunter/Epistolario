@@ -1,0 +1,48 @@
+{
+  "legajo_id": "17",
+  "id_carta": "2931",
+  "order_in_legajo": 197,
+  "signatura": "339:1473a.JPG",
+  "nombre_carta": "Carta de Francesc Rosselló a Pedro Santacilia y Pax",
+  "fecha_original": "24 de julio de 1660",
+  "lugar": "Ibiza",
+  "remitente": "Francesc Rosselló",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Muchos días ha que no me hallo con cartas de v. s. que me pesaria fuese falta de salud y están aguardando saber que v. s. la goza por ser nueva para mi de mucho gusto: en la formentera llegó un barco con cinco moros cautivos que se huyeron de esa, ciudad, según dicen el barco le tomaron de Alcudia uno de estos esclavos vino nadando desde el espalmador, a esta isla, y dio nueva de esta fuga, enviaronse halla dos barcos, los cuales trajeron dos, de manera que de los cinco tenemos tres, dos del conde de Ayamans y uno del miser Nicolas Guells de esa real Audiencia, he los hecho meter a la cárcel, y hecho dar el sustento necesario volviose a enviar un barco con perros para regonocer la Formentera, y espalmador y no se hallo ninguno de los dos que faltan porque hoy ha venido un xabeque de Valencia y ha dado nueva, que los dos moros llegaron a Rabea, y de allí les llevaron a la cárcel de denia, los dos esclavos del conde han Sr. D. Pedro Sta. Scilia y Pax procurador real de Mca [1§] caído enfermos, y para curarlos les he hecho sacar de la cárcel, los dueños ha bran de enviar el dinero necesario para ra pagar los gastos, y lo que habrán de haber los que han traído los esclavos, que querría saber con serteza lo que les toca y si toca algo al Patrimonio, y sobre todo lo que debo hacer en servicio de v. s. que guarde nuestro Señor muchos años como deseo. Ibiza y julio a 24 de 1660. Servidor de v. s. que sus manos besa Francisco Rosellón de franc [2§] Aviso que llegaron cinco moros con la barca y que han tornado tres y los dos se han pasado en xabea pide si hay derechos para el real Paio [3§] Transcripción literal"
+  ],
+  "literal": [
+    "1. Muchos dias ha que no me hallo con cartas 2. de V.S. q me pesaria fuese falta de salud 3. y estan aguardando saber q VS. la gosa 4. por ser nueva para mi de mucho gusto: en 5. la formentera llego un barco con sinco moros 6. cautivos q se huyeron de essa, Çiudad, se7. gun dizen el barco le tomaron de Alcudia 8. uno destos esclavos vino nadando desde 9. el espalmador, aesta Isla, y dio nueva de 10. esta fuga, imbiaronse alla dos barcos, los 11. quales traxeron dos, de manera que de los sinco12. tenemos tres, dos del Sr. Conde de Ayamans 13. y uno del Sr. miser Nicolas Guells dessa 14. Real Audiencia, he los hecho meter a la 15. carçel, y hecho dar el sustento neçessario 16. bolviose á imbiar un barco con perros para 17. regonoçer la Formentera, y espalmador 18. y no se hallo ninguno de los dos que faltan 19. por que hoy ha venido un xabeque de Valencia 20. y ha dado nueva, que los dos moros llegaron 21. a Rabea, y de alli les llevaron a la carçel 22. de denia, los dos esclavos del conde han 23. Sr. D. Po Sta. Scilia y Pax Por Rl de Mca [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "339:1473a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo17/339:1473a.JPG",
+      "url": "/legajos/legajo-17/images/339:1473a.JPG"
+    },
+    {
+      "filename": "340:1473b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo17/340:1473b.JPG",
+      "url": "/legajos/legajo-17/images/340:1473b.JPG"
+    },
+    {
+      "filename": "341:1473c.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo17/341:1473c.JPG",
+      "url": "/legajos/legajo-17/images/341:1473c.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "339:1473a.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-17/cartas/002931.json",
+  "primary_image_url": "/legajos/legajo-17/images/339:1473a.JPG"
+}

@@ -1,0 +1,43 @@
+{
+  "legajo_id": "19",
+  "id_carta": "7714",
+  "order_in_legajo": 24,
+  "signatura": "415_7921a.JPG",
+  "nombre_carta": "Carta de Nicolás de Santacilia y Togores a Pedro Santacilia y Pax",
+  "fecha_original": "fecha sin especificar",
+  "lugar": "Madrid",
+  "remitente": "Nicolás de Santacilia y Togores",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Desde que llegué a esta corte todas sus cartas de v. m. han sido en una misma conformidad y yo deseando dar gusto a v. m. siempre he obedecido sus órdenes, y hasta otra pienso no he faltado a ellas. Es el caso, que desde que llegue a Madrid, me mandó v. m., que no me valiera de Diego Matias, en materia de maravedíes, y en esa misma conformidad esta hecho. Yo estuve en la casa de las pajes tres meses malo, y sino era gastándome mi dinero, me quedaba sin ello, y así mi venida a casa de Diego Matias, no ha sido tanto por la [?], como por lo imposibilitado que estaba de dineros, y con [?] me dé este género, no he querido valerme de Diego Matias, para vestirme para poder salir de casa. En resolusión, yo no he cobrado un maravedí desde que estoy acá, yo no tengo ninguna [?], de donde poderlo sacar y tampoco ignoro, he gastado mucho así, en la [?], como acá, y pues que ha pasado por mi mano, lo sabré con más certeza, y así v. m. me socorrerá, y me diga como he de pasar estos dos y tres meses que puedo estar acá, y quien me ha de asistir en las pretensiones, porque se ofrecerán los cuatro escudoa y los ocho, y yo no los tengo. Don Nicolas de Santacilia y Togores Transcripción literal"
+  ],
+  "literal": [
+    "1. Desde que llege ha esta corte todas sus cartas 2. de VM han sido en una misma conformidad 3. y yo deseando dar gusto a VM siempre he 4. hobedeciho sus hordenes , y asta otra pienso no 5. he faltado a ellas; es el caso, que desde que 6. llege a Madrid , me mando VM, que no meva=7. liera de Diego Matías, en materia de ma=8. ravedies, y en hesa misma conformidad esta 9. echo, yo estuve en la casa de las Pajes tres 10. meses malo, y sino hera gastandome mi di=11. nero, me quedava sin ello, y asi mi venida 12. a casa de Diego Mathia, no a sido tanto 13. por la asistensio, como por lo inposibi-14. litodo que estava de dineros, y con [alax]15. me deste genero, no e querido valerme de 16. Diego matias , para vestirme para poder 17. salir de casa, en resulusion, yo no he cobrado [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "415_7921a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo19/415_7921a.JPG",
+      "url": "/legajos/legajo-19/images/415_7921a.JPG"
+    },
+    {
+      "filename": "416_7921b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo19/416_7921b.JPG",
+      "url": "/legajos/legajo-19/images/416_7921b.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "415_7921a.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-19/cartas/007714.json",
+  "primary_image_url": "/legajos/legajo-19/images/415_7921a.JPG"
+}

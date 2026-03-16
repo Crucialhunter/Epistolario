@@ -1,0 +1,38 @@
+{
+  "legajo_id": "23",
+  "id_carta": "3756",
+  "order_in_legajo": 12,
+  "signatura": "013:3168.JPG",
+  "nombre_carta": "Carta de Sebastià Canet a Pedro Santacilia y Pax",
+  "fecha_original": "11 de diciembre de 1627",
+  "lugar": "Madrid",
+  "remitente": "Sebastià Canet",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "La de v. m. de 29 del passat he rebut amb particular gust, perquè la desitjava molt, per haver molts dies no m'honra v. m. amb ses cartes. En resposta d'ella és la que escric a mi Sra. la comtessa, que perquè se l'ha de veure v. m. no ho repetesc amb esta per no cansar-lo. La dificultat que tenim en nostra pretensió és fer natural, amb dit això i faré diligències possibles, que m'apar ens havia d'estar a tots molt bé. El que tinc per cert és que eixirà prest don Jeroni Agusti, i serà llarga la presidència, que {ESP. quiçà} serà d'importància per les coses de v. m. L'estat que tenen ací vegent el plet, fem diligències per a veure'l, per a advertir algunes coses. Promet a v. m. que hi tinc la passió que dec, plega a Nostre Sr. donar-nos molt bon succés, i que vegi a v. m. quiet en sa casa. Madrid 11 desembre 1627. El Dr. Sebastia Canet Amb la de mi Sra. la comtessa vaurà les pretensions, en fi veiem que puguem fer cosa. Déu l'encamini. Sr. don Pedro Santacilia. Transcripción literal"
+  ],
+  "literal": [
+    "1. La de V.m. de 29 del passat he rebut ab particular2. gust, perque la desijava molt, per haver molts dias nom hon-3. ra V.m. ab sas cartas. En resposta della es la que escrich á4. mi Sa. la Comtesa, que perque se la de veure V.m. nou repe-5. tesch ab esta per no cansarlo. La dificultat, que tenim en6. nostra pretensio es fer natural, ab dit axo y fare diliyencias7. possibles, quem apar nos havia de estar á tots molt be. lo que8. tinch per cert es que ixera prest Don Gerni Agusti, y sera9. llarga la presidencia, que quiça sera de inportancia per las10. cosas de V.m. lo estat que tenen assi vehent lo plet, fem diligen-11. cias pera veurel pera advertir algunas cosas, promet á V.m.12. quey tinch la passio que dech, plega á nostre Sr. dunarnos13. molt bon Succes, y que veja á V.m. quiet en sa casa. Madrid14. 11. dec 1627.15. lo dr. Sebastia Canet16. [^Ab la de mi Sa. la Comtessa vaurá les pre=17. tensions, en fi vem, que pugam fer cosa. 18. deu lo encamine]19. Sr. don Pedro SantaCilia. [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "013:3168.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo23/013:3168.JPG",
+      "url": "/legajos/legajo-23/images/013:3168.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "013:3168.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (2)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-23/cartas/003756.json",
+  "primary_image_url": "/legajos/legajo-23/images/013:3168.JPG"
+}

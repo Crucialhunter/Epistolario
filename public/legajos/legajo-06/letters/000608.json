@@ -1,0 +1,43 @@
+{
+  "legajo_id": "6",
+  "id_carta": "608",
+  "order_in_legajo": 105,
+  "signatura": "142-73a",
+  "nombre_carta": "Carta de Nicolau Obrador a Cecilia Zaforteza y Sureda de Sant Martí",
+  "fecha_original": "25 de septiembre de 1766",
+  "lugar": "Lugar sin especificar",
+  "remitente": "Nicolau Obrador",
+  "destinatario": "Cecilia Zaforteza y Sureda de Sant Martí",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Mi Sra. Dña. Cecilia, Es cierto que vendrá la persona que v. s. sabe. Se harán entretanto con toda viveza las diligencias para que quede sin la dependencia en que al presente se halla. Se me ha dicho que lo encomiende a Dios, a quien ruego guarde la vida de v. s. mucho años. De v. s. atento servidor, Nicolas Obrador. 25 septiembre de 1766. Mi Sra. Dña. Cecilia Zaforteza [?] [1§] A mi Sra. Dña. Cecilia Zaforteza [?] Besa las manos. El contenido. Transcripción literal"
+  ],
+  "literal": [
+    "1. Mi Sa. Da. Cecilia: es cier- 2. to, que vendra la Persona, 3. que V.S. sabe. Se haran 4. entretanto con toda viveza 5. las diligencias, para que que- 6. de sin la dependencia en que 7. al presente se halla. Se me ha 8. dicho que lo encomiende a Dios, 9. a quien ruego gde la vida 10. de V.S. m a< ño>s 11. De V.S. atto serdor 12. Nicolas Obrador 13. 25 7bre de 766 14. Mi Sa. Da. Cecilia Zaforteza [?] [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "142-73a.jpg",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo06/142-73a.jpg",
+      "url": "/legajos/legajo-06/images/142-73a.jpg"
+    },
+    {
+      "filename": "143-73b.jpg",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo06/143-73b.jpg",
+      "url": "/legajos/legajo-06/images/143-73b.jpg"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "142-73a.jpg",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-06/cartas/000608.json",
+  "primary_image_url": "/legajos/legajo-06/images/142-73a.jpg"
+}

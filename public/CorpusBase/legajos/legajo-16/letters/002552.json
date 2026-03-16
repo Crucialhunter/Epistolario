@@ -1,0 +1,41 @@
+{
+  "legajo_id": "16",
+  "id_carta": "2552",
+  "order_in_legajo": 2,
+  "signatura": "064:2052.JPG",
+  "nombre_carta": "Carta de José Balell a Pedro Santacilia y Pax",
+  "fecha_original": "25 de marzo de 1664",
+  "lugar": "Barcelona",
+  "remitente": "José Balell",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "[1§] Transcripción literal"
+  ],
+  "literal": [],
+  "imagenes": [
+    {
+      "filename": "064:2052.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo16/064:2052.JPG",
+      "url": "/legajos/legajo-16/images/064:2052.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "064:2052.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    },
+    {
+      "code": "MISSING_LITERAL",
+      "message": "Transcripción literal vacía",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-16/cartas/002552.json",
+  "primary_image_url": "/legajos/legajo-16/images/064:2052.JPG"
+}

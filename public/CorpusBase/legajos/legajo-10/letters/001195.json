@@ -1,0 +1,43 @@
+{
+  "legajo_id": "10",
+  "id_carta": "1195",
+  "order_in_legajo": 64,
+  "signatura": "113-362",
+  "nombre_carta": "Carta de Ramon Alamany a Jerónimo Pelegrín de Aragüés",
+  "fecha_original": "14 de septiembre de 1668",
+  "lugar": "Andratx",
+  "remitente": "Ramon Alamany",
+  "destinatario": "Jerónimo Pelegrín de Aragüés",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Senyor Jeroni, En esta serà per avisar-lo de la mia salut, com fa prop de quatre dies que estic en el llit malalt de febres continues que em tenen molt apretat. I així el que li suplica confiat de v. m. i del senyor don Nicolau que faran l'assistència que confia em faria son pare, i així tinc la mateixa, i és que voldria em fessin mercè de parlar amb els jurats que si al cas fos de mi em fessin favor de que en lloc meu substitueixi Ferran la Fortala, lo meu germà, perquè ja saben el servei que ha fet i juntament mon pare que hi ha part de la vida. I si al cas fos i [?] s'han menester massa dels jurats d'aquesta vila les portarien i així mateix voldria em fes mercè de resposta del que hauran fet. No dic més. Confiat. Nostre Senyor els guardi. D'Andratx, als 14 setembre 1668. De v. m. que ses mans besa, Ramon Alamany [1§] Al senyor Jeroni. Habita en casa don Pedro Santacilia, que Déu guardi. En Ciutat [otra letra]A 2 d'octubre 1668. Dec 4 lliures.Finita a 18 de desembre 1668. Transcripción literal"
+  ],
+  "literal": [
+    "1. Sr. Hieroni:2. En esta sara per avisarlo de la mia Salut com 3. ha sirca de quatre dias que estich en el llit ma 4. lalt de febres continueas que tenen molt apradat 5. y aixi lo que li suplica confiat de V.M. y de al Sr. 6. don Nicolau que faran la asistencia que con 7. fia en faria son para y axi tinch la mateixa y 8. as que voldria am fesan marse de parlar ab 9. los jurats de que si al cas fos de mi am fesan favor 10. de que an lloc meu subsisto don d [^??^] la porta la fan 11. mos firmar, perque ja la ban al [^??^] fet y juntament mon para que hai par de la vida 12. y si al cas fos y [^??^] una fa de los 13. jurats de aquesta villa las portarian y axi me 14. tex voldria am fes murte de sis porta de lo que 15. auran fet. No dig mes. Confiat. Deu los guarde de [^??Aranys??^] 16. als 14 sbre 1668. 17. de V.M. q s m b 18. Ramon Alamany.19. [en la otra cara]20. Al Sr. Hieroni habita 21. en casa don pedro santa 22. cilia que deu guarde.23. [con otra letra][A 2 de obre 1669. dich 4 al 18 ocbre 1668. [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "113-362a.jpg",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo10/113-362a.jpg",
+      "url": "/legajos/legajo-10/images/113-362a.jpg"
+    },
+    {
+      "filename": "113-362.jpg",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo10/113-362.jpg",
+      "url": "/legajos/legajo-10/images/113-362.jpg"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "113-362a.jpg",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING",
+      "message": "Se detectaron caracteres sospechosos de encoding (4)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-10/cartas/001195.json",
+  "primary_image_url": "/legajos/legajo-10/images/113-362a.jpg"
+}

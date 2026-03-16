@@ -1,0 +1,38 @@
+{
+  "legajo_id": "28",
+  "id_carta": "7877",
+  "order_in_legajo": 123,
+  "signatura": "203:3754a.JPG",
+  "nombre_carta": "Carta de Ana de Córdoba y Aragón a Pedro Santacilia y Pax",
+  "fecha_original": "24 de mayo de 1651",
+  "lugar": "Madrid",
+  "remitente": "Ana de Córdoba y Aragón",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Su carta de v. m. recibí y me huelgo mucho en saber se halla con salud y la gocen sus hijos de v. m. El otro día me dijo el duque de Medina hablando de v. m. que estaría aquí muy presto y confieso a v. m. que a esta causa he dilatado el hacer esto. Las telillas que se tejen en esa tierra, que v. m. me ha enviado, son muy buenas y son las que v. m. me ha remitido tantas que tengo para mucho tiempo que vestirme, porque como sabe v. m. que el rey paga tan mal, ha querido ahorrarme de esto. El aceite de mata y las alcaparras y tallos es todo muy lindo, y v. m. me ha dado de comer con ello para muchos días. Y si como v. m. tiene cuidado de esto le tuviera para mandarme muchas cosas, lo estimaría yo mucho. El parto de la reina nuestra Señora estamos esperando por horas. Con esto juzgue v. m. las cosas que tendré que hacer y así no me alargo más. Guarde Dios a v. m. muchos años. Palacio, y mayo 24 de 1651. [Letra original de la remitente:] V. m. me ha vestido y dádome de comer para mucho tiempo. Doña Ana de Cordoba Transcripción literal"
+  ],
+  "literal": [
+    "1. Su carta de Vm Rvi. y me huelgo mucho en saver2. se halla con salud y la goçen sus hijos de Vm = El otro dia me3. dijo el Duque de medina hablando de Vm que estaria4. aqui muy presto y confiesso a Vm que a esta causa e dila5. tado el hacer esto = las telillas que se tejen en esa tierra q6. Vm me a ymbiado son muy buenas y son las q Vm me a rre7. mitido tantas que tengo pra. mucho tiempo que bestirme, por8. q como sabe Vm q el Rey paga tan mal, a querido aorrar9. me de esto = el azeite de mata y las alcaparras y tallos,10. es todo muy lindo y Vm me ha dado de comer con ello para11. muchos dias y si como Vm tiene cuydado desto le tubiera para12. mandarme muchas cossas lo estimaria yo mucho = El13. Parto de la Reyna nra. Sra. estamos esperando por oras.14. Con esto juzgue Vm las cossas que tendre q haçer y asi no15. me alargo mas. gde. Dios a Vm ms. años. Palaçio y mayo16. 24 de 165117. [Otra letra] 18. Vm me a bestido y dadome de19. comer para muncho tienpo20. doña ana21. de cordoba [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "203:3754a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo28/203:3754a.JPG",
+      "url": "/legajos/legajo-28/images/203:3754a.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "203:3754a.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (2)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-28/cartas/007877.json",
+  "primary_image_url": "/legajos/legajo-28/images/203:3754a.JPG"
+}

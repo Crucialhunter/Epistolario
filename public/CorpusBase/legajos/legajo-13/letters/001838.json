@@ -1,0 +1,38 @@
+{
+  "legajo_id": "13",
+  "id_carta": "1838",
+  "order_in_legajo": 105,
+  "signatura": "172:2342.JPG",
+  "nombre_carta": "Carta de Jerónimo Pelegrín de Aragüés a Pedro Santacilia y Pax",
+  "fecha_original": "12 de noviembre de 1668",
+  "lugar": "Mallorca",
+  "remitente": "Jerónimo Pelegrín de Aragüés",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Un mes y 10 días hace que no tenemos cartas de v. s. ni sabemos cosa. La verdad que los tiempos son rigurosos, que el Invierno está con nosotros. V. s. procure a tener salud en compañía del Sr. don Juan. El hijo del regente Martorell todavía se está acá con quien hemos escrito muchas cartas y trasbalsadas a otras embarcaciones por vía de Miguel Sancho. Con ellas sabrá v. s. todo lo que pasa por acá. Estas rayas hago para decir a v. s. como, gracias a Dios, hay salud en esta su casa. El Sr. guarde a v. m. muchos años como deseo y es menester. Mallorca 12 de noviembre 1668. Su criado de v. s., Jeronimo Pelegrin Mi señor Transcripción literal"
+  ],
+  "literal": [
+    "1. Un mes y 10 dias ha que no tenemos cartas de2. V.S. ni savemos Cossa. La verdad que los tiempos3. son rigurossos. que el Invierno esta con nossotros4. V.S. procure attener salud en Comppa del Sr. Don5. Juan, el hijo del Sr. Regente Martorell todavía6. se esta aça con quien havemos escrito muchas7. cartas y trasbalsadas ha otras embarcationes por8. via de Migel Sancho. Con ellas sabra V.S. todo9. lo que passa por aça, estas Raias ago para dicir10. a V.S. como gracias a Dios, hay salut, en esta sucassa11. el gde a VM ms a< ño>s como deseo y he menester.12. Mallorca 12 de 9bre 166813. Su Criado de VS14. Geronymo Pelegrin15. Mi Senor [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "172:2342.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo13/172:2342.JPG",
+      "url": "/legajos/legajo-13/images/172:2342.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "172:2342.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (4)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-13/cartas/001838.json",
+  "primary_image_url": "/legajos/legajo-13/images/172:2342.JPG"
+}

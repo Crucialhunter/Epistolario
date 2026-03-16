@@ -1,0 +1,43 @@
+{
+  "legajo_id": "34",
+  "id_carta": "5083",
+  "order_in_legajo": 111,
+  "signatura": "168:6998a.JPG",
+  "nombre_carta": "Carta de Diego Matías de Aragüés a Pedro Santacilia y Pax",
+  "fecha_original": "7 de febrero de 1657",
+  "lugar": "Madrid",
+  "remitente": "Diego Matías de Aragüés",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Por Barcelona el sábado pasado avise a v. m. como había recibido el pliego donde vinieron las dos cartas para el Arcabispo de Conga. después me he visto con s. e. y le he hallado de muy buena disposición para su pretensión y reparo que para ellas falta carta para el Sr. don Luis de Haro y me advierte otras cosas, que sehande hacer, para que se obtenga deudo de su majestad remitiendo ele [?] que se dice al Consejo de Estado, y esto no se puede intentar hasta tener carta para el Sr. don Luis y así Vmª lo antes que pudiere me la remita, suplicándole y Insinuan/dole lo mismo que v. m. ha escrito al Arpo o, las razones que más pone cu para el caso, porque conviene así para conseguir el intento que como hoy esta tan cerrada la puerta, para estas gracias es muy dificultoso el con/ seguirlas sinoes afuerza de brazo poderoso y mucha maña, y si con alguno de los que hoy son consejerosdeestado [1§] tiene v. m. amistad tendré por acertado le escriba que todo será menester y la merced grande que hace a v. m. el Arpo que estará aconaqui hasta mitad y más de Cuaresma y importa que antes que se nos vaya se intente esto, yal fin la carta para el Sr. don Luis Vinga porque sinella no se puede intentar, sino con gran riesgo de tener mal suceso, de más que tengo aInclusión con un secretario suyo para que haga buenos oficios y [?] la ocasión. no se me ofrece otra cosa peragora. Guarde Dios a v. m. muchos años Madrid a 7 de febrero de 1657 La que fue por Barclona fue en pliego del virrey y esta también ba. y a salió el pleito de Sureda, en 8600lt queda convenado. Besa la mano de v. m. su mayor servidor Diego Matias de Aragues hoy ha sido la Boda del Sr. don Juan domingo hizo del Sr. don Luis de Haro y con ocasión de darle la enhorabuena se le quede es [?] Sr. don Pedro Santacilia y Pax [2§] Transcripción literal"
+  ],
+  "literal": [
+    "1. Por Barcelona el Savado passado avisse2. a Vm como havia recivido el pliego donde3. vinieron las dos cartas pa el Sr. Arcabispo4. de Conga. Despues me he visto con su exa5. y le he hallado de muy buena disposicion6. pa su pretenssion y reparo q para ell[as]7. falta carta pa el Sr. don Luys de Haro8. y me advierte otras cosas, q sehandehazer,9. pa q se obtenga deudo de su M[a]gd10. remitiendo ele[ ??] q se dice al Conso11. de estado, y esto no se puede Intentar12. hasta tener carta pa el Sr. don Luys13. Y assi Vmª lo antes q pudiere me14. la remita, suplicandole y Insinuan/15. dole lo mismo q Vm haescrito al16. Sr Arpo o, las razones q mas p[on]e17. [cu] pa el caso, porq conbiene assi18. pa conseguir el Intento q como oy19. esta tan cerrada la puerta, para20. estas gracias es muy dificultosso el con/21. seguirlas sinoes afuerza de Braço22. poderosso y mucha maña, Y si con23. alguno de los q oy son consejerosdeestado [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "168:6998a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo34/168:6998a.JPG",
+      "url": "/legajos/legajo-34/images/168:6998a.JPG"
+    },
+    {
+      "filename": "169:6998b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo34/169:6998b.JPG",
+      "url": "/legajos/legajo-34/images/169:6998b.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "168:6998a.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (3)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-34/cartas/005083.json",
+  "primary_image_url": "/legajos/legajo-34/images/168:6998a.JPG"
+}

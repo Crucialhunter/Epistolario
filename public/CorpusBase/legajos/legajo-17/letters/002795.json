@@ -1,0 +1,43 @@
+{
+  "legajo_id": "17",
+  "id_carta": "2795",
+  "order_in_legajo": 61,
+  "signatura": "095:1337a.JPG",
+  "nombre_carta": "Carta de Diego Matías de Aragüés a Pedro Santacilia y Pax",
+  "fecha_original": "4 de septiembre de 1658",
+  "lugar": "Madrid",
+  "remitente": "Diego Matías de Aragüés",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "El sábado pasado 24 de este, respondí por Barcelona como había recibido el pliego grande en carta de Jeronimo Mancho, y veo lo que v. m. me dice en las dos cartas de 12 de este, y también el pliego que ha venido por Valencia, con que todas las cartas se han recibido y entregadolas a sus dueños. Asegurese v. m. que toda cuenta diligencia es posible tengo heha por el Dr. Bassa así antes que viniera la terna como después, que vino con los pliegos que vinieron por Valencia, y espero que se disponga la consulta del censal. no hay sino encomen darle a Dios, no faltan pretendientes y con grandes creditos, espero no les valdra, presto nos despenaran. El Sr. don Luis partió a 25 del pasado para Mérida plaza de armas para socorrer a Badajoz, con que nos dejo con la miel en los labios hasta la vuelta, que ofreció ser presto la vuelta, y el despachar, con que dejó en mi deudo el despacho hasta que vuelva, y ahora no se despacha sino lo corriente, todo lo demás caso, no [1§] quedando nadie en su lugar, sisolo Sr. don Fernando de Contreras para lo previsto y corriente ya si no hay sino paciencia hasta que sea de vuelta para el hábito que también Sr. don J de Escobedo, me dijo que tenía esto en muy buen estado y si este accidente y prisa, de Badajoz no sucediera me aseguró me hubiera despachado esto que como se consiga poco importa, la delación de un mes ni dos pues ha tanto tiempo que lo solicito y no querría mal lograrlo. El memorial hentre lo (dicho) hubo de la Inquisición va adelante, en estando acabado no se perderá día, y el relator la trabaja muy bien. No sé me ofrece ahora otra cosa hasta el correo siguiente lo que vuelvo a decir es que en ese pleito del consejo v. m. se valga del virrey para que el Dr. Armella lo bote que puede hacerlo, todo cuanto pudiere de tenerle en el exo de su plaza estoy asegurado el consejo lo tendrá a bien porque reconoce hoy se halla bien servido del, y alguna pasión que ha habido, v. m. me mande le sirva guarde Dios los muchos años que deseo Madrid a 4 de Sep 1658 besa la mano de v. m. su mayor servidor Diego Matias de Aragues Sr. don Pedro Santacilia y Pax. [2§] Transcripción literal"
+  ],
+  "literal": [
+    "1. El savado pasado 24 deste, respondi por 2. Barselona como havia recivido el pliego 3. grande en carta de Germo Mancho, 4. y veo lo q VM. me dize en las dos cartas 5. de 12 deste, y tambien el pliego q 6. ha venido por Valencia, con q todas 7. las cartas se han recevido y entregadolas 8. a sus dueños.9. Assegurese VM. q toda qta diligencia 10. es possible tengo heha por el dor. Bassa11. assi antes q viniera la terna como despues, 12. q vino con los pliegos q vinieron por 13. Valencia, y espero q se disponga la 14. consulta del censal. no ay sino encomen15. darle a dios, no faltan pretendientes 16. y con grandes creditos, espero no les valdra, 17. presto nos despenaran.18. El Sr. don Luys partio a 25 del passado 19. pa Merida plaza de armas pa socorrer 20. a Badaxoz, con q nos dexo con la miel 21. en los labios hasta la buelta, q offrecio 22. ser presto la buelta, y el despachar, 23. con q dexo en mi deudo el despacho hasta 24. q buelba, y ahora no se despacha 25. sino lo corriente, todo lo demas casso, no [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "095:1337a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo17/095:1337a.JPG",
+      "url": "/legajos/legajo-17/images/095:1337a.JPG"
+    },
+    {
+      "filename": "096:1337b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo17/096:1337b.JPG",
+      "url": "/legajos/legajo-17/images/096:1337b.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "095:1337a.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (3)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-17/cartas/002795.json",
+  "primary_image_url": "/legajos/legajo-17/images/095:1337a.JPG"
+}

@@ -1,0 +1,38 @@
+{
+  "legajo_id": "9",
+  "id_carta": "1066",
+  "order_in_legajo": 101,
+  "signatura": "180-88",
+  "nombre_carta": "Carta de Diego Álvarez a Arnau de Santacilia",
+  "fecha_original": "4 de marzo de 1676",
+  "lugar": "Milán",
+  "remitente": "Diego Álvarez",
+  "destinatario": "Arnau de Santacilia",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Amígo y sor mío he recíbído la carta de v. m. que me ha remítido el Gobernor del fuerte de fuentes 1600 libras las cuales procuraré envíar para el correo que Víene dando las Veínte y Cinco Doblas alamujer de D. Fernando Zamudo y las díez a la mueger del capitán Santiago y remitiré las cartas de como las heentregado. Guarde Dios a v. m. losaños que deseo Milán 4 de marzo de 1676 amigo de v. m. que sus manos besa Diego alvarez Sr. D. Arnau de Santacilia [1§] Transcripción literal"
+  ],
+  "literal": [
+    "1. Amígo y sor mío He recíbído la 2. carta de Vm queme ha remítído 3. el Governor del fuerte de fuentes 1600 4. libras las quales procurare embíar 5. para el Correo que Víene dando las 6. Veínte y Cinco Doblas alamuger 7. de D fernando Zamudo y las díez 8. ala mueger del Capitan Santiago 9. y remitíre las Cartas de como las 10. heentregado gde Díos a Vm losaños 11. que deseo Milan 4 de Marzo 12. de 1676 13. amigo de Vm 14. q s m B 15. Diego alvarez 16. [Margen izquierdo][^ Sr D Arnao de Santezilla] [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "180-88.jpg",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo09/180-88.jpg",
+      "url": "/legajos/legajo-09/images/180-88.jpg"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "180-88.jpg",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-09/cartas/001066.json",
+  "primary_image_url": "/legajos/legajo-09/images/180-88.jpg"
+}

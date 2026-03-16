@@ -1,0 +1,38 @@
+{
+  "legajo_id": "19",
+  "id_carta": "7701",
+  "order_in_legajo": 17,
+  "signatura": "393_7908.JPG",
+  "nombre_carta": "Carta de Josep de Rocabertí a Pedro Santacilia y Pax",
+  "fecha_original": "fecha sin especificar",
+  "lugar": "Mallorca",
+  "remitente": "Josep de Rocabertí",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Segons veig per cartes de Jaume Morell i de Bernat Ferrer tinc per cert que v. s. restarà en Mallorca encara que amb la que em fa [?] de 2 de desembre me diu que passarà amb la leva; el temps és molt poc a proposit per a posar-me dintre de plas as Déu ho encamini tot i a v. s. guardi estava Per Jaume Jorner i per ell sabrà v. s. la causa d'anar-se'n a viures en Mallorca que va amb tota sa casa Mn Josep de Rocaberti Transcripción literal"
+  ],
+  "literal": [
+    "1. Segons veix per cartas de Jauma Morell 2. y de Bernat Ferrer tinc per sert de 3. que VS restara en Mallorca enca4. raque ab la quem fa [?] de 2 de 5. sembra me diu que pasara ab la 6. leva; lo tems es molt poc apropo 7. sit pera posame dintra de Plas as 8. deu ho encamine tot y a VS gde 9. esta va Per Jaume Jorner y per 10. ell sabra VS la causa de anarsen 11. aviures en Mallorca que va ab 12. tota sa Casa13. Mn Joseph de 14. Rocaberti [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "393_7908.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo19/393_7908.JPG",
+      "url": "/legajos/legajo-19/images/393_7908.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "393_7908.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-19/cartas/007701.json",
+  "primary_image_url": "/legajos/legajo-19/images/393_7908.JPG"
+}

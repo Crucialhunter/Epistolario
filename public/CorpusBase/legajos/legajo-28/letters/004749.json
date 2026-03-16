@@ -1,0 +1,43 @@
+{
+  "legajo_id": "28",
+  "id_carta": "4749",
+  "order_in_legajo": 60,
+  "signatura": "081:3683.JPG",
+  "nombre_carta": "Carta de Macià Monsarró a Pedro Santacilia y Pax",
+  "fecha_original": "18 de marzo de 1639",
+  "lugar": "Zaragoza",
+  "remitente": "Macià Monsarró",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "[?] ario desos [?] remití las cartas de la estafeta [?]. Esta noche estuve en casa el gobernador y [?] dinero a v. m. para pagar los soldados [?] ha llegado al gobernador de Madrid se espera [?] y ocho mil escudos que le remitan de Madrid para pagar [?] toda la caballería que está en Aragón. Yo entiendo que el gobernador lo escribe todo a v. m. Jerónimo Rosiñol ha partido hoy para Madrid. No ha estado sino un día en Zaragoza. Hame dicho que {ESP} escribés {/ESP} a v. m. mil besamanos, y que le escribirá de Madrid a v. m. todo lo que habrá. Don Miguel [Jerónimo de] Castellote [Castellot], como allegué a Zaragoza, me dijeron que estaba de mala gana. Magallón ya dejole aquí el pliego que él m [?] me había mandado y le entregué en manos del gobernador y no podía creer el gobernador que don Miguel Castellot hubiese venido aquí sin l[?]nera. Y así había un carro con el despacho a Magallón y averiguaron que había estado en Zaragoza. Por portador seguro remitiré a v. m. el talo[?] y que como son carreteros no le quiero entregar la carta de don Luis Carrillo han remitido ya. No hay otra cosa de nuevo que escribir a v. m. por ahora sino que guarde Ntr. Sr. como puede. De Zaragoza, y marzo a 18 de 1639. Un pliego que a [?] a v. m. he recibido de un mo [?]. Sabe Dios cuánto ha que lo tenía. Macia Monsarro. Sr. don Pedro Santacilia y Pax. [1§] Zaragoza, 18 Marzo 1639. Macia Monsarro. rdo. Transcripción literal"
+  ],
+  "literal": [
+    "1. [?] ario debos [?] remiti las cartas de la estafeta [?] 2. esta noche estube en casa el governador y [?] 3. dinero a v.m. para pagar los soldados [?] 4. allegado al governador de Madrid se espera [?] 5. y ocho mil escudos que le remitan de madrid para p [?] 6. toda la cavalleria questa en aragon yo en [?] indo quel7. governador lo escrive todo a v.m. Geronimo Rosiñol8. a partido oy pª madrid no a estado sino un dia en çaragª?9. ame dho. quescrives a v.m. mil vesamanos y que lescrivira10. de Madrid a v.m. todo lo que abra ? don miguel caste11. llote como allegue a çaragª me dixeron questava de12. mala gana. magallon ya dejole qui el pliego quel m [?] 13. me avia mandado y lentregue en manos del governador14. y no podia creer el governador que don miguel castellot15. ubiese venido aqui sin l [?] nera y asi avia un carro16. conel despacho a magallon y averiguaron que avia estado17. en çaragª. Por portador seguro remitire a v.m. el talo [?] 18. y que como son carreteros no le quiero entregar la carta19. de don Luis carrillo han remitido ya no ay otra cosa de nu20. ebo quescrivir a v.m. por aora sino que gde ntr [?] 21. como puede de Çaragª. y Março a 18 de 163922. Un pliego que a [?] a v.m. e recivido de un mo [?] 23. Save dios quanto a que lo tenia.24. masia monsarro25. Sr. don Pº Santa Sicilia y pax [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "081:3683.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo28/081:3683.JPG",
+      "url": "/legajos/legajo-28/images/081:3683.JPG"
+    },
+    {
+      "filename": "082:3683b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo28/082:3683b.JPG",
+      "url": "/legajos/legajo-28/images/082:3683b.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "081:3683.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (2)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-28/cartas/004749.json",
+  "primary_image_url": "/legajos/legajo-28/images/081:3683.JPG"
+}

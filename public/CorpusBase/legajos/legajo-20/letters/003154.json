@@ -1,0 +1,38 @@
+{
+  "legajo_id": "20",
+  "id_carta": "3154",
+  "order_in_legajo": 28,
+  "signatura": "032:5935.JPG",
+  "nombre_carta": "Carta de Marqués de Hariza a Pedro Santacilia y Pax",
+  "fecha_original": "12 de agosto de 1655",
+  "lugar": "Zaragoza",
+  "remitente": "Marqués de Hariza",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Haviendo entendido que por muerte de don Miguel Surera hace [?] v. m. el oficio de procurador real me ha parecido hacer estos renglones por la esperiencia que tengo de la merced que me ha hecho en todas ocasiones suplicándole que la terna de abril que se me esta debiendo y la que [?] a fin de este mes se entreguen a Juan Andres [?] Conrado [?] que tiene poder mío para cobrar con la mayor brevedad que sea posible lo cual estimaré mucho y que v. m. se acuerde de mandarme cuanto fuere de su servicio cuya persona guarde nuestro señor largos años. Zaragoza [?] Agosto 12 de 1655 [?] que sus manos besa [?] marques de [?] Sr. D. Pedro Santacilia folio nº 1. [1§] Transcripción literal"
+  ],
+  "literal": [
+    "1. Haviendo entendido que por muerte de don Miguel 2. Surera hace[?] Vm. el officio de procurador Rl me 3. ha parecido hacer estos renglones por la esperien- 4. cia q tengo de la mrd que me ha echo en todas 5. ocasiones supplicandole q la terna de Abril que 6. se me esta deviendo y la que [?] a fin deste mes 7. se entreguen a Juan Andres[?] Conrado[?] que tiene 8. poder mio para cobrar con la maior brebedad 9. que sea posible lo qual estimare mucho y que Vm 10. se acuerde de mandarme quanto fuere de su 11. servicio cuya persona guarde nro senor largos 12. años. Zaraga[?] Agosto 12 de 1655 13. [?] q s m b 14. [?] Marques 15. de [?] 16. Sr D Pedro Santacilia 17. folio nº 1. [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "032:5935.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo20/032:5935.JPG",
+      "url": "/legajos/legajo-20/images/032:5935.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "032:5935.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-20/cartas/003154.json",
+  "primary_image_url": "/legajos/legajo-20/images/032:5935.JPG"
+}

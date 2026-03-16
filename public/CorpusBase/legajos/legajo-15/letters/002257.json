@@ -1,0 +1,43 @@
+{
+  "legajo_id": "15",
+  "id_carta": "2257",
+  "order_in_legajo": 152,
+  "signatura": "249:6482a.JPG",
+  "nombre_carta": "Carta de Rodrigo de Borja Llançol de Romaní y Olivera a Pedro Santacilia y Pax",
+  "fecha_original": "3 de noviembre de 1647",
+  "lugar": "Vinarós",
+  "remitente": "Rodrigo de Borja Llançol de Romaní y Olivera",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Señor mío: En una faluca que despaché a Cerdeña supliqué a v. m. me mandase dar muy buenas nuevas de su salud, porque se la deseo muy perfecta. Ahora vuelvo a hacer las mismas instancias, y para que no se deje de hacer por falta de embarcación, va esta satia. y para traer el cántaro de aceitunas negras de las rugadas, que supliqué a v. m. me hiciese mereced, que con eso me parece que he de cobrar el apetito, y con él la salud, que la deseo, y la vida, para servir a v. m. en cuanto me quisiere mandar. Después que la armada real fue de Maón, no se ha sabido nueva cierta de ella ni del estado que tienen las cosas de Nápoles sobre que se discurre vacíamente. yo suspendo el juicio mientras me admiro de que no se despache de allá muy a menudo, y que de acá de España no se soliciten más los avisos. Dios lo encamine todo como más convenga, y remedie lo de Valencia, que aunque no es con tanto rigor como antes, todavía se continúa el daño en la ciudad y una legua al contorno. Lo demás del reino goza de muy buena salud, gracias a dios, y particularmente esto de Vinarós. y en fe de esto, ha mandado su majestad que los despachos que yo enviaré por Aragón, con certificación De salud, no se les detenga, sino que libremente les dejen pasar hasta sus reales manos, sin hacer ninguna diligencia. Digo todo esto a v. m. por que me han dicho que en esa ciudad nos tratan mal, haciendo hacer cuarentena a las barcas que van de acá. Y los jurados me dijeron el otro día que a cualquier barca que venga mallorquina, no le darán la plática. Suplico a v. m. persuada con su autoridad, aquí no se haga esta demostración, y particularmente, con esta barca, para que no tarden las aceitunas. A Dios, mi señor, y mire por su salud y mande en que esto fuere de su gusto. Guarde Dios a v. m. como deseo. Vinarós y 3 de noviembre de 1647. Amigo y [mayor servidor] de v. m., que su mano besa. Don Rodrigo de Borja Llançol. [ ] [Señor don Pedro Santacilia y Pax } Transcripción literal"
+  ],
+  "literal": [
+    "1. Señor mio en una faluca q despache a cerdeña 2. suplique a Vm. me mandase dar muy buenas 3. nuevas desu salud porque sela deseo muy per4. feta aora buelvo a aser las mesmas instantias 5. y paraque nose deje deaser por falta de embar6. casion vaesta satia y pa traer el cantaro 7. deaseitunas negras delas rugadas q supliq[u]e 8. a Vm. meisiese md que coneso me parese 9. que he de cobrar el apetito y conel la salud 10. que la deseo yla vida pa servir a Vm. en 11. cuanto mequisiere mandar. 12. despues q la armada Rl fue de Maon 13. nosea sabido nueva cierta della ni del estado 14. que tienen las cosas de Nap [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "249:6482a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo15/249:6482a.JPG",
+      "url": "/legajos/legajo-15/images/249:6482a.JPG"
+    },
+    {
+      "filename": "250:6482b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo15/250:6482b.JPG",
+      "url": "/legajos/legajo-15/images/250:6482b.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "249:6482a.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (2)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-15/cartas/002257.json",
+  "primary_image_url": "/legajos/legajo-15/images/249:6482a.JPG"
+}

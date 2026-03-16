@@ -1,0 +1,38 @@
+{
+  "legajo_id": "20",
+  "id_carta": "3173",
+  "order_in_legajo": 47,
+  "signatura": "054:5953.JPG",
+  "nombre_carta": "Carta de Diego Matías de Aragüés a Pedro Santacilia y Pax",
+  "fecha_original": "19 de enero de 1656",
+  "lugar": "Madrid",
+  "remitente": "Diego Matías de Aragüés",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Dias ha que me hallo sin cartas de v. m. teniendo escritas algunas, holgándome goce v. m. de muy buena salud como se la deseo. El [?] del oficio de procurador real no está aun firmado de su majestad. Creo que para el correo que viene se podrá entregar al Sr. [?] don Fructuoso Pique para remitirle que el papel de la media armada dias ha que se despachó. Cuando se fue de aquí Jerónimo quedó en que en llegando ahí para el cumplimiento que me remitiría mi [?] que y tenga [?] el empeño y veo que hasta ahora no hay orden acá ni el Sr. [?] me dice la tiene y así sirva v. m. de mandar ajustarlo para que tenga efecto que ya se lo [?] por ver la omisión a Jerónimo tiene en esto en la que va con esta. Por acá no hay de nuevo, esperando los galeones que ya tardan y dan cuidado. v. s. me mande le sirva y guarde Dios como deseo. Madrid a 19 Enero 1656. Besa la mano de v. m. su mayor srvidorDiego Matias de Aragues Sr. don Pedro Santacilia y Pax Transcripción literal"
+  ],
+  "literal": [
+    "1. Dias ha q me hallo sin cartas de Vm. 2. teniendo escritas algunas, olgan[?] goze 3. Vm. de muy buena salud como se la deseo. 4. el Prio[?] del officio de Pror Real no esta 5. aun firmado de su M[a]gd. Creo q para 6. el correo q viene se podra entregar a el[?] 7. el[?] Sr. Ser< [?]>o don Fructuosso[?] Pique para 8. remittirle. q el papel de la media 9. armada dias ha q se despacho. 10. Quando se fue de aqui Germo quedo en q en 11. llegando ay pa el cumplimto[?] q [?] me 12. remittiria mi [?] [?] q y tenga[?] el empeño y veo q hasta agora 13. no ay orden aca ni el sr. seio[?] me dize 14. la tiene y assi sirva Vm. de mandar 15. ajustarlo pa que tenga efecto[?] q yase[?] 16. lo [?] por ver[?] la omission a Geronimo 17. tiene en esto en[?] la q ba con[?] esta. 18. Por aca no ay de nuebo esperando los galeones[?] 19. q ya tardan y dan cuydado. Vm me mande 20. le sirva y ge dios como deseo Md a 19 Enero 1656 21. Vesa la mano de Vm. 22. su mayor seror 23. Diego Mathias de Aragues 24. Sr. don Pedro Sta. Cilla y Pax [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "054:5953.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo20/054:5953.JPG",
+      "url": "/legajos/legajo-20/images/054:5953.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "054:5953.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (3)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-20/cartas/003173.json",
+  "primary_image_url": "/legajos/legajo-20/images/054:5953.JPG"
+}

@@ -1,0 +1,38 @@
+{
+  "legajo_id": "11",
+  "id_carta": "1329",
+  "order_in_legajo": 98,
+  "signatura": "167:5189.JPG",
+  "nombre_carta": "Carta de Pedro Goso y Español a Pedro Santacilia y Pax",
+  "fecha_original": "18 de agosto de 1643",
+  "lugar": "Lugar sin especificar",
+  "remitente": "Pedro Goso y Español",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Nostre Senyor és estat servit aportar-se'n d'esta vida en millor la senyora dona Isabel dona d'a v. s. molts anys de cuidar en companyia de mi Sra. dona Magdalena i Beatriu a qui de ma part doni molts besamans don se veu el portador de les noves corrents Nostre Senyor els guardi molts anys. Fet a 18 agost 1643 Sr. don Pedro Goso i espanyol Sr. D. Pedro Santacilia i Pax [1§] Transcripción literal"
+  ],
+  "literal": [
+    "1. Nostre señor es estat servit aportarsen 2. desta vida en milor la señora Dña. Ysa 3. bel donede a VS molts ans decuidar en 4. conpani de mi Sra. doñá Madalena y 5. Beatris a qui dema part deta molt y be 6. samans don se veu el portador de les no 7. ves corens nostro señor los guarde molts 8. ans fet a 18 agost 1643 9. Sr. don Pedro Goso i español10. [^Sr. Po Sta. Silia y Pax^] [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "167:5189.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo11/167:5189.JPG",
+      "url": "/legajos/legajo-11/images/167:5189.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "167:5189.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-11/cartas/001329.json",
+  "primary_image_url": "/legajos/legajo-11/images/167:5189.JPG"
+}

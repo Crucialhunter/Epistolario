@@ -1,0 +1,48 @@
+{
+  "legajo_id": "10",
+  "id_carta": "1216",
+  "order_in_legajo": 83,
+  "signatura": "148-383a",
+  "nombre_carta": "Carta de Andreu Corró a Jerónimo Pelegrín de Aragüés",
+  "fecha_original": "21 de octubre de 1668",
+  "lugar": "Pollença",
+  "remitente": "Andreu Corró",
+  "destinatario": "Jerónimo Pelegrín de Aragüés",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Jeroni Pelegri, La de v. m. he rebuda, de que em som molt alegrat saber noves de sa salut, que Déu Nostre Senyor li conservi molts anys. Jo la tenc, gràcies a Nostre Senyor, sempre la tinc perfecta per a servir-lo, i voldria que sempre m'{ESP. empleés} en coses de son gust, que és el que desitjo. Encontinent me som vist amb Pere Martorell, alcait del castell, i li he llegida la seva carta i donat entenent la resolució que v. m. aporta, i m'ha dit li escrivís que té un tossino que engreixa que per les festes de Nadal el vendrà, que el guarda per a això i li donava satisfacció. Açò és el que m'ha dit li escrivís i juntament tingui paciència per dites festes: açò és el que passa. V. m. amb el {ESP. demés} sia de son gust me mani, que sempre me té prompte a ses crides. Nostre Senyor el guardi. De Pollença, als 21 octubre 1668. Servidor de v. m., Andreu Corro [1§] [Al otro lado de la carta] Al senyor Jeroni Pelegri, que Nostre Senyor guardi en casa del procurador reial [2§] [relación de notas sueltas y tachadas]Lerda, Calayo, Castejo espurada, Sal Sant Ignaci 4 Ll. {CAT. A 29 d'octubre 1668} Transcripción literal"
+  ],
+  "literal": [
+    "1. Sr. Hieroni Palagri: 2. la de V.M. he rebuda de quem som 3. molt alegrat saber noves de se 4. salud que deu ntr. Sr. lei conserve 5. molts anys: jo [LAT.gratias ] a ntro. sr 6. sempre la tinch perfeta pera ser 7. virlo: y voldria que sempre me 8. amplea en cosas de son gust; que es lo 9. que desitje: encontinent me som 10. vist ab pera martorell alcait del 11. castell y li he lletgida la sua carta 12. y donat entenent la resolusio que V.M. aporta; y me ha dit li scrigues 13. que te un torino que angrexa que 14. per les festas de nadal lo vendra 15. quel guarda per axo y li donava 16. satisfactio aso es lo que me ha dit 17. li scrigues y juntament tingue 18. patiensia fem dites festas aço es 19. lo que passa V.M. ablo demes sia de 20. son gust me man que sempre me te 21. prompte a ses cridas. Ntro. Sr. lo ge de 22. Pollença als 21 octte 1668. 23. Sddor de V.M. 24. Andreu Corronots 25. [al otro lado de la carta]26. [^Al sr. Heroni Pelegri que ntro sr. gde en casa del Sr. Pdor Real^] [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "148-383aa.jpg",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo10/148-383aa.jpg",
+      "url": "/legajos/legajo-10/images/148-383aa.jpg"
+    },
+    {
+      "filename": "148-383a.jpg",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo10/148-383a.jpg",
+      "url": "/legajos/legajo-10/images/148-383a.jpg"
+    },
+    {
+      "filename": "149-383b.jpg",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo10/149-383b.jpg",
+      "url": "/legajos/legajo-10/images/149-383b.jpg"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "148-383aa.jpg",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING",
+      "message": "Se detectaron caracteres sospechosos de encoding (5)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-10/cartas/001216.json",
+  "primary_image_url": "/legajos/legajo-10/images/148-383aa.jpg"
+}

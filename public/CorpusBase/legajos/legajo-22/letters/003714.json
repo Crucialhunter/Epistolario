@@ -1,0 +1,43 @@
+{
+  "legajo_id": "22",
+  "id_carta": "3714",
+  "order_in_legajo": 95,
+  "signatura": "172:5083a.JPG",
+  "nombre_carta": "Carta de Isidro Marqués a Pedro Santacilia y Pax",
+  "fecha_original": "4 de mayo de 1665",
+  "lugar": "Madrid",
+  "remitente": "Isidro Marqués",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Señor mío. Con la carta de v. s. que me dieron dos días ha, recibo las buenas nuevas de su salud que siempre deseo y no dudo ha tocado a v. s. gran parte de sentimiento de la muerte de mi amo, porque le debía v. s. muy buena voluntad. Sea Dios bendito por todo. Yo he quedado en la covachuela en la misma ocupación que en tiempo de mi amo y al Sr. D. Blasco le deseo mucho y así desearé tener repetidos mandatos del servicio de v. s. que acudiré con las veras que tengo obligación. Dios guarde a v. s. muchos años como puede. Madrid a 4 de mayo de 1665. El pliego incluso para mi padre mandará v. s. se remita en la primera ocasión. Besa la mano a v. s. su mayor servidor Isidro Marques Sr. D. Pedro de Santacilia y Pax. [1§] Madrid 4 Mayo 1665 Isidro marques Transcripción literal"
+  ],
+  "literal": [
+    "1. Señor mio. Con la carta de VS que me2. dieron dos dias á recibo las buenas nuevas3. de su salud que siempre desseo y no dudo4. a tocado a VS gran parte de sentimiento5. de la muerte de mi amo porque le devia6. VS. muy buena voluntad. Sea Dios bendito7. por todo. Yo he quedado en la covachuela8. en la misma ocupación que en tiempo de9. mi amo y al Sr.D. Blasco le deseo mucho10. y assi deseare tener repetidos mandatos11. del servicio de VS. aque acudire con las12. veras que tengo obligaçion. Dios gde. a VS.13. muchos anos como p[ue]de. M[adri]d a 4 de Ma[y]o de 166514. El pliego ynclusso p[ar]a mi Padre mandara15. VS. se remita en la prim[er]a ocasion -16. B l M a VS. su m[ay]or ser[vi]dor 17. Isidro Marques18. Sr. D. Pº de Santacília y Pax. [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "172:5083a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo22/172:5083a.JPG",
+      "url": "/legajos/legajo-22/images/172:5083a.JPG"
+    },
+    {
+      "filename": "173:5083b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo22/173:5083b.JPG",
+      "url": "/legajos/legajo-22/images/173:5083b.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "172:5083a.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-22/cartas/003714.json",
+  "primary_image_url": "/legajos/legajo-22/images/172:5083a.JPG"
+}

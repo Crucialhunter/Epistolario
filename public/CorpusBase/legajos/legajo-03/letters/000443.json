@@ -1,0 +1,37 @@
+{
+  "legajo_id": "3",
+  "id_carta": "443",
+  "order_in_legajo": 8,
+  "signatura": "10-6a",
+  "nombre_carta": "Carta de Diego Maldonado a Juan Miguel de Santacilia y Togores",
+  "fecha_original": "29 de noviembre de 1662",
+  "lugar": "Madrid",
+  "remitente": "Diego Maldonado",
+  "destinatario": "Juan Miguel de Santacilia y Togores",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Señor don Juan de Santacilia. Señor mío, mucho he estimado la memoria y favor que vuestra merced me hace, y sobre todo las nuevas de haber llegado a su casa con entera salud, yo y toda mi casa la tenemos para servir a vuestra merced, y Pedro, mi hijo, envía a vuestra merced muchos recados, y todos los compañeros, que están buenos. Don Pedro Camacho se ciñe espada mañana porque han venido de su tierra por él. Sus majestades están buenos y su alteza el príncipe también. Lo que yo suplico a vuestra merced es, de mi parte, muchos recados al señor don Pedro, su padre, que le soy muy servidor. Y le suplico me mande, que le obedeceré con todo rendimiento. Y le pido no deje hacer a vuestra merced exceso ninguno, que yo estaré con cuidado. Y en tratándose de la jornada de la señora infanta a Alemania, avisaré a vuestra merced para que sea uno de los nombrados para ir sirviendo. Y en el ínterin me mande vuestra merced todo lo que se le ofreciere, a quien me guarde Nuestro Señor como puede y deseo. De Madrid, 29 de noviembre de 1662. Beso las manos de vuestra merced,don Diego Maldonado. [1§] Madrid, 29 de noviembre 1662. Recibida a 28 de febrero 1663 de don Diego Maldonado, hijo de los pajes de su majestad. Tiene respuesta a 25 de mayo 1663. Transcripción literal"
+  ],
+  "literal": [
+    "1. Sr. dn Juan de santacilia2. Señor mio mucho he estimado la memo3. ria i fabor q vm me hace i sobre todo las4. nuebas de aber llegado a su casa con ente5. ra salud, yo i toda mi casa la tenemos pa 6. ra serbir a vm i pedro mi hi jo enbia a vm7. muchos rrecados y todos los companeros8. que estan buenos: don Po camacho se9. ciñe espada manana porq an beni10. do desu tierra por el. sus magestades 11. estan buenos i su alteça el principe12. tanbien lo q yo supp[li]co avm es de (de)13. mi parte muchos rrecados al sr. don14. pedro su padre q le soi mui servidor15. y les supp[li]co me mande q le obedecere con16. todo rrendimiento y le pido no deje17. hacer a vm esceso ninguno: que yo18. estare con cuidado y en tratandose19. de la jornada de la señora infanta20. a alemania abisare a vm para21. q sea uno de los nombrados para ir sir22. biendo i en el interin me mande vm23. todo lo q se le ofreciere a quien me gde24. no S como puede i deseo de madrid 25. 29 de noviembre de1662 b l m de vm26. D. Diego Maldonado [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "10-6a.jpg",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo03/10-6a.jpg",
+      "url": "/legajos/legajo-03/images/10-6a.jpg"
+    },
+    {
+      "filename": "11-6b.jpg",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo03/11-6b.jpg",
+      "url": "/legajos/legajo-03/images/11-6b.jpg"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "10-6a.jpg",
+  "warnings": [],
+  "raw_source": "raw/legajos/legajo-03/cartas/000443.json",
+  "primary_image_url": "/legajos/legajo-03/images/10-6a.jpg"
+}

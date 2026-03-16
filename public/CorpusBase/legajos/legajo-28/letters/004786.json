@@ -1,0 +1,43 @@
+{
+  "legajo_id": "28",
+  "id_carta": "4786",
+  "order_in_legajo": 94,
+  "signatura": "145:3720a.JPG",
+  "nombre_carta": "Carta de Macià Monsarró a Pedro Santacilia y Pax",
+  "fecha_original": "1 de junio de 1639",
+  "lugar": "Zaragoza",
+  "remitente": "Macià Monsarró",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Mi señor Don Pedro Mucho estimo la merced que v. m. siempre me hace. Importa mucho que v. m. escriba a don Jusepe Bayetola apretadamente por ver si podríamos que despachase el negocio de don Miguel antes de la Pascua, que pudiese despachar y proveer los apellidos porque ya tiene todos los papeles que son necesarios, que está en su mano de despacharme siempre que quiera. Y ver si mi Miguel de Bayetola quiere escribir otra carta y remitírmelas con toda la brevedad posible, que importa mucho. También suplico a v. m. que dé aquella caza que v. m. sobrada de gazapos, que podamos participar yo y la puta. Que ya que el padre capellán no me quiere enviar, yo me vengaré de ello. Y que vea v. m. si por acá yo soy bueno en alguna cosa en poder servir a v. m., que ya sabe que soy suyo hasta la muerte. D [?] don Francisco Gómez [?] ten mucha la merced [?] v. m. les hace y [?] [Margen izquierdo, en vertical] Nuestro Señor muchos años de mis deseos. Y Zaragoza, a 1 de junio 1639. Macia Monsarro. [1§] Zaragoza, el primero de junio 1639. Macia Monsarro. Transcripción literal"
+  ],
+  "literal": [
+    "1. Mi señor Don Pedro2. Mucho estimo la merced que3. vmd siempre me haze impor4. ta mucho que vmd. escriba a don5. Jusepe Bayetola apretadamente6. por ver si podriamos que despacha7. sse el negocio de don Miguel An8. tes de la pasqua que pudiesse despa9. char y probeher los apellidos porque10. ya tiene todos los papeles que son11. necessarios que esta en su mano de12. despacharme siempre que quiera Y ver13. si mi Miguel de Bayetola quiere es14. cribir otra carta y remitirmelas15. con toda la brebedad pusible que im16. porta mucho tambien suplico a17. vmd. que de aquella caza que vmd.18. sobrada de gazapos que podamos19. participar yo y la puta que ya20. que el Padre Capellan no me quiere21. imbiar yo me bengare dello Y que22. vea vmd si por aca yo soy bueno23. en alguna cossa en poder ser24. bir a vmd. que ya sabe que soy25. suyo hasta la muerte. D [?] 26. don francisco Gomez [?] 27. ten mucha la merced [?] 28. vmd. les haze y [?] 29. [Margen izquierdo, en vertical] 30. tro señor muchos años de mis deseos y çaragoza a31. 1 de Junio 163932. masia monsarro [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "145:3720a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo28/145:3720a.JPG",
+      "url": "/legajos/legajo-28/images/145:3720a.JPG"
+    },
+    {
+      "filename": "146:3720b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo28/146:3720b.JPG",
+      "url": "/legajos/legajo-28/images/146:3720b.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "145:3720a.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (2)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-28/cartas/004786.json",
+  "primary_image_url": "/legajos/legajo-28/images/145:3720a.JPG"
+}

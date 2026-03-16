@@ -1,0 +1,43 @@
+{
+  "legajo_id": "16",
+  "id_carta": "2681",
+  "order_in_legajo": 167,
+  "signatura": "274:2181a.JPG",
+  "nombre_carta": "Carta de Pere Lladó a Pedro Santacilia y Pax",
+  "fecha_original": "6 de enero de 1668",
+  "lugar": "Palma",
+  "remitente": "Pere Lladó",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "mi senyor després d'haver besades les mans de sa senyoria sabrà su senyoria Com dos germans qui som vinguts del lacant emperaule de son fill Sr. don [?] su senyoria i per li se va Cara perquè ens al tros estàvem molt apler allí trebellant i Així Com el senyor don Nicolau fill de sa senyoria ens vadir que vinguesem ens altros. ho deixarem tot per venir abse companyia basti fos fill de Vos senyoria i Així ara estam petint dins d'esta presó sense tenir ningú quins Sr. don un sustento i Així suplicam a Vos senyoria si ens vol fer mercè d'alguna cosa per amor de Déu o rebem en particular mercè la limosne que don aquí és tant poca qui no mengem més de vint en vint i quatre hores amb. el {ESP. demés} de son gust Vos senyoria dispongue d'este presó els. 6 de 1668 Criats de vós senyoria Jaume vall canera i Bernat vallcanera i per a lledo [1§] Al senyor don Pedro Santacilia i Pax que Dios guardi etts. Ciutat [2§] Transcripción literal"
+  ],
+  "literal": [
+    "1. mi Sor denpres de aver besades les mans de 2. su senyoria sabra su Sria Com dos jermans qui 3. som vinguts del lacat enperaule de son fill dn [?]4. su sria y per le sua Cara perque nos al5. tros estavem molt apler alli trebellant y Axi 6. Com el Sor don nicolau fill de su Sria nos 7. vadir que vinguesem nos altros. ho dexarem 8. tot per venir abse companyia baste fos fill de 9. Vs Sria y Axi are estam petint dins de esta 10. preso sens tenir nigu quins don un sustento y 11. Axi suplicam a Vs Sria sins vol fer me 12. de alguna cossa per amor de deu o rebem en 13. perticular marça la limosne que don aqui 14. es tant poca qui no mengem mes de vint en 15. vint y quatre ores ab. lo demes de son gust 16. Vs Sria dispongue de este preso els .6. 17. de 1668 18. Criats de vs Sria 19. jaume vall canera y barnat 20. vallcanera y pera lledo [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "274:2181a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo16/274:2181a.JPG",
+      "url": "/legajos/legajo-16/images/274:2181a.JPG"
+    },
+    {
+      "filename": "275:2181b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo16/275:2181b.JPG",
+      "url": "/legajos/legajo-16/images/275:2181b.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "274:2181a.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-16/cartas/002681.json",
+  "primary_image_url": "/legajos/legajo-16/images/274:2181a.JPG"
+}

@@ -1,0 +1,45 @@
+{
+  "legajo_id": "26",
+  "id_carta": "4333",
+  "order_in_legajo": 69,
+  "signatura": "099:3427.JPG",
+  "nombre_carta": "Carta de Pedro Paracuellos a Pedro Santacilia y Pax",
+  "fecha_original": "11 de diciembre de 1639",
+  "lugar": "Zaragoza",
+  "remitente": "Pedro Paracuellos",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Sr. y dueño mío sábado a la noche recibí la de v. s. gozosísimo de saber de su buena salud y de ver la honra que por ella me hace. No fío yo menos de la honra que v. s. sabe hacer a sus criados. Si bien yo el más mínimo de ellos, pero el más afinado. Contóseme la ausencia de v. s. pues no he tenido día bueno después que llegué a esta ciudad, si bien entiendo que la de v. s. me ha dado el alivio tal que no entiendo me ha de volver la calentura. Dios lo haga, porque siempre me emplee con las de su gusto. No ceso de escribir, no sé si llegan las cartas, pues cada una semana escribo dos veces. El virrey entendido ahora en este instante esta desganado, entiendo no es hasta de cuidado achaquitos de aficionados entiendo que ya v. s. sabía como moridor justo y como las cosas de Salsas van mal dispuestas, pues no queda gente de enfermedad y entiendo según he oído que v. s. pasará por gobernador de la caballería. Para la otra carta yo procuraré saber del secretario que es lo que tratan, porque aquí se ha dicho así don Cesar ha alcanzado su leva. Estará aquí cuando v. s. reciba está en llegando sabré por extenso lo que pasa. Yo escribiré a v. s. el capote lleva el portador y las cartas que hay detenidos yo no he de perder punto en todo lo que fuera de su gusto, pues nací para servirle a v. s. a quien me lo guarde el Cielo los años de mi deseo, de Zaragoza a 11 de diciembre del año 1639. Al padre Domenech mil recados de mi parte. De v. s. Pedro Paracuellos Sr. don Pedro Santacilia y Pax. Transcripción literal"
+  ],
+  "literal": [
+    "1. Sr. y dueño mio Sabado a la noche recibi la de Vsa. gozo2. sisimo de saber de su buena salud y de ber la onra q por3. ela me ace no fio yo menos de la onra q VSa. sabe acer a sus4. criados. Si bien yo el mas minimo delos pero el mas afi5. nado. Conteseme la ausencia de VSa. pues no e tenido dia6. bueno despues q lege a esta ciudad si bien entiendo q7. la de VSa. me a dado el alibio tal que no entiendo me8. a de bolber la calentura Dios lo aga porque sien9. pre me emplee con las de su gusto no ceso de escribir no10. se si legan las cartas pues cada una semana escribo dos11. beces. El bisorey entendido aora eneste ystante esta12. desganado entiendo no es asta de cuydado achaquitos13. de aficionados entiendo que ya VSa. sabia como muridor14. Justo y como las cosas de Salsas ban mal dispuestas,15. pues no qda gente de enfermedad y entiendo segun16. e oydo q VSa. pasara por gobernador de la cabaleria17. para la otra carta yo procurare saber del secreta18. rio q es lo q tratan porq a q se a dicho asi don Cesar19. Alcansado su leba estara aqui cuando VSa, reciba20. esta en legando sabre por estenso lo q pasa yo escri21. bire a VSa. el capote leba el portador y las cartas q ay de22. tenidos yo no e de perder punto en todo lo q fuera de su23. gusto pues naci para serbile a VSa. a quien me le24. ge. el cielo los años de mi deseo de Caragoza a 11 de deci[em]25. bre del año 163926. [^Al padre dosmenec mil27. recados de mi parte]28. De VSa. Pedro Paracuellos29. Sr. don Pedro Santacilia y pax. [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "099:3427.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo26/099:3427.JPG",
+      "url": "/legajos/legajo-26/images/099:3427.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "099:3427.JPG",
+  "warnings": [
+    {
+      "code": "IMAGE_DOWNLOAD_FAIL",
+      "message": "HTTP 404",
+      "context": {
+        "url": "http://santacilia.info/intranet2/img/Legajo26/099:3427.JPG"
+      }
+    },
+    {
+      "code": "IMAGE_COUNT_MISMATCH",
+      "message": "Imágenes detectadas (1) != descargadas (0)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-26/cartas/004333.json",
+  "primary_image_url": "/legajos/legajo-26/images/099:3427.JPG"
+}

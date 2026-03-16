@@ -1,0 +1,50 @@
+{
+  "legajo_id": "26",
+  "id_carta": "4338",
+  "order_in_legajo": 74,
+  "signatura": "104:3432.JPG",
+  "nombre_carta": "Carta de Macià Monsarró a Pedro Santacilia y Pax",
+  "fecha_original": "12 de diciembre de 1639",
+  "lugar": "Zaragoza",
+  "remitente": "Macià Monsarró",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "El domingo por la mañana recibí una carta de v. m. con cuatro o cinco cartas que v. m. me remitío. Ya las tengo dadas todas, sino la del capitán Miró [?] que está fuera [de] Zaragoza. Por el arriero de Sanguesa he remitido a v. m. el capote y los pellejos para el capellán, me dice en su carta que el manguito que pedía v. m. que me lo enviaría. Yo me parto el domingo o lunes para Barcelona, si el padre capellán tiene el manguito y me lo quiere remitir por toda esta semana, porque yo lo pueda traer a mi mujer, lo estimaré mucho, y v. m. vea si yo soy bueno en Barcelona por alguna cosa en que servir a v. m. Yo estaré de vuelta dos días pasados los reyes. Don Diego de Rocaberti el jueves pasado se fue a Huesca y de Huesca a Barcelona. Ya le he remitido una carta de v. m. y me mande en cosas de su servicio que soy suyo hasta la muerte, a quien Nro. Sr. guarde en Zaragoza y diciembre a 12 de 1639. Macia Monsarro A don Pedro Santacilia Transcripción literal"
+  ],
+  "literal": [
+    "1. El Domingo por la Mañana recevi una carta de2. V.M. con quatro, o, cinco cartas que Vm. me re3. mitio ya las tengo dadas todas sino la del Capitan4. Miró[?] que esta fuera Caragoza por el arriero de5. Sanguessa he remitido a V.M. el capote y los pelejos6. para el capellan me diçe en su carta que el mangui7. to que pedia VM. que me lo embiaria yo me parto8. el domingo o, lunes para Barcelona si el Padre9. Capellan tiene el manguito y me lo quiere remitir por10. toda esta semana porque yo lo pueda traer a mi muger11. lo estimare mucho y Vm. bea si yo soy bueno en12. Barcelona por alguna cosa en que servir a VM13. yo estare de buelta dos dias pasados los Reyes14. Don Diego de Rocha Marti el juebes pasado15. se fues a Huesca y de Huesca á Barcelona ya le16. he remitido una carta de Vm. y me mande17. en cosas de su servº que soy suyo hasta la muer18. te a quien Nro. Sr. Gde. en Çaragosa y Deze.19. a 12. de 163920. Masia Monsarro21. A Don Pedro SantaCilia [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "104:3432.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo26/104:3432.JPG",
+      "url": "/legajos/legajo-26/images/104:3432.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "104:3432.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (2)",
+      "context": {}
+    },
+    {
+      "code": "IMAGE_DOWNLOAD_FAIL",
+      "message": "HTTP 404",
+      "context": {
+        "url": "http://santacilia.info/intranet2/img/Legajo26/104:3432.JPG"
+      }
+    },
+    {
+      "code": "IMAGE_COUNT_MISMATCH",
+      "message": "Imágenes detectadas (1) != descargadas (0)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-26/cartas/004338.json",
+  "primary_image_url": "/legajos/legajo-26/images/104:3432.JPG"
+}

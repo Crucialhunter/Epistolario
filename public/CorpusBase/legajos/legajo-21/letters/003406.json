@@ -1,0 +1,43 @@
+{
+  "legajo_id": "21",
+  "id_carta": "3406",
+  "order_in_legajo": 96,
+  "signatura": "151:5695a",
+  "nombre_carta": "Carta de Ana Rocabertí Sarriera a Persona desconocida",
+  "fecha_original": "22 de diciembre de 1638",
+  "lugar": "Pau",
+  "remitente": "Ana Rocabertí Sarriera",
+  "destinatario": "Persona desconocida",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Jo ja m'imaginava que v. m. estava ja molt vell i que devia ser vingut aquell temps que v. m. escopia molt però veig que és molt {esp. } al revés} i així mapar que si ja no és que v. m. estiga casat amb aqueixa seva enamorada que encara se casarà amb alguna infanta dels meus parents. Dic dels cavallers particulars de la casa d'Homs i ací tenim una senyora, dona Praxedis, que diu que vol ser monja i jo tinc per cert que ella en té tantes ganes com v. m. de ser frare que me pareix prou encarit; el cert és que està molt {esp. } bissarra} i que si li donaven un marit Déu sap si diria de no. Ja que v. m. te memòria dels cunills, vejam si en té d'uns tals coloms voltejadors, que ha molt temps que em prometé acceptaria la promesa de molt bona gana i si era cosa factible els podia v. m. enviar a Barcelona a na Franquesa. N'Antonet es fa molt galant minyó: ja no penso sinó en cercar-li muller: si v. m. per aquí me'n troba alguna com no si d’aquest any el fer el casament perquè el pronòstic diu que es moriran moltes sogres i així no em convé ser-ho que no sia estada primer aqueixa mortaldat. Don Nostre Sr. a v. m. molts anys de vida i li doni molt bones pasqües. De Pau i desembre a 22 de 1638. Dona Ana Rocaberti i Sarriera [1§] Pau, 22 desembre 1638 Mi senyora dona Ana de Rocaberti. Resposta. Transcripción literal"
+  ],
+  "literal": [
+    "1. yo iamamaginaua que vm. estava yamolt 2. vell yque devia ser uingut aquell tems que 3. vm escupia molt pero vex ques molt alra4. ves y axi mapar que si ja no es que vm esti-5. ga casat ab aquexa sua anamorada quen-6. cara secasara ab alguna yn fanta dels 7. meus parens dich dels cavales particulars 8. dela casa doms y asitenim una Sra dona 9. prexedis que diu que vol ser monya y jo 10. tinch per sert quella nete tantas ganas 11. com vm de ser frara quema pares prou 12. encarit lo sert es questa molt bisara 13. yque sili da van unmarit deu sap si diria 14. deno, yaque v.m. temamoria dels cunills 15. ue yam sin te deuns tals coloms uolta y ados 16. quea molt tems quem promete aseptaria 17. la promesa demolt bonagana y siera 18. cosa factibla los poria v.m. enviara 19. barselona ana franquesa, nantonet 20. sefa molt galant miño yano penso sino en 21. sarcarli muler si v.m. peraqui mentroba 22. alguna com no si dea guestani loferlo 23. casament perquel prenostich diuques 24. senuriran moltos sogras y axinom conveseroqueno sia astada primer ague25. xa mortaldat don nostre sr a vm. mols anis de vída y li done molt 26. bonas pasquas de pau y desenbra a 22 de 1638 27. dona Anarocaberti 28. y carrieras [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "151:5695a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo21/151:5695a.JPG",
+      "url": "/legajos/legajo-21/images/151:5695a.JPG"
+    },
+    {
+      "filename": "152:5695b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo21/152:5695b.JPG",
+      "url": "/legajos/legajo-21/images/152:5695b.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "151:5695a.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-21/cartas/003406.json",
+  "primary_image_url": "/legajos/legajo-21/images/151:5695a.JPG"
+}

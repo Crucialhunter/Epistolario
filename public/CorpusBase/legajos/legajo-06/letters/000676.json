@@ -1,0 +1,48 @@
+{
+  "legajo_id": "6",
+  "id_carta": "676",
+  "order_in_legajo": 176,
+  "signatura": "270-137aa",
+  "nombre_carta": "Carta de Joachim Zaforteza a Cecilia Zaforteza y Sureda de Sant Martí",
+  "fecha_original": "9 de marzo de 1779",
+  "lugar": "Sigüenza",
+  "remitente": "Joachim Zaforteza",
+  "destinatario": "Cecilia Zaforteza y Sureda de Sant Martí",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Hija y hermana mía en Nro. Sr. en pocos días he recibido tres de v. s. susodichas, 8 del passado 18 i 29, en la que he [?] de confirmarme en mi juicio [?] de que no escribía porque io no lo había hecho, pero al fin me alegro que v. s. [LETRA DIFÍCIL] [1§] Juaquin Zaforteza [2§] [?] es cumplimiento es difícil y necesita una gracia de D. algo se me [?] a la [?] la gloriosa [LETRA DIFÍCIL] Transcripción literal"
+  ],
+  "literal": [
+    "1. Hija y hermª mia en N. S. en pocos dias he recivido2. tres de V. S. susdhas 8 del passado 18 i 29, en la q he [?] 3. [?] de confirmarme en mi Juicio [?] de q no escrivia 4. por q io no lo avia hecho: pero al fin me alegro q V. S. [LETRA DIFÍCIL] [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "270-137aa.jpg",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo06/270-137aa.jpg",
+      "url": "/legajos/legajo-06/images/270-137aa.jpg"
+    },
+    {
+      "filename": "270-137ab.jpg",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo06/270-137ab.jpg",
+      "url": "/legajos/legajo-06/images/270-137ab.jpg"
+    },
+    {
+      "filename": "271-137b.jpg",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo06/271-137b.jpg",
+      "url": "/legajos/legajo-06/images/271-137b.jpg"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "270-137aa.jpg",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-06/cartas/000676.json",
+  "primary_image_url": "/legajos/legajo-06/images/270-137aa.jpg"
+}

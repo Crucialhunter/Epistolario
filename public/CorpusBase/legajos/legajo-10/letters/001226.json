@@ -1,0 +1,38 @@
+{
+  "legajo_id": "10",
+  "id_carta": "1226",
+  "order_in_legajo": 94,
+  "signatura": "165-393",
+  "nombre_carta": "Carta de José Balell a Jerónimo Pelegrín de Aragüés",
+  "fecha_original": "10 de noviembre de 1668",
+  "lugar": "Barcelona",
+  "remitente": "José Balell",
+  "destinatario": "Jerónimo Pelegrín de Aragüés",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Amigo, Paciencia por lo corto y mala letra, porque escribo en palacio nuevo. Remito esta noche la que me incluyó para nuestro amo y con esa va ese pliego de hoy que he recibido. Al señor d. Juan tenemos en Sant Feliu. Su excelecia le ha visitado y todo se juzga se revino [?] dará. El navío ya está [roto] sus áncoras y se llevará a Cadaques. Ya sabe que soy suyo. Al señor d. Nicolás beso la mano y a todos los amigos, y se servirá decir al señor {CAT. conseller} Gibert beso su mano y que no hay tiempo a [?] cambiar [?] Que. Guarde Dios a v. m. Barcelona y noviembre, 10 de 1668. Cierto servidor y amigo de v. m., que sus manos besa, Josep Balell Sr. Jeronimo Pelegrin de Aragues Transcripción literal"
+  ],
+  "literal": [
+    "1. Amigo pasiencia por lo corto y 2. mala letra porque escribo en 3. Palacio nuevo remito esta 4. noche la que me incluio pa nro 5. Amo y con esa va ese pliego de 6. oi que he Reciudo.7. Al sr. D. Juan tenemos en St. Feliu 8. su exa le ha visitado y todo 9. se [^??^] se revino dara 10. El navio ya esta [^??^] sus an 11. coras y se llevara a Cadaques 12. ya save que soi suios. Al sr. d. Ni 13. colas beso la mano y atodos los 14. amigos y se servira dezir al 15. Conseller Gibert beso su mano 16. y que no ay tiempo a [^??cambiar??^] Que 17. Gde Dios a V.M. Barcelona y n 10 de 1668. 18. Vuestro seror y Amigo de V.M. q s m b 19. Joseph Balell 20. [^Sr. Germo Pelegrin de Aragues^] [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "165-393.jpg",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo10/165-393.jpg",
+      "url": "/legajos/legajo-10/images/165-393.jpg"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "165-393.jpg",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING",
+      "message": "Se detectaron caracteres sospechosos de encoding (5)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-10/cartas/001226.json",
+  "primary_image_url": "/legajos/legajo-10/images/165-393.jpg"
+}

@@ -1,0 +1,38 @@
+{
+  "legajo_id": "25",
+  "id_carta": "4129",
+  "order_in_legajo": 64,
+  "signatura": "126_163.JPG",
+  "nombre_carta": "Carta de Antonio Salom a Jerónimo Pelegrín de Aragüés",
+  "fecha_original": "27 de mayo de 1667",
+  "lugar": "Mallorca",
+  "remitente": "Antonio Salom",
+  "destinatario": "Jerónimo Pelegrín de Aragüés",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Sr. Jeroni Mi senyora em diguí que li enviés als matalassos jo vaig fer venir al Sr. Mulet i els matalassos estan tots rosegats de rates i {ESP. demés}. D'això estan tots podrits. Al Sr. Mulet se'n dugué la clau i així si mi senyora els vol tals com són, els hi enviarem i tornarà resposta pel portador de la present. No dic més. Fet als 27 maig 1667. De v. m. Antonio Salom, de Son Huguet Al senyor Jeroni Pelegri, que Déu guardi etts. Ciutat Transcripción literal"
+  ],
+  "literal": [
+    "1. Sr. Hieroni2. Mi señora am digui que li anvias als3. matelafos jo vax fer venir al Sr. Mulet4. y los matelafos astan tots roegats de5. rates y demes de axo astan tots podrits6. al Sr. Mulet sendugue le clau y axi7. si mi Señora als he vol tals con so8. los y anviarem y tornera resposta9. per lo portedor de la p[rese]nt no dich mes10. Fet als 27 Maig 166711. De V.M. Antoni Salo12. de Son Uguet13. Al Señor Hieroni14. Pelegri q Deu guarde15. ett16. Ciutat [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "126_163.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo25/126_163.JPG",
+      "url": "/legajos/legajo-25/images/126_163.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "126_163.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (4)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-25/cartas/004129.json",
+  "primary_image_url": "/legajos/legajo-25/images/126_163.JPG"
+}

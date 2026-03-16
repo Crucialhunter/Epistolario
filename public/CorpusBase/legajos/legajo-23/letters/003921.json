@@ -1,0 +1,38 @@
+{
+  "legajo_id": "23",
+  "id_carta": "3921",
+  "order_in_legajo": 175,
+  "signatura": "314:3334.JPG",
+  "nombre_carta": "Carta de Antonio Pizá a Pedro Santacilia y Pax",
+  "fecha_original": "18 de marzo de 1669",
+  "lugar": "Mallorca",
+  "remitente": "Antonio Pizá",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Las dos de v. s. recibí, con el contento que es obligación tengan los finos criados al saber de la salud de sus señores, y son sus fechas de 26 enero y 9 febrero pasado. Y aseguro a v. s. que a no recibirlas todas juntas no hubiera bastado el aviso de la segunda a templarme el disgusto de la primera, pues en ella me dice la respuesta de Antonio y Cristóbal Stoponi en orden a pagar los diez mil reales a v. s. por mi cuenta y por orden de Jaume Teixidor de Barcelona, del cual no esperaba yo semejante dilación, y más en negocios del servicio de v. s. y aunque algún tanto me ha aconsolado la dicha de 9 febrero en que me avisa la puntualidad ha tenido su correspondiente en buscar a Jeronimo Pelegrin para darle el dinero, y aunque el dicho Teixidor me escribe disculpándose casi por los mismos caminos que v. s. me insinúa, no dejaré de escribirle mi sentir. Suplico a v. s. me honre en mandar darme aviso del recibo de dicha cantidad, que será para mí de grande consuelo, y sobre todo tenga en memoria en mandar todo lo de su gusto, pues son [los] deseos tengo de servirle son grandes. El amigo Canales [Jaume Canals], mi padre, Jerónimo Barceló y Lluis Letor postrados a sus pies le besamos las manos, y rogamos a Dios nos deje ver a v. s. con cumplida salud, la que tenga los años que desea para mandarnos. Mallorca y marzo 18 de 1669. El más aficionado criado de v. s. Antonio Piza, menor. Sr. don Pedro Santacilia y Pax Transcripción literal"
+  ],
+  "literal": [
+    "1. Las dos de V.S. recebi, con el contento que es obligacion tengan2. los finos criados al saber de la salud de sus Señores, y son sus 3. fechas de 26. Henero, y 9 Febrero passado; y assiguro a V.S.4. q a no recebirlas todas juntas, no huviera bastado; el aviso d5. la segunda á templarme el disgusto, de la primera pues en ella6. me dize; la respuesta de Antonio y Christoval Stoponi en Orden7. a pagar los diez mil Re a V.S. por mi Cuenta y d orden8. de Jaume Texidor d Barcelona, del qual no esperava yo se=9. mejante dilacion; y mas en negocios del servicio d V.S.10. y aunq algun tanto me me ha aconsolada la dha de 9 febrero11. en q me avisa la puntualidad ha tenido su Correspondi=12. ente, en buscar á Geronimo Palegrí para darle el dinero, y 13. aunq el dicho Texidor me escrive disculpandose casi per los14. mismos caminos q V.S. me insinua no dexare d15. escrivirle mi sentir Supplico a V.S. me honre en mandar 16. darme aviso, del Recibo de dicha Cantidad que sera para mí17. de grande consuelo, y sobretodo tenga en memoria en man=18. dar todo lo de su gusto, pues son deseos tengo de servirle son 19. grandes el amigo Canales, mi Padre, Hyeronimo Barcelo20. y Lluis letor postrados a sus pies le besamos las manos, y21. rogamos á Dios no dexe Ver a V.S. con complida salut la22. q tenga los años q desea para mandarnos Mallorca y23. Marco 18 de 1669 El mas aficionado Criado de Vsa.24. Antonio Piza menor25. Sr Don Pedro Santacilia y Pax [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "314:3334.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo23/314:3334.JPG",
+      "url": "/legajos/legajo-23/images/314:3334.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "314:3334.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-23/cartas/003921.json",
+  "primary_image_url": "/legajos/legajo-23/images/314:3334.JPG"
+}

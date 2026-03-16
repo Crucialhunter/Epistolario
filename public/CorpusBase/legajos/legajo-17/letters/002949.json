@@ -1,0 +1,43 @@
+{
+  "legajo_id": "17",
+  "id_carta": "2949",
+  "order_in_legajo": 217,
+  "signatura": "367:1491a.JPG",
+  "nombre_carta": "Carta de Diego Matías de Aragüés a Pedro Santacilia y Pax",
+  "fecha_original": "29 de agosto de 1660",
+  "lugar": "Madrid",
+  "remitente": "Diego Matías de Aragüés",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "No obstante lo que se ha dado aviso a v. m. en lo de la pensión del Sr. don Juan de que no había cabimiento por ahora y que quedaba como queda su antelación asentada en que en adelante nadie podrá ponérsele delante con todo se ha hecho con todo acuerdo en el consejo la lista de lo que había que dar de los mil ducados que hay valor y le ha cavido doscientos ducados que ya es buena pención para el cumplimiento de los 500 ducados y estar más asegurado su derecho para en adelante, y así se sacara su despacho ahora con los del obispo que se están haciendo. Al Sr. don Juan como tengo avisado a v. m. en otras no sale de mi casa para volver a palacio hasta que estos calores se aplaquen que son rigurosos y sin haber caído agua muchos meses ha y hasta que refresque, tampoco. el Dr. Alba le dará cosa para acabar de ase gurle para que quede del todo libre de su opilación, vale muy bien con el [1§] orden que lleva de hacer excercición las mananas después lo pasa todo el día en casa y las noches Antes que haya anochecido sale un poco con que está mejoradísimo y ha de tener muy buen color de que traxo [?] Dios le dé salud por le deje ver que espero con el tiempo todo se ha de conseguir. y volver a vista de v. m. muy hombre y bien medrado con mdes de su majestad. y a que Jeronimo no se ha ido antes creo no hará ahora falta poralla, con que se podrá estar por acá algunos días aunque se irá lo más presto que pueda irán estos negocios en lo que parán si bien el Proceso de la Inquisición no se podrá ver para dos del que viene porque nuestro relator ha enfermado de tal calidad que está muy malo, que caen tantos enfermos con este tiempo tan terrible que muere mucha gente. Por ahora no se ofrece otra cosa, v. m. me mande le sirva. Guarde Dios como deseo. Madrid a 29 de agosto de 1660. B s m de v. m. su menor servidor Diego Matias de Aragues a mi Sra. Dña. Leonor besamos la mano Dña. Mata y yo. a mi sobrina mueger de Jeronimo que no tiene que tener cuidado de su marido que está bueno y con deseos de irse a su casa. Sr. don Pedro Santacilia y Pax. [2§] Transcripción literal"
+  ],
+  "literal": [
+    "1. No obstante lo q se ha dado avisso 2. a Vm en lo de la penssion del Sr. Don 3. Juan de q no havia cabimto por agora 4. y q quedava como queda su antelacion 5. asentada en q en adelante nayde 6. podra ponersele delante Con todo se ha 7. hecho con todo aquerdo en el Consejo 8. la lista de lo q havia q dar de los 9. mil ducados q hay valor y le ha 10. cavido ducientos ducados q ya es 11. buena pençion pa el cumplimto de los 500 dos 12. y estar mas asegurado su drecho para 13. en adelante, y assi se sacara su 14. despacho agora con los del Sr. Obispo 15. q se estan haciendo.16. Al Sr. Don Juan como tengo avisado a Vm. 17. en otras no sale de mi casa pa18. bolver a Palacio hasta q estos 19. calores se aplaquen q son rigurossos 20. y sin haver caydo agua muchos meses 21. ha y hasta q refresque, tanpoco. el dor. 22. Alba le dara cosa para acabar de ase23. gurle para q quede del todo libre de 24. su opilacion, vale muy bien con el [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "367:1491a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo17/367:1491a.JPG",
+      "url": "/legajos/legajo-17/images/367:1491a.JPG"
+    },
+    {
+      "filename": "368:1491b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo17/368:1491b.JPG",
+      "url": "/legajos/legajo-17/images/368:1491b.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "367:1491a.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (3)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-17/cartas/002949.json",
+  "primary_image_url": "/legajos/legajo-17/images/367:1491a.JPG"
+}

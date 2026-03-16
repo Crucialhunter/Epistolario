@@ -1,0 +1,43 @@
+{
+  "legajo_id": "29",
+  "id_carta": "6412",
+  "order_in_legajo": 163,
+  "signatura": "172:4229a",
+  "nombre_carta": "Carta de Bartolomé Mercadal a Persona desconocida",
+  "fecha_original": "5 de abril de 1662",
+  "lugar": "Madrid",
+  "remitente": "Bartolomé Mercadal",
+  "destinatario": "Persona desconocida",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Â [1§] Â [2§] Transcripción literal"
+  ],
+  "literal": [
+    "1. 1."
+  ],
+  "imagenes": [
+    {
+      "filename": "172:4229a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo29/172:4229a.JPG",
+      "url": "/legajos/legajo-29/images/172:4229a.JPG"
+    },
+    {
+      "filename": "173:4229b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo29/173:4229b.JPG",
+      "url": "/legajos/legajo-29/images/173:4229b.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "172:4229a.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (7)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-29/cartas/006412.json",
+  "primary_image_url": "/legajos/legajo-29/images/172:4229a.JPG"
+}

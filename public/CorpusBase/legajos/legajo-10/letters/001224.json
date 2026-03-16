@@ -1,0 +1,38 @@
+{
+  "legajo_id": "10",
+  "id_carta": "1224",
+  "order_in_legajo": 92,
+  "signatura": "162-391",
+  "nombre_carta": "Carta de Diego Matías de Aragüés a Jerónimo Pelegrín de Aragüés",
+  "fecha_original": "7 de noviembre de 1668",
+  "lugar": "Madrid",
+  "remitente": "Diego Matías de Aragüés",
+  "destinatario": "Jerónimo Pelegrín de Aragüés",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Respondo a la carta que he recibido de 24 del pasado. Toda ella la ha visto el señor don Pedro y quedado hablar en ello. Está bueno, y el señor don Juan mejor, aunque flaco, porque un veneno le va evacuando la tripa, que los médicos no han sido para tanto: quiera Dios le cure y quede en buena salud. El señor don Pedro va haciendo sus caravanas; me prometió que por toda esta semana tendrá el desengaño en bien o en mal. V. m. diga al señor don Juan Miguel Sureda que si ha recibido mis cartas con los papeles de su abogado se me remitan luego con el parecer de esos señores, sus abogados, porque acá se va abreviando y tiene acá su parte mucha justicia; y juntamente remita dinero (por ahora hasta mil reales de plata). V. m. me mande a sobrinas y sobrino mil saludes de parte de doña Margarita y mía, y a v. m. lo mismo. Y guarde Dios como deseo. Madrid, 7 noviembre 1668. De v. m., tío y servidor, Diego Matias de Aragues. V. m. dé a sus dueños esos pliegos. Las cartas por Alicante ya se recibieron. V. m. me responda a todo lo que le tengo escrito y avise si se ha pagado la letra de la Inquisición de 2813 reales de plata al dr. Costa, que sus cartas se han recibido y que crea se hará toda diligencia. Y el señor d. Pedro a algunos de estos señores ha dicho era muy merecedor del puesto, que procure venir propuesto o por ahí o por Aragón. Al conde de Aranda han hecho virrey de aquel reino. Transcripción literal"
+  ],
+  "literal": [
+    "1. Respondo a la carta que he recivido de 24 2. del passado toda ella la ha visto el Sr. don 3. Pedro y quedado hablar en ello, esta bueno 4. y el Sr. Don Juan mejor aunque flaco, porque 5. [^??ternero??^] le ba baquando la tripa, que los 6. medicos no han sido para tanto quiera Dios 7. le cure y quede en buena salud. 8. El sr. Don Po ba hasiendo su carabanas 9. me prometo que por toda esta semana 10. tendra el desengaño en bien, o, en mal 11. V.m. diga al Sr. Don Juan Miguel Sureda que 12. si ha recivido mis cartas con los papeles 13. de su advogado se me remitan luego con 14. el parezer desseo sres. su advogados 15. porque aca se ba abreviando y tiene [^??^] 16. parte mucha justicia y juntate 17. remita dinero por agora hasta mil Rs de pla 18. V.M. me mande a sobrinas y sobrino 19. mils saludes de parte de Dª Margta y mia 20. y a V.M. lo mismo y gde Dios como deseo 21. Md 7 nov 1668. 22. De V.M. tio y seor 23. Diego Mathias de Aragues.24. V.M. de a sus dueños 25. esos pliegos . 26. Las cartas por Alicante ya se recivieron 27. V.M. me responda a todo lo que le tengo escrito.y 28. avisse si se ha pagado la letra de la Inqion de 2813 Rs de pla 29. Al sr. Dr. Costa que sus cartas se han recibido y que crea 30. se hara toda diliga. Y el sr. d. Po a algunos destos ssers. ha 31. dicho era muy merecedor del puesto, que procure venir 32. propuesto o por ay, o por Aragon, al Conde de Aranda 33. han hecho Virrey de aquel Reyno. [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "162-391.jpg",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo10/162-391.jpg",
+      "url": "/legajos/legajo-10/images/162-391.jpg"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "162-391.jpg",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING",
+      "message": "Se detectaron caracteres sospechosos de encoding (7)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-10/cartas/001224.json",
+  "primary_image_url": "/legajos/legajo-10/images/162-391.jpg"
+}

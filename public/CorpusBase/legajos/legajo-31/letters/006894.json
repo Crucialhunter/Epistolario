@@ -1,0 +1,38 @@
+{
+  "legajo_id": "31",
+  "id_carta": "6894",
+  "order_in_legajo": 135,
+  "signatura": "191:1645.JPG",
+  "nombre_carta": "Carta de Pedro Aulí a Juan Miguel de Santacilia y Togores",
+  "fecha_original": "30 de abril de 1662",
+  "lugar": "Cádiz",
+  "remitente": "Pedro Aulí",
+  "destinatario": "Juan Miguel de Santacilia y Togores",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Señor mío esta hallé a v. m. con la salud que lo deseo por a mi yo la tengo gracias a Dios muy cumplida per todo lo que v. m. me quisiera mandar sabrá v. m. como han ha llegado aquí en esta ciudad de Cádiz dos compañías de Mallorca de las cuales con capitanes el capitán Francisco net y su Alferes Jaime Amengual que han venido encargados de su padre y los tengo en mi casa y de la otra compañía es lo capitán martin demeto que aún no ha ha llegado que dicen que se quedo en Malaga y han tomado asiento por ha [?] made real y tenemos las tres compañías juntas dentro de la capitáne rayal por hala se de ese quei habrá armada y se van prevenindo muchos navíos y todas las novedades que tenemos acá vinen de sa corte que me parece que v. m. las sabrá mayor no hay más que avisar a v. m. sino que Dios lo guarde como pueda de Cádiz Abril @ 30 de 1662 Servidor de v. m. el Capitá Pedro Auli a don Juá Santacilia [1§] Transcripción literal"
+  ],
+  "literal": [
+    "1. Señor mio esta alle ha Vmd con la salud que lo 2. deseo por ha mi jo la tengo gratias a dios muy compli3. da per todo lo que Vmd. me quisiera mandar sebra Vmd. 4. como an allegado aqui en esta Ciudad de Cadis dos 5. companias de Mallorca de las quales con capitanes 6. el Capitan Fransisco net y su Alferes Jaime 7. amengual que an venido en cargados de su padre 8. y los tengo en mi casa y de la otra conpania es 9. lo Capitan martin demeto que aun no ha alle10. gado que disen que se quedo en Malaga y han 11. tomado asiento por ha [?] made Real y tenemos las 12. tres compañias juntas dentro de la Capitane rayal 13. por hala se dese quei aura Armada y se van pre14. venindo muchos navios y todas las novedades que 15. tenemos aca vinen de sa Corte que me parese que 16. Vmd las sebra major no ai mas que avisar ha 17. Vmd sino que dios lo gde. como pueda de Cadis 18. Abril @ 30 de 1662 19. Servidor de Vmd 20. el Capita Pedro Auli 21. A don Juá Sta. Silia [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "191:1645.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo31/191:1645.JPG",
+      "url": "/legajos/legajo-31/images/191:1645.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "191:1645.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-31/cartas/006894.json",
+  "primary_image_url": "/legajos/legajo-31/images/191:1645.JPG"
+}

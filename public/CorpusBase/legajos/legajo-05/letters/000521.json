@@ -1,0 +1,48 @@
+{
+  "legajo_id": "5",
+  "id_carta": "521",
+  "order_in_legajo": 10,
+  "signatura": "18-9a copy",
+  "nombre_carta": "Carta de Pedro de Verí a Persona desconocida",
+  "fecha_original": "1 de abril de 1665",
+  "lugar": "Madrid",
+  "remitente": "Pedro de Verí",
+  "destinatario": "Persona desconocida",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Senyor. Dissabte anà don Josep Ribera al despatx i trobà que el senyor don Lluïs posava en forma que [?] decret de sa magestat en què mana amb [?] al consell d'Aragó entreguí els despatxos. Anà l'endemà segurament el decret al senyor vicecanceller, qui el té sojornat. Pensavem tingués junta avui o ahir, que d'indústria haurà excusat per dilatar estos fèries. Estava resolt sa excel·lència. entrar [?] el rei perquè [?] se despatxassin per {CAST. antes} de fetes les ordes. No ha pogut anar-hi per a fer-se {ESP. sangrat} dues vegades pel corriment [?] dels ulls, que ja està bo i s’és llevat avui. Tinc esperança que l’altra setmana que ve posarà en execució sa excel·lència. El que t'he dit, si ja doncs el gran general no rendeix la plaça. El senyor virrei té escrit amb particularitat la mort de l’{ESP. alguacil} Tercio, acumulant-se s’és comesa d’orde de Cotoner i Gaspar Puigdorfila, de qui és criat un de Montuïri qui, amb l'esclau de Campaner, la feren. Diu-me que en estar preses per l'inquisidor i jutge [1§] conservador haguera procedit contra d’ells, i demana al C. si dóna remei. El comte de Formiguera el té molt satisfet, puix escriu el senyor virrei al C. foren a visitar-lo els de la parcialitat de Canavall per a moure’l fes demostració per la mort de Tercio, però que el comte havia dit no li tocava per ser el mort {ESP. alguacil} i no criat seu, i que per excusar no hi tornassin se n’anà a una heretat, i que per haver-se moguts un cavaller i dos ciutadans els havia manat prendre i que havia donat dues cartes al senyor Jordi Fortuny i Antoni Puigdorfila, que amb altra donaria els motius havia tinguts i d’altres que pensava donar. Després, amb carta de 21, diu n’ha donada a Jaume Garriga, i que pensa si en donarà altres per ser l’únic remei per als mallorquins. Ha fet escriure el senyor vicecanceller al senyor virrei de València els detenga en arribar ahir fins altra ordre, com que voldrà fer el que féu amb nosaltres. Nre. Senyor el deixi {ESP. acertar}, que no ho perdrà per deixar de donar notícia al C. de la mínima cosa que ahir passa, fins dels homes que fa penjar avisar [?] Nre. Senyor guardi a vostra mercè amb salut. Madrid i abril al primer de 1665. Don Pedro de Veri [2§] 1665, de don Pedro de Veri, del primer d’abril, rebuda a 18 dit. Transcripción literal"
+  ],
+  "literal": [
+    "1. Señor 2. Disapta ena Don Josep Ribera al despatx y 3. troba que el Sr. Don Luis posava en forma qu [?] 4. decret de se Majestad en que mana ab ap [?] 5. al Consell de Arago entregue los despachos ena 6. lo endema sigurament el decret al Sr. Vice- 7. cansiller qui lo te sojornat pensavem tin- 8. gues junta auy o air, que de industria 9. aura escusat per dilatar estas ferias estave 10. resolt Se exª entrar [?] el Rey peraque [?] 11. se despachasen per antes de Festas las ordes 12. no ha pogut enar hi per a ferse sengrat 13. dos vegadas per el corriment [?] dels uulls, de 14. que ja esta bo y ses llevat uuy, tinc 15. esperança que laltre semmana qui ve 16. posara en execucio se Exª lo que te dit 17. si ja dons, el Gran General no rendex la 18. plasa. 19. El Sr. Virrey te escrit ab particularitat 20. la mort del Aguasil Tercio, acumulanse 21. ses comesa de orde de Cotoner y Gaspar Puig 22. Dorfila, de qui es criat un de Muntuiri qui 23. ab lo esclau de Campaner le feren = diume 24. que ana estar presas per lo Inqor y Jutge [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "18-9a copy.gif",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo05/18-9a copy.gif",
+      "url": "/legajos/legajo-05/images/18-9a copy.gif"
+    },
+    {
+      "filename": "19-9b copy.gif",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo05/19-9b copy.gif",
+      "url": "/legajos/legajo-05/images/19-9b copy.gif"
+    },
+    {
+      "filename": "20-9c copy.gif",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo05/20-9c copy.gif",
+      "url": "/legajos/legajo-05/images/20-9c copy.gif"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "18-9a copy.gif",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-05/cartas/000521.json",
+  "primary_image_url": "/legajos/legajo-05/images/18-9a copy.gif"
+}

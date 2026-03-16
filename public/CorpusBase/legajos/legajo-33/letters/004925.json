@@ -1,0 +1,38 @@
+{
+  "legajo_id": "33",
+  "id_carta": "4925",
+  "order_in_legajo": 4,
+  "signatura": "178:6841.JPG",
+  "nombre_carta": "Carta de Joan Barceló a Pedro Santacilia y Pax",
+  "fecha_original": "11 de mayo de 1623",
+  "lugar": "Lugar sin especificar",
+  "remitente": "Joan Barceló",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Mi Sr. don Pedro sols es per donar avís a v. m. com m'han dit per cosa certa que la dona qui havia donade pera ulesa a v. m., i a él Sr. don Juan Sunyer que és fes lo acte de perdó diu que se'n vol anar a Porreres sens haver fet lo acte jo ja tinc dit el que he permes i confiade a lo promès sens tornar mes perau la arrera que és i des ma vida avisant a v. m. que si la dona senva sens ha ver fet lo acte jo no tindre cosa i v. m. esta sobre la partida d'en bercació i si se'n va lo meu negoci tindrà mal succés suplicant-lo sia V m. Servid apretar-lo negoci amb el Sr. don Joan sunyer que faci lo acte com tinc dis sens lo favor de v. m. lo meu negoci tindrà mal suc ces ara com es ací convindrà que fasen sens terdanse y. no se'n vagi sens haver consert i del que jo tinc promès com mes. estic açò mateix amb què v. m. i el Sr. don Juan Sunyer me meneran no dic més d'esta presó donant-li Déu Nre. Sr. molts anys de vida com jo desitja i maig 11 de 1623 Criat de v. m. Joan barcelo paris [1§] Transcripción literal"
+  ],
+  "literal": [
+    "1. Mi Sr. Don Pedro sols es p[er] donar avis á Vm com me han dit p[er] cosa serta que2. la dona qui avia donade pera ulesa a Vm, y a lo Sr Don Juan Sunyer ques3. fes lo acte de perdo diu que sen vol enar á Porreres sens haver fet lo acte jo4. ja tinch dit lo que he permes y co[n]fiade a lo promes sens tornar mes perau=5. le arrera ques y des ma vida avisant a vm que si la dona senva sens ha6. ver fet lo acte jo no tindre cosa y Vm esta sobre la pertida de en7. bercatio y si sen va lo meu negossi tindra mal succes suplicantlo sia V=8. m. Servid apretar lo negosi ab lo Sr don joan sunyer que fassa lo9. acte co[m] tinch dis sens lo favor de Vm lo meu negosi tindra [mal suc]10. ces are co[m] es assi convindra que fassen sens terdanse y [...]11. no sen vage sens haver co[n]sert y de lo que io tinch promes co[m] mes [...]12. estich aco matex ab que Vm y lo sr don Juan Sunyer me meneran13. no dich mes desta preso donant li deu Nro Sr molts anys de vida co[m]14. io desitge y maig 11 de 1623 Chriat de V.m. joan barçelo paris [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "178:6841.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo33/178:6841.JPG",
+      "url": "/legajos/legajo-33/images/178:6841.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "178:6841.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-33/cartas/004925.json",
+  "primary_image_url": "/legajos/legajo-33/images/178:6841.JPG"
+}

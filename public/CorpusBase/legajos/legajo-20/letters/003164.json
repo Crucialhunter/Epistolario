@@ -1,0 +1,38 @@
+{
+  "legajo_id": "20",
+  "id_carta": "3164",
+  "order_in_legajo": 44,
+  "signatura": "044:5945.JPG",
+  "nombre_carta": "Carta de Vicente Bernavé de Escamilla a Pedro Santacilia y Pax",
+  "fecha_original": "20 de diciembre de 1655",
+  "lugar": "Madrid",
+  "remitente": "Vicente Bernavé de Escamilla",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Sr. mío con sumo alborozo doy a v. m. la enhorabuena de la merced que su majestad, Dios le guarde, tan dignamente ha hecho a v. m. y pudiera haberlo anticipado que cuando no hubiera más circunstancias que sus muchas partes de v. m. y singulares servicios afianzarán en buen suceso de este negocio. Yo me [he] holgado tanto cuánto no sabré decir que esta fineza debe v. m. a mi voluntad, y quisiera merecerle siempre muchas ocasiones de su servicio [?] a ellas. Guarde Dios a v. m. como deseo Madrid a 20 Diciembre 1655. Besa la mano de v. m. Vicente Bernave de Escamilla Sr. don Pedro Santacilia y Pax Transcripción literal"
+  ],
+  "literal": [
+    "1. Sr mio con sumo alborozo doy a Vm 2. Lanorabuena de la md que su Magd, Dios le gde, 3. tan dignamte a echo a Vm. y pudeera[?] haverlo 4. antisipado que quando no huviera mas sircuns- 5. tansias que sus muchas partes de Vm y sin- 6. gulares servos afiansaran en buen suceso[?] 7. deste nego[?] yo me olgado tanto quanto 8. no sabre decir que esta fineja[?] deve[?] 9. Vm a mi voluntad. y quisiera mereserle 10. siempre muchas ocasiones de su servo[?] 11. [?] 12. a ellas gde Dios a Vm como deseo Md[?] 13. a 20 dez< [?]>bre 1655. 14. B l m de Vm 15. Vicente Bernave 16. deScamilla[?] 17. Sr Don Pedro Santasilia y Pax [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "044:5945.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo20/044:5945.JPG",
+      "url": "/legajos/legajo-20/images/044:5945.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "044:5945.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-20/cartas/003164.json",
+  "primary_image_url": "/legajos/legajo-20/images/044:5945.JPG"
+}

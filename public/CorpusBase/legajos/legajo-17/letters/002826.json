@@ -1,0 +1,48 @@
+{
+  "legajo_id": "17",
+  "id_carta": "2826",
+  "order_in_legajo": 92,
+  "signatura": "150:1368a.JPG",
+  "nombre_carta": "Carta de Bartolomé Mercadal a Pedro Santacilia y Pax",
+  "fecha_original": "18 de enero de 1660",
+  "lugar": "Ciutadella",
+  "remitente": "Bartolomé Mercadal",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Sr. D. Pedro Santacilia i Pax mi senyor No sabré encavir a v. s. el {ESP. contento} que he tingut en la que tinc rebuda de 29 del paçat en què em fa me de nostra avís de la bona salut que gosa, després d'haver patit el dolor de la illada, que per ací se era publicat de qualitat que cerva posat amb grandios {ESP. cuidado} pel molt interès que tinc en la vida i salut de v. s. que Déu Nre. Sr. prospera i guarde. Tinc rebut la certificatoria del tabach que per mon descàrrec i del de v. s. està molt ben ajustada. Obeint el que d'horda del Racional se m'havia manat en raó dels comptes de la mia admiistracio, se estava Jaume Abadia continuant en els comptes de tots els anys consequetivament per enviar-los junts i després que tinc entès el gust de v. s. i del Racional en què es vaga enviant els comptes de cada un any, així com se aniran acabant [1§] se te la {ESP. nuestra} en pocar havent els de l'any 1659 començant en 29 de juliol que entri en l'ofici i en els de 96 que amb tot {ESP. cuidado} se embieran en mans del Racional acabats, que sien, sin {ESP. embargo}, de dirma Jaume Abadia que per trobar ca Jurat i estar el militar desganat de la gota, no pot trebellar en dits comptes sinó són les vellades i madru gades per haver d'acistir als molts negocis de la vt: (sic) v. s. crega de mi que faci citara de part mia el que sia possible amb brevedad, pel molt que desig saber com estic amb esta admiistració que amb el favor de v. s. i en els pagaments que haure fets pens donar satisfacció de me persona Jo estic advertit, si el governador i Asessor vo len demanar algun selari d'haver de pacar i firmar els comptas. Tinc per molt agradabla l'elecció que v. s. ha feta de Pere Joan Fortuny noti per acistir apacar els Comptas en mon nom jo dona v. s. les gràcies de tan bona elec tio i a son temps enviaré [?] els poders i punts v. s. sap quant me precio de son servidor i criat no tinc que fer-me moria de més obligacions, guardi Déu [2§] a v. s. com pot i tinc menester Ciua i gener 18 de 1660. Molt sdor de v. s. que besa sa ma don Bart. Mercadal [3§] Transcripción literal"
+  ],
+  "literal": [
+    "1. Sr. D. Pedro Sta. Cilia y2. Pax mi Señor3. No sabre encavir a VS. el contento que he 4. tingut en la que tinch rebuda de 29 del 5. paçat en que em fa me de nostra avís de 6. la bona calut que gosa, despres de haver 7. patit el dolor de la illada, que per assi se era 8. publicat de calitat que cerva posat ab 9. grandios cuydado per lo molt interes que 10. tinch en la vida y calut de VS que 11. Deu Nre Sr prospera y gde.12. Tinch rebut la sertificatoria del tabach 13. que per mon descarrech y del de VS esta 14. molt ben ajustada.15. Obeint lo que de horda del Racional se me 16. havia manat en raho dels comptas 17. de la mia admiistracio, se estava Jauma 18. Abadia continuant en los comptes de 19. tots los añys consequetivament per 20. enviarlos junts y despres que tinch 21. entes el gust de VS y del Racional22. en ques vaga enviant los comptes de cada23. un añy, axi com se aniran acabant [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "150:1368a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo17/150:1368a.JPG",
+      "url": "/legajos/legajo-17/images/150:1368a.JPG"
+    },
+    {
+      "filename": "151:1368b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo17/151:1368b.JPG",
+      "url": "/legajos/legajo-17/images/151:1368b.JPG"
+    },
+    {
+      "filename": "152:1368c.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo17/152:1368c.JPG",
+      "url": "/legajos/legajo-17/images/152:1368c.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "150:1368a.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-17/cartas/002826.json",
+  "primary_image_url": "/legajos/legajo-17/images/150:1368a.JPG"
+}

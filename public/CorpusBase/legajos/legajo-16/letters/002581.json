@@ -1,0 +1,43 @@
+{
+  "legajo_id": "16",
+  "id_carta": "2581",
+  "order_in_legajo": 67,
+  "signatura": "111:2081a.JPG",
+  "nombre_carta": "Carta de Diego Matías de Aragüés a Pedro Santacilia y Pax",
+  "fecha_original": "4 de mayo de 1667",
+  "lugar": "Madrid",
+  "remitente": "Diego Matías de Aragüés",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Esta va por Valencia que por todos los correos de Barcelona tengo Escrito, holgaré goce v. s. de muy buena salud que la tengan mi señora doña Leonor y el señor don Juan y todos esos señores como deseamos doña Margarita y yo que besamos sus manos con las de v. s. muchas veces. El señor don Nicolas escribe está ya, a Dios gracias, muy esforzado, con que espero brevemente volverá a su Exercicio, si bien hasta que este convalecido con seguridad se estará en casa El señor duque de Cardona esta muy contento, con su infante y mi señora La duquesa famosa con susobre parto, toda la corte le ha ido a dar la enhorabuena, y El señor duque de las Torres que hasta ahora no había puesto los pies en su casa el señor don Juan de Austria (que esta aquí en el retíro) se va por ocho días a Aranguez, hasta orano se sabe que se hará de este señor. v. s. tiene ya fiscal de ese reino al Doctor Díego Jerónimo nimo de Costa natural de Jaba muy amigo de Jeronimo, juzgo se íra con el señor Miguel Salva que dice se partirá para la mitad de pasado este Mes, su ropa le envía por Valencia a Viguet. [1§] para que la remita a Mallorca a Miguel fiol: también está despachado el señor don Jorge Dezcallar muy bien y llevara muy buena ínstrución para toda claridad para que allá no tengan dificultades, Diceme se partirá antes que el señor don Miguel. v. s. memnade lesírva y guarde Dios los muchos años que le deseo Madrid a 4 de mayo de 1667 con estas bala carta del señor duque de Cardona hoy le han sangrado por previsión. Besa las manos de v. s. su mayor servidor Diego Matias de Aragues Señor don Pedro Santacilia y Pax [2§] Transcripción literal"
+  ],
+  "literal": [
+    "1. Esta va por Valençia que por todos los correos de 2. Barçelona tengo Escrito, olgare goçe Vs. de muy 3. buena Sd que la tengan mi Sa da Leonor y el 4. Sr don Juan y todos essos Ses como desseamos da 5. Margta Y Yo que bessamos sus manos con las de Vs 6. muchas Vezes. El Sr Don Nicolas escrive esta 7. ya a Dios graçias muy esforzado, conque espero 8. brevemte volvera a su Exerçiçio, si bien hasta 9. q Este convaleçído con segurd se estara en casa 10. El Sr Duque de Cardona estamuy Contento, consu 11. Ynfante y mi Sa La Duquesa famosa consusobre12. parto, toda la corte le á hido adar la enorabue13. na, y El Sr Duque de las torres que hastaora 14. no havia puesto los píes en su cassa = 15. el Sr D Juan de Austria (que esta aqui enel retíro) 16. seva por ocho dias a Aranguez, hasta oranose save 17. que se ara deste señor. 18. Vs. tiene ya fiscal de esse Reyno al Dr Díego Gero19. nimo de Costa natural de Java muy amígo de 20. Geronimo, Juzgo se íra conel Sr Migl Salva 21. que diçe separtira para la mitad de pasado este 22. Mes, su ropa le invia por Vala a Viget. [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "111:2081a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo16/111:2081a.JPG",
+      "url": "/legajos/legajo-16/images/111:2081a.JPG"
+    },
+    {
+      "filename": "112:2081b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo16/112:2081b.JPG",
+      "url": "/legajos/legajo-16/images/112:2081b.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "111:2081a.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (3)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-16/cartas/002581.json",
+  "primary_image_url": "/legajos/legajo-16/images/111:2081a.JPG"
+}

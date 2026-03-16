@@ -1,0 +1,38 @@
+{
+  "legajo_id": "21",
+  "id_carta": "3338",
+  "order_in_legajo": 29,
+  "signatura": "049:5627.JPG",
+  "nombre_carta": "Carta de Pedro de Llaño Alucar a Pedro Santacilia y Pax",
+  "fecha_original": "25 de febrero de 1632",
+  "lugar": "Lucena",
+  "remitente": "Pedro de Llaño Alucar",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Puede v. m. estar muy cierto que nadie ha celebrado con mayor contento que yo la merced que su majestad sea servido de hacerle del perdón y desembargo de la Hacienda por lo que sencia ver a v. m. con este cuidado, y le doy mil enhorabuenas de verle libre del, aunque creo que tras de tantos años de andar con las armas aCuestas sea de hallar mal si ellas, {CAT. ara no ya que hacer mal anigu, sino biure mol be per no torna a los pedrenals de Ampurias, ya que som fora dells.} y aquí me tiene v. m. para servirle y en cualquier parte en cuanto gustare demandarme, la carta del duque de Arcos. irá a buen recado, Díos guarde a v. m. muchos años. Lucena 25 de febrero 1632 Sr. don Pedro de llaño Alucar. Sr. don Pedro de Santacilia y Pax [1§] Transcripción literal"
+  ],
+  "literal": [
+    "1. Puede Vm estar muy cierto que nayde acelebrado con 2. mayor contento que yo la mrd que su m[a]gd seaservido 3. de hazerle del perdon ydesembargo dela Haçienda 4. por lo que sentia ver a vm. coneste cuydado, yle 5. doy mil enorabuenas de verle libre del, aunque 6. creo que tras de tantos años deandar con las 7. armas aCuestas sea de hallar mal si ellas, 8. {CAT ara no ya que fer mal anigu, sino biure mol be 9. per no torna alos pedrenals de Ampurias, ya que 10. som fora dells. yaqui me tiene Vm. paraser11. virle y en qualquier parte enquanto gustare 12. demandarme, la Carta del Duque de 13. Arcos. yra abuen recado, Díos guarde 14. a Vm. muchos años. Luçena 25 de 15. febrero 1632 16. Don Pedro de llaño Alucar. 17. [Margen izquierdo][^ Don Pedro de Sta cylia y Pax] [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "049:5627.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo21/049:5627.JPG",
+      "url": "/legajos/legajo-21/images/049:5627.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "049:5627.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-21/cartas/003338.json",
+  "primary_image_url": "/legajos/legajo-21/images/049:5627.JPG"
+}

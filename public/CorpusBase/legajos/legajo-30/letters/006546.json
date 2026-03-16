@@ -1,0 +1,38 @@
+{
+  "legajo_id": "30",
+  "id_carta": "6546",
+  "order_in_legajo": 125,
+  "signatura": "024:5384.JPG",
+  "nombre_carta": "Carta de Pau Sureda a Pedro Santacilia y Pax",
+  "fecha_original": "17 de enero de 1642",
+  "lugar": "Mallorca",
+  "remitente": "Pau Sureda",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Â [1§] Transcripción literal"
+  ],
+  "literal": [
+    "1."
+  ],
+  "imagenes": [
+    {
+      "filename": "024:5384.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo30/024:5384.JPG",
+      "url": "/legajos/legajo-30/images/024:5384.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "024:5384.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (3)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-30/cartas/006546.json",
+  "primary_image_url": "/legajos/legajo-30/images/024:5384.JPG"
+}

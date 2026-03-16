@@ -1,0 +1,43 @@
+{
+  "legajo_id": "25",
+  "id_carta": "4095",
+  "order_in_legajo": 29,
+  "signatura": "055_129a.JPG",
+  "nombre_carta": "Carta de Miguel Malo a Jerónimo Pelegrín de Aragüés",
+  "fecha_original": "6 de abril de 1667",
+  "lugar": "Madrid",
+  "remitente": "Miguel Malo",
+  "destinatario": "Jerónimo Pelegrín de Aragüés",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Muchos días ha[ce] que no tengo carta de v. m. aunque habido muchos pasajes porque aquí los vemos cada día ya por vía de Barcelona y Valencia y no tengo carta de v. m. ni del Sr. Mateo Maestre y v. m. me escribió en la última que el Sr. Mateo Maestre me enviaba el nombre del hijo que nombraba para su oficio y yo no he visto tal carta y para enviarle su despacho se necesitó precisamente qué nombre el hijo que le ha de suceder, después de sus días y esto lo he escrito infinitas veces y no veo respuesta y así la espero y que sea luego porque pasado un año será nula la gracia y no tenemos más tiempo que hasta Septiembre que viene. Guarde Dios a v. m. y reciba muchos recados de dña. Ana y mis hijos y los de a esa señoría [?] Madrid y abril de 1667. Sr. mío yo no entiendo a v. m. ni me escribe en tantos pasajes que ha habido ni el Sr. Mateo Maestre me envía el nombre de su hijo que le ha de suceder en su oficio, después de sus largos días v. m. haga que se haga bueno [?] porque por Setiembre se cumple un año y después no habrá remedio. Yo lo he escrito muchas veces y no tengo respuesta, es verdad que la última que v. m. me escribe me decía que el Sr. Mateo Maestre me escribía el nombre del hijo, pero yo no he visto su carta y ha venido el maestre de campo y otros de hay y me hallo sin carta a diso. Servidor de v. m. que sus manos besa. Miguell Malo Sr. Jeronimo Pelegrin [1§] Madrid. Miguel Malo, 6 de abril 1667. {CAT. té resposta a a tots, a 5 maig 1667} Transcripción literal"
+  ],
+  "literal": [
+    "1. Muchos días a que no tengo carta de Vm.2. aunque avido muchos pasages porque aquí3. los bemos cada dia ya por via de Bar[celo]na y Va4. lençia y no tengo carta de Vm. ni del Sr. Ma5. teho Maestre y Vm. me escrivio en la ultima6. que el Sr. Matheo Maestre me imbiada el7. nombre del hijo que nombrava pª su offiçio8. y yo no e bisto tal carta y pª imbiarle su9. despacho se neçesito preçisamente que nom10. bre el hijo que le a de suçeder despues de sus11. dias y esto lo he escrito infinitas beçes y12. no beo respuesta y assi la espero y que ea13. luego porque pasado un año sera nula la14. graçia y no tenemos mas tiempo que asta15. Sepptte. que viene gde. Dios a Vm. y reçiva16. muchos recados de Da. Ana y mis hijos y los de17. a esa Sª [?] M[adri]d y Abril de 1667 Sr. mio yo18. no hentiendo a Vm ni me escribe en tantos pasa19. jes q[ue] habido ni el Sr. Matheo Maestre me ynbia20. el nombre de su hijo q[ue] le ha de suceder en 21. su officio despues de sus largos dias Vm haga q[ue] se haga bueno[?] por22. q[ue] por Sette. se cumple un año y despues no habra remedio yo lo he escrito23. muchas beçes y no tengo respuesta es berdad q[ue ] la ultima q[ue] Vm me escribe24. me deçia q[ue] el Sr. Matheo Maestre me escribia el nombre del hijo pero yo25. no he bisto su carta y ha benido el Mº Capo y otros de ay y me allo sin carta26. A diso Ser[vid]or de Vm q[ue] s.m.b. Miguell Malo27. Sr. Germo. Pelegrin [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "055_129a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo25/055_129a.JPG",
+      "url": "/legajos/legajo-25/images/055_129a.JPG"
+    },
+    {
+      "filename": "056_129b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo25/056_129b.JPG",
+      "url": "/legajos/legajo-25/images/056_129b.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "055_129a.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (4)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-25/cartas/004095.json",
+  "primary_image_url": "/legajos/legajo-25/images/055_129a.JPG"
+}

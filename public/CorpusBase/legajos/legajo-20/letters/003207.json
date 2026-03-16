@@ -1,0 +1,43 @@
+{
+  "legajo_id": "20",
+  "id_carta": "3207",
+  "order_in_legajo": 83,
+  "signatura": "108:5988a.JPG",
+  "nombre_carta": "Carta de Magín Ribes a Pedro Santacilia y Pax",
+  "fecha_original": "9 de octubre de 1666",
+  "lugar": "Lugar sin especificar",
+  "remitente": "Magín Ribes",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Con el patrón March Riquer. Remito a v. s. cuatro Docenas de melones que tienen esta mar ca Sr. D. [?]. de Almangona [?] Perdone v. s. de la Cortedad. que 5 le certifico con toda verdad. que de mi tiempo no ha habido menos ni más [?] no mi re v. s. el Sr. don sino el he feto que lo suple todo Dios guarde a v. s. como puede y deseo [?] Ibiza y a los. 5 [?] de 1666 de v. s. que s. m. b. Magin Ribes [?] Transcripción literal"
+  ],
+  "literal": [
+    "1. Con el Patron March Riquer 2. Remito a vsª. quatro Dozenas de 3. melones que tienen esta mar- 4. ca D. [?]. de Almangona[?] 5. Perdone vsª. de la Cortedad. que [6 6. le sertifico con toda verdad. 7. que de mi tiempo no havido 8. menos ni mas [?] no mi- 9. re vsª. el Don sino el he- 10. feto que lo suple todo Dios 11. gde a vsª. como puede y de- 12. seio[?] Ivissa y < [?]> a los. 5[?] de 1666 13. de vsª. q s. m. b. 14. Magin Ribes[?] [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "108:5988a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo20/108:5988a.JPG",
+      "url": "/legajos/legajo-20/images/108:5988a.JPG"
+    },
+    {
+      "filename": "109:5988b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo20/109:5988b.JPG",
+      "url": "/legajos/legajo-20/images/109:5988b.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "108:5988a.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-20/cartas/003207.json",
+  "primary_image_url": "/legajos/legajo-20/images/108:5988a.JPG"
+}

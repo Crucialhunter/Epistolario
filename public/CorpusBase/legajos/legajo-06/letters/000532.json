@@ -1,0 +1,43 @@
+{
+  "legajo_id": "6",
+  "id_carta": "532",
+  "order_in_legajo": 31,
+  "signatura": "003_2a",
+  "nombre_carta": "Carta de Tomás Mariano Quint Zaforteza a Cecilia Zaforteza y Sureda de Sant Martí",
+  "fecha_original": "7 de septiembre de 1739",
+  "lugar": "Santa Eulalia",
+  "remitente": "Tomás Mariano Quint Zaforteza",
+  "destinatario": "Cecilia Zaforteza y Sureda de Sant Martí",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Cecília, hem estimat molt la tua carta i que ho passis bé. Procura a guardar-te i no menjar massa arboces, que tots els excessos danyen. L'avi i en Tomàs son a Son Boronat. En Tomàs hi anà ahir, i avui ha caçat i l'avi hi és anat avui a la tarda, que tenia un poc que fer i demà de matí seran ací. Escriu novetat, que no n’he vista ninguna en les cartes. De part de ta mare i mia rebràs moltes memòries i donaràs molts records a D. Francesc, D. Josep i demés i Déu te guardi molts anys. Sta. Eulàlia i setembre als 7 de 1739. D. Tomas Quint Zaforteza, ton pare [1§] A Dna. Cecilia Zaforteza guardi Déu molts anys Transcripción literal"
+  ],
+  "literal": [
+    "1. Cecilia hem estimat molt le tua Carte y que 2. ho pases be procure a guardarte y no menjar 3. mase erbosas que tots los exesos dañen el S< enyo>r Avi 4. y en Thomas son a Son Boronat en Thomas ay a- 5. ná air y vuy a casat y el S< enyo>r Avi ey es anat 6. vuy ale tarde que tania un poch de cafer y dema 7. demati seran asi; escriu novedad que no ne 8. vista nigune en les cartes de part de te Mare y mia 9. rebras moltes mamorias y doneras molts r< ecor>dos a 10. D. Fr< ances>ch. D. joseph y demes y Deu te g< uar>de m< olt>s a< ny>s. 11. S< an>ta Eulalia y 9< novem>bre als 7 de 1739 12. D. Thomas Quint Çaforteza 13. Ton Para [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "003_2a.jpg",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo06/003_2a.jpg",
+      "url": "/legajos/legajo-06/images/003_2a.jpg"
+    },
+    {
+      "filename": "004_2b.jpg",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo06/004_2b.jpg",
+      "url": "/legajos/legajo-06/images/004_2b.jpg"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "003_2a.jpg",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (2)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-06/cartas/000532.json",
+  "primary_image_url": "/legajos/legajo-06/images/003_2a.jpg"
+}

@@ -1,0 +1,38 @@
+{
+  "legajo_id": "21",
+  "id_carta": "3527",
+  "order_in_legajo": 216,
+  "signatura": "397:5815.JPG",
+  "nombre_carta": "Carta de Pedro Pax Olim Español a Pedro Santacilia y Pax",
+  "fecha_original": "26 de noviembre de 1643",
+  "lugar": "Mallorca",
+  "remitente": "Pedro Pax Olim Español",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Aunque tengo escritas diferentes cartas a v. s. en tan buena ocasión de portador como es el padre Mayal no puedo dejar de ponerle en memoria quiera mandarme muchas cosas y a mis señoras lo mismo. Dios lo guarde como deseo y es menester. Mallorca Noviembre 26 de 1643. Sr. don Pedro Pax Olim Español Sr. don Pedro Santacilia y Pax Transcripción literal"
+  ],
+  "literal": [
+    "1. Aunque tengo es critas diferentes cartas 2. a v.s. en tan buena ocasion de por tador 3. como es el padre maial nopuedo dexarde 4. ponerle en memoria quiera mandarme 5. mutxas cosas yamis señoras lo mes mo dios lo 6. guarde como deseo y he menester Mallorca 7. 9bre 26 de 1643 8. don pedro pax 9. olim spañol 10. [Margen izquierdo][^ sr d pedro Sta Siry pax] [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "397:5815.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo21/397:5815.JPG",
+      "url": "/legajos/legajo-21/images/397:5815.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "397:5815.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-21/cartas/003527.json",
+  "primary_image_url": "/legajos/legajo-21/images/397:5815.JPG"
+}

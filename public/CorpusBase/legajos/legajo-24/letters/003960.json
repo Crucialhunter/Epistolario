@@ -1,0 +1,43 @@
+{
+  "legajo_id": "24",
+  "id_carta": "3960",
+  "order_in_legajo": 11,
+  "signatura": "019:4013a.JPG",
+  "nombre_carta": "Carta de Diego de Rocabertí a Pedro Santacilia y Pax",
+  "fecha_original": "2 de abril de 1632",
+  "lugar": "Girona",
+  "remitente": "Diego de Rocabertí",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Per carta de don Bonaventura de Lanuza he sabut com ereu ja partit per a Madrid i tornat per ordre del virrei, havent hagut correu de la vinguda tan prompte del rei i així confio que esta carta us trobarà en Barcelona i sentireu molt de plaer perquè de nou pugui prevenir-nos de què ens faceu mercè d'eixir a la defensa de la casa de marina en sa {ESP. casi} lloc dient que part d'ella per a mi i [?] don Bonaventura de Lanuza que tots tenim obligació [?] assistir al asats [?] l'hem [de] menester i que no en [?] que quan altra no es pogués fer enviar de [?] dirla amb la forma que m'escriguí quan [?] se fes amistat amb algun senyor, deixant la sala de marina [?] tos sien a la capella, estau advertit de [?] se d'anar-me avisant de tot el que pugueu. Nostre Sr. vos guard com pot i jo desitj, en Girona i abril a 2 de 1632. Don Diego de Rocabertí Pau i Bellera [1§] A don Pedro Santacilia i Pax, que Déu guardi {ESP. Gerona conviene se de luego per merced. Gerona 2 abril rt. 1632} Don Diego de Rocaberti Transcripción literal"
+  ],
+  "literal": [
+    "1. Per carta de don Bonaventura de laNuça e sabut com2. ereu ja partit pera Madrid ï¿½ tornat per orde del Virrey3. avent hagut corrreu de la Vinguda tant promta del Rey y axi4. confio que esta carta us trobara en Barcelona y sentireu[?] 5. molt de pler perque de nou puga prevenirnos de quens fa6. sau merce de axir a la defensa de la casa de marina7. ensa casi lloch dient que part della per a mi y [...]8. Don Bonaventura de Lanuça que tots tenim obliga[ció...9. assistir al assats[?] la avem menester y que non [...]10. que quant altra nos pogues fer anvia de [...]11. dirla ab la forma quem escrigui quant [...]12. se fes amistat an algun Señor dexant la sala de marina [...]13. tos sien a la Capella, estau advertit de [...]14. ce de anarme avisant de tot lo que pugau Nostre Sor.15. vos guard com pot y yo desitx en Gerona y Abril a 2 de16. 163217. Don diego de Rocabertí18. Pau y Bellera [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "019:4013a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo24/019:4013a.JPG",
+      "url": "/legajos/legajo-24/images/019:4013a.JPG"
+    },
+    {
+      "filename": "020:4013b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo24/020:4013b.JPG",
+      "url": "/legajos/legajo-24/images/020:4013b.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "019:4013a.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-24/cartas/003960.json",
+  "primary_image_url": "/legajos/legajo-24/images/019:4013a.JPG"
+}

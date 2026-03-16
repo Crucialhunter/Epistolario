@@ -1,0 +1,37 @@
+{
+  "legajo_id": "30",
+  "id_carta": "6706",
+  "order_in_legajo": 208,
+  "signatura": "278:5544a.JPG",
+  "nombre_carta": "Carta de El comte de Santa Maria de Formiguera a Pedro Santacilia y Pax",
+  "fecha_original": "29 de agosto de 1661",
+  "lugar": "Lugar sin especificar",
+  "remitente": "El comte de Santa Maria de Formiguera",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "LLETRA COMPLICADA [1§] [2§] Transcripción literal"
+  ],
+  "literal": [
+    "1. LLETRA COMPLICADA1."
+  ],
+  "imagenes": [
+    {
+      "filename": "278:5544a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo30/278:5544a.JPG",
+      "url": "/legajos/legajo-30/images/278:5544a.JPG"
+    },
+    {
+      "filename": "279:5544b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo30/279:5544b.JPG",
+      "url": "/legajos/legajo-30/images/279:5544b.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "278:5544a.JPG",
+  "warnings": [],
+  "raw_source": "raw/legajos/legajo-30/cartas/006706.json",
+  "primary_image_url": "/legajos/legajo-30/images/278:5544a.JPG"
+}

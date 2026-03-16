@@ -1,0 +1,43 @@
+{
+  "legajo_id": "17",
+  "id_carta": "2860",
+  "order_in_legajo": 126,
+  "signatura": "209:1402a.JPG",
+  "nombre_carta": "Carta de Diego Matías de Aragüés a Pedro Santacilia y Pax",
+  "fecha_original": "28 de abril de 1660",
+  "lugar": "Madrid",
+  "remitente": "Diego Matías de Aragüés",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Tengo escrito a v. m. hasta hoy todo lo que se me ha ofrecido por Valencia y Barcelona y el correo pasado remito por Valencia a Viguet Jerónimo los papeles impresos. Al Sr. don Juan le va muy bien en la casa de los pajes y goza de buena salud y ha comenzado a servir en la capilla de palacio el domingo pasado, espero en Dios ha de probar bien, y ha de ser estimado, aunque aún no se ha publicado el obispado de Mallorca, el consejo ha hecho consulta a su majestad en lo de las pensiones y graduado a cada uno por su antigüedad. Veremos que nos tocará en lo que hay dado, de que avisaran. Su majestad está en Burgos y ha mandado a los que le asisten se vistan de negro. Hoy ha venido el capelo del Sr. don Pasqual de Aragon, que está muy contento. Ayer tarde [?] de Leonario un hijo del Sr. don Pedro de Villalonga de Pueyo en razón del pleito de la Inquisición dejó pasar los 10 días para pedir se señale día para la relación en lo de la ejecución, pues se lo ganó el punto del articulo de la nulidad. Espero buen suceso. En este otro del Consejo de Aragón los contrarios callan. Veo no hablan poco [?]. No ha venido la carta del rey de firmar para [2§] que la Audiencia de ahí despache ese pleito irá de hoy en ocho, o, el sábado por Barcelona será posible conforme lo que v. m. me dice que cuando llegue esté dado el pleito. No hay ahora de que avisar otra cosa. Mi carta inclusa con esta se servirá v. m. responder y a las demás de haberlas recibido con lo demás que fuere del servicio de v. m. Guarde Dios los muchos años que le deseo, Madrid a 28 Abril 1660. Besa la mano de v. m.,Diego Matias de Aragues Sr. don Pedro Santacilia y Pax Transcripción literal"
+  ],
+  "literal": [
+    "1. Tengo escrito a Vm. hasta oy todo lo q se me2. ha offresido por Valencia y Barcelona y3. el correo passado remito por Valencia a Viguet4. Geronimo los papeles imprexos5. Al sr. don Juan le ba muy bien en la casa6. de los Pajes y goza de buena salud y ha7. comenzado a servir en La capilla de Palacio8. el domingo passado, espero en Dios ha de9. probar bien, y ha de ser estimado,10. Aunq aun nos e ha publicado el obispado de11. Mallorca, el Consso ha hecho hecho consulta12. a su M[a]gd en lo de las pensiones y graduado13. a cada Uno por su antiguedad, Veremos14. q nos tocara en lo q ay dado, de q avisaran.15. Su M[a]gd esta en Burgos y mandado a los q16. Le asisten se vistan de negro17. oy ha Venido el Capelo del Sr. don Pasqual de18. Aragon, q esta muy contento.19. Aier tarde estar de Leonario un hijo del Sr. don 20. Pedro de Villacaonga de Pueyo21. en razon del Pleyto de la Inqon dexo22. pasar los 10 dias pa pidir se señale23. dia para Relacion en lo de la exon pues24. se lo gano el punto del articulo de la nulidad,25. espero buen sucesso,26. eneste otro del Consso de Aragon los contrarios27. Callan beo no hablan poco[?] [?]28. no ha Venido La carta del Rey de firmar para [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "209:1402a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo17/209:1402a.JPG",
+      "url": "/legajos/legajo-17/images/209:1402a.JPG"
+    },
+    {
+      "filename": "2010:1402b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo17/2010:1402b.JPG",
+      "url": "/legajos/legajo-17/images/2010:1402b.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "209:1402a.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (3)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-17/cartas/002860.json",
+  "primary_image_url": "/legajos/legajo-17/images/209:1402a.JPG"
+}

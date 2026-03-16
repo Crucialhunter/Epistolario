@@ -1,0 +1,38 @@
+{
+  "legajo_id": "34",
+  "id_carta": "5098",
+  "order_in_legajo": 126,
+  "signatura": "194:7013.JPG",
+  "nombre_carta": "Carta de conde Marqués de Eliche a Pedro Santacilia y Pax",
+  "fecha_original": "5 de mayo de 1657",
+  "lugar": "Madrid",
+  "remitente": "conde Marqués de Eliche",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "a D. Francisco pedrolo del Abito de Montesa le hi/ so su majestad merced de la Alcaydia de cervera en el Principado de Cataluña cuyo sueldo goza en el Patrimonio real de Mallorca y de los corridos me dice seleestan debiendo más de quinientos ducados y porque es criado de mi padre y Sr. aquí en deseo to da conveniencia suplico a v. m. me haga merced defavorecerle disponiendo quesele de satisfacción de lo que pareciere que se leestade/ viendo que para mi será deto daesimazón al servi/ cio de v. m. a quien Guarde Dios muchos años como deseo Madrid a 5 de mayo de 1657 RlcondeMarquesdeeliche El conde Marqués de Eliche Sr. D. Pedro desanta Cecilla [1§] Transcripción literal"
+  ],
+  "literal": [
+    "1. A D. franco pedrolo del Abito de Montesa le hi/2. so Su Magd mrd dela Alcaydia de cervera enel3. Principado de Cataluña cuyo sueldo gosa enel4. Patrimonio Rl de Mallorca y delos corridos5. me dise seleestan deviendo mas de quinientos6. Ducados y porque es criado de mi Padre y aqui7. en deseo to da conbeniencia supp[li]co a Vm me8. haga mrd defaboreserle disponiendo quesele9. de satisfaçion delo que pareciere quese leestade/10. viendo quepara mi sera deto daesimaz[i]on al servi/11. cio de Vm aquien Guarde Dios muchos años12. como deseo Md a 5 de Mayo de 165713. RlcondeMarquesdeeliche14. El conde Marqués de Eliche15. Sor D. Pedro desanta Çecilla [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "194:7013.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo34/194:7013.JPG",
+      "url": "/legajos/legajo-34/images/194:7013.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "194:7013.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-34/cartas/005098.json",
+  "primary_image_url": "/legajos/legajo-34/images/194:7013.JPG"
+}

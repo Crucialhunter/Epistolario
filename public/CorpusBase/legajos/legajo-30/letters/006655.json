@@ -1,0 +1,38 @@
+{
+  "legajo_id": "30",
+  "id_carta": "6655",
+  "order_in_legajo": 157,
+  "signatura": "196:5493.JPG",
+  "nombre_carta": "Carta de Jerónimo Pelegrín de Aragüés a Pedro Santacilia y Pax",
+  "fecha_original": "11 de febrero de 1661",
+  "lugar": "Palma",
+  "remitente": "Jerónimo Pelegrín de Aragüés",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Mi senyor novetats no en tenim ningunes més que el Dr. Armella per la capitania general per uns Guants del Virrey els ha donats a defensar i a Ant Mayol i Josep Gallar corre la cosa tan apretada, que si fossen Bandejats cridats, tendrien més moderacio; tot es poca prudència i atencio comanan a nostre v. m. es procurador reial i no és raó que en son temps perda la jurídicció a on hia tantes ordres del rei que li assistexen, v. m. farà el millor li aparega i Nostre el guardi molts anys. com desig. i tinc de menester Ciutat als 11 de feb. 1661. Son Criat de v. m. Jeroni Pelegri [1§] Transcripción literal"
+  ],
+  "literal": [
+    "1. Mi Señor novedats non tenim ningunas mes 2. que el Dor. Armella per la capitania General per 3. uns Guants del Sr. Virrey los a donats a defenssar y 4. a Antt Maiol y Juseph Gallar corre la cossa tan apretada, que si fossen Bande5. jats cridats, tendrian mes moderaçio; tot es 6. poca prudençia y attençio comenan a nostro Sr 7. V. M. es Procurador Real y no es raho que 8. en son temps perda la juridictio ha ont hia tantes 9. ordes del Rey que li asistexen, V. M. fara lo 10. millor li aparega y Nostro Sr lo guarde mols anys. 11. com desig. y tinch de menester Ciutat als 12. 11 de feb. 1661. 13. Son Criat de VM 14. Geronym Pelegri [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "196:5493.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo30/196:5493.JPG",
+      "url": "/legajos/legajo-30/images/196:5493.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "196:5493.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (4)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-30/cartas/006655.json",
+  "primary_image_url": "/legajos/legajo-30/images/196:5493.JPG"
+}

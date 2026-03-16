@@ -1,0 +1,43 @@
+{
+  "legajo_id": "12",
+  "id_carta": "1524",
+  "order_in_legajo": 28,
+  "signatura": "036_6117a.JPG",
+  "nombre_carta": "Carta de Diego Gómez de Mendoza a Pedro Santacilia y Pax",
+  "fecha_original": "11 de marzo de 1639",
+  "lugar": "Zaragoza",
+  "remitente": "Diego Gómez de Mendoza",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Señor mío estimo como es razón la memoria tiene de este su servidor y mi hermano está con mis estimaciones de la merced que v. m. le hizo en que me escribe, y no dudamos de la fineza de tal amigo tendrá el sentimiento que requiere semejante desgracia, pues por cosa de muy poco momento ha sido Dios servido castigar nuestros pecados, permitiendo me diese una desdicha tan grande como matar mi hermano tan desdichadamente uno de los mayores amigos que tenía y teníamos todos. Dios sea alabado por todo y a v. m. le guarde muchos años y le dé muchas ocasiones en que mandarme, de Zaragoza y marzo a 11 1639. Don Diego Gomez de Mendoza Sr. don Pedro Santacilia Transcripción literal"
+  ],
+  "literal": [
+    "1. Señor mio estimo como es razon la memor[ia]2. tiene de este su serbidor y mi her[man]o esta con mis3. estimaciones de la merced q[ue] vm. le hizo en4. q[ue] me escribe, y no dudamos de la fineza de tal5. amigo, tendra el sentimiento q[ue] requiere semejan6. te desgracia pues por cosa de muy poco momen7. to a sido Dios serbido (^??) castigar8. nuest(^??)ros pecados permitiendo me diesse una9. desdicha tan grande como matar mi her[man]o10. tan desdichadamente uno de los maiores, a-11. migos q[ue] tenia y teniamos todos Dios sea ala-12. bado port to y á Vm. le g[uard]e muchos años y le13. de muchas ocasiones en q[ue] mandarme14. de Carag[o]ca y março a 11 163915. Don Diego Gomez16. de Mendoza17. Sr. don Pedro Santa Zilia [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "036_6117a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo12/036_6117a.JPG",
+      "url": "/legajos/legajo-12/images/036_6117a.JPG"
+    },
+    {
+      "filename": "037_6117b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo12/037_6117b.JPG",
+      "url": "/legajos/legajo-12/images/037_6117b.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "036_6117a.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-12/cartas/001524.json",
+  "primary_image_url": "/legajos/legajo-12/images/036_6117a.JPG"
+}

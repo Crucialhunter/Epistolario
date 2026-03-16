@@ -1,0 +1,43 @@
+{
+  "legajo_id": "9",
+  "id_carta": "1037",
+  "order_in_legajo": 75,
+  "signatura": "122-60a",
+  "nombre_carta": "Carta de Pedro Lárez a Arnau de Santacilia",
+  "fecha_original": "19 de julio de 1675",
+  "lugar": "Granada",
+  "remitente": "Pedro Lárez",
+  "destinatario": "Arnau de Santacilia",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Amigo y señor mío recibí la de v. m. de nueve del corriente y me he holgado en el alma aiga llegado v. m. con entera salud veo el que v. m. me ha hecho raro haber hablado a mi hermano como también a don Josep Vizcaino pues me escribe ofreciendos a todo lo P [?] se me ofreciere y estimaré mucho toda la diligencia que v. m. hiciere Ss [?] e lasalida de gra nada pues estoy muy cierto Lohace v. m. estecorreo tuve carta de mi primo Sr. don Josep deucedo y estimo mucho el aviso que v. m. me da el alférez Sr. don Josep me ha dicho que sino tenía buena nueva este correo que después de mañana Partiría a esa corte en compañía del teniente derrabanal aguado está muy s [?] do del vizcaino pero ya tiene poragen te alucero siempre espero cumpli ra con el como conrobles por acá meba con losrreformados como [1§] a v. m. Leyva Dios quiera hay gatro po antes desalir yo degranada que lo que Le dice a v. m. no faltaré ahello porque Sr. don domingo lo he tenido sin socorre más de ocho días y andrada viendo eso anda derecho ya escribí en otras dos a v. m. como Juan del puerto amaido amalaga conlicencia nila conforme dice a v. m. haría con el todo lo que v. m. memando Vayona esta vino haber y Robles no asentado ningún soldado desde que marcho latropa yesta muy triste porque nosotros sentamos algunos y con esto no se me ofrece cansar más a v. m. sino suplicarle no deje de mandarme en todolo que fuere de su gusto pues sabe me tiene a sus órdenes amiseñora doña Francisca beso las manos ya vayan ya v. m. me le guarde Dios muchos años como deseo degranada a 19 de julio de 1675 su mayor amigo de v. m. que sus manos beso Sr. don Pedro Larez doña Ana besa a v. m. las manos y a mi señora doña Francisca Señor don Arnau de Santacilia [2§] Transcripción literal"
+  ],
+  "literal": [
+    "1. Amigo y Sr mio Recivi lade vmd. 2. de nuebe del corriente y me he holga3. do enel alma aiga llegado vmd 4. con entera salud veo elq vmd. 5. me ahecho raro aver hablado a 6. mi hermano como tambien a 7. D Joseph Vizcaino pues me escri8. ve ofreciendos atodolo P[?] seme ofre9. ciere y estimare mucho todala diliga 10. que vmd. hiçiere Sse lasalida de gra11. nada pues estoi mui cierto Lohaçe 12. vmd. estecorreo tube carta demi 13. primo don Joseph deuçedo y estimo 14. mucho el aviso que vmd me da 15. el alferez D Joseph meadicho 16. que sino tenia buena nueba este coreo 17. que despues de mañana Partiria 18. aesa corte enconpañia del teniente 19. de rrabanal = aguado esta mui 20. ssdo del vizcaino pero ya tiene poragen21. te alucero siempre espero cumpli22. ra conel como con rrobles = poraca 23. meba conlos rreformados como [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "122-60a.jpg",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo09/122-60a.jpg",
+      "url": "/legajos/legajo-09/images/122-60a.jpg"
+    },
+    {
+      "filename": "123-60b.jpg",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo09/123-60b.jpg",
+      "url": "/legajos/legajo-09/images/123-60b.jpg"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "122-60a.jpg",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-09/cartas/001037.json",
+  "primary_image_url": "/legajos/legajo-09/images/122-60a.jpg"
+}

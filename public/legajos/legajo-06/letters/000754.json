@@ -1,0 +1,43 @@
+{
+  "legajo_id": "6",
+  "id_carta": "754",
+  "order_in_legajo": 18,
+  "signatura": "432-215a",
+  "nombre_carta": "Carta de Melchor Bosch a Cecilia Zaforteza y Sureda de Sant Martí",
+  "fecha_original": "fecha sin especificar",
+  "lugar": "Mallorca",
+  "remitente": "Melchor Bosch",
+  "destinatario": "Cecilia Zaforteza y Sureda de Sant Martí",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Mi señora da. Cecilia, Los vivos deseos y realidad que v. s. me manifestó el año pasado de pedir una cuaresma por mí, lo que no tuvo efecto por causa que me tardé en hacerlo presente a v. s., me animan a suplicar otra vez a v. s. se digne hacer la misma diligencia. Yo algunas veces he estado determinado a suplicarlo personalmente a v. s. pero me ha detenido encontrar a v. s. ocupada con algunas personas, y por no hacer nota me he valido de este medio por la confianza que tengo de v. s. Espero que v. s. me hará este favor mientras ruego a Dios guarde y conserve la persona de v. s. los muchos años que le deseo. Seguro y afecto servidor de v. s., fray Melchor Bosch, dominico. Mi señora da. Cecilia Zaforteza. [1§] Para la señora da. Cecilia Zaforteza. Guarde Dios muchos años. Palma. Transcripción literal"
+  ],
+  "literal": [
+    "1. Mi Seño>ra Da. Cecilia, los vivos dezeos 2. y realidad q< u>e V.S. me manifestó el año pa- 3. sado de pedir una Quaresma p< o>r mi, lo q< u>e no 4. tuvo efecto por causa q< u>e me tardé en hazer- 5. lo presente á V.S. me animan á suplicar o- 6. tra vez á V.S. se digne hazer la misma dili- 7. gencia. Yo algunas [^vezes] he estado determinado á su- 8. plicarlo personalmente á V.S. pero me ha de- 9. tenido encontrar á V.S. ocupada con algu- 10. nas personas, y por no hazer nota, me he 11. valido de este medio p< o>r la confianza q< u>e tengo 12. de V.S. Espero q< u>e V.S. me hará este favor mientras 13. ruego á Dios g< uar>de y conserve la Persona de V.S. 14. los m< ucho>s a< ño>s q< u>e le dezeo 15. Seg< u>ro y aff< ect>o Serv< ido>r de V.S. 16. Fr< ay> Melchor Bosch Dom< inic>o 17. Mi S< eño>ra Da. Cecilia Çaforteza. [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "432-215a.jpg",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo06/432-215a.jpg",
+      "url": "/legajos/legajo-06/images/432-215a.jpg"
+    },
+    {
+      "filename": "433-215b.jpg",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo06/433-215b.jpg",
+      "url": "/legajos/legajo-06/images/433-215b.jpg"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "432-215a.jpg",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-06/cartas/000754.json",
+  "primary_image_url": "/legajos/legajo-06/images/432-215a.jpg"
+}

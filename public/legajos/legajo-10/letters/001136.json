@@ -1,0 +1,38 @@
+{
+  "legajo_id": "10",
+  "id_carta": "1136",
+  "order_in_legajo": 4,
+  "signatura": "003-302",
+  "nombre_carta": "Carta de Andrés García de Castro a Jerónimo Pelegrín de Aragüés",
+  "fecha_original": "22 de mayo de 1668",
+  "lugar": "Valencia",
+  "remitente": "Andrés García de Castro",
+  "destinatario": "Jerónimo Pelegrín de Aragüés",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Amigo y señor mío, Los días pasados escribí a v. m. y para que no se vaya el portador de esta carta mía lo repito ahora deseoso de que v. m. me dé muchas ocasiones de su servicio que acrediten mi reconocimiento. No creerá v. m. con el sentimiento que me hallo viéndome con falta de medios para poder remitir a v. m. los ciento noventa y dos reales. V. m. se asegure que no me descuido en procurar cumplir cuanto antes con esta obligación para cuyo efecto estoy solicitando una cobranza, y luego que tuviere efecto remitiré a v. m. esta cantidad. En este correo de Madrid avisan la muerte del nuevo Presidente de Castilla, que ha sido tan acelerada que ha aturdido a todos y no faltan contemplativos que aseguran le hayan ayudado a este suceso bien aprisa a malograr la prenda. Sin embargo de este ejemplar, hay muchos codiciosos que la apetecen. El señor d. Jorge de Castellvi ha estado desahuciado de los médicos y con manifiesto peligro de la vida, pero queda ya muy convalecido que según dice parece cosa milagrosa. No se ofrece otra cosa particular de que avisar a v. m., cuya vida guarde Dios muchos años como deseo. . Valencia y mayo, a 23 de 1668. Perdóneme v. m. que la prisa con que he escrito ha ocasionado contravertir el orden de la carta. Besa las manos de v. m. su más afecto de servidor y amigo,Don Andres Garcia de Castro. Jeronimo Pelegrin de Aragues. Transcripción literal"
+  ],
+  "literal": [
+    "1. Amigo y Sr mio los dias pasados escrivi a V.M. y para que 2. no se vaya el portador de esta carta mia lo repito aora 3. deseoso de que V.M. me de muchas ocasiones de su servicio 4. que acrediten mi reconocimiento. 5. No crea V.M. con el sentimiento que me hallo viendo 6. me con falta de medios para poder remitir a V.M. los cien 7. to noventa y dos reales. V.M. se asegure que no me des 8. cuydo en procurar cumplir cuanto antes con esta obligacion 9. para cuyo efeto estoy solicitando una cobrança y luego que 10. tuviere efeto remitire a V.M. esta cantidad. 11. En este correo de Madrid avran la muerte del nuevo 12. presidente de Castilla que a sido tan acelerada que a aturdi 13. do a todos y no faltan contemplativos que aseguran 14. le ayan ayudado a este suceso bien aprisa a malograr 15. la prenda; sin embargo, de este exemplar ay muchos codi 16. ciosos que la apetecen. 17. El Sr. D. Jorge de Castelvi a estado desauciado de los 18. médicos y con manifiesto peligro de la vida pero queda 19. ya muy combalecido que según dice parece cosa milagro 20. sa. No se ofrece otra cosa particular de que avisar a V.M. 21. cuya vida ge Dios muchos añ. como deseo 22. Valencia y mayo a 23 de 1668. 23. Perdoneme V.M. que la prisa con que 24. he escrito ha ocasionado contrauertir 25. el horden de la carta. 26. B l m de V,M. su mas afecto de servidor y amigo 27. Don Andrés García de Castro. 28. Sr. Gerónimo Pelegrin de Aragués. [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "003-302.jpg",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo10/003-302.jpg",
+      "url": "/legajos/legajo-10/images/003-302.jpg"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "003-302.jpg",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING",
+      "message": "Se detectaron caracteres sospechosos de encoding (6)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-10/cartas/001136.json",
+  "primary_image_url": "/legajos/legajo-10/images/003-302.jpg"
+}

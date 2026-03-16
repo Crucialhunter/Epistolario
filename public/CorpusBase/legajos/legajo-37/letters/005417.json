@@ -1,0 +1,38 @@
+{
+  "legajo_id": "37",
+  "id_carta": "5417",
+  "order_in_legajo": 31,
+  "signatura": "001:1",
+  "nombre_carta": "Carta de Pere Sánchez a Persona desconocida",
+  "fecha_original": "18 de abril de 1668",
+  "lugar": "Mallorca",
+  "remitente": "Pere Sánchez",
+  "destinatario": "Persona desconocida",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Certifique i fas fe Jo Pere Sanchez coadjutor per Sa magestat de l'ofici de loctient de mestre Racional del present regne de Mallorca e islas adjecents, que en els llibres del Reial Patrimoni que estan a mon càrrec consta que l'escrivania de la vila de St. Juan fa set lliures i deu sous de carrecs al Reial Patrimoni cada any i en l'any 1667 fou arrendada per cinc lliures ultra els carrecs i perquè esta és la veritat fas la present certificatoria de ma mia pròpia firmada de mon nom i sellada amb el sello real de l'ofici avui als 18 d'abril 1668 Pere Sanchez servidor [1§] Transcripción literal"
+  ],
+  "literal": [
+    "1. Certifique y fas fee Jo Pere Sanchez coadjutor per Sa Magd 2. del ofici de locti[ent] de m[est]re Racional del p[rese]nt Regne de Mall[or]ca3. e Islas adjecents, que en los llibres del Real Patrimoni que estan4. a mon carrech consta que la scrivania de la vila de St. Juan5. fa set lliures y deu sous de carrechs al Real Patrimoni cade añy6. y en lo añy 1667 fonch arrendade per sinch lliures ultra los carrechs7. y perque esta es la veritat fas la p[rese]nt certificatoria de ma mie8. propia firmade de mon nom y sellade ab lo sello Real del ofici9. vuy als 18 de Abril 166810. Pere Sanchez s[ervi]dor [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "001:1.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo37/001:1.JPG",
+      "url": "/legajos/legajo-37/images/001:1.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "001:1.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-37/cartas/005417.json",
+  "primary_image_url": "/legajos/legajo-37/images/001:1.JPG"
+}

@@ -1,0 +1,43 @@
+{
+  "legajo_id": "30",
+  "id_carta": "6709",
+  "order_in_legajo": 211,
+  "signatura": "283:5547a.JPG",
+  "nombre_carta": "Carta de Pedro Perelló a Pedro Santacilia y Pax",
+  "fecha_original": "2 de septiembre de 1661",
+  "lugar": "Gandia",
+  "remitente": "Pedro Perelló",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Sr. don Pedro Esta halle a Vuesa Sra. con la salud que yo deseo de como la [?] como yo deseo la de Vuesa Sria recibí y con ella grande allegria habiendo goce entera salud y en ella me escriba como no se ha olvidado de mi negosio los Peitos generosos como el de v. s. no se olvidan de un criado como so ya de mozo de pajes el saber me hace y así veo que todos los mallorquines se han hido en Mallorca yo no he querido per la palabra he dado a v. s. y confiado que pasara mi negosio adelante como a tan buen señor que basta haberme enbarcado para yo no menear los pies sin orden de v. s. y confiado de v. s. de enbiarme liberasion [?] lo que v. s. gustare que lo que v. s. hará si quiere lo que me esquiriviere confiado de v. s. y no mos de esta su casa y Gandía a los 2 setembre de 1661 Quien sus manos besa Pedro Parallo. Llubi si v. s. en fa amistad de enviarme liberasion e `prometo de servirlo dos años, perque mi gusto no es más de contentar v. s. sennoria perque no deseo o más sino trabacar y no mas. Dios guarde a v. s. [1§] A Mi Sr. don Pedro Santasicillia Cabalero del Habito de St. Thiago que Dios guarde ets. en Mallorca [2§] Transcripción literal"
+  ],
+  "literal": [
+    "1. Sr. Don Pedro 2. Esta alle a Vuesa Sª. con la salut que yo desseo de 3. como la [?] como yo desseo la de Vuesa Sria 4. Recibi y con ella grande allegria habiendo gosse 5. entera salut y en ella me escriva como no se ha 6. olvidado de mi negossio los Peytos generosos como 7. el de V Sria no se olvidan de un criado como so ja 8. de mosso de pages el saver me asse y ansi veo que 9. todos los mallorquines se han hido en mallorca yo 10. no he querido per la palabra he dado a Vª. Sria 11. y confiado que pasara mi negossio adelante como a 12. tan buen señor que basta averme enbarcado para 13. yo no menear los pies sin orden de Vª. Sria. y con14. fiado de Vª. Sria. de enbiarme liberasion [?] 15. lo que V. Sria. gustare que lo que V. Sria. hara si quiere 16. lo que me esquiriviere confiado de V. Sria. i no mos 17. desta su cassa y Gandia a los 2 setembre de 1661 18. Quien sus manos bessa Pedro Parallo. Llubi 19. si Vª. Sria. em fa amistad de enviarme liberasion 20. e `prometo de servirlo dos años, perque mi gusto 21. no es mas de contentar Vª. sennoria perque no deseo 22. o mas sino trabacar i no mas. dios guarde a V. Sria. [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "283:5547a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo30/283:5547a.JPG",
+      "url": "/legajos/legajo-30/images/283:5547a.JPG"
+    },
+    {
+      "filename": "284:5547b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo30/284:5547b.JPG",
+      "url": "/legajos/legajo-30/images/284:5547b.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "283:5547a.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-30/cartas/006709.json",
+  "primary_image_url": "/legajos/legajo-30/images/283:5547a.JPG"
+}

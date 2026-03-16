@@ -1,0 +1,43 @@
+{
+  "legajo_id": "32",
+  "id_carta": "7159",
+  "order_in_legajo": 159,
+  "signatura": "210:1917a.JPG",
+  "nombre_carta": "Carta de Magín Ribes a Pedro Santacilia y Pax",
+  "fecha_original": "7 de diciembre de 1665",
+  "lugar": "Ibiza",
+  "remitente": "Magín Ribes",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Transcripción literal"
+  ],
+  "literal": [
+    "1. 1."
+  ],
+  "imagenes": [
+    {
+      "filename": "210:1917a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo32/210:1917a.JPG",
+      "url": "/legajos/legajo-32/images/210:1917a.JPG"
+    },
+    {
+      "filename": "211:1917b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo32/211:1917b.JPG",
+      "url": "/legajos/legajo-32/images/211:1917b.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "210:1917a.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-32/cartas/007159.json",
+  "primary_image_url": "/legajos/legajo-32/images/210:1917a.JPG"
+}

@@ -1,0 +1,43 @@
+{
+  "legajo_id": "34",
+  "id_carta": "5161",
+  "order_in_legajo": 192,
+  "signatura": "282:7076a.JPG",
+  "nombre_carta": "Carta de Joan Borràs a Pedro Santacilia y Pax",
+  "fecha_original": "28 de abril de 1658",
+  "lugar": "Palermo",
+  "remitente": "Joan Borràs",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Estos dies passats rebí una carta del baliu de negra pont esque amdiu que tots els papes que tenia la bonamamoria de l'inquisidor mi {ESP. aserca} la cobrança de l'asinida del Sr. D. callos culas ques. els pepes que jo tinc son molts pocs v. s. sa servirà enviar lotestament del sompara fe deesuda delminyo i procura tot autènticat que jo de ma part faré tot el que podré per sarvir ha v. s. he picat amb la tia del minyó que la moja i m'hadit que donarà totes les clarisies hauré master per cobrar els sanyals han caigats i amb tot el que per ací mavoldra manar ma trobarra semprra prompte en servir-lo ha qui guardi No molts anys de palerm als 26 d'abril 1658 19, marge esquerre Sr. D. Pedro Santacilia Capella de v.s.ª Joan Borras [1§] Al po Bernat mandat arriba ana aquest port alls 25 d'abril herabut la de v. s. i les procuràs procuran servir a v. s. i amb la va de po mandat liasarire llargament la faluca sa partit esta nit i [?] pae ser més llarg guardi N a v. s. com jo deigia palerm a 28 d'abril 1658 v. s. sa servirà manar dar les incluses en continent capila de v s Joan Borras [2§] Transcripción literal"
+  ],
+  "literal": [
+    "1. Estos dias pasats rabi una carta del2. baliu de negra pont esque amdiu que3. tots los papes que te nia la bonamam/4. oria del inquisidor mi sr. aserca la cobr/5. ansa de la asi[ni]da del sr. d. callos culas-6. ques . los pepes que jo tinc son molts7. pocs v.s. sa sarvira anviar lotesta-8. ment del sr. sonpara fe deesuda delmi/9. ño y procura tot autenticat que jo10. de ma part fere tot lo que podre p sar/11. vir ha v.s. he pi[c]at ab la tia del12. miño que la moja y me hadit que13. donara totas las clarisias aure mas/14. ter p cobrar los san[yals] an [caygats]15. y ab tot lo que p asi mavoldra manar16. ma trobarra senprra pronta en sarvirlo17. ha qui gd No Sr. molts any de palerm als18. 26 de Abril 165819. [29, marge esquerre] Sr. d. pedro santasilia20. Capella de v.s.ª21. Joan Borras [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "282:7076a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo34/282:7076a.JPG",
+      "url": "/legajos/legajo-34/images/282:7076a.JPG"
+    },
+    {
+      "filename": "283:7076b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo34/283:7076b.JPG",
+      "url": "/legajos/legajo-34/images/283:7076b.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "282:7076a.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-34/cartas/005161.json",
+  "primary_image_url": "/legajos/legajo-34/images/282:7076a.JPG"
+}

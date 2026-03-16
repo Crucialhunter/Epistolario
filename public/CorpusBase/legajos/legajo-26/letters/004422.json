@@ -1,0 +1,38 @@
+{
+  "legajo_id": "26",
+  "id_carta": "4422",
+  "order_in_legajo": 169,
+  "signatura": "237:3517.JPG",
+  "nombre_carta": "Carta de Rafael Vives García a Pedro Santacilia y Pax",
+  "fecha_original": "30 de diciembre de 1644",
+  "lugar": "Madrid",
+  "remitente": "Rafael Vives García",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "La lletra no es veu bé. carta defectuosa [1§] Transcripción literal"
+  ],
+  "literal": [
+    "1. La lletra no es veu bé. Carta defectuosa"
+  ],
+  "imagenes": [
+    {
+      "filename": "237:3517.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo26/237:3517.JPG",
+      "url": "/legajos/legajo-26/images/237:3517.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "237:3517.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-26/cartas/004422.json",
+  "primary_image_url": "/legajos/legajo-26/images/237:3517.JPG"
+}

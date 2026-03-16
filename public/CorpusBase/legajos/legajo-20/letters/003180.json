@@ -1,0 +1,43 @@
+{
+  "legajo_id": "20",
+  "id_carta": "3180",
+  "order_in_legajo": 54,
+  "signatura": "063:5960a.JPG",
+  "nombre_carta": "Carta de Fructuoso Piqué a Pedro Santacilia y Pax",
+  "fecha_original": "16 de febrero de 1656",
+  "lugar": "Madrid",
+  "remitente": "Fructuoso Piqué",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "mío. cuatro días ha que por Barcelona remití a v. m. las bulas de su pensión a manos de mi sobrino Francisco Hortas, y holgaré que lleguen brevemente a manos de v. m., de cuyo recibo me avisara v. m. para salir de cuidado. y a me tiene mohino la dilación del despacho de v. m. de Procurador real pues ni bastan diligencias, instancias, ni recu erdos, para que se acabe de ajustar la minuta, que todas las novedades traen inconvenientes y más al principio para fijarlos, en fin mío no es culpa mía pues tengo pronto el dinero para pagar la ma. [?], sello, y demás derechos, aunque mi sobrino me escribe que será larga la venta del bizcocho, que v. m. le embio, con que sería bien que procure v. m. remitirle algunos efectos, para acudir a estos gastos, aunque (como digo) no se detendrá una hora el despacho por falta de dinero. Beso a v. m. la mano por la merced, que me ha hecho en disponer la paga de mi renta, y Alcayda, y siempre esperare el mismo favor en todo lo demás, que me tocare, como se lo procura merecer mi afecto, y [1§] buena voluntad a v. m. guarde Dios a v. m. muchos años como deseo Madrid a 16 de febrero 1656. Beso las manos de v. m. su capitán. [?] amigo y servidor Fructuoso Pique [?] Duplicado Procurador real Sr. don Pedro de Santacilia y Pax. [2§] Transcripción literal"
+  ],
+  "literal": [
+    "1. Sr. mio. quatro dias ha que por Barna remiti a Vm. las 2. Bulas de su pension a manos de mi sobrino Franco Hortas, y 3. holgare que lleguen brevemte a manos de Vm.,de cuyo reçivo 4. me avisara Vm. para salir de cuydado. 5. Ya me tiene mohino la dilaçion del despacho de Vm. de 6. Procuor Rl. Pues ni bastan diligençias, instançias, ni recu- 7. erdos, para que se acabe de ajustar la minuta, que todas 8. las novedades trahen inconvenientes y mas al prinçipio 9. para fixarlos, en fin Sr. mio no es culpa mia pues tengo 10. prompto el dinero para pagar la ma.[?] [?], sello, y 11. demas derechos, aunque mi sobrino me escrive que sera 12. larga la venta del biscocho, que Vm. le embio, con que 13. seria bien que procure Vm. remitirle algunos effectos, 14. para acudir a estos gastos, aunque ( como digo ) no se detendra 15. una hora el despacho por falta de dinero. 16. Beso a Vm. la mano por la mrd, que me ha hecho en17. disponer la paga de mi renta, y Alcayda, y siempre 18. esperare el mismo favor en todo lo demas, que me19. tocare, como se lo procura merezer mi affecto, y [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "063:5960a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo20/063:5960a.JPG",
+      "url": "/legajos/legajo-20/images/063:5960a.JPG"
+    },
+    {
+      "filename": "064:5960b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo20/064:5960b.JPG",
+      "url": "/legajos/legajo-20/images/064:5960b.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "063:5960a.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-20/cartas/003180.json",
+  "primary_image_url": "/legajos/legajo-20/images/063:5960a.JPG"
+}

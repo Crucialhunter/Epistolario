@@ -1,0 +1,38 @@
+{
+  "legajo_id": "35",
+  "id_carta": "5268",
+  "order_in_legajo": 79,
+  "signatura": "079:8114.JPG",
+  "nombre_carta": "Carta de Tomàs Abadia a Pedro Santacilia y Pax",
+  "fecha_original": "26 de enero de 1644",
+  "lugar": "Maó",
+  "remitente": "Tomàs Abadia",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Est matí se són vinguts a guiar els patrons de tres sageties: la una de Palerm i les dos de Sardenya i m'han donat el plec que va amb esta per v. s. No conten cosa nova més que en l’Alguer donà al trance una nau de 38 peces d'artilleria de les de l'armada de Frància. També m'ha teng [?] que leguet [?] el veedor que diu es resposta de la que v. s. m'envià per ell, per tot m'ha paregut enviar el cavall de portal. Que Déu a v. s. guardi a. de Maó i gener 26 de 1644. Tomàs Abadia Sr. governador Transcripción literal"
+  ],
+  "literal": [
+    "1. Est mati se son vinguts a guiar los patrons de2. tres sagetias la una de Palerm y las dos3. de Serdeña y me han donat el plech q va4. ab esta per V.Sª. no conten cosa nova mes 5. q en Lalguer dona al trance una nau de6. 38 pe de artilla de las de la Armada de7. Frania, Tambe me ha teng [?] q leguet el8. vehedor q diu es resposta de la q V.S.ª me9. imbia per ell p tot me ha aparegut10. imbiar el cavall de portal que Deu a11. VSª gde. de Maho y janer 26 de 164412. Thomas Abadia13. Sr. Governador [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "079:8114.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo35/079:8114.JPG",
+      "url": "/legajos/legajo-35/images/079:8114.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "079:8114.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-35/cartas/005268.json",
+  "primary_image_url": "/legajos/legajo-35/images/079:8114.JPG"
+}

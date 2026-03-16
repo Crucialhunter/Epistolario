@@ -1,0 +1,43 @@
+{
+  "legajo_id": "6",
+  "id_carta": "761",
+  "order_in_legajo": 24,
+  "signatura": "449-222a",
+  "nombre_carta": "Carta de Sor Elizabet a Cecilia Zaforteza y Sureda de Sant Martí",
+  "fecha_original": "fecha sin especificar",
+  "lugar": "lugar sin especificar",
+  "remitente": "Sor Elizabet",
+  "destinatario": "Cecilia Zaforteza y Sureda de Sant Martí",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Ave Maria Puríssima. Caríssima germana espiritual en Jesucrist: Li faig les gràcies dels botons i ara li suplicam que totes les vegades que li’n portaran que no repar ni totes les {ESP. demés} germanes i nebodes de vosté i també al senyor Joan. Nosaltres no cercam altra cosa sinó poder-la servir en el que podrem i a totes. Perdó si no són del seu gust que són fets de pressa, així com mos trobam en el dotzenari i rogatives pels seus nebots, i ara li farem els exercicis per vosté i les {ESP. demés} germanes totes i nebots. {ESP. Querida}: de tot li faig mil gràcies per les caritats que mos fa. Al Senyor i Nostra Mare la conserv molts anys en la seva gràcia i a totes. La mare priora li repeteix les gràcies i diu que mos comana a Déu i també diu [a la izquierda, de arriba abajo] que comana a Déu que el blat vagi barato, que en té molta d’ansia, però confia en Nostra Mare que no mos faltarà per viure. Vosté comani-ho a Déu. Memòries a totes de part de totes. La seva germana espiritual [En la otra cara del pliegue, el destinatario] A la senyora dona Cecilia Zaforteza guardi Déu molts anys Palma. Transcripción literal"
+  ],
+  "literal": [
+    "1. Ave M<ari>a P<uríssi>ma 2. Carissima jermana aspiritual 3. en Jesu Charist li fey las gracias 4. de los Botons y ara li soplicam que 5. totas las vegadas que lin en porta- 6. ran que no repar ni totas las demes 7. jermanas y nebodas de {esp.} Vd. y tanbe 8. al S< enyo>r Juan nosaltras no sercam 9. altra cosa sino porerla servi en lo 10. que podrem y a totas; perdon si no 11. son del seu gust que son fets de presa 12. axi com mos trobam en lo docsena( a)- 13. ri y rogativas per los seus nebots 14. y ara li ferem los exercicis per {esp.} Vd. 15. y las demes jermanas totas y nebots: 16. {esp.} carida de tot li fey mil gracias per 17. las caritats que mos fa al S< enyo>r y nostra 18. mara la conserf molts Añys en la 19. sua gracia y a totas: la mara prio- 20. ra li repetex las gracias y diu 21. que mos coman a Deu y tanbe diu 22. [ A la izquierda, de arriba abajo]23. que coman a Deu que al (^?) blat vaja berato quen 24. te molta dansia pero confia en nostra mara 25. que no mos faltara (^?) per viura {esp.} Vd. comano a Deu 26. memorias a totas de part de totas: la sua jermana aspiritual [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "449-222a.jpg",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo06/449-222a.jpg",
+      "url": "/legajos/legajo-06/images/449-222a.jpg"
+    },
+    {
+      "filename": "449-222b.jpg",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo06/449-222b.jpg",
+      "url": "/legajos/legajo-06/images/449-222b.jpg"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "449-222a.jpg",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-06/cartas/000761.json",
+  "primary_image_url": "/legajos/legajo-06/images/449-222a.jpg"
+}

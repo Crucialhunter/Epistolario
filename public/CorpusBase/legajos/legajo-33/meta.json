@@ -1,0 +1,70 @@
+{
+  "legajo_id": "33",
+  "num_cartas": 163,
+  "num_imagenes": 256,
+  "rango_temporal": [
+    1623,
+    1639
+  ],
+  "remitentes_frecuentes": [
+    {
+      "name": "conde de Peralada",
+      "count": 20
+    },
+    {
+      "name": "Enrique de Aragón (VI duque de Cardona)",
+      "count": 9
+    },
+    {
+      "name": "Persona desconocida",
+      "count": 6
+    },
+    {
+      "name": "Miquel Oliver",
+      "count": 5
+    },
+    {
+      "name": "Pedro Pablo de Heredia",
+      "count": 5
+    }
+  ],
+  "destinatarios_frecuentes": [
+    {
+      "name": "Pedro Santacilia y Pax",
+      "count": 121
+    },
+    {
+      "name": "Persona desconocida",
+      "count": 38
+    },
+    {
+      "name": "No consta - Probablemente Pedro Santacilia y Pax",
+      "count": 4
+    }
+  ],
+  "lugares_frecuentes": [
+    {
+      "name": "Barcelona",
+      "count": 37
+    },
+    {
+      "name": "Girona",
+      "count": 22
+    },
+    {
+      "name": "Mallorca",
+      "count": 18
+    },
+    {
+      "name": "Perpiñán",
+      "count": 12
+    },
+    {
+      "name": "Lugar sin especificar",
+      "count": 11
+    }
+  ],
+  "temas_frecuentes": [],
+  "warnings_count": 49,
+  "densidad_narrativa_estimada": "Media"
+}

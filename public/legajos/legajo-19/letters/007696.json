@@ -1,0 +1,43 @@
+{
+  "legajo_id": "19",
+  "id_carta": "7696",
+  "order_in_legajo": 227,
+  "signatura": "386_7903a.JPG",
+  "nombre_carta": "Carta de Pedro Portocarrero Fernández de Córdoba y Aragón (VII conde de Medellín) a Pedro Santacilia y Pax",
+  "fecha_original": "fecha sin especificar",
+  "lugar": "Madrid",
+  "remitente": "Pedro Portocarrero Fernández de Córdoba y Aragón (VII conde de Medellín)",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Sr. mío, el conde mi sr. envió esa carta desde Medellin y juntamente escribió a mi sª. diciéndola que leyese la que v. s. escribió al conde mi sr. sobre el negocio del sr. doctor Bassa, y mi sª. logró el negocio en estado que ya no hubo qué hacer porque la consulta ya había botado [?] del rey al Consejo de Aragón y se publicó haciendo [?] al sr. doctor [?] cosa bien impensada de todos no porque no deba de ser merecedor de dicha plaza sino porque los servidores del sr. doctor Bassa eran grandes y notorios a todos, y así en [?] cosas que tengan dependencias de hombres no hay que hacer seguridad de nada, y lo confirmo con lo que nos a sucedido con el pleito del conde mi sr. con el marqués de La Guardia que [?] el conde mi sr. una sentencia en su favor y decir todos los grandes letrados que ora la justicia ha [1§] clara como el sol li en condenado al conde mi sr. con que las leyes deben de ser las que cada uno quiere hacer y habiendo esto [?] al conde mi sr. que se isca en Medellin malo de tercianas y hoy le enviado una litera para poder ir a la campaña que el socorro de Badajoz debe de pedir más [?] de la que por ?juzgamos allá esa el sr. d. Luis de Haro y se dice habrá mas de tres mil caballos sin los que están en los [?] esto es en Badajoz y Olivenza y se dice se han de enviar mas de tres mil y quinientos y de infantería se dice había en Mérida mas de ocho mil infantes y se espera mayor numero. Dios les dé buen suceso. Mi sª. y todos los señores están buenos, a Dios gracias, el cual guarde a v sª. como deseo, de Madrid a 23 de diciembre de [Falta] [2§] Transcripción literal"
+  ],
+  "literal": [
+    "1. Sr. mio el conde mi sr. enbio esa carta 2. desde Medellin i juntamente escribio 3. a mi Sª. disiendola que leiese la que 4. vsa. escribio al conde mi Sr. sobre el 5. negosio del Sr. dotor Basa i mi Sª. logro 6. el negosio en estado que ja no hubo 7. que hazer porque la consulta ja habia 8. botado [?] del Rei al Consejo 9. de Aragon i se publico hasiendo [?] 10. al Sr. dotor [?] cosa bien inpensada 11. de todos no porque no deba de ser meresedor 12. de dicha plasa sino porque los serbidores 13. del Sr. dotor Basa eran grandes i notorios 14. a todos i asi en [?] cosas que tengan 15. dependencias de hombres no ai que hazer 16. siguridad de nada i lo confirmo con 17. lo que nos a susedido con el pley to del 18. conde mi Sr. con el marques de la Guardia 19. que [?] el conde mi Sr. una senten20. sia en su favor i desir todos los gran21. des letrados que ora la justisia ha [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "386_7903a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo19/386_7903a.JPG",
+      "url": "/legajos/legajo-19/images/386_7903a.JPG"
+    },
+    {
+      "filename": "387_7903b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo19/387_7903b.JPG",
+      "url": "/legajos/legajo-19/images/387_7903b.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "386_7903a.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (4)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-19/cartas/007696.json",
+  "primary_image_url": "/legajos/legajo-19/images/386_7903a.JPG"
+}

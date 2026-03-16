@@ -1,0 +1,32 @@
+{
+  "legajo_id": "40",
+  "id_carta": "5750",
+  "order_in_legajo": 97,
+  "signatura": "299:102",
+  "nombre_carta": "Carta de Persona desconocida a Persona desconocida",
+  "fecha_original": "12 de septiembre de 1661",
+  "lugar": "Mallorca",
+  "remitente": "Persona desconocida",
+  "destinatario": "Persona desconocida",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Compte del senyor procurador reial començant als 12 setembre 1661 [1§] Transcripción literal"
+  ],
+  "literal": [
+    "1. Conta del sanor pracurador raial comencant a las 12 7bre 1661"
+  ],
+  "imagenes": [
+    {
+      "filename": "299:102.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo40/299:102.JPG",
+      "url": "/legajos/legajo-40/images/299:102.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "299:102.JPG",
+  "warnings": [],
+  "raw_source": "raw/legajos/legajo-40/cartas/005750.json",
+  "primary_image_url": "/legajos/legajo-40/images/299:102.JPG"
+}

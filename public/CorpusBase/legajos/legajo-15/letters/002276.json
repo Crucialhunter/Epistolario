@@ -1,0 +1,43 @@
+{
+  "legajo_id": "15",
+  "id_carta": "2276",
+  "order_in_legajo": 176,
+  "signatura": "275:6501a.JPG",
+  "nombre_carta": "Carta de Rodrigo de Borja Llançol de Romaní y Olivera a Pedro Santacilia y Pax",
+  "fecha_original": "2 de septiembre de 1648",
+  "lugar": "Peñíscola",
+  "remitente": "Rodrigo de Borja Llançol de Romaní y Olivera",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Señor don Pedro, mi señor: Don Luis de Córdoba me ha dado muy buenas nuevas de su salud de v. m., que las he estimado al paso que aseguran mis obligaciones. Suplico a v. m., se sirva de contármelas, que antes que yo me vaya de a que está frontera, avisaré a v. m. y lo que escriben de Madrid es su [ ] no será muy a prisa. También me dijo Sr. don Luis [ ] cuenta, y que está como lo prometía [ ] disposición y gusto. y he estrana a [ ] v. m. no se haya servido de entregar ni al capitán Canales. Suplico a v. m., me haga remitirle, cuando antes fuera posible, y si v. s. no gustase que yo dé el dinero aquí, por no haberle menester, le remitiré en sabiendo lo que importa. Y si la persona que le ha hecho no quiere esperar, suplico me haga mereced de mandar que se lleve esta carta al señor don Julio Lorenzo de Salas, que en virtud de ella, me hará De pagarle. y no me valgo de v. m. para esto, por que harta merced me ha hecho en mandarle hacer tan aprisa y tan bueno, como me sea pintado Sr. don Luis. En Madrid dicen que se ha descubierto poca fidelidad entre algunas personas, y que quedaban presos el duque de Ijar, son Carlos de Padilla, el hijo del conde de Linares, y el sobrino de don Felipe de Silva y otros. No es creíble que en tales sujetos supiese tal delito, como el de conspirar contra el estado. El primer correo nos sacará de esta confusión. Guarde Dios a v. m., como deseo. Peníscola, y septiembre, a 2, de 1648. Han inventado que en Benicarlo hay contagio sin legítima causa, con que, por no dejarme cerrar, me he venido a Peníscola. yo sospecho que el daño estaba en estar yo allí, que habiendo salido, se habrá remediado todo. Tiene misterio el negocio. Dios ayuda a los v. m. dejo. Amigo y [mayor] servidor de [ v. m. ], que su mano besa, Son rodrigo de Borja Sançol [ ] [don Pedro Santacilia y Pax ] Transcripción literal"
+  ],
+  "literal": [
+    "1. Señor Don Pedro misr don Lui[s] 2. de Cordova meadado muy buenas nue[bas] 3. de su salud de V.m. que las he estim[a]4. do alpaso que asiguran mis oblig[a]5. siones. sup[li]co a V.m. sesirva de Cont6. armelas q antes q yo mevaia [de] 7. aquesta frontera avisare a Vm [y] 8. loque escriven de Madrid es su[Fragmentado 9. nosera muy Aprisa ? 10. Tambien me dijo don Luis [Fragmentado]11. manto q V.m. amandado [Fragmentado]12. qta yque esta como loprometia [Fragmentado]13. disposision y gusto. y he estranaa [Fragmentado]14. V.m. no seaia servido de entregar 15. ni al cappan Canales. sup[li]co a V.m. me 16. aga en remitirle qto antes fuere pos[i]17. ble ysi Vm. nogustase q yodeeldi[ne]18. roaquí por noavaerle menester, Le 19. remitire en sabiendo loque inporta 20. ysi laperçona que lea eçho noquiere es[per]21. rar Sup[li]co a V.m. me aga me de mand[ar]22. q selleve esta Carta al sr don Ju[li]o [?] [Lo]23. renço de Salas q en virtut de ella m[e]24. ara [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "275:6501a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo15/275:6501a.JPG",
+      "url": "/legajos/legajo-15/images/275:6501a.JPG"
+    },
+    {
+      "filename": "276:6501b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo15/276:6501b.JPG",
+      "url": "/legajos/legajo-15/images/276:6501b.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "275:6501a.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (2)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-15/cartas/002276.json",
+  "primary_image_url": "/legajos/legajo-15/images/275:6501a.JPG"
+}

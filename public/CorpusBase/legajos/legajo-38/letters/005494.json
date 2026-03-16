@@ -1,0 +1,53 @@
+{
+  "legajo_id": "38",
+  "id_carta": "5494",
+  "order_in_legajo": 115,
+  "signatura": "034:18a",
+  "nombre_carta": "Carta de Escrivà Miralles a Persona desconocida",
+  "fecha_original": "1 de enero de 1667",
+  "lugar": "Inca",
+  "remitente": "Escrivà Miralles",
+  "destinatario": "Persona desconocida",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Delme de bestiars d'Inca i escorca del Any 1667 lliurat a Antoni Corro d'Inca per 260 ll. Bernadi Segui de Selva del lloc de Caimari Antoni Guerau de Son Muntaner de Moscari i Miquel Segui de Caimari Miralles sba. Sr. don Diego Clapes mensari Sr. don Ramon Sureda mensari Antoni Piza Ador. de li mensa hapiscopal Pere Onofre Mayol pdor. de la mensa Capi tular [1§] Delme de bestiars de Muro i Sta. Margarita de l'any 1667 lliurat a Demià Serda carnisser per 380 ll. Jeroni Serra escrivent mestre Juan Calafell sabater mestre Miquel Amoros carnisser major i Miquel Ferra sabater Miralles sba. Sr. D. Juan Bautista Zaforteza mensari Sr. don Diego Clapes mensari Antoni Piza Ador. de li mensa hapiscopal Pere Onofre Mayol pdor. de la mensa ca pitular [2§] Delme de bestiars Selva de 1667 lliurat a Pere Moger als Gual de Selva per 100 ll. Antoni Martorell Garumba i Pere Alberti als Saldat tots de Selva Sba. Miralles Sr. D. Juan Bautista Zaforteza mensari Sr. don Diego Clapes mensari Sr. don Ramon Sureda canonge mensari Antoni Piza menor Ador. del Bisbat Pere Onofre Mayol pdor. de la mensa capitular [3§] Delme de bestiars de Montuïri i Cas telitg del Any 1667 lliurat a Juan Marti als Rego de Binisalem per 201 ll. Vicens Amengual als Quiam de Selva habitador en Sancelles Antoni Trorrens del terme hortola als Foser Juan Rossello als Gelat de Binesalem Sebastia Busquets del terme hortola Sba. Miralles [4§] Transcripción literal"
+  ],
+  "literal": [
+    "1. Delme de bestiars de Incha y escorca2. del Añy 1667 lliurat a Antt[on]i Corro3. de Incha per 260 ll.4. Bernadi Segui de Selva del lloch5. de Caymari6. Antt[on]i Guerau de Son Muntaner7. de Moscari y8. Miquel Sagui de Caymari9. Miralles sba.10. Don Diego Clapes mens[ari11. Don Ramon Sureda mensari12. Antt[on]i Piza Ador. de le 13. mensa hapiscopal 14. Pere Honofre Mayol 15. pdor. de la mensa Capi-16. tular [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "034:18a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo38/034:18a.JPG",
+      "url": "/legajos/legajo-38/images/034:18a.JPG"
+    },
+    {
+      "filename": "035:18b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo38/035:18b.JPG",
+      "url": "/legajos/legajo-38/images/035:18b.JPG"
+    },
+    {
+      "filename": "036:18c.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo38/036:18c.JPG",
+      "url": "/legajos/legajo-38/images/036:18c.JPG"
+    },
+    {
+      "filename": "037:18d.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo38/037:18d.JPG",
+      "url": "/legajos/legajo-38/images/037:18d.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "034:18a.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (2)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-38/cartas/005494.json",
+  "primary_image_url": "/legajos/legajo-38/images/034:18a.JPG"
+}

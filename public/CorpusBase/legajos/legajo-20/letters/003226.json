@@ -1,0 +1,43 @@
+{
+  "legajo_id": "20",
+  "id_carta": "3226",
+  "order_in_legajo": 100,
+  "signatura": "137:6007a.JPG",
+  "nombre_carta": "Carta de Isidro Marqués a Pedro Santacilia y Pax",
+  "fecha_original": "28 de enero de 1668",
+  "lugar": "Madrid",
+  "remitente": "Isidro Marqués",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Senyor, mío, con el, Senyor, ajudante, Arnau, de Santacilia, he Rescebido, les cartas, de v. s. tan llenas de favores, com acostumbra, i siento, infinito, hallar-me Reducido, en la Cama, çinco, meses, ha habiendo, estado muy Malo, per a assistirle, i servirle con laboluntad, que debia, pero, com su Merced, habrà dicho a v. s. desde la Cama, la digo el que ha d'acer, i els pasos que ha d'andar, el que debo, decir és que este, negocio aunque v. s. es interessado, lo es màs la Corona, i su magestat toma ra, Resolución, brevemente, por, que ja estan acà, muitos sidiados [?] de les bellaquerias, dels Genobeses, i alguna bez han estado, per a tomar, una Resolución, bien grande con que quiça lo aran ahora, i ací dia màs o {ESP. menos} se volvera, el, Aiudante. Suplico a v. s. me disculpe con el Sr. don Juan, i el Sr. don Nicolas a quien es beso les Manos, i les escrivire, en la primera ocasión, Dios guardi a v. m. Muchos anys, Madrid, i Enero 28 de 1668 major [?] servidor de v. s. que ses mans besa Isidro Marques [?] Sr. don Pedro, Santacilia, [1§] Madrid 28. gener 16 [?]. feb. 1668. de don Isidro Marques [?]. rebudes en Mallorca a 26. març per via de Barcelona [2§] Transcripción literal"
+  ],
+  "literal": [
+    "1. Señor, Mio, Con el, Señor, Ayudante, Arnau, de 2. Santeçilia, he Resçebido, las Cartas, de V.S. tan llenas de 3. fabores, Como acostumbra, y siento, imfinito, hallarme 4. Reduçido, en la Cama, Çinco, meses, ha habiendo, estado 5. mui Malo, para asistirle, y serbirle con laboluntad, que 6. debia, pero, Como su Merçed, abra dicho a V.S. desde 7. la Cama, le digo lo que ha de açer, y los pasos que ha 8. de andar, lo que debo, deçir es que este, negoçio aunque 9. V.S. es interesado, lo es mas la Corona, y su Magd toma- 10. ra, Resoluçion, brevemente, por, que ia estan aca, muitos 11. sidiados[?] de las bellaquerias, de los Genobeses, y alguna 12. bez an estado, para tomar, una Resoluçion, bien grande 13. con que quiça lo aran aora, y asi dia mas o menos se 14. bolbera, el, Sr. Aiudante. Suplico a V.S. me disculpe con 15. el Sr. Don Juan, y el Sr. Don Nicolas a quienes beso las 16. Manos, y les escribire, en la primera ocasion, Dios gde a V.m. 17. Muchos años, Madrid, y Enero 28 de 1668 18. Mayor[?] sdor de VS. q S M B 19. Isidro Marques[?] 20. Sr. Don Pedro, Santeçilla, [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "137:6007a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo20/137:6007a.JPG",
+      "url": "/legajos/legajo-20/images/137:6007a.JPG"
+    },
+    {
+      "filename": "138:6007b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo20/138:6007b.JPG",
+      "url": "/legajos/legajo-20/images/138:6007b.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "137:6007a.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-20/cartas/003226.json",
+  "primary_image_url": "/legajos/legajo-20/images/137:6007a.JPG"
+}

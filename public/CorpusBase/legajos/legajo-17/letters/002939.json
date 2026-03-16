@@ -1,0 +1,43 @@
+{
+  "legajo_id": "17",
+  "id_carta": "2939",
+  "order_in_legajo": 205,
+  "signatura": "352:1481a.JPG",
+  "nombre_carta": "Carta de Diego Matías de Aragüés a Pedro Santacilia y Pax",
+  "fecha_original": "7 de agosto de 1660",
+  "lugar": "Madrid",
+  "remitente": "Diego Matías de Aragüés",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Recibo la de v. m. de 17 del pasado holgándome goce de muy buena salud como se la deseo en vida de mi Sra. Dña. Leonor que su mano besamos Dña. Margarita y yo con la de v. m. muchas veces. El Sr. don Juan está muy mejorado de su opilación y el Dr. Alba lo ha puesto muy bien en lo que le ha ordenado ahora toma unos caldos por la mañana para salir a hacer ejercicio que han de ser 10 días, y hados [?] que lo continua, come bien y duerme y espero con el favor de Dios ha de hacer gran mudanza de su salud y que no se ha de continuar el achaque de sangre de narices como solia. v. m. este sin cuidado que no hay de que tenerle, el Sr. don Luis de cuando en cuando envía a saber como le va y demás. el Dr. Alba como le ve todos los días a s. e. le Diciembre la disposición que tiene y que presto ira a servir Aunque hasta salir estos calores, no [1§] volverá halla y estar muy asegurado y libre del todo de esa opilación. el pleito de la Inquisición esta señalado para 2 de septiembre y ayer me ofreció el relator que dándole Dios salud le despachara ya está prevenido el abogado que es bueno porque Sr. don Pedro Fraso se fue a embarcar para las Indias en el oficio de fiscal de Guatimala me cuenta ajustaremos que como no estaba de partida garonimo no se ha hecho. Juan Seguals creo estará contento va quedar en mi casa cuando Jeronimo se baya, que ahora todos están en el la, porque se fueron Martorell y Pueyo a dos de este por Barcelona en una galera muy buendia ha tenido Jerónimo y a todos nos le ha dado con el feliz parto de su mueger y con niño tan lindo como v. m. me dice Dios se lo deje gozar y otros muchos. Por ahora no hay de nuevo. Las treguas con Ingalatera están muy adelante, v. m. me mande guarde Dios los muchos años que le deseo. Madrid a 7 Agosto 1660. Besa la mano de v. m. su mayor servidor Diego Matias de Aragues Sr. don Pedro Santacilia y Pax. [2§] Transcripción literal"
+  ],
+  "literal": [
+    "1. Recivo la de Vm. de 17 del passado 2. olgandome goze de muy buena salud como 3. se la deseo en vida de mi Sra. da. Leonor 4. q su mano vesamos Da. Margarita y yo5. con la de Vm. muchas vezes.6. El Sr. don Juan esta muy mejorado de su 7. opilación y el dor. Alba lo ha puesto muy 8. bien en lo q le ha ordenado agora 9. toma unos caldos por la mañana 10. pa salir a hazer exercicio q han 11. de ser 10 dias, y hados[?] q lo con12. tinua, come bien y duerme y espero 13. con el favor de Dios ha de hazer 14. gran mudanza de su salud y q no 15. se ha de continuar el achaque de 16. sangre de narizes como solia. 17. Vm. este sin cuydado q no ay de que 18. tenerle, el Sr. Don Luys de quando 19. en qdo embia a saver como le ba 20. y demas. el dor. Alba como le ve todos 21. los dias a su exa. le deze la disposicion 22. q tiene y q presto hira a servir23. Aunq hasta salir estos calores, no [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "352:1481a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo17/352:1481a.JPG",
+      "url": "/legajos/legajo-17/images/352:1481a.JPG"
+    },
+    {
+      "filename": "353:1481b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo17/353:1481b.JPG",
+      "url": "/legajos/legajo-17/images/353:1481b.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "352:1481a.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (3)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-17/cartas/002939.json",
+  "primary_image_url": "/legajos/legajo-17/images/352:1481a.JPG"
+}

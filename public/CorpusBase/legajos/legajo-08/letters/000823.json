@@ -1,0 +1,37 @@
+{
+  "legajo_id": "8",
+  "id_carta": "823",
+  "order_in_legajo": 12,
+  "signatura": "019-16a copia",
+  "nombre_carta": "Carta de Bartomeu Foguet a Pedro Santacilia y Pax",
+  "fecha_original": "fecha sin especificar",
+  "lugar": "Mallorca",
+  "remitente": "Bartomeu Foguet",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Por razón de estas presas según de las cosas podrá ser se hagan algunos autos y papeles que valgan algo suplico a v. s. sea servido mandar tenerme en memoria si hay ocasión. Guarde Dios a v. s. etc. Bartomeu Foguet, notario. Señor gobernador [1§] Don Pedro Santacilia y Pax, gobernador y capitán general de esta isla. Transcripción literal"
+  ],
+  "literal": [
+    "1. Por raçon destas presas 2. segun de las cosas podra 3. ser se hagan algunos 4. autos ypapeles que val- 5. gan algo sup[li]< >. ad. S. sea 6. servido mandar tener 7. me en memoria si ayoca- 8. sion g< >. Dios ad. S. cuj< [a]> 9. Bart< > Foguet nog. [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "019-16a copia.jpg",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo08/019-16a copia.jpg",
+      "url": "/legajos/legajo-08/images/019-16a copia.jpg"
+    },
+    {
+      "filename": "019-16b copia.jpg",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo08/019-16b copia.jpg",
+      "url": "/legajos/legajo-08/images/019-16b copia.jpg"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "019-16a copia.jpg",
+  "warnings": [],
+  "raw_source": "raw/legajos/legajo-08/cartas/000823.json",
+  "primary_image_url": "/legajos/legajo-08/images/019-16a copia.jpg"
+}

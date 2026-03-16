@@ -1,0 +1,43 @@
+{
+  "legajo_id": "7",
+  "id_carta": "776",
+  "order_in_legajo": 11,
+  "signatura": "09-6a copy",
+  "nombre_carta": "Carta de Jaume Juan Julián a Jerónimo Pelegrín de Aragüés",
+  "fecha_original": "11 de julio de 1665",
+  "lugar": "Cádiz",
+  "remitente": "Jaume Juan Julián",
+  "destinatario": "Jerónimo Pelegrín de Aragüés",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Con dos me hallo de v. m., la una de 30 mayo y la otra de 12 junio, en las cuales recibí el contento que debe tener un amigo de los buenos sucesos ha tenido vuestra merced con el viaje, habiendo llegado con salud y tan bien acompañado de aquellos ángeles, las sras. comediantes, como me escribe. Estimo mucho a vuestra merced la visita que hizo a mi madre, porque estoy cierto la consolaría con sus buenas razones y estoy cierto de su amistad lo hará siempre que la vea. Hoy han echado bando para que nos embarquemos por todo después de mañana. Con todo eso no excuso el solicitar a vuestra merced no deje de mandarme, que el viaje a mi parecer no puede ser muy largo, y de vuelta, hallando las órdenes en Cádiz, serviré a vuestra merced como deseo y debo. [1§] A D. Arnaldo di las recomendaciones de su parte, y vuelve las mismas, y lo mismo hice del capitán Pedro Aiza [y Doménec] el cual está agregado al tercio, y va con la almirante, y nosotros con otra {CAT. nau} nombrada La Victoria. Dios nos la dé para que con más nombre pueda servir a vuestra merced, cuya vida guarde el Cielo. Cádiz y julio 11 de 1665. Su mayor amigo y servidor de vuestra merced, que sus manos besa,Don Jaime Juan Julian. Señor Jeronimo Pelegri y Aragues. Transcripción literal"
+  ],
+  "literal": [
+    "1. Con dos me hallo de V.m. la una 2. de 30 mayo, y la otra de 12 junio 3. en las quales recivi el contento, que 4. deve tener un Amigo, de los buenos 5. cuçecos ha tenido V. m. con el viaje 6. haviendo llegado con salud, y tan 7. bien acompañado de aquellos angeles 8. las Sras. comediantes, como me escrive, 9. Estimo mucho a V. m. la visita que 10. hizo a mi madre, porque estoy cier- 11. to la consolaria con sus buenas ra- 12. sones, y estoy cierto de su amistad 13. lo hara siempre q la vea. 14. hoy han hechado vando, para que 15. nos embarcemos por todo despues de 16. mañana, con todo esso no escuso el 17. solicitar a V. m. no deje de mandar- 18. me, q el viaje ami parecer no 19. puede ser muy largo, y de buelta 20. hallando las hordenes en Cadiz, servi- 21. re a V. m. como deseo, y devo. [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "09-6a copy.gif",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo07/09-6a copy.gif",
+      "url": "/legajos/legajo-07/images/09-6a copy.gif"
+    },
+    {
+      "filename": "10-6b copy.gif",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo07/10-6b copy.gif",
+      "url": "/legajos/legajo-07/images/10-6b copy.gif"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "09-6a copy.gif",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (5)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-07/cartas/000776.json",
+  "primary_image_url": "/legajos/legajo-07/images/09-6a copy.gif"
+}

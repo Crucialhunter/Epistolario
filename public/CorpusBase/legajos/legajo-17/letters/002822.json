@@ -1,0 +1,43 @@
+{
+  "legajo_id": "17",
+  "id_carta": "2822",
+  "order_in_legajo": 88,
+  "signatura": "145:1364a.JPG",
+  "nombre_carta": "Carta de Bartomeu Codonyer Carrió a Leonor Santacilia i Despuig",
+  "fecha_original": "14 de enero de 1660",
+  "lugar": "Sóller",
+  "remitente": "Bartomeu Codonyer Carrió",
+  "destinatario": "Leonor Santacilia i Despuig",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Mi Sra. he fet les diligències Possibles en demanar ha Persones Pratiques i experimetades {ESP. acerca} el delme de Lluis olives tocat a compte i la major part m'han dit que haurà 2400 truyades Poch mes, o, {ESP. menos} guarde. Deu. de Soller i esta sa casa als 14 de 1660. Criat de v. s. Bart. Codonyer Carrio [1§] a la Noble dona Elianor Santacilia i Puig guardi Déu Ciutat [2§] Transcripción literal"
+  ],
+  "literal": [
+    "1. Mi Sra.2. He fet les diligenties Possibles en demanar 3. ha Persones Pratiques y experimetades acirca 4. lo delme de Lluis olives tocat a compte y la major 5. part me han dit que haura 2400 truyades 6. Poch mes, o, menos gde. Deu. De Soller y 7. esta se casa als 14 de 1660.8. Criat de VSa9. Bartt. Codoñyer Carrio [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "145:1364a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo17/145:1364a.JPG",
+      "url": "/legajos/legajo-17/images/145:1364a.JPG"
+    },
+    {
+      "filename": "146:1364b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo17/146:1364b.JPG",
+      "url": "/legajos/legajo-17/images/146:1364b.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "145:1364a.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-17/cartas/002822.json",
+  "primary_image_url": "/legajos/legajo-17/images/145:1364a.JPG"
+}

@@ -1,0 +1,38 @@
+{
+  "legajo_id": "21",
+  "id_carta": "3584",
+  "order_in_legajo": 272,
+  "signatura": "478:5872.JPG",
+  "nombre_carta": "Carta de Bartolomé Garcias a Pedro Santacilia y Pax",
+  "fecha_original": "30 de mayo de 1649",
+  "lugar": "Madrid",
+  "remitente": "Bartolomé Garcias",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Señor mío Es que dará esto a v. s. es el sargento Francisco Esteban porque en tengo dado memorial en pretensión de una plaza de entretenimiento cerca la persona del virrey de veinte escudos cada mes y juntamente tengo presentado muchos años de servicio y además de merecerlo por sus servicios como también por ser mi deudo, suplico a v. s. me honre en esta ocasión en que el señor virrey lo ponga en la terna que se le pide para dicha provisión y en esto la recibiré particular de v. s. cuya persona guarde Dios. Madrid y mayo 30 de 1649. Servidor de v. s. que sus manos besa El Dr. Bartolome Garcies Sr. don Pedro Santacilia y Pax Transcripción literal"
+  ],
+  "literal": [
+    "1. [Margen izquierdo][^ Señor mio]2. Es que dara esto a VSª es el sargento franco estevan por qui3. en tengo dado memorial en pretençion de una placa de 4. entretenimiento sercala persona delsr Virrey de veinte 5. escudos cada mes y Juntamte tengo presentado muchos 6. años de serviçio y ademas de mercer loporsus servicios como 7. tambien porser mi deudo sup[li]co a VSª me honrre en esta 8. occasion enque elseñor Virrey loponga enla terna quese 9. le pide para dha provision y en esto la recivire particu10. lar de VSª cuya persona gde dios Madrid y Mayo 30 11. de 1649 12. Servidor de VSª q s m b 13. El Dr Barma Gacies 14. [Margen izquierdo][^ Sr d Pedro sta Cilia y Pax] [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "478:5872.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo21/478:5872.JPG",
+      "url": "/legajos/legajo-21/images/478:5872.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "478:5872.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-21/cartas/003584.json",
+  "primary_image_url": "/legajos/legajo-21/images/478:5872.JPG"
+}

@@ -1,0 +1,38 @@
+{
+  "legajo_id": "23",
+  "id_carta": "3905",
+  "order_in_legajo": 160,
+  "signatura": "285:3318.JPG",
+  "nombre_carta": "Carta de Miguel de Salvá y de Vallgornera a Pedro Santacilia y Pax",
+  "fecha_original": "2 de agosto de 1663",
+  "lugar": "Mallorca",
+  "remitente": "Miguel de Salvá y de Vallgornera",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Del conde de Plasencia tuve aviso en que me daba cuenta como había llegado a la ciudad de Barcelona, y ahora le tengo de v. m., en que me dice, como juro en el gobierno y todos nos podemos prometer de su mucha altividad y prudencia que en esta ocasión sabrá v. m. conservar y tener con la misma quietud esa provincia que la ha dejado el conde de que estaremos sin cuidado alguno, y yo muy deseoso que v. m. me dé muchas ocasiones en que pueda servir a v. m. a quien guarde Dios muchos años. Madrid y agosto 2 de 1663. Sr. mío, en este ínterim tiene muy seguros de buenos sucesos el cuidado con que su obra en el servicio de su majestad y de mi puede esperarle v. m. en todo lo que fuere de sus conveniencias como amigos viejos. Muy seguro servidor de v. m. que sus manos besa Don Miguel de Salva y de Vallgornera Sr. D. Pedro Santacilia [1§] Transcripción literal"
+  ],
+  "literal": [
+    "1. Del sr. Conde de Plasencia tuve havisso en que2. me dava quenta como havia llegado á la3. ciudad de Barçelona, y áora le tengo de VM, 4. en que me dize, como juro en el Govierno y5. todos nos podemos prometer de su mucha altividad6. y prudencia que en esta ocassion sabra Vm.7. conservar y tener con la misma quietud essa8. Provincia que la ha dejado el sr. Conde de9. que estaremos sin cuydado álguno, y yo muy 10. desseosso que Vm me de muchas ocassiones en q11. pueda servir a V.m. á quien gde Dios 12. ms a< ño>s Md y Agosto 2 de 166313. [Sr. mio, en ete Interim tiene muy 14. seguros de buenos sucessos el cuydado15. con que su obra en el servo de Su Magd 16. y de mi puede esperarle Vm en todo lo17. que fuere de sus conveniencias como ami18. gos viejos]19. Muy seguro sor de Vm.20. que sus manos besa21. Don Miguel de Çalba22. y de Vallgornera23. Sr. D. Pedro Sta. Cilia [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "285:3318.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo23/285:3318.JPG",
+      "url": "/legajos/legajo-23/images/285:3318.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "285:3318.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (2)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-23/cartas/003905.json",
+  "primary_image_url": "/legajos/legajo-23/images/285:3318.JPG"
+}

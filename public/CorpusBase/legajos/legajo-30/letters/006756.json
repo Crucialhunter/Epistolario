@@ -1,0 +1,38 @@
+{
+  "legajo_id": "30",
+  "id_carta": "6756",
+  "order_in_legajo": 21,
+  "signatura": "349:5594",
+  "nombre_carta": "Carta de Fray Miguel de Torrellas y Domenech a Persona desconocida",
+  "fecha_original": "9 de diciembre de 1619",
+  "lugar": "Mallorca",
+  "remitente": "Fray Miguel de Torrellas y Domenech",
+  "destinatario": "Persona desconocida",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Â [1§] Transcripción literal"
+  ],
+  "literal": [
+    "1."
+  ],
+  "imagenes": [
+    {
+      "filename": "349:5594.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo30/349:5594.JPG",
+      "url": "/legajos/legajo-30/images/349:5594.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "349:5594.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (3)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-30/cartas/006756.json",
+  "primary_image_url": "/legajos/legajo-30/images/349:5594.JPG"
+}

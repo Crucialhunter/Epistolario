@@ -1,0 +1,70 @@
+{
+  "legajo_id": "40",
+  "num_cartas": 119,
+  "num_imagenes": 344,
+  "rango_temporal": [
+    1620,
+    1669
+  ],
+  "remitentes_frecuentes": [
+    {
+      "name": "Persona desconocida",
+      "count": 110
+    },
+    {
+      "name": "No consta",
+      "count": 4
+    },
+    {
+      "name": "Diego Zanoguera",
+      "count": 1
+    },
+    {
+      "name": "Felipe IV",
+      "count": 1
+    },
+    {
+      "name": "Pedro Santacilia y Pax",
+      "count": 1
+    }
+  ],
+  "destinatarios_frecuentes": [
+    {
+      "name": "Persona desconocida",
+      "count": 93
+    },
+    {
+      "name": "Pedro Santacilia y Pax",
+      "count": 25
+    },
+    {
+      "name": "No consta",
+      "count": 1
+    }
+  ],
+  "lugares_frecuentes": [
+    {
+      "name": "Mallorca",
+      "count": 80
+    },
+    {
+      "name": "lugar sin especificar",
+      "count": 19
+    },
+    {
+      "name": "Palma",
+      "count": 5
+    },
+    {
+      "name": "Madrid",
+      "count": 4
+    },
+    {
+      "name": "Lugar sin especificar",
+      "count": 2
+    }
+  ],
+  "temas_frecuentes": [],
+  "warnings_count": 9,
+  "densidad_narrativa_estimada": "Alta"
+}

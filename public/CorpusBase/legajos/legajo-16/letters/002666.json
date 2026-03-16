@@ -1,0 +1,38 @@
+{
+  "legajo_id": "16",
+  "id_carta": "2666",
+  "order_in_legajo": 153,
+  "signatura": "247:2166.JPG",
+  "nombre_carta": "Carta de Diego Matías de Aragüés a Pedro Santacilia y Pax",
+  "fecha_original": "23 de noviembre de 1667",
+  "lugar": "Madrid",
+  "remitente": "Diego Matías de Aragüés",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "He recibido los pliegos que Ultimamente han venido por Valencia, y las cartas se han dado a sus dueños Todavía no ha venido el señor conde de Medellin de sus lugares de Andalucia Elseñor don Nicolas esta detenida según tengo entendido por no pagarle los 300 escudos de la ayuda de costas subaul deropa envío ayer con una galeras de Alicante, Ay parece que se ínclina aembarcarse, Por ahora no hay de nuevo si lo hubiera por Barcelona escribiré el sábado Ayer se fue a Lisboa el embajador de y ngalaterra dicen acabar de ajustar estos conciertos, elde antonono para el gasto le han dado cuatro mil doblones v. s. me mande le sirva que sus manos besamos doña Margarita y yo, y las de mi señora doña Leonor y el señor don Juan muchas veces y guarde Dios como de su majestad 23 noviembre 1667 besa lasmanos de v. s. su mayor servidor Diego Matias de Aragues Señor don Pedro Santacilia y Pax. [1§] Transcripción literal"
+  ],
+  "literal": [
+    "1. Herecivido los pliegos q Ultimamte 2. han venido por Valencia, y las cartas 3. se han dado asus dueños 4. Todavia no ha venido el sr Conde de 5. Medellin desus lugares de Andalucia 6. Elsr don Nicolas esta detenida segun 7. tengo entendido por no pagarle los 8. 300 escudos dela ayuda de Costas 9. subaul deropa embio ayer conuna 10. galeras de Alicante, Ay pareze qse 11. ínclina aembarcarse, 12. Por agora no ay de nuevo si lo hubiera 13. por Barcelona escrivire el savado 14. Ayer sefue a Lisboa el embaxador 15. de Yngalaterra dicen acavar de ajustar 16. estos conciertos, elde antonono para 17. elgasto lehan dado quatro mil doblones 18. VS. memande le sirva q sus manos 19. besamos da Ma[r]gta y yo, Y las de mi sra 20. da Leonor y elsr don Juan muchas vezes 21. yge dios como desu Md 23 nove 1667 22. B[] l[]M[] de Vs. s[u] m[] s[] 23. Diego Mathias de Aragues 24. [Margen izquierdo][^Sr Don Pedro Sta Cilia y Pax.] [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "247:2166.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo16/247:2166.JPG",
+      "url": "/legajos/legajo-16/images/247:2166.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "247:2166.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (3)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-16/cartas/002666.json",
+  "primary_image_url": "/legajos/legajo-16/images/247:2166.JPG"
+}

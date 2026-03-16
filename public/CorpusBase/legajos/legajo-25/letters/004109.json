@@ -1,0 +1,43 @@
+{
+  "legajo_id": "25",
+  "id_carta": "4109",
+  "order_in_legajo": 43,
+  "signatura": "088_143a.JPG",
+  "nombre_carta": "Carta de Diego Matías de Aragüés a Jerónimo Pelegrín de Aragüés",
+  "fecha_original": "23 de abril de 1667",
+  "lugar": "Madrid",
+  "remitente": "Diego Matías de Aragüés",
+  "destinatario": "Jerónimo Pelegrín de Aragüés",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Tengo respondido a todas las cartas y me remito a las que tengo escritas al Sr. D. Pedro en razón de negocios. Aquí llego con carta de v. m. el patrón Sebastian Truyols, y en la pretensión que trae es muy justa y le he de ayudar con mucha vera a ella. Espero mañana aviso de Viguet de Valencia y se remite la caja. No está aún decretado el memorial de Jaime Bauza. Procuraré en despachándole remitir el informe. V. m. me diga el negocio de Juan Garcia del Pozo si ha de tener fin instarlo para que se pronuncie y se sepa en dónde tiene los pies y el desengaño. En lo del señor don Miguel Salva v. m. descuide y me mande a mi sobrina y niños muchos recados de parte de Dña. Margarita y míos y guarde Dios como deseo. Madrid a 23 de abril 1667. La plaza de fiscal está ya consultada el martes, o miércoles se sabrá quien se la llevará. Ahora acá no se recibió las cartas de 4 de este por Barcelona. No se ofrece otra cosa. Tío y servidor de v. m. Diego Matias de Aragues Sr. Jeronimo Pelegrin de Aragues, mi sobrino [1§] Madrid, 23 de abril 1667, de mi tío, Diego Matias de Aragues. Transcripción literal"
+  ],
+  "literal": [
+    "1. Tengo respondido a todas las cartas y me remito a2. las que tengo escritas al Sr. D. Pedro en razon de3. negocios, aqui llego con carta de Vmd. el patron4. Sebastian Trullols, y en la pretension que trae es muy5. justa y le he de ayudar con mucha bera a ella6. Espero mañana avisso de Viget de Valençia y se7. remite la caxa8. No esta aun decretado el mem[oria]l de Jayme Bausa9. procurare en despachandole remitir el informe10. Vmd. me diga el negoçio de Juan Garçia del Pozo11. si a de tener fin instarlo para que se pronunçie12. y se sepa en donde tiene los pies y el desengaño13. En lo del Señor Don Miguel Salba Vmd. descuyde14. y me mande a mi sobrina y niños muchos15. recados de parte de Da. Margta. y mios y gde Dios16. como desseo Madrid a 23 de Abril 166717. La plaza de fiscal esta ya18. consultado el martes, o, miercoles19. se sabra quien se la llevara20. Agora aca no se recivio las cartas21. de 4 deste por Barcelona no se22. offrece otra cosa23. Tio y Ser[vid]or de Vm.24. Diego Mathias de Aragues25. Sr. Geronimo Pelegrin de Aragues mi sobrino [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "088_143a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo25/088_143a.JPG",
+      "url": "/legajos/legajo-25/images/088_143a.JPG"
+    },
+    {
+      "filename": "089_143b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo25/089_143b.JPG",
+      "url": "/legajos/legajo-25/images/089_143b.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "088_143a.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (7)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-25/cartas/004109.json",
+  "primary_image_url": "/legajos/legajo-25/images/088_143a.JPG"
+}

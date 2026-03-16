@@ -1,0 +1,43 @@
+{
+  "legajo_id": "3",
+  "id_carta": "454",
+  "order_in_legajo": 18,
+  "signatura": "33-18a",
+  "nombre_carta": "Carta de Ramón Fortuny a Juan Miguel de Santacilia y Togores",
+  "fecha_original": "8 de agosto de 1668",
+  "lugar": "Mallorca",
+  "remitente": "Ramón Fortuny",
+  "destinatario": "Juan Miguel de Santacilia y Togores",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Amigo y señor mío, estimo como es justo la merced que vuestra merced me ha hecho en darme parte de su buena llegada a esa corte, a donde querrá Dios se cumplan sus deseos como este su servidor desea. De mi pretensión me prometo buen suceso, pues en todo estoy debajo su amparo de vuestra merced, a quien suplico experimente mis afectos mandándome en todo lo que fuere de su servicio y gusto, que haré lo que pudiere en el acierto, como deseo. Mi padre ha estimado mucho la merced y me ha mandado diese muchos recados a vuestra merced de su parte y le suplique no deje de mandarle. Al señor don Pedro, que le beso muchas veces las manos y que siempre estoy con muchos deseos de servir a su señoría, como deseo por tantas obligaciones como confieso. Señor don Juan de Santacilia. [1§] Dios guarde a vuestra merced los muchos años que deseo. Mallorca y agosto, a 8 de 1668. Muy servidor de vuestra merced, Ramon Fortuny. Transcripción literal"
+  ],
+  "literal": [
+    "1. Amigo y Señor mio stimo como es justo la merset2. que VM me ha echo en darme parte de su3. buena llegada a esa corte adonde querrá Dios4. se cumplan sus deseos como este su servidor desea.5. De mi pretension me prometo buen suceso pues6. en todo stoi debaxo su anparo de VM7. aquien suplico sperimente mis afectos man8. dandome en todo lo que fuere desu servicio y9. gusto que hare lo que pudiere en el10. acierto como deseo.11. Mi Padre astimado mucho la merset y me12. a mandado diese muchos recados a VM de13. su parte yle suplique no deje de mandarle14. Al Sr. Don Pedro que le beso muchas15. veses las manos y que sienpre stoi con16. muchos deseos de servir a su señoria como17. deseo por tantas obligaciones como confiesso.18. Sr. Don Juan de Sancta Cilia [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "33-18a.jpg",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo03/33-18a.jpg",
+      "url": "/legajos/legajo-03/images/33-18a.jpg"
+    },
+    {
+      "filename": "34-18b.jpg",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo03/34-18b.jpg",
+      "url": "/legajos/legajo-03/images/34-18b.jpg"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "33-18a.jpg",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-03/cartas/000454.json",
+  "primary_image_url": "/legajos/legajo-03/images/33-18a.jpg"
+}

@@ -1,0 +1,48 @@
+{
+  "legajo_id": "32",
+  "id_carta": "7241",
+  "order_in_legajo": 223,
+  "signatura": "343:1999a.JPG",
+  "nombre_carta": "Carta de Basilio de Castellví y Ponce a Pedro Santacilia y Pax",
+  "fecha_original": "13 de diciembre de 1666",
+  "lugar": "Valencia",
+  "remitente": "Basilio de Castellví y Ponce",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "[1§] [2§] [3§] Transcripción literal"
+  ],
+  "literal": [
+    "1. 1. 1."
+  ],
+  "imagenes": [
+    {
+      "filename": "343:1999a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo32/343:1999a.JPG",
+      "url": "/legajos/legajo-32/images/343:1999a.JPG"
+    },
+    {
+      "filename": "344:1999b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo32/344:1999b.JPG",
+      "url": "/legajos/legajo-32/images/344:1999b.JPG"
+    },
+    {
+      "filename": "345:1999c.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo32/345:1999c.JPG",
+      "url": "/legajos/legajo-32/images/345:1999c.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "343:1999a.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-32/cartas/007241.json",
+  "primary_image_url": "/legajos/legajo-32/images/343:1999a.JPG"
+}

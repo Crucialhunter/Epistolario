@@ -1,0 +1,43 @@
+{
+  "legajo_id": "25",
+  "id_carta": "4103",
+  "order_in_legajo": 37,
+  "signatura": "071_137a.JPG",
+  "nombre_carta": "Carta de Miguel Malo a Jerónimo Pelegrín de Aragüés",
+  "fecha_original": "16 de abril de 1667",
+  "lugar": "Madrid",
+  "remitente": "Miguel Malo",
+  "destinatario": "Jerónimo Pelegrín de Aragüés",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Recibo la de v. m. de 17 de marzo y he recibido otras pero he escrito a v. m. y al Sr. Mateo Maestre que es cosa precisa que venga el nombre por acto de notario del hijo en quien dispone de sus largos días de vida, para que se haga el despacho que en él ha de ir nombrado el hijo y esto sea luego si quiere el despacho y a v. m. está recomendado al Sr. D. Miguel Salva y a sus criados y todos le harán a v. m. mucha merced y le irá por todo Mayo. Reciba v. m. recados de toda mi casa y del amigo Pueyo y a Dios. Madrid a 16 de abril de 1667. Servidor de v. m. que sus manos besa Miquel Malo Sr. Jeronimo Pelegrin y Aragues [?] [1§] Madrid, de Miguel Malo, de 16 de abril 1667. Transcripción literal"
+  ],
+  "literal": [
+    "1. Recibo la de Vm 17 de março y2. he recevido otras pero he escrito3. a Vm y al Sr. Matheo Maestre q es4. cossa precisa q benga el nombre por5. acto de notario del hijo en quien6. dispone de sus largos dias de7. vida pª q se haga el despacho q en8. el ha de yr nombrado el hijo y esto9. sea luego si quiere el despacho10. Ya Vm esta recomendado al sr. D. Migl11. Calba y a sus criados y todos le aran12. a Vm mucha m[erce]d y le yra por todo mayo13. reciba Vm recados de toda mi cassa y14. del amigo Pueyo y a dios Md. a 16 de15. Abril de 166716. Ser[vid]or de Vm. q s.m.b.17. Miquel Malo18. Sr. Gerº Pelegrin y Aragues [?] [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "071_137a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo25/071_137a.JPG",
+      "url": "/legajos/legajo-25/images/071_137a.JPG"
+    },
+    {
+      "filename": "072_137b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo25/072_137b.JPG",
+      "url": "/legajos/legajo-25/images/072_137b.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "071_137a.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (4)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-25/cartas/004103.json",
+  "primary_image_url": "/legajos/legajo-25/images/071_137a.JPG"
+}

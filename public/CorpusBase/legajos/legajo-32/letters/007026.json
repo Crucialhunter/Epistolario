@@ -1,0 +1,38 @@
+{
+  "legajo_id": "32",
+  "id_carta": "7026",
+  "order_in_legajo": 88,
+  "signatura": "001:1784.JPG",
+  "nombre_carta": "Carta de Nicolás de Santacilia y Togores a Pedro Santacilia y Pax",
+  "fecha_original": "2 de enero de 1665",
+  "lugar": "Madrid",
+  "remitente": "Nicolás de Santacilia y Togores",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Padre y Señor por algunas personas habrá sabido como en las maitinas de Navidad unos compañeros míos tiraron unas castañas y entre ellas hirieron a don Juan Marañon, ayudante de cámara del Rey. Este caballero fue tan presumido que se arrojó contra mis camaradas y mi y fue fuerza haber de volver por mi y que me tuviesen por hijo de quien soy en este estado. Está la materia a mi y a mis camaradas nos tienen presos y el castigo hasta hoy es el acostumbrado en esta casa, si no es que su majestad resuelva otra cosa. Pésame señor darle este disgusto que si pudiera remediarlo es cierto lo le hiciera fue lance que no pude excusar de lo que se ignorare daré cuenta a v. m. para que me diga lo que tengo de hacer. A mi madre y señora y a mi hermano muchos [en el marge esquerre] recaudos y Dios me les guarde a todos como deseo y es menester de esta casa de los pajes y Madrid a 2 de enero 1664 Besa las manos de v. m. Su más humilde hijo Sr. don Nicolas de Santacilia y Togores Mi padre y Sr. Señor Transcripción literal"
+  ],
+  "literal": [
+    "1. Padre y Señor por algunas personas habra sabido como en las maytinas de navidad unos compañeros mios tiraron unas castañas y entra ellas irieron a Don Juan Marañon ayuda de camara del Rey. este cavallero fue tan presumido que se aroxo contra mis camaradas y mi y fue fuersa aver de bolver por mi y que me tuviesen por hijo de quien soy en este estado esta la materia a mi y a mis camaradas nos tienen presos y el castigo asta oy es el acostumbrado en esta casa sino es que su Magd. resuelva otra cosa. Pesame Señor darle este disgusto que si pudiera remediarlo es sierto lo le içiera fue lanse que no pude escusar de lo que se ynnorare dare quenta a VM. para que me diga lo que tengo de aser a mi Madre y Señora y a mi hermano muchos [en el marge esquerre] recaudos y Dios me les guarde a todos como deseyo y he menester desta casa de los pajes y Madrid a 2 de henero 1664 B. L. M. de VM Su Ms Umilde hijo Don Nicolas de Sta. Cilia y Togores mi Padre y Señor"
+  ],
+  "imagenes": [
+    {
+      "filename": "001:1784.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo32/001:1784.JPG",
+      "url": "/legajos/legajo-32/images/001:1784.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "001:1784.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-32/cartas/007026.json",
+  "primary_image_url": "/legajos/legajo-32/images/001:1784.JPG"
+}

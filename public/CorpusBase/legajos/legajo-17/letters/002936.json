@@ -1,0 +1,43 @@
+{
+  "legajo_id": "17",
+  "id_carta": "2936",
+  "order_in_legajo": 201,
+  "signatura": "347:1478bisa.JPG",
+  "nombre_carta": "Carta de Conde de Zavellá a Pedro Santacilia y Pax",
+  "fecha_original": "2 de agosto de 1660",
+  "lugar": "Barcelona",
+  "remitente": "Conde de Zavellá",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "he visto en su carta de v. m. mucha voluntad por olgome [?] como debo, pero muy poco ánimo y asegurere por [?] le el mío que no desfallece aunque todo se confure y menos teniendo a v. m. de mi parte de suerte Señor que el pleito con mi cunada será breve con el favor de Dios ; y acabado llegaré muy a tiempo a Madrid así para resistir [?] a D. Pedro fraso como a Salas que puesto en el palenque lo mismo es justarccon una que con dos y mientras les tocamos de Mallorca no me fal ten (como han faltado estos cuatro meses) no perecéremos del todo que ya el dinero SOLO le quiero para la vida y para lo demás bastaráme Sr. D. Pedro Santacilia [1§] la razón y v. m. bien sabe que muchas veces con los ministros consigue más la lastima de un desdichado que la porfia de un enfadoso. yo tengo salud a Dios gas y siempre mucho deseo de emplearme todo en servir a v. m. cuya vida guarde Dios como deseo. Barcelona y agosto a 2 de 1660 Sdora de v. m. que sus manos besa Leonor de Zavella [2§] Transcripción literal"
+  ],
+  "literal": [
+    "1. He visto en su carta de Vm. mucha 2. voluntad por olgome[?] como devo, pero muy 3. poco animo y asegurere por [?]4. le el mio q no desfallece aunq 5. todo se confure y menos teniendo 6. a Vm de mi parte de suerte Señor7. q el pleyto con mi cunada sera bre8. ve con el favor de Dios; y acabado9. llegare muy a tiempo a Md asi10. para resistir[?] a D. Pedro frasso11. como a Salas q puesto en el12. palenque lo mismo es justarccon13. una q con dos y mientras les14. tocamos de Mallorca no me fal15. ten (como han faltado estos quatro16. meses) no pereceremos del todo17. que ya el dinero SOLO le quiero para18. la vida y para lo demas bastaráme19. Sr. D. Pedro Stacilia [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "347:1478bisa.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo17/347:1478bisa.JPG",
+      "url": "/legajos/legajo-17/images/347:1478bisa.JPG"
+    },
+    {
+      "filename": "348:1478bisb.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo17/348:1478bisb.JPG",
+      "url": "/legajos/legajo-17/images/348:1478bisb.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "347:1478bisa.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-17/cartas/002936.json",
+  "primary_image_url": "/legajos/legajo-17/images/347:1478bisa.JPG"
+}

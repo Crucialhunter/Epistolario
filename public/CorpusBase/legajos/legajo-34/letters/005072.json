@@ -1,0 +1,38 @@
+{
+  "legajo_id": "34",
+  "id_carta": "5072",
+  "order_in_legajo": 100,
+  "signatura": "155:6987.JPG",
+  "nombre_carta": "Carta de Josep de Rocabertí a Pedro Santacilia y Pax",
+  "fecha_original": "19 de diciembre de 1656",
+  "lugar": "Barcelona",
+  "remitente": "Josep de Rocabertí",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "el canonge Sr. don Juan Antic passa aquí amb la galera del bisbe amb procura dedon fadrich desbosch per a cobrar deix real Patrimoni algunes quantitats que seli devan i com don fedrich és tan amic i meu i sap la molta correspondència i parenteesch quiha entre v. m. i esta casa m'ha encarregat fes estes ratlles fiat que la mia Intersessio l ha de Valer perquè pugui conceguir el que desitja i així ho suplico a v. m. quant encaritament puc i que em farà mercè de tornar-me resposta a esta perquè pugui donar-li enterra satisfacció d'haver-lo cervit amb el que em te manat deu a v. m. guardi com pot i de jo Barcelona desembre 19 de 1656 de v. m. sempre cervidor que sa mà B Sr. don Josep de Rocaberti procurador reial Sr. don Pedro Santacilia i Pax [1§] Transcripción literal"
+  ],
+  "literal": [
+    "1. lo Sr canonge Don Juan Antic pasa aqui2. abla galera del Sr. Bisbe ab procura deDon3. fadrich desbosch pera cobrar dex Real Pa/4. trimoni algunas cantitats que seli devan5. y com don fedrich es tan amic y Sr meu6. y sab la molta correspondencia y parente/7. sch quiha entre Vm y esta casa me ha8. encarregat fes estas rallas fiat de que9. la mia Intersessio l ha de Valer peraque10. puga conceguir lo que desija y axi ho11. suplico a Vm quant encaritament puc12. y quem fara merse de tornarme resp/13. osta aesta peraque puga donarli en/14. tera satisfacio de haverlo cervit ablo15. quem te manat deu a Vm gde com16. pot y de yo Barna 10bra 19 de 165617. de Vm sempra cervidor18. q s[a] m[a] B19. Don Joseph de20. Rocaberti21. Sr. Pr Rl don Pedro Sta cilia y Pax [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "155:6987.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo34/155:6987.JPG",
+      "url": "/legajos/legajo-34/images/155:6987.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "155:6987.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-34/cartas/005072.json",
+  "primary_image_url": "/legajos/legajo-34/images/155:6987.JPG"
+}

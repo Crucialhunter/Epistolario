@@ -1,0 +1,43 @@
+{
+  "legajo_id": "29",
+  "id_carta": "6514",
+  "order_in_legajo": 212,
+  "signatura": "330:4331a.JPG",
+  "nombre_carta": "Carta de Nicolás de Santacilia y Togores a Pedro Santacilia y Pax",
+  "fecha_original": "16 de enero de 1666",
+  "lugar": "Madrid",
+  "remitente": "Nicolás de Santacilia y Togores",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Con mucho cuidado estoy porque ha más de dos meses que no he tenido carta de v. m. La jornada es al primero de marzo y en eso están todos, porque todo el carruaje está prevenido y dadas las ayudas de costa, que hoy nos podíamos partir yo estoy esperando las camisas y no he tenido carta en que me diga que me las enviarán. Yo hago cuenta de hacer media docena de ellas por si acaso no llegan a tiempo, porque será mal caso que me haga falta lo más importante y sino envieme a decir que no puede ser y con eso no estaré con cuidado. Las novedades que hay por acá muchos pasquines muy desvergonzados y aún merecían otros tantos a más, en particular hay uno que viene a ser un coche con cuatro hombres y cuatro maromas tirando cada uno por su lado. Este me parece que es el más [1§] verdadero de los otros. No digo nada porque aún no son puramente en la boca. El confesor y el presidente de Castilla están encontrados y se dice porque el confesor había dado palabra al conde Castrillo que haría cuanto pudiese para que lo cubriesen y Castrillo, como es de los que suponen más en la junta, también se la dio de empeñarse porque lo hicieran inquisidor general. Me parece que el confesor se apartó porque había hecho con la reina que enviara por bulas secretas. El presidente lo supo y lo ha estornado. Al duque de Montalto lo han hecho del Consejo de Estado. Guarde Dios a v. m. muchos años como deseo y es menester. Madrid a 16 de enero 1666. Su más humilde hijo de v. m. que sus manos besa Don Nicolas de Santacilia y Togores Mi padre y señor Transcripción literal"
+  ],
+  "literal": [
+    "1. Con mucho cuydado estoy por que 2. a mas de dos meses que no e tenido Car3. ta de VM; La jornada es al primero 4. de Março y en eso estan todos por que 5. todo el carrage esta prevenido y dadas 6. las ayudas de costa, que oy nos podía7. mos partir yo estoy esperando las ca8. misas y no e tenido carta en que me di9. ga que me las embiaran yo ago quenta 10. de aser media desena dellas por si aca11. so no llegan a tienpo por que sera mal 12. caso que me aga falta lo mas ynpor13. tante y sino enbieme a desir que no pue14. de ser y con eso no estare con cuydado 15. Las novedades que ay por aca mu16. chos pasquines muy desvergonzados 17. y aun meresian otros tantos a mas en 18. particular ay uno que viene a ser un 19. coche con quatro onbres y quatro ma20. romas tirando cada uno por su lado 21. este me parese que es el mas [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "330:4331a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo29/330:4331a.JPG",
+      "url": "/legajos/legajo-29/images/330:4331a.JPG"
+    },
+    {
+      "filename": "331:4331b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo29/331:4331b.JPG",
+      "url": "/legajos/legajo-29/images/331:4331b.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "330:4331a.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-29/cartas/006514.json",
+  "primary_image_url": "/legajos/legajo-29/images/330:4331a.JPG"
+}

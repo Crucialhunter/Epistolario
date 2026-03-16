@@ -1,0 +1,38 @@
+{
+  "legajo_id": "30",
+  "id_carta": "6725",
+  "order_in_legajo": 223,
+  "signatura": "303:5563",
+  "nombre_carta": "Carta de Maria Olivar i Serra a Persona desconocida",
+  "fecha_original": "22 de octubre de 1661",
+  "lugar": "Mallorca",
+  "remitente": "Maria Olivar i Serra",
+  "destinatario": "Persona desconocida",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Â [1§] Maria Olivar i Serra Transcripción literal"
+  ],
+  "literal": [
+    "1."
+  ],
+  "imagenes": [
+    {
+      "filename": "303:5563.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo30/303:5563.JPG",
+      "url": "/legajos/legajo-30/images/303:5563.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "303:5563.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (3)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-30/cartas/006725.json",
+  "primary_image_url": "/legajos/legajo-30/images/303:5563.JPG"
+}

@@ -1,0 +1,43 @@
+{
+  "legajo_id": "31",
+  "id_carta": "6862",
+  "order_in_legajo": 102,
+  "signatura": "144:1613a.JPG",
+  "nombre_carta": "Carta de Francesc Rosselló a Pedro Santacilia y Pax",
+  "fecha_original": "23 de agosto de 1661",
+  "lugar": "Ibiza",
+  "remitente": "Francesc Rosselló",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Con otra mia de 22 del corriente tengo avisado a v. s. com un soldado, mato a otro estando tots deporta en la junta i que el Sr. governador. LLETRA DIFÍCIL [1§] [2§] Transcripción literal"
+  ],
+  "literal": [
+    "1. Con otra mia de 22 del corriente tengo 2. avisado a V. S. como un soldado, mato á 3. otro estando todos deporta en la gunta 4. y q el Sor. Gdor. LLETRA DIFÍCIL [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "144:1613a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo31/144:1613a.JPG",
+      "url": "/legajos/legajo-31/images/144:1613a.JPG"
+    },
+    {
+      "filename": "145:1613b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo31/145:1613b.JPG",
+      "url": "/legajos/legajo-31/images/145:1613b.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "144:1613a.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-31/cartas/006862.json",
+  "primary_image_url": "/legajos/legajo-31/images/144:1613a.JPG"
+}

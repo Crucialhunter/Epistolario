@@ -1,0 +1,43 @@
+{
+  "legajo_id": "21",
+  "id_carta": "3471",
+  "order_in_legajo": 159,
+  "signatura": "290:5759a.JPG",
+  "nombre_carta": "Carta de Pedro Fajardo de Requeséns-Zúñiga y Pimentel (V marqués de los Vélez) a Pedro Santacilia y Pax",
+  "fecha_original": "30 de julio de 1639",
+  "lugar": "Tolosa",
+  "remitente": "Pedro Fajardo de Requeséns-Zúñiga y Pimentel (V marqués de los Vélez)",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "He recibido su carta de v. m. su fecha de hoy en que me dice la descomodidad que ha hallado en ese lugar de Lezo para acuartelarse y los vecinos de él me han representado la cortedad con que se hallan por lo arruinado que dejó ese lugar. El francés cuando hizo entrada, ya si digo a v. m. que se le acudirá con los socorros puntualmente para que se pueda sobrellevar algo lo espero del cuartel y en el [?] que se le da en sangre pondrá v. m. particular cuidado en que los vecinos no se han molestado ni les saquen los soldados más de aquello que ellos gustaren de dar, pues cualquier cosa es de agradecer mucho. Guarde Dios a v. m. muchos años, Tolosa 30 julio 1639. Con el ayudante se hubiera la que se pudiere iremos continuando con todo cuidado y [?] v. m. que [?] de más. El marques delos Veles Sr. gobernador D. Pedro de Santacilia y Pax [1§] Tolosa 30 julio 1639 El marques de los Velez rdo. Transcripción literal"
+  ],
+  "literal": [
+    "1. He Recevido sucarta de Vm su fha de ay 2. enque medíze ladesconmodidad que a hallado 3. eneselugar delezo para aquartelarse ylos Ve4. çinos del me han rrepresentado la cortedadcon5. que se hallan por lo arruynado que dejo eselug[a]r 6. Elfranses quando hizo entrada: ya ssi Digo 7. a Vm. quesele acudira conlos socorros puntual8. mente para que sepueda sobrellevar algo loas9. pero del quartel yen Elpajer[?] que seleda ensan10. ge pondra Vm particular cuydado enquelos 11. Vezinos nose an molestados niles saquenlos 12. soldados mas deaquello que ellos gustarendedar 13. pues qualquíera cossa Esdeagradezer mucho gde 14. Dios a Vm mugos a< ño 1639 15. conel ayudante seubiera laq 16. se pudiere yremos continuando 17. con todo cuidado y ma[?] Vm q vasquer[?]18. demas: 19. El Marqs delos Veles 20. [Margen izquierdo][^ sr Govr D Po desta Cilia y Pax] [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "290:5759a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo21/290:5759a.JPG",
+      "url": "/legajos/legajo-21/images/290:5759a.JPG"
+    },
+    {
+      "filename": "291:5759b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo21/291:5759b.JPG",
+      "url": "/legajos/legajo-21/images/291:5759b.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "290:5759a.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (5)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-21/cartas/003471.json",
+  "primary_image_url": "/legajos/legajo-21/images/290:5759a.JPG"
+}

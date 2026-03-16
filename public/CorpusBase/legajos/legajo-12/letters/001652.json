@@ -1,0 +1,38 @@
+{
+  "legajo_id": "12",
+  "id_carta": "1652",
+  "order_in_legajo": 155,
+  "signatura": "233_6245.JPG",
+  "nombre_carta": "Carta de Ana de Córdoba y Aragón a Pedro Santacilia y Pax",
+  "fecha_original": "16 de agosto de 1651",
+  "lugar": "Madrid",
+  "remitente": "Ana de Córdoba y Aragón",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "[1§] Recibo de muy buena gana la enhorabuena v.m. me da del nacimiento de la serenísima [infanta] doña Margarita María que, aunque ha sido trabajo para la reina nuestra señora (Dios [la guarde]), acabada de parir le dio un accidente que [tinta borrada] saliera de él. De este trabajo quedó con una [tinta borrada] y desconcierto de estómago que me ha tenido [muy a]fligida. El que se ha padecido ha sido intolerable [tinta borrada] calores mayores, que me parece he visto [tinta borrada] bien; entiendo juzgará v.m. con esto [tinta borrada] se ha padecido, que le aseguro a v.m. ha [tinta borrada] {12} dar con vida. Mucho siento le tengan [por o]cioso en tiempo que tanto se necesita de [ayuda] la de v.m. Será Dios servido que caiga [tinta borrada]: ra hagan lo que bien le está. [Guarde Dios] muchos años. Madrid y agosto 16 de 1651. [letra original de la remitente:] Doña Ana de Córdoba Transcripción literal"
+  ],
+  "literal": [
+    "1. 2. 3. 4. 5. 6. 7. 8. 9. 10. 11. 12. 13. 14. 15. 16. 17. 18. 19. 20. 21. 22. 23. 24. 25. 26. 27. 28. 29. 30. [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "233_6245.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo12/233_6245.JPG",
+      "url": "/legajos/legajo-12/images/233_6245.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "233_6245.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (2)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-12/cartas/001652.json",
+  "primary_image_url": "/legajos/legajo-12/images/233_6245.JPG"
+}

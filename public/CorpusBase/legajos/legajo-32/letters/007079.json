@@ -1,0 +1,38 @@
+{
+  "legajo_id": "32",
+  "id_carta": "7079",
+  "order_in_legajo": 103,
+  "signatura": "099:1837.JPG",
+  "nombre_carta": "Carta de Luis de Aragón (VII duque de Cardona) a Pedro Santacilia y Pax",
+  "fecha_original": "22 de marzo de 1665",
+  "lugar": "Madrid",
+  "remitente": "Luis de Aragón (VII duque de Cardona)",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Esperaba saber que ruido había hecho a v. s. el ser yo de la jornada de Alemania, no ha pasado a más que mandárseme y yo obedecer, entiendo otra que el ejemplar destro acuérdese v. s. de las exortaciones que me hizo desde Aranjuez, y después aquí, mejor ha salido, pues es la diferencia combidarse, o ser combidado. estese quedo v. s. que si hubiere de salir en Barcelona. serán las vistas y allí nos ajustaremos, que el llegar aquí es aventura, así lo dice el ejemplar del Sr. cardenal Colona que le sobra tiempo, y por mal que se pase en casa, es mejor tenerle en ella, y no en la ajena mandarme v. s. casos y cosas de su servicio. Guarde Dios a v. s. largos años Madrid a 22 Marzo 1665 de su M Servidor Sr. don Luis de Aragón Sr. don Pedro Santacilia y Pax Transcripción literal"
+  ],
+  "literal": [
+    "1. Esperaba saver que ruido avia hecho a VS. el ser 2. yo de la Jornada de Alemania, no a pasado a mas que 3. mandarseme i yo obedezer, entiendo otra que el ejemplar destro 4. acuerdese VS. de las exortaziones que me hiço desde Aran5. juez, y despues aqui, mejor a salido, pues es la diferenzia 6. combidarse, o ser combidado. estese quedo VS. que si ubiere 7. de salir en Barna. seran las vistas y alli nos ajusta8. remos, que el llegar aqui es abentura, assi lo dize el ejem9. plar del sor. Cardenal Colona que le sobra tiempo, y por mal 10. que se pase en casa, es mejor tenerle en ella, y no en la ajena 11. mandarme VS. casos y cosas de su servizio. Gde Dios a VS. largos 12. años Madrid a 22 março 1665 13. De su M 14. Servidor 15. Don Luys de Aragon 16. Sr. Don Pedro Sta. Cilia y Paz [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "099:1837.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo32/099:1837.JPG",
+      "url": "/legajos/legajo-32/images/099:1837.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "099:1837.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-32/cartas/007079.json",
+  "primary_image_url": "/legajos/legajo-32/images/099:1837.JPG"
+}

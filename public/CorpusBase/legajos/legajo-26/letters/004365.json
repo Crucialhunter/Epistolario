@@ -1,0 +1,50 @@
+{
+  "legajo_id": "26",
+  "id_carta": "4365",
+  "order_in_legajo": 100,
+  "signatura": "139:3459.JPG",
+  "nombre_carta": "Carta de Pedro Fajardo de Requeséns-Zúñiga y Pimentel (V marqués de los Vélez) a Pedro Santacilia y Pax",
+  "fecha_original": "25 de enero de 1641",
+  "lugar": "Sant Feliu",
+  "remitente": "Pedro Fajardo de Requeséns-Zúñiga y Pimentel (V marqués de los Vélez)",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Aunque en otra carta que encamine por la mar avise a v. m. de hallarme en este paraje con el ejército y de que no podía adelantarse por falta de vastimientos vuelvo a hacer lo mismo en esta que encamino por tierra por si por algún accidente no hubiere llegado la primera carta. No tengo que encarecer más sino que el ejército perece sin poder de ninguna manera obrar nada mientras no se asegurare el comer. V. m. procure ganar las horas que fuere posible en venir con esos bergantines y bastimentos a Castell de Feliu y solicitar que lo hagan las galeras, porque si esto se dilata se aventura mucho la conservación de este ejército. Guarde Dios a v. s. muchos años. Sant Feliu 25 de enero 1641. Al maestro de campo don Ferndo de Tejada escribo me envie en la primera embarcación que viniere a don Gabriel de Lupian, v. m. lo traiga consigo. El marques de los Velez Sr. don Pedro de Santacilia Transcripción literal"
+  ],
+  "literal": [
+    "1. Aunq en otra carta que encamine p la mar avise a Vm2. de hallarme eneste paraje con el exto y de que3. no podia adelantarse p falta de vastimtos buelvo a hazr4. lo mismo enesta que encamino pr tierra; por si por algun5. accidente, no ubiere llegado la prima carta; no tengo q6. encarezer mas sino q el exto pereze sin poder7. de ninguna manra obrar nada mientras no se asigurare8. el comer: Vm procure ganar las oras q fuere9. pusible en venir con esos bergantines y10. vastimentos a Castel de Feliz y solicitar q lo 11. hagan las galeras porque si esto se dilata se12. aventura mucho la conservazion deste exto gude13. Dios a V.S. muchos a< ño>s San Feliu 25 de14. Henº 1641, Al Mro de Co Don Ferndo de Tejada15. escrivo me ymbie en la primera embarcazion q viniere16. a Don Gabriel de Lupian, Vm lo trayga consigo17. El Marqs de los [?]18. Sr. Don Pº de Ssta. çilia [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "139:3459.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo26/139:3459.JPG",
+      "url": "/legajos/legajo-26/images/139:3459.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "139:3459.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (5)",
+      "context": {}
+    },
+    {
+      "code": "IMAGE_DOWNLOAD_FAIL",
+      "message": "HTTP 404",
+      "context": {
+        "url": "http://santacilia.info/intranet2/img/Legajo26/139:3459.JPG"
+      }
+    },
+    {
+      "code": "IMAGE_COUNT_MISMATCH",
+      "message": "Imágenes detectadas (1) != descargadas (0)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-26/cartas/004365.json",
+  "primary_image_url": "/legajos/legajo-26/images/139:3459.JPG"
+}

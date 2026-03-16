@@ -1,0 +1,43 @@
+{
+  "legajo_id": "33",
+  "id_carta": "4888",
+  "order_in_legajo": 82,
+  "signatura": "130:6804a.JPG",
+  "nombre_carta": "Carta de Bonaventura de Lanuza Montbuí y Vilarig a Pedro Santacilia y Pax",
+  "fecha_original": "18 de diciembre de 1629",
+  "lugar": "Girona",
+  "remitente": "Bonaventura de Lanuza Montbuí y Vilarig",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Es passat tant sacretament el Sr. comte que fins que he bist a Bernat Ferrer no en he sabut res i encara no ha volgut fermos mercè en casa sinó que és passat a dinar al pont major he volgut per esta ocasió enviar la plata perquè anàs amb seguretat i ací va per Gaspar Oliver aporta dos jarras dos basinas quatre taças i nou plats medians que és la que v. m. me envia per no tenir els mahcos en casa no he pogut enviar els quatre draps aniran un dia d'esta semana: estimo a v. m. l'honra i mercè que per son {ESP. medi} tinc rebuda de mi Sra. la comtessa aquí beso moltes boltas les mans amb les de v. m. d'altra part van dos jarras dos basinas dot se plats grans i dotze de patits tot de plata i es de mi Sra. la duquessa de Cardona rebre mercè v. m. o mane guardar aquí sens a tant Sr. D. Pedro Santacilia [1§] enviï un cobritaula de domas blau quy ha una taca i procuram en traurerla i les oras anirà tot junt que ja avisaré jo a v. m. a qui guardi Déu molts anys i dona molts bones festes de Nadal estes i moltes altres com jo desitjo Girona i desembre als 18 de 1629 Sr. don Bonaventura de Lanuza mombuy i bilarig [2§] Transcripción literal"
+  ],
+  "literal": [
+    "1. Es passat tant sacretament lo Sor. Comte que2. fins que he bist a Bernat farrer non he sabut3. res y encara no ha bolgut fermos merçe en4. casa sino que es passat a dinar al pont mayor5. He bolgut per esta ocasio enviar la plata per6. que anas ab seguretat y assi ba per Gaspar7. Oliver aporta dos jarras dos bassinas quatra8. taças y nou plats medians que es la que Vm.9. me envia per no tenir los mahcos en casa10. no he pogut enviar los quatre draps aniran11. un dia desta semmana: estimo a Vm. la honrra12. y merce que per son medi tinch rebuda de13. mi Sora. la Comtessa aqui beso moltas boltas14. les mans ab las de Vm.15. De altra part ban dos jarras dos bassinas dot16. se plats grans y dotse de patits tot de plata y17. es de mi Sora. la duquessa de Cardona rebre18. merçe V.m. o mane guardar aqui sens a tant19. Sr. d. Pedro Sta. Cilia [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "130:6804a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo33/130:6804a.JPG",
+      "url": "/legajos/legajo-33/images/130:6804a.JPG"
+    },
+    {
+      "filename": "131:6804b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo33/131:6804b.JPG",
+      "url": "/legajos/legajo-33/images/131:6804b.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "130:6804a.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-33/cartas/004888.json",
+  "primary_image_url": "/legajos/legajo-33/images/130:6804a.JPG"
+}

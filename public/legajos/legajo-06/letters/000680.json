@@ -1,0 +1,43 @@
+{
+  "legajo_id": "6",
+  "id_carta": "680",
+  "order_in_legajo": 180,
+  "signatura": "278-141a",
+  "nombre_carta": "Carta de Jaime Terrassa a Cecilia Zaforteza y Sureda de Sant Martí",
+  "fecha_original": "29 de mayo de 1779",
+  "lugar": "Muro",
+  "remitente": "Jaime Terrassa",
+  "destinatario": "Cecilia Zaforteza y Sureda de Sant Martí",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Señora dña. Cecilia muy señora mía; el lunes por la tarde día 31 del que rige, estará el ilustrísimo Señor obispo en esta Villa, a fin de visitar mi parroquia pues que si así me lo tiene escrito. La casa, con los adornos que v. s. me envió quedará magníifica; solo me faltan (aunque por culpa mía) una cortina de damasco para el portal del cuarto de la capilla, la que espero me enviará por mi criado Gabriel Perelló. Pido a v. s. el que ruegue a Dios, que yo salga bien de este juicio, y haré lo propio para que el señor conserve a v. s. los felices años de su divino beneplácito. Muro y 29 Mayo 1779. Besa la mano de v. s. Su más afecto seguro servidor D. Jaime Terrasa presbítero y rector de Muro Señora Dña. Cecilia Zaforteza Transcripción literal"
+  ],
+  "literal": [
+    "1. Señora Da. Cecilia 2. Muy Señora mia; el lunes por la 3. tarde dia 31. del que rige, estará 4. el Ill< ustrísi>mo Señor Obispo en esta Vi- 5. lla, á fin de visitar mi Parr< oqui>a pues 6. que assi me lo tiene escrito. La casa 7. con los adornos, que V.S. me embió 8. quedará magnifica; solo me faltan (aun- 9. que por culpa mia) una cortina de 10. damasco para el portal del Quarto 11. de la Capilla, la que espero me embi- 12. ará por mi criado Gabriel Perelló. 13. Pido á V.S. el que ruegue á Dios, 14. que yo salga bien de este juicio, y ha- [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "278-141a.jpg",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo06/278-141a.jpg",
+      "url": "/legajos/legajo-06/images/278-141a.jpg"
+    },
+    {
+      "filename": "279-141b.jpg",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo06/279-141b.jpg",
+      "url": "/legajos/legajo-06/images/279-141b.jpg"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "278-141a.jpg",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-06/cartas/000680.json",
+  "primary_image_url": "/legajos/legajo-06/images/278-141a.jpg"
+}

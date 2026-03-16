@@ -1,0 +1,43 @@
+{
+  "legajo_id": "11",
+  "id_carta": "1439",
+  "order_in_legajo": 232,
+  "signatura": "365:5294a.JPG",
+  "nombre_carta": "Carta de Josep de Rocabertí a Pedro Santacilia y Pax",
+  "fecha_original": "26 de marzo de 1652",
+  "lugar": "Ibiza",
+  "remitente": "Josep de Rocabertí",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Continuadament vaig experimentant quant cavillosa és la gent natural d'esta {ESP. isla} i així dubto de poder ajustar m' amb ells més del que han fet al tres governadors, aquí breument han tractat de capitular, i no dubto que ja ho faria amb mi so trobassin afarrador si bé pel que ha succeit amb el negoci del naufratxe que en dies passats i a que i perquè sempre meso volgut eximir sé que en han anades queixes a Madrid dient que jo era estar més de la part del real patrimoni que de parer d'obrar el que ells pretenien, com d'estos i altres frioler as sé que ha escrites i com totes me donen poquíssim {ESP. cuidado} no he deixat [1§] de passar avui un gran dia en l'espalmador casant i pescant que és el dit lloc el que més ja que veure en esta {ESP. isla}, li de per ser tant fre cuentat de moros com és no si pot anar sinó en Ivern. Recordam que v. s. m'escrivia que per a passar a que és {ESP. desterro} prengués companyia en Mallorca i confesant a v. s. que he es perimentat que és fa mal estar sol dia que borrado dino el mició de sarcarmen una ja no serà forçós acontentar-me en l'interde borrado en esta terra si bé el temps es de borrado hoy ens pot tractar sinó de coses santes i borrado bines Déu guardi a v. s. com pot i desiti Eivissa i març 26 de 1652 Sr. don Josep Rocaberti [2§] Transcripción literal"
+  ],
+  "literal": [
+    "1. Continuadament vaix esperimentant 2. quant cavillosa es la gent natural 3. desta isla y axi dupto de poder ajustar 4. me ab ells mes de lo que han fet al 5. tres governadors, aqui breument 6. han tractat de capitular, y no dupto 7. que ya ho faria ab mi so trobasen 8. afarrador si be per lo que ha 9. succeit ab lo negoci del naufratxe 10. que en dias pasats y a que y perque 11. senpra meso volgut eximir se quen 12. an anadas quexas a Madrit dient que 13. yo era estar mes de la part del Real 14. patrimoni que de parer de obrar lo que 15. ells pretenien, com destos y altras frioler 16. as se que ha escritas y com totas me 17. donan poquisim cuidado no he dexat [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "365:5294a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo11/365:5294a.JPG",
+      "url": "/legajos/legajo-11/images/365:5294a.JPG"
+    },
+    {
+      "filename": "366:5294b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo11/366:5294b.JPG",
+      "url": "/legajos/legajo-11/images/366:5294b.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "365:5294a.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-11/cartas/001439.json",
+  "primary_image_url": "/legajos/legajo-11/images/365:5294a.JPG"
+}

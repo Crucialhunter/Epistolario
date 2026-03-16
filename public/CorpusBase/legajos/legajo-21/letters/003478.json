@@ -1,0 +1,43 @@
+{
+  "legajo_id": "21",
+  "id_carta": "3478",
+  "order_in_legajo": 165,
+  "signatura": "306:5766a.JPG",
+  "nombre_carta": "Carta de Jerónimo del Castillo a Pedro Santacilia y Pax",
+  "fecha_original": "21 de agosto de 1639",
+  "lugar": "Zaragoza",
+  "remitente": "Jerónimo del Castillo",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Señor mío estimo como es razón su correspondencia de v. m. y la merced que me hace con sus cartas. Remítole las que se hallan en mi poder sin tener cosa particular de que darle cuenta porque de Perpiñan no me escriben sin que el enemigo si está conservando su ejército y el nuestro aguardando a que se engavese para poder obrar. Quiera Dios que no sea tarde, el cual dé a v. m. la salud que le deseo y guarde infinitos años. Zaragoza y agosto 21 de 1639. Jeronimo del Castillo Sr. D. Pedro de Santacilia [1§] Zaragoza [Escrito a lápiz 21] 14 Agosto 1639 Jeronimo del Castillo rdo. [2§] Transcripción literal"
+  ],
+  "literal": [
+    "1. Señormio estimo como es Razon su Correspondençia 2. de Vm y la mrd queme haçe consus cartas Remitole 3. las quese hallan enmipoder sintener Cosaparticular 4. de quedarle quenta porquede Perpiñan nome escri5. ven sinque el enemigo siesta Conservando su exerçito 6. y El nro aguardando aquese engavesse para poder 7. obrar quiera Dios que no sea tarde Elqual de a Vm 8. La salud que le deseo y gde Ynfinitos años Çaraga 9. y agto 21 de 1639 10. Geronimo del Castillo 11. [Margen izquierdo][^ D Po desanta zilia] [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "306:5766a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo21/306:5766a.JPG",
+      "url": "/legajos/legajo-21/images/306:5766a.JPG"
+    },
+    {
+      "filename": "307:5766b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo21/307:5766b.JPG",
+      "url": "/legajos/legajo-21/images/307:5766b.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "306:5766a.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-21/cartas/003478.json",
+  "primary_image_url": "/legajos/legajo-21/images/306:5766a.JPG"
+}

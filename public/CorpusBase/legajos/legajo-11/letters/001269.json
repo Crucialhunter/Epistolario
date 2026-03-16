@@ -1,0 +1,43 @@
+{
+  "legajo_id": "11",
+  "id_carta": "1269",
+  "order_in_legajo": 39,
+  "signatura": "062:5129a.JPG",
+  "nombre_carta": "Carta de Bartomeu Domènech a Pedro Santacilia y Pax",
+  "fecha_original": "7 de mayo de 1643",
+  "lugar": "Mallorca",
+  "remitente": "Bartomeu Domènech",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "I el patró vos escrigui a v. s. i li enviï un {ESP. despatxo} del duc d'Arcos i carta de don Juan de Benavides i de mi Sra. la duquessa de Cardona i del Sr. don Antonio i pocs dies ha que mi Sra. li ha remès un plec per via del duc d'Arcos en què ahir havia cartes del Sr. don Antonio i del Sr. don Pedro de Aragon i mias. Jo pens que ja les haurà rebudes; des que fou ací don Francisco Forteza ha escrit a don Mateu que els truquechos del Sr. don Pedro de Aragon ja són fets i així el tindran prest i ací Jacinto Cardona m'espanto que no sia vi Sr. don Pedro Santacilia [1§] ngut amb Pere Nofra Giho qui arribà ahir. Jo pens que dit Cardona portarà els {ESP. despatxos} com tot els fijam. Jo prenc xarops en anar presa la purga tractaré d'anar aquí esta terra està de molt mala manera. Ahir a les tres de la tarda mataren un germà d'aquell qui deien havia mort don Priam Villalonga qui en aquell punt havia desembarcat amb en Pere Onofre un jorn qui mai havia fet sinó feina. Nostre don Joan Miquel fins ací va bé {CAST. antes} del sol post se retira en casa o li ens entretenim. Està bo. Guardi Déu a v. s. Mallorca, maig 7 de 1643. Bartolome Domenech Transcripción literal"
+  ],
+  "literal": [
+    "1. y lo patro vos escrigi a VS 2. y li enviy un delyaxo del 3. sr. Duch de Archos y car 4. ta de don Juan de Bena 5. vides y de mi sra. la du 6. quesa de Cardona y del 7. sr. don Antonio y pochs die 8. s ha que mi sra. lii a ramate 9. un plech paera via del du 10. que de Archos en que ay 11. avia cartas del Sr. don 12. Antonio y del sr. don Pedro 13. de Aragon y mias jo pe 14. ns que ja las aura 15. rabudes; des que fo asi don 16. Frano Fortassa ha scrit ha 17. don Mateu que los tru 18. quechos del sr. don Pedro 19. de Aragon ja son fets 20. y axi lo tindran prest 21. y asi Jacinto Cardona 22. me espanto que no sia vi 23. [^Sr. don Po Sta. Silia^] [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "062:5129a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo11/062:5129a.JPG",
+      "url": "/legajos/legajo-11/images/062:5129a.JPG"
+    },
+    {
+      "filename": "063:5129b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo11/063:5129b.JPG",
+      "url": "/legajos/legajo-11/images/063:5129b.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "062:5129a.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-11/cartas/001269.json",
+  "primary_image_url": "/legajos/legajo-11/images/062:5129a.JPG"
+}

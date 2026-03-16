@@ -1,0 +1,43 @@
+{
+  "legajo_id": "29",
+  "id_carta": "6313",
+  "order_in_legajo": 11,
+  "signatura": "015:4129a.JPG",
+  "nombre_carta": "Carta de Bonaventura de Lanuza Montbuí y Vilarig a Pedro Santacilia y Pax",
+  "fecha_original": "28 de noviembre de 1627",
+  "lugar": "Girona",
+  "remitente": "Bonaventura de Lanuza Montbuí y Vilarig",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Ahir dissabte re [?] ça des de Barcelona [?] haver pogut negociar en Ma [?] tres memorials i per son negoci a [?] dues voltes el duc de Cardona, don [?] i també li ajudava el regent Fontanet [?] la porta esta tancada en raó de fer mercè [?] i ací vist això tots els amics li han aconsellat que se'n tornar pus no faria sinó gastar i servir-me que li han dit per cosa certa que el rei i la reina vindrien a Barcelona pel març a embarcar la infanta i aleshores se clourien les corts i que és faria una esquadra de galeres com s'és feta ara en Sardenya. El duc de Maqueda li ha fet molta mercè en tot i diu li ha encomanat certa diligència que ha de fer en Barcelona i assegurat que en tot el que el podrà ocupar en Catalunya ho farà i li ha dit serà ací per tot gener perquè el Don Pedro Santacilia i Pax [1§] [?] pens serà en Erbeca. La que [?] és del duc de Maqueda que la aporta don Juan amb altra per al comte de Perelada, a qui a v. m. amb estes noves perquè li ser ne fiar d'entreteniment. He [?] fos el portador Juan Sanoguera [?] conegut ganes d'arribar [?] a qui suplic me tinga en sa bona [?] i em mani moltes coses se són servei, de v. m. a qui guardi Déu molts anys. Girona i novembre als 28 de 1627. Don Bonaventura de la Nuça Monbuy i Vilar Transcripción literal"
+  ],
+  "literal": [
+    "1. Air disapte re ?? 2. ça dende Barcelona [?] 3. haver pogut negosiar en Ma [?] 4. tres memorials y per son negosi a [?] 5. dos boltas lo Duc de Cardona, don [?] 6. y tanbe li ajudava lo Regent Fontane [?] 7. la porta esta tancada en raho de fer mer [?] 8. y assi bist asso tots los amics li an aconsellat 9. que sen tornar pus no faria sino gastar: 10. eservirme que li andit per cosa serta que lo Rey 11. y la Reyna bindrian en Barcelona per lo Mars 12. a enbarcar la Infanta y las oras se clourian 13. las Corts y ques faria una esquadra de Galeras 14. com se es feta ara en Serdenya; Lo Duc 15. de Maqueda li ha fet molta merce en tot 16. y diu li aencomanat serta diligensia queade 17. fer en barcelona y asegurat de que en tot lo 18. quel podra ocupar en Cathallunya, o, fara 19. y li hadit fera assi per tot Janer per que lo 20. ?? on Pedro Sta.cilia y pax [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "015:4129a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo29/015:4129a.JPG",
+      "url": "/legajos/legajo-29/images/015:4129a.JPG"
+    },
+    {
+      "filename": "016:4129b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo29/016:4129b.JPG",
+      "url": "/legajos/legajo-29/images/016:4129b.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "015:4129a.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-29/cartas/006313.json",
+  "primary_image_url": "/legajos/legajo-29/images/015:4129a.JPG"
+}

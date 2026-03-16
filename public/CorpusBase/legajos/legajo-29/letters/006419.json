@@ -1,0 +1,38 @@
+{
+  "legajo_id": "29",
+  "id_carta": "6419",
+  "order_in_legajo": 101,
+  "signatura": "184:4236.JPG",
+  "nombre_carta": "Carta de Jerónimo de Carvajal Agurto a Pedro Santacilia y Pax",
+  "fecha_original": "12 de abril de 1651",
+  "lugar": "Madrid",
+  "remitente": "Jerónimo de Carvajal Agurto",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Cuando recibí la carta de v. m. supe a un mismo tiempo de su ida y llagada. Miré qué tales son las cosas de la corte, muy gran merced me ha hecho v. m. y mayor si me mandase en que le sirva, pues con seguridad será v. m. obedecido con todas veras, a quien guarde Dios muchos años, de Madrid 12 de abril 1651. Jeronimo de Carvajal Agurto Sr. D. Pedro de Santacilia Transcripción literal"
+  ],
+  "literal": [
+    "1. Quando reçevi la carta de Vm. supe aun 2. mesmo tiempo de su yda y llagada mire que tales 3. son las cosas de la corte, muy gran md mea hecho 4. Vm. y mayor si me mandasse en que le sirva 5. pues con seguridad sera Vm. obedesido con 6. todas veras a quien ge Dios muchos años de md. 7. 12 de Abril 16518. Grmo de de carvajal ?? 9. Sr. D. Pº de staÇelia [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "184:4236.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo29/184:4236.JPG",
+      "url": "/legajos/legajo-29/images/184:4236.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "184:4236.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-29/cartas/006419.json",
+  "primary_image_url": "/legajos/legajo-29/images/184:4236.JPG"
+}

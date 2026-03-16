@@ -1,0 +1,38 @@
+{
+  "legajo_id": "33",
+  "id_carta": "4953",
+  "order_in_legajo": 143,
+  "signatura": "218:6869.JPG",
+  "nombre_carta": "Carta de marqués de Valladares a Pedro Santacilia y Pax",
+  "fecha_original": "15 de mayo de 1639",
+  "lugar": "Cardona",
+  "remitente": "marqués de Valladares",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Estoy muy cierto del sentimiento que v. m. habrá tenido de la muerte del Sr. don Martín de Aragón quélgome mucho Pedro Lorente Tena acierte a servir a v. m. que yo lo hiciera con mucho gusto estando ay, a mi no me da ningún cuidado los Dragones están do v. m. hay y siendo tan mío procurara que ellos tengan gustosos a los patrones. Guarde Dios a v. m. como deseo de Madrid y mayo a 15 de 1639 El Marqu de Valladares [?] conde de Lorongo [?] Sr. don Pedro Sta.Sicilia [1§] Transcripción literal"
+  ],
+  "literal": [
+    "1. Estoy muy cierto del sentimiento q VM. abra2. tenido de la muerte del Sr. Don Martín de Arag[o]n3. quelgome mucho Pedro Lorente Tena açierte a servir4. a VM q yo lo hiziera con mucho gusto estando5. ay, a mí no me da ningun cuy[dad]o los Dragones estan6. do VM ay y siendo tan Sr. mio procurara q ellos7. tengan gustosos a los Patrones Gde Dios a VM8. como deseo de Ma[dri]d y Mayo a 15 de 16399. El Marqu de Valladares[?]10. Conde de Lorongo[?]11. Sr. Don Pedro Sta.Sicilia [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "218:6869.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo33/218:6869.JPG",
+      "url": "/legajos/legajo-33/images/218:6869.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "218:6869.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-33/cartas/004953.json",
+  "primary_image_url": "/legajos/legajo-33/images/218:6869.JPG"
+}

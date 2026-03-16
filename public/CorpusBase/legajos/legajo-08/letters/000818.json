@@ -1,0 +1,32 @@
+{
+  "legajo_id": "8",
+  "id_carta": "818",
+  "order_in_legajo": 7,
+  "signatura": "013-11 copia",
+  "nombre_carta": "Carta de Persona desconocida a Persona desconocida",
+  "fecha_original": "fecha sin especificar",
+  "lugar": "Maó",
+  "remitente": "Persona desconocida",
+  "destinatario": "Persona desconocida",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Excelentísimo señor, Bernardo Trufa, Lorenzo Gillo, Ambrosio Patrón y Antonio Buscalla, marineros de la faluca que se ha quedado en este puerto de Mahón, suplican a vuestra excelencia se sirva mandar darles un pasaporte para que libremente {CAT. pugan} pasar a buscar la vida sin que los hagan ningún impedimento; que lo recibirán a particular gracia y merced etc. {LAT. Altissimus} Transcripción literal"
+  ],
+  "literal": [
+    "1. Ex<>. Señor 2. Bernardo trufa, llorenso gillo, Ambro [^-] 3. sio Patron, y Antonio buscalla, marineros 4. de la faluca que sea quedado en esto puer [^-] 5. to de mahon sup< >. a V. Ex< [a]>. se sirva man [^-] 6. dar darles un pasaporte para que libe [^-] 7. ramente {cat.} pugan pasar abuscar la vida sin [^-] 8. que los hagan ningun ympedimento q 9. lo recibiran aparticular graçia y merced 10. etts. 11. Altissimus S [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "013-11 copia.jpg",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo08/013-11 copia.jpg",
+      "url": "/legajos/legajo-08/images/013-11 copia.jpg"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "013-11 copia.jpg",
+  "warnings": [],
+  "raw_source": "raw/legajos/legajo-08/cartas/000818.json",
+  "primary_image_url": "/legajos/legajo-08/images/013-11 copia.jpg"
+}

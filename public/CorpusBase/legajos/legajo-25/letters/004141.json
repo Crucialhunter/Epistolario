@@ -1,0 +1,38 @@
+{
+  "legajo_id": "25",
+  "id_carta": "4141",
+  "order_in_legajo": 74,
+  "signatura": "153_175.JPG",
+  "nombre_carta": "Carta de Miguel Malo a Jerónimo Pelegrín de Aragüés",
+  "fecha_original": "15 de junio de 1667",
+  "lugar": "Madrid",
+  "remitente": "Miguel Malo",
+  "destinatario": "Jerónimo Pelegrín de Aragüés",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Sr. mío v. m. diga al Sr. Mateo Maestre que envíe luego nombramiento para su hijo Joaquin Maestre y que ha de ser desde luego que así es la merced de la reina. Ya ve que no hay siempre sino estafeta y que bastará que lo haga en una carta simple, aunque no venga de notario. Murió el marques de Villasidar [?], yerno del vicecanciller, en 16 días que ha sido gran lastima. Ya se partió el Sr. D. Miguel Salva para su reino y v. m. va muy recomendado y también se va luego el fiscal D. Jeronimo Costas que es Sr. mío y v. m. le visite que hará por v. m. lo que pueda. El Sr. D. Juan de Bastila [?] ya está en Madrid de a ciento ya [?] a los consejeros de estado en Flandes nos hace [?] contra ejércitos poderosos ya [?] despedir donación para enviar dinero al marques de Castelrrodrigo. Dios nos ayude y guarde a v. m. y reciba recados de toda mi casa. Madrid a 15 de junio de 1667. Servidor de v. m. que sus manos besa Miguel Malo Sr. Jeronimo Pelegrin y Aragues Transcripción literal"
+  ],
+  "literal": [
+    "1. Sr. mio Vm diga al sr. Matheo Ma2. estre q ynbie luego nombrami[en]to pª su3. hijo Jomachin Maestre y q a de ser des[de]4. luego q asi es la m[erce]d de la Reyna ya5. be q no ay sienpre sino estafetta y q6. bastara q lo haga en una carta sinple aun7. q no benga de notario8. Murio el sr. marqs de Villasidar[?] yerno9. del sr Viçecanceller en 16 dias q a sido10. gran lastima11. Ya se partio el sr d. Migl Çalba pª su Reyº12. y V.m. ba muy recomendado y tanbien se ba13. luego el Sr. fiscal d. Gerº Costas q es sr. mio14. y Vm le bisie q ara por Vm lo q pueda15. El Sr. D. Juº de Bastila[?] ya esta en M[adri]d de16. aciento ya [?] a los conss[ejer]os de estado17. en Flandes nos haçe [?] con18. tra exercitos poderosos ya [?] espedir19. donation pª ynbiar dinero al sr. Marqs de CastelRodrigo Diso nos ayude20. y gde. a Vm. y Reciba recados de toda mi cassa M[adri]d a 15 de Junio de 166721. Ser[vid]or de Vm. q s.m.b.22. Miguel Malo23. Sr. Gerº Pelegrin y Aragues [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "153_175.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo25/153_175.JPG",
+      "url": "/legajos/legajo-25/images/153_175.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "153_175.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (4)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-25/cartas/004141.json",
+  "primary_image_url": "/legajos/legajo-25/images/153_175.JPG"
+}

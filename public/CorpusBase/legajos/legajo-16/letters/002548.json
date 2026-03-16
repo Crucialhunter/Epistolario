@@ -1,0 +1,43 @@
+{
+  "legajo_id": "16",
+  "id_carta": "2548",
+  "order_in_legajo": 34,
+  "signatura": "058:2048a.JPG",
+  "nombre_carta": "Carta de Diego Matías de Aragüés a Pedro Santacilia y Pax",
+  "fecha_original": "9 de marzo de 1667",
+  "lugar": "Madrid",
+  "remitente": "Diego Matías de Aragüés",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "El señor don Nicolas está mejorado y parece que para la semana que víene podrá salir de casa su majestad escribe la inclusa. He me detenido en hacer la diligencia para la disposición del oficio (cuyo memorial va impreso con esta) por ver si el señor don Nicolas podrá acompañarme para hablar a estos señores grandes y del consejo y porque primero se vea y se tome resolución en el memorial que tengo dado sobre la ayuda de costa y los demás cabos de la carta que v. s. me tiene escrita del cual no han tomado aún resolución. En lo del obispo aguardo que se cumpla el término del tiempo para poner la petición con la providencia y concluir para dar fin en esto que esta prevenido todo y la providencia que vino de ahí está traducida en lengua castellana, que como digo cumplido el tiempo no se aguardará a la del obispo. Un día si la trae, o, deja de traer, harto mal recibido está acá de sus procedimientos. Por acá todo está en silencío hasta ahora, aunque los enemigos muy alerta todo se va en juntas y consejos. El marques de Caracena esta aquí, y el señor don Juan de Austria también de rebozo más ha de veinte días y no se sabe cual de los dos volverá a Badajoz. [1§] Todos estos señores grandes amigos de v. s. están buenos y todavía el señor conde de Medellin no se tratan el señor duque de Cardona como digo un día de estos los veré y daré las cartas de v. s. con el memorial impreso, en primer lugar a la reina Nuestra Señora y luego al señor duque de Montalto etts. El señor don Miguel Salva creo tratará de su jornada porque según me han dicho cuando esté en el puesto le harán merced del título. De lo que hubiere en esto avisaré. V. s. me mande le sirva que sus manos besamos doña Margarita y yo las de mi señora doña Leonor y señor don Juan muchas veces y guarde Dios como deseo. Madrid a 9 de marzo 1667. Besa las manos de v. m. su mayor servidor, Diego Matias de Aragues Señor don Pedro Santacilia y Pax Transcripción literal"
+  ],
+  "literal": [
+    "1. El Señor don Nicolas esta mejorado y pareçeq 2. para la semana que Víene podra salir de Cassa 3. Sumd escrive la inclusa., Eme detenído en haçer la 4. diliga para la dispn del officio (cuyo memoríal va 5. ímpresso con esta) por bersí el señor Don Nícolas 6. podra acompañarme para ablar a estos señores grandes 7. y del Consso y porque prímero se bea ysetome Resolun 8. en el memoríal q tengo dado sobre la ayuda de 9. de costa y los demas cavos dela carta q VS. metíene 10. escríta del qual no an tomado aun Resoln.- 11. En lo del obispo aguardo que se cumpla el termíno del 12. tiempo para poner la petiçiíon con la provansa y con13. cluyr para dar fin enesto q esta prevenído todo yla 14. provansa que Víno deay esta traduçida En lengua 15. Castellana, que como dígo cumplido El tíempo nose 16. aguardara a la del obispo Undia sila trahe, o, dexa 17. de traher, arto mal reçívído esta aca desus proçed[i]mtos 18. Por aca todo esta en silençío hastaora aunque los ene19. migos muy alerta todo seva en Juntas y Consejos 20. el Marques de Caraçena esta aqui, y el sr Don Ju 21. de Austria tanvien de Revoço mas a de Veynte días 22. y nosesabequal de los dos bolvera a Badajoz. [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "058:2048a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo16/058:2048a.JPG",
+      "url": "/legajos/legajo-16/images/058:2048a.JPG"
+    },
+    {
+      "filename": "059:2048b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo16/059:2048b.JPG",
+      "url": "/legajos/legajo-16/images/059:2048b.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "058:2048a.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (3)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-16/cartas/002548.json",
+  "primary_image_url": "/legajos/legajo-16/images/058:2048a.JPG"
+}

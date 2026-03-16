@@ -1,0 +1,43 @@
+{
+  "legajo_id": "26",
+  "id_carta": "4426",
+  "order_in_legajo": 129,
+  "signatura": "241:3521a.JPG",
+  "nombre_carta": "Carta de Bartolomé Mercadal a Pedro Santacilia y Pax",
+  "fecha_original": "28 de julio de 1643",
+  "lugar": "Menorca",
+  "remitente": "Bartolomé Mercadal",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Mi senyor don Pedro No en manera alguna em causa admiració creure el sentiment que féu tota la gent de Ciutadella en la partida i {ESP. ausència} de v. s. pel molt que a mi em consta la seva voluntat i igualtat amb tots. Però senyor, no puc deixar de dir que les llàgrimes que v. s. derramà les tinc jo collides i posades dins el vas de la mia voluntat. Cert que tenint jo estes {ESP. prendes} no deixarà v. s. de tenir-me en memòria i en número de sos aficionats servidors suplicant-lo amb totes veres. No em tingui ocios amb coses de son servei que en tot me trobarà molt prompte etts. Ja haurà v. s. sabut la mort de mon oncle, que Déu tingui a la seva santa glòria, m'ha deixat tan desconsolat com v. s. pot pensar majorment ser estat mort tan poc reconeguda, però senyor tot són disposicions del Senyor [1§] i secrets de Déu Nre. Senyor i així sia sempre feta la seva voluntat. El que resta és suplicar al Senyor ens concedesca llarga vida per pregar pels difunts i juntament per {ESP. emplear}-me en servei de v. s., el qual la divina guardi com pot i jo li ho suplico d'esta sa casa i juliol els 28 de 1643. Bartomeu Mercadal Transcripción literal"
+  ],
+  "literal": [
+    "1. Mi Señor Don Pedro2. No en manera alguna em causa admira3. cio creura lo sentiment que feu tota la gent4. de Ciutadella en la pertida y hausencia5. de VS. per lo molt que a mi em consta6. la sua voluntad y igueldat co tots. Pero7. Señor, no puch dexar de dir que les llagrimes8. que VSª desrema les tinch jo cullides9. y posades dins lo vas de la mia volentad,10. sert de que tenint jo estas prendes no de11. xera VSª de tenirme en memoria12. y en numero de sos aficionats servidos13. suplicantlo ab totes veres nom tingue ocios14. ab coses de son servey que en tot me tro15. bera molt promte ett Ja haura VSª 16. sebut la mort de mon onclo que Deu tingue17. a la sua Sta Gloria ham dexat tant des18. consolat com VS pot pensar mayorment19. heser estat mort tant poch regonegude20. pero Senor tot son disposicions del Sel [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "241:3521a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo26/241:3521a.JPG",
+      "url": "/legajos/legajo-26/images/241:3521a.JPG"
+    },
+    {
+      "filename": "242:3521b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo26/242:3521b.JPG",
+      "url": "/legajos/legajo-26/images/242:3521b.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "241:3521a.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-26/cartas/004426.json",
+  "primary_image_url": "/legajos/legajo-26/images/241:3521a.JPG"
+}

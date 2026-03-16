@@ -1,0 +1,38 @@
+{
+  "legajo_id": "32",
+  "id_carta": "7158",
+  "order_in_legajo": 158,
+  "signatura": "209:1916.JPG",
+  "nombre_carta": "Carta de Magín Ribes a Pedro Santacilia y Pax",
+  "fecha_original": "6 de diciembre de 1665",
+  "lugar": "Ibiza",
+  "remitente": "Magín Ribes",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Ja tengo escrito a v. s. más larga mente en orden a los negocios del real Patrimoni por razón de la hermana de Francia que ha estado en esta isla algunos días no he podido inciar a v. s. ningún malon que el [?] harmada que se han llevado todas las frutas y aci mismo carneros gallinas y pollos que certifico a v. s. que por los enfermos no se hallaba un sustenimento por manos del patrón esteva Gia recibirá v. s. un cantero de mil de Romero para mi señora doña helianor no mire v. s. el Sr. don sino la buena voluntad que le certifico es mucha y le guarde Dios largos y felices años Ibiza y 10 bra a los 6 de 1665 de v. s. que s. m. b. Magin Ribes Transcripción literal"
+  ],
+  "literal": [
+    "1. Ja tengo escrito a VS. mas larga mente en orden 2. a los negoçios del Rl. Patrimonio = Por rason 3. de la hermana de françia que a estado en esta 4. isla algunos dias no he podido inciar a V. S. 5. ningun malon que el [?] harmada que se 6. an llevado todas las frutas y açi mesmo carne7. ros gallinas y pollos que sertifico a VS. que por 8. los enfermos no se allava un sustenimento 9. por manos del Patron esteva Gia resibira 10. VS. un cantero de mil de Romero para 11. mi Señora Doña helianor no mire VS. el 12. Don sino la buena voluntad que le ser13. tifico es mucha y le gde Dios largos y 14. feliçes Años Ivisa y 10bra a los 6 de 1665 15. de VS q s. m. b. 16. Magin Ribes [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "209:1916.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo32/209:1916.JPG",
+      "url": "/legajos/legajo-32/images/209:1916.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "209:1916.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-32/cartas/007158.json",
+  "primary_image_url": "/legajos/legajo-32/images/209:1916.JPG"
+}

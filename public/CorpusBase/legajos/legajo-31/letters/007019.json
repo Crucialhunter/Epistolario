@@ -1,0 +1,43 @@
+{
+  "legajo_id": "31",
+  "id_carta": "7019",
+  "order_in_legajo": 258,
+  "signatura": "387:1770a.JPG",
+  "nombre_carta": "Carta de Jerónimo Pelegrín de Aragüés a Pedro Santacilia y Pax",
+  "fecha_original": "17 de diciembre de 1664",
+  "lugar": "Madrid",
+  "remitente": "Jerónimo Pelegrín de Aragüés",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Transcripción literal"
+  ],
+  "literal": [
+    "1. 1."
+  ],
+  "imagenes": [
+    {
+      "filename": "387:1770a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo31/387:1770a.JPG",
+      "url": "/legajos/legajo-31/images/387:1770a.JPG"
+    },
+    {
+      "filename": "388:1770b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo31/388:1770b.JPG",
+      "url": "/legajos/legajo-31/images/388:1770b.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "387:1770a.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (4)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-31/cartas/007019.json",
+  "primary_image_url": "/legajos/legajo-31/images/387:1770a.JPG"
+}

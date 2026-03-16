@@ -1,0 +1,41 @@
+{
+  "legajo_id": "40",
+  "id_carta": "7964",
+  "order_in_legajo": 5,
+  "signatura": "344:117a",
+  "nombre_carta": "Carta de Persona desconocida a Persona desconocida",
+  "fecha_original": "fecha sin especificar",
+  "lugar": "lugar sin especificar",
+  "remitente": "Persona desconocida",
+  "destinatario": "Persona desconocida",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Transcripción literal"
+  ],
+  "literal": [],
+  "imagenes": [
+    {
+      "filename": "344:117a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo40/344:117a.JPG",
+      "url": "/legajos/legajo-40/images/344:117a.JPG"
+    },
+    {
+      "filename": "345:117b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo40/345:117b.JPG",
+      "url": "/legajos/legajo-40/images/345:117b.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "344:117a.JPG",
+  "warnings": [
+    {
+      "code": "MISSING_LITERAL",
+      "message": "Transcripción literal vacía",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-40/cartas/007964.json",
+  "primary_image_url": "/legajos/legajo-40/images/344:117a.JPG"
+}

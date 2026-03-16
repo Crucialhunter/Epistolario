@@ -1,0 +1,48 @@
+{
+  "legajo_id": "6",
+  "id_carta": "583",
+  "order_in_legajo": 87,
+  "signatura": "096-54a",
+  "nombre_carta": "Carta de Ignasi Vila a Cecilia Zaforteza y Sureda de Sant Martí",
+  "fecha_original": "17 de agosto de 1756",
+  "lugar": "Barcelona",
+  "remitente": "Ignasi Vila",
+  "destinatario": "Cecilia Zaforteza y Sureda de Sant Martí",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Molt il·lustre senyora dona Cecília, Amb dos me trobo de v. s. la primera pel Pinque [?] i l’última de 11 del corrent pel correu amb les que m’alegro de sa salut mentre que, a Déu gràcies, queda la que m’assisteix junt la parenta i fills pel que sia de son {ESP. agrado} manar-nos. Pere Ferrer m’ha entregades les dues flasqueres i les dues alfàbies, com v. s. expressà, les que cuidaré a remetre a D. Gabriel a la primera ocasió, i dit Pere Ferrer entregarà a v. s. l’anell de diamants m’havia remès i els dotze pams de puntes o randa, com i també les vint pedres, ço és, vint de blanques [1§] i vint de Vic, quals van incloses dins la present, i v. s. pot triar les que siguin més a son gust i retornar les que no agraden. Son importa va anotat al marge de la present. No s’admira si sobren doncs la brevetat de la partença del correu no me permet dilatar-me i serà per altra ocasió, mentre quedo per servir-la i me mani en el de son {ESP. agrado}. D’esta sa casa Barcelona i agost als 17 de 1756. Besa la mà de v. s. son més humil servidor, Ignasi Vila Molt senyora, dona Cecilia Zaforteza [En la otra página][1§] per 12 puntes de randa a 28 el palm, 164 lliures 20 pedres blan que és a 18 cadascuna, 16 lliures 20 pedres violades a 18 cadascuna. Transcripción literal"
+  ],
+  "literal": [
+    "1. Molt Ilta. Sra. Da. Cicilia ab 2. dos me trobo de V.Sria. la primera per 3. lo Pinque [?] y la Ultima de 11 del corren[t] 4. per lo Correu ab las que me alegro de 5. sa salut mentres que á Deu gracias 6. queda la que me assisteix junt la Pa- 7. renta y fills per lo que sia de Son 8. agrado manarnos. 9. Pera farrer ma entregades las dos 10. flasqueras, y las dos aufabias Com 11. V.Sria. expresa las que cuidare á 12. remetre á Dn. Gabriel a la Primera 13. ocasio, y dit Pera farre entregara 14. á V.Sria. lo anell de diamans me 15. avia remes, y los dotse palms de 16. puntas, o, randa. Com y tambe las 17. vint pedras so es vint de blancas [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "096-54a.jpg",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo06/096-54a.jpg",
+      "url": "/legajos/legajo-06/images/096-54a.jpg"
+    },
+    {
+      "filename": "097-54b.jpg",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo06/097-54b.jpg",
+      "url": "/legajos/legajo-06/images/097-54b.jpg"
+    },
+    {
+      "filename": "097-54bb.jpg",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo06/097-54bb.jpg",
+      "url": "/legajos/legajo-06/images/097-54bb.jpg"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "096-54a.jpg",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-06/cartas/000583.json",
+  "primary_image_url": "/legajos/legajo-06/images/096-54a.jpg"
+}

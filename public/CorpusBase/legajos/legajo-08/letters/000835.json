@@ -1,0 +1,43 @@
+{
+  "legajo_id": "8",
+  "id_carta": "835",
+  "order_in_legajo": 23,
+  "signatura": "035-28a copia",
+  "nombre_carta": "Carta de Juan Marqués a Persona desconocida",
+  "fecha_original": "fecha sin especificar",
+  "lugar": "Sicilia",
+  "remitente": "Juan Marqués",
+  "destinatario": "Persona desconocida",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Vuestra Ilustrísima. Juan Marques dice a v. s. que es un criado de v. m. que ha servido en un bregantín en servicio de v. s. y yendo con el marques de Camarasa en compañía de v. s. en Colliure gobernando el timón y por seña de v. s. me dijo de palabra que si hallaba gente de armar bergantines y regatas en Barcelona y yo le dije que si había dinero los había de hallar. Yo soy esa persona y ahora me hallo esclavo en las galeras de Sicilia por haberme tomado en Tarragona sin culpa, sólo porque fui a ver a mi hermana y dijeron me iba por no se qué cosa. Por eso suplico a v. s., pues sabe que estaba en su servicio que me ampare con esta ocasión en que salga de este trabajo que lo recibiré de la mano de v. s. [1§] A vuestra ilustrísima, Juan Marques Transcripción literal"
+  ],
+  "literal": [
+    "1. V<[a]> Y<> 2. Juan marques dice a Vª que es un criado de 3. Vrª: que ha servido en un bregantin en servi- 4. cio de Vª y hiendo con el marques de camara 5. en comp< [a]> de Vª en colibre governando el timon 6. y porsenna de Vª me dijo de palabra que di halla- 7. va Jente de almar bregantines y regatas en bar- 8. calona y jo le dije que si avia dinero los avia 9. de allar jo soy essa persona y aora me allo es- 10. clavo en las galeras de cicilia por aver me to- 11. mado en tarragona sin culpa solo por que fue 12. Aver ami hermana y dijeron me hiva por no se 13. que cosa poresso sup[li]< > a Vª pues sabe que [estava] en 14. su servicio que me en pare con esta ocasion en que salga 15. deste trabajo que lo recibire dela mano de Vª. [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "035-28a copia.jpg",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo08/035-28a copia.jpg",
+      "url": "/legajos/legajo-08/images/035-28a copia.jpg"
+    },
+    {
+      "filename": "035-28b copia.jpg",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo08/035-28b copia.jpg",
+      "url": "/legajos/legajo-08/images/035-28b copia.jpg"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "035-28a copia.jpg",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-08/cartas/000835.json",
+  "primary_image_url": "/legajos/legajo-08/images/035-28a copia.jpg"
+}

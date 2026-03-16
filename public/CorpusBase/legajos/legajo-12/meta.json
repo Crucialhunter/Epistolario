@@ -1,0 +1,78 @@
+{
+  "legajo_id": "12",
+  "num_cartas": 224,
+  "num_imagenes": 364,
+  "rango_temporal": [
+    1627,
+    1668
+  ],
+  "remitentes_frecuentes": [
+    {
+      "name": "Persona desconocida",
+      "count": 32
+    },
+    {
+      "name": "Bartomeu Domènech",
+      "count": 8
+    },
+    {
+      "name": "duque de Medinaceli",
+      "count": 6
+    },
+    {
+      "name": "Pedro Juan de la Guardia",
+      "count": 6
+    },
+    {
+      "name": "Marquès de Vilafranca",
+      "count": 5
+    }
+  ],
+  "destinatarios_frecuentes": [
+    {
+      "name": "Pedro Santacilia y Pax",
+      "count": 218
+    },
+    {
+      "name": "Persona desconocida",
+      "count": 2
+    },
+    {
+      "name": "Bernardo Luis Cotoner",
+      "count": 1
+    },
+    {
+      "name": "Joan Baptista Carbonell",
+      "count": 1
+    },
+    {
+      "name": "Leonor Santacilia i Despuig",
+      "count": 1
+    }
+  ],
+  "lugares_frecuentes": [
+    {
+      "name": "Madrid",
+      "count": 42
+    },
+    {
+      "name": "Mallorca",
+      "count": 28
+    },
+    {
+      "name": "Lugar sin especificar",
+      "count": 16
+    },
+    {
+      "name": "Valencia",
+      "count": 15
+    },
+    {
+      "name": "Barcelona",
+      "count": 13
+    }
+  ],
+  "temas_frecuentes": [],
+  "warnings_count": 81,
+  "densidad_narrativa_estimada": "Media"
+}

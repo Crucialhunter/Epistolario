@@ -1,0 +1,38 @@
+{
+  "legajo_id": "6",
+  "id_carta": "551",
+  "order_in_legajo": 50,
+  "signatura": "036_21a",
+  "nombre_carta": "Carta de Tomás Mariano Quint Zaforteza a Cecilia Zaforteza y Sureda de Sant Martí",
+  "fecha_original": "26 de noviembre de 1745",
+  "lugar": "Santa Eulalia",
+  "remitente": "Tomás Mariano Quint Zaforteza",
+  "destinatario": "Cecilia Zaforteza y Sureda de Sant Martí",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Cecília, He rebuda la tua carta i tots estimam molt don Francesc i tu estigueu amb salut. Nosaltres, gràcies a Déu, no tenim novetat. Jo vingué ací dimarts mig mort, pas així com puc amb l’asistència de Déu, que d’altra manera no seria possible. Diu ta mare que d'allò de la mantellina faràs el que voldràs de posar-la a la bugada o no. Dona Caterina està bona, gràcies a Déu, i les al·lotes com a cavalls de {ESP. regalo}. No sé ninguna novetat. En Tomàs és a caçar amb cans aplegadissos, perquè no en tenim i crec en esser a la garriga tots fugiran, perquè no coneixen en Joan i són de sis llocs diferents. De part de tots rebràs tu i don Francesc molts records i Déu te guardi molts anys. Santa Eulàlia i novembre 26 de 1745. Tomas Quint Zaforteza, ton pare Transcripción literal"
+  ],
+  "literal": [
+    "1. Cicilia é rebude le tua Carta 2. y tots estimam molt Dn. Fr< ances>ch y 3. tu estegau en Salut nosaltres 4. G< ràci>as a Deu no tanim novedad 5. Jo vingue asi dimars mitg mort 6. pas axi com puch en le asistensia 7. de Deu que de altre manere no 8. Seria posible. diu te mara q< u>e 9. de lo de le mantallina faras lo q< u>e 10. volrras de posarle a le bugade 11. o no. Dna. Catarine esta bone G< raci>as 12. a Deu y les allotes Com a Cavalls 13. de regalo, no se ningune nove 14. dad. en Thomas es a casar en 15. Cans aplegadisos perque non 16. tanim y crech an eser ale Garriga 17. tots fugiran perque no conexen 18. en juan y son de sis llochs difarents 19. de part de tots rebras tu y Dn. Fr< ances>ch 20. molts Re< cor>dos y Deu te g< uar>de m< olt>a a< ny>s. 21. [ En la izquierda del documento, de arriba a abajo]22. S< an>ta Eulalia y 9< novem>bre 26 de 174523. S< enyo>r Thomas Quint Cafortesa Ton Para [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "036_21a.jpg",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo06/036_21a.jpg",
+      "url": "/legajos/legajo-06/images/036_21a.jpg"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "036_21a.jpg",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (2)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-06/cartas/000551.json",
+  "primary_image_url": "/legajos/legajo-06/images/036_21a.jpg"
+}

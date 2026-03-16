@@ -1,0 +1,38 @@
+{
+  "legajo_id": "17",
+  "id_carta": "2943",
+  "order_in_legajo": 209,
+  "signatura": "360:1485.JPG",
+  "nombre_carta": "Carta de Jerónimo Pelegrín de Aragüés a Leonor Santacilia i Despuig",
+  "fecha_original": "11 de agosto de 1660",
+  "lugar": "Madrid",
+  "remitente": "Jerónimo Pelegrín de Aragüés",
+  "destinatario": "Leonor Santacilia i Despuig",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Sempre he tingut confiança que v. m. havia de ser la mare i {ESP. amparo} de ma muller i que com tan cristiana senyora i amiga de Pobres no podia faltar l'assistir-li que rest jo amb noves obligacions de criat, per poderla servir. Déu li don molts anys de vida en companyia de mi perquè jo els pugui servir a tots. Son fill de v. m. a 5 dies surt de casa ja de convalecència amb què prest estira bo del tot i jo me partire que tenint el malt no m'aparegu t el deixar-lo Tots estam en casa de mon oncle a on el tracten com si fos el mateix Rey. Guardi Déu a v. m. molts anys com desig i tinc de menes ter. Madrid 11 d'agost de 1660. Criat de v. m. Que la ma besa Jeroni Pelegri Mi senyora [1§] Transcripción literal"
+  ],
+  "literal": [
+    "1. Sempre he tingut confianza que VM. havia 2. de ser la mare y amparo de ma muller y que 3. com tan christiana Señora y amiga de Pobres4. no podia faltar el asistirli de que rest jo ab 5. novas obligacions de criat, per poderla servir. 6. Deu li don mols anys de vida en comppa de mi Sr. 7. per a que jo els puga servir a tots.8. Son fill de VM. a 5 dias surt de cassa ja de 9. convalecençia ab que prest estira bo del tot 10. y jo me partire que tenint lo malt no me aparegu=11. t el dexarlo=Tots estam en cassa de mon onclo 12. a ont lo tractan com si fos lo matex Rey. Guarde 13. Deu a VM molts anys com desig y tinch de menes=14. ter. Madrid 11 de Agost de 1660.15. Criat de VM16. Que la ma besa17. Geronim Pelegri18. Mi Señora [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "360:1485.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo17/360:1485.JPG",
+      "url": "/legajos/legajo-17/images/360:1485.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "360:1485.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (4)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-17/cartas/002943.json",
+  "primary_image_url": "/legajos/legajo-17/images/360:1485.JPG"
+}

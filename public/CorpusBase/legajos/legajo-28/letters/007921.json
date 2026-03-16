@@ -1,0 +1,38 @@
+{
+  "legajo_id": "28",
+  "id_carta": "7921",
+  "order_in_legajo": 168,
+  "signatura": "292:3799.JPG",
+  "nombre_carta": "Carta de Jerónimo Pelegrín de Aragüés a Pedro Santacilia y Pax",
+  "fecha_original": "7 de febrero de 1665",
+  "lugar": "Madrid",
+  "remitente": "Jerónimo Pelegrín de Aragüés",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "A cuatro de este tengo dado aviso a v. m. cómo llegaron las pruebas del hábito del Sr. don Nicolás a 3, y el mismo día salieron del Consejo. Ahora tratamos de que se ponga el hábito, aunque todavía está en su arresto. Hase dado memorial a su majestad para que le haga merced de no pagar montado, relevación de galeras, monjías [?] y derechos de profesión. Aún no ha salido la cédula porque se ha dado hoy el memorial. Por ahora no hay otra novedad más que el rey ha muchos días no come en público ni sale a la capilla. Muchos discursos. Dios nos dé lo que sabe que conviene y guarde a v. m. muchos años como deseo y he menester. Madrid, 7 de febrero 1665. Su criado de v. m., Jeronimo Pelegrin. Mi Señor. [Ha sido recortada la esquina inferior derecha] Transcripción literal"
+  ],
+  "literal": [
+    "1. A quatro deste tengo dado haviso a vm como llegaron2. las pruebas del habito del sr. Don Nicolas a .3. y el mismo3. dia salieron del Consejo = agora tratamos de que se ponga el4. havito. aun que todavia esta en su arresto = ase dado memorial5. a su Magd. para que le aga merced de no pagar Montado.6. Relevacion de Galeras. Monyas y drechos de profession, a7. un no a salido, la çedula, porque se ha dado oy, el memorial8. por agora no hay otra novedad mas que el Rey ha muchos9. dias no come en publico ni sale a la capilla = Muchos10. discursos. Dios nos de lo que save que conviene y Guarde.11. a vm. muchos años como deseo y he menester. Madrid.12. 7 de febrº. 1665.13. Su Criado de vm14. Geronymo Pelegrin15. Mi Señor.16. [Ha sido recortada la esquina inferior derecha] [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "292:3799.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo28/292:3799.JPG",
+      "url": "/legajos/legajo-28/images/292:3799.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "292:3799.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (4)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-28/cartas/007921.json",
+  "primary_image_url": "/legajos/legajo-28/images/292:3799.JPG"
+}

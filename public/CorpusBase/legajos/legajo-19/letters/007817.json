@@ -1,0 +1,43 @@
+{
+  "legajo_id": "19",
+  "id_carta": "7817",
+  "order_in_legajo": 302,
+  "signatura": "559_8016a.JPG",
+  "nombre_carta": "Carta de Isabel de Salvá a Pedro Santacilia y Pax",
+  "fecha_original": "1 de junio de 1661",
+  "lugar": "Buen Retiro (Madrid)",
+  "remitente": "Isabel de Salvá",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Sor mío muchos día ha que tengo cartas de v. m. esa [?] con la buena salud que yo deseo amen, y a todos de su casa de v. m. nuestro caballero paje está muy bueno y crecido que es con tanto [?] muy imitador de su padre, en hacerme merced. Transcripción literal"
+  ],
+  "literal": [
+    "1. Sor mio muchos dia ha que tengo cartas de VM essa 2. ?? con la buena salut que io deseio amen, y a todos de su casa 3. de VM. nuestro caballero paje esta mui bueno y cresido ques con tanto [?] 4. ?? mui imitador de su padre, en asserme merced... [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "559_8016a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo19/559_8016a.JPG",
+      "url": "/legajos/legajo-19/images/559_8016a.JPG"
+    },
+    {
+      "filename": "560_8016b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo19/560_8016b.JPG",
+      "url": "/legajos/legajo-19/images/560_8016b.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "559_8016a.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-19/cartas/007817.json",
+  "primary_image_url": "/legajos/legajo-19/images/559_8016a.JPG"
+}

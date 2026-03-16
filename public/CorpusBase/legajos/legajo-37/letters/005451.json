@@ -1,0 +1,78 @@
+{
+  "legajo_id": "37",
+  "id_carta": "5451",
+  "order_in_legajo": 35,
+  "signatura": "079:35a.JPG",
+  "nombre_carta": "Carta de Gabriel Josep Cortès a Arnau Santacilia i Santacilia",
+  "fecha_original": "31 de julio de 1672",
+  "lugar": "Bunyola",
+  "remitente": "Gabriel Josep Cortès",
+  "destinatario": "Arnau Santacilia i Santacilia",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Compte de Gabriel Josep Cortes que resta a deure al Sr. don Nicolau Santacilia Transcripción literal"
+  ],
+  "literal": [
+    "1. Compte de Gabriel Jusep Cortes que resta a deure al Sr. Don Nicolau Sta. Cilia1. Compta del blat entra en cassa lo corrent añy 16751."
+  ],
+  "imagenes": [
+    {
+      "filename": "079:35a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo37/079:35a.JPG",
+      "url": "/legajos/legajo-37/images/079:35a.JPG"
+    },
+    {
+      "filename": "080:35b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo37/080:35b.JPG",
+      "url": "/legajos/legajo-37/images/080:35b.JPG"
+    },
+    {
+      "filename": "081:35c.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo37/081:35c.JPG",
+      "url": "/legajos/legajo-37/images/081:35c.JPG"
+    },
+    {
+      "filename": "082:35d.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo37/082:35d.JPG",
+      "url": "/legajos/legajo-37/images/082:35d.JPG"
+    },
+    {
+      "filename": "083:35e.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo37/083:35e.JPG",
+      "url": "/legajos/legajo-37/images/083:35e.JPG"
+    },
+    {
+      "filename": "084:35f.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo37/084:35f.JPG",
+      "url": "/legajos/legajo-37/images/084:35f.JPG"
+    },
+    {
+      "filename": "085:35g.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo37/085:35g.JPG",
+      "url": "/legajos/legajo-37/images/085:35g.JPG"
+    },
+    {
+      "filename": "086:35h.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo37/086:35h.JPG",
+      "url": "/legajos/legajo-37/images/086:35h.JPG"
+    },
+    {
+      "filename": "087:35i.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo37/087:35i.JPG",
+      "url": "/legajos/legajo-37/images/087:35i.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "079:35a.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-37/cartas/005451.json",
+  "primary_image_url": "/legajos/legajo-37/images/079:35a.JPG"
+}

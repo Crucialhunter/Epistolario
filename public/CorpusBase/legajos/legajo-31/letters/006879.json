@@ -1,0 +1,37 @@
+{
+  "legajo_id": "31",
+  "id_carta": "6879",
+  "order_in_legajo": 121,
+  "signatura": "171:1630a.JPG",
+  "nombre_carta": "Carta de Juan Seguals a Pedro Santacilia y Pax",
+  "fecha_original": "26 de octubre de 1661",
+  "lugar": "Madrid",
+  "remitente": "Juan Seguals",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Transcripción literal"
+  ],
+  "literal": [
+    "1. 1."
+  ],
+  "imagenes": [
+    {
+      "filename": "171:1630a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo31/171:1630a.JPG",
+      "url": "/legajos/legajo-31/images/171:1630a.JPG"
+    },
+    {
+      "filename": "172:1630b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo31/172:1630b.JPG",
+      "url": "/legajos/legajo-31/images/172:1630b.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "171:1630a.JPG",
+  "warnings": [],
+  "raw_source": "raw/legajos/legajo-31/cartas/006879.json",
+  "primary_image_url": "/legajos/legajo-31/images/171:1630a.JPG"
+}

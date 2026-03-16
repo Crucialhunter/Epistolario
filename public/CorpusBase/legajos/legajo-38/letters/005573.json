@@ -1,0 +1,38 @@
+{
+  "legajo_id": "38",
+  "id_carta": "5573",
+  "order_in_legajo": 60,
+  "signatura": "160:97",
+  "nombre_carta": "Carta de Sebastià Mesquida a Persona desconocida",
+  "fecha_original": "de 1663",
+  "lugar": "Manacor",
+  "remitente": "Sebastià Mesquida",
+  "destinatario": "Persona desconocida",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Il·lustríssim Avui que comptam als 14 del corrent mes i any m'és vingut Miquel garau fent me instncia que anant sa muller a la seva vinya un minyó de deu o onse anys fill de Mateu Martí biscai la féu tornar arrera pegant bastonadas a una somere colvolcave dita dona li tinc el dit Miquel garau arestat fins ordre de sa Il·lustríssime la persona del qual guardi Déu molts anys dat en Manacor als sobre dit dia de 1663 Sabª Masquide Balle Reial [1§] Transcripción literal"
+  ],
+  "literal": [
+    "1. Illm Sr.2. Vuy que contam als 14 del corrent mes y añy me as-3. vingut miquel garau fent me inst[nci]a que anant se4. muller a la sua vinya un minyo de deu o onse añys5. fill de Matheu marti biscai le feu tornar arrera6. pegant bastonadas a une somere colvolcave dita dona7. ly tinch lo dit miquel garau arestat fins orde de su8. Illme la parsone del qual guarde deu molts anys dat9. en Manacor als sobre dit dia de 166310. Sabª Masquide Balle Reial [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "160:97.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo38/160:97.JPG",
+      "url": "/legajos/legajo-38/images/160:97.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "160:97.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (2)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-38/cartas/005573.json",
+  "primary_image_url": "/legajos/legajo-38/images/160:97.JPG"
+}

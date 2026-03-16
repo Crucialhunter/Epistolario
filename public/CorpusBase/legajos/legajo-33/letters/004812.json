@@ -1,0 +1,38 @@
+{
+  "legajo_id": "33",
+  "id_carta": "4812",
+  "order_in_legajo": 7,
+  "signatura": "006:6728.JPG",
+  "nombre_carta": "Carta de Diego de Rocabertí a Pedro Santacilia y Pax",
+  "fecha_original": "29 de abril de 1627",
+  "lugar": "Barcelona",
+  "remitente": "Diego de Rocabertí",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Amb lo bergantí que arribà ahir vingueren per a vós les cartes que amb esta vos envio. És vingut en ell el que vol ser comendador de Sant Joan. Han-me dit que es deia Pere Nofre Rossinyol. Lleonart Forteza lo recomana amb cartes a don Godofré, però entenc que dit don Godofré esta poc per a aqueixos negocis, que tinc relació li casen la moça amb un perpinyaní. Per ací no tenim noves. Ara tot és justar què ha de ser la festa de diumenge en vuit dies. Jo pens en ser passada dita jornada anar a Vallmoll a estar-me quatre o cinc dies amb lo comte. No sé si mai vos he escrit que des de Pascua ençà se passeja Pardina per Barcelona. Lo marquès de Tàvara, virrei de Sicília, és mort. Va allà ara el duc d'Alburquerque. De Maqueda no se'n parla. Nostre Sr. vos guart com pot i jo li suplic. De Barcelona i abril a 29 de 1627. Don Diego de Rocaberti D. Pedro [1§] Transcripción literal"
+  ],
+  "literal": [
+    "1. Ab lo bergantí que arriba ayr vingueren2. per a vos las cartas que ab esta vos envio es3. vingut en ell hel que vol ser comanador de St. Juan4. an me dit ques deya Pera Nofra Rosiñol, leonart for5. tesa lo recomana ab cartas a don Godofre, pero en-6. tench que dit don Godofre esta poch per a aquexos ne7. gocis que tinch relacion treuan[?] La moça ab un per-8. piñañi, per asi no tenim novas ara tot es justar9. que a de ser la festa de diumenge en vuyt dias10. jo pens en ser pasada dita jornada anar a Vall11. moll a estarme quatre o 5 dias ab lo Comte12. no se si may vos e escrit que dende Pascua ensà se13. paseja pardina per Barcelona; lo Marques de14. Javara Virrey de Sicilia es mort, va alla ara15. lo duc de Alburquerque, de Maqueda no sen16. parla nostre Sor vos guart com pot y jol suplich17. de Bar[celo]na y Abril a 23 de 162718. Don Diego de19. Rocabertí20. Sr. Pedro [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "006:6728.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo33/006:6728.JPG",
+      "url": "/legajos/legajo-33/images/006:6728.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "006:6728.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-33/cartas/004812.json",
+  "primary_image_url": "/legajos/legajo-33/images/006:6728.JPG"
+}

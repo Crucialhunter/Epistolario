@@ -1,0 +1,36 @@
+{
+  "legajo_id": "8",
+  "id_carta": "841",
+  "order_in_legajo": 27,
+  "signatura": "042-34 copia",
+  "nombre_carta": "Carta de Persona desconocida a Persona desconocida",
+  "fecha_original": "fecha sin especificar",
+  "lugar": "lugar sin especificar",
+  "remitente": "Persona desconocida",
+  "destinatario": "Persona desconocida",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Pedro Caules de Haro capitán de la artillería dice que por la falta que hay en esta villa de artilleros y hoy no haber más de un artillero y un ayudante de que necesita que ya más habiendo dicho capitán comunicado lo referido con los jurados de la villa de Mahón que v. s. fuese servido con sentir y tener por bien que se así ente en una plaza de artillero donde había en persona de Juan Astrade hoy tiene cédula de artillero la primera vacante del Castillo de San Felipe y por ayudante a Pedro Nieto todos sin sueldo en la forma gozan los demás que se hará un grande servicio de su majestad [1§] Transcripción literal"
+  ],
+  "literal": [],
+  "imagenes": [
+    {
+      "filename": "042-34 copia.jpg",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo08/042-34 copia.jpg",
+      "url": "/legajos/legajo-08/images/042-34 copia.jpg"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "042-34 copia.jpg",
+  "warnings": [
+    {
+      "code": "MISSING_LITERAL",
+      "message": "Transcripción literal vacía",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-08/cartas/000841.json",
+  "primary_image_url": "/legajos/legajo-08/images/042-34 copia.jpg"
+}

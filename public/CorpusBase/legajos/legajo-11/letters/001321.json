@@ -1,0 +1,38 @@
+{
+  "legajo_id": "11",
+  "id_carta": "1321",
+  "order_in_legajo": 90,
+  "signatura": "158:5181.JPG",
+  "nombre_carta": "Carta de Llorenç Carreras a Pedro Santacilia y Pax",
+  "fecha_original": "31 de julio de 1643",
+  "lugar": "Mallorca",
+  "remitente": "Llorenç Carreras",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Amb carta de 15 estant rebí ahir bessore del dr. Vives el pleguet que va amb esta que per falta de barca al molt envio per Alcúdia desitjós que arribi prompte en mans de v. s. com sempre de la promptitud de son servei no se m'avise cosa nova de Madrid . De València sols que sa Magestat passava de Tarragona a Saragossa per compondre algunes diferències entre aquell regne i don Philipe de Silva, general de nostre exèrcit i que l'enemic s'havia apoderat d'Estadilla i s'encaminava per al comtat de Ribagorça (no sé quins llocs són), aporta nou mil infants i tres mil cavalls. De Saragossa diuen tindrà arquebisbe don Antonio de Aragon, quan en tingui complida certitud en donare el {ESP. per a bé} a v. s., entre tant li suplico me mani moltes coses de son gust i Nostre Senyor guardi sa persona com desitja de Mallorca a 31 juliol de 1643. Les dues galeres de Sardenya passaran a Dénia en 18 hores. L' ardiaca Carreras Sr. Governador de Menorca [1§] Transcripción literal"
+  ],
+  "literal": [
+    "1. Ab carte de 15 stant rebi air bessore 2. del dor. Vives lo pleguet que ba ab esta que 3. por falte de barca al molt envio per Alcudia 4. desistjos que arribe prompte en mans de VSª 5. com senfore de le promptitut de son servei 6. no sem avise cosse nove de Madrid, de 7. de Valencia sols que se Magestad pasave de Tara 8. sona a Çaragosa per compondre algunes 9. diferenties entre aquel Regna y don Philipe 10. de Silva General de nostre exercit y que lo ene 11. mic se havia apoderat de Estadilla y se enca 12. minave para el Condad de Ribagorça (no he 13. que llocs son) aport nou mil infants y tres mil 14. cavalls. De Çaragosa diuen tindre Arcabis 15. be don Antonio de Aragon quant ne tingue 16. complide sertitud ne donare lo parabe a VSª37 17. entre tant li supplico me mane moltes coses 18. de son gust y nostre señor guarde se per 19. sone com desitge de Mallorca a 31 juliol 20. de 1643. Les dos galeres de Sardeñá pasaran 21. a Denia en 18 horas. El Ardiaca Carreras 22. [^Sr. Governador de Menorca^] [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "158:5181.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo11/158:5181.JPG",
+      "url": "/legajos/legajo-11/images/158:5181.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "158:5181.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-11/cartas/001321.json",
+  "primary_image_url": "/legajos/legajo-11/images/158:5181.JPG"
+}

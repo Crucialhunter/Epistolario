@@ -1,0 +1,38 @@
+{
+  "legajo_id": "32",
+  "id_carta": "7233",
+  "order_in_legajo": 16,
+  "signatura": "332:1991",
+  "nombre_carta": "Carta de Joan Antoni Truyols a Persona desconocida",
+  "fecha_original": "2 de enero de 1664",
+  "lugar": "Mallorca",
+  "remitente": "Joan Antoni Truyols",
+  "destinatario": "Persona desconocida",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Â [1§] Transcripción literal"
+  ],
+  "literal": [
+    "1."
+  ],
+  "imagenes": [
+    {
+      "filename": "332:1991.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo32/332:1991.JPG",
+      "url": "/legajos/legajo-32/images/332:1991.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "332:1991.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (3)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-32/cartas/007233.json",
+  "primary_image_url": "/legajos/legajo-32/images/332:1991.JPG"
+}

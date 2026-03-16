@@ -1,0 +1,38 @@
+{
+  "legajo_id": "21",
+  "id_carta": "3395",
+  "order_in_legajo": 87,
+  "signatura": "129:5684.JPG",
+  "nombre_carta": "Carta de Pedro Jiménez de Murillo a Pedro Santacilia y Pax",
+  "fecha_original": "26 de noviembre de 1638",
+  "lugar": "Lugar sin especificar",
+  "remitente": "Pedro Jiménez de Murillo",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "De Sadaba escribí a don Gregorio de Mercado como estaría estoy en sos, doy a v. m. este aviso, y con él, despacho este propio, diciendo a v. m. como estoy aquí para recibir la gente y con comisión general, para todo lo que se ofreciere. v. s. me avise donde está la gente, y por donde podrá entrar, porque por mi no hay que detenerse un instante, heme holgado mucho de esta ocupación por la ocasión que me da de conocer a v. m. y besarle la mano, a quien serviré en todas ocasiones en sos. Hoy martes a 26 Noviembre 1638. D. Pedro Jimenez de Murillo Sr. don Pedro Santacilia y Pax Transcripción literal"
+  ],
+  "literal": [
+    "1. De Sadaba escrivi a don Greo de llenado[?] 2. como estaria estoy en sos, doi a Vm. 3. este abisso, y con el, despacho este 4. propio, disiendo a Vm. como estoí 5. aqui para recibir la gente, y 6. con comission general, para todo 7. lo q se ofreciere, V.m. me abise 8. donde esta la gente, y por donde 9. podra entar, por q por mi no ay q 10. detenerse un instante, eme holgado 11. mucho desta ocupacion por la ocasion 12. q me da de conocer a Vm. y besarle la 13. mano, aquien serbire entodas ocasiones 14. en los oy martes a 26. Novie 1638 15. DPedro Ximenez de Murillo 16. [Margen izquierdo][^ Sr Don Po Sta Cilia y Pax] [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "129:5684.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo21/129:5684.JPG",
+      "url": "/legajos/legajo-21/images/129:5684.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "129:5684.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-21/cartas/003395.json",
+  "primary_image_url": "/legajos/legajo-21/images/129:5684.JPG"
+}

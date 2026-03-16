@@ -1,0 +1,43 @@
+{
+  "legajo_id": "10",
+  "id_carta": "1168",
+  "order_in_legajo": 37,
+  "signatura": "062-334a",
+  "nombre_carta": "Carta de Luis Viguet a Jerónimo Pelegrín de Aragüés",
+  "fecha_original": "30 de julio de 1668",
+  "lugar": "Valencia",
+  "remitente": "Luis Viguet",
+  "destinatario": "Jerónimo Pelegrín de Aragüés",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Con mucho gusto remito las de v. m. y en ellas me alegro goce de buena salud; yo la tengo, siempre al servicio de v. m. El pliego grande di a d. Arnau, para que ahí le pusiese en el correo. Y en todas las ocasiones me tendrá v. m. siempre a las órdenes. Cuando pasara de vuelta el señor don Pedro le remitiré la cuenta de lo que he gastado. Por el señor don Pedro y por v. m., a quien Nuestro Señor guarde felices años. Valencia y julio al 30 de 1668. Besa las manos de v. m., Luis Viguet Señor Jeronimo Pelegri de Aragues [1§] Valencia. Luis Viguet, de 30 de julio 1668. Recibida a 5. Transcripción literal"
+  ],
+  "literal": [
+    "1. Con mucho gusto remito los de V.M. y en ellos me 2. alegro gose de buena salut yo la tengo siempre al servissio 3. de V.M. El pliego grande di a D Anao para que ay 4. le pusiese en el correo. Y en todas las ocasiones me ten 5. dra V.M. siempre a las ordenes. Cuando pasara 6. de buelta el Sr. Don pedro le remitire la cuenta de lo que 7. e gastado. Por el Sr. Don pedro y por V.M. a quien nuestro Sr. 8. gde felises años. Valencia y julio al 30 de 1668. 9. Besa las manosDV.M. Luis Miquel Z.10. [^Geronimo Pelegri de Aragues^] [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "062-334a.jpg",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo10/062-334a.jpg",
+      "url": "/legajos/legajo-10/images/062-334a.jpg"
+    },
+    {
+      "filename": "063-334b.jpg",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo10/063-334b.jpg",
+      "url": "/legajos/legajo-10/images/063-334b.jpg"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "062-334a.jpg",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING",
+      "message": "Se detectaron caracteres sospechosos de encoding (4)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-10/cartas/001168.json",
+  "primary_image_url": "/legajos/legajo-10/images/062-334a.jpg"
+}

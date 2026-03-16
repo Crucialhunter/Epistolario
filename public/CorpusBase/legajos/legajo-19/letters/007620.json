@@ -1,0 +1,38 @@
+{
+  "legajo_id": "19",
+  "id_carta": "7620",
+  "order_in_legajo": 324,
+  "signatura": "234_cg102",
+  "nombre_carta": "Carta de Jerónimo Pelegrín de Aragüés a Persona desconocida",
+  "fecha_original": "1 de marzo de 1668",
+  "lugar": "Mallorca",
+  "remitente": "Jerónimo Pelegrín de Aragüés",
+  "destinatario": "Persona desconocida",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Me. Gabriel Thomas donareu al Sen Juan Caldentei lo her de cassa per lo cavall del Sr. Don Juan mija quartera d'ordi i mija de sibada fet @ 1 de Marts 1668. De ordre del Sr. Don Juan de Santacilia Jeroni Pelegri Vall la mitja quartera d'ordi mitja de civada 29 sous [1§] Transcripción literal"
+  ],
+  "literal": [
+    "1. Me. Gabriel Thomas donareu al Sen Juan Caldentei lo her de cassa per lo cavall 2. del Sr. Don Juan mija quartera de ordi i mija de sibada fet @ 1 de Marts 1668. 3. De orde del Sr. Don Juan de 4. Sta. Cilia Geronim Pelegri 5. Vall la mitja quartera 6. de ordi mitja de sivada 7. 29 sous [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "234_cg102.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo19/234_cg102.JPG",
+      "url": "/legajos/legajo-19/images/234_cg102.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "234_cg102.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (4)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-19/cartas/007620.json",
+  "primary_image_url": "/legajos/legajo-19/images/234_cg102.JPG"
+}

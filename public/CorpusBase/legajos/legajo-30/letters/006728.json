@@ -1,0 +1,38 @@
+{
+  "legajo_id": "30",
+  "id_carta": "6728",
+  "order_in_legajo": 5,
+  "signatura": "313:5566",
+  "nombre_carta": "Carta de Francesc Rosselló a Persona desconocida",
+  "fecha_original": "9 de diciembre de 1619",
+  "lugar": "Mallorca",
+  "remitente": "Francesc Rosselló",
+  "destinatario": "Persona desconocida",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Â [1§] tbody> Transcripción literal"
+  ],
+  "literal": [
+    "1. tbody>1."
+  ],
+  "imagenes": [
+    {
+      "filename": "313:5566.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo30/313:5566.JPG",
+      "url": "/legajos/legajo-30/images/313:5566.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "313:5566.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (4)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-30/cartas/006728.json",
+  "primary_image_url": "/legajos/legajo-30/images/313:5566.JPG"
+}

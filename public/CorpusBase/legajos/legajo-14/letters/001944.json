@@ -1,0 +1,38 @@
+{
+  "legajo_id": "14",
+  "id_carta": "1944",
+  "order_in_legajo": 44,
+  "signatura": "072:2448.JPG",
+  "nombre_carta": "Carta de Maria de Boixadors i de Rocabertí a Pedro Santacilia y Pax",
+  "fecha_original": "9 de julio de 1632",
+  "lugar": "Barcelona",
+  "remitente": "Maria de Boixadors i de Rocabertí",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Amb molt {ESP. cuidado} estic de la sa lut de v. m. i [?] veig no és tan bona com jo voldria i no trobar-se v. m. ací me doni major {ESP. cuidado} i així de si gava vingués v. m. amb la Sra. dona Ana, perquè jo me pogués {ESP. emplear} en servir-lo, doncs mi Sra. la comtessa de Zavella és aquí i estaré més descansada i també que v. m. no és depor de ens [?] que gran cosa jo estic confiada en Nostre Sr. que ell ja quedarà de tots. Guardi Déu a v. m. com jo li suplic. Barcelona i juliol als 9 de 1632. Dona Maria de Boixadors i de Rocaberti. Transcripción literal"
+  ],
+  "literal": [
+    "1. Ab molt quidado estic de la sa2. lut de Vm y [?] vex no es3. tant bona com jo voldria y 4. no trobarse Vm asi me done5. major quï¿½dado y axi de6. sigave vingues Vm ab la7. sora. donyana pera que jo me8. pogues enplear en sarvir9. lo puis mi Sora. la condesa10. de Savella es aqui i astare11. mes descansada y tanbe12. que Vm no es deporde nos????13. que gran cosa jostic confia14. da en nostre Sor. que ell15. ja qiadara de tots gua[r]16. de deu a Vm com jo li sop[lic]17. barselona y juliol als 9 de 163218. dona maria de boxados19. y de rocaberti [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "072:2448.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo14/072:2448.JPG",
+      "url": "/legajos/legajo-14/images/072:2448.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "072:2448.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-14/cartas/001944.json",
+  "primary_image_url": "/legajos/legajo-14/images/072:2448.JPG"
+}

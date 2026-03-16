@@ -1,0 +1,48 @@
+{
+  "legajo_id": "25",
+  "id_carta": "4130",
+  "order_in_legajo": 59,
+  "signatura": "127_164a.JPG",
+  "nombre_carta": "Carta de Diego Matías de Aragüés a Jerónimo Pelegrín de Aragüés",
+  "fecha_original": "25 de mayo de 1667",
+  "lugar": "Madrid",
+  "remitente": "Diego Matías de Aragüés",
+  "destinatario": "Jerónimo Pelegrín de Aragüés",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "He recibido la carta de v. m. de 10 del corriente con las demás que vinieron por Valencia y veo como todas mis cartas han llegado allá, gracia a Dios, que hay salud y que la tiene v. m., mi sobrina y los niños. Que sea por muchos años como deseamos doña. Margarita y yo, que a todos enviamos mil saludes. El amigo Viguet aún no ha enviado aquel recado, que lo deseamos por ser de la mano que es y la buena voluntad de todos. Llegó Jorge Ferragut con salud y los cajoncillos también. El sr. don Nicolas va mejorando. En todo lo demás me remito a la carta que escribo al sr. d. Pedro. La pretensión de Jaime Bauza está denegada después de pasado tantos días, y costándome muchos pasos y súplicas podrase volver a suplicar estando hoy el sr. don Miguel Salva que partirá de aquí pasado la Pascua. Estará bien recomendado de v. m. y también el tesorero que se va luego. En lo de Nra. Sra. del Pilar está hecha la diligencia por medio del canónigo. Dios que está aquí a los pleitos espera la respuesta, espérola buena. En lo de los Pujoles no hay más que hablar en ello, nosotros hemos cumplido con nra. obligación. V. m. [1§] procure lo de Juan Garcia del Pozo que es lo que importa, y dar prisa en ello. Todas las cartas se han dado a sus dueños en propias manos y en particular al cardenal duque de Montalto. V. m. me mande le sriva y guarde Dios los muchos años que le deseo. Madrid a 25 de Mayo, 1667. Tío y servidor de v. m.,Diego Matias de Aragues Sr. Jeronimo Pelegri de Aragues, mi sobrino [2§] A Jeronimo Pelegrin de Aragues, mi sobrino, guarde Dios Mallorca Madrid, 28 de mayo 1667. Algunos acabos he respondido a 12 de junio por Barcelona, ahora por Valenia que se ha de responder a otros. Transcripción literal"
+  ],
+  "literal": [
+    "1. He reçivido la carta de Vmd. de 10 del corriente con2. las demas que vinieron por Valençia y beo como to3. das mis cartas han llegado all agracia a Dios4. que hay s[alu]d y que la tiene Vmd. mi sobrina y5. los niños que sea por muchos años como deseamos6. Da Margta. y yo que a todos inviamos mil saludes7. el amigo Viget aun no ha embiado aquel recado8. que lo deseamos por ser de la mano que es, y la9. buena voluntad de todos.10. Llego Jorge Ferragut con s[alu]d y los caxonçillos tanbien11. El Sr. D. Nicolas va mejoranda, en todo lo demas12. me remito a la carta que escrivo al Sr. D. Pedro. 13. La pretension de Jayme Bausa esta denegada despues14. de pasado tantos dias, y costadome muchos pasos y15. sup[li]cas podrasse volver a suplicar estando ay el Sr. Don16. Miguel Salba que partira de aqui pasado la Pasqua17. estara bien recomendado de Vmd. y tanbien el Sr.18. Thesorero que se va luego.19. En lo de nra. Sa. del Pilar esta hecha la diligençia20. por medio del Canonigo Dios que esta aqui a los pleytos21. espera la respuesta esperola buena.22. En lo de los Pujoles no hay mas que hablar enello23. nosotros havemos cumplido con nra. obligaçion Vmd. [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "127_164a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo25/127_164a.JPG",
+      "url": "/legajos/legajo-25/images/127_164a.JPG"
+    },
+    {
+      "filename": "128_164b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo25/128_164b.JPG",
+      "url": "/legajos/legajo-25/images/128_164b.JPG"
+    },
+    {
+      "filename": "129_164c.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo25/129_164c.JPG",
+      "url": "/legajos/legajo-25/images/129_164c.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "127_164a.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (7)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-25/cartas/004130.json",
+  "primary_image_url": "/legajos/legajo-25/images/127_164a.JPG"
+}

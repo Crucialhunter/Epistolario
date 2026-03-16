@@ -1,0 +1,43 @@
+{
+  "legajo_id": "18",
+  "id_carta": "3004",
+  "order_in_legajo": 36,
+  "signatura": "062:4843a.JPG",
+  "nombre_carta": "Carta de Mateu Deyà a Pedro Santacilia y Pax",
+  "fecha_original": "18 de diciembre de 1660",
+  "lugar": "Lugar sin especificar",
+  "remitente": "Mateu Deyà",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "senyor me perte dímecres deixi Ciutat mort desganat tant que no Creie arribar en esta casa me trobí millor A mi m'ofenege [?] que em faci mercè que tries temor que algunes inumestres [?] dein patrimoni nom farà un taulet pel lloctinent deterDeteriorado Confie els amb res per mi senyora aniran Deteriorado de liay de fessap son els millor d'esta sa casa bones pasques me trobí míllor Graties adeu als 18 desembre 1660 de V.Se. Mateu Deya A Mi Sr. don Pedro Sta. [1§] a mi senyor don Pre dro salti Cecilla procurador real persu magestat en Mallorca En Ciutat [2§] Transcripción literal"
+  ],
+  "literal": [
+    "1. Senor 2. me perte dímecres dexe Ciutat mort 3. desganat tant que no Creie arribar en 4. esta Cassa me trobe millor Ami me ofe[nege][?]5. quem fasa merse de que trias temor que 6. algunas inumestres[?] dein patrimoni nom 7. fara un taulet per lo lloctinent deter[Deteriorado]8. Confie l[o]s [ab] res per mi señora anir[a]n [Deteriorado]9. de li[ay] de fessap son los millor desta se c[asa]10. bones pasques me trobe míllor Grati[as]11. adeu als 18 desembre 1660 12. de V.Se. Matheu jo deyà13. [Margen izquierdo][^ Ami Sor don pedro Sta] [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "062:4843a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo18/062:4843a.JPG",
+      "url": "/legajos/legajo-18/images/062:4843a.JPG"
+    },
+    {
+      "filename": "063:4843b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo18/063:4843b.JPG",
+      "url": "/legajos/legajo-18/images/063:4843b.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "062:4843a.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-18/cartas/003004.json",
+  "primary_image_url": "/legajos/legajo-18/images/062:4843a.JPG"
+}

@@ -1,0 +1,43 @@
+{
+  "legajo_id": "19",
+  "id_carta": "7786",
+  "order_in_legajo": 85,
+  "signatura": "519_7985a.JPG",
+  "nombre_carta": "Carta de Inés Doménech a Pedro Santacilia y Pax",
+  "fecha_original": "fecha sin especificar",
+  "lugar": "Valencia",
+  "remitente": "Inés Doménech",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Señor d. Pedro. Esta halle a v. m. con la salud que yo le deseo. A Dios gracias, nosotros la tenemos, es a saber mi marido y yo. Sabrá v. m. como las desdichas que ha habido en mi casa han sido grandes, por causa de las cuales he llegado a tal extremo y necesidad que aún no tengo ropa para ponerme encima. Las necesidades que ha habido en mi casa y desdichas han sido el haber tenido a mi marido más de dos años preso; ya ha salido, pero con su salida me he destruido de todas maneras. Luego me hallo con cuatro hijas de las cuales ninguna me puede ayudar en ninguna cosa. Finalmente, estoy tan pobre que no puedo estar más. Le suplico a v. m. que, supuesto que en la ciudad de Mallorca hace tantas limosnas, a mí me haga una con la cual me remedie a mí y a mis hijas un poco enviándome alguna cosa para vestirlas. El atender a la amistad y correspondencia que vuestra señoría tenía con mi madre y juntamente a lo que vuestra señoría me ha dicho en algunas ocasiones, es a saber si habíame ahí algo, con tantas veras me obliga a hacer esta acción. Con esto no digo más. Dios guarde a vuestra señoría los años de mi deseo. Vuestra señoría perdone de no haber puesto en lo demás [1§] de la carta; no me acaté hasta que es acabando la carta y queriendo empezar otra no hubo lugar por causa de que el portador se iba luego. Ines Domenech Servidora de v. señoría. Del Grau de Valencia. Transcripción literal"
+  ],
+  "literal": [
+    "1. Sr. D. Pedro2. Esta halle a Vm. con la salud que yo le desseo a Dios Gra3. cias nosotros la tenemos, es a saber mi marido y Ya sa4. bra Vm; como las desdichas que ha avido en mi cassa 5. han sido grandes, por causa de las quales he llega6. do atal extremo y necessidad, que aun no ten7. go ropa para ponerme encima. Las necessida8. des que a havido en mi cassa, y desdichas ha 9. sido el aver tenido a mi marido mas de dos Años pre10. sso; ya ha salido, pero con su salida me he destrui11. do de todas maneras . Luego me hallo con quatro 12. hijas de las quales ninguna me puede aiu13. dar en ninguna cossa . Finalmente estoy 14. ta[n] pobre que no puedo estar mas. Sor le suplico 15. a Vm. que su puesto que en la ciudad de Mallor16. ca haze tantas limosnas , a mi me haga una 17. con la qual me remedie a mi, y a mis hijas un 18. poco imbiandome alguna cossa para ve19. stirlas . el atender a la amistad, y correspo20. dencia que V. Señoria tenia con mi madre 21. y juntamente a lo que V Señoria me ha di22. cho en algunas ocasiones, es a saber si avia 23. me ay algo con tantas veras, me obliga a haz24. er esta accion. Con esto no digo mas . Dios Gde. 25. a V Señoria los años de mi desseo. V Señoria 26. Perdone de no aver puesto en lo demas de la [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "519_7985a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo19/519_7985a.JPG",
+      "url": "/legajos/legajo-19/images/519_7985a.JPG"
+    },
+    {
+      "filename": "520_7985b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo19/520_7985b.JPG",
+      "url": "/legajos/legajo-19/images/520_7985b.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "519_7985a.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (2)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-19/cartas/007786.json",
+  "primary_image_url": "/legajos/legajo-19/images/519_7985a.JPG"
+}

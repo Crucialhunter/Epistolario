@@ -1,0 +1,43 @@
+{
+  "legajo_id": "9",
+  "id_carta": "1047",
+  "order_in_legajo": 82,
+  "signatura": "145-69a",
+  "nombre_carta": "Carta de Diego Álvarez a Arnau de Santacilia",
+  "fecha_original": "15 de agosto de 1675",
+  "lugar": "Milán",
+  "remitente": "Diego Álvarez",
+  "destinatario": "Arnau de Santacilia",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Señor mío ya creo quealaora Deaora habrá v. m. Recibido la letra Delos otros ducados [?] es quedis [?] y enqu anto a lo que v. m. me dice que don Francisco agugado resto abierto con el dinero de v. m. no pongo duda por este aseguro queyono se donde haya tado tanto dinero yacreo según tengo entendido que sean ajustado las cuentas y oestoy esperando por horas al sargento Romero para que me Desatisfacción de lo quío epuesto de mi dinero para remitir las dos letras El lunes de la semana a Partido el señor duque deveta [?] lo contó letamilu [?] general Montegugulíaderotado afato laar mada de fuera y el fuemuerto lean comenoço [?] la señora doña beatriz [?] ha sido [1§] Dios servido de dar le añ y de que doy a v. m. la enhorabuena veo que sea entregado nume lo va al señor capitán Juan de Robles y asile escribo este correo para que se sirva de traer me la cuando Benga. Guarde Dios a v. m. muchos años Milán a 15 agosto 1675. Besa las manos de v. m. su mayor servidor Diego alvarez Señor sargento mayor don Arnau de Santacilia [2§] Transcripción literal"
+  ],
+  "literal": [
+    "1. Señor mío ya creo quealaora 2. Deaora abra Vmd recivido laletra 3. Delos otros Ducados[?] esquedis [?] Yenqu4. anto alo que Vmd medice que Don 5. franco agugado resto abierto Con 6. el dinero de Vmd no pongo duda por 7. este aseguro queyonose donde aya 8. tado tanto dinero yacreo segun 9. tengo entendído quesean ajustado 10. las quentas Yoestoy esperando por 11. oras alsargto Romero Para que me 12. Desatifacíon delo quío epuesto de 13. mi dinero Para remitír las dos letras 14. El lunes dela semana a Partido el sr Du15. que deveta[?] lo conto letamilu[?] Gnl 16. Montegugulí aderotado afato laar17. mada de fuera y el fuemuerto lean18. comenoço [?] la sra da beatriz[?] asido [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "145-69a.jpg",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo09/145-69a.jpg",
+      "url": "/legajos/legajo-09/images/145-69a.jpg"
+    },
+    {
+      "filename": "146-69b.jpg",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo09/146-69b.jpg",
+      "url": "/legajos/legajo-09/images/146-69b.jpg"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "145-69a.jpg",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-09/cartas/001047.json",
+  "primary_image_url": "/legajos/legajo-09/images/145-69a.jpg"
+}

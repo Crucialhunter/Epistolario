@@ -1,0 +1,37 @@
+{
+  "legajo_id": "20",
+  "id_carta": "3209",
+  "order_in_legajo": 84,
+  "signatura": "111:5990a.JPG",
+  "nombre_carta": "Carta de Pere Joan Prats a Pedro Santacilia y Pax",
+  "fecha_original": "17 de enero de 1667",
+  "lugar": "Madrid",
+  "remitente": "Pere Joan Prats",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Mi senyor {ESP. antes} d'ahir al rebre la de v. m. he parlat amb les dones i volen a trinta, o, a 29 [?] i tot l'oli i el que em de sa grado [?] que una dona aporta quatre, o, cinc al·lots [?] que no és conveniència [?] i v. m. [?] en vuit dones i haurà quinze [?] al·lots i [?] no he llogat fins altre ordre estima moltíssim v. m. vagi convalacent [?] jo estic fort i {ESP. pronto} a sos {ESP. mandatos} d'esta su casa Al ga ida als 17 de 1667 Pere Prats Capella de v. m. que ses mans besa. [1§] Mallorca [2§] Transcripción literal"
+  ],
+  "literal": [
+    "1. Mi Señor 2. Antes de ahir al rebre la de VM he perlat ab las donas 3. y volen a trinta, o, a 29[?] y tot lo oli y lo quem de se grado[?] 4. que una dona aporta quatra, o, sinch allots[?] que no 5. es convenientia[?] y vm [?] en vuit donas y aura 6. quinsa[?] allots y [?] no he llogat fins altre orde 7. estima moltissim vm vaje convalacent[?] jo estich 8. fort y prompto a sos mendatos de esta su casa Al- 9. gayda als 17 de 1667 10. Pere Prats <[?]> Capella de 11. vm que S M B. [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "111:5990a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo20/111:5990a.JPG",
+      "url": "/legajos/legajo-20/images/111:5990a.JPG"
+    },
+    {
+      "filename": "112:5990b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo20/112:5990b.JPG",
+      "url": "/legajos/legajo-20/images/112:5990b.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "111:5990a.JPG",
+  "warnings": [],
+  "raw_source": "raw/legajos/legajo-20/cartas/003209.json",
+  "primary_image_url": "/legajos/legajo-20/images/111:5990a.JPG"
+}

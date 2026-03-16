@@ -1,0 +1,43 @@
+{
+  "legajo_id": "11",
+  "id_carta": "1385",
+  "order_in_legajo": 156,
+  "signatura": "256:5244a.JPG",
+  "nombre_carta": "Carta de Mossèn Joan Anglès a Pedro Santacilia y Pax",
+  "fecha_original": "13 de abril de 1644",
+  "lugar": "Vinarós",
+  "remitente": "Mossèn Joan Anglès",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Sr. meu Perquès més {ESP. a menut} tingui jo molt {ESP. consuelo} com el tinc en rebre estes de v. s. i particularment quan en elles m'ordena moltes coses de son gust i servici suplico me faci mercè d'avisar-me a quina persona gusta ordenar-me les remeti en Mallorca que jo les remetré en València a Visent Montaina mercader en la plaça de la Morera, a qui podrà v. s. també remetre-les que gustava fer-me veure d'escriure perquè {ESP. verdaderament} estig corregut de la tardança en unes respostes i és per les escasses ocasions. El Sr. don Josep Rocaberti i mi senyora dona Maria se troben en esta sa casa d'on parteixen d'una per a Tortosa amb altres senyors de [?] a Eivissa i d'allí parteixen a Saragossa. Avisar les mans a sa magestat si alguna cosa s'ofereix en què jo pugui servir se servirà de manar-me avisar que ací en el que se [?] de son servici sinó he fet el que tinc obligació per estar cert ben fet el que he pogut com ho faré sempre en coses de v. s. Tinc rebudes de v. s. doni el {ESP. recaudo} a Joan Meillach que v. s. me mana i des que la hi doní tots els dies se llavava més matí a veure si tindria sort de descobrir alguna vela en què vingués v. s. a complir-li la paraula així d'acabar son any de lloctinent per a tenir tan bon com{ESP. paisano} en les [?] vies que intentava fer i ací estos desigs acabat son any corromput de no poder {ESP. lograr} els seus mals intrús, però este any tév. s. per justícia i criat a mon germà i millor ocasió jo que no per a fer-ne llaqueries per a fer-nos mercè i honrar-nos i per a quan ens mereix honrar en venir al costat [?] segons per les majors obligacions confiam veure a v. s. a qui guardi Nostre Sr. amb la salut i augment que desitjam i hem de menester fent infinites gràcies a Nostre Sr. de la succesió és estat servit de donar-li en la filla que doni a v. s. l'enhorabona. [1§] Vinarós i abril a 13 de 1644. De v. s. humil capellà i més cert servidor que ses mans besa. Mossèn Joan Angles [2§] Transcripción literal"
+  ],
+  "literal": [
+    "1. [^Sr.meu^]2. Per aque me amenat tinga jo molt consuelo com lo ting en 3. rebre estas de VSª y particularment quant en ellas 4. me ordena moltes coses de son gust y servici soplico me 5. fasa merse de avisarme a quiena persona gusta orde 6. narme les remeta en Mallorca que jo les remetre en 7. Valencia a Visent Montayna mercader en la pla 8. ça de la Morera aqui podra VSª tambe remetre 9. les que gustava ferme veuere de escriure parque verda 10. derament estig corregut de la tardansa en unes res 11. postas y es per lo escases de ocasions. 12. El sr. Don Joseph Rocaberti y mi señora donya Maria 13. se trobenm en esta sa casa de on partixen de una pera 14. Tortosa ab altres señors los mans a sa magestat si alguna cosa 15. se offerix en que jo puga serbir se servira de en manarme 16. avisar que assi en lo que se [^??absort??^] de son servici sino 17. bie fet lo que ting obligatio por estar sert bien fet lo 18. que he pogut com ho fare sempre en coses de VS. 19. Ting rebudes de VS doni el recaudo a Joan Meillach 20. que VS me mana y desd que loy doni tots los dies se lla 21. vava mes mati a veure si tindria sort de descobrir alguna 22. vela en que vingues VS a comprirli la paraula asy 23. de acabas son any no llague vies que intentava fer y asi estos 24. sesigs acabat son any corromput de no poder lograr sos 25. mals intres pero este any te VS per justicia y [^??orcat??^] 26. a mon germa y millor ocasio jo que no per a fer ne 27. llaqueries per a fernos marse y onrrarnos y per aquant nos merech onrrar en venir lo costat sues segons nostre 28. sr. abla salud y aument que desigam y avra menester 29. fent [^??^] grasies a nostre sr. des la succesio es estat ser 30. vit de donarli en la filla que done a VS la norabona. [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "256:5244a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo11/256:5244a.JPG",
+      "url": "/legajos/legajo-11/images/256:5244a.JPG"
+    },
+    {
+      "filename": "257:5244b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo11/257:5244b.JPG",
+      "url": "/legajos/legajo-11/images/257:5244b.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "256:5244a.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (2)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-11/cartas/001385.json",
+  "primary_image_url": "/legajos/legajo-11/images/256:5244a.JPG"
+}

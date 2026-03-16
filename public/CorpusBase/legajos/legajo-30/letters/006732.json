@@ -1,0 +1,38 @@
+{
+  "legajo_id": "30",
+  "id_carta": "6732",
+  "order_in_legajo": 8,
+  "signatura": "318:5570",
+  "nombre_carta": "Carta de Isidoro Sans a Persona desconocida",
+  "fecha_original": "9 de diciembre de 1619",
+  "lugar": "Mallorca",
+  "remitente": "Isidoro Sans",
+  "destinatario": "Persona desconocida",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Â [1§] Transcripción literal"
+  ],
+  "literal": [
+    "1."
+  ],
+  "imagenes": [
+    {
+      "filename": "318:5570.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo30/318:5570.JPG",
+      "url": "/legajos/legajo-30/images/318:5570.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "318:5570.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (3)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-30/cartas/006732.json",
+  "primary_image_url": "/legajos/legajo-30/images/318:5570.JPG"
+}

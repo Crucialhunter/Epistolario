@@ -1,0 +1,43 @@
+{
+  "legajo_id": "31",
+  "id_carta": "7020",
+  "order_in_legajo": 259,
+  "signatura": "389:1771a.JPG",
+  "nombre_carta": "Carta de Nicolás de Santacilia y Togores a Pedro Santacilia y Pax",
+  "fecha_original": "17 de diciembre de 1664",
+  "lugar": "Madrid",
+  "remitente": "Nicolás de Santacilia y Togores",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Transcripción literal"
+  ],
+  "literal": [
+    "1. 1."
+  ],
+  "imagenes": [
+    {
+      "filename": "389:1771a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo31/389:1771a.JPG",
+      "url": "/legajos/legajo-31/images/389:1771a.JPG"
+    },
+    {
+      "filename": "390:1771b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo31/390:1771b.JPG",
+      "url": "/legajos/legajo-31/images/390:1771b.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "389:1771a.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-31/cartas/007020.json",
+  "primary_image_url": "/legajos/legajo-31/images/389:1771a.JPG"
+}

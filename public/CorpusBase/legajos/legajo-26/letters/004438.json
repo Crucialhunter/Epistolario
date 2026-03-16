@@ -1,0 +1,38 @@
+{
+  "legajo_id": "26",
+  "id_carta": "4438",
+  "order_in_legajo": 179,
+  "signatura": "257:3533.JPG",
+  "nombre_carta": "Carta de Catalina Fernández de Córdoba y Aragón (II duquesa condesa de Olivares) a Pedro Santacilia y Pax",
+  "fecha_original": "13 de marzo de 1647",
+  "lugar": "Madrid",
+  "remitente": "Catalina Fernández de Córdoba y Aragón (II duquesa condesa de Olivares)",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "He holgado mucho con las nuevas que me da v. m. de su buena salud y de la llegada del señor don Vicente, mi hermano, con ella a España, que según me escribe le espero por horas en esta corte. Y a mí me hallará tan atrasada como me dejó v. m. en mi convalecencia, porque estos días me han obligado a sangrarme dos veces. En medio de esto me alienta mucho el ver a mi primo y los niños buenos: Dios me los guarde y a v. m. con todo lo que merece. Madrid, 13 de marzo 1647. [Letra original de la remitente: No podré decir a v. m. lo que me holgué con su carta y saber haya llegado con la salud que le deseo. Yo me hallo muy mala y ahora con la venida del señor don Vicente deseo ver como bien v. m. no me deje de escribir: me consuela mucho con sus cartas. Dios nos dé paz, señor don Pedro, y no seamos la risa del pueblo. A mi señora doña Inés beso las manos.] La duquesa condesa de Olivares Señor d. Pedro de Santacilia Transcripción literal"
+  ],
+  "literal": [
+    "1. He olgado mucho con las nuebas que 2. me da Vm de su buena salud y de la3. llegada del Sr don Vizente mi hermano4. conella a España que segun me escrive5. le espero por horas enesta corte y a mi me6. hallara tan atrasada como me dexo Vm7. en mi combalezençia porque estos dias me8. an obligado a sangrarme dos vezes, en9. medio desto me alienta mucho el ver10. a mi Primo y los niños buenos Dios me los11. ge. y a Vm con todo lo que mereze Md 13 de Marzo 164712. No podre desyr a Vm lo q me olge con su carta13. y saber aya llegado con la salud que le deseo14. yo me allo muy mala y aora con labeny-15. da del Sr, don Bysente deseo ber como16. byen Vm no me dege descrebyr me consue17. la muncho(cho) con sus cartas Dyos nos de paz18. señor don Pº y no seamos la rysa del pueblo19. A my Sra dona Ynes20. beso las manos.21. La duquesa22. Con[de]sa de Olyvares23. Sr. D Pº de Sta Cilia [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "257:3533.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo26/257:3533.JPG",
+      "url": "/legajos/legajo-26/images/257:3533.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "257:3533.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (3)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-26/cartas/004438.json",
+  "primary_image_url": "/legajos/legajo-26/images/257:3533.JPG"
+}

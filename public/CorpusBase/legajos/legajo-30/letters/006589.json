@@ -1,0 +1,38 @@
+{
+  "legajo_id": "30",
+  "id_carta": "6589",
+  "order_in_legajo": 132,
+  "signatura": "082:5427.JPG",
+  "nombre_carta": "Carta de Augustí Cortés a Pedro Santacilia y Pax",
+  "fecha_original": "1 de enero de 1651",
+  "lugar": "Mallorca",
+  "remitente": "Augustí Cortés",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Sr. don Pedro de Santacilia y Pax, mi señor. Molt poc cas fa v. m. d'aquest son servidor, puix [?] en coses de seu servei sap lo gust tinc en [?] que v. m. no s'olvide del tot sus estos [?] a de daz. sin [?] per lo sr. don Juan Ba [?] vuitanta reales de vuit que que v. m. ha de [?] arcediano de Solsona que em vui [?] sr. ha pagat ni los diners per mi, que encara [?] diners li han de remetre de Valencia, no [?] quietes i deixàs de pagar a v. m. lo que [?] no el paga. Se servirà v. m. en virtud de [?] al síndic de Santa Margarita, Antoni, [?] tud d'ella los donarà a v. m. amb particular [?] lo que pot ser que en cas del sr. Piqué li [?] manarà per fer més mercè disimular esta y manar [?] que ja sap quan prompte hi obedient a ses [?] no dic més. Ntr. Sr. lo guarde com pot amb salut i vida [?] amb tots i li doni molt bon principi d'any i feliç amb los {ESP. aumentos} que v. m. mereix. Mallorca i gener 1 de 1651 De v. m. s criat q. m. b. . Augusti Cortes[1§] Transcripción literal"
+  ],
+  "literal": [
+    "1."
+  ],
+  "imagenes": [
+    {
+      "filename": "082:5427.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo30/082:5427.JPG",
+      "url": "/legajos/legajo-30/images/082:5427.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "082:5427.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (2)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-30/cartas/006589.json",
+  "primary_image_url": "/legajos/legajo-30/images/082:5427.JPG"
+}

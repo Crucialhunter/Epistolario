@@ -1,0 +1,38 @@
+{
+  "legajo_id": "20",
+  "id_carta": "3208",
+  "order_in_legajo": 82,
+  "signatura": "110:5989.JPG",
+  "nombre_carta": "Carta de Miguel Seguí a Pedro Santacilia y Pax",
+  "fecha_original": "20 de septiembre de 1666",
+  "lugar": "Madrid",
+  "remitente": "Miguel Seguí",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Sr. don Pedro Santacilia La pèrdua d'un plet amb què m'han {ESP. alcansat} amb passades de dues mil i quatre-centes lliures me té obligat a valer-me de mos amos i senores. La rebré particular. Me faci mercè de fer donar al portador d'esta que és Jordi Barcelo, notari, quinze lliures pel selari de dues actes que entreguarà, que ja té vistes el Sr. Bassa. Nre. Sr. el guardi d'esta sa casa i novembre 20 de 1666. Son criatMiquel Segui, prevere i notari. Transcripción literal"
+  ],
+  "literal": [
+    "1. Sr. Don Pedro StaCilia 2. La Perdua de un plet[?] ab que me han Alcansat 3. ab passades[?] de dosmil y quatre çentes llivres[?] 4. me te obligat a valerme de [?] [?] y senores[?] 5. la rebre[?] particular. me fassa merse de fer donar 6. en al portador desta que es Jordi Barcelo [?] 7. quinse llivres[?] p lo selari de dos [?] que entregue- 8. ra que[?] ja te vist lo sr. Basse[?].[?] sr. lo gde 9. desta se casa y 9< [?]>bre 20. de 1666. 10. Son criat 11. [?] [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "110:5989.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo20/110:5989.JPG",
+      "url": "/legajos/legajo-20/images/110:5989.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "110:5989.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-20/cartas/003208.json",
+  "primary_image_url": "/legajos/legajo-20/images/110:5989.JPG"
+}

@@ -1,0 +1,48 @@
+{
+  "legajo_id": "3",
+  "id_carta": "442",
+  "order_in_legajo": 7,
+  "signatura": "07-5a",
+  "nombre_carta": "Carta de Isabel de Salvá a Juan Miguel de Santacilia y Togores",
+  "fecha_original": "29 de noviembre de 1662",
+  "lugar": "Madrid",
+  "remitente": "Isabel de Salvá",
+  "destinatario": "Juan Miguel de Santacilia y Togores",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Señor mío, de mucho gusto me ha sido su carta de vuestra merced, pues me ha sacado del cuidado y temía de si había llegado bueno a su casa. Gracias a Dios por esta merced las personas reales, Dios las guarde, la tienen [?]. Mañana estaré más siempre para servirlos. A mí me hace mucha soledad no ver entrar en la capilla a vuestra merced, que me holgaba mucho siempre que lo veía. Pero porque vuestra merced esté con él y esté [?] con sus padres, Dios se los guarde [?] con consuelo, [?] nuevo, y vuestra merced me dé el hacerme, pues tan buena cosa le hacen su padre. A vuestra merced me guarde Dios como deseo. [?] besamos a vuestra merced las manos. Mil besos. Madrid, noviem [1§] bre 29 de 1662 años Quien quiere mucho a vuestra merced y desea servirDoña Isabel de Salva [2§] Madrid, 29 de noviembre 1662, de mi señora doña Isabel Salva. Recibida a 28 febrero 1663. Transcripción literal"
+  ],
+  "literal": [
+    "1. Sr. mio de mucho gusto me a sido su carta2. de vm pues me a sacado del cuidado y te3. mia de si abia llegado bueno a su casa4. grazias a dios por esta md las personas5. reales dios las guarde la tienen [?]6. mañana estare mas sienpre para7. serbirlos a mi me aze mucha soledad8. no ber entrar en la capilla a vm q 9. me olgaba mucho sienpre q lo beia10. pero porq vm este con el y este [?]11. con sus padres dios se los guarde [?]12. [?] con consuelo [?] nuebo y v. m. 13. me de el azerme md. pues tan buen cosa14. le azen su padre a vm me guarde dios15. como deseo [?] besamos16. a vm las manos mil besos Madrid nobien [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "07-5a.jpg",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo03/07-5a.jpg",
+      "url": "/legajos/legajo-03/images/07-5a.jpg"
+    },
+    {
+      "filename": "08-5b.jpg",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo03/08-5b.jpg",
+      "url": "/legajos/legajo-03/images/08-5b.jpg"
+    },
+    {
+      "filename": "09-5c.jpg",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo03/09-5c.jpg",
+      "url": "/legajos/legajo-03/images/09-5c.jpg"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "07-5a.jpg",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-03/cartas/000442.json",
+  "primary_image_url": "/legajos/legajo-03/images/07-5a.jpg"
+}

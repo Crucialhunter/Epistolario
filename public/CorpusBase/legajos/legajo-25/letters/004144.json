@@ -1,0 +1,43 @@
+{
+  "legajo_id": "25",
+  "id_carta": "4144",
+  "order_in_legajo": 82,
+  "signatura": "156_178a.JPG",
+  "nombre_carta": "Carta de Fructuoso Giner a Jerónimo Pelegrín de Aragüés",
+  "fecha_original": "29 de junio de 1667",
+  "lugar": "Ibiza",
+  "remitente": "Fructuoso Giner",
+  "destinatario": "Jerónimo Pelegrín de Aragüés",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Amigo y señor mío. Crea v. m. de mi afecto, que las nuevas ha sido servido darme de su salud han sido para mi de tanto gusto cuanto se puede v. m. prometer de mi buena ley de amistad, que esta bien sabe v. m. días a se la profesé de todo corazón. No extrañe v. m. si no le [he] escrito hasta ahora porque temiendomelo me sucediera lo que me ha sucedido con el Dr. Josep Rius y con don Francisco Pueyo, que después de haberles escrito no he merecido respuesta. Por esa ocasión no me atreví a cansarle con mis malos burrones [?], porque los que nos hemos criado entre políticos sentimos mucho las groserías. Bien creo no había de caber en v. m. sabiendo también lo que ha de hacer. Me huelgo infinito que v. m. estén tan bien entretenidos con sus comedias. Acá solo tenemos un entretenimiento y es que si se van a la marina por parte de tarde se ven algunos lobos, todo lo demás es cosa fúnebre ni un pedacito de aquello que se topa en Madrid con abundacia y bueno, no se topa y aunque se pida por amor de Dios, que es bien grande trabajo para quien come y bebe bien. [1§] En lo que se ofreciera en adelante no dejaré de cansar a v. m. fiado en la merced se sirve hacer merced, suplicándole se sirva con la misma llaneza enviarme muchas órdenes de su obediencia que es cuanto se me ofrece suplicarle, a quien Dios guarde los años de su deseo. Ibiza y junio 29 1667. Amigo y servidor de v. m. sus manos besa El Dr. Fructuoso Giner Amigo y señor mío Señor Jeronimo Pelegri de Aragues Ibiza. D. Fructuoso Giner [?] 19 Junio 1667 respuesta a 30 de dicho Transcripción literal"
+  ],
+  "literal": [
+    "1. Amigo y señor mio Crea vm de mi affec=2. to, que las nuebas a sido servido darme3. de su salud han sido para mi de tanto4. gusto quanto se puede Vm prometter5. de mi buena ley de amistad que esta6. bien sabe Vm dias a se la professe de7. todo coraçon=8. No estrañe Vm si no le escrito asta aora9. porque temiendomelo me sucediera10. lo que me a sucedido con el dr. Joseph11. Rius y con don Franco. Puejo, que despues12. de haverles [^escrito] no e merecido respuesta, por13. essa occasion no me attrevi a cançarle14. con mis malos burrones[?]; porque los que15. nos emos criado entre políticos sentimos mu=16. cho las groserías bien creo no havia de17. caber en Vm. sabiendo tanbien lo que18. a de hazer=19. Me huelgo infinito que vms. esten tan bien20. entretenidos con sus comedias: acha solo tene=21. mos un entretenimiento y es que si se ban a22. (a) la marina por parte de tarde se ven al=23. gunos lobos; todo lo dema es cosa funebre24. ni un pedacito de aquello que se topa en25. Madrid con abundacia y bueno, no se topa26. y aunque se pida por amor de Dios, ques27. bien grande trabaxo para quien come y28. beve bien= [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "156_178a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo25/156_178a.JPG",
+      "url": "/legajos/legajo-25/images/156_178a.JPG"
+    },
+    {
+      "filename": "157_178b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo25/157_178b.JPG",
+      "url": "/legajos/legajo-25/images/157_178b.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "156_178a.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (4)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-25/cartas/004144.json",
+  "primary_image_url": "/legajos/legajo-25/images/156_178a.JPG"
+}

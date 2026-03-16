@@ -1,0 +1,47 @@
+{
+  "legajo_id": "29",
+  "id_carta": "6317",
+  "order_in_legajo": 15,
+  "signatura": "022:4133a",
+  "nombre_carta": "Carta de Persona desconocida a Persona desconocida",
+  "fecha_original": "7 de noviembre de 1628",
+  "lugar": "Mallorca",
+  "remitente": "Persona desconocida",
+  "destinatario": "Persona desconocida",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "[1§] [2§] [3§] [4§] Transcripción literal"
+  ],
+  "literal": [
+    "1. 1. 1. 1."
+  ],
+  "imagenes": [
+    {
+      "filename": "022:4133a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo29/022:4133a.JPG",
+      "url": "/legajos/legajo-29/images/022:4133a.JPG"
+    },
+    {
+      "filename": "023:4133b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo29/023:4133b.JPG",
+      "url": "/legajos/legajo-29/images/023:4133b.JPG"
+    },
+    {
+      "filename": "024:4133c.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo29/024:4133c.JPG",
+      "url": "/legajos/legajo-29/images/024:4133c.JPG"
+    },
+    {
+      "filename": "025:4133d.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo29/025:4133d.JPG",
+      "url": "/legajos/legajo-29/images/025:4133d.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "022:4133a.JPG",
+  "warnings": [],
+  "raw_source": "raw/legajos/legajo-29/cartas/006317.json",
+  "primary_image_url": "/legajos/legajo-29/images/022:4133a.JPG"
+}

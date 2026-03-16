@@ -1,0 +1,48 @@
+{
+  "legajo_id": "31",
+  "id_carta": "6766",
+  "order_in_legajo": 6,
+  "signatura": "007:1517a.JPG",
+  "nombre_carta": "Carta de Diego Matías de Aragüés a Pedro Santacilia y Pax",
+  "fecha_original": "20 de octubre de 1660",
+  "lugar": "Madrid",
+  "remitente": "Diego Matías de Aragüés",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "[1§] [2§] [3§] Transcripción literal"
+  ],
+  "literal": [
+    "1. 1. 1."
+  ],
+  "imagenes": [
+    {
+      "filename": "007:1517a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo31/007:1517a.JPG",
+      "url": "/legajos/legajo-31/images/007:1517a.JPG"
+    },
+    {
+      "filename": "008:1517b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo31/008:1517b.JPG",
+      "url": "/legajos/legajo-31/images/008:1517b.JPG"
+    },
+    {
+      "filename": "009:1517c.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo31/009:1517c.JPG",
+      "url": "/legajos/legajo-31/images/009:1517c.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "007:1517a.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (3)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-31/cartas/006766.json",
+  "primary_image_url": "/legajos/legajo-31/images/007:1517a.JPG"
+}

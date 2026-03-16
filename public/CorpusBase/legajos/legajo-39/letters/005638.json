@@ -1,0 +1,43 @@
+{
+  "legajo_id": "39",
+  "id_carta": "5638",
+  "order_in_legajo": 42,
+  "signatura": "68:8298a.JPG",
+  "nombre_carta": "Carta de Pedro Rodríguez Muñoz a Pedro Santacilia y Pax",
+  "fecha_original": "7 de julio de 1663",
+  "lugar": "Puzol",
+  "remitente": "Pedro Rodríguez Muñoz",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Sr. No me ha parecido el perder tan buena ocasión como me dan estos bajeles de esta escuadra de este reino, y suplicar a v. m. se sirva enviarme a mandar como a criado de v. m., pues sabe las obligaciones que me corren de servir a v. m. Lo que por acá hay de nuevo no es otra cosa sino que me hallo de alférez reformado ha mucho tiempo y con menos esperanzas que nunca de ser capitán, porque como ya se acabaron las guerras en este reino S.E. no hace hechuras por no acrecentar (el) sueldos a su majestad. Y las que hace son las que regalan los secretarios, y yo como no tengo {LAT. cum quibus ex nostras voces [?]}, me estoy arrimado. Confío en Dios que en acabándoseme un alojamentillo que tengo entre manos, de que me ha hecho merced de nombrarme mi maestre de campo con 30 hombres para [1§] alojar en esta ciudad de Puzol, a[d]onde me hallo lidiando con estos villanos por interés de dobles [?] de pedir licencia, y si la puedo sacar me voy al amparo de v. m., para que si en esa ciudad no hubiere ocasión, me favorezca v. m. con algunas cartas para el ejército de Cataluña, que toda la merced que v. m. me hiciere siempre estará en mí con el debido reconocimiento. Guarde Dios a v. m. muchos años como puede y he menester. Puzol, a 7 de julio de 1663. Criado de v. m. q.s.m.b. Sr. D. Pedro Rodriguez Muñoz [2§] Transcripción literal"
+  ],
+  "literal": [
+    "1. Sr. no me a pareçido el perder tan buena ocasion como2. me da estos vaxeles desta escuadra deste Reyno, y su3. plicar a Vmd. se sirva enviarme a mandar como4. a criado de Vm. pues save las obligaciones que me5. corren de servir a Vm. Lo que por aca ay de nue6. vo no es otro cosa sino que me hallo de arto[?]7. Reformado ha mucho tiempo y con menos espe8. ranças que nunca de ser capn. piorque como ya9. se acabaron las guerras en este Reyno S.E. no10. haçe echuras por no acrecentar (^el) sueldos a su11. Magd. y las que haçe son los que regalan los se12. cretarios y yo como no tengo {lat.} cum quibus ex nostras13. noçes[?] me estoy arrimando. Confio en Dios que14. en acabandoseme un aloxamentillo que tengo15. entre manos de que me ha echo mrd. de nombrar16. me mi maestre de ca[m]po con 30 hombres para17. Sr. D Pedro Santeçilia y Pax [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "68:8298a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo39/68:8298a.JPG",
+      "url": "/legajos/legajo-39/images/68:8298a.JPG"
+    },
+    {
+      "filename": "69:8298b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo39/69:8298b.JPG",
+      "url": "/legajos/legajo-39/images/69:8298b.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "68:8298a.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (2)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-39/cartas/005638.json",
+  "primary_image_url": "/legajos/legajo-39/images/68:8298a.JPG"
+}

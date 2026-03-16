@@ -1,0 +1,38 @@
+{
+  "legajo_id": "8",
+  "id_carta": "946",
+  "order_in_legajo": 152,
+  "signatura": "218-142 copia",
+  "nombre_carta": "Carta de Bartolomé Mercadal a Persona desconocida",
+  "fecha_original": "22 de mayo de 1645",
+  "lugar": "Fornells",
+  "remitente": "Bartolomé Mercadal",
+  "destinatario": "Persona desconocida",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Senyor batle, Amb l'avís que v. m. m'ha enviat del batle de Maó estaré amb el {ESP. cuidado} degut i el {ESP. cuidado} es deu estar de vaixells de rems. V. m. se servirà a {CAST. la tarde} sol ponent que siguin ací vint homes amb les armes que la guàrdia ordinària com acostuma. D'este castell de port de Fornells [i a] dilluns de maig, a 22 de de 1645. Capità Jacinto Cardona Senyor batle del Mercadal Transcripción literal"
+  ],
+  "literal": [
+    "1. S<> Balle ablo Avis que V m<> mehan 2. enviat del Balle de Maho estare ablo 3. cuydado degut ylo cuydado es deu estar 4. de vaxells de Rems. Vm seservira Ala 5. Tarde sol ponent que sian asi vint home[s] 6. ab ses Armas q laguard ordenara co[m] 7. acostuma, del castell deport defornells [?] 8. Dilluns de maig a 22 de 1645 9. Cap[em]< > Hiacinto Cardona 10. S< > Balle del Marcadal [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "218-142 copia.jpg",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo08/218-142 copia.jpg",
+      "url": "/legajos/legajo-08/images/218-142 copia.jpg"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "218-142 copia.jpg",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-08/cartas/000946.json",
+  "primary_image_url": "/legajos/legajo-08/images/218-142 copia.jpg"
+}

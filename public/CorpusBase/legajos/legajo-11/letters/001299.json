@@ -1,0 +1,38 @@
+{
+  "legajo_id": "11",
+  "id_carta": "1299",
+  "order_in_legajo": 67,
+  "signatura": "119:5159.JPG",
+  "nombre_carta": "Carta de Nicolás Castellón a Pedro Santacilia y Pax",
+  "fecha_original": "16 de junio de 1643",
+  "lugar": "Valencia",
+  "remitente": "Nicolás Castellón",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Sr. don Pedro de Santacilia y Pax Sr. don Pedro, el portador de esta que es [?] persona [?] de palabra dirá a v. s. todo lo que ha pasado conmigo después de la presa se su [?] segurillo [?] que al fin son cosas largas y sino es a boca es imposible que se escriban. Solo aviso a v. s. de que tengo esta dejación de mi compañía y la han [?] y no me quieren dar licencia. Suplico a v. s. que le es tan fácil con el príncipe tan [?] el príncipe de la Mar no con mi la han caso lo porque salgades de está mi señor que yo no sido puesto ni le quero solo pido la libertad. Soplico a v. s. por a mor de Dios se ha querde de este probre preso. Guarde Dios a v. s. los años que merece de este criado de v. s. [?] y Roses a 16 de junio de 1643. Criado de v. s., Nicolas Castellon. Transcripción literal"
+  ],
+  "literal": [
+    "1. [^sr. don Pedro de sante silia y Pax^]2. Sr. Don Pedro el portador desta 3. que es [^??persona??^] de palabra dira a VSª 4. todo lo que a pasado conmigo des 5. pues de de la presa se su [^??segurillo??^] 6. que al fin son cosas largas 7. y sino es a boca es ynposible que se es 8. crivan. Solo aviso a VS de 9. que tengo etxa dexasion de 10. mi conpa< ñi>a y la an [^??yinmido??^] [roto] 11. y no me queren dar licencia 12. soplico a VS que le es tan facil 13. con el Principe tan [^??^] 14. [^??^] el prinsipe de la Mar 15. no con mi la han caso lo porque 16. salgades desta mi señor que jo no 17. sido puesto ni le quero solo pido 18. la libertad. Soplico a VSª por a 19. mor de Dios se aquerde deste 20. probre32 preso. Guarde Dios a VS los 21. años que merece de este criado de VSa 22. de Vacia y Rosas a 16 de yu 23. nio de 1643 24. Criado de VSª 25. Nicolas Castellon. [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "119:5159.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo11/119:5159.JPG",
+      "url": "/legajos/legajo-11/images/119:5159.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "119:5159.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (2)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-11/cartas/001299.json",
+  "primary_image_url": "/legajos/legajo-11/images/119:5159.JPG"
+}

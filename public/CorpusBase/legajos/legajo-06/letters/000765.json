@@ -1,0 +1,38 @@
+{
+  "legajo_id": "6",
+  "id_carta": "765",
+  "order_in_legajo": 27,
+  "signatura": "455-226",
+  "nombre_carta": "Carta de Tomás Mariano Quint Zaforteza a Cecilia Zaforteza y Sureda de Sant Martí",
+  "fecha_original": "fecha sin especificar",
+  "lugar": "lugar sin especificar",
+  "remitente": "Tomás Mariano Quint Zaforteza",
+  "destinatario": "Cecilia Zaforteza y Sureda de Sant Martí",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Tia Cecília, Esper esta la trobarà amb perfecta salut, jo la gast bona, a Déu gràcies, pel que manarà. He estimat molt el {ESP. regalo} m’ha fet de les dues alfàbies, bescuit, rosquilles, les taronges i la pasta reial. Ara son (^?) prop de les 3 i ja m’esperen per partir. {ESP. Adiós} tia i ja no mos hem de veure que no duga sa creu i man de son nebot, qui més l’estima de cor. Zaforteza Tia Cecília Transcripción literal"
+  ],
+  "literal": [
+    "1. Tia Cecilia esper esta la trober- 2. a a< m>b perfeta salud jo la gas bo- 3. na á Deu gracias per lo que 4. manera he estimat molt el Re- 5. galo me ha fet de las dos Al- 6. fabias bescuit [^rosquillas] las Tarongues 7. y la pasta Real. Ara son (^?) 8. prop de las 3 y ja me esperan 9. per pertir Adios Tia y ja 10. no mos hem de veura que no 11. dugue se Creu y mande son 12. Nebot qui mes la estima de cor. 13. Çaforteza. 14. Tia Cecilia. [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "455-226.jpg",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo06/455-226.jpg",
+      "url": "/legajos/legajo-06/images/455-226.jpg"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "455-226.jpg",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (2)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-06/cartas/000765.json",
+  "primary_image_url": "/legajos/legajo-06/images/455-226.jpg"
+}

@@ -1,0 +1,38 @@
+{
+  "legajo_id": "7",
+  "id_carta": "799",
+  "order_in_legajo": 25,
+  "signatura": "46-30 copy",
+  "nombre_carta": "Carta de Nicolás de Santacilia y Togores a Jerónimo Pelegrín de Aragüés",
+  "fecha_original": "23 de febrero de 1672",
+  "lugar": "Galdent (Llucmajor)",
+  "remitente": "Nicolás de Santacilia y Togores",
+  "destinatario": "Jerónimo Pelegrín de Aragüés",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Enviau-me un {CAST. cuchillo de monte} i el rellotge d’en Chanxo que té a adobar. La mula enviau-la i el cotxe voldria saber com no és ací perquè en rebre aquesta que és pes pas camí en roda la sella ni per bules ni per veres significar-ho {CAST. antes} besar voluntari en el que demanaran que venguin a grosar. Diumenge dematí entretendreu han van de cada un hora de dia fins a migdia. Déu vos guard. Galdent, a 23 de febrer 1672. Don Nicolas de Santacilia Jeroni Pelegri. Transcripción literal"
+  ],
+  "literal": [
+    "1. Anviarmau un {esp.} Cuchillo de monte} y 2. al ralloge dan chanxo que te ado 3. bar la mula anviaula y al coxo 4. volria sabar com nos asi parque 5. an rabor aquasta quas pes pas 6. cami an raodala [?] leda nipar- 7. bulas ni par uaras sinificaro antas 8. besar voluntari an lo qua damana 9. ran quavengan a qnosar Diumanga 10. Damati antratandrau an ban daca- 11. da Un ora da dia fins a midia Deu Vos 12. Guar Galdent a 23 de fr 1672 13. Don Nicolas de Sta Cilia 14. Garoni Palagri [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "46-30 copy.gif",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo07/46-30 copy.gif",
+      "url": "/legajos/legajo-07/images/46-30 copy.gif"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "46-30 copy.gif",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (5)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-07/cartas/000799.json",
+  "primary_image_url": "/legajos/legajo-07/images/46-30 copy.gif"
+}

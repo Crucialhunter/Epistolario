@@ -1,0 +1,43 @@
+{
+  "legajo_id": "21",
+  "id_carta": "3444",
+  "order_in_legajo": 132,
+  "signatura": "233:5732a.JPG",
+  "nombre_carta": "Carta de Pedro Fajardo de Requeséns-Zúñiga y Pimentel (V marqués de los Vélez) a Pedro Santacilia y Pax",
+  "fecha_original": "19 de marzo de 1639",
+  "lugar": "Pamplona",
+  "remitente": "Pedro Fajardo de Requeséns-Zúñiga y Pimentel (V marqués de los Vélez)",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Como tengo avisado a v. m. va el veedor don Fernando de Escobar a pasar la muestra a esas compañías con las órdenes necesarias para socorrerlas y aseguro a v. m. lo he deseado [?] por aliviar los empeños en que le considero con la dilon. que ha habido y tengo por cierto que de aquí adelante serán más puntuales los socorros y por lo menos yo lo procuraré con todas veras para que cuando llegue la ocasión puedan servir los soldados como conviene v. m. de la muestra y me avise de haberlo hecho con lo demás que se ofreciere de su servicio. Guarde Dios a v. m. muchos años de Pamplona y marzo 19 de 1639. El marques de los Velez Después de firmada esta ha llegado un correo del consejo con el pliego incluso para v. m., en que verá a la resolución que su majestad ha tomado a que me remito y quedo asegurado quede todo lo que hubiere por mano de v. m. dan la buena cuenta que conviene. Sr. D. Pedro Santacilia [1§] Pamplona 19 Marzo 1639 el marques de los Velez rdo. Transcripción literal"
+  ],
+  "literal": [
+    "1. Como tengo avissado a Vm Va El Veedor Don ferndo de 2. escobar apassar la muestra aessas Compas conlas or3. denes neçessas para Socorrerlas yassiguro a Vm lo he 4. deseado sueto[?] por aliviar los Empeños enque lecon5. sidero con la dilon que havido ytengo por cierto que 6. de aqui adelante seran mas puntuales los socorros 7. y por lo menos yo loprocurare contodas veras paraque 8. quando llegue laocassion puedan servir los soldados 9. como conviene Vm. dela muestra yme avisse de haver 10. lo hecho conlo demas queseofreciere desu servio gde 11. Dios a Vm muchos años de Pampa y Março 19 de 1639 12. El Marqs delos veles 13. despues de firmada esta allegado un 14. coreo del consso conel pliego yncluso 15. para Vm., enque Vera la Resolucion 16. que su Magd atomado aque meremito 17. y quedo asegurado quede todo lo que u18. viere pormano de Vm; dan labuena 19. quenta que combiene20. [Margen izquierdo][^ Sor D Po santa Zilia] [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "233:5732a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo21/233:5732a.JPG",
+      "url": "/legajos/legajo-21/images/233:5732a.JPG"
+    },
+    {
+      "filename": "234:5732b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo21/234:5732b.JPG",
+      "url": "/legajos/legajo-21/images/234:5732b.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "233:5732a.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (5)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-21/cartas/003444.json",
+  "primary_image_url": "/legajos/legajo-21/images/233:5732a.JPG"
+}

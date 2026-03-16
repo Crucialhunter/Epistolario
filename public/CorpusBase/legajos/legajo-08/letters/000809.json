@@ -1,0 +1,32 @@
+{
+  "legajo_id": "8",
+  "id_carta": "809",
+  "order_in_legajo": 38,
+  "signatura": "002-2 copia",
+  "nombre_carta": "Carta de Pedro Santacilia y Pax a No consta",
+  "fecha_original": "de 1642",
+  "lugar": "Menorca",
+  "remitente": "Pedro Santacilia y Pax",
+  "destinatario": "No consta",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Sa senyoria, Havent vist les peticions presentades pels magnífics jurats de la present {CAST. isla} i dels de Maó i demés parts forànees i tot lo contingut en dites peticions, proveeix que, salvant los drets a les parts, per ara se farà lo compariment de general, això és lo de l'any 1641, conforme manifest vell i lo de 1642 conforme lo nou manifest i així ho declara. Transcripción literal"
+  ],
+  "literal": [
+    "1. Se Sria Avent vist las peticions 2. presentadas per los my< ns> jurats de la 3. present {esp.} jsla y dells de maho y de 4. mes parts frances y tot lo consenyat- 5. en ditas petisions provejex que 6. valuant los drets a las parts per 7. are se fara lo conpatiment de general 8. aso es lo del anj 1641 conforme 9. manifet vell y lo de 1642 conforma 10. lo nou manifest y axi ho declara [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "002-2 copia.jpg",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo08/002-2 copia.jpg",
+      "url": "/legajos/legajo-08/images/002-2 copia.jpg"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "002-2 copia.jpg",
+  "warnings": [],
+  "raw_source": "raw/legajos/legajo-08/cartas/000809.json",
+  "primary_image_url": "/legajos/legajo-08/images/002-2 copia.jpg"
+}

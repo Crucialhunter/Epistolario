@@ -1,0 +1,38 @@
+{
+  "legajo_id": "13",
+  "id_carta": "1884",
+  "order_in_legajo": 159,
+  "signatura": "236:2388.JPG",
+  "nombre_carta": "Carta de Jordi Sanmartí i Sureda a Pedro Santacilia y Pax",
+  "fecha_original": "14 de julio de 1669",
+  "lugar": "Ibiza",
+  "remitente": "Jordi Sanmartí i Sureda",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Sr. mío. respondiendo a la de v. s. de v. s. de 13 del pasado, que recibí comparticular gusto, mezclado en sentimiento, dos extremos tan distintos, como ponderables, si bien la proternidad (sic) del uno será Nuestro Señor servido se tolere, con lo gustoso del otro, de que rindo a vos. Repetidas enhorabuenas, tocándome en esta ocasión como tan interesado en el feliz empleo, mucha parte de la alegría de vos, que en compañía de mi Sra. doña Leonor gocen vv. ss. los prolongados siglos que deseo, cuyas vidas guarde el Cielo dilatados años con el logro de la sucesión. Ibiza y julio 14 de 1669. Besa a vos la mano su mayor servidor Don Jorge Sanmartí y Sureda Sr. D. Pedro Santacilia y Pax. Transcripción literal"
+  ],
+  "literal": [
+    "1. Sr mío. respondiendo a la de V.S. de V.S. de 13 del2. passado, que Reçebi comparticular gusto,3. mezclado en Sentimiento, dos extremos4. tan distintos, como ponderables, Si=5. bien la proternidad (sic) del huno sera Nro 6. Sr Servido se tolere, con lo gustoso del7. otro. de que Rindo a Ves. repetidas8. enora buenas, tocando me enesta ocasion9. como tan interesado en el feliz empleo,10. mucha parte de la alegria de Ves.11. que encompañia de mi Sa Doña Leonor12. goçen VeSs los prolonga[dos] siglos13. que deseo, cuyas vidas gde el zielo dila14. tados Ans con [el] logro de la suçession.15. Ibissa y Julio 14 de 1669=16. Ba a Ves l[a] m17. S[u] M S18. Don Jorge Sanmartí19. y Sureda20. Sr. D. Pedro Sta Silia y Pax. [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "236:2388.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo13/236:2388.JPG",
+      "url": "/legajos/legajo-13/images/236:2388.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "236:2388.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-13/cartas/001884.json",
+  "primary_image_url": "/legajos/legajo-13/images/236:2388.JPG"
+}

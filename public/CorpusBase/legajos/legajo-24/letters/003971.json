@@ -1,0 +1,48 @@
+{
+  "legajo_id": "24",
+  "id_carta": "3971",
+  "order_in_legajo": 18,
+  "signatura": "036:4023a.JPG",
+  "nombre_carta": "Carta de Enrique de Aragón (VI duque de Cardona) a Pedro Santacilia y Pax",
+  "fecha_original": "4 de abril de 1634",
+  "lugar": "Perpiñán",
+  "remitente": "Enrique de Aragón (VI duque de Cardona)",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "V. m. siempre me ha escrito tan claro que solo pude dudar en que pudiese haber tales resoluciones en el mundo, pero no del [?] y seguridad con que v. m. me lo avisaba, que fío tanto del como de mi mismo, el estado que esto tiene. Habrá v. m. visto por las cartas que llevaron los correos, y en el último no pudo ir para v. m. por la prisa que pedía el negocio, pero ya ordené lo viese todo v. m. Ayer estuvo aquí don Bernardino tan contento con sus órdenes como juzgará v. m. de lo que ha andado en ellas. Yo he dado las que me han parecido importaban para conseguir el intento de su majestad con mayor brevedad y aguardo la resolución de lo que escribí con los correos, teniéndola de no embarazar en esto ni en lo demás, v. m. vaya continuando la merced que me hace, y holgáreme yo harto de verle con algo de lo que merece. A Pedro le costará muy bien su prisión que lo siento harto por la descomodidad con que todos nos hallamos, remédielo Dios y guarde a v. m. como deseo. Perpiñán a 4 de abril 1635. Señor don Pedro que siempre acierta y conoce por la correspondencia que se le ofre Sr. don Pedro Santacilia [1§] ce que es [?] retirarse, yo deseo ver respuesta. El duque de Segorbe [?] [2§] Perpiñan rdo. 4 abril 1634 El duque de Cardona [3§] Transcripción literal"
+  ],
+  "literal": [
+    "1. V.m. siempre mea escrito tan Claro que solo pude 2. dudar en q pudiesse haver tales resoluciones en el3. mundo, pero no del ammo?? y siguridad con q V.m.4. me lo avisava, que fio tanto del como de mi mesmo,5. el estado que esto tiene habra v.m. visto por las cartas6. q llevaron los correos, y en el ultimo no pudo yr7. para v.m. por la prissa que pidia el negoçio pero ya8. ordene lo viesse todo V.m. Ayer estubo aqui Don9. Bernardino tan contento con sus ordenes como Jusgara10. V.m. de lo que ha andado en ellas. Yo he dado las11. que me han parecido importavan para conseguir el12. intento de Su Magd con mayor brevedad y aguardo la13. resoluçion de lo que escrivi con los correos, tenien14. dola de no embaraçar en esto ni en lo demas, V.m. 15. vaya continuando la mrd que me haçe, y olgareme16. yo harto de verle con algo de lo que meresçe17. A Pedro le costara muy bien su prision q lo siento18. harto por la descomodidad con q todos nos hallamos19. remedie lo Dios y gde a v.m. como deseo, Perpiñian 20. a 4. de Abril 1635. [^señor don pedro 21. que siempre[?] açyerta y conoçe por22. la corespondençya que se le o[fre??]23. Sr. Don Po. Sta. Ciçilia [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "036:4023a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo24/036:4023a.JPG",
+      "url": "/legajos/legajo-24/images/036:4023a.JPG"
+    },
+    {
+      "filename": "037:4023b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo24/037:4023b.JPG",
+      "url": "/legajos/legajo-24/images/037:4023b.JPG"
+    },
+    {
+      "filename": "038:4023c.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo24/038:4023c.JPG",
+      "url": "/legajos/legajo-24/images/038:4023c.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "036:4023a.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-24/cartas/003971.json",
+  "primary_image_url": "/legajos/legajo-24/images/036:4023a.JPG"
+}

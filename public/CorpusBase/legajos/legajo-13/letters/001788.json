@@ -1,0 +1,43 @@
+{
+  "legajo_id": "13",
+  "id_carta": "1788",
+  "order_in_legajo": 50,
+  "signatura": "093:2292a.JPG",
+  "nombre_carta": "Carta de Sebastià Suau a Pedro Santacilia y Pax",
+  "fecha_original": "14 de agosto de 1668",
+  "lugar": "Amberes",
+  "remitente": "Sebastià Suau",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Sr. mío el sargento mayor don Miguel Suau que lo es del tercio del conde de Monterrey me escribe que tiene carta de Madrid de un amigo suyo y me dice de su llegada aquella arte de que me holgado en más de lo que puedo decir hay llegado con entera salud y así será siempre que supiere de ella y creo que v. s. no dudará de ello que siempre he sido y seré toda mi vida. Los mallorquines no tenemos condes ni marqueses que nos favorezcan y apoyen nuestros servicios v. s. a puede Procurador real el Sr. D. Pedro de Santacilia y Pax [1§] hacernos merced al sargento mayor Suau y a mi sea su protetor en estas ocasiones de sus pretensiones pues ha derramado mucha sangre en servicio de su majestad en las ocasiones que se han ofrecido con perdida de dos hermanos suyos, uno a Italia y otro cuando tomamos a tan [?] y su castillo y como v. s. a en las mayores ocasiones de las ciudades y castillos y la gran batalla que se ganó en [?] es testigo de avista [?]. No me alargaré más pues pasamos hartas necesidades en la Alsacia. Yo he venido de mi gobierno de la villa de Lieja en esta villa de Amberes, donde tenía mi mujer, {CAT. ancara xorca}, a cobrar unas rentas suyas que le dejó su padre. Don Diego Pardo que descienden de Burgos en España no me atrevo a ofrecer a v. s. a cosa, pues sabe que lo tengo de obedecer toda mi vida, pues somos amigos de veras y de Amberes a 14 de agosto 1668. Besa la mano de v. s. a su mayor servidor y amigo de veras Sebastian Suau Aguardamos el Sr. don Juan de Austria todos los días en llegando le iré a besar la mano que me hizo merced de darme un recado [?] [2§] Transcripción literal"
+  ],
+  "literal": [
+    "1. Sr mio el sargto mayor don 2. miguel Suau que lo 3. es del tero del conde de4. muterey me es crive que5. tiene carta de madrid6. de un amigo suyo y me 7. dise de su llegada aque8. lla arte de que me olgado 9. en ma de lo que puedo10. disir ay llegado con entera11. salud y asi sera siempre12. que supiere della y creo13. que Vsa. no dudara dello14. que siempre esido y sere15. toda mi vida16. los malorquines no tenemos17. condes ni marques que 18. nos favorescan y apoien19. nros serviçios VSa. puede 20. Sr. Prodor Real21. el Sr. dn po de santa22. çiçilia y pax [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "093:2292a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo13/093:2292a.JPG",
+      "url": "/legajos/legajo-13/images/093:2292a.JPG"
+    },
+    {
+      "filename": "094:2292b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo13/094:2292b.JPG",
+      "url": "/legajos/legajo-13/images/094:2292b.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "093:2292a.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (2)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-13/cartas/001788.json",
+  "primary_image_url": "/legajos/legajo-13/images/093:2292a.JPG"
+}

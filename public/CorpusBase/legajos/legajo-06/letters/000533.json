@@ -1,0 +1,48 @@
+{
+  "legajo_id": "6",
+  "id_carta": "533",
+  "order_in_legajo": 32,
+  "signatura": "005_3a",
+  "nombre_carta": "Carta de Viscomte de Rocabert a Cecilia Zaforteza y Sureda de Sant Martí",
+  "fecha_original": "2 de enero de 1740",
+  "lugar": "Viena",
+  "remitente": "Viscomte de Rocabert",
+  "destinatario": "Cecilia Zaforteza y Sureda de Sant Martí",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Senyora, Germana i molt senyora mia dono a v. s. mil gràcies per la notícia favorable que v. s. se serveix donar-me en sa molt estimada carta de 22 del mes de setembre de quedar efectuada la {ESP. boda} de v. s. amb mon volgut germà, dn. Francisco Sureda. [1§] Esper que v. s. me farà la justícia de creure que desitjo ardentment que tan {ESP. acertada} unió vagi sempre acompanyada de moltes prosperitats i de molts {ESP. consuelos} i d’una copiosa successió que asseguri la duració d’una tan il·lustre família. Prego a v. s. de fer-me l'honra d’encaminar-me [2§] els seus venerats preceptes que estimaré més quan siguin més freqüents. Déu guardi a v. s. els molts anys que pot i deu. De Viena, a 2 de gener 1740. Senyora a les plantes de v. s. son germà i més obedient criat, Vescomte de Rocabertí. Senyora dona Cecilia de Sureda i Zaforteza, germana i molt senyora mia. Transcripción literal"
+  ],
+  "literal": [
+    "1. Señora: 2. Germana y molt S< enyo>ra {esp.} mia 3. dono a V.S. mil gracias 4. per la noticia favorable 5. que V.S. se serveix do- 6. narme en sa molt esti- 7. mada carta de 22 del 8. mes de 7< setem< bre de quedar 9. effectuada la boda de V.S. 10. a< m>b mon volgut Germà 11. Dn. Francisco sureda. [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "005_3a.jpg",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo06/005_3a.jpg",
+      "url": "/legajos/legajo-06/images/005_3a.jpg"
+    },
+    {
+      "filename": "006_3b.jpg",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo06/006_3b.jpg",
+      "url": "/legajos/legajo-06/images/006_3b.jpg"
+    },
+    {
+      "filename": "007_3c.jpg",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo06/007_3c.jpg",
+      "url": "/legajos/legajo-06/images/007_3c.jpg"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "005_3a.jpg",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-06/cartas/000533.json",
+  "primary_image_url": "/legajos/legajo-06/images/005_3a.jpg"
+}

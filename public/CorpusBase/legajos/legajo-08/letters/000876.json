@@ -1,0 +1,38 @@
+{
+  "legajo_id": "8",
+  "id_carta": "876",
+  "order_in_legajo": 101,
+  "signatura": "088-69 copia",
+  "nombre_carta": "Carta de Thomás Áufre y Velasco a Persona desconocida",
+  "fecha_original": "11 de agosto de 1644",
+  "lugar": "Castillo de San Felipe (Menorca)",
+  "remitente": "Thomás Áufre y Velasco",
+  "destinatario": "Persona desconocida",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "El pliego incluso que va será mi merced se servirá mandarlo. Remitió en la primera ocasión el que contiene el negocio que comuniqué a v.s. y escribo su parecer de v.s. con que tendrán más ánimo sabiendo v.s. me favorece en la ocasión una firma en blanco mía. Remito a v.s. para que se escriba mandar poner a su voluntad la carta de pago del que v.s., Dios me guarde, quiere hacer merced y aseguro a v.s. siento harto estos enfados que pueden causar a v.s.. Pero, como tengo dicho, a la necesidad no hay ley, me ocasiona a todo. Guarde Dios a v.s. muchos años, como deseo y es menester. Castillo de San Felipe y agosto, a 11 de 1644 Thomás de Aúfre y Velasco Señor gobernador Transcripción literal"
+  ],
+  "literal": [
+    "1. El Pliego ynClusso. Que VaSera. mim<>. seservira 2. mandarlo Remitio. en la PRimera ocasion el q contiene el 3. negoçio que Comunique a V.S. y escrivo su pareçer de V.S. con 4. q tendran. mas animo. saviendo. V.S. mefaboreçer enla 5. oCasion 6. Una firma. en Blanco. mia Remito a V.S. p< [a]> que sescriva 7. mandar poner a su Boluntad. la carta de Pago. del 8. q V.S. Dios le g< > me quiere haçermerced y assiguro a V.S. 9. çsiento Arto. estos emfados. q pueden causar a V.S. peso com[o] 10. tengo dho ala neçessidad no ay ley. me ocassiona atodo 11. g< > Dios aV.S. muchos anos comodeseo y he menester 12. S[a]nPH< > y Ag< > A. 11 de 1644 13. Thomas de Çufre y V< >? de?? [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "088-69 copia.jpg",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo08/088-69 copia.jpg",
+      "url": "/legajos/legajo-08/images/088-69 copia.jpg"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "088-69 copia.jpg",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (2)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-08/cartas/000876.json",
+  "primary_image_url": "/legajos/legajo-08/images/088-69 copia.jpg"
+}

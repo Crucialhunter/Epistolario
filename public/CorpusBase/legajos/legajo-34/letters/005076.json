@@ -1,0 +1,38 @@
+{
+  "legajo_id": "34",
+  "id_carta": "5076",
+  "order_in_legajo": 104,
+  "signatura": "161:6991.JPG",
+  "nombre_carta": "Carta de Diego Matías de Aragüés a Pedro Santacilia y Pax",
+  "fecha_original": "3 de enero de 1657",
+  "lugar": "Madrid",
+  "remitente": "Diego Matías de Aragüés",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Al Arcediano Sr. don fructuoso Piqr he integrado el despacho de v. m. de la ayuda de carta de 200 ducados per tres años. y asimismo el privilegio de la escribania de Alfonagi de mi sobrino Jeronimo Pelegrino, su merced ha dado el dinero para todo, a savea/ s, para el de la Ayuda de Costa 598 reales Para el piro de la escriba/ nia 388 reales y asimismo 1000 R de plata que vistraje cuando estuvo a que mi sobrino deordinee Vm para el efecto que v. m. save. holgaré todo llegue a poder de v. m. y de tener aviso de ello, mandan/dome le sirva y de Dios . muy buenos principios de ano. como le deseo Madrid a 3 de enero 1657. Besa la mano de v. m. su mayor servidor Diago Matias de Aragues Sr. don Pedro Santacilia y Pax [1§] Transcripción literal"
+  ],
+  "literal": [
+    "1. Al sr. Arcediano don fructuoso Piqr2. he integrado el despacho de Vm de la3. ayuda de carta de 200 ddos per tres4. años. Y assi mesmo el privilegio5. de la escrivania de Alfonagi de mi6. sobrino Geromo Pelegrino, su md7. ha dado el dinero pa todo, a sa[vea/]8. [ ]s, parael de la Ayuda de Costa9. 598 Rs = Para el piro de la escriva/10. nia 388 Rs Y assi mesmo 1000 R11. de pta q vistraje qdo estubo a qui mi12. sobrino deordinee[ ]Vm para el13. effecto q Vm save.14. olgare todo llegue apoder de Vm15. y de tener avisso dello, mandan/16. dome le sirva y de dios. muy buenos17. principios de ano. Como le desseo18. Md a 3 de enero 165719. Vesa la mano de Vm20. su mayor seror21. Diago Mathias de22. Aragues23. Sr. don Pedro Sta cilia y Pax [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "161:6991.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo34/161:6991.JPG",
+      "url": "/legajos/legajo-34/images/161:6991.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "161:6991.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (3)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-34/cartas/005076.json",
+  "primary_image_url": "/legajos/legajo-34/images/161:6991.JPG"
+}

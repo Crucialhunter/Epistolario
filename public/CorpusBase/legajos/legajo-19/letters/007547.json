@@ -1,0 +1,58 @@
+{
+  "legajo_id": "19",
+  "id_carta": "7547",
+  "order_in_legajo": 278,
+  "signatura": "060_cg29a.JPG",
+  "nombre_carta": "Carta de March Vallès a Pedro Santacilia y Pax",
+  "fecha_original": "25 de mayo de 1657",
+  "lugar": "Lugar sin especificar",
+  "remitente": "March Vallès",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Â [1§] Â [2§] Â [3§] Â [4§] Â [5§] Transcripción literal"
+  ],
+  "literal": [
+    "1. 1. 1. 1. 1."
+  ],
+  "imagenes": [
+    {
+      "filename": "060_cg29a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo19/060_cg29a.JPG",
+      "url": "/legajos/legajo-19/images/060_cg29a.JPG"
+    },
+    {
+      "filename": "061_cg29b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo19/061_cg29b.JPG",
+      "url": "/legajos/legajo-19/images/061_cg29b.JPG"
+    },
+    {
+      "filename": "062_cg29c.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo19/062_cg29c.JPG",
+      "url": "/legajos/legajo-19/images/062_cg29c.JPG"
+    },
+    {
+      "filename": "063_cg29d.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo19/063_cg29d.JPG",
+      "url": "/legajos/legajo-19/images/063_cg29d.JPG"
+    },
+    {
+      "filename": "064_cg29e.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo19/064_cg29e.JPG",
+      "url": "/legajos/legajo-19/images/064_cg29e.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "060_cg29a.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (16)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-19/cartas/007547.json",
+  "primary_image_url": "/legajos/legajo-19/images/060_cg29a.JPG"
+}

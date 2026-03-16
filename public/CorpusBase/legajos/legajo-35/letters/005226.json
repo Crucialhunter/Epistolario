@@ -1,0 +1,38 @@
+{
+  "legajo_id": "35",
+  "id_carta": "5226",
+  "order_in_legajo": 41,
+  "signatura": "029:8072.JPG",
+  "nombre_carta": "Carta de Rafael Vives García a Pedro Santacilia y Pax",
+  "fecha_original": "5 de junio de 1642",
+  "lugar": "Maó",
+  "remitente": "Rafael Vives García",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "No aguardaba yo menos de v. s. la memoria que ha tenido de honrarme a mí, sabiendo en seguirle bailo, esta villa quedará en la mía porque en las ocasiones de su servicio de v. s. se acuerde para que en ellas haga lo mismo y vaya siempre creciendo la deuda en mi como en v. s. el empeño de honrar me. Dios se lo pague y dé muchos años de vida con los aciertos que le deseo. Mahón y junio a 5 de 1642 El Dr. Rafael Vives y García Sr. Por. Transcripción literal"
+  ],
+  "literal": [
+    "1. No aguardava yo menos de V.S. la memoria que2. ha e tenido de honrarme a mi saviendo en seguirle3. baylo esta villa quedara en la mia porque en las4. occasiones de su serbicio de V.S. se hacuerde para q en5. ellas aga lo mismo y vaya sienpre creçiendo la6. deuda, en mi, como en V.S. el empeño de honrar7. me Dios se lo pague y de muchos años de vida8. con los açiertos que le dezeo Mahon y Junio a 5 de 16429. El Dr. Rafael Vives y Garçia10. Sor. Por. [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "029:8072.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo35/029:8072.JPG",
+      "url": "/legajos/legajo-35/images/029:8072.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "029:8072.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-35/cartas/005226.json",
+  "primary_image_url": "/legajos/legajo-35/images/029:8072.JPG"
+}

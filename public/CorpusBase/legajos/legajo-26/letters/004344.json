@@ -1,0 +1,57 @@
+{
+  "legajo_id": "26",
+  "id_carta": "4344",
+  "order_in_legajo": 80,
+  "signatura": "115:3438a.JPG",
+  "nombre_carta": "Carta de Antonio de Villacorta y Mercado a Pedro Santacilia y Pax",
+  "fecha_original": "17 de diciembre de 1639",
+  "lugar": "Berasain",
+  "remitente": "Antonio de Villacorta y Mercado",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "El mismo día que sucedieron estas desgracias órdenes que v. m. dice llegó a mi la queja y tras ella un cabo de escuadra que gobernaba un cuartel a cuya vista se hizo diciéndome los soldados que eran y el otro día por la mañana despaché una carta a Pamplona dándole a v. m. aviso de ello, la cual como no le halló a v. m. allí se debe de haber perdido y así sabrá v. m. que los soldados eran Jaime Pujadas y Bara y a los otros dos no los conoció por su nombre, pero eran también de su compañía de v. m. y el uno de ellos era de las señas que dice la cara según dice el aposentador que le estupo que hicieron no que en el cuartel de los míos y a la mañana al volverse debieron de hacer lo mismo. V. m. este cierto de esta verdad y crea de mi que jamás a dejado la compañía tan quieta ni yo con tanto cuidado de que se me luzca este deseo, pues no se hallará que soldado mío haya salido de su cuartel a inquietar los demás, sino que como el puesto es más ocasionado por ser camino real y por estar su compañía de v. m. más esparcida y la de don Sr. D. Pedro de Santacilia y Pax. [1§] Juan Vivot se salen sin orden a hacer estos excesos como saben que todo ha de cargar sobre mi, pues sólo parece haberse hecho en el camino real y entre mis cuarteles y en otra ocasión soldados de don Juan Vivot han hecho lo mismo y yo se lo he escrito pidiéndole que no de licencia para venir a mi cuartel a ningún soldado que sólo sirven de inquietudes y así suplico a v. m. esta merced [?] de esto mismo no salgo nunca del cuartel y por eso no me he llegado a ver las cartas de la estafeta. Mañana es fuerza hacerlo para ver las que v. m. me dice que hay y negociar unos despachos que me encargó mi tío. Avisaré a v. m. de lo que hubiere, a quien Dios guarde como deseo, de Berasain a 17 de diciembre de 1639. Servidor de v. m. que sus manos besa D. Antonio de Villacorta y Mercado Berasain 17 de diciembre 1639 Don Antonio Villacorta y Mercado Transcripción literal"
+  ],
+  "literal": [
+    "1. El mesmo dia q sucedieron estas des(^gracias) [^ordenes]2. q Vm dice llego a mi la quexa y tras ella una ca3. bo desquadra q governaba un quatel a cuia4. bista se hiço diciendo me los soldados queran5. y esotro dia por la mañana despache una car6. ta a panplona dandole a Vm abiso dello la7. qual como no le allo a Vm Alli se debe de aber8. perdido y asi sabra Vm q los soldados eran9. Jayme Puxadas y Bara y a los otros dos10. no los conoçio por su nonbre pero eran11. tanvien de su conpañia de Vm y el uno dellos12. era de las señas q dice la cara segun diçe13. el aposentador que lestupo q hicieron no14. che en el quartel de los mios y a la mañana15. al bolberse debieron de hacer lo mismo 16. Vm este çierto desta berdad y crea de mi17. que xamas a esado la conpañia tan quieta18. ni yo con tanto cuydado de q se me luzca19. este deseo pues no se allara que soldado mio20. aya salido de su quartel a ynquietar los21. demas sino que como el puesto es mas ocasio22. nado por ser camino Real y por estar su23. conpañia de Vm. mas esparçida y la de don24. Sr. D. Pº de Ssta. cilia y pax. [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "115:3438a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo26/115:3438a.JPG",
+      "url": "/legajos/legajo-26/images/115:3438a.JPG"
+    },
+    {
+      "filename": "116:3438b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo26/116:3438b.JPG",
+      "url": "/legajos/legajo-26/images/116:3438b.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "115:3438a.JPG",
+  "warnings": [
+    {
+      "code": "IMAGE_DOWNLOAD_FAIL",
+      "message": "HTTP 404",
+      "context": {
+        "url": "http://santacilia.info/intranet2/img/Legajo26/115:3438a.JPG"
+      }
+    },
+    {
+      "code": "IMAGE_DOWNLOAD_FAIL",
+      "message": "HTTP 404",
+      "context": {
+        "url": "http://santacilia.info/intranet2/img/Legajo26/116:3438b.JPG"
+      }
+    },
+    {
+      "code": "IMAGE_COUNT_MISMATCH",
+      "message": "Imágenes detectadas (2) != descargadas (0)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-26/cartas/004344.json",
+  "primary_image_url": "/legajos/legajo-26/images/115:3438a.JPG"
+}

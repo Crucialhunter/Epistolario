@@ -1,0 +1,38 @@
+{
+  "legajo_id": "19",
+  "id_carta": "7738",
+  "order_in_legajo": 43,
+  "signatura": "448_7945.JPG",
+  "nombre_carta": "Carta de Isabel Ordoño Rosales y Porras a Pedro Santacilia y Pax",
+  "fecha_original": "fecha sin especificar",
+  "lugar": "Alfabia",
+  "remitente": "Isabel Ordoño Rosales y Porras",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "He recibido el de vmd. con el propio gusto que requiere tan buena elección como el de la señora Leonor Veri. Viva v. m. mil años para que vea muchos nietos y nietas del señor don Nicolas. De esta su casa de Alfabia, hoy domingo. Servidora de v. m. que su mano besa y, doña Isabel Ordoño Señor don Pedro Santacilia Transcripción literal"
+  ],
+  "literal": [
+    "1. erezibido el de VMd 2. con el propio gusto que 3. reqiere tan buena ele 4. zion como el de la seño 5. ra leonor beri biba 6. VMd mil años para 7. que bea muhos nietos 8. i nietas del señor don 9. nicolas = desta su casa 10. de alfabia oi domin11. go = serbidora de VMd 12. que su mano besa y13. Doña isabel ordoño14. Sr. don pedor santasilia [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "448_7945.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo19/448_7945.JPG",
+      "url": "/legajos/legajo-19/images/448_7945.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "448_7945.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-19/cartas/007738.json",
+  "primary_image_url": "/legajos/legajo-19/images/448_7945.JPG"
+}

@@ -1,0 +1,43 @@
+{
+  "legajo_id": "34",
+  "id_carta": "5181",
+  "order_in_legajo": 210,
+  "signatura": "320:7096a.JPG",
+  "nombre_carta": "Carta de Diego Matías de Aragüés a Pedro Santacilia y Pax",
+  "fecha_original": "24 de agosto de 1658",
+  "lugar": "Madrid",
+  "remitente": "Diego Matías de Aragüés",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Por la estafeta de Barcelona recibo hoy la carta de v. m. de 12 del corriente en que se sirve decirme el sentimiento que le había causado el no haberme dado satisfacción el Mar/ que es sierra por orden del duque de Jursi y me pesa que v. m. quiera ser tan puntual con quien tanto desea servirle como yo y cuando en esto hubiera habido [?] sión (que no la hay)67 quien [?] la que este su apasionado servidor Si ahora con lo que v. m. ha escrito dieren el dinero lo avisaré a v. m. cuando no aguardare a que v. m. tenga ocasión sin valerme de Diego Matias el cual sabe que lo poco que yo tuviere esta a su disposición de v. m. No he podido ver hoy al Protrio porque es día de fiesta y así no he sabido con seguir/ dad si ha venido la Jerna delaplaza, o, no y cierto que aventuraba poco el virrey en enviar un duplicado o, triplicado con esta embarcación, yo soy ran apasionado del [1§] Amigo Bassa que pueden estar v. m. y el asegurados que no ha de quedar diligencia por hacer arriba y abajo que alcanzamos unos tiempos que la misma justicia necesita de medios para conseguirla. Guarde Dios a v. m. muchos años como deseo Madrid a 24 de agosto 1658. Besa la mano de v. m. su más afecto servidor Jeronimo Mancho Diego a v. m. como he recibido el pliego y dado las Inclusas yelmercoles respen/ dere a todo y es [?] 68 per Valencia si viene laternaaesta plaza, el lunes se parte a Badajoz el Sr. don luys a Badajoz. Guarde Dios a v. m. Madrid a 24 Agosto 1658. Besa la mano de v. m. Aragues 41, extrem inferior Sr. don Pedro Santacilia y Pax [2§] Transcripción literal"
+  ],
+  "literal": [
+    "1. Por la estafeta de Barcelona recibo oy2. la carta de V.m. de 12 del corriente en que3. se sirve dezirme el sentimiento que le havia4. causado el no haverme dado satisfacion el Mar/5. ques sierra por orden del Sr. Duque de Jursi6. y me pesa q Vm. quiera ser tan puntual7. con quien tanto dessea serville como yo8. y q[uan]do en esto huviera havido [illegible]9. sion (que no la hay)67 quien [illegible]10. la que este su apasionado servr = Si aora11. con lo que V.m. ha escrito dieren el dinero lo12. avisare a V.m. quando no aguardare a que13. V.m. tenga ocasion sin valerme de Diego Ma-14. thias el qual sabe quelo poco q yo tuviere15. esta asu disposicion de V.m.16. No hepodido ver oy al Sr. Protrio porque es17. dia de fiesta y assi no he sabido con seguir/18. dad si ha venido la Jerna delaplaza ,o, no19. y cierto que aventurava poco el Sr. Virrey20. en embiar un duppdo o, triplicado con esta21. embarcacion, yo soy ran apasionado del [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "320:7096a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo34/320:7096a.JPG",
+      "url": "/legajos/legajo-34/images/320:7096a.JPG"
+    },
+    {
+      "filename": "321:7096b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo34/321:7096b.JPG",
+      "url": "/legajos/legajo-34/images/321:7096b.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "320:7096a.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (3)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-34/cartas/005181.json",
+  "primary_image_url": "/legajos/legajo-34/images/320:7096a.JPG"
+}

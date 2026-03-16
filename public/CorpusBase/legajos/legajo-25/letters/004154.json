@@ -1,0 +1,43 @@
+{
+  "legajo_id": "25",
+  "id_carta": "4154",
+  "order_in_legajo": 88,
+  "signatura": "179_188a.JPG",
+  "nombre_carta": "Carta de Pablo Corbella a Jerónimo Pelegrín de Aragüés",
+  "fecha_original": "9 de julio de 1667",
+  "lugar": "Càller (Cagliari)",
+  "remitente": "Pablo Corbella",
+  "destinatario": "Jerónimo Pelegrín de Aragüés",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Amigo y Sr. mío pocos días ha[ce] escribí a v. m. con la barca del capitán Ballester con que ahora no se me ofrece más que el solicitar nuevas de la salud de v. m. que deseo sean muy buenas, en vida de toda su casa, cuyas manos beso. Entonces escribí a v. m. se sirviese hacerme gusto de dar 25 reales de a ocho a la mujer de Giuseppe Cavanillas, maestro carpintero que trabaja en casa y está bueno con sus hijos, que v. m. se sirvira decírselo a su mujer y que no le escribe por la prisa con que pasa este bergantín que viene de Palermo y por la misma no he tenido yo lugar de sacar letra para remitir a v. m. Caso que el Sr. Miguel Fiol no hubiese tenido dinero mío, pero yo la tendré sacada para la primera ocasión que se ofrezca. Guarde Nro. Sr. a v. m. como deseo en toda felicidad. Cáller y julio a 9 de 1667. Amigo y Sr. más servidor de v. m. que su mano besa Pablo Corbella Sr. Jeronimo Pelegrin y Aragues. [1§] Cáller, de don Pablo Corbella, de 9 de juliol 1667. {CAT. Rebuda a 2 d'agost}. Transcripción literal"
+  ],
+  "literal": [
+    "1. Amigo y sr. mio pocos dias ha escrivi a Vm.2. con la barca del capn. Ballester con q aora3. no se me ofreçe mas que el solicitar nuebas de4. la salud de Vm. que desseo sean muy buenas5. en vida de toda su cassa cuyas manos Bº6. entonçes escrivi a Vm. se sirbiesse haçer me gus7. to de dar 25 Reales de a ocho al la muger8. de Jussepe Cavanillas maestro carpintero9. que travaja en cassa y esta bueno con sus hi10. jos que Vm. se sirbira decirselo a su muger11. y que no le escrive por la prissa con q passa12. este bergantín que viene de Palermo y por la13. mesma no he tenido yo lugar de sacar letra14. para remitir a Vm. casso que el sr. Miguel15. Fiol no hubiesse tenido dinero mio pero16. yo la tendre sacada para la primer ocassion17. que se ofrezca g[uard]e Nro. Sr. a Vm. como de18. sseo en toda felicidad Caller y Julio a 919. de 166720. Amigo y mas servidor21. de Vm. que su mano bessa22. Pablo Corvella23. Sr. Geronimo Pelegrin y Aragues. [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "179_188a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo25/179_188a.JPG",
+      "url": "/legajos/legajo-25/images/179_188a.JPG"
+    },
+    {
+      "filename": "180_188b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo25/180_188b.JPG",
+      "url": "/legajos/legajo-25/images/180_188b.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "179_188a.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (4)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-25/cartas/004154.json",
+  "primary_image_url": "/legajos/legajo-25/images/179_188a.JPG"
+}

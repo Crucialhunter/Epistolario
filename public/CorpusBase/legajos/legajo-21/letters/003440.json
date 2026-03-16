@@ -1,0 +1,43 @@
+{
+  "legajo_id": "21",
+  "id_carta": "3440",
+  "order_in_legajo": 128,
+  "signatura": "225:5728a.JPG",
+  "nombre_carta": "Carta de Nicolás Fiol a Pedro Santacilia y Pax",
+  "fecha_original": "6 de marzo de 1639",
+  "lugar": "Vitoria",
+  "remitente": "Nicolás Fiol",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "He recibido la de v. m. de 25 del pasado y juntamente he visto lo que ha escrito al consejo así en lo que toca a crecer el número de esta caballería como a sus particulares y en lo primero me remitiré a lo que v. m. verá a por la respuesta del consejo y en lo segundo aseguro a v. m. que deseo servirle y que lo procuraré en todas ocasiones y me pesa que en lo de la licencia no pueda el consejo venir en ello por no tener mano para conceder licencia a nadie, pero así esto como lo del poco sueldo que v. m. representa no dejará el consejo de ponerlo en consideración a su merced siendo mucha razón que tenga mucha comodidad de servirle quien lo hace con tanta puntualidad como v. m., a quien guarde Nro. Sr. muchos años, de Vitoria 6 de marzo 1639. Don Niculas Fiol Sr. D. Pedro de Santacilia [1§] Vitoria 6 Marzo 1639 don Nicolas Fiol rdo. Transcripción literal"
+  ],
+  "literal": [
+    "1. He recibido la de Vm. de 25 del passado y Jun2. tame hevisto loque haescrito al Consejo assi 3. en lo que toca a creçer el numero desta cavria como a 4. sus particulares y en lo primero meremitire aloq Vm 5. vera por la respuesta del Conso y en lo segundo asse6. guro a Vm. q desseo servirle y q lo procurare entodas 7. ocasiones y mepsa que en lo dela licencía nopue8. da el Conso venir en ello por no tener mano para 9. conceder lica a nadíe pero assi esto como lo de 10. el poco sueldo q Vm. representa no dejara el Conso 11. de ponerlo en consideraçíon a su md siendo mucha 12. razon q tenga mucha comodidad de servirle quíen 13. lo haze con tanta puntualidad como Vm. aquien 14. gde nro sr muchos años De Vittoria 6. de Março 15. 1639 16. Don Niculas fiol 17. [Margen izquierdo][^ Sr D Po de Santa cícílía] [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "225:5728a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo21/225:5728a.JPG",
+      "url": "/legajos/legajo-21/images/225:5728a.JPG"
+    },
+    {
+      "filename": "226:5728b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo21/226:5728b.JPG",
+      "url": "/legajos/legajo-21/images/226:5728b.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "225:5728a.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-21/cartas/003440.json",
+  "primary_image_url": "/legajos/legajo-21/images/225:5728a.JPG"
+}

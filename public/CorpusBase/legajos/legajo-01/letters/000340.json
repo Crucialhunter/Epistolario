@@ -1,0 +1,53 @@
+{
+  "legajo_id": "1",
+  "id_carta": "340",
+  "order_in_legajo": 31,
+  "signatura": "072-231",
+  "nombre_carta": "Carta de Nicolás de Santacilia y Togores a Jerónimo Pelegrín de Aragüés",
+  "fecha_original": "8 de octubre de 1667",
+  "lugar": "Madrid",
+  "remitente": "Nicolás de Santacilia y Togores",
+  "destinatario": "Jerónimo Pelegrín de Aragüés",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "La de nueve del pasado he recibido con el gusto que siempre y de que estén buenos todos. La mía también es buena, gracias a Dios, para lo que me quisieren emplear estos señores, que las cosas se han mudado de tal género que pienso no servirá más que para domarla la cama, que se ha empezado [a] hacer tantas veces.",
+    "El hijo de don Rodrigo de Borja está en esta corte, dicen, para negocios de su padre, y que está despachado ya. No sé a lo que ha venido; hasta ahora sólo lo que podemos presumir allá y acá. El amigo don Isidro Marques está malo: Dios le saque de ello, que acá el que llega al seteno no hace poco. Dios os guarde muchos años.",
+    "Madrid, a 8 de octubre, 1667.",
+    "Don Nicolas de Santacilia y Togores.",
+    "Jeronimo Pelegrin y Aragues."
+  ],
+  "literal": [
+    "1. La de nue[ve] del pasado e resibido con el gusto",
+    "2. que siempre y de que esten buenos todos la mia",
+    "3. tanbien en buenas grasias a Dios para lo que me",
+    "4. quisieren enplear estos señores que las cosas",
+    "5. se an mudado de tal genero, que pienso, no ser",
+    "6. vira mas que para domalla la cama que sea",
+    "7. enpesado haser tantas veses",
+    "8. El hijo de Don Rodrigo de Borja esta en esta",
+    "9. corte disen para negosios de su Padre y que esta",
+    "10. despachando ya no se alo que ha venido asta ago",
+    "11. ra solo lo que podemos presumir alla y aca",
+    "12. El amigo Don Isidro Marques esta malo Dios",
+    "13. le saque dello, que aca elque llega al seteno noase",
+    "14. poco Dios os guarde muchos años Madrid a 8",
+    "15. de octubre 1667",
+    "16. Don Nicolas de Sta Cilia y",
+    "17. Togores",
+    "18. Geronimo Pelegri y Aragues [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "072-231.gif",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo01/072-231.gif",
+      "url": "/legajos/legajo-01/images/072-231.gif"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "072-231.gif",
+  "warnings": [],
+  "raw_source": "raw/legajos/legajo-01/cartas/000340.json",
+  "primary_image_url": "/legajos/legajo-01/images/072-231.gif"
+}

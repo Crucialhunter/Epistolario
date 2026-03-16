@@ -1,0 +1,43 @@
+{
+  "legajo_id": "37",
+  "id_carta": "5463",
+  "order_in_legajo": 27,
+  "signatura": "145:47a.JPG",
+  "nombre_carta": "Carta de Vicente Ladrón de Guevara a Miguel Malo",
+  "fecha_original": "21 de diciembre de 1666",
+  "lugar": "Zaragoza",
+  "remitente": "Vicente Ladrón de Guevara",
+  "destinatario": "Miguel Malo",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Sr. mío muy bien creo yo de la buena voluntad que en v. m. he experimentado siempre se habrá holgado de la suerte que me ha tocado de jurado y si ella me diere alguna ocasión de poder servir a v. m. tendré mucho más porque estimarla. El amigo Sr. D. Juan Francisco de Pueyo me avisa les veras que v. m. pone en la cobranza del conde de cartanafeta y espero por su buena dirección de v. m. y su cuidado lograrla. Escribo a su excelencia con la ocasión de las pascuas acordándole me haga favor y v. m. se asegure no olvidaré el que me está haciendo y que deseo Dios N. Señor se las dé a v. m. muy felices y con muy buen principio y fin de año. Le guarde los muchos que puede. Zaragoza a 21 de Dexe. de 1666 Perdóneme v. m. la mano ajena que el estar malo de las solo puede disculparme Servidor de v. m. B.S.m. Vicente Ladron de Guevara Vea v. m., la carta y cierrela Miguel Malo [1§] A Jeronimo Pelegrin y Aragues infançon guarde, Dios en casa del D, Pedro de Santacilia Miguel [?] AR Mallorca [2§] Transcripción literal"
+  ],
+  "literal": [
+    "1. Sr. Mío muy bien creo yo de la buena voluntad2. que en Vm he experimentado sienpre se abra3. holgado dela suerte que me a tocado de Jurado y4. si ella me diere alguna ocasion de poder servir a Vm.5. tendre mucho mas porque estimarla6. El amigo D. Juan Fran[cis]co de Pueyo me abisa les beras7. que Vm. pone en la cobranza del Sr. Conde8. de Cartanafeta y espero por su buena direcçion de Vm9. y su cuydado lograrla escribo a su Exª con la10. ocasion de las Pasquas acordandole me aga fabor11. y Vm. se asegure no olbidare el que me esta12. Aciendo y que deseo Dios Nro. Señor se las de13. a Vm. muy felices y con muy buen prinçipio y fin14. de año. Le gde los muchos que puede Carag[oz]a a 2115. de Dexe. de 1666 Perdoneme Vm la ma16. no agena que el estar malo delas solo pue17. de disculparme18. Sercidor de Vm B.S.m.19. Viçente Ladron de Guevara20. Vea Vm, la carta y 21. cierrela22. Sr. Miguel Malo [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "145:47a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo37/145:47a.JPG",
+      "url": "/legajos/legajo-37/images/145:47a.JPG"
+    },
+    {
+      "filename": "146:47b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo37/146:47b.JPG",
+      "url": "/legajos/legajo-37/images/146:47b.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "145:47a.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-37/cartas/005463.json",
+  "primary_image_url": "/legajos/legajo-37/images/145:47a.JPG"
+}

@@ -1,0 +1,38 @@
+{
+  "legajo_id": "26",
+  "id_carta": "4303",
+  "order_in_legajo": 40,
+  "signatura": "051:3397bis.JPG",
+  "nombre_carta": "Carta de Jerònima Tord i Bartrola a Pedro Santacilia y Pax",
+  "fecha_original": "27 de abril de 1639",
+  "lugar": "Valladolid",
+  "remitente": "Jerònima Tord i Bartrola",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Sr. don Pedro de Santacilia Séis semanas ha[ce] que partí de Cataluña para Valladolid a un pleito que tenía mi me (y traía unas cartas para v. m.) el cual presto entiendo es de consideración y casi se tenía por cosa perdida y por las buenas nuevas que tuve de él, me determiné a salir de mi casa para acabarle. Yo traía unas cartas para v. m. de consideración y me dijeron que estaba en las cinco villas de Aragón y después en Zaragoza y en merced y en ninguna de estas presentes pude tener la dicha de verle la cara. Holgaríame si se pudiese verle para poderle comunicar cierta cosa que me dijeron de palabra que todo entiendo ha de ser para bien de la prima Margarita. Hágame saber si vendrá por aquí, porque es cosa que me importa el ver [?] tengo dicho. En habiendo leído ésta v. m. la rompa porque no saben yo esté en Cataluña ni se lo diga al [?] y en me pergunta y lo demás que fuere de su gusto a quien guarde Dios como puede los años de su deseo. Valladolid a 27 de abril 1639. Jeronima Tord i Bartrola Transcripción literal"
+  ],
+  "literal": [
+    "1. Sr. don Pº de Sta çiçilia2. Seis semanas a que parti de Cataluña3. pa Valladolid a un pleito que tenia mi me4. (^y traya unas cartas pa Vm) el qual5. pto entiendo es de consideracion y6. cassi se tenia por cossa perdida y por7. las buenas nuebas que tube del8. me determine a salir de mi cassa9. pa acabarle=10. Yo traya unas cartas pa Vm. de con11. sideracion y me dixeron que12. estaba en las cinco villas de aragon13. y despues en Caragoça y en md y14. en ninguna destas ptes pude15. tener la dicha de berle la cara olgaria16. me si ser pudiesse berle para poderle17. cumunicar cierta cossa que me dixe18. ron de palabra que todo entiendo19. a de ser para bien de la prima margarita20. aga me saber si bendra por aqui21. porque es cossa que me ymporta el ber [?]22. tengo dho23. En abiendo leydo esta Vm la 24. rompa porque no saben jo este en [^en Cataluña ni se lo diga al [?]25. y em me pergunta y lo demas26. que fuere de su gusto a quien gde. Dios como puede los años27. de su desseo [?] a 27 de abril 163928. Geromo Tord y Bartrola [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "051:3397bis.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo26/051:3397bis.JPG",
+      "url": "/legajos/legajo-26/images/051:3397bis.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "051:3397bis.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-26/cartas/004303.json",
+  "primary_image_url": "/legajos/legajo-26/images/051:3397bis.JPG"
+}

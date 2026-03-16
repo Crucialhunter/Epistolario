@@ -1,0 +1,43 @@
+{
+  "legajo_id": "12",
+  "id_carta": "1604",
+  "order_in_legajo": 113,
+  "signatura": "164_6197a.JPG",
+  "nombre_carta": "Carta de Laudòmia Rossa i Domènech a Pedro Santacilia y Pax",
+  "fecha_original": "26 de febrero de 1649",
+  "lugar": "Valencia",
+  "remitente": "Laudòmia Rossa i Domènech",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Sr. D. Pedro Una tinc rebuda de v. m. de la qual me som molt alegrada sabent com tots v. m. tenen salut. Ací gràcies a Déu tots la tenim complida sols jo estic un poc de mala gana, mon fill morí, v. m. ja ho ha sabut segons he entès. Li estic molt obligada el {ESP. cuidado} tenia d'esta casa si ens erem morts en temps del mal Nre. Sr. l'hi pagui. Estam un poc al baix per causa del mal. Suplic a v. m. m'enviï un tros de Santa Maria per unes faldetes que Nre. Sr. li pagarà en coses de son gust V. m. me mani a mi i a mon marit que estam sempre al manar de v. m. i Nre. Sr. el guardi com pot i desitjava. Ací del Grau de València als 26 febrer 1649. A la Sra. Dna. Magdalena mil besamans de ma part Laudomia Bassa sa criada [1§] Transcripción literal"
+  ],
+  "literal": [
+    "1. Sr. d. Pedro2. Una tinch rabuda de V.m. De la qual me som molt3. alegrade sabent com tots Vs. ms. Tenen salud assi g[racie]s4. a Deu tots la tanim complida sols jo estich un poch5. de mala gana mon fill mori V.m. Ja ho ha sabut6. segons he entes li stich molt obligade lo cuidado7. tania de esta casa si nos eram morts en temps del 8. mal Nro. Sor. Ley paga stam un poch al baix per9. causa del mal. Supplich a V.m me anvia un10. tros de stamanya per unas faldetes que nro. Sor.11. ley pagara en coses de son gust V.m. me 12. mana a mi i a mon marit que stam sempre al13. manar de V.m. i Nro. Sor. Lo gde. Com pot y dasitge14. ve assi del Grau de Valencia als 26 fabrer15. 164916. A la Sra d. magdalena17. mil besa mans de me part18. Llaudomia Bassa19. sa criada [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "164_6197a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo12/164_6197a.JPG",
+      "url": "/legajos/legajo-12/images/164_6197a.JPG"
+    },
+    {
+      "filename": "165_6197b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo12/165_6197b.JPG",
+      "url": "/legajos/legajo-12/images/165_6197b.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "164_6197a.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (2)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-12/cartas/001604.json",
+  "primary_image_url": "/legajos/legajo-12/images/164_6197a.JPG"
+}

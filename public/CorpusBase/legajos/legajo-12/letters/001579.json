@@ -1,0 +1,43 @@
+{
+  "legajo_id": "12",
+  "id_carta": "1579",
+  "order_in_legajo": 82,
+  "signatura": "112_6172a.JPG",
+  "nombre_carta": "Carta de Rafael Vives García a Pedro Santacilia y Pax",
+  "fecha_original": "23 de 1642",
+  "lugar": "Mallorca",
+  "remitente": "Rafael Vives García",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "El cocinero me dijo que para esta mañana estaba proveído y así si falta [?] no es mía para esta noche y mañaña envió recaudo y me pesa como no se halla lo que quisiera que esta la isla muy desprovehida con las continuas escalas que hoy hacen los forasteros. v. s. me mande en que le sirva que yo rogaré a Dios que me lo guarde, de esta su casa de v. s. a 23 de 1642. Capellán de v. s. El Sr. Rafael Vives y Garcia Sr. gobernador. Transcripción literal"
+  ],
+  "literal": [
+    "1. El cosinero me dixo q para esta manyana esta2. va provehido y assy si falta ???? no es mia pa3. ra esta noche y manyaña ymbio recaudo y4. me pesa como no se halla lo que quisiera q[ue]5. esta la Isla muy desprovehida con las conti-6. nuas escalas que hoy hazen los forasteros V.S.7. me mande en q le sirba q yo rogare a Dios8. que me le gde. desta su casa de VS. a 239. de 1642 Capellan de VS10. El dr. Rafael Vives?? y Garçia11. Sr. Gdor. [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "112_6172a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo12/112_6172a.JPG",
+      "url": "/legajos/legajo-12/images/112_6172a.JPG"
+    },
+    {
+      "filename": "113_6172b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo12/113_6172b.JPG",
+      "url": "/legajos/legajo-12/images/113_6172b.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "112_6172a.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-12/cartas/001579.json",
+  "primary_image_url": "/legajos/legajo-12/images/112_6172a.JPG"
+}

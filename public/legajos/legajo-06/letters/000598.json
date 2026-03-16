@@ -1,0 +1,43 @@
+{
+  "legajo_id": "6",
+  "id_carta": "598",
+  "order_in_legajo": 102,
+  "signatura": "128-69a",
+  "nombre_carta": "Carta de S. Ramírez a Cecilia Zaforteza y Sureda de Sant Martí",
+  "fecha_original": "4 de diciembre de 1759",
+  "lugar": "Madrid",
+  "remitente": "S. Ramírez",
+  "destinatario": "Cecilia Zaforteza y Sureda de Sant Martí",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Muy Sra. mía, He recibido la de v. s. con mucho gusto por saber de su salud, y sus finas expresiones debo responder, que he celebrado infinito la venida del Sr. D. Gabriel Berga a esta corte, por la ocasión que me facilitó a cortejarle en cuanto tuve arbitrio, obsequio muy debido a sus apreciables circunstancias y a la antigua amistad, que ha profesado conmigo la casa de v. s. y todos sus parientes. Me alegro haya v. s. tenido el gusto de que llegase con felicidad y sin novedad en la salud. Repito a v. s. todo cuanto está de mi marido y mía [1§] para el buen éxito de su dependencia, y no dude v. s. que en llegando la ocasión haremos todo lo posible para que v. s. quede con lucimiento. Mande v. s. con toda satisfacción, pues deseo servirla. Y que Nuestro Sr. guarde su vida los muchos años que puede. Madrid y diciembre 4 de 1759. Besa las manos de v. s. su amiga y más cierta servidora, La S. Ramírez. Mi amiga y Sra. Dña. Cecilia Forteza. Transcripción literal"
+  ],
+  "literal": [
+    "1. Mui Sra. mia: He recivido la de 2. V.S. con mucho gusto pr saber de su 3. salud, y sus finas expresiones de- 4. bo responder, que he celebrado infinito 5. la venida del Sr Dn. Gabriel Verga a 6. esta corte, pr la ocasion que me facilito 7. a cortejarle en cuanto tuve advitrio, 8. obsequio muy debido a sus aprecia- 9. bles circunstancias y a la antigua 10. amistad, que ha profesado conmigo 11. la casa de V.S. y todos sus parientes. 12. Me alegro haya V.S. tenido el gusto 13. de que llegase con felicidad, y sin no- 14. vedad en la salud. 15. Repito á V.S. todo cuanto es- 16. tè de mi marido y mia [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "128-69a.jpg",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo06/128-69a.jpg",
+      "url": "/legajos/legajo-06/images/128-69a.jpg"
+    },
+    {
+      "filename": "129-69b.jpg",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo06/129-69b.jpg",
+      "url": "/legajos/legajo-06/images/129-69b.jpg"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "128-69a.jpg",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (2)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-06/cartas/000598.json",
+  "primary_image_url": "/legajos/legajo-06/images/128-69a.jpg"
+}

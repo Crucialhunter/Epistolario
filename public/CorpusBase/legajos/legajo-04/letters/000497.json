@@ -1,0 +1,38 @@
+{
+  "legajo_id": "4",
+  "id_carta": "497",
+  "order_in_legajo": 21,
+  "signatura": "076-37a",
+  "nombre_carta": "Carta de Leonard Burgues Zaforteza a Miguel Seguí",
+  "fecha_original": "19 de octubre de 1650",
+  "lugar": "Mallorca",
+  "remitente": "Leonard Burgues Zaforteza",
+  "destinatario": "Miguel Seguí",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Senyor Miguel Segui La senyora Leonor Valenti, ma tia, que sia en el cel, manà en son últim testament alguns beneficis eclesiàstics i, entre altres, el que v. m. posseeix, que [?] per Joan Agustí Vidal tots els dits beneficis se dataren conforme la seva disposició després per algunes de redempcions de cens. Alguns de dits beneficis no han tingut la venda que se'ls havia demanat, com també deu esser en el que v. m. posseeix, a uns i altres, me pareix que deu suplir el successor de l'heretat de la dita senyora màrtir que fou les almoïnes de la Seu que posseeix dita heretat com consta per acte rebut per mossèn Joan Lliteres. Mallorca, data al 19 octubre 1650. Transcripción literal"
+  ],
+  "literal": [
+    "1. [^Señor Miguel Segui^]2. La señora Eleonor Valenti ma tia que 3. sia en lo cel mana en son ultimo testa 4. ment alguns beneficis eclesiastics y entre 5. altres, el que V.M. possegex ques Funda 6. per Juan Agustí vidal tots los dies beneficiari 7. se dotaren conforme la sua dispositio des 8. pres per algunes [mancha de tinta]9. de vens alguns de 10. dists beneficiaris no han tingut la venda que 11. sels avia demanat, com tambe deu esser en 12. lo que V.M. possegex, a un s y altre me 13. [mancha de tinta] aparix que deu suplir lo successor de la14. heretat de la dita sra martir que fonch 15. les almoines de la seu que possegex dita 16. heretat com consta per actte rabut 17. per Ms. Juan Lliteres. Mallca dats al 19 octu 18. 1650. [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "076-37a.jpg",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo04/076-37a.jpg",
+      "url": "/legajos/legajo-04/images/076-37a.jpg"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "076-37a.jpg",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-04/cartas/000497.json",
+  "primary_image_url": "/legajos/legajo-04/images/076-37a.jpg"
+}

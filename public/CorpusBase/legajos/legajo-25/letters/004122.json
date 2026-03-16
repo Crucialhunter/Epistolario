@@ -1,0 +1,43 @@
+{
+  "legajo_id": "25",
+  "id_carta": "4122",
+  "order_in_legajo": 56,
+  "signatura": "113_156a.JPG",
+  "nombre_carta": "Carta de Nicolás de Santacilia y Togores a Jerónimo Pelegrín de Aragüés",
+  "fecha_original": "25 de mayo de 1667",
+  "lugar": "Madrid",
+  "remitente": "Nicolás de Santacilia y Togores",
+  "destinatario": "Jerónimo Pelegrín de Aragüés",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "La vuestra he recibido con mucho gusto holgándome estén todos buenos, yo también estoy ya convalecido. Aprisa me parece estará allá Costa, el paisano con que tendréis un amigo más, virrey y tesorero. Aprisa entraron en la marcha, pero no sé si llegarán muy presto por las embarcaciones, que como van por Barcelona no habrá en qué pasar que el francés está ya declarado del todo. Ya ha llegado Jorge, acá no dudo lo hará muy bien. A su mujer e hijos muchos recaudos. Dios os guarde como deseo muchos años. Madrid a 25 de mayo 1667. Don Nicolas de Santacilia y Togores Sr. Jeronimo Pelegri y Aragues [1§] Madrid, 25 de mayo 1667, de don Nicolas de Santacilia y Togores Transcripción literal"
+  ],
+  "literal": [
+    "1. La buestra he resibido, con mucho gus-2. to olgandome esten todos buenos, yo tanbien3. estoy ya convalesido4. Aprisa me parese estara alla Costas el paisano5. con que tendreis un amigo mas, Virrey y tesore-6. ro aprisa entraron en la marcha, pero no se7. si llegaran muy presto por las enbarcasiones8. que como van por Barselona no habra en9. que pasar que el frances esta ya declarado10. del todo11. Ja a llegada Jorge hacá no dudo lo hara12. muy bien. A mujer y hijos muchos recaudos13. Dios os guarde como deseo muchso años Ma14. drid a 25 de Mayo 166715. Don Nicolas de Sta. Cilia16. y Togores17. Geronimo Pelegrí y Aragues [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "113_156a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo25/113_156a.JPG",
+      "url": "/legajos/legajo-25/images/113_156a.JPG"
+    },
+    {
+      "filename": "114_156b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo25/114_156b.JPG",
+      "url": "/legajos/legajo-25/images/114_156b.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "113_156a.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (5)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-25/cartas/004122.json",
+  "primary_image_url": "/legajos/legajo-25/images/113_156a.JPG"
+}

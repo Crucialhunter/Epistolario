@@ -1,0 +1,43 @@
+{
+  "legajo_id": "28",
+  "id_carta": "4782",
+  "order_in_legajo": 85,
+  "signatura": "138:3716a.JPG",
+  "nombre_carta": "Carta de Juan Jerónimo Eraso a Pedro Santacilia y Pax",
+  "fecha_original": "27 de mayo de 1639",
+  "lugar": "Lanaja",
+  "remitente": "Juan Jerónimo Eraso",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Mi amo y Sr. Con el zapatero he estado cotejando el cordobán y me parece ha de echar a perder las botas. V. m. me [dirá] si gusta de esto que yo en bien y en mal soy esclavo de v. m., a quien Dios me gde. Lanaja y mayo 27 de 1639. _____________ El Sr. Miguel de Pasol [?] está aquí con grandes cariños de ver a v. m. y con los mismos deseos que yo de lograr los que tenemos de servir a v. m. Mañana escribiré más largo, que estoy de prisa despachando a Huesca. A Dios padra [?] a Rocheli muchos recados. de v. m., el licenciado Eraso. [1§] Lanaja, 27 mayo 1639. [?] Transcripción literal"
+  ],
+  "literal": [
+    "1. Mi Amo y Sr.2. Con el Çapatero he estado cotesando el3. cordovan y me parece ha de hechar ha4. perder las botas vm me si gusta de5. esto q yo en bien y en mal soi escla6. bo de vm a quien Dios me gde. Lana7. ja y maio 27 de 1639.8. _____________9. El Sr. Miguel de Paçol esta aqui con10. grandes cariños de ver a vm y con11. los mismos desseos q yo de lograr12. los q tenemos de servir a vm.13. Mañana escribire mas largo que14. estoi deprisa despachando a Hues15. ca a Dios padra [?] arocheli mu16. chos recados.17. de vm.18. El licensdo. Erasso. [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "138:3716a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo28/138:3716a.JPG",
+      "url": "/legajos/legajo-28/images/138:3716a.JPG"
+    },
+    {
+      "filename": "139:3716b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo28/139:3716b.JPG",
+      "url": "/legajos/legajo-28/images/139:3716b.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "138:3716a.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-28/cartas/004782.json",
+  "primary_image_url": "/legajos/legajo-28/images/138:3716a.JPG"
+}

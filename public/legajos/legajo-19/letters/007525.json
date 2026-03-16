@@ -1,0 +1,38 @@
+{
+  "legajo_id": "19",
+  "id_carta": "7525",
+  "order_in_legajo": 288,
+  "signatura": "025_cg7.JPG",
+  "nombre_carta": "Carta de March Vallès a Pedro Santacilia y Pax",
+  "fecha_original": "30 de diciembre de 1659",
+  "lugar": "Lugar sin especificar",
+  "remitente": "March Vallès",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "[1§] Transcripción literal"
+  ],
+  "literal": [
+    "1."
+  ],
+  "imagenes": [
+    {
+      "filename": "025_cg7.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo19/025_cg7.JPG",
+      "url": "/legajos/legajo-19/images/025_cg7.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "025_cg7.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-19/cartas/007525.json",
+  "primary_image_url": "/legajos/legajo-19/images/025_cg7.JPG"
+}

@@ -1,0 +1,53 @@
+{
+  "legajo_id": "21",
+  "id_carta": "3327",
+  "order_in_legajo": 27,
+  "signatura": "032:5616a.JPG",
+  "nombre_carta": "Carta de comte de Perelada i marquès d'Anglesol a Pedro Santacilia y Pax",
+  "fecha_original": "22 de febrero de 1632",
+  "lugar": "Barcelona",
+  "remitente": "comte de Perelada i marquès d'Anglesol",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "les de v. m. he rebuda [?] dnades les que tenien en sou plesa a nostre cidor [?] i sempre dei [?] ací ho dena manera [?] pesam no hagi donades les de Navarra que no podia danjar sa diligència Jaq no hagués aprofitat laq v. m. m'escriu de la carta de la germana del arquebisbe escriure [?] v. m. ho diligència i avise que sem va [?] alegrem me la del que em diu que sap ha escrit me la d'en el negoci del cavaller mallorquí i tot el {ESP. demés} que sia servei de v. m. [?] obligació les cartes enviaré a casa de Duxo [?] em Sobre per v. m. ho a l'estafeta cosa soquesta i les {ESP. demés} po pens escriure al Antoni Gual que pen qservira [?] enviar a l'estafeta seranos separisomes [?] serfin [?] tinchvist en quant bon predicament esta el (lomanada) inquisidor Cotoner diu li dóna els augments qan desi el cert és que si he so apoio dels i llavisseras [?] en molt en est tems. ací diu [?] Molt ansitiada la vinguda del rei i losertes que cadeDie semuda [?] les noves Al confiar de la imonesnuilly [?] la a qui Déu els debe encertar [1§] [?] [2§] 034/5616c [?] [3§] 035/5616d [?] [4§] Transcripción literal"
+  ],
+  "literal": [
+    "1. las de Vm. herebuda [Ilegible]dnades las q tenien 2. en sou plesa a nro> cidor[?] y senpre dei [Ilegible] 3. asi ho dena manera[?] 4. pesam no aia donadas las de navarra q no 5. podia danjar sadiligensia Jaq no hagues aprofi6. tat laq Vm. mescriu dela carta dela Jermana 7. del Arcabisbe escriure[?? [Ilegible] Vm. ho diligencia 8. y avise q sem va [?] [Ilegible]9. alegrem mela del quem diu q sap a escrit lam 10. de 11. enlo negosi del cavaller melorqui y tot l[o]12. demes q sia servei de Vm. [Ilegible] 13. obligasio 14. las Cartas enviare acasa de Duxo[?] am Sobre 15. p Vm. ho a la estafeta cosa soquesta y las 16. demes po pens escriurer al sor antoni 17. gual q pen qservira [Ilegible] enviar 18. ala estafeta seranos separisomes[?] serfin[?] 19. tinchvist en quant bon predicament esta lo 20. (^lomanada) inquisidor cotoner diu li done 21. los aumentos q[u]an desi losert es q si [h]e [s]o 22. apoio dels hi llavisseras[?] en molt enest tems. 23. asi diu [Ilegible] Molt ansitiada la vinguda del 24. rei y losertes q cadeDie semuda[?] las novas 25. Al confiar dela imonesnuilly[?] la aqui deu los 26. deve asertar [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "032:5616a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo21/032:5616a.JPG",
+      "url": "/legajos/legajo-21/images/032:5616a.JPG"
+    },
+    {
+      "filename": "033:5616b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo21/033:5616b.JPG",
+      "url": "/legajos/legajo-21/images/033:5616b.JPG"
+    },
+    {
+      "filename": "034:5616c.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo21/034:5616c.JPG",
+      "url": "/legajos/legajo-21/images/034:5616c.JPG"
+    },
+    {
+      "filename": "035:5616d.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo21/035:5616d.JPG",
+      "url": "/legajos/legajo-21/images/035:5616d.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "032:5616a.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-21/cartas/003327.json",
+  "primary_image_url": "/legajos/legajo-21/images/032:5616a.JPG"
+}

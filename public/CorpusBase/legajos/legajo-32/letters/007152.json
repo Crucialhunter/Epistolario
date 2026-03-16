@@ -1,0 +1,42 @@
+{
+  "legajo_id": "32",
+  "id_carta": "7152",
+  "order_in_legajo": 154,
+  "signatura": "198:1910a.JPG",
+  "nombre_carta": "Carta de Pablo Corbella a Pedro Santacilia y Pax",
+  "fecha_original": "5 de septiembre de 1665",
+  "lugar": "Càller (Cagliari)",
+  "remitente": "Pablo Corbella",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Transcripción literal"
+  ],
+  "literal": [
+    "1. 1. 1."
+  ],
+  "imagenes": [
+    {
+      "filename": "198:1910a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo32/198:1910a.JPG",
+      "url": "/legajos/legajo-32/images/198:1910a.JPG"
+    },
+    {
+      "filename": "199:1910b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo32/199:1910b.JPG",
+      "url": "/legajos/legajo-32/images/199:1910b.JPG"
+    },
+    {
+      "filename": "200:1910c.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo32/200:1910c.JPG",
+      "url": "/legajos/legajo-32/images/200:1910c.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "198:1910a.JPG",
+  "warnings": [],
+  "raw_source": "raw/legajos/legajo-32/cartas/007152.json",
+  "primary_image_url": "/legajos/legajo-32/images/198:1910a.JPG"
+}

@@ -1,0 +1,78 @@
+{
+  "legajo_id": "17",
+  "num_cartas": 235,
+  "num_imagenes": 411,
+  "rango_temporal": [
+    1657,
+    1660
+  ],
+  "remitentes_frecuentes": [
+    {
+      "name": "Jerónimo Pelegrín de Aragüés",
+      "count": 34
+    },
+    {
+      "name": "Diego Matías de Aragüés",
+      "count": 22
+    },
+    {
+      "name": "Juan Miguel de Santacilia y Togores",
+      "count": 12
+    },
+    {
+      "name": "Basilio de Castellví y Ponce",
+      "count": 11
+    },
+    {
+      "name": "Aurelio Amigón y Pascual",
+      "count": 9
+    }
+  ],
+  "destinatarios_frecuentes": [
+    {
+      "name": "Pedro Santacilia y Pax",
+      "count": 223
+    },
+    {
+      "name": "Leonor Santacilia i Despuig",
+      "count": 9
+    },
+    {
+      "name": "Jaime Oleza y Forteza",
+      "count": 1
+    },
+    {
+      "name": "Juan Miguel de Santacilia y Togores",
+      "count": 1
+    },
+    {
+      "name": "Pere Sastre",
+      "count": 1
+    }
+  ],
+  "lugares_frecuentes": [
+    {
+      "name": "Madrid",
+      "count": 100
+    },
+    {
+      "name": "Valencia",
+      "count": 23
+    },
+    {
+      "name": "Ciutadella",
+      "count": 23
+    },
+    {
+      "name": "Ibiza",
+      "count": 13
+    },
+    {
+      "name": "Alicante",
+      "count": 10
+    }
+  ],
+  "temas_frecuentes": [],
+  "warnings_count": 128,
+  "densidad_narrativa_estimada": "Media"
+}

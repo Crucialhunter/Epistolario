@@ -1,0 +1,37 @@
+{
+  "legajo_id": "22",
+  "id_carta": "3648",
+  "order_in_legajo": 28,
+  "signatura": "043:5000a.JPG",
+  "nombre_carta": "Carta de Francisco Luis Salvador a Pedro Santacilia y Pax",
+  "fecha_original": "28 de abril de 1629",
+  "lugar": "Castellón",
+  "remitente": "Francisco Luis Salvador",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Juan Pujant me dice va a besar a v. m. las manos y yo recibiré mucha merced que v. m. se sirva de favorecerme el negocio de que le dará cuenta por haberse valido de la que yo recibo de v. m. en todas ocasiones. Aquí me tiene v. m. todo a su disposición y servicio. Dios guarde a v. m. como deseo. Castellón 28 de abril 1629. Don Francisco Luis Salvador Sr. don Pedro de Santacilia [1§] Al Sr. don Pedro de Santacilia. Guarde Dios Transcripción literal"
+  ],
+  "literal": [
+    "1. Juan Pujant me dize va a besar a V.m. las manos y yo2. recibire mucha mrd. que Vm. se sirva de favorecerme3. El negocio de que le dara quenta por averse valido4. de la que yo recibo de V.m. en todas ocassiones5. aqui me tiene V.m. todo a su disposiçion y servicio, Dios6. guarde a V.m. como desseo. Castellon 28 de Abril 16297. Don Luis Salv[ad]or8. Sr. Don Pedro de Sta.cilia [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "043:5000a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo22/043:5000a.JPG",
+      "url": "/legajos/legajo-22/images/043:5000a.JPG"
+    },
+    {
+      "filename": "044:5000b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo22/044:5000b.JPG",
+      "url": "/legajos/legajo-22/images/044:5000b.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "043:5000a.JPG",
+  "warnings": [],
+  "raw_source": "raw/legajos/legajo-22/cartas/003648.json",
+  "primary_image_url": "/legajos/legajo-22/images/043:5000a.JPG"
+}

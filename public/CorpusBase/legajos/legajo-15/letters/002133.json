@@ -1,0 +1,43 @@
+{
+  "legajo_id": "15",
+  "id_carta": "2133",
+  "order_in_legajo": 30,
+  "signatura": "047:6356a",
+  "nombre_carta": "Carta de Diego de Rocabertí a Persona desconocida",
+  "fecha_original": "12 de octubre de 1630",
+  "lugar": "Barcelona",
+  "remitente": "Diego de Rocabertí",
+  "destinatario": "Persona desconocida",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "{ESP. Al cuidado} estic de si n'hi trobarà {ESP. esta} carta en Madrid, si anirà ben encaminada, per la poca seguretat que podem tenir que sia aquí don Pedro Antonio de Aragon. Aquí va remès el plec. Durar-me ha l'estar amb ell, fins en tinga resposta. Va dins d'esta la lletra de canvi per quins donen aquí el diner en plata i les cartes que he pogut replegar de Mallorca, descloguí la de Jaume Rossinyol per allò de la cobrança de les murtreres i el tot no ha bastat la diligència perquè la féu major [?] que les tragué de la tanca i en el punt ne dona una i de miracle poguérem cobrar l'altra. El comte de Perelada ha estat quatre dies en el llit. Està ja sense febre. El capità Guilla és anat a Sardenya per fer gent, les caixes i pianos de la companyia del de Santa Coloma se passegen molt de gala. El comte de Montagut envia també companyia i és capità d'ella el comanador Boixadors. Quan ens escrigui amb un poc de certesa major, de saber quant va de trobar les cartes, ens escriurà més llarg, i sinó, havent de tenir aquí alguns dies, no es demanarà que sap alguna cosa. De Saragossa és arribat el comte de Plasencia. Està esperant passatge. El duc de Feria té ordre d'embarcar-se amb diligència i ells operen amb fleuma. Espinola diuen que és mort aquí. Sabreu la veritat de tot. Nos guardi Déu com pot i escriu-me-la en Barcelona i octubre a 12 de 1630. Don Diego de Rocaberti. Don Ramon de Setmenat s'hi és fet frare de Montserrat. Don Ramon Gilabert és mort i també ho estava en això don Miquel Aguiló, el vell. Barcelona, [1§] Don Diego Rocaberti. 12 octubre 1630. Octubre. Transcripción literal"
+  ],
+  "literal": [
+    "1. Al cuydado estich de sini trobara esta carta en Ma2. drid si anira ben encaminada perlapoca seguretat que 3. podem tenir que sia aqui Don Pedro Antonio de Aragon aqui 4. va remes loplech, durarme haloestar abell fins ne tinga 5. resposta. Va dins desta la lletra de cambi perquins donen aqui 6. lodiner en plata, y las cartas que epogutreplegar de 7. Mallorca desclogui la de Jaume Rossinol per lode la 8. cobransa de las Murtreras y al tot no a bastat ladili9. gencía perque la feu major diacaba[?] que las trague dela 10. tanca y enlo punt ne donauna y de miracle poguerem 11. cobrar laltra. Lo Comte de Perelada aestat quatre dias 12. enlollit esta ja sens febra lo Capíta Guilla es anat 13. a Cerdana per fer gent, las caxas y pifanos[?] de la Compania 14. del de Sta Coloma se pasejan molt de gala, lo Comte 15. de Montagut envia tambe compania y es capita della 16. lo Comanador Boxador quant nos escriga ab un poc de cer17. tesa major desaber quant va de trobar las cartas nos escriure 18. mes llarch y sino aven de detenír aquí alguns días nos 19. demanare quísa alguna cosa. De Çaragoça es arribat lo 20. Comte de Placencía esta esperant passatge, lo Duc de 21. Feria te orde de embarcarme ab dilígencía y ell opren ab 22. fleuma, Espínola[?] díuen que es mort aqui sabreula 23. verítat de tot Deunos guart com pot y scriumela 24. en Barcelona y Octubre a 12 de 1630 25. Don diego de 26. Rocaberti 27. Don Ramon desem menat se es fet frare de Monserrat, Don Ramon gilabert es mort 28. y tambe o estava en axo Don Miquel Agullo lo Vell [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "047:6356a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo15/047:6356a.JPG",
+      "url": "/legajos/legajo-15/images/047:6356a.JPG"
+    },
+    {
+      "filename": "048:6356b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo15/048:6356b.JPG",
+      "url": "/legajos/legajo-15/images/048:6356b.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "047:6356a.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-15/cartas/002133.json",
+  "primary_image_url": "/legajos/legajo-15/images/047:6356a.JPG"
+}

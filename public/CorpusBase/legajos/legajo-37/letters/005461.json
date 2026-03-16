@@ -1,0 +1,37 @@
+{
+  "legajo_id": "37",
+  "id_carta": "5461",
+  "order_in_legajo": 11,
+  "signatura": "141:45a",
+  "nombre_carta": "Carta de Persona desconocida a Persona desconocida",
+  "fecha_original": "fecha sin especificar",
+  "lugar": "lugar sin especificar",
+  "remitente": "Persona desconocida",
+  "destinatario": "Persona desconocida",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "[1§] Transcripción literal"
+  ],
+  "literal": [
+    "1."
+  ],
+  "imagenes": [
+    {
+      "filename": "141:45a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo37/141:45a.JPG",
+      "url": "/legajos/legajo-37/images/141:45a.JPG"
+    },
+    {
+      "filename": "142:45b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo37/142:45b.JPG",
+      "url": "/legajos/legajo-37/images/142:45b.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "141:45a.JPG",
+  "warnings": [],
+  "raw_source": "raw/legajos/legajo-37/cartas/005461.json",
+  "primary_image_url": "/legajos/legajo-37/images/141:45a.JPG"
+}

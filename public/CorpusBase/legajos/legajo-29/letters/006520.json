@@ -1,0 +1,43 @@
+{
+  "legajo_id": "29",
+  "id_carta": "6520",
+  "order_in_legajo": 218,
+  "signatura": "344:4337a.JPG",
+  "nombre_carta": "Carta de Elisen de Rocabertí a Pedro Santacilia y Pax",
+  "fecha_original": "9 de julio de 1668",
+  "lugar": "Bétera (Valencia)",
+  "remitente": "Elisen de Rocabertí",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Mi tío y señor, Recibo su carta de v.s. con la estimación de vida de la merced que me hace. Mucho he sentido en esta ocasión hallarme acá, por no haber podido besar su mano, que v.s se sirviese de mi casa como dueño de ella; que si v.s me hubiera hecho merced de avisarme venía a Valencia habría hecho lo que tenía obligación para que v.s. se viera servido de mi casa; que cuando he recibido su carta de v.s. ya estaría camino de Madrid, que me holgaré que haya llegado v.s. con salud a esa corte y con muy feliz viaje. Mis hijos besan a v.s. la mano y le suplican los tenga en su acuerdo para mandarles, que ellos y yo deseamos lograr muchas ocasiones de su mayor servicio. Me [he] holgado mucho de las buenas nuevas [1§] que v.s. me da de mi tío el conde de Santa María. De mi hermano todas las estafetas las tengo, y está mi sobrina de siete meses preñada: fío en Dios que presto nos dará un buen día a mi primo el conde de Zavellá [IV]. Dios lo deje acertar, que me holgaré de todas sus conveniencias. Dios guarde a v.s. largos años. De esta su casa: Betera, julio 9 de 1668. Sobrina y más servidora de v.s., que su mano besa, doña Elisen de Rocaberti. Al señor don Pedro de Santacilia, mi tío. Respuesta de mi señora la condesa de Albatera. Betera. Respuesta de mi señora la condesa. Transcripción literal"
+  ],
+  "literal": [
+    "1. Mi tio y Sr Recibo su carta de 2. VS. con laestimacion de uida dela merced 3. quemeace, Mucho esentido enesta Ocasion 4. allarmeaca pornoauer podido besar su 5. mano que VS. Ses(/e)iruie(/ra)se demicasa como 6. dueño della quesi VS. meuieraechomer- 7. ced de auisarma Ueniaa Valancia 8. auriaecho loque tenia obligacion para 9. que VS. seuuiera seruido de micasa 10. que quando erecebido Sucarta de VS. 11. y aestaria caminode Madrid queme 12. olgare queaia allegado VS. con salud 13. aesa corte y conmuy feliç viaje, mis 14. chijos Besan a VS. lamano y lessu- 15. plican los tenga en su acuerdo para man- 16. darles queellosyio deseamos lograr 17. muchas ocasiones de Sumaior Seruicio 18. Meolgado mucho delas buenas nuevas [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "344:4337a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo29/344:4337a.JPG",
+      "url": "/legajos/legajo-29/images/344:4337a.JPG"
+    },
+    {
+      "filename": "345:4337b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo29/345:4337b.JPG",
+      "url": "/legajos/legajo-29/images/345:4337b.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "344:4337a.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-29/cartas/006520.json",
+  "primary_image_url": "/legajos/legajo-29/images/344:4337a.JPG"
+}

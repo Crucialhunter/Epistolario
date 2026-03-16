@@ -1,0 +1,38 @@
+{
+  "legajo_id": "27",
+  "id_carta": "4669",
+  "order_in_legajo": 141,
+  "signatura": "239:4478.JPG",
+  "nombre_carta": "Carta de Diego Matías de Aragüés a Pedro Santacilia y Pax",
+  "fecha_original": "6 de agosto de 1661",
+  "lugar": "Madrid",
+  "remitente": "Diego Matías de Aragüés",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Pon Valencia tengo escrito a v. m. como [?] las pruebas del hábito del Sr. don Juan la víspera de Santo Domingo, y la víspera de San Lorenzo le tomará, y se le dará los Sres. Conde de Robles y don Josep de Pueyo. V. m. lo tenga entendido así, que por Alicante lo digo también y esta hago por Barcelona para el conde de Zavella para que v. m. no esté con cuidado. En lo demás me remito a lo que escribo por Valencia en pliego de Luis Viguet. V. m. me mande la sirva a mi Sra. Dña. Leonor besamos la mano del Sr. don Juan, Dña. Magdalena y yo con las de v. m. y todos esos señores y guarde Dios como deseo. Madrid a 6 Agosto 1661. Beso la mano de v. m., su menor servidorDiego Matias de Aragues Sr. don Pedro Santacilia y Pax Transcripción literal"
+  ],
+  "literal": [
+    "1. Pon Valencia tengo escrito a Vm2. como saluren las pruebas ne[siavi?]to3. delsr. donJuan laVispera de Sto4. Domingo, y laVispera de st. Lorenzo5. le tomara, y se le dara los sses6. Conee[r?] de Robres y don Joseph 7. de Pueyo, Vm. lo tengaentendido8. assi; q per Alicante lodigo tam/9. bien y esta ago per Barcelona10. per el Sr. Conde de Cavalla pa11. q Don no este c[o?]nevydado, en lo12. demas me remito aloq escrivo per13. Valencia en pliego de Luys Uguet.14. Vm. memande la sirva ami Sra. da15. Leonor Vesamos la mano delSr. don16. Juan D Maga y yo con las de Vm.17. y todos essos sses y ge dios comodeseo18. Md a 6 Agto 166119. B. l.[a] m. de Vm s.m.s.20. Dieho Mathias de Aragues21. Sr. Don Pedro Sa Cilia y Pax [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "239:4478.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo27/239:4478.JPG",
+      "url": "/legajos/legajo-27/images/239:4478.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "239:4478.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (3)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-27/cartas/004669.json",
+  "primary_image_url": "/legajos/legajo-27/images/239:4478.JPG"
+}

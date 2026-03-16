@@ -1,0 +1,43 @@
+{
+  "legajo_id": "25",
+  "id_carta": "4162",
+  "order_in_legajo": 96,
+  "signatura": "199_196a.JPG",
+  "nombre_carta": "Carta de Julián Vila a Jerónimo Pelegrín de Aragüés",
+  "fecha_original": "25 de julio de 1667",
+  "lugar": "Campos",
+  "remitente": "Julián Vila",
+  "destinatario": "Jerónimo Pelegrín de Aragüés",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Dóna avís a v. m. com {ESP. acerca} del negoci que em mana mi Sr. que l'avisàs del preu de la civada i ordi dic a v. m. que passa que ací l'ordi ha de 18 i denou la quartera i la civada ha de 15 i a 16. En aquest preu se n'ha cobrades estes festes algunes quarteres i no n'hi ha molts qui hagin acabat de batre, doncs ara van baten. V. m. avisarà del nombre de les quarteres perquè pugui jo aparaular-les i fer diligència d'elles i fer-me obligació perquè v. m. quedi servit i mi Sr. a qui Nre. Sr. me guardi d'esta sa casa i juliol a 25 de 1667. Menor servidor de v. m. que ses mans besa El Dr. Julia Vila Sr. Jeroni Pelegri d'Aragues [1§] Campos. Julia Vila 25 de juliol 1667, te resposta. Transcripción literal"
+  ],
+  "literal": [
+    "1. Dona avis a V.M. com acirca delnegosi que2. ham mana mi Sr. de que lo avisas del preu3. de la sivade, y ordi dich a V.M. que pase4. que assi lo ordi a de 18 y denou 5. la cortera y la sivade a de 15 i a6. 16 Anaquest preu se na combrades7. estas festas algunas corteras y no nia8. mols qui ajen acabat de batra puis9. ara van baten. V.M. avisara del nom=10. bre de las q[uarter]as para que pugue jo 11. aparaularlas y fer diligentia dellas12. y fer me obligatio para que V.M. que da13. sarbit i mi Sr a qui Nre Sr me gde. desta 14. sa casa y juriol a 25 de 166715. Menor S[ervid]or de V.M. q.S.M.B.16. El Dr. Julia Vila17. Sr. Geroni Pelegri de Aragues [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "199_196a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo25/199_196a.JPG",
+      "url": "/legajos/legajo-25/images/199_196a.JPG"
+    },
+    {
+      "filename": "200_196b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo25/200_196b.JPG",
+      "url": "/legajos/legajo-25/images/200_196b.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "199_196a.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (5)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-25/cartas/004162.json",
+  "primary_image_url": "/legajos/legajo-25/images/199_196a.JPG"
+}

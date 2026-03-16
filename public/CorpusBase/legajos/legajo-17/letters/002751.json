@@ -1,0 +1,43 @@
+{
+  "legajo_id": "17",
+  "id_carta": "2751",
+  "order_in_legajo": 17,
+  "signatura": "019:1293a.JPG",
+  "nombre_carta": "Carta de Basilio de Castellví y Ponce a Pedro Santacilia y Pax",
+  "fecha_original": "19 de diciembre de 1657",
+  "lugar": "Játiva",
+  "remitente": "Basilio de Castellví y Ponce",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Señor mío, dos cartas de v. s. he recibido ambas de 6 de noviembre y en ellas veo que va v. s. con la buena salud que le deseo yo quedo con ella para servir a v. s. que fuera de Valencia dos meses a, en la visita de unas villas en que me detendré algunos días por si v. m. tuviere que mandarme pues en todas partes le obedeceré como lo pide mi obligación, doy a v. s. la mejor nueva que se puede imaginar diciendo que miércoles 29 del pasado parió la reina Nra. Sra. un infante de que doy a v. s. la enhorabuena como quien es tan interesado en estos buenos sucesos, quiera Dios a esta dicha sigan otras de igual calidad y que se logre viviendo S. A. los muchos años que la cristiandad, a menester, veo lo que v. s. me dice en orden a la paga de mi señora Dña. Constanza y creo muy bien que todo lo que estuviere en su mano de v. s. me hará la merced que acostumbra en todas ocasiones y en cuanto a lo de Esteban Conrado he otorgado poder ahora que va en esta para que pueda cobrar las cantidades que hubiere vencidas y las que cayeren con caídas [?] se den a los Botasio y Rato porque como tengo dicho a v. s. les tengo hecha cesión mucho tiempo a, y me tienen dado el dinero anticipado y así que a v. s. estimaré sumamente tengan satisfacción y es justo que cuando me hacen un gusto yo solicite queden pagados cuando es tanta razón. v. s. se de servirá de poner su autoridad con lo cual me prometo tendremos todos lo que deseamos, y le estimo a Conrado la merced que me hace. Suplico a v. s. se lo diga de mi parte [1§] v. s. me tiene siempre para servirle deseoso de que se ofrezcan muchas ocasiones en que mostrar este afecto. v. s. tenga muy alegres pascuas con los otros y felicidades que debo desear para su mayor servidor Dios guarde a v. s. mil años en compañía de mi señora doña Isabel cuyas manos besamos Dña. Laura Giuseppe y yo. Jativa y 19 de diciembre de 1657 mío todos quedamos para servir a v. s. y doña Laura y Giuseppe besan a v. s. las manos. Besa a v. s. su mano su mayor servidordon Basilio de Castellvi y Ponce Sr. D. Pedro de Santacilia y Pax [2§] Transcripción literal"
+  ],
+  "literal": [
+    "1. Señor mio, dos Cartas, de VS. he rrecevido ambas de 6 de 2. nobiembre y enellas veo que va VS Con la buena salud que 3. le deseo yo quedo conella para servir a VS q fuera de Valen 4. cia dos meses á, en la Visita de unas villas en que me deten5. dre algunos dias por si Vm. tubiere que mandarme pues en 6. todas partes le obedeçere como lo pide mi obligacion,7. Doy a VS. la mejor nueba que se puede imajinar diciendo 8. que miercoles 29 del pasado Pario la Reyna na Sa. un9. Ynfante de que doy a VS Lanorabuena como quienes tan yn 10. teresado enestos buenos, suçessos quiera dios, a esta dha sigan 11. otras de ygal calidad y que se logre viviendo, S A, los mu12. chos Años que la christiandad, a menester,13. Beo lo que VS me diçe en horden a la paga de mi señora da.14. Constança y creo mui bien que todo lo que estubiere en su 15. mano de VS me hara la merçed que acostumbra en todas 16. ocasiones y enquanto a lo deesteban Conrrado he otorga17. do poder aora que Vaenesta para que pueda Cobrar las 18. Cantidades que ubiere bençidas y las que cayeren con cahidas[?] 19. Se den a los Botasio y Rato porque como tengo dho a VS les 20. tengo hecha cesion mucho tiempo, y me tienen dado el 21. dinero antiçipado y asi que a VS estimare sumamente 22. tengan satisfaçion y es justo que quando me hacen un gusto 23. yo soliçite queden pagados quando es tanta rraçon. VS. se 24. de servira de poner su Autoridad con lo qual me prometo 25. tendremos todos lo que deseamos, y le estimo a conrrado 26. la merçed que me haçe suppo a VS se lo diga de mi parte [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "019:1293a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo17/019:1293a.JPG",
+      "url": "/legajos/legajo-17/images/019:1293a.JPG"
+    },
+    {
+      "filename": "020:1293b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo17/020:1293b.JPG",
+      "url": "/legajos/legajo-17/images/020:1293b.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "019:1293a.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-17/cartas/002751.json",
+  "primary_image_url": "/legajos/legajo-17/images/019:1293a.JPG"
+}

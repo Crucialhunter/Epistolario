@@ -1,0 +1,38 @@
+{
+  "legajo_id": "30",
+  "id_carta": "6721",
+  "order_in_legajo": 225,
+  "signatura": "299:5559.JPG",
+  "nombre_carta": "Carta de Joan Perelló a Pedro Santacilia y Pax",
+  "fecha_original": "24 de septiembre de 1662",
+  "lugar": "Mallorca",
+  "remitente": "Joan Perelló",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Sr. d. Pedro. Amb esta sabrà com estic molt [?] per causa que ma mare tenc anada al [?] i m'ha deixat sens conhort, ni tinc ací gent per venjar-me [?], ni tinc per menjar, i jo tinc paraula de sortir i mon germà no s'és excusat de dar orde que em tragués [?] ni cosa. Ja vosa mercè face'm mercè de parlar amb es jutge i ho veurà si em treurà d'ací i jo aniré a l'hospital i allà curaré perquè tindré conhort més que no ací, perquè ma mare i mon germà m'han deixat i jo no tenc confiança sinó de vosa mercè per què em pot ajudar en esta ocasió. Com açò [?] no dic més. Fet als 24 de setembre de 1662. Joan Perelló, criat de vosa mercè.[1§] Transcripción literal"
+  ],
+  "literal": [
+    "1."
+  ],
+  "imagenes": [
+    {
+      "filename": "299:5559.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo30/299:5559.JPG",
+      "url": "/legajos/legajo-30/images/299:5559.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "299:5559.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-30/cartas/006721.json",
+  "primary_image_url": "/legajos/legajo-30/images/299:5559.JPG"
+}

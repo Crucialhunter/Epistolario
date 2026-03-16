@@ -1,0 +1,38 @@
+{
+  "legajo_id": "35",
+  "id_carta": "5217",
+  "order_in_legajo": 32,
+  "signatura": "017:8062.JPG",
+  "nombre_carta": "Carta de Llorenç Mercadal a Pedro Santacilia y Pax",
+  "fecha_original": "23 de abril de 1642",
+  "lugar": "Ciutadella",
+  "remitente": "Llorenç Mercadal",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Quant v. s. es partí d'ací, em donà ordre que no partís ningun vaixell fins que v. s. fos tornat. Avui, estant parlant amb el Sr. don Joan Miquel San tacília, nebot de v. s., li tinc dit l'ordre que v. s. em donà i que ací havia dos patrons de la Torre qui es volien partir, l'un per Tarragona, amb algunes provisions per l'exèrcit, i l'altre per Mallorca, conforme tinc ja escrit a v. s., per aportar un síndic dels jurats. I així, el dit don Joan Miquel m'ha dit que quan v. s. em deixà aqueixa ordre era perquè Sr. D. Fernan do Masuelo no se n’anàs, i que ara el gust de v. s. era que tots els vaixells se n’anasen cada ho a son viatge, i que no s’impedís algun. I jo, en virtut del que el Sr. don Joan Miq uel m'ha referit, tinc donat lloc a que se’n vagen. I així, v. s. se servirà tenir-ho per bé. Ja tinc dit a Toni Figuera, criat de v. s., que cobra els drets i llicències que to que en a v. s., restant pel que v. s. em vulgui ma nar. d'esta sa casa i Ciutadella, als 23 d'abril de 1642. Llorenç Mercadal governador. i capità Gral. Transcripción literal"
+  ],
+  "literal": [
+    "1. Quant VS. es parti de asi em dona orde que no2. pertis ningun vaxel fins que VS. fos tornat3. vuy estant perlant ab lo Sr. Don Joan Miquel San4. tacilia nebot de VS. li tinch dit le orde que5. VS. em dona, y que asi havie dos patrons de6. la Torre quis vulien pertir, lo un per Terregone7. ab algunes provisions per lo exercit, y lo altre8. per Mallorca conforme tinch ja escrit a VS.9. per aportar un sindich dels Juirats, y axi lo10. dit Sr Don Joan Miquel me ha dit que quant11. VS. em dexa aquexa orde ere perque D. Ferna12. ndo Masuelo no sen enas, y que are el gust13. de VS. ere que tots los vaxels sen anasen14. cadeu a son viatge, y que no senpedis algun15. y jo en virtut de lo que el Sr. Don Joan Miq16. uel me ha referit tinch donat loc a que17. sen vajen y axi VS. es servira tenero per18. be. Ja tinc dit a Thoni Figuere criat de19. VS. que cobre los drets y llesenties que tocan20. a VS. restant per lo que VS. em vulle me21. nar de esta se case y Ciutadelle els 2322. de abril de 164223. Lorens mercadal24. Sr. Gdor. y Capital Gral. [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "017:8062.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo35/017:8062.JPG",
+      "url": "/legajos/legajo-35/images/017:8062.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "017:8062.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-35/cartas/005217.json",
+  "primary_image_url": "/legajos/legajo-35/images/017:8062.JPG"
+}

@@ -1,0 +1,38 @@
+{
+  "legajo_id": "19",
+  "id_carta": "7699",
+  "order_in_legajo": 15,
+  "signatura": "391_7906.JPG",
+  "nombre_carta": "Carta de Jaume Fornés a Pedro Santacilia y Pax",
+  "fecha_original": "fecha sin especificar",
+  "lugar": "lugar sin especificar",
+  "remitente": "Jaume Fornés",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Mi senyor Servir sia recordar sia Perlar amb el Senyor Doctor Descalls del negoci de grabiel giralt alias baster de la vila d'incha el qual envarcaré p reo d'une ferida civaver en dita vile. el enave amb conpanyia del balle; no te ningun proses Jaume Fornes Diacha [1§] Transcripción literal"
+  ],
+  "literal": [
+    "1. Mi Señor 2. Servir sea recordar sea Perlar ab lo 3. Señor Doctor Descalls del negosi de 4. grabiel giralt alias baster de la vila de 5. incha lo qual envarcaré p reo de une 6. faride civaver en dite vile. el enave ab 7. conpañia del balle; no te ningun proses 8. Jaume Fornes Diacha [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "391_7906.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo19/391_7906.JPG",
+      "url": "/legajos/legajo-19/images/391_7906.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "391_7906.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-19/cartas/007699.json",
+  "primary_image_url": "/legajos/legajo-19/images/391_7906.JPG"
+}

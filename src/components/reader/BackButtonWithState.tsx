@@ -1,4 +1,4 @@
-"use client";
+﻿"use client";
 
 import { ArrowLeft } from 'lucide-react';
 import { useRouter } from 'next/navigation';
@@ -7,22 +7,20 @@ export default function BackButtonWithState({ legajoId }: { legajoId: string }) 
   const router = useRouter();
 
   const handleBack = () => {
-    // Rely on native browser history to pop state preserving whatever Query Params were active.
-    // This gives the cleanest UX without keeping huge state stores.
     if (window.history.length > 2) {
       router.back();
     } else {
-      // Fallback if accessed sequentially via direct link
       router.push(`/legajos/${legajoId}`);
     }
   };
 
   return (
-    <button 
+    <button
       onClick={handleBack}
-      className="group inline-flex items-center gap-1.5 text-xs font-bold uppercase tracking-widest text-[#5a5545] hover:text-[#c5a028] transition-colors mb-6"
+      className="group inline-flex items-center gap-2 rounded-full border border-[#e7dec9] bg-white/70 px-3 py-1.5 text-[11px] font-bold uppercase tracking-[0.22em] text-[#6a5d47] hover:text-[#a38420] hover:border-[#d8c89e] transition-colors"
     >
-      <ArrowLeft size={14} className="transform group-hover:-translate-x-1 transition-transform" /> Volver al Legajo {legajoId}
+      <ArrowLeft size={14} className="transform group-hover:-translate-x-1 transition-transform" />
+      Volver al legajo {legajoId}
     </button>
   );
 }

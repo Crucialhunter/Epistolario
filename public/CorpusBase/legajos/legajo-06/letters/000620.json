@@ -1,0 +1,43 @@
+{
+  "legajo_id": "6",
+  "id_carta": "620",
+  "order_in_legajo": 118,
+  "signatura": "167-85a",
+  "nombre_carta": "Carta de Juan Perelló a Cecilia Zaforteza y Sureda de Sant Martí",
+  "fecha_original": "8 de junio de 1770",
+  "lugar": "Madrid",
+  "remitente": "Juan Perelló",
+  "destinatario": "Cecilia Zaforteza y Sureda de Sant Martí",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Mi senyora dona Cecília, Voldria esta trobàs a v. s. amb perfecta salut, juntament amb tots els de casa de mi Sr. Li particip com som arribats tots bons, gràcies a Déu, avui {ESP. cerca} les deu del matí, després de quinze dies de camí, pel que hem arribat a perdre ses cançons. Però, gràcies a Déu, ja hem posat peu fito a una casa nova i molt gran en el carrer d’Atocha junt a l’hospital de San Juan de Dios, doncs no media altra cosa sinó el carrer. D. Tomàs està alegre, però no té altra ferida sinó dir-me: “Quant pensa seré a Malta [?] ” I això m’ho deu repetir cent vegades al dia, pel que encara no ha dotze hores que som arribats i diu que ja frisa de sortir de Madrid, pel que diu que no hi ha ninguna cosa que li don gust sinó la creu de Malta, fer les caravanes i després tornar a fer companyia als seus pares i a v. m. Em posarà a l’obediència de mi Sr., de mi Sra. dona Caterina i de tots els {ESP. demés} i v. m. em tindrà prompte en totes les ocasions, pregant contínuament a Déu li concedesca tots els anys de mon desig. Madrid i juny 8 de 1770. Son segur servidor, Joan Perelló, prevere. A dona Cecilia Zaforteza [En la parte izquierda del documento, de arriba abajo]Cecília, quan som arribat he reparat tenia el descuit d’entregar-te esta carta que he desclosa i llegit. [En la otra página del documento, la direccion][1§] A mi senyora dona Cecilia Zaforteza, guardi Déu molts anys com desig etts. Mallorca Transcripción literal"
+  ],
+  "literal": [
+    "1. Mi Sra. Da. Cecilia 2. Voldria esta trobás á V.S. ab perfeta salud jun- 3. tament ab tots los de Casa de mi Sor.; li parti- 4. sip com som arribats tots bons gs á Deu vuy cir- 5. ca las deu del mati, despues de quinza dies de 6. cami, per lo que havem arribat á perdra ses 7. cansons, pero gs á Deu ya havem posat peu fito 8. á una casa nova y molt gran en el carrer 9. de Atocha junt al hospital de San Juan de Dios 10. pues no media altre cosa sinos al carrer; Dn. 11. Thomas está alegra pero no te altra farida si- 12. nos dirme: quant pensa saré á Malta? y esto mo 13. deu repetir cent vegades al die, per lo que enca- 14. re no ha dotza horas que som arribats y diu 15. que ya frisa de sortir de Madrid, per lo que diu 16. que no ey ha niguna cosa que li don gust sinos 17. la Creu de Malta, fer las Caravanes, y después tor- 18. nar á fer Compañia á sos Pares, y á V.m. hem 19. poserá á la Obada de Mi Sor., de Mi Sra. Da. Cathaa 20. y de tots los dames, y V.m. hem tindra prompte 21. en totas las ocasions, pregant continuament á D 22. li concedesca tots los as de Mon dezitx. Madrid y Juñy 23. 8 de 1770. Son Seg[u]r Sor Juan Perelló Pre. 24. A Da. Cecilia 25. Çaforteza 26. [ En la parte izquierda del documento, de arriba abajo ]27. [^Cecilia quant som arribat he reperat tenia el 28. descuit dentregarte esta carta que he desclo- 29. sa y llegit] [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "167-85a.jpg",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo06/167-85a.jpg",
+      "url": "/legajos/legajo-06/images/167-85a.jpg"
+    },
+    {
+      "filename": "167-85b.jpg",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo06/167-85b.jpg",
+      "url": "/legajos/legajo-06/images/167-85b.jpg"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "167-85a.jpg",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (2)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-06/cartas/000620.json",
+  "primary_image_url": "/legajos/legajo-06/images/167-85a.jpg"
+}

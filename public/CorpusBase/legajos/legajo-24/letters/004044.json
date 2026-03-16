@@ -1,0 +1,38 @@
+{
+  "legajo_id": "24",
+  "id_carta": "4044",
+  "order_in_legajo": 97,
+  "signatura": "126:4097.JPG",
+  "nombre_carta": "Carta de Pedro de Aragón a Pedro Santacilia y Pax",
+  "fecha_original": "15 de febrero de 1651",
+  "lugar": "Hortaleza",
+  "remitente": "Pedro de Aragón",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Heme alegrado mucho con su carta de v. m. porque me tenía cuidadoso su jornada, y estimo la haya hecho con muy buena salud. Estoy muy cierto de la voluntad de v. m., y me aseguró que en todas ocasiones obra v. m. con un mismo afecto, y me huelgo de que con encarecimiento haya v. m. escrito a don Josep de Rocaberti para la pretensión de don Lucas, que es mozo a quien deseo todo bien. V. m. ya sabe cuan seguro me tiene y así le suplico que en lo que se ofrezca de su servicio me ocupe, que a todo acudiré siempre con la voluntad que debo. Guarde Dios a v. m. muchos años. Hortaleza 15 de febrero de 1651. Dígame v. m. como ha llegado a su casa y como se halla aunque su inquietud es como le tengo dicho D. Pedro de Aragon Sr. don Pedro de Santacilia y Pax Transcripción literal"
+  ],
+  "literal": [
+    "1. Heme alegrado mucho con su carta de Vmd porque2. me tenia cuydadosso su jornada, y estimo la aya hecho 3. con muy buena salud: estoy muy çierto de la voluntad4. de Vmd, y me aseguro que en todas ocassiones obra Vmd 5. con un mismo affecto, y me huelgo de que con encare6. ssimiento aya Vmd escrito a don Joseph de Rocaverti7. para la pretençion de don Lucas, q es mosso aquien8. desseo todo bien; Vmd ya sabe quan seguro me tiene9. y assy le suplico q en lo que se offresca de su serbiçio10. me ocupe, q a todo acudire sienpre con la voluntad11. que devo: gde Dios a Vmd muchos años: Hortaleza12. 15 de febrero de 165113. [digame Vm como a llega14. do a su casa y como se alla a15. unque su ynquietud es co16. mo le tengo dicho]17. D. Po de Aragon18. Sr. Don Po de Santaçilia y pax [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "126:4097.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo24/126:4097.JPG",
+      "url": "/legajos/legajo-24/images/126:4097.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "126:4097.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-24/cartas/004044.json",
+  "primary_image_url": "/legajos/legajo-24/images/126:4097.JPG"
+}

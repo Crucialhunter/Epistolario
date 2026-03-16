@@ -1,0 +1,43 @@
+{
+  "legajo_id": "35",
+  "id_carta": "5271",
+  "order_in_legajo": 82,
+  "signatura": "082:8117a.JPG",
+  "nombre_carta": "Carta de Tomàs Abadia a Pedro Santacilia y Pax",
+  "fecha_original": "5 de febrero de 1644",
+  "lugar": "Maó",
+  "remitente": "Tomàs Abadia",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Esta nit passada {ESP. cerca} les dotze el batlle d'Alaior m'ha enviat l'esclau que donia v. s. havia fuit de les galeres; i els hòmens, l'un dels quals l'havia trobat en aquell terme, acostumat més facilitat se li pagàs el que s'havia promès, que son deu escuts, perquè·l tro baria i així entenent que aquesta mateixa nit s'havien de partir dues galeres, envií dit esclau pels matxos, els que el havien portat a elles, apadrinant els del Capª general Seguí, qui es troba present per a què amb el comissari rl., qui es son amic, els negociàs llur premi. I tenint ja dit esclau sobre el moll, cridant embrasi [?] el vaixell per llevar-se’l, quant {ESP. menos} se [?] els que’l guardaven, dit esclau faltà altra vegada, i per més diligència que faria em barcar-la com era la nit obscura no fou pos sible trobar-lo. I tinc per cert que no li ha de valer esta fuita molts dies, perquè tot el terme esta apersabut i costuma’s els pagesos desta governador promesa. Si a cas les galeres parteixen i dit moro no haurà aparegut i demprés vindrà v. s. se servesca dir-me què he de fer d'ell. I Nre. Sr. a V. guardi a. com desitjo. Maó i feb. 3 de 1644. Tomàs Abadia Fins esta hora no he tengut ocasió de portador per esta carta que tenia escrita. El que se m’ofereix dir a v. s. a és que don Miguel de Branchifort, govor. d’estes galeres havia dit anava amb poca salut, i ja convalescent de l'enfermedat havia tinguda i ha tornat recaure, de manera que se té poca esperança de vida. Com sé que és amic de V. S, m'ha paregut donar-li’n part per la post. El patró Luis de Nani ha tengut ell i els seus mariners cert disgusts amb altres de les galeres. No ha resultat dany considerable més que dit patró es restat ferit d'un colp en el cap. de tot s’és disposat bé, gràcies al, el qual a v. s. a guardi a. molts anys. de Maó i feb. 5 de 1644. Tomàs Abadia Transcripción literal"
+  ],
+  "literal": [
+    "1. Esta nit passada circa las dotse lo Balle de2. Alayor me ha Imbiat el sclau que doni a V.Sª.3. havia fuyt de las Galeras y los homens lo un4. dels quals lo havia trobat en aquell terme5. acostumat mes facilitat se li pagas lo que se6. havia promes que son deu scuts perquel tro7. baria y axi entenent que aquesta matexa8. nit se havian de partir duas Galeras embiy9. dit sclau per los matxos los q lo havian10. aportat a ellas apadrinant los del Capª11. Gl. Sagui quis troba pnt para q ab lo12. comissari Rl. qui es son amich los negocias13. llur premi y tenint ya dit sclau sobre14. el Moll cridant embrassi[?] el baxel15. per llevarsel quant menos se [?] los16. quel guardaven, dit sclau falta altre17. vegada, y per mes diligencia q feria en18. barcarla com era la nit obscura no fonch pos=19. sible trobarlo. Y tinch per cert q no li ha20. de valer esta fuyta molts dies perq tot el terme21. esta apersabut y costumas los pagesos desta22. Sr. Governador [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "082:8117a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo35/082:8117a.JPG",
+      "url": "/legajos/legajo-35/images/082:8117a.JPG"
+    },
+    {
+      "filename": "083:8117b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo35/083:8117b.JPG",
+      "url": "/legajos/legajo-35/images/083:8117b.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "082:8117a.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-35/cartas/005271.json",
+  "primary_image_url": "/legajos/legajo-35/images/082:8117a.JPG"
+}

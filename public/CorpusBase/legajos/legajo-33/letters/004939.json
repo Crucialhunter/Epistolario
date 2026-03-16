@@ -1,0 +1,38 @@
+{
+  "legajo_id": "33",
+  "id_carta": "4939",
+  "order_in_legajo": 133,
+  "signatura": "198:6855.JPG",
+  "nombre_carta": "Carta de Enrique de Aragón (VI duque de Cardona) a Pedro Santacilia y Pax",
+  "fecha_original": "14 de marzo de 1638",
+  "lugar": "Perpiñán",
+  "remitente": "Enrique de Aragón (VI duque de Cardona)",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Hállome con dos cartas de v. m. de 3 de este, y no puedo dejar de decir a v. m. que siendo materias de tanto peso las que apunta y que me diga deben llegar a mi noticia, siendo v. m. quien es y pudiendo tener experiencia que si la ocasión fuera de v. m. no me contentara con lo que hace sino que sin retardación le avisara cuanto entendiera, que pues v. m. conoce que no se lo desmerezco me avise luego los fundamentos que ha tenido para ra ello con mucha distinción, y si por mayor seguridad le pare ciere despacharme un criado en diligencia hagalo v. m. que aquí se pagara y quedaré con nuevo reconocimiento viendo que no me reserva cosa que tanto importa, yo quedo confiado que acudirá v. m. a todo con la fineza de voluntad que a acostumbrado. Guarde Dios a v. m. largos Años. Perppiñan 14 de marzo 1638 que es esto Señor don Pedro con [?] v. m. de tanto rigor con los amigos que tyene en esta casa pues apuntando cosas tan importantes se contenta con no acer. rte hasta lo mas. Sr. D. Pedro de Santacilia [1§] Transcripción literal"
+  ],
+  "literal": [
+    "1. Hallome con dos cartas de Vm. de 3 deste, y no puedo2. dexar de deçir a Vm que siendo materias de tanto peso las que3. apunta y que me diga deven llegar a mi notiçia, siendo Vm4. quien es y pudiendo tener esperiençia que si la ocasion fuera de5. Vm. no me contentara con lo que haçe sino que sin retarda6. cion le avisara quanto entendiera, que pues Vm. conoçe que no7. se lo desmerezco me avise luego los fundamento[s] q á tenido pa8. ra ello con mucha distinçion, y si por mayor seguridad le pare9. çiere despacharme un criado en dilig[enci]a hagalo Vm. q aqui se10. pagara y quedare con nuevo reconocim[ien]to viendo que no me reserva11. cosa q tanto importa, Yo quedo confiado q acudira Vm.12. a todo con la fineza de voluntad q á acostumbrado. Gu[ard]e13. Dios a Vm. largos Años. Perpp[iñ]an 14 de Março 163814. que es esto Señor don Pedro co15. [?] Vm de tanto rygor con16. los amygos que tyene enesta17. casa pues apuntando cosas18. tan ynportantes se contenta19. con no açer [...] rte asta lo20. mas [...]21. Sor. D. Pº de Sta. Cilia [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "198:6855.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo33/198:6855.JPG",
+      "url": "/legajos/legajo-33/images/198:6855.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "198:6855.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-33/cartas/004939.json",
+  "primary_image_url": "/legajos/legajo-33/images/198:6855.JPG"
+}

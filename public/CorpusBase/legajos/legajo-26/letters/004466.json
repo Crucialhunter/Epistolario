@@ -1,0 +1,43 @@
+{
+  "legajo_id": "26",
+  "id_carta": "4466",
+  "order_in_legajo": 204,
+  "signatura": "294:3561a.JPG",
+  "nombre_carta": "Carta de Vicente de Aragón a Pedro Santacilia y Pax",
+  "fecha_original": "30 de julio de 1647",
+  "lugar": "Nápoles",
+  "remitente": "Vicente de Aragón",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Sr. mío, el capitán Canales me dio la carta de v. s. y mucho que estimar con ella que las buenas nuevas que me trae de la salud de v. s. que siendo las que tanto deseaba me he alegrado sumamente. Ya le escribí a v. s. los infortunios que tuve en el viaje viniendo a Roma, pues me escapé dentro las proas de las galeras de Francia y siguiéndome una faluca de ellas me tiraron muchos mosquetazos, quitándome una bala del sombrero de la cabeza y quedando herido en la cara de un astillazo. Fue milagro de Dios escapar y no son tan piadosos los franceses que me habían de volver nada de la ropa y dinero que me robaron. He recibido el juego de los cinco morteros que v. s. me ha hecho merced de enviarme, aunque roto el mayor, suplico a v. s. me haga merced de enviarme dos juegos de a cinco y que vengan [1§] en cajas, porque no se rompan, que es cierto lo estimaré a v. m., que los aguardo con mucho deseo. No dudo de la mucha merced que me hace mi hermana la Sra. condesa duquesa. Que me ha de ayudar en todas ocasiones. Hasta ahora no se ha hecho nada de mi negocio en Roma, si bien me dicen que su Santidad [?] me hará gracia de part [?] de mi pretensión, pero hasta ahora no veo ninguna resolución de cosa. V. m. sabe que me tiene siempre a su servicio. Guarde Dios a v. m. largos años como deseo. Nápoles 30 de Julio 1647. Amigo y su mayor servidor de v. s. que sus manos besaDon Vicente de Aragon Sr. don Pedro de Santacilia Transcripción literal"
+  ],
+  "literal": [
+    "1. Sr. mío el Capitan Canales me dio la carta de VS.2. y mucho que estimar con ella q[ue] las buenas3. nuevas que me trae de la salud de VS que4. siendo las que tanto desseava me he alegrado summ5. amente, Ya le scrivi a VS los infortunios6. que tuve en el viage viniendo a Roma pues me7. escape dentro las proas de las galeras de Françia8. y siguiendome una faluca dellas me tiraron muchos9. mozquetazos quitandome una bala el sombrero de la10. cabeza y quedando erido en la cara de un astillazo11. Fue milagro de Dios escapar y no son tan12. piadosos los franzeses que me havian de13. bolver nada de la ropa y dinero que me robaron14. He rezivido el juego de los cinco morteros que15. VS me ha hecho mrd. de embiarme aunq[ue]16. roto el mayor, sup[li]co a vs me haga mrd. de17. embiarme dos juegos de a cinco y que vengan [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "294:3561a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo26/294:3561a.JPG",
+      "url": "/legajos/legajo-26/images/294:3561a.JPG"
+    },
+    {
+      "filename": "295:3561b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo26/295:3561b.JPG",
+      "url": "/legajos/legajo-26/images/295:3561b.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "294:3561a.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-26/cartas/004466.json",
+  "primary_image_url": "/legajos/legajo-26/images/294:3561a.JPG"
+}

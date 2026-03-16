@@ -1,0 +1,43 @@
+{
+  "legajo_id": "14",
+  "id_carta": "1943",
+  "order_in_legajo": 43,
+  "signatura": "070:2447a.JPG",
+  "nombre_carta": "Carta de Joan Antoni Albertí a Pedro Santacilia y Pax",
+  "fecha_original": "8 de julio de 1632",
+  "lugar": "Barcelona",
+  "remitente": "Joan Antoni Albertí",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Amigo mío de vuestra indisposición me ha llegado muy al alma que si no fuera por lo que me juráis de que no es cosa de cuidado le tendría muy grande plegue a Dios que os dé tan cumplida salud como puede y yo os deseo que bien se puede fiar de mi voluntad. También se debe sentir mucho como lo siento de que la mejoría de mi Sra. la conde sa no vaya muy adelante Su divina le dé la que deseamos todos, las cartas para Madrid irán el sábado a buen recaudo la que va con esta es del capitán que en ella veréis las nuevas que por allá hay y como se dieron vuestras cartas con puntualidad. Las nuevas de por acá no hay ningunas solo la mejoría de mi amo que va muy adelante aunque todos los días se tiene su terciana y no acaba de limpiar de calentura. Dios nos le dé muy cumplida salud como sus criados hemos menester el conde de Sastago [?] llegó esta mañana por la posta en tres días Sr. don Pedro de Santacilia [1§] de Madrid que no hiciera mal [?] un correo ha venido a visitar a su alteza de parte de sus hermanos y de la reina mi Sra. y del rey [?] Su Alteza [?] sea holgado infinito que no le ha sido de poco consuelo su venida que todo su mal es melancolia, y he tenido nuevas de Madrid que ya tienen puestos los hábitos los señores don Cotoner [?] aSprilla/aspaña [?] nuestro secretario Coloma que hizo [?] para mi de mucho contento, al Sº Juan [?] se le ha muerto su suegra no se el nombre ahora por eso no os lo digo por si le queréis escribir el pésame y le quiere desescribir dejo en blanco el nombre que yo le enllenare, la buena cara del comendador Cotoner mucho verá a la vuestra buena que juntas la cual se podrá escoger por mi señor [?] sino es que. con la embajada pretende tenerla mejor, no se huelga nada [?] de estas embajadas [?]. dinas de una vez no le sabrán bien todos los bocados que comiera ACABAR-LA [2§] Transcripción literal"
+  ],
+  "literal": [
+    "1. Amigo mio de Vra indisposiçion me allegado muy2. Al Alma que sy no fuera por lo que me ahjurays3. de que no es cosa de cuydado le tendria muy grande4. plegue a Dios que os de tan cumplida salud5. como puede y yo os desseo que bien se puede fiar6. de mi voluntad= Tanbien se deve sentir mucho7. como lo siento de que la mejoria de mi Sra. la Conde8. sa no vaya muy adelante Su Divina le de la que9. desseamos todos,10. Las cartas para Md hiran el sabado a buen recaudo11. la que va con esta es del Capan que en ella vereys12. las nuevas que por alla ay y como se dieron13. Vras cartas con puntualidad,14. Las nuevas de por aca no ay ningunas solo la15. mejoria de mi amo que va muy adelante aunque16. todos los dias se tiene su Terçiana y no acaba de17. linpiar de calentura Dios nos le de muy cumplida18. salud como sus criados hemos menester el Conde19. de Sastago?? llego esta mañana por la posta en tres dias20. Sr. Don Pº de Sta. cilia [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "070:2447a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo14/070:2447a.JPG",
+      "url": "/legajos/legajo-14/images/070:2447a.JPG"
+    },
+    {
+      "filename": "071:2447b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo14/071:2447b.JPG",
+      "url": "/legajos/legajo-14/images/071:2447b.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "070:2447a.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-14/cartas/001943.json",
+  "primary_image_url": "/legajos/legajo-14/images/070:2447a.JPG"
+}

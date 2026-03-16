@@ -1,0 +1,43 @@
+{
+  "legajo_id": "20",
+  "id_carta": "3198",
+  "order_in_legajo": 75,
+  "signatura": "093:5979a.JPG",
+  "nombre_carta": "Carta de Pedro de Galace a Pedro Santacilia y Pax",
+  "fecha_original": "3 de diciembre de 1665",
+  "lugar": "Madrid",
+  "remitente": "Pedro de Galace",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "muy a los principios de mi pasaje a esta isla vese a v. s. la mano y no habiendo merecido respuesta. ni de otra carta que escribí estando a cargo de v. s. el gobierno de ese reino. cese. en continuarlo contentándome con las noticias que de la salud de v. s. me participo Sr. D. Pedro de Berga. holgaré se continue de presente y merecer a v. s. el atributo de su mayor servidor para que en las ocasiones de mandarme Experimente v. s. mi prompte obediencia lastimosa nueva ha sido para todos la de haber lle vado nro. para si. al rey nro. señor (que está en el Cielo) de que doy a v. s. tan justo pesame, la per dida ha sido grande y debiendo a este paso corresponder el sentimito no excuso decir a v. s. con cuan cortos medios nos tiene la mala asistencia [?] de socorros cuyo motivo ocasiono escribir a Marcos Sancho teniente de v. s. en esta isla me avisa se, si en los lutos que se previenen por el real patrimo para el gobernador y demás [?] de ella, si era yo como prehendido a que me satisfiço no haber ejemplar que se me haya dado más del [?] de este castillo y pa reciéndome no quedaba esforcado por mi oarte este punto. continue en el, recombeniéndole no ocurria Â /p [1§] razón en contrario Respecto que en las fiestas que se celebraron al nacimio del príncipe Sr. D. Felipe Pros pero se dieron bujias y cuatro y cuatro hachas a mi prede cesor Sr. D. Thomas [?], y que supuesto que para demostración de jubilo le asistió esta gracia no parecía se hubiere derogado para la que nos es tan sensible además que cuando [?] en este castillo no se diera a nadie el pagador y yo [?] deciramos [?] correr con los demás [?] de las isla. por último Responde lo que parece por su carta, suplico. a v. s. se sirva mandar dicidir [?] lo que fuere servido que si mi pretensión es mal fundada no deseo la apadrine el favor de v. s. que guardo para cosas de mayor consecuencia cuando llegue lance de cansar a v. s. cuya [?] vida Guarde [?] N. Señor los muchos años que deseo Castio [?] san Phez [?] de diciembre 1665. Besa la manoo de v. s. su mayor servir Tomas de Gandarilla Ferrer D. Pedro de Santacilia y Pax. [2§] Transcripción literal"
+  ],
+  "literal": [
+    "1. Muy a los prinçipios de mi pasaje a esta Isla vese 2. a VS. la mano y no haviendo mereçido rres- 3. puesta. ni de otra carta que escrivi estando a cargo 4. de VS. el govierno de ese rreyno. çese. en continuarlo 5. contentandome con las notiçias que de la salud de VS. 6. me partiçipo Dn Pedro de Berga. olgare se con- 7. tinue de presente y mereçer a VS. el atributo de 8. su mayor servr para que en las occasiones de man- 9. darme Experimente VS. mi prompta obediençia 10. lastimosa nueva ha sido para todos la de haver lle- 11. vado nro. sr. para si. al Rey nro. señor ( que esta 12. en el çielo ) de que doy a VS. tan justo pesame, la per- 13. dida ha sido grande y deviendo a este passo corres- 14. ponder el sentimito no escuso deçir a V.S. con quan 15. cortos medios nos tiene la mala asistençia[?] de 16. socorros cuyo motivo ocasiono escrivir a Marcos 17. Sancho theniente de VS. en esta Isla me avisa- 18. se, si en los lutos que se previenen por el Rl patrimo 19. para el Govor y demas [?] de ella, si hera yo com- 20. prehendido a que me satisfiço no haver exemplar q 21. se me haya dado mas del [?] deste castillo y pa- 22. reçiendome no quedava esforcado por mi oarte este 23. punto. continue en el, recombeniendole no ocurria [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "093:5979a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo20/093:5979a.JPG",
+      "url": "/legajos/legajo-20/images/093:5979a.JPG"
+    },
+    {
+      "filename": "094:5979b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo20/094:5979b.JPG",
+      "url": "/legajos/legajo-20/images/094:5979b.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "093:5979a.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (3)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-20/cartas/003198.json",
+  "primary_image_url": "/legajos/legajo-20/images/093:5979a.JPG"
+}

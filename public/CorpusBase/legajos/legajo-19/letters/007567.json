@@ -1,0 +1,58 @@
+{
+  "legajo_id": "19",
+  "id_carta": "7567",
+  "order_in_legajo": 331,
+  "signatura": "118_cg49a",
+  "nombre_carta": "Carta de Persona desconocida a Persona desconocida",
+  "fecha_original": "31 de julio de 1698",
+  "lugar": "Génova",
+  "remitente": "Persona desconocida",
+  "destinatario": "Persona desconocida",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Â [1§] Â [2§] Â [3§] Â [4§] Â [5§] Transcripción literal"
+  ],
+  "literal": [
+    "1. 1. 1. 1. 1."
+  ],
+  "imagenes": [
+    {
+      "filename": "118_cg49a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo19/118_cg49a.JPG",
+      "url": "/legajos/legajo-19/images/118_cg49a.JPG"
+    },
+    {
+      "filename": "119_cg49b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo19/119_cg49b.JPG",
+      "url": "/legajos/legajo-19/images/119_cg49b.JPG"
+    },
+    {
+      "filename": "120_cg49c.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo19/120_cg49c.JPG",
+      "url": "/legajos/legajo-19/images/120_cg49c.JPG"
+    },
+    {
+      "filename": "121_cg49d.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo19/121_cg49d.JPG",
+      "url": "/legajos/legajo-19/images/121_cg49d.JPG"
+    },
+    {
+      "filename": "122_cg49e.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo19/122_cg49e.JPG",
+      "url": "/legajos/legajo-19/images/122_cg49e.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "118_cg49a.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (15)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-19/cartas/007567.json",
+  "primary_image_url": "/legajos/legajo-19/images/118_cg49a.JPG"
+}

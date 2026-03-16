@@ -1,0 +1,38 @@
+{
+  "legajo_id": "16",
+  "id_carta": "2584",
+  "order_in_legajo": 69,
+  "signatura": "115:2084.JPG",
+  "nombre_carta": "Carta de Nicolás de Santacilia y Togores a Pedro Santacilia y Pax",
+  "fecha_original": "4 de mayo de 1667",
+  "lugar": "Madrid",
+  "remitente": "Nicolás de Santacilia y Togores",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Un día de estos pienso volver a la casa de los pajes, y en pesare, a tratar de dar memorial, y avisaré a v. m., con las novedades que hubiere. Por ahora no hay de que dar cuenta (de) a v. m., solo le suplico, me vuelva respuesta de las carta que tengo escritas, antes que viniera a casa de Diego Matias, En esta casa me han asistido muy bien, como se lo tengo escrito a v. m. por Barcelona. Guarde Dios a v. m. muchos años como deseo ye menester, Madrid a 4 de mayo 1667. Su más humilde hijo de v. m. que su mano besaDon Nicolas de Santacilia y Togores [Margen izquierdo] Mi señor y mi padre Transcripción literal"
+  ],
+  "literal": [
+    "1. Un dia destos, pienso bolver ala Casa 2. de los Pages, y en pesare, atratar de dar 3. memorial, y avisare a VM, Con las nove4. dades que huviere, por aora no ay de 5. que dar quenta (^de)a VM, solo le su=6. plico, me buelva respuesta, delas Carta 7. que tengo escritas, antes que viniera 8. a Casa de Diego Mathias, En esta Casa 9. me an asistido muy bien, Como se lo 10. tengo escrito a VM por Barselona Gu11. arde Dios a VM muchos años Como deseo 12. ye menester Madrid a 4 de Mayo 1667 13. Su mas humilde hijo 14. de VM q S[u]MB 15. Don Nicolas de sta Cilia y Togores 16. [Margen izquierda][^ mi Sr y mi Padre] [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "115:2084.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo16/115:2084.JPG",
+      "url": "/legajos/legajo-16/images/115:2084.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "115:2084.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-16/cartas/002584.json",
+  "primary_image_url": "/legajos/legajo-16/images/115:2084.JPG"
+}

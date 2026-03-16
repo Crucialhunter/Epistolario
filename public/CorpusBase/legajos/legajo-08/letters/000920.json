@@ -1,0 +1,43 @@
+{
+  "legajo_id": "8",
+  "id_carta": "920",
+  "order_in_legajo": 99,
+  "signatura": "175-115a copia",
+  "nombre_carta": "Carta de Thomás Áufre y Velasco a Persona desconocida",
+  "fecha_original": "5 de julio de 1644",
+  "lugar": "Castillo de San Felipe (Menorca)",
+  "remitente": "Thomás Áufre y Velasco",
+  "destinatario": "Persona desconocida",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "El capitán Juan Carreras me ha dado su carta de v.s. y mostádome la orden de su magestad, que Dios guarde, en que abona la provisión que v.s. hizo del biscoche a las galeras de Sicilia, la cual queda notada en estos oficios, y me he holgado esto con ella para dar tapaboca al castellano que pretendía autoridad en lo que no le pertenece. Yo doy copia de ella al dicho Carreras autorizada para su descargo: allá se deben entender. Las galeras se están en este puerto y yo juzgo tardarán en dar la vuelta. La carta que v.s. me remitió era de julio, me decía de soto [?] que era porque de la talaya y ahora tiene la que servía mi padre [?] que goza por fallecimiento de julio de salas que como tengo un hermano en Zaragoza que se llama Miguel así fue fácil errar el sobrescrito por la comunicación que con el otro tenía y todos los pobres soldados de aquí están clamando que tal desdicha de trabajar sin paga y más al que no es para ello en tierra de moros no sé qué lo consientan, Este hombre está resuelto a conseguir su intento de las casas y así ha juntado todos los metros de aquí y con toda prisa las va fabricando y aseguro a v.s. que de mi parte tengo hechas todas las diligencias pertenecientes a mi oficio en todas interrogaciones [1§] y asimismo le he dado a entender la mala paga a los mismos que trabajan, pero como él lo hace por fuerzo y de poder absoluto yo no puedo de mi parte más que advertirle y hacer mis diligencias. Como v.s. sabe ya lleva alta la obra según me dicen porque si no es una ver que en achaque de otro negocio me llevó allá abajo. No tengo más noticia de lo que trabajar porque en ningún tiempo me hagan cargo que sabe intervención y vine bien en lo que es en contravenencia de las órdenes de su magestad la del ciego. Guarde a v.s. felices años, como deseo y es menester. Castillo de San Felipe y Ma [?], a 5 de julio [?] 1644. Thomás de Aúfre y Velasco Señor gobernador Transcripción literal"
+  ],
+  "literal": [
+    "1. El capitan Juan Carreras me adado su carta deV.s. 2. y mostradome la Horden. de su M[a]g< > q Dios g< > en que a bona 3. la Proviçion q V.s. hiço del Biscoçho alas Galeras de 4. Siçilia laqual. queda notada. enestos offiçios y me e olgado 5. esto. conella p dartapaboca. al castellano q pretendia au- 6. toridad . en lo q no. le pertenese. yo doy copia della. al dho Carre- 7. ras autoriçada p< [a]> sudescargos. alla se deven entender. 8. las Galeras se estan eneste puerto. y yo Jusgo tardaran endar 9. labuelta. 10. La carta q V.s. me Remitio era de Ju[li]< > mexia de soto quera 11. Paq de lattalaia y aora tine la q servia mi P< >Iuq< > 12. Goça p falleçimiento de Ju[li]< > de salas q como tengo un 13. hermano en Zaragoça que sellama Mig< > assi fue 14. façil errar el sobrescrito p la comunicaçion q conel 15. otro tenia 16. y todos los pobres soldados de aqui estan clamando q quetal 17. desdha detravajar. sin. Paga y mas alque no es p< [a]> ello. 18. en tierra de moros. no se quelo. consientan.este ombre esta 19. Resuelto a Conseguir suintento. delas cassas y assi ajun- 20. tado todos los metros de aqui y contoda prissa las vafa- 19]21. bricandoy aseguro a V.s. que de mi parte. tengo eçhas todas 22. las dilig< > perteneçientes a mi offiçio entodas ynterroga- [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "175-115a copia.jpg",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo08/175-115a copia.jpg",
+      "url": "/legajos/legajo-08/images/175-115a copia.jpg"
+    },
+    {
+      "filename": "176-115b copia.jpg",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo08/176-115b copia.jpg",
+      "url": "/legajos/legajo-08/images/176-115b copia.jpg"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "175-115a copia.jpg",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (2)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-08/cartas/000920.json",
+  "primary_image_url": "/legajos/legajo-08/images/175-115a copia.jpg"
+}

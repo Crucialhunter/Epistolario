@@ -1,0 +1,48 @@
+{
+  "legajo_id": "6",
+  "id_carta": "651",
+  "order_in_legajo": 150,
+  "signatura": "226-116a",
+  "nombre_carta": "Carta de Thomasa Martínez y Millo a Cecilia Zaforteza y Sureda de Sant Martí",
+  "fecha_original": "16 de junio de 1772",
+  "lugar": "Málaga",
+  "remitente": "Thomasa Martínez y Millo",
+  "destinatario": "Cecilia Zaforteza y Sureda de Sant Martí",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Muy señora mía y de mi mayor veneración, Ya tengo escrita otra a v. s. en que suplicara su caridad a aliviarme con algún socorro para socorrer en parte mis necesidades causadas por las enfermedades de mi marido, y pensión de continuas amas por no haber podido lograr nunca de tener leche para criar mis criaturas, causándome [1§] muchísimos más gastos que pueden sufrir mis fuerzas y las pagas de mi marido, con lo que no dudo de la grande benignidad de v. s. esperar alivio para agregar este favor a otros infinitos que en mi niñez recibí de la bondad de v. s. Y no dejaré, como nunca no he dejado, de rogar a Nuestro Señor guarde su vida felices y dilatados años con todas prosperidades espirituales y temporales. Y ofreciendo mis inutilidades a su poderoso patrocinio, quedo a la disposición de sus [2§] preceptos. Málaga, a 16 junio de 1772. Beso los pies de v. s. Su más humilde y atenta servidora, Tomasa Martínez y Millo, mujer del sargento Francisco Millo, del regimiento de Nápoles Mis señora da. Cecilia Zaforteza Transcripción literal"
+  ],
+  "literal": [
+    "1. Mui Señora mia y de 2. mi maior Veneracion: ya 3. tengo escritta otra a V.S. en 4. que supplicara su caridad 5. á aliviarme con algun so- 6. corro, para socorrer en parte 7. mis neccesidades, causadas 8. por las enfermedades de mi 9. marido, y pencion de conti- 10. nuas Amas por no haber 11. podido lograr nunca de te- 12. ner leche para criar mis 13. criaturas causandome [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "226-116a.jpg",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo06/226-116a.jpg",
+      "url": "/legajos/legajo-06/images/226-116a.jpg"
+    },
+    {
+      "filename": "227-116ba.jpg",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo06/227-116ba.jpg",
+      "url": "/legajos/legajo-06/images/227-116ba.jpg"
+    },
+    {
+      "filename": "227-116bb.jpg",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo06/227-116bb.jpg",
+      "url": "/legajos/legajo-06/images/227-116bb.jpg"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "226-116a.jpg",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (2)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-06/cartas/000651.json",
+  "primary_image_url": "/legajos/legajo-06/images/226-116a.jpg"
+}

@@ -1,0 +1,38 @@
+{
+  "legajo_id": "31",
+  "id_carta": "6834",
+  "order_in_legajo": 75,
+  "signatura": "099:1585.JPG",
+  "nombre_carta": "Carta de Vicente de Aragón a Pedro Santacilia y Pax",
+  "fecha_original": "13 de mayo de 1661",
+  "lugar": "Valencia",
+  "remitente": "Vicente de Aragón",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Sr. mio deseo se ofrezcan ocasiones per a sol·licitar nuevas de la salut de v. s. (que holgaré sia muy buena) i ací logro esta suplicando juntamente a v. s. me haga favor de mandar que a don Germo, de Leon se libre el salario que se la debe atrasado de la [?] venia que tiene en el Reial Patrimonio d'esa reino perquè ha dado repetidos órdenes su magestat. doncs siendo salario i no mercè graciosa parece se debe satisfacer com el d'otras efexivanias i porque la {ESP. cantidad} d'atrasados es grande se contentara cobrando part d'ella cada anyo ademàs del salario anual corriente que lo estimaré a v. s. i tener ms. {ESP. empleo} s en què reconocer-lo al servicio de v. s. que guardi Dios ms. anys València 13 Mayo 1661. mio no m'ha dicho LLETRA DIFÍCIL Amigo de v. Sr. don Vicente de Aragon Sr. don Pedro de Santacilia Transcripción literal"
+  ],
+  "literal": [
+    "1. Sr mio desseo se ofrescan ocassiones para soliçitar 2. nuebas de la salud de VS (que holgare sea mui buena) 3. y assi logro esta suplicando juntamente a VS. me 4. haga favor de mandar que a Don Germo, de Leon 5. se libre el salario que se le debe atrassado de la [?] 6. vania que tiene en el Rl Patrimonio de esse Reyno 7. para que ha dado repetidos ordenes su Magd. pues 8. siendo salario y no merd. graçiossa pareçe se debe 9. satisfaçer como el de otras efexivanias y por que la 10. cantidad de atrassados es grande se contentara co11. brando parte della cada año ademas del salario 12. anual corriente que lo estimare a VS y tener ms. 13. empleos en que reconoçerlo al serviçio de VS que gde 14. Dios ms. años Valençia 13 Mayo 1661. Sr mio no me ha dicho 15. LLETRA DIFÍCIL 16. Amigo de VS 17. Don Vicente 18. de Aragon 19. Sr. Don Pedro de Sta. Siçilia [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "099:1585.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo31/099:1585.JPG",
+      "url": "/legajos/legajo-31/images/099:1585.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "099:1585.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-31/cartas/006834.json",
+  "primary_image_url": "/legajos/legajo-31/images/099:1585.JPG"
+}

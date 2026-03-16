@@ -1,0 +1,78 @@
+{
+  "legajo_id": "9",
+  "num_cartas": 156,
+  "num_imagenes": 348,
+  "rango_temporal": [
+    1609,
+    1682
+  ],
+  "remitentes_frecuentes": [
+    {
+      "name": "Josep de Meoz y Urquiz",
+      "count": 38
+    },
+    {
+      "name": "Diego Álvarez",
+      "count": 30
+    },
+    {
+      "name": "Juan Bautista Sastre",
+      "count": 11
+    },
+    {
+      "name": "Persona desconocida",
+      "count": 10
+    },
+    {
+      "name": "Pedro de Ayala",
+      "count": 6
+    }
+  ],
+  "destinatarios_frecuentes": [
+    {
+      "name": "Arnau de Santacilia",
+      "count": 144
+    },
+    {
+      "name": "Persona desconocida",
+      "count": 6
+    },
+    {
+      "name": "Pedro Santacilia y Pax",
+      "count": 2
+    },
+    {
+      "name": "Arnau Santacilia i Santacilia",
+      "count": 1
+    },
+    {
+      "name": "No consta - Probablemente Pedro Santacilia y Pax",
+      "count": 1
+    }
+  ],
+  "lugares_frecuentes": [
+    {
+      "name": "Milán",
+      "count": 73
+    },
+    {
+      "name": "Palermo",
+      "count": 13
+    },
+    {
+      "name": "Madrid",
+      "count": 10
+    },
+    {
+      "name": "lugar sin especificar",
+      "count": 9
+    },
+    {
+      "name": "Granada",
+      "count": 8
+    }
+  ],
+  "temas_frecuentes": [],
+  "warnings_count": 51,
+  "densidad_narrativa_estimada": "Media"
+}

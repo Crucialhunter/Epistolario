@@ -1,0 +1,43 @@
+{
+  "legajo_id": "26",
+  "id_carta": "4455",
+  "order_in_legajo": 194,
+  "signatura": "280:3550a",
+  "nombre_carta": "Carta de Francisco Cortés de Aedo a Persona desconocida",
+  "fecha_original": "19 de junio de 1647",
+  "lugar": "Madrid",
+  "remitente": "Francisco Cortés de Aedo",
+  "destinatario": "Persona desconocida",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Señor mío, su carta de v. m. ha sido para mi de mucho alborozo por saber de su salud y ver que se acuerda de cuan suyo soy, lo que podrá v. m. experimentar mandándome muchas cosas de su servicio. Mucho siento dudase v. m. que yo dejaría de venir esta jornada con s. a. sabiendo la ambición que yo tenía de mandar a veces. Ésa se me ha malogrado por ahora, pues han sacado la gente de la armada para el socorro de Lérida y nosotros estamos en Vinarós de donde según se dice partiremos para Denia hasta que haya otra orden. Lo cierto de ello es que más me hubiera holgado que el paradero hubiera sido Mallorca, pero el deseo que yo tenía de ver a v. m. y gozar de aquel reino que dicen es un paraíso terrestre. Las últimas nuevas que tenemos de Lérida es que Brito había hecho una salida y topando al enemigo muy descuidado le degollo más de quinientos hombres y entre ellos gente muy principal, les quemó una galera y quedo hecho [1§] dueño de los cuarteles del enemigo. De ahora y media con que escriben soldados volvieron a la ciudad de despojos riquísimos. Don Luis mi avisa que parte [?] Zaragoza con toda prisa. No se me ofrece otra cosa de que avisar a v. m. Dios me le guarde como deseo, de Madrid a 19 de junio 1647. Su mayor Amigo y servidor Don Francisco Cortes de Aedo Olvidábaseme de avisar a v. m. como Dios fue servidor de llevarse para si a don Jeronimo de Sandoval, que no ha sido pequeña perdida. Quieren decir vendrá don Martin Carlos de Mencos a ocupar su lugar, pero hasta ahora no se sabe nada de cierto. Transcripción literal"
+  ],
+  "literal": [
+    "1. Señor mio su carta de Vm a sido para mi2. de mucho alboroço por saver de su salud y3. ver que se acuerda de quan suyo soy lo que4. podra Vm esperimentar mandandome5. muchas cosas de su serviçio6. Mucho siento dudase Vm que yo dejaria7. de venir esta Jornada con S.A. saviendo8. la ambiçion que yo tenia de mandar9. a vezes essa se me ha malogrado por agora10. pues an sacado la gente de larmada para11. el socorro de Lerida y nosotros estamos en12. Vinaroz de donde segun se diçe partiremos13. para Denia hasta que aya otra orden lo14. çierto dello es que mas me huviera holga15. do que el paradero huviera sido Mallorca16. pero el deseo que yo tenia de ber a Vm y17. goçar de aquel reyno que diçen es un parray18. so terrestre19. Las ultimas nuebas que tenemos de Lerida20. es que Brito havia hecho una salida21. y topando al enemigo muy descuidado22. le degollo mas de quinientos hombres23. y entre ellos gente muy principal24. les quemo una galeria y quedo hecho [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "280:3550a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo26/280:3550a.JPG",
+      "url": "/legajos/legajo-26/images/280:3550a.JPG"
+    },
+    {
+      "filename": "281:3550b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo26/281:3550b.JPG",
+      "url": "/legajos/legajo-26/images/281:3550b.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "280:3550a.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-26/cartas/004455.json",
+  "primary_image_url": "/legajos/legajo-26/images/280:3550a.JPG"
+}

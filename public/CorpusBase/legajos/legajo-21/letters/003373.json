@@ -1,0 +1,38 @@
+{
+  "legajo_id": "21",
+  "id_carta": "3373",
+  "order_in_legajo": 62,
+  "signatura": "096:5662.JPG",
+  "nombre_carta": "Carta de Pere Avinyó a Pedro Santacilia y Pax",
+  "fecha_original": "9 de marzo de 1632",
+  "lugar": "Peralada",
+  "remitente": "Pere Avinyó",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Aquí te v. m. el quartó en son servei faci tinga recapta el que li suplico si es possible que dijous a vespre lom [?] fos tornar perquè divendres de matí tinc anar fora i [?] i és cosa que no la puc excusar i som me molt alegrat quant sabí v. m. tenia llibertat gustarà de veure [?] no se'n tornàs i amb [?] cosa de son servei a qui Déu [?] a v. m. de vida tenim [?] a 9 de març de 1632. Pere Avinyo A don Pedro Santacilia i Pax, guardi Déu Perelada [1§] Transcripción literal"
+  ],
+  "literal": [
+    "1. Aqui te V.M. lo cortan en son serve[ey]2. fasa tinga recabta loquel soplico s[i]3. es posible que digous avespra lom[?]4. fostor nar perque divendras demat[i]5. tinc anar fora illun i es cosa que no la 6. puc escusar i som me molt alegrat (qua7. nt) quant sabi v.m. teniallibertat 8. gustara de veura [Ilegible]nosen 9. tornas jam [Ilegible] cosa desonser10. vey aqui d[Ilegible] a vm de vilatenim [?] 11. a 9 de mars de 1632 12. Pere Avinyo13. [Margen izquierdo][^ A don Pedro Sta silia y Pax guarde deu Perelada ] [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "096:5662.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo21/096:5662.JPG",
+      "url": "/legajos/legajo-21/images/096:5662.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "096:5662.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-21/cartas/003373.json",
+  "primary_image_url": "/legajos/legajo-21/images/096:5662.JPG"
+}

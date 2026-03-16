@@ -1,0 +1,43 @@
+{
+  "legajo_id": "21",
+  "id_carta": "3430",
+  "order_in_legajo": 118,
+  "signatura": "203:5718a.JPG",
+  "nombre_carta": "Carta de Pedro Fajardo de Requeséns-Zúñiga y Pimentel (V marqués de los Vélez) a Pedro Santacilia y Pax",
+  "fecha_original": "4 de febrero de 1639",
+  "lugar": "Pamplona",
+  "remitente": "Pedro Fajardo de Requeséns-Zúñiga y Pimentel (V marqués de los Vélez)",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "He recibido su carta de v. m. de 1º de este y me huelgo mucho haya llegado con salud a ese cuartel, y que D. Miguel Castellot, se halle más alentado; y creo que con lo que yo le escribo lo estará mucho más, porque las asistencias serán seguras de hoy en adelante, y esto tendrá mejor disposición hasta aquí. Guarde Dios a v. m. como deseo de Pamplona y febrero 4 de 1639. El marques de los Velez Sr. D. Pedro Santacilia [1§] Pamplona 4 Febrero 1639 El marques de los Velez rdo. [2§] Transcripción literal"
+  ],
+  "literal": [
+    "1. eRezivido sucarta de Vm. de 1º deeste 2. y me huelgo mucho aya llegado con salud haese 3. Quartel, y q D miguel Castellot, se halle mas 4. alentado; y creo que con lo q yo leescríbo loestará 5. mucho mas, porq las asistençías serán seguras de 6. oy, en adelante, y esto tendra mejor disposiçion e 7. hasta aqui ge Dios a Vm. como deseo de Pampa 8. y febrero 4 de 1639 9. El Marqs delos veles10. [Margen izquierdo][^ Sr D Pedro Santaçilia] [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "203:5718a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo21/203:5718a.JPG",
+      "url": "/legajos/legajo-21/images/203:5718a.JPG"
+    },
+    {
+      "filename": "204:5718b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo21/204:5718b.JPG",
+      "url": "/legajos/legajo-21/images/204:5718b.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "203:5718a.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (5)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-21/cartas/003430.json",
+  "primary_image_url": "/legajos/legajo-21/images/203:5718a.JPG"
+}

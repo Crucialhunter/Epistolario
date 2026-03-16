@@ -1,0 +1,38 @@
+{
+  "legajo_id": "24",
+  "id_carta": "3967",
+  "order_in_legajo": 21,
+  "signatura": "032:4020.JPG",
+  "nombre_carta": "Carta de Enrique de Aragón (VI duque de Cardona) a Pedro Santacilia y Pax",
+  "fecha_original": "21 de marzo de 1635",
+  "lugar": "Perpiñán",
+  "remitente": "Enrique de Aragón (VI duque de Cardona)",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Estimo a v. m. su cuidado y aunque en la pasada dije a v. m. que deseaba me hablase más claro, juzgo en esta lo ha hecho v. m. en la que recibo de 5 y me hallarán siempre todas las resoluciones tan igualmente prevenido, como resuelto a mirar siempre por lo más conveniente y útil a mi persona y casa, estimando a v. m. el desuelo con que a esto asiste esperando me diga lo que entendiere siempre de nuevo, pues fio tanto de la merced, que v. m. me hace que no dudaré de su cuidado, ni teniendo v. m. hoy encomendaré a otras manos estas materias. Guarde Dios a v. m. muchos años. Perpiñan a 21 de marzo 1635. Dice v. m. que le cansa habernos de escribir [?], peor fuera que v. m. no [?] y así no lo [?] iré dar sino continuar el hacerlo conociendo fuera tuvo el dejarlo de hacer. [?] Sr. don Pedro Santacilia y Pax Transcripción literal"
+  ],
+  "literal": [
+    "1. Estimo a V.m. su cuydado y aunq en la passada diche a V.m 2. q deseava me hablasse mas claro, Jusgo en esta lo ha hecho3. V.m. en la que reçibo de 5. y me hallaran siempre todas4. las resoluciones tan ygualmente prevenido, como resuelto a5. mirar siempre por lo mas conveniente y util a mi persona6. y Casa, estimando a V.m. el desuelo con q a esto assiste7. esperando me diga lo que entendiere siempre de nuevo,8. pues fio tanto de la mrd, q V.m. me haçe que no dudare9. de su cuydado, ni teniendo V.m. aÿ encomendare a otras10. manos estas materias, Guarde Dios a V.m. muchos años,11. Perpiñan a 21. de Março 1635. [^dyçe V.m.12. que le cansa abernos de escry13. byr desabrymientos, peor fue 14. ra que V.m. no loy çyera y asy no 15. loa dequedar syno continu16. arel acerlo connocyendo fuera 17. tiro el dejarlo de açer.] 18. duq de segorue19. y de cardona 20. Sr. Don Po. Santacilia y Pax [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "032:4020.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo24/032:4020.JPG",
+      "url": "/legajos/legajo-24/images/032:4020.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "032:4020.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-24/cartas/003967.json",
+  "primary_image_url": "/legajos/legajo-24/images/032:4020.JPG"
+}

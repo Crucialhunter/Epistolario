@@ -1,0 +1,38 @@
+{
+  "legajo_id": "15",
+  "id_carta": "2142",
+  "order_in_legajo": 39,
+  "signatura": "064:6366.JPG",
+  "nombre_carta": "Carta de Lluís Mavirante a Pedro Santacilia y Pax",
+  "fecha_original": "29 de agosto de 1638",
+  "lugar": "Valencia",
+  "remitente": "Lluís Mavirante",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "La de vosa senyoria de 13 del corrent rebí, la qual m'alegrí moltíssim en veure que ve a este regne. De mi res m'han dit, que [s'ha de fer pagar] perquè no vingués, que m'ha sabut molt banal perdre l'ocasió de veure a {ESP. vuesa} senyoria. Que estimaria més que escriure del que em diu, del 300 reals del {ESP. teniente Jaime} Mateu, que es pasaran amb puntualitat. Jo confiï que em farà mercè com sempre el portador d'esta. Ha tengut el cavall {ESP. encontrat} v. m., {ESP. cuatro} dies, que per respecte d'això no ha gosat anar tan prest. Nostre Senyor el guardi i em mani en coses de son servici d'esta sa casa. I València a 29 d'agost 1638. La senyora {ESP. i tots els de casa} li besam les mans. Joan Estelrich. Al senyor don Pedro Santacilia i Pax Transcripción literal"
+  ],
+  "literal": [
+    "1. La de boseñoria de 13 delcorent 2. rebi laqual me Alegri moltissim en 3. beure que be enesterechne demy res 4. me andit quese adesinopachat pera 5. que no vingues que me hasabut 6. molt bonal perde la ocasio de beure 7. a buesa siñoria que estimaria mes 8. que escrure del que emdiu dels 300 reals 9. del tiniente Jayme mateu que es pasa10. ran en puntualitad jo comfie que em 11. fara me comsempre lo portador desta 12. atengut locavall encontrad Vm quato dies13. que perrespechtede axo no hagosat 14. anar tant prest nostre sr logde y em 15. mane en Coses de son serbisi desta Sacassa 16. y Vala a 29 de Agost 1638 La Sa. y todos los 17. de Cassa li besam les mans 18. Joan Stelrich 19. [Margen izquierdo][^Al Sr Don pedro Santa Silia y pachs] [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "064:6366.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo15/064:6366.JPG",
+      "url": "/legajos/legajo-15/images/064:6366.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "064:6366.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-15/cartas/002142.json",
+  "primary_image_url": "/legajos/legajo-15/images/064:6366.JPG"
+}

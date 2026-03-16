@@ -1,0 +1,38 @@
+{
+  "legajo_id": "28",
+  "id_carta": "4738",
+  "order_in_legajo": 49,
+  "signatura": "068:3672.JPG",
+  "nombre_carta": "Carta de Macià Monsarró a Pedro Santacilia y Pax",
+  "fecha_original": "1 de enero de 1639",
+  "lugar": "Zaragoza",
+  "remitente": "Macià Monsarró",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "La ocasión de no haber enviado el pliego ha sido por haberse detenido en casa del gobernador. Yo tenía cabalgadura alquilada para llevarle y hallado un hombre de esa villa y así lo lleva. Por acá no hay otra cosa de nuevo si no es de los franceses. No puedo negar de que me dulgo [duelo] del Sr. don Gaspar de que haya esta[do] en la cárcel hasta en tanto que venga el Dr. Carrillo que ha ido a esos lugares a tomar información de los comisarios. El gobernador me ha dicho que el dinero lo tiene en Zaragoza para socorrer esas compañías. Y por no saber si el dinero se ha de enviar al Sr. [?] Castellet o a v. m., y así está detenido. Yo espero en Dios a un pertero [?] de esta audiencia verle capitán general. Guarde Dios a v. m. como deseo y lo libre de tales casos. De Zaragoza y enero a 1 [1639] Macia Monsarro Transcripción literal"
+  ],
+  "literal": [
+    "1. La ocasion de no haver inbiado el pliego asido2. por haverse detenido en casa del governador yo te3. nia cabalgadura alquilada para llevarte y4. allado un hombre de esa villa y asi lo lleva5. por aca no hay otra cosa denuebo sino6. es de los franceses. no puedo negar de7. que me dulgo del Sr. Dn. Gaspar de8. que haya esta en la carcel asta entanto9. que benga el Dr. carillo que a ydo10. a esos lugares a tomar informacion de11. los comisarios el Gobernador me a dho12. que el dinero lo tiene en Çaragoza13. para socorrer esas compañias y por no14. saver si el dinero se a de inbiar al Sr [?] caste15. llet, o, a v.m., y asi esta detenido yo16. espero en dios aun pertero [?] de esta udien17. cia berle capitan general Gde. dios18. a v.m. como deseo y lo libre de tales19. cassos de Çaragoza y henero a 1 20. masia monsarro [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "068:3672.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo28/068:3672.JPG",
+      "url": "/legajos/legajo-28/images/068:3672.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "068:3672.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (2)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-28/cartas/004738.json",
+  "primary_image_url": "/legajos/legajo-28/images/068:3672.JPG"
+}

@@ -1,0 +1,38 @@
+{
+  "legajo_id": "33",
+  "id_carta": "4837",
+  "order_in_legajo": 32,
+  "signatura": "045:6753.JPG",
+  "nombre_carta": "Carta de Enrique de Aragón (VI duque de Cardona) a Pedro Santacilia y Pax",
+  "fecha_original": "17 de noviembre de 1628",
+  "lugar": "Girona",
+  "remitente": "Enrique de Aragón (VI duque de Cardona)",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Con cuidado me dejan las nuevas que v. m. me da de la falta de salud del conde y para salir de él envío este criado, para que me traiga tan buena relación como deseo y su casa ha menester, que según la que v. m. me hace merced de darme espero no habrá pasado adelante la enfermedad, con que estaré muy contento. Y yo, v. m. creea le he de servir en todas ocasiones. Guarde Dios a v. m. como puede. Cadaques, 17. noviembre 1628. [Otra letra] Con cuidado estaré hasta saber que el conde está muy bueno. V. m. se lo diga y vea en lo que le podré servir. muy suyo y [?] [Otra letra, a lápiz, más moderna] Don Enrique de Aragon, duque de Cardona Sr. d. Pedro de Santacilia [1§] Transcripción literal"
+  ],
+  "literal": [
+    "1. Con cuidado me dejan las nuebas que V.m. me da2. de la falta de salud del Conde y para salir del3. embio este criado para que me traiga tan bue4. na relazion como desseo y su cassa a menester,5. que segun la que V.m. me haze m[e]r[ce]d de dar6. me espero no abra passado adelante la en7. fermedad con qeu estare muy contento, y jo8. V.m. creea lee de servir en todas ocassiones,9. Gde. Dios a V.m. como puede de Cadaques10. 17. noviembre 1628. Con cuydado estaré as11. ta saber que el conde esta muy bueno v.m.12. se lo dyga y bea en lo que le podre serbyr13. Muy suyo y [?]14. [?] 15. Don Enrique de Aragón16. Duque de Cardona17. Sr. D. Pº de Santa Zilia [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "045:6753.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo33/045:6753.JPG",
+      "url": "/legajos/legajo-33/images/045:6753.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "045:6753.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-33/cartas/004837.json",
+  "primary_image_url": "/legajos/legajo-33/images/045:6753.JPG"
+}

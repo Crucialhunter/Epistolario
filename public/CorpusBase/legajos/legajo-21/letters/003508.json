@@ -1,0 +1,53 @@
+{
+  "legajo_id": "21",
+  "id_carta": "3508",
+  "order_in_legajo": 197,
+  "signatura": "366:5796a.JPG",
+  "nombre_carta": "Carta de Bartomeu Domènech a Pedro Santacilia y Pax",
+  "fecha_original": "10 de junio de 1642",
+  "lugar": "Mallorca",
+  "remitente": "Bartomeu Domènech",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "En aquest punt me partesc per a Inca a on aguardaré a don Joan Miquel que ha escrit a mi Sra. dona Beatriu que al dilluns d'estes festes serà a Alcúdia, Déu li doni bon passatge. Jo agard a don Joan Miquel en el punt seré a besar les mans a v. s. Ací tenim grans novetats, ahir al fer de dia prengueren un fill de na Botilla qui diuen es germà bastard de Gabriel Valero, que la mateixa nit foren ell i un fill del capità Mir i un tal Gil ha un hort enves i tria per provar que moltes vegades [1§] han robades cases i pels camins i no saben que eren i per ciutat de manera que els hortolans i moliners s'{ESP. alborotaren} i prengueren el fill de dita Botilla i els altres dos fugiren i els encalçaren fins a la Real a on els hortollans enrevoltaren la Real i donaren avís a la justícia [?] ran els dins d'un laer [?] at el botil és a la torre del per Anjal i els dos a St. Miquel al botil l'han donat a dafensar dins de vint i quatre hores és cert i haurà grans dades i tomaras esta nit prengueren Marc Antoni nét nebot de Jordi Dezcallar amb dos arcabussos i una [2§] becha de manera que tindrà trebails si bé que procuren que els agutzils que l'han pres que li facin bona obren és cert que no és pot anar per Mallorca de tants de lladres i la justícia dorm i el poble està molt {ESP. alborotat} de veure que no és fa justícia. Joan David ha presos dos lladres de camins i ha enviat al virrei que l'aliberassin, que ell li entregaria dits lladres i no ho han volgut fer. A don Joan Miquel no li escric per pensar no serà ja aquí. Guardi Déu a v. s. de Mallorca juny 10 de 1642. Criat de v. s. Bartolome Domenech, prevere [3§] Mallorca 10 juny 1642 Bartomeu Domenech { rdo.} Transcripción literal"
+  ],
+  "literal": [
+    "1. en aquest punt me partach 2. p a incha ha ont agorda 3. re adon joan michel que ha 4. scrit ami sa dona beatris 5. que al dilluns de estas fes 6. tas sara Alcudia deu li dona 7. bon pasaja 8. jo agarda don joan michelis 9. en lo punt sare a besar 10. las mans a v.s. 11. a si tanim grans novedats 12. air al fer dal die pran13. geran un fill de naboti14. lla qui diuan es jarma 15. bastart de gabriel valle16. ro que lamatexa nit 17. foran ell y un fill del ca18. pita mir y un tal gill 19. ha un ort enves y tria p ro20. bar que moltas vegades [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "366:5796a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo21/366:5796a.JPG",
+      "url": "/legajos/legajo-21/images/366:5796a.JPG"
+    },
+    {
+      "filename": "367:5796b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo21/367:5796b.JPG",
+      "url": "/legajos/legajo-21/images/367:5796b.JPG"
+    },
+    {
+      "filename": "368:5796c.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo21/368:5796c.JPG",
+      "url": "/legajos/legajo-21/images/368:5796c.JPG"
+    },
+    {
+      "filename": "369:5796d.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo21/369:5796d.JPG",
+      "url": "/legajos/legajo-21/images/369:5796d.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "366:5796a.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-21/cartas/003508.json",
+  "primary_image_url": "/legajos/legajo-21/images/366:5796a.JPG"
+}

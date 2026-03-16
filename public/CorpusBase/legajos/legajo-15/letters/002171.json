@@ -1,0 +1,38 @@
+{
+  "legajo_id": "15",
+  "id_carta": "2171",
+  "order_in_legajo": 67,
+  "signatura": "115:6396.JPG",
+  "nombre_carta": "Carta de Martín de Verdún a Pedro Santacilia y Pax",
+  "fecha_original": "9 de junio de 1639",
+  "lugar": "La Vilaroja",
+  "remitente": "Martín de Verdún",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Señor don Pedro El portador de esta nos ha dado noticia cómo cuatro soldados han llegado esta noche pasada a su morada y [se le] han llevado dos crespos [?] y unas piezas de tocino y toda la ropa de lino que en ella había, media docena de talegos y un pelego con dos cántaros de vino con otras muchas cosas que dice se hallan falta. Por lo cual, suplicamos a v. m. nos haga favor en disponer se hagan las diligencias posibles por si acaso se pudiesen hallar el hurto como lo fiamos de su cristiandad. De v. m., cuya mano besamos mil veces. Que guarde Nuestro Señor. A Montrillo, Vila Roja y junio, a 9 de 1639. De v. m. Los jurados de la villa de la roja y de su merced, Martin de Verdun, mi señor. Transcripción literal"
+  ],
+  "literal": [
+    "1. [Margen izquierdo][^Señor don Pedro]2. El portador desta nos ha dado no3. ticia como quatro soldados han lle4. gado esta noche pasada asu 5. morada y sils an llevado dos 6. crispos y unse pieços detosino y toda 7. la Ropa delino que enella avia me8. dia docena de talegos y un pelego 9. con dos Cantaros devino con otras mu10. chas cosas que dice se hallan falta 11. Porloqual suplicamos a vm. nos 12. haga favor en disponer se hagan 13. las diligencias posibles porsi acaso se 14. pudiesen hallar el hurto como lo fia15. mos de su christiandad diem. Cuia 16. mano vesamos mil veses q ge nro sor a 17. motrillo[?] vila rroja y Junio a 9 de 1639 18. si em. 19. Los jurados dela villa 20. dela roja 21. yde su md 22. Martin de Berdun mi sr [?] [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "115:6396.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo15/115:6396.JPG",
+      "url": "/legajos/legajo-15/images/115:6396.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "115:6396.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (2)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-15/cartas/002171.json",
+  "primary_image_url": "/legajos/legajo-15/images/115:6396.JPG"
+}

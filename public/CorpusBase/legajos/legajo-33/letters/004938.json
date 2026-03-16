@@ -1,0 +1,38 @@
+{
+  "legajo_id": "33",
+  "id_carta": "4938",
+  "order_in_legajo": 127,
+  "signatura": "197:6854.JPG",
+  "nombre_carta": "Carta de Catalina Fernández de Córdoba y Figueroa a Pedro Santacilia y Pax",
+  "fecha_original": "28 de febrero de 1635",
+  "lugar": "Perpiñán",
+  "remitente": "Catalina Fernández de Córdoba y Figueroa",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Respondiendo a su carta de v. m. digo que dejan posado. Ha premiado su valor y prudencia de v. m.; lo han podido ajustar. El entretenimiento de don Antonio de Oms es sobre la tesorería y con hacerle amistad el tesorero no puede cobrar pensiones eclesiásticas: son las más seguras en esta tierra y mi deseo de ver a v. m. con los acrecentamientos que merece. Dígame v. m. lo que hubiere de nuevo y guárdele Dios. Perpiñán, 28 de febrero 1635 La duquesa de Segorbe y de Cardona [1§] Transcripción literal"
+  ],
+  "literal": [
+    "1. Respondiendo a su carta de Vmd.2. digo q deCan posado a premia3. do su balor y prudenzia de Vmd lo4. an podido ajustar5. Elentretenimiento de don6. antº de oms es sobre la tesoreria7. y con hazerle amistad el tesorero8. no puede cobrar pensiones e9. chesiasticas son las mas segu 10. ras enesta tierra y mi de11. seo de ver a Vmd con los acre12. centamientos q[ue] mereze13. digame Vmd lo q[ue] ubiere de14. nuebo y gdele dios Perpiñan15. 28 de febrero 163516. La Duquesa de Segorbe17. y de Cardona [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "197:6854.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo33/197:6854.JPG",
+      "url": "/legajos/legajo-33/images/197:6854.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "197:6854.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (2)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-33/cartas/004938.json",
+  "primary_image_url": "/legajos/legajo-33/images/197:6854.JPG"
+}

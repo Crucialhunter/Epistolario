@@ -1,0 +1,43 @@
+{
+  "legajo_id": "21",
+  "id_carta": "3389",
+  "order_in_legajo": 89,
+  "signatura": "117:5678a.JPG",
+  "nombre_carta": "Carta de Pedro Fajardo de Requeséns-Zúñiga y Pimentel (V marqués de los Vélez) a Pedro Santacilia y Pax",
+  "fecha_original": "2 de diciembre de 1638",
+  "lugar": "Pamplona",
+  "remitente": "Pedro Fajardo de Requeséns-Zúñiga y Pimentel (V marqués de los Vélez)",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "He recibido la carta de v. m. de 2 de este con la copia de la[?] de Jeronimo Ro. en que dio orden hiciesen alto esas compañías en este reino. No tocándole el poderlo hacer sino en la provincia y así v. m. se entrará en ella con todas sus compañías porque en este reino no hay disposición para poderse sustenar como v. m. con [?] por la cortedad de los lugares y tierra por donde el pasado y sino es con la orden de su majestad de [?] manera se les dará alojamiento y en esta conformidad lo avisó al comisario guarde Dios a v. m. como deseo, de Pamplona Diciembre 2 de 1638. El marques de los Velez Sr. don Pedro Santacilia [1§] Pamplona 2 Noviembre 1648 El marques de los Velez rdo. Transcripción literal"
+  ],
+  "literal": [
+    "1. ERdo Lacarta de Vm. de .2. deeste 2. conlaespia de la declan de Jeronimo Ro en 3. que dio horden iziesenAlto hesascon panias eneste 4. Reyno. notocan dole. elpo. derlo Açer sino En la pro5. binçía yasi Vmd sentrara en ella 6. conto das sus conpanias porque eneste reyno 7. Noay dispusiçíon Parapo derse sustenan como 8. Vm. Con brabisto Por lacorte dad delos 9. lugares Ytierra pordon del Pasado 10. ysino es con lo orden de sumagd demegura[?] 11. manera selesdara. Alojamiento yenesta 12. conformidad dad lo Abiso Alcomisario Gde 13. de esa vm. Como deseo de Panplona yro 14. Di[ci]embre 2 de 1638 15. El Marqs de losveles[?]16. [Margen izquierdo][^ Sr Don Po sancta zilia] [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "117:5678a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo21/117:5678a.JPG",
+      "url": "/legajos/legajo-21/images/117:5678a.JPG"
+    },
+    {
+      "filename": "118:5678b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo21/118:5678b.JPG",
+      "url": "/legajos/legajo-21/images/118:5678b.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "117:5678a.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (5)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-21/cartas/003389.json",
+  "primary_image_url": "/legajos/legajo-21/images/117:5678a.JPG"
+}

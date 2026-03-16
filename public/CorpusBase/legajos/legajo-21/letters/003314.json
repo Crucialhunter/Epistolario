@@ -1,0 +1,37 @@
+{
+  "legajo_id": "21",
+  "id_carta": "3314",
+  "order_in_legajo": 4,
+  "signatura": "003:5603a.JPG",
+  "nombre_carta": "Carta de Antoni Puig a Pedro Santacilia y Pax",
+  "fecha_original": "17 de septiembre de 1621",
+  "lugar": "Barcelona",
+  "remitente": "Antoni Puig",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Sr. don Pedro mumos mansos [?] rabe guadora de v. m. Coglique en esa mesa masoja mesa dien Viar-me equestes cartes ememan que perno [?] i encara engunsa me sirve d'asa mercè [?] com enroma eia Una nova que en Nàpols [?] dasoma ses aber-lo i la sa grandíssim fet pluga [?] aigudes sirqua de la dir sendra pia [?] morta molta gent que ningú {ESP. gosa} yeura en les cases per per del toratremol que dura tres dies cens cesar yexi el millor es en comenoro adeu v. m. me perdona del sesiri [?] i en mani l'entotes elcasions el fer viene Com ecriat que Ego yexi mia cosa més nova a 17 6rsetembre a 1621 [?] Criat de v. m. Antoni puig [1§] muy de don Pedro Satasilia en Barcelona cavaller malorqui Barcelona [2§] Transcripción literal"
+  ],
+  "literal": [
+    "1. Sr d Pedro mumos mansos [?] rabe guadora d[e] VM 2. Coglique enese mese masoja mese dien Viarme 3. equestes cartas ememan que perno [Ilegible] y encara 4. engunsa me sirve de asa merse [Ilegible] com 5. enroma eia Una nova que en napols [Ilegible]6. dasoma ses aberlo y la sa grandissim fet pluga[?]7. aaygudes sirqua dela dir sendra pia[?] morta 8. molta gent que ningu gosa yeura en las casas 9. per por del toratremol que dura tres dies cens 10. cesar yexi el milor es en comenoro adeu 11. VM me perdona del sesiri[?] yen man el 12. entotas elcasions lo fer Viene Com ecriat que 13. Ego yexi mia cosa mes nova a 17 6r[setembre] a 1621[?] 14. Criat de Vme. 15. Antoni puig [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "003:5603a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo21/003:5603a.JPG",
+      "url": "/legajos/legajo-21/images/003:5603a.JPG"
+    },
+    {
+      "filename": "004:5603b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo21/004:5603b.JPG",
+      "url": "/legajos/legajo-21/images/004:5603b.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "003:5603a.JPG",
+  "warnings": [],
+  "raw_source": "raw/legajos/legajo-21/cartas/003314.json",
+  "primary_image_url": "/legajos/legajo-21/images/003:5603a.JPG"
+}

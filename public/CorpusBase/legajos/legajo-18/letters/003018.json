@@ -1,0 +1,43 @@
+{
+  "legajo_id": "18",
+  "id_carta": "3018",
+  "order_in_legajo": 51,
+  "signatura": "083:4857a.JPG",
+  "nombre_carta": "Carta de Diego Matías de Aragüés a Pedro Santacilia y Pax",
+  "fecha_original": "1 de julio de 1662",
+  "lugar": "Madrid",
+  "remitente": "Diego Matías de Aragüés",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Estos renglones hago por Barcelona porque v. m. no esté con cuidado del Sr. don Juan que está muy mejorado y sin calentura y con el ejercicio que hace por la mañana y tomado el Cocimiento de agua de cebada con raices de hierbas con acuzar le va muy bien, y espero que para el día de San tiago podrá servir yhallarse con los demás caballeros de suhábito con su majestad en San felippe, La partida del Sr. don Pedro de Aragon es hoy la del obispo dice será luego que levo llegara de Toledo mañana El Sr. don Juan de Austria dicen esta sobre campo mayor Dios le dé tan buena dicha c como en Gurumeña El obispo de Placiencia entra mañana si v. m. hade dar leel parabién al Vice canceller lo de, pero también se le habra de dar el pesama de la muerte de su hero el obispo de Vique hoy la confirmado el consejo lasentencia que v. m., dio afavor de Canals También ayer a Po So Andreu gano el articulo que pendia en el pleito que lleva aquí con la Sra. da Maria, mande v. m. sedeesa carta y a Ramis [1§] el recaudo que v. m. envió por Alicante aún no ha venido en llegando se escurlara como v. m. lo ordena No hay de nuevo por ahora, v. m. me mande la sirva a mi Sra. Dña. Leonor Besamos la mano el Sr. don Juan, Dña. Margarita yo con las de v. m. y todos esos señores muchas veces y guarde Dios como deseo Madrid a 1º Julio 1660 Besa la mano de v. m. su mayor servidor Diego Matias de Aragues rdo. Sr. don po Santacilia y Pax [2§] Transcripción literal"
+  ],
+  "literal": [
+    "1. Estos renglones hago por Barcelona 2. porq Vm. no este con cuydado delsr don 3. Juan q esta muy mejorado y sin calentura 4. y con el exercicio q haze por la manana 5. y tomado el Cocimiento de agua de çevada 6. con raizes de hierbas con acuçar le ba 7. muy bien, y espero que para el dia de San8. tiago podra servir yhallarsse con los 9. demas cavalleros de suhavito consu 10. M[a]gd en San felippe, 11. La partida del sr don Po de Aragon es oy 12. la delsr obispo dize sera luego q levo 13. llegara de Toledo mañana 14. El sr don Juan de Austria dizen esta sobre 15. campo mayor dios le de tan buena dicha c16. como en Gurumeña 17. El sr obispo de Placiencia entra mañana 18. si Vm. hadedar leel parabien al sr Vice19. canceller lo de, Pero tambien selehabra 20. dedar el pessama de la muerte desu 21. hero el Obispo de Vique 22. oy la confirmado el Consso lasentencia 23. q Vm, dio afavor de Canals 24. Tambien ayer a Po So Andreu gano el 25. articulo q pendia enel pleyto q lleva aqui con 26. lasra da Maria, mande Vm sedeesa carta y a Ramis27. [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "083:4857a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo18/083:4857a.JPG",
+      "url": "/legajos/legajo-18/images/083:4857a.JPG"
+    },
+    {
+      "filename": "084:4857b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo18/084:4857b.JPG",
+      "url": "/legajos/legajo-18/images/084:4857b.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "083:4857a.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (3)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-18/cartas/003018.json",
+  "primary_image_url": "/legajos/legajo-18/images/083:4857a.JPG"
+}

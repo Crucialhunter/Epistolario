@@ -1,0 +1,38 @@
+{
+  "legajo_id": "15",
+  "id_carta": "2122",
+  "order_in_legajo": 19,
+  "signatura": "031:6345.JPG",
+  "nombre_carta": "Carta de Bonaventura de Lanuza Montbuí y Vilarig a Pedro Santacilia y Pax",
+  "fecha_original": "26 de julio de 1629",
+  "lugar": "Girona",
+  "remitente": "Bonaventura de Lanuza Montbuí y Vilarig",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Les diligències que v. m. ha manat fer per trobar els dos esclaus meus, estimo com és raó i, de la mateixa manera que si fossin trobats. I dic amb està a v. m. que ahir els prengueren a Mieres, i han dormit en el Castell de Falgons, i m'escriu el senyor Galceran de Cartellà que demà els enviarà. Ara prest els he trobats i tindrem millor compte perquè trobàvem ja la falta que feien a casa. El negoci del senyor Domer Guifreu he concertat, de manera que li està bé com dirà de paraula a v. m., i veurà pus se'n porta el rossí. Si altra cosa s'ofereix en què servir a v. m., me mani que en faré amb moltes veres. Guardi Déu a v. m. com jo desitjo. Girona i juliol, els 26 de 1629. Les que van amb esta, rebré mercè mani en camí don Bonaventura de Lanuça Mombuy i Vilarig. Sr. D. Pedro Santacilia i Pax Transcripción literal"
+  ],
+  "literal": [
+    "1. Las díligensias que V.m. ha mant fer pertro2. bar los dos esclaus meus estimo com esra3. ho ydela matexa manera que sis fossan tro4. bats ydich ab esta a V.m. que air los pren5. gueran a Mieras y han dormit enlo Cas6. tell de Folgons[?] yme escriu loSor Galce7. ran de Castella que dema los envíara. Ara 8. pres los he trobats y tíndre millor compte per 9. q trobavem ja la falta que feyan en Casa 10. Lo (^Sor) negocí del Sor Domer[?] Gífren he con(^er)11. sertat demanera que li esta be com dira de 12. paraula a V.m. y beura pus senporta la 13. rossi[?] si altra cosa se (^ offereg) offerreíg en 14. que servír a V.m. me mane quen fare ab 15. moltas beras guarde deu a V.m. comjo de16. Sijo Gerona y juliol als 26 de 1629 las 17. queban ab esta rebre merçe maneencami. 18. Don Bonaventura de la nuça [?]monbuy y Vilaris19. [Margen izquierda][^Pedro Sta Cilia y Pax] [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "031:6345.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo15/031:6345.JPG",
+      "url": "/legajos/legajo-15/images/031:6345.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "031:6345.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-15/cartas/002122.json",
+  "primary_image_url": "/legajos/legajo-15/images/031:6345.JPG"
+}

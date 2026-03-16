@@ -1,0 +1,38 @@
+{
+  "legajo_id": "31",
+  "id_carta": "6777",
+  "order_in_legajo": 17,
+  "signatura": "025:1528.JPG",
+  "nombre_carta": "Carta de Diego Matías de Aragüés a Pedro Santacilia y Pax",
+  "fecha_original": "18 de diciembre de 1660",
+  "lugar": "Madrid",
+  "remitente": "Diego Matías de Aragüés",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Aun que per Valencia y Alicante tengo escrito a v. m. y dado aviso del buen suceso del pleito de la Inqon. no excuso el hacer estos renglones por Barcelona en el pliego del conde de Savala La copia D. ela sentencia va con esta [?] que en favor esta que ha sabido a medida de lo que podíamos desear, v. m. goce muchos años el contento y de Dios muy Stas. pascuas en vida de mi Sra. Dña. Leonor que su mano besamos Dña. Magda. Juanico y yo con las de v. m. muchas veces. El Sr. don Juan está muy bueno y espero presto la gracia del hábito remitome en lo demás a lo que escribo por Valencia y v. m. se sirva de responder y a lo demás de antes que no tengo cartas después que serº. sembarco mandándome v. m. se sirva Guarde Dios como deseo Madrid a 18 dye 1660. Besa la mano de v. m. Diego Matias de Aragues Sr. don Pedro Santacilia y Pax [1§] Transcripción literal"
+  ],
+  "literal": [
+    "1. Aun q. per Valencia y Alicacante 2. tengo escrito a Vm. y dado aviso 3. del buen sucesso del pleyto de la 4. Inqon. no escuso el hazer estos 5. renglones por Barcelona en el 6. pliego del Sr. Conde de Savala 7. La copia d ela sentencia ba con 8. esta [?] q. en favor esta 9. q. ha sabido a medida de lo que 10. podiamos desear, V. m. goze mu11. chos años el contento y de Dios 12. muy Stas. Pasquas en vida de mi 13. Sra. Dª. Leonor que su mano vesamos 14. Dª. Magda. Juanico y yo con las 15. de Vm. muchas vezes. 16. El Sr. Don Juan esta muy bueno 17. y espero presto la gracia del havito 18. remitome en lo demas a lo q. escrivo 19. por Valencia y Vm se sirva de 20. responder y a lo demas de antes q. 21. no tengo cartas despues q. serº. sembarco 22. mandandome Vm. se sirva Gde. Dios 23. como deseo Md a 18 dye 1660. 24. B. l. m. de Vm. 25. Diego Mathias de Aragues 26. Sr. Don Pedro Sta. Cilia y Pax [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "025:1528.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo31/025:1528.JPG",
+      "url": "/legajos/legajo-31/images/025:1528.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "025:1528.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (3)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-31/cartas/006777.json",
+  "primary_image_url": "/legajos/legajo-31/images/025:1528.JPG"
+}

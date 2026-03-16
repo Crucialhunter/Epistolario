@@ -1,0 +1,43 @@
+{
+  "legajo_id": "17",
+  "id_carta": "2926",
+  "order_in_legajo": 192,
+  "signatura": "328:1468a.JPG",
+  "nombre_carta": "Carta de Diego Matías de Aragüés a Pedro Santacilia y Pax",
+  "fecha_original": "21 de julio de 1660",
+  "lugar": "Madrid",
+  "remitente": "Diego Matías de Aragüés",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "he recibido su carta de v. m. de 27 del pasado holgándome goce de muy buena salud y toda su casa de v. m. como se la deseo Mientras este aquí mi sobrino no tendré tanta puntualidad en escribir pero después harelo por lo menos una vez en la semana. Al Sr. don Juan me he traído a casa por unos ocho días para que gozara de más frescura que en casa de los pajes del rey porque será en los calores bien lejos con que haceme [?] y también con ocasión de una pocha de sangre de narices que ha sido menester sangrarse y está ya casi bueno pero dejarele que este más reforzado y que pase el mayor de estos calores con que v. m. no tiene que estar con cuidado que no hay para que. el relator de la Inquisición ha señado día con orden del consejo para dos de septiembre en esto no se puede hacer más (mas) sino paciencia que ello ha de tener fin si Dios me da salud y de que halle botar esta causa el Sr. don Pedro Manjares obispo electo de Mallorca antes que salga [1§] doy a v. m. muchas enhorabuenas del gran maestre de Malta, en el Sr. Cotoner y pariente de su casa de v. m. que sea por muchos años que ha sido grande elección y honra de todo ese reino. Por acá corre mal temporal de ministros y entre ellos ha muerto Sr. don Fernando de Contreras, y luego ha entrado en su lugar el Sero Pedro Coloma, murió también ese la mayor y otro del consejo real que habíamos menester unos cuantos que [?] de [?] Consejo de Aragón menos mal nos tratan en esto del apuntamiento Dios será servido que algún día será nuestro en lo de mal [?] me remito lo que dirá Jerónimo que ahora no se ofrece otra cosa, mandándome v. m. le sirva guarde Dios los muchos años que deseo. Madrid a 21 Julio 1660. Besa la mano de v. m. su mayor servidor Diego Matias de Aragues Sr. don Pedro Santacilia y Pax. [2§] Transcripción literal"
+  ],
+  "literal": [
+    "1. He recivido su carta de Vm de 27 2. del passado olgandome goze de muy buena 3. salud y toda su casa de Vm como se 4. la deseo5. Mientras este aqui mi sobrino no tendre 6. tanta puntualidad en escrivir pero despues 7. harelo por lo menos una vez en la semana.8. Al Sr. Don Juan me he traydo a casa por 9. unos ocho dias para q gozara de mas 10. frescura q en casa de los pajes del Rey 11. por q sera en los calores bien lejos con 12. q hazeme[?] y tambien con ocasion de una 13. pocha de sangre de narizes q ha sido 14. menester sangrarse y esta 15. ya casi bueno pero dexarele q este 16. mas reforzado y q pase el m[a]yor destos 17. calores con q Vm. no tiene q estar 18. con cuydado q no ay para que.19. el relator de la Inqon ha señado dia 20. con orden del consejo pa dos de setpe 21. enesto no se puede hazer mas (mas) 22. sino paciençia q ello ha de tener fin 23. si Dios me da salud y de q halle botar 24. esta causa el Sr. don Pedro Manjares 25. obispo electo de Mallorca antes q salga [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "328:1468a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo17/328:1468a.JPG",
+      "url": "/legajos/legajo-17/images/328:1468a.JPG"
+    },
+    {
+      "filename": "329:1468.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo17/329:1468.JPG",
+      "url": "/legajos/legajo-17/images/329:1468.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "328:1468a.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (3)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-17/cartas/002926.json",
+  "primary_image_url": "/legajos/legajo-17/images/328:1468a.JPG"
+}

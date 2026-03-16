@@ -1,0 +1,37 @@
+{
+  "legajo_id": "4",
+  "id_carta": "471",
+  "order_in_legajo": 24,
+  "signatura": "022-10a",
+  "nombre_carta": "Carta de Juan Juaneda a Manuel Bottario",
+  "fecha_original": "19 de marzo de 1655",
+  "lugar": "Valencia",
+  "remitente": "Juan Juaneda",
+  "destinatario": "Manuel Bottario",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Jesús, Maria, a Mallorca, a 19 de març de 1655 etts. Senyors Manuel Bottario i Joan Francisco Rato amb altre ja els tinc escrit esta, sols serà per a dir a v. m. que els acusen de pagar amb virtut de la segona de canvi, no havent pagat de la primera, on m'ha dit al Sr. don Lleonard Forteza, cavaller de l'hàbit d'Alcàntara i, per s'{ESP. ausensia,} a don Diego Salcedo, tramet [?] amb plata [?], i faran cèdules de canvi dirigides a pagar ací a Mallorca a don Pedro Veri, juntament amb l'interès de la moneda ara que no tinc fet el present i faran bon pagament i bonament amb dèbit a mon compte, i sia present amb tots. Juan Juaneda i Bartomeu Horrach mª. [1§] Senyors, a Manuel Bottario i Joan Francisco Rato, que nostre Senyor guardi molts anys etts. En València. Transcripción literal"
+  ],
+  "literal": [
+    "1. Jls, Mª, an Mall<>, Als 19 de Mars 1655 cey 2. Ses., Manuel Bottario y Joan francisco Ratto ab Alire ja 3. los tinch es Crit este sols sera p. adir aVm q, es sacusan 4. de pegar ab virtut dela segona de cambi no avent pegat 5. dela fua, an madit anel fu, Don lionar Forteze Caveller Del 6. Abit Del Con toro y p se ausensia a Don Diego salcedo iresmit 7. N, ed ab p< >, Do, y foran sedulas de cambi diligides 8. abpegar asi an Mall< > adon Pedro Vari juntament 9. ab lo jnteres de la monede araquisso tinch fet lo pnt 10. y faran Bon pagament ybonamen an debit almon 11. Conte y sia pbto ab ton euy 12. Juan Juaneda y Gartes hora Bmª [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "022-10a.jpg",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo04/022-10a.jpg",
+      "url": "/legajos/legajo-04/images/022-10a.jpg"
+    },
+    {
+      "filename": "023-10b.jpg",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo04/023-10b.jpg",
+      "url": "/legajos/legajo-04/images/023-10b.jpg"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "022-10a.jpg",
+  "warnings": [],
+  "raw_source": "raw/legajos/legajo-04/cartas/000471.json",
+  "primary_image_url": "/legajos/legajo-04/images/022-10a.jpg"
+}

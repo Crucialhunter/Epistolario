@@ -1,0 +1,38 @@
+{
+  "legajo_id": "22",
+  "id_carta": "3698",
+  "order_in_legajo": 80,
+  "signatura": "147:5067",
+  "nombre_carta": "Carta de Pedro Monleón a Persona desconocida",
+  "fecha_original": "19 de septiembre de 1648",
+  "lugar": "Madrid",
+  "remitente": "Pedro Monleón",
+  "destinatario": "Persona desconocida",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "[?] do lo que v. m. me mandó hoy no [?] de mi llegada a esta corte y fue con salud y gusto que se me eclipsó con hallar a su majestad sangrado cuatro veces y hoy esta ya del todo libre de calentura que con haberla tenido con sus acrecentamientos causaba el cuidado que v. m. puede considerar. El Sr. del Carpio murió. El oficio de caballerizo mayor sirve el Sr. don Luis, el de capitán de la guardia, su hijo, el conde de Grajal murió despues que yo estoy aqui, y el secrerio Garcigallo hoy. Los Sres. condes de Perelada y el de Formiguera están buenos. Y dice el primero que los mantos tuvieron buen recaudo. El Sr. don Luis en su pujante privanza, el de Medina de las Torres assiste solícito y yo estoy a su disposición de v. m. que guarde Dios como deseo. Madrid y septiembre 19 de 1648. Criado de v. m. que su mano besaPedro de Monleon En este punto que son las diez ha levantado el rey y los Sres. puesto cadenas y de mucha gala. Transcripción literal"
+  ],
+  "literal": [
+    "1. [?] do lo q V. m. me mando hoy no 2. [?] de mi llegada asta Corte y fue con salud3. y gusto q se me eclipso con hallar a su Magd. 4. sangrado quatro vezes y oy esta ya del todo 5. libre de calentura q con haverla tenido con 6. su crecimtos causava el cuydado q V. m. puede 7. considerar. El de el Carpio murio el offº. de 8. cavallerizo mayor sirve el Sr. Don Luis, el de 9. Capn. de la guardia su hijo, el Conde de Grajal 10. murio despues q yo estoy aqui, y el secrerio 11. Garcigallo oy. Los Sres Condes de Peralada y 12. el de Formiguera estan buenos. Y dize el primº. 13. q los mantos tuvieron buen recaudo. El Sr. Don 14. Luis en su pujante privança. el de Medina de las 15. Torres assiste solicito y yo estoy a su disposicion 16. de V m. q gde. Dios como deseo. Madrid y 17. sette. 19 de 1648 Criado de Vm. 18. q su m. b. 19. Pº. de Monleon20. [en el margen izquierdo]21. en este punto q son 22. las diez ha le23. vantado el Rey y 24. los Ses. puesto cadenas 25. y de mucha gala [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "147:5067.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo22/147:5067.JPG",
+      "url": "/legajos/legajo-22/images/147:5067.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "147:5067.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-22/cartas/003698.json",
+  "primary_image_url": "/legajos/legajo-22/images/147:5067.JPG"
+}

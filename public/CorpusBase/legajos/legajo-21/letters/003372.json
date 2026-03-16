@@ -1,0 +1,43 @@
+{
+  "legajo_id": "21",
+  "id_carta": "3372",
+  "order_in_legajo": 60,
+  "signatura": "094:5661a.JPG",
+  "nombre_carta": "Carta de Gregori Perelló a Pedro Santacilia y Pax",
+  "fecha_original": "8 de marzo de 1632",
+  "lugar": "Barcelona",
+  "remitente": "Gregori Perelló",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "[Sr. D. Pedro] Santacilia i Pax mi Sr. Sr. aquesta tarda és tornada la galera de Mallorca ha portades aqueixes causes juntament en dues belestilas de becoc [?] per als minyons de mi Sra. la comtessa de Zavella porta les un capità juntament amb una carta qui va a petició vostra veig el que vol que em faci ja [?] jo he fet el que v. m. menor de donar les cartes si sinó són les de Cilia que no hi ha haguda ocasió. Jo vaig sol sia anxa al comte de Perelada per la carta de la duquessa de Cardona el bergantí se'n va anit a Mallorca ja te les cartes dissabte les té serà [?] inos toberi si o una carta per v. m. i un peleca per Antoni Gual jo les tri les d'en Gual les de v. m. les doni a don bona ventura de lanusa en Gual ens arriba [?] en cera la dona d'en Miquel se nitja tenia una mosa i ahir la tobera que feia la crica quatre [?] [1§] Don Federico diu que li donava tan tin [?] a l'han criada anava mala i la sa ten [?] anàs a fisar la veieta altera rare i no [?] fosare a saber aban mi que l'un ferarada danso [?] to una carta per v. m. no la me quden [?] de v. m. la mata ha fet viude manasgra [?] Gan [?] de parlar a v. m. per a si sentira ma [?] sense de v. m. faci que ens vejam prest per a pa [?] a en Miquel que jo el i comana trobi [?] demà [?] no han vingués sinó faras i aguns as tot [?] gens ha vingué diu que ja de pelar nosi [?] guardada. Barcelona 8 de març de 1632. Gregori Perello, criat de v. m. [?] Transcripción literal"
+  ],
+  "literal": [
+    "1. [Margen izquierdo, parte ilegible][^ satasilia i pax misr]2. sr aquesta tarda estornada la galera 3. de malorca apartadas a guxas[?] cancas gun4. tament en dos belestilas de becoc[?] per los 5. minans de mi sa la comtesa de savala 6. portalas un capata guntament ab 7. buna carta qui va aprisio lustre vega 8. loquevol quem fasa ia viarma[?] io efet 9. lo que vm. [^ menor] de donar las cartas si sino 10. son las de Cilia que noia aguda auca11. sio jo vax soli sie anxa al comta de perlada 12. per la carta de la duquesa de cardona lo 13. berganti sen va anit amalorca iate 14. las cartas disata les te sara[?] inos 15. toberi si o una carta per vm i un 16. peleca per antoni gual jo les tri las 17. den gual las de vm. les doni a don bona18. ventura de lanusa en gual nos ariba[?] 19. en cera la dona den miquel se 20. nitja tenia una mosa yair la 21. tobera que feia la crica caquatre[?] [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "094:5661a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo21/094:5661a.JPG",
+      "url": "/legajos/legajo-21/images/094:5661a.JPG"
+    },
+    {
+      "filename": "095:5661b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo21/095:5661b.JPG",
+      "url": "/legajos/legajo-21/images/095:5661b.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "094:5661a.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-21/cartas/003372.json",
+  "primary_image_url": "/legajos/legajo-21/images/094:5661a.JPG"
+}

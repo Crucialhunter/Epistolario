@@ -1,0 +1,43 @@
+{
+  "legajo_id": "34",
+  "id_carta": "5128",
+  "order_in_legajo": 157,
+  "signatura": "240:7043a.JPG",
+  "nombre_carta": "Carta de Agustí Crespí a Pedro Santacilia y Pax",
+  "fecha_original": "9 de septiembre de 1657",
+  "lugar": "Madrid",
+  "remitente": "Agustí Crespí",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "En la estafeta pasada no pude res/ ponder a la de v. m. de 13 de agosto aunque lo hizo mi señora, el conde mi de las que v. m. me ordeno diese a sus excelencia s los cuales se holgaron mucho de ver carta de v. m. lo que hay por acá es que el conde mi entro en la corte con mucho aplauso de todos y su majestad lea recibido con muy buen semblante con que todo lo pasado pasado y tengo por cierto que le hará merced los negocios del Señor marques de la Guardia y el conde mi señor correa por vía de pleito y no hay quien los ai¿le al Sr. D. Augus/ tin Gual di losrrecados que v. m. me ordena y se holgó mucho esta bue/ no solicitando su pleito que espero ¿ Dios saldrá bien yo deseo sumamente dar una vuelta a esa tierra en hallando ocasión de pedir licencia Dios quiera se disponga todo bien y que a v. m. de la salud que deseo y he menes/ ter de Madrid a 9 de septiembre de 1657 de v. m. siempre servidor que su mano besa Agustin crespin 31, extrem inferior Sr. D. Pedro Santacilia y Pax Transcripción literal"
+  ],
+  "literal": [
+    "1. En la estafeta pasada no pude [res/]2. ponder a la de vm. de 13 de Agosto3. aunque lo hiso mi sa, el Conde4. mi Sr. de las que vm. me ordeno diese5. a sus exas los quales se olgaron6. mucho de ber carta de vm = lo que7. ay por aca es que el Conde my8. Sr. entro en la Corte con mucho9. aplauso de todos i su Magd lea10. rresebido con muy buen semblante11. con que todo lo pasado pasado12. i tengo por sierto que le hara 13. mersed = los negosios del S marques14. de la guardia i el Conde mi S15. correa por via de pleyto i no ay16. quien los ai[ ]le = al Sr. D. Augus/17. tin Gual di los rrecados que vm. [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "240:7043a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo34/240:7043a.JPG",
+      "url": "/legajos/legajo-34/images/240:7043a.JPG"
+    },
+    {
+      "filename": "241:7043b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo34/241:7043b.JPG",
+      "url": "/legajos/legajo-34/images/241:7043b.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "240:7043a.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (2)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-34/cartas/005128.json",
+  "primary_image_url": "/legajos/legajo-34/images/240:7043a.JPG"
+}

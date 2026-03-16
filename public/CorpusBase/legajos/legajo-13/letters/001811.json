@@ -1,0 +1,43 @@
+{
+  "legajo_id": "13",
+  "id_carta": "1811",
+  "order_in_legajo": 75,
+  "signatura": "129:2315aJPG",
+  "nombre_carta": "Carta de Basilio de Castellví y Ponce a Pedro Santacilia y Pax",
+  "fecha_original": "28 de agosto de 1668",
+  "lugar": "Valencia",
+  "remitente": "Basilio de Castellví y Ponce",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Señor mío, hállome en esta estafeta con dos cartas de v. s. de 19 y 22 del corriente y ha verme faltado la estafeta pasada la de 19 me tuvo con mucho cuidado y quedo con el sabiendo han dado el beático al Sr. don Juan por continuarse el achaque quiera Dios se haya corregido y dar a v. s. en esta parte el consuelo que deseo mejorándose muy aprisa de suerte que deje su merced la cama y v. s. el aposento que uno y otro es gran penalidad. Yo quedo al servicio de v. s. bueno deseando tener muchas órdenes que obedecer del servicio de v. s. con un criado del marques de Camarasa (que este en el Cielo). He tenido cartas de mi Sra. la marquesa de Villazor en que me dice su sria. el estado de las materias de Cerdeña que es el más lastimoso del mundo sin que haya quien esté seguro en casa en iglesia ni calle y juntamente el riesgo en que se vio su sria. yendo a ver a mi Sra. la marquesa [1§] de Cámara, habiéndole salido al encuentro gente de armas. Con estas noticias se deja entender cual debe de estar aquel reino, quiera Dios se mitigue todo con la ida del duque de Saint Germain y a v. s. guardar los muchos años que deseo. Dña. Laura y Jusepe besan a v. s. las manos con las del Sr. don Juan. Valencia y agosto a 28 1668. Besa a v. s. la mano so mayor servidor Don Basilio de Castellvi y Ponce Sr. don Pedro Santacilia y Pax Valencia a 28. Agosto 1668 respuesta a 4 1668. Del gobernador D. Basilio de Castellvi y Ponce [2§] Transcripción literal"
+  ],
+  "literal": [
+    "1. Señor mío. hallome en esta estafeta con dos2. cartas de VS. de 19. y 22. del corriente y ha=3. verme faltado la estafeta pasada la de 19.4. me tuvo con mucho cuydado y quedo con el5. saviendo han dado el Beatico al Sr. Don6. Juan por continuarse el achaque quiera7. Dios se aya correjido y dar a V.S. enesta8. parte el consuelo que deseo mejorandose9. muy aprica de suerte que deje su merçed10. la cama y V.S. el aposento que uno y otro11. es gran penalidad. Yo quedo al servicio 12. de V.S. bueno deseando tener ms hordenes 13. que obedecer del servicio de VS=14. con un criado del Sr Marqs de camaraça 15. (que este en el cielo) he tenido cartas16. de mi Sra. La Marqsa de Villaçor en que me diçe17. Su Sria. el estado de las materias de çerdeña18. que es el mas lastimoso del mundo sin que19. aya quien este seguro en casa en Iglesia20. ni calle y juntamente el riesgo en que 21. se vio Su Sria. yendo aver a mi Sra. la Marqsa [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "129:2315a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo13/129:2315a.JPG",
+      "url": "/legajos/legajo-13/images/129:2315a.JPG"
+    },
+    {
+      "filename": "130:2315b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo13/130:2315b.JPG",
+      "url": "/legajos/legajo-13/images/130:2315b.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "129:2315a.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-13/cartas/001811.json",
+  "primary_image_url": "/legajos/legajo-13/images/129:2315a.JPG"
+}

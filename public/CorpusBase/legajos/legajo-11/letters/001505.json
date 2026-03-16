@@ -1,0 +1,43 @@
+{
+  "legajo_id": "11",
+  "id_carta": "1505",
+  "order_in_legajo": 273,
+  "signatura": "463:5360a.JPG",
+  "nombre_carta": "Carta de Jerónimo Pelegrín de Aragüés a Pedro Santacilia y Pax",
+  "fecha_original": "30 de septiembre de 1665",
+  "lugar": "Madrid",
+  "remitente": "Jerónimo Pelegrín de Aragüés",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Por todas partes tengo dado noticia a v. m. de lo que pasa en esta corte y como cada día se ofrecen novedades y todos están aguardando lo porvenir no hay que tener confianza de Cona ni de lo que dicen pues las cosas de prosa son como el viento que pasa un punto tras de otro. Dios lo disponga como más convenga y tenga mucha vida el príncipe Nuestro St. y la reina nuestra Sra. que cierto y de verdad se contentan todos de su buen despacho: da audiencia tres días a la semana Los señores consejeros para el despacho universal son el vicecanciller de Aragón, presidente de Castilla conde de Peñáranda, marques de Itona, están aguardando el Sr. don Pasqual de Aragon por Inquisidor general y aún se dice hoy que le han enviado correo por arzobispo de Toledo, y quedarán la plaza de Inquisidor general al de Malega. como se ha quitado toda la casa del rey y familia estuvo en suspensión hasta ayer a 29 la casa de los Pax es fui hablar al Sr. don Pedrolasco de la y sla y me dijo que hace mi amigo el Sr. don Pedro ya sabemos cuando ha salido habiendo cara a la armada francesa con mucha prudencia y como se halla secretario Uni versal por muerte de don Luis de Seranguren hace grande papel. Hallándose gobernando con [1§] la Junta y me dijo que la casa de los pajes se quedaba 4 coches de la caballeriça, y uno para el Sr. don Fernando de Borcha pero que en viniendo de la jornada habría reforma y que les arían mercedes para que volvieran a sus casas con toda comodidad a los grandes y en la casa que se quisieran quedar estaría en su mano de la jornada no se habla hoy es miércoles y sino hay otra novedad me partiré el lunes de la sema na que viene que será 5 de octubre si tengo pasaje ya llevare cartas del duque de Cardona y conde de Medellin y de todos los demás se queda a la vista. Dios a v. m. guarde años como deseo Madrid 30 de septiembre 1665 Su criado de v. m. Geraimo Pelegrin Sr. don Isidro Marques buen mozo no le falta poca fortuna con la muerte de su hamo al fin todo esta como del cielo a la tierra de mudanca que hay piedra que no de golpe a otra lo demás a la vista queriendo Dios darme buen biaxe Mi Sr. [2§] Transcripción literal"
+  ],
+  "literal": [
+    "1. Por todas partes tengo dado noticia a VM 2. de lo que passa en esta corte y como cada dia 3. se ofrecen novedades y todos estan aguardando 4. lo porvenir no hay que tener confiança de Cona 5. ni de lo que dicen pues las cosas de prosa son como 6. el viento que passa un punto tras de otro. Dios lo 7. disponga como mas convenga y tenga mucha vida 8. el Prinsipe Nuestro St. y la Reyna nuestra Sra. que 9. cierto y de verdad se contentan todos de su buen des 10. pacho: da audiencia tres dias a la semana 11. Los señores consejeros para el despacho universal son 12. el sr. Vicecanciller de Aragon, Presidente de Castilla 13. Conde de Peñáranda, Marques de Itona, estan aguardando 14. el sr. don Pasqual de Aragon por Inqqdor General 15. y aun se dice oy que le han imbiado correo por arcobispo 16. de Toledo, y quedaran la plaça de Inqqdor General al de 17. Malega. 18. Como se ha quitado toda la cassa del Rey y familia 19. estubo en suspension asta hajer a 29 la cassa de los 20. paxes fuy ablar al sr. don Polasco de la Ysla y me 21. dixo que hace mi amigo el sr. don Pedro ya savemos qdo 22. a salido aviendo cara a la Armada francessa con 23. mucha prudencia y como se halla secretario Uni 24. versal por muerte de don Luis de Seranguren 25. ace grande papel=. Hallandose governando con [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "463:5360a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo11/463:5360a.JPG",
+      "url": "/legajos/legajo-11/images/463:5360a.JPG"
+    },
+    {
+      "filename": "464:5360b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo11/464:5360b.JPG",
+      "url": "/legajos/legajo-11/images/464:5360b.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "463:5360a.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (4)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-11/cartas/001505.json",
+  "primary_image_url": "/legajos/legajo-11/images/463:5360a.JPG"
+}

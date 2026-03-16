@@ -1,0 +1,43 @@
+{
+  "legajo_id": "18",
+  "id_carta": "3022",
+  "order_in_legajo": 55,
+  "signatura": "091:4861a.JPG",
+  "nombre_carta": "Carta de Diego Matías de Aragüés a Pedro Santacilia y Pax",
+  "fecha_original": "26 de julio de 1662",
+  "lugar": "Madrid",
+  "remitente": "Diego Matías de Aragüés",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "La última que tengo escrita es por Valencia 19 de este en que doy aviso de la recaída del señor don Juan. Hoy está mejorado algo y come, aunque está flaco y no del todo libre de calentura, y queriendo llamar al doctor Alba, médico de cámara, que le visitó el primer año, me dijo el doctor Vera no era menester por ahora otro médico que el tiempo era fuerte de calor, y estaba mejorado, el parecer [?] me ha dado, que el correo pasado lo había de remitir. V. m. lo verá que conforme él parece es fuerza vaya a Mallorca el señor don Juan en siendo tiempo y que sea fresco para que allá se refuerce con los aires, que en un año, o poco más, estará otro y más hombre y sabrá lo que más le importa para su salud que ahora o, sino, se había de sacar a los fines de abril de casa de los pajes y mientras el verano y calores estar fuera de palacio van. Verá lo que más convenga, que aquello que ordenare ejecutaré. Ya he dicho en otras veces que saliendo el señor don Juan con licencia, como saldrá con ella del señor caballerizo mayor podrá volver a servir. Y a casa de los pajes siempre que le pareciere, aunque pasen dos años y más, sin que en este hoy a más novedad. El sábado avisaré por Barcelona, y perdón se sepa hay pasaje para dar aviso como está, porque v. m. no está con cuidado. No hay de nuevo por ahora. V. m. me mande le sirva, a mi señora doña Leonor besamos la mano, el señor don Juan, doña Margarita y yo con las de v. m. y todos esos señores y guarde Dios como deseo. Madrid a 26 Julio 1662. Besa la mano de v. m. su mayor servidor, Diego Matias de Aragues Señor don Pedro Santacilia y Pax Transcripción literal"
+  ],
+  "literal": [
+    "1. La Ultima q tengo escrita es por Valencia 2. 19 deste enq doy aviso de la recayda 3. del sr don Juan oy esta mejorada algo 4. ycome, aunq estaflaco y no del todo 5. libredecalentura, Y queríendo llamar 6. al dor Alva medico decamara q le Vesito 7. El primer año me dixo el dor Vera 8. no eramenester por agora otro medico 9. q el tpo era fuerte de Calor, yestava 10. mejorado, el parecer Inebusso[?] meha 11. dado, q el Correo passado lo havia de 12. remitir Vm. lo Vera q Conforme el 13. pareze esfuerza baya a Mallorca elsr 14. don Juan en siendo tiempo yq sea 15. fresco pa q alla se refuerze con los 16. ayres, q en Un año, o, poco mas estara 17. otro ymas hombre y sabra loq mas 18. leimporta para su salud q agora 19. o, sino, se habia de sacar alos fines 20. de Abril de Casa delos Pajes ymientras 21. el Verano y calores estar fuera de Palacio 22. Van. Vera lo q mas convenga, q aquello 23. q ordenare executare, Ya hedicho en 24. otras vezes q saliendo elsr don Juan [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "091:4861a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo18/091:4861a.JPG",
+      "url": "/legajos/legajo-18/images/091:4861a.JPG"
+    },
+    {
+      "filename": "092:4861b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo18/092:4861b.JPG",
+      "url": "/legajos/legajo-18/images/092:4861b.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "091:4861a.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (3)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-18/cartas/003022.json",
+  "primary_image_url": "/legajos/legajo-18/images/091:4861a.JPG"
+}

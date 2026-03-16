@@ -1,0 +1,38 @@
+{
+  "legajo_id": "13",
+  "id_carta": "1756",
+  "order_in_legajo": 23,
+  "signatura": "044:2260.JPG",
+  "nombre_carta": "Carta de Jerónimo Pelegrín de Aragüés a Pedro Santacilia y Pax",
+  "fecha_original": "31 de julio de 1668",
+  "lugar": "Mallorca",
+  "remitente": "Jerónimo Pelegrín de Aragüés",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "De Barcelona han entrado dos embarcaciones y han pasado en 24 horas y lo que hemos consegido de ellas es el haber llegado pliegos de Giuseppe Xoriguera para el conde de Santa María de Formiguera para el Sr. doctor Bassa y muchas otras de Madrid. Frescas solo hemos sabido con carta de 24 de este que escribe el sargento mayor Balell al conde [de] Santa María de Formiguera, estas palabras. (el Sr. D. Pedro Santacilia llegó a Madrid el cual me ha escrito en este correo pasado) que ha sido la primera nueva que se ha tenido y admiranse todos sus amigos. Conociendo la puntualidad por todos caminos que v. s. suele dar razón, ahora se haya dilatado tanto. Llos filósofos en la cadena no dejan de hacer discursos, v. s. haga su negocio y véngase a su casa, que esta saetía no me da más lugar, que es valenciana y venturera que pasa etc. Guells Murio, capitán Mir murió y otras personas particulares, que de todo daré noticia a v. s. y de los negocios de su casa. Guarde Dios a v. s. muchos años como deseo, Mallorca 31 de julio 1668. En casa hay salud gracias a Dios . A mi tío Diego Matias muchos recaudos y a mi tia. Beso las manos de v. s. su menor criado, Jeronimo Pelegrin y Aragues Mi Sr. don Pedro [1§] Transcripción literal"
+  ],
+  "literal": [
+    "1. De Barçelona han entrado dos embarcationes ÿ2. han passado en 24. horas. i loque hauemos consegido.3. dellas. es. el hauer llegado pliegos de Jusepe Surrigera para4. el sr. Conde de Sta Marina de formigera para se dor Bassa5. y muchas otras de Madrid. frescas. solo hauemos sauido.6. con carta de 24 deste que escriue el sargento Maior.7. Balell al Conde Sta Maria de formigera, estas palabras.8. (el sr. d. Po Sa Cilia llego a Madrid el qual me ha escrito en9. este correo passado) que assido la primera nueba que10. se attenido i admiransse todos sus amigos. Conociendo.11. la puntualidad por todos caminos que V.S. suele dar racons[?]12. agora se haya dilatado tanto; los filosofos enla cadena;13. no dexan de açer discurssos, V.S.aga su negoçio i vengasse14. asu cassa. que esta setia no me da mas lugar. que es 15. valenciana i venturera que passa ettc.16. Guells Murio. Cappn Mir. Murio i otras personas17. particulares. que de todo dare noticia a V.S. ÿ18. delos negocios desu cassa19. Guarde Dios a V.S. ms a< ño>s como desseo, Mallorca 31 de20. julio 1668. en cassa haÿ salud gracias a Dios.21. ami tío Diego Mathias ms recaudos i ami tia.22. B l m de V.S.23. su menor Criado,24. Geronÿmo Pelegrin y Aragues25. Mi sr. Don Po [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "044:2260.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo13/044:2260.JPG",
+      "url": "/legajos/legajo-13/images/044:2260.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "044:2260.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (4)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-13/cartas/001756.json",
+  "primary_image_url": "/legajos/legajo-13/images/044:2260.JPG"
+}

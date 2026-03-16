@@ -1,0 +1,38 @@
+{
+  "legajo_id": "22",
+  "id_carta": "3646",
+  "order_in_legajo": 26,
+  "signatura": "040:4997",
+  "nombre_carta": "Carta de Diego de Rocabertí a Persona desconocida",
+  "fecha_original": "16 de marzo de 1629",
+  "lugar": "Lugar sin especificar",
+  "remitente": "Diego de Rocabertí",
+  "destinatario": "Persona desconocida",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Mon pare és partit avui demati per a Girona en haver rebut les cartes del comte de Perelada pel propi i ha deixat ordre ací perquè enviàssim a cercar a mossèn Palol i vingut ací han firmat les procures ma mare i ma germana perquè allà pugui don Francisco mi senyor firmar els capítols té de fer aquí esta tarda els despatxos dit Palol i demà dematí quan amb més diligència millor tenim d'enviar-les per propi a mon pare a Girona i quan ell sia tornat estarem de {ESP. parabens} si bé es veritat que ja dona Ana la casada està en aquest punt fent els esquallots. Nostre Senyor vos guard com pot i jo desitja en Pau i març a 16 de 1629. Don Diego de Rocaberti Moro desendent de moros cara de moro vestit d'esclau i ventre blau blau blau blau moro de pare. Transcripción literal"
+  ],
+  "literal": [
+    "1. Mon pare es partit vuy demati pera Gerona2. en aver rebut las cartas del Comte de Perelada per3. lo propri ÿ a dexat orde así peraque enviasem a4. sercar a Mosen Palol y vingut así anfirmat las pro5. curas ma Mara ÿ ma Germana per a que alla6. puga don fransisco mi señor firmar los capitols, te de7. fer aqui esta tarda los despatxos dit palol y dema dema8. ti quant ab mes diligencia millor tenin de enviarlas9. per propri a mon pare a Girona y quant ell sia10. tornat estarem de parabiens si be es veritat que11. ja doña Ana la casada esta en aquest punt fent12. los esquallots Nostre Señor vos guart com pot y jo13. desitja en Pau y Mars a 16. de 162914. Don Diego de15. Rocaberti16. [^moro desendent de17. moros cara de moro18. vestit desclau ÿ ventra blau baul (sic) (^??)19. blau blau moro de para [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "040:4997.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo22/040:4997.JPG",
+      "url": "/legajos/legajo-22/images/040:4997.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "040:4997.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-22/cartas/003646.json",
+  "primary_image_url": "/legajos/legajo-22/images/040:4997.JPG"
+}

@@ -1,0 +1,37 @@
+{
+  "legajo_id": "19",
+  "id_carta": "7526",
+  "order_in_legajo": 78,
+  "signatura": "026_cg8a",
+  "nombre_carta": "Carta de Persona desconocida a Persona desconocida",
+  "fecha_original": "fecha sin especificar",
+  "lugar": "lugar sin especificar",
+  "remitente": "Persona desconocida",
+  "destinatario": "Persona desconocida",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Comptes numèrics Transcripción literal"
+  ],
+  "literal": [
+    "1. [Comptes numèrics]1."
+  ],
+  "imagenes": [
+    {
+      "filename": "026_cg8a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo19/026_cg8a.JPG",
+      "url": "/legajos/legajo-19/images/026_cg8a.JPG"
+    },
+    {
+      "filename": "027_cg8b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo19/027_cg8b.JPG",
+      "url": "/legajos/legajo-19/images/027_cg8b.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "026_cg8a.JPG",
+  "warnings": [],
+  "raw_source": "raw/legajos/legajo-19/cartas/007526.json",
+  "primary_image_url": "/legajos/legajo-19/images/026_cg8a.JPG"
+}

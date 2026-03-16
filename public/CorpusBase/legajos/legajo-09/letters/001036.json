@@ -1,0 +1,37 @@
+{
+  "legajo_id": "9",
+  "id_carta": "1036",
+  "order_in_legajo": 34,
+  "signatura": "120-59a",
+  "nombre_carta": "Carta de Manuel Aguado a Arnau de Santacilia",
+  "fecha_original": "9 de julio de 1674",
+  "lugar": "Granada",
+  "remitente": "Manuel Aguado",
+  "destinatario": "Arnau de Santacilia",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Mucho gozo tendré de que su señoría haya llegado esa corte con la salud que sus amigos y yo deseamos y que la goce por dilatados años. Los camaradas [y] yo la gozamos, y todos muy prontos para ocuparla en el servicio de v. m. Yo más que todos aunque no ocupo la parte del cariño de v. m. en tanta igualdad, pero si merezco el que me mande lo experimentará. Al señor don Josep Vizcaino muchos recados y que me haga merced de sacar el decreto porque no paga los socorros de mis soldados [1§] y asimismo el que yo vaya con don Pedro Alvarez a Córdoba o vayan a levantar y que me mande en qué le sirva y a v. m. suplico lo mismo. Granada, 9 de julio de 1674. A v. m. servidor que sus manos besa, Manuel Aguado Señor sargento mayor don Arnau de Santacilia Transcripción literal"
+  ],
+  "literal": [
+    "1. Mucho goço tendre de q su sena 2. aya llegado aessa corte con 3. la salud que sus amigos ysdo 4. da siamos y q la goce por di 5. latados años los camarad6. as yo lagocamos ytodos mui 7. prontos para ocuparla en 8. el servicio de Vmd. yo mas que 9. todos aunq no ocupo la 10. parte del cariño de Vmd. enta11. nta ygual da Pero si merezco 12. el q me Mande lo esperi-13. mentara al sr dn Joseph 14. Vizcaino ms recados y que 15. me aga md de sacar el decre16. to para queno pagalos socorros17. de mis soldados [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "120-59a.jpg",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo09/120-59a.jpg",
+      "url": "/legajos/legajo-09/images/120-59a.jpg"
+    },
+    {
+      "filename": "121-59b.jpg",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo09/121-59b.jpg",
+      "url": "/legajos/legajo-09/images/121-59b.jpg"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "120-59a.jpg",
+  "warnings": [],
+  "raw_source": "raw/legajos/legajo-09/cartas/001036.json",
+  "primary_image_url": "/legajos/legajo-09/images/120-59a.jpg"
+}

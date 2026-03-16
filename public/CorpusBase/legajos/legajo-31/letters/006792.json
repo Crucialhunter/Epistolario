@@ -1,0 +1,38 @@
+{
+  "legajo_id": "31",
+  "id_carta": "6792",
+  "order_in_legajo": 26,
+  "signatura": "044:1543.JPG",
+  "nombre_carta": "Carta de Miquel Domènech a Pedro Santacilia y Pax",
+  "fecha_original": "5 de 1661",
+  "lugar": "Valencia",
+  "remitente": "Miquel Domènech",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Mi senyor don Pedro de santaxilia su senoria sabrà com tots està bons gràcies ha de re grcies per a tot el que ens ulge mana així voldria saber de sa senyoria i de mi senyora donyia Leonor i de sos fills i els {ESP. demés} de sa casa ai li faig a saber com he rebut el baril d'olives ai rebrà vosenyoria dos arobes de naps en un cabas per ser ara en este temps saben que no n'hi ha oi li enviï esta misera en folgar que farà cosa de més importància no dic més sinó que deu el garde de sa lloc del grau de València ui als 5 lloc anyi 1661. [?] que ses mans besa a su cenyoria Miceldo me donec marit de llaudomia si sa senyoria em ulge manar isia de menester alguna cosa m'ho pot envia a dir que o faré de mol bona gana [1§] Transcripción literal"
+  ],
+  "literal": [
+    "1. Mi señor don 2. Pedro de santaxilia su senoria sabra com tots 3. esta bons grasies a de re grcias pera 4. tot lo quens ulge mana axi voldria 5. saber de sa señoria i de mi senora 6. doñia leonor i de sos fills i los demes 7. de sa casa ai li fas asaber com he 8. rebut lo baril de olives ai rebra 9. voseñoria dos arobes de naps en un 10. cabas per ser ara en este tems sa11. ben que no nia oi li envie esta misera 12. en folgar que fara cosa de mes inpo13. rtancia no dic mes sino que deu lo 14. garde desse lloc del grau de vale15. ncia ui als 5 lloc añi 1661. 16. ?? q. s. m. b. a su ceñoria 17. Miceldo me donec 18. marit de llaudomia 19. si sa señoria em ulge 20. manar isia de menester 21. alguna cosa mo pot 22. envia a dir que o fare de 23. mol bona gana [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "044:1543.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo31/044:1543.JPG",
+      "url": "/legajos/legajo-31/images/044:1543.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "044:1543.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-31/cartas/006792.json",
+  "primary_image_url": "/legajos/legajo-31/images/044:1543.JPG"
+}

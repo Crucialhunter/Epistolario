@@ -1,0 +1,43 @@
+{
+  "legajo_id": "29",
+  "id_carta": "6436",
+  "order_in_legajo": 114,
+  "signatura": "207:4253a.JPG",
+  "nombre_carta": "Carta de Francisco de Andrade Béjar a Pedro Santacilia y Pax",
+  "fecha_original": "8 de mayo de 1651",
+  "lugar": "Tarragona",
+  "remitente": "Francisco de Andrade Béjar",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Muy señor mío sólo estimaré haya ocasiones en que v. m. me mande muchas cosas de su servicio para que a todo lo que hallan [?] mis fuerzas lo ponga luego por obr [?] Lorenzo Coll Varona me ha dado una [?] de v. m. en que me manda [?] como a tiempos que a está en es [?] entregómela había cosa de 8 días [?] que le daría la fe que quisiese [?] que también hablaría al va [?] abonándole que de los oficios [?] sible por cuanto el no está [?] del rey fue muy contento con es [?] que volvería entiendo que ha ido en un bergantín de corso no le he visto más en viniendo haré todo lo que pudiere y el me pidiere. Beso a v. m. la mano muchas veces [1§] por la merced y cuidado que ha tenido de hacérmela enviarme nuevas de Ventura Andres, quiera Dios conservar los que algún día no se arrepientan, porque no [?] pierda la [?] sabía de todo que no se hallan cada día sírvase v. m. de hacer que envíe la procura en la forma que se pedía y también para el beneficio habiéndomela v. m. de su parte meter en conciencia [?] santos varones la mucha pobreza de su madre y hermanos para que las coman con alguna limosna, pues le quitan el remedio de su vejez. Dios me guarde a v. m. los años de su deseo con las felicidades y aumentos que merece. No hay cosa de quedar parte de nuevo. Tarragona y mayo 8 del 1651. Mayor servidor de v. m. que sus manos besa Francisco de Andrade Bejar Sr. D. Pedro de Santacilia Transcripción literal"
+  ],
+  "literal": [
+    "1. Mui señor mio solo estimare aya ocasi2. ones en que Vm me mande muchas cosas 3. de su servicio para que a todo lo que allan [?] 4. mis fuerzas lo ponga luego por obr [?] 5. Lorenzo Cor barona me adado una ?? 6. de Vm. en que me manda [?] 7. como a tiempos que a esta en es [?] 8. tregomela abia cosa de 8 di [?] 9. que le daria la fee que quisiese [?] 10. que tam bien ablaria al Sr. ba [?] 11. abonandole que de los oficios [?] 12. sible por quanto el no esta [?] 13. del Rey fue mui contento con es [?] 14. que bolberia entiendo que aydo enun 15. bergantin de Corso no le e bisto mas en 16. beniendo are todo lo que pudiere 17. y el me pidiere. 18. Veso a Vm la mano muchas beces [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "207:4253a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo29/207:4253a.JPG",
+      "url": "/legajos/legajo-29/images/207:4253a.JPG"
+    },
+    {
+      "filename": "208:4253b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo29/208:4253b.JPG",
+      "url": "/legajos/legajo-29/images/208:4253b.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "207:4253a.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-29/cartas/006436.json",
+  "primary_image_url": "/legajos/legajo-29/images/207:4253a.JPG"
+}

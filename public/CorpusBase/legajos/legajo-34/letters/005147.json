@@ -1,0 +1,38 @@
+{
+  "legajo_id": "34",
+  "id_carta": "5147",
+  "order_in_legajo": 176,
+  "signatura": "263:7062.JPG",
+  "nombre_carta": "Carta de Juan Cebrián a Pedro Santacilia y Pax",
+  "fecha_original": "18 de diciembre de 1657",
+  "lugar": "Lugar sin especificar",
+  "remitente": "Juan Cebrián",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "el no tener carta de v. m. muchos días ha me sirve de algún desconsuelo, por lo mucho que deseo tener continuados avisos de su salud y desearle todo buen suceso en sus cosas y reconociendo de lo que están propio de miobligación en dar a v. m. las pascuas del na/ cimiento de nuestro lo hago muy gustoso y holgaré mucho que v. m. las goce tan dichosas como mi afecto se las solicita y que se acuerde de darme muchos em/ pleos de su servicio para que en su ejecución quede acreditada mi voluntad. Guarde Dios a v. m. muchos años como puede. Juslibol y Decieme 18 de 1657 de v. m. Amigo cierto y servidor [?] lebias Arpo de Zaragoza Sr. don Pedro Santacilia y Pax [1§] Transcripción literal"
+  ],
+  "literal": [
+    "1. el no tener carta de Vm muchos dias ha2. me sirve de algun desconsuelo, por lo mucho3. que desseo tener continuados avissos desu salud4. y dessearle todo buen sucesso ensus cossas5. y reconociendo delo que estan propio de miobli-6. gacion endar aVm las Pascuas del na/7. cimiento de nuestro sr. lo hago mui gustosso8. y holgare mucho que Vm las goce tan9. dichossas como mi affecto selas solicita10. y que se acuerde de darme muchos em/11. pleos desu servicio para que en su exon12. quede acreditada mi voluntad. gde Dios 13. a Vm muchos años como puede. Juslibol14. y Dezieme 18 de 165715. De Vm Amigo Cierto y servidor16. [ ??] [lebias] Arpo17. de Caraga18. Don Po Santacilia y Pax [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "263:7062.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo34/263:7062.JPG",
+      "url": "/legajos/legajo-34/images/263:7062.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "263:7062.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-34/cartas/005147.json",
+  "primary_image_url": "/legajos/legajo-34/images/263:7062.JPG"
+}

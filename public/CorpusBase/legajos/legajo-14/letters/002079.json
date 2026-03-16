@@ -1,0 +1,38 @@
+{
+  "legajo_id": "14",
+  "id_carta": "2079",
+  "order_in_legajo": 191,
+  "signatura": "292:2590.JPG",
+  "nombre_carta": "Carta de Manuel de los Cobos y Luna (IV marqués de Camarasa) a Pedro Santacilia y Pax",
+  "fecha_original": "15 de octubre de 1663",
+  "lugar": "Valencia",
+  "remitente": "Manuel de los Cobos y Luna (IV marqués de Camarasa)",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Sr. mío, con el patrón Juan Camps escribí a v. s. a los 4 de este remití los pliegos de Madrid para v. s. con que me hallaba y una para el príncipe de Pomblin que deseo hayan llegado, y con esta envío a v. s. dos que he recibido ahora, el uno del vicecanciller y el que va asimismo para el príncipe que me le encomienda mucho el Sr. D. Pedro Carlos Coallí por muy del servicio de su majestad y por adelantar lo posible que le reciba y no haber aquí ni esperarse embarcación para Cerdeña me ha parecido valerme como otras veces del medio de encaminarlos hay donde dicen las hay más de ordinario para allá, y así suplico a v. s. goce de la primera ocasión acordándose también de darme muchas en que servirle. Nro. Sr. Guarde a v. s. largos años. Real de Valencia y octubre 15 de 1663. [?] Marques de la [?] Conde [?] Sr. don. Pedro de Santacilia y Pax Transcripción literal"
+  ],
+  "literal": [
+    "1. Sr. Mio, Con el Patron Juan Camps escrivi a VS a los 4 deste2. remiti los pliegos de Mad para VS con que me allava y una p[a]ra3. el Sr. Prinçipe de Pomblin que desseo ayan llegado, y con esta embio4. a VS dos que e recivido aora el uno del Sr. Vicecanr y el que ba5. asi mismo p[a]ra el Prinçipe que me le encomienda mucho el Srio. Dn Pedro6. Carlos coallí por muy del serviçio de S. Mgd. y por adelantar lo posible que le7. reciba y no aber aqui ni esperarse embarcaçion p[a]ra Zerdeña me a pareçido8. balerme como otras beçes del medio de encaminarlos ay donde dicen las ay9. mas de ordinario p[a]ra alla, y asi supp[li]co a VS goçe de la primera10. ocasion acordandose tanvien de darme muchas en que serbirle Nro.11. Sr. gde a Vs. largos años.- Rl de Vala y 8bre 15 de 166312. [?] Marques de la maca13. conde lastro14. Sr. Don. Pedro de Santa Cilia y Pax, [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "292:2590.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo14/292:2590.JPG",
+      "url": "/legajos/legajo-14/images/292:2590.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "292:2590.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-14/cartas/002079.json",
+  "primary_image_url": "/legajos/legajo-14/images/292:2590.JPG"
+}

@@ -1,0 +1,42 @@
+{
+  "legajo_id": "19",
+  "id_carta": "7533",
+  "order_in_legajo": 87,
+  "signatura": "037_cg15a",
+  "nombre_carta": "Carta de Persona desconocida a Persona desconocida",
+  "fecha_original": "fecha sin especificar",
+  "lugar": "lugar sin especificar",
+  "remitente": "Persona desconocida",
+  "destinatario": "Persona desconocida",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Relació de comptes Transcripción literal"
+  ],
+  "literal": [
+    "1. [Relació de comptes]1. 1."
+  ],
+  "imagenes": [
+    {
+      "filename": "037_cg15a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo19/037_cg15a.JPG",
+      "url": "/legajos/legajo-19/images/037_cg15a.JPG"
+    },
+    {
+      "filename": "038_cg15b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo19/038_cg15b.JPG",
+      "url": "/legajos/legajo-19/images/038_cg15b.JPG"
+    },
+    {
+      "filename": "039_cg15c.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo19/039_cg15c.JPG",
+      "url": "/legajos/legajo-19/images/039_cg15c.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "037_cg15a.JPG",
+  "warnings": [],
+  "raw_source": "raw/legajos/legajo-19/cartas/007533.json",
+  "primary_image_url": "/legajos/legajo-19/images/037_cg15a.JPG"
+}

@@ -1,0 +1,43 @@
+{
+  "legajo_id": "7",
+  "id_carta": "787",
+  "order_in_legajo": 31,
+  "signatura": "30-18a copy",
+  "nombre_carta": "Carta de Pablo Corbella a Jerónimo Pelegrín de Aragüés",
+  "fecha_original": "20 de agosto de 1674",
+  "lugar": "Barcelona",
+  "remitente": "Pablo Corbella",
+  "destinatario": "Jerónimo Pelegrín de Aragüés",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Amigo y señor mío, Llegué a esta ciudad con salud. Me holgaré la goce vuestra merced y toda su casa, a quienes beso las manos. Después que llegamos aquí fueron todas las 25 galeras a Cadaqués y de allí nos hicieron volver a los 12 que estuvimos ahí para pasar a Sicilia por las revoluciones de Mesina. Llegamos aquí y los que quedaban en Cadaqués volvieron, y todos estamos en este muelle. Anoche vino al señor don Pedro de Leiva, nuestro general. Veremos lo que se hace de esta máquina. Guarde Nuestro Señor a vuestra merced como deseo. Muelle de Barcelona, a 20 de agosto 1674. Amigo de vuestra merced, que sus manos besa. Pablo Corbella. Sr. Jeronimo Pelegrin de Aragues [1§] Barcelona, 20 de agosto 1674. De don Pablo Corbella. Respuesta a 20 de septiembre por el patrón Camallonga {CAT. se'n va anar Pere Nicolau} Transcripción literal"
+  ],
+  "literal": [
+    "1. Amigo y Sr. mio llegue a esta 2. ciud. con salud me olgare la 3. Goze V.m. y toda su casa a qui- 4. enes beso las manos despues que 5. llegamos aqui fueron todas 6. las 25 Galeras a Cadaques y 7. de ally nos ycieron bolver 8. a los 12 questubimos ay para 9. pasar a sicilia por las Rebulu- 10. ciones de Mecina llegamos aqui 11. y las que quedaban en Cadaques 12. bolvieron y todos estamos en 13. este Muelle anoche vino el Sr. 14. don Po de leyba nro Gl bere 15. mos lo que se ace desta Maquina 16. gde nro S. a V.m. como deseo Muelle 17. de barcelona a 20 de Agto 1674 18. Amigo de V.m. 19. que S M B 20. Pablo Corvella 21. S. Grmo Pelegrin de Aragues [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "30-18a copy.gif",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo07/30-18a copy.gif",
+      "url": "/legajos/legajo-07/images/30-18a copy.gif"
+    },
+    {
+      "filename": "31-18b copy.gif",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo07/31-18b copy.gif",
+      "url": "/legajos/legajo-07/images/31-18b copy.gif"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "30-18a copy.gif",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (4)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-07/cartas/000787.json",
+  "primary_image_url": "/legajos/legajo-07/images/30-18a copy.gif"
+}

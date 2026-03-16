@@ -1,0 +1,38 @@
+{
+  "legajo_id": "13",
+  "id_carta": "1863",
+  "order_in_legajo": 131,
+  "signatura": "207:2367.JPG",
+  "nombre_carta": "Carta de José Balell a Pedro Santacilia y Pax",
+  "fecha_original": "5 de enero de 1669",
+  "lugar": "Barcelona",
+  "remitente": "José Balell",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Sr. D. Pedro de Santacilia y Pax Mi Sr. he recibido sus favores con la que fue servido mandarme escribir de este correo con todo contento pues v. s. goza de buena salud gracias a Dios . El pliego para mi Sra. irá sin perder ocasión habiendo remitido las antecedentes. Mucho siento que v. s. no tenga cartas por otra presente que si por acá las hubiera mi cuidado hubiera cumplido con la obligación que debo. Mucho me huelgo que las materias corrientes tomen el estado que conviene para la monarquía, cuyo pretexto es el del Sr. don Juan que como deidad [?] y tan deseoso del bien aunque se halle en este país obligado, está haciendo el mayor servicio a la monarquía como acustumbrado y solo [?] con su presencia este país lleva la continuación de los alojamientos y quitados los [?] que podíamos juzgar por estar exhausto este Principado. Dios lo encaminare y a v. s. guarde muchos años como deseo y es menester, Barcelona y enero 5 de 1669. Cierto criado de v. s. que su mano besa Josep Balell [1§] Transcripción literal"
+  ],
+  "literal": [
+    "1. Sr. d. Po de Sta Cilia y Pax mi Sr.2. He Reciv[i]do sus fabores con la que3. fue servido Mandarme escribir4. deste Correo con todo contento5. pues VS goza de buena salud6. gracias a dios, el pliego pa mi7. Sa. hira sin perder ocasion havien8. do Remitido las antecedentes.9. Mucho siento que VS no tenga Car10. tas por otra pte que si por aca11. las huviera mi cuidado huvie12. ra cumplido con la obligon que13. devo=14. Mucho me huelgo que las materias15. corrientes tomen el estado que16. conviene pa la Monarquia Cuio pre17. texto es el del Sr don Juan que como18. deidad[?] y tan desso del bien aunque19. se halle en este Pais obligado 20. esta haziendo el mor servicio ala21. Monarquia como acustumbrado22. y solo (^[?]) con su presencia este Pais23. lleva la continuacion de los alo24. jamtos y quitados los [?] que po25. diamos juzgar por estar exausto26. este Principado Dios lo encaminare27. y a VS gde ms a< ño>s como deso y he menes28. ter Barcelona y Hr 5 de 166929. Çierto Criado de VS q s[u] m b30. Joseph Balell [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "207:2367.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo13/207:2367.JPG",
+      "url": "/legajos/legajo-13/images/207:2367.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "207:2367.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-13/cartas/001863.json",
+  "primary_image_url": "/legajos/legajo-13/images/207:2367.JPG"
+}

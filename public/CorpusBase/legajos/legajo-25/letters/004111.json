@@ -1,0 +1,43 @@
+{
+  "legajo_id": "25",
+  "id_carta": "4111",
+  "order_in_legajo": 45,
+  "signatura": "091_145a.JPG",
+  "nombre_carta": "Carta de Andrés García de Castro a Jerónimo Pelegrín de Aragüés",
+  "fecha_original": "29 de abril de 1667",
+  "lugar": "Valencia",
+  "remitente": "Andrés García de Castro",
+  "destinatario": "Jerónimo Pelegrín de Aragüés",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Señor mío en dos ocasiones no tengo escrito a v. m. por hallarme con el desconsuelo de habérseme Dios llevado para sí a mi mujer Josepa, después de largos días de enfermedad, cuya perdida me tiene sumamente condolido, pero de cualquier suerte tan al servicio de v. m. como pide mi obligación. Tengo escrito a v. m. en el negocio de Manuel Cristobal y sobre la carta de recomendación del gobernador mi Sr.vque remití a v. m. para don Miguel Salva y v. m. no me dice nada de uno ni de otro y así suplico a v. m. me avise de todo y si ha recibido unas chucherías que le envié a v. m. para su Sra. hija que no ha sido más que señal de voluntad. Dios me guarde a v. m. largos años como deseo. Valencia y abril a 29 de 1667. Sr. Jeronimo Peregrin de Aragues [1§] Valencia 29 de abril 1667. De don Andres Garcia de Castro etts. Tiene respuesta, 10 de mayo 1667, por el bergantín de Juan Camps. Transcripción literal"
+  ],
+  "literal": [
+    "1. Señor mio en dos ocaciones no tengo escrito a Vm. por2. hallarme con el desconsuelo de haverseme Dios3. llevado para sí a mi muger Jusepa despues de4. largos dias de enfermedad, cuya perdida me5. tiene summamente condolido pero de qualqui=6. er suerte tan al servicio de Vm. como pide7. mi obligaçion8. Tengo escrito a Vm. en el negocio de Manuel9. Christoval y sobre la carta de recomendacion10. del Gor. mi sr. que remití a Vm para Don11. Miguel Salba y Vm no me dice nada de12. uni ni de otro y assí suplico a Vm me13. avise de todo y si ha recevido unas chuche14. rias que le imbie a Vm para su Sra hija15. que no ha sido mas que señal de Voluntad16. Dios me gde a Vm. largos añ[os] como deseo Val[enci]a17. y Abril a 29 de 166718. Sr. Gmo. Peregrin de araguez [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "091_145a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo25/091_145a.JPG",
+      "url": "/legajos/legajo-25/images/091_145a.JPG"
+    },
+    {
+      "filename": "092_145b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo25/092_145b.JPG",
+      "url": "/legajos/legajo-25/images/092_145b.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "091_145a.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (6)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-25/cartas/004111.json",
+  "primary_image_url": "/legajos/legajo-25/images/091_145a.JPG"
+}

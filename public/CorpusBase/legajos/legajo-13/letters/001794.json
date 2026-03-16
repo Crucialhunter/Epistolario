@@ -1,0 +1,43 @@
+{
+  "legajo_id": "13",
+  "id_carta": "1794",
+  "order_in_legajo": 57,
+  "signatura": "103:2298a.JPG",
+  "nombre_carta": "Carta de José Balell a Pedro Santacilia y Pax",
+  "fecha_original": "18 de agosto de 1668",
+  "lugar": "Barcelona",
+  "remitente": "José Balell",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Sr. D. Pedro de Santacilia, mi Sr. Con la del amigo y Diego Matias de Aragues he tenido noticia de la salud de v. s. con mucho contento, si bien con pesar de que el Sr. don Juan no tenga la que le deseo. gracias a Dios que anteayer llegó a este muelle el bergantín del capitán Cotoner que pasa a Marsella hoy de vuelta acá y con las muchas cartas que he tenido han venido las inclusas para v. s. con este mismo bergantín y tres pliegos en el correo de Cerdeña. No hay más novedad que las dichas. Aquó han llegado tres galeras de Génova poniente habiendo quedado las otras tres para embarcar al duque de Saint Germain. Acá se padece mucho en particular les oficiales y esta cabaallería se encamina a sus [?] y al enemigo sino se remedia el país no tendré más paciencia que hasta la reforma que también [?] hará Mallorca en tantas [1§] y lo están los que trafican porque se hurta en los caminos por todas partes y empiezan a pasarse al enemigo con los caballos y esto [?] que Francia no esté permanente en la paz que hoy hacen de [?] Otaniano. Suplico a v. s. sea servido tenerme en su gracia y servicio cuya vida guarde Nro. Sr. muchos años como puedo, deseo y es menester, en compañía del Sr. D. Juan y de cuanto más quiere y merece. Barcelona y agosto 18 de 1668. Los 210.000 [?] de 8 de la galera genovesa que se han pillado por fraude, parece las empleará su excelencia para varar el navío y la galera hecha en esta atarazana y lo demás para el palacio que se trabaja incesantemente. Acá siempre hay dimes y diretes sobre las competencias de diputación y ciudad con su excelencia que es vergüenza aunque no campan filósofos con todo los de Rosellón poseen las [?] de las de hace y estos sin las suyas que es lástima. Cierto criado de v. s. que su mano besa Josep Balell Transcripción literal"
+  ],
+  "literal": [
+    "1. Sr. Dn Pedro de Sta Cilia mi Sr2. Con la del Amigo y Sr. diego3. Matias de Aragues he tenido4. notiçia de la salud de VS con5. mucho contento, si bien con 6. pesar de que el sr. d Juan no ten7. ga la que le dezeo.8. Gracias a dios que [?]9. [?] muelle el Bergantín 10. del Cappn Cotoner[?] que pasa a11. Marsella oy de buelta aca y con 12. las muchas cartas que he13. tenido han venido las in14. clusas pa VS con este miso15. Bergantín y tres pliegos en el Correo16. de Serdeña no ay mas novedad q17. las dichas ni han llegado 18. tres Galeras de Genoba [?]19. [?] haviendo quedado las20. otras tres pa embarcar al sr. du21. que de Sengermen[?]22. Aca se padece mucho en parti23. cular les officiales y esta Ca24. valla se encamina a sus [?]25. y al enemigo sino se Reme26. dia el Pais no tendre mas27. paciencia que hasta la refor28. ma que tanvien[?] hara mallca en 29. tantas [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "103:2298a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo13/103:2298a.JPG",
+      "url": "/legajos/legajo-13/images/103:2298a.JPG"
+    },
+    {
+      "filename": "104:2298b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo13/104:2298b.JPG",
+      "url": "/legajos/legajo-13/images/104:2298b.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "103:2298a.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-13/cartas/001794.json",
+  "primary_image_url": "/legajos/legajo-13/images/103:2298a.JPG"
+}

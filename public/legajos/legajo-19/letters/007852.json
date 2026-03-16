@@ -1,0 +1,38 @@
+{
+  "legajo_id": "19",
+  "id_carta": "7852",
+  "order_in_legajo": 163,
+  "signatura": "593_8040.JPG",
+  "nombre_carta": "Carta de Josep Sepàºlveda a Pedro Santacilia y Pax",
+  "fecha_original": "fecha sin especificar",
+  "lugar": "Mallorca",
+  "remitente": "Josep Sepàºlveda",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Aqui ha llegado An [?] Enri quez a disponer el alojamto. de algunos caballos, y aunque he ofrecido desalojar toda mi compª. y la mitad de otra no lo admitidopor los inconvenientes que se dejar [?] y asinª parecido se acomoden en lugares más vecinos de comodidad mayor que [?] se ha reparado dar este [?] y crearme v. m. que de mi parte [?] haré lugar para que sea servido v. m. a quien suplico me mande [?] sus años deseo [?] oy miércoles servidor de v. m. que sus. m. b. Josep [?] Sepulveda [?] Santaciliaen altra páginadon Giuseppe SepulbedaAl Sº. Sr. don Pedro Santacilia y Pax gobernador de la [?] allería de [?] agnes. Transcripción literal"
+  ],
+  "literal": [
+    "1. Aqui ha llegado An [?] Enriquez a dispo2. ner el alojamto. de algunos cavallos, y aunq 3. he ofrecido desalojar toda mi compª. y 4. la metad de otra no lo admitidopor los in5. convenientes q se dexar [?] y assinª 6. parecido se acomoden en lugares mas vezinos 7. de comodidad mayor q [?] se ha repara8. do dar este [?] y crearme Vm q de mi 9. parte [?] hare lugar paraq 10. sea servido Vm a quien suppco. me mande 11. ?? sus años deseo [?] oy 12. miercoles servidor de Vm q. sus. m. b. 13. Joseph [?] 14. Sepulveda15. ?? Santacicilia16. [en altra pàgina]17. Don Jusepe Sepulbeda18. Al Sº. don Pº. santacilia19. y pax governador de la ??20. alleria de [?] agnes. [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "593_8040.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo19/593_8040.JPG",
+      "url": "/legajos/legajo-19/images/593_8040.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "593_8040.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (2)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-19/cartas/007852.json",
+  "primary_image_url": "/legajos/legajo-19/images/593_8040.JPG"
+}

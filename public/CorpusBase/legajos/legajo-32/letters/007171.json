@@ -1,0 +1,38 @@
+{
+  "legajo_id": "32",
+  "id_carta": "7171",
+  "order_in_legajo": 170,
+  "signatura": "230:1929.JPG",
+  "nombre_carta": "Carta de Conde de Zavellá a Pedro Santacilia y Pax",
+  "fecha_original": "26 de febrero de 1666",
+  "lugar": "Barcelona",
+  "remitente": "Conde de Zavellá",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Tio y mío recibo de v. s. tres cartas juntas pero ha contrapesado todo mi alboroto la noticia que v. s. me da de su achaq y habiéndole obligado acama y sangrías no puede ser [?] bien [?] v. s. y si mi sentimiento pudiera alijerar su dolor no le padeciéramos uno ni otro. v. s. se alienta y aún nos hemos [?] Madrid ya y no en Mallorca. Novedades de gusto no las goza excuso las demás por no añadir mal ama v. s. y solo suplico a v. s. no me olvide y a mi Sra. [?] guarde a v. s. como deseo Berna y febrero a 26 de 1666 Siempre de v. s. que su mb Leonor de Zavella Sr. D. Pedro Santacilia y Pax [1§] Transcripción literal"
+  ],
+  "literal": [
+    "1. Tio y Sr mio recibo de VS tres cartas 2. juntas pero ha contrapesado todo mi 3. alboroto la noticia q VS me da de 4. su achaq y aviendole obligado a5. cama y sangrias no puede ser [?] 6. bien [?] VS y si mi sentimiento 7. pudiera alijerar su dolor no le pa8. decieramos uno ni otro. VS se ali9. enta y aun nos avemos [?] 10. Madrid ya y no en Mallorca. 11. Nobedades de gusto no las goza Sr 12. escuso las demas por no añadir mal 13. ama VS y solo suplico a VS no me 14. olbide y a mi Sra [?] VS de mi 15. deseo Berna y febrero a 26 de 1666 16. Siempre de VS 17. q su mb 18. Eleonor de Çavella 19. Sr D Pedro Sta Cilia y Pax [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "230:1929.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo32/230:1929.JPG",
+      "url": "/legajos/legajo-32/images/230:1929.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "230:1929.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-32/cartas/007171.json",
+  "primary_image_url": "/legajos/legajo-32/images/230:1929.JPG"
+}

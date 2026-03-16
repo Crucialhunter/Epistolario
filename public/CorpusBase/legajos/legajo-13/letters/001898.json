@@ -1,0 +1,43 @@
+{
+  "legajo_id": "13",
+  "id_carta": "1898",
+  "order_in_legajo": 148,
+  "signatura": "257:2402a.JPG",
+  "nombre_carta": "Carta de Basilio de Castellví y Ponce a Pedro Santacilia y Pax",
+  "fecha_original": "5 de marzo de 1669",
+  "lugar": "Valencia",
+  "remitente": "Basilio de Castellví y Ponce",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Señor mío recibo su carta de v. s. del 26 del pasado, y me dejan muy gustoso las noticias que me trae de su salud de v. s. que son para mi de sumo alborozo y muy iguales a mi deseo. Holgáreme se continue largos años con muchas felicidades, yo quedo al servicio de v. s. bueno y de cualquier suerte me tendrá v. s. para servirle con pronta voluntad como debo. No es pequeña novedad lo que nos ha traído la estafeta de la salida del padre confesor cuya apresurada resolución da a entender cuan aventurada estaba la materia como lo dicen algunos que escriben, lo que precedió para ella y tengo por sin duda que hubiera peligrado su persona en el viaje de Fuencarral a no haber llevado tan buen lado como el del cardenal de Aragón. Este negocio parece a terminado ya pues habiéndose quitado el mayor inconveniente se ajustará todo muy aprisa al mayor servicio del rey, siendo este el principal pretexto del Sr. don Juan. Los pliegos que estaban para Mallorca lograrán el pasaje de unos bergantines que juzgo partirán [1§] de esta playa de aquí al domingo a más tardar. Por acá no hay novedad de que dar cuenta a v. s., Dña. Laura y Giuseppe besan a v. s. las manos y yo con ambos la del Sr. don Nicolas. Dios guarde a v. s. muchos años como deseo. Valencia y marzo a 5 de 1669. v. s. me escribe todas las novedades que por ninguna parte las tengo más ciertas. Besa a v. s. su mano su mayor servidor Don Basilio de Castellvi y Ponce Sr. don Pedro Santacilia [2§] Transcripción literal"
+  ],
+  "literal": [
+    "1. Señor mio recivo su carta de V.S. del 26 del pasado, y me 2. dejan muy gustoso las notiçias que me trahe de su salud de3. V.S. que son para mi de sumo alboroço y muy iguales a mi4. deseo holgareme se continue largos añs com ms feliçida=5. des yo quedo al servicio de V.S. bueno y de qualquier6. suerte me [^me] tendra V.S. para servirle con pronta vo=7. luntad como devo=8. No es pequeña nobedad lo que nos a traydo la estafeta9. de la salida del Padre confesor cuya apresurada10. Resolucion da a entender cuan aventurada estava la 11. materia como lo diçen algunos que escriven lo que12. precedio para ella y tengo por sin duda que huviera13. peligrado su persona en el Viaje de fuencarral14. ano haver llevado tan buen lado como el del Sr.15. Cardenal de aragon este negoçio pareçe a termi=16. nado ya pues haviendose quitado el mayor incombe=17. niente se ajustara todo muy apriça al mayor ser=18. vicio del Rey siendo este el Principal pretexto19. del Sr. Don Juan=20. Los pliegos que estavan para Mallorca lograran21. el pasaje de unos bergantines que Juzgo partiran [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "257:2402a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo13/257:2402a.JPG",
+      "url": "/legajos/legajo-13/images/257:2402a.JPG"
+    },
+    {
+      "filename": "258:2402b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo13/258:2402b.JPG",
+      "url": "/legajos/legajo-13/images/258:2402b.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "257:2402a.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-13/cartas/001898.json",
+  "primary_image_url": "/legajos/legajo-13/images/257:2402a.JPG"
+}

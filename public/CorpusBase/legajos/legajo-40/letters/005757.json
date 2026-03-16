@@ -1,0 +1,47 @@
+{
+  "legajo_id": "40",
+  "id_carta": "5757",
+  "order_in_legajo": 96,
+  "signatura": "315:109a.JPG",
+  "nombre_carta": "Carta de Persona desconocida a Pedro Santacilia y Pax",
+  "fecha_original": "14 de julio de 1661",
+  "lugar": "Mallorca",
+  "remitente": "Persona desconocida",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Fulls 109a-109d. Compte del blat se vendrà a la [?] de mi Sr. don Pedro Santacilia començant, a 14 de juliol 1661 [1§] Transcripción literal"
+  ],
+  "literal": [
+    "1. Fulls [219a-109d]: Compta del blat se vendra a la gª DE MI Sr Don Pedro Santa Cilia comensant, a 14 de Juriol 1661"
+  ],
+  "imagenes": [
+    {
+      "filename": "315:109a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo40/315:109a.JPG",
+      "url": "/legajos/legajo-40/images/315:109a.JPG"
+    },
+    {
+      "filename": "316:109b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo40/316:109b.JPG",
+      "url": "/legajos/legajo-40/images/316:109b.JPG"
+    },
+    {
+      "filename": "317:109c.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo40/317:109c.JPG",
+      "url": "/legajos/legajo-40/images/317:109c.JPG"
+    },
+    {
+      "filename": "318:109d.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo40/318:109d.JPG",
+      "url": "/legajos/legajo-40/images/318:109d.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "315:109a.JPG",
+  "warnings": [],
+  "raw_source": "raw/legajos/legajo-40/cartas/005757.json",
+  "primary_image_url": "/legajos/legajo-40/images/315:109a.JPG"
+}

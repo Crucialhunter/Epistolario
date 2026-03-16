@@ -1,0 +1,48 @@
+{
+  "legajo_id": "9",
+  "id_carta": "1009",
+  "order_in_legajo": 46,
+  "signatura": "062-31a",
+  "nombre_carta": "Carta de Josep Vizcaíno a Arnau de Santacilia",
+  "fecha_original": "16 de octubre de 1674",
+  "lugar": "Madrid",
+  "remitente": "Josep Vizcaíno",
+  "destinatario": "Arnau de Santacilia",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Amigo y señor mío, Recibo la de v. m. de 9 del corriente con la de Robles, que puse luego en manos del señor conde, y después de leída me dijo boca a boca que antes de responder a ella había de hacer una diligencia que procuraría cuanto antes ponerla por ejecución y responder, por si lo hace este correo, pueden v. mds. reconocer la lista con que presumo que esta diligencia es la misma que ofreció hacer ya [ha] 15 días. De la señoría lo que he llegado a entender es que pasan v. mds. con la gente que tienen a Cataluña y que servirán allí esta campaña y en dándole fin volverán a reclutar nuevamente para Milán, mas no tengo esto por lo más seguro. Amigo, consejo hubo el sábado pasado y no es dudable que el memorial del alférez Manuel Francisco fue a él, mas no le tocó la suerte de verse porque no duró un instante y solo se despacharon cuatro memoriales sobre que había favores; ahora lo habrá todos los sábados y concluiremos con este negocio para el paso de la plaza del capitán Luís Moreno se requiere además de los papeles de [1§] servicios una fe de cómo murió el niño a quien le estaba concedida; y así si v. m., no se la ha pedido a dicho capitán: no deje de pedírsela porque es preciosa. Bien reconocerá v. m. que la queja que tengo de don Baltasar de Soto y Robles va fundada en razón y esté v. m. cierto que lo poco que he hecho tocante a Robles lo [he] hecho por mandármelo v. m. El despacho de don Pedro Larez sube esta noche a firmarse de su majestad; para el que viene lo remitiré a manos de v. m. El correo pasado no dije nada a v. m. tocante a Vallecilla [?] por no haberle podido ver, y ahora digo que no ha ofrecido dar parte de la deuda, aunque lo busqué prestado; y si cobra lo que se le está debiendo aquí en la corte de su sueldo, que pagará toda la cantidad de una vez, y así si a v. m. le parece puede escribirle en la conformidad que le tengo insinuado y a mí remitirme el recíbo. Y esté asegurado y sin recelo de que así en este negocio como en los demás suyos a rectas partes de v. m. y para que lo experimentara aquí desean hallarme al presente con estos mil reales de plata [2§] para resarcir los que a v. m. se le deben porque conozco tiene mucha razón y se está sin ellos con haber hecho un agasajo. Dios quiera salgamos de esto como yo deseo y guarde a v. m. como puede. Madrid, 16 de octubre 1674. Besa las manos de v. m. su amigo verdadero, Josep Vizcaya Señor capitán don Arnau de Santacilia Transcripción literal"
+  ],
+  "literal": [
+    "1. Amigo y sr mio Recibo la de Vm de 9 del corriente con 2. la de Robles, que pusse luego en manos del sr Conde y 3. despues de leyda me dijo boca aboca que antes de respon4. der aella havia de hazer una diligencia; que procuraria 5. quanto antes ponerla por execucion; y responder: por si 6. lo haze este correo, pueden Vmds. Reconocer la lista; con 7. que pressumo que esta díliígencia es la mísma que ofrecio 8. hazer ya15 dias Dela sria lo que he llegado a enten9. der es que passan Vmd. con la Jente que tíenen aCata10. luña y que sírbíran allí esta Campaña y en dandole 11. fín bolberan a reclutar nuebamte para Milan mas no 12. tengo esto por lo ma seguro= 13. Amigo; consejo hubo el savado passado; y no es dudable 14. que el meml del Alfz Manuel Frano fue ael, mas no 15. le toco la suerte de berse; porque no duró un ínstante 16. y solo se despacharon quatro memoriales sobre que 17. havía favores; aora lo habra todos los savados y con 18. cluyremos con este negocío; para el passo dela plaza 19. del Capn Luís Moreno se requíere ademas delos pap[ele]s de [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "062-31a.jpg",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo09/062-31a.jpg",
+      "url": "/legajos/legajo-09/images/062-31a.jpg"
+    },
+    {
+      "filename": "063-31b.jpg",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo09/063-31b.jpg",
+      "url": "/legajos/legajo-09/images/063-31b.jpg"
+    },
+    {
+      "filename": "064-31c.jpg",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo09/064-31c.jpg",
+      "url": "/legajos/legajo-09/images/064-31c.jpg"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "062-31a.jpg",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-09/cartas/001009.json",
+  "primary_image_url": "/legajos/legajo-09/images/062-31a.jpg"
+}

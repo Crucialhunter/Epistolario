@@ -1,0 +1,38 @@
+{
+  "legajo_id": "6",
+  "id_carta": "560",
+  "order_in_legajo": 62,
+  "signatura": "053-31",
+  "nombre_carta": "Carta de Maria Eularia Mulet Careras a Cecilia Zaforteza y Sureda de Sant Martí",
+  "fecha_original": "8 de septiembre de 1748",
+  "lugar": "Barcelona",
+  "remitente": "Maria Eularia Mulet Careras",
+  "destinatario": "Cecilia Zaforteza y Sureda de Sant Martí",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Muy señora y ama mía, Rendida a los pies de v. s. como humilde criada que siempre he sido y seré hasta la muerte, suplico a v. s. se quiera acordar de mí, pobre, que ya han pasado dos o tres correos que no he sabido ve[r]dad de v. s., y le suplico quiera hablar a mi señor d. Josep que me envíe lo restante de los 500 doblones, que bien lo sabe por el testamento de s. e. que Dios halló conforme a que me lo dice d. Domingo Verdaguer, habiéndole él ya escrito, pero no le volvió respuesta ninguna. Así, espero en la benignidad de v. s. me quiera favorecer a mi súplica, y quedo rogando a Dios guarde v. s. los años de mío deseo. Barcelona y septiembre 8 de 1748. De v. s. más humilde criada, . Maria Eularia Mulet, que su mano besa. Mi señora y ama, da. Cecilia Sureda y Forteza. Transcripción literal"
+  ],
+  "literal": [
+    "1. Muy Señora y Ama mia 2. Rendida a los pies de 3. V.S. como humilde criada 4. que siempre e sido y sare 5. asta la muerte suplico a 6. V.S. se quiera aquerdar 7. de mi povre, que ya an 8. pasado dos o tres coreos 9. que no è sabido vedad de 10. V.S. y le suplico quiera ablar 11. a mi Sr. D. Joseph, que 12. me envie lo restante de los 13. 500 doblones, que bien lo sabe 14. por el testamento de S. E. que 15. Dios aya conforme aqui 16. me lo dice D. Domingo 17. Verdaguer, haviendole el ja 18. escrito pero no le bolvio 19. respuesta niguna assi espero 20. en la beninidad de V.S. me quiera 21. favoreser a mi suplica, y quedo 22. rogando a Dios gde V.S. los A< ño>s de mio 23. deseo 24. Barcelona y bre 8 de 1748 25. de V.S. mas humilde 26. criada Maria Eularia Mulet 27. que S[u] M B 28. Mi Señora y Ama 29. Da. Sicila Sureda 30. y Forteza [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "053-31.jpg",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo06/053-31.jpg",
+      "url": "/legajos/legajo-06/images/053-31.jpg"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "053-31.jpg",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-06/cartas/000560.json",
+  "primary_image_url": "/legajos/legajo-06/images/053-31.jpg"
+}

@@ -1,0 +1,37 @@
+{
+  "legajo_id": "9",
+  "id_carta": "1094",
+  "order_in_legajo": 128,
+  "signatura": "231-116a",
+  "nombre_carta": "Carta de Pedro de Valda a Arnau de Santacilia",
+  "fecha_original": "24 de enero de 1678",
+  "lugar": "Catania",
+  "remitente": "Pedro de Valda",
+  "destinatario": "Arnau de Santacilia",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Luego que v. m. reciba esta marchará con cinco compañías de su tercio desde esta ciudad a la [?], a donde deberá asistir hasta otra orden enviando luego al castillo de Calatraviano una compañía entera y v. m. alférez con treinta hombres de otra, en lugar de la gente que halla asiste, la que en llegando a esa ciudad de pasaje a esta, hará encaminar luego con toda seguridad, y con la misma la que va a Calataviano dando la adjunta, orden a esos jurados que es a efecto ser [?] el alojamiento necesario y que se acostumbra y de su arribo, y demás que le [1§] ofreciere me dará cuenta y observará, todo lo que le ordenare el teniente general de la caballería, a cuyo cargo corre el gobierno desde aquella ciudad y frontera. Guarde Dios a v. m. muchos años Catania 24 de enero 1678 Pedro de Valdas sargento mayor Sr. D. Arnau Santacilia [2§] Transcripción literal"
+  ],
+  "literal": [
+    "1. luego q Vm reziva esta marchara 2. con çinco Conpd de Su Tercio desde estas 3. Çiudad ala dejacho, á donde devera assistir 4. asta otra orden enbiando luego al Castillo 5. de Calatraviano una Conpa entera y Vm 6. Alfrez con treynta deonbres de otra, 7. en lugar dela gente q alla Assiste, 8. la que en llegando a essa Ciudad 9. de passaxe á esta, hara éncaminar 10. luego con toda seguridad, y con la 11. mesma la q va aCalataviano dando 12. la adjunta, orden á essos Jurados 13. q es á efecto ser [?] el alojamiento 14. nezess[a]rio y q se acostunbra y de 15. su arrivo, y demas q le [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "231-116a.jpg",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo09/231-116a.jpg",
+      "url": "/legajos/legajo-09/images/231-116a.jpg"
+    },
+    {
+      "filename": "232-116b.jpg",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo09/232-116b.jpg",
+      "url": "/legajos/legajo-09/images/232-116b.jpg"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "231-116a.jpg",
+  "warnings": [],
+  "raw_source": "raw/legajos/legajo-09/cartas/001094.json",
+  "primary_image_url": "/legajos/legajo-09/images/231-116a.jpg"
+}

@@ -1,0 +1,38 @@
+{
+  "legajo_id": "15",
+  "id_carta": "2194",
+  "order_in_legajo": 93,
+  "signatura": "146:6419.JPG",
+  "nombre_carta": "Carta de Joan Avilés a Pedro Santacilia y Pax",
+  "fecha_original": "1 de junio de 1645",
+  "lugar": "Vinarós",
+  "remitente": "Joan Avilés",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Sr. don Pedro Jo quedo corregut de veure que donau-me cada dia ocasió a noves obligacions. No pugui {ESP. alcançar}-ne una per haver empo [?] d'elles, i així suplique se servesca procurar-les, quantes se puguen, en manar-me moltes coses de son gust, per a poder, en part, satisfer a tantes que dec. El senyor don Josep de Rocaberti se troba en esta caseta esperant passatge per anar a governar eixa {ESP. isla} amb què m'han {ESP. pedit el hospedar} en ma casa al senyor don Jaume Zanglada, que no m'ha penat poc. El que em consola es que amb l'anada del senyor don Josep m'assegure la venguda de v. s., a honrar esta sa casa i a donar-me els millors dies que jo puc desitjar, els que se servisca d'ocupar-la, la qual, i una persona, queden a disposició de v. s., a qui Déu guardi com desitjo i és menester. Vinarós i juny, a 1 de 1645. De v. s. meva, criat i major servidor, que ses mans besa,Mossèn Joan Avilés Transcripción literal"
+  ],
+  "literal": [
+    "1. [Margen izquierdo] [^ don Pedro]2. Jo quedo corregut deveure que dona[u]me cadadia 3. orasio a noves obligations no puga alcansar4. ne una per aber empo[?] (^ment) delles y axi so5. plique se servixca procurár les quantes se pu6. guen en manarme moltes coses de son gust 7. per apoder en part satisfer atantes que dech. 8. el Sor don Joseph de roca berti se troba en esta 9. casata esperant pasatge per anar agovernar 10. exa Isla ab que me ha enpedit lo hospedar 11. en macasa ab Sor don Jaume henglada que 12. no me hapenat poch lo quen consola es que 13. ab la anada del Sor don Joseph me asegure la 14. venguda de V Sa ahonrrar esta sa csa y adonar15. me los millors dies que Jo puch desigar los que 16. se servixca de ocuparla la qual y una parsona 17. queden adispositio de VSa aqui deu gde com 18. desijo y he menester Urisau[?] y Jun a 1 de 1645 19. de V Sa meva Criat y major servidor p. S. m. D. [?] 20. mo Joan Avyles [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "146:6419.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo15/146:6419.JPG",
+      "url": "/legajos/legajo-15/images/146:6419.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "146:6419.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-15/cartas/002194.json",
+  "primary_image_url": "/legajos/legajo-15/images/146:6419.JPG"
+}

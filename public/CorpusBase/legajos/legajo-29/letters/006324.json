@@ -1,0 +1,37 @@
+{
+  "legajo_id": "29",
+  "id_carta": "6324",
+  "order_in_legajo": 70,
+  "signatura": "035:4140a.JPG",
+  "nombre_carta": "Carta de Nicolau de Montanyans y Togores a Pedro Santacilia y Pax",
+  "fecha_original": "21 de abril de 1642",
+  "lugar": "Mallorca",
+  "remitente": "Nicolau de Montanyans y Togores",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Rebí les de v. m. i en continent se féu el que manava i LLETRA MOLT COMPLICADA [1§] [2§] Transcripción literal"
+  ],
+  "literal": [
+    "1. Rebi las de VM i encontinent se feu lo que mana2. va i LLETRA MOLT COMPLICADA [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "035:4140a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo29/035:4140a.JPG",
+      "url": "/legajos/legajo-29/images/035:4140a.JPG"
+    },
+    {
+      "filename": "036:4140b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo29/036:4140b.JPG",
+      "url": "/legajos/legajo-29/images/036:4140b.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "035:4140a.JPG",
+  "warnings": [],
+  "raw_source": "raw/legajos/legajo-29/cartas/006324.json",
+  "primary_image_url": "/legajos/legajo-29/images/035:4140a.JPG"
+}

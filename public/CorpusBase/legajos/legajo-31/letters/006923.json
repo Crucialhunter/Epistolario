@@ -1,0 +1,38 @@
+{
+  "legajo_id": "31",
+  "id_carta": "6923",
+  "order_in_legajo": 163,
+  "signatura": "235:1674.JPG",
+  "nombre_carta": "Carta de Rodrigo de Borja Llançol de Romaní y Olivera a Pedro Santacilia y Pax",
+  "fecha_original": "19 de agosto de 1663",
+  "lugar": "Ibiza",
+  "remitente": "Rodrigo de Borja Llançol de Romaní y Olivera",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "juntas recibo dos cartas de v. s. de 11 de agosto en ambas veo iguales nuevas de la salud de v. s. que deseo se continue por muchos años. Ciempre que Juan Mas de la villa de Sineu acudiere por licencia se les despacha por mandarlo v. s. y por haber cumplido el tiempo de su condenación. Procurare el breve y buen despacho de su majestad. Carlos Campamar por servir a v. s. mucha prisa me dan de Mad. pª. que pase a Mallorca y como hisidoro sanz tarde no sé que medio tomar pª. acudir hay y no faltar acá, v. s. en todas parte me tendrá siempre muy a su disposisión con deseo de que. Guarde Dios a v. m. as. iviza y 19 de agosto de 1663. Sr. don Rodrigo de Borja lancol Sr. don Pedro Santacilia y Pax [1§] Transcripción literal"
+  ],
+  "literal": [
+    "1. Juntas recibo dos cartas de V. S. de 11 de Agto. 2. en anbas veo iguales nuevas de la salud de 3. V. S. que deseo se continue por ms as. 4. Ciempre q Juº. Mas de la Villa de Sineu acu5. diere por lisencia se les despacha por man6. darlo V. S. i por aver cumplido el tiem7. po de su condenacion. 8. Procurare el breve i buen despacho de su 9. Magd. Carlos Campamar por servir a V. S. 10. mucha prisa me dan de Mad. pª. q. pase 11. a Mallorca i como hisidoro sanz tarda 12. no se que medio tomar pª. acudir ay 13. i no faltar aca, V. S. en todas parte me 14. tendra siempre muy a su disposision con 15. deseo deq gde. Dios a V. S. ms. as. iviça y 16. 19 de Agto. de 1663. 17. Don Rodrigo 18. de Borja lançol 19. Sr Don Pº. Santacilia y Pax [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "235:1674.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo31/235:1674.JPG",
+      "url": "/legajos/legajo-31/images/235:1674.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "235:1674.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (2)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-31/cartas/006923.json",
+  "primary_image_url": "/legajos/legajo-31/images/235:1674.JPG"
+}

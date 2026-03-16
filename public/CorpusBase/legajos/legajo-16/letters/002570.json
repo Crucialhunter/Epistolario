@@ -1,0 +1,38 @@
+{
+  "legajo_id": "16",
+  "id_carta": "2570",
+  "order_in_legajo": 56,
+  "signatura": "092:2070.JPG",
+  "nombre_carta": "Carta de Miguel de Salvá y de Vallgornera a Pedro Santacilia y Pax",
+  "fecha_original": "20 de abril de 1667",
+  "lugar": "Madrid",
+  "remitente": "Miguel de Salvá y de Vallgornera",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Recibo su carta de v. m. de 14 de febrero y quedo bien de la merced que me hace y las que le merece mi buena voluntad que me esperaba v. m. con todo gusto y para mi le será muy particular el llegar a esa isla pues de más cerca poder dar muestras de mis buenos deseos y lo que estimo a v. m. Voy a disponer de mi viaje con toda brevedad y el no haberlo ejecutado antes ha sido la causa el rigor del tiempo y habiendo mejorado no habrá dilacion. Siempre que se de memorial al consejo en nombre de sus dos hijos de v. m. atenderé como debo a sus particulares servicios de v. m., para que su majestad les haga merced y de mi parte lo procuraré con todo afecto como en lo demás que a v. m. se le ofreciere. Guarde Dios a v. m. muchos años. Madrid Abril 20 de 1667. Muy seguro servidor de v. m. que sus manos besa,Don Miguel de Salva y de Vallgornera Señor don Pedro Santacilia Transcripción literal"
+  ],
+  "literal": [
+    "1. Recivo su carta de Vm. de 14 de febrero Y 2. quedo bien de la mrd que me hace y las 3. que le merese Mi buena Voluntad que me 4. esperava Vm. contodo gusto y para mi le sera 5. muy particular el llegar â essa Isla pues de 6. mas cerca poder dar muestras de mis buenos 7. desseos y lo que estimo a Vm Voy disponíer de 8. mi Viaje con toda brevedad y el no haverlo 9. executado antes assido la Caussa elrígor del 10. tíempo y haviendo mejorado no habra dílacíon. 11. Siempre que sede memorial al Conssejo en 12. nombre de susdos hijos de Vm. atendere como 13. (/como) devo asus particulares servicios de Vm, 14. para que su Magd les haga emd y de miparte 15. lo procurare contodo afecto como en lo demas 16. que a Vm. sele ofreciere ge Dios a Vm. ms 17. a< ño>s Md Abril 20 de 1667 18. Muy Seg[u]ro Sor deVm 19. que sus mb 20. Don Miguel de Çalba 21. yde Vallguinera[?] 22. [Margen izquierdo][^ Sr D Pedro Sta Cílía] [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "092:2070.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo16/092:2070.JPG",
+      "url": "/legajos/legajo-16/images/092:2070.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "092:2070.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (2)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-16/cartas/002570.json",
+  "primary_image_url": "/legajos/legajo-16/images/092:2070.JPG"
+}

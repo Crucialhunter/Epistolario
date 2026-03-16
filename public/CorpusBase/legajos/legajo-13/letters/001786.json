@@ -1,0 +1,38 @@
+{
+  "legajo_id": "13",
+  "id_carta": "1786",
+  "order_in_legajo": 49,
+  "signatura": "090:2290.JPG",
+  "nombre_carta": "Carta de Leonor de Berga i Santacilia a Nicolás de Santacilia y Togores",
+  "fecha_original": "14 de agosto de 1668",
+  "lugar": "Mallorca",
+  "remitente": "Leonor de Berga i Santacilia",
+  "destinatario": "Nicolás de Santacilia y Togores",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Hermano, En nueva obligación me has puesto con las cartas de 22 julio, y el regalo y presente que me ha hecho el capitán don Arnau que no sé como haber yo de satisfacer tanta memoria que tienes de mí y sobrina. Y allí digo no me podías dar mayor gusto y contento de lo que me has dado, no excusando siempre que se te ofrezca alguna cosa mandar avisarme que sin falta lo haré con el gusto que de pensar y que no deseo hoy en día sino ocasión que se te ofrezca alguna cosa para dar a entender el deseo que tengo [de] servirte cuanto no fuese por la obligación que tengo. Lo que te encargo es que procures estar bueno y no hacer excesos, que muchas malas lenguas no tengan qué decir y a mi padre que no le defraude de su negocio que es aguardando cuanto antes la nueva que más le puede decir. Tu sobrino Gabriel dice que el día que menos te lo pensares te lo verás entrar por la corte y todos los demás te dan muchos recados y te encomiendan a Dios que te guarde como puede y yo deseo. Mallorca, 14 agosto 1668. Doña Leonor,tu hermana El gusto has tenido en escoger los pelendengues ha sido extremado y para mí mucho estimado, y de los demás bien visto. Mi hermano [1§] Transcripción literal"
+  ],
+  "literal": [
+    "1. Hermano en nueba obligacion me has puesto2. con las cartas de 22 Julio, y el regalo y presente3. que me hae(^ch)xo el Cappn don Arnau que nose4. como haber io de satisfazer tanta memoria5. que tienes de mi y sobrina, y alli digo no 6. me podias dar maior gusto, y contensto delo7. que me has dado, no escussando siempre que se8. te ofresca alguna cosa, mandar auisarme 9. que sin falta lo hare con el gusto que de10. pensar y que no deseo hoyendie (^otro) sino11. occasion que se te offresca alguna cosa per12. dar a entender el deseo que tengo seruirte13. quato no fuesse por la obligacion que tengo,14. Lo que te encargo es que procures estar bueno, y no hazer15. excesos, que muchas malas lenguas no tenga q dezir16. y a mi padre qe no le defrayde de su negosio17. que es aguardado quato antes la nueba que mas18. le puede dezir, tu sobrino Gabriel dize que 19. el dia que menos telo pensares telo veras entrar20. por la Corte, y todos los de mas tedan muchos21. recados, y te encomienda a dios que te gde como22. puede y io desseo Mallca 14 Agosto 166823. Dona Eleonor24. Tu hermana25. el gusto has tenido en escojer las pelendengues ha sido estremado26. y para mi mucho estimado, y delos demas bien visto27. mi hermano [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "090:2290.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo13/090:2290.JPG",
+      "url": "/legajos/legajo-13/images/090:2290.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "090:2290.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-13/cartas/001786.json",
+  "primary_image_url": "/legajos/legajo-13/images/090:2290.JPG"
+}

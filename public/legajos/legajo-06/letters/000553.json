@@ -1,0 +1,68 @@
+{
+  "legajo_id": "6",
+  "id_carta": "553",
+  "order_in_legajo": 52,
+  "signatura": "038_23aa",
+  "nombre_carta": "Carta de Thomàs Zaforteza a Cecilia Zaforteza y Sureda de Sant Martí",
+  "fecha_original": "24 de mayo de 1746",
+  "lugar": "Vinagrella",
+  "remitente": "Thomàs Zaforteza",
+  "destinatario": "Cecilia Zaforteza y Sureda de Sant Martí",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Cecília, Per la bona ocasió d’un home, qui ha de passar per Petra i va a Manacor t’escric, perquè no sé si hauràs rebuda una per via de Ciutat com na Beleta, de dijous a aquesta part, es troba amb {ESP. calentura}, ocasions més, ocasions {ESP. menos}, suant i no suant. El dissabte a la tarda se li reparà que tenia el nas i peus freds. Pensàvem si seria terciana. [1§] La nit del diumenge al dilluns la passà molt mal. Ahir a les 6 de la tarda li mudaren la camisa que suà molt; esta nit l’ha passat milloret. La {ESP. calentura} no és tanta, però encara continua. A aquest matí, a les vuit i mitja, l’han {ESP. sangrada}, i hem {ESP. lograt} el que jo no esperava, que és una bona {ESP. sangrieta} de cosa de tres a quatre unces. Aguardam avui a migdia el metge de Ciutat, que ahir enviàrem la calesa. De part de tots rebràs moltes memòries i les donaràs a l’oncle Francesc, esper ens fareu una visita. Supòs no hauràs [En la parte izquierda de la página, de arriba a abajo] rebuda una de mon pare, per via de Ciutat. Déu te guardi molts anys. Vinagrella als 24 de maig 1746. Ton germà, Tomàs [2§] Nosaltres tots et donam l’enhorabona i així mateix a l’oncle Francesc, i et remet esta carta. [3§] A Dna. Cecilia Zaforteza i Sureda, guardi Déu molts anys. Sant Martí [4§] Cecília, Esper esta et trobarà amb perfecta salut. A aquest matí t’he escrit una carta donant-te relació de la malaltia de na Beleta, la qual ens ha tingut amb bastant {ESP. cuidado}, i encara no estam assossegats, doncs encara que la {ESP. calentura} és molt menor no li'n falta. La nit del diumenge al dilluns la [5§] passà molt mal. Està molt treballada de la calentura, ajudes i suors, esperem sortir-ne bé amb el favor de Déu. Est matí l’han {ESP. sangrada} a les vuit i mitja, la {ESP. sangria} no és estada mala. Esta tarda ha suat molt bé i està encara entresuada, confiam en Sant Vicens Ferrer de la Barca, a on dona Caterina fa una novena, a peu, li donarà vida, si convé. De part de tots rebràs moltes memòries i Déu te guardi molts anys. [6§] Vinagrella, als 24 de maig 1746. A l’oncle Francesc moltes memòries i així mateix de part de tots. Ton germà qui més te vol, Tomàs Zaforteza i Berga Transcripción literal"
+  ],
+  "literal": [
+    "1. Cicilia. per la bona ocasió de 2. un homo, qui ha de passar per 3. Petra, y va á Manacor; te 4. escrich; perque no se si haurás 5. rebuda una per via de Ciutat, 6. com ne Beleta de dijous á esta 7. part es troba a< m>b calentura, 8. ocasions mes, ocasions, menos su- 9. ant, y no suant; el disapta 10. á la tarde se ly repará que 11. tenia el nas, y peus frets; 12. pensavem si seria tereziana [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "038_23ab.jpg",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo06/038_23ab.jpg",
+      "url": "/legajos/legajo-06/images/038_23ab.jpg"
+    },
+    {
+      "filename": "039_23ba.jpg",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo06/039_23ba.jpg",
+      "url": "/legajos/legajo-06/images/039_23ba.jpg"
+    },
+    {
+      "filename": "039_23bb.jpg",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo06/039_23bb.jpg",
+      "url": "/legajos/legajo-06/images/039_23bb.jpg"
+    },
+    {
+      "filename": "038_23aa.jpg",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo06/038_23aa.jpg",
+      "url": "/legajos/legajo-06/images/038_23aa.jpg"
+    },
+    {
+      "filename": "040_23bisa.jpg",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo06/040_23bisa.jpg",
+      "url": "/legajos/legajo-06/images/040_23bisa.jpg"
+    },
+    {
+      "filename": "041_23bisba.jpg",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo06/041_23bisba.jpg",
+      "url": "/legajos/legajo-06/images/041_23bisba.jpg"
+    },
+    {
+      "filename": "041_23bisbb.jpg",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo06/041_23bisbb.jpg",
+      "url": "/legajos/legajo-06/images/041_23bisbb.jpg"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "038_23ab.jpg",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (2)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-06/cartas/000553.json",
+  "primary_image_url": "/legajos/legajo-06/images/038_23ab.jpg"
+}

@@ -1,0 +1,38 @@
+{
+  "legajo_id": "14",
+  "id_carta": "1987",
+  "order_in_legajo": 89,
+  "signatura": "159:2501",
+  "nombre_carta": "Carta de Pedro Pax Olim Español a Persona desconocida",
+  "fecha_original": "22 de abril de 1649",
+  "lugar": "Artà",
+  "remitente": "Pedro Pax Olim Español",
+  "destinatario": "Persona desconocida",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Senyor oncle servei ces v. m. enviar la llitera per dissabte a la nit o diumenge de matí al més llarg. Don Alberti està millor i tots els altres pel que v. m. manarà guardi'l Déu molts anys, fet a Artà 22 d'abril 1649. Don Pedro Pax Olim Espanyol Transcripción literal"
+  ],
+  "literal": [
+    "1. Senyor onclo servesces vm envi2. ar la llitera per disapta a la nit o diu3. menge de mati lo mes larc don albarti 4. esta millor y tots los dames per lo que v5. m. menera gua[rde]-lo deu molts añys fet a6. arta 22 de lbril 16497. Don Pedro Pax8. olim Spañol [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "159:2501.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo14/159:2501.JPG",
+      "url": "/legajos/legajo-14/images/159:2501.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "159:2501.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-14/cartas/001987.json",
+  "primary_image_url": "/legajos/legajo-14/images/159:2501.JPG"
+}

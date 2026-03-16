@@ -1,0 +1,38 @@
+{
+  "legajo_id": "30",
+  "id_carta": "6754",
+  "order_in_legajo": 231,
+  "signatura": "347:5592.JPG",
+  "nombre_carta": "Carta de Leonor Santacilia i Despuig a Pedro Santacilia y Pax",
+  "fecha_original": "6 de junio de 1664",
+  "lugar": "Mallorca",
+  "remitente": "Leonor Santacilia i Despuig",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Â [1§] Transcripción literal"
+  ],
+  "literal": [
+    "1."
+  ],
+  "imagenes": [
+    {
+      "filename": "347:5592.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo30/347:5592.JPG",
+      "url": "/legajos/legajo-30/images/347:5592.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "347:5592.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (3)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-30/cartas/006754.json",
+  "primary_image_url": "/legajos/legajo-30/images/347:5592.JPG"
+}

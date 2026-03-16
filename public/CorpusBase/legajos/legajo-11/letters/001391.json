@@ -1,0 +1,38 @@
+{
+  "legajo_id": "11",
+  "id_carta": "1391",
+  "order_in_legajo": 162,
+  "signatura": "268:5251.JPG",
+  "nombre_carta": "Carta de Thomás de Anglesola a Pedro Santacilia y Pax",
+  "fecha_original": "6 de mayo de 1644",
+  "lugar": "Valencia",
+  "remitente": "Thomás de Anglesola",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Al Sr. don Pedro de Santacilia, No podré dejar de cansar a v. s. en está ocasión que aunque no lo tengo servido pero deseosos de que v. s. a mi y a mi hermano, don Jeronimo Anglada ya nos mande v. s. muchas cosas de su gusto. Por estar mi hermano fuera del lugar, es la causa no escribe a v. s. y yo me he atrevido a suplicar como a tan gran servidor de v. s. y es que el patrón Llorenç de Nans había dejado dos piezas de tela al patró Juan de Nans, su hermano, y cuando se las pidió no se las quiso dar y estas piezas son de un hombre que se llama Antonio Fenollar, que es persona que donó muchas obligaciones y así lo suplico a v. s. que este es hermano de la fragata que irá 2 estimaré en el alma. V. s. mande luego lo de las piezas y mande v. s. muchas cosas de su servicio y guarde al Cielo a v. s. los años de mi deseo, de Valencia a 6 de mayo año 1644. Sr. don Thomas Anglesola Transcripción literal"
+  ],
+  "literal": [
+    "1. [^Al sr. don Pedro de Santa Sesilia^]2. No podre dejar de cansar a VSª en es 3. ta ocasion que aunque no lo tengo ser 4. vido pero deseosos de que VSª a mi 5. y a mi ermano, don Jeronimo Anglado 6. ja nos mande VSª muchas cosas de 7. su gusto. Por estar mi ermano 8. fuera del lugar, es la causa no escri 9. ve a VSª y io me atrevido a suplicar 10. como a tan gran servidor de VSª 11. y es que el Patron Llorenç de Nans lia 12. via64 dejado dos piezas de tela al 13. Patro Juan denans su ermano y 14. quando se las pidio no se las quiso 15. dar y estas piezas son de un ombre 16. que se llama Antonio Fernollar que 17. es persona que dono muchas obli 18. gaciones y asi lo sup[li]co a VSª que es 19. te es ermano de la fragata que yra 20. 2 estimare ne latma VSª mande 21. lugo lo de las piezas. 22. Y mande VSª muchas cosas de 23. su servisio y guarde al sielo a VSª 24. los anos de mi deseo de Valencia a 6 de mayo 25. añ 1644 26. Don Thomas Anglesola [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "268:5251.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo11/268:5251.JPG",
+      "url": "/legajos/legajo-11/images/268:5251.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "268:5251.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-11/cartas/001391.json",
+  "primary_image_url": "/legajos/legajo-11/images/268:5251.JPG"
+}

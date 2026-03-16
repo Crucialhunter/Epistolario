@@ -1,0 +1,38 @@
+{
+  "legajo_id": "13",
+  "id_carta": "1893",
+  "order_in_legajo": 129,
+  "signatura": "249:2397.JPG",
+  "nombre_carta": "Carta de Llorenç Carreras a Pedro Santacilia y Pax",
+  "fecha_original": "3 de enero de 1669",
+  "lugar": "Mallorca",
+  "remitente": "Llorenç Carreras",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "La mort del Sr. don Joan Miquel me té en part del {ESP. desconsuelo} i aflicció en què fa dies ha v. s. per tanta pèrdua de fill, de tantes parts i esperances en tant anticipada edat a Nostre Senyor servit donarà a v. s. el {ESP. consuelo} que convé i la conformitat a sa divina voluntat i inescrutables judicis que és el [que] convé i serà si en tal {ESP. trance} i al difunt la seva Santa glòria com en suos sacrificis i oracions li suplicare de continuo. v. s. sap quant afectat servidor li han estat sempre i en la mateixa voluntat estaré mentre Déu me donara vida. Per tant suplico a vostra il·lustríssima {ESP. emplee} en son servei manant-me moltes coses d'ell i son gust que {ESP. resto} prompte. Déu a v. s. guardi com li suplico, de Mallorca a 3 gener 1669. Son més afectat servidor de v. s. aquí ses mans besa El Sr. Llorenç Carreras, ardiaca Sr. don Pedro de Santacilia i Pax [1§] Transcripción literal"
+  ],
+  "literal": [
+    "1. Le mort del Sr. Don Juan Michel me2. te en part del desconsuelo y affectio en que fa3. dies a V.Sa. per tante perdue de fill de tantes parts4. y esperanses en tant antisipade edat ha nostro Se5. ñor servit Donar a V.Sa. el Consuelo que conve6. y le conformitat a se divina voluntat y inescrutables7. judicis que es lo conve y sera si en tal transe8. y al Difunt la sua Sancta gloria com en suos sa9. crificis y orations li suplicare de continuo.10. VS sap quant afectat servidor li han estat sempre11. y en la matexa voluntat estare mentres Deu me12. donera vida per tant suplico a Vsa. Itra. emplee en son13. servei manantme moltes coses de ell y son gust que14. resto prompte Deu a VS guarde com li suplico de15. Mallorca a 3 Janer 1669. 16. Son mes affectat servidor de VSa17. qui ses mans besa18. El Sr. llorens Carreras Ardiaca19. Sr. Don Pedro de Sanctacilia y Pax [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "249:2397.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo13/249:2397.JPG",
+      "url": "/legajos/legajo-13/images/249:2397.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "249:2397.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-13/cartas/001893.json",
+  "primary_image_url": "/legajos/legajo-13/images/249:2397.JPG"
+}

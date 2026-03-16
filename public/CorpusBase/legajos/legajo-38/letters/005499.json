@@ -1,0 +1,38 @@
+{
+  "legajo_id": "38",
+  "id_carta": "5499",
+  "order_in_legajo": 120,
+  "signatura": "042:23",
+  "nombre_carta": "Carta de Escrivà Miralles a Persona desconocida",
+  "fecha_original": "1 de enero de 1667",
+  "lugar": "Porreres",
+  "remitente": "Escrivà Miralles",
+  "destinatario": "Persona desconocida",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Delme de bestiars de la vila de Porreras de l'any 1667 lliurat a Miquel Bauça fill de Cosme de Son Paricas de St. Juan per 243 ll. fiancas Matgi Bauça mª. de Son Paricas i Matgi Bauça fill de Cosme mª també de Son Paricas tots de St. Juan Miralles sba. Sr. D. Juan Bautista Zaforteza mensari Sr. don Diego Clapes mensari Antoni Piza menor Ador. del Bisbat Pere Onofre Mayol pdor. de la mensa capitular [1§] Transcripción literal"
+  ],
+  "literal": [
+    "1. Delme de bestiars de la vila de Porreras2. del añy 1667 lliurat a Miquel Bauça fill 3. de Cosme de Son Paricas de St. Juan per4. 243 ll.5. ff[ianc]as6. Matgi Bauça mª. de Son Paricas y7. Matgi Bauça fill de Cosme mª tambe de8. Son Paricas tots de St. Juan9. Miralles sba.10. D. Juan Bapt[ist]a Saforteza mens[ari]11. Don Diego Clapes mens[ari]12. Antoni Piza me[nor] Ador. del13. Bisbat14. Pere Honofre Mayol 15. pdor. de la mensa16. Capitular [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "042:23.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo38/042:23.JPG",
+      "url": "/legajos/legajo-38/images/042:23.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "042:23.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (2)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-38/cartas/005499.json",
+  "primary_image_url": "/legajos/legajo-38/images/042:23.JPG"
+}

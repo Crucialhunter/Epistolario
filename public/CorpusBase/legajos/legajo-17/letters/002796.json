@@ -1,0 +1,43 @@
+{
+  "legajo_id": "17",
+  "id_carta": "2796",
+  "order_in_legajo": 62,
+  "signatura": "097:1338a.JPG",
+  "nombre_carta": "Carta de Pedro Aulí a Pedro Santacilia y Pax",
+  "fecha_original": "11 de septiembre de 1658",
+  "lugar": "Barcelona",
+  "remitente": "Pedro Aulí",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Señor la persona que dará a v. s. estas cartas es de toda mi obligación y así suplico a v. s. me haga merced de honrar le en todo lo que pudiere v. s. que será el hacerme a mi cualquiera merced que v. s. le hiciere; es un cabo que se lla ma Sr. D. Pedro Tibao ha tenido aquí un disgusto y por el esfuerza ausentarse a esa ciudad y así v. s. me hará merced de ampararle y ayudarle en todo lo que hubiere menester que prometo a v. s. que lo estimaré como si fuera para mi propio es persona de toda obligación, no tengo de que avisar a v. s. en cuanto a nuestra guerra más de que se halla nra, Harmada en el avisbal la artillería se embarca para llevar allá juzgo que será para alguna satisfacción [1§] Dios guarde a v. s. muchos años como deseo Barzna. 11 de septiembre de 1658 Servor y criado de v. s. que sus manos besa Pedro Aulí Sr. D. Pedro de Santacilia [2§] Transcripción literal"
+  ],
+  "literal": [
+    "1. Señor la Persona q dara a V.S. estas 2. cartas es de toda mi obligacion y assi su3. plico a V.S. me haga mrd de honrrar4. le en todo lo que pudiere V.S. que sera 5. el hacerme a mi qualquiera mrd que 6. V.S. le hiciere; es un cavo que se lla7. ma D Pedro Tibao a tenido aquí un 8. disgusto y por el esfuerça ausentarse 9. a essa Ciudad y assi V.S. me hara mrd 10. de ampararle y ayudarle en todo lo q 11. hubiere menester que prometo a VS que 12. lo estimare como si fuera para mi pro13. pio es persona de toda obligación, no 14. tengo de que avisar a VS en quanto a 15. nra guerra mas de que se halla nra, 16. Harmada en el avisbal la Artilleria 17. se enbarca para llebar alla juzgo 18. q sera para alguna satisfacion [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "097:1338a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo17/097:1338a.JPG",
+      "url": "/legajos/legajo-17/images/097:1338a.JPG"
+    },
+    {
+      "filename": "098:1338b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo17/098:1338b.JPG",
+      "url": "/legajos/legajo-17/images/098:1338b.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "097:1338a.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-17/cartas/002796.json",
+  "primary_image_url": "/legajos/legajo-17/images/097:1338a.JPG"
+}

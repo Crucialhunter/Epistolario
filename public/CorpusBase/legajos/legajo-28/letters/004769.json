@@ -1,0 +1,38 @@
+{
+  "legajo_id": "28",
+  "id_carta": "4769",
+  "order_in_legajo": 78,
+  "signatura": "119:3703.JPG",
+  "nombre_carta": "Carta de Jerónimo del Castillo a Pedro Santacilia y Pax",
+  "fecha_original": "16 de mayo de 1639",
+  "lugar": "Zaragoza",
+  "remitente": "Jerónimo del Castillo",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Por mano de Cornelio Tríes me dicen se ha acomodado con v. m. el portador de esta, llamado Domingo Sancho, el cual es deudo de personas de mi obligación y que merecen toda cortesía porque puede prometerse a hallar en v. m. el favor que yo le suplico, que él va muy encargado de procurar merecerlo acudiendo al servicio de v. m. con toda puntualidad, como lo haré yo en cuanto me tocare y fuere servido mandarme. No tenemos cosa de nuevo, si bien escribe el Sr. Marqués de los Vélez que salía a dar vuelta a la provincia con esperanzas de poderse volver muy presto a Pamplona. Suceda todo como más convenga al servicio de Nro. Sr y de su majestad. La divina guarde a v. m. los años que deseo. Zaragoza, mayo 16 de 1639. Jeronimo del Castillo. Transcripción literal"
+  ],
+  "literal": [
+    "1. Por mano de Cornelio tries me dicen se a acomodado con2. vm el portador desta llamado Domingo Sancho el qual3. es deudo de personas de mi obligaçion y que merecen toda cor4. tesia Porque puede prometerse a allar en vm el favor5. que yo le suppco que el ba muy encargado de procurar me6. recerlo acudiendo al servº de vm con toda puntualidad7. cmo lo hare yo enquanto me tocare y fuere servido8. mandarme =9. No tenemos cosa de Nuebo si bien escrive el sr Marqus de10. los Velez que salia a dar Buelta a la Provincia con11. esperanças de poderse Bolver muy presto a pampla Suceda12. todo como mas conbenga al servº de nro sr y de su magd13. La divina gde a vm los años que desseo, Çaragª Mayo14. 16 de 163915. Geronimo del castillo [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "119:3703.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo28/119:3703.JPG",
+      "url": "/legajos/legajo-28/images/119:3703.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "119:3703.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-28/cartas/004769.json",
+  "primary_image_url": "/legajos/legajo-28/images/119:3703.JPG"
+}

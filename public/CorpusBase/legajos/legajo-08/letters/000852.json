@@ -1,0 +1,38 @@
+{
+  "legajo_id": "8",
+  "id_carta": "852",
+  "order_in_legajo": 136,
+  "signatura": "056-45 copia",
+  "nombre_carta": "Carta de Gabriel Seguí a Persona desconocida",
+  "fecha_original": "19 de marzo de 1645",
+  "lugar": "Maó",
+  "remitente": "Gabriel Seguí",
+  "destinatario": "Persona desconocida",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "A dues hores de nit entraren a este port quatre galeres i per haver entès que {CAST. antes} d'arribar a l'aire havien de ser [em]barcades molta gent no m'he detingut fins ara a escriure per saber certenitat del que venien , i així diu van en cadena que aporten al senyor vivo rei d'allà amb sa muller, que és la persona de més menció, que aporten moltíssims passatgers van en ella han desembarcats de dites galeres: Bartomeu Vilar i Clatzar i Pere Ferrer, que deu venir de Mallorca desterrats a aquesta illa i han d'anar a eixa vila les persones que desembarcaren de les galeres {CAST. antes} d'arribar a l'aire foren el sr. virrei i sa muller. Els [he] estat aguardant per haver entès venien i han virat en el castell. Li venen per aquí assistiré a tot el que convingui; no conten cosa de nou que convingui avisar a v.s., {ESP. cuya} molt ilustre persona Déu Nostre Senyor guardi. De Meó i març, a 19 de 1645. Gabriel Segur Senyor governador Transcripción literal"
+  ],
+  "literal": [
+    "1. A dos hora de nit entraran a st port qua- 2. tragaleras y p haverentes q antes de aribar 3. al ayre havian deser bareada moltagent 4. me sodetingut fins hara a escriura p 5. sebar çertenitat delo q venian, Yaxi diu 6. Van en cadena q aportan al Señor 7. vivo Rey dealli absamuller que es la 8. persona des mes mensio que aportan de 9. moltisims pasatjers van enella, hande- 10. senbarcats de ditas galeras, Bart Vilar 11. Y Clatzar [^y Pere farrer] quedeu venir deMallorca des- 12. tarrats aesta Jlla yan de anar a quien 13. exavila= las persoñas qui desenbarcara 14. de las galeras antes de arribar al Ayre 15. foran los< > Virrey Y samuller, els estat 16. aguardant p haver entes vanian yanbirat 17. anal Castell, livenan p assi asistire 18. atot loq convinga, no conten cosa de nou 19. deq convinga avisar aVSª. cuiamolt 20. Jll< > persona deu nr Señor g< > de 21. Maho y mars a 19 de 1645 22. Gabriel Segur 23. Señor G< > [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "056-45 copia.jpg",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo08/056-45 copia.jpg",
+      "url": "/legajos/legajo-08/images/056-45 copia.jpg"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "056-45 copia.jpg",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-08/cartas/000852.json",
+  "primary_image_url": "/legajos/legajo-08/images/056-45 copia.jpg"
+}

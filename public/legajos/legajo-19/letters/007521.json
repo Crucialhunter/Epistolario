@@ -1,0 +1,32 @@
+{
+  "legajo_id": "19",
+  "id_carta": "7521",
+  "order_in_legajo": 71,
+  "signatura": "003_cg3",
+  "nombre_carta": "Carta de Persona desconocida a Persona desconocida",
+  "fecha_original": "fecha sin especificar",
+  "lugar": "Campos",
+  "remitente": "Persona desconocida",
+  "destinatario": "Persona desconocida",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "R. general del {ESP. tercio} de la vila de campos feta pel noble Sr. D. Juan Gual i Zanglada Mestre de Camp de dit tercioorde del Illustríssim Senyor D. Rodrigo de Borgia [?] virrei i capità general en aquest Reina de Mallorca [Graella de dispositius i provisions bèl·lics] Transcripción literal"
+  ],
+  "literal": [
+    "1. R. General del terzio de la vila de Campos feta per lo noble D Juan Gual y Çanglada Mestre de Camp de dit terçio2. orde del Illustrissim Señor D. Rodrigo de Borgia [?] Virey y Capita General en est Reyna de Mallorca3. [Graella de dispositius i provisions bèl·lics] [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "003_cg3.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo19/003_cg3.JPG",
+      "url": "/legajos/legajo-19/images/003_cg3.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "003_cg3.JPG",
+  "warnings": [],
+  "raw_source": "raw/legajos/legajo-19/cartas/007521.json",
+  "primary_image_url": "/legajos/legajo-19/images/003_cg3.JPG"
+}

@@ -1,0 +1,38 @@
+{
+  "legajo_id": "30",
+  "id_carta": "6736",
+  "order_in_legajo": 228,
+  "signatura": "324:5574",
+  "nombre_carta": "Carta de Rodrigo de Borja Llançol de Romaní y Olivera a Persona desconocida",
+  "fecha_original": "23 de marzo de 1663",
+  "lugar": "Mallorca",
+  "remitente": "Rodrigo de Borja Llançol de Romaní y Olivera",
+  "destinatario": "Persona desconocida",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Â [1§] Transcripción literal"
+  ],
+  "literal": [
+    "1."
+  ],
+  "imagenes": [
+    {
+      "filename": "324:5574.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo30/324:5574.JPG",
+      "url": "/legajos/legajo-30/images/324:5574.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "324:5574.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (5)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-30/cartas/006736.json",
+  "primary_image_url": "/legajos/legajo-30/images/324:5574.JPG"
+}

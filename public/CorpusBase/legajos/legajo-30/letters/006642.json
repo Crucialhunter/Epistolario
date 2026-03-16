@@ -1,0 +1,43 @@
+{
+  "legajo_id": "30",
+  "id_carta": "6642",
+  "order_in_legajo": 111,
+  "signatura": "171:5480a",
+  "nombre_carta": "Carta de Miquel Campamar a Persona desconocida",
+  "fecha_original": "9 de diciembre de 1619",
+  "lugar": "Mallorca",
+  "remitente": "Miquel Campamar",
+  "destinatario": "Persona desconocida",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Â [1§] Â [2§] Transcripción literal"
+  ],
+  "literal": [
+    "1. 1."
+  ],
+  "imagenes": [
+    {
+      "filename": "171:5480a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo30/171:5480a.JPG",
+      "url": "/legajos/legajo-30/images/171:5480a.JPG"
+    },
+    {
+      "filename": "172:5480b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo30/172:5480b.JPG",
+      "url": "/legajos/legajo-30/images/172:5480b.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "171:5480a.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (6)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-30/cartas/006642.json",
+  "primary_image_url": "/legajos/legajo-30/images/171:5480a.JPG"
+}

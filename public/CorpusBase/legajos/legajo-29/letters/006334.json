@@ -1,0 +1,37 @@
+{
+  "legajo_id": "29",
+  "id_carta": "6334",
+  "order_in_legajo": 31,
+  "signatura": "054:4151a.JPG",
+  "nombre_carta": "Carta de Pedro Santacilia y Pax a Francisco Zaforteza",
+  "fecha_original": "21 de junio de 1640",
+  "lugar": "Zaragoza",
+  "remitente": "Pedro Santacilia y Pax",
+  "destinatario": "Francisco Zaforteza",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "[1§] [2§] Transcripción literal"
+  ],
+  "literal": [
+    "1. 1."
+  ],
+  "imagenes": [
+    {
+      "filename": "054:4151a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo29/054:4151a.JPG",
+      "url": "/legajos/legajo-29/images/054:4151a.JPG"
+    },
+    {
+      "filename": "055:4151b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo29/055:4151b.JPG",
+      "url": "/legajos/legajo-29/images/055:4151b.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "054:4151a.JPG",
+  "warnings": [],
+  "raw_source": "raw/legajos/legajo-29/cartas/006334.json",
+  "primary_image_url": "/legajos/legajo-29/images/054:4151a.JPG"
+}

@@ -1,0 +1,43 @@
+{
+  "legajo_id": "23",
+  "id_carta": "3763",
+  "order_in_legajo": 19,
+  "signatura": "028:3175a.JPG",
+  "nombre_carta": "Carta de Gabriel Seguí a Pedro Santacilia y Pax",
+  "fecha_original": "21 de julio de 1629",
+  "lugar": "Barcelona",
+  "remitente": "Gabriel Seguí",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Una carta tinc rebuda de v. m. en què he rebut tot el que v. m. m'ha enviat. La rebí als 20 del present i em pens partir volent Déu demà que seran als 22 del present fer-me mercè de que la provisió estigui llesta amb les municions que tinc esperança plaent Déu d'estar-hi molt prompte fer-me cinquanta quintars de bescuit o de vi i oli quan estarem ho sabrem el que hem de menester del que sia menester pel vaixell el més necessari és el (vaixell) pedrer v. m. tendrà {ESP. cuidado} de cercar tres parelis de rems que em falta per tenir-los per resposta i vint barrils per aigua. V. m. em darà ordre si els prendré ací en Barcelona també hem de menester una osta de resposta i un orça pops seran menester dos quintars de pólvora que mes val tenirna més que manco i balas que no faltin de mosquets i d'arcabus i la corda que sia bona i serà un quintar també serà menester una espersina de cànyem que la meva és rompuda i d'açò m'enviarà ordre en Barcelona no ho tendrà {ESP. apercibit} en Roses i un heu per al vaixell que el meu és dolent a qui li fus alaber com en Barcelona hi ha uns quants fadrins molts bons que em fan mercè, tots mallorquins l'un es diu Toni Sastre i tots els {ESP. demés} criats de v. m. del que hem de menester de Serra i una destral o dues que siguin xiques i una escarpa i gubia i açò ho farà servit anar bardissa que ja sap el que és. Déu guardi a v. m. de Barcelona als 21 de juliol 1629. Criat de v. m. Gabriel Segui [1§] A don Pedro Santacilia, que Déu guardi En Perelada Transcripción literal"
+  ],
+  "literal": [
+    "1. Una carta tinc rebuda de V.m en que he rebut tot lo q2. Vm me ha imbiat La rebi als 20 del pnt y em pens3. partir volent deu dama q saran als 22 del pnt4. fermen merse de q la provisio estiga llesta ab las5. munisions que tinc esperansa plaent deu de estar6. ay molt prompta fermen sinquanta quintars de7. bascuit ho de vi y oli quant estirem ay sabrem8. lo que habrem menester de lo q sea menester per9. el vaxel lo mes nesesari es lo (^vaxel) padrer10. V.m tendra cuidado de sercar tres pareis de rems11. q em falta per tenirlos per resposta y vint12. barrils per aygua Vm em dara orda si als13. pandre asi en Barselona tambe em menester14. una osta de resposta y un orça pops seran15. manaster dos quintars de polvora q mes val16. tenirna mes que manco y balas q no falten17. de mosquets y de arcabus y la corda q sia bona18. y sera un quintar tambe sera menester una19. espersina de cañem q la meva es rompuda y20. de aso me enviara orda en barselona no ho ten21. dra apersebit en rosas y un heu per lo vaxel22. que el meu es dolent a qui li fus alaber com en23. barselona y ha uns quants fadrins molts bons24. q em fan merse tots mallorquins lo un es diu25. toni Sastra y tots los de mes criats de Vm26. [^de lo que em menester de serra y una destral o dues que sian xicas y una escarpa27. y gubia y aso ho fara servit anar bardiça que ja sap lo q es deu guart a28. Vm. de barselona als 21 de juliol 162929. Criat de Vm30. grabiel segi] [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "028:3175a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo23/028:3175a.JPG",
+      "url": "/legajos/legajo-23/images/028:3175a.JPG"
+    },
+    {
+      "filename": "029:3175b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo23/029:3175b.JPG",
+      "url": "/legajos/legajo-23/images/029:3175b.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "028:3175a.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-23/cartas/003763.json",
+  "primary_image_url": "/legajos/legajo-23/images/028:3175a.JPG"
+}

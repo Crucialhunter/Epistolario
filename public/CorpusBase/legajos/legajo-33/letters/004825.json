@@ -1,0 +1,38 @@
+{
+  "legajo_id": "33",
+  "id_carta": "4825",
+  "order_in_legajo": 20,
+  "signatura": "025:6741.JPG",
+  "nombre_carta": "Carta de Enrique de Aragón (VI duque de Cardona) a Pedro Santacilia y Pax",
+  "fecha_original": "20 de diciembre de 1627",
+  "lugar": "Barcelona",
+  "remitente": "Enrique de Aragón (VI duque de Cardona)",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Estimo como es justo lo que v. m. muestra haberse holgado de mi llegada a esta casa con salud y debe hacerlo así puesto que en cualquier parte desare que se ofrezca en que poder servir a v. m. cuya voluntad esta tan acreditada conmigo que no dudo de todo lo que me dice en su carta, lo cierto es que no ha de ser v. m. mal correspondido de la mía en ningún tiempo. Guarde Dios a v. m. largos años Barcelona 20 de diciembre 1627 Sr. don Enrique de Aragón, duque de Cardona Sr. D. Pedro Santacilia y Pax. [1§] Transcripción literal"
+  ],
+  "literal": [
+    "1. Estimo como es justo lo q Vm. muestra haverse holgado de mi2. llegada a esta casa con salud y deve hacerlo assi puesto3. q en qualquier parte desare q se offrezca en q poder servir a Vm.4. cuya voluntad esta tan acreditada conmigo q no dudo de todo5. lo q me diçe en su carta, lo cierto es q no ha de ser Vm. mal corres6. pondido de la mia en ningun t[ie]npo. Gu[ard]e Dios a Vm. largos años7. Barz[elo]na 20 de x[ciem]bre 16278. Don Enrique de Aragon, duque de Cardona9. Sr. D. Pº Sta. Cilia y Pax. [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "025:6741.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo33/025:6741.JPG",
+      "url": "/legajos/legajo-33/images/025:6741.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "025:6741.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-33/cartas/004825.json",
+  "primary_image_url": "/legajos/legajo-33/images/025:6741.JPG"
+}

@@ -1,0 +1,38 @@
+{
+  "legajo_id": "18",
+  "id_carta": "3044",
+  "order_in_legajo": 77,
+  "signatura": "127:4883.JPG",
+  "nombre_carta": "Carta de Rodrigo Borja Lançol Simon de Castanya a Pedro Santacilia y Pax",
+  "fecha_original": "13 de marzo de 1663",
+  "lugar": "Valencia",
+  "remitente": "Rodrigo Borja Lançol Simon de Castanya",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Señor mío su majestad Dios le guarde ha sido servido de hacer merced del virreinato de esa y sla a mi padre de que me doí mismo la eno rabuena por tener más ocasí on de servir a VaSa, al quien suplico que una carta que escribo a y biza a mi padre que va en compañía de esta si acaso nola huvíere dejado el portador en dicha y sla Ju Campaner la entregara para que v. s. se sirva de Remitilla en la primer ocasión cuya vida guarde Nro. Sr. muchos años como deseo Va lencia y marzo 13 de 1663 Su mayor servidor que su mo Ba Sr. don Josep de Borja lancol Sr. D. Pedro Santacilia [1§] Transcripción literal"
+  ],
+  "literal": [
+    "1. Señor mío Su M[a]gd Dios legde hasido ser2. vído de hazer mrd del Virreynato deesa Ysla 3. amí Padre de q me doí mismo la eno4. rabuena por tener mas occasíon deservir a 5. VaSa, al quíen suplico que una carta q es6. crivo a Ybiza ami Padre q ba encompañía des7. ta siacaso nola huvíere dejado el portador en 8. dha Ysla Ju Campaner la entregara para 9. q VaSa sesirva de Remitilla en la primer occa10. sion cuya vida gde nro sr ms ans como deseo Va11. lençia y Marzo 13 de 1663 12. Su mor servidor que 13. su mo Ba 14. Don Joseph 15. de Borjalancol16. [Margen izquierdo][^ Sr D Po Santaçilia] [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "127:4883.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo18/127:4883.JPG",
+      "url": "/legajos/legajo-18/images/127:4883.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "127:4883.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-18/cartas/003044.json",
+  "primary_image_url": "/legajos/legajo-18/images/127:4883.JPG"
+}

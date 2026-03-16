@@ -1,0 +1,38 @@
+{
+  "legajo_id": "14",
+  "id_carta": "1937",
+  "order_in_legajo": 37,
+  "signatura": "062:2441.JPG",
+  "nombre_carta": "Carta de Diego de Rocabertí a Pedro Santacilia y Pax",
+  "fecha_original": "1 de julio de 1632",
+  "lugar": "Barcelona",
+  "remitente": "Diego de Rocabertí",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "La carta de v. m. i breu relació de l'estat present de la malaltia de mi Sra. la comtessa de Perelada tinc rebuda, vulgui Nostre Sr. alegrar-nos a tots donant-li {ESP. entera} salut. No m'espanto que v. m. desitja tornar que sé el que és Girona, i v. m. sap el que és Barcelona. La setmana que entrarem anirà don Francisco Bach a cercar a mi Sra. dona Elvira Dezcallar, en companyia de qui escric a dona Ana que vinga i en tal cas trobam bé v. m. aquí me farà molta mercè que sia també de dit acompanyament que a mi se'm faria dificultós haver-hi d'anar. Servesca's v. m. d'escriure'm en rebre esta si d'açò podré fer-me confiança. Nostre Sr. guardi a v. m. com pot i jo desitje. Barcelona i juliol a 1 de 1632. Don Diego de Rocaberti Pau i Bellera Transcripción literal"
+  ],
+  "literal": [
+    "1. La carta de V.m y breu relacio del estat present2. de la malaltia de mi Sora. la Condesa de Peralada3. tinch rabuda Vulla nostre Sr alegrarnos a tots donantli4. entera salut. No me espanto que V.m desija tornar que se5. lo que es Girona, y V.m sap lo que es Barcelona. la sem6. mana que entrarem anira don fransisco bach a sercar a mi7. Sra. Dona elvira Descallar en compañía de qui escrich a8. Doña Ana que vinga y en tal cas trobam be V.m aquí me9. fara molta merced que sia tambe de dit acompañament que10. a mi sem faria dificultos avery de anar. Servescas V.m de es11. criurerme en rebrer esta si de aso podre ferme confiansa Nostre12. Sr. Guarde a V.m com pot y jo desitxe. Barcelona y ju13. liol a 1 de 1632 14. Don Diego de Rocaberti15. Pau y Bellera [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "062:2441.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo14/062:2441.JPG",
+      "url": "/legajos/legajo-14/images/062:2441.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "062:2441.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-14/cartas/001937.json",
+  "primary_image_url": "/legajos/legajo-14/images/062:2441.JPG"
+}

@@ -1,0 +1,38 @@
+{
+  "legajo_id": "21",
+  "id_carta": "3354",
+  "order_in_legajo": 43,
+  "signatura": "071:5643.JPG",
+  "nombre_carta": "Carta de Juan de Echevarría a Pedro Santacilia y Pax",
+  "fecha_original": "3 de marzo de 1632",
+  "lugar": "Lucena",
+  "remitente": "Juan de Echevarría",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Doy mi Sr., a Dios gracias, que no han sacado [?] todos sus servidores del cuidado con que nos tenía su negocio y de que y ha sido también y con la reputación que vino me dice me tiene contentísimo y así me dé besar v. m. mil enhorabuenas pues soy como v. m. interesado en las cosas que le tocan, no tan de cerca como es íntimo de las de sus criados. En toda plaza de la escuadra y la ventaja pues quien están supitan su servidor [?]. Dios me guarde a v. m. como deseo y de los acrecentamientos que tal caballero merece. Lucena 3 de marzo de 1632. Sr. don Pedro de Santacilia Don Juan de Echevarria Transcripción literal"
+  ],
+  "literal": [
+    "1. Doloni[?] Sigre adoi Sr quenon sacado ela[????] todos sus 2. serbidores deel cuidado conque nostenia su negocio y 3. deque yatido tambien y con la Reputacion que 4. Vino medice nie Henecontentisimo y asi me 5. de besar Vmd milenorabuenas pues soí 6. como Vmd ynteresado enlas cosas que 7. le tocan no Tandecercacomo es Intimo delas 8. de sus criados en Toda placa de la escuadra 9. Y la bentaja pues quien estan supitan 10. suserbidor ho en pues bibetonela [?], dios me ge 11. a Vmd como deseo y delos acrecentamíen12. tos que Talcaballero merce luerna 13. 3 de marco de 632 14. Sor Don po de santaciglia 15. Don juandecheVarria [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "071:5643.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo21/071:5643.JPG",
+      "url": "/legajos/legajo-21/images/071:5643.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "071:5643.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-21/cartas/003354.json",
+  "primary_image_url": "/legajos/legajo-21/images/071:5643.JPG"
+}

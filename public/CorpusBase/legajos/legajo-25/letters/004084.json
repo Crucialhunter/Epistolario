@@ -1,0 +1,38 @@
+{
+  "legajo_id": "25",
+  "id_carta": "4084",
+  "order_in_legajo": 18,
+  "signatura": "039_118",
+  "nombre_carta": "Carta de Magín Ribes a Persona desconocida",
+  "fecha_original": "2 de marzo de 1667",
+  "lugar": "Ibiza",
+  "remitente": "Magín Ribes",
+  "destinatario": "Persona desconocida",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Con una de v. m. me hallo de los 11 de febrero juntamente con una pieza de borell ha sido como de su mano. Quedo siempre obligado a que me mande muchas cosas de su gusto que a todas ellas será obedecido. En razón de lo que v. m. me dice del patrón Bernardo Suñer es hombre de tan buenas prendas que me he holgado conocerle, que en todo lo que yo pudiere valerle, lo haré como se verá por la obra. Guarde Dios a v. m. como puede y deseo. Ibiza y marzo a los 2 de 1667. De v. m. Magin Ribes Transcripción literal"
+  ],
+  "literal": [
+    "1. Con una de Vm. me hallo de los 11 de fabrero junta2. mente con una piessa de borell ha sido como de3. su mano quedo siempre obligado a que me4. mande muchas cossas de su gusto que a todas5. ellas sera obedesido, en Razon de lo que v.m. me6. dize del Patron B[ernar]do Suñer es ombre de tan bu7. enas prendas que me he olgado conoserle que8. en todo lo que yo pudeire valerle, lo are como9. se vera por la obra gde Dios a vm como puede10. y deseio Ivissa y Março a los 2 de 166711. De Vm12. Magin Ribes [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "039_118.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo25/039_118.JPG",
+      "url": "/legajos/legajo-25/images/039_118.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "039_118.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-25/cartas/004084.json",
+  "primary_image_url": "/legajos/legajo-25/images/039_118.JPG"
+}

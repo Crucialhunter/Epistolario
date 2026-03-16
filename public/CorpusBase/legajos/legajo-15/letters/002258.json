@@ -1,0 +1,38 @@
+{
+  "legajo_id": "15",
+  "id_carta": "2258",
+  "order_in_legajo": 156,
+  "signatura": "251:6483.JPG",
+  "nombre_carta": "Carta de Joan Avilés a Pedro Santacilia y Pax",
+  "fecha_original": "4 de diciembre de 1647",
+  "lugar": "Vinarós",
+  "remitente": "Joan Avilés",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "[?] porque està doblado] [Pedro] {ESP. El {ESP. licenciado} Salvador Prainyosa}, de la ciutat de Tortosa, és amic de mossèn Cosme Martorell, parent meu. M'ha manat escrigués esta de recomanació. Parta a Roma, suplico, en la primera ocasió que hi haja de passatge. Me la farà en manar-lo en buscar, que corrent per mà de v. m., confío serà bo el passatge i prompte. i així mateix, confio que [hi] farà mercè en qualsevol con que s'oferesca, ha dit {ESP. licenciado} . I no oferir-se altra cosa. Guardi Déu a v. m. com es menester i desitjo. Vinarós i desembre, a 4, de 1647. Mosén Joan Avilés. Don Pedro, mi senyor. Transcripción literal"
+  ],
+  "literal": [
+    "1. [Margen izquierdo. Ilegible porque está doblado][^Pedro]2. El lisensiado Salvador Prayñosa de la 3. Ciutat de Tortosa es amich de mo Cosme 4. martorell parent meu me ha manat es5. crigues esta de recomandacio parta a ro6. ma soplico en la primera ocasio quey aja 7. de pasatje me la fara en manarlo embus8. car que corent per ma de Vmd. confio se9. ra bo el pasatge y pronte y aixi mateix 10. confio que ni fara mersed en qualsevol con11. que se hofferixca adit lisensiado y no afferir12. se altra cosa gde Deu á Vmd. com heme13. nester y desijo Vinaros y debre a 4 de 1647. 14. mo Joan Avyles 15. don Po Sor [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "251:6483.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo15/251:6483.JPG",
+      "url": "/legajos/legajo-15/images/251:6483.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "251:6483.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-15/cartas/002258.json",
+  "primary_image_url": "/legajos/legajo-15/images/251:6483.JPG"
+}

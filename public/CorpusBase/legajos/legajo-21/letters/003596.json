@@ -1,0 +1,43 @@
+{
+  "legajo_id": "21",
+  "id_carta": "3596",
+  "order_in_legajo": 285,
+  "signatura": "493:5884a.JPG",
+  "nombre_carta": "Carta de José Balell a Pedro Santacilia y Pax",
+  "fecha_original": "20 de enero de 1669",
+  "lugar": "Barcelona",
+  "remitente": "José Balell",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Sr. D. Pedro de Santacilia y Pax mi Sr. He recibido la que v. s. fue servido mandarme escribir de 13 de este con la estimación debida a tanta merced y a la noticia de saber de su salud como siempre me sucedará como a tan interesado. La carta o pliego grande para mi Sra. ira en primera ocasión sin perderla y quisiera hubiese para remetir a v. s. D. Mallorca y quedo maravillado faltaba tanto tiempo la habiendo remitido todos los pliegos que v. s. me ha mandado. En las materias convenientes no hay que decir más que su divina majestad las disponga como más convengan para su servicio y bien de la monarquia y que sea presto para que los enemigos no tomen la ocasión que pueden además de [?] y censuran tantos papeles y gobierno. Las tropas han entrado al Rosellón dejen son más de cuatro mil caballos y infanterías y que la mayor parte han salido a la parte de Conflent y vecinos de Puigcerdà donde ya llegó el general de la artillería y avisan que con las tropas [1§] que vendrán y se esperan serán hasta [?] mil nuestra caballería padece mucho de forrajes y los oficiales por haber mucho tiempo no se les ha librado que ya se parecen a los soldados con la desnudez a los cuales se les asiste con el sueldo diario fuera a los que están en las guarniciones que han [?] donde llamarlas de la retaguardia. Los paisanos llevan sus alojamientos que no es poco y que no vengan sin [?]. Suplico a v. s. sea servido tenerme en su gracia y sacrificio cuya persona guarde mío Sr. los muchos años que puede, merece y la menos [?] en compañía de cuanto quiere. Barcelona y enero 20 de 1669. Acá se están esperando los tantos gobernadores para estas plazas que comerán líndamente si ahora [?] día o que con él no les faltara cosa en este buen país. Tienese noticia que llegó el duque de Saint Germain a Caller donde fue muy bien recibido con mucha paz y quietud y no desembarcó la infantería que paso al final. Cierto criado de v. s. que sus manos besa Josep Balell Transcripción literal"
+  ],
+  "literal": [
+    "1. [margen superior izquierdo] [^ S.r D P. de Sta Cilia y Pax mi S.r]2. He Recivido la que VS fue serv[i]do Man 3. darme escribir de 13 deste con la 4. estimacion devida atanta md y 5. ala noticia de saver de su salud 6. como siempre meSucsedara [?] como 7. atan interessado 8. La carta o pliego grande pa mi sa 9. hira en primera ocasion sin perder 10. la y quisiera huviese pa demetir [?] 11. aVS. d Mallorcay quedo Admara 12. villado faltava tanto tiempo la 13. haviendo Remitido todos los plie14. gos que Vs. me ha Mandado 15. Enlas materias Convenientes , no ay que 16. desir mas que su divina Magd 17. las disponga como mas convengan 18. para su servicio y bien dela Mo 19. narquia y quesea presto paraque 20. los enemigos no tomen laocasion 21. que pueden ademas de Rei[?] y sensu22. ran tantos papales. y Gobierno 23. Las tropas han entrado al Rosa 24. llon dejen son mas de quatro mil 25. Cavall.a y infanteria y que la mayor 26. parte han salido ala parte de Con 27. flent y Vesinos de Puigcerda donde 28. ya llego el Sr General dela Ar 29. till y avisan que con las tropas [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "493:5884a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo21/493:5884a.JPG",
+      "url": "/legajos/legajo-21/images/493:5884a.JPG"
+    },
+    {
+      "filename": "494:5884b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo21/494:5884b.JPG",
+      "url": "/legajos/legajo-21/images/494:5884b.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "493:5884a.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-21/cartas/003596.json",
+  "primary_image_url": "/legajos/legajo-21/images/493:5884a.JPG"
+}

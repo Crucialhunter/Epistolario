@@ -1,0 +1,38 @@
+{
+  "legajo_id": "9",
+  "id_carta": "1074",
+  "order_in_legajo": 109,
+  "signatura": "195-96",
+  "nombre_carta": "Carta de Diego Álvarez a Arnau de Santacilia",
+  "fecha_original": "6 de mayo de 1676",
+  "lugar": "Milán",
+  "remitente": "Diego Álvarez",
+  "destinatario": "Arnau de Santacilia",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Señor mío nunca he tenido la dicha Deabertenido respuestas si v. m. ha recibido las Policas de las trein ta y cínco Doblas De la mujer del Sr. don Fernando Señudo y de la mujer del capitán Santiago pues yo las entregue al Sr. don Josep Meoz elrestante de las mil y se ycientas libras están en mipoder pues de aquí no hay forma de remitir las simpagar Conges [?] y [?] v. m. Procure deber si hay yqun [?] las quiera dar el Restante que son setecientas y no benda [?] que están en mipoder que luego serán Pagadas y v. m. servido goce [?] Bida guarde Dios muchos años mi lan a 6 de mayo 1676. Besa la mano de v. m. Sumor Servidor y amigo Diego alvarez a don Josep Meoz le he dado tres doblas de España con que quedan enmipoder setecientas y veinte y seis libras al srgto bartolome Rocabeso las manos y si v. m. viere al Sr. don Rodrigo Ronqillo quesave quelesoy servidor auqnueno quiera Sargo mayor don Arnau Santacilia [1§] Transcripción literal"
+  ],
+  "literal": [
+    "1. Señor mío nunca etenido la dicha 2. Deabertenido Respuestas si Vmd 3. a Recivido las Policas delas treyn4. ta y cínco Doblas Delamuger del 5. Sr Don fernando Señudo Y dela 6. muger delcapn Santiago Pues 7. Yo las entregue alsr Don Josef 8. meoz elrestante delas míl yse9. ycientas livras estan en mipoder 10. Pues de aquí no ay forma de Re11. mitir las sinpagar Conges[?] Y[Ilegible] 12. Vmd Proqure deber siay yqun[?] 13. las quera dar el Restante queson 14. setecientas Yno benda [Ilegible] 15. que estan en mipoder que luego 16. seran Pagadas Y Vmd servido goce[?] 17. Bida gude Dios muchos años mi18. lan a 6 de mayo 1676 19. Blm de Vmd Sumor 20. Servidor Yamigo 21. Diego alvarez 22. a Don Josef meoz leedado tres doblas despaña con 23. quequedan enmipoder setecientas Ybeynte Yseis 24. livras = al srgto bartolome Rocabeso las 25. manos Ysi Vmd biere al sr Don Rodrigo 26. Ronqillo quesave quelesoy servidor 27. auqnueno quera28. [Margen izquierdo][^ sr Sargo mayor Donarnao Santazilía] [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "195-96.jpg",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo09/195-96.jpg",
+      "url": "/legajos/legajo-09/images/195-96.jpg"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "195-96.jpg",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-09/cartas/001074.json",
+  "primary_image_url": "/legajos/legajo-09/images/195-96.jpg"
+}

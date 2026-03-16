@@ -1,0 +1,43 @@
+{
+  "legajo_id": "8",
+  "id_carta": "911",
+  "order_in_legajo": 82,
+  "signatura": "162-106a copia",
+  "nombre_carta": "Carta de Thomás Áufre y Velasco a Persona desconocida",
+  "fecha_original": "14 de febrero de 1644",
+  "lugar": "Castillo de San Felipe (Menorca)",
+  "remitente": "Thomás Áufre y Velasco",
+  "destinatario": "Persona desconocida",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "No he dado cuenta a v. s. del bizcocho que se entrega a las galeras de Sicilia hasta darla. De lo que se iba obrando, luego que recibí su carta de v. s. fui a besar las manos al señor D. Miguel de Branquifort para disponer la obligación y, aunque lo dificultaría diciendo que para tantos requisitos mas lo estimaría comprar, al fin la hice y de tierra la [?] Firmaré al pie de la orden de v. s. lo que entregué al capitán Carreras para que consecutivamente hiciere el tenedor de bastimentos conocimiento de lo que recibía y al pie de ellos la intervención de los oficiales de la armada, y que hiciesen fe como quedaba hecho cargo para después poner yo mi intervención como v. s. me mande. Ayer volví a Mahón para asistir a la entrega del bizcocho y advertí al capitán Carreras y a los oficiales de las galeras que no se diese más bizcocho en muriendo el señor don Miguel, que por horas acababa su vida, porque si moría cesaba la obligación, lo cual les advertí para que tuvieran en sentido que el que entrará a gobernar las galeras había de traer otra orden de v. s. y hacer la misma obligación que el dicho don Miguel hasta [?] ha muerto. Yo tendré todo cuidado en esto y lo demás que v. s. me man [1§] dase. Del bizcocho quedará poco o nada. el esta [?] que si no hubiera esta coyuntura no sería de provecho para nada. De aquí a dos meses. Dios Guarde a v. s. muchos años como deseo. [Castillo de] San Felipe y febrero, a 14 de 1644. Thomás de Aúfre y Velasco Señor gobernador Transcripción literal"
+  ],
+  "literal": [
+    "1. No hedado quenta a V.S. del Biscoçho quese entrega alas Galeras de 2. çisilia asta darla. de lo que se yva obrando. luego que Reçivi 3. su carta deV.s. fuy abesar las manos al S< > D. Miguel de 4. Branquifort p< [a]> disponer la obligaçion yaunque. lo dificulta- 5. ria diçiendo q p< [a]> tantos Requiçitos. mas lo estimaria conprar 6. al fin la hiçe y destierra laymvica firmare al Pie dela 7. Horden deV.s. loq entregue al capp< > carreras p< [a]> que con- 8. secutivam< > hiçiere el thenedor de Bastim< > como ci- 9. m< > deloque Reçivia y al pie dellos laynterv< > delos ofi- 10. çiales de la Armada. y que hiçiesen fee como quedava echo 11. cargo p< [a]> despues poner yo mi Intervenci>< > comoV.s. memande 12. ayer Bolvi a mahon p< [a]> asistir alaentregadel biscoçho 13. y adberti al capp> carreras y alos offs delas Galeras que 14. no se diesse mas Biscoçho en muriendo el S< > Don Mig< > 15. que por oras. acabava su bida. por que si moria sesava 16. la obligaçion loq< > les adberti paraquetuvieran en 17. sendido que el que entrara a Governarlas Galeras a- 18. bia detraer. otra HordendelV.s. y haçer la misma obli- 19. gaçion q el dho Don mig< > asta anano amuerto yo 20. tendre todo cuydado enesto. y lo demas. que V.s. meman- [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "162-106a copia.jpg",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo08/162-106a copia.jpg",
+      "url": "/legajos/legajo-08/images/162-106a copia.jpg"
+    },
+    {
+      "filename": "163-106b copia.jpg",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo08/163-106b copia.jpg",
+      "url": "/legajos/legajo-08/images/163-106b copia.jpg"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "162-106a copia.jpg",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (2)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-08/cartas/000911.json",
+  "primary_image_url": "/legajos/legajo-08/images/162-106a copia.jpg"
+}

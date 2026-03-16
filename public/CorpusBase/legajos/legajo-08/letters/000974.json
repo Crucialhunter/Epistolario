@@ -1,0 +1,43 @@
+{
+  "legajo_id": "8",
+  "id_carta": "974",
+  "order_in_legajo": 46,
+  "signatura": "261-170a copia",
+  "nombre_carta": "Carta de Bartomeu Seguí i Mercadal a Persona desconocida",
+  "fecha_original": "17 de agosto de 1642",
+  "lugar": "Maó",
+  "remitente": "Bartomeu Seguí i Mercadal",
+  "destinatario": "Persona desconocida",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "En aquest punt, que seran algunes dues hores de dia, s'ha donat la pràctica a una faluca genovesa el patró de la qual s'anomena Bartolomeo Pi: aporta nou mariners [borrado]. Farà vint dies se partí de la ribera [roto] ha tocat en Sardenya d'on [roto] va carregada [roto] per mercaderia [borrado] partir per a Mallorca i d'ací diu anirà a la part a on sabrà és la reial armada per a vendre el càrrec m'ha paregut donar-ne avís a v. s. no obstant no cont cosa de nou guardi Déu Nostre Senyor a la molt il·lustre persona de v. s. com pot de Mao i agost, a 17 de 1642. Bartomeu Segui i Mercadal Senyor governador. [1§] Maó 17 agost, 1642 Bartomeu Segui i Mercadal. Recibido. Transcripción literal"
+  ],
+  "literal": [
+    "1. En aquest punt que seran algunas dos horas 2. dedia sea donat la pratica a una faluga 3. Genovesa Lo Patro delaqual seanomena 4. Barentomt Pi? aporta nou mariner 5. [?] haura vint dias separti dela ribera 6. [?] hatocat en sardeña dehont 7. [?] va carregada 8. [?] y [?] per mercaderia 9. [?] partir per amallorca y de aci 10. diu anira a la part hahont sebra 11. es la Re[a]< > Armada p havendra 12. lo carrach ham aparegut donarna avis 13. a vsª no obstant no cont cosa de nou 14. g< > Deu nro Señor alamolt Ill< > 15. perçona de vsª Compot de Maho y 16. Agost a 17? de 1642 17. Bartto Sagui y mercadal 18. Señor g< > [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "261-170a copia.jpg",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo08/261-170a copia.jpg",
+      "url": "/legajos/legajo-08/images/261-170a copia.jpg"
+    },
+    {
+      "filename": "262-170b copia.jpg",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo08/262-170b copia.jpg",
+      "url": "/legajos/legajo-08/images/262-170b copia.jpg"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "261-170a copia.jpg",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-08/cartas/000974.json",
+  "primary_image_url": "/legajos/legajo-08/images/261-170a copia.jpg"
+}

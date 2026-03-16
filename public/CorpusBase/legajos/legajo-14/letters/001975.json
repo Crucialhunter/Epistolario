@@ -1,0 +1,38 @@
+{
+  "legajo_id": "14",
+  "id_carta": "1975",
+  "order_in_legajo": 75,
+  "signatura": "143:2490.JPG",
+  "nombre_carta": "Carta de Cristóbal de Cardona a Pedro Santacilia y Pax",
+  "fecha_original": "16 de julio de 1641",
+  "lugar": "Pená­scola",
+  "remitente": "Cristóbal de Cardona",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Con otra tengo respondido, a la primera que he recibido v. s. . y entendiendo por aquella i por la de 5 del corriente, los riesgos que tuviste en vuestro viatge a esa isla, y que libraste de ellos llegando con salud, y que la gozáis estoy tan alegre, como podéis juzgar, siendo tan amigo i servidor vustro. Tarragona se socorrió, que ha sido el reparo de España i aunque maltratadas las galeras que le entraron los [?], me dicen que no por eso quedaron innavegables, pues dejándonos el francés LLETRA UN POC COMPLICADA [1§] Transcripción literal"
+  ],
+  "literal": [
+    "1. Con otra tengo respondido, a la prim[er]a que 2. he reçibido Vra. y entendiendo p[o]r aquella 3. y p[o]r la de 5 del Corriente, los riesgos que4. tubiste en Vro. Biaje a essa Ysla, y que llibras5. te dellos llegando con salud, y que la gozais6. estoi tan alegre, como podeis Juzgar, sien7. do tan amigo y çerb[ido]r vro.8. Tarragona se socorrio que asido el reparo9. de españa y aunque maltratadas las ????10. que le entraron los ???? me diçen que no11. p[o]r esso quedaron esnabegables??, pues dexan12. donos el françes 13. LLETRA UN POC COMPLICADA14. 15. 16. 17. 18. 19. 20. 21. 22. 23. 24. 25. 26. 27. 28. 29. 30. [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "143:2490.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo14/143:2490.JPG",
+      "url": "/legajos/legajo-14/images/143:2490.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "143:2490.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-14/cartas/001975.json",
+  "primary_image_url": "/legajos/legajo-14/images/143:2490.JPG"
+}

@@ -1,0 +1,38 @@
+{
+  "legajo_id": "30",
+  "id_carta": "6724",
+  "order_in_legajo": 222,
+  "signatura": "302:5562.JPG",
+  "nombre_carta": "Carta de comte de Montenegro a Pedro Santacilia y Pax",
+  "fecha_original": "15 de octubre de 1661",
+  "lugar": "Mallorca",
+  "remitente": "comte de Montenegro",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Â [1§] Transcripción literal"
+  ],
+  "literal": [
+    "1."
+  ],
+  "imagenes": [
+    {
+      "filename": "302:5562.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo30/302:5562.JPG",
+      "url": "/legajos/legajo-30/images/302:5562.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "302:5562.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (3)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-30/cartas/006724.json",
+  "primary_image_url": "/legajos/legajo-30/images/302:5562.JPG"
+}

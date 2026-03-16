@@ -1,0 +1,38 @@
+{
+  "legajo_id": "34",
+  "id_carta": "5045",
+  "order_in_legajo": 72,
+  "signatura": "114:6960.JPG",
+  "nombre_carta": "Carta de Magín Ribes a Pedro Santacilia y Pax",
+  "fecha_original": "14 de julio de 1656",
+  "lugar": "Lugar sin especificar",
+  "remitente": "Magín Ribes",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "capçalera don Pedro Santacilia La d v. s. dels 12 de Juny rebí amb molt gransíssim {ESP. contento} en Vennen {ESP. goza} salut que nre. li conservi com este son aficionat servidor desitja que sentatament pot Creure que el haver vinguts tants vaixells jao haver rebut carta de v.s.ª me donarà molt gran des{ESP. consuelo} pensant que podria ser la causa q Transcripción literal"
+  ],
+  "literal": [
+    "1. [capçalera] Sr. Don Pedro Sta Cilia2. La d v.sª dels 12 de Juny rebi ab molt gransissim3. contento en Ve[nnen] goza salut que nre Sr. ley conserve4. com este son aficionat servidor desitja que [senta/]5. tament pot C[reure] que el aver vinguts tants vaxells jao6. aver rebut carta de v.s.ª me donera molt gran des/7. consuelo pensant que podria ser la causa q8. ticia que estava algun tant en disgust, per lo pron/9. te no ya asa noves de que donar avis a v.s. sols10. suppar a mi Sr. lo gde y done molts auments de11. gratia Ju[ ??] y Juliol 14 de 165612. de v.s. q s m B13. Magi Ribes [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "114:6960.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo34/114:6960.JPG",
+      "url": "/legajos/legajo-34/images/114:6960.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "114:6960.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-34/cartas/005045.json",
+  "primary_image_url": "/legajos/legajo-34/images/114:6960.JPG"
+}

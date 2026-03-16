@@ -1,0 +1,43 @@
+{
+  "legajo_id": "21",
+  "id_carta": "3501",
+  "order_in_legajo": 190,
+  "signatura": "352:5789a.JPG",
+  "nombre_carta": "Carta de Pedro Fajardo de Requeséns-Zúñiga y Pimentel (V marqués de los Vélez) a Pedro Santacilia y Pax",
+  "fecha_original": "18 de noviembre de 1639",
+  "lugar": "Pamplona",
+  "remitente": "Pedro Fajardo de Requeséns-Zúñiga y Pimentel (V marqués de los Vélez)",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Deseo que v. m. y la gente de esas compañías estén muy acomodados y gustosos y para esto no excusase cualquiera diligencia que sirva para sus conveniencias. Ahora he escrito a D. Antonio de Gurpide, dando la forma de los ensanches, con que lo pasarán [?] v. m. cuide que su gente tenga toda [?] dencia con los naturales [?] mucha conformidad. Guarde Dios a v. m. como puede Pamplona 18 de noviembre. El marques de los Velez Sr. don Pedro de Santacilia [1§] Pamplona 18 noviembre 1639 El marques de los Velez rdo. Transcripción literal"
+  ],
+  "literal": [
+    "1. Desseo que Vm. y lagente deesas compañias 2. estan muy acomodados y gustosos y para esto no 3. escusase qualquiera diligencia: quesirva parasus Combe4. niençias; agora escrito a Dn Anto degurpide dando[?] 5. la forma delos ensanches, conque lo pasaran [Ilegible]6. Vm. Cuyde quesugente tenga toda [Ilegible]7. dencia conlos Naturales [Ilegible]8. mucha Conformidad Ge Dios a Vm como 9. puede Pamppa 18 de Nove 10. 11. El Marqs delos Veles12. [Margen izquierdo][^ sr Don Po desta Cilía] [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "352:5789a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo21/352:5789a.JPG",
+      "url": "/legajos/legajo-21/images/352:5789a.JPG"
+    },
+    {
+      "filename": "353:5789b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo21/353:5789b.JPG",
+      "url": "/legajos/legajo-21/images/353:5789b.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "352:5789a.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (5)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-21/cartas/003501.json",
+  "primary_image_url": "/legajos/legajo-21/images/352:5789a.JPG"
+}

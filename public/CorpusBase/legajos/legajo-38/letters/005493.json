@@ -1,0 +1,38 @@
+{
+  "legajo_id": "38",
+  "id_carta": "5493",
+  "order_in_legajo": 114,
+  "signatura": "033:17",
+  "nombre_carta": "Carta de Escrivà Miralles a Persona desconocida",
+  "fecha_original": "1 de enero de 1667",
+  "lugar": "Campanet i la Pobla",
+  "remitente": "Escrivà Miralles",
+  "destinatario": "Persona desconocida",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Delme de bestiars de Campanet i la Poble de l'any 1667 lliurat a Rafel Bennasser pª per 301 ll. El Reverend Antoni Garau prevere i rector de Campanet i Gabriel Guerau de la possessio Son Garau son germà Sba. Miralles. Sr. D. Juan Bautista Zaforteza mensari Sr. don Diego Clapes mensari Antoni Piza Ador. de li mensa episcopal Pere Onofre Mayol pdor. de la mensa capitular [1§] Transcripción literal"
+  ],
+  "literal": [
+    "1. Delme de bestiars de Campanet y la Poble2. del añy 1667 lliurat a Rafel Bennasser3. pª per 301 ll.4. Lo R[everen]d Antt[on]i Garau pre[vere] y rector de5. Campanet y6. G[abrie]l Guerau de la poss[essi]o Son Garau son jerma7. Sba. Miralles.8. D. Juan Bapt[ist]a Saforteza mens[ari]9. Don Diego Clapes mens[ari10. Ant[oni] Piza Ador. de le 11. mensa Apiscopal 12. Pere Honofre Mayol 13. pdor. de la mensa Capitular [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "033:17.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo38/033:17.JPG",
+      "url": "/legajos/legajo-38/images/033:17.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "033:17.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (2)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-38/cartas/005493.json",
+  "primary_image_url": "/legajos/legajo-38/images/033:17.JPG"
+}

@@ -1,0 +1,38 @@
+{
+  "legajo_id": "20",
+  "id_carta": "3148",
+  "order_in_legajo": 24,
+  "signatura": "028:5932.JPG",
+  "nombre_carta": "Carta de Vicente Bernavé de Escamilla a Pedro Santacilia y Pax",
+  "fecha_original": "4 de agosto de 1655",
+  "lugar": "Madrid",
+  "remitente": "Vicente Bernavé de Escamilla",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Sr. mío la ausencia de dos años de la parte me ha hecho faltar a la correspondencia y acordar a v. m. los deseos que siempre he tenido de servirle. Ahora hago memoria a v. m. de ellos deseando merecer a v. m. muchas ocasiones de su servicio. Suplico a v. m. me las dé a merecer que mi obediencia será como mi obligación. El conde mi Sr. y yo hemos murmurado de v. m. algunos datos y puedo asegurarle que le debe v. m. muy [?] voluntad. Espero hemos de tener a v. m. en la Procuración Real así porque lo aseguran sus muchas partes y servicios de v. m. como porque tiene v. m. muchos que lo procuren nadie se holgara más que yo en cuanto mis pocas fuerzas bastasen las emplearé en todo lo que fuere del servicio de v. m., que guarde Dios muchos años. Madrid a 4 de agosto 1655. La [?] que v. m. me envió entregué a D. Rafael Mayans [?] que ya sabe v. m. como no fue menester volverse del [?] y la causa de ello Vicente Bernabe de [?] Sr. don Pedro Santacilia Transcripción literal"
+  ],
+  "literal": [
+    "1. Sr mio la Ausencia de dos[?]años de la [?] 2. me a echo faltar a la correspondencia y acor- 3. dar a Vm.los deseos que siempre e tenido 4. de servirle agora ago mema a Vm dellos 5. deseando mereser a Vm muchas ocasiones 6. de su servo[?] suppco a Vm. me las de a 7. mereser que mi obediencia sera como 8. mi obligon 9. El Conde mi sr Y io emos [?] de Vm 10. algunos datos y puedo asegurarle que 11. le deve Vm mui [?] voluntad. 12. Espero emos de tener a Vm en la proon 13. Rl assi porque lo aseguran sus muchos[?] 14. partes y Servos de Vm. como porque 15. tiene Vm muchos que lo procuren nadie 16. se olgara mas que yo [?] en quanto mis 17. pocas fuersas bastasen las empleare en todo 18. lo que fuere del servo de Vm que gde 19. Dios muchos años Md a 4 de Agto 1655 20. La [?] q Vm 21. me ynvio entregue 22. a D Rafael Ma- 23. yans[?] que ya [?] 24. Vm como no fue menester [?] del [?] 25. y la Causa dello 26. Vicente Bernave 27. de [?] 28. Sr. Don Po Santa[?]29. Primer folio, de los dos de que consta la carta. [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "028:5932.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo20/028:5932.JPG",
+      "url": "/legajos/legajo-20/images/028:5932.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "028:5932.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-20/cartas/003148.json",
+  "primary_image_url": "/legajos/legajo-20/images/028:5932.JPG"
+}

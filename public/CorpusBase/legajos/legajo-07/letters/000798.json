@@ -1,0 +1,43 @@
+{
+  "legajo_id": "7",
+  "id_carta": "798",
+  "order_in_legajo": 24,
+  "signatura": "44-29a copy",
+  "nombre_carta": "Carta de Nicolás de Santacilia y Togores a Persona desconocida",
+  "fecha_original": "17 de febrero de 1672",
+  "lugar": "Lugar sin especificar",
+  "remitente": "Nicolás de Santacilia y Togores",
+  "destinatario": "Persona desconocida",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Trobant-me jugant a sentoseo [?] en aqueixa badia i jo dic que serà la virreina m'han vingudes ganes saber si es geiar da olega [?] i si ha de dur estimo i totes les demés coses, de llevant fins a ponent, de migjorn fins a tramuntana, de la pendència de don Pedro. I escriurà llarg i no tem dem treball d’enviar-ho a saber s’altre cobertor vermell i sa conxa blava i groga amb ses dues flassades, sempre que vengui algú i se les hi enviareu i tota la gent de casa els comanam molt. Galdent, als 17 febrer 1672. Tant mentides com vanitat.Don Nicolas Santacilia [1§] Jeroni Pelegri, que Déu guardi. Ciutat. Transcripción literal"
+  ],
+  "literal": [
+    "1. Trobrant me gugant a sentoseo 2. [^coitgn / tris] ene quexa bedia i godic que sera la vireina 3. man vingudes ganas seber sis geiar da olega 4. i sia de durestimo i totas las demes cosas de 5. levant fins a ponent de mixgorn finse 6. tremuntana de la pendensia de don 7. Poio i escriura llarc i notem dem trabai 8. den viaro a sebra saltra cubertor vermei 9. i se conxa blave i groga ep ses dos flesadas 10. sempra que venga algu esi les envi- 11. areu i tota la gent de casa los comenam 12. molt galdent als 17 frebre 1672 13. Tant mantidas com Varitat 14. Don Nicolas Sta Cilia [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "44-29a copy.gif",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo07/44-29a copy.gif",
+      "url": "/legajos/legajo-07/images/44-29a copy.gif"
+    },
+    {
+      "filename": "45-29b copy.gif",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo07/45-29b copy.gif",
+      "url": "/legajos/legajo-07/images/45-29b copy.gif"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "44-29a copy.gif",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-07/cartas/000798.json",
+  "primary_image_url": "/legajos/legajo-07/images/44-29a copy.gif"
+}

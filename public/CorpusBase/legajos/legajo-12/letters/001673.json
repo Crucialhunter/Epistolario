@@ -1,0 +1,38 @@
+{
+  "legajo_id": "12",
+  "id_carta": "1673",
+  "order_in_legajo": 177,
+  "signatura": "264_6266.JPG",
+  "nombre_carta": "Carta de Jaime Martín a Pedro Santacilia y Pax",
+  "fecha_original": "3 de octubre de 1656",
+  "lugar": "Palermo",
+  "remitente": "Jaime Martín",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Con otras dos cartas tengo avisado a v. s. la mucha merced y favor que el maestre de campo Bartolome de Medina me hace desde el primer día que asenté la plaza solo por decir que era de su casa. Ahora que recibió las cartas me dijo que en la primera ocasión que hubiera levas me acomodará y antes de tenerlas había dicho lo mismo, y así estoy confiado que en la primera ocasión que habrá me pasará adelante. Es tanta mi pasión de continuar al servicio de su majestad que sólo por pasar adelante con sus aumentos no se me daría nada de ir a servir a cualquier parte, por tanto, pido a v. s. que si hay levas aquí y me quiere acomodar estimaré mucho mande avisarme. Lo mismo he escrito a mi señor, y con las cartas que tuve me he holgado mucho que tenía buena salud junto con todos los señores y señoras yo la tengo para servirle en todo cuanto mandare, y en cuanto al susodicho espero tendré buen fin como espero de su mano. Dios lo guarde como puede y más merece y este su menor criado desea de Palermo y octubre a 3 de 1656. Jaime Martin Sr. don Pedro Santacilia [1§] Transcripción literal"
+  ],
+  "literal": [
+    "1. Con otras dos cartas tengo avisado a Vsa la mucha2. mersed y favor q el Sr. M[aest]re de Campo Bart[olo]me de3. Medina me açe dende el primer dia q asente4. la plaça solo por dezir que era de su casa agora5. que recibio las Cartas me dixo que en la primera6. ocazion que huviera levas me acomodara y antes7. de tenerlas havia d[ic]ho lo mesmo, y ansi estoy con8. fiado que en la primera ocaçion que abra me9. passara adelante= Es tant mi pasion de10. continuar al servitio de su Mag[esta]d que solo por11. pasar adelante con sus aumentos no se me daria12. nada de ir a servir a qualquier parte por tanto13. Pido a V.Sa. que si ay levas aquí y me quiere14. acomodar estimaremucho mande avisarme.15. Lo mesmo é escrito a mi señor, y con las car16. tas que tuve me é olgado mucho que tenia17. buena salud junto con todos los Señores y18. Señoras yo la tengo para servirle en todo quanto19. mandare y en quanto al susod[ic]ho espero tendre20. buen fin como espero de su mano dios lo gde.21. como puede y mas mereçe y este su menor22. Criado dezea de Pall[er]mo y octubre a 3 de 165623. Jayme Martin24. Sr. Don Pedro Santa Scilia [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "264_6266.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo12/264_6266.JPG",
+      "url": "/legajos/legajo-12/images/264_6266.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "264_6266.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-12/cartas/001673.json",
+  "primary_image_url": "/legajos/legajo-12/images/264_6266.JPG"
+}

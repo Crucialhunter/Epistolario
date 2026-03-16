@@ -1,0 +1,42 @@
+{
+  "legajo_id": "40",
+  "id_carta": "5721",
+  "order_in_legajo": 109,
+  "signatura": "149:73a",
+  "nombre_carta": "Carta de Persona desconocida a Persona desconocida",
+  "fecha_original": "12 de agosto de 1663",
+  "lugar": "Mallorca",
+  "remitente": "Persona desconocida",
+  "destinatario": "Persona desconocida",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "A 12 de agost 1663 ha rebut mestre Antoni Verdum, picapedrer de mi Sra. a bon compte de l'escarada que té per 30 ll. en la casa del Mercat. [1§] Transcripción literal"
+  ],
+  "literal": [
+    "1. A 12 de Agost 1663 ha rebut me. Antt Verdum Picapedrer de mi Sra a bon compta de la esquerada que te per 30 Ll en la cassa del Mercat..."
+  ],
+  "imagenes": [
+    {
+      "filename": "149:73a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo40/149:73a.JPG",
+      "url": "/legajos/legajo-40/images/149:73a.JPG"
+    },
+    {
+      "filename": "150:73b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo40/150:73b.JPG",
+      "url": "/legajos/legajo-40/images/150:73b.JPG"
+    },
+    {
+      "filename": "151:73c.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo40/151:73c.JPG",
+      "url": "/legajos/legajo-40/images/151:73c.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "149:73a.JPG",
+  "warnings": [],
+  "raw_source": "raw/legajos/legajo-40/cartas/005721.json",
+  "primary_image_url": "/legajos/legajo-40/images/149:73a.JPG"
+}

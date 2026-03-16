@@ -1,0 +1,45 @@
+{
+  "legajo_id": "26",
+  "id_carta": "4332",
+  "order_in_legajo": 68,
+  "signatura": "098:3426.JPG",
+  "nombre_carta": "Carta de Persona desconocida a Pedro Santacilia y Pax",
+  "fecha_original": "10 de diciembre de 1639",
+  "lugar": "Pamplona",
+  "remitente": "Persona desconocida",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Con vuestra carta y buen aviso de licencia quedo con el gusto que de mi amistad podéis creer. Don Fernando dejó las listas en poder de Rafael de Liñan y Arias que asiste en Terralba con que en llegando la orden se abrevia de tiempo en el ínterin podréis enviar a sacar la certificación del ajustamiento para ganar ese tiempo y poder abreviar de viaje quien cuanto a la cobranza [?] por imposible por acá si acaso la incomonidad es la que juzgo y fuere dicen bido degraio [?] disponga aquí con que podais despacharos. Me avisaréis de aquí al martes para que quien a mi me ha acomodado me dé lo más que fuere de vuestro gusto y el mío será el que querais emplearme en vuestro servicio, aquí y en todas partes me tendréis vuestro amigo. Guarde Dios y os de la salud que yo deseo. Pamplona 10 Diciembre 1639. La carta de don Fernando irá a Valladolid y las demás pondré en mano propia y no dejéis de escribirme en el ínterin que no partis. [?] Alonso [?] Sr. don Pedro SSantacilia y Pax Transcripción literal"
+  ],
+  "literal": [
+    "1. Con buestra carta y buen abi2. sso de liçençia quedo con el gusto que3. de mi amistad podeis creer don Fer4. nando dego las listas en poder de5. Rafael de Liñan y Arias que assis6. te en Terraba con que en lle7. gando la orden se abrebia de ti8. enpo en el ynteri podreis enbiar9. a sacra la sertificasion de la justa10. miento pª ganar ese tienpo y po11. der abrebiar de biage quien quanto12. a la cobransa [?] por ynposi13. ble por aca si acasso la incomonidad14. es la que jusgo y fuere dissen bido15. degraio disponga aqui con que podais16. despacharos me abissareis de aqui al17. martes pª que quien a mi me acomoda18. do me de lo mas que fuere de buestro gusto19. y el mi ossera el que querais enplear20. me en buestro sserbicio aqui i en todas21. partes me tendreis buestro amigo Gu22. arde Dios y os de la salud que io desseo23. Panplona 10 diçíenbre 163924. La carta de Don fernando yra a Balla25. dolid y las demas pondre en mano pro26. pia y no degeis de escribirmen el interim27. que no partis28. [?] Alonso[?]29. Sr. Don Pº SSantacilia y Pax [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "098:3426.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo26/098:3426.JPG",
+      "url": "/legajos/legajo-26/images/098:3426.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "098:3426.JPG",
+  "warnings": [
+    {
+      "code": "IMAGE_DOWNLOAD_FAIL",
+      "message": "HTTP 404",
+      "context": {
+        "url": "http://santacilia.info/intranet2/img/Legajo26/098:3426.JPG"
+      }
+    },
+    {
+      "code": "IMAGE_COUNT_MISMATCH",
+      "message": "Imágenes detectadas (1) != descargadas (0)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-26/cartas/004332.json",
+  "primary_image_url": "/legajos/legajo-26/images/098:3426.JPG"
+}

@@ -1,0 +1,38 @@
+{
+  "legajo_id": "19",
+  "id_carta": "7731",
+  "order_in_legajo": 38,
+  "signatura": "437_7938.JPG",
+  "nombre_carta": "Carta de Martí Cladera a Pedro Santacilia y Pax",
+  "fecha_original": "fecha sin especificar",
+  "lugar": "Mallorca",
+  "remitente": "Martí Cladera",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Senyor don pedrovuy als 7 setembre he rebut una da v. m. amb la qual me demana dos pos [?] Aquí va amb el portador d'esta els millors que ha tingut en ma casa i guarda d'ells la valor que v. m. [?] nalla amb la carta tenim avui ma aparegut [?] i la vista que confia faci prompte guardi a. nostre foso a v. m. da la [?] setembre als 7 ut supcaMarti Claderac. o. v. m. don Pedro de Santacilia Transcripción literal"
+  ],
+  "literal": [
+    "1. Señor don pedro2. vuy als 7 7bre. he rebut una da v. m. 3. ab la qual me damana dos pos [?] 4. Aqui va ab lo portador desta los millos 5. q ha tingut en ma casa y guarda 6. dells la valor q v. m. [?] nalla ab la 7. carta tanim avuy ma aparegut [?] 8. ?? y la vista q confia fasa prompte 9. gda. nostro foso a v. m. da la [?] 10. 7bre. als 7 ut supca11. Marti Cladera12. c. o. v. m.13. Don pedro de Sta. Cilia [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "437_7938.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo19/437_7938.JPG",
+      "url": "/legajos/legajo-19/images/437_7938.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "437_7938.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-19/cartas/007731.json",
+  "primary_image_url": "/legajos/legajo-19/images/437_7938.JPG"
+}

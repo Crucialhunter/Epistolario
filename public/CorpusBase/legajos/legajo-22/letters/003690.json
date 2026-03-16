@@ -1,0 +1,43 @@
+{
+  "legajo_id": "22",
+  "id_carta": "3690",
+  "order_in_legajo": 70,
+  "signatura": "132:5059a.JPG",
+  "nombre_carta": "Carta de Jerónimo de Balbás a Pedro Santacilia y Pax",
+  "fecha_original": "26 de agosto de 1640",
+  "lugar": "Lugar sin especificar",
+  "remitente": "Jerónimo de Balbás",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Sr. D. Pedro de Santacilia Hago particular estimación del aviso que v. m. me da y por no cansarle le diré en breves palabras que es más el ruido que las nueces y digo que todo ha sido un poco de miel que saltando los marineros y soldados para hacer un poco de agua se toparon con unas colmenas y se trajeron una poca. En lo que v. m. me dice de la custodia de la gente la infantería la tengo como capuchinos, los marineros paisanos de v. m. no es posible detenerlos porque les parece que no militan debajo de mi mano. Harto Al Sr. D. Pedro de Santacilia, guarde Dios caballero de la orden de Calatrava [1§] he dicho a v. m. en esto. Dios guarde a v. m. como deseo de este puerto y agosto 26 de 1640. Muy servidor de v. m. don Jeronimo de Balbas Después de haber escrito a v. m. me dice un sargento lo que verá v. m. en ese papel. Transcripción literal"
+  ],
+  "literal": [
+    "1. Sr. D. Pº de S. Cicilia2. Ago particular hestimazion3. del abiso que Vm me da y por4. no cansarle le dire hen bre5. bes palabras ques mas hal6. ruido que las nuezes y digo7. sr. que todo asido un poco de8. miel que saltando los mari9. neros y soldados para azer10. un poco de agua se toparon11. con unas colmenas y se tra12. jeron una poca en lo que Vm.13. me dize de la custodia de la14. gente la ynfanteria la te15. ngo como capuchinos los ma16. rineros paisanos de Vm. no17. es posible detenerlos porque18. les pareze que no militan19. debajo de mi mano arto20. VII. Observacions: A la part esquerra del foli diu:21. Al Sr. D. Pº de santa22. zicilia guarde dios23. caballero de la or24. den de calatraba [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "132:5059a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo22/132:5059a.JPG",
+      "url": "/legajos/legajo-22/images/132:5059a.JPG"
+    },
+    {
+      "filename": "133:5059b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo22/133:5059b.JPG",
+      "url": "/legajos/legajo-22/images/133:5059b.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "132:5059a.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (2)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-22/cartas/003690.json",
+  "primary_image_url": "/legajos/legajo-22/images/132:5059a.JPG"
+}

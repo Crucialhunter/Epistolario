@@ -1,0 +1,43 @@
+{
+  "legajo_id": "10",
+  "id_carta": "1189",
+  "order_in_legajo": 58,
+  "signatura": "103-356aJPG",
+  "nombre_carta": "Carta de Diego Matías de Aragüés a Jerónimo Pelegrín de Aragüés",
+  "fecha_original": "8 de septiembre de 1668",
+  "lugar": "Madrid",
+  "remitente": "Diego Matías de Aragüés",
+  "destinatario": "Jerónimo Pelegrín de Aragüés",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Recibo la de v. m. de 20 del pasado holgándome goce de muy buena salud y que la tengan todos en su casa y en la de mi señora dña. Leonor y demás señores de su casa. El señor don Pedro está bueno y fuerte; el señor don Juan ha dos días que se levanta, está flaco pero libre ya, Dios gracias, de sus achaques, que sólo falta ahora [?] abrazarle [?] de [?] por el vientre con que quedará del todo bueno, y que se guarde en el en el [?] buena [?]. V. m. no haga caso de cuanto por allá digan y escriban si no lo que yo le diga o el señor don Pedro. No hay que dar cuidado en lo de los criados. Giuseppe se despidió los días pasados del señor don Pedro viniendo de misa de San Antonio sin tener causa alguna. Yo le he d¡cho que no le vuelva a recibir aunque rogare. Juzgo lo hará [?]. Por Barcelona tengo escrito y remitido el despacho del señor nuncio, que ha pedido el [?] hijo de la panadera de casa: avíseme de su recibo. Allí digo como no me queda en mi poder del dinero de v. m. sino iii reales de plata, y estos serán menester para el señor Sureda [1§]. Ya he dicho al señor don Pedro de su [?] a mi lo que me ha escrito v. m. y todo se prevendrá no hay que dar cuidado que espero todo sucederá bien. Ayer volvió a ver al señor [?] y hablaron muy de amistad y estuvieron grande rato juntos. Remítome a lo que se fuere obrando. V. m. me mande, que sus manos besamos con muchas saludes dña. Margarita y yo. Y a las sobrinas y sobrino, que guarde Dios, como deseo. Madrid, 8 septiembre 1668. De v. m. tío y servidor, Diego Matias de Aragues. Jeronimo Pelegrin de Aragues, mi sobrino. Transcripción literal"
+  ],
+  "literal": [
+    "1. Recibo la de V.M. de 20 del passado olgandome 2. goze de mui buena salud y que la tengan 3. todos en su casa y en la de mi Sra. 4. Dª Leonor y demas sres. de su casa. 5. El Sr. don Pedro esta bueno y fuerte, el Sr. 6. Don Juan ha dos dias que se levanta esta 7. flaco pero libre y a Dios gracias de sus 8. achaques y solo falta agora [^??avrasarle??^] 9. de [^??^] por el viente con que quedara 10. del todo bueno, y que se guarde en el en el [^??buena??^]. 11. V.M. no haga casso de qto por alla digan 12. y escrivan sino lo que yo le diga, o, 13. el Sr. Don Pedro, no ay que dar cuydado 14. en lo de los criados. Juseppe se despidio 15. los dias passados del Sr. Don Pedro viniendo 16. de Missa de San. Antonio sin tener causa 17. alguna. Yo lehe dicho que no le buelva 18. a recibir aunque [^??^], Juzgo lo ara[^??^] 19. .20. Por Barcelona tengo escrito y remitido 21. el despacho del Sr. Nuncio que ha pedido 22. el [^??^] hijo de la panadera de cassa 23. avisseme de su recivo, alli digo como no 24. me queda en mi poder del dinero de V.M. 25. sino iii Rs de pla y estos seran menester p [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "103-356aJPG.jpg",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo10/103-356aJPG.jpg",
+      "url": "/legajos/legajo-10/images/103-356aJPG.jpg"
+    },
+    {
+      "filename": "104-356b.jpg",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo10/104-356b.jpg",
+      "url": "/legajos/legajo-10/images/104-356b.jpg"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "103-356aJPG.jpg",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING",
+      "message": "Se detectaron caracteres sospechosos de encoding (7)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-10/cartas/001189.json",
+  "primary_image_url": "/legajos/legajo-10/images/103-356aJPG.jpg"
+}

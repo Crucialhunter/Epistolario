@@ -1,0 +1,43 @@
+{
+  "legajo_id": "15",
+  "id_carta": "2197",
+  "order_in_legajo": 96,
+  "signatura": "150:6422a.JPG",
+  "nombre_carta": "Carta de Gabriel Domènech a Pedro Santacilia y Pax",
+  "fecha_original": "9 de agosto de 1645",
+  "lugar": "Tarragona",
+  "remitente": "Gabriel Domènech",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Señor mío, La de v. s. tengo recibida de los quince del pasado, en que me he holgado haya llegado con salud, juntamente con mi señora Doña Madalena, de quién Dios dé a v. s. la sucesión que v. s. deba y su mínimo criado deba. Cierto señor que no ha de qué manera, aunque tuviera mil vidas, de qué manera poder satisfacer parte de las mercedes que v. s. me hace a este tan humilde criado, si no es poniéndome [?] en la cara, llamándome esclavo de v. s. y de cosas suyas. Aquí ha llegado nuestra armada con veinticinco bajeles de guerra y nueve de fuego y veinticuatro galeras. Y al instante que llegaron, despidieron una fragata a la vuelta de mar, para que trajese hombre de ahí, en que se pudiera tomar lengua, a donde estaba la armada del enemigo y le dieron palabra aguardarla hasta los quince de éste. De nuestro ejército no sabía cosa ninguna, solamente que se va juntando mucha gente. El enemigo aún tiene sitiado Balaguer. Por ahora no se sabe ninguna novedad. De todo avisaré a v. s., de quien confío todos mis aumentos y me mandará lo que fuere de su gusto. Dios guarde a v. s. los años que sus criados hemos menester, con los adventos de v. s. desea. Tarragona, a 9 de agosto 1645. Criado de v. s.,Gabriel Domenech A mi señor, don Pedro Santaciia y Pax Transcripción literal"
+  ],
+  "literal": [
+    "1. Sr mio 2. La de VS tengo resebida de los quinse 3. del pasado en que meolgado aja legado 4. con salut juntamente con mi Sra tonja 5. Madelena de quien dios de a VS 6. la sucesion que VS deva y sumi7. nimo criado deva, sierto Sr quenoa 8. deque manera aunque tubiera mil= 9. vida de que manera poder satisfa10. ser parte delas mercedes que VS me 11. aeste tan umilde criado sinoes 12. poniendome injero [?] enla cara la 13. mandome esclavode VS y de cosas 14. sujas= Aqui alegado nuestra ar15. mada con vente y sinco vajeles de 16. gera y nueve de fuego y vente 17. y cuatro Galeras yel istante que 18. legaron depidieron una fragata ala 19. buelta de mar ala paraque traje20. se honbre deai enque sepodra toma21. r leng[^u]a adonde estava larmada del 22. enemigo y ledieron palabra aguar23. darla asta los quinse deste; de [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "150:6422a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo15/150:6422a.JPG",
+      "url": "/legajos/legajo-15/images/150:6422a.JPG"
+    },
+    {
+      "filename": "151:6422b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo15/151:6422b.JPG",
+      "url": "/legajos/legajo-15/images/151:6422b.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "150:6422a.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-15/cartas/002197.json",
+  "primary_image_url": "/legajos/legajo-15/images/150:6422a.JPG"
+}

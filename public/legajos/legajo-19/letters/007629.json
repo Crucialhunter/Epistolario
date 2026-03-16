@@ -1,0 +1,37 @@
+{
+  "legajo_id": "19",
+  "id_carta": "7629",
+  "order_in_legajo": 317,
+  "signatura": "258_cg111a",
+  "nombre_carta": "Carta de Persona desconocida a Persona desconocida",
+  "fecha_original": "9 de mayo de 1666",
+  "lugar": "Banyalbufar",
+  "remitente": "Persona desconocida",
+  "destinatario": "Persona desconocida",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "A 9 maig 1666 Pº. la Pedra de me. Majol val 2 L 12 S Mes Déu docens de pedrenyar. 1 L valen ____ 9 L 18 S Mes 5 viages de bestioar. 7 S 6 val ____ 1 L 17 S [1§] Sr. Bernardi en Banialbufar s'han de fer les obsequias. [2§] Transcripción literal"
+  ],
+  "literal": [
+    "1. A 9 Maig 1666 2. Pº. la Pedra de me. Majol val 2 L 12 S 3. Mes Deu docens de pedrenyar. 4. 1 L valen ____ 9 L 18 S 5. Mes 5 viages de bestioar. 7 S 6 6. val ____ 1 L 17 S [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "258_cg111a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo19/258_cg111a.JPG",
+      "url": "/legajos/legajo-19/images/258_cg111a.JPG"
+    },
+    {
+      "filename": "259_cg111b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo19/259_cg111b.JPG",
+      "url": "/legajos/legajo-19/images/259_cg111b.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "258_cg111a.JPG",
+  "warnings": [],
+  "raw_source": "raw/legajos/legajo-19/cartas/007629.json",
+  "primary_image_url": "/legajos/legajo-19/images/258_cg111a.JPG"
+}

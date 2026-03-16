@@ -1,0 +1,38 @@
+{
+  "legajo_id": "30",
+  "id_carta": "6568",
+  "order_in_legajo": 57,
+  "signatura": "049:5406",
+  "nombre_carta": "Carta de Joan Antoni Albertí a Persona desconocida",
+  "fecha_original": "9 de diciembre de 1619",
+  "lugar": "Mallorca",
+  "remitente": "Joan Antoni Albertí",
+  "destinatario": "Persona desconocida",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Â [1§] Transcripción literal"
+  ],
+  "literal": [
+    "1."
+  ],
+  "imagenes": [
+    {
+      "filename": "049:5406.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo30/049:5406.JPG",
+      "url": "/legajos/legajo-30/images/049:5406.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "049:5406.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (4)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-30/cartas/006568.json",
+  "primary_image_url": "/legajos/legajo-30/images/049:5406.JPG"
+}

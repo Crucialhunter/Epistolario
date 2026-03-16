@@ -1,0 +1,43 @@
+{
+  "legajo_id": "18",
+  "id_carta": "3093",
+  "order_in_legajo": 131,
+  "signatura": "203:4932a.JPG",
+  "nombre_carta": "Carta de Bartolomé Garcias a Pedro Santacilia y Pax",
+  "fecha_original": "16 de septiembre de 1664",
+  "lugar": "Madrid",
+  "remitente": "Bartolomé Garcias",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "v. s. me deja muy gustoso con su carta de 28 del pasado que he recibido pues en ella me participa buenas nuevas de su salud de v. s. y de haber llegado asucasa con felix viaje que para mi ha sido de suma estimación y más con la noticia que me da de mi hermano el Pe Presentado que me holgaré asista a servir a v. s. como debe yo en todo tiempo estaré pormiento para todo lo que v. s. quisiere mandarme y con el rendimiento que devan mis obligaciones al Sr. don Gabriel de Berga beso la mano, mair y menor, no olvi dando las del Sr. don Juan Miguel su hijo de v. s. a quien asimismo doy lanora buena de lamerd delhabito como de él Sr. don Nicolás. y deseare siempre dar se las de mayores puestos que si son tan grandes como v. s. merece y toda su casa serán muy a medida de mi gusto pues v. s. tiene quien le [1§] dará noticias de las novedades de este lugar no le canso en esto solo suplicar a v. s. que no se olvide demandarme pues sabe será de mi estimación tener órdenes que obedecer de v. s. a quien guarde Dios muchos años Madrid Septiembre 16 de 1664 Mair servidor y menor capellán de v. s. que sus manos besa D. Bartme Garcies Sr. don Pedro Santacilia y Pax [2§] Transcripción literal"
+  ],
+  "literal": [
+    "1. VSª me deja muy gustoso con su carta de 28 2. del pasado que he recibido pues enella me par3. ticipa buenas nuebas de su salud de VSª yde 4. haver llegado asucasa con felix viaje que 5. para mi asido de summa estimacion ymas 6. con la noticia que me da demi hermano el 7. Pe Presentado que me olgare assista a servir 8. a VSª como deve yo entodo tiempo estare 9. pormto para todo loque VSª quisiere man10. darme y conel rendimiento que devan 11. mis obligaciones = alsr Don Gabriel de 12. Berga beso lamano, mayr y menor, no olvi13. dando las del sr Don Juan Miguel su 14. hijo de VSª aquien assimismo doy lanora15. buena de lamerd delhabito como deel 16. Sr Don Nicolas. y dezeare siempre dar 17. selas de mayores puestos que si son 18. tan grandes como VSª mereçe ytoda 19. sucasa seran muy amedida de mi 20. gusto = Pues VSª tiene quien le [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "203:4932a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo18/203:4932a.JPG",
+      "url": "/legajos/legajo-18/images/203:4932a.JPG"
+    },
+    {
+      "filename": "204:4932b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo18/204:4932b.JPG",
+      "url": "/legajos/legajo-18/images/204:4932b.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "203:4932a.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-18/cartas/003093.json",
+  "primary_image_url": "/legajos/legajo-18/images/203:4932a.JPG"
+}

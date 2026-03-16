@@ -1,0 +1,43 @@
+{
+  "legajo_id": "13",
+  "id_carta": "1760",
+  "order_in_legajo": 27,
+  "signatura": "053:2264a.JPG",
+  "nombre_carta": "Carta de Jerónimo Pelegrín de Aragüés a Pedro Santacilia y Pax",
+  "fecha_original": "4 de agosto de 1668",
+  "lugar": "Mallorca",
+  "remitente": "Jerónimo Pelegrín de Aragüés",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Anoche se partió el hijo del patrón Serra a quien entregué un pliego para v. s. a manos de Luis Viguet, Dios quiera llegue a las de v. s. con que con este pasaje tengo poco que añadir, pues hay salud gracias a Dios en toda la parentela y don Giuseppe Santacilia 240 salarios [?] con que v. s. está fuera de ese cuidado. Y en los negocios de lana [?] ya que v. s. no tuvo gusto el que le fuese sirviendo por mi parte no hay falta ni la habrá mientras viviere. Mi Sra. está con toda quietud, la familia de casa encomendándose a Dios . Don Nicolás muy alentado, asistido de toda la nobleza. Esta tarde ha salido acá de libres, está bueno del todo, muy cariñoso con mi Sra. pues a todas horas hace su gusto. v. s. mire por su negocio y me perdone mi señor si soy prolijo con mis cartas que me pesará mucho enfadarle, de Mallorca, 4 de agosto 1668. Su criado de v. s. que sus manos besa. Jeronimo Pelegrin de Aragues Mi señor don Pedro [1§] Mallorca Agosto 4 de 1668. Respuesta dicho Jeronimo Pelegrin [2§] Transcripción literal"
+  ],
+  "literal": [
+    "1. Anoche separtió. el hijo del patron Serra a2. quien entregue Un pliego para V.S. amanos.3. de Luis Viget, Dios quiera llege alas de V.S.4. con que con este Passaxe tengo poco que añadir.5. pues haÿ salud gracias a Dios. en toda la parentela6. y don Jusepe Santa Cilia 240 sal[arios??] con que V.S.7. esta fuera desse cuÿdado. i en los negocios de lana[?]8. ia que V.S. no tubo justo el que le fuesse sirviendo9. por mi parte no haÿ falta ni la habra mientes10. viui(ui)ere. mi sra. esta con toda quietut la11. familia de cassa encomendandose a Dios. Don12. Nicolas muÿ alentado asistido. de toda la nobleça13. esta tarde asalido aça de libres = esta bueno,14. del todo muÿ cariñosso con mi sra. pues a ttodas15. oras ace su gusto.16. V.S. mire por su negoçio y me perdone mi señor17. si soÿ prolixo. con mis cartas que me pessara mucho.18. enfadarle de Mallorca. 4. de Agosto 1668.19. Su Criado de V.S. q s M B.20. Geronymo Pelegrin de Aragues21. Mi Señor Don Po [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "053:2264a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo13/053:2264a.JPG",
+      "url": "/legajos/legajo-13/images/053:2264a.JPG"
+    },
+    {
+      "filename": "054:2264b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo13/054:2264b.JPG",
+      "url": "/legajos/legajo-13/images/054:2264b.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "053:2264a.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (4)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-13/cartas/001760.json",
+  "primary_image_url": "/legajos/legajo-13/images/053:2264a.JPG"
+}

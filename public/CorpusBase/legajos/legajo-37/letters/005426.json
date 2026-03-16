@@ -1,0 +1,37 @@
+{
+  "legajo_id": "37",
+  "id_carta": "5426",
+  "order_in_legajo": 4,
+  "signatura": "014:10a",
+  "nombre_carta": "Carta de Pedro Santacilia y Pax a Persona desconocida",
+  "fecha_original": "fecha sin especificar",
+  "lugar": "lugar sin especificar",
+  "remitente": "Pedro Santacilia y Pax",
+  "destinatario": "Persona desconocida",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Transcripción literal"
+  ],
+  "literal": [
+    "1. És un compte que duu per títol: Comte del Sr Don Pedro Santa Silie"
+  ],
+  "imagenes": [
+    {
+      "filename": "014:10a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo37/014:10a.JPG",
+      "url": "/legajos/legajo-37/images/014:10a.JPG"
+    },
+    {
+      "filename": "015:10b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo37/015:10b.JPG",
+      "url": "/legajos/legajo-37/images/015:10b.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "014:10a.JPG",
+  "warnings": [],
+  "raw_source": "raw/legajos/legajo-37/cartas/005426.json",
+  "primary_image_url": "/legajos/legajo-37/images/014:10a.JPG"
+}

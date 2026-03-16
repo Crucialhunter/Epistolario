@@ -1,0 +1,38 @@
+{
+  "legajo_id": "19",
+  "id_carta": "7765",
+  "order_in_legajo": 62,
+  "signatura": "488_7964.JPG",
+  "nombre_carta": "Carta de Sebastià Canet a Pedro Santacilia y Pax",
+  "fecha_original": "fecha sin especificar",
+  "lugar": "Barcelona",
+  "remitente": "Sebastià Canet",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Exmo. Señor Don Pedro Santacilia yPer au despertar a v. m. no so anat a besarli [?] aquí selo pagui; lo que demanará el duc faré [?] Barceª. y cuant lo isca le rebre el Compte lai porta [?] Tingam v. m. en sa gracia. lo Dr. Sebª Canet Sr. don Pedro Santacilia y Pax. [1§] Transcripción literal"
+  ],
+  "literal": [
+    "1. Exmo. Señor 2. Don Pedro SantaCilia y3. Per au despertar a V. m. no so anat a besarli [?] 4. aqui selo pagui; lo que demanará lo Sr. duch faré [?] 5. Barceª. y quant lo isca li rebre lo Sr. Compte lai porta [?] 6. Tingam V. M. en sa gracia. 7. lo Dr. Sebª Canet 8. Sr. don Pedro Santacilia y Pax. [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "488_7964.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo19/488_7964.JPG",
+      "url": "/legajos/legajo-19/images/488_7964.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "488_7964.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (2)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-19/cartas/007765.json",
+  "primary_image_url": "/legajos/legajo-19/images/488_7964.JPG"
+}

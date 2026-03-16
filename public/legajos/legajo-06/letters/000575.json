@@ -1,0 +1,38 @@
+{
+  "legajo_id": "6",
+  "id_carta": "575",
+  "order_in_legajo": 78,
+  "signatura": "080-46",
+  "nombre_carta": "Carta de Bernardo Clar a Cecilia Zaforteza y Sureda de Sant Martí",
+  "fecha_original": "21 de diciembre de 1748",
+  "lugar": "Madrid",
+  "remitente": "Bernardo Clar",
+  "destinatario": "Cecilia Zaforteza y Sureda de Sant Martí",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Muy señora mía, En respuesta de la de v. s. de 26 del vencido, remito el recibo que v. s. pide. Si no está concebido en los términos que debe, avisar, que deseo en un todo complacerla. No deja de causarme extrañeza la causa de ese recibo, siendo así que el Sr. D. Francisco (que goce de Dios) favorecía mucho al heredero. Señora, resignación, que en este mundo nada hay firme. De v. s. siempre con rendida voluntad. la Divina guarde a v. s. y a todos los parientes, a quienes saludo. Madrid y diciembre 21 de 748. Besa las manos de v. s. su seguro servidor, doctor Clar. Mi señora Dña. Cecilia Zaforteza. [En la parte izquierda del documento, de arriba a abajo] No he escrito la muerte de su sobrina la condesa de Perelada porque sé que el conde lo ha hecho. Transcripción literal"
+  ],
+  "literal": [
+    "1. Muy Sora mía. En respuesta de la de 2. V.S. de 26 del vencido, remito el re- 3. cibo, que V.S. pide: si no esta concebido 4. en los terminos q deve; avizar, que 5. dezeo en un todo complacerla: No de- 6. ja de causarme estrañeza la causa 7. dese recibo, siendo asi q el Sr. Dn. Franco (q 8. goze Dios) favorecia mucho al heredero; 9. Señora, resignacion, q en este mundo na- 10. da hay firme. De V.S. siempre con ren- 11. dida voluntad; la Divina Gde a V.S. y 12. á todos los Parientes, á quienes saludo. 13. Madrid y Des[em]bre 21 de 748. 14. B L[a] M de V.S. su 15. seg[u]ro sdor Doctor Clar 16. Mi Sora Da. Cecilia Zaforteza 17. [ En la parte izquierda del documento, de arriba a abajo ]18. No he escrito la muerte de su sobrina la Con- 19. desa de Perelada, porq se, q el Conde lo ha 20. hecho. [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "080-46.jpg",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo06/080-46.jpg",
+      "url": "/legajos/legajo-06/images/080-46.jpg"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "080-46.jpg",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-06/cartas/000575.json",
+  "primary_image_url": "/legajos/legajo-06/images/080-46.jpg"
+}

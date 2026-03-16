@@ -1,0 +1,43 @@
+{
+  "legajo_id": "16",
+  "id_carta": "2632",
+  "order_in_legajo": 103,
+  "signatura": "192:2132a.JPG",
+  "nombre_carta": "Carta de Gerónimo García a Pedro Santacilia y Pax",
+  "fecha_original": "de agosto de 1667",
+  "lugar": "Ibiza",
+  "remitente": "Gerónimo García",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Señor mío doy respuesta a una de v. s. de 4 del pasado, agradecido de la merced que v. s. muestra hacerme y me holgaré reconocerla en repetidos empleos del servicio de v. s. Estos días pasados por medio del señor virrey recibí la orden de su majestad sobre el rompimiento de la paz con Francia, arrojo que siempre lo tuve por cierto de esta nación, y que cuando menos nos pensaríamos [que] nos la había de pegar, por la paciencia con que van nuestras cosas. Quiera Dios veamos postrados los atrevimientos del francés, pues con motivos injustos ha movido este atentado. Aunque de antemano con estos recelos tenía prevenida esta isla en lo que me da lugar he refrescado las órdenes, obligando dentro [de] la real fuerza la tercera parte de la cosecha para su conservación [1§] y para lo que se necesita de provisiones y gente he hecho barca propia, dando cuenta a su majestad con toda distinción para que en ningún tiempo se me haga cargo v. s., pues sabe cuan suyo soy. No me tenga ocioso en todo lo que fuere de su servicio y Nuestro Señor nos ayude, y guarde a v. s. largos años como puede. Ibiza, de agosto 1667. Besa la mano de v. s., su menor servidor, Don Jeronimo Garcia Señor don Pedro Santacilia y Pax Transcripción literal"
+  ],
+  "literal": [
+    "1. Sr mio Doy Respuesta a una de V.S. de 4. del 2. passado agradeçido de la merced q V.S. mues3. tra hazerme y me olgare reconozerla en repe4. tidos enpleos del servo de V.S. 5. estos dias passados por medio delsr virrey Re-6. cibi la orden de su Magd sobre el rompimiento 7. de la paz con francia arrojo que siempre 8. lo tube por çierto desta nacion, y que quando 9. menos nos pensariamos nos la havia de 10. pegar, por la paciencia conque van nras 11. cosas; quiera dios veamos postrados los 12. atrevimientos del françes, pues con motivos 13. injustos hamovido este atentado. 14. Aunque de ante mano con estos rezelos te15. nia prevenida esta Isla en lo que 16. me da lugar; he refrescado las ordenes 17. obligando dentro la Rea>l fuerza la tercera 18. parte de la cosecha para su conservaçion [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "192:2132a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo16/192:2132a.JPG",
+      "url": "/legajos/legajo-16/images/192:2132a.JPG"
+    },
+    {
+      "filename": "193:2132b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo16/193:2132b.JPG",
+      "url": "/legajos/legajo-16/images/193:2132b.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "192:2132a.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (2)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-16/cartas/002632.json",
+  "primary_image_url": "/legajos/legajo-16/images/192:2132a.JPG"
+}

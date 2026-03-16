@@ -1,0 +1,38 @@
+{
+  "legajo_id": "22",
+  "id_carta": "3623",
+  "order_in_legajo": 6,
+  "signatura": "004:4969.JPG",
+  "nombre_carta": "Carta de Miquel Rocabertí Descoll i Tagamanent a Pedro Santacilia y Pax",
+  "fecha_original": "21 de mayo de 1627",
+  "lugar": "Barcelona",
+  "remitente": "Miquel Rocabertí Descoll i Tagamanent",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Amb molt justa causa sent v. m. la mort del Sr. don Guillem que Déu tinga en el cel, pus amb ella té v. m. un servidor manco. Jo estimaré en molt que les coses vinguin de manera que a mi em resten moltes obligacions de servir a v. m. la que em fa en sa carta i les que don Guillem i jo teníem d'{ESP. atras} de servir a v. m., tenint molta certesa que el fil no trencara per ma part en coses de son servei de v. m. {ESP. cuya} persona guardi Nre. Sr. en Barcelona a 22 de maig 1627. Don Miquel de Rocaberti Descoll i de Tagamanent Sr. don Pedro Santacilia i Pax. Transcripción literal"
+  ],
+  "literal": [
+    "1. Ab molt iusta causa sent V.m. la2. mort del Sr. don Guillem que deu3. tinga en lo sel, pus ab ella te V.m.4. un servidor manco, yo estimare en5. molt que las cosas vingan de manera6. que amim resten moltas obligacions de7. servir a V.m. la quem fa en sa carta8. y las que don Guillem y yo teniam de9. atras de servri a V.m., tenint molta10. certesa que lo fil no trencara per ma11. part en cosas de son servey de V.m.12. cuja persona guarde n.s. en Bar[celon]na13. a 22. de maig 1627.14. Don Miquel de rocaberti15. descoll y de Tagamanent16. Sr. don Pedro Sta. cilia y Pax. [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "004:4969.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo22/004:4969.JPG",
+      "url": "/legajos/legajo-22/images/004:4969.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "004:4969.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-22/cartas/003623.json",
+  "primary_image_url": "/legajos/legajo-22/images/004:4969.JPG"
+}

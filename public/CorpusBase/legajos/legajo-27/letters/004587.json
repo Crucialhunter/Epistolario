@@ -1,0 +1,38 @@
+{
+  "legajo_id": "27",
+  "id_carta": "4587",
+  "order_in_legajo": 58,
+  "signatura": "096:4396.JPG",
+  "nombre_carta": "Carta de Agustí Ferrer a Pedro Santacilia y Pax",
+  "fecha_original": "21 de julio de 1629",
+  "lugar": "Barcelona",
+  "remitente": "Agustí Ferrer",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "El patró Segui s'ha partit el dia de Sant Jaume i apres que és estat fora m'ha donat amb bardissa la inclusa que va amb està en què veura v. m. llargament són intent i dels {ESP. demés} que estan ací, dels qulas dit Seguí, conforme me digué sa confiança aquestes s'han posat al cap. V. m. els armi en conseqüència de dit Segui, i m'han dit fes que v. m. els respongui és menester mirar el que convé, i amb son bon mode entretenir-los fins vinga dit Segui per veure com va de gent, i si aleshores se podran armar tots dos, i v. m. el gusta fer quan no tindrà [?] pel que està empres. Açò es gent que és menester portar-los de certa manera. V. m. procuri resondre'ls al més prest que és pugui, i manar-me totes coses de son gust, i servei a qui Nostre Senyor guardi. Barcelona, i juliol als 21 de 1629. Son menor criat Agusti Ferrer i [?] Hi ha molts grans [?] del meu vici i son germà que és menester escriure molt llarg com ho faré amb el primer. A mi senyor de Pedro Santacilia i Pax Transcripción literal"
+  ],
+  "literal": [
+    "1. Lo patro Sagui se ha partit lo dia de St. jaume2. y apres ques estat fora me ha donat an bardisa3. la ynclusa que va ab esta enque veura v.m.4. llargament son yntent y delos demes que5. estan asi dels qulas dit sagui con forme me digue6. sa confiansa aquestas se an posat al cab7. v.m. los arme en consecna de dit Sagui, y me8. an dit fes que v.m. los responga es menester9. mirar lo que conve, y ab son bon modo entre/10. tenirlos fins vinga dit Sagui per veure com11. ve de gent, y si ales ores se podran armar12. tots dos, y v.m. lo gusta fer quant no tindra13. recabla per lo que esta enpres aso es gent ques14. manaster portar los de serta manera v.m.15. procur resondrels lo mes prest ques puga, y me/16. narme totes coas de son gust, y servey aquí nostra17. señor gde Barcelona, y juliol als 21 de 162918. aymolt gransystories/ [signatura] Son mener Criat19. del meu visi y son [signatura] Agusti ferrer y[ ]20. germa ques menester21. escriures molt llares22. com ho fare ab lo primer23. [33, extrem inferior esquerre] [ ] mi señor de Pedro Stacilia y pax [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "096:4396.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo27/096:4396.JPG",
+      "url": "/legajos/legajo-27/images/096:4396.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "096:4396.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-27/cartas/004587.json",
+  "primary_image_url": "/legajos/legajo-27/images/096:4396.JPG"
+}

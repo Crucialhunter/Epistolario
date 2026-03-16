@@ -1,0 +1,43 @@
+{
+  "legajo_id": "2",
+  "id_carta": "430",
+  "order_in_legajo": 20,
+  "signatura": "41-19a",
+  "nombre_carta": "Carta de Juan García a Gregorio Quint Zaforteza",
+  "fecha_original": "11 de julio de 1716",
+  "lugar": "Roma",
+  "remitente": "Juan García",
+  "destinatario": "Gregorio Quint Zaforteza",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Muy señor mío, después de haber escrito y enviado las cartas al correo, he tenido noticia que por parte de Margarita Roig se ha solicitado en la secretaría de la congregación de obispos y regulares una nueva letra {LAT. pro informatione}, o sea, duplicado de la primera, con representar a la dicha congregación por medio de una atestación cualmente ese señor obispo, no obstante que le fue presentada la primera letra de la dicha congregación, por manos de notarios, nunca ha hecho ni dado el dicho informe a la dicha congregación; y que por dicha razón de nuevo mandase al señor obispo que obedeciese a la dicha congregación dando el dicho su informe, y lo remitiese por manos de su agente. La susodicha letra por el dicho señor obispo la remite con este correo por Génova el doctor Doménec, o sea, el sobrino del dicho señor obispo. Que le sirva a vuestra merced de amigo. Algo temo que en esto no haya algún segundo fin, y que esta queja dada en secretaría contra dicho señor obispo, de no haber con la debida puntualidad obedecido, no sea por acreditarlo en la congregación por parcial del convento, cuando vuestra merced y las religiosas saben lo contrario. Me ha parecido participar a vuestra merced esta noticia por su gobierno, y en lo demás me remito a los antecedentes. Dios guarde a vuestra merced los muchos años deseo y he menester. Roma y julio, a 11 de 1716. Besa la mano de vuestra merced su mayor y verdadero servidor,don Juan Garcia. Señor D. Gregorio Quint Zaforteza [1§] De Tomás, a octubre. Transcripción literal"
+  ],
+  "literal": [
+    "1. Muy Señor mio. Despues de haver escrito y embiado las cartas 2. al correo he tenido noticia que por parte de Mar[g]arida 3. Roig se ha solicitado en [^la] Secretaria de la Cong< regació>n de Obispos y Re- 4. gulares una nueba letra {lat.} pro informatione, o sea duplicado 5. de la p< rime>ra con representar a la d< ich>a Cong< regació>n por medio de una attes- 6. tacion qualmente esse S< eño>r Obispo no obstante que le fue pre- 7. sentada la p< rime>ra letra de la d< ich>a Cong< regació>n, por manos de not< ario>s, nunca a8. echo ni dado el dicho informe a la dich>a Cong< regació>n, y que por dicha 9. razon de nuebo mandasse al S< eño>r Obispo q< ue> (^obedsiss) obedesiesse a la 10. d< ich>a Cong< regació>n dando el d< ich>o su informe, y lo remitiesse por manos de 11. su Agente; La sus< o>d< ich>a letra por el d< ich>o S< eño>r Obispo la remite 12. con este correo por Genova el Dr. Domenech, o sea el sobrino 13. del d< ich>o S< eño>r Obispo; que le sirba a Vmd. de amigo. Algo temo que 14. en esto no haya algun segundo fin, y que esta quexa dada en 15. Secretaria contra d< ich>o S< eño>r Obispo de no haver con la devida puntu- 16. alidad obedezido, no sea por acreditarlo en la Cong< regació>n por parcial 17. del Convento, quando Vmd. y las Religiosas saben lo contrario 18. me a paresido partisipar a Vmd. esta noticia por su govierno 19. y en lo demas me remito a los antecedentes. Dios g< uar>de a Vmd. los 20. m< ucho>s a< ño>s desea, y he m< eneste>r Roma y Julio a 11 de 1716_21. 22. B< esa> l< a> M< ano> d< e> Vmd.23. Su ma[y]or y verd< ade>ro Ser< vi>d< o>r24. D. Juan Garcia. 25. Sr. D. Gregorio Quint Çaforteza_ [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "41-19a.jpg",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo02/41-19a.jpg",
+      "url": "/legajos/legajo-02/images/41-19a.jpg"
+    },
+    {
+      "filename": "42-19b.jpg",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo02/42-19b.jpg",
+      "url": "/legajos/legajo-02/images/42-19b.jpg"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "41-19a.jpg",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-02/cartas/000430.json",
+  "primary_image_url": "/legajos/legajo-02/images/41-19a.jpg"
+}

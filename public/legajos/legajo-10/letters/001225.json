@@ -1,0 +1,38 @@
+{
+  "legajo_id": "10",
+  "id_carta": "1225",
+  "order_in_legajo": 93,
+  "signatura": "163-392a",
+  "nombre_carta": "Carta de Luis Viguet a Jerónimo Pelegrín de Aragüés",
+  "fecha_original": "8 de noviembre de 1668",
+  "lugar": "Valencia",
+  "remitente": "Luis Viguet",
+  "destinatario": "Jerónimo Pelegrín de Aragüés",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Senyor Jeroni Pelegri de Aragues, Con mucho gusto recibo las cartas de v. m. y las remito mis dueños, como lo haré en todas las ocasiones que le ofrezca. El señor don Pedro está bueno, y yo quedo servidor de v. m., que Nuestro Señor guarde felices años. Valencia y noviembre, 8 1668. Besa las manos de v. m., Luis Viguet Transcripción literal"
+  ],
+  "literal": [
+    "1. Sr. Hieroni Pelegri de Aragues 2. :3. Con mucho gusto resibo las cartas de V.M. y las remito 4. Mis dueños como lo are en todas las ocasiones que le ofresca 5. el sr. don Pedro esta bueno, y yo quedo servidor de V.M. 6. que nuestro Sr. gde felises años. Valsa y 9bre 8 1668. 7. Besa las manosdV.M. 8. Luis Viguet. [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "163-392a.jpg",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo10/163-392a.jpg",
+      "url": "/legajos/legajo-10/images/163-392a.jpg"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "163-392a.jpg",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING",
+      "message": "Se detectaron caracteres sospechosos de encoding (4)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-10/cartas/001225.json",
+  "primary_image_url": "/legajos/legajo-10/images/163-392a.jpg"
+}

@@ -1,0 +1,38 @@
+{
+  "legajo_id": "26",
+  "id_carta": "4306",
+  "order_in_legajo": 123,
+  "signatura": "054:3400.JPG",
+  "nombre_carta": "Carta de Macià Monsarró a Pedro Santacilia y Pax",
+  "fecha_original": "9 de junio de 1643",
+  "lugar": "Zaragoza",
+  "remitente": "Macià Monsarró",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "A la una hora m'ha enviat a cercar el governador a tota presa i l'he trobat que estava dinant i m'ha dit que el marques de los Velez havia enviat la que va amb esta per a v. m. i que hi fes un correu a tota diligència i ací envio les cartes com este propi v. m. se servirà de donar-li [?] que he concertat avui ha rebudes les dotze fulles d'espasa el Cornelio Tries que ja estan en su casa. L'estafeta passada despatxí el soldat a les [?] el dimecres de matí i a les tres hores de la tarda els trobí per Saragossa i així ens queixo de mi [?] Els despatxs tan prest que don Feliciano dirà amb la puntualidad que jo el {ESP. despedí} i no dic més. Guardi Nre. Sr. a v. m. de Saragossa a 9 de juny 1643. Bayetola encara no m'ha despatxat el negoci de don Miquel, que no siguin passat festes no es pot tractar del meu negoci. Macia Monsarro {ESP. Después que había escrito esta a v. m. no hallaban como concertar con este hidalgo que v. m. le dará dos reales de ocho} Sr. don Pedro Santacilia Transcripción literal"
+  ],
+  "literal": [
+    "1. A la una ora manviat a sercar lo governador a tota2. presa y le trobat que estava dinant y me a dit que3. lo marques de Los Veles avia enviat la que va4. con esta pera Vm y que y fes un correu a tota5. diligençia y asi envio les cartes con este propi Vm6. se servira de donali (^[?]) que he conser7. tat avuy a rebudes les doze fules despasa8. el Sr. Cornelio Tries que ja estan en su cassa9. La estafeta pasada despaxi lo soldad a les [...]10. el dimecres de mati y a les tres ores de la tarde los11. trobi per Carag[oss]a y ayxi nos queyxo de mi [?]12. Los despaxs tan prest que don feliziano dira13. ab la puntualidad que yo lo despedi y no dic14. mes Ge. Nro Sr a Vm de Carag[oss]a a 9 de15. Junio 1643 Vayetola encara no ma des16. paxat lo negoci de don miquel que no sigen pasat17. festes nos pot tratar dels meu negoci. Masia monsarro18. Dempues q avia scrito aquesta a Vm no allaven19. cono consertat con este ydalgo q vm le dara20. dos reales de aocho21. Sr. don Pº Santacilia [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "054:3400.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo26/054:3400.JPG",
+      "url": "/legajos/legajo-26/images/054:3400.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "054:3400.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (2)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-26/cartas/004306.json",
+  "primary_image_url": "/legajos/legajo-26/images/054:3400.JPG"
+}

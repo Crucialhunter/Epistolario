@@ -1,0 +1,50 @@
+{
+  "legajo_id": "1",
+  "id_carta": "409",
+  "order_in_legajo": 99,
+  "signatura": "222-298a",
+  "nombre_carta": "Carta de Francisco Antonio Malo a Jerónimo Pelegrín de Aragüés",
+  "fecha_original": "16 de mayo de 1668",
+  "lugar": "Madrid",
+  "remitente": "Francisco Antonio Malo",
+  "destinatario": "Jerónimo Pelegrín de Aragüés",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Señor mío, vuestra merced me da los consejos como de padre y no puedo dejar de cumplir con mil obligaciones obedeciendo siempre sus mandatos como me lo dice por carta de 10 de marzo, y me huelgo que vuestra merced, con su casa, estén muy buenos. Yo siempre estoy para obedecerle de cualquiera manera y para servirle en lo que fuere de provecho, aunque he estado sangrado dos veces y purgado por unos males de corazón que me repetían. Ya estoy mejor para servir a vuestra merced como queda dicho arriba, y quedo rogando a Nuestro Señor le dé tantos años de vida como yo le deseo.",
+    "Madrid y mayo, a 16 de 1668.",
+    "Servidor de vuestra merced que sus manos besa. Francisco Antonio Malo",
+    "Señor Jeronimo Pelegrin y Aragues."
+  ],
+  "literal": [
+    "1. Sr. mio Vm. me da los consejos como de Pe",
+    "2. y no puedo dejar de cumplir con mil obligacio",
+    "3. nes obedeciendo siempre sus mandatos como",
+    "4. me lo dice por carta de10 de Março y me guel",
+    "5. go que Vm. con su cassa esten mui buenos yo",
+    "6. siempre estoy pa obedecerle de qualquiera ma-",
+    "7. nera y pa servirle enlo que fuere de Provecho",
+    "8. aunque e estado sangrado dos beces y Pur-",
+    "9. gado por unos males de corazon q me repitian",
+    "10. ya estoy mejor pa servir á Vm. como queda dho",
+    "11. arriba y quedo Rogando á nr Sr le de tantos",
+    "12. años de Vida como yo le deseo. Md y mayo à 16",
+    "13. de 1668",
+    "14. Sr. de Vm q S M B",
+    "15. Franco Antto Malo",
+    "16. Sr. Germo Pelegrin y Aragues [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "222-298a.gif",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo01/222-298a.gif",
+      "url": "/legajos/legajo-01/images/222-298a.gif"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "222-298a.gif",
+  "warnings": [],
+  "raw_source": "raw/legajos/legajo-01/cartas/000409.json",
+  "primary_image_url": "/legajos/legajo-01/images/222-298a.gif"
+}

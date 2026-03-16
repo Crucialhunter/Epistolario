@@ -1,0 +1,38 @@
+{
+  "legajo_id": "12",
+  "id_carta": "1637",
+  "order_in_legajo": 141,
+  "signatura": "207_6230.JPG",
+  "nombre_carta": "Carta de marqués de Leganés a Pedro Santacilia y Pax",
+  "fecha_original": "13 de abril de 1651",
+  "lugar": "Madrid",
+  "remitente": "marqués de Leganés",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Por dos cartas de v. m. he tenido las buenas nuevas de su salud que deseo con que he holgado infinito y me sucederá lo mismo siempre que entendiere se continua cumplidisimamente así por largos años. En cuanto a lo que se escribió a v. m. de orden de su majestad. para tomar cuatro bergantines con los cuales se invadiesen las costas de Cataluña quedo advertido para procurar servir a v. m. como lo deseo y tener muchas ocasiones en que hacerlo y acreditar mi buena voluntad. Dios guarde a v. m. muchos años Madrid, 13 de abril 1651. Señor mío v. m. puede estar cierto de que soy suyo y que le deseo servir de todo corazón y que lo haré en cuanto valiere. El duque de San Lucar y marques de Leganes y de Pozal Sr. D. Pedro de Santacilia [1§] Transcripción literal"
+  ],
+  "literal": [
+    "1. Por dos cartas de Vm he tenido las2. buenas nuebas de su salud q desseo con q he3. holgado infinito y me sucedera lo mis[m]o siempre 4. q entendiere se continua cumplidissi[mamen]te assi5. por largos años6. En q[uan]to a lo que se escrivio a Vm7. de orden de Su Magd. p[ar]a tomar quatro bergan8. tines con los qles se imbadiesen las costas de9. Cataluña quedo advertido p[ar]a procurar10. servir a Vm como lo desseo y tener11. muchas ocasiones en q hacerlo y acreditar12. mi bu[en]a voluntad. Dios ge. a Vm13. mu[cho]s a[ño]s M[adri]d, 13 de Abril 165114. Señor mio Vm puede estar cierto15. de q soi suio y q le deseo servir16. de todo coraçon y q lo are en cuanto17. valiere18. El Duq de S[a]n Lucar19. M[ar]qs de Leganes y De poçal20. Sr. Dn Pedro de Santacilia [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "207_6230.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo12/207_6230.JPG",
+      "url": "/legajos/legajo-12/images/207_6230.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "207_6230.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (2)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-12/cartas/001637.json",
+  "primary_image_url": "/legajos/legajo-12/images/207_6230.JPG"
+}

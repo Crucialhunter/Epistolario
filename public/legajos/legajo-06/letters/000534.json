@@ -1,0 +1,38 @@
+{
+  "legajo_id": "6",
+  "id_carta": "534",
+  "order_in_legajo": 33,
+  "signatura": "008_4",
+  "nombre_carta": "Carta de Gabriel Joachim Zaforteza y Berga a Cecilia Zaforteza y Sureda de Sant Martí",
+  "fecha_original": "9 de marzo de 1740",
+  "lugar": "Palma",
+  "remitente": "Gabriel Joachim Zaforteza y Berga",
+  "destinatario": "Cecilia Zaforteza y Sureda de Sant Martí",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Cecília Hem rebuda la tua carta en què hem estimat molt saber que estigueu bons. Els senyors de Vinagrella estan bons, gràcies al S<enyo>r La s<nyo>ra àvia ahir demanà a ma mare tu demà si aniries a dinar a Galdent i ella va dir que tu no li havies escrit. El gran mestre moria 15 de gener de 1741 i han elegit un portuguès. L’oncle Antoni està bo. Mon pare ho passa bé. Aquí no hi ha novetats. De part de tots molts records i els donaràs a d. Francesc. Déu vos guardi molts anys. Ciutat, març 9 de 1740. Ton germà, Gabriel Joaquim Zaforteza i Berga De part de mon pare, ma mare, molts records a d. Francesc. El s<enyo>r Bernat besa les mans a tots. Transcripción literal"
+  ],
+  "literal": [
+    "1. Cecília 2. Avam rabuda la tua carta en que avam 3. estimat molt sabar que astiguau bons. Los S< enuo>rs 4. de Vinagrella astan bons G< raci>as al S< enyo>r La 5. S< enyo>ra Avia air damaná á Me Mara tu dama 6. si anirias á dinar á Galdent y ella va 7. dir que tu no lo avias ascrit. El < enyo>r 8. GranMestra morí a 15 de Janer de 1741 9. y an alagit un (^Portu) Portugues. Lonclo 10. Antoni asta bo. Mon para lo pasa be. 11. aqui no ay á novedats. de part de tots m< olt>s 12. R< recor>ds y als donarás á D F< rances>ch Deu vos G< uar>de 13. m< olt>s a< ny>s Ciutat Mars 9 de 1740. 14. Ton Jarmá 15. Gabriel Joachim Çafortesa y Berga. 16. [En vertical, de dalt a baix, a la part esquerra del document:]17. De part de Mon Para, Me Mare Molts Records per á D. F< rance>sch 18. El Sr. Barnat Besa las mans à tots. [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "008_4.jpg",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo06/008_4.jpg",
+      "url": "/legajos/legajo-06/images/008_4.jpg"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "008_4.jpg",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-06/cartas/000534.json",
+  "primary_image_url": "/legajos/legajo-06/images/008_4.jpg"
+}

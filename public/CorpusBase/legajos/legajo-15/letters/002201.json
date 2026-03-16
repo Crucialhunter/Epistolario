@@ -1,0 +1,38 @@
+{
+  "legajo_id": "15",
+  "id_carta": "2201",
+  "order_in_legajo": 100,
+  "signatura": "158:6426.JPG",
+  "nombre_carta": "Carta de Gabriel Domènech a Pedro Santacilia y Pax",
+  "fecha_original": "20 de agosto de 1645",
+  "lugar": "Tarragona",
+  "remitente": "Gabriel Domènech",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Señor mío, Por otra tengo avisado a v. s. cómo tengo recibido una de v. s. de los 15 del pasado en que me holgué, gozara v. s. salud esta ale a v. s., como su mínimo criado desea. Las novedades de esta tierra son que nuestra armada se halla delante Barcelona, teniéndola sitiada por mar, sin dejar entrar barquilla ninguna. Del ejército hemos sabido nuevas, cómo a 12 del corriente, anoche siendo, salió un trozo de ejército de Lérida, otro de Balvastro, y la gente del enemigo se huyeron en medio, y dícese hemos mucha gente. y entraron desin [Frgamentado] a parte del socorro en Balaguer. El [Fragmento] go sabemos se le muere mucha gente, que se dice tendrá peste. De todo lo que viniere de nuevo, avisaré a v. m., que Dios guarde, como su mínimo criado desea. Tarragona, a 20 agosto 1645. Mínimo criado de v. s.Gabriel Domenech Don Pedro Santacilia y Pax Transcripción literal"
+  ],
+  "literal": [
+    "1. Sr mio 2. Por otro tengo avisado a VS como tengo 3. resebido unade VS delos 15 delpasado en 4. que meolge gosara VS salut esta ale 5. a VS como suminimo criado desea = 6. Las nobedades desta tiera son que muestra 7. ermada se alla delante Barselona teni= 8. endola sitiada por mar sindexar entrar 9. barquila ninguna = Yel exersito avemos 10. sabido nuevas como a 12 del corriente a11. notxe siendo salio untroso de exersito 12. delerida otro de balvastro y laxente del [en]13. [^emigo] soyeron enmedio y disese avemos [fragmentado] 14. mutxa jente y entraron desin[fragmentado] 15. ha parte del socoro enbalaguer = el [fragmentado] 16. go sabemos selemuere mutxa jente que 17. sedise tendra peste =de todo loque revere[?] 18. de nuevo avisare a VS que dios gde 19. como suminimo criado desea tarragona 20. a 20 Agosto 1645 21. Minimocriado de VS 22. Gabriel Domenech23. [Margen izquierdo] [^Don Pedro S [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "158:6426.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo15/158:6426.JPG",
+      "url": "/legajos/legajo-15/images/158:6426.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "158:6426.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-15/cartas/002201.json",
+  "primary_image_url": "/legajos/legajo-15/images/158:6426.JPG"
+}

@@ -1,0 +1,43 @@
+{
+  "legajo_id": "25",
+  "id_carta": "4073",
+  "order_in_legajo": 9,
+  "signatura": "012_107a.JPG",
+  "nombre_carta": "Carta de Diego Matías de Aragüés a Jerónimo Pelegrín de Aragüés",
+  "fecha_original": "19 de febrero de 1667",
+  "lugar": "Madrid",
+  "remitente": "Diego Matías de Aragüés",
+  "destinatario": "Jerónimo Pelegrín de Aragüés",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Estoy aguardando cartas y [?] de las que tengo remitidas que me tendrá con cuidado hasta tenerlas sean con muy buenas nuevas de su salud y toda su casa de v. m., a Dios gracias, la tenemos en esta suya. No obstante el invierno tan riguroso que se ha parecido en esta tierra que juzgo que habrá alcanzado por allá también. Juan Seguals llegó a 5 de este harto maltratado del viaje, porque se vino desde Barcelona a pie con este mal temporal despedíose del Sr. D. Nicolas, el cual no ha llegado aún aquí con que juzgo estará en esta corte con el marques de la Guardia dentro cinco o seis días. En lo demás me remito a la carta que escribia el Sr. D. Pedro (que va con este pliego y en el privilegio de la tasca de Juan Vila despachado en toda forma y no lo entregué a v. m. si no dándole tres de a ocho (que tiene su corte) a más de los 200 escudos 11 reales que remitió y me avise de su recibo en la primera ocasión y me mande le sirva que sus manos besamos doña Margarita y yo y a nuestra sobrina y a los niños abrazos y guarde Dios como deseo. Madrid a 19 de febrero de 1667. Tío y servidor de v. m. Diego Matias de Aragues Sr. D. Jeronimo Pelegrin de Aragues, mi sobrino [1§] Madrid 19 de febrero 1667. Recibidas 10 de marzo. Respuestas a 17 de marzo de mi tío, Diego Matias de Aragues. Transcripción literal"
+  ],
+  "literal": [
+    "1. Estoy aguardando cartas y Re[ce]pta de las que tengo remi2. tidas que me tendra con cuydado hasta tenerlas3. sean con muy buenas nuevas de su salud y toda su cassa4. de Vmd. a Dios gracias la tenemos enesta suya no obstante5. el ivierno tan rigurosso que se ha parecido enesta tierra6. que juzgo que havra alcançado por alla tanvien, Juan7. Seguals llego a 5 deste arto maltratado del viaje, porque8. se vino desde Barcelona a pie con este mal temporal despedi9. dosse del Sr. D. Nicolas, el qual no ha llegado aun aqui10. con que Juzgo estara enesta corte con el Marques de la11. Guardio dentro cinco, o, seys dias, en lo demas me remi12. to a la carta que escriva el Sr. D. Pedro (que va conesta?13. pliego y en el privilegio de la tasca de Juan Vila14. despachado en toda forma y no lo entrege Vmd. si no dan15. dole tres de a ocho (que tiene su corte) a mas de los 200 es.16. 11 Reales que remitio y me avisse de su reçivo en la17. primera ocassion y me mande le sirva que sus ma18. nos bessamos Doña Marg[ari]ta y yo y a nuestra sobrina19. y a los niños abraços y gde Dios como desseo Madrid20. a 19 de febrero de 166721. Tío y ser[vid]or de Vm.22. Diego Mathias de Aragues23. Sr. D. Geronimo Pelegrin de Aragues mi sobrino- [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "012_107a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo25/012_107a.JPG",
+      "url": "/legajos/legajo-25/images/012_107a.JPG"
+    },
+    {
+      "filename": "013_107b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo25/013_107b.JPG",
+      "url": "/legajos/legajo-25/images/013_107b.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "012_107a.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (7)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-25/cartas/004073.json",
+  "primary_image_url": "/legajos/legajo-25/images/012_107a.JPG"
+}

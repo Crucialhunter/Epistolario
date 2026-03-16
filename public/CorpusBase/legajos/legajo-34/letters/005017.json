@@ -1,0 +1,38 @@
+{
+  "legajo_id": "34",
+  "id_carta": "5017",
+  "order_in_legajo": 45,
+  "signatura": "072:6932.JPG",
+  "nombre_carta": "Carta de Fructuoso Piqué a Pedro Santacilia y Pax",
+  "fecha_original": "1 de marzo de 1656",
+  "lugar": "Madrid",
+  "remitente": "Fructuoso Piqué",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "mío el secretario Sr. D. Frco Izqdo mi compañero en vio una libranza al obispo de Mallorca, y porque se dice que hauria muerto, nos ha parecido remitir a v. m. otro poder y copia de la libranza, parque v. m. nos haga merced a ambos de procurar se cobre la origl de casa del obispo, y disponer que el visor pague esa partida al Sr. D. Frco que ambos la recibiremos muy grande devm el sábado que viene enviaré a v. m. por Barcelona su despacho que ya está hecho y firmado de su majestad gracias a Dios que guarde a v. m. muchos años como deseo, demd a 1 de marzo 1656 B. l.a m. devm su amigo y Sr. menor servidor Fructuoso Pique parágraf a l [?] esquerra de la signatura dícenme que el casamiento del Sr. D. Juan Miguel esta concluido, y no se con que dinero, debe saber hacer milagros este cabo sino son basiliscos 19, extrem inferior esquerre Sr. D. Pedro Santacilia y Pax [1§] Transcripción literal"
+  ],
+  "literal": [
+    "1. Sr mio el sr srio D. Frco Izqdo mi Compañero em=2. bio una libranza al sr. obispo deMallorca, Y porq3. se dize que hauria muerto, nos ha parezido remitir avm4. otro poder y copia dela libranza, parque vm5. nos haga md a ambos de procurar se cobre la origl6. de casa del sr. obispo, Y disponer que el sr. visor pague7. esa partida al sr. D. Frco que ambos la recibiremos8. muy grande devm9. el sabado que viene embiare avm. por Barna su despacho10. que ya esta hecho y firmado de su Magd gracias a Dios11. que gde avm muchos años como desseo, demd a 1 de12. Março 165613. B. l.[a] m. devm14. su amigo y mor seror15. Fructuoso Pique16. [paràgraf a l?esquerra de la signatura17. dizenme q el casamto del sr. D. Ju Migl18. esta concluydo, Y no se con que dinero, deve19. saber hazer milagros este cavo sino son basiliscos20. [29, extrem inferior esquerre] Sr. D. Po StaCilia y Pax [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "072:6932.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo34/072:6932.JPG",
+      "url": "/legajos/legajo-34/images/072:6932.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "072:6932.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-34/cartas/005017.json",
+  "primary_image_url": "/legajos/legajo-34/images/072:6932.JPG"
+}

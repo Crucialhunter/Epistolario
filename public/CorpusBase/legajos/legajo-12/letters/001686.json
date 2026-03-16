@@ -1,0 +1,38 @@
+{
+  "legajo_id": "12",
+  "id_carta": "1686",
+  "order_in_legajo": 19,
+  "signatura": "284_6279.JPG",
+  "nombre_carta": "Carta de Gaspar Domènech a Pedro Santacilia y Pax",
+  "fecha_original": "7 de noviembre de 1637",
+  "lugar": "Madrid",
+  "remitente": "Gaspar Domènech",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Con una me halló de 14 de septiembre. La cual recibí a los 3 del corriente y con ella me he holgado muchísimo de saber de su buena salud la cual conserve Dios muchos años, también veo en ella la merced y honra que me ha hecho con el virrey, lo cierto es que yo no tengo amparo sino el de v. m. y así es fuerza cansarlo en todo lo que tenga necesidad. Suplico a v. m. de que me haga caridad de mandar se me firme hay una casa porque aquí mi casa se [?] con necesidad y yo acá también la tengo que ya sabe v. m. los que van por estas tierras lo que se gasta. Yo confío me hará merced supuesto me parece que la orden que su majestad ha metido le da lugar de hacerlo y confío estaré siempre rogando a Dios por su salud y aumentos de v. m. quien guarde muchos años y Madrid a los 7 noviembre 1637. De v. m. su mayor criado que sus manos besa Gaspar Domenech Sr. D. Pedro Santacilia [1§] Transcripción literal"
+  ],
+  "literal": [
+    "1. Con una me allo de 14. de 7bre. La qual2. resevi a los 3 del corriente y con ella3. me (me) olgado mutchissimo de (de) sa4. ber de su buena salut la qual conserve5. dios muthcos Anyos tanbien vejo en6. ella la mersed y onra que me a etc[o]7. con el Sr. virrey lo sierto es que jo no ten8. go enparo sino el de V. md. y assi es fu[er]9. sa cansarlo en todo lo que tenga nessesi10. dad Sr. supp[li]co a v.md. de que me aga11. caridad de mandar se me firme ay [u]12. na casa porque aquí mi casa se[...]13. con nessesidad y jo acha tanbien14. la tengo que ja sabe v.md. los que15. van por estas tierras lo que se gasta.16. Jo confio me ara mersed supuesto me 17. parese que la orden que su Mag[esta]d a18. metido le da llugar de asserlo y confio19. estare siempre rogando a dios p[or] su20. salut y Aumentos de v.md. quien gde.21. mutchos Añyos y Madrid a los 7 9bre.22. 163723. de v.md. su major criado24. q. s. m. Bª25. Gaspar Domenech26. Sr Dn Pedro Sta Silia [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "284_6279.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo12/284_6279.JPG",
+      "url": "/legajos/legajo-12/images/284_6279.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "284_6279.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-12/cartas/001686.json",
+  "primary_image_url": "/legajos/legajo-12/images/284_6279.JPG"
+}

@@ -1,0 +1,38 @@
+{
+  "legajo_id": "11",
+  "id_carta": "1325",
+  "order_in_legajo": 94,
+  "signatura": "163:5185.JPG",
+  "nombre_carta": "Carta de Pere Maltès a Pedro Santacilia y Pax",
+  "fecha_original": "9 de agosto de 1643",
+  "lugar": "Cala Fornells",
+  "remitente": "Pere Maltès",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Mi senyor quant som estats acfornels que el patró Peris és anat a Maó ha aportats quatre homes dels quals ne amb qui estava un poc retirat conforme v. s. estarà entremes que se dia Sabastia Ribera v. s. servirà del favor que és per a quant serà vinguts m'ha paregut avisar-lo, estre hem trobam a Fornels per no alargar més el camí de sa fam la partença besa a v. s. les mans i mi Sra. i la senyora donia Beatriu, als 9 d'agost 1643 Pere [?] Moltes [?] [1§] Transcripción literal"
+  ],
+  "literal": [
+    "1. Mi señor quant som stats acfornels que el Patro Peris es 2. anat a Mahon ha aportats quatra homens dels quals ne han qui stava 3. un poch retirat conforme VªSª stara entremes que se dia Sabastia 4. Ribera VªSª servira del favor ques para quant sara vinguts 5. me ha aparagut avisarlo, stre hem trobam a Fornels per no alargar 6. mes lo cami de se fam la partensa besa a VªSª las mans y mi 7. sra. y la señora donia Beatriu, als 9 de Agost 1643 8. Pera [^??Moltes??^] [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "163:5185.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo11/163:5185.JPG",
+      "url": "/legajos/legajo-11/images/163:5185.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "163:5185.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-11/cartas/001325.json",
+  "primary_image_url": "/legajos/legajo-11/images/163:5185.JPG"
+}

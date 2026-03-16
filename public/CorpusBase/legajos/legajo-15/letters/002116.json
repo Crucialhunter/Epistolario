@@ -1,0 +1,48 @@
+{
+  "legajo_id": "15",
+  "id_carta": "2116",
+  "order_in_legajo": 12,
+  "signatura": "022:6339a.JPG",
+  "nombre_carta": "Carta de Bernat Suñer a Pedro Santacilia y Pax",
+  "fecha_original": "1 de junio de 1629",
+  "lugar": "Lugar sin especificar",
+  "remitente": "Bernat Suñer",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Germà don Pedro. L'ocasió de portador m'obliga a escriure-vos {ESP. estos} renglons i amb ells suplicar-vos de nou, em faceu mercè de cobrar-me la carta de s'era per al senyor duc de Feria, perquè he rebut avui cartes de Barcelona amb què m'assegura que serà dit virrei [?] i que el vespre de Corpus en dita ciutat, el {ESP. plazo} és breu, i així importa la brevetat, per vida nostra, no us en cuideu, com també la m'ha de fer don Pedro de Córdova quan Déu vulgui. Si a Madrid {ESP. acerca} la professió de món habit, i mirau s'hi s'ofereix cosa, no hi ha sinó manar-me pus estora en mà que en la mia l'obri. Guart-nos Déu per 1 de juny 1629. Don Francisco Ardena Transcripción literal"
+  ],
+  "literal": [
+    "1. Jerma donpedro la ocasio de portador 2. me obliga escriuros estos renglons y 3. ab els soplicaros denou em fosau m de 4. cobrorme la carta desa era pera el sor 5. duch deferia pq erebut avuy cartas 6. de Ba abq me asegure q seradit vyr[?] 7. y qu la vesprade corpus endita siutat 8. lo plazo es breu y ayxi ynporta a labre9. vedat pvida nostra nousne ocuideu 10. com tanbe lam meadefer donpedro 11. de cordova quandeu vulla sia amadrid 12. aserca la profesio demon abit y mirau 13. si posi seo fereyr cesa noya sino man14. arme pus estora en(^n) [^nostra] ma q en la mia 15. el obryr guart nos deu per de juny 16. 1629 17. Don frco de 18. Ardena [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "022:6339a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo15/022:6339a.JPG",
+      "url": "/legajos/legajo-15/images/022:6339a.JPG"
+    },
+    {
+      "filename": "023:6339b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo15/023:6339b.JPG",
+      "url": "/legajos/legajo-15/images/023:6339b.JPG"
+    },
+    {
+      "filename": "024:6339c.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo15/024:6339c.JPG",
+      "url": "/legajos/legajo-15/images/024:6339c.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "022:6339a.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-15/cartas/002116.json",
+  "primary_image_url": "/legajos/legajo-15/images/022:6339a.JPG"
+}

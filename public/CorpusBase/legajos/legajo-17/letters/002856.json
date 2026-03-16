@@ -1,0 +1,43 @@
+{
+  "legajo_id": "17",
+  "id_carta": "2856",
+  "order_in_legajo": 122,
+  "signatura": "204:1398a.JPG",
+  "nombre_carta": "Carta de Basilio de Castellví y Ponce a Pedro Santacilia y Pax",
+  "fecha_original": "24 de abril de 1660",
+  "lugar": "Valencia",
+  "remitente": "Basilio de Castellví y Ponce",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Señor mío. con esta estafeta me escribe Diego Matias de Aragues como habían hecho merced al Sr. don Juan Miguel de Recebille por paxe de S. M. de que doy a v. s., la enhorabuena que por el amor que yo tengo a la casa de los pajes donde me he criado me huelgo de ver en ella personas de la Calidad Ilustre que tienen hijos de v. s., Las novedades deaca, se reducen a la salida de SM, en seguimiento de la jornada de los casamientos. El duque de Montalto esta consertado de casar con La Señora Dña. María Bazan hermana del conde de Santiestaban. y del marques de Vaiona y el marques de quirra ha y do por su nobia que es hija del marques del fresno y sobrina el conde estable de Castilla. El Sr. don Juan de Austria. ha salido de Madrid para ra aranjuez y de allí va ha Portugal por general de aquel ejército. Sr. don Antonio de Cardona marques de Castel nou que le servía de Gentil hombre de la ca maza le han hecho merced de primer caballeriço del señor don Juan con ciento y cinqta. escudos de sueldo [1§] Al mes conque, habiéndole acomodado en la parte de los maravedices sigue la jornada de S, A, aPortugal. Remito a v. s. ese papel de mis servicios para que v. s., me diga su censura, que todos hellos senvien areducir a su plicar a S. M. me saque de Valencia donde no puedo estar más bien hallado pero miyinclinación es a servir en cualquier parte que se me mandare. sus Canarios de v. s. selebran la primavera y en la Ga lería donde los tengo me acuerdan con buenas Voces la obligación que me hace de servir a v. s. y yo la tengo mía y presente. Dios guarde a v. s. muchos años como deseo. Valencia a 24 de abril de 1660 Beso a v. s. s mo su mayor servidor Don Basilio de Castellvi y Ponce Sr. D. Pedro de Santacilia y Pax. [2§] Transcripción literal"
+  ],
+  "literal": [
+    "1. Señor mio. Con esta estafeta me escrive Diego Mathias 2. de Aragues como havian hecho merçe al Sr. Don Juan 3. Miguel de Reçebille por paxe de SM de que doy a VS, 4. Lanorabuena que por el amor que yo tengo a la Casa de los 5. Paxes donde me he Criado me huelgo de ver en hella 6. Personas de la Calidad Ilustre que tienen hijos de VS, 7. Las nobedades deaca, se reduçen a la salida de SM, 8. en seguimiento de la jornada de los casamientos.9. El Sr. Duque de Montalto esta Consertado de casar con 10. La Señora Da Maria Bazan hermana del Conde de 11. Santiestaban. y del Marqs de Vaiona Y el Marques 12. de quirra ha Ydo por su nobia que es hija del Marques13. del fresno y sobrina el Conde estable de Castilla.14. El sor. Don Juan de Austria. ha salido de Madrid pa15. ra aranjuez y de halli va ha portugal por General 16. de aquel Exerçito. Don Antonio de Cardona Marques 17. de Castelnou que le servia de Gentil Hombre de la ca18. maza le han hecho merçe de primer Cavalleriço del 19. Señor Don Juan con çiento y cinqta. escudos de sueldo [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "204:1398a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo17/204:1398a.JPG",
+      "url": "/legajos/legajo-17/images/204:1398a.JPG"
+    },
+    {
+      "filename": "205:1398b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo17/205:1398b.JPG",
+      "url": "/legajos/legajo-17/images/205:1398b.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "204:1398a.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-17/cartas/002856.json",
+  "primary_image_url": "/legajos/legajo-17/images/204:1398a.JPG"
+}

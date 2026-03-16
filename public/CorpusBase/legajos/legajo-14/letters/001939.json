@@ -1,0 +1,38 @@
+{
+  "legajo_id": "14",
+  "id_carta": "1939",
+  "order_in_legajo": 39,
+  "signatura": "066:2443.JPG",
+  "nombre_carta": "Carta de Diego de Rocabertí a Pedro Santacilia y Pax",
+  "fecha_original": "1 de julio de 1632",
+  "lugar": "Barcelona",
+  "remitente": "Diego de Rocabertí",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Ahir escriguí a v. m. una carta baix plec del comte de Perelada i per assegurar-me de [?] el que li digui amb [?] i és que m'ha de fer mercè d'acompanyar a dona Ana que vindrà amb mi Sra. dona Elvira Dezcallar. A mitja semana d'esta que entràrem a mi per elles don Francisco Bach i partirà pens dilluns d'ací. De mi Sra. la comtessa estam amb {ESP. cuidado} molt gran [?] Déu ens en don bones noves i a v. m. guardi com pot i jo desig, en Barcelona i juliol a 1 de 1632. Don Diego de Rocaberti Pau i Bellera Sr. don Pedro Santacilia Transcripción literal"
+  ],
+  "literal": [
+    "1. Ayr escrigui a V.m una carta bax plech del2. Comte de Perelada y per asegurarme de ???? lo3. que li digui ab ???? y es que me a de fer merce de4. acompañar a doña Ana que vindra ab mi Sra. doña5. Elvira descallar a mitja semmana desta que entrarembr> a mi Sr. per ellas don Fransisco bach y partira pens dilluns6. de asi, de mi Sra. la Condesa estam ab cuydado molt gran??7. deu nos ne don bonas novas y a Vm guarde compot8. y jo desitx en Barcelona y Juliol a 1 de 16329. Don Diego de Rocaberti10. Pau y Bellera11. Sr. don Pedro Santacilia [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "066:2443.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo14/066:2443.JPG",
+      "url": "/legajos/legajo-14/images/066:2443.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "066:2443.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-14/cartas/001939.json",
+  "primary_image_url": "/legajos/legajo-14/images/066:2443.JPG"
+}

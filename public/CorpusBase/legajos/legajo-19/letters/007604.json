@@ -1,0 +1,37 @@
+{
+  "legajo_id": "19",
+  "id_carta": "7604",
+  "order_in_legajo": 172,
+  "signatura": "189_cg86a.JPG",
+  "nombre_carta": "Carta de Persona desconocida a Pedro Santacilia y Pax",
+  "fecha_original": "fecha sin especificar",
+  "lugar": "Madrid",
+  "remitente": "Persona desconocida",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Compta del que ha gastat pel vestit del Sr. don Pedro Santacilia [?] a dos capes i balo Ropilla Gipo i manegas a 34. [1§] a mi Sr. don Pedro Santacilia i Pax guarde. Déu molts anys com desig Madrid Transcripción literal"
+  ],
+  "literal": [
+    "1. Compta del que ha gastat per lo vestit del Sr. 2. Don Pedro Santa Sisilia ??3. a dos capes i balo Ropilla Gipo i manegas a 34... [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "189_cg86a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo19/189_cg86a.JPG",
+      "url": "/legajos/legajo-19/images/189_cg86a.JPG"
+    },
+    {
+      "filename": "190_cg86b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo19/190_cg86b.JPG",
+      "url": "/legajos/legajo-19/images/190_cg86b.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "189_cg86a.JPG",
+  "warnings": [],
+  "raw_source": "raw/legajos/legajo-19/cartas/007604.json",
+  "primary_image_url": "/legajos/legajo-19/images/189_cg86a.JPG"
+}

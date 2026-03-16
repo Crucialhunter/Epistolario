@@ -1,0 +1,43 @@
+{
+  "legajo_id": "25",
+  "id_carta": "4125",
+  "order_in_legajo": 60,
+  "signatura": "119_159a.JPG",
+  "nombre_carta": "Carta de Miguel Malo a Jerónimo Pelegrín de Aragüés",
+  "fecha_original": "26 de mayo de 1667",
+  "lugar": "Madrid",
+  "remitente": "Miguel Malo",
+  "destinatario": "Jerónimo Pelegrín de Aragüés",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "El que dará a v. m. esta es el Sr. D. Lorenzo de Castro, criado del Sr. D. Miguel Salva y amigo mío, y lo será de v. m. en todo lo que hay se ofreciere en su servicio y también el virrey hará por v. m. porque va recomendado v. m. a su ilustrísima y también la Sra. virreina que le diga v. m. que es pariente de Dña. Ana de Aragues, mujer de Miguel Malo y también el Sr. D. Vicente Bescansa es amigo y hará por v. m. lo que le mandare, que va recomendado. Guarde Dios a v. m. como deseo. Madrid a 26 de mayo de 1667. Servidor de v. m. que sus manos besa Miguel Malo Sr. Jeronimo Pelegrin y Aragues [1§] Madrid, 26 Mayo 1667, de Miguel Malo. Transcripción literal"
+  ],
+  "literal": [
+    "1. El que dara a Vm esta es el sr. D. Lorenço2. de Castro criado del sr. d. Migl Çalba y3. amigo mio y lo sera de Vm en todo4. lo que ay se ofreciere en su ser[vi]cio5. y tanbien el sr. virrey hara por6. Vm porq ba recomendado Vm7. a su Illma y tanbien la Sa8. Virreyna q la diga Vm q es9. pariente de Da. Ana de Aragues10. mujer de Migl Malo y tan11. bien el sr. d. Vicente Bescansa12. es amigo y hara por Vm lo q le13. mandare q ba recomendado Gde14. Dios a Vm. como deseo M[adri]d15. a 26 de Mayo de 1667. Ser[vid]or de Vm. q s.m.b.16. Miguel Malo17. Sr. Gerº Pelegrin y Aragues [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "119_159a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo25/119_159a.JPG",
+      "url": "/legajos/legajo-25/images/119_159a.JPG"
+    },
+    {
+      "filename": "120_159b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo25/120_159b.JPG",
+      "url": "/legajos/legajo-25/images/120_159b.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "119_159a.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (4)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-25/cartas/004125.json",
+  "primary_image_url": "/legajos/legajo-25/images/119_159a.JPG"
+}

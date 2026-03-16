@@ -1,0 +1,43 @@
+{
+  "legajo_id": "13",
+  "id_carta": "1735",
+  "order_in_legajo": 3,
+  "signatura": "006:2239a.JPG",
+  "nombre_carta": "Carta de Jerónimo Pelegrín de Aragüés a Pedro Santacilia y Pax",
+  "fecha_original": "1 de julio de 1668",
+  "lugar": "Mallorca",
+  "remitente": "Jerónimo Pelegrín de Aragüés",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Cuando v. s. partió de Andratx me mandó con una carta [para que] hablase [con] el patrón Juan Sierra, guarda del puerto, y que me diese los nombres de los mallorquines marineros que están presos en Málaga, y son los siguientes: Primero el patrón Lucas Estarellas, el patrón Thomas Font, Juan Tremols, Bartolome Ventayol, Juan Balseta, Francisco Castellano, Angelo lo Sara. Guarde Dios a v. s. muchos años como deseo de Mallorca al primero de Julio 1668 Su criado de v. s. Jeronimo Pelegrin y Aragues Sr. D. Pedro Santacilia y Pax. mi Sr. [1§] Mallorca Julio primero de 1668 Jeronimo Pelegrin respondida a 21 Julio [2§] Transcripción literal"
+  ],
+  "literal": [
+    "1. Cuando V.S se partio de Andraig me mando Con 2. una Carta Ablasse al Patron Juan Sierra Guarda del3. Puerto y que me diesse los nombres de los Mallorquines4. Marineros que estan Pressos en Malaga y son los siguientes5. Po el Patron Lucas Estarellas6. el Patron Thomas fort.7. Juan Tremols8. Bartholome Ventayol9. Juan Balseta10. Franco Castellano11. Angelo LoSara12. Guarde Dios a V.S. ms a< ño>s como desseo de13. Mallorça al primero de Julio 1668=14. Su Criado de V.S.15. Geronymo Pelegrin y Aragues16. Sr. D. Po Sta. Cilia y Pax. mi sr. [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "006:2239a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo13/006:2239a.JPG",
+      "url": "/legajos/legajo-13/images/006:2239a.JPG"
+    },
+    {
+      "filename": "007:2239b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo13/007:2239b.JPG",
+      "url": "/legajos/legajo-13/images/007:2239b.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "006:2239a.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (4)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-13/cartas/001735.json",
+  "primary_image_url": "/legajos/legajo-13/images/006:2239a.JPG"
+}

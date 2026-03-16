@@ -1,0 +1,43 @@
+{
+  "legajo_id": "16",
+  "id_carta": "2577",
+  "order_in_legajo": 63,
+  "signatura": "106:2077a.JPG",
+  "nombre_carta": "Carta de Basilio de Castellví y Ponce a Pedro Santacilia y Pax",
+  "fecha_original": "28 de abril de 1667",
+  "lugar": "Valencia",
+  "remitente": "Basilio de Castellví y Ponce",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Señor mío Hállome con dos cartas de v. s. sus fechas de 6 de marzo y 6 del corriente en ambas me favorece v. s. con las noticias que deseo de la salud de v. s. miseñora doña Leonor y el señor don Juan cuyas manos besamos doña Laura Giuseppe y yo suplicando a v. s. nos adelanten muchos empleos de su serví cío en que podamos ejercítar Nuestra obligación El señor cardenal Montalto tomó ya el Bonete y según su eminencia me escríve en este último correo trata ya de entrar en las dísposíciones del Víaje cuya consideración me tiene con harto sentimiento pues las hechuras de su eminencia hemos de experímentar la gran falta que nos ha de hacer en la corte Sr. don Míguel Salva partíra para esa isla de la corte al 20 del que víene según me escríve con que v. s. letendra muy aprica por allá Acá estamos esperando y nos prometemos muy buen go víerno en su excelencia por sus muchas prendas. [1§] Vuelvo a suplicar a v. s. me favorezca en la agua de gavarrera para la señora doña María de Aragón mi sobrína, pues ya se nos ha acercado el tiempo. Remíto a v. s. los plíegos ínclusos y quedo con deseos de que v. s. me tenga empleado en su servícío como tan servidor suyo. Dios me guarde a v. s. los muchos años que deseo Valencia y abril a 28 de 1667. besa Vuestra ilustre mano su mayor servidor Don Basilio de Castellvi y Ponce Señor don Pedro Santa Zilía y Pax. [2§] Transcripción literal"
+  ],
+  "literal": [
+    "1. Señor mío Hallome con dos cartas de V.S. sus fechas 2. de 6 de Março y 6 del corríente en ambas me 3. favorece V.S. con las noticías que deseo dela sa4. lud de V.S. misa Da Leonor y el sr Don Juan cuyas 5. manos besamos Da Laura Jusepe y yo suplicando 6. a VSª nos adelanten muchos empleos de su serví7. cío enque podamos exercítar Nra oblígaçíon = 8. El sr Cardenal Montalto tomo ya el Bonete 9. y segun su ema me escríve eneste ultimo correo 10. trata ya de entrar enlas dísposíziones del Víaje cuya 11. consideracíon metíene con harto sentímíento pues 12. las hechuras de su ema hemos de experímentar 13. la gran falta que nos ha de hazer en la corte = 14. Don Míguel Salva partíra para essa Isla dela 15. Corte al 20 del que víene segun me escríve conq[u]e 16. V.S. letendra muy aprica por alla = 17. Aca estamos esperando y nos prometemos muy buen go=18. víerno en su exa por sus muchas prendas. [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "106:2077a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo16/106:2077a.JPG",
+      "url": "/legajos/legajo-16/images/106:2077a.JPG"
+    },
+    {
+      "filename": "107:2077b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo16/107:2077b.JPG",
+      "url": "/legajos/legajo-16/images/107:2077b.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "106:2077a.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-16/cartas/002577.json",
+  "primary_image_url": "/legajos/legajo-16/images/106:2077a.JPG"
+}

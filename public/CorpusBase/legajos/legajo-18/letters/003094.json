@@ -1,0 +1,38 @@
+{
+  "legajo_id": "18",
+  "id_carta": "3094",
+  "order_in_legajo": 132,
+  "signatura": "205:4933.JPG",
+  "nombre_carta": "Carta de Cristóbal Crespí de Valldaura y Brizuela a Pedro Santacilia y Pax",
+  "fecha_original": "17 de septiembre de 1664",
+  "lugar": "Madrid",
+  "remitente": "Cristóbal Crespí de Valldaura y Brizuela",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Su carta de v. s. de 28 delpdo en que me da noticia de haber llegado a ese reino con salud he recibido con mucho gusto porque deseaba estas nuevas con partr afecto, y siempre que se continuaren y las acompañare v. s. con los empleos de su servicio quemi reconocimiento solicita será pami de toda estimación. Por acano se me ofrece cosa partr de que avisar a v. s. que guarde N sor Largos años merced a 17 de septiembre 1664. Sr. don Cristobal Crespi de Valdana Sr. don Pedro Santacilia y Pax [1§] Transcripción literal"
+  ],
+  "literal": [
+    "1. Su carta de VS. de 28 delpdo enque me da noticia 2. de haver llegado a esse Reyno con salud he recivido 3. con mucho gusto porq desseava estas nuevas con partr 4. affecto, y siempre quese continuaren ylas acompañare 5. VS. conlos empleos de su servo quemi reconocimto 6. solicita sera pami de toda estimacion. Por acano se 7. me offreçe cossa partr de q avisar a VS. que gde N sor 8. Largos años md a 17 de 7re 1664. 9. Don christoval Crespi 10. de Valdana 11. [Margen izquierdo][^ Sr Don Po Sta cilia y Pax] [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "205:4933.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo18/205:4933.JPG",
+      "url": "/legajos/legajo-18/images/205:4933.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "205:4933.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (2)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-18/cartas/003094.json",
+  "primary_image_url": "/legajos/legajo-18/images/205:4933.JPG"
+}

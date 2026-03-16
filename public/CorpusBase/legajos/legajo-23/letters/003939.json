@@ -1,0 +1,38 @@
+{
+  "legajo_id": "23",
+  "id_carta": "3939",
+  "order_in_legajo": 194,
+  "signatura": "337:3352.JPG",
+  "nombre_carta": "Carta de Conde de Zavellá a Pedro Santacilia y Pax",
+  "fecha_original": "20 de agosto de 1669",
+  "lugar": "Barcelona",
+  "remitente": "Conde de Zavellá",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Sr. mío la mar tiene la culpa y no yo de que mis repetidas cartas no lleguen a manos de v. s. y creérmelo las suyas con toda estimación y quisiera no haberlas menester, sino [?] a v. s. con tanta diligencia como afecto. Por acá tenemos las galeras con mi Sra. la marquesa de Montoro no ha desembarcado y todo el lugar la ha ido a ver. V. s. me haga merced de dar la inclusa en propia mano y solicitar a Pedro Homs que con la mayor brevedad me envíe todos la [?], pues hasta el ocho [?] Septiembre no será menester más y también disponga v. s. que embarque un par de ciruelas de liembro [?] a pedir pulas es menester luego y sobre todo no olvide v. s. de mandarme, cuya vida guarde Dios con la de mi Sra. Dña. Leonor y esos señores, cuyas manos beso. Barcelona y agosto a 20 de 1669. Muy servidor que sus manos besaEl conde de Zavella Transcripción literal"
+  ],
+  "literal": [
+    "1. Sr. mio la mar tiene la culpa y2. no yo de q mis repetidas cartas no3. lleguen a manos de VS y creer4. melo las suyas con toda estimacion y5. quisiera no averlas menester, sino 6. [?] a VS. con tanta diligen7. cia como afecto.8. Por aca tenemos las Galeras con mi9. Sra. la Marqsa de Mortara, no ha 10. desembarcado y todo el lugar la ha11. ido a ver. VS me haga md de dar 12. la inclusa en propria mano y soli13. citar a Pedro Homs[?] q con la mayor14. brevedad me enbie todos la [?]15. ce, pues hasta el ocho[?]setiembre no se=16. ra menester mas y tambien dispon17. ga VS q enbarq un par de sirue=18. las d liembro[?] a pedir pu las19. he menester luego y sobretodo no olvide Vs de mandarme20. cuya vida Gde Dios con la de mi Sra. Da. Leonor y esos Sses. cuyas m b21. Barna y Agto a 20 de 166922. Mui Serdor s[u] m b23. El Conde de Çavella [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "337:3352.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo23/337:3352.JPG",
+      "url": "/legajos/legajo-23/images/337:3352.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "337:3352.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-23/cartas/003939.json",
+  "primary_image_url": "/legajos/legajo-23/images/337:3352.JPG"
+}

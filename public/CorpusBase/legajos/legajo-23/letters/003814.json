@@ -1,0 +1,43 @@
+{
+  "legajo_id": "23",
+  "id_carta": "3814",
+  "order_in_legajo": 69,
+  "signatura": "136:3226a.JPG",
+  "nombre_carta": "Carta de Luis de Aragón (VII duque de Cardona) a Pedro Santacilia y Pax",
+  "fecha_original": "15 de mayo de 1635",
+  "lugar": "Lucena",
+  "remitente": "Luis de Aragón (VII duque de Cardona)",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Echado había menos estos ordinarios sus cartas de v. m. y me persuadía que su falta la ocasionaban ocupaciones mayores de v. m. o haberse ausentado de esa corte. De cualquier manera las recibiré con muy buen gusto siempre que v. m. las continuare y me diere buenas nuevas de si. Las de la ida a Cataluña que ahora me dice me dejan contento por lo que deseo los mayores acrecentamientos de v. m., y estimaré me vaya avisando todo lo que tocare a aquel principado, y particulares de mi padre que deseo verle libre de ocasiones de enfados, y dígame v. m. lo que entendiere de la venida de mi suegro y que más se ofrezca, que los ociosos hemos menester saberlo todo para entretener el tiempo. Dios guarde a v. m. como deseo, Lucena 15 de mayo 1635. Don Luis de Aragón Sr. don Pedro Santacilia y Pax [1§] Lucena rdo. 15 mayo 1635 El conde de Ampurias Transcripción literal"
+  ],
+  "literal": [
+    "1. Echado avia menos estos ordinarios sus cartas de V.m. y2. me persuadia que su falta la ocassionavan ocupaçiones ma3. yores de Vm, ó, averse ausentado dessa Corte, de qual4. quier manera las Reçivire con muy buen gusto siempre5. que Vm las continuare y me diere buenas nuevas de sí,6. las de la ida a Cataluña que aora me dize me dejan7. contento por lo que desseo los mayores acrecentamientos8. de V.m, y estimare me vaya avissando todo lo que9. tocare .á. aquel Principado, y particulares de mi padre 10. que desseo verle libre de ocassiones de enfados, y diga11. me Vm lo que entendiere de la benida de mi suegro12. y que mas se ofrezca. que los oçiossos emos menester13. saverlo todo para entretener el tpo. Dios gde a Vm14. como desseo, Lucena .15. de mayo 1635.15. Don Luys de Aragon16. Sr. Don Po. Santaçilia y Pax, [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "136:3226a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo23/136:3226a.JPG",
+      "url": "/legajos/legajo-23/images/136:3226a.JPG"
+    },
+    {
+      "filename": "137:3226b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo23/137:3226b.JPG",
+      "url": "/legajos/legajo-23/images/137:3226b.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "136:3226a.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-23/cartas/003814.json",
+  "primary_image_url": "/legajos/legajo-23/images/136:3226a.JPG"
+}

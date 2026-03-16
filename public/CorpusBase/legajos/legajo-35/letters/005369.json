@@ -1,0 +1,43 @@
+{
+  "legajo_id": "35",
+  "id_carta": "5369",
+  "order_in_legajo": 180,
+  "signatura": "210:8216a.JPG",
+  "nombre_carta": "Carta de Bartolomé Mercadal a Pedro Santacilia y Pax",
+  "fecha_original": "1 de enero de 1662",
+  "lugar": "El Mercadal",
+  "remitente": "Bartolomé Mercadal",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "{CAST Sr. procurador reial mi amo i Sr. } Per carta de 30 del corrent que tinc entregada {CAST. antes} de partir-me de Ciutadella en el patró Josep Pujol, tinc escrit a v. m. com Antoni Rabasa, colector del Mercadal, me tenia avisat havia naufragat una saetia en el glop (sic) d’en Sans, que dista de Fornells algun mig quart de llegua. I, essent arribat en dit lloc, he trobat la saetia feta tota trosos amb el patró Jacomo Baso, francès, de la ciutat de Marsella i onze mariners, també, francesos, qui s’eren salvats, i el cirurgià, amb dos altres mariners negats. Encontinent, tinc rebuda in formació i resulta d’ella que la dita saetia venia buida d'Aliorna i anava en Argel amb tres mil reials de vuit per comprar un càrrec d'arengada, que els moros havien pres pocs dies havia, d'un monsur, Joan Batista Socino, de Marsella o altres mercàncies d'Alger, com son cuires i llanes, fent companyia amb el patró Ffco. Simone, francès, i amb el patró i escrivà de la dita saetia. Aportava set pedres de ferro, una peça de ferro, alguns mos quets i quatre an cores. Jo em trobo ha dit lloc fent donar cobor [?] al que el mar treurà i, en particular, tinc enviat en Maó per barca i mariners per es candejar [?] el lloc del naufrag per cercar el diner, qui segons diu el patró i mariners es en el sol de la mar, doncs la caixa es sortida feta trosos, i també per fer treure les ancores i pedres, si el temps dóna lloc, que fins avui està perseverant de ningunes. I, havent acon solats als mariners, els tinc acomiadats per Ciutadella i sols he fet quedar en ma companyia el patró perquè tengui la puntualitat, en què obren els ministres del Reial Patrimoni i tinga de tot la satisfacció que demanen els naufragis, en què ja sospita de diner. I del que aniré descobrint, donaré a v. s. notícies amb la puntualitat que em corre ablegació [?]. Déu N. me guardi a. a v. s. i li don molt bon principi d'any nou en vida de mi senyora Sra. Dna. Leonor i srs. fills cuyes mans beso amb les de v. s. Del Glop d’en Sans, terme del Mercadal, primer de gener 1662. B. l. m. de v. s. su major servidor Don Bartomeu Mercadal Transcripción literal"
+  ],
+  "literal": [
+    "1. Sor. Pdor Real my amo y Sor.2. Per carta de 30 del corrent que tinch entregada3. antes de partirma de Ciu[tadell]a an el patro Joseph Pujol4. tinch scrit a VM com Antto. Rebaça collector del 5. Mercadal me tenia avisat havia naufragat 6. una segetia anel glop den sans que dista de Fornells7. algun mig quart de llegua, y essent arribat8. en dit lloch he trobat la segetia feta tota trossos9. ab lo patro Jocommo Basso franses de la Ciutad10. de Mersella y onsa marines tambe fransessos11. qui sere salvats, y lo sirurgia ab dos altras12. marines negats= encontinent tinch rebuda in13. formacio y resulta della que la dita segetia14. venia buyda de Aliorna y anava en Argel15. ab tres mil Rs. de vuyt per comprar un carrech16. de arengada que los moros havian pres pochs dias17. havia de un monsur Joan Batista Socino de18. Mersella, o, altras mercancias de Alger com19. son cuyres y llanas, fent compañya ab lo Patro20. Ffco. Simone franses, y ab lo patro y scriva de la21. dita segetia= aportava setg pedres de ferro, una22. pessa de ferro alguns mosquets y quatra an23. coras, yo em trobo a dit lloch fent donar cobor a lo24. que el mar treura y em perticular tinch en25. viat en Maho per barca y marines per es26. candear el lloch del naufrag per ser car27. el diner qui segons diu lo patro y marines28. es en el sol d ela mar, puits la caxa es surtida29. feta trossos, y tambe per fer treura las ancoras30. y pedres si el temps dona lloch, que fins [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "210:8216a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo35/210:8216a.JPG",
+      "url": "/legajos/legajo-35/images/210:8216a.JPG"
+    },
+    {
+      "filename": "211:8216b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo35/211:8216b.JPG",
+      "url": "/legajos/legajo-35/images/211:8216b.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "210:8216a.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-35/cartas/005369.json",
+  "primary_image_url": "/legajos/legajo-35/images/210:8216a.JPG"
+}

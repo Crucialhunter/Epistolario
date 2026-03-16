@@ -1,0 +1,43 @@
+{
+  "legajo_id": "6",
+  "id_carta": "569",
+  "order_in_legajo": 61,
+  "signatura": "067-40a",
+  "nombre_carta": "Carta de Bernardo Clar a Cecilia Zaforteza y Sureda de Sant Martí",
+  "fecha_original": "7 de septiembre de 1748",
+  "lugar": "Madrid",
+  "remitente": "Bernardo Clar",
+  "destinatario": "Cecilia Zaforteza y Sureda de Sant Martí",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Madrid, y setiembre 28 de 1748. Muy Sra. mía, el sentimiento que me cabe en la muerte del Sr. D. Francisco es recíproco a los singulares favores que le he debido, y el desconsuelo de v. s. le considero correspondiente a tan gran pérdida. Pero no dudo servirá a v. s. de algun alivio haber sido su fin tan católico y ejemplar como su vida, a que se le habrá seguido el premio de la gloria. Ruego a nuestro Señor dé a v. s. fortaleza, de que necesita para resistir tan riguroso golpe. [1§] v. s. sabe la obligación que me corre de servirla, y así la suplico la desempeñe con los preceptos de su mayor agrado, que obedeceré gustoso, no olvidando el pedir a Dios en mis flacas oraciones y santo sacrificio por el alma del Señor D. Francisco, como v. s. me previene. Saludo a v. s. y a mi señora madre y hermana, con toda la familia. El mismo Señor guarde a v. s. muchos años, como deseo. Besa los pies de v. m. su más seguro servidor y capellán, Señor D. Bernardo Clar. Mi Sra. Dña. Cecilia Zaforteza y Sureda. [A la izquierda del cuerpo principal del documento] Los sobrinos escriben a v. s., y lo han sentido mucho. Transcripción literal"
+  ],
+  "literal": [
+    "1. Madrid, y bre 28 de 1748. 2. Muy Sra. mia el sentimiento, que me 3. cabe en la muerte del Sor. D. Franco 4. es reciproco á los singulares fabores 5. que le he debido; y el desconsuelo 6. de V.S. le considero correspondiente 7. á tan gran perdida; pero no dudo 8. servira a V.S. de algun alivio haver 9. sido su fin tan catholico, y exem- 10. plar como su vida, á, que se le 11. haura seguido el premio de la 12. gloria. Ruego á nuestro Señor dé 13. a V.S. fortaleza, de que necesi- 14. ta para resistir tan riguroso gol- [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "067-40a.jpg",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo06/067-40a.jpg",
+      "url": "/legajos/legajo-06/images/067-40a.jpg"
+    },
+    {
+      "filename": "068-40b.jpg",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo06/068-40b.jpg",
+      "url": "/legajos/legajo-06/images/068-40b.jpg"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "067-40a.jpg",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-06/cartas/000569.json",
+  "primary_image_url": "/legajos/legajo-06/images/067-40a.jpg"
+}

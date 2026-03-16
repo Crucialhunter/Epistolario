@@ -1,0 +1,38 @@
+{
+  "legajo_id": "12",
+  "id_carta": "1518",
+  "order_in_legajo": 25,
+  "signatura": "027_6111.JPG",
+  "nombre_carta": "Carta de Bartomeu Domènech a Pedro Santacilia y Pax",
+  "fecha_original": "30 de diciembre de 1638",
+  "lugar": "Villalba",
+  "remitente": "Bartomeu Domènech",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Jo estic determinat d'enviar a v. m. el [?] amb [?] ton perquè vingui amb ell perquè vegin que teniu altre cavall de fama. Convé que v. m. faci comprar tras cabeçades per als cavalls i una conillera i un pitral, que són menester. Guardi Déu a v. m. com pot. Villalba, a 30 de 1638. Bartomeu Domenech, prevere. Transcripción literal"
+  ],
+  "literal": [
+    "1. Jo estich detarminat de envi-2. ar a v.m. lo castain ab [?]3. ton?? p[er]que vinga ab ell p[er]4. què vajan que taniu al5. tra cavaill de fama6. convé que v.m. fasa con-7. prar tras cabasadas p[er]8. los cavails y una coille-9. ra i un pitral, que as son10. manaster. Gde. déu a v.m.11. com pot. Vidalba a 30 de12. 163813. Bartt[omeu] Domenech, pre[vere] [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "027_6111.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo12/027_6111.JPG",
+      "url": "/legajos/legajo-12/images/027_6111.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "027_6111.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-12/cartas/001518.json",
+  "primary_image_url": "/legajos/legajo-12/images/027_6111.JPG"
+}

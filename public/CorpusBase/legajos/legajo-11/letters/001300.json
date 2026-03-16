@@ -1,0 +1,38 @@
+{
+  "legajo_id": "11",
+  "id_carta": "1300",
+  "order_in_legajo": 69,
+  "signatura": "120:5160.JPG",
+  "nombre_carta": "Carta de Joan Barceló a Pedro Santacilia y Pax",
+  "fecha_original": "24 de junio de 1643",
+  "lugar": "Alicante",
+  "remitente": "Joan Barceló",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Mi gobernador Dios sabe v. s. la causa y porque me çazo de Ciutadella el padre Calafat vicario general de los agustinos de esas islas y si acaso no está informado o bien se podrá informar del Sr. don Bernardo Olivas y de todo el pueblo y en particular de Lorenzo Beltran de que manera me saco el dicho padre del Convento dos Çoçorro: informado pues de todo si le parece y quiere hacerme caridad poniéndose v. s. por medianero que me alcance una licencia de dicho padre Calafat por volver a servir a v. s. y todos sus amigos. La verdad es que en lugar de ir a Mallorca me fui a Valencia por [?] la ínsula persecución mia. Bien es verdad que estoy muy acomodado, pero tiene uno sé que esta ausente de mis amigos. Bien sabrá v. s. en que oficio servía a esa villa sin interés ninguno. Confío en v. s. que me sacara de este en todo restando yo obligado a encomendarle a Dios, el cual le dé muchos años de vida y santo de bendición. La respuesta de esta podría v. s. enviar al padre Dr. Juan Pons, prior de Alicante. Dios guarde a v. s. como puede y deseo, de Alicante y junio a 24 de 1643. Capellán de v. s.,Fr. Joan Barcelo. Transcripción literal"
+  ],
+  "literal": [
+    "1. [^mi sr. Governador^] 2. Dios sabe VSª la causa y porque me çaço 3. de Ciutadella el Pe Calafat Vicario gl de los agnos 4. de essas islas y si acaso no esta informado o bien se 5. podra informar del sr. don Bernardo Olivas y de 6. todo el pueblo y en particular de Lorenzo Beltran 7. de que manera me saco el dicho Pe del Convento dos 8. Çoçorro: informado pues de todo si le parece y quiere 9. hazerme caridad poniendose VS por medianero 10. que me alcance una licencia de dicho Padre 11. Calafat por bolver a servir a VS y todos sus amigos. 12. La verdad es que en lugar de hir a Mallorca me 13. fui a Vala por [^??^] la insula persecucion mia. 14. Bien es verdad que estoy muy acomodado pero tiene 15. unno se que esta ausente de mis amigos. Bien sabra 16. VS en que oficio servia a esa Vila sin interes 17. ninguno. Confio en VS que me sacara deste en todo 18. restando yo obligado a encomendarle a Dios 19. lo qual le de muchos años de vida y santo de 20. bendicion. La respuesta de esta podria VS enviar 21. al Pe Dr. Juan Pons Prior de Alicante 22. Dios gde a VS como puede y deseo 23. De Alicante y junio a 24 de 1643 24. Capellan de VS Fr. Juan Barcelo. [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "120:5160.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo11/120:5160.JPG",
+      "url": "/legajos/legajo-11/images/120:5160.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "120:5160.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-11/cartas/001300.json",
+  "primary_image_url": "/legajos/legajo-11/images/120:5160.JPG"
+}

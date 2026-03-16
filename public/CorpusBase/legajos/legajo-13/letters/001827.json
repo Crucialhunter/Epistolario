@@ -1,0 +1,38 @@
+{
+  "legajo_id": "13",
+  "id_carta": "1827",
+  "order_in_legajo": 94,
+  "signatura": "155:2331.JPG",
+  "nombre_carta": "Carta de Bartolomé Fullana a Pedro Santacilia y Pax",
+  "fecha_original": "20 de octubre de 1668",
+  "lugar": "Mallorca",
+  "remitente": "Bartolomé Fullana",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Ayer fue Dios Nuestro Señor servido de llevarse para si el regente, él le tenga en su Santa Gloria. Muchas veces he sabido por parte de Jerónimo que v. s. goza mucha salud, Dios se la conserve muchos años y me lo deje ver con la misma, juntamente con los demás de su casa. El criado de v. s. que Dios me había dado de que le di noticia en 12 Agosto pasado, también me lo ha quitado con la misma facilidad que me lo dio. Él nos dé salud para servir a v. s. a quien guarde muchos años como deseo y es menester. Mallorca 20 octubre 1668. Criado de v. s. que su mano besa,Bartolome Fullana, notario Sr. don Pedro de Santacilia, mi Sr. Transcripción literal"
+  ],
+  "literal": [
+    "1. Ayer fue Dios nuestro señor servido de2. llevarse para si el Sr. Regente, el le3. tenga en su Sancta gloria; muchas vezes4. he sabido por parte de Geronymo que5. V.S. gosa mucha salud Dios se la con=6. serve muchos años y melo dexe Ver7. con la misma juntamente con los8. demas de su Casa.9. El Criado de V.S. que dios me havia 10. dado de que le di notitia en 12. Agosto11. passado, tambien me lo ha quitado con12. la misma façilidad que me lo dio. el 13. nos de salud para servir a V.S. a quien14. guarde muchos años como deseo y he15. menester. Mallorca 20. octubre 1668.16. Criado de VS q[ue] s[u] m[ano] b[esa]br> Bartholome fullana nott[ario]17. Sr. Don Pedro de SanctaCilia mi Sr. [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "155:2331.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo13/155:2331.JPG",
+      "url": "/legajos/legajo-13/images/155:2331.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "155:2331.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-13/cartas/001827.json",
+  "primary_image_url": "/legajos/legajo-13/images/155:2331.JPG"
+}

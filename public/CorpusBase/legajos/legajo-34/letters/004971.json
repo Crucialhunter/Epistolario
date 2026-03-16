@@ -1,0 +1,38 @@
+{
+  "legajo_id": "34",
+  "id_carta": "4971",
+  "order_in_legajo": 4,
+  "signatura": "001:6888",
+  "nombre_carta": "Carta de Vicente de Aragón a Persona desconocida",
+  "fecha_original": "25 de julio de 1650",
+  "lugar": "Valencia",
+  "remitente": "Vicente de Aragón",
+  "destinatario": "Persona desconocida",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "mío resivo su carta de v. s. de 10 de este, y de la merced que v. s. y mi primo Medellín son ser/ vidos de hacerme, estoybien cierto seudria las espaldas seguras, yo nosolo crehi haber sa/ lidoy adeaqui, pero que estaría ya en esacer/ se si [?] ohansohebe n, v [?] idocosasq uenomehan dadolugar y voy procurando acabar de ajus/ tarlas, parque cuanto antes salgadeaqui quelodescoper muchas razones, y de araser las canlas, que no las he visto, pero primero es asender alahacienda grandes enquentros dicenhay entre los hernos, avisanmo diferentes principios y no me lo avisa nadie de Madrid, yesto digoa v. s. pnque todo llega per acá ya el virrey dice tienemlicencia, y trata de injernada, v. s. moseña ensegundo lugar después delg ranCupi, que con esto me contentare de novedades no hay marge esquerre, continuación ningunas Dios g dé a v. s. muctosaños Valencia y julio 25, 9 [?] de 1650 Amigo de v. s. don Vicente de Aragon [1§] Transcripción literal"
+  ],
+  "literal": [
+    "1. Sr mio resivo su carta de Vs de 10 de este, y de2. la merced que vs y mi Primo Medellín son ser/3. vidos de hazerme, estoybien cierto se[u]dria4. las espaldas seguras, yo nosolo crehi haver sa/5. lidoy adeaqui, pero que estaria ya en es[s]acer/6. se [si??]ohansohebe [n,v?]idocosasq uenomehan7. dadolugar y voy procurando acabar de ajus/8. tarlas, parque quanto antes salgadeaqui9. quelodescoper muchas rasones, y de araser10. las can[la]s, que no las he visto, pero primero es11. asender alahazienda12. Grandes enquentros dicenhay entre los13. hernos, avisanmo diferentes principios14. y no melo avisa nadie de Madrid, yesto15. digoa VS p[n]quetodo llega per aca16. ya el vyrey dice tiene[m]licencia, y trata17. de [inj]ernada, VS mosenya ensegundo lugar18. despues delg ranCupi, que con esto me19. contentare de novedades no hay20. [marge esquerre, continuació]21. ningunas Diosg de a VS muctosaños valencia y Julio22. 2[6,9?] de 165023. Amigo de VS24. Don Vicente 25. de Arayens [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "001:6888.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo34/001:6888.JPG",
+      "url": "/legajos/legajo-34/images/001:6888.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "001:6888.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-34/cartas/004971.json",
+  "primary_image_url": "/legajos/legajo-34/images/001:6888.JPG"
+}

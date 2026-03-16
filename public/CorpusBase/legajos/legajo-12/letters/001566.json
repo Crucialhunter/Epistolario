@@ -1,0 +1,43 @@
+{
+  "legajo_id": "12",
+  "id_carta": "1566",
+  "order_in_legajo": 73,
+  "signatura": "094_6159a.JPG",
+  "nombre_carta": "Carta de Marqués de las [??] a Pedro Santacilia y Pax",
+  "fecha_original": "11 de septiembre de 1641",
+  "lugar": "Génova",
+  "remitente": "Marqués de las [??]",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "V. m. no se contentó con los favores del hospedaje sino también en ganarme por la mano escribiéndome las buenas nuevas de su salud y del socorro de Tarragona que lo he estimado mucho, si bien no he avisado a v. m. mi llegada a esta ciudad por no haber sabido va bajel a esta ciudad hasta ahora, que me dicen parte uno que ha de tocar allá con que no quiero perder la ocasión de besar las manos a v. m. y darle cuenta del buen viaje que tuvimos después de habernos reparado en su casa y [?] tanta merced de que todos estamos muy reconocidos. Hasta ahora no he tenido despacho de su majestad para pasar de aquí, espérole con cada correo, y en sabiendo a donde he de parar lo avisaré a v. m. para que sepa a donde me tendrá a su servicio. v. s. no lo deje de hacer siempre de cuanto se ofreciere del y de (de) mi parte muchos recados a todos esos caballeros que vine tan obligado a la merced, pues [1§] me hicieron como lo experimentarán en cuanto me emplearen. Guarde Dios a v. m. muchos años, Génova y septiembre 11 de 1641. Esta ajustado con el conde de Siruela de irnos en Alejandría y por esperar [?] del duque de Medina he dilatado el ir allá [?] de estas diligencias tengo por cierto que resultará el favor lo que desea de mi que teniendo certeza lo avisaré a v. m. con la primera ocasión. El marques de las [?] [2§] Transcripción literal"
+  ],
+  "literal": [
+    "1. V.m. no se contento con los fabores del ospedaje sino tanbien2. en ganarme por la mano escriviendome las buenas nuebas3. de su salud y del socorro de Tarragona que lo e estimado 4. mucho si bien no e avisado a Vm mi llegada a esta Ciud[ad]5. por no haver savido ba bajel a esta Ciu[da]d, hasta aora que6. me dizen parte uno que a de tocar alla con que no quiero per=7. der la ocassion de besar las manos a Vm y darle q[uen]ta8. del buen biaje que tubimos despues de havernos repa=9. rado en su casa y ???? tanta mrd. de que todos esta=10. mos muy reconozidos11. Hasta aora no he tenido despacho de su M[a]g[esta]d para pa=12. sar de aquí, esperole con cada correo, y en saviendo a donde13. e de parar lo avisare a Vm para que sepa a donde me tendra14. a su serv[ici]o. Vm no lo deje de hacer siempre de quanto15. se offreciere del y de (de) mi p[ar]te muchos recados a todos16. essos Cav[alle]ros que bine tan obligado a la mrd. pues [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "094_6159a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo12/094_6159a.JPG",
+      "url": "/legajos/legajo-12/images/094_6159a.JPG"
+    },
+    {
+      "filename": "095_6159b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo12/095_6159b.JPG",
+      "url": "/legajos/legajo-12/images/095_6159b.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "094_6159a.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-12/cartas/001566.json",
+  "primary_image_url": "/legajos/legajo-12/images/094_6159a.JPG"
+}

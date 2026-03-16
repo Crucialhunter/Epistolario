@@ -1,0 +1,43 @@
+{
+  "legajo_id": "37",
+  "id_carta": "5439",
+  "order_in_legajo": 49,
+  "signatura": "039:23a",
+  "nombre_carta": "Carta de Bernat Rosselló Custos a Persona desconocida",
+  "fecha_original": "28 de septiembre de 1692",
+  "lugar": "Ciutadella",
+  "remitente": "Bernat Rosselló Custos",
+  "destinatario": "Persona desconocida",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Compara esta el tropia en la salut prafe ta jo la tenc pel que en manarà voldria de v. m. en fes mercè de lagir esta carta del comanador i donar-la-hi en ses mas pròpies i veure la resposta li tornava i v. m. ja sabrà el que diu la carta i li donarà seia da a mi m'ha escirt certa persona que en el que pensa {ESP. menos} és el meu negoci i per açò en som determinat escriurali en esta forma i sinó fos perquè no se es si tendria gust jo ja no sari en Menorca voldria de v. m. en sabés des avsita de la carta del comanador acàs m'envies a dir que passas Espanya o nar en Mallorca o que fes el que voria del que és senyor tendrà gust que jo no faré més [1§] del que v. m. m'escriura i donar gust en el jo voldria si al negoci ha de ser llarg passar en Madrid i no en faltara angenia per fer-me fer una carta de fa vor d'algun del consey o altra persna perquè jo trob que si el com anador sabia que havia de ser tant llarg ja pories cusar que jo ages de mangar en casa del Govar nador no és que en fa molta mercè i jo percur a no desservir-lo en res i si acàs trobava v. m. que conva n'hi ha anar en Madrid en faria mar rse que menviar-se'n de casa 25 peces de paxucant els qui en diuen que més val que jo gast estos diners per tornar en Mallorca i així jo discore esch tot sol v. m. determinaran el més convanient el que li encaresch és que la resposta venga en l'embarca tio es troba en el Cudia que estira que tra dies i podran remetra les cartes en el masia Sureda el capità i el Sr. Pere Sagi estan enfisats Do na molts {ESP. recados} a tots els de sa casa de part mia i en el agudant i el Sr. Marti Gil i en el Martí de Landivar i que tengan esta per prop ja Déu guarde, a v. m. i setembre 28 de 1692 Son Compara que ls. M. Bª Bernat Rossallo [2§] Transcripción literal"
+  ],
+  "literal": [
+    "1. Sr. Conpara esta el tropia en la salut prafe-2. ta yo la ten[c]h per lo que en manara volri[a] de3. V.m en fes marse de lagir esta carta del4. comanador y donarley en ses mas propias5. y veura la resposta li tornava y v.m. ya6. sabra lo q diu la carta y ley donar[a] seia-7. da a mi me a escirt serta persona que en8. lo q pensa menos es el meu nagosi y per9. aso en som determinat escriurali en esta10. forma y sino fos per q no se es Sr, si11. tendria gust yo ya no sari en manorca12. volria de V.m. en sabes des Sr. avsita13. de la carta del Comanador acas me14. envias a dir que pasas españa o nar en15. mallorca o que fes lo que voria de lo que16. es sanor tendra gust que yo no fare mes [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "039:23a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo37/039:23a.JPG",
+      "url": "/legajos/legajo-37/images/039:23a.JPG"
+    },
+    {
+      "filename": "040:23b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo37/040:23b.JPG",
+      "url": "/legajos/legajo-37/images/040:23b.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "039:23a.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-37/cartas/005439.json",
+  "primary_image_url": "/legajos/legajo-37/images/039:23a.JPG"
+}

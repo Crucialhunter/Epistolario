@@ -1,0 +1,38 @@
+{
+  "legajo_id": "29",
+  "id_carta": "6347",
+  "order_in_legajo": 39,
+  "signatura": "074:4164.JPG",
+  "nombre_carta": "Carta de Tomás Ruiz de Salas a Pedro Santacilia y Pax",
+  "fecha_original": "26 de enero de 1641",
+  "lugar": "Vinarós",
+  "remitente": "Tomás Ruiz de Salas",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "[1§] Transcripción literal"
+  ],
+  "literal": [
+    "1."
+  ],
+  "imagenes": [
+    {
+      "filename": "074:4164.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo29/074:4164.JPG",
+      "url": "/legajos/legajo-29/images/074:4164.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "074:4164.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-29/cartas/006347.json",
+  "primary_image_url": "/legajos/legajo-29/images/074:4164.JPG"
+}

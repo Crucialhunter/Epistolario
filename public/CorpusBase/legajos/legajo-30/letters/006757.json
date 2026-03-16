@@ -1,0 +1,38 @@
+{
+  "legajo_id": "30",
+  "id_carta": "6757",
+  "order_in_legajo": 237,
+  "signatura": "350:5595.JPG",
+  "nombre_carta": "Carta de Leonor de Berga i Santacilia a Pedro Santacilia y Pax",
+  "fecha_original": "2 de agosto de 1664",
+  "lugar": "Mallorca",
+  "remitente": "Leonor de Berga i Santacilia",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Â [1§] Transcripción literal"
+  ],
+  "literal": [
+    "1."
+  ],
+  "imagenes": [
+    {
+      "filename": "350:5595.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo30/350:5595.JPG",
+      "url": "/legajos/legajo-30/images/350:5595.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "350:5595.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (3)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-30/cartas/006757.json",
+  "primary_image_url": "/legajos/legajo-30/images/350:5595.JPG"
+}

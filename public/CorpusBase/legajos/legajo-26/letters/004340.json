@@ -1,0 +1,57 @@
+{
+  "legajo_id": "26",
+  "id_carta": "4340",
+  "order_in_legajo": 76,
+  "signatura": "108:3434a.JPG",
+  "nombre_carta": "Carta de Gregorio Mercado a Pedro Santacilia y Pax",
+  "fecha_original": "13 de diciembre de 1639",
+  "lugar": "Madrid",
+  "remitente": "Gregorio Mercado",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Sr. mío. Ocho días ha que estoy en Madrid y aún no he salido de casa por no haberme acabado de vestir de negro ni he visto a nadie ni a v. m. con que buenos principios entro de [?] han me dicho cada día vienen correos de Salsas y unos dicen que han socorrido la plaza y otros que les hemos vuelto a dar en la cabeza. No se cosa que poder escribir a v. m. hasta que salga que será mañana o pasado mañana y desde entonces empezaré a mentir y valer algo para servir a v. m. a quien suplico no deje de mandarme en cuantas ocasiones se le ofrecieren. Dios guarde a v. m. como deseo de D. Pedro Santacilia [1§] Madrid a 13 de diciembre 1639. Don Gregorio de Mercado Madrid 13 Diciembre 1639 Don Gregorio de Mercado Transcripción literal"
+  ],
+  "literal": [
+    "1. Sr. mio Ocho dias a que estoi en2. madrid i aun no e salido3. de casa por no aberme a 4. cabado de bestir de negro5. ni e bisto a nadie ni a Vm6. conque buenos prinsipios en7. tro de [?] an me dicho8. cada dia bienen coreos de Salsas9. i unos disen que an socorido10. la plasa i otros que les emos bu11. elto a dar en la cabesa no se cosa12. que poder escribir a Vm. asta13. que salga que sera mañana14. o pasado maña (sic) i desde enton15. ses enpesare a mentir i baler16. algo para serbir a Vm a qui17. en suplico no deje de mandarme18. en cuantas ocasiones se le ofresieren19. Dios gde. a Vm como deseo de 20. Sr. d. Pro. Santacilia [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "108:3434a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo26/108:3434a.JPG",
+      "url": "/legajos/legajo-26/images/108:3434a.JPG"
+    },
+    {
+      "filename": "109:3434b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo26/109:3434b.JPG",
+      "url": "/legajos/legajo-26/images/109:3434b.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "108:3434a.JPG",
+  "warnings": [
+    {
+      "code": "IMAGE_DOWNLOAD_FAIL",
+      "message": "HTTP 404",
+      "context": {
+        "url": "http://santacilia.info/intranet2/img/Legajo26/108:3434a.JPG"
+      }
+    },
+    {
+      "code": "IMAGE_DOWNLOAD_FAIL",
+      "message": "HTTP 404",
+      "context": {
+        "url": "http://santacilia.info/intranet2/img/Legajo26/109:3434b.JPG"
+      }
+    },
+    {
+      "code": "IMAGE_COUNT_MISMATCH",
+      "message": "Imágenes detectadas (2) != descargadas (0)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-26/cartas/004340.json",
+  "primary_image_url": "/legajos/legajo-26/images/108:3434a.JPG"
+}

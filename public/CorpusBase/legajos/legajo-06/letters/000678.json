@@ -1,0 +1,43 @@
+{
+  "legajo_id": "6",
+  "id_carta": "678",
+  "order_in_legajo": 178,
+  "signatura": "274-139a",
+  "nombre_carta": "Carta de Nicolás Abrí Dezcallar a Cecilia Zaforteza y Sureda de Sant Martí",
+  "fecha_original": "29 de mayo de 1779",
+  "lugar": "Barcelona",
+  "remitente": "Nicolás Abrí Dezcallar",
+  "destinatario": "Cecilia Zaforteza y Sureda de Sant Martí",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Barna i mayo 29 de 1779. muy Senyora mia de mi major veneracion a el que iba a partir per a mi Pueblo de Palau recibí la favorecida de v. s. con el que scuse excusé en aquella ocasion textar contestar el {ESP. recibo} de quella aquélla, esperando dar satisfaccion restituido en esta ésta, com lo hago agradeciendo a v. s. sus finas x preciones expressiones de cuya nceridad sinceridad estoy bien seguro, i gustaria que creyera v. s. i ad mitiera admitiera per ingenuos i verdaderos els de seos deseos con que sol·licito ocasiones de compla cer complacer a v. s. en un todo jo a {ESP. menos} pensar me partiré de s ta esta per a Malta aunque solo serà este o paseo d'un anyo. Dios me dé un feliz ge viatge i ocasion com la deseo con ansia de passar a esta isla o en la ida o en la vuelta per a poder i rendir mis respetos a v. s. càndole suplicàndole se sirva esser tantes xpressió nes expressiones de mi part a mi senyora dona Catali na Catalina su Hermana i mis Sres. sus sobrinas en el interin que espero jo {ESP. lograr} aquella ocasión, puede v. s. disponer de mí, doncs que en todas distàncies me ran seran apreciables els preceptos de v. s. cuya vida ruego a Dios guardi els muchos anys que deseo B L M de v. s. Su màs atento i sego Servidr El Bailio Abri Dezcallar Mi senyora dona Cecilia Zaforteza Transcripción literal"
+  ],
+  "literal": [
+    "1. Mi Sra. Dna. Secilia; don noticia á V.S. com 2. ne Miquella aribá en esta Villa, á las set de la 3. tarda, y en perfeta salut, y guardada de tot pe- 4. ril gs á Deu No. Sor. y li don las gracias de los 5. Binificis que ha rebut ne Miquella de V.Sa. 6. he fetas las diligensias en buscar las duas Polas 7. y no nepugudas encontrá, de las que en digué 8. ne Miquella, perquant are totas son petitas, pero 9. perda cuydado que luego que tindrá alchasió 10. les hi enviaré, y en cos de son gust disponga de 11. me Persona; Rebra mil esprecions de part de ne 12. Miquella y mias las rebra en medida de son gust 13. y agrado, y axi mateyx les derá á Mado Cattna 14. y á las demes Donas de la sua Cassa, y á la Sra. 15. Priora, y á totas las Allotas. Deu gde V.Sa. ms 16. as . Montuiri y Maig 26 de 1779. 17. B L M de V.Sa. 18. Gregori Matheu Pre. y Beneficiad 19. A mi Sra. Dna. Secilia Fortessa [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "274-139a.jpg",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo06/274-139a.jpg",
+      "url": "/legajos/legajo-06/images/274-139a.jpg"
+    },
+    {
+      "filename": "275-139b.jpg",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo06/275-139b.jpg",
+      "url": "/legajos/legajo-06/images/275-139b.jpg"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "274-139a.jpg",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (3)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-06/cartas/000678.json",
+  "primary_image_url": "/legajos/legajo-06/images/274-139a.jpg"
+}

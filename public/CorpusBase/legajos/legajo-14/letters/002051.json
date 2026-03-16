@@ -1,0 +1,38 @@
+{
+  "legajo_id": "14",
+  "id_carta": "2051",
+  "order_in_legajo": 152,
+  "signatura": "247:2562.JPG",
+  "nombre_carta": "Carta de Cristóbal Crespí de Valldaura y Brizuela a Pedro Santacilia y Pax",
+  "fecha_original": "31 de enero de 1662",
+  "lugar": "Ibiza",
+  "remitente": "Cristóbal Crespí de Valldaura y Brizuela",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Con mucha estima he recibido el parabien que v. m. me da de la merced que su majestad ha hecho al Sr. don Antonio Ferrer mi sobrino de la plaza de fiscal de este supremo consejo por la seguridad que tengo del afecto que debo a v. m. a que corresponde el mío con particulares deseos de poder mostrarlo en todas las ocasiones del servicio de v. m. que guarde Nro. Sr. largos años. Ibiza a 31 de enero 1662. Don Cristobal Crespí de Valldaura Sr. don Pedro Santacilia y Pax. [1§] Transcripción literal"
+  ],
+  "literal": [
+    "1. Con mucha estima he recivio el parabien que V.m. me da de la md2. que su M[a]gd ha hecho al sr. Don Anto Ferrer mi sobrino de la3. plaça de fiscal deste supmo Conso por la seguridad que tengo del4. affecto que devo a V.m. a que corresponde el mio con partres desseos5. de poder mostrarlo en todas las occasiones del servo de V.M.6. que gde N.Sr. largos años Iviza a 31 de Henero 1662.7. Don Christoval Crespí8. de Valdaura9. Sr. Don Pº Santacilia y Pax. [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "247:2562.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo14/247:2562.JPG",
+      "url": "/legajos/legajo-14/images/247:2562.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "247:2562.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (2)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-14/cartas/002051.json",
+  "primary_image_url": "/legajos/legajo-14/images/247:2562.JPG"
+}

@@ -1,0 +1,48 @@
+{
+  "legajo_id": "30",
+  "id_carta": "6632",
+  "order_in_legajo": 102,
+  "signatura": "154:5470a.JPG",
+  "nombre_carta": "Carta de Juan de Ferrera a Pedro Santacilia y Pax",
+  "fecha_original": "9 de diciembre de 1619",
+  "lugar": "Mallorca",
+  "remitente": "Juan de Ferrera",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Â [1§] Â [2§] Â [3§] Transcripción literal"
+  ],
+  "literal": [
+    "1. 1. 1."
+  ],
+  "imagenes": [
+    {
+      "filename": "154:5470a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo30/154:5470a.JPG",
+      "url": "/legajos/legajo-30/images/154:5470a.JPG"
+    },
+    {
+      "filename": "155:5470b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo30/155:5470b.JPG",
+      "url": "/legajos/legajo-30/images/155:5470b.JPG"
+    },
+    {
+      "filename": "156:5470c.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo30/156:5470c.JPG",
+      "url": "/legajos/legajo-30/images/156:5470c.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "154:5470a.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (9)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-30/cartas/006632.json",
+  "primary_image_url": "/legajos/legajo-30/images/154:5470a.JPG"
+}

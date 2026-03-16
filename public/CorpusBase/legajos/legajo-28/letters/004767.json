@@ -1,0 +1,38 @@
+{
+  "legajo_id": "28",
+  "id_carta": "4767",
+  "order_in_legajo": 76,
+  "signatura": "117:3701.JPG",
+  "nombre_carta": "Carta de Macià Monsarró a Pedro Santacilia y Pax",
+  "fecha_original": "15 de mayo de 1639",
+  "lugar": "Zaragoza",
+  "remitente": "Macià Monsarró",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "El que v. m. me ha encomanat, que cerqués a un fadrí per a que savés descriure al propòsit que v. m. vol, jo he fet que los criats dels Sr. Corneli Tries n'han buscat un que entenc que és al propòsit, que és lo portador d'esta. Jo li he cercat una mula per a que anés aquí antes no isqués algun destort que no pogués anar a servir a v. m. La pell de Cardona sirà adobada dimarts per tot lo dia, que no se n'ha trobada ninguna al propòsit. Ja estan en Saragossa ardit y lo companyo seu. Lo Sr. governador m'ha dit que ja havia respost a v. m. en lo que v. m. li escribia. Lo duc en Fernandina [?] diuen que a quinze de maig parteix de Madrid. Jo en lo punt avisaré a v. m. No tinc altra cosa que dir a v. m. sinó que lo mosso que va és amic i persona que sap [?] bé y estimaré siga a propòsit i a [?] Sr. de Saragossa, a 15 de maig. [1639] Macia Monsarro. Sr don Pedro Santacilia. Transcripción literal"
+  ],
+  "literal": [
+    "1. el que vm me a encomanat que serques a vn fadri2. pera que saves descriure al proposit que vm vol3. yo he fet que los criats dels Sr. Corneli Tries4. nan buscat un que entench que es al proposit que5. es lo portador desta jo li e sercat una mulla6. pera que anes aqui antes no ysques algun destort7. que no pugues anar a servir a vm. La pel de8. Cardona sira adobada dimars per tot lo dia9. que no sena trobada ninguna al proposit10. ya estan en Çarag~. ardit y lo Compaño seu —11. Sor. governador me ha dit que ja avia respost12. a vm en lo que vm li escrivia ~ Lo duc hen13. fernandina dien que a quinse de mayx parteyx14. de madrid jo en lo punt avisare a vm no15. tinch altra cossa que dir a vm sino que lo 16. moso que va es amich y persona que sap [?] 17. be y estimare siga aproposi y a [?] 18. Sr. de Çaragª. a 15 de mayx19. masia monsarro20. Sr don Pº SantaSilia [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "117:3701.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo28/117:3701.JPG",
+      "url": "/legajos/legajo-28/images/117:3701.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "117:3701.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (2)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-28/cartas/004767.json",
+  "primary_image_url": "/legajos/legajo-28/images/117:3701.JPG"
+}

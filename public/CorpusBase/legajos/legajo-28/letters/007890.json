@@ -1,0 +1,43 @@
+{
+  "legajo_id": "28",
+  "id_carta": "7890",
+  "order_in_legajo": 135,
+  "signatura": "226:3767a.JPG",
+  "nombre_carta": "Carta de Conde de Zavellá a Pedro Santacilia y Pax",
+  "fecha_original": "27 de diciembre de 1653",
+  "lugar": "Madrid",
+  "remitente": "Conde de Zavellá",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Sr. mío. Dos de v. m. he recibido juntas y en entrambas muy igual gusto con las noticias de su salud. Que sea como yo deseo. En lo que v. m. me manda diligenciar la situación de su pensión, bien sabe v. m. que cuanto soy y valgo no excusaré en su servicio. Ya escribí a v. m. y a todos esos Sres. y amigos la merced q su majestad, Dios le guarde, me hizo de gentilhombre de la cámara sin ejercicio y ahora me han hecho merced estos Sres. de darme mi hacienda de Cataluña en administración (habiéndola embargado a petición mía) conque fío muy presto, con el favor de Dios, gozarla pacificamente y sin ir a Barcelona, que siempre ha estado con peste [?] y hoy la hay mucho mayor. Sr. D. Pedro Santacilia. [1§] Dios nos saque de tantos infortunios. Yo, por no aguar el gusto de v. m., le convido el domingo a la comedia que se representa a los años de la reina. Dicen será cosa grande en palacio cuyas deidades están como ellas mismas, y en particular la Sra. dª. Leonor Carreto, hija del embajador de Alemania, que porque sé que hace lisonja al gusto de v. m. no excuso el nombrarla. En fin, no se pasa mal por acá en esta triste ausencia. Yo fío en Dios que nos veremos presto. Y v. m. no se olvide de mandarme cruz a vida [?] en compañía de mi Sra. dª. Leonor y esos ángeles cuyas manos beso. Guarde Dios, dándoles tan felices Pascuas como yo deseo. Madrid, diciembre y 27 de 1653. [?] El conde de Zavella Transcripción literal"
+  ],
+  "literal": [
+    "1. Sr. mio Dos de vm he recibido juntas2. y en entrambas muy igual gusto con3. las noticias de su salud q sea4. como yo deseo. En lo q vm me manda5. diligenciar la situacion de su pension6. bien sabe vm que quanto soy y valgo7. no escusaré en su servicio. Ya escrivi8. a vm y a todos essos sres. y amigos la9. md q su Magd Dios le ge me hizo de10. Gentil hombre de la Camara sin exerci-11. cio y agora me han hecho md. estos Sres.12. de darme mi hazienda de Cataluña en13. administracion (aviendola embargado a pe14. ticion mia) conq. fio muy presto con el15. favor de Dios gozarla pacificamente16. y sin ir a Barcelona q siempre ha esta17. do con parte [peste [?] ] y oy la ay mucho mayor18. Sr D. Pedro StaCilia [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "226:3767a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo28/226:3767a.JPG",
+      "url": "/legajos/legajo-28/images/226:3767a.JPG"
+    },
+    {
+      "filename": "227:3767b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo28/227:3767b.JPG",
+      "url": "/legajos/legajo-28/images/227:3767b.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "226:3767a.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-28/cartas/007890.json",
+  "primary_image_url": "/legajos/legajo-28/images/226:3767a.JPG"
+}

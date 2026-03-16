@@ -1,0 +1,38 @@
+{
+  "legajo_id": "32",
+  "id_carta": "7127",
+  "order_in_legajo": 144,
+  "signatura": "166:1885.JPG",
+  "nombre_carta": "Carta de Nicolás de Santacilia y Togores a Pedro Santacilia y Pax",
+  "fecha_original": "10 de junio de 1665",
+  "lugar": "Madrid",
+  "remitente": "Nicolás de Santacilia y Togores",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Señor la novedades de que doy cuenta a v. m. que la reina nuestra Señor esta dando prisa para que sea la jornada de Alemania lo más presto que se pueda y el Emperador escribe muy a menudo, Nicolasillo el enano nos digo, que el rey había dicho que la infanta había de salir de Madrid a 10 de agosto, ocho días ha que tiene un decreto el caballerizo mayor del rey para que se nombren 2 caballeriços y 6 pages, nosotros estamos aguardando la nueva de que nos vengan a nombrar todos los días, yo hasta ahora entiendo que v. m. quiere que vaya no me quiere enviar a decir de su venida Madrid a 10 de Gunio de 1665 Su más humilde hijo de v. m. Q S. M. B. Sr. don Nicolas de Santacilia y Togores mi padre y señor [1§] Transcripción literal"
+  ],
+  "literal": [
+    "1. Señor la novedades de que doy quenta a VM. 2. que la Reyna nuestra Señor esta dando 3. priesa para que cea la jornada de Alema4. nia lo mas presto que se pueda y el Enpera5. dor escrive muy a menudo, Nicolasillo el ena6. no nos digo, que el Rey avia dicho que 7. la ynfanta avia de salir de Madrid a 10 8. de Agosto, ocho dias a que tiene un decreto 9. el cavalleriso Mayor del Rey para que se 10. nombren 2 cavalleriços y 6 pages, nosotros 11. estamos aguardando la nueva de que nos 12. vengan a nonbrar todos los dias, yo asta 13. aora entiendo que VM quiere que vaya 14. no me quiere enbiar a desir de su benida Ma15. drid a 10 de Gunio de 1665 16. Su mas humilde hijo de 17. VM. Q S. M. B. 18. Don Nicolas de Sta. Cilia y Togores 19. mi Padre y Señor [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "166:1885.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo32/166:1885.JPG",
+      "url": "/legajos/legajo-32/images/166:1885.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "166:1885.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-32/cartas/007127.json",
+  "primary_image_url": "/legajos/legajo-32/images/166:1885.JPG"
+}

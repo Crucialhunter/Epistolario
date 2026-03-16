@@ -1,0 +1,53 @@
+{
+  "legajo_id": "9",
+  "id_carta": "1002",
+  "order_in_legajo": 39,
+  "signatura": "047-24aa",
+  "nombre_carta": "Carta de Bartolomé Roca a Arnau de Santacilia",
+  "fecha_original": "4 de agosto de 1674",
+  "lugar": "Cremona",
+  "remitente": "Bartolomé Roca",
+  "destinatario": "Arnau de Santacilia",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Sr. mío otra tengo escrita de este señor por via de Madrid en respuesta de una recibida de v. m. De los días del pasado en la cual veo la merced que su majestad que Dios guarde lea esto por la cual le doy la enhorabuena como también me la doy a mi, pues veo me hace favor de llamarme a su servicio y en la confianza de que seré bien recibido a sus ojos he puesto por obra el sacar licencia con todo empeño y creo la sacaré infaliblemente y iré arrastrando hasta ponerme a su sombra que es toda mi buena o mala fortuna. En cuanto a lo que v. m. me manda que haga sus partes no era necesario esa avertencia pues gócenia propósito de serlo conociendo lo mucho que debo a v. m. [1§] en fin las cuentas se han hecho en presencia del sargento mayor [?] secretario Villalonga y Pedro Siron y yo ellas se han tomado lo más apretado que se ha podido, pues yo sabía todos los soldados que se han hido en que día en el cual se han dado de baja con que no se le ha podido meter talla [?] aquel sargento mayor ha quedado enamorado de Romero y lo quiere en todas maneras en su casa acabando la alabarda ya se envía a v. m. la clarida de todos los alcances y cargos que se le han hecho a v. m. lo que yo puedo decir que le ha valido a v. m. 21 mes de ausencia más de nueve mil libras, suplica pues los abonos han importado once mil y más libras hizo lo malograrán los mutanos [?] cargos que v. m. tiene pues a Villamoya se le abonan más de tres mil libras que en esta ocasión era mejores para v. m. después cerca de [?] sientas libras que le hace de cargos la [?] a donde entra paro Juan, alférez Jorge [2§] yo y otros doce o trece soldados que luego que pasaron cuentas fueron a pretender sus 30 libras, asegurando a v. m. que no sea mación [?] ninguno más de los que les tocaba y también ha tenido v. m. otros cargos de algunos vidos como también abonado de los que alcanzaban con que ha venido a resultar el dinero de v. m. en 2400 y tantas libras el sargento mayor ha metido mano en ello por lo que v. m. le escribe que deje a todos gustosos, esperando [?] lo que dará también aunque mal pagado de tanto beneficio como hace a todos, pues podía decir todo es mi [?] y todo lo quiero por la parte mía. Aseguro a v. m. que me ha movido el ver que mal podía [?] servir a v. m. hallándome con semejante empeño con que espero que v. m. me ha de dar con que paje, pues no tengo nos conozco otro padre Pedro Juan se halla aun en manos de barbero y dice quiere [3§] venir conmigo no sé si gustare v. m. le daré disgusto y eso me tiene en duda no ofreciéndose otra cosa, quedo rogando a Dios por la salud y aumentos de v. m. cuya vida guarde el Cielo felices años. Cremona y agosto a 4 de 1674. Criado de v. m.,Bartolome Roca Creo tardaré algunos dias más que me pensaba por haber muerto la hija del príncipe Liñí, Sargento mayor, D. arnaldo Santacilia Transcripción literal"
+  ],
+  "literal": [
+    "1. Sr mio otra tengo escrita deste senor 2. por via de madrit en respuesta de 3. una resebida de Vm. Delos dias del 4. pasado enla qual veo la merse que 5. su magd que dios guarde lea esto 6. por la qual le doi la norabuena 7. como tanbien mela doi ami pues 8. veo me hase favor de llamarme asu 9. servisio y enla, confiansa deque 10. sere bien resebido asus ojos epuesto 11. por obra el sacar lisensia contodo 12. enpeño y creo la sacare infalible 13. mente y ire arastrando hasta poner 14. me asu sombra que es toda mi buena 15. omala fortuna = en quanto alo 16. que Vm. me manda que aga sus partes 17. no era nesesario esa avertensia pues 18. gosenia proposito de asello conosiendo 19. lo mutso que devo a vm [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "047-24aa.jpg",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo09/047-24aa.jpg",
+      "url": "/legajos/legajo-09/images/047-24aa.jpg"
+    },
+    {
+      "filename": "048-24ba.jpg",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo09/048-24ba.jpg",
+      "url": "/legajos/legajo-09/images/048-24ba.jpg"
+    },
+    {
+      "filename": "048-24bb.jpg",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo09/048-24bb.jpg",
+      "url": "/legajos/legajo-09/images/048-24bb.jpg"
+    },
+    {
+      "filename": "047-24ab.jpg",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo09/047-24ab.jpg",
+      "url": "/legajos/legajo-09/images/047-24ab.jpg"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "047-24aa.jpg",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-09/cartas/001002.json",
+  "primary_image_url": "/legajos/legajo-09/images/047-24aa.jpg"
+}

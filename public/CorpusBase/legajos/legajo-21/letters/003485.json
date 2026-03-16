@@ -1,0 +1,43 @@
+{
+  "legajo_id": "21",
+  "id_carta": "3485",
+  "order_in_legajo": 173,
+  "signatura": "319:5773a.JPG",
+  "nombre_carta": "Carta de Joan Abrí Dezcallar a Pedro Santacilia y Pax",
+  "fecha_original": "4 de octubre de 1639",
+  "lugar": "Mallorca",
+  "remitente": "Joan Abrí Dezcallar",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "De que sóc arribat en esta terra tinc escrit a v. m., i fins ara no tinc resposta jo estic amb molt poc gust i així servisca fer-me mercè si per aquí hi ha algún {ESP. puesto} per servir-lo rei avisar-me que sia cosa convenient [?] a hàbit de St. Joan i avisar-me amb quin diner podrà que {ESP. per mucho pan nunca mal año} el que dic que anant ja arribo rei farà no podent-me sustentar en Malta, i no tenir quatre sous per donar per amor de Déu, o en el diable, que açò de fer passes menjar, i vestir [?] qualsevol frare de Ssant Francesc ho té, i ací servenisca [?] fer-me mercè avisar-me de tot amb claredat perquè jo pugui fer resolució del que m'estara millor, i com fos junt a la persona de v. m. me folgaria moltíssim per a poder-lo servir. Doni al pare Domenech 4 mil besamans. Guardi Déu a v. m. de Mallorca als 4 d'octubre de 1636. Fra Joan Abri Dezcallar Sr. don Pedro Santacilia i Pax [1§] Mallorca 4 octubre 1639 Fray Juan Dezcallar {ESP. rdo.} Transcripción literal"
+  ],
+  "literal": [
+    "1. Dasdaque so arribat en esta Terra; tinc 2. ascrit a vm., y fins are no tinc resposta 3. jo astic ab molt poc gust ; y axi servis4. ca ferma marse; si per aqui yha 5. algun puesto per sarvirlo Rey avisar6. me; que sia cosa comvenient aunde[?] 7. a Abit de St Juan; y avisarme ab quin 8. diner podra que {ESP por mucho pan nunca 9. mal año; alo que dic que anant ya10. vislo Rey fara no poden tinc sus-11. tantar en malta; y no tanir quatra 12. sous per donar per amor de Deu; o 13. anal diable; que asso de fer passes 14. manjar, y vestir[?] qualsavol frare de 15. S francesch ho te; y aci servenisca[?] fer 16. ma marse avisarme de tot abelara 17. dat paraque jo pugue fer rasolucio 18. de lo que me astara millor; y com fos 19. junt ala persona de Vm. me folgaria 20. moltissim; para poderlo sarvir; mal pare domane, 4 mil besamans 21. gde Deu avm de mallorca als 4. de octubre de 1636 22. fr[a] Juan Absi deCallar23. [Margen izquierdo][^ Sr d Pedro Sta cilia junt y Pax] [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "319:5773a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo21/319:5773a.JPG",
+      "url": "/legajos/legajo-21/images/319:5773a.JPG"
+    },
+    {
+      "filename": "320:5773b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo21/320:5773b.JPG",
+      "url": "/legajos/legajo-21/images/320:5773b.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "319:5773a.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-21/cartas/003485.json",
+  "primary_image_url": "/legajos/legajo-21/images/319:5773a.JPG"
+}

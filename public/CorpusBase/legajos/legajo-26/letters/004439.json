@@ -1,0 +1,38 @@
+{
+  "legajo_id": "26",
+  "id_carta": "4439",
+  "order_in_legajo": 180,
+  "signatura": "258:3534.JPG",
+  "nombre_carta": "Carta de Ana de Córdoba y Aragón a Pedro Santacilia y Pax",
+  "fecha_original": "13 de marzo de 1647",
+  "lugar": "Madrid",
+  "remitente": "Ana de Córdoba y Aragón",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "He holgado mucho con la carta de v. m. y saber de su llegada a su casa y [haya] hallado con ella a todos y que el señor d. Vicente venga tan bueno, y no dudo de que dará muy buena cuenta de todo lo que fuere del servicio de su majestad. Ya deseo verle y que llegue a tan buen tiempo como piden los negocios que trae a su cargo: vea v. m. en qué le puedo servir, a quien guarde Dios muchos años. De Madrid, 13 de marzo 1647. [Letra original de la remitente:] Dígame v. m. en qué le puedo servir si se le ofrece a v. m. alguna cosa de por acá. Doña Ana de Cordoba Señor don Pedro Santacilia Transcripción literal"
+  ],
+  "literal": [
+    "1. E holgado mucho con la carta de Vm.2. y saver de su llegada a su cassa y hallado3. con ella a todos, y que el Sr. d. Vicente4. venga tan bueno y no dudo de que dara muy5. buena quenta de todo lo que fuere del6. servicio de Su Magd. ya deseo verle7. y que llegue a tan buen tiempo como piden8. los negoçios que trae a su cargo vea9. Vm en que le puedo servir a quien ge. Dios10. muchos años de Md 13 de Março 164711. digame Vm en que le puedo serbir12. si se (^rbir) le ofrece a Vm alguna cosa13. de por aca14. Doña Ana15. de Cordoba16. Don Pº Sta.zilia [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "258:3534.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo26/258:3534.JPG",
+      "url": "/legajos/legajo-26/images/258:3534.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "258:3534.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (2)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-26/cartas/004439.json",
+  "primary_image_url": "/legajos/legajo-26/images/258:3534.JPG"
+}

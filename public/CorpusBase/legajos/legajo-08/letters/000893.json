@@ -1,0 +1,43 @@
+{
+  "legajo_id": "8",
+  "id_carta": "893",
+  "order_in_legajo": 121,
+  "signatura": "112-86a copia",
+  "nombre_carta": "Carta de Thomás Áufre y Velasco a Persona desconocida",
+  "fecha_original": "19 de diciembre de 1644",
+  "lugar": "Castillo de San Felipe (Menorca)",
+  "remitente": "Thomás Áufre y Velasco",
+  "destinatario": "Persona desconocida",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Dé Dios a v.s. muy buenas pascuas, con mucha salud en compañía de mis señoras doña Magdalena y doña Beatriz, del señor Julio Miguel y los demás de esa su casa de v.s. con el gusto y aumento que a v.s. deseo. Julio Font me escribió los días pasados cómo v.s. había enfermado después de tener los más de casa malos, de que me ha pesado en el alma. Por acá, hace veinte días o más que mi hermano y yo corremos una fortuna de enfermedades y, gracias a Dios, me levanté hace 6 días, aunque ahora me ha sobrevenido un catarro grande. A mi hermano le tengo muy al cabo de calenturas continuas hace 20 días y antes de ayer le dieron los sacramentos. Parece que se halla más aliviado, según me han dicho los doctores Alberti y Olvias que nos curan. Y nos han puesto estos achaques tan alvinados en todo, que lo atribuyo a castigo que Dios nos da con tantos trabajos. Siempre me he conformado con su divina voluntad, dándole gracias por todo [1§] Para estas pascuas se había guardado una bota de buen vino viejo y como he sabido su disposición de v.s. y que es alivio esto puede los enfermos me ha atrevido enviar esos dos barrilillos, de los cuales recibirá v.s. la buena voluntad. Sin otra cosa, mandándome v.m. todo lo que fuere de su servicio, guarde Dios a v.s. como deseo. San Felipe, a 19 de diciembre 1644. Thomás de Aúfre y Velasco Señor gobernador Transcripción literal"
+  ],
+  "literal": [
+    "1. De dios a V.S. muy buenas pasquas con mucha 2. salud en Comp< [a]> demiss< > D< [a]> Madalena d< [a]> Beatris 3. del s D ju[li]< > mig< > y los demas desa sucasa deV.S. 4. con el gusto y aumentey aV.S. dessea. = Ju[li]< > Font me 5. escrivio los dias pasados como V.S. avia enfermado 6. despues de tener los mas de cassa. malos. deque mea 7. pesado enel Alma. p aca. a Veinte dias u mas q 8. mi hermanoy yo corremos una fortuna. de enfer- 9. medades. y, gracias adios me le vanto seis dias ha 10. aunq aora me asobrevinido uncatarro grande 11. a Mi hermano le tengo muy alcavo. decalen turas 12. continuas. 20 dias ha. y antes deayer le. dieron los 13. sacramentos p< > q sealla mas aliviado segun. me 14. an dhos los Dotores Alberti y olivas q noscuran 15. y anos puesto estos achaques tan alvinados en 16. todo. q lo atribuyo. acastigo. q dios nosda contan- 17. tos travajos. siempre me ecomformado con su 18. divina Boluntad dandole graçias p todo [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "112-86a copia.jpg",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo08/112-86a copia.jpg",
+      "url": "/legajos/legajo-08/images/112-86a copia.jpg"
+    },
+    {
+      "filename": "113-86b copia.jpg",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo08/113-86b copia.jpg",
+      "url": "/legajos/legajo-08/images/113-86b copia.jpg"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "112-86a copia.jpg",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (2)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-08/cartas/000893.json",
+  "primary_image_url": "/legajos/legajo-08/images/112-86a copia.jpg"
+}

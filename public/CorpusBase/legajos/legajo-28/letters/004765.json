@@ -1,0 +1,43 @@
+{
+  "legajo_id": "28",
+  "id_carta": "4765",
+  "order_in_legajo": 2,
+  "signatura": "113:3699a.JPG",
+  "nombre_carta": "Carta de Macià Monsarró a Pedro Santacilia y Pax",
+  "fecha_original": "fecha sin especificar",
+  "lugar": "lugar sin especificar",
+  "remitente": "Macià Monsarró",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Yo llegué a Manacor y no ha faltado quien me ha conocido, y ha venido el justicia con algunos compañeros en el lugar que v. m. había mandado se quedose una cabalgadura por una {CAT. escarrabina} que dicen se había quedado en su casa que es del soldado que yo envié con las cartas a v. m. Este soldado no ha encomendado la {CAT. escarrabina} hoy en casa el justicia, y eso me parece que es tramoya entre ellos el justicia que es el portador dará razón de su pérdida, que don Antonio tengo entendido que ha estado en su casa del justicia que aseguro a v. m. que no hay si dos mujeres viejas en la casa, y confío v.m. averiguará si [?] de [?] que yo estoy enterado de la verdad y [?] declarar a la verdad y lo [?] con que cabalgadura [?] [En el margen izquierdo, en vertical] Macia Monsarro [1§] [?] 21 abril [?]. Macia Monsarro rdo. Transcripción literal"
+  ],
+  "literal": [
+    "1. Yo llege Amaralos y no A Saltedo2. quien me a conocido y a benido el3. Justicia con algunos conpaneros en4. el lugar que v.m. Abia mandado5. se que dose una calbalgadura por una6. es carrabina que dicen se abia queda7. do en su casa ques del soldado que8. yo ynbie con las cartas A v.m.9. este soldado no A encomendado10. laes carabina oy en casa el Justicia11. y eso me parece ques tramoya entre12. ellos el justicia el justicia ques el13. portador darara raçon de su perdida14. que don Antonio tengo entendido que15. A estado en su casa del Justicia que aseguro16. A v.m. que no ai si dos mujeres biejas en la ca17. sa y confio v.m. Aberiguara [?] de [?] 18. que yo estoi enterado delas [?] 19. [?] [?] [?]20. [En el margen izquierdo, en vertical] 21. masia monsarro [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "113:3699a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo28/113:3699a.JPG",
+      "url": "/legajos/legajo-28/images/113:3699a.JPG"
+    },
+    {
+      "filename": "114:3699b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo28/114:3699b.JPG",
+      "url": "/legajos/legajo-28/images/114:3699b.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "113:3699a.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (2)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-28/cartas/004765.json",
+  "primary_image_url": "/legajos/legajo-28/images/113:3699a.JPG"
+}

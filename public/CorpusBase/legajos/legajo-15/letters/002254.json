@@ -1,0 +1,38 @@
+{
+  "legajo_id": "15",
+  "id_carta": "2254",
+  "order_in_legajo": 153,
+  "signatura": "245:6479",
+  "nombre_carta": "Carta de Jaime Antonio Cardell y Femenía a Persona desconocida",
+  "fecha_original": "6 de noviembre de 1647",
+  "lugar": "Palermo",
+  "remitente": "Jaime Antonio Cardell y Femenía",
+  "destinatario": "Persona desconocida",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Mi señor, Con esta le hago asaber de mi salud es buena, y deseoso de saber de la de Vse. y por su valeroso favor, recibí una carta del duque de Montalte y la di [ya] carta. Llegó en manos del marqués de Lo Sueles y fue Dios servido que al cabo de 4 días murió, que yo pienso, que sino hubiera muerto, que ya [su] [faría] fuera de trabajos. Y, confiado que Vse. hará todo lo posible, Dios guarde a Vse como puede. De Palermo, 6 de noviembre, 1647. Criado de Vse., Jaume Cardell Transcripción literal"
+  ],
+  "literal": [
+    "1. Misenor qonesta le ago asaber demiselut 2. es buena y deseoso de saber de lade 3. Vse. Y por su valeroso favor resebi una 4. carta del duque de montalte y la di5. xa carta lego en manos del marques 6. de losueles y fue dios servido que 7. el cabo de 4 dias morio que yo pen8. so que sino usiera muerto que yas tu9. sur (^ara) fuera de trabacos yqonfiado 10. que Vse aratodo loposiple. dios gu11. arde a Vse qomo puede de paler12. mo ? 6 de novembre ? 1647 ? 13. [^Criado] de Use Jaume 14. Cardell [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "245:6479.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo15/245:6479.JPG",
+      "url": "/legajos/legajo-15/images/245:6479.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "245:6479.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-15/cartas/002254.json",
+  "primary_image_url": "/legajos/legajo-15/images/245:6479.JPG"
+}

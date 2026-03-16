@@ -1,0 +1,43 @@
+{
+  "legajo_id": "33",
+  "id_carta": "4940",
+  "order_in_legajo": 128,
+  "signatura": "199:6856a.JPG",
+  "nombre_carta": "Carta de Enrique de Aragón (VI duque de Cardona) a Pedro Santacilia y Pax",
+  "fecha_original": "28 de marzo de 1635",
+  "lugar": "Perpiñán",
+  "remitente": "Enrique de Aragón (VI duque de Cardona)",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Tres cartas de v. m. la una del 14 y las dos de 17 de este me ha traído el ordinario y son siempre tan bien recibidas como estimadas, deseando poder servir a v. m. y reconocer le la buena voluntad que siempre experimento en ellas que me tendrá con la estimación que debo, y a supo por un extraordinario que vino la Prisión de Pedro y solo pudo darme cuidado por su poca salud y por la soledad con que quedaba su mujer, pero pienso no será nada y que seguros podemos estar el y yo de que hemos de hallar en v. m. cuanto se puede esperar en un amic por carta del protonotario supe la encomendada fabrica de navíos al marques de Villafranca, a su majestad. escribí por un correo que asolo esto despache que no era separable de este oficio el cuidar de todo lo que se hubiere de hacer en este Principado, cuando esto no baste para repararlo suplicaré a su majestad. me dé licencia para estarme en mi casa pues por ningún caso he de venir a embarazar ni hacer estorbo para que se haga el servicio de su majestad. y así prometo a v. m. que en esta parte tendrán muy poco que hacer conmigo, pues estimaré siempre el descanso de ella, v. m. me avise de lo que fuere entendiendo, pues se con el [1§] gusto y cuidado que acudirá a hacerme merced, Guarde Dios a v. m. muchos años. Perpiñan a 28 de marzo 1635 Si v. m. es Cardona no fata ra quyen sea Satacicilya buena anda la cosa contra mi digame v. m. porque y pues embarazo porque no me des pyden, yo espero en Dios que yo lo haré y con esto habrán consegido todo lo que han deseado sea mi enhorabuena al fin v. m. es buen [?] sarbi Dr. y amigo de veras Mi Sr. [?] Sr. don Pedro Santacilia y Pax [2§] Transcripción literal"
+  ],
+  "literal": [
+    "1. Tres cartas de V.m. la una del 14 y las dos de 17 deste2. mea traydo el ordi[nari]o y son siempre tan bien recebidas3. como estimadas, deseando poder servir a V.m. y reconoscer4. le la buena voluntat que siempre esperimento en ellas5. q me tendra con la estimaçion q devo,6. Ya supo por un extraordi[nari]o que vino la Prision de Pedro7. y solo pudo darme cuydado por su poca salud y por la8. soledad con q quedava su muger, pero pienso no sera9. nada y q siguros podemos estar el y yo de que10. havemos de hallar en V.m. quanto se puede esperar11. en un amigo12. Por Carta del Protonottario supe la encomendada fabrica13. de navios al Marques de Villafranca, a su Magd. escribi14. por un correo q asolo esto despache que no era separable15. deste offiçio el cuydar de todo lo qeu se huviere de haçer16. en este Principado, quando esto no baste para repararlo17. Supplicare a su Magd. me de liçencia para estarme en mi18. casa pues por ningun caso he de venir a embaraçar ni19. hacer estorvo para q se haga el servicio de su Magd. y20. assi prometo a V.m. que en esta parte tendran muy poco21. que haçer conmigo, pues estimare siempre el descanso della,22. V.m. me avise de lo que fuere entendiendo, pues se con el [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "199:6856a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo33/199:6856a.JPG",
+      "url": "/legajos/legajo-33/images/199:6856a.JPG"
+    },
+    {
+      "filename": "200:6856b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo33/200:6856b.JPG",
+      "url": "/legajos/legajo-33/images/200:6856b.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "199:6856a.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-33/cartas/004940.json",
+  "primary_image_url": "/legajos/legajo-33/images/199:6856a.JPG"
+}

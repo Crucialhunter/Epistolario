@@ -1,0 +1,38 @@
+{
+  "legajo_id": "23",
+  "id_carta": "3903",
+  "order_in_legajo": 159,
+  "signatura": "282:3316.JPG",
+  "nombre_carta": "Carta de Carlos Velázquez a Pedro Santacilia y Pax",
+  "fecha_original": "26 de julio de 1663",
+  "lugar": "Milán",
+  "remitente": "Carlos Velázquez",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Señor tío no puedo encarecer con el mucho cuidado que estoy de no haber tenido tanto tiempo a nuevas de la salud de v. s. y de la señora mi tía la mía es buena para lo que v. s. me quisiere mandar. El portador de esta es Antonio Jaime Andres, el cual v. s. le han parado otras dos veces y a la presente el señor duque de Salmoneta le ha dado patente de capitán, por lo cual suplico a v. s., se sirva de favorecerle en todo lo que se le ofreciere que además de v. s. hacerme favor a mi es persona que lo merece por sus servicios y buen proceder y ya que ha tenido tan buena fortuna en llegar a tener para poder levantar esta compañía solo necesita de favor. Ésto confío lo hallará en v. s. y con eso espero tendrá feliz suceso. Guarde Dios a v. s. largos y felices años como puede y tengo de menester en vida de mi señora a quien beso las manos. Milano a 26 de julio de 1663. Sobrino y servidor de v. s., que sus manos besa Don Carlos Velazquez Sr. D. Pedro de Santacilia Transcripción literal"
+  ],
+  "literal": [
+    "1. Señor tio no puedo encareser con el mucho cuidado2. que estoi de no aber tenido tanto tiempo a nuebas de3. la salud de VS. y de la Señora mi tia la mia es buena4. para lo que VS, me quisiere mandar=5. el prtador desta es Antto Jaime andres el qual VS lean6. parado otras dos beses y a la presente el Señor duque7. de Salmoneta le a dado Patente de Capn pr lo qual8. Sup[li]co a VS, se sirba de faboreçerle en todo lo que se le9. ofreçiere que ademas de VS. haçerme fabor a mi es per10. sona que lo merese pr sus serbiçios y buen proseder11. Y ya que a tenido tan buena fortuna en llegar a12. tener para poder lebantar esta Conpa solo neçesita13. de fabor esto confio lo hallara en VS, y coneso espero14. tendra felis suçeço gde Dios a VS. largos y felises15. años como puede y tengo de menester en bida de16. mi Señora a quien beso las manos Milaso a 2617. de Julio de 166318. Sobrino y serbidor de VS,19. q s[u] m B20. Don Carles Velazquez[?]21. Sr. Dn. Pedro de Santa çeçilia [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "282:3316.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo23/282:3316.JPG",
+      "url": "/legajos/legajo-23/images/282:3316.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "282:3316.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-23/cartas/003903.json",
+  "primary_image_url": "/legajos/legajo-23/images/282:3316.JPG"
+}

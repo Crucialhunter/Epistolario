@@ -1,0 +1,43 @@
+{
+  "legajo_id": "22",
+  "id_carta": "3681",
+  "order_in_legajo": 61,
+  "signatura": "115:5050a.JPG",
+  "nombre_carta": "Carta de Miguel Guiño a Pedro Santacilia y Pax",
+  "fecha_original": "8 de marzo de 1639",
+  "lugar": "Zaragoza",
+  "remitente": "Miguel Guiño",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Amo y Sr. mío. Estimo muchísimo la que v. m. por la suya me hace y a si no puedo dejar de valerme de ella e todas ocasiones si tiene v. m. alguna concordia con el gobernador y con el pagador, que es D. Juan de Arredondo Bracamonte, se servirá de escribirles de mi recomedación y esto ha de ser de las que v. m. acostubra escribirles sin que yo las haya de dar, porque como ellos no me conocen será el favor de v. m. en esta ocasión como en todas de gran provecho para que me conozca y empleen, que entiendo que solo que sepa que soy criado de v. m. me hará todas honras. El capitán D. Alonso de Aragues está aquí y tiene ya de esta ciudad arbolada su bandera aguardando [?] hícele leer el capítulo de lo mucho que v. m. ha estimado la buena elección que ha hecho y el no estima menos la merced que v. m. le hace. El escribe ahora las nuevas de acá son que yo hasta que [?] otra merced o el gobernador me emplee en cosa estaré aquí al mandar y servición de v. m. como siempre dice que mañana [?] u caballero que se llama don Alonso [?] Sr. D. Pedro Santacilia y Pax [1§] Transcripción literal"
+  ],
+  "literal": [
+    "1. Amo y sor. mio estimo muchissimo la que v.m. por la suya2. me hase y a si no puedo dexar de balerme della e todas hoca=3. siones si tiene v.m. alguna conoçesia co el gobernador y co4. el pagador, ques d. Juº de arredondo bracamonte, se çerbira5. de escrivirles e mi recomedasio y esto ha de ser e las que6. v.m. acostubra escrivirles sin que yo las aya de dar7. porque como ellos no me conoçen sera el fabor de v.m.8. e esta hocasio como en todas de gra probecho paraque9. me conosca y epleen, que entiendo que solo que sepa10. que soy criado de v.m. me hara todas honras11. el capn. d. Al[on]so de Arangues esta aqui y tiene ya e esta12. ciudad arbolada su bandera aguardando ??13. hisele leyer el capitulo de lo mucho que v.m. ha14. estimado la buena heleçcion que a hecho y el no 15. estima menos la mersed que v.m. le hace [el]16. escrive agora-17. Las nuebas de aca so que yo hasta que [...]18. hotra mersed ho el gober[na]dor me eplee e [...]19. cosa estare aqui al madar y çerbicio [de v.m.]20. como siepre, dise que mañana [...]21. u cavallero que se llama don Alonso [...]22. Sor. d. Pº Sta.silia y pax-23. VII. Observacions: La carta al principi té una taca d?humitat [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "115:5050a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo22/115:5050a.JPG",
+      "url": "/legajos/legajo-22/images/115:5050a.JPG"
+    },
+    {
+      "filename": "116:5050b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo22/116:5050b.JPG",
+      "url": "/legajos/legajo-22/images/116:5050b.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "115:5050a.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-22/cartas/003681.json",
+  "primary_image_url": "/legajos/legajo-22/images/115:5050a.JPG"
+}

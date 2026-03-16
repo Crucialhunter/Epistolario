@@ -1,0 +1,48 @@
+{
+  "legajo_id": "20",
+  "id_carta": "3300",
+  "order_in_legajo": 174,
+  "signatura": "343:6081a.JPG",
+  "nombre_carta": "Carta de Margarita de la Higuera y Quiñones a Leonor Santacilia i Despuig",
+  "fecha_original": "28 de noviembre de 1668",
+  "lugar": "Madrid",
+  "remitente": "Margarita de la Higuera y Quiñones",
+  "destinatario": "Leonor Santacilia i Despuig",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Señora, Con particular sentimiento escribo a v. s. por ser la primera vez y darle el pésame de la muerte del señor don Juan Miguel, que goce de Dios, que yo quedo con él, porque le amaba como si fuera hijo mío: Dios sea alabado en todo. Y su muerte ha sido tan ejemplar que a todos los de esta casa nos ha dejado admirados, y más lo mucho que ha padecido en todo el discurso de su enfermedad tan larga y penosa de tantas maneras, que se puede decir ha sido mártir. V. s. tenga el consuelo que en semejantes golpes se necesita y reciba el pésame de parte de Diego Matias y mía, que ambos besamos a v. s. su mano, y al señor don Nicolás y demás de esos señores, y al señor d. Gabriel, que por no cansarles con cartas no se les doy aparte el pésame, deseando muchas ocasiones nos mande v. s. le sirvamos. El señor don Pedro está bueno, procurando desocuparse de las pretensiones que están ya en poder de la reina, con particular deseo de salir de esta corte e irse a descansar a la vista de v. s.: Dios le deje llegar con salud y valor. En vida del señor don Juan, muchos días antes de su fin, procurose aliñarse una cajuela de cosillas para v. s. dispusiese de ellas. Hase entregado a don Jaime Juan Julian, que partió de aquí habrá ocho días, y lo que va en ella lo dice la memoria inclusa con esta para que v. s. lo tenga [1§] entendido. V. s. me mande le sirva y guarde Dios los muchos años que deseo. Madrid, 28 de noviembre 1668. Besa la mano de v.s. su mayor servidora,doña Margarita de la Higuera Mi señora da. Leonor de Santacilia y Despuig [2§] {CAT. rebudes a 3 gener 1669 resposta a 9 dies Transcripción literal"
+  ],
+  "literal": [
+    "1. Sra. con particular sentimto escrivo a Vs. por ser 2. la primera vez, y darle el pesame, de la muerte 3. del sr. don Juan Miguel, que goze de Dios, que yo 4. quedo con el, porq le amava como si fuera hijo mio 5. Dios sea alavado en todo y su muerte ha sido tan 6. exemplar q a todos los desta casa nos ha dejado 7. admirados, y mas lo mucho q ha padeçido en 8. todo el discursso[?] de su enfermedad tan larga y 9. penossa de tantas maneras, q se puede deçir ha 10. sido Martir. Vs. tenga el consuelo q en semejan- 11. tes golpes se necessita, y reciva el pesame. 12. de parte de Diego Mathias y mia, q ambos besamos 13. a VS. su mano, Y al sr. don Nicholas y demas dessos 14. sses. Y al sr. d. Gabriel, q por no cansarles con cartas [2415. no se les doy a parte el pesame, Deseando muchas 16. occasiones nos mande Vs. le sirvamos. 17. el sr. don Pedro esta bueno, procurando desocupar- 18. se de las pretenssiones, q estan ya en poder de 19. la Reyna, con particular deseo de salir desta 20. corte,y hirsse a descansar a la vista de Vs. 21. Dios le dexe llegar con salud y valor. 22. en vida del sr. don Juan muchos dias antes de su 23. fin, procurose aliñase una caxuela de cossillas 24. para Vs. dispusiese dellas. Hase entregado, 25. a don Jayme Juan Julian q partio de aqui 26. habra ocho dias. y lo q ba en ella lo dize la 27. memoria inclusa con esta para q Vs. lo tenga [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "343:6081a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo20/343:6081a.JPG",
+      "url": "/legajos/legajo-20/images/343:6081a.JPG"
+    },
+    {
+      "filename": "344:6081b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo20/344:6081b.JPG",
+      "url": "/legajos/legajo-20/images/344:6081b.JPG"
+    },
+    {
+      "filename": "345:6081c.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo20/345:6081c.JPG",
+      "url": "/legajos/legajo-20/images/345:6081c.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "343:6081a.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-20/cartas/003300.json",
+  "primary_image_url": "/legajos/legajo-20/images/343:6081a.JPG"
+}

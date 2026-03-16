@@ -1,0 +1,38 @@
+{
+  "legajo_id": "23",
+  "id_carta": "3930",
+  "order_in_legajo": 185,
+  "signatura": "325:3343.JPG",
+  "nombre_carta": "Carta de Pedro Portocarrero Fernández de Córdoba y Aragón (VII conde de Medellín) a Pedro Santacilia y Pax",
+  "fecha_original": "13 de julio de 1669",
+  "lugar": "Madrid",
+  "remitente": "Pedro Portocarrero Fernández de Córdoba y Aragón (VII conde de Medellín)",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Amigo y Sr. mio. He recibido la carta de v. s. de 15 del pasado, estimando mucho que de los accidentes que v. s. me dice haberle sobrevenido de la excitación del camino, quedase v. s. muy mejorado. Quiera Nuestro Señor darle mucha salud y por dilatados años, para que goce del gusto en el feliz estado del Sr. D. Nicolas, de que doy a v. s. mil parabienes y espero continuárselos repetidas veces de su sucesion, ofreciéndome (como lo hago) con todo cariño al servicio de v. s., a quien guarde Dios muchos años. Madrid a 13 de julio de 1669. Besa la mano de v. s. su amigo y Sr. más servidor el conde de Medellin Sr. D. Pedro de Santacilia Transcripción literal"
+  ],
+  "literal": [
+    "1. Amigo y Sor mio; errecivido la carta de VS.2. de 15 del passado, estimando mucho que de los3. accidentes que VS. me diçe haverle sobrevenido4. de la axitacion del camino, quedase VS. mui5. mexorado; quiera nro sor darle mucha salud6. y por dilatados años para que goçe del gusto7. en el feliz estado del sor. Dn. Nicolas; deque8. doy a VS. mill paravienes; y espero conti 9. nuarselos repetidas veçes de su subçesion; ofre10. ciendome (como lo hago) con todo cariño. al servo11. de VS. a quien Gde Dios muchos años.12. Md a 13 de Jullio de 1669.13. b l[a] m de VS su 14. amigo y mas sdor15. Conde de Medellin16. Sr. Dn. Po. de Sta. Seçilia [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "325:3343.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo23/325:3343.JPG",
+      "url": "/legajos/legajo-23/images/325:3343.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "325:3343.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (4)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-23/cartas/003930.json",
+  "primary_image_url": "/legajos/legajo-23/images/325:3343.JPG"
+}

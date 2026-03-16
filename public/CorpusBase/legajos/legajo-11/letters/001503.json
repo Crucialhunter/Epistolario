@@ -1,0 +1,43 @@
+{
+  "legajo_id": "11",
+  "id_carta": "1503",
+  "order_in_legajo": 271,
+  "signatura": "460:5358a.JPG",
+  "nombre_carta": "Carta de Diego Matías de Aragüés a Pedro Santacilia y Pax",
+  "fecha_original": "30 de septiembre de 1665",
+  "lugar": "Madrid",
+  "remitente": "Diego Matías de Aragüés",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Ya v. s. habrá sabido todo lo sucedido que corre por acá si por las cartas que haabra tenido el virrey como por las mías que he escrito por Barcelona y Valencia con que no confío en esto la casa de los pajes se queda como se estaba y los que están nombrados para la jornada de la Sra. emperatriz que se asegura será para la primavera. Jerónimo se está por acaun porque el conde de Medellin le ha dicho aguardara unos cuantos días, con que remito en los demás cuando se vea con v. s. La renunciación de las 25 cuarteradas que hizo de esta gracias esta admitida por el consejo que ha convenido se haga así juzgo se da razón de esto al virrey y que informe en esto y en lo demás de un papel que se ha dado para saber el valor que tienen este género de tierras que en tiendo se lo comunicara a v. s. Las letras del nuncio con los demás papeles están presentadas en el tribunal del nuncio con que correo este negocio y que si tiene que decir el Pros. del obispo [1§] lo diga con termino preciso con que avisaré luego sel suceso que le espero bueno según lo que el abogado lo da a entender no obstante todas sus replicas y sus malos modos que ha tenido. Estos Sres. de la junta del gobierno van obrando espérase buenos sucesos de sus teminaciones según se entiende la armada que gobierna el duque Arcos pasara al Mar Mediterraneo y que será brevemente y que con grande secreto se trata del ajuste con Portugal, quiera Dios se tenga el acierto en todo y guarde a v. s. en vida de mi Sra. doña Leonor y todos esos Sres. muchos años que besamos sus manos con las de v. s. muchas veces Dña. Margarita y yo, el Sr. don Nicolas está bueno, y hoy han ido los pajes a servir a la Capilla real de palacio. Las cuarenta horas que esta el Santísimo Sacramento descubierto. Madrid 30 de septiembre de 1665. besa la mano de v. s. su mayor servidor Diego Matias de Aragues Si v. s. escribe al virrey de la tratamiento de excelencia Sr. don Pedro Santacilia y Pax [2§] Transcripción literal"
+  ],
+  "literal": [
+    "1. Ya VS habra savido todo lo sucedido 2. que corre por aca a si por las cartas que 3. haabra tenido el sr. Virrey como por 4. las mias que he escrito por Barcelona 5. y Valencia con que no confio en esto 6. la casa de los pajes se queda como se 7. estava y los que estan nombrados para 8. la Jornada de la sra. Emperatriz que se 9. asegura sera para la Primavera. 10. Germo se esta por aca aun porque el 11. sr. Conde de Medellin le ha dicho 12. aguardara unos quantos dias, con que remito 13. en los demas quando se vea con VS 14. La renunciacion de las 25 quarteradas 15. que hizo desta gracias esta admitida 16. por el Conso que ha convenido se haga asi 17. juzgo se da razon desto al sr. Virrey y que informe 18. en esto y en lo demas de un 19. papel que se ha dado para saver el valor 20. que tienen este genero de tierras que en 21. tiendo se lo comunicara a VS. 22. Las letras del sr. Nuncio con los demas 23. papeles estan presentadas en el tribunal 24. del sr. Nuncio con que correo este negocio 25. y que si tiene que decir el Pros. del sr. Obispo [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "460:5358a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo11/460:5358a.JPG",
+      "url": "/legajos/legajo-11/images/460:5358a.JPG"
+    },
+    {
+      "filename": "461:5358b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo11/461:5358b.JPG",
+      "url": "/legajos/legajo-11/images/461:5358b.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "460:5358a.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (3)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-11/cartas/001503.json",
+  "primary_image_url": "/legajos/legajo-11/images/460:5358a.JPG"
+}

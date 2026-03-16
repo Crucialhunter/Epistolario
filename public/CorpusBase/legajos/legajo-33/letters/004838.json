@@ -1,0 +1,38 @@
+{
+  "legajo_id": "33",
+  "id_carta": "4838",
+  "order_in_legajo": 33,
+  "signatura": "046:6754",
+  "nombre_carta": "Carta de Joan Castelló a Persona desconocida",
+  "fecha_original": "16 de diciembre de 1628",
+  "lugar": "Cadaqués",
+  "remitente": "Joan Castelló",
+  "destinatario": "Persona desconocida",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    ". prenguen una bona quantitat de me'l rosat tota aquella quantitat la pesarian en un alambi la capa del alcabi ha de fer de vidre i de tillaran aigua del dit melrosat i la primien aigua guardaran fins que isque groga i aqueixa és bona per a traurer les tacas de la cara la segona aigua que serà quant axira groga és bona per a fer tornar cabells roso posantne a la pinta i pentinantsen que v. m. [?] no toque a la cara que restaria tacada molts dies han d'advertir que s'ha de destillar amb poc foch i és molt deluit de cremarse diu mi Sra. dona Juana Perdina que la me nedestila ra i me la donarà si ho fa jo l'enviare i beia v. m. si el puc servir en altra cosa Barcelona i desembre 16 de 1628 El Dr. Juan Castello [1§] Transcripción literal"
+  ],
+  "literal": [
+    "1. [......................................................]2. prenguen una bona cantitat de mel3. rosat tota aquella cantitat la pesarian4. en un alambi la capa del alcabi5. hade fer de vidre y de tillaran6. aigua del dit melrosat y la primien7. aigua guardaran fins que isque8. groga y aquexa es bona para9. traurer las tacas de la cara la10. segona aigua que sera quant axira11. groga es bona para fer tornar12. cabells rosso posantne a la pinta13. y pentinantsen [^qua Vm[?] no toque a la cara que restaria tacada molts dies] han de advertir que14. se ha de destillar ab poch foch y es15. molt deluit de cremarse diu mi Sa.16. dona Juana Perdina que la me nedestila17. ra y lam donara si ho fa jo la enviare18. y beia Vm sil puch servir en altre19. cosa barcelona y dezembre 1620. de 162821. Lo dor. Juan Castello [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "046:6754.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo33/046:6754.JPG",
+      "url": "/legajos/legajo-33/images/046:6754.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "046:6754.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-33/cartas/004838.json",
+  "primary_image_url": "/legajos/legajo-33/images/046:6754.JPG"
+}

@@ -1,0 +1,43 @@
+{
+  "legajo_id": "20",
+  "id_carta": "3218",
+  "order_in_legajo": 93,
+  "signatura": "125:5999a.JPG",
+  "nombre_carta": "Carta de Nicolás de Santacilia y Togores a Pedro Santacilia y Pax",
+  "fecha_original": "9 de noviembre de 1667",
+  "lugar": "Madrid",
+  "remitente": "Nicolás de Santacilia y Togores",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "de nueve y de diez del pasado he recibido tres [?] cartas de v. m. alegrándome [?] mucho, de que estén buenos, yo también lo estoy, aunque con mucho cuidado, de mi pretensión, y Creo que será for soso valerme de quien nos haga merced, y [?] re más a propósito, que esto esta de tal gene ro, que siempre hay su [?] poco de maraña, unos con otros Sr. don [?] de Loyola está muy malo despacha [?] Sr. don Pedro Fernandes del Campo el duque de alva [?] muy malo de peligro los más de los señores malos Sa [?] están así endo Coches para el rey para salir por las Calles con su madre alegrar [?] el pueblo, que así lo desea, por verse tan perdido; pasquines Cada día, sin reservar a alma viviente El maestre de campo Sr. don Francisco Truyols [?] y don Baranger ya se han vestido de color [?] Creo se irán a Barcelona a grangear la voluntad del duque de Osuna [1§] El conde de Zavella [?] luego que supo la muerte de la condesa que este en el Cielo, hecho vos [?] de que se había ido Aragues y así no lestado [?] en Su casa aunque no ha salido de Madrid, por estar malo siempre por sus desórdenes, se dice quiere pedir licencia para Bárselo Guarde Dios a v. m. muchos años como deseo y es menester Madrid a 9 [?] de octubre 1667 [?] Sr. don Nicolas de Santacilia y Togores [?] Mi Sr. y mi padre [2§] Transcripción literal"
+  ],
+  "literal": [
+    "1. De nueve y de dies del pasado e resibido tres[?] 2. Cartas de VM alegrandome[?] mucho, de que esten 3. buenos, yo tambien lo estoy, aunque con mucho 4. Cuydado, de mi pretension, y Creo que sera for- 5. soso valerme de quien nos aga mersed, y [?]- 6. re mas a proposito, que esto esta de tal gene- 7. ro, que sienpre ay su[?] poco de maraña, unos 8. con otros 9. Don [?] de Loyola esta muy malo despa- 10. cha[?] Don pedro fernandes del Canpo el Duque 11. de alva[?] muy malo de peligro los mas de los 12. señores malos 13. Sa[?] estan asiendo Coches para el Rey para 14. salir por las Calles Con su madre halegrar[?] 15. el pueblo, que assi lo desea, por verse tan 16. perdido; pasquines Cada dia, sin reservar 17. a alma viviente 18. El maestre de Canpo Don Fransisco Truyols[?] 19. y Don Baranger ya se an vestido de color[?] 20. Creo se iran a Barselona a grangear la 21. voluntad del Duque de Osuna [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "125:5999a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo20/125:5999a.JPG",
+      "url": "/legajos/legajo-20/images/125:5999a.JPG"
+    },
+    {
+      "filename": "126:5999b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo20/126:5999b.JPG",
+      "url": "/legajos/legajo-20/images/126:5999b.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "125:5999a.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-20/cartas/003218.json",
+  "primary_image_url": "/legajos/legajo-20/images/125:5999a.JPG"
+}

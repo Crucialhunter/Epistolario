@@ -1,0 +1,38 @@
+{
+  "legajo_id": "20",
+  "id_carta": "3138",
+  "order_in_legajo": 15,
+  "signatura": "017:5922.JPG",
+  "nombre_carta": "Carta de Pedro Pax Olim Español a Pedro Santacilia y Pax",
+  "fecha_original": "24 de mayo de 1654",
+  "lugar": "Madrid",
+  "remitente": "Pedro Pax Olim Español",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Com Sr. don Juan Miguel dona [?] a v. m. d'ens marriatge [?] fin judisi [?] que escriu-me [?] en la mate [?] estafeta era haver de seriura [?] el propi cira [?] s'han passat [?] vuit dies en què se a inno vat [?] {ESP. menos} axim da Madrid a [?] Cotoner se a ordenat vagi [?] a don Miguel a ocanya i així al. [?] [1§] Transcripción literal"
+  ],
+  "literal": [
+    "1. Com don juan miguel dona [?] a vm de 2. nos marriatge[?] fin judisi[?] que escriume[?] en la 3. mate[?] estafeta era aver de seriura[?] lo propi- 4. cira[?] se an pasat[?] vuit dies en que se a inno- 5. vat [?] menos axim da madrid a[?] cotoner 6. se a ordenat vage[?] [?] a don Miguel a 7. ocaña y axi al ...[?] 8. 9. 10. 11. 12. 13. 14. 15. 16. 17. 18. 19. 20. 21. 22. 23. 24. 25. [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "017:5922.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo20/017:5922.JPG",
+      "url": "/legajos/legajo-20/images/017:5922.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "017:5922.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-20/cartas/003138.json",
+  "primary_image_url": "/legajos/legajo-20/images/017:5922.JPG"
+}

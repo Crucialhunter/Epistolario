@@ -1,0 +1,38 @@
+{
+  "legajo_id": "21",
+  "id_carta": "3380",
+  "order_in_legajo": 68,
+  "signatura": "105:5669.JPG",
+  "nombre_carta": "Carta de Juan Cebrián a Pedro Santacilia y Pax",
+  "fecha_original": "20 de marzo de 1632",
+  "lugar": "Madrid",
+  "remitente": "Juan Cebrián",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "No tenía v. m. Q representarme el alborozo de los amigos con la llegadaáesa ciudad, que yo me le tenía bien pensado, porque conozco cuan bien sabe v. m. Grangearlos, y que lo sabe ser verdadero. Alegrome haya sido con salud, y que la goce v. m. muy cumplida, porque se la deseo como ha propia. Aguardare las nuevas que v. m. Hace, y en el ínterim que v. m. Me mande muchas cosas de su servicio áqn etc. Madrid y marzo 20 de 1632 no soy más largo por no saber si v. m. ha llegado de su viaje en que tengo muchas cosas que decirle a v. m. De v. m. Amigo Sr. Juan Cebrian Sr. don Pedro Santacilia y Pax Transcripción literal"
+  ],
+  "literal": [
+    "1. No tenia Vme. Q representarme el alboroço de los amigos 2. con la llegadaá essa Çiudad, que yo me le tenia bien pen3. sado, porq conozco quan bien sabe Vme. Grangearlos, y que 4. lo sabe ser verdadero. Alegrome aya sido con salud, y que 5. la goze Vme. Muy cumplida, porque sela desseo como ha 6. propia. Aguardare las nuebas q Vme. Haçe, y en el Interin 7. que Vme. Me mande muchas cosas de su servicio á qn [Fragmentado] 8. Sr ettc. Md y março 20 de 1632 no soy mas larg[o] 9. por no saber si vm a ha llegado de su viaje en 10. que tengo muchas cossas que decirle a vm 11. de vm Amigo 12. Sr Juan lehian[?] 13. [Margen izquierdo][^ Sr don Po Sta çilla y pax] [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "105:5669.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo21/105:5669.JPG",
+      "url": "/legajos/legajo-21/images/105:5669.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "105:5669.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-21/cartas/003380.json",
+  "primary_image_url": "/legajos/legajo-21/images/105:5669.JPG"
+}

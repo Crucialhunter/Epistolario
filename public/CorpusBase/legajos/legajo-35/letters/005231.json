@@ -1,0 +1,38 @@
+{
+  "legajo_id": "35",
+  "id_carta": "5231",
+  "order_in_legajo": 39,
+  "signatura": "035:8077.JPG",
+  "nombre_carta": "Carta de Thomás Áufre y Velasco a Pedro Santacilia y Pax",
+  "fecha_original": "2 de junio de 1642",
+  "lugar": "Castillo de San Felipe",
+  "remitente": "Thomás Áufre y Velasco",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Por el Alférez Juan Gomila portador de esta recibí la de v. m. y en lo que me manda le siente la plaza de Alférez de la Compª de Infantª de ahí lo hará luego al punto mi teniente ahí, a quien le he dejado las listas para la brevedad de cualquier negocio, que a v. s. se le ofreciere y no hubiere menester de lación de avisarme que así v. s. se servirá firmar el cumpli miento que está a las espaldas del suplimiento que es conforme al estilo antiguo y yo he tomado la razón por no dilatare volverse a este castillo. El suplimiento y todo lo hago por más brevedad que es lo que más encarga a v. s. Su majestad Remito a v. s. los despachos que me dio menos los bandos escritos de letra de molde los cuales no remito por algunas causas tocantes a mis oficiales, y en la primera ocasión remitirelo a v. s., a quien suplico se sirva mandarme como a hechura [?] y servidor de v. s., que acudiré a todo con la obligación que debo en todo. Guarde Dios a v. s., muchos años como deseo San Felipe y julio a 2 de 1642 Tomás de Çufren Señor gobernador y Cap. general Transcripción literal"
+  ],
+  "literal": [
+    "1. Por el Alferes Juan Gomila portador desta reçivi la de Vm2. y en lo que me manda le siente la plaça de Alferez de la Compª3. de Infantª de ay lo hara luego al punto mi thente ay4. a quien le e dejado las listas pª la brevedad de qualquier5. negoçio que a V.S. se le ofreçiere y no huviere menester de6. lacion de avisarme q asi V.S. se servira firmar el cumpli7. mto que esta a las espaldas del suplimto que es conforme8. al estilo antiguo y yo etomado la racon p no dilatare9. bolverse a este castillo el suplimto y todo lo hago p mas bre10. vedad que es lo que mas encarga a V.S. Su Mgd.11. Remito a V.S. los despachos que me dio menos los bandos12. escritos de letra de molde los quales no remito p algunas13. causas tocantes a mis offs y en la primera acassion re14. mitirelo a V.S. a quien suplico se sirva mandarme como15. a eschura y servidor de V.S, que acudire a todo con la obligon16. que devo ent odo Gde. Dios a V.S, muchos a<ño>s como desseo17. S Phe y Jullio A 2 de 164218. Thomas de Çufren19. Señor Govor y Cap. Gl. [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "035:8077.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo35/035:8077.JPG",
+      "url": "/legajos/legajo-35/images/035:8077.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "035:8077.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (2)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-35/cartas/005231.json",
+  "primary_image_url": "/legajos/legajo-35/images/035:8077.JPG"
+}

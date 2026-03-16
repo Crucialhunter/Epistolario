@@ -1,0 +1,50 @@
+{
+  "legajo_id": "26",
+  "id_carta": "4357",
+  "order_in_legajo": 92,
+  "signatura": "130:3451.JPG",
+  "nombre_carta": "Carta de Pedro Fajardo de Requeséns-Zúñiga y Pimentel (V marqués de los Vélez) a Pedro Santacilia y Pax",
+  "fecha_original": "3 de octubre de 1640",
+  "lugar": "Zaragoza",
+  "remitente": "Pedro Fajardo de Requeséns-Zúñiga y Pimentel (V marqués de los Vélez)",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Por su carta de v. m. de 30 del pasado quedo entendido de su llegada a esa ciudad con los bergantines que pasaron la gente de socorro a ella; y no es nuevo en v. m. y en su celo y fineza el acudir a las ocasiones del servicio de su majestad (que Dios guarde) y muy bien se ha lucido en esta, su valor por el que ha mostrado en la disposición de lo que hay se ha ofrecido, porque doy a v. m. muchas gracias y confío en Dios que se ha de servir de ajustar estas materias de manera que las diligencias y prevenciones del diputado real han de ser con muy poco fruto. Yo considero en esa ciudad el tercio de Tejada a que ordene marchase a su socorro y si se necesitare demás asistencia se dará y todo lo demás que fuere menester para su seguridad y defensa y porque la gente que hay ha entrado de Vinarós (que no fuere de la nación portuguesa) se ha desembarcar a Rosellón y su majestad da mucha prisa a que esto se ejecute. Escriba para que al punto se vuelva aquella villa para que con toda brevedad navegue. Guarde Dios a v. m. muchos años. Zaragoza 3 de octubre 1640.El marques de los Velez Sr. D. Pedro de Santacilia Transcripción literal"
+  ],
+  "literal": [
+    "1. Por su carta de V.m. de 30 del pasado quedo2. entendido de su llegada a esa ciud con los verganti3. nes que pasaron la gente de socorro aella; y no es nuevo4. en Vm. y en su celo y fineza el acudir a las ocassio5. nes del servo de S. Md (que Dios guarde) y muy bien6. se a luçido enesta, su balor por el que a mostrado7. en la dispocission de lo que ay sea offreçido porque8. doy a Vm muchas graçias y confio en Dios 9. que sea de servir de ajustar estas materias de10. manera que las diligençias y prevençiones del diputado11. Rl. an de ser con muy poco fructo, ya considero en12. essa ciud el terçio de tejada a q ordene marchasse13. a su socorro y si se neçesitare demas asistençia se dara14. y todo lo demas que fuere menester pa su seguridad15. y defenssa y porque la gente que ay a entrado de16. Vinaroz (que no fuere de la naçion portuguesa) sea17. desembarcar a Rosellon y Su Md da mucha prissa a q18. esto se execute escriva para que al punto se buelva19. aquella villa para que con toda brevedad navegue20. Gude Dios a Vm. muchos años Caraga 3 de otte 164021. El marques de las [?]22. Sr. Dn Pº de Ssta. Çilia [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "130:3451.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo26/130:3451.JPG",
+      "url": "/legajos/legajo-26/images/130:3451.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "130:3451.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (5)",
+      "context": {}
+    },
+    {
+      "code": "IMAGE_DOWNLOAD_FAIL",
+      "message": "HTTP 404",
+      "context": {
+        "url": "http://santacilia.info/intranet2/img/Legajo26/130:3451.JPG"
+      }
+    },
+    {
+      "code": "IMAGE_COUNT_MISMATCH",
+      "message": "Imágenes detectadas (1) != descargadas (0)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-26/cartas/004357.json",
+  "primary_image_url": "/legajos/legajo-26/images/130:3451.JPG"
+}

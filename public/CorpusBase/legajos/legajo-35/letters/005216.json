@@ -1,0 +1,38 @@
+{
+  "legajo_id": "35",
+  "id_carta": "5216",
+  "order_in_legajo": 30,
+  "signatura": "016:8061.JPG",
+  "nombre_carta": "Carta de Llorenç Mercadal a Pedro Santacilia y Pax",
+  "fecha_original": "22 de abril de 1642",
+  "lugar": "Ciutadella",
+  "remitente": "Llorenç Mercadal",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "La de v. s. tinc rebuda i en tot el que v. s. m'ordena acudiré amb molt gran puntualitat. I en el que toca a l'assistència de don Fernando Fernandez Masuelo, procuraré a dar gust a v. s. El sergento major ha tingudes paraules amb un criat de don Fernando. Jo els havia arrestats als dos; i, amb la vinguda del Sr. don Joan Miquel, li ha paregut fer-los amics. v. s. ho tindrà per bé. Els magnífics jurats tenen un síndic en Mallorca qui els fa gastos; tenen una barca previnguda per dit efecte i jo no he volguda dar llicència, pel que v. s. m'ordenà que no és partís barca, el temps de la seva ausència. Si a v. s. li apareix dar dita llicència, manarà dar-me ordre. Tinc entès tardarà v. s. alguns dies ha venir; servir-se-ha v. s. dos dies {CAST. antes} de la seva vinguda, manar-me avisar pel que he de tenir la gent previnguda per fer l'entrada a v. s. i {CAST guardi Dios} a v. s. molts anys. de Ciutadella, i abril a 22 de 1642. Llorenç Mercadal Sr. governador i capità general Transcripción literal"
+  ],
+  "literal": [
+    "1. La d[e] VSria. tinch rebuda y en tot lo que VSria. me2. ordena, acudire ab molt gran puntualitat y en lo que3. toca a la asistentia, de don Fernando Fernandez Masuelo4. procurare a dar gust a VSria. lo sargento major ha 5. tingudas paraulas ab un criat de don fernando jols6. avia arestats a los dos; y ab la vinguda del Sor. don7. juan miquel, li ha aparegut ferlos amics; VSria.8. ho tindra per be.9. Los magnifics jurats tenen un sindic en mallorca quils10. fa gastos; tenen una barca previnguda per dit effecte11. y io no he volguda dar licentia; per lo que VSria. me12. ordenà, que nos partis barca; al tems de la sua eusensia13. Si a VSria. li aparex dar dita licentia manara darme14. orda; tinch entes, tardara VSria. alguns dias a venir;15. servirse a VSria. dos dia santes de la sua vinguda, manarme16. avisar; per lo que he de tenir la gent previnguda; per17. fer la entrada a VSria. y gde. dios a VSria. molts anys de18. Ciutadella y abril a 22 de 1642.19. Lorens mercadal20. Sor. Governador y capita21. general [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "016:8061.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo35/016:8061.JPG",
+      "url": "/legajos/legajo-35/images/016:8061.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "016:8061.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-35/cartas/005216.json",
+  "primary_image_url": "/legajos/legajo-35/images/016:8061.JPG"
+}

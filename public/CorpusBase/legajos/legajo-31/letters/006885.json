@@ -1,0 +1,38 @@
+{
+  "legajo_id": "31",
+  "id_carta": "6885",
+  "order_in_legajo": 127,
+  "signatura": "181:1636.JPG",
+  "nombre_carta": "Carta de Bartomeu Codonyer Carrió a Pedro Santacilia y Pax",
+  "fecha_original": "28 de noviembre de 1661",
+  "lugar": "Mallorca",
+  "remitente": "Bartomeu Codonyer Carrió",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "[?] Senyor lo majoral de [?] carta dient que pugas a fer la [?] des es menester LLETRA DIFÍCIL Transcripción literal"
+  ],
+  "literal": [
+    "1. ?? Sañor lo majoral de ?? 2. ?? carta dient 3. que pugas a fer la [?] des e menes4. ter LLETRA DIFÍCIL [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "181:1636.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo31/181:1636.JPG",
+      "url": "/legajos/legajo-31/images/181:1636.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "181:1636.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-31/cartas/006885.json",
+  "primary_image_url": "/legajos/legajo-31/images/181:1636.JPG"
+}

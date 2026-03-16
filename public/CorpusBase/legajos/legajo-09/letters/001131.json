@@ -1,0 +1,43 @@
+{
+  "legajo_id": "9",
+  "id_carta": "1131",
+  "order_in_legajo": 13,
+  "signatura": "297-9-12a",
+  "nombre_carta": "Carta de Diego Matías de Aragüés a Pedro Santacilia y Pax",
+  "fecha_original": "13 de abril de 1667",
+  "lugar": "Madrid",
+  "remitente": "Diego Matías de Aragüés",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Si por el primero de este crédito no hubiera pagado, v. s. servirá por este segundo duplicado de pagar al señor Josep Centurión, almirante de la escuadra de los navíos, o a su voluntad, trescientos y veinticuatro pesos reales de a ocho, por otros tantos recibidos en esta corte del señor Esteban de Andrea, tomando recibos duplicados en que declare se los hace pagar por cuenta del señor general Hipólito Centurión por sustento de los navíos de su escuadra que tiene a su cargo, y los mandará v. s. asentar como aviso. Guarde Dios a v. s. Madrid, 13 de abril de 1667. Diego Matias de Aragues Duplicado Señor don Pedro Santacilia Pax [1§] A don Pedro Santacilia y Pax, guarde Dios, caballero del hábito de Calatrava, prior real del patrimonio, etc. Duplicado Mallorca Transcripción literal"
+  ],
+  "literal": [
+    "1. Si por el prímero deste credito no huviera pagado VS 2. servíra por este segundo duplicado de pagar al señor 3. Joseph Çenturíon Almirante de la Esquadra delos 4. Navios , o, asu Voluntad trescientos y Venynte y quatro 5. pesos reales de aocho, por otros ttantos reçívídos én 6. esta Corte del señor estevan de Andrea, tomando 7. recívos duplicados En que declare se los haçe pagar 8. por quenta del Sr General Ypolitto Çenturíon 9. por Sustento de los Navíos de Su Esquadra 10. q tiene a su cargo, y los mandara VS. Assentar 11. Como avísso gde Díos a VS Madríd 13 de 12. Abril de 1667 13. Diego Mathias de Aragues14. [Margen izquierdo][^ duppdo ]15. [Margen izquierdo][^ Sr Don Pedro Sta Cilia Pax] [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "297-9-12a.jpg",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo09/297-9-12a.jpg",
+      "url": "/legajos/legajo-09/images/297-9-12a.jpg"
+    },
+    {
+      "filename": "298-9-12b.jpg",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo09/298-9-12b.jpg",
+      "url": "/legajos/legajo-09/images/298-9-12b.jpg"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "297-9-12a.jpg",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (3)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-09/cartas/001131.json",
+  "primary_image_url": "/legajos/legajo-09/images/297-9-12a.jpg"
+}

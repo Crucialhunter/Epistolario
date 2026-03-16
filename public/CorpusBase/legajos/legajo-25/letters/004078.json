@@ -1,0 +1,43 @@
+{
+  "legajo_id": "25",
+  "id_carta": "4078",
+  "order_in_legajo": 12,
+  "signatura": "022_112a.JPG",
+  "nombre_carta": "Carta de Diego Matías de Aragüés a Jerónimo Pelegrín de Aragüés",
+  "fecha_original": "23 de febrero de 1667",
+  "lugar": "Madrid",
+  "remitente": "Diego Matías de Aragüés",
+  "destinatario": "Jerónimo Pelegrín de Aragüés",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "A las cartas últimas que he tenido he respondido por Valencia y remitido un pliego grande bajo del Sr. don Pedro, para v. m. en que va el privilegio de la tasca de Valle y que cobre v. m. tres reales de a ocho en que pagué a más de lo que remití. V. m. se los coma de muy buen pescado fresco. El Sr. don Nicolas llego aquí a 17 de este con sus camaradas y el marques de la Guardia a Juan Seguals tengo en mi casa des [de] que vino aquí, y no le puedo reducir a que vuelva con el Sr. don Nicolás. Juzgo tiene razón ya v. m., lo sabrá por allá que me ha pesado por ser criado del Sr. don Pedro y por esta causa yo no le tengo de faltar. Dígame v. m. en qué estado está lo de la sobrina del doctor Pujol y en que ha parado, y también lo de Juan Garcias del Pozo que está bueno y sano que parece ha de vivir cien años. V. m. me avise si el doctor Armella ha vuelto a recibir las letras del dinero que remitió al Sr. don Josep Romeu regente de este Consejo. Conviene que v. m. me dé este aviso. El Sr. don Miguel Salva todavía está de espacio para su jornada porque no veo prevención alguna ni sacar los despachos. Con todo me parece será aunque no le den el título por ahora, en lo demás si fuere esta todo prevenido para con v. m. La carta recibió don Francisco Pueyo. Él habrá respondido a v. m. [1§] Pedro Pelayo (murio) los días pasados con que han vacado los oficios que tenía allí, el consejo pide terna y informe al virrey y al vicecanciller pedí licencia para poner el memorial que es el que va en la carta que escribió al virrey y le digo al Sr. don Pedro me haga merced de hablarle para que me honre en la terna. V. m. se sirva de tomar esto por su cuenta y avisarme cuando el virrey envíe la terna, que juzgo la pide el consejo este correo, o el que viene con que v. m. este prevenido y me avise de lo que hubiere en esto y me mande le sirva. A mi sobrina y a v. m. besamos las manos dña. Margarita y yo y a los niños abrazos y guarde Dios como deseo. Madrid 23 de febrero 1667. V. m. procure con sagacidad saber cuando el virrey remita la terna de estos oficios y avisármelo por Barcelona y Valencia y si me pone en ello y al Sr. don Pedro qué le ha ofrecido. En lo de Jaime Bauza tengo todo cuidado y procuraré se despache cuanto antes. Tío y servidor de v. m. Diego Matias de Aragues Sr. Jeronimo Pelegrin, mi sobrino Transcripción literal"
+  ],
+  "literal": [
+    "1. A las cartas ultimas que he tenido he respondido por Valençia2. y remitido un pliego grande vaxo del (del) Sr. don Pedro, para3. Vmd. en que va el privilegio de la tasca de Valle y que cobre4. Vmd. tres reales de a ocho en que page a mas de lo q remiti5. Vmd. se los como de muy buen pescado fresco6. El Sr. don Nicolas llego aqui a 17 deste con sus camaradas7. y el Marques de la Guardia8. A Juan Seguals tengo en mi cassa des q vino aqui, y no le9. puedo reducir a que buelva con el Sr. Don Nicolas Juzgo tiene10. raçon ya Vmd, lo sabra por alla que me ha pessado por ser11. criado del Sor. Don Pedro y por esta causa yo no le tengo de12. faltar13. Digame Vmd. en que estado esta lo de la sobrina del dotor14. Pujol y en que ha parado. Y tanvien lo de Juan Garçias15. del Poço que esta bueno y sano que pareçe ha de bivir16. çien años17. Vmd. me avisse si el dotor Armella a buelto a reçivir18. las letras del dinero que remitio al Sr. Don Joseph19. Romeu Regte. deste Cossº conviene q Vmd. me de este avisso20. El Sr. Don Migl Salva todavia esta de espaçio para21. su jornada porque no beo prevençion alguna ni sacar22. los despachos, con todo me pareçe sera aunq no le den23. el titulo por aora, en lo demas si fuere esta todo24. prevenido para con Vmd. la carta reçivio Don25. Franco. Pueyo el habra respondido a Vmd. [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "022_112a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo25/022_112a.JPG",
+      "url": "/legajos/legajo-25/images/022_112a.JPG"
+    },
+    {
+      "filename": "023_112b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo25/023_112b.JPG",
+      "url": "/legajos/legajo-25/images/023_112b.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "022_112a.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (7)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-25/cartas/004078.json",
+  "primary_image_url": "/legajos/legajo-25/images/022_112a.JPG"
+}

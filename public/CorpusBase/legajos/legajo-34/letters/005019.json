@@ -1,0 +1,43 @@
+{
+  "legajo_id": "34",
+  "id_carta": "5019",
+  "order_in_legajo": 48,
+  "signatura": "075:6934a.JPG",
+  "nombre_carta": "Carta de Fructuoso Piqué a Pedro Santacilia y Pax",
+  "fecha_original": "4 de marzo de 1656",
+  "lugar": "Madrid",
+  "remitente": "Fructuoso Piqué",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "S. mío. y a gracias a Dios ha llegado el día de remitir a v. m. su privilegio que va con está despachado en toda forma, por cuyos derechos he pagado las partidas siguientes demª amata 20866 R de sello 10228 R de expedicion 0286 R de forma y pergamino 0028 R de registro y caja 0030 R de resello y carta depago demª amata 0016 R 40454 R que todo monta cuatro mil cuatrocientos cinqta y cuatro Res y medio en plata doble, Los quals he accendo en debito de v. m. en nuestra cuenta, y juntamente Lapartida de 10635 R plata de coste de los vestidos que di al Sr. don Juan Miguel, de Santacilia sobrino devm, sin que haya sido posible cobrarlos de su merced, porque el dinerillo fresco que tenia, Lo ha gastado bien a prisa, que eso lo sabe hacer muy bien, y ahora habrá menester hacer algún milagro para acudir al gasto de la boda, que me aseguran esta efectuada con la Sra. de palacio, buen provecho le haga, que a ambos se les podrá tener lastima al entender de los que bien sienten [1§] el sio Francisco Izquierdo mi compañero y amigo envió una libranza de su majestad al obispo y poder para cobrarla de la visita, y como se dice que hauria muerto, Le ha parecido enviar a v. m. copia de la dicha libranza y procura parq v. m. pueda cobrar de casa del obispo La original, y disponer con el visitor que la pague, yo lo suplico así a v. m. que ambos recibiremos mucha merced y favor. Guarde Dios a v. m. muchos años como deseo, de Madrid a 4 de marzo 1656. Besa la mano devm Su amigo y Sr. menor servidor Fructuoso Pique 38, extrem inferior S. Procurador real Sr. D. Pedro Santacilia y Pax [2§] Transcripción literal"
+  ],
+  "literal": [
+    "1. S. mio. Ya gracias a Dios hallegado el dia de2. Remitir avm. su privilegio que va con esta despachado3. en toda forma, por cuyos drechos he pagado las partidas4. siguientes =5. demª amata_____________________________ 20866 R6. de sello________________________________ 10228 R ½7. de expedicion___________________________ 0286 R8. de forma y pergamino____________________ 0028 R9. de registro y caja________________________ 0030 R10. de resello y carta depago demª amata _______ 0016 R11. _________________12. = 40454 R ½13. que todo monta quatro Mil quatrocientos cinqta Y quatro14. Res y medio en plata doble, Los quals he accendo15. en debito de vm en nra quenta, Y juntamte Lapartida16. de 10635 R plata de coste delos vestidos que di al Sr.17. Don Juan Migl, de Sta Cilia sobrino devm, sin q haya18. sido possible cobrarlos de su mrd, porq el dinerillo19. fresco que tenia, Lo ha gastado bien a prissa, que esso lo20. sabe hazer muy bien, Y ahora haura menester hazer21. algun milagro para acudir al gasto de la boda, queme22. asseguran esta effectuada con la Sra. de Palacio, buen23. provecho le haga, que a ambos seles podra tener lastima24. al entender delos que bien sienten [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "075:6934a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo34/075:6934a.JPG",
+      "url": "/legajos/legajo-34/images/075:6934a.JPG"
+    },
+    {
+      "filename": "076:6934b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo34/076:6934b.JPG",
+      "url": "/legajos/legajo-34/images/076:6934b.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "075:6934a.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-34/cartas/005019.json",
+  "primary_image_url": "/legajos/legajo-34/images/075:6934a.JPG"
+}

@@ -1,0 +1,48 @@
+{
+  "legajo_id": "9",
+  "id_carta": "1022",
+  "order_in_legajo": 59,
+  "signatura": "088-44a",
+  "nombre_carta": "Carta de Antonio Vellón a Arnau de Santacilia",
+  "fecha_original": "11 de mayo de 1675",
+  "lugar": "Cremona",
+  "remitente": "Antonio Vellón",
+  "destinatario": "Arnau de Santacilia",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Amigo y señor mío Con la carta que recibo de v. m. de 9 del pasado quedo muy gustoso viendo goza las cumplida salud que le deseo Veo también como delebas no va mal y el temor en que se halla v. m. de que le vuelvan segunda vez a quitar la gente espero no obs tante que Dios me le haya de dejar veo puesto a este estado. En cuanto a los Intereses de la compañía de v. m. no puedo decir otra cosa solo que me remito a lo que refiero en la carta que los días en pliego de don Pedro Poneti solo diré una particularidad [1§] que coasite en haber yo tomado mano de hacerme dar del sargento romero quinientas libras de las cuales Remeti al ayudante Diego alvarez 300 a efecto de ver de una vez acabado el negocio del capitán Villalonga y lo de más queda en mi poder que llegara al número de 3000 libras poco más a menos y estas no se me irán de las manos sin precisa orden de v. m. a los señores capitanes de la nación, he dado besan las manos mil veces por la memoria y lo mismo he hecho con los oficiales de la compañía [2§] de v. m. así vivos como Reformados los cuales quedan muy consolados en saber que v. m. goce entera salud Dios se la Conceda por infinitos años y me le dé goce como puede Cremona a 11 Mayo 1675 Amigo y servidor de v. m. Que sus manos mil veces besa Antonio Vellon señor capitán don Arnaldo de Santacilia [3§] Transcripción literal"
+  ],
+  "literal": [
+    "1. Amigo y señor mio con la Carta q reci2. vo de VM de 9 del passado quedo 3. muy gustoso viendo goza las cum4. plida salud que le desseo 5. Veo tambien como delebas no va 6. mal y el temor en q se halla 7. Vm. de q le buelvan segunda vez 8. a quitar la gente espero no obs9. tante que dios me le haya de 10. dejar veo puesto a este estado 11. En quanto a los Interesses de la Compa 12. de V.M. no puedo decir otra cosa 13. solo que me remitto a lo que 14. refiero en la carta que los dias 15. en Pliego de don Pedro Ponetti 16. solo dire una particularidad [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "088-44a.jpg",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo09/088-44a.jpg",
+      "url": "/legajos/legajo-09/images/088-44a.jpg"
+    },
+    {
+      "filename": "089-44b.jpg",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo09/089-44b.jpg",
+      "url": "/legajos/legajo-09/images/089-44b.jpg"
+    },
+    {
+      "filename": "089-44bb.jpg",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo09/089-44bb.jpg",
+      "url": "/legajos/legajo-09/images/089-44bb.jpg"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "088-44a.jpg",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-09/cartas/001022.json",
+  "primary_image_url": "/legajos/legajo-09/images/088-44a.jpg"
+}

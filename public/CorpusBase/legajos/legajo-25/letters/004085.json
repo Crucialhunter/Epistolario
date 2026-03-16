@@ -1,0 +1,38 @@
+{
+  "legajo_id": "25",
+  "id_carta": "4085",
+  "order_in_legajo": 19,
+  "signatura": "040_119.JPG",
+  "nombre_carta": "Carta de Jaume Verd a Jerónimo Pelegrín de Aragüés",
+  "fecha_original": "4 de marzo de 1667",
+  "lugar": "Sineu",
+  "remitente": "Jaume Verd",
+  "destinatario": "Jerónimo Pelegrín de Aragüés",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Senyor Jeroni Ja sap v. m. que com jo fou aquí li parlí que havia de fer una suplica per demanar al procurador reial un trast per l'obra de l'església per fer una capella per a Nra. Sra. del Roser. Jo confio que v. m. hi ajudarà en el que podrà. Aquí va la suplica que sia feta per demanar dit trast. V. m. ho encaminarà i dirà als sol·licitadors d'esta causa el que han de fer, i confiat no dic més i Déu Nre. Sr. el guardi d'esta sa casa i església de Sineu i març 4 de 1667. De v. m. molt servidor que les mans besaEl Sr. Jaume Verd, pre. Jurats de Sineu per la {ESP. Iglesia} Al senyor Jeroni Pelegri, guardi {ESP. Dios} habita en casa del procurador reial. Ciutat Transcripción literal"
+  ],
+  "literal": [
+    "1. Señor Hieroni2. Ja sap v.m. que com jo fonc aqui3. ly palli que avia de fer una supli=4. ca per demanar en el Sr. PROCURADOR5. Reyal un trast per la obra de la6. iglesia per fer una capella per Nra. Sra.7. del Roser jo confio que v.m. ey aju-8. dara en lo que pora aqui va la su9. plica que sea feta per demanar dit10. trast V.m. eu encaminara y dira11. en els solicitadors desta causa lo que12. an de fer, y confiat no dic mes13. y Deu Ne. Sr. lo gde. desta se case14. y i[sgles]ia de Çineu y mars 4 de15. 166716. De V.m. molt17. servidor q.l.m.b.18. El Dr. Jau[m]e Verd pre.19. Jurats de Sineu per20. la Iglessia21. Al señor Hieroni pe22. legri gde Dios habita23. en case del Sr procurador24. Reyal25. Ciutat [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "040_119.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo25/040_119.JPG",
+      "url": "/legajos/legajo-25/images/040_119.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "040_119.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (4)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-25/cartas/004085.json",
+  "primary_image_url": "/legajos/legajo-25/images/040_119.JPG"
+}

@@ -1,0 +1,43 @@
+{
+  "legajo_id": "23",
+  "id_carta": "3810",
+  "order_in_legajo": 65,
+  "signatura": "127:3222a.JPG",
+  "nombre_carta": "Carta de Ana de Córdoba y Aragón a Pedro Santacilia y Pax",
+  "fecha_original": "8 de marzo de 1635",
+  "lugar": "Medellín",
+  "remitente": "Ana de Córdoba y Aragón",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Los temporales son tan contrarios a los correos que nos hacen carecer de las cartas y más con las que yo tanta merced recibo como son las de v. m. y saber de su salud, que goce muchos años, deseando que mi llegada a Madrid sea antes que a v. m. le ocupen que, con tantas prevenciones de guerras, tengo por cierto le han de dar prisa y en el ínter suplico a v. m. no me falten sus cartas y avisos nuevos, que no son pocos los de Villafranca y Bellafila. De mi hermano tengo gran cuidado no le quiten la salud con los que v. m. teme que, teniéndola, poco importará lo demás. Si el de Povar se concertare con la suegra me haga v.m. merced de avisármelo y en qué forma. Dícenme que se ha venido a Cubas: gran lástima me hace este caballero así por su poca salud como por las descomodidades que pasa. Ya tiene allá v.m. al licenciado Pedro Juan con envidia de todos los que acá quedamos. Dispondré mi ida lo más presto que pueda: Dios lo haga como puede y a v.m. guarde. En Medellín, 8 de marzo 1635 [Letra original de la remitente:] V. m. me avise muy en particular de su salud y de si le hacen merced como merece, que lo deseo con estimo y sentiré mucho se vaya v. m. antes que yo llegue que deseo hablar con v.m. un rato del de Povar: me avise v. m. qué hace Dios de él y cómo le va de salud. Doña Ana de Cordoba [1§] Medellín. Respondido. 8 marzo 1635. La condesa de Medellin [2§] Transcripción literal"
+  ],
+  "literal": [
+    "1. Los temporales son tan contrarios a los correos que nos haçen2. careçer de las cartas y mas con las que yo tanta md reçivo3. como son las de Vm. y saver de su salud que goçe4. muchos años deseando que mi llegada a madrid sea antes5. que a Vm. le ocupen que con tantas prevençiones de guerras6. tengo por cierto le an de dar priessa y en el inter sup[li]co a Vm.7. no me falten sus cartas y avisos nuevos que no son pocos los8. de Villafranca. y bellafilla. de mi hermano tengo gran 9. Cuydado no le quiten la salud con los que Vm. teme10. que tiniendola poco importara lo demas, 11. Si el de pobar se conçertare con la suegra me haga vm.12. md de avisarmelo y en que forma, diçenme que sea13. venido a cubas. gran lastima me haçe este cavallero. assí14. por su poca salud como por las descomodidades que pasa. 15. ya tiene alla bm. al ldo Pedro Juan con enbidia16. de todos los que aca quedamos dispondre mi yda lo mas 17. presto que pueda. Dios lo haga como puede. y a bm gde18. En Medellin. 8. de marco 163519. vm me abise mui en particular de su20. salud y de si le acen merced como mere21. ce que lo deseo como stimo y sentire22. muncho se baya vm antes que yo llege que deoseo blar23. con vm un rato del de pobar abise vm que ace dios24. del y como le ba de salud-25. doña ana26. de cordoba [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "127:3222a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo23/127:3222a.JPG",
+      "url": "/legajos/legajo-23/images/127:3222a.JPG"
+    },
+    {
+      "filename": "128:3222b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo23/128:3222b.JPG",
+      "url": "/legajos/legajo-23/images/128:3222b.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "127:3222a.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (2)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-23/cartas/003810.json",
+  "primary_image_url": "/legajos/legajo-23/images/127:3222a.JPG"
+}

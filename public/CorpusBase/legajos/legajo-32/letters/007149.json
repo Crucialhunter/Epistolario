@@ -1,0 +1,48 @@
+{
+  "legajo_id": "32",
+  "id_carta": "7149",
+  "order_in_legajo": 151,
+  "signatura": "193:1907a.JPG",
+  "nombre_carta": "Carta de Nicolás de Santacilia y Togores a Pedro Santacilia y Pax",
+  "fecha_original": "29 de agosto de 1665",
+  "lugar": "Madrid",
+  "remitente": "Nicolás de Santacilia y Togores",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Transcripción literal"
+  ],
+  "literal": [
+    "1. 1. 1."
+  ],
+  "imagenes": [
+    {
+      "filename": "193:1907a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo32/193:1907a.JPG",
+      "url": "/legajos/legajo-32/images/193:1907a.JPG"
+    },
+    {
+      "filename": "194:1907b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo32/194:1907b.JPG",
+      "url": "/legajos/legajo-32/images/194:1907b.JPG"
+    },
+    {
+      "filename": "195:1907c.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo32/195:1907c.JPG",
+      "url": "/legajos/legajo-32/images/195:1907c.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "193:1907a.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-32/cartas/007149.json",
+  "primary_image_url": "/legajos/legajo-32/images/193:1907a.JPG"
+}

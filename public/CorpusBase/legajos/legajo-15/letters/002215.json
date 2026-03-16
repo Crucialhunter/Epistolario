@@ -1,0 +1,38 @@
+{
+  "legajo_id": "15",
+  "id_carta": "2215",
+  "order_in_legajo": 114,
+  "signatura": "178:6440.JPG",
+  "nombre_carta": "Carta de Conde de Zavellá a Pedro Santacilia y Pax",
+  "fecha_original": "30 de abril de 1647",
+  "lugar": "Tarragona",
+  "remitente": "Conde de Zavellá",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Mío y señor mío, Junto algunos caballos para el ejército que v. m. me manda y [confieso] que ninguno de ellos me ha contentado, que uno que me parecía bien, está su dueño en merced. Sin embargo, no dejaré de hacer diligencias, por que deseo no enviarle una rosa. La semana que viene pienso partir de aquí, si mi hermana no viene, que [esa] será para Mallorca. Si viene no será posible hasta dejarla en Zaragoza. Nuestro negocio va viento en popa, gracias a Dios, Él querrá que tenga presto efecto. Por acá se habla de muchos franceses. No sabemos donde dará el rayo. Yo no pienso aguardalle. A esos señores y señoras beso la mano, y suplico tengan ésta por suya, y a mi dama Leonoreta en abrazo, no olvidándome del padre. Guarde Dios a v. m. lo me deseo y me importa. Tarragona y abril 30 de 1647. Sobrino y servidor de v. m.,El conde de Zavella Señor don Pedro Santacilia Transcripción literal"
+  ],
+  "literal": [
+    "1. Mio y Sr mio hunto [?] algunos cavallos 2. para el éjeito q Vm me mada y confesq3. q ninguno dellos me ha contentado, y ino q 4. me parecia bien esta su dueño en Md sin en5. bargo No dexaré de hazer diligencias, por 6. q deseo no enbiarle una roça. La sema=7. na q viene pienso partir de aqui, si mi her8. mana ne viene queça sera para Mallorca 9. Si viene no sera posíble hasta dexarla 10. en Çaragoça. Nuestro negocío va viento en 11. popa gracias a Dios el querrá que tenga 12. presto efeto. Por acá sehable de muchos 13. franceses, no sabemos donde darà el rayo 14. Yo no pienso aguardalle. A essos señores 15. y Señoras beso la mano y suplico tengan 16. esta por suya y a mi dama Leonoreta en 17. abraço no blindadome del Padre gde 18. Dios aem lo me dexo y me importa 19. Tarraga y Abril 30 de 1647 20. Lo dorino [?] y Sor de Vm 21. El Conde de Cavella22. [Margen izquierdo] [^ Sr D Pedro Sta Cilia] [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "178:6440.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo15/178:6440.JPG",
+      "url": "/legajos/legajo-15/images/178:6440.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "178:6440.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-15/cartas/002215.json",
+  "primary_image_url": "/legajos/legajo-15/images/178:6440.JPG"
+}

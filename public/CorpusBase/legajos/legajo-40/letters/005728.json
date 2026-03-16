@@ -1,0 +1,42 @@
+{
+  "legajo_id": "40",
+  "id_carta": "5728",
+  "order_in_legajo": 55,
+  "signatura": "210:80a",
+  "nombre_carta": "Carta de Persona desconocida a Persona desconocida",
+  "fecha_original": "fecha sin especificar",
+  "lugar": "Mallorca",
+  "remitente": "Persona desconocida",
+  "destinatario": "Persona desconocida",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Compte del blat s'ha portat a madò Margalida a la quartera per compte de mi Sra. [1§] Transcripción literal"
+  ],
+  "literal": [
+    "1. Compta del balt se ha portat a mado Margalida a la quartera per compta de mi Sra."
+  ],
+  "imagenes": [
+    {
+      "filename": "210:80a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo40/210:80a.JPG",
+      "url": "/legajos/legajo-40/images/210:80a.JPG"
+    },
+    {
+      "filename": "211:80b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo40/211:80b.JPG",
+      "url": "/legajos/legajo-40/images/211:80b.JPG"
+    },
+    {
+      "filename": "212:80c.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo40/212:80c.JPG",
+      "url": "/legajos/legajo-40/images/212:80c.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "210:80a.JPG",
+  "warnings": [],
+  "raw_source": "raw/legajos/legajo-40/cartas/005728.json",
+  "primary_image_url": "/legajos/legajo-40/images/210:80a.JPG"
+}

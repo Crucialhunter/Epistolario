@@ -1,0 +1,43 @@
+{
+  "legajo_id": "6",
+  "id_carta": "664",
+  "order_in_legajo": 163,
+  "signatura": "249-127a",
+  "nombre_carta": "Carta de Juan Antonio de Boixadors a Cecilia Zaforteza y Sureda de Sant Martí",
+  "fecha_original": "4 de septiembre de 1777",
+  "lugar": "Roma",
+  "remitente": "Juan Antonio de Boixadors",
+  "destinatario": "Cecilia Zaforteza y Sureda de Sant Martí",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Roma, 4 de septiembre de 1777. Tía y muy Sra. mía, Recibo con el mayor aprecio la carta con que v. s. me favorece, dándome aviso del feliz arribo a esa isla de mi querido primo Juan Zaforteza, y sirviéndose agradecerme lo poco que yo he hecho de lo mucho que debía a ese tan estimable pariente, las finísimas expresiones con que v. s. me honra por este motivo son un efecto de su afectuosa propensión, las cuales piden de justicia mi agradecimiento y acrecientan las obligaciones que ya por otros títulos me corren a venerar, obedecer y complacer a v. s. en lo que mi limitación alcanzase. Sírvase v. s. ejercitarla tal cual es, con preceptos de su [1§] mayor agrado, haciéndome el favor de creer que me esmeraré gustoso en darles cumplimiento, y de que deseo a v. s. un sinfín de felicidades. Dios guarde a v. s. muchos años. Beso las manos de v. s. Su sobrino y seguro servidor [??] de Boixadors. Tía y muy Sra. mía Dña. Cecilia Zaforteza. Transcripción literal"
+  ],
+  "literal": [
+    "1. Roma 4 de Setiembre de 1777 2. Tia, y muy Sra. Mia: Recibo con 3. el mayor aprecio la carta con que 4. V.S. me favorece, dandome aviso del 5. feliz arribo a esa Isla de mi Querido 6. Primo Juan Zaforteza y sirviendo- 7. se agradecerme lo poco que yo he 8. hecho de lo mucho que debia a ese 9. tan estimable Pariente Las fini- 10. simas expresiones, con que V.S. me 11. honra por este motivo son un efec- 12. to de su afectuosa propension, las 13. quales piden de justicia mi agra- 14. decimiento, y acrecientan las obli- 15. gaciones, que ya por otros titulos 16. me corren a venerar, obedecer, y com- 17. placer á V.S. en lo que mi limitacion 18. alcanzase. Sirvase V.S. exercitar- 19. la, tal qual es, con preceptos de su [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "249-127a.jpg",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo06/249-127a.jpg",
+      "url": "/legajos/legajo-06/images/249-127a.jpg"
+    },
+    {
+      "filename": "250-127b.jpg",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo06/250-127b.jpg",
+      "url": "/legajos/legajo-06/images/250-127b.jpg"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "249-127a.jpg",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-06/cartas/000664.json",
+  "primary_image_url": "/legajos/legajo-06/images/249-127a.jpg"
+}

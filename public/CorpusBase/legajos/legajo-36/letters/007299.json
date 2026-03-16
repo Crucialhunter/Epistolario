@@ -1,0 +1,38 @@
+{
+  "legajo_id": "36",
+  "id_carta": "7299",
+  "order_in_legajo": 48,
+  "signatura": "069:7774.JPG",
+  "nombre_carta": "Carta de Catalina Fernández de Córdoba y Figueroa a Pedro Santacilia y Pax",
+  "fecha_original": "25 de mayo de 1646",
+  "lugar": "Zaragoza",
+  "remitente": "Catalina Fernández de Córdoba y Figueroa",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "De grande estimación son para mi sus cartas de v. m. que vienen de muy buen gusto y le tendré de que v. m. las continúe mientras no le tuviéremos por acá, que lo deseo mucho. Mi salud anda algo fatigada con unos dolores de cabeza que me hacen perder el juicio, pero tal es el destemple grande de este cielo que aún hoy son intolerables los aires. Con la venida del señor d. Luis, mi hijo, va tomando forma la salida del ejército y creo que se dispondrá bien la materia. Dios lo haga y guarde a v. m. muchos años. Zaragoza y mayo, 25 de 1646 Doña Catalina de Córdoba Señor d. Pedro de Santacilia Transcripción literal"
+  ],
+  "literal": [
+    "1. De grande estimacion son para mi sus cartas de Vmd q 2. vienen de muy buen gusto y le tendre de q Vmd las conti3. nue mientras no le tuvieremos por aca q lo deseo mu4. cho. Mi salud anda algo fatigada con unos dolores de ca5. beça q me hacen perder el juicio: pero tal es el destem6. ple grande de este cielo que aun oy son yntolerables los 7. ayres. 8. Con la venida del Sr. D. Luis mi hijo va tomando for9. ma la salida del Exercito y creo que se dispondra bien 10. la materia. Dios lo haga y gde a Vmd ms. ans. Zara11. gª y mayo 25 de 1646. 12. Doña Catna 13. de Cardona 14. Sr. D. Pº. de Sta Cecilia [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "069:7774.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo36/069:7774.JPG",
+      "url": "/legajos/legajo-36/images/069:7774.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "069:7774.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (2)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-36/cartas/007299.json",
+  "primary_image_url": "/legajos/legajo-36/images/069:7774.JPG"
+}

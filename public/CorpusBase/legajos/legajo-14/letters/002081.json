@@ -1,0 +1,38 @@
+{
+  "legajo_id": "14",
+  "id_carta": "2081",
+  "order_in_legajo": 193,
+  "signatura": "294:2592.JPG",
+  "nombre_carta": "Carta de Marqués de Castelnovo a Pedro Santacilia y Pax",
+  "fecha_original": "28 de marzo de 1667",
+  "lugar": "Madrid",
+  "remitente": "Marqués de Castelnovo",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Muy en memoria tengo que como servidores de v. m. hemos sido mi padre y yo, y así no dudo lo que v. m. se habrá alegrado de la merced que su majestad, Dios lo guárde, me ha hecho y v. m. debieren que en compretensión que si vieren [?] este consejo y en todas cuantas cosas conviene o [?] y servidor suyo, deseando que tengan muy buen logro y que guarde Dios a v. m. muchos años. Madrid a 28 de marzo 1667. Besa la mano de v. m. su mayor servidor, el marques de Castelnovo [?] Sr. D. Pedro Santacilia [1§] Transcripción literal"
+  ],
+  "literal": [
+    "1. Muy en memoria tengo que2. como servidores de v.m. hemos sido3. mi Padre y yo, y asi no dudo lo4. que v.m. se avra alegrado de la mer5. ced que Su Magd. dios lo gde me ha6. hecho y V.m devieren que en 7. compretension que si vieren?? este8. consejo y en todas quantas cosas9. conviene o ????? y10. servidor suyo, deseando que ten11. gan muy buen logro y que12. gde dios a vm muchos años ma13. drid a 28 de março 166714. B.l.m. de Vm. su mar servr15. el marques16. de castel[rodrigo?]17. Sr. d. Pedro Sta. çilia [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "294:2592.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo14/294:2592.JPG",
+      "url": "/legajos/legajo-14/images/294:2592.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "294:2592.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-14/cartas/002081.json",
+  "primary_image_url": "/legajos/legajo-14/images/294:2592.JPG"
+}

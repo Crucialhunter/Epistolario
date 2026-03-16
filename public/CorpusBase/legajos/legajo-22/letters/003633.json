@@ -1,0 +1,38 @@
+{
+  "legajo_id": "22",
+  "id_carta": "3633",
+  "order_in_legajo": 14,
+  "signatura": "021:4982.JPG",
+  "nombre_carta": "Carta de Francisco Rocabertí y Pueyo a Pedro Santacilia y Pax",
+  "fecha_original": "28 de diciembre de 1627",
+  "lugar": "Girona",
+  "remitente": "Francisco Rocabertí y Pueyo",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "V. m. perdoni que he tardat a respondre a dues de v. m. Fins ara jo dic que he pres plaer reisques la diligència v. m. féu pressa de Mir. Déu el tengui en el cel. Jo escric a mi Sra. la comtessa ens faci mercè de deixar-nos v. m. quinze dies ha Bernat [?] i sis plats de medianos de plata ha de ser ací tot als 8 del més de gener, perquè tota. nra. gent als 10 donam a tots sopar en nra. casa. V. m. en què tot vingui de la [?] Déu li torni la salut i guardi a v. m. en Girona, desembre a 28 de 1627. Don Francisco de Rocaberti i de Pueyo Sr. don Pedro Transcripción literal"
+  ],
+  "literal": [
+    "1. Vm. perdone que he tardat a respon2. dre a dues de Vm. fins ara jo dic que3. he pres pler reysques la diligensia Vm. feu4. presa de mir deu lo tengue en lo sel.5. jo escric a mi Sora. la condesa nos fasa md.6. de dexarnos Vm. quinse dies a bernat ????7. y sis plats de medianos de plata a de ser asi tot8. als 8 del mes de jener perque tota [...]9. nra. gent als 10 [...]10. donam a tots sopar en nra. casa Vm. [...]11. en que tot vingue [...]12. de la [?] deu li torne la salut y guarde a Vm.13. en girona, desembre a 28 de 162714. Don Fran[cis]co de15. Rocaberti y de pue[yo]??16. Sr. don pedro [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "021:4982.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo22/021:4982.JPG",
+      "url": "/legajos/legajo-22/images/021:4982.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "021:4982.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-22/cartas/003633.json",
+  "primary_image_url": "/legajos/legajo-22/images/021:4982.JPG"
+}

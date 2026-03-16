@@ -1,0 +1,38 @@
+{
+  "legajo_id": "15",
+  "id_carta": "2166",
+  "order_in_legajo": 62,
+  "signatura": "106:6391.JPG",
+  "nombre_carta": "Carta de Jerónimo de Aganza y Javier a Pedro Santacilia y Pax",
+  "fecha_original": "7 de abril de 1639",
+  "lugar": "Pamplona",
+  "remitente": "Jerónimo de Aganza y Javier",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Senyor mío, Al señor de San Cristóbal [?] acompañé con mucho gusto a palacio, y a su excelencia supliqué el que me manda v. m. Lleva licència y, después de estar esto, he sabido que es sobrino del señor don Lope de Morales, del Consejo de Órdenes, gran señor i amigo mío, i a quien reconozco grandísimas obligaciones. Acerca del dinero que la de v. m. a los soldados porque salude [?] en que los [?] el marqués a v. m. Suplico a v. m. con el encarecimiento [que] puedo, me haga merced de disponer la materia, de manera [que] este caballero consiga lo [que desea]. Don Baltasar de Rada vino ayer. Dice que [va cargando] gente en la vecindad y de [?] sus súplucas [?], però no hay señal que nos asegure que [ha de] dar aquí el rayo. Aquí viene mucha gente particular. Guardi Dios a v. m. com deseo. De Pamplona, y abril 7 de 1639. Don Jeronimo de Aganza y Javier Señor don Pedro Santacilia y Pax Transcripción literal"
+  ],
+  "literal": [
+    "1. Sr mio alsr de sonstobal[?] a acompa2. ñe con mucho gusto apalacio iasuexa3. suplique loq me manda Vm. lleba 4. licencia idespues de estar estoesavido q es 5. sobrino del Sr Don lope de Morales 6. del consejo de ordenes grans>eño>r iamigo 7. mio iaquien reconozco grandisimas 8. obligacions acerca del dever oquelide van 9. los soldados pa quesalude en q losrremies[?] 10. el marques a Vm: suplico a Vm con el 11. encarecimiento y puedo meaga md dedespo12. ner la materia de manera y este caballe13. ro, consiga los deseo. don Baltasar 14. de rrada vino aier dice q un cargan 15. de gente en la becindad ide ferci frian[?] sus 16. plucas peronoai señal que nos asegure 17. que asi dar aqui el rraio aqui viene mu18. chagente partiqular. ge dios a Vm como de19. seo de Pampla a (^mar) abril 7 de 1639. 20. Don geronimo de 21. Aganz e Xavier22. [Margen izquierdo][^Sr Don Po Santacilia i Pax] [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "106:6391.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo15/106:6391.JPG",
+      "url": "/legajos/legajo-15/images/106:6391.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "106:6391.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-15/cartas/002166.json",
+  "primary_image_url": "/legajos/legajo-15/images/106:6391.JPG"
+}

@@ -1,0 +1,38 @@
+{
+  "legajo_id": "21",
+  "id_carta": "3577",
+  "order_in_legajo": 266,
+  "signatura": "468:5865.JPG",
+  "nombre_carta": "Carta de Juan Suñer a Pedro Santacilia y Pax",
+  "fecha_original": "20 de noviembre de 1644",
+  "lugar": "Mallorca",
+  "remitente": "Juan Suñer",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "La de v. m. tinc rebuda i amb ella els tres i anit que son bons i hem diu v. m. que hauran costat més que els altres. Aquí tenia diners el mateix marcader que li ramengeren dels {ESP. atrás} el que faltarà v. m. serà servit demà tenint [?] que el pare Domenech estigui mal [?] Jo tinc salut doncs vaig a caçar i a pescar, de qualsevol manera estic per a servir-lo sens falta i al pare Domenec que li besa les mans i guardi Déu a v. m. de Mallorca i novembre als 20 de 1644. Don Juan Suñer i Juan Sr. don Pedro Santacilia i Pax Transcripción literal"
+  ],
+  "literal": [
+    "1. Lade V.m. tinc rabude y enbella los 2. tras y anit que son bons y andiu V.m. 3. que auran costat mes que los altras 4. aqui tenia dines lo matex marcader 5. que liramengeren de los atras lo 6. que fatara V.m. sera servit dema 7. [Fragmentado 8. tenint perem quelo para domenech 9. estiga Mal deurtar ja tinc salut puis 10. vag acasar y apascar dequal savol me11. nera estic pera servirlo sens falta 12. y al para Domenec que libesa las mans 13. y guarde deu a V.m. de Mallorca 14. y Noembra als 20 de 1644 15. DonJuan 16. Saniorsucan[?]17. [Margen izquierdo][^ [s]r DonPedro Stazilia y Pax] [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "468:5865.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo21/468:5865.JPG",
+      "url": "/legajos/legajo-21/images/468:5865.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "468:5865.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-21/cartas/003577.json",
+  "primary_image_url": "/legajos/legajo-21/images/468:5865.JPG"
+}

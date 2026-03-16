@@ -1,0 +1,43 @@
+{
+  "legajo_id": "23",
+  "id_carta": "3811",
+  "order_in_legajo": 66,
+  "signatura": "129:3223a.JPG",
+  "nombre_carta": "Carta de Catalina Fernández de Córdoba y Figueroa a Pedro Santacilia y Pax",
+  "fecha_original": "14 de marzo de 1635",
+  "lugar": "Perpiñán",
+  "remitente": "Catalina Fernández de Córdoba y Figueroa",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Aunque v. m. dice tanto en sus cartas que parece se puede sacar bastantemente de ellas la noticia que es menester, con todo juzgo por forzoso y necesario que muy distintamente y con claridad me diga v. m. lo que es, para que acá con la noticia que es menester se pueda prevenir todo. Y si a v. m. le embaraza el temor de perderse una carta, aunque vienen tan seguras en el pliego del agente del duque, envíeme un criado, el más seguro, y con él dígame v. m. claro lo que ha entendido y los caminos por donde lo sabe; y si la materia es tal que le parece a v.m. que puede ser de provecho la prisa, envíele por la posta y no repare en cosa, que sus cartas de v. m. son tan diferentes de las demás que me obligan a ello, y como sé su ley de v. m. su cuidado y desuello, es mayor mi ansia. Guarde Dios, a v. m. muchos años. Perpiñan, a 14 de marzo 1635. [Letra original de la remitente: ] Todo cuanto tocara a vmd. puede estar seguro lo cuidaré. La duquesa de Seg[orb]e y de Cardona [1§] Perpiñan. Recibido. 14 marzo 1635. La duquesa de Segorbe y de Cardona Transcripción literal"
+  ],
+  "literal": [
+    "1. Aunq V.m. diçe tanto en sus cartas q pareçe se puede 2. sacar bastantemente dellas la notticia q es menester, con todo3. jusgo por forçoso, y necessario que muy distintamente y con4. claridad me diga V.m. lo que es para q aca con la noticia5. q es menester se pueda prevenir todo, y si a V.m. le6. ambaraça el temor de perderse una Carta aunq vienen ta7. siguras en el pliego del Agente del Duq embieme un8. Criado el mas siguro y con el digame V.m claro lo que ha 9. entendido; y los caminos por donde lo sabe, y si la 10. materia es tal que le pareçe a v.m. que puede ser de pro=11. vecho la prissa embiele por la posta y no repare12. en cosa, q sus cartas de V.m. son tan differentes de las 13. demas que me obligan a ello, y como se su ley de V.m.14. su cuydado y desuelo es mayor mi ansia, Guarde Dios, 15. a V.m. muchos años. Perpiñan a 14. de Março 1635. 16. todo quanto tocare avmd puede estar 17. seguro lo quydare la duqsa de sege 18. y de Cardona [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "129:3223a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo23/129:3223a.JPG",
+      "url": "/legajos/legajo-23/images/129:3223a.JPG"
+    },
+    {
+      "filename": "130:3223b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo23/130:3223b.JPG",
+      "url": "/legajos/legajo-23/images/130:3223b.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "129:3223a.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (2)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-23/cartas/003811.json",
+  "primary_image_url": "/legajos/legajo-23/images/129:3223a.JPG"
+}

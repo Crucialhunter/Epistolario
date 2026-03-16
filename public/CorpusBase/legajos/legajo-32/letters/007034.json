@@ -1,0 +1,38 @@
+{
+  "legajo_id": "32",
+  "id_carta": "7034",
+  "order_in_legajo": 80,
+  "signatura": "013:1792",
+  "nombre_carta": "Carta de Pere Joan Prats a Persona desconocida",
+  "fecha_original": "13 de enero de 1664",
+  "lugar": "Algaida",
+  "remitente": "Pere Joan Prats",
+  "destinatario": "Persona desconocida",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Mi SeÃ±or he [?] tota deligenÃ§ia no és estat possible trobar dones a ningun [?] perquè és estat tard v. m. disponga que [?] prompte d'esta sa casa i Alga ida als 13 de 1664 Pere Prats pre qui Suma Bat Al senyor D. Pdo. de Santacilia i Pax [1§] Transcripción literal"
+  ],
+  "literal": [
+    "1. Mi Señor He [?] tota deligençia no es estat posible trobar donas a ningun [?] pq es estat tard VM disponga que [?] prompta de esta sa casa i Algayda als 13 de 1664 Pere Prats pre qui Suma Batt Al Señor D. Pdo. de Sta. Sicilia y Pax"
+  ],
+  "imagenes": [
+    {
+      "filename": "013:1792.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo32/013:1792.JPG",
+      "url": "/legajos/legajo-32/images/013:1792.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "013:1792.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (6)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-32/cartas/007034.json",
+  "primary_image_url": "/legajos/legajo-32/images/013:1792.JPG"
+}

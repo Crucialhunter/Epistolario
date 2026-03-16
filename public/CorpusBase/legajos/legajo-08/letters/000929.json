@@ -1,0 +1,38 @@
+{
+  "legajo_id": "8",
+  "id_carta": "929",
+  "order_in_legajo": 73,
+  "signatura": "189-125 copia",
+  "nombre_carta": "Carta de Rodrigo Borja Lançol Simon de Castanya a Persona desconocida",
+  "fecha_original": "30 de octubre de 1643",
+  "lugar": "Lugar sin especificar",
+  "remitente": "Rodrigo Borja Lançol Simon de Castanya",
+  "destinatario": "Persona desconocida",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Siempre que esta junta tuviere ocasión de valerse de las mercedes que espera de v. s. no dejará de cansarle suplicándole nos dé muchas ocasiones de su servicio. Ahora se nos ofrece suplicar a v. s. se sirva mandar se entregue un barco luego al patrón Jacome, que lleva esta carta que es del Cabo de las [?] salvas que su majestad tiene en estos puertos. No se nos ofrece cosa de que dar cuenta a v. s., solo se dice que nuestro ejército ha entrado en Cataluña por la parte de Balaguer: esperanse muy buenos sucesos por ser muy lúcido ejército y el enemigo con menos fuerzas. De lo que sucediere daremos aviso a v. s., a quien guarde Nuestro Señor como deseo. De Vinarós, a 30 de octubre 1643. Sr. don Rodrigo de Borja Lançol Simón de Castanya Señor don Pedro Santacilia Transcripción literal"
+  ],
+  "literal": [
+    "1. Siempre q esta Junta tubiere ocasion de Valerse 2. de las mrds q espera de Vs. no dexara de can- 3. sarle suplicandole nos demuchas ocasiones de 4. su servicio. 5. Aora se nos ofreçe suplicar aVs. sesirva mandar se 6. entregue Un Barco luengo al Patron Jacome q lleva 7. esta carta que es del Cavo de las salvas q su Mag< > 8. tiene en estos puertos = nosenos ofreçe cosa de q dar 9. quenta aVs. solo sedije q nro ex< > aentrado en 10. Cataluña por laparte de Valaguer esperanse muy 11. buenos sucesos por ser muy lujido ex< > y el enemigo 12. Conmenos fuerças de lo q sucediere daremos aviso 13. aVs. a quien g nro S< > como deseo de Vinaro a 14. 30 de Ot 1643 15. Don Rodrigo de Borja Lançol 16. SSimon de Castanya 17. S< > D P< > santa sicilia [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "189-125 copia.jpg",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo08/189-125 copia.jpg",
+      "url": "/legajos/legajo-08/images/189-125 copia.jpg"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "189-125 copia.jpg",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-08/cartas/000929.json",
+  "primary_image_url": "/legajos/legajo-08/images/189-125 copia.jpg"
+}

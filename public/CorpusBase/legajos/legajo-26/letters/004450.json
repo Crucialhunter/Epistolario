@@ -1,0 +1,38 @@
+{
+  "legajo_id": "26",
+  "id_carta": "4450",
+  "order_in_legajo": 190,
+  "signatura": "274:3545.JPG",
+  "nombre_carta": "Carta de Catalina Fernández de Córdoba y Aragón (II duquesa condesa de Olivares) a Pedro Santacilia y Pax",
+  "fecha_original": "22 de mayo de 1647",
+  "lugar": "Madrid",
+  "remitente": "Catalina Fernández de Córdoba y Aragón (II duquesa condesa de Olivares)",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Mucho me he holgado con la carta de v. m. y las nuevas que me da de su buena salud, la mía prevalece en sus achaques sin que hasta ahora haya reconocido ninguna mejoría. Es así que el señor d. Vicente, mi hermano, vino muy cariñoso y por el camino que escoge espero que le ha de hacer Dios mucho bien y que su salud se moverá a concederle el bien sé que le va a pedir. Mi primo y los niños quedan buenos, gracias a Dios, que guarde a v. m. muchos años. Madrid, 22 de mayo 1647. [Letra original de la remitente:] No creerá v. m. lo que me huelgo con sus cartas y me escribe tan corto...Yo lo paso muy mal siempre de mi enfermedad y, con esto de Lerida, Dios nos ayude. El señor don Vicente está otro. Dios le conserve porque se besa [?]: bien seguro le daría v. m. buenos consejos y no deje v. m. de hacerlo siempre. La duquesa condesa de Olivares Señor d. Pedro de Santacilia Transcripción literal"
+  ],
+  "literal": [
+    "1. Mucho me he holgado con la carta2. de Vm y las nuebas que me da de su bue3. na salud, la mia prevaleze en sus4. achaques sin que hasta hagora aya5. reconozido ninguna mejoria, es asi quel6. Sr. D. Vizente mi her[ma]no vino muy cariñoso7. y por el camino que escoge espero que8. le a de hazer Dios mucho bien y que9. su salud se movera a conzederle el bi[en]10. se que le va a pedir mi primo y los ni11. ños quedan buenos gra[cia]s a Dios que g[uard]e a Vm12. muchos años M[adri]d 22 de Mayo 164713. No crera Vm lo q[ue] me guelgo con sus car14. tas y mescrybe tan corto yo lo paso muy15. mal syenpre de my enfermedad16. y conesto de Leryda dyos nos ayu17. de el Sor. don Bysente esta otro Dyos18. le conserbe porque se vesa[?] bien segu19. rol e darya Vm buenos consegos20. y no dege Vm de asello syenpre21. La duquesa22. Con[de]sa de Olyuares23. D. Pº de Sta Cilia [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "274:3545.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo26/274:3545.JPG",
+      "url": "/legajos/legajo-26/images/274:3545.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "274:3545.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (3)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-26/cartas/004450.json",
+  "primary_image_url": "/legajos/legajo-26/images/274:3545.JPG"
+}

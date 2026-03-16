@@ -1,0 +1,38 @@
+{
+  "legajo_id": "21",
+  "id_carta": "7868",
+  "order_in_legajo": 310,
+  "signatura": "535:5909.JPG",
+  "nombre_carta": "Carta de Nicolás de Santacilia y Togores a Pedro Santacilia y Pax",
+  "fecha_original": "12 de noviembre de 1669",
+  "lugar": "Palma",
+  "remitente": "Nicolás de Santacilia y Togores",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Jo vaig anar aquí per dispondre quan hi podíem anar tots. Ara muden amb tanta facilitat, faltant tant [?] dia que hauran a senyalar si es regaran per la senyora Biatriu, millor parlaria amb Perico o fos que ho fes per capritxo aquí va encalçaran si volen que anirem en cotxe, aniran mules que si arriben da matinada estaran vestits. Guardi Déu a v. m. com desitja. Son Cànoves 12 de novembre 1669. Don Nicolau Santacilia Mon pare Sr. don Pedro Santacilia i Pax, que Déu guardi com desitja Ciutat Transcripción literal"
+  ],
+  "literal": [
+    "1. Jo vaix anar aquí par dispondra 2. quant ai podíam anar tots ara mudan 3. antanta fasilitat, fartant tant poe- 4. das dia quanaran Sanalar Sías raga 5. xan par la Sra Biatriu, millo par 6. laria anparico ofos qua aufes par 7. guaprixo aquí va angalsaran an 8. Sí volan qua aianam a cocho anvíar mulas que sí arríban da matinada 9. astiran Vastis Guarda Deu a VM Com 10. dasiga Son Canavos 12 de noembre 1669 11. Don Nicolau Sta Cilia 12. [margen inferior izquierdo] [^ Mon Para]13. [pagina contígua, al revés] [^ Don Pedro Sta Cilia y Pax que Deu Guar- da com desiga Ciutat] [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "535:5909.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo21/535:5909.JPG",
+      "url": "/legajos/legajo-21/images/535:5909.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "535:5909.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-21/cartas/007868.json",
+  "primary_image_url": "/legajos/legajo-21/images/535:5909.JPG"
+}

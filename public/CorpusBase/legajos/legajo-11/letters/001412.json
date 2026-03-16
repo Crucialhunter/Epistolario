@@ -1,0 +1,43 @@
+{
+  "legajo_id": "11",
+  "id_carta": "1412",
+  "order_in_legajo": 179,
+  "signatura": "311:5267a.JPG",
+  "nombre_carta": "Carta de Pere Maltès a Pedro Santacilia y Pax",
+  "fecha_original": "20 de junio de 1644",
+  "lugar": "Mallorca",
+  "remitente": "Pere Maltès",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Jesús, Maria, Josep Mi senyor dues cartes tinc escrites a Madrid a la una pullaca avisant-lo del que passa del despatx i ha de saber que quan he arribat ací el virrei ara era en Jacer i he d'estar com més i {ESP. amigo} aguardant-lo és com és estat ací som-hi anat pel {ESP. recibo} és com v. s. amb les cartes de favor que havia escrites és estat tant el favor que v. s. m'ha volgut donar que m'és estat forçades dar paraula fer un viatge en cos amb un bergantí del virrei que han pres de moros i jo no veig dies ni hores de ser-me'n anat per estar en presència de v. s. i de ma casa perquè des del dia que sóc arribat he estat com pres i he estat vint-i-dos dies en el llit i ara me sóc alçat sols per escriure esta carta a v. s. i no he escrit a ningú més i així m'encomanarà molt a mi Sra. dona Magdalena i mi Sra. dona Beatriu i a la filla de v. s. i a mi Sra. dona Francisca i tindrà esperança de ser aquí amb el patró Juan de Nans que és arribat a porto Torres de Laser cerca provisió i la gent li fuig que tota la provisió que menjar i la gent es fuig tota per no tenir que menjar [1§] els [?] recollint i el patró Juan de Nans sempre estarà com més per recollir la gent i fer provisió i mentrestant jo faré aquest viatge i després ens anirem junts o sinó almenys Nans, que jo ací carregam per a Espanya no dic mes. Nostre Sr. guardi i [?] amb tots fet a 22 de juny i 1644. Criat de v. s. Pere Maltes [2§] Transcripción literal"
+  ],
+  "literal": [
+    "1. [^Jesus, Maria, Josep^] [son jaculatorias que se usaban para comenzar las cartas^]2. Mi señor dos cartas tinch escrit a Madrid al [^??Cuna 3. Pullaca??^] avisantlo de lo que passa 4. de lo del despatx y ha de saber que quan 5. he arribat assi lo sr. Virrey ara era en Jacer y he 6. i de estar con mes y migo aguardanlo es 7. com es estat assi som y anat per lo recibo es 8. com VSª ab les cartas de favor que avia 9. escrites es estat tan lo favor que VSª ma 10. ha volgut donar que me es estat forsadas pa 11. raula der un viatje en cos ab un berganti 12. de lo sr. Virrey que an pres demores y yo no 13. veige dias ni horas de ser men anat per 14. estar en presentia de VSª y de me casa perque 15. desde lo dia que so arribar he estat con pres 16. y he estat [^??^] dos dias en lo llit y are me so 17. alsat sols per escriure esta carta a VSª y no he 18. escrit a nigu mes y axi me encomanara molt 19. a mi sra. doña Magdalena y mi sra. doña Beatris y a la 20. filla de VSª y a mi sra. doña Francisca y tindra es 21. peransa de ser aqui ab lo patro Juan Denans 22. que hy arribat a porto Torres de Laser serca 23. provisio y la gent li hisque tota la provisio 24. que mengar y la gent es hige tota per no tenir que [roto] [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "311:5267a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo11/311:5267a.JPG",
+      "url": "/legajos/legajo-11/images/311:5267a.JPG"
+    },
+    {
+      "filename": "312:5267b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo11/312:5267b.JPG",
+      "url": "/legajos/legajo-11/images/312:5267b.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "311:5267a.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-11/cartas/001412.json",
+  "primary_image_url": "/legajos/legajo-11/images/311:5267a.JPG"
+}

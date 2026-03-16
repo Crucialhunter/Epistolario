@@ -1,0 +1,38 @@
+{
+  "legajo_id": "7",
+  "id_carta": "805",
+  "order_in_legajo": 34,
+  "signatura": "53-36 copy",
+  "nombre_carta": "Carta de Josep Santacilia a Jerónimo Pelegrín de Aragüés",
+  "fecha_original": "17 de abril de 1676",
+  "lugar": "Bonanova",
+  "remitente": "Josep Santacilia",
+  "destinatario": "Jerónimo Pelegrín de Aragüés",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Senyor Jeroni Pelegri. Se servirà pagar l’armeni 22 lliures 189 quartons per tantes n'han tocat a la part del senyor don Nicolau Santacilia per ajut a {CAT. estos} senyors. Amb els armenis per raó d’una bala indiana, una caixa de llapis lasso i per les turqueses per haver jo pagat la mia part tocant. Avui als 17 abril 1676. A la Bonanova. Don Josep Santacilia. Transcripción literal"
+  ],
+  "literal": [
+    "1. Sr. Gerony Palegri 2. Se servira pagar al Armeni 22 L 189 4 3. per tantas ne an tocat a la part del Sr 4. Don Micolau Sta Cilia per lo ajust han 5. estos Srs. ab los armenis per raho de Una 6. bala Indiana, Una caxa de Lapis Lasso y 7. per las turquessas per haver yo pagat 8. La mia part tocant Vuy als 17 Abril 9. 1676 de La bonanova 10. Don Joseph santasilia [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "53-36 copy.gif",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo07/53-36 copy.gif",
+      "url": "/legajos/legajo-07/images/53-36 copy.gif"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "53-36 copy.gif",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (4)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-07/cartas/000805.json",
+  "primary_image_url": "/legajos/legajo-07/images/53-36 copy.gif"
+}

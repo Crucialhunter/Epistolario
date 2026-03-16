@@ -1,0 +1,38 @@
+{
+  "legajo_id": "35",
+  "id_carta": "5319",
+  "order_in_legajo": 135,
+  "signatura": "143:8166.JPG",
+  "nombre_carta": "Carta de Gabriel Seguí a Pedro Santacilia y Pax",
+  "fecha_original": "24 de abril de 1645",
+  "lugar": "Maó",
+  "remitente": "Gabriel Seguí",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Encara que tots els criats de v. s. estam certs que en el que toca a nostres amoloments personals d'ofici tenim la mà de v. s. a en mon [?] favor i que no sense defraudarà el que·ns toca, no obstant, la contradicció del lloctinent de procurador Rl. en no voler-nos donar el dol per les obsèquies [?] de Nra. Reina d'Espanya, essent nosaltres ministres reials i privilegiats per les parts foranes; i donar-se el mateix dol als altres ministres universals, m'ha paregut amb esta esser molest a v. s. secundant a suplicar-lo sia servit manar que sense Sr. don el que per dita raó ens toca i sempre se es acostumant donar. I si per estes coses convindrà jo haver d'anar aquí a presentar suplicació a v. s. serà servit manar avisar-me’n, perquè jo pugui anar aquí a fer el que convinga, que no tan solament ve esser el dany meu, però encara pels qui en mon ofici m’hi han de succeir. Guardi Déu a v. s. a com pot. de Maó, a 24 d'abril 1645. Gabriel Seguí Senyor governador. Transcripción literal"
+  ],
+  "literal": [
+    "1. Encara q tots los criats de VSª. estam çerts q en lo q2. toca a nostros amoloments pers de offici tenim3. la ma de VSa en mon[?] favor y que no sens defrau dara4. lo quens toca no obstant la contradictio del llocht5. de Procurador Rl. en novolernos donar lo dol6. p las obsequias de Nra. Reyna de España essent7. nosaltras ministras Reals y privilegiats p las8. parts foranas; y donarsa lo matex dol a los altras 9. ministras universals me ha aparegut abesta esser10. molest a VSa. secundant a suplicarlo sia servit11. manar q sens don lo q per dita raho nos toca Y sempra12. se es acostumant donar Y si p estas cosas convindra13. yo haver de anar aqui a presentar suplicatio a VSa.14. sera servit manar avisarman perque yo puga anar15. aqui a fer lo q convinga q no tan solament ve16. esser lo dany meu pero encara p los qui en mon17. offici mi an de sucçeir Gde Deu a VSa.18. com pot de maho a 24 de abril 164519. Gabriel Sagui20. Señor Gdor. [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "143:8166.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo35/143:8166.JPG",
+      "url": "/legajos/legajo-35/images/143:8166.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "143:8166.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-35/cartas/005319.json",
+  "primary_image_url": "/legajos/legajo-35/images/143:8166.JPG"
+}

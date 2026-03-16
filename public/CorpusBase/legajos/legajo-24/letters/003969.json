@@ -1,0 +1,38 @@
+{
+  "legajo_id": "24",
+  "id_carta": "3969",
+  "order_in_legajo": 23,
+  "signatura": "034:4022.JPG",
+  "nombre_carta": "Carta de Ana de Córdoba y Aragón a Pedro Santacilia y Pax",
+  "fecha_original": "24 de marzo de 1635",
+  "lugar": "Medellín",
+  "remitente": "Ana de Córdoba y Aragón",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Con la carta de v. m. he recibido muy gran merced y siento que el sobrescrito de la mía fuese errado, porque a quien le puso le parecería que aún no era lo que v. m. merece. Las cosas de mi hermano y del marques de Povar siento conforme la razón me obliga, y creo de lo que v. m. nos quiere a todos que le tiene muy grande, quisiera poderlas remediar y hallar a v. m. en merced antes que se vaya, que deseo besar sus manos, porque he de salir de aquí con mucha brevedad y que v. m. no dé prisa a su memorial. Mis hijos están buenos y besan a v. m. las manos, a quien guarde Nuestro Señor. En Medellín, 24 de marzo 1635. [Letra original de la remitente:] V. m. procure detenerse, que con mucha brevedad estaría, y que deseo mucho besarle las manos. Muy mal ha de tomar mi hermano este negocio y con mucha razón. Doña Ana de Cordoba Señor d. Pedro de Santacilia Transcripción literal"
+  ],
+  "literal": [
+    "1. Con la carta de V.m. he recevido muy gran md y2. siento que el sobreescrito de la mia fuesse herrado. 3. por que a quien le puso le parecería que aun no era4. lo que Vm. mereçe,5. Las cosas de mi hermano y del Marqs de6. Povar siendo conforme la raçon me obliga, y7. creo de lo que V.m. nos quiere a todos que le 8. tiene muy grande, quisiera poderlas remediar. y9. hallar a V.m. en md antes que se vaya que10. desseo besar sus manos. porque he de salir deaquí11. con mucha brevedad. y que Vm. no depriessa a su12. memorial= mis hijos estan buenos y besan13. a Vm. las manos a quien Ge n Sor. 14. En Medellin. 24. de Marco 163515. [^Vm procure detenerse que con mun16. cha brebedad estaria y que deseo 17. muncho besarle las manos muy18. mala de tomar miermano estene19. gocio y con muncha racon-]20. dona ana21. de cordoba 22. Sr. D. Po. de sta. Zelia [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "034:4022.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo24/034:4022.JPG",
+      "url": "/legajos/legajo-24/images/034:4022.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "034:4022.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (2)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-24/cartas/003969.json",
+  "primary_image_url": "/legajos/legajo-24/images/034:4022.JPG"
+}

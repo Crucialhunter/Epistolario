@@ -1,0 +1,38 @@
+{
+  "legajo_id": "7",
+  "id_carta": "783",
+  "order_in_legajo": 20,
+  "signatura": "25-14 copy",
+  "nombre_carta": "Carta de Nicolás de Santacilia y Togores a Jerónimo Pelegrín de Aragüés",
+  "fecha_original": "24 de enero de 1670",
+  "lugar": "Mallorca",
+  "remitente": "Nicolás de Santacilia y Togores",
+  "destinatario": "Jerónimo Pelegrín de Aragüés",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Por todas vías tengo escrito duplicado y así espero respuesta por instantes, que ya empiezan a tardar las embarcaciones de esos puertos ordinarios. Y así tengo muy poco que advertir en este particular. De las novedades que se han innovado, supuesto que son muy pocas y no del caso, no las refiero mujer e hijos están buenos todos. Doña Leonor Puig me ha hecho merced de revocar la dádiva que le dejó mi padre del jardín. Sólo quisiera que me dierais gusto en escribir por todas partes, largo, que a esa corte mucha falta qué decir. Y en particular de cosas de la Cancillería, así de los memoriales como de los decretos de cualquier papel tocante a la pretensión. Haréis que lavan [?] media arroba de chocolate, y cuenta no sea de ingredientes que suelen hacer por ahí de mala calidad. Dios os guarde como deseo. Mallorca, 24 enero 1670. Don Nicolas de Santacilia. Transcripción literal"
+  ],
+  "literal": [
+    "1. Por todas vias tengo escrito duplicado y assi espero respuesta por 2. instantes que ja empieçan a tardar las embarcationes de essos 3. puertos ordinarios. y assi tengo muy poco que advertir en este par- 4. ticular. De las novedades que se han innovado, supuesto que 5. son muy pocas y no del caso, no las refiero 6. Muger y hijos estan buenos todos, Doña Leonor Puig me ha 7. echo merçed de revocar la dadiva que le dexo mi padre del 8. Jardin, solo quisiera que me dierays gusto en escrivir por todas 9. partes, largo, que a essa corte mucha falta que dezir y en parti- 10. cular de cosas de la cançilleria, assi de los memoriales como de los de- 11. cretos de qualquier papel tocante a la pretension. 12. Hareys que laban [?] media arroba de xocolate y cuenta no sea 13. de ingredientes que suelen hazer por ahi de mala calidad. Dios 14. os gde como deseo. Mallorca 24 [?] Henero. 1670. 15. Don Nicolas de sta Cilia. [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "25-14 copy.gif",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo07/25-14 copy.gif",
+      "url": "/legajos/legajo-07/images/25-14 copy.gif"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "25-14 copy.gif",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (5)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-07/cartas/000783.json",
+  "primary_image_url": "/legajos/legajo-07/images/25-14 copy.gif"
+}

@@ -1,0 +1,43 @@
+{
+  "legajo_id": "25",
+  "id_carta": "4091",
+  "order_in_legajo": 25,
+  "signatura": "048_125a.JPG",
+  "nombre_carta": "Carta de Nicolás de Santacilia y Togores a Jerónimo Pelegrín de Aragüés",
+  "fecha_original": "26 de marzo de 1667",
+  "lugar": "Madrid",
+  "remitente": "Nicolás de Santacilia y Togores",
+  "destinatario": "Jerónimo Pelegrín de Aragüés",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "La lletra és gairebé imperceptible [1§] Madrid 26 de marzo 1667, de don Nicolas de Santacilia y Togores, respuesta 8 de mayo 1667. Transcripción literal"
+  ],
+  "literal": [
+    "1. La lletra és gairebé imperceptible"
+  ],
+  "imagenes": [
+    {
+      "filename": "048_125a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo25/048_125a.JPG",
+      "url": "/legajos/legajo-25/images/048_125a.JPG"
+    },
+    {
+      "filename": "049_125b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo25/049_125b.JPG",
+      "url": "/legajos/legajo-25/images/049_125b.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "048_125a.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (5)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-25/cartas/004091.json",
+  "primary_image_url": "/legajos/legajo-25/images/048_125a.JPG"
+}

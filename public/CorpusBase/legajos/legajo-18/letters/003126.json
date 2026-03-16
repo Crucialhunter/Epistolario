@@ -1,0 +1,38 @@
+{
+  "legajo_id": "18",
+  "id_carta": "3126",
+  "order_in_legajo": 158,
+  "signatura": "258:4965.JPG",
+  "nombre_carta": "Carta de Isidro Marqués a Pedro Santacilia y Pax",
+  "fecha_original": "6 de julio de 1669",
+  "lugar": "Madrid",
+  "remitente": "Isidro Marqués",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Señor mío. Por algunos amigos he sabido como v. s. goza de la buenasalud que le deseo. Si bien siento el poco consuelo que v. s. llevo de esta cortes y el que tengo es que v. s. con su prudencia sabe llevar los golpes de la fortuna esperando que Nro. Sr. la mejore algún día y así no hay sino tratar de vivir y no pensar en otra cosa. v. s. ya sabe que siempre me tiene dispuesto a servir y que me holgaré valer algo a este fin Al de D. Nicolas besolas manos con las de v. s. que guarde Dios muchos años puede Madrid a 6 de julio de 1669. No uiero pasar ensillencio el dar cuenta a v. s. como su majestad me hizo merced de Abito por mi hijo, o, hija que pongo a los pies de v. s. como debo. Besa la mano a v. s. su may or servidor Isidro Marques Sr. D. Pedro Santacilia [1§] Transcripción literal"
+  ],
+  "literal": [
+    "1. Señor mio. Por algunos amigos he 2. sabido como VS goza dela buenasalud 3. que le desseo. Si bien siento el poco 4. consuelo que VS. llevo desta Cortes yel 5. que tengo es que VS. consu prudencia 6. sabe llevar los golpes dela fortuna espe7. rando que nro Sr la mejore algun dia 8. Y assi no ay sino tratar de vivir y 9. no pensar en otra cosa. VS. ya sabe 10. que siempre me tiene dispuesto aservir 11. y que me holgare valer algo aeste fin 12. Al de D Nicolas bessolas manos 13. con las de VS. que gde Dios muchos 14. años puede Md a 6 de Julio 15. de 1669. 16. No uiero passar ensillencio el dar qta 17. a VS. como su M[a]gd me hizo mrd de Abito 18. por mi hijo, o, hija q pongo alos 19. pies de VS como devo. 20. B[] l[] M[] a VS. su m[ay>or serdor 21. Ysidro Marques 22. [Margen izquierdo][^ Sr D Po Santacilia] [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "258:4965.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo18/258:4965.JPG",
+      "url": "/legajos/legajo-18/images/258:4965.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "258:4965.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-18/cartas/003126.json",
+  "primary_image_url": "/legajos/legajo-18/images/258:4965.JPG"
+}

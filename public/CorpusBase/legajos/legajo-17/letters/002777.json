@@ -1,0 +1,38 @@
+{
+  "legajo_id": "17",
+  "id_carta": "2777",
+  "order_in_legajo": 43,
+  "signatura": "065:1319.JPG",
+  "nombre_carta": "Carta de Jerónimo Mancho a Pedro Santacilia y Pax",
+  "fecha_original": "15 de mayo de 1658",
+  "lugar": "Madrid",
+  "remitente": "Jerónimo Mancho",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "recibí su carta de v. m. en que se sirve avisarme haber llegado a sus manos los despachos de mi Sra. Dña. Teresa Pi que y se las beso a v. m. muchas veces por la merced que ofrece hacer a esta pupila en teniendo ocasión y ha más de un mes que fueron los anuales de ese reino supdo a v. m. se sirva tener memoria de los derechos que son 2432 reales de plata y de no tenerme tan ocioso en su servicio pues es cierto que ninguno acudirá a él con más fineza que yo. Guarde Dios a v. m. muchos años como deseo Madrid a 15 de mayo 1658. Besa la mano de v. m. su más afecto servidor Jeronimo Mancho Sr. don Pedro de Santacilia y Pax. [1§] Transcripción literal"
+  ],
+  "literal": [
+    "1. Recebi su carta de V.m. en que se sirve2. avisarme haver llegado a sus manos3. los despachos de mi Sra. da Teresa Pique y se4. las beso a V.m. muchas vezes por la mrd que 5. offrece hazer aesta pupila en teniendo6. ocasion= Ya ha mas de un mes que7. fueron los annuales desse Reyno suppdo8. a Vm. se sirva tener memoria de los9. drechos que son 2432 Rs de plata y de 10. no tenerme tan ocioso en su servicio11. pues es cierto que ninguno acudira a el12. con mas fineza q yo. gde Dios a Vm13. mus años como desseo Md a 15.14. de Mayo 1658.15. B l[a] m de Vm16. su mas afecto servor17. Geronymo Mancho18. Sr. Don Pedro de Sta. Cilia y Pax. [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "065:1319.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo17/065:1319.JPG",
+      "url": "/legajos/legajo-17/images/065:1319.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "065:1319.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-17/cartas/002777.json",
+  "primary_image_url": "/legajos/legajo-17/images/065:1319.JPG"
+}

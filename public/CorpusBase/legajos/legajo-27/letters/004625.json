@@ -1,0 +1,38 @@
+{
+  "legajo_id": "27",
+  "id_carta": "4625",
+  "order_in_legajo": 94,
+  "signatura": "164:4434.JPG",
+  "nombre_carta": "Carta de Martín de Rocabertí a Pedro Santacilia y Pax",
+  "fecha_original": "15 de mayo de 1647",
+  "lugar": "Madrid",
+  "remitente": "Martín de Rocabertí",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Sr. mío ya sus órdenes de v. m. se han obececido y así dentro muy breves días me tendrá v. m. la [?] que me embarqué en los puertos de España antes que allegue a su reino y porque se v. m. fia de holgar de la merced que su majestad me ha hecho le digo como me ha dado el sueldo que me toca por [?] de título que son cien escudos y seicientos ducados de encomienda pagados en Nápoles treinta escudos de ayuda de las [?] pagada. Mañana pienso dar un memorial para que me den un hñabito para que vaya con todo cumplimiento la merced y así Sr. mío v. m. ya sabe que todos mis aumentos son para más servir a v. m. y a todo los de su casa y así v. m. me trendra fuera de Madrid por todo este mes sin falta y si tenía los despachos ya le estaría [?] para que v. m. conozca los deseos que tengo de salir de acá, a 15 de mayo de 1647. Su mayor servidor de v. m. y más efecto sobrino Don Martin de Rocaberti Sr. don Pedro Santacilia. Transcripción literal"
+  ],
+  "literal": [
+    "1. S[irv?]io Ja Sus ordenes de Vm se an obecesido yasi dentro2. mui breves dias metendra Vm la [bsu run a siness?]3. que me enbarque en los puerts de la panja antes que4. allegue asu reyno Y porque se Vm fiade olgar de la 5. merce que Su Mad me aetxo le digo Como me adado6. el Sueldo que me to[c?]a por igo de titulo que son sien escudos7. y seisentos ducados de encomienda pagados en Napo-8. les treinta escudos de ayuda de [las?]ta pagada. Ma/9. nyana pienso dar un memorial paraqueme den un10. abilo para que vaya contodo Cumplimiento la merse11. y asi Dr. Mio Vm jasabe que todos mis aumentos12. son paramas servir a V m yatodo los desu Casa13. yasi Vm me trendra fuera de madrit portido Este14. mes[?] falta y si tenia los despatxos ja lestaria [?]15. paraque Vm conosca los deseos quetengo de salir de 16. aca a 15 de Mayo de 164717. Su mayor servidor de Vm18. y mas effeto sobrino19. Don Martin de Rocaberti20. [30, extrem inferior esquerre] [ ] do Pedro Santasillia. [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "164:4434.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo27/164:4434.JPG",
+      "url": "/legajos/legajo-27/images/164:4434.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "164:4434.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (2)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-27/cartas/004625.json",
+  "primary_image_url": "/legajos/legajo-27/images/164:4434.JPG"
+}

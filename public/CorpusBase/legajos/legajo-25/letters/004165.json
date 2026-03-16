@@ -1,0 +1,43 @@
+{
+  "legajo_id": "25",
+  "id_carta": "4165",
+  "order_in_legajo": 99,
+  "signatura": "205_199a.JPG",
+  "nombre_carta": "Carta de Luis Viguet a Jerónimo Pelegrín de Aragüés",
+  "fecha_original": "30 de julio de 1667",
+  "lugar": "Valencia",
+  "remitente": "Luis Viguet",
+  "destinatario": "Jerónimo Pelegrín de Aragüés",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Sr. Jeroni Pelegri de Aragues No puedo dejar de cansar a v. m. en todas las ocasiones que se ofrezcan la cajuela fue a Madrid y quedan los gastos asentados en la cuenta del Sr. don Pedro v. m. vea en que más le puedo servir que a todo estaré siempre muy servidor de v. m. que Nuestro Sr. guarde felices años. Valencia y julio a los 30 de 1667. Beso las manos de v. m. Luis Viguet [1§] Valencia. Luis Viguet de 30 de Julio. Tiene respuesta de 17 de agosto 1667, con 20 canas 6 palmos estambre y seda. Transcripción literal"
+  ],
+  "literal": [
+    "1. Sr. Geroni Pelegri de Aragues2. No puedo dexar de cansar a Vm en todas las ocasiones3. que se ofrescan la caxuela fue a madrid y quedan los4. gastos asentados en la cuenta del Sr. don Pedro5. Vm. vea en que mas le puedo servir que a todo estare6. siempre muy s[ervi]dor de Vm. que Nuestro Sr. gde.7. felises años Valencia y Julio a los 30 de 16678. b. L. M. DE Vm.9. Luys Viguet [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "205_199a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo25/205_199a.JPG",
+      "url": "/legajos/legajo-25/images/205_199a.JPG"
+    },
+    {
+      "filename": "206_199b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo25/206_199b.JPG",
+      "url": "/legajos/legajo-25/images/206_199b.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "205_199a.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (4)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-25/cartas/004165.json",
+  "primary_image_url": "/legajos/legajo-25/images/205_199a.JPG"
+}

@@ -1,0 +1,42 @@
+{
+  "legajo_id": "40",
+  "id_carta": "5685",
+  "order_in_legajo": 26,
+  "signatura": "070:37a",
+  "nombre_carta": "Carta de Persona desconocida a Persona desconocida",
+  "fecha_original": "fecha sin especificar",
+  "lugar": "Palma",
+  "remitente": "Persona desconocida",
+  "destinatario": "Persona desconocida",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Compte titulat Ciutat [1§] Transcripción literal"
+  ],
+  "literal": [
+    "1. Compte titulat Ciutat"
+  ],
+  "imagenes": [
+    {
+      "filename": "070:37a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo40/070:37a.JPG",
+      "url": "/legajos/legajo-40/images/070:37a.JPG"
+    },
+    {
+      "filename": "071:37b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo40/071:37b.JPG",
+      "url": "/legajos/legajo-40/images/071:37b.JPG"
+    },
+    {
+      "filename": "072:37c.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo40/072:37c.JPG",
+      "url": "/legajos/legajo-40/images/072:37c.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "070:37a.JPG",
+  "warnings": [],
+  "raw_source": "raw/legajos/legajo-40/cartas/005685.json",
+  "primary_image_url": "/legajos/legajo-40/images/070:37a.JPG"
+}

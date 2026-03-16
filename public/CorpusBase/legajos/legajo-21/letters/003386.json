@@ -1,0 +1,38 @@
+{
+  "legajo_id": "21",
+  "id_carta": "3386",
+  "order_in_legajo": 77,
+  "signatura": "113:5675.JPG",
+  "nombre_carta": "Carta de Gabriel Tarrós a Pedro Santacilia y Pax",
+  "fecha_original": "9 de octubre de 1638",
+  "lugar": "Montseny",
+  "remitente": "Gabriel Tarrós",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Puix sap v. m. en totes ocasions li he de servir continua en manar-me moltes coses, amb eixa tres cartes me trobí esta estafeta les quals van amb esta guardi Déu a v. m. de Tortosa i octubre a 9 de 1638 [?] Gabiel Tarros, al revés Tortosa 9 octubre 1648 Gabriel Tarros {ESP. rdo.} [1§] Transcripción literal"
+  ],
+  "literal": [
+    "1. Puix sab V.M. en totes ocasions le 2. he de servir continue en manarme 3. moltes coses, abeixe tres cartes 4. me trobe sta stafeta les quals 5. van ab sta gde Deu a 6. Vm de Tortosay octubre 7. a 9. de 1638[?] 8. Gabiel Tarros 9. [Margen izquierdo, al revés][^ Tortosa 9 octte 1648 Gabriel Tarros rdo] [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "113:5675.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo21/113:5675.JPG",
+      "url": "/legajos/legajo-21/images/113:5675.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "113:5675.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-21/cartas/003386.json",
+  "primary_image_url": "/legajos/legajo-21/images/113:5675.JPG"
+}

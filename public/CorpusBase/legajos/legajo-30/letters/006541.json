@@ -1,0 +1,38 @@
+{
+  "legajo_id": "30",
+  "id_carta": "6541",
+  "order_in_legajo": 35,
+  "signatura": "019:5379",
+  "nombre_carta": "Carta de Lope de Francia y Garcia a Persona desconocida",
+  "fecha_original": "9 de diciembre de 1619",
+  "lugar": "Mallorca",
+  "remitente": "Lope de Francia y Garcia",
+  "destinatario": "Persona desconocida",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Â [1§] Transcripción literal"
+  ],
+  "literal": [
+    "1."
+  ],
+  "imagenes": [
+    {
+      "filename": "019:5379.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo30/019:5379.JPG",
+      "url": "/legajos/legajo-30/images/019:5379.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "019:5379.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (3)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-30/cartas/006541.json",
+  "primary_image_url": "/legajos/legajo-30/images/019:5379.JPG"
+}

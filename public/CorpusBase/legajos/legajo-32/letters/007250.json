@@ -1,0 +1,43 @@
+{
+  "legajo_id": "32",
+  "id_carta": "7250",
+  "order_in_legajo": 227,
+  "signatura": "359:2008a.JPG",
+  "nombre_carta": "Carta de Diego Matías de Aragüés a Pedro Santacilia y Pax",
+  "fecha_original": "22 de diciembre de 1666",
+  "lugar": "Madrid",
+  "remitente": "Diego Matías de Aragüés",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Transcripción literal"
+  ],
+  "literal": [
+    "1. 1."
+  ],
+  "imagenes": [
+    {
+      "filename": "359:2008a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo32/359:2008a.JPG",
+      "url": "/legajos/legajo-32/images/359:2008a.JPG"
+    },
+    {
+      "filename": "360:2008b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo32/360:2008b.JPG",
+      "url": "/legajos/legajo-32/images/360:2008b.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "359:2008a.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (3)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-32/cartas/007250.json",
+  "primary_image_url": "/legajos/legajo-32/images/359:2008a.JPG"
+}

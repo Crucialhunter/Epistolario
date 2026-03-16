@@ -1,0 +1,38 @@
+{
+  "legajo_id": "16",
+  "id_carta": "2582",
+  "order_in_legajo": 68,
+  "signatura": "113:2082.JPG",
+  "nombre_carta": "Carta de Diego Jerónimo Costa a Pedro Santacilia y Pax",
+  "fecha_original": "4 de mayo de 1667",
+  "lugar": "Madrid",
+  "remitente": "Diego Jerónimo Costa",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Señor mío Habiéndome su majestad honrado con la plaza de abogado fiscal de ese reino y teniendo por cierto que he de deber a v. s. muchos favores me ha parecido muy precioso ofrecerla a merced de v. s. como lo estaré yo siempre con muchos de esos [?] de que haga experiencia de esta verdad. Dios guarde a v. s. muchos años. Madrid a 4 de mayo de 1667. Besa las manos de v. s. Su mayor servidor Don Diego Jeronimo Costa Señor don Pedro Santacilia Transcripción literal"
+  ],
+  "literal": [
+    "1. Sr mío Haviendome su Magd honrrado con 2. la Plaza de Adbogado fiscal de esse Reyno 3. y teníendo porçíerto que hede dever a VS. muchos 4. favores meapareçido muy preçiosso ofreçerla a Merd 5. de VS. como loestare yo síenpre conmuchos de 6. esos[?] deque aga esperienzía de esta Verdad = 7. Dios gde a VS muchos años Madrid a 4 de 8. Mayo de 1667 9. BlM de Vs 10. Su Mayor Serbidor 11. Don Díego Gero Costa12. [Margen izquierdo][^Sr Don Pedro Santaçilia] [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "113:2082.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo16/113:2082.JPG",
+      "url": "/legajos/legajo-16/images/113:2082.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "113:2082.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-16/cartas/002582.json",
+  "primary_image_url": "/legajos/legajo-16/images/113:2082.JPG"
+}

@@ -1,0 +1,38 @@
+{
+  "legajo_id": "28",
+  "id_carta": "4740",
+  "order_in_legajo": 52,
+  "signatura": "070:3674.JPG",
+  "nombre_carta": "Carta de Bartolomé Ramis a Pedro Santacilia y Pax",
+  "fecha_original": "19 de enero de 1639",
+  "lugar": "Zaragoza",
+  "remitente": "Bartolomé Ramis",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Mi amo Josep Sentis, y el Sr. Francesc Fortuny m'han honrat en remetre'm estos dos plecs, per a v. m. I per tenir tan bona ocasió, d'un tinent dels de v. m. m'ha paregut enviar-les, i juntament suplicar-lo, com amb altres (no voldria enfadar-lo) me faci mercè de quatre renglons per a la Sra. condesa de Zavella, afirmant m'honre en la primera vacant dels benifets, que conforme veig no haurà rebut la que v. m. me féu mercè i es menester secundar. Suplic a v. m. resposta, que ací estic patint de moltes maneres, y en tenir dita carta me'aniré a Lleida a on no faltarà com per ací. Augmentant-lo Nre. Sr. en tot bé, i llarga vida. Saragossa, i gener 19 1639. De v. m. Bartolome Ramis, subdiaca. {ESP. Mil besamanos a los nuestros}. Sr. D. Pedro Santacilia i Pax. Transcripción literal"
+  ],
+  "literal": [
+    "1. Mi Amo Joseph Sentis, y lo Sr. ffco Fortuño2. me han honrat en remetreme estos dos plegs, para3. v.m. y per tenir tant bona occasio, de un Tinent4. dels de v.m. mea paregut enviarles, y juntament sup=5. plicarlo, com ab a altres (no voldria enfadarlo) me fassa me6. çe de quatre ringlons per la Sra. Condessa de Savalla,7. affirmat, me honre en la primera vacant dels benifets, que8. conforme veig no haura rebut la que v.m. me feu merçe9. y es menester segundar. Supplique à v.m. resposta, que assi10. estich patint de moltes maneres, y en tenir dita carta me11. aniré à Llayda ahont nõ faltara com per assi, aumentantlo12. Nre. Sr. en tot be, y llarga vida. Çaragoça, y Gener 19.13. 1639.14. De v.m. Barthº Ramis Subdiaca.15. mil besamanos a los nuestros.16. Sr. D. Pedro Santacilia, y pax. [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "070:3674.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo28/070:3674.JPG",
+      "url": "/legajos/legajo-28/images/070:3674.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "070:3674.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-28/cartas/004740.json",
+  "primary_image_url": "/legajos/legajo-28/images/070:3674.JPG"
+}

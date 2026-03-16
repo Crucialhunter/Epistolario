@@ -1,0 +1,37 @@
+{
+  "legajo_id": "12",
+  "id_carta": "1522",
+  "order_in_legajo": 26,
+  "signatura": "032_6115a.JPG",
+  "nombre_carta": "Carta de Jaime Terrassa a Pedro Santacilia y Pax",
+  "fecha_original": "4 de marzo de 1639",
+  "lugar": "Tudela",
+  "remitente": "Jaime Terrassa",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Sr. mío, Siempre he deseado que v. m. conozca el deseo que tengo de servirle y así le suplico si permite mi atrevimiento hacerme merced, pues estamos tan cerca venir a pasar las {CAT. Carnestoltes} juntos que lo estimaré como es de {CAT. raó} y así me la haga como este su servidor desea. Tudela y marzo 4 de 1639. J. de Terrassa Sr. d. Pedro de Santacilia Transcripción literal"
+  ],
+  "literal": [
+    "1. Sr. Mio Siempre he desseado que2. Vm. conosca el deseo que tengo de3. servirle y Ansí le sup[li]co si4. permite mi Atrevimiento 5. hazerme m[e]r[ce]d, pues estamos6. tan çerca venir a passar7. las Carnestoltes juns que lo8. estimare como es de Raó9. Y Así me la haga como10. este su servidor desea11. Tudela y março 4 de 163912. J. de Terraça??13. Sr. d. Pº de Santaçeçilia [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "032_6115a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo12/032_6115a.JPG",
+      "url": "/legajos/legajo-12/images/032_6115a.JPG"
+    },
+    {
+      "filename": "033_6115b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo12/033_6115b.JPG",
+      "url": "/legajos/legajo-12/images/033_6115b.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "032_6115a.JPG",
+  "warnings": [],
+  "raw_source": "raw/legajos/legajo-12/cartas/001522.json",
+  "primary_image_url": "/legajos/legajo-12/images/032_6115a.JPG"
+}

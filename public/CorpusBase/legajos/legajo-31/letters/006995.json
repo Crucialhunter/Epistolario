@@ -1,0 +1,48 @@
+{
+  "legajo_id": "31",
+  "id_carta": "6995",
+  "order_in_legajo": 233,
+  "signatura": "343:1746a.JPG",
+  "nombre_carta": "Carta de Magín Ribes a Pedro Santacilia y Pax",
+  "fecha_original": "12 de octubre de 1664",
+  "lugar": "Ibiza",
+  "remitente": "Magín Ribes",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "[1§] [2§] [3§] Transcripción literal"
+  ],
+  "literal": [
+    "1. 1. 1."
+  ],
+  "imagenes": [
+    {
+      "filename": "343:1746a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo31/343:1746a.JPG",
+      "url": "/legajos/legajo-31/images/343:1746a.JPG"
+    },
+    {
+      "filename": "344:1746b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo31/344:1746b.JPG",
+      "url": "/legajos/legajo-31/images/344:1746b.JPG"
+    },
+    {
+      "filename": "345:1746c.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo31/345:1746c.JPG",
+      "url": "/legajos/legajo-31/images/345:1746c.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "343:1746a.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-31/cartas/006995.json",
+  "primary_image_url": "/legajos/legajo-31/images/343:1746a.JPG"
+}

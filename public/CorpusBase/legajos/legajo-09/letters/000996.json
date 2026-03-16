@@ -1,0 +1,48 @@
+{
+  "legajo_id": "9",
+  "id_carta": "996",
+  "order_in_legajo": 31,
+  "signatura": "034-18a",
+  "nombre_carta": "Carta de Diego Álvarez a Arnau de Santacilia",
+  "fecha_original": "24 de mayo de 1674",
+  "lugar": "Milán",
+  "remitente": "Diego Álvarez",
+  "destinatario": "Arnau de Santacilia",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Amigo y señor, A un mismo tiempo recibo dos de v. m., que huelgo goce de muy entera salud y en cuanto a lo que v. m. me dice que no ha tenido carta mía desde que llegó a esa ciudad no sé cómo pueda ser, pues todos los correos tengo escrito y siempre he entregado las cartas mías y del señor maestre de campo al amigo don Josep me [?]. Y en la del correo de 14 de abril le di parte a v. m. cómo se me había hecho merced de la ayudantía al sr. [?] por muerte de Bernardo Bonilla, que Dios tenga en gloria, y no he tenido respuesta de esta carta, cosa que me ha maravillado mucho. Al amigo Villalonga le he dado y voy dando todo cuanto me pide con su recibo y luego lo remito al señor sargento [1§] mayor Antonio Bellon y de todo lo que yo he dado hasta el día de hoy ha dado sastifacción al alférez. A los 21 de este me remitieron de Carmona dos soldados los cuales han sentado, hasta ahora no se ha pasado muestra. Yo creo que no se pasará tan presto según se dice. Al final no hay ho gente de los tercios [?], solo han marchado dos compañías de italianos de refuerzo. A los 19 de este marchó de Peiguaton [?] Santiago con su compañía a mudar a don Galcerán. De la muda al final no se habla cosa alguna. No creo sea tan presto. Aquí no hay más novedad que haber dado el gobierno del final al sargento mayor don Cristóbal responde [?] y dicen que a Ortiz [?] le han dado un gobierno en Nápoles. Pésame de que la leva de v. m. no sea muy presto pues le [2§] aseguro me holgara ya verle a v. m. por estas partes. Yo no dejaré de acudir al amigo Villalonga en todo cuanto me pidiere y v. m. vea si le puedo servir que lo haré con muy entera voluntad. Guarde Dios a v. m. muchos años. Milán, a 24 de mayo 1674. Besa las manos de v. m. su amigo y servidor, Diego Alvarez Señor capitán don Arnau de Santacilia Transcripción literal"
+  ],
+  "literal": [
+    "1. Amígo Ysr aun mísmo tienpo Re2. cívo Dos de Vmd. queguelgo Goce de 3. muy enterasalud yenquanto a lo 4. que Vmd. medíce queno a tenido Car5. ta mía Des de quellego aesa Ciudad 6. Nose Como Puedaser Pues todos los 7. Coreos tengo escríto Ysiempre he en8. tregado las cartas mías y del sr maee 9. deCampo alamígo Don Josf me oy [?] 10. Yel la del coreo de 14 de abríl he departe 11. a Vmd. Como se meavía echo mrd 12. Dela ayudantía dezo Por muerte de 13. Bernardo Bonella que Da tenga 14. en Gloría ynostencho Respuesta de 15. esta Carta cosa que me emoravella16. do mucho 17. al amigo Billa longa lee dado Yboy 18. Dando todo quanto mepide con su 19. Recivo Yluego loremito al sr Sargto [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "034-18a.jpg",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo09/034-18a.jpg",
+      "url": "/legajos/legajo-09/images/034-18a.jpg"
+    },
+    {
+      "filename": "035-18ba.jpg",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo09/035-18ba.jpg",
+      "url": "/legajos/legajo-09/images/035-18ba.jpg"
+    },
+    {
+      "filename": "035-18bb.jpg",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo09/035-18bb.jpg",
+      "url": "/legajos/legajo-09/images/035-18bb.jpg"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "034-18a.jpg",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-09/cartas/000996.json",
+  "primary_image_url": "/legajos/legajo-09/images/034-18a.jpg"
+}

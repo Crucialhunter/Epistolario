@@ -1,0 +1,38 @@
+{
+  "legajo_id": "29",
+  "id_carta": "6448",
+  "order_in_legajo": 125,
+  "signatura": "225:4265.JPG",
+  "nombre_carta": "Carta de Pedro de Monleón a Pedro Santacilia y Pax",
+  "fecha_original": "6 de junio de 1651",
+  "lugar": "Madrid",
+  "remitente": "Pedro de Monleón",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "D. Pedro Santacilia i Pax, mi Sr. Sa magestat, Déu el guardi, el dimarts féu 19 dies [?] Reial decret despatxat per D. Fernando Ruiz [?] me partís al punt en busca del marques de [?] per a assistir cerca de sa persona amb carta de les [?] des que és poden escriure i ordre que se'm doni [?] del [?] he dilatat el partir-me aguardant [?] terra, però puc excusar-lo partir-me [?] passar per Saragossa i la Castellania a veu [?] i amics per a passar a Tarragona. Tots amics esperen que si tenim alguns [?] seran molt segures unes medres i tot el que [?] rendit als seus peus de v. m. amb l'amor que [?] de Tarragona i totes les parts que pugui [?] V. m. suplicant-lo sempre me mani en coses de son gust i el tindré molt complit sempre [?] notícies que v. m. {ESP. goza} de dichos [?] li don i guardi com desitj. Madrid i juny de 1651. Servidor de v. m. que les mans besa Pedro de Monleon Servir-se a v. m. per fer-me mercè si té ocasió, besant les mans al virrei donar notícia de ma jornada i que no escric per no tenir resposta de les que mil he escrites per temor d'enfadar-lo i que sempre me reconec per criat obligat. Transcripción literal"
+  ],
+  "literal": [
+    "1. D. Pº. Sta.Cilia y Pax2. mi Sr. 3. Su Magd. deu lo gde. lo dimars feu 19 dies ?? 4. Real decret despachat per D. Ferdo. Ruiz [?] 5. me partis al punt en busca del Sr. Marqs. de [?] 6. pera assistir cerca de sa persona ab carta de les [?] 7. des ques poden escriviren y orde que sem doni [?] 8. del Bolço. he dilatat lo partirme aguardant ?? 9. terra pero puch escusarlo partirme [?] 10. passar per Çaragoça y la Castellania a veu [?] 11. y amichs pera passar a Tarragona. tots 12. amichs esperen que si tenim alguns [?] 13. seran molt segures unes medres i tot lo que [?] 14. rendit a sos peus de V. M. ab lo amor q [?] 15. de Tarragª. y totes les parts que puga [?] 16. V. M. supplicant lo sempre me mane en los 17. de son gust y lo tindre molt cumplit sempre [?] 18. noticias de que V. M. goza de dichos [?] 19. lay donc y Gde. com desitg. Madrid y Ju [?] 20. de 165121. Seror. de VM 22. q les m. b.23. Pº. de Monleon24. Servirse ha V. m. per ferme merce 25. si te ocasio besant les mans al Sr. 26. Virrey donar noticia de ma jornada 27. y que no escrich per no tenir respta. 28. de les q mil escrites per temor de enfadarlo 29. y q sempre me regonech per criat obligat. [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "225:4265.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo29/225:4265.JPG",
+      "url": "/legajos/legajo-29/images/225:4265.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "225:4265.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-29/cartas/006448.json",
+  "primary_image_url": "/legajos/legajo-29/images/225:4265.JPG"
+}

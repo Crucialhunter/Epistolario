@@ -1,0 +1,37 @@
+{
+  "legajo_id": "11",
+  "id_carta": "1234",
+  "order_in_legajo": 25,
+  "signatura": "000:5094.JPG",
+  "nombre_carta": "Carta de Pere Onofre Tauler a Pedro Santacilia y Pax",
+  "fecha_original": "22 de marzo de 1643",
+  "lugar": "Alcúdia",
+  "remitente": "Pere Onofre Tauler",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Ja pens no sóc de profit pel servei de v. s., puix en la barca que arribà ahir no he tingudes cartes. Si son queixes d'haver faltat a la puntualitat, alguna és flaquesa de forces, no de voluntat, que sempre ha d'estar als seus peus; i si no és esta la causa, sinó despressió d'aquest seu servidor, vull demostrar que no se[r] vengatiu [ilegible] els {ESP. animos} d'esta [roto] parcialitats tan a contrats que estan de gran {ESP. desdicha} i serà segura si v. s. i altres dels cavallers prenen les raons dels bandejats. Els de Canavall, qui van amb títol de comissaris acompanyant a don Juan de la Villesa, que té el virrei en aquest regne fent zelada als de Canamunt i trobant-los descuidats en [?] mataren {ESP. peleara} i com eren superiors en nombre, puix eren prop de cent i els descuidats menor nombre, hagueren de donar estos infinita i restant morts el bord de fa [roto] i un tal Mas de la Calatrava i diuen Sr. governador [1§] i diu que en Ripoll els consolà de voler pres viu en Jordi Gran que han donat amb enfat de Canavall mort un dels pans de Soller, però no en Tià sinó el menor de tots i altre particular que no [en] sé el nom; han pres els de Canamunt més de quaranta capes, moltes pistoles i tres càrregues de provisió i una de sabates i antipares. La ciutat està tancada i les portes [?] de guardes. Tot va amb ruina particular, Déu Nostre Sr. guardi en companyia de mi senyora a v. s. amb les felicitats que desitjo. Alcudia i març a 22 de 1643. Sr. Pere Onofre Tauler, [?] [P.D.] Si el vinagre no contenta mani v. s. avisar. Procuraré a cercar-ne fora de la ciutat, que en ella serà dificultós trobar-ne. Transcripción literal"
+  ],
+  "literal": [
+    "1. Ja pens no so de profit per el servey de V.S. 2. puix en la barca qui arriba air no he 3. tingudes cartas, sin son quexas de haver 4. faltat a la puntualitad, alguna es flaquesa 5. de forses no de voluntad que sempre ade 6. estar asos peus, y sino es esta la 7. causa sino despresio d´aquest seu Seror 8. vull demostrar que no se vengatiu [trozo roto] 9. estan los animos desta [trozo roto] 10. parsialitats tan acontxats que estan 11. de gran desditxa y sera segura si V.S. 12. y altres dels cavallers prena< n> les rehons 13. dels bandegats, lo de Canaval qui 14. van ab titol de Comisaris acompañant 15. am don Juan de la Villesa, que te el Virrey 16. en aquest reyna fend selada a los de 17. Canamunt y troban lo descuidats en [^??mataren??^] 18. peleant y como eren superiors en nombre 19. puix eran prop de sent y los descuidats 20. menor nombre, aquexa de donar estos 21. infinita y restaren morts el bort de fa[roto] 22. y un tal Mas de la Calatrava y duien 23. [^Sr. Governador^] [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "000:5094.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo11/000:5094.JPG",
+      "url": "/legajos/legajo-11/images/000:5094.JPG"
+    },
+    {
+      "filename": "001:5094.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo11/001:5094.JPG",
+      "url": "/legajos/legajo-11/images/001:5094.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "000:5094.JPG",
+  "warnings": [],
+  "raw_source": "raw/legajos/legajo-11/cartas/001234.json",
+  "primary_image_url": "/legajos/legajo-11/images/000:5094.JPG"
+}

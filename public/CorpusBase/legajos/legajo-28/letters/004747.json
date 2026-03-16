@@ -1,0 +1,38 @@
+{
+  "legajo_id": "28",
+  "id_carta": "4747",
+  "order_in_legajo": 51,
+  "signatura": "078:3681.JPG",
+  "nombre_carta": "Carta de Macià Monsarró a Pedro Santacilia y Pax",
+  "fecha_original": "12 de enero de 1639",
+  "lugar": "Zaragoza",
+  "remitente": "Macià Monsarró",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "En fins avui no he trobat portador per a despatxos a v. m. i els envio per carrater de cartes. Anit em cridà el governador al cosso i em digué que escrigués a v. m. unes bones noves: que dins sis dies tendríem diners. En fins dijous a vespre no cobrí els cinquenta reals fins que mostrí la carta a don Pedro Murillo. El dijous a migdia perquè diu el criat que v. m. els havia donat per al camí. Don Pedro el volia {ESP. despedir} de casa. Jo li preguí que no ho fes, perquè a v. m. li sabria mal que ho fes. Per al primer portador segur enviaré a v. m. el talay [?]. Atfaruel [?] dirà a v. m. que en l'estafeta ni cercavila de vós que el se n'anà de Saragossa no han tingut ninguna carta. Aquí no [?] ninguna carta nova per a fer-li saber [?] al pare Capclar i don Antonio de Ma [?] besamans juntament amb les [?] Déu guardi de Saragossa i març a 12 de 1639 [?] . Macia Monsarro Sr. don Pedro Santacilia [margen izquierdo, en vertical] . Cornelio Tries m'ha dit li dóna mil besamans de sa part. Transcripción literal"
+  ],
+  "literal": [
+    "1. En fins avuy no etrobat portador pera [?] 2. despayxos a v.m. yls envio per carrater de cartes3. anit me criada lo governador al cosso ymdige4. que escriges a v.m. unes bones noves que dins sis dies5. tendriem Dines enfins dijous a vespre no cobri6. los cinquenta realls fins que mostri la7. carta a don Pedro morillo lo dijous amix8. dia perque diu lo criad que v.m. los y avia9. dad peral cami ? don Pedro lo volia des10. pedir de cassa jo li pregui que nou fes per11. que a v.m. li sabria mal queu fes ? per lo12. primer portador segur enviare a v.m. lo13. talay ? alfaruel dira a v.m. que en la estafa14. ni carcauilla de Ves que el senana de Çaragª15. no antingut ninguna Carta ? aqui no [?] 16. ninguna carta niva pera fortisau [?] 17. al pare Capelany don anttº de ma [?] 18. besamans Juntament ab les19. deu ge. de Çaragª. y mars a 12 de [?] 1639 [?] 20. masia monsarro21. Sr don Pedro Santasillia22. [margen izquierdo, en vertical] 23. Cornelio Tries me adit li dona mil besamans de sa part [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "078:3681.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo28/078:3681.JPG",
+      "url": "/legajos/legajo-28/images/078:3681.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "078:3681.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (2)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-28/cartas/004747.json",
+  "primary_image_url": "/legajos/legajo-28/images/078:3681.JPG"
+}

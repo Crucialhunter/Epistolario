@@ -1,0 +1,43 @@
+{
+  "legajo_id": "22",
+  "id_carta": "3684",
+  "order_in_legajo": 64,
+  "signatura": "121:5053a.JPG",
+  "nombre_carta": "Carta de José de Bayetola a Pedro Santacilia y Pax",
+  "fecha_original": "5 de abril de 1639",
+  "lugar": "Zaragoza",
+  "remitente": "José de Bayetola",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Muy por mi cuenta tomo la brevedad y el buen despacho del pleito de Miralles, de manera que se conozca en el cuan poderoso es v. m. para conmigo y lo mismo haré en todo lo demás que v. m. hubiere gusto de mandarme en la de los soldados que v. m. desea para [?] los caballos valiéndonos del expediente de los que están en la cárcel se hará todo lo que fuere posible para juntar un grande número, si bien hay poca gente en ella por haberse valido el [?] del mismo expediente para la [?] de infantería que ha hecho [?] haré lo posible a estos [?] [1§] Lo que importa es que el Sr. gobernador no disponga de la que hay para el fin que hasta aquí vea v. m. si otra cosa se ofrece en su servicio. A quien guarde Dios muchos años cuya manos beso. Zaragoza y abril 5 de 1639. D. Miguel de Bayelota Sr. D. Pedro de Santacilia y Pax Zaragoza 5 Abril [?] Don Miguel de Bayelota rdo. Transcripción literal"
+  ],
+  "literal": [
+    "1. Muy por mi q[uen]ta tomo la brevedad??2. y el buen despacho del pleyto de mi3. ralles?? de manera q[ue] se conozca en el4. quan poderoso es v.m. para conmi5. go y lo mismo hare en todo lo demas6. q[ue] V.m. hubiere gusto de mandarme7. en la de los soldados q V. M. dessea 8. para [?] los cavallos valiendo 9. nos del expediente de los q estan 10. en la carcel se hara todo lo q fue11. re possible para juntar un gran12. de número; si bien ay poca gente 13. en ella por haverse valido el [?] 14. del mismo expediente para la [?] 15. de infanteria q ha hecho [?] ha16. re lo possible a estos [?] [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "121:5053a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo22/121:5053a.JPG",
+      "url": "/legajos/legajo-22/images/121:5053a.JPG"
+    },
+    {
+      "filename": "122:5053b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo22/122:5053b.JPG",
+      "url": "/legajos/legajo-22/images/122:5053b.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "121:5053a.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-22/cartas/003684.json",
+  "primary_image_url": "/legajos/legajo-22/images/121:5053a.JPG"
+}

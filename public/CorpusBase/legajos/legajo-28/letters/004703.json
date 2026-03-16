@@ -1,0 +1,38 @@
+{
+  "legajo_id": "28",
+  "id_carta": "4703",
+  "order_in_legajo": 11,
+  "signatura": "021:3637.JPG",
+  "nombre_carta": "Carta de Agustí Ferrer a Pedro Santacilia y Pax",
+  "fecha_original": "20 de julio de 1627",
+  "lugar": "Girona",
+  "remitente": "Agustí Ferrer",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "{ESP. Circa} migdia m'han avisat que Fontanillas, qui prengué a v. m., és en Girona, i no d'avui. I està retirat en alguna casa amb dos o tres fadrins que ha portat, i no compareixent, no pot ser porta bons pensaments. Pel que pot ser, jo en continent m'en sóc anat a l'almoina [a] avisar el paborde i el batle que és ací, perquè tothom se posàs en cobro a cautela, i perquè amb Felip se fes diligència del que convé, i axí ho fan. El que s'{ESP. averiguarà} se donarà avís a v.m. en el punt. No és té més que dir perquè v. m. aquí faci el que convé. Misser Carreras és arribat en aquest punt i ha passat a l'almoina. No sé si estarà ací alguns dies. El batle aquí mateix ha enviat a Joan que es mudàs. Ja hauran sabut per mi señor don Diego la segona presó d'en Maltes. No sé que dir-me sinó que Déu guardi a v. m. de traidor. Al comte mi senyor, que beso a su s. les mans, que prengui esta per pròpia. A Bernat Ferrer i Diacaba molts besamans. Girona, i juliol, als 20 de 1627. Agustí Ferrer pre. El senyor don Francisco Blanc no ve esta nit per fer-li escriure i en el negoci que v. m. mana del benefici, a bé que no es té certesa a on és don Jaume Montalan, hi dóna bon succés. Senyor don Pedro Santacilia i Pax. Transcripción literal"
+  ],
+  "literal": [
+    "1. Sirca mig dia me an avisat que fontani-2. llas qui prangue a vm es en girona, y no de3. vuy, y esta retirat en algune casa ab dos4. o tres fadrins que ha aportat, y no comparaxent5. no pot ser aporta bons pensamens, per lo que6. pot ser jo encontinent men so anat alalmoy [?] 7. na avisar lo pabordo, y lo balla ques asi pera8. que totom se posas en cobro a cautela, y perque9. ab falip se fes diligencia de lo que conve10. y axi ho fan, lo que se avariguera se donera11. avis a v.m. en lo punt nos te mes que dir per12. que v.m. aqui fasa lo que conve. miser carre13. ras es arribat en aquest punt y ha posat14. a lalmoyna no se si estira asi alguns dias15. lo balla aqui matex ha enbiat a juan ques16. mudas. ja euran sabut per mi señor don17. diego la sagona preso den maltes no se que18. dirmi sino que deu guarde a v.m. de traydor19. anel comta mi señor que beso asu s. les mans20. que prenga esta per propia. a Bernat ferrer21. y viacabe nos besa mans Girona, y juliol22. als 20 de 1627.23. Agusti ferrer pre.24. lo señor dô franco bach25. no ve esta nit per ferli26. escriure y en lo negoci que v.m.27. mane del benefici abe que nos te sertesa ahont es dõ28. jaume montyalan hi done bon suces29. Señor don Pedro StaCilia, y pax [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "021:3637.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo28/021:3637.JPG",
+      "url": "/legajos/legajo-28/images/021:3637.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "021:3637.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-28/cartas/004703.json",
+  "primary_image_url": "/legajos/legajo-28/images/021:3637.JPG"
+}

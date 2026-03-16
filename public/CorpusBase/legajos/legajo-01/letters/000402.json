@@ -1,0 +1,56 @@
+{
+  "legajo_id": "1",
+  "id_carta": "402",
+  "order_in_legajo": 92,
+  "signatura": "210-291a",
+  "nombre_carta": "Carta de Joan de Berard a Jerónimo Pelegrín de Aragüés",
+  "fecha_original": "30 de abril de 1668",
+  "lugar": "Lugar sin especificar",
+  "remitente": "Joan de Berard",
+  "destinatario": "Jerónimo Pelegrín de Aragüés",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Vostra mercè em digué que per diumenge m’aportaria una partida, i amb aqueixa confiança havia donada paraula de donar-los a altri, i no és estat possible, havent tant de temps que estic cansant al senyor don Pedro i a vostra mercè demanant que pel {ESP. menos} em fessen una consignació, i no és estat possible {ESP. alcançar} una cosa ni altra. I així suplic a vostra mercè em faci menester de desenganyar-me, i deixaré de cansar a vostra mercè i al senyor don Pedro, que si no estigués tan apretat, no l’enfadaria amb estos renglons. {ESP. Vale} etcètera. D'esta sa casa.",
+    "Abril, 30 de 1668.",
+    "Servidor de vostra mercè que ses mans besa. Joan de Berard",
+    "Senyor Jeroni Pelegri.",
+    "A Jeroni Pelegri, que Déu guardi."
+  ],
+  "literal": [
+    "1. Vm em digue que per diumenga me apor-",
+    "2. taria una pertida yab aquexa confiance",
+    "3. avia donada peraula de donarlos a altri",
+    "4. y no es estat posible avent tant de temps",
+    "5. que estich cansant al Sr. D. Pedro, y aVm",
+    "6. demenant que per{esp.} lo menos em fessan una",
+    "7. consignacio yno es estat posible alcansar",
+    "8. una cose ni altre y axi supplich a Vm",
+    "9. em fassa mester de desenganarme, y dexare",
+    "10. de cansar a Vm y el Sr D Pedro, que sino",
+    "11. estigues tant apretat no lenfadaria ab estos",
+    "12. renglons vale etts desta se case. Abril",
+    "13. 30 de 1668.",
+    "14. Sor de. Vm. q S M B",
+    "15. JoandeBesard",
+    "16. Sr. Hieroni Pelegri [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "210-291a.gif",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo01/210-291a.gif",
+      "url": "/legajos/legajo-01/images/210-291a.gif"
+    },
+    {
+      "filename": "210-291b.gif",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo01/210-291b.gif",
+      "url": "/legajos/legajo-01/images/210-291b.gif"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "210-291a.gif",
+  "warnings": [],
+  "raw_source": "raw/legajos/legajo-01/cartas/000402.json",
+  "primary_image_url": "/legajos/legajo-01/images/210-291a.gif"
+}

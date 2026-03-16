@@ -1,0 +1,38 @@
+{
+  "legajo_id": "30",
+  "id_carta": "6634",
+  "order_in_legajo": 149,
+  "signatura": "158:5472.JPG",
+  "nombre_carta": "Carta de Josep de Rocabertí a Pedro Santacilia y Pax",
+  "fecha_original": "15 de julio de 1652",
+  "lugar": "Ibiza",
+  "remitente": "Josep de Rocabertí",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Â [1§] Transcripción literal"
+  ],
+  "literal": [
+    "1."
+  ],
+  "imagenes": [
+    {
+      "filename": "158:5472.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo30/158:5472.JPG",
+      "url": "/legajos/legajo-30/images/158:5472.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "158:5472.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (4)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-30/cartas/006634.json",
+  "primary_image_url": "/legajos/legajo-30/images/158:5472.JPG"
+}

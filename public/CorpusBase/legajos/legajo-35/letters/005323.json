@@ -1,0 +1,43 @@
+{
+  "legajo_id": "35",
+  "id_carta": "5323",
+  "order_in_legajo": 139,
+  "signatura": "149:8170a.JPG",
+  "nombre_carta": "Carta de Gabriel Seguí a Pedro Santacilia y Pax",
+  "fecha_original": "6 de mayo de 1645",
+  "lugar": "Maó",
+  "remitente": "Gabriel Seguí",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Avui, algunes dues hores de dia, és arribat a esta vila l'atalaier de la Mola i m'ha feta relació que a l'illa del Aire havien donat fondo dos naus. En el mateix punt he despadits dos cavalls amb ordre de què el Captà. de Biniaucolla ajuntàs la seva gent, qui està allà circonvesina, i si acàs se innovava alguna cosa, me donassin avís per poder enviar allí el necessari, així de gent com de tot el demés. I en aquest punt que seran les nou, han arribat a aquest port dos barca és de dites naus per a prendre la pràtica, les quals m'han fet relació, son dos naus genoveses, qui vénen d'Alacant, d'on ha deu dies son partides. I {CAST. antes} d'ahir, quant les quatre naus de Nàpols eixien d’est port, per temors que no fossin inimics, fugiren d'elles i elles els donaren cacia, de manera que les alcançaven. I reconeixent l'estendard d'Espanya, les aguardaren i de les quatre, desembar que en els capitans, qui eren restats a esta vila de les galeres i tornaven a Espanya per cercar passatge. I s'embarcaren amb elles, els quals són vinguts a esta vila. Pasen dites naus en Gènova. Conten de nou que l'armada real ha ja dies que saben és partida de Càdis per a venir a estos març i l'estan aguardant. També diuen que el duc d'Arcos ja ha dies que s’és partit de València per a Dénia. No conten altra cosa de nou de què convinga avisar a v. s. a {ESP. cuya} molt il·la persona Déu N. Senyor guardi a. de Maó, i maig a 6 de 1645. Les dites naus aporten més de cinquanta passatgers, frares qui van a capítol en Roma i altres. Gabriel Seguí Senyor governador. Transcripción literal"
+  ],
+  "literal": [
+    "1. Vuy algunas dos horas de dia es arribat a esta vila2. lo Atalayer de la Mola y me ha feta relatio3. q a la Illa del Ayra havian donat fondo dos naus4. anal matex punt he despadits dos cavalls ab orda5. de que al Capta. de Biniaucolla ajunctas la6. sua gent qui esta alla sir convesina y si acas se7. innovava alguna cosa me donasan avis p8. poder enbiar alli lo necessari axi de gent com9. de tot lo demes10. Y en est punt que saran las nou han erribat11. a est port dos barcas de ditas naus p a pendra la12. pratica, las quals me han fet relatio, son dos naus13. genovesas qui venan de Alicant dehont ha deu14. dias son partidas, y antes de air quant las quatra15. naus de Napols yxian dest port per temos16. que no fossan ynimichs fugiran de ellas y ellas17. los donaran cassa de manera que las alcansava18. y regonaxent lo estandart de Esspaña las aguardara 19. y de las quatra desenbarcan los capitans qui hera20. restats a esta vila de las galeras, y tornavan a españa21. per sercar pasatjea Y se enbarcaran ab elles los quals22. son vinguts a esta vila, passan ditas naus en23. Genova, contan de nou que la armada Rl a24. ja dias que saban es partida de Cadis per a venir25. a estos mars y la estan aguardant [.........................] [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "149:8170a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo35/149:8170a.JPG",
+      "url": "/legajos/legajo-35/images/149:8170a.JPG"
+    },
+    {
+      "filename": "150:8170b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo35/150:8170b.JPG",
+      "url": "/legajos/legajo-35/images/150:8170b.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "149:8170a.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-35/cartas/005323.json",
+  "primary_image_url": "/legajos/legajo-35/images/149:8170a.JPG"
+}

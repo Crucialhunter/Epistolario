@@ -1,0 +1,53 @@
+{
+  "legajo_id": "6",
+  "id_carta": "593",
+  "order_in_legajo": 96,
+  "signatura": "116-64a",
+  "nombre_carta": "Carta de Juan de Prado a Cecilia Zaforteza y Sureda de Sant Martí",
+  "fecha_original": "25 de diciembre de 1756",
+  "lugar": "Valencia",
+  "remitente": "Juan de Prado",
+  "destinatario": "Cecilia Zaforteza y Sureda de Sant Martí",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Señora, Es cierto que las particulares circunstancias que habían estrechado mi amistad y estimación con el Sr. D. Gabriel de Berga hacen tan señaladas las de mi sentimiento [1§] en su muerte que dudo haya tocado a nadie mayor parte de dolor en esta desgracia y pérdida, muy digna de la general compasión de todos. Así correspondo a las atentas expresiones con que v. s. me participa tan infausta novedad, asegurándole que por los respetos de un amigo que tanto quise, y por los que v. s. se merece, desearé en todas ocasiones acreditar en su obsequio mi rendida atención. Nuestro Sr. guarde a v. s. muchos años [2§] como le ruego. Valencia, 25 de diciembre de 1756. Señora crea v. s. ninguno le cabe más sentimiento en la muerte de mi amigo D. Gabriel (que Dios haya), pues lo estimaba con particularidad de que está bien cierto aseguro a v. s. con ingenuidad no le puedo separar de la memoria. v. s. me mande, pues crea la serviré con el gusto que nadie. Señora, a los pies de v. s., Juan de Prado. Sra. mi Sra. Dña. Cecilia Zaforteza. Transcripción literal"
+  ],
+  "literal": [
+    "1. Señora 2. Es cierto, que las 3. particulares circuns- 4. tancias, que avian 5. estrechado mi amistad, 6. y estimacion con el 7. Sr. Dn. Gabriel de Berga 8. hacen tan señaladas 9. las de mi sentimiento [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "116-64a.jpg",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo06/116-64a.jpg",
+      "url": "/legajos/legajo-06/images/116-64a.jpg"
+    },
+    {
+      "filename": "117-64ba.jpg",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo06/117-64ba.jpg",
+      "url": "/legajos/legajo-06/images/117-64ba.jpg"
+    },
+    {
+      "filename": "117-64bb.jpg",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo06/117-64bb.jpg",
+      "url": "/legajos/legajo-06/images/117-64bb.jpg"
+    },
+    {
+      "filename": "118-64c.jpg",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo06/118-64c.jpg",
+      "url": "/legajos/legajo-06/images/118-64c.jpg"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "116-64a.jpg",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-06/cartas/000593.json",
+  "primary_image_url": "/legajos/legajo-06/images/116-64a.jpg"
+}

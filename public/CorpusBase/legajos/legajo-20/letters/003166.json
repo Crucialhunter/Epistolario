@@ -1,0 +1,38 @@
+{
+  "legajo_id": "20",
+  "id_carta": "3166",
+  "order_in_legajo": 35,
+  "signatura": "046:5947.JPG",
+  "nombre_carta": "Carta de Jerónimo Mancho a Pedro Santacilia y Pax",
+  "fecha_original": "22 de septiembre de 1655",
+  "lugar": "Madrid",
+  "remitente": "Jerónimo Mancho",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "doy a v. m. la enhorabuena de la merced que su majestad (Dios le guarde) ha sido servido hacer [?] a v. m. con el oficio de procurador real y desde que vi la propuesta del virrey tuve este suceso por tan seguro hoy. v. m. sabe que siempre le he sido muy afecto servidor y que lo continuaré en todas las ocasiones que v. m. me empleare en su servicio como lo he hecho ahora en lo poco que valgo como lo dirá a v. m. Jeronimo Pelegrin el cual lo ha trabajado con la fineza que se puede ponderar. Guarde Dios a v. m. muchos años como deseo. Madrid a 22 de septiembre 1655. Servior de v. m. que sus manos besa Jeronimo Mancho [?] Sr. don Pedro Santacilia y Pax [1§] Transcripción literal"
+  ],
+  "literal": [
+    "1. Doy a V.m. la enorabuena de la mrd 2. q su Magd ( Dios le gde ) ha sido servido hazer[?] 3. a V.m. con el officio de Procurador Real 4. y desde que vi la propuesta del Sr.Virrey tuve 5. este suceso por tan seguro hoy. Vm. save 6. que siempre le he sido muy afecto servidor 7. y que lo continuare en todas las ocasiones 8. q V.m. me empleare en su servicio como 9. lo he hecho aora en lo poco q valgo como lo 10. dira a V.m. Geronymo Pelegrin el qual 11. lo ha travajado con la fineza q se puede 12. ponderar. gde Dios a Vm mu s años 13. como desseo. Md a 22 de Set 1655. 14. Servior de Vm. q s m b 15. Geronymo Manilo[?] 16. Sr. Don Po Santacilia y Pax [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "046:5947.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo20/046:5947.JPG",
+      "url": "/legajos/legajo-20/images/046:5947.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "046:5947.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-20/cartas/003166.json",
+  "primary_image_url": "/legajos/legajo-20/images/046:5947.JPG"
+}

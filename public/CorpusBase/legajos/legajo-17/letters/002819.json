@@ -1,0 +1,43 @@
+{
+  "legajo_id": "17",
+  "id_carta": "2819",
+  "order_in_legajo": 85,
+  "signatura": "140:1361a.JPG",
+  "nombre_carta": "Carta de Francisco Baudón a Pedro Santacilia y Pax",
+  "fecha_original": "10 de enero de 1660",
+  "lugar": "Palma",
+  "remitente": "Francisco Baudón",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Mi senyor don Pedro després d'haver besades les mans ha v. s. avisanllo del que passa i així ens han fermats en cadena per causa que anit passada tinguerem una pendència cosa de no res i suplico ha v. s. que si es po sible v. s. ens m'han alliberar com a súbdits som de v. s., i així v. s. em farà mercè de manar ha l'alcalde m'alliber de cadena el temps estaran ha embarcar-nos i així estic confiat de v. s. ho farà balar sols l'amistat de mon pare i v. s. em farà mercè enviar en Jeroni que m'importa moltíssim haver de parlar amb ell per averma de treure d'esta cadena per a tractar amb qui tinc de tractar i aportarmen alguna per passar ma vida i així estic confiat ha v. s. que en esta ocasió no ens dexira patir guarde. Déu ha V. amb complida salut com desitja d'esta presó als 10 gener 1660 Criat de v. s. a que sa mà besa [?] Baudon [1§] a D. Pedro Sentacilia i Pax cavaller de l'hàbit de Chaletrava procurador reial del Reina de Mallorca guarde. Sr. D. salut se Praso Transcripción literal"
+  ],
+  "literal": [
+    "1. Sr.2. Mi Señor don Pedro dempues de haver besadas las 3. mans ha VS. avisanllo de lo que pasa y axi nos han 4. fermats en cadena per causa que anit pasada tinguerem 5. una pendentia cosa de no res y suplico ha VS. que si es po6. sibble VS. nos man alliberar com ha subdits som de VS, 7. y axi VS em fara md de manar ha lo alcayt me alliber 8. de cadena el temps estiran ha embarcarnos y axi estic 9. confiat de VS ho fara balar sols la amistat de mon para 10. y VS em fara md enviar en Hieroni que me importa 11. moltíssim aver de parlar ab ell per averma de treura 12. de esta cadena pa tractar ab qui tinch de tractar 13. y aportarmen alguna p pasar ma bida y axi estich 14. confiat ha VS q en esta oc[a]tio no nos dexira patir 15. Gde. Déu ha V. ab complida salud com desitja 16. desta preso als 10 Janer 166017. Criat de VSa q s[a] m[a] b18. [?] Baudon [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "140:1361a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo17/140:1361a.JPG",
+      "url": "/legajos/legajo-17/images/140:1361a.JPG"
+    },
+    {
+      "filename": "141:1361b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo17/141:1361b.JPG",
+      "url": "/legajos/legajo-17/images/141:1361b.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "140:1361a.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-17/cartas/002819.json",
+  "primary_image_url": "/legajos/legajo-17/images/140:1361a.JPG"
+}

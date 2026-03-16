@@ -1,0 +1,38 @@
+{
+  "legajo_id": "34",
+  "id_carta": "5138",
+  "order_in_legajo": 167,
+  "signatura": "253:7054.JPG",
+  "nombre_carta": "Carta de Gabriel Cerdà a Leonor Santacilia i Despuig",
+  "fecha_original": "31 de octubre de 1657",
+  "lugar": "Lugar sin especificar",
+  "remitente": "Gabriel Cerdà",
+  "destinatario": "Leonor Santacilia i Despuig",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "[?] suplicat a v. m. la [?] i sermo deladomª de v. m. va per memòria el present que [?] el [?] del santíssim Juan Vaquer aque podrà donar dites Caritats guardi Déu [?] a Puigt i Octubre 31 de 1657 de v. m. et Gabriel Cerda, rector. 6, extrem inferior a mi Sa dona Leonor de Santacilia i Despuig [1§] Transcripción literal"
+  ],
+  "literal": [
+    "1. [illegible] suplicat a vm la [illegible] [illegible] y sermo dela[d]omª de V.m.2. va per memoria el pnt que [?] el [ ??] del santissim Juan Vaquer aquepora3. donar dites Caritats gde Deu [ ]a Puigt y Octubre 31 de 16574. de Vm5. ett Gabriel Corda Puetor6. [7, extrem inferior] A mi Sa doña eleonor de SantaCilia y despuig [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "253:7054.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo34/253:7054.JPG",
+      "url": "/legajos/legajo-34/images/253:7054.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "253:7054.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-34/cartas/005138.json",
+  "primary_image_url": "/legajos/legajo-34/images/253:7054.JPG"
+}

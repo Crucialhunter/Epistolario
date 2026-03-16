@@ -1,0 +1,48 @@
+{
+  "legajo_id": "6",
+  "id_carta": "638",
+  "order_in_legajo": 137,
+  "signatura": "202-103a",
+  "nombre_carta": "Carta de Martín Boneo y Brondo a Cecilia Zaforteza y Sureda de Sant Martí",
+  "fecha_original": "21 de septiembre de 1770",
+  "lugar": "Cádiz",
+  "remitente": "Martín Boneo y Brondo",
+  "destinatario": "Cecilia Zaforteza y Sureda de Sant Martí",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Mi Sra. Dña. Cecilia Zaforteza. Señora, Con el mayor aprecio recibo la favorecida de v. s. con data de 23 all [?] p. p. [?], y dando a v. s. repetidas gracias por su continuada fineza espero no tenga ociosa mi fina, verdadera, segura obediencia. El mercader Juan Josep Salas salió con viento favorable, que duró algunos días, el 23 de este presente, la madrugada. Tuve el gusto de darle un abrazo y me hizo muchas expresiones para v. s., y toda su amable familia. Quedó en que me escribiría luego de su arribo. [1§] Doy a v. s. muchas gracias por lo que se sirve favorecerme en el aprecio que le merece Antonito, y por lo mismo me considero obligado a participar a v. s. cómo luego que llegó al Ferrol mereció a aq [?] comandante q [?] y de la tropa, le nombraran por ayudante de batallones con preferencia a otros muchos que igualmente pasaron, y se hallaban en otro destino de donde me escriben muy satisfechos de su conducta y obrar. Mi parienta repite a v. s. sus expresiones, agradecida a las que le merece, y yo mi profundo respeto y debida veneración. Los demás continúan sin novedad todos para servir a v. s. con la más fina voluntad, con la que ruego a Nro. Sr. prospere la vida de v. s. con las mayores felicidades muchos años, como puede y deseo. Cádiz, 21 de septiembre de 1770. Señora. A los pies de v. s. su más atento favorecido criado, Martín Boneo y Brondo. Transcripción literal"
+  ],
+  "literal": [
+    "1. Mi Sra. Da. Cecilia Çaforteza 2. Señora 3. Con el maior aprecio rezivo la fa- 4. voresida de V.S. con data de 23 del 5. p p, y dando á V.S. repetidas grass 6. por su continuada fineza, espero no 7. tenga ociosa mi fina vera seg[u]ra obedi- 8. encia. 9. El mercader Juan Joseph Salas 10. salió con viento favorable, que duró 11. algunos dias, el 23 de este pe la madru- 12. gada, tuve el gusto de darle un abra- 13. so, y me hizo mus express pa V.S., y to- 14. da su amable familia, quedó en q[u]e 15. me escriviria luego de su arrivo [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "202-103a.jpg",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo06/202-103a.jpg",
+      "url": "/legajos/legajo-06/images/202-103a.jpg"
+    },
+    {
+      "filename": "203-103ba.jpg",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo06/203-103ba.jpg",
+      "url": "/legajos/legajo-06/images/203-103ba.jpg"
+    },
+    {
+      "filename": "203-103bb.jpg",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo06/203-103bb.jpg",
+      "url": "/legajos/legajo-06/images/203-103bb.jpg"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "202-103a.jpg",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (2)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-06/cartas/000638.json",
+  "primary_image_url": "/legajos/legajo-06/images/202-103a.jpg"
+}

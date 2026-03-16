@@ -1,0 +1,43 @@
+{
+  "legajo_id": "25",
+  "id_carta": "4132",
+  "order_in_legajo": 66,
+  "signatura": "132_166a.JPG",
+  "nombre_carta": "Carta de Miguel Malo a Jerónimo Pelegrín de Aragüés",
+  "fecha_original": "2 de junio de 1667",
+  "lugar": "Madrid",
+  "remitente": "Miguel Malo",
+  "destinatario": "Jerónimo Pelegrín de Aragüés",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "La Sra. Dña. Angela que dará a v. m. esa, es de toda mi estimación v. m. me la haga toda md. y me la regala mucho y haga que esa [?] Sra. la visita y sus niños y a Dios que me lo guarde como deseo. Madrid a 2 de junio de 1667. Servidor de v. m. que sus manos besa Miguel Malo Mire v. m. que la Sra. Dña. Angela es valida de mi Sra. la virreina Sr. Jeronimo Pelegrin y Aragues [1§] A Jeronimo Pelegrin y de Aragues, [?] guarde Dios con la Sra. Dña. Angela. Mallorca Transcripción literal"
+  ],
+  "literal": [
+    "1. La Sra. da. Angela q dara a V mesa es de2. toda mi estimacion Vm me la haga toda md.3. y me la regala mucho y haga q esa [?]4. sra. la visita y sus niños y a Dios q5. me le gde como deseo M[adri]d a 2 de Junio 6. de 16677. Ser[vid]or de Vm q s.m.b.8. Miguel Malo9. Mira Vm q la Sra. Da. Angela es balida de10. mi Sr. la Virreyna11. Sr. Gerº Pelegrin y Aragues [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "132_166a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo25/132_166a.JPG",
+      "url": "/legajos/legajo-25/images/132_166a.JPG"
+    },
+    {
+      "filename": "133_166b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo25/133_166b.JPG",
+      "url": "/legajos/legajo-25/images/133_166b.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "132_166a.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (4)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-25/cartas/004132.json",
+  "primary_image_url": "/legajos/legajo-25/images/132_166a.JPG"
+}

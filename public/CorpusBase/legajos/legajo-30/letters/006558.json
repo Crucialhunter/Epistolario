@@ -1,0 +1,38 @@
+{
+  "legajo_id": "30",
+  "id_carta": "6558",
+  "order_in_legajo": 123,
+  "signatura": "038:5396",
+  "nombre_carta": "Carta de Pedro Juan de la Guardia a Persona desconocida",
+  "fecha_original": "27 de marzo de 1641",
+  "lugar": "Mallorca",
+  "remitente": "Pedro Juan de la Guardia",
+  "destinatario": "Persona desconocida",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Â [1§] Transcripción literal"
+  ],
+  "literal": [
+    "1."
+  ],
+  "imagenes": [
+    {
+      "filename": "038:5396.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo30/038:5396.JPG",
+      "url": "/legajos/legajo-30/images/038:5396.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "038:5396.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (3)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-30/cartas/006558.json",
+  "primary_image_url": "/legajos/legajo-30/images/038:5396.JPG"
+}

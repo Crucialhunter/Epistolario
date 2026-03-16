@@ -1,0 +1,48 @@
+{
+  "legajo_id": "6",
+  "id_carta": "616",
+  "order_in_legajo": 114,
+  "signatura": "156-81a",
+  "nombre_carta": "Carta de Tomás Mariano Quint Zaforteza a Cecilia Zaforteza y Sureda de Sant Martí",
+  "fecha_original": "24 de mayo de 1770",
+  "lugar": "Barcelona",
+  "remitente": "Tomás Mariano Quint Zaforteza",
+  "destinatario": "Cecilia Zaforteza y Sureda de Sant Martí",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Tia Cecília, Esper esta la trobarà amb perfecta salut. Jo la {ESP. {ESP. gos} bona}, a Déu gràcies. A mi m’agrada molt Barcelona i em prova molt bé, de manera que tots em diuen que he engreixat i jo ho trob. Però, fris molt de dur sa creu i professar i després veure-la. Aquí tots els cavallers del país em fan molta mercè, principalment es Pinosos i a sa garriga anam a passejar junts alguns dies i a tertúlies i em devertesc molt, però voldria marxar devers Malta i posar-me la creu, que no tenc [1§] altre desig. I bé ho ha de creure, tia Cecília, jo la voldria veure i dur sa creu i escriga’m quan creu que la duré, ja que no m’ho pot dir de prop. En Francisco Dameto m’ha convidat a dinar algunes vegades i em fa molt d’humor i m’ha duit a algunes tertúlies a casa Tamarit, a casa Rocabrú, però, a casa Rocabrú m’havien convidat. Després a casa la duquessa de Castropiñano i a casa de [?], però no fris sinó de marxar. Ja dirà a les al·lotetes de la Concepció que les coman molt i a {ESP. Dios}. Tia, que a les 2 tenc de partir i [2§] tenc moltes feines. Sols que m’escrigui més llarg l'altre correu i totes les notícies. A tots els qui demanaran de mi dirà els coman molt i de mi prendrà memòries a coves i mani. De son Nebot qui més l’estima. Barcelona als 24 maig 1770. Sa creu Sa creu Sa creu Tomas Mariano Quint Zaforteza Tia Cecília Transcripción literal"
+  ],
+  "literal": [
+    "1. Tia Cecilia esper esta la trobera ab 2. perfeta salut jo la gos bona á Deu 3. gracias á mi me Agrada molt Barse- 4. lona y hem prova molt be de mane- 5. ra que tots hem diuan que he engra- 6. xat y jo eu trop. Pero fris molt de dur 7. se Creu y profesar y despres veurala 8. Aqui tots es cavallès 9. del pais hem fan molta merce pri- 10. ncipalment es pinozos y en se Garri- 11. ca [?] anam á pasetjar junts [^??] alguns 12. dias y á Tertulias y hem deverte- 13. sc molt pero voldria marxar deves Ma- 14. lta y posarme la Creu que no tench [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "156-81a.jpg",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo06/156-81a.jpg",
+      "url": "/legajos/legajo-06/images/156-81a.jpg"
+    },
+    {
+      "filename": "157-81ba.jpg",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo06/157-81ba.jpg",
+      "url": "/legajos/legajo-06/images/157-81ba.jpg"
+    },
+    {
+      "filename": "157-81bb.jpg",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo06/157-81bb.jpg",
+      "url": "/legajos/legajo-06/images/157-81bb.jpg"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "156-81a.jpg",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (2)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-06/cartas/000616.json",
+  "primary_image_url": "/legajos/legajo-06/images/156-81a.jpg"
+}

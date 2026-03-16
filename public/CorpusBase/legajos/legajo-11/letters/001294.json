@@ -1,0 +1,38 @@
+{
+  "legajo_id": "11",
+  "id_carta": "1294",
+  "order_in_legajo": 63,
+  "signatura": "112:5154.JPG",
+  "nombre_carta": "Carta de Joan Agustí Barenys a Pedro Santacilia y Pax",
+  "fecha_original": "4 de junio de 1643",
+  "lugar": "Mallorca",
+  "remitente": "Joan Agustí Barenys",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "A mi Sr. D. Pedro Santacilia Ja he tingut desengany de les {ESP. necedats} escrivia a v. s. segons la resposta he tinguda del Cáller. Jo m'asmenare, i va el Sr. Jacinto de Cardona, jo li suplic a v. s. que arribant aquí li prengui inventari que hi té molt que veure el negoci del fill del pobre vell Vicens. Catalunya que cada dia més escriu de València. A mi Sra. dona Magdalena besa mil voltes les mans i les de v. s. a qui guardi Nostre Sr. els anys de mon desig. Mallorca als 4 de juny de 1643. Capellà de v. s. Joan Agusti Barenys Transcripción literal"
+  ],
+  "literal": [
+    "1. [^A mi sr. D. Pedro Sta. Silia^]2. Ja e tingut desengany de las nese 3. dads ascrivia a VSª degons la ras 4. posta e tinguda del callar. Jo me 5. as maneremy va lo sr. Hasinto de 6. Cardona, jo li suplique a VSª 7. que aribant aqui li prenga 8. ynventari que y te molt que veure 9. lo negosi del fill del pobre vell 10. Visens Catalunya que cada dia 11. mas escriu de Valensia, a mi Sr. doña 12. Madalena besa mil voltas 13. les mans y las de VSª a qui gde 14. nostro Sr. los anys de mon desig 15. Mca als 4 de juny de 1643 16. Capella de VSª 17. Juan Agusti Barenys [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "112:5154.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo11/112:5154.JPG",
+      "url": "/legajos/legajo-11/images/112:5154.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "112:5154.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-11/cartas/001294.json",
+  "primary_image_url": "/legajos/legajo-11/images/112:5154.JPG"
+}

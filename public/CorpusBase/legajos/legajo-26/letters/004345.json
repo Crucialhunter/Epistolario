@@ -1,0 +1,45 @@
+{
+  "legajo_id": "26",
+  "id_carta": "4345",
+  "order_in_legajo": 81,
+  "signatura": "117:3439.JPG",
+  "nombre_carta": "Carta de Pere de Tortosa Jordan a Pedro Santacilia y Pax",
+  "fecha_original": "17 de diciembre de 1639",
+  "lugar": "Pamplona",
+  "remitente": "Pere de Tortosa Jordan",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Sr. don Pedro El marques se resolvió a dar la jaca negra, pero con oferta de dar otra cosa mejor luego que se halló con que yo quisiera que llevara un caballo de doscientos ducados, pero ayudarle a que el soldado se tenga en la memoria y a v. m. le suplico me tenga en la suya para mandarme, pues en servir a v. m. no he de faltar en mi posible a ley de buen [?] nuestro etts. Pamplona 17 de 1639. Don Pedro de Tortosa Jordan Pamplona 10 Diciembre 1639Don Pedro de Tortosa A don Pedro Santacilia y Pax, gobernador de la caballería en Eibar. Transcripción literal"
+  ],
+  "literal": [
+    "1. Sr. don Pº2. El marques se rresolbio a3. dar la haca negra pero con4. oferta de dar otra cosa me5. jor luego que se halle con6. que yo quisiera que lleba7. ra un caballo de docientos8. ducados pero ayudare a9. que el soldado se tenga en10. la memoria y a Vmd. le supli11. co me tenga en la suya pa12. ra mandarme pues en ser13. bir a Vmd. no e de faltar en14. mi posible a lei de buen ca15. det nuestro Sr. etta. Panplo16. na 17 de 163917. Don Pº de Tortossa18. Jordan19. A la part esquerra diu:20. Pam[plo]ba 10 dize. 163921. Don Pedro de Tortosa22. A don Pedro Sante23. Çilia y pax goberna24. dor de la caballeria25. en Aibar [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "117:3439.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo26/117:3439.JPG",
+      "url": "/legajos/legajo-26/images/117:3439.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "117:3439.JPG",
+  "warnings": [
+    {
+      "code": "IMAGE_DOWNLOAD_FAIL",
+      "message": "HTTP 404",
+      "context": {
+        "url": "http://santacilia.info/intranet2/img/Legajo26/117:3439.JPG"
+      }
+    },
+    {
+      "code": "IMAGE_COUNT_MISMATCH",
+      "message": "Imágenes detectadas (1) != descargadas (0)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-26/cartas/004345.json",
+  "primary_image_url": "/legajos/legajo-26/images/117:3439.JPG"
+}

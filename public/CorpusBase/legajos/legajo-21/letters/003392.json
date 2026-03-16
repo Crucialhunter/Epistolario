@@ -1,0 +1,43 @@
+{
+  "legajo_id": "21",
+  "id_carta": "3392",
+  "order_in_legajo": 81,
+  "signatura": "123:5681a.JPG",
+  "nombre_carta": "Carta de marqués de Torreguso a Pedro Santacilia y Pax",
+  "fecha_original": "8 de noviembre de 1638",
+  "lugar": "Pamplona",
+  "remitente": "marqués de Torreguso",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Ilustrísimo Sr. mío menos mal será se hallarán esos dragones en Aragón que a lo de Hipuscho [?] no solo facilitaré eso en conformidad de lo que me mande más si podré hacer que se hayan a Cabo Saña lo haré y en el ínterin se dis póngalo lo uno o lo otro. D. Pedro mi señor la daecarrtas [?] que el marques de Torreguso [Torrecuso] es gran servidor suyo y eso hasta la muerte. Pamplona a 8 y octubre 1638. [?] Torrenguso [1§] Pamplona 8 Noviembre 1638El marques de Torreguso Transcripción literal"
+  ],
+  "literal": [
+    "1. Illm sra 2. Sra mia menos mal sera se alloran 3. essos dragones en Aragon q á lo de 4. Hipuscho[?? = nosolo façilitar esso 5. en Conformidad de lo que me mande 6. mas si podre açer q se agan a Cabo 7. Saña lo hare y en el entermi [?] se dis8. pongalo lo uno ó lo otro d Pedro me 9. suio[?] la daecarrtas[?] fue el Marqs 10. de Torreguso es gran seria ser suyo 11. Y esso esta la muerte Pampa .8. ylo br> 1638 12. Sa Canareu [?] Torrens [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "123:5681a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo21/123:5681a.JPG",
+      "url": "/legajos/legajo-21/images/123:5681a.JPG"
+    },
+    {
+      "filename": "124:5681b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo21/124:5681b.JPG",
+      "url": "/legajos/legajo-21/images/124:5681b.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "123:5681a.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-21/cartas/003392.json",
+  "primary_image_url": "/legajos/legajo-21/images/123:5681a.JPG"
+}

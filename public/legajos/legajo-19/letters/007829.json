@@ -1,0 +1,38 @@
+{
+  "legajo_id": "19",
+  "id_carta": "7829",
+  "order_in_legajo": 138,
+  "signatura": "573_8027.JPG",
+  "nombre_carta": "Carta de Prudència Miralles i Villalonga a Pedro Santacilia y Pax",
+  "fecha_original": "fecha sin especificar",
+  "lugar": "Mallorca",
+  "remitente": "Prudència Miralles i Villalonga",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Jesús. Senyor don Pedro, Vostra senyoria sabrà com estic amb necessitat fer-me mercè d'ajudar-me amb alguna cosa, per amor de Déu, i donar-ho an el portador de la present. No dic més. Nostre Senyor guardi a vostra senyoria molts anys. Dona Prudencia Miralles i Villalonga, criada de vostra senyoria [En altra pàgina: En mans del senyor don Pedro Santacilia, guardi Dios] Transcripción literal"
+  ],
+  "literal": [
+    "1. Jhs2. Sor Don Pedro vosa senoria sebra com estich 3. Ab necesitat ferma merce de Ayudarme ab Alguna 4. cosa p Amor de Deu y donaroha â nal portador 5. de la pnt no dich mes nostro Sor. gde. â vosa SSª 6. molts Añy 7. Dona Prudentia miralles y Villalonga8. Chriada de vosa SSª 9. [en altra pàgina]10. An mans del Sor Don 11. Pedro Sta. cilia gde Dios [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "573_8027.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo19/573_8027.JPG",
+      "url": "/legajos/legajo-19/images/573_8027.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "573_8027.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-19/cartas/007829.json",
+  "primary_image_url": "/legajos/legajo-19/images/573_8027.JPG"
+}

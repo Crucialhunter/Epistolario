@@ -1,0 +1,45 @@
+{
+  "legajo_id": "26",
+  "id_carta": "4270",
+  "order_in_legajo": 5,
+  "signatura": "006::3364.JPG",
+  "nombre_carta": "Carta de Antonia de Zamudio y Figueroa a Pedro Santacilia y Pax",
+  "fecha_original": "fecha sin especificar",
+  "lugar": "lugar sin especificar",
+  "remitente": "Antonia de Zamudio y Figueroa",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "A mosén Fernando ya le veo procurador nuestro. He dicho la ilusión que he tomado en este negocio de Jorge Dezcallar por no cansar a v. m. con papeles, demandas y respuestas, y aseguro a v. m. que por un hermano hiciera más que lo que ofrezco y esto es por respeto de v. m., a quien Dios guarde en vida de mi señora doña Magdalena {Santacilia}, cuya mano beso. Doña Antonia Dezcallar y Zamudio Señor don Pedro Santacilia y Pax Transcripción literal"
+  ],
+  "literal": [
+    "1. A moson Fernando ya le beo2. procurador nro. e dicho la3. iluçion q he tomado en este nego4. çio de Jorje Callar por nocan- 5. sar Vm con papeles demandas6. y respuesta y asiguro a Vm7. q por un her[ma]no yçiera mas8. que lo q ofrezco y esto es por9. respeto de Vm a quien Dios10. g[uard]e en vida de mi Sra. Doña Ma11. dalena cuya mano veso12. Doña Antonia13. Descallar y Çamudio14. Sr. don Pedro Santi15. Silia y Pax [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "006::3364.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo26/006::3364.JPG",
+      "url": "/legajos/legajo-26/images/006::3364.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "006::3364.JPG",
+  "warnings": [
+    {
+      "code": "IMAGE_DOWNLOAD_FAIL",
+      "message": "ENOENT: no such file or directory, open 'E:\\Proyectos Web\\Epistolario\\epistolario\\raw\\legajos\\legajo-26\\imagenes\\006::3364.JPG'",
+      "context": {
+        "url": "http://santacilia.info/intranet2/img/Legajo26/006::3364.JPG"
+      }
+    },
+    {
+      "code": "IMAGE_COUNT_MISMATCH",
+      "message": "Imágenes detectadas (1) != descargadas (0)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-26/cartas/004270.json",
+  "primary_image_url": "/legajos/legajo-26/images/006::3364.JPG"
+}

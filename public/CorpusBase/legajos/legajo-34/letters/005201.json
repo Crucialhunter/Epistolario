@@ -1,0 +1,38 @@
+{
+  "legajo_id": "34",
+  "id_carta": "5201",
+  "order_in_legajo": 231,
+  "signatura": "353:7116.JPG",
+  "nombre_carta": "Carta de Jerónimo Mancho a Pedro Santacilia y Pax",
+  "fecha_original": "16 de octubre de 1658",
+  "lugar": "Madrid",
+  "remitente": "Jerónimo Mancho",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "con mucha razón debe v. m. darme la noticia de los buenos sucesos de su casa y en parti/ cular la de este casamiento de mi Sra. doña Leonor con el Sr. don Gabriel Berga por ser también muy apasionado y afecto a su casa y así por ambos títulos me doy muchas enhorabuenas y desearé repetirlas a v. m. de muy larga sucesión en su casa estos señores del consejo se han aumentado tanto que no hay Receptas que basten a sus gastos sin atender a lo que tienen me [?] los servicios de los caballeros particulares de los reinos y a todos les es muy sensible el no cobrar, y como a estos lesparece que les ha de hacer falta aseguro a v. m. que temo el suceso de su pretensión de v. m. aún siendo tan justificada. Guarde Dios a v. m. muchos años como deseo Madrid a 16 de octubre de 1658. Besa la mano de v. m. Jeronimo Mancho parágraf a l [?] esquerra de la signatura aún no he cobrado aquellos 2432 reales porque se está aguardando una respuesta de Barcelona fi parágraf Sr. don Pedro de Santacilia y Pax [1§] Transcripción literal"
+  ],
+  "literal": [
+    "1. Con mucha razon deve Vm darme la noticia2. delos buenos succesos de su casa y en parti/3. cular la deste casamiento de mi sra. doña4. leonor con el sr. don Gabriel Berga por ser5. tambien muy apasionado y afecto a su6. casa y assi por ambos titulos me doy7. muchas norabuenas y deseare repetirlas8. a V.m. de muy larga sucesion en su casa9. estos señores del Conso se han augmentado10. tanto que no hay Receptas que basten a11. sus gastos sin atender a lo q tienen me[ ??]12. los servicios delos cavalleros particulares13. delos Reynos y a todos les es muy sensible14. el no cobrar, y como aestos lespareze que15. les ha de hazer falta aseguro aVm que 16. temo el suceso desu pretension de Vm aun17. siendo tan Justificada. gde Dios a Vm18. ms años como deseo Md a 16 de 8bre19. de 165820. B l[a] m deVm21. Geronymo Mancho22. [paràgraf a l?esquerra de la signatura]23. aun no he cobrado aquellos 2432 Rs porq24. sesta aguardando una respuesta de25. Barcelona26. [fi paràgraf]27. Sr. Don Pedro de Santacilia y Pax [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "353:7116.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo34/353:7116.JPG",
+      "url": "/legajos/legajo-34/images/353:7116.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "353:7116.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-34/cartas/005201.json",
+  "primary_image_url": "/legajos/legajo-34/images/353:7116.JPG"
+}

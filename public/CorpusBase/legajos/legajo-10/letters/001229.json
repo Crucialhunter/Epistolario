@@ -1,0 +1,43 @@
+{
+  "legajo_id": "10",
+  "id_carta": "1229",
+  "order_in_legajo": 1,
+  "signatura": "169-396a",
+  "nombre_carta": "Carta de Andrés García de Castro a Jerónimo Pelegrín de Aragüés",
+  "fecha_original": "2 de febrero de 1668",
+  "lugar": "Valencia",
+  "remitente": "Andrés García de Castro",
+  "destinatario": "Jerónimo Pelegrín de Aragüés",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Amigo y señor mío, Tengo enviado a v. m. el albornoz con el patrón Sebastian Prochet; espero a estas horas le habrá ya recibido v. m., y desearé sea muy de su gusto, que aseguro a v. m. es de famosa calidad y v. m. advierta que con las catorce varas hay para dos capas aunque sean muy largas para campaña. Tengo enviado a v. m. la cuenta y se me olvidó poner en ella doce reales que di al que está en el Portal de la Mar, que montaba más los derechos que se habían de pagar por sacarle del reino, y por ser conocido lo ajusté en eso; conque todo lo que he gastado montan doscientos y setenta y dos reales, y lo demás hasta cuatrocientos y setenta y cuatro que me dio Tomas Solares reposan en mi poder y así v. m. dispondrá de ellos lo que fuere servido. No me alargo más por habernos avisado a tiempo que están de partida los bergantines. Dios guarde a v. m. muchos años. . Valencia y febrero, a 2 de 1668. Besa las manos de v. m. su mayor servidor,D. Andres Garcia de Castro Jeronimo Pelegrin de Aragues [1§] Memoria de lo que han costado las siete canas de albornoz que son catorce varas de a cuatro palmos cada una de este reino. Catorce varas a razón de dieciséis reales la vara que son una libra y dieciséis sueldos, son: 22 L. 8r. Derechos a razón de dos sueldos y medio por libra, son: 2 Lib. 26r. La caja en que va: L. 12r. La apoca L. 4r. Montan todo veintiséis libras 26 L. Que son reales de plata 260 Rs. Transcripción literal"
+  ],
+  "literal": [
+    "1. Amigo y sr. mio tengo embiado a V.M. el albornos 2. con el Patron Sebastian Prochet espero a estar 3. dias le abra ya recevido V.M. , y deseare sea muy 4. de su gusto, que aseguro a V.M. es de famossa 5. calidad y V.M. advierta que con las catorze 6. varas ay para dos capas aunque sean muy lar 7. gas para campaña. Tengo embiado a V.M. la 8. quenta y se me olvido poner en ella doze reales 9. que di al que esta en el portal de la Mar 10. que montava mas los diechos que se avian de 11. pagar por sacarle del Reyno y por ser conocido 12. lo ajuste en esso; con que todo lo que he 13. gastado montan doscientos y setenta y dos reales 14. y lo demas asta quatrocientos y setenta y 15. cuatro que me dio Thomas Solares reposan en 16. mi poder y assi V.M. dispondra dellos lo que 17. fuere servido. No me alrago mas por avernos 18. avisado a tiempo que estan de partida los ber 19. gantines. Dios gde a V.M. ms a< ño>s. Vala y febrero 20. a 2 de 1668. 21. Besa las manosde V.M. su mor seror. 22. D. andrés García de Castro 23. [^Sr. Geronimo Pelegrin de Aragues^] [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "169-396a.jpg",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo10/169-396a.jpg",
+      "url": "/legajos/legajo-10/images/169-396a.jpg"
+    },
+    {
+      "filename": "170-396b.jpg",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo10/170-396b.jpg",
+      "url": "/legajos/legajo-10/images/170-396b.jpg"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "169-396a.jpg",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING",
+      "message": "Se detectaron caracteres sospechosos de encoding (6)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-10/cartas/001229.json",
+  "primary_image_url": "/legajos/legajo-10/images/169-396a.jpg"
+}

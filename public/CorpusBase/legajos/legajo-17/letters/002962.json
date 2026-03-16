@@ -1,0 +1,38 @@
+{
+  "legajo_id": "17",
+  "id_carta": "2962",
+  "order_in_legajo": 227,
+  "signatura": "396:1504.JPG",
+  "nombre_carta": "Carta de Jerónimo Pelegrín de Aragüés a Pedro Santacilia y Pax",
+  "fecha_original": "11 de septiembre de 1660",
+  "lugar": "Madrid",
+  "remitente": "Jerónimo Pelegrín de Aragüés",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Mi s como el tiempo aún no harefrescado no havuelto a su ejercicio Sr. don Juan pero dentro de breves días volverá, con que yo hefectuare mi viaje. Novedades no las tenemos más de lasque por diferentes cartas tengo escrito a. v. m. que por no cansarle no las repito. ya tengo enviado a. v. m. un informe por razón del Corral real y Escribania de Binisalem ahora remito otro no tengo yo que deicir a v. m. sino que Dios le dé muchos años de vida comodeseo, y es menester. Madrid. 11 de septiembre 1660. criado de v. m. que sus manos besa Jeronimo Pelegrin Por venir tarde del pleito de la Inquisición no soy más largo mucho conviniera saber el hijo de Monleon sia muerto, o, sies casado. v. m. agalo que pueda ensaberlo. Mi Sr. [1§] Transcripción literal"
+  ],
+  "literal": [
+    "1. Mi s como el tiempo aun no harefresca=2. do no habuelto asu ejercicio Don Juan 3. pero dentro de breves dias volvera, con que 4. jo hefetuare mi viaje.5. Novedades no las tenemos mas de lasque 6. por diferentes cartas tengo escrito a. V.M. 7. que por no cansarle no las repito.8. Ya tengo Inviado a. V.M. un informe por 9. racon del Corral Real y Escribania de 10. Binisalem agoraremito otro notengo yo 11. que deicir a V.M. sinoque Dios lede 12. Muchos años de vida comodeseo, y he 13. menester. Madrid. 11 de 7bre 1660.14. Criado de V.M. q S[u] M B15. Geronymo Pelegrin16. Por venir tarde del Pleÿto17. de la Inquisición no soy mas largo18. mucho conviniera saver el hijo de19. Monleon sia muerto, o, sies cassado.20. V.M. agalo que pueda ensaverlo.21. Mi Sr. [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "396:1504.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo17/396:1504.JPG",
+      "url": "/legajos/legajo-17/images/396:1504.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "396:1504.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (4)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-17/cartas/002962.json",
+  "primary_image_url": "/legajos/legajo-17/images/396:1504.JPG"
+}

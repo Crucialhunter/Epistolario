@@ -1,0 +1,38 @@
+{
+  "legajo_id": "36",
+  "id_carta": "7300",
+  "order_in_legajo": 50,
+  "signatura": "071:7775.JPG",
+  "nombre_carta": "Carta de Maria de Granada i Constantí a Pedro Santacilia y Pax",
+  "fecha_original": "1 de octubre de 1646",
+  "lugar": "Reus",
+  "remitente": "Maria de Granada i Constantí",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "No sabria dir el {ESP. contento} tingui com sabí era arribat en [aqu]eixa terra: Nostre Senyor l'hi deixi estar el temps que desitja, a bé que en tingui per impossible, que com veig tenim tants treballs i desditxes, [??] admiració poguéssim tenir un {ESP. contento} i prosperitat. Jo pens deu haver sabut v.s. els treballs he tengur de pèrdues de persones: Nostre Senyor se serveixi de tot. A mi me digueren que v.s. era casat i tenia fills; gustaria molt saber-ho si es d'[aqu]eixa manera, que per a mi serà de molt {ESP. contento}, que les prosperitats de v.s. les tinc per pròpies. El portador d'[aqu]esta és un capellà de casa. Hi va ?? sols per visitar a v.s. i donar-li la benvinguda a ma germana. Jo pens li puc donar el {ESP. parabien}, perquè pens se'n serà molt alegrada conforme té ocasió, a bé que per a ella no serà poc pugui cobrar alegria qui està tan acostumada a plorar. V.s. me man[i] moltes coses de son servei. D'esta su casa, Reus 1 octubre 1646. Maria de Granada i Constanti Senyor don Pedro Transcripción literal"
+  ],
+  "literal": [
+    "1. No sabria dir lo contento tingui com sabi era aribat en eixa 2. tera nostre señor loi deixa estar lo temps que desitia abe quen 3. tingui per impositble, que com veix tenim tans trebals y desdixas [?] 4. admiratio poguesam tenir un contento y prosperitat 5. Jo pens deu aver sabut voseria los trebals he tengut de perduas de 6. perconas nostre señor ce ceruersca de tot. a mi me digueren que 7. voseria era casat, y tenia fils gustaria molt saberho, si es deeixa mane= 8. ra que pera mi sera de molt contento, que las prosperitats de vosenor las 9. tinch per propias, lo portador desta es un capela de casa Iva sols 10. per visitar a voseria y donarli la ben vinguda, a ma hiermana io 11. pens li puch dar lo para bien, per que pens sen sera molt ale= 12. grada conforme te ocasio, a be que pera ela no sera poch puga co= 13. brar, alegria qui esta tant acostumada a plorar, vosaoria me man mo= 14. ltes cosas de son servei, desta sa casa Reus 1 8bre 1646 15. Maria de granada 16. i constanti 17. [margen izquierdo, abajo: Señor don Pedro] [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "071:7775.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo36/071:7775.JPG",
+      "url": "/legajos/legajo-36/images/071:7775.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "071:7775.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-36/cartas/007300.json",
+  "primary_image_url": "/legajos/legajo-36/images/071:7775.JPG"
+}

@@ -1,0 +1,43 @@
+{
+  "legajo_id": "25",
+  "id_carta": "4150",
+  "order_in_legajo": 83,
+  "signatura": "169_184a.JPG",
+  "nombre_carta": "Carta de Diego Matías de Aragüés a Jerónimo Pelegrín de Aragüés",
+  "fecha_original": "29 de junio de 1667",
+  "lugar": "Madrid",
+  "remitente": "Diego Matías de Aragüés",
+  "destinatario": "Jerónimo Pelegrín de Aragüés",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Por Barcelona tengo respondido a las que recibí de 12 de este y ahora me hago estos renglones por Valencia remitiéndome a lo que escribo al Sr. don Pedro y v. m. me avise del recibo de éstas y de las que he remitido por Barcelona y me responda a las que le tengo escritas. Con lo demás que se ofreciere de su gusto y salud, a Dios gracias, que la tengan por allá todos los de su casa y al del Sr. don Pedro como deseamos Dña. Margarita y yo con muchos besamanos y saludes que v. m. se ha con el Sr. don Gabriel Berga en razón de lo que le respondo y digo en la carta que tengo escrítole por el pliego que he enviado por Barcelona y me avise con lo demás. Guarde Dios como deseo. Madrid 29 Junio 1667. Las lenguas han aprovechado muy bien y han sido muy buenas, lo demás y lo que envió el Sr. don Pedro poco se ha aprovechado en personas de importancia que de verdad no han salido como deseábamos. Tío y servidor de v. m. Diego Matias de Aragues Sr. Jeronimo Pelegrín de Aragues, mi sobrino [1§] A Jeronimo Pelegrin de Aragues, mi sobrino, guarde Dios muchos años. Mallorca Mi tío, Diego Matias, respuestas a 11 de Julio 1667. Transcripción literal"
+  ],
+  "literal": [
+    "1. Por Barcelona tengo respondido a 2. las q recivi de 12 deste y agora me3. hago estos renglones por Valencia4. remitiendome a lo q escrivo al Sr,5. Don Pedro y Vm. me avise del recivo6. destas y de las q he remitido por Barcelona7. y me responda a las q le tengo escritas8. con lo demas q se offreciere de su gusto9. y salud a Dios gra[ci]as q la tengan10. por alla todos los de su casa y al del Sr11. Don Pº como deseamos Dª Margta. y yo12. con muchos besamanos y saludes q13. Vm. se ha con el sr. Don Gabriel Berga14. en razon de lo q le respondo y dijo en la15. carta q tengo escrito le por el pliego q16. he embiado por Barcelona y me avisse17. con lo demas gde. Dios como deseo M[adri]d18. 29 Junio 166719. Las lenguas han aprovechado20. muy bien y han sido muy buenas21. lo demas y lo q embio el Sr. Don Pº22. poco se ha aprovechado en personas de23. importancia q de verdad no han salido24. como deseabamos,25. Tio y ser[vid]or de Vm.26. Diego Mathias de Aragues27. Sr. Gerº Pelegrín de Aragues mi sobrino [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "169_184a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo25/169_184a.JPG",
+      "url": "/legajos/legajo-25/images/169_184a.JPG"
+    },
+    {
+      "filename": "170_184b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo25/170_184b.JPG",
+      "url": "/legajos/legajo-25/images/170_184b.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "169_184a.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (7)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-25/cartas/004150.json",
+  "primary_image_url": "/legajos/legajo-25/images/169_184a.JPG"
+}

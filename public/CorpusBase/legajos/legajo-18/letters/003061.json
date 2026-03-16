@@ -1,0 +1,38 @@
+{
+  "legajo_id": "18",
+  "id_carta": "3061",
+  "order_in_legajo": 95,
+  "signatura": "158:4900.JPG",
+  "nombre_carta": "Carta de Diego Matías de Aragüés a Pedro Santacilia y Pax",
+  "fecha_original": "11 de agosto de 1663",
+  "lugar": "Madrid",
+  "remitente": "Diego Matías de Aragüés",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "La hija que le haquedado aJaime Mezquida llamada doña Antonia Mezquida, sirvió aquí a mi Sra. doña Vicencia serra de doncella; meha dicho que haquedado con pocas comodidades, ypedídome escriba a v. s. Le suplique le haga merced en favorecerla en la pretensión que oitiene del oficio de recibidor de los materiales de la fortificación para quien casare con ella a mi Sra. Dña. Vicencia debo particulares mdes y por esto, y por la buena obra que redunda en remediar esta moza suplico a v. s. le haga toda md, de manera que consiga esta gracia de su majestad que lo estimaré como debo, mandándome v. s. le sirva y guarde Dios los muchos que deseo Madrid a 11 Agosto 1663. Besa la mano de v. s. su mayor servidor Diego Matias de Aragues Sr. don Pedro Santacilia y Pax [1§] Transcripción literal"
+  ],
+  "literal": [
+    "1. La hija q lehaquedado aJayme Mezquida 2. llamada doña Antonia Mezquida, sirvio 3. aqui a mi sra doña Vicencia serra de 4. doncella; mehadicho q haquedado con 5. pocas comodidades, ypedidome escriva a VS. 6. Le suplique le haga md en favorecerla 7. en la pretenssion q oytiene del officio 8. de Recividor de los materiales de la 9. fortificacion para quien cassare con ella 10. ami sra da Vicencia devo particulares 11. mdes y por esto, y porla buena obra 12. q redunda en remediar esta moza 13. sup[li]co a VS. le haga toda md, 14. de manera q consiga esta gracia 15. de su M[a]gd q lo estimare como 16. devo, mandandome VS. le sirva 17. yge dios los muchos q deseo 18. Md a 11 Agto 1663 19. Besa la mano de VS. 20. su mayor seror 21. Diego Mathias de Aragues22. [Margen izquierdo][^ Sr don Pedro Sta Cilia y Pax] [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "158:4900.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo18/158:4900.JPG",
+      "url": "/legajos/legajo-18/images/158:4900.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "158:4900.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (3)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-18/cartas/003061.json",
+  "primary_image_url": "/legajos/legajo-18/images/158:4900.JPG"
+}

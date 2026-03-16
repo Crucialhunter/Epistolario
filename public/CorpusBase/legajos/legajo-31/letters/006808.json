@@ -1,0 +1,38 @@
+{
+  "legajo_id": "31",
+  "id_carta": "6808",
+  "order_in_legajo": 48,
+  "signatura": "065:1559.JPG",
+  "nombre_carta": "Carta de Bartolomé Mercadal a Pedro Santacilia y Pax",
+  "fecha_original": "26 de febrero de 1661",
+  "lugar": "Ciutadella",
+  "remitente": "Bartolomé Mercadal",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "No és estat poc el {ESP. contento} que he tingut en la que tinc rebut de v. s. de 28 de gener per les bones noves de la seva salut i notícies del Sr. don Juan Miguel fill de v. s. i senyor meu que estimaré summament [?] tan [?] dament de son ofici de Paje com les sues honrades parts i Illtre. Sanc asseguran, i que tot sia en [?] de v. s. que serà el compliment de mon desig Tinga v. s. molt bones salides de Carnestoltes i entrada de la Sta. Quaresma en vida de mi Sra. dona Leonor i Ss fills cuyas mans Sr. Dna. Margalida i jo besen junt amb les de v. s. i [?] sap les mies obligacions i el molt que jo les regoresc li supco no [?] el manar-me en tot el que sia del major servei de v. s. que em guardi Déu com pot i tinc menester Ciuª i febrer 26 de 1661. Molt servidor. de v. s. que s. m b. Sr. don Bart. Mercadal Transcripción literal"
+  ],
+  "literal": [
+    "1. No es estat poch el contento que he tingut 2. en la que tinch rebut de VS. de 28 de 3. Janer per las bonas novas de la sua çalut 4. y noticias del Sor Don Juan Miguel fill de 5. VS. y señor meu que estimare summa6. ment [?] tan [?] dament de son offici de 7. Paje com las suas honrradas parts y Illtre. 8. Sanch aseguran, y que tot sia en [?] de 9. VS. que sera el cumpliment de mon desig = 10. Tinga VS. molt bonas salidas de Carnes11. toltes y entrada de la Sta. quaresma en vida 12. de mi Sra. Doña Eleonor y Sss fills cuyas 13. mans D. Margalida y yo besan junt ab 14. las de VS. y [?] sap las mias obliga15. cions y lo molt que yo las regoresch li supco 16. no [?] el manarme en tot lo que sia 17. del mayor servei de VS. quem Gde 18. Deu com pot y tinch menester Ciuª 19. y fabrer 26 de 1661. 20. Molt Sdor. de VS q. s. m b. 21. Don Bartt. Mercadal [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "065:1559.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo31/065:1559.JPG",
+      "url": "/legajos/legajo-31/images/065:1559.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "065:1559.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-31/cartas/006808.json",
+  "primary_image_url": "/legajos/legajo-31/images/065:1559.JPG"
+}

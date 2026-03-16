@@ -1,0 +1,38 @@
+{
+  "legajo_id": "18",
+  "id_carta": "3079",
+  "order_in_legajo": 113,
+  "signatura": "185:4918.JPG",
+  "nombre_carta": "Carta de Conde de Zavellá a Pedro Santacilia y Pax",
+  "fecha_original": "16 de junio de 1664",
+  "lugar": "Madrid",
+  "remitente": "Conde de Zavellá",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Sr. D. Pedro Santacilia manomelo va aexa terra per negocís d'importància, serà possible haver de tocar en Rues, i així si eta arriba a mans dierni li suplico quant encandament quep amb sa persona i sos amics i els que se prebende serho meus, l'asistesca amb totafuesa sens faltar en punt desoncostat i d'esos ordres així en regalos com en armes i compania. i estiga v. m. cert que en ninguna ocasió que Armar més que en esta les experiències de sa amistat de v. m. i no dic més perquè sé que sa bona voluntat no ha menester paraules a Dios aniré que Ge a v. m. comdesit Madrid i Juny a 16 de 1664 Sempre de v. m. El comte de Zavella Al amo Jaume dic el mateix i fio el mateix Thomas Plana [1§] Transcripción literal"
+  ],
+  "literal": [
+    "1. D Pedro Sta Cilia manomelo va aexa terra 2. per negocís de importancía, sera posible aver 3. de tocar en Rues, y axi si eta arriba a 4. mans dierni li suplico quant encandament 5. quep ab sa persona y sos amics y los que 6. se prevende serho meus, lo asistesca ab 7. totafuesa sens faltar en punt desoncos8. tat y desos ordes axi en regalos com en 9. armas y compania. Y estiga Vm. cert q 10. en ninguna ocatio que Armar mes q en 11. esta las esperiencias de sa amistat de 12. Vm. y no dic mes perq se q sa bona 13. voluntat no ha menester paraulas a Díos 14. anire q Ge A Vm. comdesit Madrid y 15. Juny a 16 de 1664 16. Sempre de Vm 17. Lo Comte de Çavella 18. Al amo Jaume dic lo 19. matex y fio lo matex 20. [Margen izquierdo][^ sr Thomas Plana] [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "185:4918.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo18/185:4918.JPG",
+      "url": "/legajos/legajo-18/images/185:4918.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "185:4918.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-18/cartas/003079.json",
+  "primary_image_url": "/legajos/legajo-18/images/185:4918.JPG"
+}

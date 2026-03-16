@@ -1,0 +1,43 @@
+{
+  "legajo_id": "23",
+  "id_carta": "3815",
+  "order_in_legajo": 70,
+  "signatura": "138:3227a.JPG",
+  "nombre_carta": "Carta de Catalina Fernández de Córdoba y Figueroa a Pedro Santacilia y Pax",
+  "fecha_original": "23 de mayo de 1635",
+  "lugar": "Perpiñán",
+  "remitente": "Catalina Fernández de Córdoba y Figueroa",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Siempre que me hallare con cartas de v. m. tendré buen rato. Mis calenturas se repararon con dos sangrías. El duque, después de [ha]berlas padecido y purga le ha comenzado la gota, que es la que más cuidado me da. El corazón es el que Dios me dio sin ver hasta ahora otro de mejor sangre con quien feriarle. V. m. crea que el duque y yo podemos sentir pes?? descaecer con el ayuda de Dios, y guarde a v. m. Perpiñan, 23 de mayo 1635 La duquesa de Se[gorb]e y de Cardona Señor don Pedro Santacilia [2§] Perpiñán. Recibido. 23 mayo 1635. La duquesa de Cardona Transcripción literal"
+  ],
+  "literal": [
+    "1. siempre q me hallare con2. cartas de vmd tendre buen ra3. to mis calenturas se repa4. raron con dos sangrias eduq des5. pues de lerlas par de[?] y despues6. ja le a comenzado la purga q es7. lo q mas quydado me da el Corazon8. es el q dios me dio sin ver hasta aora9. otro de mejor sangre q quien10. feriarle[?] vmd. crea q el supliq[?] y11. yo podemos sentir pes12. crezer con el ayuda de dios13. y gde a vmd. perpiñan 23 de14. mayo 163515. La duqsa Segorbe16. y de Cardona[?]17. Sr. don pº Sancta zizilia [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "138:3227a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo23/138:3227a.JPG",
+      "url": "/legajos/legajo-23/images/138:3227a.JPG"
+    },
+    {
+      "filename": "139:3227b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo23/139:3227b.JPG",
+      "url": "/legajos/legajo-23/images/139:3227b.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "138:3227a.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (2)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-23/cartas/003815.json",
+  "primary_image_url": "/legajos/legajo-23/images/138:3227a.JPG"
+}

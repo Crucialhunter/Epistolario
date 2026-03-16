@@ -1,0 +1,43 @@
+{
+  "legajo_id": "33",
+  "id_carta": "4935",
+  "order_in_legajo": 125,
+  "signatura": "192:6851a.JPG",
+  "nombre_carta": "Carta de Enrique de Aragón (VI duque de Cardona) a Pedro Santacilia y Pax",
+  "fecha_original": "21 de febrero de 1635",
+  "lugar": "Perpiñán",
+  "remitente": "Enrique de Aragón (VI duque de Cardona)",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    ". Tengo respondido a todas las cartas que v. m. me ha escrito desde que llegó a esa corte estimando cada día más tenerle hay y así como no me persuadi que pudieran faltarme de v. m. m [?] su ley en fuerza de las muchas esperanzas que tengo hechas, tampoco podía yo dejar de hacer mis instancias y acordarle tenga memoria de lo que le amo y quiero, para servirse de lo que se ofreciere con mucha seguridad. El ordinario de hoy me ha traído la de v. m. 10 de este, y pues tengo hay despacio a v. m. siguiendo la orden de su majestad. que ha insinuado el protonotario no le faltarán a v. m. ocasiones y tiempo para escribirme largo, que yo estoy muy confiado lo ha de hacer v. m., que de su mano estimaré yo mucho las cartas reconociendo la amistad y voluntad con que vendrán acompañadas y cuan utiles me serán para todo. La ocupación de Milán que v. m. me dice para el marques de Leganes pensé yo según lo que me dicen que no tocaria a su excelencia sino otra cosa más cerca dígame v. m. lo más cierto que se entendiere y si el empleo fuere tal como yo se lo deseo no queda ria lo mucho que merece sin equivalente premio, porque muy de corazón se los codición y le venero, de Narbona me dicen había llegado estos días allí correo y que corria voz que el emperador tenía ganado por asalto a D. Pedro Santacilia [1§] filiburgo y degollado toda la gente francesa que estaba dentro de guarnición, Dígame v. m., lo que por allá se entendiere que por acá no alcanzamos tantas nuevas del mundo y es menester para ser llevadero este rincón estas ayudas de Costa. Guarde Dios a v. m. largos años. Perppiñan 21 de febrero 1635 [?] [2§] Transcripción literal"
+  ],
+  "literal": [
+    "1. Tengo respondido a todas las cartas que Vm me ha escrito desde2. que llego a essa Corte estimando cada dia mas tenerle hay y assi como3. no me persuadi que pudieran faltarme de Vm. m[?] su ley en fuerça de4. las muchas esperanzas que tengo hechas, tampoco podia yo dexar5. de hazer mis instancias y acordarle tenga memoria de lo que le amo y6. quiero, para servirse de lo que se ofreçiere con mucha seguridad. El 7. ordinario de oy me ha traydo la de Vm 10 deste, y pues tengo hay8. despaçio a Vm. siguiendo la orden de Su Magd. que ha insinuado9. el Sr. Protonotario no le faltaran a Vm. ocassiones y tiempo para es10. crivirme largo, que yo estoy muy confiado lo ha de hazer Vm, que11. de su mano estimare yo mucho las cartas reconociendo la amistad y12. voluntad con que vendran acompañadas y quan utiles me seran p[ar]a13. todo. La ocupacion de Milan que Vm. me dize para el sr. Marques14. de Leganes pense yo segun lo que me dizen que no tocaria a Su15. Exª sino otra cossa mas cerca digame Vm lo mas cierto que se16. entendiere y si el empleo fuere tal como yo se lo desseo no queda17. ria lo mucho que mereçe sin equivalente premio, porque muy de18. coraçon se los codicio y le venero,19. De Narbona me dizen havia llegado estos dias alli correo y20. que corria voz que el emperador tenia ganado por assalto a21. Sr. D. Pº Sta. Cilia [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "192:6851a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo33/192:6851a.JPG",
+      "url": "/legajos/legajo-33/images/192:6851a.JPG"
+    },
+    {
+      "filename": "193:6851b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo33/193:6851b.JPG",
+      "url": "/legajos/legajo-33/images/193:6851b.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "192:6851a.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-33/cartas/004935.json",
+  "primary_image_url": "/legajos/legajo-33/images/192:6851a.JPG"
+}

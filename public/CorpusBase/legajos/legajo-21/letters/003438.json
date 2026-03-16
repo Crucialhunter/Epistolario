@@ -1,0 +1,43 @@
+{
+  "legajo_id": "21",
+  "id_carta": "3438",
+  "order_in_legajo": 126,
+  "signatura": "220:5726a.JPG",
+  "nombre_carta": "Carta de marqués de Torreguso a Pedro Santacilia y Pax",
+  "fecha_original": "4 de marzo de 1639",
+  "lugar": "Pamplona",
+  "remitente": "marqués de Torreguso",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Ilustre Sr. mío He pasado los gozos de una vez por el papel que me ha enviado. Paréceme que es muy [?] eso y haber llegado de [?] por la caballería me ha echo resolver a no enviar el despacho por el rey y con este remita a v. s. a quien pudiese la en observancia de la orden me dio [?] ser yo tan servicio de v. s. me ha obligado, y [?] el tiempo [?] un día para otro pesar de gerencia el tener a que andar supuesto eso mismo su persona me favorezca en mandarme cuanto veces [?] los dos por mi part y los dos no de tanto precio que yo seré puntual con el desembolso de ello que gustará. Dios guarde v. s. muchos años, Pamplona 5. Marzo de 1639. Su mayor ser que sus muchos besa el marques de Torreguso [1§] Pamplona 4 Marzo 1639 marques de Torreguso rdo. Transcripción literal"
+  ],
+  "literal": [
+    "1. Ille sr mio 2. e passado los Goxos mas buena[?] me por el Pa3. pel q me ha enviardo pareçeme q es muy 4. parçipitoses[?] esso = y haver llegado de neu[?] 5. por la Cavalleria me ha eccho resolver 6. a no embiar el despacho por el Rey 7. y co este remita a VS a quien pudiese 8. la en osservançia de la horden me dio 9. _Ilegible] ser yo tan sero d[e] VS me ha obligado 10. [Fragmentado, y ilegible] el tiempo [Fragmentado] 11. [Ilegible] un dia para otro pe[Fragmentado] 12. sar de Jerençia el tener a q handar 13. suppuhesto esso mismo Supr me favo14. resg[a]en manarme quanto vençies[?] los 15. dos por mi p[a]rt y los dos no detant 16. preçio q io sre puntual co el desem17. bosço dello q gustara dios gde VSI. Ms 18. años Pampa .5. Março de 1639 19. Su mayor ser que 20. sus ms besa 21. [Ilegible] [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "220:5726a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo21/220:5726a.JPG",
+      "url": "/legajos/legajo-21/images/220:5726a.JPG"
+    },
+    {
+      "filename": "221:5726b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo21/221:5726b.JPG",
+      "url": "/legajos/legajo-21/images/221:5726b.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "220:5726a.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-21/cartas/003438.json",
+  "primary_image_url": "/legajos/legajo-21/images/220:5726a.JPG"
+}

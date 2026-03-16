@@ -1,0 +1,48 @@
+{
+  "legajo_id": "6",
+  "id_carta": "648",
+  "order_in_legajo": 147,
+  "signatura": "220-113a",
+  "nombre_carta": "Carta de Antoni Frontera a Cecilia Zaforteza y Sureda de Sant Martí",
+  "fecha_original": "15 de noviembre de 1771",
+  "lugar": "Mallorca",
+  "remitente": "Antoni Frontera",
+  "destinatario": "Cecilia Zaforteza y Sureda de Sant Martí",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Mi senyora dona Cecília, La seva tenc rebuda i sabrà com del que m’envià a dir d’assistir quan posaran les fites entre la seva posessió Son Burgues que ses mateixes. I quan v. m. m’ha escrit que després li enviàs el resultat de dites fites, li faig a saber que Tugores Montanyans és vengut i n’ha posades en son alou, que es confrontant en so des marquès de Vilafranca. I, així, no he tengut res que dir perquè quan els canadors han canut no han passat les dites fites i les mateixes de Tugores Montanyans serveixen per l’alou del marquès de Vilafranca, i estes fan la partió de dit Son Burgues. Però li tenc advertit que hi ha un veïnat que ha fet un femer a sa partió i s’és atrevit a passar la partió per dur-se’n terra i l’ha posada a dit femer i també mateix aveia de [?] llenya i havent-la tallada a dins Son Burgues l’ha passada dins el seu i n’ha fets formiguers. I m’és estat dit que és diu que jo aquí a on ell l’ha tallada en faria pagar es ban. I, així, no he pogut deixar d’advertir-li esto per quant no era algú que venga a dar-li instància, que jo tengui poc {ESP. cuidado}, i quan jo vindré v. m. no m’haja de tirar un [?] per sa cara. I, així, faci el que v. m. li pareixerà. No dic més per no cansar-la. Moltes memòries de part mia i de tots els de casa. Déu la guard molts anys en salut. Dia 15 novembre de l’any 1771. Antoni Frontera, son criat [En la otra página, el destinatario][1§] A dona Cecilia Zaforteza i de Berga, viuda, que Déu guardi molts anys en salut. En Palma Transcripción literal"
+  ],
+  "literal": [
+    "1. Mi sañora Da. Cacilia la sua tench 2. rebuda y sebra com de lo que me en- 3. via a dir de asistir quant poseran 4. las fitas entre la sua posasio Son 5. Burgas (^que) [?] (^que ses matexes) 6. y quant Va. Me. me a eschrit que 7. (/que) despues li envias lo resultat de 8. ditas fitas li fas esebre que tugoras 9. Munteñals es vengut i na posades en 10. son alou quis confrontant en so des 11. merces de Vila Franca y axi no 12. e tengut res que (/que) dir perque 13. quant es canadors an canut no an pe- 14. sat las ditas fitas y las matexas 15. de tugoras Muntenals servexen per 16. lo elou del Marques de Vila Franca 17. y estas fan la pertio de dit Son 18. Burges pero tenc esvertirli que eia 19. un veinat que a fet un fame 20. e se partio y ses atrevit e pasar la 21. pertio per dur sen tera y la posa- 22. da e dit fame y tanbe matex aveia de [?] [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "220-113a.jpg",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo06/220-113a.jpg",
+      "url": "/legajos/legajo-06/images/220-113a.jpg"
+    },
+    {
+      "filename": "221-113ba.jpg",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo06/221-113ba.jpg",
+      "url": "/legajos/legajo-06/images/221-113ba.jpg"
+    },
+    {
+      "filename": "221-113bb.jpg",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo06/221-113bb.jpg",
+      "url": "/legajos/legajo-06/images/221-113bb.jpg"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "220-113a.jpg",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-06/cartas/000648.json",
+  "primary_image_url": "/legajos/legajo-06/images/220-113a.jpg"
+}

@@ -1,0 +1,43 @@
+{
+  "legajo_id": "10",
+  "id_carta": "1188",
+  "order_in_legajo": 57,
+  "signatura": "101-355a",
+  "nombre_carta": "Carta de Pedro Santacilia y Pax a Jerónimo Pelegrín de Aragüés",
+  "fecha_original": "8 de septiembre de 1668",
+  "lugar": "Madrid",
+  "remitente": "Pedro Santacilia y Pax",
+  "destinatario": "Jerónimo Pelegrín de Aragüés",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "En Miquel ha passada una malatia tan rigorosa que em tenia sense gust d'escriure més que una carta a donya Eleonor amb què deia l'estat d'ella, doncs no era ocasió de parlar de negoci ni entretenir-se amb cartes. No pos dubte que per moltes mans n'hauran arribades a eixa ciutat, però poques amb més {ESP. aprieto} del que es trobava Juan, i així que es publiquéssin no fas ninguna meravella ni de tot el demés de mos negocis, doncs encara no s'hi ha donada puntada, ni començaré tan prest que faig comptes de visitar tots aquests senyors per a qui han de córrer de compliment, i després faré memorials. Déu els disposi en bé i et guardi molts anys, com desitj. Madrid, 8 setembre de 1668. Don Pedro Jeroni [1§] A Jeroni Pelegri, que Déu guardi. Mallorca. Transcripción literal"
+  ],
+  "literal": [
+    "1. El Sr. En Miquel ha passada una malatia tan rigurosa quem 2. tenia sens gust de escriure mes que una carta a Doña 3. Eleonor ab que deia loetats della; pues no era occasio 4. de parlar de negoci, ni entretenirsse ab cartas, no pos dubta 5. que per moltes mans en haura arribadas a exa ciutat; pero 6. pocas ab mes apreto de lo que es trobave Juan , y aixi ques publi 7. casse non fas ninguna meravella ni de tot lo dames de 8. mos negoci puis encara no si ha donada puntada, ni 9. comensare tant prest que fas compta de visitar tots aquestos 10. señors peer que han de correr de cumplit, y despres fare 11. memorials. Deu lo disponga en be, y et Gde ms as como desitj. 12. Md 8 sett>em>bre de 1668. 13. Pedro Santacilia. 14. [^Geroni^] [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "101-355a.jpg",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo10/101-355a.jpg",
+      "url": "/legajos/legajo-10/images/101-355a.jpg"
+    },
+    {
+      "filename": "102-355b.jpg",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo10/102-355b.jpg",
+      "url": "/legajos/legajo-10/images/102-355b.jpg"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "101-355a.jpg",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING",
+      "message": "Se detectaron caracteres sospechosos de encoding (4)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-10/cartas/001188.json",
+  "primary_image_url": "/legajos/legajo-10/images/101-355a.jpg"
+}

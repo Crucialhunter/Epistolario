@@ -1,0 +1,43 @@
+{
+  "legajo_id": "3",
+  "id_carta": "450",
+  "order_in_legajo": 14,
+  "signatura": "28-14a",
+  "nombre_carta": "Carta de Jerónimo Pelegrín de Aragüés a Juan Miguel de Santacilia y Togores",
+  "fecha_original": "6 de mayo de 1664",
+  "lugar": "Madrid",
+  "remitente": "Jerónimo Pelegrín de Aragüés",
+  "destinatario": "Juan Miguel de Santacilia y Togores",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Esta halle a vuestra merced con la salud que le deseo, y asimismo le hago a saber de la llegada de mi señor, que fue a 30 del pasado a la noche en esta corte. Ha llegado tan bueno que en toda mi vida le he visto con tan perfecta salud por haber andado por tantos caminos. Lo que me ha pesado más ha sido que vuestra merced no haya estado acá para seguir una jornada tan gustosa y ver toda España. Harto le pesaría a mi señor, que muchas veces estando a solas hemos hablado de vuestra merced. Encomiende a Dios a mi señor vuestra merced, pues todas sus andanzas no tienen otra mira más que acomodar a vuestra merced y que quede con todo lucimento, y que luzca siempre su ilustre casa. Nosotros hemos estado [en] Aranjuez con el Rey. Lindo divertimento, tanto de jabalíes que mató el rey como ir a la volatería. No hay más que ver. Mi señor estaba hospedado en el cuarto del conde de Medellín. Dormían los dos a un aposento, y yo con los gentiles hombres a otro. El conde y mi señor comían juntos. El duque de Medina de las Torres convidó dos días a mi señor a mediodía, enviando recaudo al conde le diese ese gusto y hasta que salía el rey estaban los dos platicando. Los pajes vinieron a verle. Don Francisco de Castro, que es el más antiguo, con otros tres, le ofrecieron su cuartel y la mesa de estado con muchos cumplimientos, de que mi señor quedó muy agradecido. El señor almirante, el condestable, todos con mi señor a la carroza [1§] a pasear, a la caza. El marques de Aytona, duque de Montalto, y todos los demás señores de la cámara que se hallaban allá, venga chocolate. Al fin estaban de bureo, de regalo en regalo, que me espantó que con tanto modo de viandas siempre mi señor estoy, ha estado bueno. Vuestra merced perdone si le canso con estas razones de poca sustancia, que como vuestra merced es de palacio por eso se lo aviso. Dentro de breves días se sabrá quién lleva la emperatriz. Alemany, que concurre en dos sujetos y entiendo serán amigos de su padre de vuestra merced, que, aunque es verdad que los señores pajes no los han menester, pero con todo eso conviene sean amigos. Vuestra merced vea en qué le puedo servir, que siempre estaré muy obediente a sus órdenes, y a quien guarde nuestro Señor muchos años, como deseo y he menester. Madrid, 6 de mayo 1664. Beso las manos de vuestra merced, su menor criado, don Jeronimo Pelegrin de Aragues. Dos o tres cartas he escrito a vuestra merced, no sé si las ha recibido. Señor don Juan de Santacilia, mi señor. Transcripción literal"
+  ],
+  "literal": [
+    "1. Esta halle a Vm con la salud que le deseo y assimismo2. Leago asaber de la llegada de mi Sr. que fue a 30 del3. passado a la noche en esta Corte. ha llegado tan bueno4. que en toda mi vida levisto. Con tan perfeta salud por5. haver andado por tantos caminos. Lo que me ha pesado6. mas a sido que Vm no haya estado aca para seguir7. una jornada tan gustossa y ver toda españa arto 8. le pesaria a mi Sr. que muchas veces estando a solas9. hemos ablado de Vm en comiende a Dios, a10. mi Sr. Vm pues todas sus andancas no tienen11. otra mira mas que acomodar a Vm y que12. quede con todo lucimento, y que luzga siempre 13. su Iltre cassa.14. Nosotros havemos estado aranjuez con el Re&yulm; lindo15. devertimiento tanto de xavalines que mato el Re&yulm;16. como hir a la boleteria, no hay mas que ver. = mi Sr.17. estava ospedado en el quarto del Conde de Medellin Dor18. mian los dos a un aposento. y jo con los xentiles hombres a otro.19. el Conde y mi Sr. comian juntos = el Duche de Medina20. de las Torres convido dos dias a mi Sr. a mediodia inviando21. recaudo al Conde le diesse esse gusto y asta que salia el22. Re&yulm; estavan los dos platicando = Los paxes vinieron a23. berle Don franco De castro que es el mas antigo. Con otros tres24. le ofrecieron su quartel yla messa destado con muchos25. cumplimientos deque mi Sr. quedo muy agradecido =26. el Sr. Almirante el Condestable, todos con mi Sr. ala carroça [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "28-14a.jpg",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo03/28-14a.jpg",
+      "url": "/legajos/legajo-03/images/28-14a.jpg"
+    },
+    {
+      "filename": "29-14b.jpg",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo03/29-14b.jpg",
+      "url": "/legajos/legajo-03/images/29-14b.jpg"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "28-14a.jpg",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (4)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-03/cartas/000450.json",
+  "primary_image_url": "/legajos/legajo-03/images/28-14a.jpg"
+}

@@ -1,0 +1,38 @@
+{
+  "legajo_id": "38",
+  "id_carta": "5488",
+  "order_in_legajo": 110,
+  "signatura": "028:12",
+  "nombre_carta": "Carta de Escrivà Miralles a Persona desconocida",
+  "fecha_original": "1 de enero de 1667",
+  "lugar": "Santa Maria",
+  "remitente": "Escrivà Miralles",
+  "destinatario": "Persona desconocida",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Delme de bestiars de la vila de Sta. Maria de l'any 1667 lliurat a Nadal Bernat de Soller per 141 ll. Joan Bernat fill de Joan als Mirasel Andreu Arbona fill de Joan als Rua Francesc (Rosselló) Llabres als Basso tots de Soller Miralles sba. Gaspar Miro dit de la plaça de la vila Soller. Miralles sba. Sr. D. Juan Bautista Zaforteza mensari Sr. don Diego Clapes mensari Sr. don Ramon Sureda mensari Antoni Pisa Ador. de la mensa episcopal Pere Onofre Mayol pdor. de la mensa capitu lar [1§] Transcripción literal"
+  ],
+  "literal": [
+    "1. Delme de bestiars de la vila de Sta. Maria2. del añy 1667 lliurat a Nadal Bernat3. de Soller per 141 ll.4. Joan Bernat fill de Joan als. Mirasel5. Andreu Arbona fill de Joan als. Rua6. Ffs. (^Rosselló) Llabres als. Basso tots de Soller7. Miralles sba.8. Gaspar Miro dit de la plasa de la vila9. Soller. Miralles sba.10. D. Juan Bapt[ist]a Saforteza mens[ari]11. Don Diego Clapes mens[ari12. Don Ramon Sureda mensari]13. Ant[oni] Pisa Ador. de la 14. mensa Apiscopal15. Pere Honofre Mayol 16. pdor. de la mensa Capitu-17. lar [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "028:12.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo38/028:12.JPG",
+      "url": "/legajos/legajo-38/images/028:12.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "028:12.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (2)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-38/cartas/005488.json",
+  "primary_image_url": "/legajos/legajo-38/images/028:12.JPG"
+}

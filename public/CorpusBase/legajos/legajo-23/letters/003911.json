@@ -1,0 +1,43 @@
+{
+  "legajo_id": "23",
+  "id_carta": "3911",
+  "order_in_legajo": 165,
+  "signatura": "297:3324a.JPG",
+  "nombre_carta": "Carta de Diego Matías de Aragüés a Pedro Santacilia y Pax",
+  "fecha_original": "12 de octubre de 1667",
+  "lugar": "Madrid",
+  "remitente": "Diego Matías de Aragüés",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "He recibido la carta de v. s. de 25 del pasado holgándome del avisa que me da de haber recibido los despachos contra el obispo con que se habían exdo y gobernar la materia conforme la Instrucción sin atender a otra cosa que no puede haber ruego que es como si el nuncio obrar y estubbiera hay a solo eso. yo tendré particular contento en saber v. s. haya cobrado todo lo que estuviere debiendo hasta San Juan pasado, en lo demás si pareciere per no pleitear en Roma para en lo en adelante ajustarse lo mejor que pareciere. Murió el duque de Alba, con que se ha dado la mayordomía mayor al marques de Aytona caballerizo mayor al conde de Medellín que está en sus lugares 50. leguas de aquí y la reina le ha enviado correo con que estará presto acá, ha sido muy aplaudida esta promisión. Sr. don Blasco Loyola está mejor con que parece eso pasa con hoy son tres días que han hecho grandes luminarias y fiestas. Los embajadores de Inglaterra y holanda, por haber hecho paces entre ellos. quiera Dios sean para favorecer esta monarquía [1§] Por muy cierto se da al ajustarse con la tuya y estos días ha habido grandes juntas y venido también correo de Portugal y que en [?] desturbios [?] al pueblo se tratase de paz y conveniencia con Castilla. Habrá dos días bese las manos al conde de (Medellin) Talara [?] y me ofreció despachar presto al Sr. don Nicolas con que podrá según se halla ahora tratar de su jornada y gozar de la vista de v. s. y tenerle cerca del [?] que no conviene se arte por acá a ser por su salud y para muchas otras conveniencias suyas que este lugar como v. s. sabe es muy ocasionado de todas maneras y [?] fuera del, v. s. me mande le sirva que sus manos besamos Dña. Margarita y yo con las de mi Sra. Dña. Leonor el Sr. don Juan y todos esos Sres. muchas veces y guarde Dios como deseo Madrid 12 octubre 1667 Besa la mano de v. s. muchos años Diego Matias de Aragues Sr. don Pedro Santacilia y Pax. [2§] Transcripción literal"
+  ],
+  "literal": [
+    "1. He recivido la carta de VS. de 25. del2. passado olgandome del avisa q me da de3. haver recivido los despachos contra el4. Obispo con q se habian exdo y gobernar5. la materia conforme la Instrucción sin6. attender á otra cosa q no puede haver ruego7. q es como si el Sr. Nuncio obrar y estubbiera8. ay a solo esso. Yo tendre particular9. contento en saver VS. haya cobrado10. todo lo q estubiere deviendo hasta San11. Juan passado, en lo demas si pareciere12. per no pleytear en Roma pa en lo en adelante13. ajustarse lo mejor q pareciere.14. Murio el Duq de Alba, con q se ha dado15. la mayordomia mayor al Marqs de Aytona16. Cavallerizo mayor al Sr. Conde de Medellín17. q esta en sus lugares 50. leguas de aqui18. Y la Reyna le ha embiado Correo con q19. estara presto aca, ha sido muy aplaudida20. esta promision. Don Blasco Loyola21. esta mejor con q pareze esso pasa22. Con oy son tres dias q han hecho grandes23. luminarias y fiestas. Los embaxadores24. de Ingalaterra y olanda, por haver25. hecho pazes entre ellos. quiera Dios sean26. para favorezer esta Monarchia [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "297:3324a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo23/297:3324a.JPG",
+      "url": "/legajos/legajo-23/images/297:3324a.JPG"
+    },
+    {
+      "filename": "298:3324b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo23/298:3324b.JPG",
+      "url": "/legajos/legajo-23/images/298:3324b.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "297:3324a.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (3)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-23/cartas/003911.json",
+  "primary_image_url": "/legajos/legajo-23/images/297:3324a.JPG"
+}

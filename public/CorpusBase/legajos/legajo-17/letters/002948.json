@@ -1,0 +1,38 @@
+{
+  "legajo_id": "17",
+  "id_carta": "2948",
+  "order_in_legajo": 213,
+  "signatura": "366:1490.JPG",
+  "nombre_carta": "Carta de Vicente de Aragón a Pedro Santacilia y Pax",
+  "fecha_original": "21 de agosto de 1660",
+  "lugar": "Valencia",
+  "remitente": "Vicente de Aragón",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "mío, Mi Sra. Doña Teresa Mangarola sabe la merced que v. s. me hace siempre y teniendo en la memoria lo que mis para dres que hayan gloria estimaban y debían al suyo no he podido excusar el cansar a v. s. con estos renglones suplicándole por ellos sea servido de hacerme merced de pagarle lo que en ese patrimonio se le debe por merced de su majestad, atendiendo a lo que sirvió su padre y lo que su casa padecio en Cataluña que a más de ser una tan justificada será para mi de particular reconocimiento el que v. s. se sirva de hacerme merced de pagarla. Dios guarde a v. s. muchos años. Valencia y agosto 21 de 1660. Sr. don Vicente de Aragon Sr. don Pedro Santacilia y Pax [1§] Transcripción literal"
+  ],
+  "literal": [
+    "1. Sr. mio, Mi Sra. Doña Teresa Mangarola sabe la merced que 2. VS me haze siempre y tiniendo en la memoria lo que mis pa3. dres q hayan gloria estimavan y devian al suyo no he podido 4. escusar el cansar á VS con estos renglones suplicandole por 5. ellos sea servido de hazerme merced de pagarle lo que enesse 6. patrimonio se le deve por merced de su Magd, atendiendo á lo 7. q sirvio su Padre y lo q su casa padezio en Cathaluña que 8. à mas de ser una tan justificada sera para mi de parti9. cular reconozimiento el que VS se sirva de hazerme mer10. ced de pagarla. Dios gde. à VS muchos años. Valencia 11. y Agosto 21 de 1660.12. Don Vicente de Aragon13. Sr. Don Pedro Sta. Cilia y Pax [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "366:1490.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo17/366:1490.JPG",
+      "url": "/legajos/legajo-17/images/366:1490.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "366:1490.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-17/cartas/002948.json",
+  "primary_image_url": "/legajos/legajo-17/images/366:1490.JPG"
+}

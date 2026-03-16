@@ -1,0 +1,48 @@
+{
+  "legajo_id": "23",
+  "id_carta": "3807",
+  "order_in_legajo": 62,
+  "signatura": "119:3219a.JPG",
+  "nombre_carta": "Carta de Enrique de Aragón (VI duque de Cardona) a Pedro Santacilia y Pax",
+  "fecha_original": "15 de febrero de 1635",
+  "lugar": "Perpiñán",
+  "remitente": "Enrique de Aragón (VI duque de Cardona)",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "contentísimo estoy de que tengamos a v. m. ya por acá y de que le haya ido tan bien en la jornada, deseo que se continue esto por muchos años y que veamos a v. m. con los acrecentamientos que su persona y servicios merecen, yo he de procurarlos y desearlos y para ello sabe v. m. puede disponer de mi casa y voluntad, pero (el [?]) decirle yo a v. m. lo que ha de pretender desde aquí es imposible pues aunque le previenen muchas cosas y se aseguran otras, mejor lo entenderá v. m. hay y sabrá lo que ha de ser esto y si gun ello resolver el mejor camino; y estimaré mucho que v. m. me diga lo que fuere entendiendo de todas las materias corrientes, y así aguardo el tener todos los ordinarios cartas de v. m., La memoria que Su A. tiene de esta casa cierto se la merecemos dígame v. m. como quedó y las cosas de aquellos estados que camino toman y pues v. m. se hallaba en ellos con compañía de caballos mucho ha de mirar el dejarla, que es cierto que Su A. por hacerme merced se la hará a v. m. a quien guarde Dios muchos años. Perpiñán a 15 de febrero 1635 todo lo que estuviere en mi mano y hubiere de ser de uty lydad, aún todo lo tendrá Sr. don Pedro Santacilia [1§] v. m. por suyo, y así en esto hay segurydad en lo demás de hay todo lo que yo pudyera nada reservare para ayudarlo pues le tengo en lugar de y yo v. m. por suyo, y así en esto mi segurydad en lo demás de hay todo lo que yo pudyere nada reservare para ayudarlo pues le tengo en lugar de yo, el duque de Segorbe [?] [2§] Perpiñan rdo. 15 febrero 1635 duque de Segorbe [3§] Transcripción literal"
+  ],
+  "literal": [
+    "1. Contentisimo estoy de que tengamos a V.m. ya por aca y de2. q le haya ydo tan bien en la Jornada, deseo que se3. continue esto por muchos años y q veamos a V.m. con los4. acrecentamientos q su persona y serviçios mereçen, yo he5. de procurarlos y desearlos y para ello sabe V.m. pue6. de disponer de mi casa y voluntad, pero (^el[?]) desirle yo a V.m.7. lo que ha de pretender desde aqui es impossible pues aunque8. le previenen muchas cosas y se assiguran otras, mejor lo9. entendera V.m. ay y sabra lo que ha de ser esto y si 10. gun ello resolver el mejor camino; y estimare mucho que11. V.m. me diga lo que fuere entendiendo de todas las ma12. terias corrientes, y assi aguardo el tener todos los ordinarios13. cartas de V.m.,14. La memoria q Su A. tiene desta Casa cierto se la mereçemos 15. digame V.m. como quedò y las cosas de aquellos estados que16. camino toman y pues V.m. se hallava en ellos con Compa17. de Cavallos mucho ha de mirar el dejarla, que es cierto18. q Su A. por hacerme mrd se la hara a V.m. a quien19. gde Dios muchos años. Perpn a 15 de febrero 163520. todo lo que estubyere en my21. mano y ubiere de ser de uty22. lydad, aun todo lo tendra23. Sr don Pedro Sta Çilia [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "119:3219a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo23/119:3219a.JPG",
+      "url": "/legajos/legajo-23/images/119:3219a.JPG"
+    },
+    {
+      "filename": "120:3219b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo23/120:3219b.JPG",
+      "url": "/legajos/legajo-23/images/120:3219b.JPG"
+    },
+    {
+      "filename": "121:3219c.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo23/121:3219c.JPG",
+      "url": "/legajos/legajo-23/images/121:3219c.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "119:3219a.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-23/cartas/003807.json",
+  "primary_image_url": "/legajos/legajo-23/images/119:3219a.JPG"
+}

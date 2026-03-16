@@ -1,0 +1,43 @@
+{
+  "legajo_id": "6",
+  "id_carta": "541",
+  "order_in_legajo": 41,
+  "signatura": "019_11a",
+  "nombre_carta": "Carta de Antonio Dameto y Sureda de Sant Martí a Cecilia Zaforteza y Sureda de Sant Martí",
+  "fecha_original": "2 de mayo de 1741",
+  "lugar": "Madrid",
+  "remitente": "Antonio Dameto y Sureda de Sant Martí",
+  "destinatario": "Cecilia Zaforteza y Sureda de Sant Martí",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Madrid y mayo 2 de 1741. Sobrina y querida mía: recibo tu carta de 21 del pasado, y con ella mucho gusto de ver te mantienes [?] buena en compañía de mi querido tío, y deseando la conservación [?] de la salud de ambos me [?] disposición con igual beneficio. Estimo mucho el aviso de las novedades que ahí ocurren, las que celebraré sean motivos de una especial diversión. Aquí la que tenemos actualmente es de las comedias, y procuramos disfrutarlas porque se representan bien. Da mis menciones al señor tío; a mis queridos hijos un abrazo, y a todos los parientes mil [1§] saludes. Y mándame cuanto fuere de tu mayor agrado, mientras ruego a Dios me guarde tu vida los dilatados años que deseo. Tu tío que más te quiere, Antonio Dameto y Sureda de Sant Marti. Perdonarás, sobrina mía, de que no vaya ésta escrita de mi propia mano por el motivo de ser muy tarde y hora de traer las cartas al correo. Luego que recibí tu carta, envié la inclusa al hermano Fabrer. Supongo se la habrán entregado al noviciado. Quedo siempre en obedecerte. Sobrina querida da. Cecilia Zaforteza. Transcripción literal"
+  ],
+  "literal": [
+    "1. Madrid y Maio 2 de 1741 2. Sobrina y quer< id>a mia: Recivo tu car- 3. ta de 21 del pasado, y con ella mu- 4. cho gusto de ver te mantienes[?] 5. buena en comp< añí>a de mi q< uerid>o tio, y 6. deseando la con[?] de la salud 7. de ambos me [?] disposic[i]on 8. con igual beneficio Estimo mucho 9. el aviso delas novedades q< ue> ay ocu- 10. rren las q celebrare sean motivos 11. de una especial diversion: aqui la 12. q< ue> tenemos actualm< en>te es de las comed< ia>s 13. y procuramos disfrutarlas porq< ue> se 14. representan bien. Da mis mem< oria>s al 15. S< eño>r Tio, á mis queridos hijos un a- 16. brazo, y a todos los parientes mil [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "019_11a.jpg",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo06/019_11a.jpg",
+      "url": "/legajos/legajo-06/images/019_11a.jpg"
+    },
+    {
+      "filename": "020_11b.jpg",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo06/020_11b.jpg",
+      "url": "/legajos/legajo-06/images/020_11b.jpg"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "019_11a.jpg",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (2)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-06/cartas/000541.json",
+  "primary_image_url": "/legajos/legajo-06/images/019_11a.jpg"
+}

@@ -1,0 +1,43 @@
+{
+  "legajo_id": "25",
+  "id_carta": "4114",
+  "order_in_legajo": 48,
+  "signatura": "097_148a.JPG",
+  "nombre_carta": "Carta de Miguel Malo a Jerónimo Pelegrín de Aragüés",
+  "fecha_original": "4 de mayo de 1667",
+  "lugar": "Madrid",
+  "remitente": "Miguel Malo",
+  "destinatario": "Jerónimo Pelegrín de Aragüés",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Recibí su carta de v. m. con buenas nuevas de su salud y toda su casa. Por acá la tenemos, a Dios gracias, la carta para el Pe. general de Francisco le he enviado luego porque está fuera su Rma. y no vendrá en un mes y he dicho me envíen respuesta a mis manos para remitírsela a v. m. y a tiene v. m. abogado fiscal de hay que es el Sr. D. Diego Jeronimo Costas, gran Sr. mío y a quien yo suplicaré sea mucho de v. m. y le ayude en todo lo que v. m. se le ofreciere en ese reino. Es aragones y famoso caballero. Tengo escrito a v. m. y al Sr. Mateo Maestre que ha menester para hacerle su despacho que venga nombrado el hijo que le ha de suceder después de sus largos días y no tengo respuesta que sin ella como tengo avisado no se puede hacer el despacho. El Sr. Miguel Salva se irá para ese rino por todo este mes ya v. m. esta recomendado a su ilustrísima y a sus criados para que le valgan en todo lo que se le ofreciere y con esto. Guarde Dios a v. m. en compañía de su Sra. a quien Dña. Ana mis hijos y yo besamos las manos. Madrid y mayo a 4 de 1667. Sr. mío perdóneme la mano ajena y haga que el Sr. Mateo Maeste haga luego lo que digo. Servidor de v. m. que sus manos besa Miguel Malo Sr. Jeronimo Pelegrin y Aragues [1§] Madrid, 4 de mayo 1667, de Miguel Malo. Recibida a 27 dicho. Transcripción literal"
+  ],
+  "literal": [
+    "1. Reçivi su carta de Vm. con buenas nuebas de su salud2. y toda su cassa por aca la tenemos a Dios graçias= la carta3. pª el Pe. General de sr. Franco. lee ymbiado luego4. porque esta fuera su Rma. Y no bendra en un mes5. y e dicho me embien respuesta a mis manos para6. remitirsela a Vm.= Ya tiene Vm. abogado7. fiscal de ay que es el Sr. D. Diego Germo. Costas 8. Gran sr. mio y a quien yo suplicare sea mucho9. de Vm. y le ayude en todo lo que Vm. se leo10. freçiere enesse Reyª es Aragones y famoso11. cavallero=12. Tengo escrito a Vm. y al sr. Matheo Maestre13. que a menester pª haçelle su despacho que14. benga nombrado elhijo que le a de suçeder15. despues de sus largos dias y no tengo respues16. ta que sin ella como tengo havisado no se17. puede hazer el despacho=18. El Sr. Miguel Salva se ira pª ese Reyº por19. todo este mes ya Vm. esta recomendado20. a su Illma. y a sus criados pª que le balgan21. en todo lo que se le ofreçiere y conesto gde. Dios22. a Vm. en compañía de su sª a quien Da Ana mis hijos y yo besamos23. las m[an]os M[adri]d y Mayo a 4 de 1667. Sr. mio perdoneme24. la mano ajena y haga q el sr. Matheo Maeste haga luego25. lo q digo26. Ser[vid]or de Vm q s.m.b. Miguel Malo27. Sr. Germo. Pelegrin28. y Aragues [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "097_148a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo25/097_148a.JPG",
+      "url": "/legajos/legajo-25/images/097_148a.JPG"
+    },
+    {
+      "filename": "098_148b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo25/098_148b.JPG",
+      "url": "/legajos/legajo-25/images/098_148b.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "097_148a.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (4)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-25/cartas/004114.json",
+  "primary_image_url": "/legajos/legajo-25/images/097_148a.JPG"
+}

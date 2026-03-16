@@ -1,0 +1,43 @@
+{
+  "legajo_id": "23",
+  "id_carta": "3869",
+  "order_in_legajo": 126,
+  "signatura": "218:3282a.JPG",
+  "nombre_carta": "Carta de Isabel de Salvá a Pedro Santacilia y Pax",
+  "fecha_original": "22 de diciembre de 1660",
+  "lugar": "Madrid",
+  "remitente": "Isabel de Salvá",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Sr. mio [?] v. m. con la buena salud que yo deseo y la de tan buenas pascuas como puede a [?] con vida a todos esos mis srs. mias manos beso. La salud de LLETRA DIFÍCIL [1§] me tiene con {ESP. cuidado} de [?] per a siempre la [?] LLETRA DIFÍCIL Transcripción literal"
+  ],
+  "literal": [
+    "1. Sr. mio [?] v. m. con la buena salud 2. q io deseo i le de tan buenas pascuas 3. como puede a [?] con bida a todas esos 4. mis sres. mias manos beso LLETRA DIFÍCIL [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "218:3282a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo23/218:3282a.JPG",
+      "url": "/legajos/legajo-23/images/218:3282a.JPG"
+    },
+    {
+      "filename": "219:3282b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo23/219:3282b.JPG",
+      "url": "/legajos/legajo-23/images/219:3282b.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "218:3282a.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-23/cartas/003869.json",
+  "primary_image_url": "/legajos/legajo-23/images/218:3282a.JPG"
+}

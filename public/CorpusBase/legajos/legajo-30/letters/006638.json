@@ -1,0 +1,43 @@
+{
+  "legajo_id": "30",
+  "id_carta": "6638",
+  "order_in_legajo": 107,
+  "signatura": "162:5476a",
+  "nombre_carta": "Carta de Marc Antoni Cotoner a Persona desconocida",
+  "fecha_original": "9 de diciembre de 1619",
+  "lugar": "Mallorca",
+  "remitente": "Marc Antoni Cotoner",
+  "destinatario": "Persona desconocida",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Â [1§] Â [2§] Transcripción literal"
+  ],
+  "literal": [
+    "1. 1."
+  ],
+  "imagenes": [
+    {
+      "filename": "162:5476a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo30/162:5476a.JPG",
+      "url": "/legajos/legajo-30/images/162:5476a.JPG"
+    },
+    {
+      "filename": "163:5476b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo30/163:5476b.JPG",
+      "url": "/legajos/legajo-30/images/163:5476b.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "162:5476a.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (6)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-30/cartas/006638.json",
+  "primary_image_url": "/legajos/legajo-30/images/162:5476a.JPG"
+}

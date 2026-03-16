@@ -1,0 +1,66 @@
+{
+  "legajo_id": "24",
+  "num_cartas": 120,
+  "num_imagenes": 166,
+  "rango_temporal": [
+    1621,
+    1667
+  ],
+  "remitentes_frecuentes": [
+    {
+      "name": "Persona desconocida",
+      "count": 10
+    },
+    {
+      "name": "Francisco Sureda y Vivot",
+      "count": 7
+    },
+    {
+      "name": "Juan Miguel Santacilia",
+      "count": 5
+    },
+    {
+      "name": "Enrique de Aragón (VI duque de Cardona)",
+      "count": 4
+    },
+    {
+      "name": "Jordi Sureda i Vivot",
+      "count": 3
+    }
+  ],
+  "destinatarios_frecuentes": [
+    {
+      "name": "Pedro Santacilia y Pax",
+      "count": 116
+    },
+    {
+      "name": "Persona desconocida",
+      "count": 4
+    }
+  ],
+  "lugares_frecuentes": [
+    {
+      "name": "Mallorca",
+      "count": 38
+    },
+    {
+      "name": "Madrid",
+      "count": 20
+    },
+    {
+      "name": "Perpiñán",
+      "count": 5
+    },
+    {
+      "name": "Zaragoza",
+      "count": 5
+    },
+    {
+      "name": "Girona",
+      "count": 3
+    }
+  ],
+  "temas_frecuentes": [],
+  "warnings_count": 47,
+  "densidad_narrativa_estimada": "Media"
+}

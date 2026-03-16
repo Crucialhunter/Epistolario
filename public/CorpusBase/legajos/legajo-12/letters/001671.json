@@ -1,0 +1,38 @@
+{
+  "legajo_id": "12",
+  "id_carta": "1671",
+  "order_in_legajo": 175,
+  "signatura": "262_6264.JPG",
+  "nombre_carta": "Carta de Antoni Rubí a Pedro Santacilia y Pax",
+  "fecha_original": "23 de agosto de 1656",
+  "lugar": "Ciutadella",
+  "remitente": "Antoni Rubí",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Ilustrísimo Sr. Vuelvo a enviar a v. s. copia auténtica de la ayuda de costa que su majestad, Dios guarde, me ha hecho merced que entiendo se habrá perdido otro pliego. Remití a v. s. con semejante copia por haber venido muchos barcos y no tener en ninguno respuesta, suplicando a v. s. se sirva hacerme merced como siempre de que se ordene a su teniente de que de v. s. que me la pague como se ha practicado en estos casos, que aunque me ha anticipado buena parte de dinero que le estoy debiendo me hace gran falta lo restante que casi todo lo estoy debiendo a otros que me hallo muy empeñado, que es justo que los ministros de mi graduación no tengan otra obligación que administrar justicia y obedecer y servir a v. s. según lo experimentará en todas ocasiones que fuere servido mandarme. Guarde Dios a v. s. muy largos y felices años. Ciudadela de Menorca y agosto 23 1656. Ilustrísimo Sr. criado de v. s. el Sr. Antoni Rubi [1§] Transcripción literal"
+  ],
+  "literal": [
+    "1. Illssimo Sr.2. Buelvo á enbiar á v.s. copia3. authentica de la ayuda de costa que4. Su Mag[esta]d, Dios Gde., mea echo mer5. ced que entiendo se abra perdido otro6. pliego remiti a v.s. con semejante7. copia por haver venido muchos8. barcos y no tener en ninguno res9. puesta suplicando á v.s. se sirva10. azerme merced como siempre de11. que se ordene á su tiniente de qui12. de v.s. que me la pague como se13. á praticado en estos casos que aunq14. me á antissipado buena parte de di15. nero que le stoy deviendo me aze gran16. falta lo restante que casi todo lostoy17. deviendo á otros que me allo muy18. empennado que es justo que los mi19. nistros de mi graduation no tengan20. otra obligation que administrar justo??21. y obedecer y servir a v.s. según losperi22. mentara en todas ocasiones que fuere23. servido mandarme Gde Dios a v.s.24. muy largos y fe[lice]s a[ño]s Ciuda de Meno[r]25. ca y Ag[ost]o 23 165626. Illssimo Sr.27. criado de V.S.28. D. Ant[oni]o Rubí [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "262_6264.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo12/262_6264.JPG",
+      "url": "/legajos/legajo-12/images/262_6264.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "262_6264.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-12/cartas/001671.json",
+  "primary_image_url": "/legajos/legajo-12/images/262_6264.JPG"
+}

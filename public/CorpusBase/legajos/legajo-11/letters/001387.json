@@ -1,0 +1,36 @@
+{
+  "legajo_id": "11",
+  "id_carta": "1387",
+  "order_in_legajo": 158,
+  "signatura": "443:5346.JPG",
+  "nombre_carta": "Carta de Julio Serna a Pedro Santacilia y Pax",
+  "fecha_original": "20 de abril de 1644",
+  "lugar": "Madrid",
+  "remitente": "Julio Serna",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Por otra tengo escrito a v. s. en respuesta de la de 20 de marzo que me escribió acerca del crédito de 3590 reales que eran las partidas del pardon de Julio Armella, sigo que no he recibido tal carta se a donde está. Escribió al protonotario de esa materia y con esta verá a la respuesta enviar duplicado y me lo remiten por pliego del regente Magarola aunque está en congoja que alegara a mis manos. Su majestad, que Dios guarde, ha mandado al Consejo de Aragón que por diez de mayo estén en Zaragoza que quedará servido a los 22 verán al consejo y será forzoso ir allí en todo lo que a v. s. se le ofreciere me tendrá pronto y mandarme muchas cosas de su servicio. Su majestad sale a campaña a los 24 de este mes, tiene mucha gente de infantería y caballería serán 18 mil y por toda Castilla han [?] se aguarden buenos sucesos y Nuestro Sr. me guarde a v. s. juntamente con mi Sra. De Madrid y abril a los 20 de 1644. De v. s. Julio Serna. Lo que de su majestad haga merced a esa isla de obispo esta asentado, si la isla le diera alguna cosa más Dios lo encamine, Fernado Fernandez Mancallo que era general de esa isla con su Sra. pasa a Italia. Hoy se parte por hacerme lo dicho al regente que yo no le he hablado aunque lo topé por las calles, dice mil disparates a estos Sres. del consejo del asesor en ocasiones le hago buenas ausencias que Dios lo sabe, algunas pretendan el gobierno de esa isla no se lo quitarán a v. s. siempre que gustara de ello como yo digo cada día a estos Sres. Sr. gobernador de Menorca Transcripción literal"
+  ],
+  "literal": [],
+  "imagenes": [
+    {
+      "filename": "262:5246.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo11/262:5246.JPG",
+      "url": "/legajos/legajo-11/images/262:5246.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "262:5246.JPG",
+  "warnings": [
+    {
+      "code": "MISSING_LITERAL",
+      "message": "Transcripción literal vacía",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-11/cartas/001387.json",
+  "primary_image_url": "/legajos/legajo-11/images/262:5246.JPG"
+}

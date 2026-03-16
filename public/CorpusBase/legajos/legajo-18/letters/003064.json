@@ -1,0 +1,43 @@
+{
+  "legajo_id": "18",
+  "id_carta": "3064",
+  "order_in_legajo": 98,
+  "signatura": "161:4903a.JPG",
+  "nombre_carta": "Carta de Nicolás Ludoviz a Pedro Santacilia y Pax",
+  "fecha_original": "29 de agosto de 1663",
+  "lugar": "Càller (Cagliari)",
+  "remitente": "Nicolás Ludoviz",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Para averiguar el estado en que se hallan algunos caballeros de esta ciudad que cautivaron unos bajeles de Argel sobre el navío Guirnalda de Rosas que se despachó de orden mía a Cádiz con algunas cantidades de trigo para socorro del real ejército contra Portugal, haparecido diligencia conviniente despachar a Argel, un Barco, en que Vaiapersona deconfianza para hacer esta aberiguazón para cuyo efecto serapara mi de particular estimazón que v. s. di lalicencia necesaria conquepueda ir el Barco que dijere el capitán Canales, o, Juan Bapta Suñer con el pasaporte y recado combi nientes llevando la mercaduria que les pareciere quedando yo demi parte agradecido a la asistenza [1§] queespero dará v. s. a esta diligencia. Guarde Dios a v. s. muchos años Cáller Agosto 29 de 1663 Esta es una materia de la emperean [?] que v. s. puede considerar que quedaré con el reconocimiento debido a todo lo que lo asistiere v. s. Nicolas Ludoviz Sr. don Pedro Santa Cesilia [2§] Transcripción literal"
+  ],
+  "literal": [
+    "1. Para averiguar el estado enque se hallan algunos 2. Cavalleros de esta Çiudad que cautivaron unos 3. Baxeles de Argel sobre el Navio Guirnalda de 4. Rosas quesedespacho de orden mia à Cadis con 5. algunas Cantidades de trigo para socorro del real 6. ejercito contra Portugal, haparecido diligençia 7. conviniente despachar á Argel, un Barco, enque 8. Vaiapersona deconfiança pa haçer esta aberiguaz[i]on 9. para cuyo efecto seraparami departicular estimaz[i]on 10. q V.S. di laliçençia neçesaria conquepueda yr 11. el Barco que dixere el Capitan Canales, o, Juan 12. Bapta Suñer con el passaporte y recado conbi=13. nientes llevando la mercaduria q les pareçiere 14. quedando yo demiparte agradeçido a la asistenz[i]a [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "161:4903a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo18/161:4903a.JPG",
+      "url": "/legajos/legajo-18/images/161:4903a.JPG"
+    },
+    {
+      "filename": "162:4903b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo18/162:4903b.JPG",
+      "url": "/legajos/legajo-18/images/162:4903b.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "161:4903a.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-18/cartas/003064.json",
+  "primary_image_url": "/legajos/legajo-18/images/161:4903a.JPG"
+}

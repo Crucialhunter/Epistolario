@@ -1,0 +1,38 @@
+{
+  "legajo_id": "29",
+  "id_carta": "6482",
+  "order_in_legajo": 147,
+  "signatura": "269:4299.JPG",
+  "nombre_carta": "Carta de Pedro Monleón a Pedro Santacilia y Pax",
+  "fecha_original": "12 de septiembre de 1651",
+  "lugar": "Barcelona",
+  "remitente": "Pedro Monleón",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Sr. D. Pedro Santacilia, mi Sr. Por la carta que le escribo al obispo mi cuando v. m. se vea con su ilustrísima verá lo que pasa por acá que aseguro a v. m. no puedo escribir porque me hallo muy rendido de una calentura que ha más de 60 horas que no me la dejado ocasionado de haberme mojado toda una noche que no se hace facción que el Sr. marques no emplee al Sr. don Jeronimo Aragon, capitán corazas de su guardia, y como soy su camarada me parece faltará a mi obligación dejándole un punto. Bien puede creer v. m. que no ofreciéndose este accidente no faltará a la obligación que le reconozco v. m. se vea por hacerme merced con su ilustrísima que le dará luz de la carta, haciéndome con su ilustrísima la ausencia que espero de v. m. que solo deseo servir a su ilustrísima las muchas honras que le debo y a v. m. lo mismo guarde Nro. Sr. su persona de v. m. como deseo, del campo sobre Barcelona a los 12 de octubre 1651. Servor. de v. m. que su mano besa Pedro de Monleon Transcripción literal"
+  ],
+  "literal": [
+    "1. Sr. D. Pº. SantaCilia2. mi Sr. 3. Por la carta q le escrivo al obispo mi sr. quando 4. VM. se vea con su Illma. vera lo q passa por aca 5. q assiguro a V. M. no puedo escrivir porq me 6. hallo muy rendido de una calentura q. ha mas 7. de 60 haras q q no me la dexado ocasionado de 8. haverme mojado toda una noche q no se haze 9. faccion q el sr. Marqs. no emplee al sr. Don 10. Germo. Aragn. Capitan corazas de su guardia, y como soy 11. su camarada me pareze faltara a mi obligon 12. dexandole un punto . Bien puede creer V. M. 13. q no offreciendose este accidente no faltara a la obli14. gacion q le reconozco VM se vea por hazerme 15. mrd. con su Illma. q le dara luz de la carta 16. haziendome con su Illma. la ausª. q espero de 17. V. M. q solo deseo servir a su Illma. las18. muchas honras q le devo y a V. M. lo mismo 19. Gde. N. Sr. su persª. de VM. como deseo 20. del campo sobre Barna. a los 12 de ocbe21. Servor. de V. M. 165122. q su m. b. 23. Pº de Monleon [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "269:4299.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo29/269:4299.JPG",
+      "url": "/legajos/legajo-29/images/269:4299.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "269:4299.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-29/cartas/006482.json",
+  "primary_image_url": "/legajos/legajo-29/images/269:4299.JPG"
+}

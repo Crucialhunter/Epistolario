@@ -1,0 +1,38 @@
+{
+  "legajo_id": "31",
+  "id_carta": "6945",
+  "order_in_legajo": 184,
+  "signatura": "272:1696.JPG",
+  "nombre_carta": "Carta de Marqués de Malva a Pedro Santacilia y Pax",
+  "fecha_original": "27 de septiembre de 1663",
+  "lugar": "Madrid",
+  "remitente": "Marqués de Malva",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "El despacho incluso de su majestad es dupdo. de otro que remití a v. s. los días pasados por Barcelona Supco. a v. s. mande avisarme del recibo y con el lo que se ofreciere de su servicio Dios guarde a v. s. muchos años como deseo. de Madrid a 26 de setre. 1663. Besa la manod v. s. su mr. seror. El marques. de Malva Señor mío una libranza que habrá visto v. s. de D. Pedro Morano oficial de ese Reyº. supco. a v. s. la procure acomodar en los primeros expedientes que se ofrecieren que hallarse con descomodidad y lo bien que sirve merece que v. s. le haga este favor que será [?] mi de singularísima estimación El marques. de Malva Sr. D. Pedro de Santacilia [1§] Transcripción literal"
+  ],
+  "literal": [
+    "1. El despacho incluso de su Mgd. es dupdo. de 2. otro que remiti a VS. los dias pasados 3. por Barcelona Supco. a VS. mande 4. avisarme del recivo y con el lo que se 5. ofreciere de su servicio Dios ge a VS 6. muchos años como deseo. De Md a 26 7. de setre. 1663 8. BlmdVS 9. su mr. seror. 10. El Marqs. de Malva 11. Señor mio una libranza que havra visto VS. de 12. D Pº Morano official de ese Reyº. supco. a VS. la 13. procure acomodar en los primeros expedientes 14. q se ofrecieren q hallarse con descomodi15. dad y lo bien q. sirve merece q. VS. le haga 16. este favor q sera [?] mi de singularisima 17. estimacion 18. El Marqs. de Malva 19. Sr. D Pº de Santacilia [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "272:1696.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo31/272:1696.JPG",
+      "url": "/legajos/legajo-31/images/272:1696.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "272:1696.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-31/cartas/006945.json",
+  "primary_image_url": "/legajos/legajo-31/images/272:1696.JPG"
+}

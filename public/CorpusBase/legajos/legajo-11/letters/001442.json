@@ -1,0 +1,38 @@
+{
+  "legajo_id": "11",
+  "id_carta": "1442",
+  "order_in_legajo": 235,
+  "signatura": "370:5297.JPG",
+  "nombre_carta": "Carta de José de Pueyo y Muñoz a Pedro Santacilia y Pax",
+  "fecha_original": "5 de abril de 1652",
+  "lugar": "Madrid",
+  "remitente": "José de Pueyo y Muñoz",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "mío muy buen día me ha dado leer su carta y avisarme de su salud cumplida a esa ciudad que deseaba salir borrada pues le deseo a v. m. los borrada a mis hijos, ahora vengo borrada que es harto cansancio para que borrada gestades estaban muy buenos borrada vido es que han hecho virrey de borrada del infantado y a don Bela borrada con envajador de Roma, borrada neral va por algún tiempo a su obligación dejar el oficio que es por el borrada tonotario que tanto insta al Papa se lleve borrada ma y ha visto grandes juntas de presidencia el consejo de la Inquisición el más antiguo que será el inquisidor Vruno pero las provisiones las hará de todos los oficios el inquisidor general no se me ofrece otra cosa suplicando a v. m. me mande en su servicio y guarde Dios cuyas manos beso de Madrid y 5 de abril de 1652 Sr. don Josep de Pueyo y [?] Sr. don Pedro Santacilia y Pax [1§] Transcripción literal"
+  ],
+  "literal": [
+    "1. Sr. mio muy buen dia mea dado leer 2. su carta y havisarme de su salud cumplida 3. a esa ciudad que deseava salir [borrada] 4. pues le deseo a VM los [borrada] 5. a mis hijos , aora vengo [borrada] 6. que es arto cansancio para que [borrada] 7. gestades estavan muy buenos [borrada] 8. vido es que an echo virrey de [borrada] 9. del infantado y a don Bela [borrada] 10. con envajador de Roma, [borrada] 11. neral va por algun tiempo a su obligacion 12. dejar el officio que es es por el [borrada] 13. tonotario que tanto insta al Papa se lleve [borrada] 14. ma y havisto grandes juntas de Presidencia 15. el consejo de la Inquisicion el mas antigo que sera 16. el inquisidor Vruno pero las provisiones las 17. hara de todos los officios el inquisidor general 18. no se me ofrece otra cosa supldo a VM me mande en su 19. servicio y gde Dios cuias manos beso de Mad y 5 de abril de 1652 20. Don Joseph de Pueyo y [^??^] 21. [^Sr. don Pedro Santacila y Pax^] [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "370:5297.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo11/370:5297.JPG",
+      "url": "/legajos/legajo-11/images/370:5297.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "370:5297.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (2)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-11/cartas/001442.json",
+  "primary_image_url": "/legajos/legajo-11/images/370:5297.JPG"
+}

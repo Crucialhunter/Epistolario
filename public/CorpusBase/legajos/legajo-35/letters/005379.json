@@ -1,0 +1,43 @@
+{
+  "legajo_id": "35",
+  "id_carta": "5379",
+  "order_in_legajo": 189,
+  "signatura": "232:8226a.JPG",
+  "nombre_carta": "Carta de Bartolomé Mercadal a Pedro Santacilia y Pax",
+  "fecha_original": "14 de junio de 1662",
+  "lugar": "Ciutadella",
+  "remitente": "Bartolomé Mercadal",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Sor. Per Real, {CAST Senyor mío}, Jo havia diferit enviar els papers tocants a la conferència de Miquel Roselló Coll (l) etor d'aquest Reial Patrimoni, per la pretensió que tenia el fiscal de què havia el governador. de firmar, conforme es trobava exemplar de temps de Pere Jeroni Olivar amb Sr. don Josep Sporrin encara que, es veritat, no passà avant enviar els papers per eser-se ajuntats ací i, puis, v. s. em diu que enviant {ESP. recaudo} al governador. perquè remeti les parts i causa al Rl. Patrimoni, i, recusant el fer-ho, enviàs els papers perquè els senyors d'eixa Rl. Audiència coneguin d’ells, com {LAT. de facto} ha reusat (sic). I, havent-li enviat {ESP. recaudo} en escrits i, així mateix, haver-se-li dit d'urbanidad no ha respost, m'ha paregut seguir l'ordre de v. s., enviant-li els papers i certificatòria del secrest (sic), per a on consta clarament nostra intenció. No puc deixar de suplicar a v. s. el molt que es deu tenir la mà en esta matèria perquè, no conservant esta exempció als colectors, no es trobarà persona qui vulgui exercir dit càrrec, com {LAT. de facto} avui dia present no es troba persona qui vulgui exercir aquell, i el que exerceix es sense haver-me donat fiances, i me som hagut de contentar per no trobar en altra forma. Déu Nre. Sr. guardi a. a v. s. com pot i tinc menes ter. Ciutadella, i juny 14 de 1662. Molt servidor. de v. s. que ses mans besa Sr. don Bartomeu Mercadal Transcripción literal"
+  ],
+  "literal": [
+    "1. Sor. Por Real2. Señor Mio Jo havia diferit enviar los papes3. tocans a la Conferencia de Miquel Rosello Coll=4. (l)etor de aquest Real Patrimony, per la pre5. tencio que tenia el fiscal de que havia6. lo Sr. Gdor. de firmar, conforma es trobava7. exemplar de temps de Pera Gerony Olivar8. ab Don Joseph Sporrin, encara que es9. veritat no passá avant enviar los papes10. per assersa ajuntats assi y puits VS. em11. diu que enviant recaudo al Sr. Gdor. peraque12. remeta las pars y causa al Rl. Patrimony,13. y recusant el fero; envias los papes peraque14. los Sss de exa Rl. Audiencia conegan dells,15. com {lat.} de facto ha reusat, y haventli enviat16. recaudo en escrits y axi matex haverseli17. dit de urbanidad no ha respost, me ha18. aparegut seguir la orda de V.S. enviantli19. los papes, y sertificatoria del sacrest, per20. aont consta clarament nostra intencio.21. No puch dexar de suplicar a VS. lo molt ques22. deu tenir la ma enesta materia, perque [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "232:8226a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo35/232:8226a.JPG",
+      "url": "/legajos/legajo-35/images/232:8226a.JPG"
+    },
+    {
+      "filename": "233:8226b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo35/233:8226b.JPG",
+      "url": "/legajos/legajo-35/images/233:8226b.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "232:8226a.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-35/cartas/005379.json",
+  "primary_image_url": "/legajos/legajo-35/images/232:8226a.JPG"
+}

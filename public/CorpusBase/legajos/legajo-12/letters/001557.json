@@ -1,0 +1,43 @@
+{
+  "legajo_id": "12",
+  "id_carta": "1557",
+  "order_in_legajo": 63,
+  "signatura": "079_6150a.JPG",
+  "nombre_carta": "Carta de Marquès de Vilafranca a Pedro Santacilia y Pax",
+  "fecha_original": "16 de junio de 1641",
+  "lugar": "Tortosa",
+  "remitente": "Marquès de Vilafranca",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Ya tengo la relación de lo que embarcaron los bergantines, pero no la tengo de lo que tomaron de la saetía. v. s. me la haga enviar al justo porque don Cristóbal de Cardona la ha enviado al rey. Yo la he de enviar, y todo se ha de pasar a otros barcos, y v. m. tiene orden de no tocar ni dejar tocar a sus bergantines en lo que se lleva a Tarragona y así me ha respondido que se hará y es muy justo porque lo contrario fuera comerse los bergantines, los socorros de las plazas, en tiempo que se están perdiendo y que tanto se arriesga por llevárselos y para que si se les debe, se les pague, V., socorro he dado a v. m. la instada carta, que me ha pedido y no habrá quien no repare en que siendo trece los que se sustenta, no se hayan hallado sino siete muy mal armados para la ocasión más apretada, y dos más que dicen que han venido de Vinarós, y todos me aseguran Sr. D. Pedro de Santacilia [1§] que esto es porque atienden solo a sus particulares mercancías y v. m. es tan celoso del servicio del rey nro. Sr. que todo lo que no conformare con el, creo que procurará que se remedie. Guarde Dios a v. m. muchos años. Galera y en la Punta de la oliveta, a 16 de junio de 1641. Marques de Vilafranca [2§] Transcripción literal"
+  ],
+  "literal": [
+    "1. Yo tengo la relacion de lo que embarcaron los2. bergantines, pero no la tengo de lo que tomaron3. de la saetia, Vm me la haga embiar al Justo4. porque Don X[ris]toval de cardona, la ha embiado 5. al Rey yo la he de embiar, y todo se a de pa6. sar a otros bar[c]os, y Vm tiene horden de no7. tocar ni dejar tocar a sus bergantines en lo 8. que se lleva a Tarragona y asi me ha respondido9. que se hara y es muy Justo por que lo contra10. rio fuera, comerse los bergantines, los socorros11. de las plaças, en tiempo que se estan perdiendo12. y que tanto se arriesga por llevarselos y para13. que si se les deve, se les pagues, V, socorre he14. dado a Vm la instada carta, que me ha pedido15. y no havra quien no repare, en que siendo16. treze los que se sustenta, no se ayan allado.17. sino siete muy mal armados, para la ocasion18. mas apretada, y dos mas que dizen que han19. venido de Vinarzo, y todos me asiguran20. Sr. D. Pedro de Santizilia [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "079_6150a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo12/079_6150a.JPG",
+      "url": "/legajos/legajo-12/images/079_6150a.JPG"
+    },
+    {
+      "filename": "080_6150b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo12/080_6150b.JPG",
+      "url": "/legajos/legajo-12/images/080_6150b.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "079_6150a.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-12/cartas/001557.json",
+  "primary_image_url": "/legajos/legajo-12/images/079_6150a.JPG"
+}

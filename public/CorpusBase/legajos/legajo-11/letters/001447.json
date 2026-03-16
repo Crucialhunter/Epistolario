@@ -1,0 +1,38 @@
+{
+  "legajo_id": "11",
+  "id_carta": "1447",
+  "order_in_legajo": 209,
+  "signatura": "377:5302.JPG",
+  "nombre_carta": "Carta de Antonio Ramón a Pedro Santacilia y Pax",
+  "fecha_original": "18 de junio de 1651",
+  "lugar": "Lugar sin especificar",
+  "remitente": "Antonio Ramón",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Mi senyor heir fui en Llodra i tingui ocasió de quatre ravens; no he trobat persona aquí enviar-los com a v. m. i així prendre la bona voluntat. ací no hi ha cosa de nou per a visarlo; si aquí ha res de nou manarà avisar-me., Ntre. el guardi d'esta su casa als 18 de juny de 1651. de v. m. [?] Antoni [?] Ramon Sr. don Pedro Santacilia i Pax [1§] Transcripción literal"
+  ],
+  "literal": [
+    "1. Mi señor heir fui en Llodra y tingui oca 2. sio de quatra ravens; 3. no he trobat persona 4. aqui embiarlos com a VM y axi pendra 5. la bona voluntat. Assi noy ha cosa de nou 6. para visarlo; si aqui ha res de nou 7. manara avisarme. ,Ntro. sr. lo guarde desta 8. su casa als 18 de juny de 1651. 9. De VM 10. [^??Antoni??^] Ramon 11. [^Sr. Don Pedro Santacilia y Pax^] [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "377:5302.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo11/377:5302.JPG",
+      "url": "/legajos/legajo-11/images/377:5302.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "377:5302.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-11/cartas/001447.json",
+  "primary_image_url": "/legajos/legajo-11/images/377:5302.JPG"
+}

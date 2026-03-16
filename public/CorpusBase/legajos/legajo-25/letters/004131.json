@@ -1,0 +1,43 @@
+{
+  "legajo_id": "25",
+  "id_carta": "4131",
+  "order_in_legajo": 65,
+  "signatura": "130_165a.JPG",
+  "nombre_carta": "Carta de Miguel Malo a Jerónimo Pelegrín de Aragüés",
+  "fecha_original": "31 de mayo de 1667",
+  "lugar": "Madrid",
+  "remitente": "Miguel Malo",
+  "destinatario": "Jerónimo Pelegrín de Aragüés",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Sr. mío recibo la de v. m. de 8 del corriente y me huelgo que v. m. está muy bueno y toda su casa, aquí la tenemos, a Dios gracias. El virrey se parte de aquí a 2 de junio y v. m. muy recomendado a su ilustrísima y al Sr. Vicente Bescansa y a D. Lorenzo de Castro, sus criados. V. m. le vea y a la Sra. virreina y la [?] a su ilustrísima que es pariente de la mujer de Miguel Malo y esa carta que va abierta para el Sr. Mateo Maestre. V. m. se la lea y haga que haga lo que hoy se dice y que sea luego. También v. m. vea al Dr. D. Diego Jeronimo Costa que es Dr. mío, que va por fiscal y le diga que es mi recomendado. Guarde Dios a v. m. como deseo y dé recados a esa Sra. y recados a todos los de casa. Madrid a 31 de mayo de 1667. Para que el francés quiera [?] la guerra por Flandes en España si ya no lo ha hecho. Tiene un poderoso ejército. España ha hecho plazas en Inglaterra y diga que nos está bien y con Holanda era hoy de nuevo el maestro de campo se vuelve a su casa. Sr. Jeronimo Pelegrin de Aragues [1§] Miguel Malo, respuesta a 11 de Julio 1667. Transcripción literal"
+  ],
+  "literal": [
+    "1. Sr. mio Recibo la de Vm de 8 del corriente2. y me guelgo q Vm esta muy bueno y3. toda su cassa aqui la tenemos a Dios4. gracias5. El Sr. virrey se parte de aqui a 2 de Junio6. y Vm muy recomendado a su Illma7. y a el Sr. Viçente Bescansa y a d.8. Lorenzo de Castro sus criados Vm le9. bea y a la Sra. Virreyna y la [?] a10. su Illma q es pariente de la mujer de11. Miguel Malo y esa carta q ba abeirta12. pª el sr. Matheu Maestre Vm se la13. lea y haga q haga lo q ay se diçe y que14. sea luego15. Tanbien Vm bea al Sr. Dr. D. Diego Germo.16. Costa q es Dr mio q ba por fiscal y le diga17. q es mi recomendado Gde. Dios a V.m. como18. deseo y de recados a esa Sra, y recados a19. todos los de cassa. M[adri]d a 31 de Mayo de 166720. para q el françes quiera [?] la gerra por21. flandes en españa si ya no lo ha echo tiene un22. poderoso exercito= España ha echo placas en23. Yngalaterra y diga q nos esta bien y con olanda24. era ay de nuebo el Mº Capo se buelbe a su cassa [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "130_165a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo25/130_165a.JPG",
+      "url": "/legajos/legajo-25/images/130_165a.JPG"
+    },
+    {
+      "filename": "131_165b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo25/131_165b.JPG",
+      "url": "/legajos/legajo-25/images/131_165b.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "130_165a.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (4)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-25/cartas/004131.json",
+  "primary_image_url": "/legajos/legajo-25/images/130_165a.JPG"
+}

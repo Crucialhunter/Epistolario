@@ -1,0 +1,38 @@
+{
+  "legajo_id": "31",
+  "id_carta": "6772",
+  "order_in_legajo": 12,
+  "signatura": "019:1523.JPG",
+  "nombre_carta": "Carta de Joan Antoni Albertí a Pedro Santacilia y Pax",
+  "fecha_original": "26 de noviembre de 1660",
+  "lugar": "Ciutadella",
+  "remitente": "Joan Antoni Albertí",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Pdor. Real Jo pens eura v. s. rebuda la relació feta a sa magestat que Déu guardi de les entrades d'aquest real patrimoni de 20 setembre 1659 fins els mateix dia de 1660 i dels carrecs fa tres anys, amb carta per li magestat de 29 d'octubre 1660 avisant-lo de tot. La còpia i duplicat anirà amb altre ocasió doncs la falta que tinc d'escriure es ocasió de no averho trebellat fins esta hora. Amb la barca del patró Bartomeu Segui de Maó rebrà v. s. una carterolle funada plena de candelles de seu mercada de la prent marca a que farà des funar a un cap perquè no les rompen que pens agradara que prendre la bona voluntat. El governador m'ha dit en altre ocasió [?] enviera una partida entratant v. s. se servirà d'exa catidat i li besa les mans. amb dita barca se servirà tornar-me remetra la corterolla per poderla enviar amb altre ocasió que ací no tenim fustes qui les facin i en coses del servei de v. s. estic sempre molt prompte pregant a Déu nº el guardi molts anys amb companyia d'eixes mis senyores de Ciutadella i novembre a 26 de 1660 molt servidor de v. s. que ses mans besa [?] Joan Ant Alberti Transcripción literal"
+  ],
+  "literal": [
+    "1. Sr. Pdor. Real 2. Jo pens eura VSª rebude la relasio fetta a se Magd que 3. Deu Gde de les entrades dest Real patrimoni de 20 7bre 4. 1659 fins los matex die de 1660 i dels carrechs fa 5. tres anys, ab carta per le Magd de 29 de 8bre 1660 avisantlo 6. de tot. La copia y dupplicat anira ab altre occasio puis 7. la falta que tinch de escriura es occasio de no averho 8. trebellat fins esta hora. 9. Ab la barca del patro Bartomeu Segui de maho rebra 10. VSª una carterolle funade plena de candellas de çeu 11. mercade de la prent marca a que fera des funar 12. aun cap peraque no les rompen que pens agredera 13. de que pendra la bone voluntat. Lo sr. Governador 14. me ha dit en altre occasio [?] enbiera una partide 15. entratant VSª se serbira de exa catidat i li bessa 16. les mans. ab dita barca se servira tornarme remetra 17. la corterolla per poderla enbiar ab altre occasio que 18. assi no tenim fustes qui les fassen i en cosses del servei 19. de VSª estic sempra molt prompte pregant a Deu nº Sr 20. lo gde molts anys ab companya de exas mis seyores 21. de Ciutadella i 9bre a 26 de 1660 22. molt serbidor de VSª 23. q. s. M. B. 24. ?? Joan Ant Alberti [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "019:1523.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo31/019:1523.JPG",
+      "url": "/legajos/legajo-31/images/019:1523.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "019:1523.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-31/cartas/006772.json",
+  "primary_image_url": "/legajos/legajo-31/images/019:1523.JPG"
+}

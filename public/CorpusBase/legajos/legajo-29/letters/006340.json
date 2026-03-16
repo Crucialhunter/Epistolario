@@ -1,0 +1,38 @@
+{
+  "legajo_id": "29",
+  "id_carta": "6340",
+  "order_in_legajo": 188,
+  "signatura": "065:4157.JPG",
+  "nombre_carta": "Carta de Tomás Ruiz de Salas a Pedro Santacilia y Pax",
+  "fecha_original": "2 de agosto de 1664",
+  "lugar": "Vinarós",
+  "remitente": "Tomás Ruiz de Salas",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Nro Sr. hagi dado a v. m. mio muy buenas entradas d'anys nuevos con els demàs que la siguieren que con la salut que este su servidor desea aquí a llegado el patron pere nofre guia. con ella i m'ha dado muy buenas nuevas de sa salut de v. m. que ge mi [?] con la que deseo Els patrones [?] se les [?] jo no tengo orden d'esos se. ni de {ESP. hasta} cuando se les ha d'Ajustar a cuya casa no se l'ha pasado tots llevan papel mio de LLETRA DIFÍCIL [1§] Transcripción literal"
+  ],
+  "literal": [
+    "1. Nro Sor. aya dado a Vm Sr Mio 2. muy buenas entradas de Años nuevos con los demas 3. q le siguieren q con la salud q este su servidor 4. dessea aqui a llegado el patron pere 5. nofre guia. Con ella y me ha dado muy 6. buenas nuevas de su salud de Vm q ge 7. mi [?] con la q desseo 8. Los patrones [?] se les [?] 9. yo no tengo orden de essos sse. ni de 10. asta cuando se les ha de Ajustar a cuya 11. cassa no se le ha passado todos llevan 12. papel mio de LLETRA DIFÍCIL [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "065:4157.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo29/065:4157.JPG",
+      "url": "/legajos/legajo-29/images/065:4157.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "065:4157.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-29/cartas/006340.json",
+  "primary_image_url": "/legajos/legajo-29/images/065:4157.JPG"
+}

@@ -1,0 +1,38 @@
+{
+  "legajo_id": "34",
+  "id_carta": "5157",
+  "order_in_legajo": 187,
+  "signatura": "278:7072.JPG",
+  "nombre_carta": "Carta de Francisco de Vilasaló a Pedro Santacilia y Pax",
+  "fecha_original": "27 de marzo de 1658",
+  "lugar": "Madrid",
+  "remitente": "Francisco de Vilasaló",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Señor mío Su Merced Dios Le guárdeme ha honrado Complacia de ese Conceso donde me Tendra v. m. a su servicio como piden mis obligaciones y la amistad antiga aunque Creo v. m. no se acordará de mi por el tiempo que ha no nos vemos ahy Nos Conocéremos refrescando la Memoria Suplico a v. m. en el Interim no se descuide de mandarme cura eida guarde nuestro Sr. como deseo Madrid a 27 de marzo 1658 Servidor de v. m. que su mano besa El Dr. Francisco de Vilasalo Sr. D. Pedro Santacilia Transcripción literal"
+  ],
+  "literal": [
+    "1. Señor Mio Su Md Dios Legde me ha 2. honrado Conplaça dese Conceso donde me3. Tendra Vm a su servicio Como piden4. mis obligaciones Y la amistad antiga5. aunq Creo vm nose acordara demi6. por el tiempo q ha no nos vemos ahy7. Nos Conoceremos refrescando la Memoria8. Sup[li]co a vm enel Interim no se9. descuyde de Mandarme Cura e[ida]10. gde nsr. Como Deseo Md a 2711. de Marco 165812. Seror de Vm q s[u] m b13. El Dr. franco de Vilasal[ ]14. Sr. d. Po SanctaSilia [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "278:7072.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo34/278:7072.JPG",
+      "url": "/legajos/legajo-34/images/278:7072.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "278:7072.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-34/cartas/005157.json",
+  "primary_image_url": "/legajos/legajo-34/images/278:7072.JPG"
+}

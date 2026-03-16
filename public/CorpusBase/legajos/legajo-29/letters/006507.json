@@ -1,0 +1,43 @@
+{
+  "legajo_id": "29",
+  "id_carta": "6507",
+  "order_in_legajo": 207,
+  "signatura": "318:4324a.JPG",
+  "nombre_carta": "Carta de Nicolás de Santacilia y Togores a Pedro Santacilia y Pax",
+  "fecha_original": "11 de noviembre de 1665",
+  "lugar": "Madrid",
+  "remitente": "Nicolás de Santacilia y Togores",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Por acá no hay novedad ninguna de que dar cuenta a v. m., más de que el conde de [?] besa la mano a la reina, que es el que trae la joya, pero no las ha entregado aún. Yo pienso que estaremos debajo la protección del marques de Aytona. V. m. le puede escribir y como es de la junta puede hacer mucho. Don Antonio Puidorfila me dicen que está muy malo, he enviado a Juan diferentes veces y a todos los mallorquines porque yo no puedo salir de casa, con la muerte del rey que Dios tenga en el Cielo no nos dan licencias. A mi madre y señor hermanos, y a todos esos caballeros muchos recaudos. Madrid a 11 de noviembre 1665. Su hijo de v. m. Don Nicolas de Santacilia Mi padre y señor [1§] Nº 66 Madrid 11 Noviembre de 1665. Nicolas Santacilia Transcripción literal"
+  ],
+  "literal": [
+    "1. Por aca no ay novedad ninguna de 2. que dar quenta a VM. mas de que 3. el conde de arae besa la mano a 4. la Reyna, que es el que traye la 5. joya, pero no las a entregado 6. aun; yo pienso que estaremos de7. bajo lo protecion del Marques 8. de Aytona VM le puede escrivir 9. y como es de la junta puede aser 10. mucho; Don Antonio Puydorfi11. la me disen que esta muy malo 12. e enbiado a Juan diferentes ve13. ses y a todos los mallorquines por14. que yo no puedo salir de casa, 15. con la muerte del Rey que Dios 16. tenga en el cielo no nos dan lise17. nsias a mi Madre y Señor herm18. anos, y a todos esoscavalleros mu19. chos recaudos Madrid a 11 de no20. viembre 1665 Su hijo de VM 21. Don Nicolas de StaCilia 22. mi Padre y Señor [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "318:4324a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo29/318:4324a.JPG",
+      "url": "/legajos/legajo-29/images/318:4324a.JPG"
+    },
+    {
+      "filename": "319:4324b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo29/319:4324b.JPG",
+      "url": "/legajos/legajo-29/images/319:4324b.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "318:4324a.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-29/cartas/006507.json",
+  "primary_image_url": "/legajos/legajo-29/images/318:4324a.JPG"
+}

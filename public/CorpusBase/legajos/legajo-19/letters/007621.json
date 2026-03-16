@@ -1,0 +1,38 @@
+{
+  "legajo_id": "19",
+  "id_carta": "7621",
+  "order_in_legajo": 325,
+  "signatura": "235_cg103.JPG",
+  "nombre_carta": "Carta de Jerónimo Pelegrín de Aragüés a Pedro Santacilia y Pax",
+  "fecha_original": "4 de mayo de 1668",
+  "lugar": "Mallorca",
+  "remitente": "Jerónimo Pelegrín de Aragüés",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Me. Gabriel Thomas donareu per compta de mi Sr. don Pº. de Santacilia y Pax a Miquel Crespi carreter de casa una qra de ordi, fet a 7 febr. 1668 de ordre de mi Sr. don PedroGeronim Pelegrival la quartera de ordi [?] a 4 maig 1668Mes una qª. de ordi mijaquartera de ordi y mija de sibada con [?] lo ordiar 1 L 15 que la sibada 12 sonCOMPTE Transcripción literal"
+  ],
+  "literal": [
+    "1. Me. Gabriel Thomas donareu per compta de Mi sr. Don 2. Pº. de sta.Cilia y Pax a Michel Crespi carreter de cassa una qra de 3. ordi, fet a 7 febr. 1668.4. De orde de mi sr. Don Pº5. Geronÿm Pelegri6. val la quartera de ordi ??7. A 4 Maig 16688. Mes una qª. de ordi mija9. quartera de ordi y mija de siba10. da co [?] lo ordiar 1 L 15 q la siba11. da 12 son12. [COMPTE] [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "235_cg103.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo19/235_cg103.JPG",
+      "url": "/legajos/legajo-19/images/235_cg103.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "235_cg103.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (4)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-19/cartas/007621.json",
+  "primary_image_url": "/legajos/legajo-19/images/235_cg103.JPG"
+}

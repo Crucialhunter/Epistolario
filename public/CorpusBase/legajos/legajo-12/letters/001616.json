@@ -1,0 +1,38 @@
+{
+  "legajo_id": "12",
+  "id_carta": "1616",
+  "order_in_legajo": 11,
+  "signatura": "183_6209.JPG",
+  "nombre_carta": "Carta de Pedro de Aragón a Pedro Santacilia y Pax",
+  "fecha_original": "13 de noviembre de 1630",
+  "lugar": "Alarcón",
+  "remitente": "Pedro de Aragón",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Lletra complicada [1§] Transcripción literal"
+  ],
+  "literal": [
+    "1. Lletra complicada"
+  ],
+  "imagenes": [
+    {
+      "filename": "183_6209.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo12/183_6209.JPG",
+      "url": "/legajos/legajo-12/images/183_6209.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "183_6209.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-12/cartas/001616.json",
+  "primary_image_url": "/legajos/legajo-12/images/183_6209.JPG"
+}

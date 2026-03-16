@@ -1,0 +1,38 @@
+{
+  "legajo_id": "2",
+  "id_carta": "434",
+  "order_in_legajo": 25,
+  "signatura": "53-23",
+  "nombre_carta": "Carta de Gregorio Quint Zaforteza a Juan García",
+  "fecha_original": "20 de agosto de 1717",
+  "lugar": "Palma",
+  "remitente": "Gregorio Quint Zaforteza",
+  "destinatario": "Juan García",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Señor mío, Con dos me hallo de vuestra merced: la una, de 24 de abril y la otra, de 4 de junio, en que nos da la buena noticia de haber declarado la congregación en favor de la priora y religiosas del convento de Santa Teresa, con la copia del decreto de que doy las gracias a vuestra merced, que cierto ha salido muy en favor y así conocerán cómo lo erraron los que obraron para facilitar la entrada de Margarita Roig. También hemos recibido las escrituras y sumario del procurador, y en la última la escritura {LAT. juris} y los demás papeles por parte de Margarita Roig, con las cuentas, que se dará satisfacción al señor capiscol que ya antes tenía satisfacción. De todo lo que vuestra merced dijo que se pagase, tanto de los seis escudos como de la última letra, todo está pagado menos lo de la priora y religiosas, que se pagará. En cuanto de lo que escribe del desconsuelo de haber perdido la gracia del señor deán Martorell, no esté triste con desconsuelo, porque me parece que ha sido que tiene mucho trabajo en escribir (^y podrá ser que sea algo de pereza descuido y poca gana de escribir). Dios guarde a vuestra merced muchos años. Agosto, 20 de 1717. Transcripción literal"
+  ],
+  "literal": [
+    "1. S<eño>r Mio 2. 3. Con dos me hallo de Vmd. La Una de 24 de Abril 4. y la otra de 4 de junio en que nos da la buena 5. noticia de aver declarado la Congregación en 6. favor del (^Convento de S< an>ta Thereza de Jesus) La Pri 7. ora y religiosas del Convento de S< an>ta Thereza con la 8. copia del decreto de que doy las Gracias á Vmd. que 9. cierto ha salido muy en favor y assi conoceran [^como lo erraron] los 10. que obraron para facilitar la entrada de Marg< ari>ta Roig. 11. Tambien hemos recibido las escrituras [^y sumario] del p< rocura>dor 12. y en la última la escritura {lat.} juris y los demas pape- 13. les por parte de Margarita Roig, con las quentas, que 14. se dara satisfacion al S< eño>r Cabiscol que ja antes tenia 15. satisfacion de todo lo que Vm. dixo que se pagasse ta< n>to 16. de los Seis escudos [^como] de la ultima letra todo esta pagado 17. menos lo de la priora y religiosas que se pagara. En qua< n>- 18. to de lo que escrive del desconsuelo de aver perdido la 19. Gracia del S< eño>r Deian Martorell. No este triste con 20. desconsuelo p< or>q< ue> me parece que ha sido que tiene mucho 21. trabajo en escrivir y (^podra ser que sea algo de pe[^re]za 22. descuydo y poca gana d< e> scrivir) Dios G< uar>de á Vmd. M< ucho>s A< ño>s 23. Agosto 20 de 1717. [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "53-23.jpg",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo02/53-23.jpg",
+      "url": "/legajos/legajo-02/images/53-23.jpg"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "53-23.jpg",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-02/cartas/000434.json",
+  "primary_image_url": "/legajos/legajo-02/images/53-23.jpg"
+}

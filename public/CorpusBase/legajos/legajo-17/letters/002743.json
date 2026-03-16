@@ -1,0 +1,38 @@
+{
+  "legajo_id": "17",
+  "id_carta": "2743",
+  "order_in_legajo": 8,
+  "signatura": "009:1285.JPG",
+  "nombre_carta": "Carta de Luis de Ponce de León a Pedro Santacilia y Pax",
+  "fecha_original": "26 de septiembre de 1657",
+  "lugar": "Valencia",
+  "remitente": "Luis de Ponce de León",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "De primero y 2 del corriente me hallo con dos cartas de v. m. y con ellas he recibido la frasquera de aguas de olor que son famosas y para mi de sumo reconocimiento del afecto y cuidado de v. m. el navío del capitán Camilo Rey estuvo aquí y se le negó la práctica porque hay orden expresa de SM. para ello, siento que no admita interpretación por lo mucho que me holgará servir a v. m. que guarde Dios muchos años. Real de Valencia 26 de septiembre de 1657 Doy a v. m. muchas gracias a v. m. de parte de la de mi Sa. María por lo regalados que nos tiene Luis de Ponce [?] Sr. D. Pedro Santacilia y Pax Transcripción literal"
+  ],
+  "literal": [
+    "1. De primero y 2 del corrte me hallo con dos2. cartas de Vm. y con ellas he recevido la 3. frasquera de aguas de olor que son famosas 4. y para mí de summo Reconozimiento del affecto 5. y cuidado de Vm.6. el Navio del Cappan Camilo Rey estubo aquí y 7. se le nego la practica porque ay orden expreso 8. de SM. para ello siento, que no admita inter9. pretacion por lo mucho que me holgara servir 10. a Vm. que Gde Dios ms a< ño>s. Rl de Valencia 11. 26 de Sett de 165712. Doy a VM muchas 13. gracias a VM de parte de la 14. de mi Sa. Maria por lo regalados 15. que nos tiene16. Sr Lluys [de ponçe??]17. Sr. D. Po StaCilia y Pax [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "009:1285.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo17/009:1285.JPG",
+      "url": "/legajos/legajo-17/images/009:1285.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "009:1285.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-17/cartas/002743.json",
+  "primary_image_url": "/legajos/legajo-17/images/009:1285.JPG"
+}

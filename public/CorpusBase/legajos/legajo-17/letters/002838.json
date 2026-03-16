@@ -1,0 +1,38 @@
+{
+  "legajo_id": "17",
+  "id_carta": "2838",
+  "order_in_legajo": 104,
+  "signatura": "173:1380.JPG",
+  "nombre_carta": "Carta de Joan Antoni Albertí a Pedro Santacilia y Pax",
+  "fecha_original": "12 de marzo de 1660",
+  "lugar": "Ciutadella",
+  "remitente": "Joan Antoni Albertí",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "procurador reial No tinc carta de V. a que dega resposta esta sols serà per acompenyar una sistella sobressades menorquines, que pens ne gustera la senyora per ser fetes en esta terra. també van dos tussinos carn sellada dels millors i ha aguts est any que nom atrevia enviar per ser tals però pens euran aquí sabut de la pocedat que hem tingusts i de dolens son estats altre any seran millors tals quals prendre la bona voluntat. ací tenim tots els d'esta sa casa salut sempre a disposició de V. a qui Déu me Guardi molts anys amb companyia d'estes mis Senyoras i fillets aquí besso les mans moltes begades. de Ciutadella i març a 12 de 1660 de V. molt servidor que sa mà B El Dr. Joan Ant. Alberti [1§] Transcripción literal"
+  ],
+  "literal": [
+    "1. Sr. Procurador Real2. No tinch carta de VSa. aque dega resposta esta 3. sols sera per aconpenyar una sistella sobressades 4. menorquines, que pens ne gustera la Señyora per 5. ser ffetas en esta terra. tanbe van dos tussinos carn6. sellade dels millors y ha aguts est añy que nom 7. atrevia enbiar per ser tals pero pens euran aqui 8. sebut dela pocedat que avem tingusts y de dolens9. son estats altre any seran millors tals quals pendra 10. la bona voluntat. assi tenim tots los desta se cassa 11. salud sempra a dispositio de Vsa. a qui Deu me Gde. 12. molts añys ab compañya de estas mis Señyoras 13. y fillets aqui besso les mans moltes begades. de 14. Ciutadella y Mars a 12 de 166015. De Vsa. molt serbidor16. q s[a] m[a] B17. El dor. Joan Ant. Alberti [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "173:1380.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo17/173:1380.JPG",
+      "url": "/legajos/legajo-17/images/173:1380.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "173:1380.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-17/cartas/002838.json",
+  "primary_image_url": "/legajos/legajo-17/images/173:1380.JPG"
+}

@@ -1,0 +1,48 @@
+{
+  "legajo_id": "6",
+  "id_carta": "767",
+  "order_in_legajo": 28,
+  "signatura": "458-228a",
+  "nombre_carta": "Carta de Cecilia Zaforteza y Sureda de Sant Martí a Persona desconocida",
+  "fecha_original": "fecha sin especificar",
+  "lugar": "Mallorca",
+  "remitente": "Cecilia Zaforteza y Sureda de Sant Martí",
+  "destinatario": "Persona desconocida",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "{ESP. Querido sobrino y muy señor mío: en carta de 11 del vencido participé a v. e. la pérdida de mi querido esposo i tío de v. e., poniendo cuatro palabras solamente de mi puño.} Senyor dr. molt senyor meu, Amb el correu passat no vaig tenir ànima d’escriure a v. m. de mà pròpia per trobar-me ocupadíssima i amb l'aflicció que pot v. m. pensar, i no gens bona d’una càrrega en el pit bastant forta, que és estat precís posar-me en mans dels metges. M’han fetes fer dejunis, i diferents medicines, i encara estic bastant flaca, però he vençuda la tos del tot, gràcies a Déu, que era el major mal que patia. Crega v. m. que som quedada amb el [1§] {ESP. desconsuelo} que no el puc explicar, veient em falta tal persona que donava consol als externs, com sap v. m., que havia de fer a mi. La malaltia [?-] bada només que falta de sang perquè havia 25 mesos que anava perdent, ja per tant espai de temps se li han fet tots els remeis que podien conduir a acabar'l, però es veia que Déu Nostre Senyor el volia per a ell, perquè tot pareixia li provava al principi i amb la continuació, la flaquia [?]. El dia 2 de juliol proppassat li prengué desconcert amb calentura i encara que l’hi atacaren, però romangué tant més flac que no és estat possible el recobrar-se i pocs dies hom de morir li aparegué un poc d'inflamació i el dia que desaparegué, i fou tanta la via a passar el mal que als 5 de la mateixa tarda li fou administrat al senyor viàtic i cosa de les 11 se li carregà el pit i moria a les 9 del matí del dia 5, ant estes hores, fou tanta la claredat que tingué que no perdé [2§] un punt d’encomanar-se a Déu N<ost>re S<enyo>r i advertint quant pugui imaginar, i a mi em deixà tants bons avisos que amb els exemples de la seva via i bons consells dels últims instants me faig reflexió que sinen seveles [?] m’aguarda un gran compte que dar a Déu. En son testament fa hereu universal de tots els seus béns a d. Salvador Sureda de Santmartí i Cotoner i manà em dega pagar cada any 800 lliures mentre duri la meua vida. I de dites 800 lliures, 300 lliures perpètues de què jo pugui dispondre, i també diferents alaques d'or i plata per adornar la casa a on habitar que per ser la a on vivíem dels hereus és precís deixar-la. Ja en tenc una de què és junt les Caputxines de d. Ramon Villaronga a on passar el més prest que puga, la que li oferesc a tot senallitre [?]. He entregat l’import del tabac al germà de v. m. i si havia quedat ningun {ESP. residuo} de [?] m’avis, perquè jo pugui [a la izquierda, de arriba abajo]satisfer-lo. Si alguna cosa se li ofereix, avís segur de què el faré amb molt de gust. Transcripción literal"
+  ],
+  "literal": [
+    "1. {esp.} Querido Sobrino, y Muy S<eño>r Mio 2. en carta de 11 del vencido partisipe 3. á V. Ex< celenci>a la perdida de mi Querido 4. Esposo, y Tio de V. Ex< celenc>a ponien[do] quatro 5. palabras solamente de mi puño 6. S< enyo>r Dr. Molt S< enyo>r meu am>b lo 7. coreu pessat no vatx tenir 8. hanima de ascriurer á V.M. 9. de ma propia per trobarme 10. hocupedisima, y a< m>b la aflicsió 11. que pot V.M. pensar, y no 12. gens bone de una carrega 13. an el pit bestant forte, que 14. as astat presis posarme an 15. mas de los mejes, me an 16. fetes dar dejunias, y diferens 17. medisinas, y ancare astihc 18. bestant flaca pero he ven- 19. suda la tos del tot, G< ràcie>s a Deu 20. que here el major mal 21. que petia /p> [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "458-228a.jpg",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo06/458-228a.jpg",
+      "url": "/legajos/legajo-06/images/458-228a.jpg"
+    },
+    {
+      "filename": "459-228ba.jpg",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo06/459-228ba.jpg",
+      "url": "/legajos/legajo-06/images/459-228ba.jpg"
+    },
+    {
+      "filename": "459-228bb.jpg",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo06/459-228bb.jpg",
+      "url": "/legajos/legajo-06/images/459-228bb.jpg"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "458-228a.jpg",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-06/cartas/000767.json",
+  "primary_image_url": "/legajos/legajo-06/images/458-228a.jpg"
+}

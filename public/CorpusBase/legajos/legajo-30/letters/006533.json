@@ -1,0 +1,38 @@
+{
+  "legajo_id": "30",
+  "id_carta": "6533",
+  "order_in_legajo": 115,
+  "signatura": "010:5371.JPG",
+  "nombre_carta": "Carta de Enrique de Aragón (VI duque de Cardona) a Pedro Santacilia y Pax",
+  "fecha_original": "25 de abril de 1635",
+  "lugar": "Perpiñán",
+  "remitente": "Enrique de Aragón (VI duque de Cardona)",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Transcripción literal"
+  ],
+  "literal": [
+    "1. al dotor ???1. my contador que esta en ba len-1. cya le ordeno re my ta a vm dos 1. cyentas lybras vm perdone 1. y admyta my boluntad, que 1. sera demostrar syenpre cuan 1. segura la tyene vm1."
+  ],
+  "imagenes": [
+    {
+      "filename": "010:5371.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo30/010:5371.JPG",
+      "url": "/legajos/legajo-30/images/010:5371.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "010:5371.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-30/cartas/006533.json",
+  "primary_image_url": "/legajos/legajo-30/images/010:5371.JPG"
+}

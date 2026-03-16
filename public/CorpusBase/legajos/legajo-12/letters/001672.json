@@ -1,0 +1,38 @@
+{
+  "legajo_id": "12",
+  "id_carta": "1672",
+  "order_in_legajo": 176,
+  "signatura": "263_6265.JPG",
+  "nombre_carta": "Carta de Antoni Rubí a Pedro Santacilia y Pax",
+  "fecha_original": "5 de septiembre de 1656",
+  "lugar": "Ciutadella",
+  "remitente": "Antoni Rubí",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Ilustísimo Sr. Por manos de don Bartolomé Mercadal, teniente de v. s., recibí la de 19 del pasado de cuya y del dicho su teniente de v. s. veo la merced que v. s. me tiene hecha de que se me paguen aquí los ducados [?] de la ayuda de costa que su majestad, Dios guarde, me tiene concedida. Quedo Sr. tan agradecido como si v. s. me los diese. Confío de la grandeza de v. s. conseguir muchas órdenes de su gusto y muy más presto de verle mayores regalos que con toda seguridad puede v. s. prometerse los de mi voluntad tan obligada y expuesta a obedecer y servir a v. s. en todo lo que se ha de mandarme. Guarde Dios a v. s. muy largos y felices años como deseo. Ciudadela de Menorca y septiembre 5 1656. Besa los pies de v. s. su más cierto servidor El Sr. Antoni Rubi [1§] Transcripción literal"
+  ],
+  "literal": [
+    "1. Illmo Sr2. Por manos de Don Be Mercadal tinie[nte]3. de VS recivi la de 19 del passado de cu4. ya y del dicho su tiniento de VS veo la 5. merced que vs me tiene hecha de que6. se me paguen aqui los ???? de la ayu7. da de costa que su magd. Dios gde. me8. tiene concedida, quedo sr, tan agradecido como9. si VS me los diesse confio de la grandessa de10. VS consseguir muchas ordenes de su gusto y11. muy mas presto de verle mayores reg[a]los12. que con toda seguridad puede VS prometerse13. los de mi voluntad tan obligada y expuesta14. a obedecer y servir a vs en todo lo que se ha15. re mandarme Gde dios a VS muy largos y16. fe[lice]s a[ño]s como deseo Ciuda[dela] de Menorca y 7bre17. 5 165618. B L P de VS19. su mas sierto ser[vid]or20. D Antoni Rubi [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "263_6265.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo12/263_6265.JPG",
+      "url": "/legajos/legajo-12/images/263_6265.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "263_6265.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-12/cartas/001672.json",
+  "primary_image_url": "/legajos/legajo-12/images/263_6265.JPG"
+}

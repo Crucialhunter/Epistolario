@@ -1,0 +1,38 @@
+{
+  "legajo_id": "34",
+  "id_carta": "5035",
+  "order_in_legajo": 63,
+  "signatura": "100:6950.JPG",
+  "nombre_carta": "Carta de Anton de Rocabertí i de Pau a Pedro Santacilia y Pax",
+  "fecha_original": "28 de abril de 1656",
+  "lugar": "Barcelona",
+  "remitente": "Anton de Rocabertí i de Pau",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Alos veinte i seis Deste fue Dios Cervido levarce d'esta vida per a mejor el Alma de mi senyora dona Anna de çarriera i de Rocaberti mi madre después d'haver Recibido els sacramentos de la {ESP. iglesia} cuya {ESP. pérdida} ha cido per a mi i mis hermanos de tanta pena que solo participàndola con v. s. com a tan d'esta casa nos puede quedar este alivio i el de pensar l'encomendara v. s. a Dios i que doncs quedan a mi Cargo sus mesmas obligaciones me mandarà v. s. el que fuere (/fuere) de sa major Cervicion cuya vida guardi Dios com puede i Deseo Bna Abril 28 de 1656 {CAT. Molt servidor de v.s.} que su mano besa don Anton de Rocaberti i de Pau 20, extrem inferior esquerre Sr. don Pedro Santacilia i Pax [1§] Transcripción literal"
+  ],
+  "literal": [
+    "1. Alos veynte y seys Deste fue dios Cervido2. levarçe desta vida para mejor el Alma3. demi Señora doña Anna de Çarriera y4. de Rocaberti mi madre Despues de5. haver Recibido los sacramentos dela6. Iglesia Cuya perdida ha çido para mi7. y mis hermanos de tanta pena q solo8. participandola Con v.s. Como a tan9. Sr. desta Casa nos puede quedar este10. alivio y el de pensar la encomendara11. VS. a dios y q pues quedan ami Cargo12. sus mesmas obligaciones me mandara v.s.13. lo q fuere (/fuere) desu mayor Cerviçio Cuya14. vida gde dios Como puede y Deseo Bna15. Abril 28 de 165616. {cat.} Molt Servidor de v.s.17. q su m B18. don Anton de Rocaberti19. y de Pau20. [30, extrem inferior esquerre] Sr. Don Pedro Sta Cilia y Pax [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "100:6950.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo34/100:6950.JPG",
+      "url": "/legajos/legajo-34/images/100:6950.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "100:6950.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-34/cartas/005035.json",
+  "primary_image_url": "/legajos/legajo-34/images/100:6950.JPG"
+}

@@ -1,0 +1,38 @@
+{
+  "legajo_id": "29",
+  "id_carta": "6423",
+  "order_in_legajo": 105,
+  "signatura": "189:4240.JPG",
+  "nombre_carta": "Carta de Matías de Bayetola y Cavanillas a Pedro Santacilia y Pax",
+  "fecha_original": "15 de abril de 1651",
+  "lugar": "Madrid",
+  "remitente": "Matías de Bayetola y Cavanillas",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Del feliz viaje y llegada de v. m. a esa ciudad, he tenido particular gusto, pues con este aviso me ha quitado el cuidado en que me tenía. V. m. viva muchos años y goce del sosiego de su casa, después de tanta ausencia y trabajos, y si yo fuera de algún alivio en su servicio de v. m. le suplico me lo mande. Dios guarde a v. m. muchos años como deseo, en Madrid a 15 de abril 1651. Beso a v. m. su mano, su mayor servidorDon Matias de Bayetola y Cavanillas Sr. don Pedro Santacilia y Pax Transcripción literal"
+  ],
+  "literal": [
+    "1. Del feliz viaje y llegada de Vm. a essa ciudad, he 2. tenido particular gusto, pues con este aviso me 3. ha quitado el cuidado en que me tenia, Vm viva 4. muchos años y goze del sossiego de su casa, despues 5. de tanta ausencia y trabajos, y si yo fuera de algun 6. alivio en su servicio de Vm. le supplico me lo mande 7. Dios gde. a Vm. muchos años como deseo, en Madrid 8. a 15 de Abril 16519. B. a Vm. s. m. s. maior Servor. 10. Don Mathias de ?? 11. y Cavanillas12. Sr. Don Pedro Sª.Cilia y Pax [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "189:4240.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo29/189:4240.JPG",
+      "url": "/legajos/legajo-29/images/189:4240.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "189:4240.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-29/cartas/006423.json",
+  "primary_image_url": "/legajos/legajo-29/images/189:4240.JPG"
+}

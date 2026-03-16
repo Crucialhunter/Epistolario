@@ -1,0 +1,43 @@
+{
+  "legajo_id": "18",
+  "id_carta": "3080",
+  "order_in_legajo": 114,
+  "signatura": "186:4919a.JPG",
+  "nombre_carta": "Carta de Basilio de Castellví y Ponce a Pedro Santacilia y Pax",
+  "fecha_original": "19 de junio de 1664",
+  "lugar": "Valencia",
+  "remitente": "Basilio de Castellví y Ponce",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Señor mío recibosu carta de v. s. de 11 de este y siento mucho secontínûe el cahaque de la gota que aunque digan es señal de vida larga no deja de ser sensible y de gran penalidad, v. s. tenga muy entera sd que es de lo que sus servidores nos holgaremos yo quedo al servicio de v. s. bueno y Dña. laura y Giuseppe lo están y todos Besamos a v. s. las manos No es poca dha, ladeque su majestad este más alentado Dios por su Misericordia quiera darle lasd [?] de que necesitamos Por acá No hay Novedades de que avisar a v. s. la quietud que gozamos en todo este reino es infinita con la buena admi nistración de justicia del marques de San Roman que aseguro a v. s. con todas veras escuanto abíamos Menester Sr. don Rodrigo de Borja ha salido alapretensión de esta Baylia habiendo conseguido unservo de 50 r pagados en dos años y su hijo Sr. D. Giuseppe va a servir con un tercio a la armada real [1§] No se me ofrece otra cosa que dezir a v. s. cuya vida guarde Dios como deseo, Valencia a 17 de junio de 1664 Ba v. s. la mo su mayor servidor Don Basilio de Castellvi y Ponce Sr. D. Pedro de Santacilia y Pax [2§] Transcripción literal"
+  ],
+  "literal": [
+    "1. Señor mio reçivosu carta de VS. de 11 deste y siento mucho 2. secontínûe el cahaque dela gota que aunque digan es señal de 3. Vida larga no dexa deser sensible yde gran penalidad, VS tenga 4. muy entera sd que es delo que sus servidores nos olgaremos yo quedo 5. al servo de VS. bueno y Da laura y Jusepe lo estan ytodos Vesamos 6. â VS. las manos = 7. No es poca dha, ladeque su M[a]gd este mas alentado Dios porsu 8. Misericordia quiera darle lasd[?] de que neçesitamos = 9. Por acâ No ay Nobedades de que avisar â VS. la quietud 10. que gozamos entodo este Reyno es ynfinita conla buena admi11. nistraçion de Justiçia del sr Marques de S[a]n Roman que 12. aseguro â VS. contodas Veras esquanto abiamos Menester = 13. Don Rodrigo de Borja asalido alapretension desta 14. Baylia abiendo conseguido unservo de 50 r[] pagados 15. endos años y su hijo Dn Jusepe ba aservir con un terçío ala 16. armada Real [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "186:4919a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo18/186:4919a.JPG",
+      "url": "/legajos/legajo-18/images/186:4919a.JPG"
+    },
+    {
+      "filename": "187:4919b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo18/187:4919b.JPG",
+      "url": "/legajos/legajo-18/images/187:4919b.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "186:4919a.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-18/cartas/003080.json",
+  "primary_image_url": "/legajos/legajo-18/images/186:4919a.JPG"
+}

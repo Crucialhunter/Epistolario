@@ -1,0 +1,53 @@
+{
+  "legajo_id": "1",
+  "id_carta": "529",
+  "order_in_legajo": 1,
+  "signatura": "001-201a",
+  "nombre_carta": "Carta de José Balell a Jerónimo Pelegrín de Aragüés",
+  "fecha_original": "",
+  "lugar": "",
+  "remitente": "",
+  "destinatario": "",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Amo mío, he recibido la de vuestra merced con todo contento, estimando la merced es sabido continuarme con la noticia de su salud, como siempre me sucederá. El pliego del señor tío va hoy a Madrid, y con esos pasajes van todos los que tengo de su merced para el señor don Pedro, y como me avisa este correo con el que he recibido, que van cosas de gusto para su señora y para vuestra merced, y da parte de las novedades del estado de la monarquía, que serán las más ciertas, no cansaré a mi amo ni a vuestra merced, solo digo que el señor duque de Osuna entró el jueves con mucha ostentación. Veremos cómo se pondrán las materias de ese Principado habiendo ya escaramuzado nuestra caballería con la del enemigo en el Ampurdán. Murieron cuatro soldados nuestros y seis del enemigo. Prisionero el teniente y tres caballos pillados, conque esto va muy de veras, aunque este año no habrá mucha cosa. Por acá, lo demás sabrá vuestra merced por la del señor don Pedro, porque no hay más tiempo. A todos los amigos beso la mano, quedando como siempre para servirle. Guarde Nuestro Señor a vuestra merced años, como puede, deseo y he menester. Barcelona y agosto a 6 de 1667. Al señor don Nicolás parece tendremos presto por acá, que así me lo avisa el señor tío. Cierto servidor y amigo de vuestra merced, que sus manos besa. Jose Balell Señor Jeronimo Pelegrin de Aragues. [1§] {CAT. Barcelona, 6 de agost, 1667. Resposta 16 de dit.} Del sargento mayor Balell. [2§] Llorenç Barceló y Palou. [3§] A Jeronimo Pelegrin de Aragues, que Nuestro Señor guarde muchos años como deseo. . Mallorca. Transcripción literal"
+  ],
+  "literal": [
+    "1. Amo mio he recivdo la de V m con todo con2. tento, estimando la Md es savido conti3. nuarme con la noticia de su salud como4. siempre me sucedera, el pliego del S Tío 5. va oy A Madrid y con esos pasajes van 6. todos los que tengo de su Md. pa el S D 7. Pedro. y como me avisa este correo con el que 8. he recivdo, que van cosas de gusto pa su Sª 9. y pa V md y da parte delas novedades 10. del estado dela monarquía que seran11. las mas ciertas. no cansaré A mi Amo 12. ni a V m = solo digo que el S duque de 13. osuna entro jueves con mucha ostenta14. cion veremos como se pondran las 15. materias dese Principado haviendo ya esca16. ramuçado nra cavalla con la del enemigo. 17. enel Ampurdan Murieron quatro sol18. dados nros y seis del enemigo Prisionero 19. el tiniente y tres cavallos pillados20. conque esto va mui de veras. aunque este21. año no habra mucha cosa. por aca lo22. demas sabra V m por la del Sr. d. P por23. que no ay mas tiempo. A todos los ami24. gos beso la mano quedando como siem25. pre p servirle gde nro S a V m. ms26. a< ño>s como puede, deso y he menester. Bar27. celona y agto. A 6 de 1667. 28. Al Sr d. nicolas parece tendremos presto 29. por aca que asi melo avisa el Sr Tio.30. S Gmo Pelegrin de Aragues 31. Cierto Seror y A de Vm. q s m b32. Joseph Balell [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "001-201a.gif",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo01/001-201a.gif",
+      "url": "/legajos/legajo-01/images/001-201a.gif"
+    },
+    {
+      "filename": "002-201ba.gif",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo01/002-201ba.gif",
+      "url": "/legajos/legajo-01/images/002-201ba.gif"
+    },
+    {
+      "filename": "002-201bb.gif",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo01/002-201bb.gif",
+      "url": "/legajos/legajo-01/images/002-201bb.gif"
+    },
+    {
+      "filename": "002-201bc.gif",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo01/002-201bc.gif",
+      "url": "/legajos/legajo-01/images/002-201bc.gif"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "001-201a.gif",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING",
+      "message": "Se detectaron caracteres sospechosos de encoding (5)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-01/cartas/000529.json",
+  "primary_image_url": "/legajos/legajo-01/images/001-201a.gif"
+}

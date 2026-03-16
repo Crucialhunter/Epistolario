@@ -1,0 +1,38 @@
+{
+  "legajo_id": "19",
+  "id_carta": "7700",
+  "order_in_legajo": 16,
+  "signatura": "392_7907.JPG",
+  "nombre_carta": "Carta de Fructuoso Piqué a Pedro Santacilia y Pax",
+  "fecha_original": "fecha sin especificar",
+  "lugar": "lugar sin especificar",
+  "remitente": "Fructuoso Piqué",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Sr. mío ya se me passo el enojo con el cochero, ocasionado del cansancio de venir a pie, y assi supco. a v. m. me haga merced. de no despedirle, que lo estimare mucho a v. m. como estimo la que me hizo del coche y beso a v. m. la mano por todo, guarde Dios a v. m. mil años como deseo, de la Cansria. hoy lunes Seror. siempre de v. m. Fructuoso Pique Sr. Don Pº. de sta. Cilia y Pax [1§] Transcripción literal"
+  ],
+  "literal": [
+    "1. Sr. mio ya se me passo el enojo con el 2. cochero, ocasionado del cansancio de venir 3. a pie, y assi suppco. a vm. me haga md. de 4. no despedirle, q lo estimare mucho a vm 5. como estimo la q me hizo del coche 6. y beso a vm. la mano por todo, gde. 7. Dios a vm. mil años como deseo, de la 8. Cansria. oy lunes 9. Seror. siempre de vm 10. Fructuoso Pique 11. Sr. Don Pº. de sta. Cilia y Pax [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "392_7907.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo19/392_7907.JPG",
+      "url": "/legajos/legajo-19/images/392_7907.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "392_7907.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-19/cartas/007700.json",
+  "primary_image_url": "/legajos/legajo-19/images/392_7907.JPG"
+}

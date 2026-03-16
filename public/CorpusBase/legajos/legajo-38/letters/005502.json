@@ -1,0 +1,38 @@
+{
+  "legajo_id": "38",
+  "id_carta": "5502",
+  "order_in_legajo": 122,
+  "signatura": "045:26",
+  "nombre_carta": "Carta de Escrivà Miralles a Persona desconocida",
+  "fecha_original": "1 de enero de 1667",
+  "lugar": "Santanyí",
+  "remitente": "Escrivà Miralles",
+  "destinatario": "Persona desconocida",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Delma de bestiars de Santagni del Any 1667 lliurat a Miquel Bauça fadri fill de Cosme gº de Son Pa ricas de la vila de St. Juan per 491 ll. fiancas Miquel Bauca dit de Son Pericas Magi Bauça major i Matgi Bauça menor tots de St. Juan Miralles sba. Sr. D. Juan Bautista Zaforteza mensari Sr. don Diego Clapes mensari Antoni Piza menor Ador. del Bisbat Pere Onofre Mayol pdor. de la mensa Capi tular [1§] Transcripción literal"
+  ],
+  "literal": [
+    "1. Delma de bestiars de Santagni 2. del Añy 1667 lliurat a Miquel 3. Bauça fadri fill de Cosme gº de Son Pa-4. ricas de la vila de St. Juan p[er] 491 ll.5. ff[ianc]as 6. Miquel Bauca dit de Son Pericas7. Magi Bauça major y8. Matgi Bauça menor tots de St. Juan9. Miralles sba.10. D. Juan Bapt[ist]a Saforteza mens[ari]11. Don Diego Clapes mens[ari]12. Antoni Piza me[nor] Ador. del Bisbat13. Pere Honofre Mayol 14. pdor. de la mensa Capi-15. tular [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "045:26.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo38/045:26.JPG",
+      "url": "/legajos/legajo-38/images/045:26.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "045:26.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (2)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-38/cartas/005502.json",
+  "primary_image_url": "/legajos/legajo-38/images/045:26.JPG"
+}

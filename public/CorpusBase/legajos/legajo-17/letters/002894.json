@@ -1,0 +1,38 @@
+{
+  "legajo_id": "17",
+  "id_carta": "2894",
+  "order_in_legajo": 159,
+  "signatura": "276:1436.JPG",
+  "nombre_carta": "Carta de Matías Esteve a Pedro Santacilia y Pax",
+  "fecha_original": "30 de mayo de 1660",
+  "lugar": "Valldemossa",
+  "remitente": "Matías Esteve",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "La de v. m. tinc rebuda i vist el contingut en ella dic que en molt gran gust hauria servit a v. m. però nom és estat possible perquè el diner que el Dr. Baltasar Esteve mon jer ma ha passat en Madrid no està a disposició mia, sinó que ha desperat vint i un mil rels al Sr. don Josep Sanxes hay carta receptor del supremo, de la qual quantitat estic jo a guardant per hores polices de camui [?] contra del Reial Patrimoni, que si hagués estat el diner a ma disposició sens dubte hauria re but, aquest favor de v. m. El qual guardi Déu molts i feliços anys. d'esta sa casa de la Rectoria i maig als 30 de 1660. Servidor. de v. m. El Dr. Matia Esteve pvre. i Ror de Valldemossa. Sr. don Pedro Santacilia . [1§] Transcripción literal"
+  ],
+  "literal": [
+    "1. La de v.m. tinch rabuda y vist lo contingut en ella dich 2. que en molt gran gust hauria servid a v.m. pero nom es estat 3. possibla per que el diner que el dor Baltazar Esteve mon jer=4. ma ha passat en madrid no esta a disposiçió mia, sino que 5. ha desperat vint y un mil rels al Sr. Don Joseph Sanxes Ai=6. carte receptor del supremo, de la qual quentitat estich jo a=7. guardant per horas poliçes de camui??? contra del Real Patrimoni, 8. que si agues estat el diner a ma disposició sens dubte heuria re9. but, aquest favor de v.m. El qual guarde Deu molts y feliçes 10. anys. desta sa casa de la Rectoria y maig als 30 de 1660.11. Srdor. de Vm12. El dor. Matia Esteve prre y Ror 13. de Valldemossa.14. Sr. Don Pedro Santeçilia. [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "276:1436.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo17/276:1436.JPG",
+      "url": "/legajos/legajo-17/images/276:1436.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "276:1436.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-17/cartas/002894.json",
+  "primary_image_url": "/legajos/legajo-17/images/276:1436.JPG"
+}

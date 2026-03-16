@@ -1,0 +1,78 @@
+{
+  "legajo_id": "41",
+  "num_cartas": 143,
+  "num_imagenes": 338,
+  "rango_temporal": [
+    1627,
+    1679
+  ],
+  "remitentes_frecuentes": [
+    {
+      "name": "Persona desconocida",
+      "count": 93
+    },
+    {
+      "name": "Pedro Santacilia y Pax",
+      "count": 17
+    },
+    {
+      "name": "conde de Santa María de Formiguera",
+      "count": 13
+    },
+    {
+      "name": "No consta",
+      "count": 4
+    },
+    {
+      "name": "Juan Vivot",
+      "count": 2
+    }
+  ],
+  "destinatarios_frecuentes": [
+    {
+      "name": "Persona desconocida",
+      "count": 116
+    },
+    {
+      "name": "Pedro Santacilia y Pax",
+      "count": 20
+    },
+    {
+      "name": "Felipe IV",
+      "count": 4
+    },
+    {
+      "name": "Regente del Supremo Consejo de Aragón",
+      "count": 2
+    },
+    {
+      "name": "Gregorio Romero de Morales",
+      "count": 1
+    }
+  ],
+  "lugares_frecuentes": [
+    {
+      "name": "Mallorca",
+      "count": 91
+    },
+    {
+      "name": "lugar sin especificar",
+      "count": 26
+    },
+    {
+      "name": "Palma",
+      "count": 13
+    },
+    {
+      "name": "Lugar sin especificar",
+      "count": 6
+    },
+    {
+      "name": "Pamplona",
+      "count": 2
+    }
+  ],
+  "temas_frecuentes": [],
+  "warnings_count": 45,
+  "densidad_narrativa_estimada": "Media"
+}

@@ -1,0 +1,37 @@
+{
+  "legajo_id": "32",
+  "id_carta": "7210",
+  "order_in_legajo": 210,
+  "signatura": "295:1968a.JPG",
+  "nombre_carta": "Carta de Pablo Corbella a Pedro Santacilia y Pax",
+  "fecha_original": "19 de octubre de 1666",
+  "lugar": "Càller (Cagliari)",
+  "remitente": "Pablo Corbella",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "[1§] [2§] Transcripción literal"
+  ],
+  "literal": [
+    "1. 1."
+  ],
+  "imagenes": [
+    {
+      "filename": "295:1968a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo32/295:1968a.JPG",
+      "url": "/legajos/legajo-32/images/295:1968a.JPG"
+    },
+    {
+      "filename": "296:1968b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo32/296:1968b.JPG",
+      "url": "/legajos/legajo-32/images/296:1968b.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "295:1968a.JPG",
+  "warnings": [],
+  "raw_source": "raw/legajos/legajo-32/cartas/007210.json",
+  "primary_image_url": "/legajos/legajo-32/images/295:1968a.JPG"
+}

@@ -1,0 +1,38 @@
+{
+  "legajo_id": "18",
+  "id_carta": "3098",
+  "order_in_legajo": 136,
+  "signatura": "210:4937.JPG",
+  "nombre_carta": "Carta de Pedro de Verí a Pedro Santacilia y Pax",
+  "fecha_original": "8 de octubre de 1664",
+  "lugar": "Madrid",
+  "remitente": "Pedro de Verí",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Recibo la de v. s. de 28 de agosto con gusto por participarme de su feliz llega a esta ciudad con salud que no se la prospere y aumente a v. s. muchos años. Sirviose su majestad de darnos resolución favorable en nuestro negocio replico el Consejo de Aragón al último punto de ella estoy aguardando se me den los despachos teniéndolas trataré de mi viaje para esa ciudad, donde procuraré vengarme de v. s. por lo que ha dicho de mi a la tía y Sra. Isabel, si bien con la llegada del conde de Formiguera se habrán descubierto las verdades, que algunas de ellas no habrá faltado quien las haya escrito al Sr. don Gabriel v. s. ya sabe que soy suyo con que me excusaré de cumplimientos suplicándole de mi Sra. Dña. Leonor muchos recados de mi para a quien es guarde el Cielo muchos años. Madrid y octubre a 8 de 1664 de v. s. Servidor que sus manos besa D. Pedro de Veri Sr. don Pedro de Santacilia y Pax [1§] Transcripción literal"
+  ],
+  "literal": [
+    "1. Resibo la de V.Sª de 28 de Agosto con 2. gusto por partisiparme desufeliz llega3. da aesta Ciudad consalud que no 4. Sr selaprospere y aumente a V.Sª mu-5. chos años. 6. Sirviose su Majestad de darnos resolucio 7. favorable en no negocio replico el Conse8. jo de Arago al ultimo punto deella 9. estoy aguardando semeden los despachos 10. teniendolas tratare demi viaje para 11. essa Ciudad, donde procurare vengarme 12. de V.Sª porlo que hadicho demi ala 13. tia y sra Isabel, sibien con la llegada 14. del Conde de formiguera sehabran des15. cubierto las verdades, que algunas dellas 16. no habra faltado quien las haga escri-17. to alsr d Grabiel = 18. V.Sª ja sabe que soy sujo conque me 19. escusare de complimientos suplicandole 20. deamiSa da Eleonor muchos recadosde 21. mi paraquienes gde el Cielo muchos años 22. Madrid y 8bre a 8. de 1664. 23. De V.Sª Sdor q s m b 24. D Pedro de Veri25. [Margen izquierdo][^ Sr Don pedro de Sta Cilia y Pax] [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "210:4937.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo18/210:4937.JPG",
+      "url": "/legajos/legajo-18/images/210:4937.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "210:4937.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-18/cartas/003098.json",
+  "primary_image_url": "/legajos/legajo-18/images/210:4937.JPG"
+}

@@ -1,0 +1,43 @@
+{
+  "legajo_id": "11",
+  "id_carta": "1249",
+  "order_in_legajo": 19,
+  "signatura": "021:5109a.JPG",
+  "nombre_carta": "Carta de Francisco Gómez a Pedro Santacilia y Pax",
+  "fecha_original": "6 de marzo de 1643",
+  "lugar": "Ciutadella",
+  "remitente": "Francisco Gómez",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Parece que v. s. tiene razón porque sus servidores en su nombre sentimos la tardanza de mi sra. doña Madalena que hará v. s. y más viendo desde el alcacer a Mallorca. Espero en Dios que presto estará v. s. gustoso porque antes de ayer se vio salir del cabo de la piedra dos bajeles y se volvieron atrás por ser el viento contrario. Ayer su fue Monar por tenerlo favorable. No hay cosa de nuevo que sea de contar; el padre Anglada predica verdades con notable gracia y doctrina de que es justo den a v. s. Las gracias los jurados pues ha sido causa que gocemos predicador tan extremado, antes de ayer le dije que v. s. era como la campana que siempre [?] a misa y nunca la oye supuesto le ha hecho venir y no le oye sus sermones dijo que tenía razón, pero poco Sr. gobernador [1§] vale venga con [borrado y roto] [Mag]dalena que yo confío se enmendará v. s., que guarde Nuestro Señor. Da. Catalina besa sus manos de v. s. muchas veces. Ciudadela, marzo 6 de 1643. Don Francisco Gomez. A don Juan que por cuenta de v. s. estaba en el mesón solo le vi recién llegado una vez y aguardando que hubiese bajel para hacerle embarcar me han dicho se ha ido hoy. Dios le descarte a v. s. de tal sabandija que según cuentan de él es para escandalizar el mundo. Si no se hubiese ausentado le hubiera embarcado con Munar aunque es contingente le haya llevado porque dicen iba hoy para embarcarse con él. Transcripción literal"
+  ],
+  "literal": [
+    "1. Pareze que V.Sª. tiene rraçon por que sus 2. servidores en su nombre sentimos la tar 3. dansa de mi Sra. doña Madalena que 4. ara VSª y mas biendo desdel alcaser a 5. Mallorca. espero en Dios que presto esta 6. ra VSª gustoso por que antes de ayer 7. se vio salir del cabo de la piedra6 dos ba 8. xeles i se bolvieron atras por ser el bien 9. to contrario. Ayer su fue Monar 10. por tenerle faborable, no ay cosa de 11. nuebo que sea de contar, el padre An 12. glada predica berdades con notable 13. grasia y doctrina de que es justo den a 14. V.Sª las grasias los jurados pues a sido 15. causa que gozemos predicador tan ex 16. tremado, antes de ayer le dixe que V.Sª. 17. era como la campana que siempre ta 18. ñe a misa y nunca la oye7 supuesto 19. le a hecho venir y no le oye sus sermo 20. nes dixo que tenia rraçon pero po 21. [^Sr. Governador^] [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "021:5109a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo11/021:5109a.JPG",
+      "url": "/legajos/legajo-11/images/021:5109a.JPG"
+    },
+    {
+      "filename": "022:5109b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo11/022:5109b.JPG",
+      "url": "/legajos/legajo-11/images/022:5109b.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "021:5109a.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-11/cartas/001249.json",
+  "primary_image_url": "/legajos/legajo-11/images/021:5109a.JPG"
+}

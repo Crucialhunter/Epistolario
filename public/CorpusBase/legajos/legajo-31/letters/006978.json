@@ -1,0 +1,37 @@
+{
+  "legajo_id": "31",
+  "id_carta": "6978",
+  "order_in_legajo": 218,
+  "signatura": "317:1729.JPG",
+  "nombre_carta": "Carta de Marc Sancho a Pedro Santacilia y Pax",
+  "fecha_original": "28 de agosto de 1664",
+  "lugar": "Ciutadella",
+  "remitente": "Marc Sancho",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Transcripción literal"
+  ],
+  "literal": [
+    "1. 1."
+  ],
+  "imagenes": [
+    {
+      "filename": "317:1729.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo31/317:1729.JPG",
+      "url": "/legajos/legajo-31/images/317:1729.JPG"
+    },
+    {
+      "filename": "318:1729bis.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo31/318:1729bis.JPG",
+      "url": "/legajos/legajo-31/images/318:1729bis.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "317:1729.JPG",
+  "warnings": [],
+  "raw_source": "raw/legajos/legajo-31/cartas/006978.json",
+  "primary_image_url": "/legajos/legajo-31/images/317:1729.JPG"
+}

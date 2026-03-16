@@ -1,0 +1,43 @@
+{
+  "legajo_id": "35",
+  "id_carta": "5329",
+  "order_in_legajo": 145,
+  "signatura": "158:8176a.JPG",
+  "nombre_carta": "Carta de Joan Antoni Albertí a Pedro Santacilia y Pax",
+  "fecha_original": "12 de mayo de 1645",
+  "lugar": "Maó",
+  "remitente": "Joan Antoni Albertí",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Demprés d'haver a v. s. a moltes vegades besades les mans, m'ha paregut escriure esta per veure la bona voluntat aporta a tots els Albertins i dir-li de com el jurat Mercadal s'ha deixat dir que aquest any ha de treure de les llistes o no aportar en llista de ciu tadans a ningun notari. I com sia en perjudici i toca a reputació d'alguns notaris, m'ha apare gut suplicar a v. s. a tengui en memòria quan se farà la inseculació, que Rafel Albertí es ciutadà com els {ESP. demés} de Menorca, doncs en aquesta illa no hi ha ciutadans de privilegi, qui aborren que dit Albertí no sia ciutadà. I ambe [?] sia notari, no per això ha de perdre el que els seus pares li han guanyat, que li es veritat, i ha en Menorca molts mossèns per esser notaris, no és d'aqueixos Rafel Albertí en Ciutadella ni Tomàs Abadia en Maó, doncs de tots llurs pares i avís ja eren hòmens de bé i mon avi, Joan Albertí, en Alaior ha més de 70 anys, era ja ense culat en el sac de braç major en dita vil·la i no hi haurà 36 anys bal·le de dita vil·la i pot parlar també de son llinatge Rafel Albertí com el jurat Mercadal, que el que ha dos dies {ESP. alcanzat} [?] en esser cavaller el pot {ESP. alcançar} també Rafel Albertí, que no hi ha més parts en un que en altre. I perdon v. s. a del {ESP. modo} he tingut perquè se tenint governador aquí a v. s. a no hi havia necessitat d'escriure. a mi senyora dona Magdalena i Beatriu i filleta mil saluts i que a tots me’ls guardi a. Déu No. molts anys com jo desitja. de Maó i maig a 12 de 1645. El Dr. Joan Antº Albertí Transcripción literal"
+  ],
+  "literal": [
+    "1. Denpres de aver a VSa moltes vegades bessades les mans2. me ha aperegut escriure essta per veura la bona3. voluntat aporta a tots los Albertins y dirli de com4. lo jurat Mercadal se ha dexat dir que est añy ha5. de treura de les Llistas o no aportar en llista de Ciu6. tedans a ningun nottari y com sia en perjudisi7. y toca a reputatio de alguns notaris me ha apere8. gut suplicar a VSa tenga en memoria quant se fera9. la inseculatio, que Raphel Alberti es ciuteda com10. los dames de menorca puis en esta Illa noy ha11. ciutedans de prvilegi qui aborren que dit Alberti12. no sia ciuteda y abe sia nottari no per axo ha de13. perdra lo que sos pares li an guañyat que li es veritat14. y ha en menorca molts mossens per asser notaris15. no es de aquexos Raphel Alberti en Ciutadella ni16. Thomas Abadia en maho, puis de tots llus pares17. y avis ja eran homens de be y mon avi Joan18. Alberti en Aleyor a mes de 70 añys era ja anse19. culat anel sach de bras major en ditta villa y20. noy eura 36 añys balle de ditta villa y pot21. perllar tanbe de son llinatje Raphel Alberti com22. el jurat mercadal que lo que ha dos dias el carsat23. en asser cavaller lo pot alcansar tanbe Raphel24. Alberti que noy ha mes parts en un que en altre25. y perdon VSa del modo he tingut perque se tenint26. Sr. Governedor [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "158:8176a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo35/158:8176a.JPG",
+      "url": "/legajos/legajo-35/images/158:8176a.JPG"
+    },
+    {
+      "filename": "159:8176b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo35/159:8176b.JPG",
+      "url": "/legajos/legajo-35/images/159:8176b.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "158:8176a.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-35/cartas/005329.json",
+  "primary_image_url": "/legajos/legajo-35/images/158:8176a.JPG"
+}

@@ -1,0 +1,38 @@
+{
+  "legajo_id": "14",
+  "id_carta": "1978",
+  "order_in_legajo": 77,
+  "signatura": "146:2493.JPG",
+  "nombre_carta": "Carta de Pedro Santacilia y Pax a Jerónimo Villanueva",
+  "fecha_original": "12 de junio de 1642",
+  "lugar": "Barcelona",
+  "remitente": "Pedro Santacilia y Pax",
+  "destinatario": "Jerónimo Villanueva",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "[?] hasta saber que quedaba v. m. en esa corte libre ya de los enfados [?] el atreverme a añadir a sus graves ocupaciones la de pasar los ojos por mis cartas, que excusará con gusto, a no ser tan preciso en mi el confesarme siempre su hechura y suplicarle me dé ocasión al desempeño de mis obligaciones mandándome muchas cosas de su servicio en cuyo cumplimiento si los sucesos correspondieran al afecto espero mostrar la grande estimación que hago de que v. m. se haya dignado de ampararme y favorecerme. Hago empeño a v. m. el cansancio de referirle los sucesos de por acá por estar cierto tiene v. m. antes el ahora más exacta relación por menos cansado por haber que lanua no embargante v. m. y los tratadores hacen notable falta y la gente de por acá insufrible y imposible llegar al puerto (sino) no [?] (rumbo) la navegación [?]. Don Jeronimo de Villanueva y Guarde Dios a v. m. como deseo y es menester. Barcelona 12 junio 1642. Don Pedro Santacilia y Pax [?] [1§] Transcripción literal"
+  ],
+  "literal": [
+    "1. ???? asta saber que quedava Vm en 2. esa corte libre ya de los enfados ???3. ???el atreverme a añadir a sus graves4. ocupasiones la de pasar los ojos por mis5. cartas, que escusara con gusto, a no ser tan6. presiso en mi el confesarme siempre7. su etchura y suplicarle me de ocasion8. al desenpeño de mis obligationes mandan=9. do me muchas cosas de su servisio en cuyo10. cumplimiento si los sucessos correspondie=11. ran al afecto espero mostrar la grande12. estimacion que hago de que V.m. se aya13. dignado de ampararme y favoreserme14. hago enpeño a Vm el cansancio de15. referirle los sucessos de por aca por16. estar sierto tiene V.m. antes el agora17. mas exsacta relation por menos can18. sado por haver que lanua [^no enbargante Vm y los tra=19. tadores hacen notable falta y la20. gente de por aca insufrible y impu=21. sible llegar al puerto (^sino) no ????22. (^rumbo) la navegacion ???????????????23. Don Hieroº de villanueva24. Gde. Dios a Vm25. como deseo y he menester. Bar[celon]a 1226. junio 164227. Don Pedro Sta.Cilia y Pax28. ?????? [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "146:2493.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo14/146:2493.JPG",
+      "url": "/legajos/legajo-14/images/146:2493.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "146:2493.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-14/cartas/001978.json",
+  "primary_image_url": "/legajos/legajo-14/images/146:2493.JPG"
+}

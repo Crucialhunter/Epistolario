@@ -1,0 +1,43 @@
+{
+  "legajo_id": "15",
+  "id_carta": "2115",
+  "order_in_legajo": 13,
+  "signatura": "020:6338a.JPG",
+  "nombre_carta": "Carta de comte de Perelada i marquès d'Anglesol a Pedro Santacilia y Pax",
+  "fecha_original": "7 de junio de 1629",
+  "lugar": "Barcelona",
+  "remitente": "comte de Perelada i marquès d'Anglesol",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Maltès és desditxat que [?] per a tot el que dit a v. m., no l'hagi volgut traure'l, virrei ni alma manllenta, i digué que me la [?] de {ESP. veinte mil ducados} i estant en açò que se diu en la [?] avisen a Mallorca sols per cercar patrons. Si cosa és, avisaré eixos senyors. Cert que estan lluny en esta ocasió i podré se perdin un gran passatge sens poder-ho prevenir, {ESP. tras} que jo hi fas quant puc, i haurà v. m. sabut Bernat del Reso vol anar aquí, servi el primier dia. Guardi Déu a v. m. Barcelona, als 7 de juny 1629 El comte de Perelada. A don Pedro Santacilia, que Déu guardi. Transcripción literal"
+  ],
+  "literal": [
+    "1. Malles[?] es desditxat q [ilegible] parat lo 2. quedita V.m. nol ajavolgut traurerlo, 3. Virei ni alma manllenta i digue q {ESP me la 4. diesen de veinte mil ducados. i estant 5. aso q sediu enla [?] avisan a mallorca sols 6. p sercar patrons si cosa es avisare exos 7. Sors Sert q estan lluni en esta ocasio 8. i podre ser perden un gran pasatja sens 9. podero prevenir tras deq joi fas quant 10. puch i aura V.m. sabut. bernat del 11. reso Vol anar aqui servi lo primer 12. diaguardedeu a V.m. Barcelona als 13. 7 de juni 1629 14. Lo Comte de Perelada [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "020:6338a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo15/020:6338a.JPG",
+      "url": "/legajos/legajo-15/images/020:6338a.JPG"
+    },
+    {
+      "filename": "021:6338b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo15/021:6338b.JPG",
+      "url": "/legajos/legajo-15/images/021:6338b.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "020:6338a.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-15/cartas/002115.json",
+  "primary_image_url": "/legajos/legajo-15/images/020:6338a.JPG"
+}

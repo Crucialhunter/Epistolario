@@ -1,0 +1,37 @@
+{
+  "legajo_id": "40",
+  "id_carta": "5660",
+  "order_in_legajo": 115,
+  "signatura": "035:12a",
+  "nombre_carta": "Carta de Persona desconocida a Persona desconocida",
+  "fecha_original": "10 de diciembre de 1664",
+  "lugar": "Mallorca",
+  "remitente": "Persona desconocida",
+  "destinatario": "Persona desconocida",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Memòria dels viatges aportats par altri el carreter... Transcripción literal"
+  ],
+  "literal": [
+    "1. Mamoria dels viagas a haportats par altri el carater"
+  ],
+  "imagenes": [
+    {
+      "filename": "035:12a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo40/035:12a.JPG",
+      "url": "/legajos/legajo-40/images/035:12a.JPG"
+    },
+    {
+      "filename": "036:12b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo40/036:12b.JPG",
+      "url": "/legajos/legajo-40/images/036:12b.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "035:12a.JPG",
+  "warnings": [],
+  "raw_source": "raw/legajos/legajo-40/cartas/005660.json",
+  "primary_image_url": "/legajos/legajo-40/images/035:12a.JPG"
+}

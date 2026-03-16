@@ -1,0 +1,43 @@
+{
+  "legajo_id": "18",
+  "id_carta": "3070",
+  "order_in_legajo": 104,
+  "signatura": "171:4909a.JPG",
+  "nombre_carta": "Carta de Diego Matías de Aragüés a Pedro Santacilia y Pax",
+  "fecha_original": "26 de septiembre de 1663",
+  "lugar": "Madrid",
+  "remitente": "Diego Matías de Aragüés",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Hállome sin cartas de v. s. días ha, solo desde 28 del pasado, y sin aviso de que haya recibido tantas como tengo escritas. Ya veo que lo hace la mala ocasión de los pasajes que hay. Al gobernador de Valencia con esta le he remitido la carta de su majestad para el obispo de ahí [?] para las pensiones, cuya copia de ella es la que va con esta, que juzgo por su pliego veré más [?] v. s. las demás. Por ahora no hay novedad alguna. El sr. don Juan se está en El Retiro despacio, y aun dicen se quedará y pondrán su casa en las del tenosoro [?] que han enviado por la suya a Badajoz. Al marques de Castelrodrigo envían a Flandes y ha de pasar por aquí y dejar sus dos hijas. Y al marques de Caracena que venga aquí con premisas para hacer la conquista de Portugal. De todo lo que v. s. ha obrado irán cartas si ya no han ido y para que por menor dé razón de ello. Y en lo demás que se ha ofrecido [1§] yo aguardo respuesta de mis cartas y aviso de lo que he de obrar, la diligencia de casa del nuncio en las pensiones para contra el obispo mientras no se me remitan las bulas originales de v. s. y del sr. don Juan no puedo pasar adelante en ellas. V. s. me mande le sirva, que sus manos besamos dña. Margarita y yo, y la de mi sra. dña. Leonor {Santacilia} y el sr. don Juan y todos esos señores muchas veces, y guarde Dios como deseo. Madrid a 26 Septiembre 1663. Besa la mano de v. s. su mayor servidor, Diego Matias de Aragues. A Jerónimo mi sobrino no escribo, que no se ofrece de qué. Don Pedro Santacilia y Pax Transcripción literal"
+  ],
+  "literal": [
+    "1. Hallome sin crtas de Vs. dias ha 2. solo desde 28 del passado, y sin aviso de 3. q haya recivido tantas como tengo 4. escritas, ya Veo q lo haze la mala 5. occasion delos pasajes q ay 6. Alsr Gobernador de Valencia con esta 7. leheremitido la carta de su M[a]gd para 8. el obispo de ay pa las pensiones cuya 9. copia della es la q con estas q Juzgo 10. por su pliego veremas [?] Vs. las demas 11. Por agora no ay novedad alguna, elsr don 12. Juan se esta enel Retiro despacio, yaun 13. dicen sequedara y pondran sucasa enlas 14. del tenossoro q han embiado por la suya 15. a Badaxoz 16. Al Marqs de Castelrodrigo embian a flan17. des y hade pasar por aqui y dexar sus 18. dos hijas. Yal Marqs de Carazena 19. q venga aqui con premisas pa hazer 20. la conquista de Portugal. 21. De todo lo q Vs ha obrado hiran cartas 22. si ya no han hido y para q por menor 23. de razon dello, yen lo demas q se ha offrecido. [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "171:4909a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo18/171:4909a.JPG",
+      "url": "/legajos/legajo-18/images/171:4909a.JPG"
+    },
+    {
+      "filename": "172:4909b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo18/172:4909b.JPG",
+      "url": "/legajos/legajo-18/images/172:4909b.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "171:4909a.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (3)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-18/cartas/003070.json",
+  "primary_image_url": "/legajos/legajo-18/images/171:4909a.JPG"
+}

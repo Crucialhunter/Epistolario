@@ -1,0 +1,43 @@
+{
+  "legajo_id": "13",
+  "id_carta": "1791",
+  "order_in_legajo": 53,
+  "signatura": "098:2295a.JPG",
+  "nombre_carta": "Carta de Bartolomé de Armella a Pedro Santacilia y Pax",
+  "fecha_original": "14 de agosto de 1668",
+  "lugar": "Mallorca",
+  "remitente": "Bartolomé de Armella",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "He recibido la carta de v. s. y leído con mucho gusto por haberme participado con ella tan buenas nuevas de su salud y del señor don Juan, quiera su divina majestad que yo vea a v. s. en esta su casa con brevedad y buen despacho. Muy de atrás acostumbra v. s. hacerme merced y, pues se halla en esa corte, le suplico la continúe y represente a esos señores, que ha catorce años que sirvo aqui y en diferentes negocios y ocupaciones, y entiendo haber dado satisfacción a todo, que no quiero más informe que el que v. s. puede dar aquí a boca, que con eso quedarán bastantamente calificados. Aqui no hay cosa de nuevo de que poder dar noticia a v. s. sino que me tiene siempre a sus órdenes. Guarde Dios a v. s. muchos años. Mallorca y agosto 14 de 1668. Sr. D. Pedro Santacilia y Pax [1§] Mallorca, 14 agosto 1668. Sr. d. Bartolome de Armella [2§] Transcripción literal"
+  ],
+  "literal": [
+    "1. He recivido La carta de V.S. y leido con mucho2. gusto por haverme participado con ella tam buena3. nuevas de su salud, y del señor Don Juan, quiera 4. su divina Magd que yo vea a V.S. en esta su5. casa con brevedad, y buen despacho-6. Muy de atras ha costumbra V.S. hazerme merçed,7. y pues se halla en essa Corte le suplico la conti-8. nue y represente a esses Señores, que ha catorze 9. años, que sirvo a qui, y [?] negocios, 10. y ocupaciones, y entiendo haver dado satis facion11. atodo, que no quiero mas informe, que el12. que V.S. puede dar aqui aboca, que con esso13. quedaran bastantamte calificados-14. Aqui no ay cosa de nuevo de que poder dar no-15. ticia a V.S. sino que me tiene siempre a sus16. ordenes gde Dios a V.S. muchos años. Mallca17. y Agosto 14. de 166818. Sor D Pedro Satacilia y Pax [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "098:2295a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo13/098:2295a.JPG",
+      "url": "/legajos/legajo-13/images/098:2295a.JPG"
+    },
+    {
+      "filename": "099:2295b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo13/099:2295b.JPG",
+      "url": "/legajos/legajo-13/images/099:2295b.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "098:2295a.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-13/cartas/001791.json",
+  "primary_image_url": "/legajos/legajo-13/images/098:2295a.JPG"
+}

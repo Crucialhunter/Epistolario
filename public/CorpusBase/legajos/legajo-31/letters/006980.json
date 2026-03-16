@@ -1,0 +1,43 @@
+{
+  "legajo_id": "31",
+  "id_carta": "6980",
+  "order_in_legajo": 220,
+  "signatura": "320:1731a.JPG",
+  "nombre_carta": "Carta de Juan Garçes a Pedro Santacilia y Pax",
+  "fecha_original": "29 de agosto de 1664",
+  "lugar": "Castillo de San Felipe",
+  "remitente": "Juan Garçes",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Por mano de Francisco Cardona recibí una carta de v. m. su fha en Madrid a 7 de junio que ella y las noticias que el Referido medio de la salud que asistia a v. m. me alboroçaron muy mucho por lo que me precio de Servidor de v. m. y teniendo noticia de como ya v. m. se halla en esa ciudad no excuso darle cuenta de como al instante de cumplimiento a la Sedula de su majestad a que hubiera replicado por órdenes que hay para ello a no acompañarla su [?] de v. m. quedando con el agradecimiento que debo a lo que se sirve favorecerme v. m. y holgado sumamente haya ofrecídose esta ocasión aunque de tan poca monta para dar muestras del afeçto con que deseo servir a v. m. Su majestad Dios le guarde. fue servido mandar se me enviara un poder para cobrar de su R. Patrimonio la cantidad que se está debiendo el Sr. duque de Medina de las torres y aunque envie a la persona que ahora no se pudo conseguir esta cobranca y espero no ha de suceder ahora lo mismo teniendo [1§] por proteçtor a v. m. a quien suplico se sirva mandar disponer esto de calidad que tengan este alibro los pobres soldados que ha muchos días que no tienen sino el de un pan de munición y a mi me aliance el demerecerle a v. m. se sirva darme muchos órdenes que deseo obedecer del servicio de v. m. cuya vida guarde. nuestro Señor los muchos años que deseo y es menester Castilo San Fe y agosto 29 del 1664 muy Servor de v. m. que sus manos besa Juan Garces S. procurador real Sr. D. Pedro Santacilia y Pax [2§] Transcripción literal"
+  ],
+  "literal": [
+    "1. Por mano de Francisco Cardona reçivi una carta 2. de VM. su fha en Madrid a 7 de Junio que ella 3. y las notiçias que el Referido medio de la Salud que 4. asistia a V. M. me alboroçaron muy mucho por lo que 5. me preçio de Servidor de V. M. y teniendo notiçia de 6. como ya VM. se halla en essa Ciudad no escusso dar7. le quenta de como al ynstante de Cumplimiento 8. a la Sedula de Su Mgd. a que hubiera replicado 9. por ordenes que ay para ello a no acompañarla 10. su [?] de VM. quedando con el agradeçimiento 11. que debo a lo que se sirve favoreçerme VM. y 12. holgado sumamente aya ofreçidose esta ocasion 13. aunque de tan poca monta para dar muestras del 14. afeçtto con que desseo servir a VM. 15. Su Mgd. Dios le gde. fue servido Mandar se me ym16. biara un poder para cobrar de su R. Patrimonio 17. la Cantidad que se esta debiendo el Sor. Duque 18. de Medina de las torres y aunque ymbie a la 19. Persona que aora no se pudo conseguir esta cobrança 20. y espero no ha de suçeder aora lo mismo teniendo [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "320:1731a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo31/320:1731a.JPG",
+      "url": "/legajos/legajo-31/images/320:1731a.JPG"
+    },
+    {
+      "filename": "321:1731b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo31/321:1731b.JPG",
+      "url": "/legajos/legajo-31/images/321:1731b.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "320:1731a.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-31/cartas/006980.json",
+  "primary_image_url": "/legajos/legajo-31/images/320:1731a.JPG"
+}

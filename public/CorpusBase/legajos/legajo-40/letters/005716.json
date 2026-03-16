@@ -1,0 +1,66 @@
+{
+  "legajo_id": "40",
+  "id_carta": "5716",
+  "order_in_legajo": 52,
+  "signatura": "137:68a",
+  "nombre_carta": "Carta de Persona desconocida a Persona desconocida",
+  "fecha_original": "fecha sin especificar",
+  "lugar": "Mallorca",
+  "remitente": "Persona desconocida",
+  "destinatario": "Persona desconocida",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Transcripción literal"
+  ],
+  "literal": [],
+  "imagenes": [
+    {
+      "filename": "137:68a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo40/137:68a.JPG",
+      "url": "/legajos/legajo-40/images/137:68a.JPG"
+    },
+    {
+      "filename": "138:68b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo40/138:68b.JPG",
+      "url": "/legajos/legajo-40/images/138:68b.JPG"
+    },
+    {
+      "filename": "139:68c.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo40/139:68c.JPG",
+      "url": "/legajos/legajo-40/images/139:68c.JPG"
+    },
+    {
+      "filename": "140:68d.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo40/140:68d.JPG",
+      "url": "/legajos/legajo-40/images/140:68d.JPG"
+    },
+    {
+      "filename": "141:68e.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo40/141:68e.JPG",
+      "url": "/legajos/legajo-40/images/141:68e.JPG"
+    },
+    {
+      "filename": "142:68f.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo40/142:68f.JPG",
+      "url": "/legajos/legajo-40/images/142:68f.JPG"
+    },
+    {
+      "filename": "143:68g.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo40/143:68g.JPG",
+      "url": "/legajos/legajo-40/images/143:68g.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "137:68a.JPG",
+  "warnings": [
+    {
+      "code": "MISSING_LITERAL",
+      "message": "Transcripción literal vacía",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-40/cartas/005716.json",
+  "primary_image_url": "/legajos/legajo-40/images/137:68a.JPG"
+}

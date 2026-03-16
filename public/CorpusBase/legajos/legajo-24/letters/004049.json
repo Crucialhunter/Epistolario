@@ -1,0 +1,38 @@
+{
+  "legajo_id": "24",
+  "id_carta": "4049",
+  "order_in_legajo": 103,
+  "signatura": "132:4102.JPG",
+  "nombre_carta": "Carta de Antonio Núñez a Pedro Santacilia y Pax",
+  "fecha_original": "17 de mayo de 1651",
+  "lugar": "Madrid",
+  "remitente": "Antonio Núñez",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Sr. D. Pedro Santacilia y Pax Ya respondí a la de v. m. en que me avisaba de su buena llegada a esta ciudad de que me holgué como era razón. Tengo entendido la temprana muerte de mi sra. dña. Beatriz, sobrina de v. m., que lo he sentido como es razón, pero es como Dios la habrá querido para sí, le ha de servir a v. m. de consuelo. Dios le guarde como ha menester, y a v. m. le suplico me tenga en memoria para mandarme, pues sabe lo deseo [?]. Guárdeme Dios a v. m. como puede y yo deseo. Madrid, 17 mayo 1651. Don Antonio Nuñez de Sanjuan. Transcripción literal"
+  ],
+  "literal": [
+    "1. Sr. D. Pedro Sta. Cillia y pax2. Ya respondi a la de v.m. en que me avissava de3. su buena llegada a essa ciudad de que me olgo como=4. era rason= tengo entendido la temprana[?] muerte de su Sra.5. Da. beatris sobrina de v.m. que lo e sentido como es6. rasson pero [?] como dios la abra querido para si=7. le a de servir a vm. de consuello dios de le de como8. ha menester= ya vm[?] le supplico me tenga en memoria9. para mandarme pues sabe lo deseo [?] gde me10. dios a vm. como puede y yo desseo md 13 majo11. 1651. Don Antonio nuñez de12. San Juan [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "132:4102.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo24/132:4102.JPG",
+      "url": "/legajos/legajo-24/images/132:4102.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "132:4102.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (2)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-24/cartas/004049.json",
+  "primary_image_url": "/legajos/legajo-24/images/132:4102.JPG"
+}

@@ -1,0 +1,43 @@
+{
+  "legajo_id": "31",
+  "id_carta": "6934",
+  "order_in_legajo": 198,
+  "signatura": "251:1685a.JPG",
+  "nombre_carta": "Carta de Jerónimo Pelegrín de Aragüés a Pedro Santacilia y Pax",
+  "fecha_original": "9 de noviembre de 1663",
+  "lugar": "Palma",
+  "remitente": "Jerónimo Pelegrín de Aragüés",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Mi la sajetia ses partida Avui dematí a Bordejat fins passat migdia a la tarda no ses vista perquè passava perd ella Cabrera la nau que ja sajetia amb la gent presa encara no ses partida nis partira fins demà a la nit, per causa del mal temps. El inquisidor m'ha enviat a demanar i molt content, de les resulucions de v. s. està amb {ESP. cuidado} de la salut de v. s. i diu l'encomana a Nostre Senyor i que procure aviure, i moltes altres raons que per ara seria llarg el cansar a v. s. el bisbe ha enviat una tortrada i un plat de menjar blanc a mi Sra. amb un {ESP. recaudo} i que lavisas de la salut de v. s. Els jurats continguda juntes Avui [?] a instància del Jurat Rossinyol de Defla i han portat misser Moll sobre que v. s. no passas havant el rigor ni derrocar ca [?] ells no poden enviar {ESP. recaudos} ni fer [1§] protestas perquè no tenien Istància dels síndics això és el que és parla No faltin corrillos de la cadena i Porxo del Placa En Pere se'n va a collir les garrobas demà i jo dematí partire per donar a rebre el bestiar i a la nit seré ací sense falta, el Fortuny restara si ja novetat, al temps del dia que faltare un avís a entrat que han mort en Pere Descorça no sé el què el regent ha resolt, Déu guardi a v. s. molts anys com desig i tinc de menester Ciutat, @ 9 de Novembre 1663. Son Criat de v. s. Jeroni Pelegri Mi senyor [2§] Transcripción literal"
+  ],
+  "literal": [
+    "1. Mi Sr. la sajetia ses partida Buy demati 2. a Bordejat fins passat mixdia a la tarde 3. no ses vista per que passava perd ella Cabrera 4. la nau q ja sajetia ab la jent pressa encara 5. no ses partida nis partira fins dema a la 6. nit, per causa del mal temps. = 7. El Sr. Inquisidor me ha Inviat a demanar i 8. molt content, de las resulucions de V. S. 9. esta ab cuydado de la salut de V. S. y 10. diu lo encomana a nostro Señor y que 11. procure aviure, y moltas altras rahons 12. que per ara seria llarch el cansar a V. S. 13. el Sr. Bisbe ha Inviat una tortrada i un 14. plat de manjar blanch a mi Sra. ab un 15. recaudo y que lavisas de la salud de 16. V. S. 17. Los Jurats continguda Juntas Buy [?] 18. a instancia del Jurat Rosiñol de Defla 19. y an aportat micer Moll sobre que V. S. 20. no passas havant el rigor ni derrocar ca [?] 21. ells no poden Inviar recaudos ni fer [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "251:1685a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo31/251:1685a.JPG",
+      "url": "/legajos/legajo-31/images/251:1685a.JPG"
+    },
+    {
+      "filename": "252:1685b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo31/252:1685b.JPG",
+      "url": "/legajos/legajo-31/images/252:1685b.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "251:1685a.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (4)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-31/cartas/006934.json",
+  "primary_image_url": "/legajos/legajo-31/images/251:1685a.JPG"
+}

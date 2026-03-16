@@ -1,0 +1,38 @@
+{
+  "legajo_id": "18",
+  "id_carta": "3032",
+  "order_in_legajo": 65,
+  "signatura": "111:4871.JPG",
+  "nombre_carta": "Carta de Diego Matías de Aragüés a Pedro Santacilia y Pax",
+  "fecha_original": "21 de octubre de 1662",
+  "lugar": "Madrid",
+  "remitente": "Diego Matías de Aragüés",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Ayer se partió el Sr. don Juan con su criado Juan Seguals van muy buenos y con gusto, a custodia de don Pablo Corbella que v. m. conoce mozo de tan buen cuidado que estoy tan asegurado del como si Jeronimo mi sobrino o, yo fuéramos serviendole, van por Valencia para que allí se embarquen combuena embarcación que me seguro laprocurara el gobernador Sr. don Basilio de Castellvi y Ponce doy a v. m. este aviso por Barcelona por el amigo Anton Reart por si hay ocasión de que llegue esta más brevemente mandándome v. m. le sirva que sus manos besamos Dña. Margarita y yo, con las de mi Sra. Dña. Leonor y todos esos señores y guarde Dios como deseo Madrid a 21 octubre 1662 Besa la mano de v. m. su mayor servidor Diego Matias de Aragues Sr. don Pedro Santacilia y Pax [1§] Transcripción literal"
+  ],
+  "literal": [
+    "1. Ayer separtio el sr don Juan con su 2. criado Juan Seguals ban muy buenos y con 3. gusto, a custodia de don Pablo Corvella q 4. Vm. conoze mozo de tan buen cuydado q estoy 5. tan asegurado del como si Germo mi sobrino 6. o, yo fueramos serviendole, ban por Valencia 7. paraq alli seembarquen conbuena embar8. cacion q me seguro laprocurara el sr 9. Gobernador don Basilio de Castelvi y Ponze 10. doy a Vm. este avisso por Barcelona 11. por el amigo Anton Reart por si ay occasion 12. deq llegue esta mas brevemte mandandome 13. Vm. lesirva q sus manos vesamos 14. da Ma[r]gta y yo, con las de mi sra 15. da Leonor y todos essos sses yge dios 16. como deseo Md a 21 octubre 1662 17. Besalamano de Vm. 18. su mayor seror 19. Diego Mathias de Aragues20. [Margen izquierdo][^ Sr don Pedro sta Cilia y Pax ] [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "111:4871.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo18/111:4871.JPG",
+      "url": "/legajos/legajo-18/images/111:4871.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "111:4871.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (3)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-18/cartas/003032.json",
+  "primary_image_url": "/legajos/legajo-18/images/111:4871.JPG"
+}

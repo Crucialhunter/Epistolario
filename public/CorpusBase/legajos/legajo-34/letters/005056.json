@@ -1,0 +1,38 @@
+{
+  "legajo_id": "34",
+  "id_carta": "5056",
+  "order_in_legajo": 82,
+  "signatura": "129:6971.JPG",
+  "nombre_carta": "Carta de Jerónimo Mancho a Pedro Santacilia y Pax",
+  "fecha_original": "16 de septiembre de 1656",
+  "lugar": "Madrid",
+  "remitente": "Jerónimo Mancho",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Per las cartas que recibe de v. m. el secretario fructuoso Pique conseguimos sus servidores de v. m. las noticias que deseamos de su salud dde v. m. que sea por muchos años Los derechos de los oficios anuales de ese reino montan cada año puestos en esta corte 2432 reales plata como v. m. tendrá noticia y también de que está a su cargo de v. m. el hacer que se cobren y así porque nos hallamos ya en los últimos tercios de este año suplico a v. m. se sirva mandar que se de cobro a ellos y remitirmelos a mi o, al Protrio con muchos mandatos que obedecer a su servicio a quien guarde Dios como deseo Madrid a 16 de septiembre 1656. Besa la mano de v. m. Jeronimo Mancho 17, extrem inferior Sr. don Pedro Santacilia y Pax [1§] Transcripción literal"
+  ],
+  "literal": [
+    "1. Per las cartas q recibe de V.m. el sr. srio fructuoso2. Pique conseguimos sus servidores de V.m.3. las noticias que desseamos de su salud dde V.m.4. q sea por muchos años5. Los drechos delos officios annuales desse Reyno6. montan cada año puestos enesta Corte 2432 Rs pta7. como Vm tendra noticia y tambien de questa8. a su cargo de V.m. el hazer q se cobren yassi9. por que nos hallamos ya en los Ultimos tercios10. deste año supp[li]co a V.m. se sirva mandar11. q se de cobro aellos y remitirmelos a mi12. o, al Sr. Protrio con muchos mandatos q13. obedecer a su servicio a quien gde Dios14. como desseo Madrid a 16 de set 165615. B l[a] m de Vm16. Geronymo Manc[h]o17. [27, extrem inferior] Sr. Don Pedro Santacilia y Pax [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "129:6971.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo34/129:6971.JPG",
+      "url": "/legajos/legajo-34/images/129:6971.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "129:6971.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-34/cartas/005056.json",
+  "primary_image_url": "/legajos/legajo-34/images/129:6971.JPG"
+}

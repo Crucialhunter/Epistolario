@@ -1,0 +1,74 @@
+{
+  "legajo_id": "34",
+  "num_cartas": 235,
+  "num_imagenes": 362,
+  "rango_temporal": [
+    1644,
+    1663
+  ],
+  "remitentes_frecuentes": [
+    {
+      "name": "Diego Matías de Aragüés",
+      "count": 22
+    },
+    {
+      "name": "Basilio de Castellví y Ponce",
+      "count": 14
+    },
+    {
+      "name": "Persona desconocida",
+      "count": 10
+    },
+    {
+      "name": "Francisco Hortas",
+      "count": 10
+    },
+    {
+      "name": "Josep de Pueyo i Mendes",
+      "count": 8
+    }
+  ],
+  "destinatarios_frecuentes": [
+    {
+      "name": "Pedro Santacilia y Pax",
+      "count": 223
+    },
+    {
+      "name": "Persona desconocida",
+      "count": 8
+    },
+    {
+      "name": "Leonor Santacilia i Despuig",
+      "count": 3
+    },
+    {
+      "name": "Juan Cebrián",
+      "count": 1
+    }
+  ],
+  "lugares_frecuentes": [
+    {
+      "name": "Madrid",
+      "count": 94
+    },
+    {
+      "name": "Valencia",
+      "count": 35
+    },
+    {
+      "name": "Barcelona",
+      "count": 32
+    },
+    {
+      "name": "Lugar sin especificar",
+      "count": 10
+    },
+    {
+      "name": "Zaragoza",
+      "count": 9
+    }
+  ],
+  "temas_frecuentes": [],
+  "warnings_count": 99,
+  "densidad_narrativa_estimada": "Media"
+}

@@ -1,0 +1,38 @@
+{
+  "legajo_id": "26",
+  "id_carta": "4516",
+  "order_in_legajo": 252,
+  "signatura": "374:3611.JPG",
+  "nombre_carta": "Carta de condesa de Zavellá a Pedro Santacilia y Pax",
+  "fecha_original": "4 de octubre de 1665",
+  "lugar": "Bunyolí",
+  "remitente": "condesa de Zavellá",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Tinc vista la de v. s. i en ella la continuada honra i mercè no fa v. s. en esa casa. Pesa'm la pèrdua tenim tan gran del rei, que tinga Déu en la glòria i bonaventurança eterna, i doni Déu per la seva infinita bondat vida al príncep i a la reina nostra Sra. que ha de governar tan gran menester, {ESP. cuya} = i v. s. no ens tinga ocioses manant-nos els servim aquí. Teresa [i] jo besam la ma de v. s. junt amb les de mi Sra. dona Leonor i guardi Déu a v. s. molts anys d'esta sa casa. Bunyolí 4 octubre 1665. La comtessa de Zavellà Al Sr. don Pedro Santacilia Transcripción literal"
+  ],
+  "literal": [
+    "1. Tinc vista la de V.S. y en hella la quon2. tynuada onra y merse= no fa V.S. he nes3. ce casa= pesam la perdua tenim tant gran4. del rey= que tinga deu en la gloria y bena-5. venturansa, aterna= y don Deu per la sua yn6. finita bondat= vida Al Prinsep y a la reyna7. nostra Sra.. que A de governar tant gran moner8. quya= y VS no nos tinga osiosas menanos9. los serviam aqui teresa yo besam la ma10. de VS gunt ab las de mi Sra. dona el[io]11. onor y gde Deu a V.S.rs. molts añys12. desta ce casa Bunolly 4 octubra 166513. La comtesa14. de Cevalla15. Al Sr. don Pedro Sta Cilia [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "374:3611.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo26/374:3611.JPG",
+      "url": "/legajos/legajo-26/images/374:3611.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "374:3611.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-26/cartas/004516.json",
+  "primary_image_url": "/legajos/legajo-26/images/374:3611.JPG"
+}

@@ -1,0 +1,43 @@
+{
+  "legajo_id": "33",
+  "id_carta": "7951",
+  "order_in_legajo": 161,
+  "signatura": "253:6886a.JPG",
+  "nombre_carta": "Carta de Francisco María de Carrafa Castriato y Gonzaga a Pedro Santacilia y Pax",
+  "fecha_original": "12 de noviembre de 1639",
+  "lugar": "Zaragoza",
+  "remitente": "Francisco María de Carrafa Castriato y Gonzaga",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Con particular gusto he recibido la carta de v. s. que me ha traído el aragónes que tanto aprueba v. s., y cuando él no tuviera otra parte fuera esta para mi de grande aprecio para asistirle en cuanto se le ofrezca. Huélgome de tener a v. s. tan vecino por si se le ofreciere qué mandarme y pues sabe que lo puede hacer con toda seguridad, suplico a v. s. se acuerde para esto de cuán su amigo soy y no me tenga ocioso, que será el empleo mejor que puedo tener. Yo quedo con salud para servir a v. s. Sírvase de darme muy buenas nuevas de la suya pues por lo que se la deseo las puedo merecer. Dios guarde a v. s. muchos años. Zaragoza 12 de noviembre 1639. Todo lo que v. s. me mandare será para mi de sumo gusto y le serviré como debo. Y a mi capellán muchos recados de mi parte. Duque [?] Sr. d. Pedro de Santacilia [1§] Zaragoza, 12 noviembre El duque de Nocera [2§] Transcripción literal"
+  ],
+  "literal": [
+    "1. Con part[icular] gusto he rezevido la carta de VS2. que me ha traydo el Aragones que tanto3. aprueba VS y quando el no tuviera otra4. parte fuera esta p[ar]a mi de grande aprezio5. para asistirle en quanto se le ofrezca.6. Huelgome de tener a VS tan vezino por si7. se le ofreziere que mandarme y pues sabe q8. lo puede hazer con toda seguridad supp[li]co9. a VS se acuerde para esto de quan su amigo10. soy y no me tenga ozioso que sera el empleo11. mejor que puedo tener yo quedo con salud12. para servir a VS, sirbase de darme muy13. buenas nuebas de la suya pues por lo que14. se la desseo las puedo merezer. Dios gu[ard]e a VS muchos15. años Çaragoza 12 de novi[em]bre 163916. todo lo que VS me mandare se17. rà para mi de sumo gusto y18. le ser[vi]re como devo y a mi capellan19. muchos [reca]dos de mi parte20. [Mi]quel [?]21. Sr. D. Pº de Sta Siçilia [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "253:6886a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo33/253:6886a.JPG",
+      "url": "/legajos/legajo-33/images/253:6886a.JPG"
+    },
+    {
+      "filename": "254:6886b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo33/254:6886b.JPG",
+      "url": "/legajos/legajo-33/images/254:6886b.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "253:6886a.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-33/cartas/007951.json",
+  "primary_image_url": "/legajos/legajo-33/images/253:6886a.JPG"
+}

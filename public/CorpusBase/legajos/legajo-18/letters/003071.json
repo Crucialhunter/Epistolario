@@ -1,0 +1,38 @@
+{
+  "legajo_id": "18",
+  "id_carta": "3071",
+  "order_in_legajo": 105,
+  "signatura": "173:4910.JPG",
+  "nombre_carta": "Carta de Diego Matías de Aragüés a Pedro Santacilia y Pax",
+  "fecha_original": "10 de octubre de 1663",
+  "lugar": "Madrid",
+  "remitente": "Diego Matías de Aragüés",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "He recibido la carta de v. s. de 21 del pasado y veo lo mucho que ha obrado en tan poco tiempo y lo bien que ha parecido por acá ya todo el consejo y el virrey muy gustoso, con su pariente Sr. don Rodrigo de Borja se lo hallará todo allanado y podrá hecharse a dormir a buen sueño. Las cartas di a los señores conde Albaterra. Don Miguel Salva. remito con esta copia de la carta del rey. Últimamente que ha dado para el obispo para lo de las pensiones. En esto y en lo demás me remito lo que escribo a Jerónimo mi sobrino, por no cansar a v. s. mandándome le sirva que sus manos besamos y las de mi Sra. Dña. Leonor, el Sr. don Juan y todos esos señores muchas veces. Dña. Margarita y yo, y guarde Dios como deseo. Madrid a 10 octubre 1663. Besa la mano de v. s. su mayor servidor Diego Matias de Aragues Sr. don Pedro Santacilia y Pax [1§] Transcripción literal"
+  ],
+  "literal": [
+    "1. Herecivido la carta de VS. de 21 2. del passado y Veo lo mucho q ha 3. obrado en tan poco tpo y lo bien 4. q ha paresido por aca ya todo el 5. Consso y el sr Vii muy gustoso, 6. con su pariente don Rodrigo de Borja 7. selo hallara todo alanado ypodra 8. hecharse adormir abuen sueño. 9. Las cartas di alos SSes Conde Albatera 10. don Miguel Salva. 11. Remito Conesta Copia de la carta del 12. Rey Ultimamte q hadado pa el obispo 13. pa lo de las pensiones. enesto y en 14. lo demas me remito lo q escrivo 15. a Germo mi sobrino, porno cansar 16. a VS. mandandome lesirva q sus 17. manos Vesamos y las de mi sra 18. da Leonor, elsr don Juan y todos 19. essos sses muchas vezes da Ma[r]gta 20. y yo, y gde dios como deseo Md 21. a 10 octubre 1663 22. Besala mano de VS. 23. su mayor seror 24. Diego Mathias de Aragues 25. [Margen izquierdo][^ Sr Don Pedro sta Cilia y Pax] [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "173:4910.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo18/173:4910.JPG",
+      "url": "/legajos/legajo-18/images/173:4910.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "173:4910.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (3)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-18/cartas/003071.json",
+  "primary_image_url": "/legajos/legajo-18/images/173:4910.JPG"
+}

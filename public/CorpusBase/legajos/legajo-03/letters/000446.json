@@ -1,0 +1,38 @@
+{
+  "legajo_id": "3",
+  "id_carta": "446",
+  "order_in_legajo": 11,
+  "signatura": "17-9a",
+  "nombre_carta": "Carta de Diego Matías de Aragüés a Juan Miguel de Santacilia y Togores",
+  "fecha_original": "20 de diciembre de 1662",
+  "lugar": "Madrid",
+  "remitente": "Diego Matías de Aragüés",
+  "destinatario": "Juan Miguel de Santacilia y Togores",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Señor don Juan, de muy grande contento ha sido para doña Margarita y a mí la carta que he recibido de vuestra merced de 26 del pasado por las buenas nuevas que nos da de su salud, que la goce tan cumplida como se la deseamos y le dé Dios muy santas pascuas, que acá las tendremos buenísimas con estas nuevas, y le suplicamos sepa gobernarse para conservarlas, y en ejercitarse y demás cosas y documentos que le prevenimos, que con eso le irá bien y tendrá gustosos a sus padres y conseguirá cuanto quisiere. A Juan Seguals muchos saludos, y que no olvide el escribirnos, y vuestra merced en mandarnos. Guarde Dios los muchos años que le deseo. Madrid, a 20 diciembre 1662. Beso las manos de vuestra merced, su mayor servidor, Diego Matias de Aragues. Señor don Juan de Santacilia. Transcripción literal"
+  ],
+  "literal": [
+    "1. Sr. don Juan, de muy grande contento ha2. sido pa dª Ma[r]gta y a mi la carta q he3. recivido de vm de 26 del passado por las4. buenas nuebas q nos da de su salud5. q la goze tan cumplida como se la deseamos6. y le de Dios muy Stas Pasquas, q aca7. las tendremos bonissimas con estas nuebas,8. y le suplicamos sepa gobernarsse para9. conservarlas y en exercitarse y demas10. cosas y documentos q le prevenimos q con11. esso le hira bien y tendra gustossos a sus Padres12. y consiguira quanto quisiere.13. a Juan Seguals muchos saludos y q no14. olvide el escribirnos y vm en mandarnos.15. Gde Dios los muchos años q le deseo. Md16. a 20 dize 1662.17. B l m de vm s m s18. Diego Mathias de Aragues.19. Sr. don Juan de Sta Cilia [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "17-9a.jpg",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo03/17-9a.jpg",
+      "url": "/legajos/legajo-03/images/17-9a.jpg"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "17-9a.jpg",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (3)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-03/cartas/000446.json",
+  "primary_image_url": "/legajos/legajo-03/images/17-9a.jpg"
+}

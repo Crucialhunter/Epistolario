@@ -1,0 +1,38 @@
+{
+  "legajo_id": "28",
+  "id_carta": "4780",
+  "order_in_legajo": 41,
+  "signatura": "135:3714.JPG",
+  "nombre_carta": "Carta de Macià Monsarró a Pedro Santacilia y Pax",
+  "fecha_original": "26 de mayo de 1637",
+  "lugar": "Zaragoza",
+  "remitente": "Macià Monsarró",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "[HACER LA TRANSCRIPCIÓN] Transcripción literal"
+  ],
+  "literal": [
+    "1. [HACER LA TRANSCRIPCIÓN]"
+  ],
+  "imagenes": [
+    {
+      "filename": "135:3714.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo28/135:3714.JPG",
+      "url": "/legajos/legajo-28/images/135:3714.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "135:3714.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (2)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-28/cartas/004780.json",
+  "primary_image_url": "/legajos/legajo-28/images/135:3714.JPG"
+}

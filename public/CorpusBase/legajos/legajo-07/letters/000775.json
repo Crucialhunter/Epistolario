@@ -1,0 +1,43 @@
+{
+  "legajo_id": "7",
+  "id_carta": "775",
+  "order_in_legajo": 8,
+  "signatura": "07-5a copy",
+  "nombre_carta": "Carta de Gabriel Mascaren a Jerónimo Pelegrín de Aragüés",
+  "fecha_original": "6 de julio de 1664",
+  "lugar": "Puerto de Santa Marí­a",
+  "remitente": "Gabriel Mascaren",
+  "destinatario": "Jerónimo Pelegrín de Aragüés",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Jeronimo Pelegrin. Mi señor, Esta servirá solo para dar noticias a vuestra merced cómo estamos en la bahía de Cádiz de viaje para Barcelona con la capitana y demás galeras; conque vuestra merced se servirá avisarme de su salud en Barcelona y lo que ocurre nuevo en mis negocios, mandándome en lo que les fuere de provecho: pues tengo obligación de servirle. Y don Isidro le dará vuestra merced mis memorias y le dirá el viaje que tenemos. Me parece llegaremos a Mallorca según se dice. El señor Pedro Palomino dice tenga vuestra merced esta por suya y que le escriba en todas ocasiones y avise cuándo se parte. No sé ofrece otra cosa qué decir a vuestra merced, cuya vida guarde Dios muchos años. Puerto Santa María y bahía de Cádiz. A 6 de julio, 1664. Besa la mano de vuestra merced,Gabriel Mascaren. Apolonia besa a vuestra merced la mano y queda con sus achaques a Bernardo Rabassa. Me encomiende vuestra merced y a Dios. [1§] A D. Jeronimo Pelegrin de Aragues, guarde Dios. Vive en el hospital de los portugueses, a la entrada de la Calle del Pez. En casas de Diego Matías de Aragüés y, en su ausencia, a D. Isidro Marques. Madrid. Transcripción literal"
+  ],
+  "literal": [
+    "1. Geronimo Pelegrin 2. Mi Señor esta servira solo Pa Dar notizias 3. a Vm. Como estamos enla Baya de Cadiz 4. de viaje Pa Barzelona con la Capitana y de- 5. mas Galeras. Conq Vm se servira avisarme 6. de su salud a Barcelona. Y lo q Curre nuevo 7. en mis negocios mandandome En lo qles 8. fuere de Provecho. Pues tengo obligon de 9. servirle. y a Don Isidro. le dara Vm mis 10. memorias y le dira el Viaje q tenemos me 11. Parece llegaremos a Mallorca segun se dize 12. El Sr. Pº Palomino dice tenga Vm esta 13. per suya y q le escriva en todas ocasiones 14. y avise qdo se Parte No se ofrece otra cosa 15. q decir a Vm Cuia Vida gde Dios ms 16. años Pto. Sa maria y Baya deCadiz 17. a 6 de Julio 1664. 18. B l[a] M de Vm 19. Gabriel mascaren 20. Polonia. Vesa a Vm l[a] m y queda 21. con sus achaques a Bdo. Revasa 22. me encomiende Vm. y a dios [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "07-5a copy.gif",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo07/07-5a copy.gif",
+      "url": "/legajos/legajo-07/images/07-5a copy.gif"
+    },
+    {
+      "filename": "08-5b copy.gif",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo07/08-5b copy.gif",
+      "url": "/legajos/legajo-07/images/08-5b copy.gif"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "07-5a copy.gif",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (4)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-07/cartas/000775.json",
+  "primary_image_url": "/legajos/legajo-07/images/07-5a copy.gif"
+}

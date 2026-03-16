@@ -1,0 +1,38 @@
+{
+  "legajo_id": "8",
+  "id_carta": "859",
+  "order_in_legajo": 158,
+  "signatura": "064-52 copia",
+  "nombre_carta": "Carta de Gabriel Seguí a Persona desconocida",
+  "fecha_original": "31 de marzo de 1649",
+  "lugar": "Maó",
+  "remitente": "Gabriel Seguí",
+  "destinatario": "Persona desconocida",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Avui circa migdia se són partides del moll d'esta vila les quatre galeres, les quals sense aturar-se són eixides d'aquest port i se són {ESP. engonsades} en molt favorable temps. El senyor diu m'ha enviat el que esquiva [?] junt amb esta quan estava per a partir-se per que les remetès a v.s. Per aquí no tenim altra cosa nova que convingui avisar a v.s., a qui Déu Nostre Senyor guardi. Maó i març, 31 de 1649. Gabriel Seguí Transcripción literal"
+  ],
+  "literal": [
+    "1. Vuy sirca mig dia sesonpartidas del moll 2. desta vila lasquatra Galeras lasquals sens 3. aturarsa son axidas dest port Y sesonengos- 4. sadas en molt favorabla temps: los< > Du 5. me ha enbiat loqlechquiva junt absta quant 6. estava p apartirsa peraque las remetesaVsª 7. Per assi notanimal hia Cosa nova deque 8. convinga avisar avsª aqui Deu n< > señor 9. g< > demaho Y mars a 31 de 1649 10. Gabriel Sagui [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "064-52 copia.jpg",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo08/064-52 copia.jpg",
+      "url": "/legajos/legajo-08/images/064-52 copia.jpg"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "064-52 copia.jpg",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-08/cartas/000859.json",
+  "primary_image_url": "/legajos/legajo-08/images/064-52 copia.jpg"
+}

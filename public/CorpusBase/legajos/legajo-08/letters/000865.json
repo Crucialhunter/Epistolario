@@ -1,0 +1,38 @@
+{
+  "legajo_id": "8",
+  "id_carta": "865",
+  "order_in_legajo": 166,
+  "signatura": "070-58 copia",
+  "nombre_carta": "Carta de Gabriel Seguí a Persona desconocida",
+  "fecha_original": "25 de abril de 1649",
+  "lugar": "Maó",
+  "remitente": "Gabriel Seguí",
+  "destinatario": "Persona desconocida",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Després d'escrit a v. s. he resolt que vegi els despatxos i així van amb aquesta, i de la mateixa manera aport altra per la Inquisició de València que és de la de Sardenya. V. s. manarà donar-lo al propi que he enviat primer. Guardi Déu a v. s. Maó i abril, 25 de 1649. Quant al dol hi ha persones en esta vila que ho han vist dues i altres vegades donar-se als batles de les parts foranes i així no serà bé que en mi se comenci a deixar-li a v. s. li apar [?] se'n podrà informar Gabriel Segui Governador Transcripción literal"
+  ],
+  "literal": [
+    "1. Dempres de sent aVsª he resolt q veja los 2. despachos yaxi van abesta Ydela 3. matexa manera aperte altre per laJnq< > 4. deValencia que es dela de Serdenya 5. VSª manara donarloal propri que 6. he embiat primer G< > DeuaVSª 7. Maho y Abril 25. de1649. 8. Quant absol hi ha personas enesta 9. Vila que ho hanvist dos yltres vegadas 10. donar se als Balles delas parts foranas 11. Yaxi noferabe que en mi se comena 12. a dexar li a VSª lapar sen podra 13. informar 14. Gabriel Sagui 15. Gou S. [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "070-58 copia.jpg",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo08/070-58 copia.jpg",
+      "url": "/legajos/legajo-08/images/070-58 copia.jpg"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "070-58 copia.jpg",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-08/cartas/000865.json",
+  "primary_image_url": "/legajos/legajo-08/images/070-58 copia.jpg"
+}

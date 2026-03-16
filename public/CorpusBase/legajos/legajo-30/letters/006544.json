@@ -1,0 +1,38 @@
+{
+  "legajo_id": "30",
+  "id_carta": "6544",
+  "order_in_legajo": 121,
+  "signatura": "022:5382.JPG",
+  "nombre_carta": "Carta de Andrés de Arias a Pedro Santacilia y Pax",
+  "fecha_original": "10 de enero de 1641",
+  "lugar": "Villafranca",
+  "remitente": "Andrés de Arias",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Â [1§] Transcripción literal"
+  ],
+  "literal": [
+    "1."
+  ],
+  "imagenes": [
+    {
+      "filename": "022:5382.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo30/022:5382.JPG",
+      "url": "/legajos/legajo-30/images/022:5382.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "022:5382.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (4)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-30/cartas/006544.json",
+  "primary_image_url": "/legajos/legajo-30/images/022:5382.JPG"
+}

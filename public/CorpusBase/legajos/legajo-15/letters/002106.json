@@ -1,0 +1,37 @@
+{
+  "legajo_id": "15",
+  "id_carta": "2106",
+  "order_in_legajo": 4,
+  "signatura": "006:6329a.JPG",
+  "nombre_carta": "Carta de Josep de Selerdins a Pedro Santacilia y Pax",
+  "fecha_original": "5 de mayo de 1629",
+  "lugar": "Figueres",
+  "remitente": "Josep de Selerdins",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Com sempre estic confiat que me l'ha de fer me fora anada, suplicats a mi Sra. que m'anirieu un trast o mig o un paper de menuts que és cosa que convé, la {ESP. demés} a la vista. Figueres, maig 5 1629. Josep de Selerdins i Argensola [1§] Al Sr. don Pedro Santacilia, guardi Déu. Perelada Transcripción literal"
+  ],
+  "literal": [
+    "1. Com sempra stich confiat de que me la de fer me fora anade2. suplicats a mi Sra de que me aniriu un trast o mig o, un paper3. de manuts ques cosa que conve la demes a la vista figueras4. Maig (^16) 5 16295. Joseph de Selerdins[?] i Argensala [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "006:6329a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo15/006:6329a.JPG",
+      "url": "/legajos/legajo-15/images/006:6329a.JPG"
+    },
+    {
+      "filename": "007:6329b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo15/007:6329b.JPG",
+      "url": "/legajos/legajo-15/images/007:6329b.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "006:6329a.JPG",
+  "warnings": [],
+  "raw_source": "raw/legajos/legajo-15/cartas/002106.json",
+  "primary_image_url": "/legajos/legajo-15/images/006:6329a.JPG"
+}

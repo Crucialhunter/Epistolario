@@ -1,0 +1,37 @@
+{
+  "legajo_id": "20",
+  "id_carta": "3189",
+  "order_in_legajo": 65,
+  "signatura": "078:5970a.JPG",
+  "nombre_carta": "Carta de Antonia de Zamudio y Figueroa a Pedro Santacilia y Pax",
+  "fecha_original": "1 de agosto de 1663",
+  "lugar": "Madrid",
+  "remitente": "Antonia de Zamudio y Figueroa",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "5970-A [1§] y don Nicolás yo hago lo mismo con la de mi sradoña Leonor muchas veces y a v. s. ge Nro. Sr. como deseo Madrid y agosto primero de 1663 Beso a v. s. la mano Doña Antonia de [?] y figueroa [2§] Transcripción literal"
+  ],
+  "literal": [
+    "1. [ 5970-A]1. y sr don nicolas yo ago lo mismo con la de mi sra do 2. ña leonor muchas beçes y a vs ge nro sr como deseo 3. madrid y Agosto primero de 1663 4. B a vs la mano 5. Doña Antonia 6. de[?] y figueroa [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "078:5970a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo20/078:5970a.JPG",
+      "url": "/legajos/legajo-20/images/078:5970a.JPG"
+    },
+    {
+      "filename": "079:5970b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo20/079:5970b.JPG",
+      "url": "/legajos/legajo-20/images/079:5970b.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "078:5970a.JPG",
+  "warnings": [],
+  "raw_source": "raw/legajos/legajo-20/cartas/003189.json",
+  "primary_image_url": "/legajos/legajo-20/images/078:5970a.JPG"
+}

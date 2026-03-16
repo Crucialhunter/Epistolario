@@ -1,0 +1,43 @@
+{
+  "legajo_id": "19",
+  "id_carta": "7745",
+  "order_in_legajo": 329,
+  "signatura": "459_0478a.JPG",
+  "nombre_carta": "Carta de José Balell a Pedro Santacilia y Pax",
+  "fecha_original": "23 de febrero de 1673",
+  "lugar": "Barcelona",
+  "remitente": "José Balell",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "He recibido. la estimada carta de v. s. de 17 de este Recibida. a 23 de esta tar de t ta de está en que es servido. mandarme Recibia las seis morteros a destillar y que los remito a Vinarós a Guillermo Noguera Mercadal Francisco a [?] que pagare a muy buena gana y sin perder la primera ocasión los embarcare y a todo daré avisoa v. s. El patrón Sansaloni se partió ayer con el Comendador Sr. D. Pedro. Zaforteza con [?] ocasión escribir al amigo Pelegrin y dicho como el patrón Sansaloni ya había entregado los dos [?] mos que habían pasado y otra meno no se la causa porque y como no se ofrecen más novedades de las que digo suplico a v. m. me tenga con su gracia y servicio pues [?] que siempre ha de ser obedecido y servido v. m. cuya vida guarde. mo as. los felicísimos a que [?] desº. en compª. de mis [?] Barcelona y febrero. 23 de 1673 [?] Servor. de v. s. que sus manos besaJosep Balell Sr. D. Pedro Santacilia siempre la memori queda [1§] Barcelona. a febr. @ 23 del sargento. mayor Jusep Balell 1673 recibida @ 27 març para el Sr. don Ncolas Transcripción literal"
+  ],
+  "literal": [
+    "1. He recibido. la estimada carta de VS 2. de 17 deste Recibida. A 23 desta tar 3. de t tha desta en que es servido. Man4. darme Recivia las seis morteros 5. a destillar y que los remito a Vi6. naros A Guillermo Noguera 7. mercadal franco a [?] que 8. pagare a mui buena gana y sin 9. perder la primera ocasion los 10. embarcare y a todo dare aviso11. a VS.12. El Patron Sansaloni se partio ayer 13. con el Sr. Comendador D Pº. Çafor14. tesa con [?] ocasion escrivir 15. al Amigo Pelegrin y dicho co16. mo el Patron Sansaloni ya 17. havia entregado los dos [?] 18. mos que havian pasado y otra 19. meno no se la causa porque 20. y como no se offrecen mas nove21. dades de las que digo suppco. a VM 22. me tenga con su gracia y servicio 23. pues [?] que siempre ha de ser 24. obedecido y servido VM cuia 25. Bida gde. mo as. los felicisimos a 26. que [?] desº. en compª. de mis [?] 27. Barcelona y febº. 23 de 1673 28. ?? Servor. de VS qsmb29. Joseph Balell30. Sr. D. Pº. Sta.Cilia siempre la memori31. queda [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "459_0478a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo19/459_0478a.JPG",
+      "url": "/legajos/legajo-19/images/459_0478a.JPG"
+    },
+    {
+      "filename": "460_0478b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo19/460_0478b.JPG",
+      "url": "/legajos/legajo-19/images/460_0478b.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "459_0478a.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-19/cartas/007745.json",
+  "primary_image_url": "/legajos/legajo-19/images/459_0478a.JPG"
+}

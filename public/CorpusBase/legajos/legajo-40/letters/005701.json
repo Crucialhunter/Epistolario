@@ -1,0 +1,32 @@
+{
+  "legajo_id": "40",
+  "id_carta": "5701",
+  "order_in_legajo": 40,
+  "signatura": "095:53",
+  "nombre_carta": "Carta de Persona desconocida a Persona desconocida",
+  "fecha_original": "fecha sin especificar",
+  "lugar": "Mallorca",
+  "remitente": "Persona desconocida",
+  "destinatario": "Persona desconocida",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Una nota molt breu: Senyor Nicolau Togores i Montanyans serà servit v. m. donar al portador de la present 69 sous. [1§] Transcripción literal"
+  ],
+  "literal": [
+    "1. Una nota molt breu: Sañor Nicollau Togoras y montagans sara sarvut v.m. donar alo portador de la prast. 69 sous..."
+  ],
+  "imagenes": [
+    {
+      "filename": "095:53.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo40/095:53.JPG",
+      "url": "/legajos/legajo-40/images/095:53.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "095:53.JPG",
+  "warnings": [],
+  "raw_source": "raw/legajos/legajo-40/cartas/005701.json",
+  "primary_image_url": "/legajos/legajo-40/images/095:53.JPG"
+}

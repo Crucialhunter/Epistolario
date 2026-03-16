@@ -1,0 +1,38 @@
+{
+  "legajo_id": "26",
+  "id_carta": "4453",
+  "order_in_legajo": 192,
+  "signatura": "277:3548.JPG",
+  "nombre_carta": "Carta de Ana de Córdoba y Aragón a Pedro Santacilia y Pax",
+  "fecha_original": "29 de mayo de 1647",
+  "lugar": "Madrid",
+  "remitente": "Ana de Córdoba y Aragón",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Deseo mucho saber de la salud de v. m. y de todos esos señores, que sea por muchos años y que v. m. vea en qué le puedo servir. La necesidad del manto de la muestra que v. m. lleva me obliga a acordárselo a v. m. y por si acaso se hubiere perdido envío otra a v. m. y que me haga merced de remitírmelo en la primera ocasión. Lo de Lérida da cuidado porque ya sabrá v. m. cómo el francés le ha cercado: Dios nos ayude y guarde a v. m. muchos años. De Madrid, 29 de mayo 1647. Para que vea v. m. cuán apurada estoy de manto ni aun la muestra puedo enviar a v. m. [Letra original de la remitente:] V. m. perdone este cansancio. Doña Ana de Cordoba Señor d. Pedro de Santacilia Transcripción literal"
+  ],
+  "literal": [
+    "1. Deseo mucho saver de la salud de Vm. y 2. de todos esos Sres. que sea por muchos años y que3. Vm vea en que le puedo servir4. La neçesidad del manto de la muestra que Vm.5. lleva me obliga a acordarselo a Vm y por6. si acasso se ubiere perdido enbio otra a Vm.7. y que me haga md. de remitirmelo en la8. primera ocasion9. Lo de Lerida da cuydado porque ya sabra10. Vm. como el françes le a açercado Dios nos11. ayude y ge. a Vm muchos años de M[adri]d 2912. de Mayo 164713. Para que vea Vm quan apurada estoy de manto ni14. aun la muestra puedo enbiar a Vm15. Vm perdone este cansancio16. Doña ana17. de Cordoba18. [Sr.] D Pº de Santacilia [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "277:3548.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo26/277:3548.JPG",
+      "url": "/legajos/legajo-26/images/277:3548.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "277:3548.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (2)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-26/cartas/004453.json",
+  "primary_image_url": "/legajos/legajo-26/images/277:3548.JPG"
+}

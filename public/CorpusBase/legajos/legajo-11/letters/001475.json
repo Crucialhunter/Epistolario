@@ -1,0 +1,38 @@
+{
+  "legajo_id": "11",
+  "id_carta": "1475",
+  "order_in_legajo": 242,
+  "signatura": "417:5330.JPG",
+  "nombre_carta": "Carta de Diego Matías de Aragüés a Pedro Santacilia y Pax",
+  "fecha_original": "23 de marzo de 1661",
+  "lugar": "Madrid",
+  "remitente": "Diego Matías de Aragüés",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "El pliego incluso es del consejo de las órdenes para las pruebas del hábito deñ Sr. don Juan. v. m. de su mano se lo de al virrey sin que se entienda es por este medio el haber lo recibido otra persona, que el suplicado no me le han queriso dar y per a entregarme este ha sido menester particular medio. v. m. procure que le despachen luego que todo venga ajustado al hinterrogatorio porque el marques de Tavara no pueda tener ocasión de dudar en esta alguna que esta esto tan delicado que tropieza en un canamons, esto fuera de la nobleza hidalguia ylimpieza, sino en dichas cosas que no se deeve hacer reparo v. m. me avisara del [?] de este despachp que el suplicado haré todo lo que pudiere enviarlo per Barcelona al conde de Zavella a 26 de este. y también que se remita la información procurar tener inteligencia en haberlo y avisármelo. Guarde Dios a v. m. como deseo. Madrid a 23 Marzo 1661 BLM de v. m. s. muchos Diego Matias de Aragues Este pliego me ha parecido vaya suelto para el virrey que va con otros del protonotario porque no parezca se le da la parte interesada [1§] Transcripción literal"
+  ],
+  "literal": [
+    "1. El pliego incluso es del Conso de las 2. ordenes p3. Juan. VM de su mano se lo de al sr. Virrey 4. sin que se entienda es por este medio el haver 5. lo recivido otra persona, que el suppdo no me 6. le han queriso dar y pera entregarme este 7. ha sido menester particular medio. 8. VM procure que le despachen luego que todo 9. venga ajustado al hinterrogatorio porque 10. el sr. Marques de Tavara no pueda 11. tener ocasion de dudar en esta alguna 12. que esta esto tan delicado que tropieza 13. en un canamons, esto fuera de la 14. nobleza hidalguia ylimpieza, sino 15. en dichas cossas que no se deeve hazer reparo 16. VM me avisara del [^??^] deste despachp 17. que el supldo hare todo lo que pudiere 18. embiarlo per Barcelona al sr. Conde 19. de Cavalla a 26 deste. 20. Y tambien que se remita la informacion procurar 21. tener inteligencia en haverlo y avisarmelo 22. gde Dios a Vm como deseo. Md a 23 marzo 1661 23. BLM de VM s.ms 24. Diego Matias de Aragues 25. Este pliego me ha parecido baya suelto para el sr. 26. Virrey que ba con otros del sr. Protonotario 27. porque no parezca se le da la parte interesada [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "417:5330.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo11/417:5330.JPG",
+      "url": "/legajos/legajo-11/images/417:5330.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "417:5330.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (3)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-11/cartas/001475.json",
+  "primary_image_url": "/legajos/legajo-11/images/417:5330.JPG"
+}

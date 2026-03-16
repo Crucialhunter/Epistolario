@@ -1,0 +1,48 @@
+{
+  "legajo_id": "19",
+  "id_carta": "7695",
+  "order_in_legajo": 285,
+  "signatura": "383_7902a.JPG",
+  "nombre_carta": "Carta de Ana de Olaya y Imperial a Pedro Santacilia y Pax",
+  "fecha_original": "11 de septiembre de 1658",
+  "lugar": "Mallorca",
+  "remitente": "Ana de Olaya y Imperial",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Â [1§] Â [2§] Â [3§] Transcripción literal"
+  ],
+  "literal": [
+    "1. 2. 3. [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "383_7902a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo19/383_7902a.JPG",
+      "url": "/legajos/legajo-19/images/383_7902a.JPG"
+    },
+    {
+      "filename": "384_7902b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo19/384_7902b.JPG",
+      "url": "/legajos/legajo-19/images/384_7902b.JPG"
+    },
+    {
+      "filename": "385_7902c.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo19/385_7902c.JPG",
+      "url": "/legajos/legajo-19/images/385_7902c.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "383_7902a.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (9)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-19/cartas/007695.json",
+  "primary_image_url": "/legajos/legajo-19/images/383_7902a.JPG"
+}

@@ -1,0 +1,43 @@
+{
+  "legajo_id": "21",
+  "id_carta": "3396",
+  "order_in_legajo": 84,
+  "signatura": "130:5685a.JPG",
+  "nombre_carta": "Carta de Pedro Fajardo de Requeséns-Zúñiga y Pimentel (V marqués de los Vélez) a Pedro Santacilia y Pax",
+  "fecha_original": "16 de noviembre de 1638",
+  "lugar": "Pamplona",
+  "remitente": "Pedro Fajardo de Requeséns-Zúñiga y Pimentel (V marqués de los Vélez)",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Heche menos que v. m. no me viese al pasar a la vuelta por cerca de esta ciudad y de él motivo que v. m. tuvo para dejarlo de hacer quedo con mayor estimación pues había sido de harta importancia para que la compañía pasase con más quietud, v. m. sabe cuan a su servicio me tiene y lo que deseo las ocasiones de que lo experimse En Entrando En Aragón me avisará v. m., como se dispone el alojamiento con lo demás que se ofreciere en que yo pueda serviere. Guarde Dios a v. m. muchos años de Pamplona y nobieme 16 de 1638 El marques de los Velez Sr. D. Pedro de Santacilia y Pax [1§] Pamplona 16 Noviembre 1638 El marques de los Velez rdo. [2§] Transcripción literal"
+  ],
+  "literal": [
+    "1. Heche menos q Vm. no me Viese al pasar ala 2. Buelta por çerca deesta Ciud y deel motibo 3. q Vm. tubo pa dexarlo de haçer quedo 4. con mayor estimaon pues abia sido de harta 5. ymportançía p que la Compa pasase con mas 6. quietud, Vm. save quan hasu servio me tiene 7. y loque deseo las ocasiones de quelo experimse 8. En Entrando En Aragon me avisará Vmd., como 9. se dispone el alojamito con lo demas que seofreçiere 10. Enque yo pueda serviere ge Dios a Vm. muchos 11. años de Pampa y nobiem12. e 16 de 1638 13. El Marqs de los veles14. [Margen izquierdo][^ Sr D Pedro de sta Cilia y Pax] [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "130:5685a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo21/130:5685a.JPG",
+      "url": "/legajos/legajo-21/images/130:5685a.JPG"
+    },
+    {
+      "filename": "131:5685b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo21/131:5685b.JPG",
+      "url": "/legajos/legajo-21/images/131:5685b.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "130:5685a.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (5)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-21/cartas/003396.json",
+  "primary_image_url": "/legajos/legajo-21/images/130:5685a.JPG"
+}

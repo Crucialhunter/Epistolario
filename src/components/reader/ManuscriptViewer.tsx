@@ -1,30 +1,37 @@
-﻿"use client";
+"use client";
 
-import { TransformWrapper, TransformComponent, useControls } from "react-zoom-pan-pinch";
-import { ZoomIn, ZoomOut, RotateCcw } from "lucide-react";
+import { useEffect, useRef, useState } from "react";
+import { TransformComponent, TransformWrapper, useControls } from "react-zoom-pan-pinch";
+import { Maximize2, Minimize2, RotateCcw, ZoomIn, ZoomOut } from "lucide-react";
 
 interface ManuscriptViewerProps {
   src: string;
   alt: string;
 }
 
-const Controls = () => {
+function Controls({
+  onToggleFullscreen,
+  isFullscreen,
+}: {
+  readonly onToggleFullscreen: () => void;
+  readonly isFullscreen: boolean;
+}) {
   const { zoomIn, zoomOut, resetTransform } = useControls();
 
   return (
-    <div className="absolute bottom-3 right-3 md:top-5 md:left-5 md:right-auto md:bottom-auto flex items-stretch bg-[#1b180d]/70 md:bg-[#1b180d]/92 border border-white/10 md:border-[#8c8571] shadow-2xl z-50 rounded-xl md:rounded-2xl overflow-hidden backdrop-blur-md">
+    <div className="absolute right-3 top-3 z-50 flex items-stretch overflow-hidden rounded-2xl border border-[#8c8571]/60 bg-[#181510]/88 shadow-2xl backdrop-blur-md">
       <button
         onClick={() => zoomOut(0.25)}
-        className="p-2.5 md:p-3.5 text-[#e7e1cf] hover:text-[#c5a028] hover:bg-black/40 transition-colors border-r border-white/10 md:border-[#5a5545]"
+        className="border-r border-[#5a5545] px-3 py-3 text-[#e7e1cf] transition-colors hover:bg-black/30 hover:text-[#c5a028]"
         title="Alejar"
         aria-label="Alejar manuscrito"
       >
-        <ZoomOut size={18} className="md:w-5 md:h-5" />
+        <ZoomOut size={17} />
       </button>
 
       <button
         onClick={() => resetTransform()}
-        className="px-3 py-2.5 md:px-4 md:py-3.5 text-[#e7e1cf] hover:text-[#c5a028] hover:bg-black/40 transition-colors border-r border-white/10 md:border-[#5a5545] font-bold text-[10px] md:text-[11px] uppercase tracking-[0.2em] flex items-center"
+        className="border-r border-[#5a5545] px-3 py-3 text-[10px] font-bold uppercase tracking-[0.18em] text-[#e7e1cf] transition-colors hover:bg-black/30 hover:text-[#c5a028]"
         title="Ajustar a pantalla"
         aria-label="Ajustar manuscrito a pantalla"
       >
@@ -33,20 +40,52 @@ const Controls = () => {
 
       <button
         onClick={() => zoomIn(0.25)}
-        className="p-2.5 md:p-3.5 text-[#e7e1cf] hover:text-[#c5a028] hover:bg-black/40 transition-colors"
+        className="border-r border-[#5a5545] px-3 py-3 text-[#e7e1cf] transition-colors hover:bg-black/30 hover:text-[#c5a028]"
         title="Acercar"
         aria-label="Acercar manuscrito"
       >
-        <ZoomIn size={18} className="md:w-5 md:h-5" />
+        <ZoomIn size={17} />
+      </button>
+
+      <button
+        onClick={onToggleFullscreen}
+        className="px-3 py-3 text-[#e7e1cf] transition-colors hover:bg-black/30 hover:text-[#c5a028]"
+        title={isFullscreen ? 'Salir de pantalla completa' : 'Pantalla completa'}
+        aria-label={isFullscreen ? 'Salir de pantalla completa' : 'Ver manuscrito a pantalla completa'}
+      >
+        {isFullscreen ? <Minimize2 size={17} /> : <Maximize2 size={17} />}
       </button>
     </div>
   );
-};
+}
 
 export default function ManuscriptViewer({ src, alt }: ManuscriptViewerProps) {
+  const containerRef = useRef<HTMLDivElement | null>(null);
+  const [isFullscreen, setIsFullscreen] = useState(false);
+
+  useEffect(() => {
+    const handleFullscreenChange = () => {
+      setIsFullscreen(Boolean(document.fullscreenElement));
+    };
+
+    document.addEventListener("fullscreenchange", handleFullscreenChange);
+    return () => document.removeEventListener("fullscreenchange", handleFullscreenChange);
+  }, []);
+
+  const toggleFullscreen = async () => {
+    if (!containerRef.current) return;
+
+    if (document.fullscreenElement) {
+      await document.exitFullscreen();
+      return;
+    }
+
+    await containerRef.current.requestFullscreen();
+  };
+
   if (!src) {
     return (
-      <div className="w-full h-full flex flex-col items-center justify-center text-[#e7e1cf]/50 p-8 text-center bg-[#2d2a26]">
+      <div className="flex h-full w-full flex-col items-center justify-center bg-[#2d2a26] p-8 text-center text-[#e7e1cf]/55">
         <RotateCcw size={48} className="mb-4 opacity-20" />
         <p className="font-serif italic">Manuscrito no disponible u omitido</p>
       </div>
@@ -54,57 +93,62 @@ export default function ManuscriptViewer({ src, alt }: ManuscriptViewerProps) {
   }
 
   return (
-    <div className="relative w-full h-full bg-[#1b180d] overflow-hidden group">
+    <div ref={containerRef} className="relative h-full w-full overflow-hidden bg-[#181510] group">
       <TransformWrapper
-        initialScale={1}
+        initialScale={0.92}
         minScale={0.5}
         maxScale={4}
-        centerOnInit={true}
+        centerOnInit
+        centerZoomedOut
         wheel={{ step: 0.1 }}
         alignmentAnimation={{ sizeX: 0, sizeY: 0 }}
       >
         {() => (
           <>
-            <div className="absolute left-3 top-3 md:hidden z-40 rounded-full bg-black/35 px-2.5 py-1 text-[10px] font-bold uppercase tracking-[0.24em] text-[#e7e1cf] backdrop-blur">
+            <div className="absolute left-3 top-3 z-40 rounded-full border border-white/10 bg-black/35 px-2.5 py-1 text-[10px] font-bold uppercase tracking-[0.22em] text-[#e7e1cf] backdrop-blur">
               Manuscrito
             </div>
-            <div className="absolute left-5 top-5 hidden md:block z-40 rounded-full border border-[#8c8571] bg-[#1b180d]/92 px-3 py-1.5 text-[10px] font-bold uppercase tracking-[0.24em] text-[#e7e1cf] shadow-xl">
-              Visor de manuscrito
+            <div className="absolute bottom-3 left-3 z-40 rounded-full border border-white/10 bg-black/35 px-2.5 py-1 text-[10px] font-bold uppercase tracking-[0.22em] text-[#e7e1cf] backdrop-blur">
+              {isFullscreen ? 'Pantalla completa' : 'Visor activo'}
             </div>
-            <div className="w-full h-full flex items-center justify-center cursor-grab active:cursor-grabbing">
-              <TransformComponent wrapperClass="!w-full !h-full" contentClass="!w-full !h-full flex items-center justify-center">
+            <div className="flex h-full w-full items-center justify-center cursor-grab active:cursor-grabbing">
+              <TransformComponent wrapperClass="!w-full !h-full" contentClass="!w-full !h-full flex items-center justify-center p-4 sm:p-5">
                 {/* eslint-disable-next-line @next/next/no-img-element */}
                 <img
                   src={src}
                   alt={alt}
                   draggable={false}
-                  className="max-w-full max-h-full object-contain shadow-2xl"
+                  className="max-h-full max-w-full rounded-[0.3rem] object-contain shadow-[0_14px_30px_rgba(0,0,0,0.34)]"
                   onError={(e) => {
-                    (e.target as HTMLImageElement).src = 'data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7';
-                    (e.target as HTMLImageElement).parentElement?.classList.add('broken-image-fallback');
+                    (e.target as HTMLImageElement).src =
+                      "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7";
+                    (e.target as HTMLImageElement).parentElement?.classList.add("broken-image-fallback");
                   }}
                 />
               </TransformComponent>
             </div>
-            <Controls />
+            <Controls onToggleFullscreen={toggleFullscreen} isFullscreen={isFullscreen} />
           </>
         )}
       </TransformWrapper>
 
-      <style dangerouslySetInnerHTML={{ __html: `
-        .broken-image-fallback {
-            background: #2d2a26;
-            display: flex;
-            align-items: center;
-            justify-content: center;
-            color: rgba(255,255,255,0.3);
-            font-family: serif;
-        }
-        .broken-image-fallback::after {
-            content: "Imagen no encontrada";
-        }
-      ` }} />
+      <style
+        dangerouslySetInnerHTML={{
+          __html: `
+            .broken-image-fallback {
+              background: #2d2a26;
+              display: flex;
+              align-items: center;
+              justify-content: center;
+              color: rgba(255,255,255,0.3);
+              font-family: serif;
+            }
+            .broken-image-fallback::after {
+              content: "Imagen no encontrada";
+            }
+          `,
+        }}
+      />
     </div>
   );
 }
-

@@ -1,0 +1,37 @@
+{
+  "legajo_id": "22",
+  "id_carta": "3630",
+  "order_in_legajo": 12,
+  "signatura": "012:4979a.JPG",
+  "nombre_carta": "Carta de Melcior Dureta a Pedro Santacilia y Pax",
+  "fecha_original": "26 de agosto de 1627",
+  "lugar": "Barcelona",
+  "remitente": "Melcior Dureta",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Jo tinc donats els cent reals al majordom del senyor comte conforme v. m. me diu de Mallorca i del món no en sé res més del que li escric en Caimari més vingut ací i m'ha dit estava sens camisa ni sabates i que digués a v. m. com ho té de fer. Jo li doní trenta reals v. m. vegi aqueix me com se té de fer i avisar prompte. Guardi Déu a v. m. com pot de Barcelona i agost a 26 any 1627. {ESP. Fray} Melcior Dureta Sr. don Predro [1§] A don Pedro Santacilia i Pax, salut Transcripción literal"
+  ],
+  "literal": [
+    "1. Jo tync donast los sent reals al2. mayordom del senor comte conforme3. V.m. me dyu de malorca y del mon non4. se res mes de lo que ly ascrygy an Cay 5. mary mes vyngut asy y mea dyt 6. astava sens camysa ny sabates y que7. dyges a V.m. com o te de fer y o ly8. dony trenta reals V.m. vege aquex 9. me com se te de fer y abysar pronte10. guarda Deu a V.m. com pot de bar11. celona y agost a 26 any 162712. fray melsyor dureta13. Sro. don Predro [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "012:4979a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo22/012:4979a.JPG",
+      "url": "/legajos/legajo-22/images/012:4979a.JPG"
+    },
+    {
+      "filename": "013:4979b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo22/013:4979b.JPG",
+      "url": "/legajos/legajo-22/images/013:4979b.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "012:4979a.JPG",
+  "warnings": [],
+  "raw_source": "raw/legajos/legajo-22/cartas/003630.json",
+  "primary_image_url": "/legajos/legajo-22/images/012:4979a.JPG"
+}

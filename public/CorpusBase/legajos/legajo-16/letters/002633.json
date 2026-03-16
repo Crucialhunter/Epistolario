@@ -1,0 +1,43 @@
+{
+  "legajo_id": "16",
+  "id_carta": "2633",
+  "order_in_legajo": 120,
+  "signatura": "194:2133a.JPG",
+  "nombre_carta": "Carta de Josep Martínez a Pedro Santacilia y Pax",
+  "fecha_original": "2 de septiembre de 1667",
+  "lugar": "Felanitx",
+  "remitente": "Josep Martínez",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Señor mío ayer tarde llegue en puerto Colombo con una Sayetia valenciana con una compañía de infantería que he levantado en Valencia para pasar con ella a Palermo, y para abreviar razones quiero dar cuenta a v. s. lo que me esta Sucediendo, yo soy el alférez del maestre de campo del tercio de Sicilia y deudo de don Gabriel de Toledo y Davalos porquien escribío el dicho Sr. don Gabriel a v. s. habrá algunos seis meses Suplicándole si habría modo de poder levantar una compañía en este reino y así Señor después de haber dado fondo en este puerto llegamos a los torreros y preguntamos Si querían nuestra patente dijeron que no era menester y confiados en esto enviamos cuatro marineros a este lugar por un poco de refresco y el {CAT. batle} los a puesto presos y así Suplico a v. s. sea intercesor en esa corte por ellos pues ínnocentemente pecaron además de Correrme a mi gran gasto en la detención del víage, espero que v. s. mehara merced para que yo pueda Significar a don Gabriel los favores que v. s. le hace [1§]. Remito a v. s. el y ncluso pliego que es del señor don Nicolas su hijo de v. s. y vuelvo a Suplicar a v. s. me favorezca en hacerme soltar los mari neros pues sin ellos no puedo proseguir mi viaje. Guarde Dios a v. s. como deseo falanice 2 de septiembre 1667 besa la mano de v. s. Su mayor servidor Sr. don Giuseppe Martínez mi señor don Pedro de Santa S Sicilia [2§] Transcripción literal"
+  ],
+  "literal": [
+    "1. Señor mio ayer tarde llegue en Puerto Colombo 2. con una Sayetia Valençiana con Una Compañia de 3. Ynfanteria que e levantado en Valençia para passar 4. con ella a Palermo, y para abreviar razones quiero 5. dar quenta a VS. lo que me esta Suçediendo, yo soy 6. el Alferez del Mre de Campo del terçío de Siçilia 7. y deudo de Don Gabriel de toledo y Davalos porquien 8. escrivío el diçho Don Gabriel a VS. abra algunos seys 9. meses Suplicandole si avria modo de poder levantar 10. una Compañia en este Reyno y assi Señor despues de 11. haver dado fondo en este Puerto llegamos alos torreros 12. y preguntamos Si querian nra Patente dijeron que 13. no era menester y confiados en esto embiamos quatro 14. marineros a este lugar por un poco de refresco y el 15. bayle los a puesto presos y assi Supp[li]co a VS. sea 16. interçessor en essa Corte por ellos pues ínnocentemte 17. pecaron ademas de Correrme a mi gran gasto en la 18. detençíon del víage, espero que VS. mehara mrd 19. para que yo pueda Significar a Don gabriel los 20. favores que VS. le haze [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "194:2133a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo16/194:2133a.JPG",
+      "url": "/legajos/legajo-16/images/194:2133a.JPG"
+    },
+    {
+      "filename": "195:2133b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo16/195:2133b.JPG",
+      "url": "/legajos/legajo-16/images/195:2133b.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "194:2133a.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-16/cartas/002633.json",
+  "primary_image_url": "/legajos/legajo-16/images/194:2133a.JPG"
+}

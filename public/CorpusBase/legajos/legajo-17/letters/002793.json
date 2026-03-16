@@ -1,0 +1,38 @@
+{
+  "legajo_id": "17",
+  "id_carta": "2793",
+  "order_in_legajo": 59,
+  "signatura": "093:1335.JPG",
+  "nombre_carta": "Carta de Nicolás Truyol a Pedro Santacilia y Pax",
+  "fecha_original": "28 de agosto de 1658",
+  "lugar": "Manacor",
+  "remitente": "Nicolás Truyol",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "procurador real Lo que v. m. alcanzó por su benévola naturaleza honrando a todos, apenas merece agradecimiento, el que yo presento a v. m. son efectos de mis deméritos con una voluntad rendida pues me juzgo indigno de sus favores por la excepción general. grandes son los que confieso en la ocasión de un hijo poco atento. v. m. es padre con que no digo más, tan solamente aseguro a v. m. que ha de hallar en mi memoria y voluntad potencias que deben obrar para tal ocasión ya que el entendimiento le llevó la pena para que yo no acertase a estimar a v. m. como debo sus favores de quien es solo v. m. es con digna recompensa. Guarde. Nro. Sr. a v. m. Manacor y agosto 28 de 1658. Mayor servidor de v. m. que sus manos besa Don Nicolas Truyol [1§] Transcripción literal"
+  ],
+  "literal": [
+    "1. Sr. Pr Real2. Lo q Vm. alcancó por su benevola natura=3. leza honrrando a todos, apenas mereze agrade=4. çimiento=, el que yo presento à VM. son efetos 5. de mis demeritos con una voluntad rendida pues 6. me jusgo indigno de sus favores por la exçepcion 7. general,= grandes son los que confiesso en la 8. ocasion de un hijo poco atento. VM. es Padre 9. con que no digo mas, tan solamte assiguro á Vm. 10. que a de hallar en mi memoria y voluntad 11. potençias que deven obrar para tal ocasion 12. ya q el entendimiento le llevó la pena 13. para q yo no açertasse á estimar a Vm. 14. como devo sus favores de quienes solo Vm. 15. es condigna recompenssa= gde. Nro Sr a Vm. 16. Manacor y Agosto 28 de 165817. Mayor serdor de VM 18. q s[u] m B19. Don Nicolas Truyol [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "093:1335.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo17/093:1335.JPG",
+      "url": "/legajos/legajo-17/images/093:1335.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "093:1335.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-17/cartas/002793.json",
+  "primary_image_url": "/legajos/legajo-17/images/093:1335.JPG"
+}

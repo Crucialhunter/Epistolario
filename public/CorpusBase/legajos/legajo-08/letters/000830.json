@@ -1,0 +1,37 @@
+{
+  "legajo_id": "8",
+  "id_carta": "830",
+  "order_in_legajo": 18,
+  "signatura": "029-23a copia",
+  "nombre_carta": "Carta de Miguel de Andrade a Persona desconocida",
+  "fecha_original": "fecha sin especificar",
+  "lugar": "lugar sin especificar",
+  "remitente": "Miguel de Andrade",
+  "destinatario": "Persona desconocida",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Excelentísimo Sr., El alférez don Miguel de Andrade, entretenido en esta armada, dice que desde Alicante no ha recibido cosa ninguna y que al presente le ha socorrido a otras personas particulares. Por lo que suplica a vuestra excelencia se sirva de mandar y una o dos pagas a [?] de su sueldo en que reciba merced de la grandeza de vuestra excelencia. [1§] El alférez don Miguel de Andrade Transcripción literal"
+  ],
+  "literal": [
+    "1. Ex<> Sr. 2. El Alferez. Don Mig de Andrade 3. entrenido enesta Arm< [a]>; dice q desde 4. Alicante no ha recevido cosa ning< [a]> 5. y q al press< > le ha socorrido. aotras. 6. perso< >. Particulares 7. Porlo q. sup[li]< >. aVett< [a]>. se sirva de 8. m< y una, o, dos. pagas a gdes. su sucedo????? 9. en q reciv< [a]>. mrd. de la grandeza 10. de Vex< [a]>. [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "029-23a copia.jpg",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo08/029-23a copia.jpg",
+      "url": "/legajos/legajo-08/images/029-23a copia.jpg"
+    },
+    {
+      "filename": "029-23b copia.jpg",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo08/029-23b copia.jpg",
+      "url": "/legajos/legajo-08/images/029-23b copia.jpg"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "029-23a copia.jpg",
+  "warnings": [],
+  "raw_source": "raw/legajos/legajo-08/cartas/000830.json",
+  "primary_image_url": "/legajos/legajo-08/images/029-23a copia.jpg"
+}

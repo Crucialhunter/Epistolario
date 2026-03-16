@@ -1,0 +1,43 @@
+{
+  "legajo_id": "25",
+  "id_carta": "4115",
+  "order_in_legajo": 49,
+  "signatura": "099_149a.JPG",
+  "nombre_carta": "Carta de Miguel Malo a Jerónimo Pelegrín de Aragüés",
+  "fecha_original": "10 de mayo de 1667",
+  "lugar": "Madrid",
+  "remitente": "Miguel Malo",
+  "destinatario": "Jerónimo Pelegrín de Aragüés",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Tengo avisado a v. m. que diga al Sr. Mateo Maestre que venga la renuncia a su oficio en favor del hijo que quisiere i que sea ante notario para se despache su previlegio y sea luego que si se pasa el año que se cumple a Septiembre no tendrá remedio. El Sr. D. Miguel Salva se parte en todo este mes, ya v. m. está recomendado y al amigo Bescanta reciba v. m. recados de tota mi casa y a Dios que me lo guarde com deseo. Madrid a 10 de mayo de 1667. Servidor de v. m. que sus manos besa Miguel Malo Sr. Jeronimo Pelegrin y Aragues [1§] Madrid, 10 de mayo 1667, de Migel Malo. Respuesta, {CAT. 5 de Juny 1667}. Transcripción literal"
+  ],
+  "literal": [
+    "1. Tengo habisado a Vm q diga al sr.2. Matheo Maestre q benga la renuncia3. a su officio en fabor del hijo q quisiere4. y q sea ante notario pª se despache5. su previlegio y sea luego q si se pasa6. el año q se cunple a Sette. no tendra7. remedio8. El Sr. D. Migl Çalba se parte en todo9. este mes ya Vm esta recomendado y al10. amigo Bescanta reciba Vm recados11. de toda mi cassa y a Dios q me le gde12. como deso M[adri]d a 10 de Mayo de 166713. Ser[vid]or de Vm q s.m.b.14. Miguel Malo15. Sr. Gerº Pelegrin y Aragues [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "099_149a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo25/099_149a.JPG",
+      "url": "/legajos/legajo-25/images/099_149a.JPG"
+    },
+    {
+      "filename": "100_149b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo25/100_149b.JPG",
+      "url": "/legajos/legajo-25/images/100_149b.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "099_149a.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (4)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-25/cartas/004115.json",
+  "primary_image_url": "/legajos/legajo-25/images/099_149a.JPG"
+}

@@ -1,0 +1,43 @@
+{
+  "legajo_id": "23",
+  "id_carta": "3809",
+  "order_in_legajo": 64,
+  "signatura": "125:3221a.JPG",
+  "nombre_carta": "Carta de Luis de Aragón (VII duque de Cardona) a Pedro Santacilia y Pax",
+  "fecha_original": "7 de marzo de 1635",
+  "lugar": "Lucena",
+  "remitente": "Luis de Aragón (VII duque de Cardona)",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "con dos cartas de v. m. me hallo este ordinario que el mal tiempo debe haber ocasionado lleguen juntas a mis manos, y me alegro saber por ambas de la buena salud de v. m. como lo haré siempre que tenga las mismas nuevas por acá lo pasamos con ella y yo deseoso que se ofrezcan muchas ocasión en que servir a v. m., cuyos avisos estimo, por lo que nos divierte a los ociosos la noticia de lo más corriente, no la perdono a v. m. el tiempo que hay se detuviere con su Censura de todo que en retorno perdono a v. m. cuanto mormurare de mi Sr. con el Srio Valero pues tengo tan seguras ausencias donde ambos se hallaren Holgaria que Bellafilla, volviese muy bien despachado en la diligencia que le ha traído ay, y que las cosas de Barcelona se acomodasen muy en beneficio suyo y servicio de su majestad dígame v. m. lo que de esto entendiere que estimaré saberlo, y lo que hay de jornada de su majestad a Cataluña y prevenciones para ella con lo que a v. m. se le ofrece en esto, sin callar me nada. Guarde Dios a v. m. como deseo. Lucena 7 de mzo 1635 bueno es que corra mi opinión de rico cuando es tanto de pedir ayuda de casta para el crédito que mi bolsa tiene con el Señor secreta rio valero Sr. don Luis de Aragón Sr. don Pedro Santacilia y Pax [1§] Lucena rdo. 7 marco 1635 El conde de Ampurias [2§] Transcripción literal"
+  ],
+  "literal": [
+    "1. Con dos cartas de Vm me hallo este ordinario que el2. mal tpo deve aver ocassionado lleguen juntas a mis manos,3. y me alegro saver por ambas de la buena salud de Vm4. como lo hare siempre que tenga las mismas nuevas por5. aca lo passamos conella y yo desseosso que se ofrezcan muchas ocassio 6. en que servir a Vm, cuyos avissos estimo, por lo que nos divierte7. a los ociossos la notiçia de lo mas corriente, no la perdono a Vm8. el tpo que ay se detuviere con su Censura de todo que en retorno9. perdono a Vm quanto mormurare de mi con el Srio Valero10. pues tengo tan seguras ausencias donde ambos se hallaren 11. Holgaria que Bellafilla, bolbiesse muy bien despachado en12. la diligençia que le a traido ay, y que las cossas de Barna se13. acomodassen muy en beneficio suyo y servicio de Su Magd14. digame Vm lo que desto entendiere que estimare saverlo,15. y lo que ay de Jornada de Su M[a]gd a Cataluña y prevençiones16. para ella con lo que a Vm se le ofreçe en esto, sin callar 17. me nada. gde Dios a Vm como desseo. Lucena 7 de mzo 163518. bueno es que corra mi opinion de rico19. quando es tanto de pedir aiuda de casta para20. el credito q mi bolsa tiene con el Señor secreta21. rio valero22. don Luys de Aragon23. Sr. Don pº santaçilia y Pax [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "125:3221a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo23/125:3221a.JPG",
+      "url": "/legajos/legajo-23/images/125:3221a.JPG"
+    },
+    {
+      "filename": "126:3221b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo23/126:3221b.JPG",
+      "url": "/legajos/legajo-23/images/126:3221b.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "125:3221a.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-23/cartas/003809.json",
+  "primary_image_url": "/legajos/legajo-23/images/125:3221a.JPG"
+}

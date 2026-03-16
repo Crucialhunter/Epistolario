@@ -1,0 +1,43 @@
+{
+  "legajo_id": "7",
+  "id_carta": "773",
+  "order_in_legajo": 13,
+  "signatura": "03-3a copy",
+  "nombre_carta": "Carta de Pedro Aiza y Doménech a Jerónimo Pelegrín de Aragüés",
+  "fecha_original": "31 de agosto de 1665",
+  "lugar": "Ibiza",
+  "remitente": "Pedro Aiza y Doménech",
+  "destinatario": "Jerónimo Pelegrín de Aragüés",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Dos cartas recibí de vuestra merced: una por vía de Valencia, de 24 de julio, y la otra con una barca genovesa de 10 de agosto. Y estimo mucho el buen acuerdo que vuestra merced ha tenido de escribir a Madrid a mi primo. Por tener mi mujer muy enferma no le [he] podido hacer una ollita de conserva de {CAT. señorida.} En estando buena, si Dios es servido, la hará y se la remitiré en habiendo ocasión. Vuestra merced vea si le puedo servir en algo, que lo haré con mucho gusto. Lo que hay de nuevo por acá es que hemos tenido las galeras de Francia a este puerto, sólo que no hemos dejado entrar ningún francés dentro la villa. Ahora se han partido para la vuelta de España los navíos del francés. Han tornado tres navíos de moros y han puesto dos a pique y los han traído los tres al puerto. No sabemos su intento. Estamos aguardando respuesta de Madrid para disponer lo que se ha de hacer. Vuestra merced no se olvide de avisarme de su salud, cuya vida guarde el Cielo largos años como deseo. Ibiza y agosto 31 de 1665 Amigo y servidor de vuestra merced que sus manos besa,. Pedro Aiza y Domenec Señor Jeronimo Pelegrin de Aragues [1§] {CAT. Eivissa. Resposta. 1665.} Transcripción literal"
+  ],
+  "literal": [
+    "1. dos cartas resibi de V. M. una por via de 2. valencia de 24 de julio y la otra con una 3. barca ginovesa de 10 de agosto i estimo 4. mutcho el buen aquerdo que V. M. a te- 5. nido deschrivir a madrid ami primo 6. por tener mi muger mui enferma no le 7. podido aser una ollita de conserva de 8. {CAT señorida en estando buena si dios es ser- 9. vido la ara i se la remitire en aviendo 10. ocasion V. M. vea si le puedo servir en 11. algo que lo are con mutcho gusto 12. lo que ai de nuevo por aca es que emos 13. tenido las galeras de fransia a este puer- 14. to solo que no emos dexado entrar nin- 15. gun franses dentro la villa agora se an 16. partido para la buelta despaña los 17. navios del franses an tornado tres na- 18. vios de moros y an puesto dos api 19. que i los antraido los tres alpuerto nosa- 20. bemos suintento. estamos aguardando 21. respuesta de madrid para disponer 22. lo que se a de aser V.M no se olvide de a- 23. visarme de su salut quia vida guarde el sie- 24. lo largos anos como deseio ivisa y agosto 31 25. de 1664 26. Amigo yservidor de 27. V. M. q s m B. 28. Pedro Aulí y domenech 29. Sr. Geronimo Pelegrin de 30. Aragues [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "03-3a copy.gif",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo07/03-3a copy.gif",
+      "url": "/legajos/legajo-07/images/03-3a copy.gif"
+    },
+    {
+      "filename": "04-3b copy.gif",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo07/04-3b copy.gif",
+      "url": "/legajos/legajo-07/images/04-3b copy.gif"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "03-3a copy.gif",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (5)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-07/cartas/000773.json",
+  "primary_image_url": "/legajos/legajo-07/images/03-3a copy.gif"
+}

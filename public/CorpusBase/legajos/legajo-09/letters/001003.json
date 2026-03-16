@@ -1,0 +1,38 @@
+{
+  "legajo_id": "9",
+  "id_carta": "1003",
+  "order_in_legajo": 40,
+  "signatura": "049-25",
+  "nombre_carta": "Carta de Antonio Vellón a Arnau de Santacilia",
+  "fecha_original": "10 de agosto de 1674",
+  "lugar": "Cremona",
+  "remitente": "Antonio Vellón",
+  "destinatario": "Arnau de Santacilia",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Amigo y señor mío, con mucho gusto he recibido su carta de 21 por las buenas nuevas de saber de su salud que Dios prospere con toda felicidad. Amigo, en cuanto la compañía se va conservando lo mejor que se puede y hoy día de la fecha se han enviado 5 soldados a sentar que los trajo un cabo de escuadra. En cuanto al dinero tanto he porfiado que en todo y por todo tengo en mi poder libras dos mil y quinientas, digo 2500, que no ha sido poco. De lo demás todo se va remediando lo mejor que se puede por servir a v. s., cuya vida garde Dios como deseo. Cremona y agosto, a 10 de 1674. Amigo y servidor de v. s., que sus manos besa, Antonio Vellon Señor capitán don Arnau Santacilia Transcripción literal"
+  ],
+  "literal": [
+    "1. Amigo y señor mio Con mucho gus2. to errecebido su Carta de 21 por 3. las buenas nuebas de saber de su 4. salud que dios prosper contoda felicda5. Amigo en Cuanto la Conpañia se 6. ba conserbando lomegor que 7. se puede yoidiade la fe Cha8. se Anenbiado 4 soldados Asen9. tar que los trugo un Cabo des10. Cuadra = en cuan el dine11. ro tanto e por fiado que en 12. todo y portodo tengo en mi 13. poder libras dos mil y quinien14. tas digo 2400 queno Asido 15. poco delode mas todo se ba 16. remediando lo megor que 17. se puede por serbir A VSª Cu18. ia bida garde dios como deseo 19. Cremona y Agosto A 10 de 1674 20. Amigo y serbidor 21. de VSª q s m b 22. Anto vellon23. [Margen izquierdo][^ Sr Capn D Arnao santa cecilia] [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "049-25.jpg",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo09/049-25.jpg",
+      "url": "/legajos/legajo-09/images/049-25.jpg"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "049-25.jpg",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-09/cartas/001003.json",
+  "primary_image_url": "/legajos/legajo-09/images/049-25.jpg"
+}

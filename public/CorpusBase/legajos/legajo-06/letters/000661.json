@@ -1,0 +1,48 @@
+{
+  "legajo_id": "6",
+  "id_carta": "661",
+  "order_in_legajo": 162,
+  "signatura": "242-125a",
+  "nombre_carta": "Carta de Bernat Nadal a Cecilia Zaforteza y Sureda de Sant Martí",
+  "fecha_original": "10 de febrero de 1777",
+  "lugar": "Nápoles",
+  "remitente": "Bernat Nadal",
+  "destinatario": "Cecilia Zaforteza y Sureda de Sant Martí",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Nápoles y febrero a 10 de 1777. Muy Señora mía y de mi mayor veneración. Ésta le escribo sin saber nada mi señor D. Juan, el que disfruta de buena salud, asegurando a v. m. que a mi parecer no la puede lograr mejor. La mía buena, como también la de D. Cristóbal y Mateo, gracias a Dios. En ésta voy a dar relacion a v. m. con toda claridad y pura verdad de hombre de bien el modo de proseguir nuestro viaje, asegurándole que hasta el día presente no puede encaminarse mejor sin desviar un paso, mi señor D. Juan, de un buen cristiano, muy al contrario de lo que pensarán algunos mal intencionados de esa isla de Mallorca. Pero con el tiempo quedarán desengañados si proseguimos este viaje así como lo hemos ejecutado hasta el presente, confiado [?] en Dios será de esta manera. Y también le puedo asegurar será para nosotros de mucho provecho, y particularmente para mi señor D. Juan, por las buenas ocasiones que continuamente tiene para instruirse a todo aquello que pertenece a un buen caballero, las que no podía conseguir en Mallorca. Nosotros estamos determinados (si Dios lo permite) de partirnos para Roma día 15 del presente, por haber ya logrado lo mucho que deseábamos, que era recibir las cartas; las que han sido para nosotros de mucho consuelo viendo en ellas logran todos de cabal salud. Pienso continuamente en los buenos avisos que v. m. me dio antes de salir de esa isla, los que observo y observaré como le tengo prometido mientras [1§] Dios N. Sr. me conserve las dos principales potencias, que son memoria y entendimiento. Discurro, según he podido conseguir de mi señor D. Juan, que el viaje será pasar a Roma, a Loreto, Marsella y Barcelona, y después embarcarnos para Mallorca, en donde confío llegaremos con salud en la protección del patriarca San José y asistencia de Dios, a quien quedo rogando le guarde muchos años como deseo. Me pondrá a los pies de mi Sra. Dña. Catarina y demás señores de casa, ofreciéndome de nuevo a sus órdenes, como me corresponde y tengo obligación. Besa las manos de v. m. su seguro servidor, Bernardo Nadal. A mi Sra. Dña. Cecilia Zaforteza. [2§] A Dña. Cecilia Zaforteza guarde Dios muchos años como deseo. Por Barcelona Mallorca Palma Transcripción literal"
+  ],
+  "literal": [
+    "1. Napoles y Febrero á 10 de 1777 2. Muy Señora mia y de mi mayor veneracion esta le escrivo sin 3. saber nada mi Señor Dn. Juan el que disfruta de buena salud, ase- 4. gurando á V.M. que á mi pareser no la puede lograr mejor, la mia 5. buena como tambien la de Dn. Christoval y Matheo gracias á Dios. 6. En esta voy á dar relacion á V.M. con toda claridad y pura verdad 7. de hombre de bien, el modo de proseguir nuestro viaje asegurandole 8. que hasta el dia presente no puede encaminarse mejor sin desvi- 9. ar un passo mi Señor Dn. Juan de un bueno christiano, muy al 10. contrario de lo que pensaran algunos mal intencionados de esa 11. Isla de Mallorca pero con el tiempo quedaran desengañados si pro- 12. seguimos este viaje asi como lo emos executado hasta el presente 13. confiado en Dios sera de esta manera, y tambien le puedo asegurar 14. sera para nosotros de mucho provecho y particularmente para mi 15. Señor Dn. Juan por las buenas ocasiones que continuamente tiene 16. para instruirse á todo aquello que pertenese á un buen caval- 17. lero las que no podia conseguir en Mallorca: nosotros estamos de- 18. terminados (si Dios lo permite) de partirnos para Roma dia 15 19. del presente, por haver ya logrado lo mucho que dezeavamos que 20. era recibir las cartas, las que han sido para nosotros de mucho con- 21. suelo, viendo en ellas logran todos de cabal salud. Pienso continua- 22. mente en los buenos avisos que V.M. me dio antes de salir de esa 23. Isla, los que observo, y observaré como le tengo prometido mientras [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "242-125a.jpg",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo06/242-125a.jpg",
+      "url": "/legajos/legajo-06/images/242-125a.jpg"
+    },
+    {
+      "filename": "243-125b.jpg",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo06/243-125b.jpg",
+      "url": "/legajos/legajo-06/images/243-125b.jpg"
+    },
+    {
+      "filename": "244-125c.jpg",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo06/244-125c.jpg",
+      "url": "/legajos/legajo-06/images/244-125c.jpg"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "242-125a.jpg",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-06/cartas/000661.json",
+  "primary_image_url": "/legajos/legajo-06/images/242-125a.jpg"
+}

@@ -1,0 +1,38 @@
+{
+  "legajo_id": "15",
+  "id_carta": "2156",
+  "order_in_legajo": 52,
+  "signatura": "089:6381.JPG",
+  "nombre_carta": "Carta de Llorenç Borràs a Pedro Santacilia y Pax",
+  "fecha_original": "25 de enero de 1639",
+  "lugar": "Alcira",
+  "remitente": "Llorenç Borràs",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "{ESP. Mi senyor don Pedro }, trobar-me jo en esta ciutat de Valéncia, i vista una carta de v. m. a Joan Estelrich, m'ha folgat saber de la salut de v. m., que és lo que jo mes desitja, i així jo en folgara, que v. m. em mana en coses de son servici, com a criat de v. m., i en folga molt de son estat, que Nostre Senyor la i [?] {ESP. augmenta} molt als en coses de son servici, en tot el que jo sia bo, {ESP. disponga} [?] v. m., en coses de son servici, que jo estic en Alcira pel que v. m. {ESP. dispondrà} [?]. [esta línea no aparece en la transcripcion dle original] [Basta ser germà de Joan Berraxen] [?] [?]. [Agujero] i confiat, resta besant les mans. I gener el 25 de 1639. Quan se servirà v. m. manar-me amb cartes de Joan Estelrich. . Llorenc Borras [Mi senyor don Pedro Santacilia i Pax] Transcripción literal"
+  ],
+  "literal": [
+    "1. Mi sr don pedro trobar me jo en esta 2. ciudad de valencia, y vista una carta de 3. , V.m. a joan stelrich me he folgat saber 4. de la salud (de la salud) de, V.m.que es lo que5. jo mes desitja, y axi jo en folgare que, V.m.6. en mana en cosas de son servici com a 7. criat de, V.m. y en folga molt de son 8. estat que nostre neor ley aumenta molt9. als en cosas de son servici en tot lo que jo 10. sia bo dictunga[?], V.m. en cosas deson servici 11. que jo stich en alcira per lo que V.m. die per 12. [Ilegible. Agujero] y confiat resta besat las mans 13. y gener als 25 de 1639 14. quat se servira V.m.15. manarme ab cartas16. dejoan stelrich17. llorens borras18. [Margen izquierdo][^Mi Sr don Pedro Santasilia y Pax ] [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "089:6381.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo15/089:6381.JPG",
+      "url": "/legajos/legajo-15/images/089:6381.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "089:6381.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (2)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-15/cartas/002156.json",
+  "primary_image_url": "/legajos/legajo-15/images/089:6381.JPG"
+}

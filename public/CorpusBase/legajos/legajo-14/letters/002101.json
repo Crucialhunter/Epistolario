@@ -1,0 +1,38 @@
+{
+  "legajo_id": "14",
+  "id_carta": "2101",
+  "order_in_legajo": 199,
+  "signatura": "332:2611.JPG",
+  "nombre_carta": "Carta de Nicolás de Santacilia y Togores a Pedro Santacilia y Pax",
+  "fecha_original": "8 de octubre de 1667",
+  "lugar": "Madrid",
+  "remitente": "Nicolás de Santacilia y Togores",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Por vía de Valencia tengo escrito a v. m. como está en calma mi negocio, aunque no me descuido en darle calor y empeñado el marques de la Guardia, para con el conde de Talara, no sé lo que resultará. Yo no me descuido un instante. El duque de Alba se lo lleva Dios a su descanso, muchos pretendientes pero aún no se maneja quien. Don Blasco Loyola está mejor, se ha casado su hijo, que ha sido más nombrada la boda que la muerte del duque de Alba. Don Josep de Borja ha llegado a esta corte y, dicen, está despachado. Yo no puedo hacer rescación de su venida, pero creo será por la detención de su padre en San Carlos. Guarde Dios a v. m. muchos años como deseo y es menester. Madrid a 8 de octubre 1667. Don Nicolas de Santacilia y Togores Mi Sr. y mi padre Transcripción literal"
+  ],
+  "literal": [
+    "1. Por via de Valensia tengo escrito a VM como2. esta en Calma mi negosio, aunque no me descuy3. do en darle calor y henpeñado el Marques4. de la Guardia, para con el Conde de Talara, no5. se lo que resultara, yo no me descuydo, un istan=6. te 7. El Duque de Alva se lo lleva Dios a su descan8. ço, muchos pretendientes pero aun no se mo9. teja quien; Don Blasco Loyola esta mejor sea10. casado su hijo, que asido mas nombrada la11. Boda, que la muerte del duque de Alva12. Don Joseph de Borja a llegado a esta Corte y,13. dizen esta despachado yo no puedo aser res14. casion de su venida, pero creo sera por la15. detension de su Padre en San Carlos Guar16. de Dios a VM muchos años como deseo y es17. menester Madrid a 8 de octubre 166118. Don Nicolas de Sta. silia y 19. Togores20. mi Sr. y mi Padre [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "332:2611.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo14/332:2611.JPG",
+      "url": "/legajos/legajo-14/images/332:2611.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "332:2611.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-14/cartas/002101.json",
+  "primary_image_url": "/legajos/legajo-14/images/332:2611.JPG"
+}

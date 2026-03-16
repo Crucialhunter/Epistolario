@@ -1,0 +1,37 @@
+{
+  "legajo_id": "8",
+  "id_carta": "840",
+  "order_in_legajo": 26,
+  "signatura": "041-33 copia",
+  "nombre_carta": "Carta de Pedro Santacilia y Pax a Persona desconocida",
+  "fecha_original": "fecha sin especificar",
+  "lugar": "lugar sin especificar",
+  "remitente": "Pedro Santacilia y Pax",
+  "destinatario": "Persona desconocida",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "El manifest que es féu l'any trenta-sis se comença a 19 de gener de dit any i s'acaba el manifest de Ciutadella a 29 abril i després s'arbitraren les parts foranes que estigueren alguns dies. Pax Transcripción literal"
+  ],
+  "literal": [
+    "1. El manifets ques feu lo anj trenta y sis 2. se comenca a 19 de janer de dit anj 3. yse acaba lo manifest de Ciutadella 4. a 29 abril y apres se arbritaren 5. las pars foranas que astigeren alguns 6. dias. 7. Pax [2☞] [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "041-33 copia.jpg",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo08/041-33 copia.jpg",
+      "url": "/legajos/legajo-08/images/041-33 copia.jpg"
+    },
+    {
+      "filename": "042-34 copia.jpg",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo08/042-34 copia.jpg",
+      "url": "/legajos/legajo-08/images/042-34 copia.jpg"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "041-33 copia.jpg",
+  "warnings": [],
+  "raw_source": "raw/legajos/legajo-08/cartas/000840.json",
+  "primary_image_url": "/legajos/legajo-08/images/041-33 copia.jpg"
+}

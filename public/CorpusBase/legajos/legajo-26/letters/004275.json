@@ -1,0 +1,38 @@
+{
+  "legajo_id": "26",
+  "id_carta": "4275",
+  "order_in_legajo": 14,
+  "signatura": "012:3369.JPG",
+  "nombre_carta": "Carta de Francisco Díaz Pimienta a Pedro Santacilia y Pax",
+  "fecha_original": "16 de agosto de 1627",
+  "lugar": "Candarache",
+  "remitente": "Francisco Díaz Pimienta",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Porque escribí a v. s. con los. mos de la armada. Servira er. de hacer saber a v. s. que pasé ese puerto a Menorca con salud para servirle y con sent. de que la prisa con que su majestad. manda pasar esta armada, a Napoles no me da lugar de besar a v. s. la mano en esa ciudad serv. de Nápoles se ofrece en que servirle. Dígamelo v. s. a quien guarde Dios muchos años como deseo de la [?] Centrache a 16 de agosto de [?] Beso a a v. la manoFrancisco Diaz Pimienta Sr. Maestro de campo, Sr. D. Pedro de Santacilia Transcripción literal"
+  ],
+  "literal": [
+    "1. Porque escrivi a VS con los [...]2. mos de la Armda. Servira er[...]3. de hazer saver a Vs que pas[...]4. ese puerto a Menor[c]a consa[...]5. para servirle y con sent[...]6. de que la priesa con que Su Magd. [...]7. manda pasar esta Armda,. a[...]8. poles no me da lugar de vesar9. a Vs. l.m. enesa ciu[da]d serv[...]10. de Napoles se ofreçe en que[...]11. virle digamelo VS a quien gde.12. Dios ms. as. como deseo de la [...]13. Candrache a 16 de Agosto de [...]14. V. a VS. [...]15. Franco. Diaz Pime[ntel]16. Sr. Mº de Campo D. Pº de Sta. Çecilia [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "012:3369.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo26/012:3369.JPG",
+      "url": "/legajos/legajo-26/images/012:3369.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "012:3369.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-26/cartas/004275.json",
+  "primary_image_url": "/legajos/legajo-26/images/012:3369.JPG"
+}

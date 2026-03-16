@@ -1,0 +1,58 @@
+{
+  "legajo_id": "19",
+  "id_carta": "7556",
+  "order_in_legajo": 118,
+  "signatura": "087_cg38a",
+  "nombre_carta": "Carta de Diego Matías de Aragüés a Persona desconocida",
+  "fecha_original": "fecha sin especificar",
+  "lugar": "lugar sin especificar",
+  "remitente": "Diego Matías de Aragüés",
+  "destinatario": "Persona desconocida",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "todos los zapatos que se ha calzado el don Juan de Santacilia de Mallorca están pagados, por todo el año de 1660 Los que se ha de calzar en este de 1661 se han de asentar en este papel de su mano en los días que se los pusiereha 29 de enero me calce un par de zapatosdon Juan Santacilia ha 13 de freuro me calce un par de zapatosdon Juan Santaciliaha 26 de frevero me calce un par de zapatos don Juan Santaciliaha 27 de marzo me calso dos pares. de zapato Sr. don Juan Santacilia ha 10 de abril me calce un par de zapatosdon Juan Santacilia ha 2 de mayo me calce dos pares de sapatdon Juan Santacilia ha 28 de mayo me clace un par de zapatos Sr. don Juan Santacilia En 4 Julio 1661. Pague estos dos pares de capatos del Sr. don Juan a 10 duº cada par y un par de ormas 8 Lls. que son 8 reales que todo fue 10 8 reales [?] que reducidos a plata per no pagar sino a 90 reales l Gremio son 72 reales LLISTAT LLISTAT Diego Matias de Aragues mandará pagar tres pares lanos y dos de cuatro suelas que son cinco pares Sr. don Juan Santacilia COMPTE Transcripción literal"
+  ],
+  "literal": [
+    "1. Todos los çapatos q se ha calzado el Sr. 2. Don Juan de Sta. Cilia de Mallorca estan 3. pagados, por todo el año de 1660 = 4. Los q. se ha de calzar en este de 1661 = 5. se han de asentar en este papel de su 6. mano en los dias q. se los pusiere7. ha 29 de enero me calce un par de sapatos8. Don Juan StaCilia 9. ha 13 de freuro me calce un par de sapatos10. Don Juan Sta.Cilia11. ha 26 de frevero me calce un par de sapatos 12. Don Juan Sta.Cilia13. ha 27 de Marco me calso dos pares. de sapato 14. Don Juan Sta.Cilia [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "087_cg38a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo19/087_cg38a.JPG",
+      "url": "/legajos/legajo-19/images/087_cg38a.JPG"
+    },
+    {
+      "filename": "088_cg38b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo19/088_cg38b.JPG",
+      "url": "/legajos/legajo-19/images/088_cg38b.JPG"
+    },
+    {
+      "filename": "089_cg38c.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo19/089_cg38c.JPG",
+      "url": "/legajos/legajo-19/images/089_cg38c.JPG"
+    },
+    {
+      "filename": "090_cg38d.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo19/090_cg38d.JPG",
+      "url": "/legajos/legajo-19/images/090_cg38d.JPG"
+    },
+    {
+      "filename": "091_cg38e.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo19/091_cg38e.JPG",
+      "url": "/legajos/legajo-19/images/091_cg38e.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "087_cg38a.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (3)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-19/cartas/007556.json",
+  "primary_image_url": "/legajos/legajo-19/images/087_cg38a.JPG"
+}

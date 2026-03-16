@@ -1,0 +1,38 @@
+{
+  "legajo_id": "26",
+  "id_carta": "4320",
+  "order_in_legajo": 57,
+  "signatura": "074:3414.JPG",
+  "nombre_carta": "Carta de Pedro Jiménez de Murillo a Pedro Santacilia y Pax",
+  "fecha_original": "26 de noviembre de 1639",
+  "lugar": "Madrid",
+  "remitente": "Pedro Jiménez de Murillo",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Sr. mío, una de v. m. de 31 de este recibo hoy y con mucha pena de no estar en Aragón para de más cerca servir a v. m., pero aquí y en cualquiera parte he de estar muy a su total disposición de v. m. a quien suplico vea si por acá le puedo servir en algo que ya sabe con las veras que acudiré a todo y las obligaciones que tengo de obedecerle y servirle. Mañana diré al Sr. don Jeronimo Villana donde se halla v. m. que yo sé que se holgará. Del campo de Salsas hemos tenido hoy cartas y dicen que se pasó a nro. campo Monsieur de Santoner gobernador que era de la Leocata y el que la socorrió el año 37 porque el príncipe de conde le quería cortar la cabeza, porque atribuía la perdida de unas barcas a él, y por sospechar tenía inteligencia con el de los Balbases. El sitio dicen va a lo largo porque aseguran hay sustento para más de 8 del que viene. Nro. Sr. nos ayude y me guarde a v. m. los muchos años que deseo. En Madrid a 26 de noviembre 1639. Don Pedro Jimenez de Murillo Sr. don Pedro Santacilia y Pax Transcripción literal"
+  ],
+  "literal": [
+    "1. Sr. mio Una de V.m. de 31 deste recibo2. oy y con mucha pena de no estar en Ara-3. gon para de mas cerca serbir a V.m. pero4. aqui y en cualquiera parte e de estar5. muy a su total disposicion de V.m. a quien6. sup[li]co vea si por aca le puedo serbir en7. algo q ya sabe con las veras q acu-8. dire a todo y las obligaciones q tengo9. de obedecerle y serbirle, mañana dire10. al Sr. Don Gerº Villana donde se halla11. V.m. q yo se q se holgara, Del campa12. de Salsas emos tenido oy cartas y dizen q se13. passo a nro. campo Mos. de Santoner goveror q era14. de la leucata y el q la socorrio el año 37 por q15. el Principe de Conde le queria cortar la cabeça por16. q atribuya la perdida de unas barcas a el, y por sospechar17. tenia inteligencia con el de los Balbasses, el sitio dizen18. va a lo largo porq asiguran ay sustento para mas de19. 8. del q viene N. Sr. nos ayude y me gde. a Vm. los muchos20. años q desseo. Em Madd a 26 de Novie. 1639.21. Don Pº Ximenes de Marill22. Sr. Don Pº Sta. Cilia y Paz [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "074:3414.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo26/074:3414.JPG",
+      "url": "/legajos/legajo-26/images/074:3414.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "074:3414.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-26/cartas/004320.json",
+  "primary_image_url": "/legajos/legajo-26/images/074:3414.JPG"
+}

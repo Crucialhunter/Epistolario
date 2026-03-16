@@ -1,0 +1,78 @@
+{
+  "legajo_id": "7",
+  "num_cartas": 37,
+  "num_imagenes": 68,
+  "rango_temporal": [
+    1539,
+    1694
+  ],
+  "remitentes_frecuentes": [
+    {
+      "name": "Nicolás de Santacilia y Togores",
+      "count": 10
+    },
+    {
+      "name": "Josep Togores",
+      "count": 4
+    },
+    {
+      "name": "Diego Matías de Aragüés",
+      "count": 2
+    },
+    {
+      "name": "Jerónimo Pelegrín de Aragüés",
+      "count": 2
+    },
+    {
+      "name": "Pablo Corbella",
+      "count": 2
+    }
+  ],
+  "destinatarios_frecuentes": [
+    {
+      "name": "Jerónimo Pelegrín de Aragüés",
+      "count": 29
+    },
+    {
+      "name": "Persona desconocida",
+      "count": 4
+    },
+    {
+      "name": "Nicolau Montanyans y Berard",
+      "count": 1
+    },
+    {
+      "name": "Diego Matías de Aragüés",
+      "count": 1
+    },
+    {
+      "name": "Vicecanciller de Aragón",
+      "count": 1
+    }
+  ],
+  "lugares_frecuentes": [
+    {
+      "name": "Lugar sin especificar",
+      "count": 7
+    },
+    {
+      "name": "Mallorca",
+      "count": 5
+    },
+    {
+      "name": "Galdent (Llucmajor)",
+      "count": 5
+    },
+    {
+      "name": "lugar sin especificar",
+      "count": 5
+    },
+    {
+      "name": "Barcelona",
+      "count": 3
+    }
+  ],
+  "temas_frecuentes": [],
+  "warnings_count": 34,
+  "densidad_narrativa_estimada": "Media"
+}

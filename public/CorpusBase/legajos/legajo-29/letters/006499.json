@@ -1,0 +1,48 @@
+{
+  "legajo_id": "29",
+  "id_carta": "6499",
+  "order_in_legajo": 189,
+  "signatura": "303:4316a.JPG",
+  "nombre_carta": "Carta de Nicolás de Santacilia y Togores a Pedro Santacilia y Pax",
+  "fecha_original": "5 de agosto de 1664",
+  "lugar": "Madrid",
+  "remitente": "Nicolás de Santacilia y Togores",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Los galeones ya han llegado con que la jornada es cierta para el mes que viene y ir [?] nar a Barcelona la razón es del Consejo de Estado, que por cuanto el príncipe, que Dios guarde estaba tan delicado que se podía entretener al emperado, diciéndole como estaba por el camino su majestad. y que no se pudiese quejar el emperador y conforme viesen que salía el príncipe del invierno en son [?] embarcarme, esto lo digo el duque de albu quer que, el duque de Montalto va diciento Diego Matias dice que no tiene orden de darme [?], yo creer que tengo de ir de esta jornada, sin tener que gasta bastantemente sería cosa muy cruda para mi y más a don de todos mis compañeros llevarán muchisi [?] dinero y ser solo yo el que no llevaria no pareciera bien y a esta jornada que no sería sino aburrir, yo quisiera saber [1§] esta orden si es cierta porque entiendo que v. m. se olgara que sea de los más lusidos como es razón y pensar que tengo de pasar amigos en la jornada sin eso no me parece que lo conseguire,. Guarde Dios a v. m. muchos años como deseo y me importa Madrid a 5 de agosto 1664 a mi madre y señora y a mis hermanos muchos recaudos y a los señores bergas, don Gabriel me par [?] que no nos saldrá a Barcelona, con la muerte de su hijo, porque me lo escribió que quería ir a Barcelona su más humilde hijo de v. m. y sus manos besa don Nicolas de Santacilia y Togo mi padre y señor [2§] A don Pedro de Santacilia y Pax mi padre y señor que Dios guarde muchos años como deseo y es menester Mallorca [3§] Transcripción literal"
+  ],
+  "literal": [
+    "1. Los galeones ya an llegado con que la jornada 2. es sierta para el mes que viene y ir [?] 3. nar a Barçelona la rason es del consejo 4. destado, que por quanto el Principe, que 5. Dios Guarde estava tan delicado que se po6. dia entretener al enperado, disiendole como 7. estava por el camino su Magd. y que no se pu8. diese quejar el enperador y conforme viesen 9. que salia el Prinsipe del ynvierno en son [?] 10. enbarcarme, esto lo digo el Duque de albu11. querque,el Duque de Montalto va disien12. to 13. Diego Matias dise que no tiene orden de dar14. me ??, yo creer que tengo deyr desta 15. jornada, sin tener que gasta bastantemente 16. seria cosa muy cruda para mi y mas a don 17. de todos mis conpañeros llevaran muchisi [?] 18. dinero y ser solo yo el que no llevaria no 19. paresiera bien y a esta jornada que 20. no seria sino aburrir, yo quisiera saber [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "303:4316a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo29/303:4316a.JPG",
+      "url": "/legajos/legajo-29/images/303:4316a.JPG"
+    },
+    {
+      "filename": "304:4316b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo29/304:4316b.JPG",
+      "url": "/legajos/legajo-29/images/304:4316b.JPG"
+    },
+    {
+      "filename": "305:4316c.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo29/305:4316c.JPG",
+      "url": "/legajos/legajo-29/images/305:4316c.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "303:4316a.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-29/cartas/006499.json",
+  "primary_image_url": "/legajos/legajo-29/images/303:4316a.JPG"
+}

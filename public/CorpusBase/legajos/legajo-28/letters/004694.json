@@ -1,0 +1,43 @@
+{
+  "legajo_id": "28",
+  "id_carta": "4694",
+  "order_in_legajo": 14,
+  "signatura": "002:3627a.JPG",
+  "nombre_carta": "Carta de Maria de Boixadors i de Rocabertí a Pedro Santacilia y Pax",
+  "fecha_original": "30 de noviembre de 1627",
+  "lugar": "Girona",
+  "remitente": "Maria de Boixadors i de Rocabertí",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Déu doni a v. m. molts anys de vida per les bones noves que em dona a sa carta, així de la salut del senyor {ESP. conde} i tot el {ESP. demés} de que se dilata la vinguda del rei, que jo sempre hi he confiat Déu ens havia de fer aqueixa mercè. D'ací no puc donar tan bones noves perquè tinc a don Josep molt mal, obert un braç del qual ix cada volta que el curen un cànter de postema. La febre molta, el braç molt inflamat i una flaquesa extraordinària amb una vanitat de cap que no el deixa dormir. En conclusió, que m'apar hi haurà molt que fer per eixir-ne. Déu sia servit de tot. Al Sr. conde donarà v. m. un {ESP. recado} de part mia, donant l'enhorabona de la salut amb aqueixa [1§] confiança que l'ha de tenir prest mi senyora la condesa i tots aqueixos srs ??. A mi senyora la {ESP. condesa} de Zavella molts besamans. I li suplic prengui esta per pròpia. Don Diego i la senyora donya Ana partiran per a Pau dilluns o dimarts. Jo tem que de molts dies ho puga fer jo, que u [?] [borrón] dobladament en aquesta ocasió. Sia feta la voluntat de Déu. El guardi a v. m. com jo li suplico. Girona i novembre a 30. Dona Maria de Boixadors i de Rocaberti. NOTA: La condesa de Zavellá en esta fecha (1627 ?) debe ser la mujer de Francisco de Boixadors, II conde de Zavellá († 1643). AVERIGUAR NOMBRE] Transcripción literal"
+  ],
+  "literal": [
+    "1. deu done a VM molts añs de vida2. per las bonas noves quem done en3. sa carta aixi dela salut del sor conde4. y tot lo demes de que se dilate la vin5. guda del rei que jo sempre e confiat6. deu nos avia de fer aquexa mer7. se de asi no puc donar tant bonas8. noves perque tin a don jusep molt9. mal ubert un bras del qual yx10. cada volta quel curan un canter11. de postema la febra molta lo bras12. molt ynflemat y una flaquesa13. ecstreordinaria ab una vanitat de14. cap que nol dexa dormir en con15. clusio quem apar y aura molt ca16. fer per axirne deu sia servit de17. tot a sor conde donara Vm un re18. cado de part mia donat la nora19. bona de la salut ab aquexa confian [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "002:3627a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo28/002:3627a.JPG",
+      "url": "/legajos/legajo-28/images/002:3627a.JPG"
+    },
+    {
+      "filename": "003:3627b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo28/003:3627b.JPG",
+      "url": "/legajos/legajo-28/images/003:3627b.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "002:3627a.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-28/cartas/004694.json",
+  "primary_image_url": "/legajos/legajo-28/images/002:3627a.JPG"
+}

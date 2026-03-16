@@ -1,0 +1,43 @@
+{
+  "legajo_id": "3",
+  "id_carta": "438",
+  "order_in_legajo": 1,
+  "signatura": "01-1a",
+  "nombre_carta": "Carta de Antonio Juan Luis de la Cerda y Enríquez (VII Duque de Medinaceli) a Juan Miguel de Santacilia y Togores",
+  "fecha_original": "10 de mayo de 1660",
+  "lugar": "Puerto de Santa María",
+  "remitente": "Antonio Juan Luis de la Cerda y Enríquez (VII Duque de Medinaceli)",
+  "destinatario": "Juan Miguel de Santacilia y Togores",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "[?] Duque de Medinaceli. [?] Majestad. [?] recibo carta de vuestra merced con todo gusto por las buenas [?] de su salud y la que me da de la merced que su majestad le ha hecho de plaza de su paje, de que doy a vuestra merced el parabién, esperando [?] ha de ser disposición para mayores aumentos. Y en cuanto a no haber recibido vuestra merced cartas mías con las que le remití para el señor don Luis de Haro y señor don Fernando de Contreras, puedo decir a vuestra merced que tuve puntualidad en enviárselas luego que me dio vuestra merced aviso de su llegada a esa corte. Y siempre me hallará vuestra merced dispuesto a servirle con muy buena voluntad. Dios guarde a vuestra merced muchos años. Puerto de Santa Maria, 10 de mayo, 1660. La enhorabuena de ser paje del rey, conque por arte y naturaleza no habrá bellaquería que no alcances siendo hijo de tu padre. El duque de Medinaceli. [1§] De Juan, mi hijo. 1660 [Letra de Pedro Santacilia] Transcripción literal"
+  ],
+  "literal": [
+    "1. [?] Duque de Medina Celi2. [?] Magd3. [?] recivo carta de VM con todo gusto por las buenas4. [?] de su salud y la que me da dela merced que su Magd5. le ha hecho de plaça de su paxe de que doy a VM el parabien, esperando6. [?] a de ser disposicion para mayores aumentos, y en quanto a no7. haver recibido Vmr cartas mias con las que le remiti para el sr. Don8. Luys de Haro; y señor Don fernando de Contreras, puedo dezir a VM9. que tuve puntualidad en embiarselas luego que me dio VM abiso10. de su llegada a esa corte, y siempre me allara VM dispuesto a servirle11. con muy buena voluntad Dios gde a VM muchos años. Puerto de12. Santa María, 10 de mayo. 1660.13. [?] la norabuena de ser Paxe del Rey con que por arte y natura-14. leza no habra vellaqueria que no alcanzes siendo hijo de tu Padre15. El Duque de Medina Celi [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "01-1a.jpg",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo03/01-1a.jpg",
+      "url": "/legajos/legajo-03/images/01-1a.jpg"
+    },
+    {
+      "filename": "02-1b.jpg",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo03/02-1b.jpg",
+      "url": "/legajos/legajo-03/images/02-1b.jpg"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "01-1a.jpg",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-03/cartas/000438.json",
+  "primary_image_url": "/legajos/legajo-03/images/01-1a.jpg"
+}

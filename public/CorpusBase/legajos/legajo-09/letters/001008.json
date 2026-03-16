@@ -1,0 +1,43 @@
+{
+  "legajo_id": "9",
+  "id_carta": "1008",
+  "order_in_legajo": 45,
+  "signatura": "060-30a",
+  "nombre_carta": "Carta de Diego Álvarez a Arnau de Santacilia",
+  "fecha_original": "10 de octubre de 1674",
+  "lugar": "Milán",
+  "remitente": "Diego Álvarez",
+  "destinatario": "Arnau de Santacilia",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Amigo y señor, Recibo la de v. m. y la que me remite para el señor maestre de campo la envié luego a Alejandría y al capitán d. Francisco Villalonga le dije de parte de v. m. que en Sansin no diese otra cosa que la mesada, y me respondió lo haría y olvidándole lo que me pide con sus recibos y los remito a su alférez de v. m. y de toda me han dado muy cumplida satisfacción; en la compañía de v. m. han sentado algunos soldados. Aquí no hay nuevo de muestra ni de muda: uno la habrá a los principios del que viene y de todo lo que [va] bien daré parte a v. m. El príncipe de Liñí ha marchado a Roma y a las islas del Boromio, donde dicen estará cinco o seis días. Aquí se ha v[isto] una leva de diez compañías de italianos; dicen son para [1§] Sicilia porque las cosas de aquel país van de muy mala data. Dios nos ayude y guarde a v. m. muchos años. Milán, a 10 de octubre 1678. Besa la mano de v. m. su amigo y servidor, Diego Alvarez El señor duque de Osuna se embarcó la semana pasada y el amigo d. Mateo de Ysasi ha ido con s. e. Veo lo que v. m. me dice del capitán d. Antonio Florian, caso que se tope ya yo sé la merced que v. m. me hace. Señor capitán don Arnau de Santacilia Transcripción literal"
+  ],
+  "literal": [
+    "1. Amigo y Señor recibo la de Vmd y la que me 2. remite para el Señor mre. de campo la 3. enbie luego alexª. y al Capn. D. Franco. 4. Villalonga le dije de parte de Vmd que en 5. Sansin no diese otra cossa que la mesada6. y me respondio lo aría y obidandole lo que me 7. pide con sus recibos y los remito a su 8. Alf. de Vmd. y de toda me an dado mui 9. cumplida satisfacion en la Compª. de Vmd. 10. an sentado algunos soldados aqui no ay 11. nuevo de mra ni de muda. Uno laabra12. a los principios del que biene y de todo lo q. 13. [?] dare parte a Vmd. el Sr. Pre. de Liñi14. a marchado arona y a las yslas del 15. Boromio donde diçen estara cinco16. Oseis días aqui [?] una leva de Diez17. Compª. de ytalianos diçese son para [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "060-30a.jpg",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo09/060-30a.jpg",
+      "url": "/legajos/legajo-09/images/060-30a.jpg"
+    },
+    {
+      "filename": "061-30b.jpg",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo09/061-30b.jpg",
+      "url": "/legajos/legajo-09/images/061-30b.jpg"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "060-30a.jpg",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-09/cartas/001008.json",
+  "primary_image_url": "/legajos/legajo-09/images/060-30a.jpg"
+}

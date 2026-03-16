@@ -1,0 +1,32 @@
+{
+  "legajo_id": "12",
+  "id_carta": "1530",
+  "order_in_legajo": 35,
+  "signatura": "048_6123.JPG",
+  "nombre_carta": "Carta de Persona desconocida a Pedro Santacilia y Pax",
+  "fecha_original": "17 de enero de 1640",
+  "lugar": "Vilafranca",
+  "remitente": "Persona desconocida",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "[1§] Transcripción literal"
+  ],
+  "literal": [
+    "1."
+  ],
+  "imagenes": [
+    {
+      "filename": "048_6123.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo12/048_6123.JPG",
+      "url": "/legajos/legajo-12/images/048_6123.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "048_6123.JPG",
+  "warnings": [],
+  "raw_source": "raw/legajos/legajo-12/cartas/001530.json",
+  "primary_image_url": "/legajos/legajo-12/images/048_6123.JPG"
+}

@@ -1,0 +1,43 @@
+{
+  "legajo_id": "25",
+  "id_carta": "4146",
+  "order_in_legajo": 78,
+  "signatura": "160_180a.JPG",
+  "nombre_carta": "Carta de Diego Matías de Aragüés a Jerónimo Pelegrín de Aragüés",
+  "fecha_original": "22 de junio de 1667",
+  "lugar": "Madrid",
+  "remitente": "Diego Matías de Aragüés",
+  "destinatario": "Jerónimo Pelegrín de Aragüés",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "He recibido las cartas del 7 y 8 del corriente holgándome goce v. m. de salud y mi sobrina y niños que sea por muchos años como deseamos Dña. Margarita y yo que besamos sus manos. El Sr. D. Nicolas envía muchos recaudos. Está ya esforzado y según me ha dicho se irá pasado el día de San Juan de la casa de los pajes. El Dr. Costas se fue a 20 de este base por Zaragoza y subirá a Jaca antes de ir a Barcelona, que quiere pasar a Mallorca con el Sr. don Miguel Salva, que están ya en aquella ciudad. Ya v. m. verá a cuan recomendado está para los dos. Remito con esta la carta del Sr. don Pedro de Villacampa de recomendación para el Dr. Nicolas Alore, despache el proceso del amigo Ramis (v. m. me le dé mis besas de manos) va en falso abierta para que la vea. Avíseme el efecto que hace y si le despacha esa causa. También diga v. m. al Dr. Delabau que he recibido su carta y que le tengo respondido como procuro sacarle a Pórtoles la mitad de la deuda, que si lo consigo haré mucho que le avisaré en cobrando. Esta estafeta [?] es de mala calidad [1§] v. m. no deje de responder a lo de Juan Garcia del Pozo y decirme lo que hay. En lo de Bauza como tengo avisado hasta que esté hoy el Sr. D. Miguel Salva no hay que volver a ello, entonces se procurará sacar la carta de informe. Al Sr. don Gabriel de Berga doy la enhorabuena con la inclusa, al Vi [?] di en su mano su carta v. m. se vea con él y en razón de lo último que le digo en la carta la parece. Las cartas recibieron los Sres. duques de Cardona y Cardenal Su [?] don Josep Rivera y marques de la Guardia v. m. me diga si han recibido todas mis cartas por Valencia y Barcelona, en lo demás me remito a lo que digo al Sr. don Pedro, y me mande le sirva y guarde Dios como deseo. Madrid 22 Junio 1667. También se partió por Valencia el Sr. don Jorge Dezcallar que allá lo dirá todo. Tío y servidor de v. m. Diego Matias de Aragues Sr. Jeronimo Pelegrin de Aragues, mi sobrino. Transcripción literal"
+  ],
+  "literal": [
+    "1. He recivido las cartas del 7 y 8 del corriente2. olgandome goze Vm de salud y mi sobrina3. y niños q sea por muchos años como4. deseamos Da. Margta. y yo q besamos sus manos5. El Sr. D. Nicolas embia muchos reccaudos esta 6. ya esforzado y segun me ha dicho se hira7. pasado el dia de san Juan de la casa de los Pajes8. El dor. Costas se fue a 20 deste base por 9. Carag[oz]a y subira a Jaca antes de hir a Barce10. lona q quiere pasar a Mallorca con 11. el Sr. Don Migl Salva, q estan ya12. en aquella Ciudad, ya Vm. vera quan13. recomendado esta pª los dos14. Remitto conesta la carta del Sr don Pedro15. de Villacampa de recomendacion para16. (para) el dor. Nicolas Alore despache el17. processo del amigo Ramis (Vm. me le de mis18. besas de Manos) ba en falso abierta pª19. q la vea, aviseme el effecto q haze y si le20. despacha essa causa21. Tambien diga a Vm. al sr. Dor. Delabau q22. he recivido su carta y q le tengo23. respondido como procuro sacarle a Portoles24. la mitad de la deuda q si lo consigo are mucho25. q le avisare en cobrando, esta estafeta[?] hes de mala calidad [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "160_180a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo25/160_180a.JPG",
+      "url": "/legajos/legajo-25/images/160_180a.JPG"
+    },
+    {
+      "filename": "161_180b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo25/161_180b.JPG",
+      "url": "/legajos/legajo-25/images/161_180b.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "160_180a.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (7)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-25/cartas/004146.json",
+  "primary_image_url": "/legajos/legajo-25/images/160_180a.JPG"
+}

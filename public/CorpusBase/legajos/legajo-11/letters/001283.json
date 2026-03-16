@@ -1,0 +1,48 @@
+{
+  "legajo_id": "11",
+  "id_carta": "1283",
+  "order_in_legajo": 53,
+  "signatura": "093:5143a.JPG",
+  "nombre_carta": "Carta de Antonio Juan Luis de la Cerda y Enríquez (VII Duque de Medinaceli) a Pedro Santacilia y Pax",
+  "fecha_original": "24 de mayo de 1643",
+  "lugar": "Valencia",
+  "remitente": "Antonio Juan Luis de la Cerda y Enríquez (VII Duque de Medinaceli)",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Sr. mío v. m. guarde su nido que la salud [?] va en ello y a esa solo digo que v. m. cuide más de mis cogollos y me dé mil recados a mi Domenec [?]. Su majestad sale va don [?] corpus 6 y no le [?] las señas que o hubiesen cuartel y no [?] excursión [?]. a sadira dieron la artillería y fin de la única junta de ejecución; manto rey, don Luis [?] Sabara, y Castaneda, valido no hay claro y da rebizo a dos para el yerno de la gran Sra. es el más abatado la Vata [?] y montaron jurados y se mando que no se sirvan de ella los demás y abunda se la pedirán y no a mi ese me queda con ella los catalanes y el embajador de Venecia en París [1§] y escribió al de Madrid que al 23 des pasado había [?] el rey de Sicilia no hay la espero se creo que dará solo sin duda brebe Su majestad Dios le guarde ha hecho [?] la casa de mi padre y Sr. enrado a don Cristóbal en hacerle ayo y mayor domo mayor del señor don Juan de Austria dígolo a v. m. como dueño de todos y creo no habrá llegado otro aviso a mo me tienen aquí sin forma humana, no hay más novedad a Dios señor mío que me guarde a v. m. mil años de Valencia a 24 de mayo 1643 Servidor de v. m. Don Antonio Juan de la Cerda Sr. don Pedro Santacilia [2§] [?] nuestro [?] ya Vicente esta aquí al casamiento de su hija de día hizo mantilla con la viuda de Juan de la Villa era Sra. hermosa y rica y noble ida a v. m. mil recados el mentor Transcripción literal"
+  ],
+  "literal": [
+    "1. Sr. mio VM guarde su nido 2. que ia [^??balug??^] ba en ello y a esa 3. solo digo que VM cuide mas 4. de mis cogollos y me de mil recados 5. a mi Domenec 6. Su Md se le va don [^??^] corpus y 7. no le [^??^] las señas que ouyvisen quar 8. tel i no [^??escursion??^]. 9. A sadira dieron la artilleria y fin de 10. la unica junta de egecuzion; 11. menterei ; Don Luis [^??^] Sabara, y 12. Castaneda, valido no ai claro 13. i da rebizo a dos para el yerno 14. de la gran Sra. es el mas abatado 15. la Vata [^??^] [^??^] i montaron 16. jurados i se mando que no se sir 17. ban de ella los demas i abunda 18. se la pediran y no ami ese me 19. queda con ella los catalanes 20. y el embajador de Venesia en Paris [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "093:5143a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo11/093:5143a.JPG",
+      "url": "/legajos/legajo-11/images/093:5143a.JPG"
+    },
+    {
+      "filename": "094:5143b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo11/094:5143b.JPG",
+      "url": "/legajos/legajo-11/images/094:5143b.JPG"
+    },
+    {
+      "filename": "095:5143c.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo11/095:5143c.JPG",
+      "url": "/legajos/legajo-11/images/095:5143c.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "093:5143a.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-11/cartas/001283.json",
+  "primary_image_url": "/legajos/legajo-11/images/093:5143a.JPG"
+}

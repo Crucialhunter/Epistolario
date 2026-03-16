@@ -1,0 +1,38 @@
+{
+  "legajo_id": "25",
+  "id_carta": "4068",
+  "order_in_legajo": 2,
+  "signatura": "005_102.JPG",
+  "nombre_carta": "Carta de Miguel Malo a Jerónimo Pelegrín de Aragüés",
+  "fecha_original": "27 de enero de 1667",
+  "lugar": "Madrid",
+  "remitente": "Miguel Malo",
+  "destinatario": "Jerónimo Pelegrín de Aragüés",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Sr. mío., tengo escrito a v. m. muchas veces y para sacarle despacho del Sr. Mateo Maestre es preciso que nombrase hijo que le ha de suceder en el oficio después de sus largos días y así espero esto para sacar su despacho y v. m. se lo de a entender así al Sr. Mateo Maestre y que sea luego porque aunque tiene un año para hacerlo no se nos parase el tiempo y v. m. me mandó y reciba recados de todos los de casa y venga aquel regalo de los 200 pesos. Guarde Dios a v. m. como deseo. Madrid a 27 de enero de 1667. Servidor de v. m. que sus manos besaMiguel Malo . Jeronimo Pelegrin y Aragues Novedades no hay más de muchas nieves y aguas y el Sr. D. Miguel Salva se irá para la primavera a ese reino [?] Transcripción literal"
+  ],
+  "literal": [
+    "1. Sr. mio Tengo escrito a Vm. muchas2. beçes y p[ar]a sacarle despacho del Sr. Matheo 3. Maestre es preciso que nonbrace[?] hijo que4. le ha de suceder en el officio despues de5. sus largos dias y asi espero esto pª sacar su6. despacho y Vm se lo de a entender asi7. al Sr. Matheo Maestre y q sea luego porq8. aunq tiene un año pª hacello no se nos pa9. se el tienpo y Vm. me mando y reciba10. recados de todos los de cassa y benga aquel11. reg[alo] de los 200 pesos Gde. Dios a Vm como12. ayer M[adri]d a 27 de Enero de 166713. Ser[vid]or de Vm. q.s.m.b.14. Miguel Malo15. Sr. Gerº Pelegrin y Aragues16. Nobedades no ay mas de muchas niebes y aguas y el Sr. D. Mig[ue]l17. Çalba se yra pª la primabera aese Rey[n]o [?] [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "005_102.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo25/005_102.JPG",
+      "url": "/legajos/legajo-25/images/005_102.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "005_102.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (4)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-25/cartas/004068.json",
+  "primary_image_url": "/legajos/legajo-25/images/005_102.JPG"
+}

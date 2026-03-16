@@ -1,0 +1,37 @@
+{
+  "legajo_id": "19",
+  "id_carta": "7531",
+  "order_in_legajo": 312,
+  "signatura": "034_cg13a.JPG",
+  "nombre_carta": "Carta de Felip Alsina a Pedro Santacilia y Pax",
+  "fecha_original": "15 de agosto de 1664",
+  "lugar": "Mallorca",
+  "remitente": "Felip Alsina",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "[1§] [2§] Transcripción literal"
+  ],
+  "literal": [
+    "1. 1."
+  ],
+  "imagenes": [
+    {
+      "filename": "034_cg13a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo19/034_cg13a.JPG",
+      "url": "/legajos/legajo-19/images/034_cg13a.JPG"
+    },
+    {
+      "filename": "035_cg13b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo19/035_cg13b.JPG",
+      "url": "/legajos/legajo-19/images/035_cg13b.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "034_cg13a.JPG",
+  "warnings": [],
+  "raw_source": "raw/legajos/legajo-19/cartas/007531.json",
+  "primary_image_url": "/legajos/legajo-19/images/034_cg13a.JPG"
+}

@@ -1,0 +1,43 @@
+{
+  "legajo_id": "16",
+  "id_carta": "2709",
+  "order_in_legajo": 195,
+  "signatura": "332:2209a.JPG",
+  "nombre_carta": "Carta de Sebastià Riera (Doctor) a Pedro Santacilia y Pax",
+  "fecha_original": "21 de febrero de 1668",
+  "lugar": "Ciutadella",
+  "remitente": "Sebastià Riera (Doctor)",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "des del segon dia de la Quaresma em te v. s. Anam preperant alguns sermons que vayx predicant els diumenges i divendres als tardes d'esta Quaresma per adimplir sinó del tot pel {ESP. menos} em part anostres obligacions, ja sap v. s. quant cervidor si com als senyors els fills que tengan esta per pròpia i em manar moltes coses de son gust i Nostre Senyor losme guard, Ciutadella i febrer als 21. de 1668. Capella de v. s. que seves mans besa el Doctor Sebastia Riera Mi senyor don Pedro de Santacilia etts. [1§] resposta 10 Matx 1668. [2§] Transcripción literal"
+  ],
+  "literal": [
+    "1. Desdel segon dia de la quaresma 2. em te V.S. Anam pre-3. perant alguns sermons que vayx pre-4. dicant los diumenges y divendres alos 5. tardes desta quaresma par adimplir 6. sino del tot per lo menos em part anos-7. tres obligacions, ja sab V.S. quant cer-8. vidor si com als senors los fills que 9. tengan esta per propia y em manar 10. moltes coses de son gust y nostre senor 11. losme guard, Ciutadella y fabrer als 21. 12. de 1668. 13. Capella de V.S. 14. q[] s[] m[] b[] 15. el Dr Sebastia Riera16. [Margen izquierdo][^ Mi Sr D pedro de Santacilia ettc.] [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "332:2209a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo16/332:2209a.JPG",
+      "url": "/legajos/legajo-16/images/332:2209a.JPG"
+    },
+    {
+      "filename": "333:2209b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo16/333:2209b.JPG",
+      "url": "/legajos/legajo-16/images/333:2209b.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "332:2209a.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (2)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-16/cartas/002709.json",
+  "primary_image_url": "/legajos/legajo-16/images/332:2209a.JPG"
+}

@@ -1,0 +1,38 @@
+{
+  "legajo_id": "4",
+  "id_carta": "485",
+  "order_in_legajo": 40,
+  "signatura": "056-25",
+  "nombre_carta": "Carta de No consta a Joaquín Lloréns",
+  "fecha_original": "24 de marzo de 1667",
+  "lugar": "Mallorca",
+  "remitente": "No consta",
+  "destinatario": "Joaquín Lloréns",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Senyors Joaquim Llorenç i David Solicofres, en Mallorca, a 24 de març, 1667. He rebut les de v. ms. de 31 gener i 7 de febrer amb el compte del proveït de les sis pipes d'oli. Les remetí amb nau del capità yes [?], i així mateix les robes que m'han remeses amb patrons Costa Belle Pinya [?] i Juan Dallau, que tots són estades a mon {ESP. contento} i satisfacció, i estimi a vs. m. el {ESP. cuidado} que han tingut en remetre'm roba de mon gust. No obstant l'avís que tinc de v. m. de que l'oli havia abaixat de preu i que se venia a 22 lliures, amb opinió que algun temps se conservaria al mateix preu, me som resolt d'enviar-los-en sis pipes amb sagetia del patró Juan Dallaut que rebran vs. ms. rebran amb virtut de la inclusa pòlissa de carregament. Alguns mercaders tenen opinió que l'oli s'ha de millorar de preu per les notícies que tenim que a Flandes està amb molt gran valor i en la costa d'Espanya està també amb reputació. Estic confiat que v. m. per mon útil faran com a cosa pròpia i no deixaran de donar-me avís de lo entendran que essent el preu de conveniència los remetré el que em resta de ma collita, sempre que les pipes puguin venir senceres serà de conveniència. Amb la primera ocasió de passatge me faran mercè de remetre una capa d'herbatge platejada, forrada amb sos botons de los millors que per aquí s'usen, dues peces de tela de París fines, conforme les que me té remeses, i una cabellera de la color dels cabells de la mostra que va amb esta, i que siguin els cabells de persona viva. Transcripción literal"
+  ],
+  "literal": [
+    "1. Senªrs Joachim Llorens y david Solicofres en Mallorca a 24 de marts 1667 2. He rabut les de Vms de 31 gener y 7 de febrer ab lo compte 3. del provejt de les sis pipes de oli los ramati ab nou del ca[^p]4. ita 5. ges, y axi matex les robes que me han remeses ab patrons Coste 6. br> belle Pinje y Juan Daleau que tots son estades a mon contento 7. y satisfactio, y estime aVs. ms. lo cuydado que han tingut en 8. remetrem roba de mon gust. 9. no obstant lo avis que tinch de Vs ms de que lo oli avia aba- 10. xat de preu y que se venia a 22 L s ab opinio que algun temps 11. se conservaria al matex preu me som resolt de ambiarlos ne 12. sis pipes ab setjetia del patro Juan Dallant que rabran Vs ms. 13. rabran ab virtut de la incluse polisse de carragament alguns mer- 14. caders tenen opinio que lo oli se ha de millorar de preu per les 15. noticias que tenim de que en Flandes está ab molt gran valor 16. y en la carta de Spanje esta tambe ab reputacio estich confiat 17. que Vs ms. per mon util faran com a cose propia y no dexaran 18. de donarme avis de lo entendran que essent lo preu de conveni- 19. entia los ramatre lo quem resta de ma cullita sempre que 20. les pipes puguen venir sensseres sera de convenientia 21. Ab la primera occasio de passatje me faran m< >. de rametre una 22. capa de herbatje Plateada forrada ab sos botons de les millors que 23. per aqui se usen, dos peses de tela de paris fines conforme les que 24. ma te remeses, y una caballara, de la color dels cabells de la murte 25. que va ab esta, y que sien los cabells de perssona vive [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "056-25.jpg",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo04/056-25.jpg",
+      "url": "/legajos/legajo-04/images/056-25.jpg"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "056-25.jpg",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (2)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-04/cartas/000485.json",
+  "primary_image_url": "/legajos/legajo-04/images/056-25.jpg"
+}

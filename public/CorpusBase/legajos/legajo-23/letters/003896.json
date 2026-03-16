@@ -1,0 +1,43 @@
+{
+  "legajo_id": "23",
+  "id_carta": "3896",
+  "order_in_legajo": 178,
+  "signatura": "271:3309a.JPG",
+  "nombre_carta": "Carta de Bartolomé Mercadal a Pedro Santacilia y Pax",
+  "fecha_original": "29 de junio de 1669",
+  "lugar": "Ciutadella",
+  "remitente": "Bartolomé Mercadal",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Senyor procurador reial mi Sr. Tant quan és estada major la desgràcia del marques Dameto, tant més és mon sentiment, i lleva'm la llibertat de parlar d'ella el fer memòria a v. s. de tal desgraciada mort Déu Nre. Sr. l'hagi trobat en estat de merèixer, i em guardi a v. s. a qui m'oferesc amb tot afecte. Per si acàs aqueixos balitres fessin punta en esa {ESP. isla}, que encara que em trobo molt passat no em faltaran amics de confiança que m'assistiran i açò sens reserva etts. Per al patró Barcer enviï a v. s. dues arcolletes de brots de tàperes, i en aquella ocasió tingui desgràcia d'una alfabieta, que per haver-hi posat blat una minyona els llançà a perdre. Luego fiu de llicència en prevenir-nos, i així rebrà pel patró Puig dita alfabieta plena del mateix mercada [?] d'una de tinta de que prendre la bona voluntat i si altra cosa de son gust i servei se li [1§] ofereix serà v. s. promptament obeït. Déu Nre. Sr. guardi a v. s. com pot i tinc menester. Ciutadella i Juny 29 de 1669. Molt servidor de v. s. que besa sa maDon Bartomeu Mercadal Els comptes de l'administració de l'olivar estan ja acabats; ja els meus [?] falta poc, per excusa resolt Jaume Abadia de cercar {ESP. remate} al que tenia tant traballat, {ESP. con lo cual} s'acabaran les queixes que en aquest particular. Pot v. s. haver tingut de tants {ESP. emulos}, i persones mal intencionades, i en tot es veurà la veritat etts. Transcripción literal"
+  ],
+  "literal": [
+    "1. Señor Por Real my Sor.2. Tant quant es estada mayor la desgracia del3. Sor Marques Dameto, tant mes es mon sen4. timent, y llevam la llibertat de perlar della5. el fer memoria a VS. de tal desgraci[a]da mort6. Deu N. Sor lo haga trobat en estat de merexer,7. y em gde a VS., en aqui me oferesch ab tot8. affecta per si acas aquexos belitres fessen punta9. en essa Isla, que encara quem trobo molt10. pesat nom falteran amichs de confiansa11. quim acestiran y asso sens reserva etts.12. Per lo patro Barcer enviy a VS. dos ercolle13. tes de brots de taperas, y en aquella ocasio14. tingui desgracia de una alfabreta, que15. per haveri posat blat una minona16. los llensa a perdra; luego fiu de lesen17. sia en prevenirnos, y axi rebra per 18. el patro puig dita Alfabreta plena de19. lo matex mercada[?] de una de tinta20. de que pendra la bona voluntad y si21. altra cosa de son gust y servey se li [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "271:3309a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo23/271:3309a.JPG",
+      "url": "/legajos/legajo-23/images/271:3309a.JPG"
+    },
+    {
+      "filename": "272:3309b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo23/272:3309b.JPG",
+      "url": "/legajos/legajo-23/images/272:3309b.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "271:3309a.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-23/cartas/003896.json",
+  "primary_image_url": "/legajos/legajo-23/images/271:3309a.JPG"
+}

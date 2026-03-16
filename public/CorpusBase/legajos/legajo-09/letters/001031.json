@@ -1,0 +1,38 @@
+{
+  "legajo_id": "9",
+  "id_carta": "1031",
+  "order_in_legajo": 61,
+  "signatura": "107-53",
+  "nombre_carta": "Carta de Diego Álvarez a Arnau de Santacilia",
+  "fecha_original": "3 de junio de 1675",
+  "lugar": "Milán",
+  "remitente": "Diego Álvarez",
+  "destinatario": "Arnau de Santacilia",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Señor mío recibo la de v. m. yeneste correo no se puede remitir más de sa letra de cuatro sientos y cuarenta reales de aocho es aquín ce días vista para la persona que v. m. ape dido en Madrid pues todo ha pasado por mano del señor alférez Sr. don Thomás de revenga yo escrito la semana pasada al señor Sar gento mayor Antonio Vellon para que me in bían los Doscientos escudos y tengo que me los remíta sacaré la letra para el Mismo mercader y se lo remítire a v. m. aquí no hay de queavisar a v. m. cuya bída guarde Dios Muchos años Milán a 3 de junio 1675. Besa las manos de v. m. su amigo y servidor Diego alvarez Señor capiatn Sr. don harnao de Santazícilia Transcripción literal"
+  ],
+  "literal": [
+    "1. Señor mío rezibo lade Vmd. yeneste correo 2. nosepuede remitir mas desa letra de quatro 3. síentos y quarenta reales de aocho es aquín4. ze días vista para lapersona que Vmd. ape5. dido en Madrid pues todo apasado por 6. Mano del Sr Alfz D Thomas de revenga 7. yo escríto la semana pasada al señor Sar8. gto mayor anto Vellon para queme yn9. bían los Doscientos escudos y tengo que 10. melos remíta sacare la letra para el 11. Mismo mercader yse lo remítíre a Vm 12. aquí noay de queavísar a Vmd. 13. Cuya bída ge Ds Ms a< ño>s Milan a 3 14. de Junio 1675 15. B l m[ suamigo Yservor 16. Diego alvarez 17. [Margen izquierdo][^ Sr capn d harnao de Santazízilia] [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "107-53.jpg",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo09/107-53.jpg",
+      "url": "/legajos/legajo-09/images/107-53.jpg"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "107-53.jpg",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-09/cartas/001031.json",
+  "primary_image_url": "/legajos/legajo-09/images/107-53.jpg"
+}

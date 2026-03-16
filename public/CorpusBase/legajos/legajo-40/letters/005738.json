@@ -1,0 +1,32 @@
+{
+  "legajo_id": "40",
+  "id_carta": "5738",
+  "order_in_legajo": 101,
+  "signatura": "225:90",
+  "nombre_carta": "Carta de Persona desconocida a Persona desconocida",
+  "fecha_original": "de 1662",
+  "lugar": "Palma",
+  "remitente": "Persona desconocida",
+  "destinatario": "Persona desconocida",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Quadern del que es treurà de la fruita de l'hort de Son Pax, el corrent any 1662 [1§] Transcripción literal"
+  ],
+  "literal": [
+    "1. Quadern de lo que es traura de la fruita del hort de Son Pax lo corrent añy 1662"
+  ],
+  "imagenes": [
+    {
+      "filename": "225:90.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo40/225:90.JPG",
+      "url": "/legajos/legajo-40/images/225:90.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "225:90.JPG",
+  "warnings": [],
+  "raw_source": "raw/legajos/legajo-40/cartas/005738.json",
+  "primary_image_url": "/legajos/legajo-40/images/225:90.JPG"
+}

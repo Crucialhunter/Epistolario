@@ -1,0 +1,38 @@
+{
+  "legajo_id": "35",
+  "id_carta": "5276",
+  "order_in_legajo": 87,
+  "signatura": "088:8122.JPG",
+  "nombre_carta": "Carta de Tomàs Abadia a Pedro Santacilia y Pax",
+  "fecha_original": "16 de febrero de 1644",
+  "lugar": "Maó",
+  "remitente": "Tomàs Abadia",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Don Miquel de Branchifort esta nit {LAT. circa} les dotze ha passat d’esta vida a millor. Nre. Sr. lo tinga en la seva santa glòria, i a v. s. doni molts anys de vida com desitjo. De Maó i febrer 16 de 1644 Tomas Abadia Sr. governador. Transcripción literal"
+  ],
+  "literal": [
+    "1. Don Miquel de Branebi Fort esta nit circa las dotse2. ha passat desta vida a millor Nre. Sr. lo tinga en la3. sua sancta gloria y a VSª. done molts anys de vida4. com desitjo De Maho y feb. 16 de 16445. Thomas Abadia6. Sr. Govor. [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "088:8122.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo35/088:8122.JPG",
+      "url": "/legajos/legajo-35/images/088:8122.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "088:8122.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-35/cartas/005276.json",
+  "primary_image_url": "/legajos/legajo-35/images/088:8122.JPG"
+}

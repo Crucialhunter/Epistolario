@@ -1,0 +1,38 @@
+{
+  "legajo_id": "13",
+  "id_carta": "1837",
+  "order_in_legajo": 104,
+  "signatura": "171:2341.JPG",
+  "nombre_carta": "Carta de Jerónimo Pelegrín de Aragüés a Juan Miguel de Santacilia y Togores",
+  "fecha_original": "11 de noviembre de 1668",
+  "lugar": "Mallorca",
+  "remitente": "Jerónimo Pelegrín de Aragüés",
+  "destinatario": "Juan Miguel de Santacilia y Togores",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Señor. La enfermedad de v. m. que con tan repetidas cartas han escritas de esa corte me han dejado suspenso el no continuar el escribir a v. m. (por no cansarle). Plega a Dios haga mentirosos a todos, que eso es lo que más le conviene, para aumento de su ilustre casa y criados que le tienen buena volundad. El tiempo lo dirá todo. Señor vivir, que es lo más importante, etts. Las novedades dará a v. m. el Dr. D. Rafel Martorell que pasa a esa corte por sus pretensiones que v. m. procure a despacharme presto. Con mi Sr. D. Pedro que hacen mucha falta en su casa. Y lo que digo a v. m. lo verá por la experiencia. V. m. se sirva decirme si se le ofrece cosa que sea a su gusto, que por su enfermedad he dejado de darle muchas noticias, por no cansarle. Guarde Dios a v. m. muchos años como deseo y es menester. d De Mallorca 11 de noviembre 1668. Besa la mano de v. m. muchas veces, su menor criado, Jeronimo Pelegrin de Aragues Sr. don Juan de Santacilia Transcripción literal"
+  ],
+  "literal": [
+    "1. Señor. La en fermedad de V.M. que con tan repetidas2. Cartas anescritas desa Corte meandexado suspensso. el no3. continuar el escrivir a.V.M. (por no cansarle). Plega, a, Dios4. aga mentirossos attodos que esso es lo que mas le Conviene,5. para aumento de su Illtre Cassa y Criados que le tienen6. buena volundad. el tiempo lo dira todo. Señor vivir,7. que es lo mas importante, etta-8. Las novedades dara a V.M. el Sr. Dor. D. Rafel Mar=9. torell que passa ha essa Corte por sus pretensiones q V.M.10. procure adespacharme presto. Con mi Sr. D. Po que açen11. mucha falta en Sucassa; y lo que digo a V.M. lo vera12. por la experiencia.13. V.M. se sirva dicirme sisele ofreçe cossa que sea asu gusto14. que por su enfermedad he dexado de darle muchas no=15. ticias, por no cansarle gde Dios a.V.M. ms a< ño>s como desseo16. y he menester. de Mallorca 11 de Noviembre 1668.17. B l[a] m d V.M.18. ms B su menor Criado19. Geronymo Pelegrin de Aragues20. Sr. Don Juan de Sta Cilia [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "171:2341.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo13/171:2341.JPG",
+      "url": "/legajos/legajo-13/images/171:2341.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "171:2341.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (4)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-13/cartas/001837.json",
+  "primary_image_url": "/legajos/legajo-13/images/171:2341.JPG"
+}

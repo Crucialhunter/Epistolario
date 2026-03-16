@@ -1,0 +1,38 @@
+{
+  "legajo_id": "13",
+  "id_carta": "1868",
+  "order_in_legajo": 164,
+  "signatura": "214:2372.JPG",
+  "nombre_carta": "Carta de Pere Fernández Manchares a Pedro Santacilia y Pax",
+  "fecha_original": "10 de octubre de 1669",
+  "lugar": "Mallorca",
+  "remitente": "Pere Fernández Manchares",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Con mucha seguridad puede estar v. s. de que deseo la salud del Sr. don Juan Miguel con muchas veras, y que con ellas sentí su muerte y en esta tan de v. s. en ambas ocasiones, yo y la familia hemos suplicado a Nuestro Señor le tenga en su santo reino, como nos lo prometemos de su virtud, y que habrá merecido el consuelo de su falta a v. s., y en esto en todo lo demás que se ofreciere de su servicio. Suplico a v. s. este cierto que no me hará ventajas algún servidor suyo y en suplicar a Nuestro Señor guarde a v. s. guarde a v. s. muchos y felicisimos años. Mallorca Enero 10 de 1669 años. Besa la mano de v. s. su servidor Pedro, obispo de Mallorca Sr. don Pedro Santacilia [1§] Transcripción literal"
+  ],
+  "literal": [
+    "1. Con mucha seguridad puede estar VS de que deseo la salud2. del Sr. Don Juan Mig con muchas veras, y que con ellas senti su3. muerte y en esta tan de VS en ambas occasiones, yo i la fa-4. milia hemos suplicado a nuestro señor le tenga en su sancto5. Reyno, como nos lo prometemos de su virtud, y que avra meres6. çido el consuelo de su falta a VS, y en esto en todo lo demas7. que se ofreçiere de su serviçio suplico a VS. este çierto que no me 8. hara ventajas algun servidor suyo y en suplicar a nro Señor9. gde a V.S. guarde a V.S. muchos y feliçíssimos años Malla10. enero 10 de 1669 años11. B l[a] m de VS su sr12. Pº Obispo de Mallca13. Sr. Don Pedro Sta. Cilia [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "214:2372.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo13/214:2372.JPG",
+      "url": "/legajos/legajo-13/images/214:2372.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "214:2372.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-13/cartas/001868.json",
+  "primary_image_url": "/legajos/legajo-13/images/214:2372.JPG"
+}

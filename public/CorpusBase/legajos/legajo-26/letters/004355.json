@@ -1,0 +1,45 @@
+{
+  "legajo_id": "26",
+  "id_carta": "4355",
+  "order_in_legajo": 90,
+  "signatura": "128:3449.JPG",
+  "nombre_carta": "Carta de Persona desconocida a Pedro Santacilia y Pax",
+  "fecha_original": "17 de septiembre de 1640",
+  "lugar": "Alfaques",
+  "remitente": "Persona desconocida",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Señor D. Pedro, v. m. está muy bien asistido de sonetos y de bergantines y en lo uno y en lo otro sólo me toca alabar, sobre creer, que tiene tan buen dueño, pero el invierno no es ya ni aún para Gal. y no pueden faltarle a Ro. siendo muy mi amigo y teniendo tantas de sobra. v. m. se lo diga. Si hay llegaré y si el marques de los Balbases viene, para todos será muy importante y no sé si de mucho descanso para su excelencia. Los 300 reales de [?] con tanta relevación de Cataluña no sé palabra. Dios guie lo mejor y guarde a v. m. muchos años de Galera y Alfaques, a 17 de septiembre de 1640. [?] Sr. D. Pedro de Santacilia Transcripción literal"
+  ],
+  "literal": [
+    "1. Señor D. Pº Vm esta muy bien asistido de sonetos2. y de bergantines y en lo uno y en lo otro solo3. me toca alabar, sobre creer, que tiene tan buen4. dueño, pero el hivierno no es ya ni aun para5. gal[era] y no uden faltarle a Ro siendo muy6. mi amigo y tiniendo tantas de sobra. Vm.7. se lo diga si ay llegare y si el Sr. Marq[ue]s de los8. Balbases biene, para todos sera muy ympor9. tante y no se si de mucho descanso para su10. Exª Los 300 r[eale]s [?] con tanta relebaçion de11. cataluña no se palabra. Dios guie lo mejor12. y gde. a Vm. muchos a[ño]s de Galera y13. Alfaques a 17 de sep[tiembr]e de 164014. [?]15. [?]16. Sr. D. Pº de Sta. Zilia [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "128:3449.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo26/128:3449.JPG",
+      "url": "/legajos/legajo-26/images/128:3449.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "128:3449.JPG",
+  "warnings": [
+    {
+      "code": "IMAGE_DOWNLOAD_FAIL",
+      "message": "HTTP 404",
+      "context": {
+        "url": "http://santacilia.info/intranet2/img/Legajo26/128:3449.JPG"
+      }
+    },
+    {
+      "code": "IMAGE_COUNT_MISMATCH",
+      "message": "Imágenes detectadas (1) != descargadas (0)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-26/cartas/004355.json",
+  "primary_image_url": "/legajos/legajo-26/images/128:3449.JPG"
+}

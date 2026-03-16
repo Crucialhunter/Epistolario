@@ -1,0 +1,38 @@
+{
+  "legajo_id": "32",
+  "id_carta": "7135",
+  "order_in_legajo": 70,
+  "signatura": "176:1893.JPG",
+  "nombre_carta": "Carta de Pedro Santacilia y Pax a Leonor Santacilia i Despuig",
+  "fecha_original": "2 de enero de 1664",
+  "lugar": "Mallorca",
+  "remitente": "Pedro Santacilia y Pax",
+  "destinatario": "Leonor Santacilia i Despuig",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Â [1§] Transcripción literal"
+  ],
+  "literal": [
+    "1."
+  ],
+  "imagenes": [
+    {
+      "filename": "176:1893.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo32/176:1893.JPG",
+      "url": "/legajos/legajo-32/images/176:1893.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "176:1893.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (3)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-32/cartas/007135.json",
+  "primary_image_url": "/legajos/legajo-32/images/176:1893.JPG"
+}

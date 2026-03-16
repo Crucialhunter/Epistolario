@@ -1,0 +1,38 @@
+{
+  "legajo_id": "18",
+  "id_carta": "3124",
+  "order_in_legajo": 156,
+  "signatura": "256:4963.JPG",
+  "nombre_carta": "Carta de Bartolomé Fullana a Pedro Santacilia y Pax",
+  "fecha_original": "28 de diciembre de 1668",
+  "lugar": "Mallorca",
+  "remitente": "Bartolomé Fullana",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Com a tant Criat de v. s. i la seva casa he sentit en gran manera la mort del Sr. don Juan Muchel mi i mes per la afectio de v. s. a ell lo tinga n en la seva Santa glòria i a v. s. li dóna el {ESP. consuelo} i for taleza que tant ha menester i m'importa a mi Mi sa m'ha fet mercè en ocupar-me en casa de v. s. com en altres ocasions, a on serviré amb la puntualitat que hem serà possible; procurant donar gust, a tots i en particular a v. s. que Déu guardi molts anys com jo desitjo i hemenester. Mallorca 28. desembre 1668 Criat de v. s. que ses mans besa Bartomeu Fullana not Sr. D. Pedro de Santacilia i Pax mi Sr. [1§] Transcripción literal"
+  ],
+  "literal": [
+    "1. Com a tant Criat de VS. y la sua Casa he sentit en 2. gran manera la mort del sr d Juan Muchel mi sr 3. y mes per la affectio de Vs. a ell lo tinga n sr enla 4. sua sancta gloria y a VS. li done el Consuelo y for=5. taleza que tant ha menester y me importa ami 6. Mi sa me ha fet merçe en ocuparme en casa de VS. com 7. en altres occasions, ahont servire ab la puntualitat 8. que hem sera possible; procurant donar gust, a tots 9. y en particular a VS. que Deu gde molts anys com 10. jo desitjo y hemenester. Mallorca 28. Deçembre 11. 1668 12. Criat de VS. q s[] m[] b[]13. Barthomeu fullana nott14. [Margen izquierdo][^ Sr D Pedro de Sancta Cilia y Pax misr]15. [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "256:4963.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo18/256:4963.JPG",
+      "url": "/legajos/legajo-18/images/256:4963.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "256:4963.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-18/cartas/003124.json",
+  "primary_image_url": "/legajos/legajo-18/images/256:4963.JPG"
+}

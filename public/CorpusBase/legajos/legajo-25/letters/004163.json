@@ -1,0 +1,43 @@
+{
+  "legajo_id": "25",
+  "id_carta": "4163",
+  "order_in_legajo": 97,
+  "signatura": "201_197a.JPG",
+  "nombre_carta": "Carta de Diego Matías de Aragüés a Jerónimo Pelegrín de Aragüés",
+  "fecha_original": "27 de julio de 1667",
+  "lugar": "Madrid",
+  "remitente": "Diego Matías de Aragüés",
+  "destinatario": "Jerónimo Pelegrín de Aragüés",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "He recibido las cartas de 12 del corriente, holgándome haya buena salud, que sea por muchos años. Acá la tenemos, a Dios gracias, enviando Dña. Margarita y yo muchas saludes a v. m. sobrinas y niños. También me huelgo de que hayan recibido todas mis cartas y habrán recibido las últimas que he remitido por todas partes, en lo demás me remito a lo que escribo al Sr. D. Pedro envio el credito incluso con la carta de Viguet, diciendo que está quitada la orden (mire v. m. que lindo modo de proceder es este) y está hecha la gracia por el nuncio y así es menester se remita otro luego y que sea un poco más largo, que viene muy limitado y sea muy aprisa porque si no, la propina del nuncio que son 10 ducados la habremos de pagar, aunque no se saque el despacho, y Juan Francisco Villacampa está en este empeño por mi. V. m. diga al Sr. Francisco Ramis, que he recibido su carta, y que beso sus manos, y que me avise si la carta del Sr. D. Pedro Villacampa ha obrado con el Dr. Mora y si la ha despachado. [1§] V. m. me diga si Jeronimo está ya bueno y lo demás que se ofreciere de su servicio y guarde Dios a v. m. muchos años y Madrid a 27 de julio de 1667. Tío y servidor de v. m. Diego Matias de Aragues Sr. Jeronimo Pelegrin de Aragues, mi sobrino Madrid, mi tío, Diego Matias, de 27 de Julio 1667. Transcripción literal"
+  ],
+  "literal": [
+    "1. He reçivido las cartas de 12 del corriente, olgan2. dome haya buena s[alu]d que sea por muchos años3. aca la tenemos a Dios graçias, inviando Dª4. Margta. y yo m[ucha]s saludes a Vmd. sobrinas y niños5. tanbien me guelgo de que haian reçivido todas6. mis cartas y havran reçivido las ultimas7. q[ue] he remitido por todas partes, en lo demas8. me remito a lo que escrivo al Sr. D. Pedro9. invio el crediiot incluso con la carta de Viguet10. diziendo que, esta quitada la orden (mire11. Vmd. que lindo modo de proçeder es este) y12. esta hecha la graçia por el Sr. Nunçio y assi13. es menester, se remita otro luego y que sea14. un poco mas largo, que biene muy limitado15. y sea muy aprisa porque sino, la propina del16. Sr. Nunçio que son 10 ducados la havremos de17. pagar, aunque no se saque el despacho, Y Juan 18. Franco. Villacampa esta eneste empeño por mi19. Vmd. diga al Sr Franco. Ramis, que he reçivi20. do su carta, y que beso sus manos, y que21. me avise si la carta del Sr. D. Pº Villacampa22. ha obrado con el Sr. Dr. Mora y si le ha23. despachado- [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "201_197a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo25/201_197a.JPG",
+      "url": "/legajos/legajo-25/images/201_197a.JPG"
+    },
+    {
+      "filename": "202_197b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo25/202_197b.JPG",
+      "url": "/legajos/legajo-25/images/202_197b.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "201_197a.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (7)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-25/cartas/004163.json",
+  "primary_image_url": "/legajos/legajo-25/images/201_197a.JPG"
+}

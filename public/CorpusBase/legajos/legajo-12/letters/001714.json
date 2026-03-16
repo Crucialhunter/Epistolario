@@ -1,0 +1,43 @@
+{
+  "legajo_id": "12",
+  "id_carta": "1714",
+  "order_in_legajo": 207,
+  "signatura": "326_6307a.JPG",
+  "nombre_carta": "Carta de Jaime Martín a Pedro Santacilia y Pax",
+  "fecha_original": "16 de abril de 1664",
+  "lugar": "Barcelona",
+  "remitente": "Jaime Martín",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Sr. mío y mi dueño. El amigo Josep Lazaro Jimenez se partió de esta ciudad con una saetía genovesa para Cáller el lunes pasado que contábamos 10 del corriente y según el tiempo que ha hecho han hecho juicio los patrones y marineros que se hallan acá de ese reino que en tres días tomó tierra quiera nuestro que así sea. Dejóme encargado tomase sus pliegos y remitiese a v. s. las cartas que remitiría Jeronimo Pelegrin que así he hecho lo primero y ahora estoy cumpliendo con lo segundo, gozando con esta ocasión de la dicha de besar a v. s. su mano como lo hago y suplico que en cuanto se le ofrezca a v. s. de su servicio me mande como a su criado y mayor servidor de v. s. pues corre en mi esta obligación por muchos títulos. El conde mi Sr. se partió para Plasencia ayer hizo ocho días y será la vuelta para fiestas de Navidad. Al Sr. don Gabriel Berga besa su mano con las de v. s. y ruego a Nro. Sr. los guarde muchos años como puede y deseo, Barcelona 16 de abril de 1664. Su mayor servidor y criado de v. s. que besa sus manos Jaime Martin Sr. don Pedro Santacilia y Pax, mi Sr. [1§] Nº 37Barcelona 16 Octubre 1664 Jaime Martín Transcripción literal"
+  ],
+  "literal": [
+    "1. Sr mío y mi dueño, El amigo Josep La2. çaro Jimenez se partio desta ciudad con3. una seatia Ginobesa para Caller el lunes4. pasado q contavamos 10 del corriente y5. segun el tiempo que ha hecho an hecho6. juycio los Patrones y Marineros que se7. hallan aca de esse Rey[n]o que en tres dias8. tomo tierra quiera nuestro Sr que ass sea9. Dexome encargado tomase sus pliegos10. y remitiese a VS las cartas q remi11. tiria Geronimo Pelegrín q assi he12. hecho lo primero y ahora estoy cum13. pliendo con lo sigundo gozando con14. esta ocassion de la dicha de besar15. a VS su mano como lo hago y supp[li]co16. que en quanto se le offresca a VS17. de su serv[ici]o me mande como a su18. criado y mayor servidor de VS pues19. corre en mi esta obligacion por muchos20. titulos.21. El conde mi sr, se partio p[ar]a Plasencia22. ayer hizo ocho dias y sera la23. buelta para fiestas de Navidad.24. Al sor Don Gabriel Berga besa su25. mano con las de VS y reugo a Nro. Sr.26. los gde muchos años como puede y27. deseo B[arcelo]na 16 de [?] de 166428. Su mayor serv[id]or y criado de VS29. q B. S. M.30. Jayme Martin31. Sr. Don Pº Sta. Silia y Pax, mi Sr. [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "326_6307a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo12/326_6307a.JPG",
+      "url": "/legajos/legajo-12/images/326_6307a.JPG"
+    },
+    {
+      "filename": "327_6307b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo12/327_6307b.JPG",
+      "url": "/legajos/legajo-12/images/327_6307b.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "326_6307a.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-12/cartas/001714.json",
+  "primary_image_url": "/legajos/legajo-12/images/326_6307a.JPG"
+}

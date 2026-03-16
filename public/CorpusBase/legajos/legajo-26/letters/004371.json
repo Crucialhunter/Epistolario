@@ -1,0 +1,45 @@
+{
+  "legajo_id": "26",
+  "id_carta": "4371",
+  "order_in_legajo": 107,
+  "signatura": "147:3465.JPG",
+  "nombre_carta": "Carta de Giovanni Baptista Tassorello a Pedro Santacilia y Pax",
+  "fecha_original": "19 de agosto de 1642",
+  "lugar": "Génova",
+  "remitente": "Giovanni Baptista Tassorello",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Molto Illº. Sigr. Lo haver mandado Su Sria. Illma. al governo desta isla estado poco allo que meresse su persona, empero?stoi confiado che sera principi d?salir mas alto che rogare Dios p su salud y che lo sala allo que p mi li será siempre desidera, suplicantela a valerse d?esto su servidor y desta su caza si be d?poca consideratio, empero todos d?grandisma volontat d?servir Su Sigria. Illma. como los faremos en todo lo que no favorescera emplearno, lo pliego me ha favorido embiarme ab su carissima lletra d?28 d?mayo he recebido ma no he recebido lo otro che dixe haverme embiado primeo pche a?quel vellaco del patro non es vingut assi haviendo conmetida barataria d?nuevo non hay cosa d?consideration offerintese algo lin fare part viure ab grandmo dezeo d?servir la en tant les bezos las mans y da Nro. Sigr. Li pregaré llargos agnos d?vida ab salut p poderme manar muchas cosas d?son gust, y a mi p poderla servir Jenova los 19 d?agost 1642 D.V.S. Illma. Servidor devotismo J. Battª Tassorello Per l?Illmo. Sigr. Don Piedro Sta. Cilia di minorica [1§] Transcripción literal"
+  ],
+  "literal": [
+    "1. Molto Illº. Sigr.2. Lo haver mandado Su Sria. Illma. al governo desta isla estado poco allo que meresse3. su persona, empero?stoi confiado che sera principi d?salir mas alto4. che rogare Dios p su salud y che lo sala allo que p mi li será5. siempre desidera, suplicantela a valerse d?esto su servidor y desta6. su caza si be d?poca consideratio, empero todos d?grandisma volontat7. d?servir Su Sigria. Illma. como los faremos en todo lo que no favorescera8. emplearno, lo pliego me ha favorido embiarme ab su cariss[i]ma lletra9. d?28 d?mayo he recebido ma no he recebido lo otro che dixe haverme10. embiado primeo pche a?q[u]el vellaco del patro non es vingut assi11. haviendo conmetida barataria d?nuevo non hay cosa d?consideration12. offerintese algo lin fare part viure ab grandmo dezeo d?servir la13. en tant les bezos las mans y da Nro. Sigr. Li pregaré llargos agnos14. d?vida ab salut p poderme manar muchas cosas d?son gust, y a15. mi p poderla servir Jenova los 19 d?agost 164216. D.V.S. Illma.17. Servidor devotismo18. J. Battª Tassorello19. Per l?Illmo. Sigr. Don Piedro20. Sta. Cilia di minorica [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "147:3465.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo26/147:3465.JPG",
+      "url": "/legajos/legajo-26/images/147:3465.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "147:3465.JPG",
+  "warnings": [
+    {
+      "code": "IMAGE_DOWNLOAD_FAIL",
+      "message": "HTTP 404",
+      "context": {
+        "url": "http://santacilia.info/intranet2/img/Legajo26/147:3465.JPG"
+      }
+    },
+    {
+      "code": "IMAGE_COUNT_MISMATCH",
+      "message": "Imágenes detectadas (1) != descargadas (0)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-26/cartas/004371.json",
+  "primary_image_url": "/legajos/legajo-26/images/147:3465.JPG"
+}

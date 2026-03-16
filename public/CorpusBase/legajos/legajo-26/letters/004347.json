@@ -1,0 +1,45 @@
+{
+  "legajo_id": "26",
+  "id_carta": "4347",
+  "order_in_legajo": 83,
+  "signatura": "119:3441.JPG",
+  "nombre_carta": "Carta de Antonio de Villacorta y Mercado a Pedro Santacilia y Pax",
+  "fecha_original": "18 de diciembre de 1639",
+  "lugar": "Berasain",
+  "remitente": "Antonio de Villacorta y Mercado",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "No me ha dicho v. m. nada del caballo que envié y yo he escrito como era la mejor acá que había en la compañía y yo la tenía para mi, la que dejaron no está de provecho para nada y la silla que tenía buena el hombre se la llevó. V. m. me avise que hay de esto si es que se ha de quedar así y vea que me manda en que le sirva, de Berasain a 18 de diciembre de 1639. D. Antonio de Villacorta y Mercado Sr. D. Pedro Santacilia y Pax Transcripción literal"
+  ],
+  "literal": [
+    "1. No me a dicho Vm. nada del caballo2. q ynbie y yo e escrito como era la me3. xor aca q abia en la conpañia y yo4. la tenia para mi la q dexaron no5. esta de provecho para nada y la silla q6. tenia buena el onbre se la lleba Vm. me7. abise v ay desto si es que se a de quedar8. Assi y bea q me manda en q le sirba9. De Barasoayn a 18 de diçienbre de 163910. D. Alº de Villacorta 11. y Mercado12. Sr. d. Pº Sstacilia y pax [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "119:3441.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo26/119:3441.JPG",
+      "url": "/legajos/legajo-26/images/119:3441.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "119:3441.JPG",
+  "warnings": [
+    {
+      "code": "IMAGE_DOWNLOAD_FAIL",
+      "message": "HTTP 404",
+      "context": {
+        "url": "http://santacilia.info/intranet2/img/Legajo26/119:3441.JPG"
+      }
+    },
+    {
+      "code": "IMAGE_COUNT_MISMATCH",
+      "message": "Imágenes detectadas (1) != descargadas (0)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-26/cartas/004347.json",
+  "primary_image_url": "/legajos/legajo-26/images/119:3441.JPG"
+}

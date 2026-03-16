@@ -1,0 +1,38 @@
+{
+  "legajo_id": "11",
+  "id_carta": "1305",
+  "order_in_legajo": 73,
+  "signatura": "129:5165.JPG",
+  "nombre_carta": "Carta de Laudòmia Rossa i Domènech a Pedro Santacilia y Pax",
+  "fecha_original": "5 de julio de 1643",
+  "lugar": "Valencia",
+  "remitente": "Laudòmia Rossa i Domènech",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "La de v. m. he rebut en la qual me som folgada moltíssim de saber gosava salut i juntament se saber que la senyora esta prenyada, Nostre Senyor li aparelli hora bona. Jo a v. m. no el tinc {ESP. olvidat} que a persona que m'ha fet tant de bé i tinc jo tantes obligacions no el puc jo {ESP. olvidar} en tota una vida. Els dos parells dels tapins quan anirà Tomeu Miquel els portarà, que jo no he sabut que Josep Sero havia de tocar ahir, que sinó sóc [?] jo faré el que tenia obligació. Si acàs se li ofereix a v. m. alguna cosa de la terra v. m. em mani que ho faré conforme tinc obligació. A la senyora de v. m. que li besa les mans moltes vegades i no sent per a més, Déu el guardi com pot jo li escric del Grau de València als 9 de juliol 1643 . Laudomia Ros i Domenech Transcripción literal"
+  ],
+  "literal": [
+    "1. La de VM ha rabut en la qual me som folgada 2. moltissim de saber gosava salut y juntament se daber que la señora 3. esta preñada nostre Señor li aparelle ora bona: 4. Jo a VM no el tinc olvidat que a persona que me afet 5. tasit de be y tinc yo tantes obligasions no el puc 6. yo olvidar en tota una vida. Los dos parells dels 7. tapins quant anira Tomeu Miquel asportara que io no 8. he sabut que Jusep Sero abia de tocar ai que [^??^] eso bura 9. yo fesa lo que tenia obligatio. Si acas se li ofereix a VM 10. alguna cosa se la tera VM em mane que o fare confor 11. me tinch obligatio a la señora de VM que li bese les 12. mans moltes vegades y no sent pera mes, Deu 13. lo gde compot yo de escrich del grau de Valea als 9 14. de juliol 1643 15. [^?? Pau Hormia Ros y Deusme??^] [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "129:5165.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo11/129:5165.JPG",
+      "url": "/legajos/legajo-11/images/129:5165.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "129:5165.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (2)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-11/cartas/001305.json",
+  "primary_image_url": "/legajos/legajo-11/images/129:5165.JPG"
+}

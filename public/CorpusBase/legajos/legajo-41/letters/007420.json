@@ -1,0 +1,43 @@
+{
+  "legajo_id": "41",
+  "id_carta": "7420",
+  "order_in_legajo": 27,
+  "signatura": "101:46a",
+  "nombre_carta": "Carta de Llorenç Miret a Persona desconocida",
+  "fecha_original": "fecha sin especificar",
+  "lugar": "lugar sin especificar",
+  "remitente": "Llorenç Miret",
+  "destinatario": "Persona desconocida",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Lo que el Señor Gouernador sea de seuir mandar Hazer enla Villa de Mao en lo tocante al castillo de s????e es lo siguienteque se empiecen a haçer Guardias las ??Cauallos Al Pie deste CAstillo Comoes costumbreque un Arcabus que tiene Bartolome foquete ??notario que era de su P??e soldado serestituya Al Pay??s con frascosque las compañias que en la ocassionentraren en este Castillo sen de paresercomo ?? se acostumbra y su Magestad mandaque tres p??nçiones de Renta con lade este año asta ??Magestad que deue lacaualleria que tiene fe?? Marçal laspague pues la Renta esta situada sobre aquella caualleria [1§] Señor gouernador Vostra Senyoria me fara merced quant siaen majo de Recordarse de lo que el horneroli a pagat ?? a sirca ?? de tayar lleña y el balleque señal las posesions mes prop. de queo Rebre a particular mercedllorens miret [2§] Transcripción literal"
+  ],
+  "literal": [
+    "1. Lo que el S<eño>r Gou<ernado>r sea de seuir mandar Hazer en2. la Villa de Mahon en lo tocante al castillo de s[??]3. [??]e es lo sig< uien>te4. que se empiecen a haçer Guardias las [??]5. Cauallos Al Pie deste CAstillo Como6. es costumbre7. que un Arcabus que tiene Bar< tolo>me foquete [??]8. notario que era de su P< [??]>e soldado se9. restituya Al Pay< [??]>s con frascos10. que las compañias que en la ocassion11. entraren en este Castillo sen de pareser12. como [??] se acostumbra y su M< a>g< esta>d manda13. que tres p[??]nçiones de Renta con la14. de este año asta [??]M< a>g< esta>d que deue la15. caualleria q< ue> tiene fe[??] Marçal las16. pague pues la Renta esta situada so17. bre aquella caualleria [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "101:46a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo41/101:46a.JPG",
+      "url": "/legajos/legajo-41/images/101:46a.JPG"
+    },
+    {
+      "filename": "102:46b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo41/102:46b.JPG",
+      "url": "/legajos/legajo-41/images/102:46b.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "101:46a.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-41/cartas/007420.json",
+  "primary_image_url": "/legajos/legajo-41/images/101:46a.JPG"
+}

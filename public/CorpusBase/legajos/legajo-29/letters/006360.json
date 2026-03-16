@@ -1,0 +1,38 @@
+{
+  "legajo_id": "29",
+  "id_carta": "6360",
+  "order_in_legajo": 174,
+  "signatura": "094:4177",
+  "nombre_carta": "Carta de Persona desconocida a Persona desconocida",
+  "fecha_original": "5 de abril de 1662",
+  "lugar": "Mallorca",
+  "remitente": "Persona desconocida",
+  "destinatario": "Persona desconocida",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Â [1§] Transcripción literal"
+  ],
+  "literal": [
+    "1."
+  ],
+  "imagenes": [
+    {
+      "filename": "094:4177.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo29/094:4177.JPG",
+      "url": "/legajos/legajo-29/images/094:4177.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "094:4177.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (3)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-29/cartas/006360.json",
+  "primary_image_url": "/legajos/legajo-29/images/094:4177.JPG"
+}

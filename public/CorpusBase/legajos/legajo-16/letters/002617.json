@@ -1,0 +1,38 @@
+{
+  "legajo_id": "16",
+  "id_carta": "2617",
+  "order_in_legajo": 105,
+  "signatura": "170:2117.JPG",
+  "nombre_carta": "Carta de Conde de Zavellá a Pedro Santacilia y Pax",
+  "fecha_original": "5 de agosto de 1667",
+  "lugar": "Madrid",
+  "remitente": "Conde de Zavellá",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Mi señor y mi tío mi preniti [?] mi caníco [?] pender eta buena ocasión simbesar a v. m. y acordarle mi leal obediencía. yo en que Ira presto el virrey con cuyaembarcación fio que podrán venir mi mujer y hija. No ido [?] que v. s. Las asistirá por ellas y por mi, y en su ausencá vuelvo a suplicar a v. s. mi repirecacasa [?] y hajenda como propio yo estoy tan baldado, no puedo asistir le como quisiera pero elsabe y sabe v. s. yenqual quiera ocasión habrán en su servicio como obligado y afecto y 8 [?] midural [?] v. s. como de este y manos para Madrid y agosto 5 de 1667 besa la mano de v. s. dima [?] cierto servidor El conde de Zavella Señor don Pedro Santacilia y Pax [1§] Transcripción literal"
+  ],
+  "literal": [
+    "1. Mi Sr y mí Tio mi preniti[?]2. mi caníco[?] pender eta buena ocasion3. sinbesar a VM y acordarle mi 4. leal obediencía. 5. Yo enq Ira presto el virrey con 6. cuyaenbarcacion fio q podran venír 7. mi mujer y hija. No hido[?] q VS. 8. las asistira porellas y por mi, y ensu 9. ausencà buelvo asuplicar a VS. mi 10. repirecacasa[?] y hajenda como propio 11. yo estoy tan baldado, no puedo asistir 12. le como quisiera pero elsabe y sabe 13. VS yenqualquiera ocasion abran 14. ensuservo como obligado y affecto 15. Y 8[?] midural[?] VS como deste y manos 16. para Md y Agosto 5 de 1667 17. Bl[a]m de VS 18. dima[?] cierto sr 19. El conde de Çavella 20. [Margen izquierdo][^ Sr D Pedro Sta Cilia y Pax] [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "170:2117.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo16/170:2117.JPG",
+      "url": "/legajos/legajo-16/images/170:2117.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "170:2117.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-16/cartas/002617.json",
+  "primary_image_url": "/legajos/legajo-16/images/170:2117.JPG"
+}

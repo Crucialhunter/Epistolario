@@ -1,0 +1,38 @@
+{
+  "legajo_id": "11",
+  "id_carta": "1364",
+  "order_in_legajo": 133,
+  "signatura": "219:5224.JPG",
+  "nombre_carta": "Carta de Antoni Amorós a Pedro Santacilia y Pax",
+  "fecha_original": "28 de octubre de 1643",
+  "lugar": "Mallorca",
+  "remitente": "Antoni Amorós",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Il·lustre senyor, El que havia comanat al patró Antoni Jenovart per aportar a v. s. i l'endemà de matí comparegué el que encara no sé si li escapa o el si es deizà per la poca custòdia prendre plaer que v. s. mani fer-lo posar en presó perquè sé que ací serà més el patró manat se parta. Anit i per anar tant ambargat no en portà el va portar-la el patró per a moltes que és entrat a aquest port esta tarda que ve a Roses diu no han pres sinó una tartana carregada de civada quan havia de que sopans serà arribada. Amb tot estic prompte pel que v. s. manarà, a qui Nostre Sr. guardi molts anys com desitja junt amb mi Sra. i de més de {ESP. palacio} a 28 d'octubre de 1643. Criat de v. s., Antoni Amoros Il·lustre Sr. don Pedro Santacilia, capità general de la {ESP. isla} de Menorca. Transcripción literal"
+  ],
+  "literal": [
+    "1. [^Ntro. Sr. Po^]2. Lo ca avia comenat an al patro Antoni Hienovart per 3. aportar a VSª y lon dema de mati conparague lo ca, ancara 4. no se si li ascapa o el sis de xa per le pocha custodia pendre 5. plar que VSa man ferlo posar en prasso perque se que assi 6. sera mes lo patro menat se parta. Anit y per anar tant 7. anbergat non porta al va portalla lo patro pera moltes 8. ques antrat anequest port esta tarda que ve e Roses diu no 9. anpres sino une tartane cargade de sivasa quan avia 10. de qua sopans sera aribada. Antot estich pronta per 11. lo que VSa menera aqui nostro Sr. guarda molts anis com 12. desitge junt an mi sra. y de me s de pelasio a 28 de o de 1643 13. Vriat de VSa 14. Antoni Amoros 15. [^Ntro. Sr. don Pedro Sta. Sillia capita General de la isla de Menorque^] [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "219:5224.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo11/219:5224.JPG",
+      "url": "/legajos/legajo-11/images/219:5224.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "219:5224.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-11/cartas/001364.json",
+  "primary_image_url": "/legajos/legajo-11/images/219:5224.JPG"
+}

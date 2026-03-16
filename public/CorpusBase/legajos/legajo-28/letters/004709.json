@@ -1,0 +1,38 @@
+{
+  "legajo_id": "28",
+  "id_carta": "4709",
+  "order_in_legajo": 18,
+  "signatura": "028:3643.JPG",
+  "nombre_carta": "Carta de Joan Maltès a Pedro Santacilia y Pax",
+  "fecha_original": "21 de agosto de 1628",
+  "lugar": "Barcelona",
+  "remitente": "Joan Maltès",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Jo tinc entès que mi senyor el comte ve en esta ciutat i no sé si v. m. vindrà en sa companyia, i en cas no hi vingui, quan humilment pugui, prec me faci mercè d'encomanar-me i suplicar a mi senyor el comte miri per mi, que amb el bon {ESP. medi} de v. m. y de mi senyor el comte tot mon negoci tindrà bon succés. Aquí és el sr. Diego de Vilanova i també podrà encomanar miri per mon negoci. I és cosa certíssima que dient-li v. m. ho farà. Que el Sr. comte vingui, me n'alegro molt, i jo li prometo que si v. m. vingués me n'alegraria moltíssim. En efecte, Nre. Senyor ho encamini. La mia salut no és bona, perquè tinc i puc dir quasi quasi febres. Nre. Señor guardi a v. m. com pot, i a mi me doni llibertat.Avui, als 21 d'agost de l'any 1628. De la presó de Barcelona. Criat de v.m.Joan Maltes. Transcripción literal"
+  ],
+  "literal": [
+    "1. Jo tinch entes que mi senyor lo Compte ve en esta2. Ciutat y no se si vm vindra en sa companya y en cas3. noy vinga quant humilment puc prech me fassa4. merce de encomanarme y suplicar a mi Señor lo compte5. miri per mi que ab lo bon medi de vm y de mi senyor6. lo Compte tot mon negosi tindra bon succes7. Aqui es lo Sor. Diego de Vilanova y tambe pora encoma8. nar mire per mon negosi y es cosa sertissima que9. dient ley vm ho fara de que lo Sor. Compte vinga10. men alegro molt, y jo li aprometo que si v.m. vingues11. men alegraria moltissim en effecte Nre Señor o12. encamini la mia salut no es bona perque tinch13. y puch dir casi casi febras Nre. Señor guart&14. a vm com pot & y a mi me doni llibertat Vuy als15. 21 de Agost del any 1628 de la preso de16. Barsª.17. Criat de v.m.18. Joan Maltes [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "028:3643.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo28/028:3643.JPG",
+      "url": "/legajos/legajo-28/images/028:3643.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "028:3643.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-28/cartas/004709.json",
+  "primary_image_url": "/legajos/legajo-28/images/028:3643.JPG"
+}

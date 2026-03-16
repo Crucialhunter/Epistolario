@@ -1,0 +1,43 @@
+{
+  "legajo_id": "28",
+  "id_carta": "4760",
+  "order_in_legajo": 69,
+  "signatura": "105:3694a.JPG",
+  "nombre_carta": "Carta de Miguel Guiño a Pedro Santacilia y Pax",
+  "fecha_original": "4 de abril de 1639",
+  "lugar": "Zaragoza",
+  "remitente": "Miguel Guiño",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "[ACABAR LA CARTA] [1§] [?] dar algo por este ruin que es por solo para poder con algo servir a v. m. Y fíe de mí que esto no es lisonja [?]. Se servirá de escribirme mandándome algo en su servicio. Monsarró que dé las cartas a D. Pedro de Caravazal, mayor, como de mi sora. la marquesa de los Vélez, que él me las encaminará. Además que yo presto volveré. Y cuando v. m. escriba al conde de Santa María se acuerde de este su criado. Y al doctor Mayáns también los 200 reales, que si fueran doblas fuera lo mismo, quedan en poder del dicho capitán D. Pedro de Caravazal. V. m. disponga de ellos. Y con esto ppo a v. m. gde. como puede y he menester. Zaragoza y abril 5 de 1639. Miguel Guino Al sr licenciado Doménec beso las manos y que en volviendo de este peregrinaje iré a besarle las manos y pies aunque esté sucios los zapatos. [En el margen derecho, en vertical] Zaragoza, 4 abril 1639 Don Miguel Guino Transcripción literal"
+  ],
+  "literal": [
+    "1. 1. [?] dar algo por este ruyn ques po solo para poder con2. algo serbir a v.m. y fie de mi que esto no es lisonja3. [?] se çerbira de escrivirme mÄdando me algo en su4. serbisio, mÅsarro quede las cartas a d. pº de caravazal5. mayor, como de mi sora. la marquesa de los beles que el6. me las Ä“caminara ademas que yo presto bolbere7. y quÄndo v.m. escriva al cÅde de Sta. maria8. se aquerde deste su criado y al dotor mayans tÄbiÄ“9. los .200. res que si fuerÄ doblas fuera lo mesmo10. quedÄ Ä“ poder del dicho capn. d. pº. de caravazal11. v.m. dispÅnga dellos y cÅ esto ppo a v.m. gde.12. como puede y he menester saragosa y Abril 5 de 13. 1639.14. Miguel Guino15. Al sr. licÄ“ciado domenec beso16. las manos y que Ä“ bolbiÄ“do deste17. pelegrinaxe hire a besarle las18. manos y pies aÅ«que estÄ“ susios19. los sapatos –20. [En el margen derecho, en vertical] 21. Çaragoça 4 abril 163922. Don Miguel Guino [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "105:3694a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo28/105:3694a.JPG",
+      "url": "/legajos/legajo-28/images/105:3694a.JPG"
+    },
+    {
+      "filename": "106:3694b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo28/106:3694b.JPG",
+      "url": "/legajos/legajo-28/images/106:3694b.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "105:3694a.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-28/cartas/004760.json",
+  "primary_image_url": "/legajos/legajo-28/images/105:3694a.JPG"
+}

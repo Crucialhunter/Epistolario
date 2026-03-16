@@ -1,0 +1,38 @@
+{
+  "legajo_id": "25",
+  "id_carta": "4121",
+  "order_in_legajo": 55,
+  "signatura": "112_155.JPG",
+  "nombre_carta": "Carta de José de Cisneros a Diego Matías de Aragüés",
+  "fecha_original": "25 de mayo de 1667",
+  "lugar": "Lugar sin especificar",
+  "remitente": "José de Cisneros",
+  "destinatario": "Diego Matías de Aragüés",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Sr. mío remito a v. m. la carta para el Sr. obispo de Mallorca para que se sirva de encargar al Sr. D. Pedro Celade y me cobre respuesta avisando del recibo y mandándome muchas cosas de su servicio. Dios guarde a v. m. como deseo de casa, miércoles 25 de mayo de [16]67. Besa la mano de v. m., su mayor servidor D. Josep de Cisneros Ya v. m. conoce este caballero que es mayordomo del duque de Cardona. V. m. se sirva que la carta inclusa se dé en manos del oblispo y si es posible respuesta que lo estimaré. Aragues tío de v. m. Sr. D. Dº Matias de Aragues Transcripción literal"
+  ],
+  "literal": [
+    "1. Sr. mio remito a Vm la carta para el2. Sor. obispo de Mallorca para que se sir3. ba dencargar al sor. D. Pº Selade y me4. cobre respuesta avisando del rezibo5. y mandandome muchas cosas de su6. serviçio Dios gde a Vm como deseo de casa7. Miercoles 25 de Mayo de 678. Ya Vm conoze este cavallero9. q es Mayordomo del Sr.10. Duq de Cardona. V.m.11. se sirva q la carta12. inclusa se de en manos13. del Sr. oblispo y si es posible14. respuesta q lo estimare.15. Aragues tio de Vm16. B.l.m. de Vm su m[ay]or s[ervid]or17. D Joseph de Cisneros18. Sr. D. Dº Mathias de Aragues [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "112_155.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo25/112_155.JPG",
+      "url": "/legajos/legajo-25/images/112_155.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "112_155.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (4)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-25/cartas/004121.json",
+  "primary_image_url": "/legajos/legajo-25/images/112_155.JPG"
+}

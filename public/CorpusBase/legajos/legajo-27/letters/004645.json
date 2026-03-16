@@ -1,0 +1,38 @@
+{
+  "legajo_id": "27",
+  "id_carta": "4645",
+  "order_in_legajo": 116,
+  "signatura": "201:4454",
+  "nombre_carta": "Carta de Luis de Aragón (VII duque de Cardona) a Persona desconocida",
+  "fecha_original": "20 de junio de 1651",
+  "lugar": "Lucena",
+  "remitente": "Luis de Aragón (VII duque de Cardona)",
+  "destinatario": "Persona desconocida",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Estoy cierto del sentimiento que ha hecho a v. m. la nueva de la muerte de la duquesa que esté en el Cielo. Trbajo que me tiene con todo desconsuelo. Estimo el pésame que v. m. me da que en lo servidor que le soy no me podía faltar el favor de v. m., en la ocasión, en todas las que se ofrezcan de su gusto hallará segun a mi voluntad v. m. que guarde Dios. Lucena 20 de junio de 1651 D. Luis de Aragón [SR. don Pedro] Santacilia y Pax Transcripción literal"
+  ],
+  "literal": [
+    "1. Estoy Cierto del Sentimiento que ahecho a Vm la2. nueva delamuerte dela Duquessa questeenel Cielo3. [t?]rana[s?]o quemetiene Contodo desconsuelo, Estim oEl pesame4. que Vm meda quenlo Servidor quelesoy nomepodia5. faltar El favor de Vm, enlaocassion, Entodas las6. queseofrezcan de sugusto hallara Segunamiboluntad7. Vm quegde Dios Lucena 20 de Junio de 16518. M[ ?lny]deAragon9. Santa Cilia pax [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "201:4454.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo27/201:4454.JPG",
+      "url": "/legajos/legajo-27/images/201:4454.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "201:4454.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-27/cartas/004645.json",
+  "primary_image_url": "/legajos/legajo-27/images/201:4454.JPG"
+}

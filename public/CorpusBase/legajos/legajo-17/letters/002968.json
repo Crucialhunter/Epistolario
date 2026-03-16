@@ -1,0 +1,38 @@
+{
+  "legajo_id": "17",
+  "id_carta": "2968",
+  "order_in_legajo": 235,
+  "signatura": "406:1510.JPG",
+  "nombre_carta": "Carta de Conde de Zavellá a Pedro Santacilia y Pax",
+  "fecha_original": "26 de octubre de 1660",
+  "lugar": "Lugar sin especificar",
+  "remitente": "Conde de Zavellá",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    ". Remito a v. m. esos pliegos que he recibido de merced que valgame esta puntualidad buen lugar en su memoria de v. m. para mandarme cuanto fuere de su servicio pues tiene v. m. seguridad de lo mucho que deseo en desempeñarme esto mi obligación Guarde Dios a v. m. como deseo. Barcelona seré a 26 de 1660. Beso a v. m. la mano Su más custo servidor El conde de Zavella Sr. D. Pedro Santacilia [1§] Transcripción literal"
+  ],
+  "literal": [
+    "1. Remito a Vm esos pliegos q he re2. cibido de md q valgame esta 3. puntualidad buen lugar en su4. memoria de VM para mandar5. me quanto fuere de su servo6. pues tiene Vm seguridad de lo7. mucho que deseo en desempeñarme8. esto mi obligacion Gde. Dios a VM 9. como deseo. Barna sere a 2610. de 1660. B a Vm l[a] m11. Su mas custo sdor12. El Conde de Çavella13. Sr. D. Pedro Sta. Çilia [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "406:1510.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo17/406:1510.JPG",
+      "url": "/legajos/legajo-17/images/406:1510.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "406:1510.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-17/cartas/002968.json",
+  "primary_image_url": "/legajos/legajo-17/images/406:1510.JPG"
+}

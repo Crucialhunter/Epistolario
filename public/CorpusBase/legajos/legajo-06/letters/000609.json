@@ -1,0 +1,38 @@
+{
+  "legajo_id": "6",
+  "id_carta": "609",
+  "order_in_legajo": 106,
+  "signatura": "144-74",
+  "nombre_carta": "Carta de Francisco Pedro Major Parets a Cecilia Zaforteza y Sureda de Sant Martí",
+  "fecha_original": "6 de 1769",
+  "lugar": "Palma",
+  "remitente": "Francisco Pedro Major Parets",
+  "destinatario": "Cecilia Zaforteza y Sureda de Sant Martí",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Señora, Me es preciso hablar con v. s. y no me atrevo sin su permiso. Apreciaré me conceda el que pase aquí, pues a más de tenerlo a mucho honor, quedaré sano de mi enfermedad. Palma, a 6 del corriente de 1769. {CAT. Besa les mans de v. s.} Su más fino y leal criado, Fr. Pedro Major Parets. Dna. Cecilia Zaforteza, {CAT. vídua.} Transcripción literal"
+  ],
+  "literal": [
+    "1. Señora: me es presiso hablar 2. con V.S. y no me atrevo, sin su 3. permisso; apreciaré me conceda 4. al que passe aquí; pues amas de 5. tenerlo á mucho honor, queda- 6. ré sano de mi enfermedad. Pal- 7. ma á 6 del corriente de 1769 8. B L[a] M[a] de V.S. 9. Su mas Fino y leal Criado: 10. Fr. Pedro Mr Parets 11. Dna. Cecilia Ceforteza Vid. [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "144-74.jpg",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo06/144-74.jpg",
+      "url": "/legajos/legajo-06/images/144-74.jpg"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "144-74.jpg",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-06/cartas/000609.json",
+  "primary_image_url": "/legajos/legajo-06/images/144-74.jpg"
+}

@@ -1,0 +1,43 @@
+{
+  "legajo_id": "21",
+  "id_carta": "3514",
+  "order_in_legajo": 203,
+  "signatura": "379:5802a.JPG",
+  "nombre_carta": "Carta de Rafael Vives García a Pedro Santacilia y Pax",
+  "fecha_original": "12 de septiembre de 1642",
+  "lugar": "Maó",
+  "remitente": "Rafael Vives García",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Cuando no tengo hacienda propia no puedo excusar pleitos por presente de la de mi sobrino, en la Real Audiencia tengo uno que desenredar porque envió esos autos que me pide el abogado yo [?] por la de mi madre en el tribunal de v. s. que corre peligro por no poder yo asistir a él, ni el Pdor. constituido quererle defender habré de llegar a suplicar a v. s. que mande a alguno que lo haga, como se suele en los culpados en casos atnocísimos porque nadie puede condenado indefenso. Ya yo había dado el pliego al proprio correo que va en la faluca que me había prometido darle en propia mano. He dicho al secreto Femenia que llegó a medianoche que le cobre y siga la orden que lleva, y porque la faluca está en el castillo paso luego y el {CAT. batle} con el para concertar el viaje de lo hecho será por el avi [1§] sado v. s. que espero se irá acomodado por tener en la faluca un marinero conocido, que se llama Nando Picholi, con quien habíamos trazado secretamente la detención hasta esta mañana. A más de las diligencias con el alcalde porque no pareciese de servicio en la ocasión siempre que la haga de servir a v. s. la estimaré y Dios me lo guarde. El {CAT. batle} aún no ha llegado del castillo. Yo he escrito por no detener la porta cuando llegue y le suplico que el pliego para Mallorca vaya con el po. Mahón y septiembre a 12 de 1642. El Sr. Rafael Vives y Garcia rdo. Transcripción literal"
+  ],
+  "literal": [
+    "1. Cuando no tengo hazienda propria no puedo 2. escusar pleytos por pte [?] dela demi sobrino, en 3. la Rl Auda tengo autos [?] queme pide el Abogado 4. yomo[?] porla demimadre enel tribunal de 5. VS. q correpeligro pornopoder yo assistir 6. ael, ny El Pdor constituido querer ledeffen7. der habre dellegar asupp[li]car a VS. que man8. de a alguno q loaga, como sesuela enlos 9. Culpados enCasos atnoçissimos porq naydepuede 10. condenado Indeffenso .- 11. Ya yo havia dado el Pliego alproprio cor=12. reo que va enla falua q mehavia prometido 13. darle enpropria mano hedho al secreto fe14. menia q llego a media noche q le cobre y 15. sigala ordenq lleva, Yporq lafaluca esta en 16. el Castillo passo luego yel bayle Conel para 17. consertar elViaje delo hecho sera porel avi [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "379:5802a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo21/379:5802a.JPG",
+      "url": "/legajos/legajo-21/images/379:5802a.JPG"
+    },
+    {
+      "filename": "380:5802b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo21/380:5802b.JPG",
+      "url": "/legajos/legajo-21/images/380:5802b.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "379:5802a.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-21/cartas/003514.json",
+  "primary_image_url": "/legajos/legajo-21/images/379:5802a.JPG"
+}

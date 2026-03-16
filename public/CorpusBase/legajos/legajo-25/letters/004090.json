@@ -1,0 +1,38 @@
+{
+  "legajo_id": "25",
+  "id_carta": "4090",
+  "order_in_legajo": 24,
+  "signatura": "047_124.JPG",
+  "nombre_carta": "Carta de Jerónimo Pelegrín de Aragüés a Miquel Amengual",
+  "fecha_original": "21 de marzo de 1667",
+  "lugar": "Palma",
+  "remitente": "Jerónimo Pelegrín de Aragüés",
+  "destinatario": "Miquel Amengual",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "La imatge no es veu bé [1§] Transcripción literal"
+  ],
+  "literal": [
+    "1. La imatge no es veu bé"
+  ],
+  "imagenes": [
+    {
+      "filename": "047_124.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo25/047_124.JPG",
+      "url": "/legajos/legajo-25/images/047_124.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "047_124.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (4)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-25/cartas/004090.json",
+  "primary_image_url": "/legajos/legajo-25/images/047_124.JPG"
+}

@@ -1,0 +1,38 @@
+{
+  "legajo_id": "32",
+  "id_carta": "7035",
+  "order_in_legajo": 28,
+  "signatura": "014:1793.JPG",
+  "nombre_carta": "Carta de Guillermo Vicente a Pedro Santacilia y Pax",
+  "fecha_original": "2 de enero de 1664",
+  "lugar": "Mallorca",
+  "remitente": "Guillermo Vicente",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Â [1§] Transcripción literal"
+  ],
+  "literal": [
+    "1."
+  ],
+  "imagenes": [
+    {
+      "filename": "014:1793.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo32/014:1793.JPG",
+      "url": "/legajos/legajo-32/images/014:1793.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "014:1793.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (3)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-32/cartas/007035.json",
+  "primary_image_url": "/legajos/legajo-32/images/014:1793.JPG"
+}

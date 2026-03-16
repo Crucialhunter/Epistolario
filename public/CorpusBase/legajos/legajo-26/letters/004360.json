@@ -1,0 +1,45 @@
+{
+  "legajo_id": "26",
+  "id_carta": "4360",
+  "order_in_legajo": 95,
+  "signatura": "133:3454.JPG",
+  "nombre_carta": "Carta de Persona desconocida a Pedro Santacilia y Pax",
+  "fecha_original": "23 de octubre de 1640",
+  "lugar": "Alfaques",
+  "remitente": "Persona desconocida",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "V. m. perderá el tiempo de maestrales, entrarále el de fuera y dirá que no puede varar los bergantines y por ellos se perderá la mayor diligencia, en que han podido servir y yo veo que cuestan mucho. Hurtan más y al efecto no son de provecho. Guarde Dios a v. m. como deseo. Alfaques a 23 de octubre 1640 Don [?] Sr. D. Pedro de Santacilia Transcripción literal"
+  ],
+  "literal": [
+    "1. Vm. perdera el tiempo de maestrales, entra rale el de fuera2. y dira que no puede barar los bergantines y por ellos se per3. dera la mayor dilijençia, en que an podido servir y yo4. beo que cuestan mucho, urtan mas y al efecto no son5. de probecho. Gde. Dios a Vm. como desseo Alfaques a 236. de otu[bre] 16407. Don [?]8. [?]9. Sr. D. Pº de Sta. Zilia [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "133:3454.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo26/133:3454.JPG",
+      "url": "/legajos/legajo-26/images/133:3454.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "133:3454.JPG",
+  "warnings": [
+    {
+      "code": "IMAGE_DOWNLOAD_FAIL",
+      "message": "HTTP 404",
+      "context": {
+        "url": "http://santacilia.info/intranet2/img/Legajo26/133:3454.JPG"
+      }
+    },
+    {
+      "code": "IMAGE_COUNT_MISMATCH",
+      "message": "Imágenes detectadas (1) != descargadas (0)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-26/cartas/004360.json",
+  "primary_image_url": "/legajos/legajo-26/images/133:3454.JPG"
+}

@@ -1,0 +1,38 @@
+{
+  "legajo_id": "32",
+  "id_carta": "7192",
+  "order_in_legajo": 191,
+  "signatura": "270:1950.JPG",
+  "nombre_carta": "Carta de Nicolás de Santacilia y Togores a Pedro Santacilia y Pax",
+  "fecha_original": "3 de agosto de 1666",
+  "lugar": "Barcelona",
+  "remitente": "Nicolás de Santacilia y Togores",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Con grande mejoría he amanecido y con muchas esperanzas del Medijo porque sino prosige la calentura lo demás me dará lugar a que me embargue, dicen que el sábadonos vamos con que tindre tiempo para convaleser, a mi madre y señora y a mis hermanos muchos recados y a todos esos señoras y señores. Guarde Dios a v. m. muchos años como deseo y es menester Barcelona a 3 de agosto 1666. Su más humilde hijo de v. m. que sus manos besa don Nicolas de Santacilia y Togores mi señor y mi padre [1§] Transcripción literal"
+  ],
+  "literal": [
+    "1. Con grande mejoria he amanesido y con mu2. chas esperansas del Medixo por que sino 3. prosige la calentura lo demas me dara lu4. gar a que me enbargue, disen que el sava5. donos vamos con que tindre tiempo para con6. valeser, a mi Madre y Señora y a mis her7. manos muchos recados y a todos he8. sos Señoras y Señores gde. Dios a VM. 9. muchos años como deseo y emenester 10. Barselona a 3 de Agosto 1666. 11. Su mas humilde hijo 12. de VM q SMB 13. Don Nicolas de Sta. Cilia y Togores 14. mi Señor y mi Padre [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "270:1950.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo32/270:1950.JPG",
+      "url": "/legajos/legajo-32/images/270:1950.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "270:1950.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-32/cartas/007192.json",
+  "primary_image_url": "/legajos/legajo-32/images/270:1950.JPG"
+}

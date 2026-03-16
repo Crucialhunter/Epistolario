@@ -1,0 +1,38 @@
+{
+  "legajo_id": "21",
+  "id_carta": "3364",
+  "order_in_legajo": 53,
+  "signatura": "086:5653.JPG",
+  "nombre_carta": "Carta de Francesc Tomás a Pedro Santacilia y Pax",
+  "fecha_original": "6 de marzo de 1632",
+  "lugar": "Barcelona",
+  "remitente": "Francesc Tomás",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Señor mío como criado de v. m. suplico que me haga en solicitar lo que el conde mi Sr. le dijo acerca de un proceso que tiene el Vilamala. Hoy si no lo hallara abastar que es el proceso de la venta de la casa y esta lo estimaré como de la mano de v. m. ya que estoy como humilde criado de v. m. De Barcelona a 6 de marzo año 1632. Francesc Tomas Al Sr. don Pedro Santacilia Transcripción literal"
+  ],
+  "literal": [
+    "1. Señor mio Como Criado de Vmd. Sup2. lico que me haga en Sulisitar loque el Conde 3. mi Sr le dijo en serca de un proseso que ti4. ene el Sr Vilamala oy si noldellara abas5. tar que es el proses de {ESP labenta de la casa 6. y esta loestimare comode la mano de Vmd 7. ya que estoi como omilde Criado de Vmd 8. de Barselona a 6 de marso año 16329. franses tomas10. [Margen izquierdo][^Al Sr don pedro Sta Silia] [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "086:5653.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo21/086:5653.JPG",
+      "url": "/legajos/legajo-21/images/086:5653.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "086:5653.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-21/cartas/003364.json",
+  "primary_image_url": "/legajos/legajo-21/images/086:5653.JPG"
+}

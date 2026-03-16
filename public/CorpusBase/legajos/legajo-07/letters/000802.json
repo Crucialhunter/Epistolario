@@ -1,0 +1,38 @@
+{
+  "legajo_id": "7",
+  "id_carta": "802",
+  "order_in_legajo": 5,
+  "signatura": "50-33 copy",
+  "nombre_carta": "Carta de Josep Togores a Jerónimo Pelegrín de Aragüés",
+  "fecha_original": "fecha sin especificar",
+  "lugar": "lugar sin especificar",
+  "remitente": "Josep Togores",
+  "destinatario": "Jerónimo Pelegrín de Aragüés",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Senyor Jeroni, el senyor diu que donin [a] Joan Roig cent sous, dic cent sous. Josep Togores Transcripción literal"
+  ],
+  "literal": [
+    "1. .S. geroni el señor diu que donen 2. iuan rox sents sous dic sent sous 3. Joseph togoras [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "50-33 copy.gif",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo07/50-33 copy.gif",
+      "url": "/legajos/legajo-07/images/50-33 copy.gif"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "50-33 copy.gif",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (4)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-07/cartas/000802.json",
+  "primary_image_url": "/legajos/legajo-07/images/50-33 copy.gif"
+}

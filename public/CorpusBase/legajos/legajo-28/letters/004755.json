@@ -1,0 +1,43 @@
+{
+  "legajo_id": "28",
+  "id_carta": "4755",
+  "order_in_legajo": 65,
+  "signatura": "095:3689a.JPG",
+  "nombre_carta": "Carta de Pedro Jiménez de Murillo a Pedro Santacilia y Pax",
+  "fecha_original": "31 de marzo de 1639",
+  "lugar": "Zaragoza",
+  "remitente": "Pedro Jiménez de Murillo",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Sr. Juan Casán está en la cárcel de esta ciudad por una muerte que hizo en la ciudad de Balaguer en el Principado de Cataluña. Dice que tiene perdón de su magestad, y como aquí consta del delito y no del perdón, lo han condenado a muerte. Este ha sido criado de don Luis de Moncada y me ha escrito que procurare todos lo medios posibles para que no pereciese. Como he sabido que ha sido soldado de una de las compañías de v. m. me atrevo a suplicarle, fiado en la merced que hace a mi hermano y en su mucha nobleza [y] piedad cristiana, escriba al gobernador de este reino y al ace [?] sor como este soldado es de v. m. y enviar aquí algún criado de confianza para que hable con lisura al gobernador, y esto lo más presto que v. m. pudiera porque es poquísimo el tiempo y podrá ser que esa diligencia sea restauración de su vida porque no tiene otro remedio. Y la estrechez del tiempo obliga a enviar esta con propio. Y si a v. m. le consta del perdón [?] a mí parece que será acertado v. m. se lo escriba al gobernador, y que tenía licencia de su capitán cuando le prendieron aquí, que con esto creo ha de tener buen suceso. Hará v. m. un gran servicio a [1§] Nro. Sr. pues libra a uno de la muerte [?] tantas está aguardando y la m [?] nos de servirle. Guarde Nro. Sr. a v. m. como [?] A 31 de marzo de 1639. Servidor de [?] D. Pablo Jimenez Murillo. [En el margen izquierdo, en vertical] Zaragoza, 31 Marzo 1639. Don Pablo Jiménez de Murillo Transcripción literal"
+  ],
+  "literal": [
+    "1. Sr. Juan Cassan esta en la carçel desta2. ciudad por una muerte que hizo en la ciudad3. de Valaguer en el Principado de Cataluña4. dice que tiene perdon de su Magd. y como5. aqui consta del delito y no del perdon lo an6. condenado a muerte este a sido criado de7. don Luis de Moncada y me a escrito que pro8. curare todos lo medios posibles para que no9. pereçiesse Como e savido que a sido soldado de10. una de las companias de Vm. me atrebo a su11. plicarle fiado en la md. que ace a mi hermº.12. y en su mucha nobleça piedad cristiana es13. criba al Governador deste Reyno y al ace [?] 14. sor como este soldado es de vm. y imbiar aqui15. algun criado de confiança para que able16. con lisura al Governador y esto lo más presto que17. vm. pudiera por que es poquisimo el tiempo18. y podra ser que esa diligencia sea restauracion19. de su bida por que no tiene otro remedio y la20. estrechez del tiempo obliga a imbiar esta con21. propio y si a vm. le consta del perdon [?] a mi parece22. que sera acertado vm. se lo escriba al Goveror.23. y que tenia licencia de su capitan quando24. le prendieron aqui que con esto creo a de tener25. buen suçeso ara vm. un gran servicio a [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "095:3689a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo28/095:3689a.JPG",
+      "url": "/legajos/legajo-28/images/095:3689a.JPG"
+    },
+    {
+      "filename": "096:3689b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo28/096:3689b.JPG",
+      "url": "/legajos/legajo-28/images/096:3689b.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "095:3689a.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-28/cartas/004755.json",
+  "primary_image_url": "/legajos/legajo-28/images/095:3689a.JPG"
+}

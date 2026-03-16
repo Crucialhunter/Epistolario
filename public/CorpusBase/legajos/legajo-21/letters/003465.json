@@ -1,0 +1,43 @@
+{
+  "legajo_id": "21",
+  "id_carta": "3465",
+  "order_in_legajo": 154,
+  "signatura": "278:5753a.JPG",
+  "nombre_carta": "Carta de Tomás Cornelio Tríes a Pedro Santacilia y Pax",
+  "fecha_original": "10 de julio de 1639",
+  "lugar": "Zaragoza",
+  "remitente": "Tomás Cornelio Tríes",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Macia Monsarro me ha dicho como v. m. había llegado con salud a la Colometa que me holgado mucho se la conserve Nuestro Sr. los años que este su servidor desea. No [he] querido perder esta ocasión suplicándole se acuerde de mandarme lo que fuera de su servicio. Por acá no tenemos cosa de nuevo que dar aviso a v. m. sino que pasan muchas compañías. El conde don Jeronimo Rod llegó antes de ayer a este lugar y a v. m. guarde Nro. Sr. muchos años, de Zaragoza a 10 de Julio 1639. Tomas Cornelio Tries Sr. don Pedro Santacilia y Pax [1§] Zaragoza 10 Julio 1639 Tomas Cornelio Tries rdo. Transcripción literal"
+  ],
+  "literal": [
+    "1. Maçia monsarro me adicho Como Vm. 2. avia allegado Con salud alla tolxeta 3. que me olgado mucho se la Conserve 4. nuestro sr los años que este su servidor 5. desea ~ no querido perder esta ocaçion 6. soplicandole se acuerde de mandarme lo 7. que fuera de su servicio ~ por aca no 8. tenemos cossa de nuevo que dar avisso 9. a Vm. sino que pasan muchas conpañias 10. el Conde don Heronimo Rod lego ante11. deayer aeste lugar y a Vm. ge nro sr mucho 12. años de Caraga a 10 de Julio 1639 13. Tomas Cornelio Tries14. [Margen izquierdo][^ sr [d]on Po Santa Cilia y pax] [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "278:5753a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo21/278:5753a.JPG",
+      "url": "/legajos/legajo-21/images/278:5753a.JPG"
+    },
+    {
+      "filename": "279:5753b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo21/279:5753b.JPG",
+      "url": "/legajos/legajo-21/images/279:5753b.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "278:5753a.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (2)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-21/cartas/003465.json",
+  "primary_image_url": "/legajos/legajo-21/images/278:5753a.JPG"
+}

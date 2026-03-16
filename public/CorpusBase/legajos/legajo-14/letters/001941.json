@@ -1,0 +1,38 @@
+{
+  "legajo_id": "14",
+  "id_carta": "1941",
+  "order_in_legajo": 41,
+  "signatura": "068:2445.JPG",
+  "nombre_carta": "Carta de Diego de Rocabertí a Pedro Santacilia y Pax",
+  "fecha_original": "4 de julio de 1632",
+  "lugar": "Barcelona",
+  "remitente": "Diego de Rocabertí",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Ahir arribaren els comanadors Cotoners amb un bergantí i arribaren a mes mans per a vos les cartes que rebreu juntament amb esta. Trobaren pel camí està la mar coberta de vaixells d'enemics i ací estam tots [?] molt bé. És menester que Déu ens guard. De Madrid ha tornat un correu que era anat d'ací i portat tan males noves de Flandes que diuen se va tot perdent, amb tres [?] dies ha guanyat l'enemic cinc places i tenia posat siti a Maastricht. Siau bon acompanyador que en fas aqueixa confiança i que venint vos i don Francisco vindran aqueixes senyores segures. A les dues posades que fareu pel camí per via de concert podrieu pagar a compte de la una altra i a compte de l'altra a l'altra i si dona Ana no ho vol pagar us pregareu vos i d'això i dels seixanta reals igualarem apres els comptes. L'infant està ja content, sabrà Nostre Sr. vos guard com pot i el desitjam. Barcelona i juliol a 4 de 1632. Don Diego de Rocaberti Pau i Bellera Sr. don Pedro Santacilia Transcripción literal"
+  ],
+  "literal": [
+    "1. Ayr arribaren los comanadors Cotoners ab un bergant[i]2. y arribaren a mas mans per a vos las cartas que rebreu3. juntament ab esta trobaren per lo cami esta la mar cuber4. ta de vaxells de enemichs y asi estam tots?? molt be es menes5. ter que deu nos guart de Madrid a tornat un correu que era6. anat de asi y aportat tant malas novas de flandes que diuen7. se va tot perdent, ab tres?? dias a guañat lo enemich sinc plases8. y tenia posat siti a Mastrich siau bon acompañador quen fas9. aquexa confiansa y de que venint vos y Don fransisco vindran10. aquexas Señoras seguras, a las dos posadas que fareu per lo11. camí per via de concert podriau pagar a comte de la una altra12. y a comte del altre a laltre y si doña Ana nou vol pagar us pa13. gareu vos y de axo y dels sexanta reals ygualarem apres los 14. comtes lo Infant esta ja contens sebra nostre Sr. vos guart15. com pot y lo desitxen Barcelona y Juliol a 4 de 163216. Don Diego de Rocaberti17. Pau y Bellera18. Sr. Don Pedro Santacilia [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "068:2445.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo14/068:2445.JPG",
+      "url": "/legajos/legajo-14/images/068:2445.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "068:2445.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-14/cartas/001941.json",
+  "primary_image_url": "/legajos/legajo-14/images/068:2445.JPG"
+}

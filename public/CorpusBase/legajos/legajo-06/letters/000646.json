@@ -1,0 +1,43 @@
+{
+  "legajo_id": "6",
+  "id_carta": "646",
+  "order_in_legajo": 145,
+  "signatura": "217-111a",
+  "nombre_carta": "Carta de Nicolau Obrador a Cecilia Zaforteza y Sureda de Sant Martí",
+  "fecha_original": "16 de agosto de 1771",
+  "lugar": "Mallorca",
+  "remitente": "Nicolau Obrador",
+  "destinatario": "Cecilia Zaforteza y Sureda de Sant Martí",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Mi senyora dona Cecília, Li torn l’avís que em dóna i segon ell m’arreglassin parlar amb el {ESP. consabut} subjecte si sap no l’ocasió. Contest només que perquè sàpiga que he rebuda de v. m. salut robusta desig li ocasionen eixos aires del camp i que mani a Son menor servidor i capellan Nicolau Obrador 16 agost 71. [1§] A mi senyora dona Cecilia Zaforteza i Berga, guardi Déu molts anys. Son Berga Transcripción literal"
+  ],
+  "literal": [
+    "1. Mi Sra. Da. Cecilia li torn[?] el Avis que 2. em dona, y segon ell me arreglasen 3. parlar ab el consabut subjecte si sap no 4. [?] la ocasio. Contest no mes 5. que perque sapia que he rebuda 6. de V.Md., cuya salud robusta desig li 7. ocasionen essos ayres del camp y que 8. man a 9. Son mr serv[i]dor y capn 10. obrador 11. 16 Agost 71. [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "217-111a.jpg",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo06/217-111a.jpg",
+      "url": "/legajos/legajo-06/images/217-111a.jpg"
+    },
+    {
+      "filename": "218-111b.jpg",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo06/218-111b.jpg",
+      "url": "/legajos/legajo-06/images/218-111b.jpg"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "217-111a.jpg",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-06/cartas/000646.json",
+  "primary_image_url": "/legajos/legajo-06/images/217-111a.jpg"
+}

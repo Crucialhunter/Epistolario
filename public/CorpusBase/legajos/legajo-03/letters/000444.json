@@ -1,0 +1,55 @@
+{
+  "legajo_id": "3",
+  "id_carta": "444",
+  "order_in_legajo": 9,
+  "signatura": "12-7a",
+  "nombre_carta": "Carta de Cristóbal Crespí de Valldaura y Brizuela a Juan Miguel de Santacilia y Togores",
+  "fecha_original": "29 de noviembre de 1662",
+  "lugar": "Madrid",
+  "remitente": "Cristóbal Crespí de Valldaura y Brizuela",
+  "destinatario": "Juan Miguel de Santacilia y Togores",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Su carta de vuestra merced de 4 de este he recibido con mucho gusto por las noticias que me trae de haber llegado vuestra merced a su casa con salud y hallado con ella al señor don Pedro, su padre. Y estimo el cuidado que vuestra merced ha tenido de darme este aviso, y puede asegurarse que en todo lo que se ofreciere experimentará vuestra merced el afecto que le tengo. Dios guarde a vuestra merced largos años. Madrid, a 29 de noviembre de 1662. Deseo que vuestra merced recobre en Mallorca la salud que le quitan los aires de esta corte. Don Cristobal Crespi de Valldaura. [1§] Madrid, del señor don Cristobal Crespi de Valldaura. De 29 de noviembre 1662. Recibida a 28 de febrero 1663. Transcripción literal"
+  ],
+  "literal": [
+    "1. Su carta de Vm de 4 [?] deste he recevido con mucho gusto por las2. noticias que me tra he de haver llegado V m a su casa con3. salud, y hallado con ella al Sr. Don Po su Pe y estimo4. el cuidado queVm ha tenido de darme este avisso y puede5. assegurarse que en todo lo que se offreciere experimentara6. Vm el affecto que le tengo. Dios gde a Vm largos años.7. [Md a 29 de Novbre de 1662.8. Deseo que V m recobre en Mallorca la salud que le quitan9. los ayres desta corte 10. Don christoval Crespi11. de Valdaura [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "12-7a.jpg",
+      "original_url": "http://www.studiolum.com/Web3/img/Legajo03/12-7a.jpg",
+      "url": "/legajos/legajo-03/images/12-7a.jpg"
+    },
+    {
+      "filename": "13-7b.jpg",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo03/13-7b.jpg",
+      "url": "/legajos/legajo-03/images/13-7b.jpg"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "12-7a.jpg",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (2)",
+      "context": {}
+    },
+    {
+      "code": "IMAGE_DOWNLOAD_FAIL",
+      "message": "HTTP 404",
+      "context": {
+        "url": "http://www.studiolum.com/Web3/img/Legajo03/12-7a.jpg"
+      }
+    },
+    {
+      "code": "IMAGE_COUNT_MISMATCH",
+      "message": "Imágenes detectadas (2) != descargadas (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-03/cartas/000444.json",
+  "primary_image_url": "/legajos/legajo-03/images/12-7a.jpg"
+}

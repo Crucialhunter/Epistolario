@@ -1,0 +1,48 @@
+{
+  "legajo_id": "41",
+  "id_carta": "7462",
+  "order_in_legajo": 46,
+  "signatura": "182:88a",
+  "nombre_carta": "Carta de Persona desconocida a Persona desconocida",
+  "fecha_original": "4 de junio de 1627",
+  "lugar": "Mallorca",
+  "remitente": "Persona desconocida",
+  "destinatario": "Persona desconocida",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Â [1§] Â [2§] Â [3§] Transcripción literal"
+  ],
+  "literal": [
+    "1. 1. 1."
+  ],
+  "imagenes": [
+    {
+      "filename": "182:88a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo41/182:88a.JPG",
+      "url": "/legajos/legajo-41/images/182:88a.JPG"
+    },
+    {
+      "filename": "183:88b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo41/183:88b.JPG",
+      "url": "/legajos/legajo-41/images/183:88b.JPG"
+    },
+    {
+      "filename": "184:88c.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo41/184:88c.JPG",
+      "url": "/legajos/legajo-41/images/184:88c.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "182:88a.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (9)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-41/cartas/007462.json",
+  "primary_image_url": "/legajos/legajo-41/images/182:88a.JPG"
+}

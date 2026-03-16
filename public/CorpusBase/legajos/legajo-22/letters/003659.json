@@ -1,0 +1,43 @@
+{
+  "legajo_id": "22",
+  "id_carta": "3659",
+  "order_in_legajo": 40,
+  "signatura": "065:5018a.JPG",
+  "nombre_carta": "Carta de Jordi Abrí Dezcallar a Pedro Santacilia y Pax",
+  "fecha_original": "22 de abril de 1632",
+  "lugar": "Mallorca",
+  "remitente": "Jordi Abrí Dezcallar",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Tots els dies de ma vida reconeixeré la mercè que v. m. em fa en honrar-me de fer-me part del bon succés de son negoci que em sóc folgat com si fos cosa mia pròpia i {ESP. gose} v. m. molts anys el {ESP. contento} com desitjo. Per mon germà tinc entès quants grans mercès rep cada dia de v. m. folgar-me correspongui a les obligacions que tenim tots de servir a v. m. sols me resta suplicar a v. m. me faci mercè honrar-me en manar-me coses de son gust que acudiré amb la puntualitat que dec i es raó i Nre. Sr. guardi a v. m. com pot i jo desitj. Mallorca i abril als 22 de 1632. Jordi Abri Dezcallar Al Sr. D. Pedro Santacilia [1§] Mallorca 22 abril rta. 1632 Jordi Abri Dezcallar Transcripción literal"
+  ],
+  "literal": [
+    "1. Tots los dies de me vide regonexere la merce que v.m. em2. fa en onrrarme de ferme part del bon succes de son negosi3. de que em so folgat com si fos cose mie propie y gose v.m.4. molts añys al contento com desitie. per mon ierma tinch5. entes quants grans merces rep cade die de v.m. folgarme6. correspongue a las obligations que tenim tots de servir a7. v.m. sols me reste soplicar a v.m. me fasse merce8. onrrarme en menarme coses de son gust que acudire ab9. la puntualitat que dech y es raho y Nre. Sor. gde. a V.m.10. com pot y io desitie. M[allor]ca y Abril als 22 de 163211. Jordi Abril desCallar ??12. Al Sor. d. Pedro Sta. Cilia [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "065:5018a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo22/065:5018a.JPG",
+      "url": "/legajos/legajo-22/images/065:5018a.JPG"
+    },
+    {
+      "filename": "066:5018b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo22/066:5018b.JPG",
+      "url": "/legajos/legajo-22/images/066:5018b.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "065:5018a.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-22/cartas/003659.json",
+  "primary_image_url": "/legajos/legajo-22/images/065:5018a.JPG"
+}

@@ -1,0 +1,38 @@
+{
+  "legajo_id": "29",
+  "id_carta": "6511",
+  "order_in_legajo": 195,
+  "signatura": "326:4328.JPG",
+  "nombre_carta": "Carta de Nicolás de Santacilia y Togores a Pedro Santacilia y Pax",
+  "fecha_original": "23 de noviembre de 1664",
+  "lugar": "Madrid",
+  "remitente": "Nicolás de Santacilia y Togores",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Estas últimas cartas que he tenido de v. m. la mayor parte [?] repreendiéndome y quejándose mucho de mi, si es por lo de Jerónimo no me parece que es bastante causa para escribir me tan apretado holgáreme de saber en que he erado para enmendarme porque yo hasta hora no he hecho indesencia ninguna, si v. m. se rige, y hace caso de lo que le escriben algunos habladores y le dicen los más de los días tendrá que escribirme de estas cosas si v. m. quiere que de una vuelta por allá, aunque dicen que es la jornada para Febrero fácil cosa será para mi Dios guarde a v. m. muchos años como de eso y es menester Madrid a 23 de noviembre 1664 don Nicolas de Santacilia mi padre y señor Transcripción literal"
+  ],
+  "literal": [
+    "1. Estas ultimas cartas que e tenido 2. de VM la mayor parte asido repre3. endiendome y quejandose mucho de 4. mi, si es por lo de Geronimo no me pare5. se que es bastante causa para escrivir 6. me tan apretado olgareme de saber 7. en que e erado para enmendarme 8. por que yo asta ora no e echo indesen9. sia ninguna, si VM se rige, y ase caso 10. de lo que le escriven algunos abla11. dores y le disen los mas de los di12. as tendra ques crivirme destas cosas 13. si VM quiere que de una buelta 14. por alla, aunque disen que es la jor15. nada para febrero fasil cosa sera 16. para mi Dios Guarde a VM mu17. chos años como deso y e menester 18. Madrid a 23 de Noviembre 1664 19. Don Nicolas de StaCilia 20. mi Padre y Señor [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "326:4328.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo29/326:4328.JPG",
+      "url": "/legajos/legajo-29/images/326:4328.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "326:4328.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-29/cartas/006511.json",
+  "primary_image_url": "/legajos/legajo-29/images/326:4328.JPG"
+}

@@ -1,0 +1,43 @@
+{
+  "legajo_id": "28",
+  "id_carta": "4696",
+  "order_in_legajo": 4,
+  "signatura": "006:3629a.JPG",
+  "nombre_carta": "Carta de condesa de Zavellá a Pedro Santacilia y Pax",
+  "fecha_original": "1 de 1627",
+  "lugar": "Barcelona",
+  "remitente": "condesa de Zavellá",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Perdoni v. m. la mà {ESP. ajena}, que les ocupacions de Barcelona donen tota aqueixa llicència, si bé les mies s'inclouen d'anar als caputxins i a les descalces i algun dia a les mínime,; i açò ha de ser tan igual, que sia tanta la una part com a l'altra, que han donat aquests mios fills en tenir {ESP. celos} l'un de l'altre, i jo els dic que el que voldrà guanyar serà el que tindrà més virtut. Més, bo per bo, s'en portarà la palma Bernat. Consoladíssima me sóc de veure'l tan bo i tan gros i tan alegre, i sé que v. m. faria el mateix si el ves. No hi ha sinó pregar a Déu li doni perseverància, que puix és obra sua, que la perfeccioni. Jo pens que podíem jugar a busques curtes quals dels dos, de v. m. a mi, té més ganes de que las coses estiguin assentades per a poder parlar, que no sabria jo encarir-ho les que tinc de veure a v. m. quiet i assossegat i [?] [1§] [?] {ESP. pesadilles} m'han fet fer mil discursos les paraules me diu v. m. en sa carta de que està en ma mà son remei de v. m. per sa vida. Si tal és, no el dilati, que bé sap que després de la quietut de ma ànima desig la sua. Nre. Sr. me la deixi veure amb el compliment que jo voldria, si bé aquell bon temps que v. m. m'assenyala de la conversació {ESP. casera} no pot ser faltant-lo tot d'ella, puix Déu ho ha ordenat així, tota v. m. me consolaria algunes estones mesclades amb mil tristeses, que totes mes consolacions han de ser así de las memòries passades, que encara que no tenen ningun adob moltes voltes la memòria de la pena serveix d'{ESP. alivio}. Vulgui Déu que arribi algun dia que puguem parlar [?] Guardi Nostre Señor a v. [m] com jo desig i el faci un gran sant. Son [?] està boníssim. Déu el guardi. . Barcelona [?] al primer 1627. La comtessa de Zavella. Transcripción literal"
+  ],
+  "literal": [
+    "1. Perdone Vm la ma agena que las ocu2. pacions de barçelona donen tota aquexa3. lliçençia sibe las mias se enclouhen4. en anar als caputxins y a las descalças5. y algun dia alas minimas y asso ha de6. ser tan igual que sia tanta la una7. part com al altre que han donat8. aquestos mios fills en tenir çelos la hu9. del altre y jols dich quel que voldra10. guañar sera lo que tindra mes virtut11. mes bo, per bo, sen portara la palma12. Bernat, aconsoladissima me so de veurer13. lo tambo y tan gros y tan alegre y se14. que Vm faria lo mateix sil ves15. noy ha sino pregar a Deu li done16. perseverançia que puis es obra sua17. que la perfeccione.18. Jo pens que poriam jugar a busques19. curtas quals dels dos de Vm a mi20. te mes ganes de que las coses estigan21. asentades pera poder parlar que no22. sabria jo encariro las que tinch de23. veurer a Vm, quiet y asosegat y [?] [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "006:3629a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo28/006:3629a.JPG",
+      "url": "/legajos/legajo-28/images/006:3629a.JPG"
+    },
+    {
+      "filename": "007:3629b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo28/007:3629b.JPG",
+      "url": "/legajos/legajo-28/images/007:3629b.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "006:3629a.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-28/cartas/004696.json",
+  "primary_image_url": "/legajos/legajo-28/images/006:3629a.JPG"
+}

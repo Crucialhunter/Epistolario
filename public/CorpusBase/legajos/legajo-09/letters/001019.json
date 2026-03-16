@@ -1,0 +1,37 @@
+{
+  "legajo_id": "9",
+  "id_carta": "1019",
+  "order_in_legajo": 56,
+  "signatura": "083-41a",
+  "nombre_carta": "Carta de Josep de Meoz y Urquiz a Arnau de Santacilia",
+  "fecha_original": "11 de abril de 1675",
+  "lugar": "Milán",
+  "remitente": "Josep de Meoz y Urquiz",
+  "destinatario": "Arnau de Santacilia",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Amigo y señor mío, juntas recibo dos cartas de v. m. de 6 y 12 de marzo en que me da las noticias que apetece mi afecto de la buena salud de v. m. que me alegran como es justo al paso que siento su detención, y la muerte de don Baltasar de Soto, a quien he encomendado a Dios la carta para S. E. que traía. Esta noticia ha llegado a sus manos y la compañía se ha dado a don Bernardo de Rosellon que ha sido alférez de la de don Carlos [1§] de Borja. El amigo Villalonga escribirá a v. m. en sus dependencias y aunque nos ha escrito se diese de baja a Burdif hallan doce muy empeñado don Francisco hemos buscado forma en todas las muestras para pasar esta plaza porque tenga este útil y todo lo demás ha salido muy bien y cierto que aunque v. m. estuviera aquí no se si pudieran correr las cosas de la compañía mejor. Dios guarde a v. m. muchos años como deseo. Milán 11 de abril 1675. Ha salido una orden rigurosa para que no se dé licencia a ninguno. Asistan en sus presidios, yo se la he sacado [?] a don Francisco con que esta aquí. Besa las manos de v. m. su amigo y seguro servidor, Josep de Meoz y Urquiz Señor don Arnaldo de Santacilia Transcripción literal"
+  ],
+  "literal": [
+    "1. Amigo y sr mio Juntas recivo 2. dos Cartas de Vm de 6 y 12 3. de Marzo enque me da 4. las noticias q apeteçe mi 5. afecto de la buena salud 6. de Vm queme alegran como 7. es justo al passo qie siento 8. su detencíon, y lamuerte 9. de Don Balthasar de soto 10. aquien he encomendado a Dios 11. la Carta para S.E. q traia esta 12. noticía ha llegado asus manos 13. y la Compa se ha dado a Don 14. Bernardo de Rosellon q ha 15. sido Alfz dela de Don Carlos [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "083-41a.jpg",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo09/083-41a.jpg",
+      "url": "/legajos/legajo-09/images/083-41a.jpg"
+    },
+    {
+      "filename": "084-41b.jpg",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo09/084-41b.jpg",
+      "url": "/legajos/legajo-09/images/084-41b.jpg"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "083-41a.jpg",
+  "warnings": [],
+  "raw_source": "raw/legajos/legajo-09/cartas/001019.json",
+  "primary_image_url": "/legajos/legajo-09/images/083-41a.jpg"
+}

@@ -1,0 +1,43 @@
+{
+  "legajo_id": "28",
+  "id_carta": "4754",
+  "order_in_legajo": 3,
+  "signatura": "093:3688a.JPG",
+  "nombre_carta": "Carta de Pedro Jiménez de Murillo a Pedro Santacilia y Pax",
+  "fecha_original": "fecha sin especificar",
+  "lugar": "Zaragoza",
+  "remitente": "Pedro Jiménez de Murillo",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Sr. mío. Don Luis de Moncada [?] grandísima instancia por Juan Casán [?] de su regimiento de v. m., que a lo menos lo ha sido [?]. Todos suplicamos a v. m. lo saque del aprieto en que está diciendo al Sr. gobernador de este reino cómo estaba aquí con licencia, que así lo ha dicho siempre, Juan Casán [?] y desea ser su esclavo de v. m. Y también si v. m. tiene el perdón o remisión de la muerte que hizo en Balaguer, o la noticia que de esto tuviere, será redimir este hombre. Y muchos me han mandado se lo suplicase a v. m. sabiendo la honra que siempre me hace. A v. m. se lo suplico con mucha instancia. Y, por José, mi hermano don Pablo [Jiménez] escribe a v. m. largo en la [?] no lo sigo en esta. Ntro. Sr. guarde a v. m. [?] como deseo. Amén. En Zaragoza, a 31 marzo [?] Que va con esta para Egea, suplico a v. m. mande encaminar. De v. m. siempre, Don Pedro Jimenez de Murillo Sr. don Pedro Santacilia y Pax [1§] Zaragoza, 31 marzo 1639. Don Pedro [Jimenez] Murillo. rdo. Transcripción literal"
+  ],
+  "literal": [
+    "1. Sr mio. Don Luis de Moncada [?] 2. grandissima instancia por Juan Cassan [?] 3. de su Regimiento de V.m. que alomenos lo a sido [?] 4. todos suplicamos a V.m. lo saque del aprieto en que5. esta diziendo al Sor. Goveror. deste Reyno como estaba6. aqui con licencia que assi lo à dicho siempre Juan Cassan [?] 7. y dessea ser su esclavo de V.m. y tambien si V.m.8. tiene el perdon, o, remission de la muerte que hizo en9. Valaguer, o, la noticia que desto tubiere, sera redimir10. este hombre, y muchos me an mandado se lo suplica11. sse a V.m. sabiendo la honra que siempre me haze12. a V.m. se lo suplo. con mucha instancia y por Jose13. mi herº. don Pablo escrive a V.m. largo en la [?] 14. no lo sigo en esta. Ntro. Sor. gde. a V.m. [?] 15. como desseo Amen. En Çaragª. a 31 março [?] 16. que va con esta para exea Suplo. a V.m.17. mande encaminar18. De V.m. siempre19. Don Pro. Ximenez20. Sr. Don Pro. Sta.Cilia y Pax [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "093:3688a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo28/093:3688a.JPG",
+      "url": "/legajos/legajo-28/images/093:3688a.JPG"
+    },
+    {
+      "filename": "094:3688b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo28/094:3688b.JPG",
+      "url": "/legajos/legajo-28/images/094:3688b.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "093:3688a.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-28/cartas/004754.json",
+  "primary_image_url": "/legajos/legajo-28/images/093:3688a.JPG"
+}

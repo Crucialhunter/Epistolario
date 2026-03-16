@@ -1,0 +1,53 @@
+{
+  "legajo_id": "6",
+  "id_carta": "644",
+  "order_in_legajo": 143,
+  "signatura": "213-109aa",
+  "nombre_carta": "Carta de Tomás Mariano Quint Zaforteza a Cecilia Zaforteza y Sureda de Sant Martí",
+  "fecha_original": "1 de julio de 1771",
+  "lugar": "Vinagrella",
+  "remitente": "Tomás Mariano Quint Zaforteza",
+  "destinatario": "Cecilia Zaforteza y Sureda de Sant Martí",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Tia Cecília, Esper a esta la trobarà amb perfecta salut. Jo la {ESP. gos} bona, a Déu gràcies, en companyia de mon pare, ma mare i germans. Ahir per al Sr. Joan Jove [?] vaig rebre els tres calçons nous, que m’han agradat moltíssim i li hi don les gràcies. Voldria no se descuidàs d’escriure’m, sols que siguin dues retxes, que ahir em vaig alegrar molt de la sua. Tia Cecília, cregui que he sentit molt sa mort d’en Damià i pens que v. m. ho haurà sentit molt, Nostre Senyor [1§] ii conservi els altres. De part de tots rebrà moltes memòries i a son gust i les darà a ses monges Isabel i tia Magdalena, i enviïs-me a dir el dia que vol que venga per acompanyar-la que fris molt. Déu la guardi molts anys com desig. Vinagrella i juliol de 1771. Son nebot qui més l’estima de cor i no de boca, Tomas Mariano Quint Zaforteza Tia Cecília [2§] Dirà al senyor Gabriel que li coman molt i que no he merescut una lletra seua. [En la otra página, el destinatario]A dona Cecilia Zaforteza i de Berga, viuda, guardi Déu molts anys com desig. Palma. Transcripción literal"
+  ],
+  "literal": [
+    "1. Tia Cecilia espere esta la trobera ab 2. perfeta salud Jo la gos bona á Deu 3. gracias en Compeñia de Mon Para 4. Me Mara y germans; 5. ayr per el Sr. 6. Juan gove vatx rebre los tres calcons 7. nous que me han agradat moltisim y li 8. don las gracias. voldria no se descuidas 9. de escriuram, sols que sian dues retxes 10. que air em vatx alegrar molt de la sua 11. Tia Cecilia crege que é sentit molt se mo- 12. rt den (^[?]) Damia y pens que V.M. 13. eu heura sentit molt; Nostro Señor [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "213-109aa.jpg",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo06/213-109aa.jpg",
+      "url": "/legajos/legajo-06/images/213-109aa.jpg"
+    },
+    {
+      "filename": "214-109ba.jpg",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo06/214-109ba.jpg",
+      "url": "/legajos/legajo-06/images/214-109ba.jpg"
+    },
+    {
+      "filename": "214-109bb.jpg",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo06/214-109bb.jpg",
+      "url": "/legajos/legajo-06/images/214-109bb.jpg"
+    },
+    {
+      "filename": "213-109ab.jpg",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo06/213-109ab.jpg",
+      "url": "/legajos/legajo-06/images/213-109ab.jpg"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "213-109aa.jpg",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (2)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-06/cartas/000644.json",
+  "primary_image_url": "/legajos/legajo-06/images/213-109aa.jpg"
+}

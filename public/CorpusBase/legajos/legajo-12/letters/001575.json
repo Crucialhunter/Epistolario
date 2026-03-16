@@ -1,0 +1,38 @@
+{
+  "legajo_id": "12",
+  "id_carta": "1575",
+  "order_in_legajo": 83,
+  "signatura": "108_6168.JPG",
+  "nombre_carta": "Carta de Antonio de Aragón a Pedro Santacilia y Pax",
+  "fecha_original": "24 de enero de 1642",
+  "lugar": "Villarreal",
+  "remitente": "Antonio de Aragón",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Hoy he recibido cartas de Madrid en que me dicen los sentidos que están arriba de su detención de v. m. y cierto que en 20 y tantos días que ha que v. m. está en este reino se puede creer habrá hecho buen tiempo. Y así suplico a v. m. que no pierda estos ponientes, pues por omisión no es justo el perderse v. m. ni perderme a mi cuando el interés es solo el estarse quedo. Dios guarde a v. m. muchos años, Villarreal a 24 de enero de 1642. Sr. don Pedro terrible cosa es querer v. m. de conocido cuando es mi amigo y [?] yo escogido por tal el perderme [?] por omisión v. m. se duela de mi que en las obligaciones que tengo a v. m. solo me puedo valer el representarle con pasión. Don Antonio de Aragon Sr. D. Pedro Santacilia Transcripción literal"
+  ],
+  "literal": [
+    "1. Oy he recivido cartas de Madrid en que2. me diçen lo sentidos que estan arriva de su3. detençion de Vm y Çierto que en 20 y tantos dias4. que ha que Vm esta en este Reyno se puede5. crer habra echo buen tiempo y asi sup[li]co a Vm6. que no pierda estos poniente pues por omision7. no es Justo el perderse Vm ni perderme a mi8. quando el ynteres es solo el estarse quedo Dios9. gu[ar]de a Vm muchos anos Villarreal a 24 de 10. Henero de 1642. Sor Don Pº terible cosa11. es querer V.m. de conacido cuando12. es mi amigo y abeste yo escogido por tal13. el perdermo [?] por omicion Vm se du14. ela de mi q[ue] en las obligaciones15. que tengo a V.m. solo me puedo16. valer el representarle con pacion17. Don Antº de Aragón18. Sor. D. Pedro Sta. Siçilia [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "108_6168.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo12/108_6168.JPG",
+      "url": "/legajos/legajo-12/images/108_6168.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "108_6168.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-12/cartas/001575.json",
+  "primary_image_url": "/legajos/legajo-12/images/108_6168.JPG"
+}

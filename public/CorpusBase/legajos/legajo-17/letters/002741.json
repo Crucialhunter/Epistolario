@@ -1,0 +1,38 @@
+{
+  "legajo_id": "17",
+  "id_carta": "2741",
+  "order_in_legajo": 6,
+  "signatura": "007:1283.JPG",
+  "nombre_carta": "Carta de Jerónimo Mancho a Pedro Santacilia y Pax",
+  "fecha_original": "19 de septiembre de 1657",
+  "lugar": "Madrid",
+  "remitente": "Jerónimo Mancho",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Muy bien ha hecho v. m. de enviar la segunda orden para la paga de los 2432 reales de los oficios anuales de este año, porque la primera sin duda que se perdió. Muchos solicitadores tiene Jeronimo Pelegrin para cualquier cosa que se ofreciere de su conveniencia a que no faltaré yo ni a cuanto se ofreciere del servicio de v. m. que guarde Nro. Sr. muchos años como deseo. Madrid a 19 de septiembre de 1657. Suplico a v. m. se sirva mandar que se de ese pliego al Dr. Basa. Beso las manos de v. m. Jeronimo Pelegrin Sr. don Pedro de Santacilia y Pax Transcripción literal"
+  ],
+  "literal": [
+    "1. Muy bien ha hecho Vm. de embiar la 2. segunda orden para la paga de los 2432 Rs 3. de los officios annuales deste año, porque 4. la primera sin duda q se perdio.5. Muchos solicitadores tiene Geronymo Pele-6. grin para qualquier cosa que se offreciere 7. de su conveniencia aque no faltare yo 8. ni a quanto se offreciere del servicio 9. de V.M. q gde nro Sr mu desseo. Md a 19 de sept[em]bre de 165710. Sup[li]co a V.m. se sirva mandar q se11. de esse pliego al Dr. Basa12. B l[a] m de Vm 13. Geronymo Mancho14. Sr. Don Pedro de Santacilia y Pax. [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "007:1283.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo17/007:1283.JPG",
+      "url": "/legajos/legajo-17/images/007:1283.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "007:1283.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-17/cartas/002741.json",
+  "primary_image_url": "/legajos/legajo-17/images/007:1283.JPG"
+}

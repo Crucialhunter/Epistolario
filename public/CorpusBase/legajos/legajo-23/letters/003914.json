@@ -1,0 +1,37 @@
+{
+  "legajo_id": "23",
+  "id_carta": "3914",
+  "order_in_legajo": 123,
+  "signatura": "301:3327a.JPG",
+  "nombre_carta": "Carta de Persona desconocida a Pedro Santacilia y Pax",
+  "fecha_original": "12 de julio de 1660",
+  "lugar": "Madrid",
+  "remitente": "Persona desconocida",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Señor mío he visto al Sr. D. Pedro Villacampa y al Sr. don Rafael Vilosa y iusgo presiso el que ya procure que se lea mañana su memorial, por lo que puede ser no quiera hablar el vicecanciler en su venida de esa [?] al [?] motivo a ella el memorial que su So. dejo alla [?] diese al consejo he hablado con otra persona en este particular y con arta [1§] estraneza de cuanto ha podido [?] adlantar la malicia el discurso de su venida de esa he [?] lo que me ha dicho Juan aria lo referire a esa porque larga istoria que ha escrito y no correr priza la noticia y guárdeme Nro. Sr. a v. m. como deseo Madrid y julio a 12 de 1660 Servidor de v. m. que sus manos besa Don Francisco [?] [2§] Transcripción literal"
+  ],
+  "literal": [
+    "1. Señor mio he visto al Sr. d. Pe.[?]2. Villacanpa y al Sr. Don Rafa3. el Vilosa y iusgo presiso el4. que ya procure que se lea5. mañana su memorial, por6. lo que puede ser no quiera7. ablar el Sr. Vicecanciler en8. su venida de esa[?] [?]9. al[?] motivo a ella el memo10. rial que su So. dexo alla[?]11. diesse al Consejo12. He ablado co otra persona 13. en este particular y con arta [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "301:3327a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo23/301:3327a.JPG",
+      "url": "/legajos/legajo-23/images/301:3327a.JPG"
+    },
+    {
+      "filename": "302:3327b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo23/302:3327b.JPG",
+      "url": "/legajos/legajo-23/images/302:3327b.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "301:3327a.JPG",
+  "warnings": [],
+  "raw_source": "raw/legajos/legajo-23/cartas/003914.json",
+  "primary_image_url": "/legajos/legajo-23/images/301:3327a.JPG"
+}

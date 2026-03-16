@@ -1,0 +1,43 @@
+{
+  "legajo_id": "10",
+  "id_carta": "1222",
+  "order_in_legajo": 90,
+  "signatura": "158-389a",
+  "nombre_carta": "Carta de Pablo Corbella a Jerónimo Pelegrín de Aragüés",
+  "fecha_original": "3 de noviembre de 1668",
+  "lugar": "Maó",
+  "remitente": "Pablo Corbella",
+  "destinatario": "Jerónimo Pelegrín de Aragüés",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Amigo y señor mío, Desde Arenys de mar escribí a v. m. dándole aviso cómo me había venido en las galeras de Cerdeña con el señor príncipe de Pomblín por apartarme de ruidos. Ahora me vuelvo a Càller (Cagliari) con el duque de San German, que va por virrey, a proseguir los negocios del duque, mi señor. Allá me tendrá v. m. a su servicio y espero caso que v. m. no la haya enviado el que me envíe la tela de Mallorca para vestido de mujer (caso que no la haya remitido ya v.m. conforme la muestra que remití); y asimismo espero lo que v.m. me remita nuestra cuenta para saber cómo estamos. Yo he estado en Barcelona treinta y tres días sin levantarme de la cama, nueve veces sangrado y sin esperanza de vida. Dios ha sido servido dejarme acá, sea para saber agradecérselo. Me hallo convaleciente y con harta buena disposición para el mal que he pasado. V.m. me tiene a su servicio para lo que me quisiere mandar. Y se servirá dar muchos recados de mi parte a todos esos mis señores de casa, a toda la de v. m. Beso las manos rogando a Nuestro Señor los guarde en toda felicidad. Puerto Mahón y galera capitanía de Cerdeña, a 3 de noviembre de 1668. V. m. se sirva dar muchos recados de mi parte a los señores Armella, Costa y Pedro Sanchez. Beso a v. m. la mano. Su amigo y más servidor, Pablo Corbella Señor Jeronimo Pelegrin de Aragues [1§] [con otra letra]{CAT. Cartes de Jeroni Pelegri i altres papers de poca importància}. Transcripción literal"
+  ],
+  "literal": [
+    "1. Amigo y señor mio desde Arens de mar 2. escrivi a V.M. dandole aviso como me avia venido en 3. las galeras de Serdeña con el señor Principe de Pom 4. blin por apartarme de ruidos aora me buelvo a Callar 5. con el sr. Duque de Sanjerman que va por Virrey apro 6. seguir los negocios del sr. Duque mi sr. alla me tendra V.M. 7. a su sero y espero caso que V.M. no le aya embiado el 8. que me embie la tella de Mallorca para vestido de mu 9. jer caso que no le aya remitido ya vmd. conforme 10. la muestra que remiti y asi mesmo espero el que 11. vmd. me remita ntra. quenta para saver como 12. estamos=. Yo estado en Barcelona trenta y tres 13. dias sin levantarme de la cama nueve vezes sangra 14. do y sin esperanza de vida. dios a sido servido de 15. jarme aca sea para saver agradezerselo me allo 16. combaleziente y con arto buena disposicion para 17. el mal que epasado Vmd me tiene a su Servo para 18. lo que me quisiere mandar y se servira 19. dar muchos recados de mi parte a todos esos mis 20. señores de casa a toda la de V.M. veso las ma 21. nos rogando a ntro. señor los guarde en toda fe 22. lisidad. puerto Maon y Galera Capitana de Serde 23. ña a 3 de noviembre de 1668. V.M. se sirva sar mu 24. chos recados de mi parte a los señores armella costa y Pedro Sanchez. 25. Beso a V.M. la mano 26. su amigo y mas servidor 27. Pablo Cornella 28. [^Sr. Germo Pelegrin de Aragues^] [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "158-389a.jpg",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo10/158-389a.jpg",
+      "url": "/legajos/legajo-10/images/158-389a.jpg"
+    },
+    {
+      "filename": "159-389b.jpg",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo10/159-389b.jpg",
+      "url": "/legajos/legajo-10/images/159-389b.jpg"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "158-389a.jpg",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING",
+      "message": "Se detectaron caracteres sospechosos de encoding (4)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-10/cartas/001222.json",
+  "primary_image_url": "/legajos/legajo-10/images/158-389a.jpg"
+}

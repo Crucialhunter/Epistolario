@@ -1,0 +1,43 @@
+{
+  "legajo_id": "19",
+  "id_carta": "7672",
+  "order_in_legajo": 201,
+  "signatura": "350_7879a.JPG",
+  "nombre_carta": "Carta de Gabriel Seguí a Pedro Santacilia y Pax",
+  "fecha_original": "fecha sin especificar",
+  "lugar": "lugar sin especificar",
+  "remitente": "Gabriel Seguí",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Senor Sr. don Pedro vostra mercè sabrà com ahir mi senora la duquessa vingué amar i varam anar [?] un poc i a nal vaixell romangue un home i va dir que volia ara matar comtes i jo li vaig dir que jo no sabia da quina manera ho havíem da fer que vostra mercè ja sap mossèn agusti forer el que li escrigue que el que mos dona lo senyor michaell anglada anavem tingut damaster per provisions i sens això em som tingut d'anparar da dos-cents reials i jo estic molt espantat com v. m. nou a sabut i ja sap vostra mercè que els deu lliures del moro les ma demanan que vostra mercè ja sap que això as la primera cosa qui sa da donar i tanbe els moros sean da jodicar el que valen par-lo [?] que vostra mercè ja sap el que te da fer que lo treu i els parsina i els barils quant vingueran da ancos an lo punt ma vingueran que els dones els diners que diuen que noconeixen sinó a mi i parara no hi ha cosa ninguna mes sinó que li besam les mans tot i que nostre Senyor li dóna sanitat i vida El pratro Grabiel Saguï [1§] Senyor don Pedro v. m. em va dir que els qui eren dal Senyor parcurador reial quel i tramates ascrits els qui son romasos an mallorca son aquests batista boras i matia oliver Antoni xoro Bartomeu bosc quista nafrat i Rafel malaga estos altres sempre an dit que no volien deixar lo viatge fins i tant que vesan la cara da v. m. i son lorens alos i Rafel fiol i ioan batista huguet que li suplican a v. m. que tornant els diners que els perdó [2§] Transcripción literal"
+  ],
+  "literal": [
+    "1. Senor don pedro vosa marsa sabra com air mi senora la 2. duquesa vingue amar y varam anar [?] 3. un poc y a nal vaxel romangue un home y va dir 4. que volia ara matar comtes y io li vaix dir que 5. io no sabia da quina manera au aviam da fer que 6. vosa marse ya sap moson agusti forer lo que li ascrigue 7. que lo que mos dona lo señor michaell anglada anave8. m tingut damaster per provisions i sens axo am 9. som tingut de anparar da dosents reials i yo as10. tic molt aspantat com V. M. nou a sabut y ia sap 11. vosa marse que los deu liuras del moro las ma daman12. an que vosa marse ya sap que axo as la primera cosa 13. qui sa da donar y tanbe los moros sean da yodicar 14. lo que valen parlo [?] que vosa marse ya sap 15. lo que te da fer que lo treu y los parsina y los barils 16. quant vingueran da ancos an lo punt ma vinguer17. an quels donas los dines que diuan que no conexa18. n sino a mi i parara noia cosa ninguna mes sino 19. que li besam las mans tot i que nostre Senor li do20. na sanitat y vida 21. Lo pratro Grabi22. el Saguï [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "350_7879a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo19/350_7879a.JPG",
+      "url": "/legajos/legajo-19/images/350_7879a.JPG"
+    },
+    {
+      "filename": "351_7879b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo19/351_7879b.JPG",
+      "url": "/legajos/legajo-19/images/351_7879b.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "350_7879a.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-19/cartas/007672.json",
+  "primary_image_url": "/legajos/legajo-19/images/350_7879a.JPG"
+}

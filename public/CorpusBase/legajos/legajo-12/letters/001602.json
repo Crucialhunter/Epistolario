@@ -1,0 +1,48 @@
+{
+  "legajo_id": "12",
+  "id_carta": "1602",
+  "order_in_legajo": 111,
+  "signatura": "159_6195a.JPG",
+  "nombre_carta": "Carta de Francisco Gómez a Pedro Santacilia y Pax",
+  "fecha_original": "12 de diciembre de 1648",
+  "lugar": "Menorca",
+  "remitente": "Francisco Gómez",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Sr. D. Pedro Santacilia La galera que llegó en esta ciudad y se salió sin haberla querido dar guía se llegó en esta cala víspera de la Purísima y si en Mallorca hallo poco abrigo no fue menos el de Menorca al fin que ha sido posible guiarla. Venía en ella, entre otros pasajeros, una mujer que se llevó consigo mi Sra., la marquesa de los Velez, por ama de una niña esta me envió a decir que me traía unas cartas y deseoso de saber nuevas de las que han de ser huéspedas de v. s., si es que el cielo lo quiere, hice diligencias de tenerlas como en efecto pasadas por vinagre tinto me las entregaron. Son en respuesta de las que v. s. me hizo merced de encaminar y en suma se trata con todo conato de [1§] venir primero a Mallorca para besar las manos a mi Sra. doña Madalena y después en esta ínsula para despachar ciertos negocios, los cuales no digo a v. s. porque {CAT. como es bruixot ja endevina el que era o podia ser} si tuviere efecto será todo para servir a v. s. y pidenme que en todo caso les envíe persona de aquí para que vengan con ella y aunque no es dificultoso el hallar quien vaya lo viene a ser por falta de pasaje, por lo cual suplico a v. s. me haga merced de mandarme avisar si habrá esperanzas en esa ciudad de pasaje para cualquiera parte de España aunque sea para Málaga o más abajo y esto sea con toda brevedad por vía de Alcudia, porque por ese camino llegan aquí más presto las cartas de esa ciudad que al punto que supiere de v. s., el haber pasaje se partirá el hombre de aquí y se encaminará hacia Vélez, el blanco que es a donde se halla mi Sra. la marquesa, con que podrá dar la vuelta con las huéspedes [2§] referidas que son madre y hijas de bien y para bien y por si acaso, entretanto que v. s. me hace merced de avisarme se ofreciese alguna ocasión, remito a v. s. la que va con esta para que me haga merced de mandar darle buen aviso como de v. s. confío porque importa salgan del cuidado en que estarán por no haber aún tenido respuesta de estas cartas que se escribieron a los 18 de septiembre. No sé me ofrece otra cosa que suplicar a v. s. sino a la divina majestad me lo guarde los años de mi deseo. Menorca, Diciembre 12 de 1648. Servidor de v. s. que su mano besa Don Francisco Gomez [3§] Transcripción literal"
+  ],
+  "literal": [
+    "1. Sor dn Pedro Santasilia2. La Galera q llego en esta siudad y se3. salio sin aberla querido dar guia se4. llego en esta cala bispera de la puri5. sima y si en mallorca hallop oco abri6. go no fue menos el de menorca al fin7. q a sido posible guiarla, benia en8. ella entre otros pasajeros una mujer9. q se llebo consigo mi Sra, la marquesa de10. los beles por ama de una niña esta11. me inbio a desir q me traia unas cartas12. i deseoso de saber nuebas de las q an de ser13. guespedas de Vsa. Si es q el sielo lo quie14. re hize diliensias de tenerlas como en15. efecto pasadas por vinagre tinto me16. las entregaron son en rrespues[ta de]17. las q Vsa me hizo m[erce]d de enca[minar]18. i en suma se tracta con todo conato de [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "159_6195a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo12/159_6195a.JPG",
+      "url": "/legajos/legajo-12/images/159_6195a.JPG"
+    },
+    {
+      "filename": "160_6195b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo12/160_6195b.JPG",
+      "url": "/legajos/legajo-12/images/160_6195b.JPG"
+    },
+    {
+      "filename": "161_6195c.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo12/161_6195c.JPG",
+      "url": "/legajos/legajo-12/images/161_6195c.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "159_6195a.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-12/cartas/001602.json",
+  "primary_image_url": "/legajos/legajo-12/images/159_6195a.JPG"
+}

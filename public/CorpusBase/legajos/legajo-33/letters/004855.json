@@ -1,0 +1,43 @@
+{
+  "legajo_id": "33",
+  "id_carta": "4855",
+  "order_in_legajo": 49,
+  "signatura": "075:6771a.JPG",
+  "nombre_carta": "Carta de Joan Maltès a Pedro Santacilia y Pax",
+  "fecha_original": "28 de mayo de 1629",
+  "lugar": "Sin especificar",
+  "remitente": "Joan Maltès",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Senyor don Pedro per en Pere Vaquer he sabudes noves de v. md., del qual jo me'n som alegrat moltíssim, i em digué v. md. feia moltíssim per a mi el qual ne restaré obligat tota la vida. I ara està lo meu negoci a que estos dies me donaren nous antriats [?] i jo prenguí còpia d'ells i tot lo que diuen és cosa de no nada, que sols no diuen sinó que jo no feia viatge ningú i que era home que no feia que viure sobre dones, sens treballar. Això és cosa que no em dona pena. Tot lo Consell està per a en fer-me bona obra, sols lo virrei que està arrimat a l'opinió. Per ací es diu que sens falta alguna ve lo duc de Feria i lo comte mi senyor m'envia a dir que no mogués cosa ninguna i que no em dona pena de res, que ell ho acomodarà tot. I lo que a v. m. lo vull suplicar és que havent tingut la presó tan llarga i he gastat d'altra part molt amb còpies de processos, notaris, procurador, i enfermat, i de tal manera que he vingut a cansar tots mos amics, i d'altra part estic malíssim de dolor, per amor de Nostre Sr. m'afavoresca, que si no era per alguns amics, tinc per ací en la casa que la v. md. me dona una cosa, i l'altro altro, i tinc de passar amb aquella misèria i patesc per mon aliment lo que Déu sap. I així confiat de v. md., Ntre. Sr. lo guarde molts anys. De la presó, a 28 de maig 1629. de v. md. molt criat, Joan Maltes. De ma part beso les mans a tots els de casa. [1§] A mi senyor don Pedro Santacilia. Guarde Nostre Senyor. [2§] Transcripción literal"
+  ],
+  "literal": [
+    "1. Señor Don Pedro per en Pere Vaquer he sabudas noves de V.mè.2. del qual jo men som alegrat moltissim ym digue Vme. feya3. moltissim per amy el qual ne restare obligat tota la vida4. y ara esta lo meu negossi a que estos dias me donasen nous5. antriats y jo prengui copia de ells y tot lo que diuen6. es cosa de no nada que sols no diuen sino que jo no feya7. viatje ningu y que era ome que no feja que viura8. sobre dones sens treballar axo es cosa que nom dona9. pena tot lo Consell esta posa en fer me bona hobra10. sols lo vyrey que esta a reniat a la opinio per assi es11. diu que sens falta alguna ve lo duch de feyria y lo12. Compte mi Señor me envia a dir que no mogues cosa13. ninguna y que nom dona pena de res que ell ho acomodara 14. tot y lo que a Vme. lo vull suplicar es que avent15. tingut la presa tant llarga y egguestat de altra part16. molt ab copias de prossesos not[ar]is procurador y enfermati[?]17. de tal manera que he vingut a cançar tots mos amichs18. y de altra part estich malissim de dolor per amor19. de Ntre. Sr. me afavoresca que si no hera per alguns amichs20. tinch per assi en la casa que la V.me. dona una cosa y21. laltro altro y tinch de passar ab aquella miseria22. y patesch per mon aliment lo que deu sap y axi confiat23. de V.me. ntre. Sr. lo guarde molts annys de la preso a 28 de24. maig 162925. De V.me. Molt criat26. Joan Maltes27. De ma part beso las mans a tots los de casa [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "075:6771a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo33/075:6771a.JPG",
+      "url": "/legajos/legajo-33/images/075:6771a.JPG"
+    },
+    {
+      "filename": "076:6771b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo33/076:6771b.JPG",
+      "url": "/legajos/legajo-33/images/076:6771b.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "075:6771a.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-33/cartas/004855.json",
+  "primary_image_url": "/legajos/legajo-33/images/075:6771a.JPG"
+}

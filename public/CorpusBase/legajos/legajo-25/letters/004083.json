@@ -1,0 +1,48 @@
+{
+  "legajo_id": "25",
+  "id_carta": "4083",
+  "order_in_legajo": 17,
+  "signatura": "036_117a.JPG",
+  "nombre_carta": "Carta de Diego Matías de Aragüés a Jerónimo Pelegrín de Aragüés",
+  "fecha_original": "2 de marzo de 1667",
+  "lugar": "Madrid",
+  "remitente": "Diego Matías de Aragüés",
+  "destinatario": "Jerónimo Pelegrín de Aragüés",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Por Alicante he recibido las cartas de doce del pasado y me dice v. m. que solamente han recibido un pliego mío por Barcelona que me admira que no hayan llegado allá tantas como tengo escritas. Juzgo que ya las habrán recibido todas, que yo todos los pliegos que me han remitido he recibido. El Sr. don Nicolas todavía está indispuesto porque como vino con un poco de mal francés, ahora se le va curando en la misma casa de los pajes. Ayer me dijo el doctor Vera no era cosa de cuidado, que él le tenía para que quede bueno con que va tomando bebidas y otras cosas para expelir los humores y los días que conviene se está en la cama y los otros se levanta. Este mozo ha andado muy distraído de todas maneras y conforme la inteligencia que tengo ha malbaratado muchos reales de a ocho que estará aún debiendo muchas partidas y yo en esta parte no me doy entendido con él de lo que me ordena su padre guardare en todo su orden y en procurar se consiga su intento en lo del oficio. [1§] En orden a Seguals le veo no quiere volver de ninguna manera con don Nicolas, todavía le tengo en casa con que habrá de acomodarse acá con algún señor. El señor don Miguel Salva no trata aún de su jornada con que hasta que llegue allí obrará el virrey que hoy es. Yo estoy sobre el cuidado que me tiene escrito en orden a esto. Cuando ésta llegue ya v. m. habrá recibido mis cartas por Valencia y por Barcelona, en orden a los oficios que tenía allí Pedro Pelayo para que el Sr. don Pedro y v. m. me hagan merced de al virrey me ponga en la terna de ellos y en esto y en todo lo demás que tengo avisado me avisará. Me huelgo que el Sr. don Pedro haya agasajado como v. m. me dice al marques de Villaisidro y al hermano de don Josep Molina, que ya el vicecanciller lo sabe y me huelgo haya sido en esta ocasión. No se me ofrece otra cosa por ahora y guarde Dios a v. m. como deseamos Dña. Margarita y yo en compañía de mi sobrina y niños. Madrid a 2 de marzo de 1667. Las cartas que vinieron por Alicante luego las recibió el Sr. don Nicolás y como siempre es tardo en responder. Ahora no lo hace solo va una que tenía escrita ya. No se ha tomado resolución en el memorial de Bauza. Tío y servidor de v. m. Diego Matias de Aragues Sr. Jeronimo Pelegrin, mi sobrino [2§] A Jeronimo Pelegrin de Aragues, mi sobrino. Guarde Dios.Mallorca Transcripción literal"
+  ],
+  "literal": [
+    "1. Por Alicante he reçivido las cartas de doçe del passado y 2. me diçe Vmd. que solam[en]te han reçivido un pliego mio3. por Barçelona que me admira que no ayan llegado4. alla tantas como tengo escritas, Juzgo que ya las5. habran reçivido todas que yo todos los pliegos q6. me han remitido he reçivido=7. El Sr. Don Nicolas todavía esta indisp[ues]to8. porq como vino con un poco de mal françes9. aora se le va curando en la misma cassa de los Pajes10. Ayer me dixo el dotor Bera no era cossa de cuydado11. que el le tenía para que queda bueno con que va to-12. mando bevidas y otras cossas para expelir los hu13. mores y los dias que conviene se esta en la cama y14. los otros se levanta, este mozo ha andado muy distra15. ido de todas maneras y conforme la intiligençia16. que tengo a malvaratado muchos reales de a ocho que17. estara aun deviendo muchas partidas y yo enesta18. parte no me doy entendido con el de lo que me ordena19. Su Padre guardare en todo su orden y en procurar20. se consiga su intento en lo del off[ici]o [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "036_117a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo25/036_117a.JPG",
+      "url": "/legajos/legajo-25/images/036_117a.JPG"
+    },
+    {
+      "filename": "037_117b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo25/037_117b.JPG",
+      "url": "/legajos/legajo-25/images/037_117b.JPG"
+    },
+    {
+      "filename": "038_117c.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo25/038_117c.JPG",
+      "url": "/legajos/legajo-25/images/038_117c.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "036_117a.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (7)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-25/cartas/004083.json",
+  "primary_image_url": "/legajos/legajo-25/images/036_117a.JPG"
+}

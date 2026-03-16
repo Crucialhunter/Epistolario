@@ -1,0 +1,41 @@
+{
+  "legajo_id": "20",
+  "id_carta": "3151",
+  "order_in_legajo": 2,
+  "signatura": "028:5932.JPG",
+  "nombre_carta": "Carta de Vicente Bernavé de Escamilla a Pedro Santacilia y Pax",
+  "fecha_original": "fecha sin especificar",
+  "lugar": "lugar sin especificar",
+  "remitente": "Vicente Bernavé de Escamilla",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Transcripción literal"
+  ],
+  "literal": [],
+  "imagenes": [
+    {
+      "filename": "028:5932.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo20/028:5932.JPG",
+      "url": "/legajos/legajo-20/images/028:5932.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "028:5932.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    },
+    {
+      "code": "MISSING_LITERAL",
+      "message": "Transcripción literal vacía",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-20/cartas/003151.json",
+  "primary_image_url": "/legajos/legajo-20/images/028:5932.JPG"
+}

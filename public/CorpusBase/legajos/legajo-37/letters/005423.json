@@ -1,0 +1,37 @@
+{
+  "legajo_id": "37",
+  "id_carta": "5423",
+  "order_in_legajo": 2,
+  "signatura": "010:7a",
+  "nombre_carta": "Carta de Persona desconocida a Persona desconocida",
+  "fecha_original": "fecha sin especificar",
+  "lugar": "lugar sin especificar",
+  "remitente": "Persona desconocida",
+  "destinatario": "Persona desconocida",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Conta dels albarans s'han de fer en el car tolari del Bartomeu llompart de més del {ESP. gasto} de la casa del sendicat Primo per les porsasons de la vuitada del Corpus deu lliures dic [?] 10 ll s Mes dos lliures del dia de l'estrasio que en dona la casa dic [?] 2 ll s Mes una liura i deu sous de les lletres dic [?] 1 ll 10 s Mes quatre lliures i deu sous per vastir el criat dic [?] 4 ll 10 s Mes cinc lliures d'estrordinari en donada casa dic [?] 5 ll s Mes sis lliures i sisous per mans del dol ordinari que és la meitat de dit conta i l'altra mitatat (sic) el Sr. Gabriel Reines dic [?] 6 ll 6 s Mes cinc lliures tres sous per les mans dels capusos vax cosir per la meitat i altra meitat que son altres cinc lliures i tres sous [?] 5 ll 3 s [1§] Mes cinc lliures que en tocan da més del capus així com els consalles dic [?] 5ll s Mes de mon salari [?] 40 ll s (Mes m'ha de donar vuint sous dels capons de la [?] ll s) Mes per llantons per les alim aras i escudalletas i cotó [?] 2 ll s [2§] Transcripción literal"
+  ],
+  "literal": [
+    "1. Conta de los albarans se an de fer en lo car-2. tolari del Sr Bartomeu llonpart de3. mes del gasto de la casa del sendicat4. Primo per las po[^r]sasons de la vuytada del 5. Corpus deu liuras di[c]h???????????? 10 ll s6. M[es] dos liuras del dia de la 7. estrasio [^que en dona la casa] di[c]h ??????? 2 ll s8. M[es] una liura y deu sous de9. las lletras di[c]h ??????????????? 1 ll 10 s10. M[es] quatra liuras y deu sous11. per vastir el criat di[c]h ???????????? 4 ll 10 s12. M[es] sinch liuras de estrordinari13. en donada casa di[c]h ?????????????5 ll s14. M[es] sis liuras y sisous per mans15. de el dol ordinari que es la16. mitat de dit conta y la altra17. mitatat (sic) el Sr. Gab[r]iel Reynes18. di[c]h ??????????????????? 6 ll 6 s19. M[es] sinch liuras tres sous per las20. mans de los capusos vax cosir21. per la mitat y altra mitat que22. son altras sinch liuras y tres sous????????? 5 ll 3 s [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "010:7a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo37/010:7a.JPG",
+      "url": "/legajos/legajo-37/images/010:7a.JPG"
+    },
+    {
+      "filename": "011:7b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo37/011:7b.JPG",
+      "url": "/legajos/legajo-37/images/011:7b.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "010:7a.JPG",
+  "warnings": [],
+  "raw_source": "raw/legajos/legajo-37/cartas/005423.json",
+  "primary_image_url": "/legajos/legajo-37/images/010:7a.JPG"
+}

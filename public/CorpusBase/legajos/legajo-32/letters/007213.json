@@ -1,0 +1,32 @@
+{
+  "legajo_id": "32",
+  "id_carta": "7213",
+  "order_in_legajo": 213,
+  "signatura": "299:1971.JPG",
+  "nombre_carta": "Carta de Persona desconocida a Pedro Santacilia y Pax",
+  "fecha_original": "23 de octubre de 1666",
+  "lugar": "Palermo",
+  "remitente": "Persona desconocida",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "[1§] Transcripción literal"
+  ],
+  "literal": [
+    "1."
+  ],
+  "imagenes": [
+    {
+      "filename": "299:1971.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo32/299:1971.JPG",
+      "url": "/legajos/legajo-32/images/299:1971.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "299:1971.JPG",
+  "warnings": [],
+  "raw_source": "raw/legajos/legajo-32/cartas/007213.json",
+  "primary_image_url": "/legajos/legajo-32/images/299:1971.JPG"
+}

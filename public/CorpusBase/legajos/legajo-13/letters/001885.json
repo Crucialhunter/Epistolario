@@ -1,0 +1,38 @@
+{
+  "legajo_id": "13",
+  "id_carta": "1885",
+  "order_in_legajo": 160,
+  "signatura": "237:2389.JPG",
+  "nombre_carta": "Carta de Magín Ribes a Pedro Santacilia y Pax",
+  "fecha_original": "14 de julio de 1669",
+  "lugar": "Ibiza",
+  "remitente": "Magín Ribes",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Ilustre Sr. procurador real Con una de v. s. a me hallo de los 13 del pasado con la cual me participe de la desgana ha tenido con tantos dolores que el menor de ellos es de grandísimo sentimiento que solo el valor de v. s. lo podía resistir. Doy gracias a Dios de la mejoría que la goce v. s. para muchos años. bien cierto puede estar v. s. de que como a su mayor servidor y aficionado me habrá tocado más parte en el contento por el buen empleo del Sr. don Nicolas que lo goce por muchos años y con entera salud de que puede v. s. juntamente darme la enhorabuena que yo espero hacerle retorno de ella muy presto con los de vuestro dicho su nieto hágalo Dios como puede y guarde a v. s. como se lo suplico. Ibiza y julio a los 14 de 1669. De v. s. que sus manos besa Magin Ribes [1§] Transcripción literal"
+  ],
+  "literal": [
+    "1. Ilte. Sor. Pdor. Rl.2. Con una de VSa. me hallo de los 13 del passado=3. con la qual me partisipe de la desgana ha tenido4. con tantos dolores que el menor de ellos es5. de Grandiçimo Sentimiento que solo el valor6. de Vsa. lo podia Resistir Doj Gracias ha Dios7. de la mejoria que la gosse Vsa. Para muchos8. Años=9. Bien sierto puede estar Vsa. de que Como ha10. su major Servidor y hafiçionado meavra11. tocado mas parte en el Contento por el 12. buen en pleio del Sor Don nicolas que13. lo gosse por muchos Años y con entera sa14. lud de que puede Vsa. juntamente dar15. mela enorabuena que jo espero azerle=16. Ratorno de ella muj presto con los de17. Vro dichoso nieto hagalo Dios como pue18. de y gde a vsa. Como se lo Suplico Ivica19. y Julio a los 14 de 166920. de vsa. q s[u] ms b21. Magin Ribes [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "237:2389.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo13/237:2389.JPG",
+      "url": "/legajos/legajo-13/images/237:2389.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "237:2389.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-13/cartas/001885.json",
+  "primary_image_url": "/legajos/legajo-13/images/237:2389.JPG"
+}

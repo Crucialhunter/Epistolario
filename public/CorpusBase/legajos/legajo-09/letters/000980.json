@@ -1,0 +1,43 @@
+{
+  "legajo_id": "9",
+  "id_carta": "980",
+  "order_in_legajo": 15,
+  "signatura": "002-2a",
+  "nombre_carta": "Carta de Diego Álvarez a Arnau de Santacilia",
+  "fecha_original": "9 de julio de 1673",
+  "lugar": "Milán",
+  "remitente": "Diego Álvarez",
+  "destinatario": "Arnau de Santacilia",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Señor mío, Remito a v. m. la patente del alférez Juan de Torres para el socorro y por [?] pues hasta ahora no ha salido el decreto para sentar a Juan Alonso y Pedro Conchín y Juan Tomás Batalla, pues todo es informes y más informes sin resolución de sentarlos, que es necesario que los capitanes el día de hoy gasten su dinero y no se les siente los soldados: todo va bien mal y es necesario tener paciencia por fuerza. Aquí no hay cosa de nuevo; sobre el ir a España [a] hacer la leva antes creo según se dice que todo se desvanecerá, de lo cual me holgara infinito, y a boca le informará [a] v. m. [1§] el capitán don Francisco Villalonga, portador de esta. Yo le he dado como dirá a v. m. dos doblas de Italia, que son 44 libras y al sargento Romero una dobla de España, que en todo son 67 libras. Suplico a v. m. haga que se me remita que le aseguro de servidor suyo las he menester, y a mí mandarme en lo que fuere servido, que lo haré con muy entera voluntad. Guarde Dios a v. m. muchos años. Milán, a 9 de julio 1673. Amigo y servidor de v. m. que sus manos besa, Diego Alvarez [Añadido al margen izquierdo] Suplico a v. m. se remita esa carta que vaya segura. Señor capitán don Arnau de Santacilia Transcripción literal"
+  ],
+  "literal": [
+    "1. Señor mío remíto a Vmd. lapatente 2. del Alfz Juan de tores Para el Socorro 3. y Poron [?] pues asta Noa salído 4. el decreto para sentar aJuan alonso 5. y Pedro conchín y Juan Thomas Ba6. talla Pues todo es ynformes y mas 7. ynformes sin Resoluçíon desentar 8. los que es neçesarío quelos Capnes el 9. día deoy gasten su dínero y noselesí10. ente los soldados todoba bíen mal 11. y es neçesarío tener paçíençía porfu12. erça= aquino ay Cosa denuevo so13. bre elír aespaña açer la leva an14. tes Eno[?] segun sedíçe quetodo sedes15. baneçera delo qual meolgara yn16. finíto yaboca leínformaraVmd. [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "002-2a.jpg",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo09/002-2a.jpg",
+      "url": "/legajos/legajo-09/images/002-2a.jpg"
+    },
+    {
+      "filename": "003-2b.jpg",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo09/003-2b.jpg",
+      "url": "/legajos/legajo-09/images/003-2b.jpg"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "002-2a.jpg",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-09/cartas/000980.json",
+  "primary_image_url": "/legajos/legajo-09/images/002-2a.jpg"
+}

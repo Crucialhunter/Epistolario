@@ -1,0 +1,50 @@
+{
+  "legajo_id": "26",
+  "id_carta": "4354",
+  "order_in_legajo": 89,
+  "signatura": "127:3448.JPG",
+  "nombre_carta": "Carta de Pedro Santacilia y Pax a Marquès de Vilafranca",
+  "fecha_original": "11 de septiembre de 1640",
+  "lugar": "Vinarós",
+  "remitente": "Pedro Santacilia y Pax",
+  "destinatario": "Marquès de Vilafranca",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Una galeota tiene v. e. en Mallorca, que se va perdiendo con todo lo necesario, sóolo se habrá de dar carena y poner chusma, que de marineros y soldados no faltarán, si a v. e. le parece tendrá más segura mi persona en ella que a un bergantín, a sus pies está, con la fidelidad de perro antiguo de casa. Vinarós 11 Septiembre 1640. Sr. don Pedro Santacilia y Pax Sr. marques de Vilafranca, mi Sr. No le haré burla de sus amigos La carta que va con esta fue a buscar a v. m. a Rosas con una faluca mía y ha vuelto así y me alcanzado aquí. Transcripción literal"
+  ],
+  "literal": [
+    "1. Una galeota tiene V.Exa. en2. Mallorca, que se va perdien3. do, con todo lo nesesario4. solo se habra de dar care5. na y poner xusma, que6. de marineros y soldados,7. no faltaran, si a Vexa.8. le parese tendra mas se9. gura mi persona en ella10. que a un Bergantin, a sus11. pies esta, con la fidelidad12. de Perro antigo de casa13. Binaros 11 sete. 164014. Don Pedro Sta.Cilia y Pax15. S. marques de Villa fª mi Sr.16. [^No le hare17. burla de 18. sus amigos19. La carta que ba con esta fue a buscar20. a Vm. a Rosas con una faluga21. mia y ha buelto assi y me alcancado22. aquí] [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "127:3448.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo26/127:3448.JPG",
+      "url": "/legajos/legajo-26/images/127:3448.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "127:3448.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    },
+    {
+      "code": "IMAGE_DOWNLOAD_FAIL",
+      "message": "HTTP 404",
+      "context": {
+        "url": "http://santacilia.info/intranet2/img/Legajo26/127:3448.JPG"
+      }
+    },
+    {
+      "code": "IMAGE_COUNT_MISMATCH",
+      "message": "Imágenes detectadas (1) != descargadas (0)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-26/cartas/004354.json",
+  "primary_image_url": "/legajos/legajo-26/images/127:3448.JPG"
+}

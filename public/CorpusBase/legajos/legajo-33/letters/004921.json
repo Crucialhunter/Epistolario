@@ -1,0 +1,38 @@
+{
+  "legajo_id": "33",
+  "id_carta": "4921",
+  "order_in_legajo": 113,
+  "signatura": "174:6837.JPG",
+  "nombre_carta": "Carta de Antoni Amorós a Pedro Santacilia y Pax",
+  "fecha_original": "9 de abril de 1633",
+  "lugar": "Madrid",
+  "remitente": "Antoni Amorós",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Sr. Capità la de v. m. he rebuda junt amb les ordres de que v. m. ma feta mercè ampleiar-me i manar-me servir-lo que al serviré han molt grandi si em gust que dem olt tenms desitj servir-lo i mane en totes ocasions han quant as dels saldats faré com a cosa mia pròpia voldria foson molts han que està ciutat delcudia noi a ningun bandatgat tingut ni adelat com dic faré el que podré han servirllo quant v. m. vinga al cudia me farà v. m. mersé honrame una pobra casa que és de v. m. que. escrit a Miquel lopes o suplica a v. m. han lo {ESP. demés} me mane d'esta ciutat delcudia a 9 de bril 1633 Sarvidor de v. m. Antoni Amorós Sr. don Pedro Santacilia Capità d'infanteria [1§] Transcripción literal"
+  ],
+  "literal": [
+    "1. Sor. Capità le de Vm he rebude junt ab2. les ordes de que Vm ma feta mersa anpleiar-me3. y manar-me sarvir-lo que al sarvire an molt grandi4. sim gust que dem olt tenms desige sarvirlo y mane an5. totas ocasions an quant as de los saldats fare com6. a cose mia propia voldria foson molts an questa7. ciutat delcudia noi a nigun bandatgat tingut8. ni adelat com dich fare lo que pore an sarvirllo9. quant Vm vinga an al cudia me fara Vm mersè10. onrame une pobra case ques de Vm que [...]11. ascrit a m[ique]l lopes o suplica a vm an lo demes me12. mane desta ciutat delcudia a 9 de bril 163313. Sarvidor de Vm14. Antoni Amorós15. Sor don Pedro Sta Silia16. Capità de infanteria [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "174:6837.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo33/174:6837.JPG",
+      "url": "/legajos/legajo-33/images/174:6837.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "174:6837.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-33/cartas/004921.json",
+  "primary_image_url": "/legajos/legajo-33/images/174:6837.JPG"
+}

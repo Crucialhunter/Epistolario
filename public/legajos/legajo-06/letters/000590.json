@@ -1,0 +1,38 @@
+{
+  "legajo_id": "6",
+  "id_carta": "590",
+  "order_in_legajo": 29,
+  "signatura": "111-61a",
+  "nombre_carta": "Carta de conde de M[??] a Cecilia Zaforteza y Sureda de Sant Martí",
+  "fecha_original": "fecha sin especificar",
+  "lugar": "Barcelona",
+  "remitente": "conde de M[??]",
+  "destinatario": "Cecilia Zaforteza y Sureda de Sant Martí",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Tía y señora, Recibo la de v. s. del día 8 del corriente y con ella la fatal noticia de la muerte de mi querido amigo d. Gabriel de Berga (lo tenga Dios en el Cielo). Aseguro a v. s. he sentido de veras su muerte y que acompaño a v. s. en la justa pena en que por tal motivo la considero. No será fácil que yo olvide un amigo que tanto quería y esté v. s. cierta le tendré muy presente en mis pobres oraciones. Y lo mismo ofrezco a v. s. de parte de mi madre y sa. y mi parienta, que le repiten a v. s. el pésame [Guarde Dios?] a v. s. me Transcripción literal"
+  ],
+  "literal": [
+    "1. Tia y señora: recibo la de V.S. del 2. dia 8 del corriente y con ella la 3. fatal noticia de la muerte de 4. mi querido Amigo Dn. Gabriel 5. de Berga (lo tenga Dios en el 6. Cielo) asseguro a V.S. he senti- 7. do de veras su muerte y q acom- 8. paño á V.S. en la justa pena en 9. que por tal motivo la concidero 10. no serà facil que yo olvide un 11. amigo que tanto queria y estè 12. V.S. cierta le tendré muy pre- 13. sente en mis pobres oraciónes 14. y lo mismo ofresco á V.S. de par- 15. te de mi Madre y S< eñor>a y mi Pa- 16. rienta que le repiten á V.S. el 17. pesame [Guarde Dios] á V.S. me [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "111-61a.jpg",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo06/111-61a.jpg",
+      "url": "/legajos/legajo-06/images/111-61a.jpg"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "111-61a.jpg",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-06/cartas/000590.json",
+  "primary_image_url": "/legajos/legajo-06/images/111-61a.jpg"
+}

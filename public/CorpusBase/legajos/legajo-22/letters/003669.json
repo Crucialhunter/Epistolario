@@ -1,0 +1,47 @@
+{
+  "legajo_id": "22",
+  "id_carta": "3669",
+  "order_in_legajo": 32,
+  "signatura": "085:5031a.JPG",
+  "nombre_carta": "Carta de Nicolau Burgues a Pedro Santacilia y Pax",
+  "fecha_original": "29 de marzo de 1632",
+  "lugar": "Mallorca",
+  "remitente": "Nicolau Burgues",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Lletra bastant complicada [1§] Transcripción literal"
+  ],
+  "literal": [
+    "1. [Lletra bastant complicada]"
+  ],
+  "imagenes": [
+    {
+      "filename": "085:5031a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo22/085:5031a.JPG",
+      "url": "/legajos/legajo-22/images/085:5031a.JPG"
+    },
+    {
+      "filename": "086:5031b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo22/086:5031b.JPG",
+      "url": "/legajos/legajo-22/images/086:5031b.JPG"
+    },
+    {
+      "filename": "087:5031c.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo22/087:5031c.JPG",
+      "url": "/legajos/legajo-22/images/087:5031c.JPG"
+    },
+    {
+      "filename": "088:5031d.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo22/088:5031d.JPG",
+      "url": "/legajos/legajo-22/images/088:5031d.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "085:5031a.JPG",
+  "warnings": [],
+  "raw_source": "raw/legajos/legajo-22/cartas/003669.json",
+  "primary_image_url": "/legajos/legajo-22/images/085:5031a.JPG"
+}

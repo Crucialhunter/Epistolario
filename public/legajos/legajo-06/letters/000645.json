@@ -1,0 +1,43 @@
+{
+  "legajo_id": "6",
+  "id_carta": "645",
+  "order_in_legajo": 144,
+  "signatura": "215-110a",
+  "nombre_carta": "Carta de Tomás Mariano Quint Zaforteza a Cecilia Zaforteza y Sureda de Sant Martí",
+  "fecha_original": "11 de julio de 1771",
+  "lugar": "Vinagrella",
+  "remitente": "Tomás Mariano Quint Zaforteza",
+  "destinatario": "Cecilia Zaforteza y Sureda de Sant Martí",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Tia Cecília, Esper esta la trobarà amb perfecta salut. Jo la {ESP. gos} bona, a Déu gràcies, en companyia de mon pare i ma mare i germans. Avui se parteix per Ciutat en Joan Puig i els al·lots. I en Ramonet s’és adobat molt. Despús-ahir vàrem anar a fer visita en es Güells, de part de tots rebrà moltes memòries i de mi a son gust i les darà en el Sr. D. Gabriel. Déu la guardi molts anys. València i juliol 11 de 1771 [1§] Son nebot qui més l’estima de cor, Tomàs Mariano Quint Zaforteza Tia Cecília Transcripción literal"
+  ],
+  "literal": [
+    "1. Tia Cecilia esper esta la trobera 2. ab perfeta salud jo la gos bona á 3. Deu gracias en Compeñia de Mon 4. Para y Memara y germans 5. Vuy se 6. pertex per Ciutat en Juan putx y 7. los allots y en Remonet se es ado- 8. bat molt despuis ayr varam anar 9. á fer vesita á nes guells de 10. part de tots rebra m ms y de 11. mi á son gust y las dara á nel 12. Sr. Dn. Gabriel Deu la Gde 13. ms as V< [?]>lla y Juliol 11 de 1771 [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "215-110a.jpg",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo06/215-110a.jpg",
+      "url": "/legajos/legajo-06/images/215-110a.jpg"
+    },
+    {
+      "filename": "216-110b.jpg",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo06/216-110b.jpg",
+      "url": "/legajos/legajo-06/images/216-110b.jpg"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "215-110a.jpg",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (2)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-06/cartas/000645.json",
+  "primary_image_url": "/legajos/legajo-06/images/215-110a.jpg"
+}

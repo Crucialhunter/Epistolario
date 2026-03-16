@@ -1,0 +1,38 @@
+{
+  "legajo_id": "18",
+  "id_carta": "3107",
+  "order_in_legajo": 129,
+  "signatura": "226:4946.JPG",
+  "nombre_carta": "Carta de Julián Vila a Pedro Santacilia y Pax",
+  "fecha_original": "6 de septiembre de 1664",
+  "lugar": "Valencia",
+  "remitente": "Julián Vila",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Ilustrísimo Esta halle a v. s. : con la salud que este su más cierto servidor le desea etc. S Transcripción literal"
+  ],
+  "literal": [
+    "1. Illmo Sr 2. Esta halle a VS: conla salut queste 3. su mas cierto servidor le dezea ettc. 4. S5. pelegrin miamigo que scriviesse 6. a VS. (siendo verdad que por esre mes7. mo vaxel tiene ja scrito) dandole 8. a VS. aviso como avia llegado. Lo ago 9. dandole notisia como se partio Ge=10. ronimo sabado, alas sinco de la tarde 11. con una galera de manuel Christoval 12. en Compañia de unos cavalleros de = 13. Valencia; no tengo mas de que avisar 14. a VS. jansido ifin suplicando me 15. mande, enlo desu Gusto, que sera 16. servido conla puntualidad, quese 17. pudiere jo Sr sidios quiere me 18. partire ComCamps, o barselo, y llevare 19. Cartasa VS de Geronimo ymisr 20. don Nicolas cuias vidas me gde 21. alcielo como dezeo de Vala y 7bre 22. a 6. de 1664 23. humilde sdor de VS 24. q l[ M[]B[] 25. julian vila particate en medicina 26. [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "226:4946.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo18/226:4946.JPG",
+      "url": "/legajos/legajo-18/images/226:4946.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "226:4946.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-18/cartas/003107.json",
+  "primary_image_url": "/legajos/legajo-18/images/226:4946.JPG"
+}

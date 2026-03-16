@@ -1,0 +1,43 @@
+{
+  "legajo_id": "6",
+  "id_carta": "760",
+  "order_in_legajo": 23,
+  "signatura": "447-221a",
+  "nombre_carta": "Carta de María Palomino i Clarás a Cecilia Zaforteza y Sureda de Sant Martí",
+  "fecha_original": "fecha sin especificar",
+  "lugar": "Palma",
+  "remitente": "María Palomino i Clarás",
+  "destinatario": "Cecilia Zaforteza y Sureda de Sant Martí",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Mi señora da. Cecilia. Amiga y señora mía, Ya ve v. s. cómo está el tiempo y que esta noche y las dos del carnaval no será posible ir a palacio sin coche, en cuyo supuesto y no tener yo más que a v. s., dé mi satisfacción a quien suplicar me lo deje. Lo ejecuto por este para que me favorezca si no le sirve de embarazo y puede venir aquí a mi casa a las ocho y media. Y si no [1§] pudiese v. s. favorecerme, se servirá avisármelo pronto para saber lo que he de hacer. Y perdone tantas molestias y mande a su afectísima servidora y amiga que sus manos besa. . Maria Manuela Palomino y Claras Mi señora da. Cecilia Forteza Transcripción literal"
+  ],
+  "literal": [
+    "1. Mi S<eñor>a Da. Cicilia, 2. amiga y S< eñor>a mia, ya 3. ve V.S. como esta el t< iem>po 4. y que esta Noche, y las 5. dos del Carnabal, no 6. sera posible yr á Pa- 7. lazio, sin coche, en 8. cuyo sup< ues>to y no tener 9. yo mas q< u>e a V.S. de 10. mi satisfacion a q< uie>n 11. suplicar me lo deje 12. lo executo por este 13. para q< u>e me favoresca 14. si no le sirve de enba- 15. razo y puede benir aq< u>i 16. a mi Casa a las ocho 17. y media y si no pu- [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "447-221a.jpg",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo06/447-221a.jpg",
+      "url": "/legajos/legajo-06/images/447-221a.jpg"
+    },
+    {
+      "filename": "448-221b.jpg",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo06/448-221b.jpg",
+      "url": "/legajos/legajo-06/images/448-221b.jpg"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "447-221a.jpg",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (3)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-06/cartas/000760.json",
+  "primary_image_url": "/legajos/legajo-06/images/447-221a.jpg"
+}

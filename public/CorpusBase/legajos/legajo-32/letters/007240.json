@@ -1,0 +1,37 @@
+{
+  "legajo_id": "32",
+  "id_carta": "7240",
+  "order_in_legajo": 222,
+  "signatura": "341:1998a.JPG",
+  "nombre_carta": "Carta de Joan Prats a Pedro Santacilia y Pax",
+  "fecha_original": "8 de diciembre de 1666",
+  "lugar": "Barcelona",
+  "remitente": "Joan Prats",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Transcripción literal"
+  ],
+  "literal": [
+    "1. 1."
+  ],
+  "imagenes": [
+    {
+      "filename": "341:1998a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo32/341:1998a.JPG",
+      "url": "/legajos/legajo-32/images/341:1998a.JPG"
+    },
+    {
+      "filename": "342:1998b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo32/342:1998b.JPG",
+      "url": "/legajos/legajo-32/images/342:1998b.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "341:1998a.JPG",
+  "warnings": [],
+  "raw_source": "raw/legajos/legajo-32/cartas/007240.json",
+  "primary_image_url": "/legajos/legajo-32/images/341:1998a.JPG"
+}

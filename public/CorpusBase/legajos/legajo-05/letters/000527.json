@@ -1,0 +1,37 @@
+{
+  "legajo_id": "5",
+  "id_carta": "527",
+  "order_in_legajo": 6,
+  "signatura": "32-13a copy",
+  "nombre_carta": "Carta de Joan Baptista Zaforteza a No consta",
+  "fecha_original": "fecha sin especificar",
+  "lugar": "lugar sin especificar",
+  "remitente": "Joan Baptista Zaforteza",
+  "destinatario": "No consta",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Que traigan dos candeleros de plata con sus velas. Enviarán el cajón con los cubiertos y cucharones. [1§] [A lápiz. Mano más moderna] Juan Zaforteza. [?] Transcripción literal"
+  ],
+  "literal": [
+    "1. que traygan dos 2. candeleros de pla- 3. ta con sus velas 4. embiaran el ca- 5. jon con los cubi- 6. ertos y cucharones [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "32-13a copy.gif",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo05/32-13a copy.gif",
+      "url": "/legajos/legajo-05/images/32-13a copy.gif"
+    },
+    {
+      "filename": "33-13b copy.gif",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo05/33-13b copy.gif",
+      "url": "/legajos/legajo-05/images/33-13b copy.gif"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "32-13a copy.gif",
+  "warnings": [],
+  "raw_source": "raw/legajos/legajo-05/cartas/000527.json",
+  "primary_image_url": "/legajos/legajo-05/images/32-13a copy.gif"
+}

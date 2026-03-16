@@ -1,0 +1,74 @@
+{
+  "legajo_id": "26",
+  "id_carta": "4339",
+  "order_in_legajo": 75,
+  "signatura": "105:3433a.JPG",
+  "nombre_carta": "Carta de Lluís Gisbert a Pedro Santacilia y Pax",
+  "fecha_original": "12 de diciembre de 1639",
+  "lugar": "Berasain",
+  "remitente": "Lluís Gisbert",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Por carta de v. m. para el Sr. don Alonso he visto que haya quejas en Pamplona de que se hagan desórdenes en este cuartel. Certífico a v. m. no son soldados de esta compañía que el miércoles a la noche se murmuró que habían quitado dos reales de a ocho a unos arrieros [?] y tiraron un tiro los delincuentes y dieron una cuchilada a un hombre que todo esto sucedió debajo del lugar de [?] cuartel de los nuestros donde salió el cabo de escuadra y conoció los soldados que eran los dos de nombre Jaime Pujadas, el otro Vana [?] los otros no se conocen de nombre, a los cuales el jueves Sr. D. Pedro Santacilia [1§] por la mañana que era el siguiente día les hallé en un cuartel donde durmieron y les dije que se fueran a su cuartel, que no vieniesen sin licencia por escrito que es lo que v. m. ha mandado y para ponerles más temor les dije que me había dado v. m. orden que prendiera a los soldados que viniesen en este cuartel sin licencia por escrito y antes de salirme se fueron y les dije el alboroto que había habido y la común [?] era que había un hombre muerto y me dijeron que no había tal, pero me pareció habían estado inquietos. Aquí se tiene el mayor cuidado que se puede [2§] ninguno con más deseos que el Sr. don Alonso y yo de mi parte lo que se puede con que al día de hoy esta el cuartel el más quieto que se puede. Dios lo conserve y a v. m. en que me mande lo de su gusto, de Berasain y diciembre a 12 de 1639. Servidor de v. m. Lluis Gisbert Transcripción literal"
+  ],
+  "literal": [
+    "1. Por carta de Vm para el Sr.2. don Alonso e visto que aia quexas en3. panplona de que se agan desordenes4. en este cuartel sertifico a Vm no son5. soldados de esta conpania que el mier6. coles a la noche se murmuro que7. avian quitado dos reales de a [o]cho a8. unos arrieros[?] y tiraron un tiro los9. delinquentes y dieron una cuchilada10. a un honbre que todo esto sucedio 11. debaxo del lugar de pueio cuartel12. de los nuestros donde salio el cabo13. descuadra y conosio los soldados que14. erran los dos de nombre jaime puiadas15. el otro Vana[?] los otros no se conosen16. de nonbre a los cuales el jueves17. Sor. d. Pº Santa Cillia [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "105:3433a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo26/105:3433a.JPG",
+      "url": "/legajos/legajo-26/images/105:3433a.JPG"
+    },
+    {
+      "filename": "106:3433b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo26/106:3433b.JPG",
+      "url": "/legajos/legajo-26/images/106:3433b.JPG"
+    },
+    {
+      "filename": "107:3433c.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo26/107:3433c.JPG",
+      "url": "/legajos/legajo-26/images/107:3433c.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "105:3433a.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    },
+    {
+      "code": "IMAGE_DOWNLOAD_FAIL",
+      "message": "HTTP 404",
+      "context": {
+        "url": "http://santacilia.info/intranet2/img/Legajo26/105:3433a.JPG"
+      }
+    },
+    {
+      "code": "IMAGE_DOWNLOAD_FAIL",
+      "message": "HTTP 404",
+      "context": {
+        "url": "http://santacilia.info/intranet2/img/Legajo26/106:3433b.JPG"
+      }
+    },
+    {
+      "code": "IMAGE_DOWNLOAD_FAIL",
+      "message": "HTTP 404",
+      "context": {
+        "url": "http://santacilia.info/intranet2/img/Legajo26/107:3433c.JPG"
+      }
+    },
+    {
+      "code": "IMAGE_COUNT_MISMATCH",
+      "message": "Imágenes detectadas (3) != descargadas (0)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-26/cartas/004339.json",
+  "primary_image_url": "/legajos/legajo-26/images/105:3433a.JPG"
+}

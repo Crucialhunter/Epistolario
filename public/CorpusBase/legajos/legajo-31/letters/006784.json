@@ -1,0 +1,38 @@
+{
+  "legajo_id": "31",
+  "id_carta": "6784",
+  "order_in_legajo": 24,
+  "signatura": "033:1535.JPG",
+  "nombre_carta": "Carta de Luis de Aragón (VII duque de Cardona) a Pedro Santacilia y Pax",
+  "fecha_original": "28 de diciembre de 1660",
+  "lugar": "Madrid",
+  "remitente": "Luis de Aragón (VII duque de Cardona)",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "recibo la enhorabuena que v. s. me da, de mi nuevo estado los que más fuéremos servirán a v. s. mucho mee holgado este aquí su hijo de v. s. que me ha parecido famosa cosa el que se crie en esta corte pues los muchachos se hacen en ella a la urbanidad en lo que v. s. me quisiere advertir de su gusto desearé lograrle. Guarde Dios a v. s. muchos años Madrid y dice. 28 de 1660 Sr. don Luis de Aragón Sr. D. Pedro de Santacilia y Pax Transcripción literal"
+  ],
+  "literal": [
+    "1. Rezivo lanorabuena que VS. me da, de mi nuebo 2. estado los que mas fueremos serviran a VS. mucho 3. mee olgado este aqui su hijo de VS. que mea parezido 4. famosa cosa el que se crie enesta corte pues los 5. muchachos se hazen en ella a la urbanidad en 6. lo que VS. me quisiere adbertir de su gusto 7. deseare lograrle guarde Dios a VS. muchos 8. años Madrid y dize. 28 de 1660 9. Don Luys de Aragon 10. Sr. D. Pedro de Sta. Çiçilia y Pax [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "033:1535.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo31/033:1535.JPG",
+      "url": "/legajos/legajo-31/images/033:1535.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "033:1535.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-31/cartas/006784.json",
+  "primary_image_url": "/legajos/legajo-31/images/033:1535.JPG"
+}

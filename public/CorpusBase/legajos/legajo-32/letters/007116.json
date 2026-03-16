@@ -1,0 +1,38 @@
+{
+  "legajo_id": "32",
+  "id_carta": "7116",
+  "order_in_legajo": 1,
+  "signatura": "152:1874.JPG",
+  "nombre_carta": "Carta de Nicolás de Santacilia y Togores a Juan Seguals",
+  "fecha_original": "fecha sin especificar",
+  "lugar": "Madrid",
+  "remitente": "Nicolás de Santacilia y Togores",
+  "destinatario": "Juan Seguals",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Envíame a decir si Jerónimo esta aquí y si estuviere dile que me envíe el vestido y lo demás; y si no dilo a Diego Matias, y envíamelo tú lo más presto que pudieres, y mira que te lo encargo a ti. A Diego Matias y a la demás gente les darás muchos recaudos de mi parte. Dios te guarde como deseo. Si hubiere venido algún caballero de Mallorca envíamelo a decir para que les escriba, y no me dejes de escribir. Don Nicolas de Santacilia El dinero que Jerónimo me había de dar en la plazuela de palacio envíamelo porque él me dijo que me lo enviará. A Juan Saguales [1§] Transcripción literal"
+  ],
+  "literal": [
+    "1. En biame a desir si geronimo esta 2. aqui y si estuviere dile que me en3. bie el vestido, y lo demas, y si no 4. dilo a diego matias, y enbiame lotu5. lo mas presto que pudieres y mi6. ra que telo encargo a ti, a diego mati7. as, y a la demas gente les daras 8. muchos recaudos de mi parte 9. Dios te guarde como deseo 10. si huviere venido algun cavalle11. ro de mallorca enbiamelo a desir 12. para que les escriva y no me de 13. yes de escrivir14. Don Nicolas de Sta. Cilia 15. [en el marge esquerre] 16. El dinero que Geronimo me avia de 17. dar en la plasuela de Palacio en bia18. melo por que el me digo que me lo 19. enbiara 20. a Juan Saguals [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "152:1874.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo32/152:1874.JPG",
+      "url": "/legajos/legajo-32/images/152:1874.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "152:1874.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-32/cartas/007116.json",
+  "primary_image_url": "/legajos/legajo-32/images/152:1874.JPG"
+}

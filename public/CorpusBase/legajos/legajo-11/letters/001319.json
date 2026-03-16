@@ -1,0 +1,48 @@
+{
+  "legajo_id": "11",
+  "id_carta": "1319",
+  "order_in_legajo": 88,
+  "signatura": "154:5179a.JPG",
+  "nombre_carta": "Carta de Bartomeu Domènech a Pedro Santacilia y Pax",
+  "fecha_original": "29 de julio de 1643",
+  "lugar": "Palma",
+  "remitente": "Bartomeu Domènech",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Tant cansat estic d'estar en Mallorca com es pot pensar i que cada hora i ha confusions i ningú vol esser reprès si no cada un vol se governar per si mateix. Avui dematí com tocaven la batalla de que era ja clar don Pedro Espanyol venia de casa la bagassa quan fou davant casa son Anglada li tiraren una arcabussada que ha tinguda gran sort com l'ha enlardat una bala més gran que una balena sobre la mamella dreta, no és cosa de consideració dins Déu ho Sr. don Pedro Santacilia [1§] dotze dies estarà bo ha li tirat un amic nostre no coneixent-lo i cada dia se li giren d'estos de nostres i que no hi ha cap. Dos dies ha que enterraren el Sr. Llorenc Mercadal el capellà li errà la cura que sempre ha dit que no era res fins al dia que morí. Ha se li ha feta una sepultura molt honrosa i al sr- Bartolome ja és tractat com a qui és tant en l'assistència com en el {ESP. demés} . Don Joan Miquel m'aparte diu de vares d'anar aquí jo em volia embarcar amb dit Sr. Mercadal i don Joan Miquel no ha volgut i el Sr. Nicolau també mateix es de parar que jo l'aguardi. David i Barona de qui demà seran ací en la [2§] ciutat per embarcar-se el David ja és al rafal de l'ardiaca Forteza i el Barona de qui demà també mateix hi serà en esser embarcats aleshores tractaran d'anar. A qui Déu ho encamini i guardi a v. s. en companyia d'aqueixos mi senyora a qui besa les mans. Ciutat 29 juliol 1643. Bartolome Domenech [3§] Transcripción literal"
+  ],
+  "literal": [
+    "1. Tant cansat stich de estar 2. en Mallorca com lo pot 3. pensar y que cada orra y 4. ha confosions y nigu vol 5. esar rayras si no cada 6. un vol se governar y si 7. un el demati com tocavan los 8. don Pedro Espanyol vania de 9. cassa la bagassa quant 10. fonch de vant cassa son 11. Anglada li tiraren una 12. arcabusada que ha tin 13. guda gran sort com lo 14. ha enlardat una balla 15. mes gran que una valla 16. na sobra la mamella 17. drata no es cosa de 18. considaratio dins deu ho 19. [^Sr, don Pedro Sta. Silia^]/p> [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "154:5179a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo11/154:5179a.JPG",
+      "url": "/legajos/legajo-11/images/154:5179a.JPG"
+    },
+    {
+      "filename": "155:5179b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo11/155:5179b.JPG",
+      "url": "/legajos/legajo-11/images/155:5179b.JPG"
+    },
+    {
+      "filename": "156:5179c.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo11/156:5179c.JPG",
+      "url": "/legajos/legajo-11/images/156:5179c.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "154:5179a.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-11/cartas/001319.json",
+  "primary_image_url": "/legajos/legajo-11/images/154:5179a.JPG"
+}

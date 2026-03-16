@@ -1,0 +1,38 @@
+{
+  "legajo_id": "24",
+  "id_carta": "3988",
+  "order_in_legajo": 39,
+  "signatura": "061:4041.JPG",
+  "nombre_carta": "Carta de Pedro Pax Olim Español a Pedro Santacilia y Pax",
+  "fecha_original": "9 de diciembre de 1640",
+  "lugar": "Mallorca",
+  "remitente": "Pedro Pax Olim Español",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "alguns amigs m'han demanat que pregas a v. m. que una seietia han presa els bergantins del patró fs. balester casat en este ciutat v. m. se servesca si pot ser fer-li la bona obre pocible que ho estimaré molt els negocis d'esta leva estan suspasos així noi a res de que dar avís a v. m. que Déu guardi Mallorca i desembre 9 de 1640 Sr. don Pedro Pax olim spanyol Sr. don Pedro santesilie i Pax [1§] Transcripción literal"
+  ],
+  "literal": [
+    "1. Alguns amigs me an demanat que2. pregas a V.m. que une seietia an3. presa los bargantins del patro ffs.4. balester casat en este siutat5. v.m. es cervesca si pot ser fer li6. la bone obre pocible queu7. estimare molt los negocis desta8. leva estan suspasos axi noi a res 9. de que dar avis a Vm que deu10. guarde mallorca y desembre 11. 9 de 164012. Don Pedro Pax13. olim spañol14. Sor don pedro santesilie y pax [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "061:4041.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo24/061:4041.JPG",
+      "url": "/legajos/legajo-24/images/061:4041.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "061:4041.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-24/cartas/003988.json",
+  "primary_image_url": "/legajos/legajo-24/images/061:4041.JPG"
+}

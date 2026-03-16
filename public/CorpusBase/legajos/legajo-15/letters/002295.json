@@ -1,0 +1,43 @@
+{
+  "legajo_id": "15",
+  "id_carta": "2295",
+  "order_in_legajo": 193,
+  "signatura": "304:6520a",
+  "nombre_carta": "Carta de Basilio de Castellví y Ponce a Persona desconocida",
+  "fecha_original": "28 de 1669",
+  "lugar": "Valencia",
+  "remitente": "Basilio de Castellví y Ponce",
+  "destinatario": "Persona desconocida",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Señor mío: No permite mi obligación en ocasión tan preciosa como es la de pascuas, dejar de manifestar a v. s. el deseo con que qued [o], de que v. s. las logre con mucha salud y con las felicidades que v. s. merece en compañía de todos esos señores, cuyas manos beso. y suplico a v. s., les participe este obsequio en mi nombre, y v. s. le reciba en el de doña Laura y Giuseppe, que entre ambos quedan para servir a v. s., buenos. En cuanto a novedades de Madrid, lo que se me ofrece decir a v. s. es avisar de Madrid que el último correo que vino de Roma trajo noticia de que Su Beatitud quedaba a los últimos términos de su vida, y que pocos días cont [ece] que se hallara tan oprimido. Había hecho creación de cardenales en los sujetos siquien tes: el capelo nacional en el deán de Toledo, Portocarrero, monseñor Merlí, monseñor Achayolí, monseñor Chero, monseñor Bonacorsí, monseñor palavecino, y el padre Bona, monje cistercense, sujeto de muchas prendas y virtud. No se me ofrece otra cosa que [?] a v. s., solo el queda en esta casa de v. s. muy alborotados con el suceso de haber dado Dios una hija a mi señora la princesa de Pomblín, mi sobrina, siendo dicha tan relevante por las circunstancias que concurren en ella. v. s. me tiene siempre a su obediencia, con vivos deseos de ejercitarla en repetidos de su servicio de v. s., cuya vida guarde Dios largos años, como puede. Valencia y diciembre, a 28 de 1669. Bavilmo [?], su mayor servidor y amigo, Don Basilio de Castellví y Ponce. Transcripción literal"
+  ],
+  "literal": [
+    "1. Señor mío no permíte Mi obligacíon enocacíon tan 2. prec[íosa] como es la depascuas dejar de manífes=3. tar á V.S. el deseo conquequeda, deque V.S. las 4. logre con mucha salud y conlas felíçídades 5. que V.S. mereçe en compañía de todos essos ses 6. cuyas manos beso y suplíco â V.S. les partíçípe 7. este obsequío en mí nombre y V.S. le reçíva 8. en el de Da Laura y Jusepe que entrambos 9. quedan para servír â V.S. buenos = 10. En qto â Nobedades de madríd loque seme 11. ofrece decír â V.S. es avísar de Madríd que el 12. ultímo correo que víno de roma trajo no13. tíçía deque su Beatítud quedava alos ulti=14. mos termínos de su vída y quepocos días contes 15. que se hallara tanoprímído havía hecho crea=16. cion de cardenales enlos sujetos síguíentes= 17. el capelo nacíonal en el Dean de Toledo 18. Portocarrero, Monseñor Merlí, Monseñor achayo=19. lí, Monseñor Chero, Monseñor Bonacorsí, Monse=20. ñor Palaveçíno, y el Padre Bona, Monje 21. Sístersíense sujeto de muchas prendas y vírtud 22. No seme ofrece otra cosa que [Ilegible] a V.S. solo [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "304:6520a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo15/304:6520a.JPG",
+      "url": "/legajos/legajo-15/images/304:6520a.JPG"
+    },
+    {
+      "filename": "305:6520b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo15/305:6520b.JPG",
+      "url": "/legajos/legajo-15/images/305:6520b.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "304:6520a.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-15/cartas/002295.json",
+  "primary_image_url": "/legajos/legajo-15/images/304:6520a.JPG"
+}

@@ -1,0 +1,38 @@
+{
+  "legajo_id": "10",
+  "id_carta": "1146",
+  "order_in_legajo": 14,
+  "signatura": "024-312",
+  "nombre_carta": "Carta de Miguel Malo a Jerónimo Pelegrín de Aragüés",
+  "fecha_original": "20 de junio de 1668",
+  "lugar": "Madrid",
+  "remitente": "Miguel Malo",
+  "destinatario": "Jerónimo Pelegrín de Aragüés",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Ya que v. m. ha visto letra de Francisco, de mi hijo Francisco, verá la de mi hijo Silvestre y hágame saber cómo está y esa señora, su mujer. Por acá hay salud, a Dios gracias, no hay cosa de nuevo. Las paces de Francia dicen están hechas pero veo no las publican: Dios haga su voluntad. Doña Ana Aragües y Petronila Malo, mi hija, suplican a v. m. no eche en olvido del tejido para los hábitos. Y con esto Dios guarde a v. m. en compañía de esos señores, mujer e hijos y reciban recados de todos los de esta casa. Madrid y junio, a 20 de 1668. Señor mío, perdone el ir en este papel, que ha sido descuido, y dé muchos recados a esos señores de casa de señor virrey. Servidor de v. m. que sus manos besa, Miguel Malo Jeronimo Pelegrin y Aragues El marques de Montana se parte para gobernador de Milán con mucha grandeza. Transcripción literal"
+  ],
+  "literal": [
+    "1. Ya que Vmd. ha visto letra de Franco 2. Vera la de mi hijo Silvestre y agame 3. saver como esta y esa Sª su muger por aca ay 4. salud a Dios gracias nop ay cosa de nuevo 5. . Las paces de francia dicen estan echas pero veo no las publican Dios aga su voluntad. 6. Dª Ana Aragues y Petronila Malo mi hija, 7. suplican a V.M. no eche en olvido del tejido pa 8. los habitos y con esto Dios gde a V.M. en compañia 9. de esos Señores mujer y hijos y recivan recados 10. de todos los de esta casa. Md y Junio a 20 de 1668. 11. Sr. Mio perdone el yr en este papel, q a sido descuido y de muchos 12. recados a esos Sres. de cassa de Sr. Virrey 13. Sevor de V.M., q s m b 14. Miguel Malo 15. [^Sr. Gero Pelegrin y Aragues^]16. Al Sr. Marques de Montara su parte pa gobernador 17. de Milan con mucha grandeza. [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "024-312.jpg",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo10/024-312.jpg",
+      "url": "/legajos/legajo-10/images/024-312.jpg"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "024-312.jpg",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING",
+      "message": "Se detectaron caracteres sospechosos de encoding (4)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-10/cartas/001146.json",
+  "primary_image_url": "/legajos/legajo-10/images/024-312.jpg"
+}

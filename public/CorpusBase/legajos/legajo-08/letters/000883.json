@@ -1,0 +1,43 @@
+{
+  "legajo_id": "8",
+  "id_carta": "883",
+  "order_in_legajo": 115,
+  "signatura": "095-77a copia",
+  "nombre_carta": "Carta de Thomás Áufre y Velasco a Persona desconocida",
+  "fecha_original": "9 de noviembre de 1644",
+  "lugar": "Lugar sin especificar",
+  "remitente": "Thomás Áufre y Velasco",
+  "destinatario": "Persona desconocida",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Con Juan Marqués recibí una carta de mi merced, la cual remito a v.m. para que vea lo que hay de nuevo en razón de mi licencia y de que se me pague mi sueldo en las fábricas. La licencia me la remitió el doctor Bivas y el bajel en que venían tomaron los moros. En ella se se encuentra y más vale haya sucedido en ella que no en mí. No dejará mi merced enviarme por duplicado por si acaso a v.s. si viniere el mismo despacho podamos aprovecharnos dellos [?] ya quedaban hechas las diligencias de hoy en camino. , ent umisdo ja quedamos. echas les diligències deoy lo en camino. siesper susa servicio el pliego inCLuso. per [?] Madrid suplic a v. s. mande en caminar i no sia con caules porque no la tengo per buen portador. v. s. me mande en todo el que fuere de sa servicio que aquí me tiene com a su menor {ESP. criado} no olvidàndose v. s. demi. qey prospere Nuestro Senyor a v. s. muchos anys com deseo SPHe noviembre a 9 de 1644 [?] Thomàs de çufre i Velasco [?] de [?] senyor governador [1§] del Veudor Juan Mejia desoto Etenido carta i Besa a v. s. su mano i me escrive el mucho sentimiento i {ESP. desconsuelo} con que se fue. d'aquí en no ver a v. s. i de com escrivió a v. s. una carta de Fornelis. i que v. s. la mande es allí està a su servicio de v. s. Ma. per a deu que justes [?] als Vinos [?] Transcripción literal"
+  ],
+  "literal": [
+    "1. Con Juan marques Reçivi una carta de mim<> laqual. 2. Remito a V.S. paque Vea. loque ay de nuevo en Raçon de 3. mi li sençia y de q seme pague. misueldo enlas fabricas. 4. la liçençia mela Remitia El dotor Bivas. y el Bajel 5. en que Venia tomaron los moros enella se encuentra y mas 6. Vale aya suçedido enella q no en mi no dejara mim< > 7. jmbiarme p duplicado p si acasso a V.S. le Viniere el 8. misº despaçho podamos aproveçharnos dellos, 9. ent umis< > jaquedamos. echas las diligençias deoy 10. lo en camino. siesp< > sus< [a]> serviçio 11. el Pliego jnCLusso. p< > Madrid suplic a V.S. mande en 12. caminar y no sea con caules p q no le tengo por buen 13. portador. V. S. memande entodo lo q fuere de su serviçio q 14. aqui me tiene Como a su menor criado no olvidandosse 15. V.S. demi. qey prospere nuestro s a V.S. muçhos 16. años como desseo SPH< > novi< > A 9 de 1644 ? 17. Thomas de Çufre y V< >? de????? 18. S< > Governador [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "095-77a copia.jpg",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo08/095-77a copia.jpg",
+      "url": "/legajos/legajo-08/images/095-77a copia.jpg"
+    },
+    {
+      "filename": "096-77b copia.jpg",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo08/096-77b copia.jpg",
+      "url": "/legajos/legajo-08/images/096-77b copia.jpg"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "095-77a copia.jpg",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (2)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-08/cartas/000883.json",
+  "primary_image_url": "/legajos/legajo-08/images/095-77a copia.jpg"
+}

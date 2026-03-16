@@ -1,0 +1,42 @@
+{
+  "legajo_id": "19",
+  "id_carta": "7566",
+  "order_in_legajo": 269,
+  "signatura": "115_cg48a.JPG",
+  "nombre_carta": "Carta de Pedro Juan Fortuny a Pedro Santacilia y Pax",
+  "fecha_original": "12 de julio de 1655",
+  "lugar": "Mallorca",
+  "remitente": "Pedro Juan Fortuny",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "[1§] [2§] [3§] Transcripción literal"
+  ],
+  "literal": [
+    "1. 1. 1."
+  ],
+  "imagenes": [
+    {
+      "filename": "115_cg48a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo19/115_cg48a.JPG",
+      "url": "/legajos/legajo-19/images/115_cg48a.JPG"
+    },
+    {
+      "filename": "116_cg48b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo19/116_cg48b.JPG",
+      "url": "/legajos/legajo-19/images/116_cg48b.JPG"
+    },
+    {
+      "filename": "117_cg48c.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo19/117_cg48c.JPG",
+      "url": "/legajos/legajo-19/images/117_cg48c.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "115_cg48a.JPG",
+  "warnings": [],
+  "raw_source": "raw/legajos/legajo-19/cartas/007566.json",
+  "primary_image_url": "/legajos/legajo-19/images/115_cg48a.JPG"
+}

@@ -1,0 +1,43 @@
+{
+  "legajo_id": "33",
+  "id_carta": "4893",
+  "order_in_legajo": 88,
+  "signatura": "138:6809a.JPG",
+  "nombre_carta": "Carta de Juan Suñer a Pedro Santacilia y Pax",
+  "fecha_original": "8 de septiembre de 1630",
+  "lugar": "Mallorca",
+  "remitente": "Juan Suñer",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "La de v. m. tinc rebuda en la qual ma mana que procur han que la muller del que mata han Paris lo pardo jo estos dies estat de mala gana sengrat tres voltes ja gràcies a deu tinc salut i així mon so vist [?] An el toni bordoy perquè no així de casa ara al buscare en però se dir a v. m. que antes serà dificultosíssim al alcanzar pardo perquè la viuda {ESP. hasta} feta una tigra i mossèn toni sa llavade la libart de parlar en bes ta matèria nostat això la viuda quant ve en ciutat posa en casa jo faré tot el que podré Els astors de lo any passat no en reisqueran i així estava aguardad d'ambarnat ma havia de [?] enviar-me un prim pol i fis ací no o ha tret si acàs te v. m. ocasió don Pedro Santacilia i Pax [1§] Den ripoll ara sia criat o no sols no sia que ja li pos cosa de poder-lo creur al consol dels francesos m'han dit que han tenia per enviar ací i els ten dra vanals sias cosa bona al con prara i el ma enviara i sinó d'onsevulla i en el primer manera v. m. que vingué i procurara vinga ben acondicionat i el que sia m'ho treure a pagar i li certific que tot o e mane ter el procurar advertir ma perquè ací pouran dar-me les peredumbres que poden que alguna volta ten que no en trege de caixa de manera que vagi a fer companyia a v. m. al qual guardi Déu molts anys de Mallorca als 8 de setembre de 1630 Sr. don Juan Sunyer [2§] Transcripción literal"
+  ],
+  "literal": [
+    "1. La de V.m. tinc rabude en la qual ma2. mana que procur an que la muller del3. que mata an Paris lo pardo jo estos4. dias estat de mala gana sengrat tres5. voltas ja grasias a deu tinc salut y6. axi mon so vi[s]t[?] An lo Sr. toni bordoy per7. que no axi de casa ara al buscare en8. pero se dir a V.m. que antes sara9. dificultosisim al alcansar pardo per10. que la viuda asta feta una tigra y mº11. toni sa llavade la libart de pallar en bes12. ta materia nostat axo la viuda qua13. nt ve en siutat posa an casa jo fere14. tot lo que podre=15. Los astors de lo any pasat non reisqueran16. y axi astava agordad de anbarnat ma17. avia de (^?) anviarme un prim pol18. y fis asi no o a fet si acas te V.m. ocasio19. Sr. Don Pedro Sta silia20. y Pax [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "138:6809a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo33/138:6809a.JPG",
+      "url": "/legajos/legajo-33/images/138:6809a.JPG"
+    },
+    {
+      "filename": "139:6809.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo33/139:6809.JPG",
+      "url": "/legajos/legajo-33/images/139:6809.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "138:6809a.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-33/cartas/004893.json",
+  "primary_image_url": "/legajos/legajo-33/images/138:6809a.JPG"
+}

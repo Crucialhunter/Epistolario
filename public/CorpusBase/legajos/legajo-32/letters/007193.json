@@ -1,0 +1,38 @@
+{
+  "legajo_id": "32",
+  "id_carta": "7193",
+  "order_in_legajo": 192,
+  "signatura": "271:1951.JPG",
+  "nombre_carta": "Carta de condesa de Zavellá a Pedro Santacilia y Pax",
+  "fecha_original": "12 de agosto de 1666",
+  "lugar": "Mallorca",
+  "remitente": "condesa de Zavellá",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "[1§] Transcripción literal"
+  ],
+  "literal": [
+    "1."
+  ],
+  "imagenes": [
+    {
+      "filename": "271:1951.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo32/271:1951.JPG",
+      "url": "/legajos/legajo-32/images/271:1951.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "271:1951.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-32/cartas/007193.json",
+  "primary_image_url": "/legajos/legajo-32/images/271:1951.JPG"
+}

@@ -1,0 +1,43 @@
+{
+  "legajo_id": "23",
+  "id_carta": "3910",
+  "order_in_legajo": 166,
+  "signatura": "295:3323a.JPG",
+  "nombre_carta": "Carta de Llorenç Servera a Pedro Santacilia y Pax",
+  "fecha_original": "17 de octubre de 1667",
+  "lugar": "Lugar sin especificar",
+  "remitente": "Llorenç Servera",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Sr. don Pedro Esta és per a avisar a vostra senyoria com me trob avui {ESP. empenyat} a anar a Santa Ana que era de l'esquadra de {ESP. Centurión} i ara m'apar segons me diu al mecader que lai a vanuda i jo sabent que l'h havia venuda i tot [?] fange Miquel Rovira [?] el bergantí d'en Castany em digué que vostra senyoria i al comte da Formiguera que buscaven vaixells i li havia dada ordre que si em trobava que en compràs, i així que m'ho digué jo en continent demaní llicència al mercader i es mercader m'ha feta resposta que no era ma reputació deixar al vaixell ni ell em dava llicència, que si hagués sabut que jo no havia d'anar en es vaixell l'hauria cremat i ara per ma reputació tenc a fer aquest viatge que faran quatre mesos a vostra senyoria com a mi senyor meu, juntamet amb el senyor comte que me podran [?] i jo en continent assistiré en el servici de vós. A vós hi estim més servir nostra pàtria sa diners que altri amb diners. Perdó v. s. no si ací som pare que la causa tenir-li jo tanta passió [1§] i Nostre Senyor li do tants d'anys de vida com jo desig. Per mi el comte de Formiguera com a criat li beso les mans que amb tot i per tot estic a l'obediència com a criat de vós li som no dit més Nostre Senyor li doni augment perquè pugui passar endavant son desig que si Mallorca faltàs vostra senyoria ja se'n recorda en partiquilar nostra gent demà [?] particular. Jo com pecador, no deix cada dia d'encomanar-los a Déu perquè li doni sanitat i així vostra senyoria me podrà escriure [?]. Remitirà sa carta en poder de [?] perquè quan jo vengui de Galícia pugui en continent venir-me a veure la cara de vostra senyori i ara juntamet em la del comte Déu me'l guardi com pot i jo desig. Feta a 17 d'octubre de l'any 1667. Criat de vostra senyoria, el {ESP. capitán}Lorenzo Servera, que {ESP. sus manos besa} Transcripción literal"
+  ],
+  "literal": [
+    "1. Sr. don Pedro2. esta as para avisar a vosa noria Com3. ma trop vui anpenat an anar Santana4. quera de las cuadra de Sant urion i ara5. ma par sagons me diu al marqueder que lai6. a vanuda i io sabent que lai avia vanuda7. i tot anbis fange miquel robira abi lo8. barganti den castani am dige que vosa9. noria i al Sr. conda da formigera que buscca10. van vaxels i li avia dada ordo que sim11. trobava can conpras, i axi que mo dige12. io ancontinent damani lisensia a na 13. marqueder i as marqueder ma feta rasp(^os)14. osta que no era ma raputasio dexar-15. al vaxel ni el am dava lisensia que16. si ages sabut que io no avia dannar17. an as vaxel luria cramat i are par-18. ma raputasio tenc a fer acet[?] viatge19. que faran quatra mesos a vosa noria20. como a mi Sanor meu iuntamet al ba21. l Sanor Conta que ma podran [?]22. i io ancontinent asistire em ba lo sarvisi23. de nos a nos i astim mes sarvir nostra24. patria sa dines que altri an dines25. pardo V.Sa. no si asi som pare que26. la causa tanirli io tanta pasio [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "295:3323a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo23/295:3323a.JPG",
+      "url": "/legajos/legajo-23/images/295:3323a.JPG"
+    },
+    {
+      "filename": "296:3323b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo23/296:3323b.JPG",
+      "url": "/legajos/legajo-23/images/296:3323b.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "295:3323a.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-23/cartas/003910.json",
+  "primary_image_url": "/legajos/legajo-23/images/295:3323a.JPG"
+}

@@ -1,0 +1,43 @@
+{
+  "legajo_id": "12",
+  "id_carta": "1612",
+  "order_in_legajo": 120,
+  "signatura": "178_6205a.JPG",
+  "nombre_carta": "Carta de Pedro Portocarrero Fernández de Córdoba y Aragón (VII conde de Medellín) a Pedro Santacilia y Pax",
+  "fecha_original": "24 de octubre de 1650",
+  "lugar": "San Lorenzo de la Real",
+  "remitente": "Pedro Portocarrero Fernández de Córdoba y Aragón (VII conde de Medellín)",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "La de v. m. he recibido y no he podido darle cuenta antes ACABAR-LA [1§] La de v. m. he recibido y no he podido darle cuenta antes ACABAR-LA [2§] Transcripción literal"
+  ],
+  "literal": [
+    "1. La de Vm e rezibido y no e podido2. darle quenta antes ACABAR-LA [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "178_6205a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo12/178_6205a.JPG",
+      "url": "/legajos/legajo-12/images/178_6205a.JPG"
+    },
+    {
+      "filename": "179_6205b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo12/179_6205b.JPG",
+      "url": "/legajos/legajo-12/images/179_6205b.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "178_6205a.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (4)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-12/cartas/001612.json",
+  "primary_image_url": "/legajos/legajo-12/images/178_6205a.JPG"
+}

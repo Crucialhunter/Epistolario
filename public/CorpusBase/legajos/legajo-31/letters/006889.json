@@ -1,0 +1,43 @@
+{
+  "legajo_id": "31",
+  "id_carta": "6889",
+  "order_in_legajo": 130,
+  "signatura": "185:1640a.JPG",
+  "nombre_carta": "Carta de Antonio Rosselló a Pedro Santacilia y Pax",
+  "fecha_original": "6 de febrero de 1662",
+  "lugar": "Alguer",
+  "remitente": "Antonio Rosselló",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Mi Sr. D. P. Esta trobi a V. amb la que esta desdichad esclau li de sitja, la mia glòria al és bona, però cercada de tantes angusties i treballs com se pot considerar de [?] esclavitud tan penosas, i així estimaria molticim a V. me fes favor que {ESP. supuesto} que ha de venir la Redemcio de València d'escriure a mon Senyor l'Arcabisbe de València per a encomane als P P. de la Redemcio, que venim encomanat de tan gran Superior serà certa ma llibertad jo confio amb el valor de V. que com de condició tan noble no deixarà d'afavorir-me en tan gran nesecitad, que a més de quedar agraït estaré perpetuament obligat a V. al qual el cel el guardi com ell pot i jo desitjo fª Alger 6 febrer 1662 Antoni Rosello, que ses mans besa i Canet A mi Sr. D. Pedro Santacilia guardi Dios procurador Reªl del consell de sa magestat. en Mallorca Transcripción literal"
+  ],
+  "literal": [
+    "1. Mi Sr. D. P. 2. Esta trobe a Vª. ab la que esta desdichad esclau li de 3. sitja, la mia gloria al Sr. es bona, pero cercada de 4. tantas angustias y traballs com se pot considerar de [?] 5. esclavitud tan penosas, y axi estimaria molticim 6. a Vª. me fes favor que supuesto que ha de venir 7. la Redemcio de Valencia de escriure a mon 8. Señor el Arcabisbe de Valencia pera encoma9. ne a los P P. de la Redemcio, que venim encoma10. nat de tan gran Superior sera serta ma lli11. bertad yo confio ab lo valor de Vª. que com de 12. condicio tan noble no dexera de afavorirme 13. en tan gran nessecitad, que ademes de quedar agreit 14. estare perpetuament obligat a Vª. al qual lo 15. cel lo guarde com ell pot y yo desitjo fª Al16. ger 6 febrer 1662 17. Antoni Rosello, Q. S. M. B. 18. y Canet [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "185:1640a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo31/185:1640a.JPG",
+      "url": "/legajos/legajo-31/images/185:1640a.JPG"
+    },
+    {
+      "filename": "186:1640b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo31/186:1640b.JPG",
+      "url": "/legajos/legajo-31/images/186:1640b.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "185:1640a.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-31/cartas/006889.json",
+  "primary_image_url": "/legajos/legajo-31/images/185:1640a.JPG"
+}

@@ -1,0 +1,43 @@
+{
+  "legajo_id": "29",
+  "id_carta": "6306",
+  "order_in_legajo": 5,
+  "signatura": "003:4122a.JPG",
+  "nombre_carta": "Carta de Magdalena de Zaforteza i Rocabertí a Pedro Santacilia y Pax",
+  "fecha_original": "23 de abril de 1613",
+  "lugar": "Barcelona",
+  "remitente": "Magdalena de Zaforteza i Rocabertí",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Â [1§] Â [2§] Transcripción literal"
+  ],
+  "literal": [
+    "1. 1."
+  ],
+  "imagenes": [
+    {
+      "filename": "003:4122a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo29/003:4122a.JPG",
+      "url": "/legajos/legajo-29/images/003:4122a.JPG"
+    },
+    {
+      "filename": "004:4122b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo29/004:4122b.JPG",
+      "url": "/legajos/legajo-29/images/004:4122b.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "003:4122a.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (7)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-29/cartas/006306.json",
+  "primary_image_url": "/legajos/legajo-29/images/003:4122a.JPG"
+}

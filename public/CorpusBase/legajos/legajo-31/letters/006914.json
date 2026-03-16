@@ -1,0 +1,38 @@
+{
+  "legajo_id": "31",
+  "id_carta": "6914",
+  "order_in_legajo": 154,
+  "signatura": "223:1665.JPG",
+  "nombre_carta": "Carta de Luis de Aragón (VII duque de Cardona) a Pedro Santacilia y Pax",
+  "fecha_original": "30 de junio de 1663",
+  "lugar": "Madrid",
+  "remitente": "Luis de Aragón (VII duque de Cardona)",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "don Diego Clapes natural de esa Siud. por sus letras y servicios de su tío pretende la canonsia que vaca en esa santa iglesia por promoción del que la tenía al obispado de cristan hame de hacer favor v. s. de enviarle en terna en lugar que se conozca le ha sido de provecho valerse de mi medio para con v. s. que lo reconoceré en las ocasiones que me diere de su servicio v. s. que guarde. Dios muchos años Madrid 30 de junio de 1663ar [?] me favor [?] Luis de Aragón Sr. D. Pedro de Sta. Sicilia y Pax [1§] Transcripción literal"
+  ],
+  "literal": [
+    "1. Don Diego Clapes natural de esa Siud. por 2. sus letras y servizios de su tio pretende la canonsia 3. que vaca en essa santa Iglesia por promozion 4. del que la tenia al obispado de cristan hame 5. de hazer favor VS de embiarle en terna en lugar 6. que se conozca le asido de probecho valersse de 7. mi medio para con VS. que lo reconozere en las 8. ocassiones que me diere de su servizio VS que gde. 9. Dios muchos años Madrid 30 de Junio 10. de 166311. ar [?] me favor12. ?? 13. Luis de Aragon 14. S. D. Pº. de Sta. Zizilia y Paz [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "223:1665.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo31/223:1665.JPG",
+      "url": "/legajos/legajo-31/images/223:1665.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "223:1665.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-31/cartas/006914.json",
+  "primary_image_url": "/legajos/legajo-31/images/223:1665.JPG"
+}

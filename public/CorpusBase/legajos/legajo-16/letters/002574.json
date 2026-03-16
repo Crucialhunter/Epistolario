@@ -1,0 +1,43 @@
+{
+  "legajo_id": "16",
+  "id_carta": "2574",
+  "order_in_legajo": 61,
+  "signatura": "100:2074a.JPG",
+  "nombre_carta": "Carta de Nicolás de Santacilia y Togores a Pedro Santacilia y Pax",
+  "fecha_original": "27 de abril de 1667",
+  "lugar": "Barcelona",
+  "remitente": "Nicolás de Santacilia y Togores",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Por viade Valencia he recibido dos cartas de v. m. holgándome goce salud y en la una de ellas, me dice sepa la Cau sa de la dey asíón, del Tersio de don Giuseppe de Borga, y según lo que, yo he oido, Capi tularon antes de desposarse, en esa Confor midad, y que había de hacer vida con su mu ger, el Vino acá, y hizo la elegación [?], y despes pretendio, general del artilleria, de Ca taluña, eso se lo negaron, de suerte que ese sentimien, de su padre, más será politica suya, que otra Cosa, y mejor eligera, ya que el sentimiento no habrá sido del, renunsio, sino de estar preñada, la hermana de su mujer también medise v. m. que el conde de Çave lla, nos hace mucha, favor y yo ados meses que he llegado a Madrid malo, y sino es, un recado suyo, no he visto otro reconocimiento de su Ilustrísima y así no sé como he de entrar en los agradecimientos [1§] ya he recibido la carta de mi señora la marquesa de los Velez, y dos memorias, pero yo confío en Dios, que Con la carta, habrá bastante todas las novedades, yo las ha escrito Diego Matias porva de Barcelona escribiré más largo, y respondere (malas) a las cartas, yo ya estoy casi del todo bueno, porque lo más esta hecho. Guarde Dios a v. m. muchos años Madrid a 27 de abril 1667 Su más humilde hijo de v. m. que manos besa don Nicolas de Santacilia y Togores mi señor y mi padre [2§] Transcripción literal"
+  ],
+  "literal": [
+    "1. Por viade Valensia he resibido dos 2. Cartas de VM olgandome gose salud 3. y en la una dellas, me dise sepa la Cau=4. sa de la deyasion, del Terssio de Don Jusepe 5. de Borga, y segun lo que, yo he oido, Capi6. tularon antes de desposarse, en hesa Confor=7. midad, y que avia de aser Vida Con su mu=8. ger, el Vino aca, y iso la elegasion[?], y despes 9. pretendio, General del artilleria, de Ca=10. taluña, eso se lo negaron, de suerte que ese 11. sentimien, de su Padre, mas sera politica 12. suya, que otra Cosa, y megor eligera, ya q 13. el sentimiento no abra sido del, renunsio, sino 14. de estar preñada, la hermana de su mu15. ger 16. tanbien medise VM. que el Conde de Çave17. lla, nos ase mucha, favor y io ados meses 18. que he llegado a Madrid malo, y sino es, un 19. recado suyo, no he visto otro reconosimiento de 20. su Ila y asi no se Como he de entrar enlos 21. agradesimientos [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "100:2074a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo16/100:2074a.JPG",
+      "url": "/legajos/legajo-16/images/100:2074a.JPG"
+    },
+    {
+      "filename": "101:2074b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo16/101:2074b.JPG",
+      "url": "/legajos/legajo-16/images/101:2074b.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "100:2074a.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-16/cartas/002574.json",
+  "primary_image_url": "/legajos/legajo-16/images/100:2074a.JPG"
+}

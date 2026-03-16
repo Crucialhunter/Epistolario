@@ -1,0 +1,37 @@
+{
+  "legajo_id": "38",
+  "id_carta": "5522",
+  "order_in_legajo": 96,
+  "signatura": "082:40a.JPG",
+  "nombre_carta": "Carta de Batle de Santa Maria a Pedro Santacilia y Pax",
+  "fecha_original": "29 de agosto de 1663",
+  "lugar": "Santa Maria",
+  "remitente": "Batle de Santa Maria",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Il·lustríssim Cebra V. senyoria Il·lustríssim, com Fransine Oli ver diu que per a Oliver als 28 del corret agoytava dos fils seus dins casa se va fet als 29 d'agost 1663 Al fayel de sa megestat el batle de Santa maria [1§] Avis a se senyoria Il·lustríssima que Déu guarda en Ciutat [2§] Transcripción literal"
+  ],
+  "literal": [
+    "1. Illm Sr.2. Cebra V. Senoria Illm, com Fransine Oli=3. ver diu que pera Oliver als 28 del corret4. agoytave dos fils seus dins casa seva fet5. als 29 de agost 16636. Al fayel de sa megestat7. lo balla de santa maria [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "082:40a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo38/082:40a.JPG",
+      "url": "/legajos/legajo-38/images/082:40a.JPG"
+    },
+    {
+      "filename": "083:40b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo38/083:40b.JPG",
+      "url": "/legajos/legajo-38/images/083:40b.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "082:40a.JPG",
+  "warnings": [],
+  "raw_source": "raw/legajos/legajo-38/cartas/005522.json",
+  "primary_image_url": "/legajos/legajo-38/images/082:40a.JPG"
+}

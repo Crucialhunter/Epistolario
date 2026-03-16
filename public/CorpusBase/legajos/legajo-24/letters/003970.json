@@ -1,0 +1,38 @@
+{
+  "legajo_id": "24",
+  "id_carta": "3970",
+  "order_in_legajo": 24,
+  "signatura": "035:4023.JPG",
+  "nombre_carta": "Carta de Luis de Aragón (VII duque de Cardona) a Pedro Santacilia y Pax",
+  "fecha_original": "3 de abril de 1635",
+  "lugar": "Lucena",
+  "remitente": "Luis de Aragón (VII duque de Cardona)",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Mucho estimo sus cartas de v. m. y avisos que las acompañan, por la buena voluntad con que se vienen y creo lo que mi padre estimaría, los que v. m. le dio, que ocasionaron al despacho del correo, deseo saber si causan alguna novedad en la resolución, que querría se ajustase muy a gusto de s. e., a cuyo parecer estará. En lo que v. m. me dice de las cortes de Cataluña y ejército que se cree habrá en aquel Principado, que el estar el tiempo tan adelante para ambas cosas me hace dudarlas. En todo deseo me vaya v. m. avisando lo que se le ofreciere y las ocasiones en que pueda servirle, pues sabe la seguridad con que me las debe fiar. Guarde Dios a v. m. muchos años. Lucena 3 de abril 1635. Don Luis de Aragon Sr. don Pedro de Santacilia y Pax. Transcripción literal"
+  ],
+  "literal": [
+    "1. Mucho estimo sus cartas de V.m. y avissos que las acompa2. ñan, por la buena voluntad, con que se bienen y creo lo que mi 3. padre estimaria, los que V.m. le dio, que acassionaron al des 4. pacho del Correo, desseo saver si caussan alguna novedad en5. la Resoluçion, que querria se ajustasse muy agusto de su exa, a cuyo 6. parecer estare, en lo que V.m. me dize, de las cortes de Cataluña7. y exercito, que se cree avra en aquel Principado que el estar8. el tiempo tan adelante para ambas cossas, me haze dudar9. las, en todo desseo me vaya V.m. avisando lo que se le10. ofreçiere, y las ocassiones en que pueda servirle pues save11. la seguridad con que me las deve fiar, gde Dios a Vm12. muchos años. Lucena 3 de Abril 1635.-13. Don Luys de Aragon14. Sr. Don Pedro de santaçilia y Pax. [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "035:4023.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo24/035:4023.JPG",
+      "url": "/legajos/legajo-24/images/035:4023.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "035:4023.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-24/cartas/003970.json",
+  "primary_image_url": "/legajos/legajo-24/images/035:4023.JPG"
+}

@@ -1,0 +1,38 @@
+{
+  "legajo_id": "32",
+  "id_carta": "7128",
+  "order_in_legajo": 145,
+  "signatura": "167:1886.JPG",
+  "nombre_carta": "Carta de Jerónimo Mancho a Pedro Santacilia y Pax",
+  "fecha_original": "1 de julio de 1665",
+  "lugar": "Madrid",
+  "remitente": "Jerónimo Mancho",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "No he respondido a la de v. s. . de 27 de abril hasta que nos hubiesen despachado del todo el Havito del Sr. don Priamo de Villalonga que solo el tasar las dietas a durado más de 26 días quitando siete; de suerte que solo han quedado diez días y así aviso a Martin de Landibar que en nombre de v. s. . de los cuarenta ducados que le tocan al Sr. D. Francisco de Villalonga hijo del Sr. D. Priamo para que se sirva de ellos como v. s. . me lo manda. y a él protonotario ha escrito a v. s. . sobre los cortes de vestidos y aguardo que v. s. . envíe la cuenta para cobrar el coste de todo También ha escrito al virrey sobre la remesa del dinero de los anuales y pudiera haber excusado el entrometerse en esto pues no le toca. Dios guarde a v. s. . muchos años como deseo Madrid 1 de Julio 1665 Jo. l. m. de v. s. su más reconocido ser. Geronim Mancho Supco. a vSra. mande enviar esa carta al conde de Montenegro [?] como ha quedado bueno de esta refriega el conde de Montoro su Herno. Sr. D. Pedro de Santacilia y Pax Transcripción literal"
+  ],
+  "literal": [
+    "1. No he respondido a la de VSª. de 27 2. de Abril hasta que nos huviesen despachado 3. del todo el Havito del Sr. Don Priamo de Villa4. longa que solo el tasar las dietas a durado mas de 26 5. dias quitando siete; de suerte que solo han quedado 6. diez dias y asi aviso a Martin de Landibar que 7. en nombre de VSª. de los quarenta ducados que 8. le tocan al Sr. D Franco. de Villalonga hijo del 9. Sr. D. Priamo para que se sirva dellos como VSª. me 10. lo manda. 11. Ya el Sr. Protonotario a escrito a VSª. sobre 12. los cortes de vestidos y aguardo que VSª. embie 13. la quenta para cobrar el coste de todo = Tambien a 14. escrito al Sr. Virrey sobre la remesa del dinero 15. de los anuales y pudiera haver escusado el entro16. meterse en esto pues no le toca. Dios ge. a VSª. muchos 17. años como deseo Madrid 1 de Jullio 1665 18. Jo. l. m. de VS. 19. su mas reconocido ser. 20. Geronym Mancho 21. Supco. a vSª. mande em22. biar esa carta al Sr. Conde 23. de Montenegro [?] 24. como á quedado bueno desta 25. refriega el Sr. Conde de Mon26. toro su Herno. 27. Sr. D Pedro de Sta. Cilia y Pax [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "167:1886.JPG",
+      "original_url": "http://www.santacilia.org/intranet2/img/Legajo32/167:1886.JPG",
+      "url": "/legajos/legajo-32/images/167:1886.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "167:1886.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-32/cartas/007128.json",
+  "primary_image_url": "/legajos/legajo-32/images/167:1886.JPG"
+}

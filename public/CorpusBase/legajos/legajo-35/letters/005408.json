@@ -1,0 +1,43 @@
+{
+  "legajo_id": "35",
+  "id_carta": "5408",
+  "order_in_legajo": 5,
+  "signatura": "275:8255a.JPG",
+  "nombre_carta": "Carta de Thomás de Lupe a Pedro Santacilia y Pax",
+  "fecha_original": "fecha sin especificar",
+  "lugar": "El Mercadal",
+  "remitente": "Thomás de Lupe",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "El castellano me ha escrito que Foguet y el alguacil Juan a esa villa de Ciudadela a comunicar los procesos con algún letrado o letrados, para ver conforme a él si merecía protestarle, se presentara en Madrid. Yo bajé hoy lunes por la mañana a esta villa a cumplir la orden de v. s. y, como no le hallé, me fui a Fornells a ver si v. s. se había ido por otro camino y, no hallando a v. s. me he vuelto. y, porque me voy a dormir al convento, escribo estos renglones y decir a v. s., de parte el castellano, no consienta que juzgue ni se entremeta (sic) en estas causas el asesor por que, dice, es parte contra él y, además, de mandar su majestad. en sus reales Órdenes, que el asesor de la Gobernación no se pueda entre meter (sic) en Jurisdicción de capitánía Grl. y, pues, [1§] auditor de los que sirven por el consejo de que hubiese doctor Martorell, que v. s. le haga merced [?] ualquier letrado fuera del asesor estará muy contento de cualquier cosa, no siendo en perjuicio de su pleito o mensaje. y, así v. s. se sirva mandar despachar y escribir en esta conformidad a Ciudadela, supuesto que para tomar letrado, el capitán Pedro de la Vega lo ha de pedir a v. s., a quien toca elegir porque dice el castellano, que en esto el cumplir con el refrán de \"Al enhornar se hacen los panes tuertos\" y la brevedad de mandar a v. s. que la buena diligencia es madre de la buena ventura yo, como mandado y criado de v. s., obro y en lo demás, como fuere de su gusto y servicio de v. s., a quien Nro. Sr. Guarde. como deseo. De El Mercadal, hoy Lunes Santo. v. s. perdone la grosería del corto papel. Sírvame de disculpa la poca [?] del lugar. . Thomas Lupe Transcripción literal"
+  ],
+  "literal": [
+    "1. El castellano me a escrito q foguite y el al2. guaçil Juan a essa Villa de Çiudadela a comu3. nicar los proseços con algun letrado u4. letrados pa ver comforme a el si merecia5. protestarle se presentara en Md, jo vaje6. oy lunes pr la mañana a esta villa a7. cumplir la Horden de V.S. y como no le8. alle me fuy a Fornels a ver si V.S. se9. avia ydo pr otro camino y no allando a10. V.S. me e buelto y prq me boy a dormir al11. convento escrivo estos renglones y decir12. a V.S. de parte el castellano no conçienta13. q jusgue ni se entremeta enestas causas14. el asesor pq diçe es parte contra el y ademas15. de mandar su Magd. en sus Rs. Hordenes q el16. asesor de la Governaçion no se pueda entre17. meter en Juridiçion de Capitania Grl. y pues [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "275:8255a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo35/275:8255a.JPG",
+      "url": "/legajos/legajo-35/images/275:8255a.JPG"
+    },
+    {
+      "filename": "276:8255b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo35/276:8255b.JPG",
+      "url": "/legajos/legajo-35/images/276:8255b.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "275:8255a.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-35/cartas/005408.json",
+  "primary_image_url": "/legajos/legajo-35/images/275:8255a.JPG"
+}

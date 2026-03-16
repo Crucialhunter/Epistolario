@@ -1,0 +1,43 @@
+{
+  "legajo_id": "32",
+  "id_carta": "7053",
+  "order_in_legajo": 45,
+  "signatura": "046:1811a",
+  "nombre_carta": "Carta de duque de Medinaceli a Persona desconocida",
+  "fecha_original": "2 de enero de 1664",
+  "lugar": "Mallorca",
+  "remitente": "duque de Medinaceli",
+  "destinatario": "Persona desconocida",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Â [1§] Â [2§] Transcripción literal"
+  ],
+  "literal": [
+    "1. 1."
+  ],
+  "imagenes": [
+    {
+      "filename": "046:1811a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo32/046:1811a.JPG",
+      "url": "/legajos/legajo-32/images/046:1811a.JPG"
+    },
+    {
+      "filename": "047:1811b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo32/047:1811b.JPG",
+      "url": "/legajos/legajo-32/images/047:1811b.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "046:1811a.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (6)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-32/cartas/007053.json",
+  "primary_image_url": "/legajos/legajo-32/images/046:1811a.JPG"
+}

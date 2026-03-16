@@ -1,0 +1,43 @@
+{
+  "legajo_id": "15",
+  "id_carta": "2279",
+  "order_in_legajo": 178,
+  "signatura": "279:6504a",
+  "nombre_carta": "Carta de Joan Tomàs de Rocabertí a Persona desconocida",
+  "fecha_original": "22 de septiembre de 1648",
+  "lugar": "Vinarós",
+  "remitente": "Joan Tomàs de Rocabertí",
+  "destinatario": "Persona desconocida",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "[ ] [Tío y muy señor mío] Veintidós días haga que estoy acá, en vinarós, aguardando embarcación para ir aquí. Hasta a [h] ahora no se ha ofrecido conveniente, si no es la de un navío de [D] un quer que que me han dicho va aquí, con que pienso embarcarme. Suplícole, por amor de dios, no me haga purgar más mis pecados, en llegando, porque no sé que pueda haber purga mayor, que haber apsado a fuego y a sangre, y a libre cuchillo de gavache. Gracias doy a Dios de todo, quien me le guarde muy feliz y prósperamente. A 22, septiembre de 1648. Su más humilde sobrino, quien Sus manos besa, Señor Joan Tomás de Rocabertí. Transcripción literal"
+  ],
+  "literal": [
+    "1. [Margen izquierdo][^Tio y muy Sr mio]2. Veinte y dos dias haga que estoy 3. aca en Vinaros aguardando embarn 4. para ir aquí. Asta agora no se ha 5. offrecído conveniente sino es la de 6. un navio de unquerque que me 7. an dicho va aqui Conque pienso 8. embarcarme. Supplicole por amor de 9. Dios no me aga purgar mas mis peca-10. dos en llegando, porque nose que pueda 11. averpurga major que aver passado afuego 12. y asangre y a libre Cuchillo de Gavache 13. Gratias doy a dios de todo quien me 14. le Gde muy felis y prosperamete 15. a 22 setiembre de 1648 16. su mas humilde 17. sobrino quien [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "279:6504a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo15/279:6504a.JPG",
+      "url": "/legajos/legajo-15/images/279:6504a.JPG"
+    },
+    {
+      "filename": "280:6504b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo15/280:6504b.JPG",
+      "url": "/legajos/legajo-15/images/280:6504b.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "279:6504a.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (2)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-15/cartas/002279.json",
+  "primary_image_url": "/legajos/legajo-15/images/279:6504a.JPG"
+}

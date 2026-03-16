@@ -1,0 +1,38 @@
+{
+  "legajo_id": "27",
+  "id_carta": "4650",
+  "order_in_legajo": 121,
+  "signatura": "210:4459.JPG",
+  "nombre_carta": "Carta de Jerónimo Mancho a Pedro Santacilia y Pax",
+  "fecha_original": "31 de diciembre de 1653",
+  "lugar": "Madrid",
+  "remitente": "Jerónimo Mancho",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "A don Rafael Mayans le pedí me excusase con v. m. per no haberle respondido luego y puede v. m. servirse de perdonarme esta omisión pues ninguno me gana en desear servir a v. m. en cuanto se ofreciere. La consulta del obispado se está muy despacio arriba, y v. m. no esté con cuidado en razón de la pensión. Si hubiere vacado cantidad bastante para que se incluya ella, y cuando no toda, la parte que alcanzaré no puede faltar, ni yo al servicio de v. m., que guarde Dios muchos años como deseo. Madrid a 31 de diciembre de 1653. Jeronimo Mancho Sr. don Pedro de Santacilia y Pax Transcripción literal"
+  ],
+  "literal": [
+    "1. A Don Rafael Mayans lepedi me escussasse2. con V.m. per no haverle respondido luego3. y puede V.m. servirse de perdonarme esta4. omision pues ninguno me gana en desear5. servir a V.m. en quanto se offreciere, La6. Consta del obispado se esta muy despacio arri-7. va, y V.m. no este con cuydado en Razon8. de la pension Si huviere Vacado cantidad9. bastante para que seincluya ella, y quando10. no toda, La parte que alcanzare no puede11. faltar, ni yo al servo de V.m. que12. guarde Dios muchos años como desseo13. Md a 31 de dez de 165314. Geronymo Manolo15. [25, extrem inferior esquerre] Don Pedro de Santacilia y Pax [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "210:4459.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo27/210:4459.JPG",
+      "url": "/legajos/legajo-27/images/210:4459.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "210:4459.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-27/cartas/004650.json",
+  "primary_image_url": "/legajos/legajo-27/images/210:4459.JPG"
+}

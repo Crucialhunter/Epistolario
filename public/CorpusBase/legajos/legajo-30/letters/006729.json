@@ -1,0 +1,43 @@
+{
+  "legajo_id": "30",
+  "id_carta": "6729",
+  "order_in_legajo": 6,
+  "signatura": "314:5567a",
+  "nombre_carta": "Carta de Cristàfol Rosselló de Franco a Persona desconocida",
+  "fecha_original": "9 de diciembre de 1619",
+  "lugar": "Mallorca",
+  "remitente": "Cristàfol Rosselló de Franco",
+  "destinatario": "Persona desconocida",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Â [1§] Â [2§] Transcripción literal"
+  ],
+  "literal": [
+    "1. 1."
+  ],
+  "imagenes": [
+    {
+      "filename": "314:5567a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo30/314:5567a.JPG",
+      "url": "/legajos/legajo-30/images/314:5567a.JPG"
+    },
+    {
+      "filename": "315:5567b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo30/315:5567b.JPG",
+      "url": "/legajos/legajo-30/images/315:5567b.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "314:5567a.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (8)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-30/cartas/006729.json",
+  "primary_image_url": "/legajos/legajo-30/images/314:5567a.JPG"
+}

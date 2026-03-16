@@ -1,0 +1,48 @@
+{
+  "legajo_id": "25",
+  "id_carta": "4148",
+  "order_in_legajo": 80,
+  "signatura": "164_182a.JPG",
+  "nombre_carta": "Carta de José Balell a Jerónimo Pelegrín de Aragüés",
+  "fecha_original": "25 de junio de 1667",
+  "lugar": "Barcelona",
+  "remitente": "José Balell",
+  "destinatario": "Jerónimo Pelegrín de Aragüés",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "LLETRA DIFÍCIL. [1§] Barcelona 25 {CAT. Juny} del sargento mayor Balell. Respuesta a 20 {CAT. juliol} 1667. Transcripción literal"
+  ],
+  "literal": [
+    "1. LLETRA DIFÍCIL1. Barcelona 25 Juny del Sargto. M[ai]or Balell respuesta2. a 20 Juriol 1667 [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "164_182a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo25/164_182a.JPG",
+      "url": "/legajos/legajo-25/images/164_182a.JPG"
+    },
+    {
+      "filename": "165_182b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo25/165_182b.JPG",
+      "url": "/legajos/legajo-25/images/165_182b.JPG"
+    },
+    {
+      "filename": "166_182c.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo25/166_182c.JPG",
+      "url": "/legajos/legajo-25/images/166_182c.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "164_182a.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (5)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-25/cartas/004148.json",
+  "primary_image_url": "/legajos/legajo-25/images/164_182a.JPG"
+}

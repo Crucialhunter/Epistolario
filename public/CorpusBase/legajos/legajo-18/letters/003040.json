@@ -1,0 +1,38 @@
+{
+  "legajo_id": "18",
+  "id_carta": "3040",
+  "order_in_legajo": 73,
+  "signatura": "122:4879.JPG",
+  "nombre_carta": "Carta de Diego Matías de Aragüés a Pedro Santacilia y Pax",
+  "fecha_original": "6 de diciembre de 1662",
+  "lugar": "Madrid",
+  "remitente": "Diego Matías de Aragüés",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Estos renglones hago por remitir los inclusos y también como recibí elpliego grande que Vino por Barcelona, y como he dado todas las cartas que Vinieron en el a sus dueños Por Valencia es la Ultima que recibí un pliego grande y en el las cuentas y unos despachos esperando aviso del raino de todos, yselas buenas nuevas de la salud de v. m. y toda su casa que sea como deseamos Dña. Margarita y yoque besamos sus manos y las de mi Sra. Dña. Leonor y todos esos Sres. muchas veces holgaré saber de la llegada del obispo a esa ciudad, que hasta ahora no hay aviso este ay. v. m. me mande le sirva y guarde Dios como deseo Madrid a 6 dice 1662. Besa la mano de v. m. su mayor servidor Diego Matias de Aragues Sr. don Pedro Santacilia y Pax [1§] Transcripción literal"
+  ],
+  "literal": [
+    "1. Estos renglones hago por remitir los inclusos 2. Ytambien como recivi elpliego grande q Vino 3. por Barcelona, y como hedado todas las 4. cartas q Vinieron enel asus dueños 5. Por Vala es la Ultima q recivi unpliego grande 6. yenel las qtas y unos despachos esperando 7. aviso del raino de todos, Yselas buenas 8. nuebas de la salud de Vm. ytoda su casa 9. q sea como deseamos da Ma[r]gta y yo 10. q Vesamos sus manos y las de mi sra 11. da Leonor y todos essos Sses muchas vezes 12. olgare saver dela llegada delsr obispo a 13. essa Ciudad, q hasta agora no ay avisso 14. este ay. Vm. memande le sirva 15. yge dios como deseo Md a 6 dize 1662 16. Besa lamano de Vm. 17. Su mayor seror 18. Diego Mathias de Aragues 19. [Margen izquierdo][^ sr don Pedro sta Cilia y Pax]20. [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "122:4879.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo18/122:4879.JPG",
+      "url": "/legajos/legajo-18/images/122:4879.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "122:4879.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (3)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-18/cartas/003040.json",
+  "primary_image_url": "/legajos/legajo-18/images/122:4879.JPG"
+}

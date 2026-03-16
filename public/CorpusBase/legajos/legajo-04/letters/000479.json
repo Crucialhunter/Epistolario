@@ -1,0 +1,45 @@
+{
+  "legajo_id": "4",
+  "id_carta": "479",
+  "order_in_legajo": 38,
+  "signatura": "040-18a",
+  "nombre_carta": "Carta de Leonard Burgues Zaforteza a Persona desconocida",
+  "fecha_original": "2 de enero de 1667",
+  "lugar": "Mallorca",
+  "remitente": "Leonard Burgues Zaforteza",
+  "destinatario": "Persona desconocida",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "CARTA ILEGIBLE [1§] Transcripción literal"
+  ],
+  "literal": [
+    "1. CARTA ILEGIBLE"
+  ],
+  "imagenes": [
+    {
+      "filename": "040-18a.jpg",
+      "original_url": "http://www.studiolum.com/Web3/img/Legajo04/040-18a.jpg",
+      "url": "/legajos/legajo-04/images/040-18a.jpg"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "040-18a.jpg",
+  "warnings": [
+    {
+      "code": "IMAGE_DOWNLOAD_FAIL",
+      "message": "HTTP 404",
+      "context": {
+        "url": "http://www.studiolum.com/Web3/img/Legajo04/040-18a.jpg"
+      }
+    },
+    {
+      "code": "IMAGE_COUNT_MISMATCH",
+      "message": "Imágenes detectadas (1) != descargadas (0)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-04/cartas/000479.json",
+  "primary_image_url": "/legajos/legajo-04/images/040-18a.jpg"
+}

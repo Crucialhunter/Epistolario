@@ -1,0 +1,43 @@
+{
+  "legajo_id": "6",
+  "id_carta": "614",
+  "order_in_legajo": 112,
+  "signatura": "153-79b",
+  "nombre_carta": "Carta de Tomás Mariano Quint Zaforteza a Cecilia Zaforteza y Sureda de Sant Martí",
+  "fecha_original": "5 de mayo de 1770",
+  "lugar": "Barcelona",
+  "remitente": "Tomás Mariano Quint Zaforteza",
+  "destinatario": "Cecilia Zaforteza y Sureda de Sant Martí",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Tia Cecília, Esper esta la trobarà amb perfecta salut. Jo la {ESP. gos} bona, a Déu gràcies. A mi m’agrada molt Barcelona i en particular la Missió. És una {ESP. iglésia} molt bona i molt de veure i el superior és un home molt de {ESP. garbo}. El Sr. Joan de Llubí li escriu una cosa d’amagat de mi. Només vull veure si ho sabrà tenir secret o no fins altra tarda. Al Dr. Gabriel i el Dr. Estrany moltes memòries i de mi les prendrà a son gust i [1§] Déu la guardi els dilatats anys de mon desig. Barcelona als 5 maig 1770. Son nebot qui més l’estima, Tomàs Mariano Quint Zaforteza Tia Cecília Transcripción literal"
+  ],
+  "literal": [
+    "1. Tia Cecilia esper esta la tro- 2. bera ab perfeta salut jo la 3. gos bona á Deu gracias á mi 4. me agrada molt Barselona y 5. en particular la misio es una Ycla- 6. cia molt bona y molt de veurar 7. y el superior es un homo molt 8. de carbo. el Sr. Juan de Llubi 9. li escriu una cosa de magat de 10. mi no mes vull veurar si eu 11. sabra tenir segret ó no fins 12. altra arde. á nel Sr. Dr. Gabri- 13. el y el Dr. estrani ms ms y de mi 14. las pendra á son gust y [?] [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "152-79a.jpg",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo06/152-79a.jpg",
+      "url": "/legajos/legajo-06/images/152-79a.jpg"
+    },
+    {
+      "filename": "153-79b.jpg",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo06/153-79b.jpg",
+      "url": "/legajos/legajo-06/images/153-79b.jpg"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "152-79a.jpg",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (2)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-06/cartas/000614.json",
+  "primary_image_url": "/legajos/legajo-06/images/152-79a.jpg"
+}

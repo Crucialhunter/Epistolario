@@ -1,0 +1,38 @@
+{
+  "legajo_id": "23",
+  "id_carta": "3748",
+  "order_in_legajo": 4,
+  "signatura": "002:3160.JPG",
+  "nombre_carta": "Carta de Sebastià Canet a Pedro Santacilia y Pax",
+  "fecha_original": "8 de enero de 1627",
+  "lugar": "Madrid",
+  "remitente": "Sebastià Canet",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Las de v. m. he donat en continent amb molt grans queixes que no escriguin amb puntualitat totes les estafetes, però com les coses van tant {ESP. d'espai} no s'ofer que escriure o [?] cavallers [?], si com diuen, que escriuen tot sovint, i que avui respondran, i així no tindré que cansar a v. m. puix sap ma voluntat i obligació. Molts dies ha que lo [?] anirà ha promès, i ens prometé, que el veureu per advertir alguna cosa. Promet a v. m. que ningú me guanya en afició, i que per ma part no faltaré en fer el que sia a propòsit. Vulgui Déu donaran bon succés, i que s'hi agafin vanes inquietuds. Don Juan Suñer ha hagut no sé que [?], i restà ferit, però no és cosa de {ESP. cuidado}, i està boníssim. Fou de nit, i amb persones que no coneix, ni en el ni jo que el coneguessin, no obliga a {ESP. cuidado}. Guardi Déu a v. m. com desitj. Madrid 8 gener 1627. El Dr. Sebastia Canet La relació que s'ha de fer al consell ens han promès ens comunicaran, perquè vegem el que s'ha advertir, Déu ho encamini. Sr. don Pedro Santacilia Transcripción literal"
+  ],
+  "literal": [
+    "1. Las de v.m. he donat encontinent ab molt grans quexas2. que no escriguen ab puntualitat totas las estafetas, pero com3. las cosas van tant de espay no se ofer que escriure o [?] Ca-4. vallers[?], si com diuhen, que escriuhen tot sovint, y que vuy res- 5. pondran, y axi no tindre que cansar a v.m. puix sap ma6. voluntat, y obligacio, molts dias ha quelo [?] nira lo pruces,7. yns promesori, quel veureu per advertir alguna cosa. Prumet8. á V.m. que ningu me guañá en aficio, y que per ma part9. no faltare en fer lo que sia á proposit. Vulca deu donaran bon 10. succes, y que si agat fi vanas inquietuts. Don Juan Suñer11. hu hagut no se que rixa, y restá ferit, pero no es cosa de cuyda-12. do, y esta bonissim. Fonch de nits, y ab personas, que no cuneix,13. ni enell yo quel coneguessen, no obliga á cuydado, gde deu á14. V.m. com desitg. Madrid 8. Janer 1627.15. Lo Dr. Sebastia Canet16. [^La relacio, que se ha de fer al Consell17. nos han promet per comunicaran, pera18. que vejam lo que fa advertir, deu ho encamine.]19. Sr. don Pedro Santa Cilia [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "002:3160.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo23/002:3160.JPG",
+      "url": "/legajos/legajo-23/images/002:3160.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "002:3160.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (2)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-23/cartas/003748.json",
+  "primary_image_url": "/legajos/legajo-23/images/002:3160.JPG"
+}

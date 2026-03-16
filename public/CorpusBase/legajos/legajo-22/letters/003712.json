@@ -1,0 +1,43 @@
+{
+  "legajo_id": "22",
+  "id_carta": "3712",
+  "order_in_legajo": 93,
+  "signatura": "168:5081a.JPG",
+  "nombre_carta": "Carta de Luis de Aragón (VII duque de Cardona) a Pedro Santacilia y Pax",
+  "fecha_original": "4 de enero de 1665",
+  "lugar": "Madrid",
+  "remitente": "Luis de Aragón (VII duque de Cardona)",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Ha sido común la perdida del rey nro. Sr. (que este en el Cielo) y así lo es el pésame. Recibo el que me da v. s., yo le vuelvo a v. s. y solicito por medio de esta aquellas ocasiones que serán del servicio de v. s. que guarde Dios muchos años. Madrid a 2 de noviembre 1665. Don Luis de Aragón Sr. D. Pedro Santacilia y Pax. [1§] Madrid 4 Enero 1665. Isidro Marques Transcripción literal"
+  ],
+  "literal": [
+    "1. Assido comun la perdida del rey nro. sr.2. (que este en el, cielo) y assi lo es el pesame, rezivo el3. que me da VS., yo le buelbo a VS, y solicito por medio4. desta aquellas ocasiones que seran del serviçio de VS5. que gde Dios muchos años Madrid á 2 de n[oviembr]e 16656. Don [?] de Aragon7. Sr. D. Pedro Sta. Çilia y Paz. [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "168:5081a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo22/168:5081a.JPG",
+      "url": "/legajos/legajo-22/images/168:5081a.JPG"
+    },
+    {
+      "filename": "169:5081b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo22/169:5081b.JPG",
+      "url": "/legajos/legajo-22/images/169:5081b.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "168:5081a.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-22/cartas/003712.json",
+  "primary_image_url": "/legajos/legajo-22/images/168:5081a.JPG"
+}

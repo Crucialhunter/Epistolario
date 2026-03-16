@@ -1,0 +1,38 @@
+{
+  "legajo_id": "11",
+  "id_carta": "1289",
+  "order_in_legajo": 59,
+  "signatura": "105:5150.JPG",
+  "nombre_carta": "Carta de Agustí Calafat a Pedro Santacilia y Pax",
+  "fecha_original": "30 de mayo de 1643",
+  "lugar": "Mallorca",
+  "remitente": "Agustí Calafat",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "A Mi Sr. don Pedro de Santacilia Jesús El plec de cartes de v. s. rebí amb el pare {ESP. fray} Antoni Planafor i {ESP. luego} envií el plec al senyor Togores i Montayans, i al canonge Cotoner tenen salut gràcies al senyor per estar indipost en el llit d'unes tercianes. No escric esta de mà pròpia a v. s. amb tot això no deix v. s. de manar-me coses de son gust que serviré a v. s. ço tinc obligació, el qual guardi Nostre Sr. com aquest mínim capellà li suplica. D'esta su casa dels Socors, maig 20 1643. Capella de v. s. que {ESP. sus manos} besa.Fr. Agusti Calafat Transcripción literal"
+  ],
+  "literal": [
+    "1. [^A mi sr. Don Pedro de Sta. Cilia^]2. [^Jesus^]3. El plec de cartas de VS rebi ab lo pe fray An 4. toni Planafor y luego enviy el plec al señor To 5. gores y Montayans, y an al Sr. Canonge Cotoner te 6. nen salud gratias al señor per estar indipost 7. en lo llit de unas tercianas no escric esta de ma 8. propia a VS ab toto axo no dex VS de manar 9. me cosas de son gust que servire a VS ço tinc 10. obligatio, el qual guarde Ntro. Sr. com est minim 11. capella ley supplica, desta su casa del Socors Mayg 20 1643 12. Capella de VS que sus manos 2713. besa. Fr. Agustí Calafat [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "105:5150.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo11/105:5150.JPG",
+      "url": "/legajos/legajo-11/images/105:5150.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "105:5150.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-11/cartas/001289.json",
+  "primary_image_url": "/legajos/legajo-11/images/105:5150.JPG"
+}

@@ -1,0 +1,48 @@
+{
+  "legajo_id": "31",
+  "id_carta": "6896",
+  "order_in_legajo": 137,
+  "signatura": "194:1647a.JPG",
+  "nombre_carta": "Carta de Conde de Zavellá a Pedro Santacilia y Pax",
+  "fecha_original": "24 de mayo de 1662",
+  "lugar": "Barcelona",
+  "remitente": "Conde de Zavellá",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "[1§] [2§] [3§] Transcripción literal"
+  ],
+  "literal": [
+    "1. 1. 1."
+  ],
+  "imagenes": [
+    {
+      "filename": "194:1647a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo31/194:1647a.JPG",
+      "url": "/legajos/legajo-31/images/194:1647a.JPG"
+    },
+    {
+      "filename": "195:1647b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo31/195:1647b.JPG",
+      "url": "/legajos/legajo-31/images/195:1647b.JPG"
+    },
+    {
+      "filename": "196:1647c.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo31/196:1647c.JPG",
+      "url": "/legajos/legajo-31/images/196:1647c.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "194:1647a.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-31/cartas/006896.json",
+  "primary_image_url": "/legajos/legajo-31/images/194:1647a.JPG"
+}

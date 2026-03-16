@@ -1,0 +1,43 @@
+{
+  "legajo_id": "15",
+  "id_carta": "2165",
+  "order_in_legajo": 61,
+  "signatura": "104:6390a.JPG",
+  "nombre_carta": "Carta de marqués de Leganés a Pedro Santacilia y Pax",
+  "fecha_original": "3 de abril de 1639",
+  "lugar": "Vercelli",
+  "remitente": "marqués de Leganés",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Muchas muestras me ha hecho v. m. con su carta de 18 de febrero, muy deseada por mí, por saber de su salud de v. m., que la falta de nuevas de ella me tenía con mucho cuidado. Las que v. m. me da del estado de esas cosas estimo como deseo, y lo que aquí puedo decir es que, no obstante la falta de Forrager [?] y otras [comodidades], que pudieran embarazarnos, salimos en campaña a los principios del mes pasado. y en menos de quince días se dio una rota [?] muy considerable a la Valeta [?] [degollándole] más de 600 hombres. y ocupamos el Genesio, lugar muy [Ininteligible] langar, y de muchas conveniencias para el paso del final, aunque nos cuesta haber perdido a don Martín de Aragón en aquel sitio, que nos tiene con sumo sentimiento y dolor. También ha entrado por esta parte el señor Pre [?] Thomas con las fuerzas que le hemos dado, y ocupado ha Chinas he Imbrea, con que queda comenzada la campaña y un grande empeño. Dios nos continúe los sucesos y guarde a v. m. muchos años. De Berseli, 3 de abril 1639, El marques de Leganes. [Señor don Pedro Santacilia] Vercelli, 3 de abril, 1639, El marques de Leganes [respondido] Transcripción literal"
+  ],
+  "literal": [
+    "1. Muchas mras me ha hecho Vm. consu Carta de 18 de hebo 2. muí deada por mí por saver delasalud de Vm, que la falta 3. de nuevas della metenia con mucho Cuidado, Las que Vm, meda4. del estado de essas cosas estimo como deseo, y loque de aqui puedo. 5. deçir es que no obstante La falta de forrager.[?] yotras como dista6. des que pudieran embarazarnos salimos en Campaña alos 7. prinçipios del mes pasado, y en menos dequinçe dias sedio Una8. rota muí considerable a la Valeta dedollandole mas de 9. 600 hombres, y ocupamos el Genessio lugar mui [Ilegible] 10. langar, y de muchas conbeniençias para el paso del final, aunq 11. nos cuesta haver perdido a DonMartin de Aragon en aquel sitio 12. que nos tiene consumo sentimiento y dolor, tambien ha entrado 13. por esta parte el sor Pre Thomas con las fuerzas que le hemos 14. dado, y ocupado a Chinas, y sabrea, conque queda comenzada la 15. Campaña yen Un grande empeño, Dios nos continue los suçesos 16. y Gue a Vm, muchos años, de Verçeli 3 de Abril 1639 17. El Ms deleganes18. [Margen izquierdo][^ Sr don Po StaCicilia] [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "104:6390a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo15/104:6390a.JPG",
+      "url": "/legajos/legajo-15/images/104:6390a.JPG"
+    },
+    {
+      "filename": "105:6390b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo15/105:6390b.JPG",
+      "url": "/legajos/legajo-15/images/105:6390b.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "104:6390a.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (2)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-15/cartas/002165.json",
+  "primary_image_url": "/legajos/legajo-15/images/104:6390a.JPG"
+}

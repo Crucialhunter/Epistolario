@@ -1,0 +1,50 @@
+{
+  "legajo_id": "38",
+  "id_carta": "5486",
+  "order_in_legajo": 106,
+  "signatura": "026::10",
+  "nombre_carta": "Carta de Escrivà Miralles a Persona desconocida",
+  "fecha_original": "1 de enero de 1666",
+  "lugar": "Alcúdia",
+  "remitente": "Escrivà Miralles",
+  "destinatario": "Persona desconocida",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Delme de bestiars de la ciutat d'Alcúdia de l'any 1666 lliurat a Antoni Martorell als Garumba de la vila de Selva al qual se li és estat lliurat per prende 248 ll Fiancas Pere Alberti als Soldat fill de Juan de la vila de Selva Llorenç Ribes de Puia habitador en la vila d'Inca Mestre Miquel Riera ferrer de la vila de Binissalem habitador en dita vila d'Inca Miralles sba. Sr. D. Diego Clapes mensari Sr. D. Ramon Sureda mensari Antoni Pisa Ador. de la mensa episcopal Pere Onofre Mayol pdor. de la mensa capitular [1§] Transcripción literal"
+  ],
+  "literal": [
+    "1. Delme de bestiars de la ciutat de Alcudia2. del añy 1666 lliurat a Antoni Martorell3. als. Garumba de la vila de Selva en al qual4. se li es estat lliurat per prende 248 ll5. Fiancas6. Pere Alberti als Soldat fill de Juan de la vila7. de Selva8. Llorens Ribes de Puia habitador en la vila9. de Incha10. Mestre Miquel Riera ferrer de la vila de11. Binissalem habitador en dita vila de Incha12. Miralles sba.13. D. Diego Clapes mensari14. D. Ramon Sureda mensari15. Ant[oni] Pisa Ador. de la mensa Apiscopal16. Pere Honofre Mayol pdor.17. de la mensa capitular [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "026::10.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo38/026::10.JPG",
+      "url": "/legajos/legajo-38/images/026::10.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "026::10.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (2)",
+      "context": {}
+    },
+    {
+      "code": "IMAGE_DOWNLOAD_FAIL",
+      "message": "ENOENT: no such file or directory, open 'E:\\Proyectos Web\\Epistolario\\epistolario\\raw\\legajos\\legajo-38\\imagenes\\026::10.JPG'",
+      "context": {
+        "url": "http://santacilia.info/intranet2/img/Legajo38/026::10.JPG"
+      }
+    },
+    {
+      "code": "IMAGE_COUNT_MISMATCH",
+      "message": "Imágenes detectadas (1) != descargadas (0)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-38/cartas/005486.json",
+  "primary_image_url": "/legajos/legajo-38/images/026::10.JPG"
+}

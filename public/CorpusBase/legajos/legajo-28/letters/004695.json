@@ -1,0 +1,43 @@
+{
+  "legajo_id": "28",
+  "id_carta": "4695",
+  "order_in_legajo": 1,
+  "signatura": "004:3628a.JPG",
+  "nombre_carta": "Carta de condesa de Zavellá a Pedro Santacilia y Pax",
+  "fecha_original": "fecha sin especificar",
+  "lugar": "lugar sin especificar",
+  "remitente": "condesa de Zavellá",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Sé, amb una carta que he rebuda jo de Mallorca, que v. m. no tindrà amb estes molt bones noves. Confés, la veritat, que no sé si ho sentiria tant si fossin coses mies perquè d'elles dependria solament un poc d'interès i sent de v. m. és això mateix i la inquietud que perilla d'altra part que no s'augmenta. Vulgui Déu que no sia, per sa bondat, i dón a v. m. el rendiment de sa voluntat i valor per a passar-ho amb paciència. El que importa es pendre-ho com de mà de qui ve, que encara que els treballs són causats de mà de diferents persones, és Déu els que els dóna per nostre remei, i per nostre profit, dic de l'ànima que és el blanc a on hem de tirar, que tot [el] {ESP. demés} és aire. Ocasió tindrà v. m. de demanar-me a on tinc quaresma, puix [1§] sermó li he fet en esta carta. Pot estar cert que tot açò parteix de l'afició que li tinc, que tot el que li dic és el que jo voldria pendre per mi en semblants ocasions, que encara que no del mateix {ESP. jaez} no em falten a mi {ESP. tragos}, com v. m. sap i com li dirà mon germà, prou amargs. Mes li assegur que m'apar que em tindria per desditxada si no em ves amb eixes coses. . Arnauet està boníssim. Déu guardi a v. m. La comtessa de Zavella. Transcripción literal"
+  ],
+  "literal": [
+    "1. Se que ab una carta que he rebuda2. jo de mallorca que Vm no tindra3. ab estas molt bones noves. Confes4. la Veritat que no se si u sentiria5. tant si fosen coses mias perque6. delles dependiria solament un poch7. de interes y sent de Vm es aixo ma8. teix y la inquietut de a que perilla9. de altre part que no se aumenta10. vulla Deu que no sia per sa bondad11. y don a Vm lo rendiment de sa voluntat12. y valor pera pasaro ab paçiençia13. lo que importa es pendreu com de ma14. de qui ve que encara que los treballs15. son causats de ma de diferents perso16. nes es Deu lo quets done per nostrõ17. remey, y per nostron profit, dich18. de lanima ques lo blanch ahont ha19. vem de tirar que tot [lo] demes es ay20. re, ocasio tindra Vm de demanar21. me ahont tinch coresma pues [?] [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "004:3628a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo28/004:3628a.JPG",
+      "url": "/legajos/legajo-28/images/004:3628a.JPG"
+    },
+    {
+      "filename": "005:3628b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo28/005:3628b.JPG",
+      "url": "/legajos/legajo-28/images/005:3628b.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "004:3628a.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-28/cartas/004695.json",
+  "primary_image_url": "/legajos/legajo-28/images/004:3628a.JPG"
+}

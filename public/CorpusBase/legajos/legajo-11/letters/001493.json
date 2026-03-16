@@ -1,0 +1,38 @@
+{
+  "legajo_id": "11",
+  "id_carta": "1493",
+  "order_in_legajo": 260,
+  "signatura": "445:5348.JPG",
+  "nombre_carta": "Carta de Cristóbal Crespí de Valldaura y Brizuela a Pedro Santacilia y Pax",
+  "fecha_original": "8 de agosto de 1663",
+  "lugar": "Madrid",
+  "remitente": "Cristóbal Crespí de Valldaura y Brizuela",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Su carta de v. s. de 14 del pasado he recibido, y por ella veo como v. s. había jurado y encargándose de ese gobierno en el inte rin que llega el señor don Rodrigo de Borja, y espero que todas las materias que ahy se ofrecieren tendrán el buen cobro que conviene corriendo por mano v. s. Para el Canonicato que vacaba en esa santa iglesia ha nombrada su majestad al Dr. Diego Clapes que es lo que por acá se ofrece de que avisar a v. s. que guarde Nuestro Señor largos años. Madrid a 8 de agosto 1663 Sr. don Cristobal Crespi de Valldaura Duplicado Sr. don Pedro Santacilia y Pax [1§] Transcripción literal"
+  ],
+  "literal": [
+    "1. Su carta de VS de 14 del passo he recivido, y por ella veo como 2. VS havia jurado y encargandose desse Govierno en el inte 3. rin que llega el señor don Rodrigo de Borja, y espero que 4. todas las materias que ahy se ofrecieren tendran el buen 5. cobro que combiene corriendo por mano VS. 6. Para el Canonicato que vacava en essa santa Iglesia ha 7. nombrada su Magd al Dr. Diego Clapes que es lo que por 8. aca se ofrece de que avisar a VS que gde Nuestro Señor lar 9. gos años. Md a 8 de Agosto 1663 10. Don Christoval Crespi de Valdaura 11. [^Duppdo^]12. [^Sr. don Pedro Santacilia y Pax^] [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "445:5348.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo11/445:5348.JPG",
+      "url": "/legajos/legajo-11/images/445:5348.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "445:5348.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (2)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-11/cartas/001493.json",
+  "primary_image_url": "/legajos/legajo-11/images/445:5348.JPG"
+}

@@ -1,0 +1,43 @@
+{
+  "legajo_id": "31",
+  "id_carta": "6881",
+  "order_in_legajo": 123,
+  "signatura": "174:1632a.JPG",
+  "nombre_carta": "Carta de Bartolomé Mercadal a Pedro Santacilia y Pax",
+  "fecha_original": "14 de noviembre de 1661",
+  "lugar": "Ciutadella",
+  "remitente": "Bartolomé Mercadal",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Senyor Por. Real persones de mi obligació en son volgudes de mi pel favor i {ESP. amparo} de v. s. en la pretensió que té Joan Segui en un benefici que vaca per mort del Rt Joan Segui son oncle del qual son patronats, el mateix Joan Segui i Llorenç Segui son hierma, i per altra part els hermas de Domingo Segui i d'esta part contrària de Joan Segui mon recomanat una altra [?] amb què ve a tenir més dret que l'altra part, a més que té corona i es capaç d'obtenir el beneficy, i l'altra part es minyó que segons diuen ha fetes diligències per se Santidad el Reverent Jaume Bru serà el sol·licitador de [?] gratificació i informera més llargament a v. s. en a qui suplic empar [?] pretensió de Joan Segui com a persona de me sang i en aquí desig veure acomodad que medrant la autoritat de v. s. espero el bon Despuig doncs li assistexmajor dret sens comparació v. s. per a molt ha donat paraula de casament amb la Sra. Elisabet Ameller filla del Joan Ameller i demà que serà diyous seran les bodas, no crec que amb el hierma Rafel li vinga a compte esta nova. Déu N guardi a v. s. Ciuª i novembre 14 de 1661 Molt servidor. de v. m. que b. s. m. don Bart Mercadal Transcripción literal"
+  ],
+  "literal": [
+    "1. Señor Por. Real 2. Personas de mi obligacio en son volgudes de 3. mi per el favor y amparo de VS. en la pre4. tencio que te Joan Sagui en un benefici que 5. vaca per mort del Rt Joan Sagui son 6. onclo del qual son patronats, lo matex Jo7. an Sagui y Llorens Sagui son hierma, y per 8. altra part los hermas de Domingo Sagui 9. y desta part contraria de Joan Sagui mon 10. recomenat una altra [?] ab que ve 11. a tenir mes dret que laltra part, ademes 12. que te corona y es capas de obtenir el 13. beneficy, y laltra part es miño que 14. segons diuen ha fetas diligensias per se 15. Santidad = lo Reverent Jauma Bru 16. sera el solicitador de [?] gratificatio 17. y informera mes llargament a VS. en 18. aqui suplich anpar [?] pretencio de 19. Joan Sagui com a persona de me sanch 20. y en aqui desig veura acomodad que me21. drant la autoritat de VS. espero [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "174:1632a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo31/174:1632a.JPG",
+      "url": "/legajos/legajo-31/images/174:1632a.JPG"
+    },
+    {
+      "filename": "175:1632b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo31/175:1632b.JPG",
+      "url": "/legajos/legajo-31/images/175:1632b.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "174:1632a.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-31/cartas/006881.json",
+  "primary_image_url": "/legajos/legajo-31/images/174:1632a.JPG"
+}

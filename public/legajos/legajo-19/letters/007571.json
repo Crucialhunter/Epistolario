@@ -1,0 +1,37 @@
+{
+  "legajo_id": "19",
+  "id_carta": "7571",
+  "order_in_legajo": 134,
+  "signatura": "131_cg53a.JPG",
+  "nombre_carta": "Carta de Persona desconocida a Pedro Santacilia y Pax",
+  "fecha_original": "fecha sin especificar",
+  "lugar": "lugar sin especificar",
+  "remitente": "Persona desconocida",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "[Llistat de noms] [1§] Acaba de llegar Jerónimo con la estimada cartade v. m. y no acaba Transcripción literal"
+  ],
+  "literal": [
+    "1. [Llistat de noms]1. Acaba de llegar Geronimo con la estimada carta2. de V. M. y no acaba [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "131_cg53a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo19/131_cg53a.JPG",
+      "url": "/legajos/legajo-19/images/131_cg53a.JPG"
+    },
+    {
+      "filename": "132_cg53b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo19/132_cg53b.JPG",
+      "url": "/legajos/legajo-19/images/132_cg53b.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "131_cg53a.JPG",
+  "warnings": [],
+  "raw_source": "raw/legajos/legajo-19/cartas/007571.json",
+  "primary_image_url": "/legajos/legajo-19/images/131_cg53a.JPG"
+}

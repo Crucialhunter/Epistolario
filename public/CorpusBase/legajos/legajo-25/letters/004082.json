@@ -1,0 +1,43 @@
+{
+  "legajo_id": "25",
+  "id_carta": "4082",
+  "order_in_legajo": 16,
+  "signatura": "034_116a.JPG",
+  "nombre_carta": "Carta de Pablo Corbella a Jerónimo Pelegrín de Aragüés",
+  "fecha_original": "2 de marzo de 1667",
+  "lugar": "Càller (Cagliari)",
+  "remitente": "Pablo Corbella",
+  "destinatario": "Jerónimo Pelegrín de Aragüés",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Ya tengo respondido a las cartas que he recibido de v. m. con las ocasiones que se han ofrecido y habiendo llegado a este puerto el patrón Mataró que viene de Sicilia y va a esa ciudad escribo con él, al cual he hablado por si podía llevarla acá, que v. m. me tiene pedido y me ha dicho no puede por hallarse muy embarazado y para más a ganarlo le diré era para el Sr. don Pedro. En fin, señor v. m. a los que vinieren de ahí ajuste el que quiera embarcarla que yo se la daré puerta a bordo. Don Manuel de Sarabia está bueno y besa a v. m. las manos. Pocos meses ha se le murió aquí el padre. V. m. me diga como se halla el Sr. don Pedro y el Sr. don Juan, cuyas manos besamos y en que estado se halla el Sr. D. Nicolas que juzgo habrá ya vuelto del viaje de la Sra. emperatriz y v. m. me participe las novedades que hubiere de España, que aquí no vemos sino bajeles de franceses y ninguno trae cartas. V. m. me diga donde se halla don Pedro Berga, al cual remití una arca negra con patrón Antonio Blasco y nunca he sabido si la recibió. V. m. se sirva dar muchos recados de mi parte al Sr. Miguel Fiol que ha mucho tiempo no he sabido nada de su merced. Al amigo [?] muchos recados que con Flexes le [1§] tengo escrito que me tiene siempre a su servicio como v. m. también, cuya vida guarde Nro. Sr. con toda su casa como deseo. Cáller y marzo a 2 de 1667. Beso a v. m. la mano su más amigo y servidor Pablo Corbella El pliego que va a Juan Serra en Barcelona v. m. se sirva de encaminarlo con todo cuidado Jeronimo Pelegrin y Aragues Transcripción literal"
+  ],
+  "literal": [
+    "1. Ya tengo respondido a las cartas que he recivido2. de m. con las ocassiones que se han ofrecido y abien3. do llegado a este puerto el Patron Mataró que viene4. de Siçilia y va aessa ciudad escrivo con el al qual he5. hablado por si podia llebar la aca que Vm. me tiene6. pidido y me ha dicho no puede por hallarsse muy en7. barasado y para mas aganarlo le dire era para el Sr.8. Don Pedro= en fin senor Vm. a los que vinieren de ahi9. ajuste el que quiera enbarcarla que yo se la dare puer10. ta abordo= Dom Manuel de Sarabia esta bueno y b[es]a11. a Vm las m[ano]s pocos messes ha se le murio aqui el padre12. Vm. me diga como se halla el Sr. Don Pedro y el Sr. Don Juan13. cuyas man[o]s Bº y en que estado se halla el Sr. D. Nicolas14. que juzgo avra ya buelto del viage de la Sra. emperatriz15. y Vm me participe las nobedades que hubiere de españa16. que aqui no vemos sino baxeles de francesses y ninguno17. trae cartas= Vm me diga donde se halla don Pedro,18. Berga al qual remiti una arca negra con Patron Antonio19. Blasco y nunca he sabido si la recivio20. Vm. se sirba dar muchos recados de mi parte al Sr. Miguel21. Fiol que ha mucho tiempo no he sabido nada de su md.22. al amigo Petillas muchos recados que con Flexes le [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "034_116a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo25/034_116a.JPG",
+      "url": "/legajos/legajo-25/images/034_116a.JPG"
+    },
+    {
+      "filename": "035_116b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo25/035_116b.JPG",
+      "url": "/legajos/legajo-25/images/035_116b.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "034_116a.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (4)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-25/cartas/004082.json",
+  "primary_image_url": "/legajos/legajo-25/images/034_116a.JPG"
+}

@@ -1,0 +1,48 @@
+{
+  "legajo_id": "32",
+  "id_carta": "7040",
+  "order_in_legajo": 33,
+  "signatura": "021:1798a",
+  "nombre_carta": "Carta de Jerónimo Pelegrín de Aragüés a Persona desconocida",
+  "fecha_original": "2 de enero de 1664",
+  "lugar": "Mallorca",
+  "remitente": "Jerónimo Pelegrín de Aragüés",
+  "destinatario": "Persona desconocida",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Â [1§] Â [2§] Â [3§] Transcripción literal"
+  ],
+  "literal": [
+    "1. 1. 1."
+  ],
+  "imagenes": [
+    {
+      "filename": "021:1798a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo32/021:1798a.JPG",
+      "url": "/legajos/legajo-32/images/021:1798a.JPG"
+    },
+    {
+      "filename": "022:1798b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo32/022:1798b.JPG",
+      "url": "/legajos/legajo-32/images/022:1798b.JPG"
+    },
+    {
+      "filename": "023:1798c.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo32/023:1798c.JPG",
+      "url": "/legajos/legajo-32/images/023:1798c.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "021:1798a.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (13)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-32/cartas/007040.json",
+  "primary_image_url": "/legajos/legajo-32/images/021:1798a.JPG"
+}

@@ -1,0 +1,43 @@
+{
+  "legajo_id": "21",
+  "id_carta": "3482",
+  "order_in_legajo": 170,
+  "signatura": "313:5770a.JPG",
+  "nombre_carta": "Carta de Pedro Fajardo de Requeséns-Zúñiga y Pimentel (V marqués de los Vélez) a Pedro Santacilia y Pax",
+  "fecha_original": "24 de septiembre de 1639",
+  "lugar": "Tolosa",
+  "remitente": "Pedro Fajardo de Requeséns-Zúñiga y Pimentel (V marqués de los Vélez)",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Huélgome que los dragones están bíen alojados y que esto se haya ajustado con la mayor conformidad que se haya podido y lo que lo comendado de que se socorran en habiendo de que y juzgo se podrá hacer presto. v. s. procure que estén quietos y se castiguen los excesos para satisfacción de los naturales que no es mucho sientan esta carga cuando han padecido tantas. Guarde Dios a v. m. muchos años, Tolosa setie 24 de 1639. En teniendo respuesta de Madrid aprestaremos al [?] y alojamiento y [?] días. El marques de los Velez Sr. D. Pedro Santacilia [1§] Tolosa 24 Septiembre 1639 El marques de los Velez rdo. Transcripción literal"
+  ],
+  "literal": [
+    "1. Huelgome que los Dragones estan bíen aloxados yque 2. estoseaya ajustado con Lamayor conformidad quese aya po=3. dido ylo quelo conevídado[?] de quesesocorran en haviendo deque 4. y jusgo sepodra haçer presto, Vm procure questen quietos 5. y secastiguen los excessos parasatisfacíon delos naturales 6. que noes mucho sientan estacarga quando anpadecído tantas 7. gue Dios a Vm Muchos años Tolosa setie 8. 24 de 1639 enteniendo unarres[?] 9. prestade madrid[?] aprestaremos algo 10. como y alojamiento y presquedea[?] 11. maditos [?] dias 12. El Marqs delos Veles 13. Sr D P>edr>o Santaçilia [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "313:5770a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo21/313:5770a.JPG",
+      "url": "/legajos/legajo-21/images/313:5770a.JPG"
+    },
+    {
+      "filename": "314:5770b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo21/314:5770b.JPG",
+      "url": "/legajos/legajo-21/images/314:5770b.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "313:5770a.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (5)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-21/cartas/003482.json",
+  "primary_image_url": "/legajos/legajo-21/images/313:5770a.JPG"
+}

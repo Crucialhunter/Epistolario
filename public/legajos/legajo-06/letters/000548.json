@@ -1,0 +1,53 @@
+{
+  "legajo_id": "6",
+  "id_carta": "548",
+  "order_in_legajo": 47,
+  "signatura": "",
+  "nombre_carta": "Carta de J. Maria Clariana y Montaner a Cecilia Zaforteza y Sureda de Sant Martí",
+  "fecha_original": "10 de febrero de 1742",
+  "lugar": "Barcelona",
+  "remitente": "J. Maria Clariana y Montaner",
+  "destinatario": "Cecilia Zaforteza y Sureda de Sant Martí",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Amiga y querida, Quisiera ésta te hallase con la salud que mi fino cariño te desea. La mía es buena y siempre para servirte en lo que sea de tu mayor agrado. A Magdalena Sureda, a Catarina Sureda y a Francisca Verí darás muchas memorias de mi parte. Como hay tanto tiempo que no he tenido noticias tuyas, te escribo ésta por saber si estás buena, que si [1§] yo no tenía tantas cartas que hacer, todos los correos escribiría a todas, que no es por falta de cariño, porque yo me alegro mucho de tener cartas de mis amigas y singularmente de tú que ya sabes la amistad que siempre te he profesado. Ya me dirás si habéis bailado mucho estas carnestolendas, que yo deseo saberlo. Tu sobrino, d. Carlos Boixadors, ya te dará noticias de mí visita[?]. De mí no tengo más que decirte por ahora. Si quieres algo de mí, avisa que lo haré con infinito gusto. Y quedo [2§] tuya de corazón, rogando a Dios te guarde muchos años, como deseo. Barcelona a Febrero al 10 de 1742. Tu amiga, quien más te quiere de corazón, J. María Clariana y Montaner. A mi amiga Cecilia Fortesa y Sureda Transcripción literal"
+  ],
+  "literal": [
+    "1. Amiga y querida quisiere 2. esta te alase con la salut 3. que mi fino cariño te desea. 4. La mia es buena y siempre 5. para servirte en lo que seia 6. de tu major agrado. A Ma7. dalena Sureda, a Catarina 8. Sureda y a Francisca Verí 9. daras muchas memorias 10. de mi parte. Como ay tan-11. to tiempo que no e tenido no-12. ticias tuas, te escribo esta por 13. saber si estás buena que si [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "029_18.jpg",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo06/029_18.jpg",
+      "url": "/legajos/legajo-06/images/029_18.jpg"
+    },
+    {
+      "filename": "030_18.jpg",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo06/030_18.jpg",
+      "url": "/legajos/legajo-06/images/030_18.jpg"
+    },
+    {
+      "filename": "031_18.jpg",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo06/031_18.jpg",
+      "url": "/legajos/legajo-06/images/031_18.jpg"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "029_18.jpg",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    },
+    {
+      "code": "MISSING_SIGNATURA",
+      "message": "Signatura vacía",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-06/cartas/000548.json",
+  "primary_image_url": "/legajos/legajo-06/images/029_18.jpg"
+}

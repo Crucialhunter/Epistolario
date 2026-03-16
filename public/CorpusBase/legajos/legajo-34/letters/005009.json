@@ -1,0 +1,38 @@
+{
+  "legajo_id": "34",
+  "id_carta": "5009",
+  "order_in_legajo": 39,
+  "signatura": "057:6926.JPG",
+  "nombre_carta": "Carta de Fructuoso Piqué a Pedro Santacilia y Pax",
+  "fecha_original": "2 de febrero de 1656",
+  "lugar": "Madrid",
+  "remitente": "Fructuoso Piqué",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "mío Aunque por Barcelona y Valencia he escrito a v. m. estos días, No quiero dejar de besar su mano con esta y decirle que y a se queda haciendo su despacho, que así me lo ha asegurado Fiego Matias de Aragues, y que podremos remitirle por vi [?] de hoy a 6 días, y yo Lo instare bivamente por Lo mucho que lo deseavm Aquien doy la enhorabuena del buen emueso de Jeronimo Pelegrin en su pretensión, pues y a juzgo le ha hecho merced del oficio que pedía Suppo a v. m. me haga merced demandar que se de laga la inclusa de Marcos Valles en propia mano que me imiporta y es otra de Fortuny, y acuerdese v. m. de hacerme merced en lo que le tengo supdo y demandarme siempre. Guarde Dios a v. m. muchos años como deseo de Madrid a 2 de febrero 1656 B. l.a m. devm su amigo y Sr. menor servidor Fructuoso Pique 19, extrem inferior Sr. don Pedro Santacilia y Pax [1§] Transcripción literal"
+  ],
+  "literal": [
+    "1. Sr mio Aunq por Barna y Vala he escrito avm2. estos dias, No quiero dejar de besar su mano con esta3. Y dezirle que Ya se queda haziendo su despacho, que4. assi me lo ha assegurado Fiego Mathias de Aragues, Y5. que podremos remitirle por vi[?] de hoy a 6 dias, Y Yo6. Lo instare bivamte por Lo mucho quelo deseavm7. Aquien doy la nora buena del buen [emuesso] de Gmo8. Pelegrin en su pretension, pues Ya jusgo le ha hecho9. md del officio que pedia10. Suppo avm me haga md demandar quese de [laga] la11. inclusa de Marcos Valles en propia mano q me imiporta12. y e[sso]tra de [F]ortuny, Y acuerdesevm. de hazerme13. md en lo que le tengo suppdo y demandarme siempre14. gde Dios avm muchos años como deseo de Md a 2 de 15. Febrero 165616. B. l.[a] m. devm17. su amigo y mor seror18. Fructuoso Pique19. [29, extrem inferior] Sr. Don Po Sta cilia Y Pax [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "057:6926.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo34/057:6926.JPG",
+      "url": "/legajos/legajo-34/images/057:6926.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "057:6926.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-34/cartas/005009.json",
+  "primary_image_url": "/legajos/legajo-34/images/057:6926.JPG"
+}

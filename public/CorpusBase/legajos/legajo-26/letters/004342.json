@@ -1,0 +1,57 @@
+{
+  "legajo_id": "26",
+  "id_carta": "4342",
+  "order_in_legajo": 78,
+  "signatura": "111:3436a.JPG",
+  "nombre_carta": "Carta de Feliciano Sarmiento de Valladares a Pedro Santacilia y Pax",
+  "fecha_original": "14 de diciembre de 1639",
+  "lugar": "Madrid",
+  "remitente": "Feliciano Sarmiento de Valladares",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Mucho más afligido que v. m. estoy yo pero con confianza de presto verle y doy este en este lugar donde pienso v. m. ha de correr gran puesto porque el conde está muy en ello y me ha hablado de v. m. de mucha chanza y me ha dado un recado de palapra para v. m. y encargádome mucho se lo dé, que será cuando nos veamos. Yo en teniendo la licencia luego al instante saldré de aquí. Suplico a v. m. le avise a vivo y me tenga el dinerillo que me debe y a fe que se lo debo a v. m. el no escribirme y al teniente que mes si Josep Navarro hace lo que puede como todos. No puede escribir por el correo que avisan a Salsas ahora vino de Salsas con dicen que se rendirán presto y el nuncio se va dentro de ocho días [1§] todo anda al revés. El Sr. don Juan Suñer está malo de su gota. Besa a v. m. la mano al padre Domenech mil recados. Todos los memoriales los remitieron al conde y con las prisas no los despachan. Es seguro todo saldrá bien. Dios guarde a v. m. como puede y yo deseo. Madrid y diciembre 14 de 1639. Don Feliciano Sarmiento de Valladares Madrid 14 Diciembre 1639 Don Feliciano Sarmiento de Valladares Sr. gobernador Transcripción literal"
+  ],
+  "literal": [
+    "1. Mucho mas aflijido q Vm estoy yo2. pero con confiansa de presto verle3. y doy este eneste lugar donde pienso4. Vm a de corer gran puesto porq el conde5. esta mui enello y me a ablado de6. Vm de mucha chansa y me a dado7. un rrecado de palapra para Vm8. y encargado me mucho se lo de q sera9. cuando nos veamos, yo en tiniendo la10. licensia luego al instante saldre de11. aqui sup[li]co a Vm. le avise avivo y me ten12. ga el dinerillo q me deve y a fe que se13. lo devo a Vm el no escrivirme y al tinien14. te que mes si Joseph nabarro ase lo q pue15. de como todos, no puede escrivir por el16. correo q avisan a Salsas aora bino de Sal17. sas con disen q se rendiran presto y el18. nunsio se ba dentro de ocho dias [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "111:3436a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo26/111:3436a.JPG",
+      "url": "/legajos/legajo-26/images/111:3436a.JPG"
+    },
+    {
+      "filename": "112:3436b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo26/112:3436b.JPG",
+      "url": "/legajos/legajo-26/images/112:3436b.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "111:3436a.JPG",
+  "warnings": [
+    {
+      "code": "IMAGE_DOWNLOAD_FAIL",
+      "message": "HTTP 404",
+      "context": {
+        "url": "http://santacilia.info/intranet2/img/Legajo26/111:3436a.JPG"
+      }
+    },
+    {
+      "code": "IMAGE_DOWNLOAD_FAIL",
+      "message": "HTTP 404",
+      "context": {
+        "url": "http://santacilia.info/intranet2/img/Legajo26/112:3436b.JPG"
+      }
+    },
+    {
+      "code": "IMAGE_COUNT_MISMATCH",
+      "message": "Imágenes detectadas (2) != descargadas (0)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-26/cartas/004342.json",
+  "primary_image_url": "/legajos/legajo-26/images/111:3436a.JPG"
+}

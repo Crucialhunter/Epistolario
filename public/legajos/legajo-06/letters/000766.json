@@ -1,0 +1,43 @@
+{
+  "legajo_id": "6",
+  "id_carta": "766",
+  "order_in_legajo": 72,
+  "signatura": "456-227a",
+  "nombre_carta": "Carta de Cecilia Zaforteza y Sureda de Sant Martí a Persona desconocida",
+  "fecha_original": "de octubre de 1748",
+  "lugar": "Palma",
+  "remitente": "Cecilia Zaforteza y Sureda de Sant Martí",
+  "destinatario": "Persona desconocida",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Sobrino y muy Sr. mío, En carta de 11 del pasado participé a v. e. la pérdida de mi querido esposo y tío de v. e. poniendo sólo unas pocas palabras de mi propio puño. La pena, ocupaciones indispensables en tan duro y afligido lance y un fuerte resfriado (^que) de que aún me hallo mal convalecida no me permitieron alargarme más. La enfermedad fue de las más impertinentes y tenaces, pues los remedios que consideraron los médicos a propósito para curarla no aprovecharon y en vista de que a principios del mes de agosto le faltaban las fuerzas y se enflaquecía con tan copiosa evacuación de sangre, les pareció conveniente (^a los Médicos) tomase la leche de burra, la que a los primeros días le hizo algún beneficio pero después prosiguió en la misma flaqueza, acabando las fuerzas. No hay [1§] duda ha tenido cuanta asistencia temporal se puede imaginar en el largo curso de su enfermedad, que ha durado 25 meses sirviéndonos de evidente desengaño, que cuando Dios nos quiere para sí aprovechan poco las humanas diligencias. Estoy persuadida está gozando de Dios, pues no me puedo (^persuadir) prometer otra cosa atendiendo a su ajustada vida y ejemplar muerte. No dudo rogará v. e. a Dios por su alma, pues en vida le profesaba un imponderable cariño, y me dará frecuentes y repetidas ocasiones de servirle. Quedo rogando a Dios guarde a v. e. muchos años. Transcripción literal"
+  ],
+  "literal": [
+    "1. Sobrino, y Muy Sr. Mio: en Carta 2. de 11 del pasado participé a V.Exa. la 3. perdida de mi Querido Esposo, y Tio de 4. V.Exa. poniendo solo unas pocas pala- 5. bras de mi propio puño; la Pena, ocupa- 6. siones indispensables, en tan duro, y afli- 7. gido lance, y un fuerte resfriado (^que) de 8. que ahun me hallo mal convale- 9. cida, no me permitieron alargarme 10. mas; la enfermedad, fue de las mas in- 11. pertinentes, y tenaces, pues los remedios, 12. que concideraron los medicos a proposito 13. para curarla, no aprovecharon y en vista 14. de que a principios del mes de Agosto; le 15. faltavan las fuerzas; y se enflaque- 16. cia con tan copiosa evacuasion de san- 17. gre; les parecio Conveniente (^a los Medicos) 18. tomasse la leche de Burra; la que á 19. los primeros dias le hizo algun Bene- 20. ficio; pero despues prosiguio en la mis- 21. ma flaqueza, acabando las fuerzas; 22. No ay [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "456-227a.jpg",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo06/456-227a.jpg",
+      "url": "/legajos/legajo-06/images/456-227a.jpg"
+    },
+    {
+      "filename": "457-227b.jpg",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo06/457-227b.jpg",
+      "url": "/legajos/legajo-06/images/457-227b.jpg"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "456-227a.jpg",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-06/cartas/000766.json",
+  "primary_image_url": "/legajos/legajo-06/images/456-227a.jpg"
+}

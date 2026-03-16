@@ -1,0 +1,38 @@
+{
+  "legajo_id": "27",
+  "id_carta": "4670",
+  "order_in_legajo": 142,
+  "signatura": "240:4479.JPG",
+  "nombre_carta": "Carta de Jerónimo Mancho a Pedro Santacilia y Pax",
+  "fecha_original": "17 de agosto de 1661",
+  "lugar": "Madrid",
+  "remitente": "Jerónimo Mancho",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "No he querido escribir a v. m. estos días hasta ser de todo libre de su achaque al Sr. don Juan Miguel, y aunque ha quedado flaco por la mucha evacuación de sangre de que está algo descolorido, pero come lindamente y con brevedad se cobrará lo perdido. Mañana tomará su hábito de Santiago que también le servirá de facilitar su convalecencia. Hasta ahora no ha tenido ocasión Diego Matias de entregarme aquel dinero de los anuales por la ocasión que el dirá a v. m. cuya vida guarde Dios muchos años como deseo. Madrid y agosto a 17 de 1661. Besa la mano de v. m. su más obligado servidor Jeronimo Mancho Sr. don Pedro Santacilia y Pax Transcripción literal"
+  ],
+  "literal": [
+    "1. No he queriod escri ir avm estos dias hasta ser de 2. todo libre desu achaque al S. Don Juan Miguel, y aunq haquedado3. flaco por la mucha evacuacion de sangre de que esta algo descolorido pero4. come lindamte. Y con brevedad se cobrara lo perdido = Mañana5. tomrà su habito de Stiago que tambien le servirà de fazilitar6. su convaleciencia =7. Hasta ahora no ha tenido ocasión Diego Mathias deentregarme8. aquel dinero delos annuales por la ocasion que el dira a Vm.9. cuia vida gde Dios mus años como deseo Md y Agosto10. a 17 de 1661.11. B. l.[a] m. de Vm12. Su mas obligado ser13. Geronymo Manilo14. [24, extrem inferior esquerre] Sr. Don Po Sta Ciliay Pax [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "240:4479.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo27/240:4479.JPG",
+      "url": "/legajos/legajo-27/images/240:4479.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "240:4479.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-27/cartas/004670.json",
+  "primary_image_url": "/legajos/legajo-27/images/240:4479.JPG"
+}

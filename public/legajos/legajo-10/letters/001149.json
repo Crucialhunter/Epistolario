@@ -1,0 +1,38 @@
+{
+  "legajo_id": "10",
+  "id_carta": "1149",
+  "order_in_legajo": 16,
+  "signatura": "028-315",
+  "nombre_carta": "Carta de Miguel Malo a Jerónimo Pelegrín de Aragüés",
+  "fecha_original": "28 de junio de 1668",
+  "lugar": "Madrid",
+  "remitente": "Miguel Malo",
+  "destinatario": "Jerónimo Pelegrín de Aragüés",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Señor mío, Holgaré que esta halle a v.m. con mucha salud con toda su casa. Yo la tengo, a Dios gracias. Ya se publicaron las paces con Francia a 25 del corriente y por mayor dicen que vuelve el francés, el ducado de Borgoña, y que se queda con las plazas que ha ganado en Flandes. Esto es por mayor hasta que se impriman. Suplico a v. m. no se olvide del tejido que envié a pedir para mi mujer y mi hija y v. m. dé muchos recados a sus señora mujer de toda esta casa y a Dios que guarde a v. m. como deseo. . Madrid y junio, a 28 de 1668. Señor mío, ya sabe v. m. soy suyo y así no excuse el mandarme y dé recados a esa mi señora e hijos. Servidor de v. m. que sus manos besa, Miguel Malo. Jeronimo Pelegrin de Aragues Transcripción literal"
+  ],
+  "literal": [
+    "1. Sr. mio olgare q esta alle a V.M con mucha salud 2. con toda su casa. Yo la tengo a Dios gracias 3. ya se publicaron las paces con francia a 25 4. del corriente y pormaior dicen q buelve el fran 5. ces el ducado de Borgoña y q se qda con las 6. pplaças q a ganado en flandes esto es pormaior 7. hasta q se impriman= Suplico a V.M. no se olvi 8. de del tejido q ynvie a pedir pa mi mujer 9. y mi hija y V.M. de muchos recados a sus Sª mu 10. jer de toda esta casa y a Dios q gde a V.M. como 11. deseo. Md y junio a 28 de 1668. [comienza otra letra] Sr. mio ya 12. sabe V.M. soy sayo y asi no es 13. cuse el mandarme y de recados 14. a esa mi Sra. y hijos 15. . Seror de V.M. q s m b 16. Miguel Malo. 17. [^Geronimo Pelegrin de Aragues^] [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "028-315.jpg",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo10/028-315.jpg",
+      "url": "/legajos/legajo-10/images/028-315.jpg"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "028-315.jpg",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING",
+      "message": "Se detectaron caracteres sospechosos de encoding (4)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-10/cartas/001149.json",
+  "primary_image_url": "/legajos/legajo-10/images/028-315.jpg"
+}

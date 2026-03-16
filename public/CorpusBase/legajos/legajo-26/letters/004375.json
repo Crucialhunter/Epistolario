@@ -1,0 +1,69 @@
+{
+  "legajo_id": "26",
+  "id_carta": "4375",
+  "order_in_legajo": 111,
+  "signatura": "152:3469a.JPG",
+  "nombre_carta": "Carta de Joan Baptista Femenia a Pedro Santacilia y Pax",
+  "fecha_original": "25 de noviembre de 1642",
+  "lugar": "Roma",
+  "remitente": "Joan Baptista Femenia",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Mi senyor v. s. rebrà un duplicat de la dispensa el qual va per l'estafeta en Gènova. Gustaria tingués la brevetat possible en Roma als 25 novembre 1642. Joan Baptista Femenia Amb particular gust per moltes raons he promès a Joan Baptista Femenia d'enviar a Gènova a Tassorello per la posta el present duplicat de la disposició de v. s. . perquè l'enviï a Mallorca, o a Menorca, pel primer suposat que dit Femenia se partí ahir de Roma per a Liorna a on tenc entès que era una nau de partida per Mallorca a on el deixi arribar Nre. Sr. com desitja, perquè amb la brevetat que v. s. gusta pugui consumar Sr. D. Pedro Santacilia [1§] son matrimoni del qual amb esta a mi possible li dono mil {ESP. parabienes} per com a ta Sr. meu el suplico que em mani sempre moltes coses de son gust i d'esta ciutat de Roma i novembre als 26 de 1642. De v. s. . capella El Dr. Llorenç Pons [2§] {ESP. A don Pedro Santacilia, caballero del hábito de Calatrava i gobernador de Menorca. Guarde Dios etts. Menorca Transcripción literal"
+  ],
+  "literal": [
+    "1. Mi Señor V.Sª. rebra un duplicat2. de la dispensa lo qual va per les3. tafeta en Genova gusteria tinges4. la brevedat posibla en Roma als5. 25 pº 16426. Juan Baptista Femenia7. Ab particular gust p moltes rehons he pro8. mes a Jua Bapta Femenia de enviar a Genova9. a Tassorello p la posta el pnt duplicat de10. la disp de V.Sª. pque lo envie a Mallorca, o,11. Menorca p lo primer supossat que dit12. Femenia se parti air de Roma p Liorna ahot13. te entes que era una nua de partide p Mallca14. ahont lo dexe arribar Ne. Sor. com desitja pque15. ab le brevedat que V.Sª. gusta pugue consumar16. Sor. D. Pedro Sta Çilia [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "152:3469a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo26/152:3469a.JPG",
+      "url": "/legajos/legajo-26/images/152:3469a.JPG"
+    },
+    {
+      "filename": "153:3469b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo26/153:3469b.JPG",
+      "url": "/legajos/legajo-26/images/153:3469b.JPG"
+    },
+    {
+      "filename": "154:3469c.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo26/154:3469c.JPG",
+      "url": "/legajos/legajo-26/images/154:3469c.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "152:3469a.JPG",
+  "warnings": [
+    {
+      "code": "IMAGE_DOWNLOAD_FAIL",
+      "message": "HTTP 404",
+      "context": {
+        "url": "http://santacilia.info/intranet2/img/Legajo26/152:3469a.JPG"
+      }
+    },
+    {
+      "code": "IMAGE_DOWNLOAD_FAIL",
+      "message": "HTTP 404",
+      "context": {
+        "url": "http://santacilia.info/intranet2/img/Legajo26/153:3469b.JPG"
+      }
+    },
+    {
+      "code": "IMAGE_DOWNLOAD_FAIL",
+      "message": "HTTP 404",
+      "context": {
+        "url": "http://santacilia.info/intranet2/img/Legajo26/154:3469c.JPG"
+      }
+    },
+    {
+      "code": "IMAGE_COUNT_MISMATCH",
+      "message": "Imágenes detectadas (3) != descargadas (0)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-26/cartas/004375.json",
+  "primary_image_url": "/legajos/legajo-26/images/152:3469a.JPG"
+}

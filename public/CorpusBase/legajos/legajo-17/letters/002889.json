@@ -1,0 +1,38 @@
+{
+  "legajo_id": "17",
+  "id_carta": "2889",
+  "order_in_legajo": 155,
+  "signatura": "269:1431.JPG",
+  "nombre_carta": "Carta de Jerónimo Pelegrín de Aragüés a Leonor Santacilia i Despuig",
+  "fecha_original": "26 de mayo de 1660",
+  "lugar": "Madrid",
+  "remitente": "Jerónimo Pelegrín de Aragüés",
+  "destinatario": "Leonor Santacilia i Despuig",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Verdaderamente, mi senyora estat descon suelo per a mi el dir-me està molt se'n tida com no li he escrit, doncs jo he feta ma obligació i li he donat raó de tot, i així mateix li escriguí a v. m. agraint-li el que feia per ma muller i filla i que Nostre Senyor li pagaria ja que jo no puc el cert es mi Sra. que mon desig sols es dar gust i servir a v. m. doncs totes mas esperances les tinc posades amb el seu emparo El Sr. don Juan fill de v. m. està tan galan cavaller que v. m. no elconeixeria i l'estiman molt El plet entre el Sr. don Pedro de Verí i la heretat del Thomas ha fet puiar al jutge que és Sr. don Migel Marta i dins breus dies sortira la sentència Déu ens don bon sugces i guardi a v. m. molts anys com desig i tinc de menester en companyia de mi Sra. i li suplico per amor de Déu empare Ma Muller i filla que Déu li pagara ja que jo no puch. Madrid 26 de May 1660 Criat de v. m. Jeroni Pelegri Mi senyora [1§] Transcripción literal"
+  ],
+  "literal": [
+    "1. Verdaderamente, mi Señora estat descon2. suelo para mi el dirme esta molt sen=3. tida com no li he escrit, puis jo he feta 4. ma obligacio y li he donat raho de tot, y 5. axi matex li escrigui a VM agraintli lo que 6. feia per ma muller y filla y que Nostro Señor 7. ley pagaria ja que jo no puch = lo sert es 8. mi Sra. que mon desig sols es dar gust y servir 9. a VM puis totas mas esperanças las tinch 10. posadas ab lo seu emparo 11. El Sr. Don Juan fill de VM esta tan galan cavaller 12. que VM no el conexeria y lo estiman molt13. Lo plet entre lo Sr. Don Pedro de Verí y la eretat del Sr. 14. Thomas ha fet puiar al jutge que es Don Migel 15. Marta y dins breus dias surtira la sentençia 16. Deu nos don Bon sugces y Guarde a VM mols 17. añys com desig y tinch de menester en comppa 18. de mi Sra. Y le supp[li]co per amor de Deu empare 19. Ma Muller y filla que Deu ley pagara ja que jo no 20. puch. Madrid 26 de May 166021. Criat de VM Geronym Pelegri22. Mi Señora [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "269:1431.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo17/269:1431.JPG",
+      "url": "/legajos/legajo-17/images/269:1431.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "269:1431.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (4)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-17/cartas/002889.json",
+  "primary_image_url": "/legajos/legajo-17/images/269:1431.JPG"
+}

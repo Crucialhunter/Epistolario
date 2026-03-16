@@ -1,0 +1,74 @@
+{
+  "legajo_id": "20",
+  "num_cartas": 194,
+  "num_imagenes": 273,
+  "rango_temporal": [
+    1633,
+    1669
+  ],
+  "remitentes_frecuentes": [
+    {
+      "name": "Pedro Santacilia y Pax",
+      "count": 42
+    },
+    {
+      "name": "Persona desconocida",
+      "count": 14
+    },
+    {
+      "name": "Diego Matías de Aragüés",
+      "count": 12
+    },
+    {
+      "name": "Gabriel Roger",
+      "count": 8
+    },
+    {
+      "name": "Bernardo de Pons y Turell (I conde de Robres)",
+      "count": 7
+    }
+  ],
+  "destinatarios_frecuentes": [
+    {
+      "name": "Pedro Santacilia y Pax",
+      "count": 133
+    },
+    {
+      "name": "Leonor Santacilia i Despuig",
+      "count": 58
+    },
+    {
+      "name": "Persona desconocida",
+      "count": 2
+    },
+    {
+      "name": "Basilio de Castellví y Ponce",
+      "count": 1
+    }
+  ],
+  "lugares_frecuentes": [
+    {
+      "name": "Madrid",
+      "count": 116
+    },
+    {
+      "name": "Lugar sin especificar",
+      "count": 13
+    },
+    {
+      "name": "Barcelona",
+      "count": 10
+    },
+    {
+      "name": "Valencia",
+      "count": 9
+    },
+    {
+      "name": "Vinarós",
+      "count": 7
+    }
+  ],
+  "temas_frecuentes": [],
+  "warnings_count": 69,
+  "densidad_narrativa_estimada": "Media"
+}

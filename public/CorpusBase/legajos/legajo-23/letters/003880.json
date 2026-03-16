@@ -1,0 +1,38 @@
+{
+  "legajo_id": "23",
+  "id_carta": "3880",
+  "order_in_legajo": 137,
+  "signatura": "237:3293.JPG",
+  "nombre_carta": "Carta de Jerónimo Mancho a Pedro Santacilia y Pax",
+  "fecha_original": "2 de febrero de 1661",
+  "lugar": "Madrid",
+  "remitente": "Jerónimo Mancho",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Con mucha razón me favorece v. m. con su carta dándome la enhorabuena del buen alumbramiento de mi Sra. la condesa de Montenegro con un hijo varón, porque aseguro a v. m. que cuando lea la carta del conde en que me lo avisaba fue grande mi gozo. Dios se les deje gozar y con el otros muchos y bien puedo retornar a mi Sra. doña Leonor y a v. m. la misma enhorabuena porque sé las obligaciones y grande amistad que tienen las dos casas, y en pago de esto la repito a v. m. de que el Sr. don Juan Miguel está con muy buena salud y dudo que la haya tenido más cumplida desde que nació. Es un cabo que corresponde muy bien con las obligaciones que ha nacido y si entendiera otra cosa se lo reprendiera, pero aseguro a v. m. que no hay que en sus pocos años. A v. m. guarde Nro. Sr. los muchos que deseo en compañía de mi Sra. Dña. Leonor, cuyas manos con las de v. m. besamos mil veces Dña. Juana y yo. Madrid a 2 de febrero de 1661. Besa la mano de v. m. Jeronimo Mancho Sr. don Pedro Santacilia y Pax. Transcripción literal"
+  ],
+  "literal": [
+    "1. Con mucha Razon me favorece Vm. con su2. carta dandome la enorabuena del buen alum-3. bramiento de mi Sra. la Condesa de Montenegro4. con un hijo varon por q aseguro a Vm. que5. quando ley la carta del Conde en que me lo6. avisava fue grande mi gozo Dios se les dexe7. gozar y con el otros muchos y bien puedo Retornar8. a mi Sra. doña Eleonor y a V.m. la misma nora-9. buena porque se las obligaciones y grande amis-10. tad que tienen las dos casas, y en pago desto11. la Repito a Vms. de que el Sr. don Juan Miguel12. esta con muy buena salud y dudo q la haya teni13. do mas cumplida desde que nacio es un Cavo14. que corresponde muy bien con las obligaciones15. q ha nacido y si entendiera otra cosa se lo16. Reprendiera pero aseguro a Vm. q no hay que17. en sus pocos años, a V.m. gde nro. Sr. los 18. ms q deseo en compañia de mi Sra. da. Eleonor19. cuyas manos con las de Vm. besamos mil Vezes 20. da Juana y yo. Md a 2 de febrero de 1661.21. B< > l< > m< > de Vm.22. Geronymo Mancho23. Sr Don Pedro Sta. Cilia y Pax. [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "237:3293.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo23/237:3293.JPG",
+      "url": "/legajos/legajo-23/images/237:3293.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "237:3293.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-23/cartas/003880.json",
+  "primary_image_url": "/legajos/legajo-23/images/237:3293.JPG"
+}

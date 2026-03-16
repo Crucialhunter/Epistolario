@@ -1,0 +1,38 @@
+{
+  "legajo_id": "28",
+  "id_carta": "4739",
+  "order_in_legajo": 50,
+  "signatura": "069:3673.JPG",
+  "nombre_carta": "Carta de Macià Monsarró a Pedro Santacilia y Pax",
+  "fecha_original": "12 de enero de 1639",
+  "lugar": "Zaragoza",
+  "remitente": "Macià Monsarró",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "La carta de v. m. tinc rebuda en el que em diu co [?] les cartes no és culpa mia, sino del governador que qua [?] tenen donades les cartes no trobà portador, que jo voldria en continent poder-les {ESP. remitir}. La mia {ESP. huespeda} [?] m'ha suplicat li escrigués a v. m. que a mon Castillo hi haurà valli [?] i axí v. m. me faci mercè de en el primer carro enviarme'n {ESP. mucha} roba i escriure el que costarà, que en continent se pagarà. Don Gaspar Calvillo està molt {ESP. enujat} en la {ESP. carcel} de la [?] litra [?] que el procurador li a se elehuche [?] d'enquestes és vengut de pendre informadors contra don Miguel, i don Gaspar Calvillo no ha trobat en tots els {ESP. lugars} que hagin carregat a don Gaspar Calvillo, sino a don Miguel de Gusto [?] amb cent i trenta [?] que ha fetes de composicions i no han pogut provar altra cosa. Al pare confessor de ma part li donarà mil besamans a qui guardi Nre. Sr. De Saragossa i {ESP. Enero} a 12 de 1639. Macia Monsarro. Sr. don Pedro Santacilia Transcripción literal"
+  ],
+  "literal": [
+    "1. La carta de v.m. tinc rebuda en lo quem diu co [?] 2. les cartes nos culpa mia sino del governador que qua [?] 3. tenen donades les cartes no trobe portador que yo boldria en4. continent poder les remitir la mia guespeda [?] mea suplicat5. lies crigues a v.m. que amon Castillo yaura valli [?] y axi v.m.6. me aga md. de en el primer caro enviarmen muxa roba7. y escriure lo que costara que encontinent se pagara.? don8. gaspar calvillo esta molt enujat en la carsel de la [?] 9. litra [?] quel Pocurador li a se elehuche [?] denquestes es bengut10. de pendre ynformadors contra don miguel y don gaspar cal11. villo no a trobat entots los lugars que axan carregat12. a don gaspar calvillo sino a don miguel degusto [?] apsent13. y trenta [?] que a fetes deconposisions y no han14. pogut probar altra cossa al pare confesor de ma part15. li donara mil Besamans a qui gde. nõ Sr. de Saragosa16. y henero a 12 de 163917. masia monsarro18. Sr. Don Pedro Santa Sicilia [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "069:3673.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo28/069:3673.JPG",
+      "url": "/legajos/legajo-28/images/069:3673.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "069:3673.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (2)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-28/cartas/004739.json",
+  "primary_image_url": "/legajos/legajo-28/images/069:3673.JPG"
+}

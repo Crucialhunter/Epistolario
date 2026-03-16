@@ -1,0 +1,53 @@
+{
+  "legajo_id": "21",
+  "id_carta": "3477",
+  "order_in_legajo": 166,
+  "signatura": "302:5765a.JPG",
+  "nombre_carta": "Carta de marqués de Torreguso a Pedro Santacilia y Pax",
+  "fecha_original": "24 de agosto de 1639",
+  "lugar": "Tolosa",
+  "remitente": "marqués de Torreguso",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Señor mío tengo orden de su majestad de volando nadie a Perpiñán por [?] saber de Dios me encaminaré mañana después de comer. Gustará verle antes de partir aunque apenas que nos veremos allá pues con el [?] de Payer los pido encarecidamente a su majestad si v. s. no me favorece con buscarme los cuatro roncines tendré mil detenciones en el viaje y así me resuelvo de enviar al alférez Giuseppe a solicitarlos v. s. me ha buscado uno el teniente de Mercado me ha enviado otro muy a mi satisfacción más como no quiso decirme el precio ni la [?] que me lo llevo, tenía otra orden que de [1§] dejármelo lo que no quise yo recibir el roncín es a mi satisfacción hágame v. s. favor que me lo venda que donado no lo he quiero cuanto más buen mercado me los hará dar mejor será más donado no lo a quien los otros dos me ha prometido. El otro día el capitán de la otra compañía que en ella me los buscaría dándole v. s. licencia, suplico se la dé y decir que haga de precio de ellos cuanto más mercado y por los dueños de los mismos roncines enviármelos que si me agradan dárele lo concertado y cuando que no se volverán con sus roncines si me quiere bien señor D. Pedro favorézcame en lo que le suplico que me hará un favor muy señalado y lo más que le suplico [2§] es que a lo más larga están [?] por mañana lunes con tres horas de dia. Sé que v. s. ne favorecerá luego y en la forma que le suplico y guarde Dios v. s. como deseo y Tolosa 14 Agosto 1639. El marques de Torreguso Y si por caso ni el teniente ni el capitán me los pueden o quieren dar suplico a v. s. me los busque por los dueños mismos me los envíe con el precio hecho cuanto menos pueda ser que si me agradan me quedaré con ellos y contareles el dinero y si no si v. s. verán con sus roncines [3§] Tolosa 24 Agosto 1639 El marques de Torreguso rdo. Transcripción literal"
+  ],
+  "literal": [
+    "1. Sñor mio tengho horden de S[u] Md de 2. volando nadie[?] a Perpignan pdone 3. cel[?] saber de dios me encaminare 4. mañana despues de comer = gustara 5. verle antes de partir = aunque apen6. q nos veremos alla pues con el Coma[?] 7. de Payer los pido encareçidamente 8. a S[u] Md = si VS no me favorese 9. con buscarme los quatro ronçines 10. tendre mil detensiones enel Viaxe 11. y assi me resuelvo de imbiar al 12. alferez Juseppe a solliçitarlos 13. VS me ha buscado uno = el tiniete 14. de mercado me ha enbiado otro muy 15. a mi satisfaçion mas como no quiso 16. deçirme el preçio ni la peña[?] q me 17. lo llevo tenia otra horden que de [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "302:5765a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo21/302:5765a.JPG",
+      "url": "/legajos/legajo-21/images/302:5765a.JPG"
+    },
+    {
+      "filename": "303:5765b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo21/303:5765b.JPG",
+      "url": "/legajos/legajo-21/images/303:5765b.JPG"
+    },
+    {
+      "filename": "304:5765c.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo21/304:5765c.JPG",
+      "url": "/legajos/legajo-21/images/304:5765c.JPG"
+    },
+    {
+      "filename": "305:5765d.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo21/305:5765d.JPG",
+      "url": "/legajos/legajo-21/images/305:5765d.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "302:5765a.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-21/cartas/003477.json",
+  "primary_image_url": "/legajos/legajo-21/images/302:5765a.JPG"
+}

@@ -1,0 +1,32 @@
+{
+  "legajo_id": "40",
+  "id_carta": "5737",
+  "order_in_legajo": 60,
+  "signatura": "224:89",
+  "nombre_carta": "Carta de Persona desconocida a Persona desconocida",
+  "fecha_original": "fecha sin especificar",
+  "lugar": "Mallorca",
+  "remitente": "Persona desconocida",
+  "destinatario": "Persona desconocida",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "El que se deu a mestre Miquel Pons esparter. [1§] Transcripción literal"
+  ],
+  "literal": [
+    "1. Lo que se deu a me. Miquel Pons esparter..."
+  ],
+  "imagenes": [
+    {
+      "filename": "224:89.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo40/224:89.JPG",
+      "url": "/legajos/legajo-40/images/224:89.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "224:89.JPG",
+  "warnings": [],
+  "raw_source": "raw/legajos/legajo-40/cartas/005737.json",
+  "primary_image_url": "/legajos/legajo-40/images/224:89.JPG"
+}

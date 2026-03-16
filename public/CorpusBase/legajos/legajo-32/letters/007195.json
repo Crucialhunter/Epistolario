@@ -1,0 +1,38 @@
+{
+  "legajo_id": "32",
+  "id_carta": "7195",
+  "order_in_legajo": 194,
+  "signatura": "273:1953.JPG",
+  "nombre_carta": "Carta de Thomà s Riera a Pedro Santacilia y Pax",
+  "fecha_original": "23 de agosto de 1666",
+  "lugar": "Madrid",
+  "remitente": "Thomà s Riera",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Jhesus A su real majestad. tengo suplicando una gracia en favor del Conto. de nª. Sra. del Socorro de Menorca, sabiendo y habiendo experimentado la miseria de seldas y cóvento de que estaba noticioso v. s. para la cual se pide informe, cóforme la orden de su majestad. que va con esta, y cuyo feliz suceso depende del informe. No tengo medio más [?] para suplicar a v. s. le haga en favor, sino la reina de los Angeles Mª. Sra. nª. por quin ha de servir, de la cual aguardara v. s. y tendrá infaliblemente la paga y yo con los diezmos religiosos obligados a tanto beneficio, la rogaremos alcance toda felicidad espiritual y temporal, de su hijo, [?] para v. s. y le guarde muchos años [?] de este Conto. de San Felipe de Madrid y agosto a 23 de 1666 Siervo de v. s. Fr. Thomas Riera Al Illte. S. Dó Pedro de Santacilia [1§] Transcripción literal"
+  ],
+  "literal": [
+    "1. Jhesus 2. A su Real Magd. tengo suplicando una grasia 3. en favor del Conto. de nª. sª. del Socorro de Me4. norca, sabiendo y haviendo experimentado la mise5. ria de seldas y cóvento de que estava noticioso 6. V. Sª. para la qual se pide informe, cóforme la 7. orden de su Magd. q. va con esta, y cuyo felis 8. sucesso depende del informe. No tengo medio mas 9. ?? para suplicar a V. S. le haga en favor, sino la Reyna de los Angeles Mª. Sª. nª. por quin ha de 10. servir, de la qual aguardara V. S. y tendra infalible11. mente la paga y yo con los diezmos religiosos obli12. gados a tanto beneficio, la rogaremos alcanse to13. da felicidad espiritual y temporal, de su hijo, ?? 14. ?? para V. S. y le gde. muchos años [?] deste 15. Conto. de San Phelipe de MAdrid y Agosto a 23 de 1666 16. Siervo de V. Sª. 17. Fr. Thomas Riera 18. Al Illte. S. Dó Pedro de Santa Cilia [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "273:1953.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo32/273:1953.JPG",
+      "url": "/legajos/legajo-32/images/273:1953.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "273:1953.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (2)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-32/cartas/007195.json",
+  "primary_image_url": "/legajos/legajo-32/images/273:1953.JPG"
+}

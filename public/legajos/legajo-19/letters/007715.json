@@ -1,0 +1,38 @@
+{
+  "legajo_id": "19",
+  "id_carta": "7715",
+  "order_in_legajo": 25,
+  "signatura": "417_7922.JPG",
+  "nombre_carta": "Carta de Agustí de Mascaró a Pedro Santacilia y Pax",
+  "fecha_original": "fecha sin especificar",
+  "lugar": "Mallorca",
+  "remitente": "Agustí de Mascaró",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Senyor no delmava germana de Diego Casals, i son marit a molts dies estan mals en un llit amb les criatures i els soldats que té en casa, no obstant tenen bolleta per altra casa, no volen mudar-se i els menen de manera, que han tret de casa per força a un marit i muller cosins seus, quals servirà, li prenen tot l'ordi, civada i vi que té en casa i és cert els acabaran la vida. V. m. la [?] esta donar-los algun remei que sols de la mà de v. m. l'esperen despres de Déu, el guardi a v. m. i son servidor, desitja i a on manaran de casa [?] dia me'n guardi [?] . Agusti de Mascaro Al Sr. don Pedro de Santacilia Salut Transcripción literal"
+  ],
+  "literal": [
+    "1. Senyor no dalmava germa2. na de Diego Casals, y son marit 3. a molts dies estan mals en un 4. llit ab les criatures y los 5. soldats que te en casa, no obs6. tant tenen bolleta per altra 7. casa, no volen mudarse y los 8. menan de manera, que antret 9. de casa per força a un ma10. it y muller cosins seus, quals 11. servira, le prenen tot lo ordi 12. sivada y vi que te en 13. casa y es cert y es cert 14. los acabaran la vida V. M. 15. la fernes esta donar los algun 16. remei que sols de la ma de V. M. 17. lo speran despre de Deu, ell ge18. [en el marge esquerre]19. a un [?] y son servidor, desitji 20. y avon manaren de casa mui dia 21. mengde S. [?] August de Mascaro 22. [altra pàgina]23. Al Sor. Don Pedro24. de Santa cilia25. Salut [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "417_7922.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo19/417_7922.JPG",
+      "url": "/legajos/legajo-19/images/417_7922.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "417_7922.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (2)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-19/cartas/007715.json",
+  "primary_image_url": "/legajos/legajo-19/images/417_7922.JPG"
+}

@@ -1,0 +1,38 @@
+{
+  "legajo_id": "30",
+  "id_carta": "6730",
+  "order_in_legajo": 226,
+  "signatura": "316:5568",
+  "nombre_carta": "Carta de Rodrigo de Borja Llançol de Romaní y Olivera a Persona desconocida",
+  "fecha_original": "2 de noviembre de 1662",
+  "lugar": "Mallorca",
+  "remitente": "Rodrigo de Borja Llançol de Romaní y Olivera",
+  "destinatario": "Persona desconocida",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Â [1§] Transcripción literal"
+  ],
+  "literal": [
+    "1."
+  ],
+  "imagenes": [
+    {
+      "filename": "316:5568.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo30/316:5568.JPG",
+      "url": "/legajos/legajo-30/images/316:5568.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "316:5568.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (5)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-30/cartas/006730.json",
+  "primary_image_url": "/legajos/legajo-30/images/316:5568.JPG"
+}

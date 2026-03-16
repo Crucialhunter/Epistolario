@@ -1,0 +1,43 @@
+{
+  "legajo_id": "9",
+  "id_carta": "1067",
+  "order_in_legajo": 102,
+  "signatura": "181-89a",
+  "nombre_carta": "Carta de Diego Álvarez a Arnau de Santacilia",
+  "fecha_original": "12 de marzo de 1676",
+  "lugar": "Milán",
+  "remitente": "Diego Álvarez",
+  "destinatario": "Arnau de Santacilia",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Señor mío el sargento mayor antonío Bellon meremítío mil yseicientas le bras el jueves Pasado y luego le diga al alférez Jerónimo de Rivera estu Biese alexa a la mujer del Sr. don Fernando señudo remitiese la carta Para sumarido que yo leentregaria las bien te y cinco Doblas de España y lo mismo a la mujer del capitán Santiago yasta ahora no he tenido la carta luego que la tenga entregare el dinero y remitiré lascartas para queaí se las dan a merced y lo propío he dicho a don Josep Meoz para queselo es criva a v. m. y siesoi señores Dancredi to a esta mía Puedan entregar a v. m. Dicho dinero pues yo lo daré luego quiere civa lascartas Por el restante que quedo en mi poder que son setecientas y nobenta y cinco libras hecho le diligencia con los Banqueros y mercadantes de esta ciudad [1§] y [Agujero] s] bido forma para que meden letra Para melazo y así v. m. haga hoy Diligencia deay quea lo de hoy queiotro daré luego Sr. don Josep Meoz medí ce que v. m. leade dar tres doblas de España que yo me las detuviese a quien le eres Pondido que no lo Puedo yo hacer sin orden de v. m. queabida Guarde Dios muchos años Milán a 12 de marzo 1676. Besa la mano de v. m. Su amigo y servidor Diego alvarez Si v. m. be al Sr. don Rodrigo Ronqgillo le dé nuevos recados de mi parte yal Sr. don Josep Roncío quelease guro a v. m. que es en todo en el alma su desgracía ella estruta [?] degucia [?] Paciencia pues aquí sea dicho lo bien que se porto pues de un caballdero desucalidad no se podía esperar nunca y a mi yo es alférez del capitán Domingo de casas y se halla en el final sirviendo su Sr. dondera Sr. don de letendra v. m. a su servicio yameaqí Para lo quesesirviese Demandarme sargento mayor don Arnau de Santacilia [2§] Transcripción literal"
+  ],
+  "literal": [
+    "1. Señor mío el sr Sargto mayor antonío 2. Bellon meremítío mil yseicientas li3. bras el Juebes Pasado y luego le diga 4. al alferez Geronimo de Rivera estu5. Biese alexa ala muger del sr Don fer6. nando señudo remitiese laCarta Para 7. sumarido queío leentregaria las beyn8. te y cinco Doblas despaña Ylo mesmo ala 9. muger delcapn Santiago yasta aora no 10. etenido laCarta luego quela tenga 11. entregare eldinero Yremitire lascartas 12. Para queaí selas dan a md Ylo propío 13. edicho a Don Josef meoz Para queselo es 14. criva a Vmd y siesoi señores Dancredi15. to aesta mía Puedan entregar a Vmd 16. Dicho Dinero Pues yo lo dare luego quere17. civa lascartas Por el restante que quedo 18. en mi poder queson setecientas Ynobenta 19. Ycinco livras echo le diligencía con los 20. Banqueros Ymercadantes desta Ciudad [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "181-89a.jpg",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo09/181-89a.jpg",
+      "url": "/legajos/legajo-09/images/181-89a.jpg"
+    },
+    {
+      "filename": "182-89b.jpg",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo09/182-89b.jpg",
+      "url": "/legajos/legajo-09/images/182-89b.jpg"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "181-89a.jpg",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-09/cartas/001067.json",
+  "primary_image_url": "/legajos/legajo-09/images/181-89a.jpg"
+}

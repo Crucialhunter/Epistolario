@@ -1,0 +1,43 @@
+{
+  "legajo_id": "23",
+  "id_carta": "3853",
+  "order_in_legajo": 108,
+  "signatura": "194:3266a.JPG",
+  "nombre_carta": "Carta de Bartolomé Mercadal a Pedro Santacilia y Pax",
+  "fecha_original": "12 de octubre de 1655",
+  "lugar": "Ciutadella",
+  "remitente": "Bartolomé Mercadal",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Al Sr. D. Pedro Santacilia y Pax mi Sr. Mil parabienes me doy del aviso que me ha dado su ilustrísima de haber ocupado a v. s. en el oficio de procurador real su majestad (Dios le guarde) yo me prometo la honra que el Sr. visitador y su ilustrísima me hacen merced de escribirme cuando v. s. por lo passado muy pródigamente tomó a su cuenta el favorecer y honrar mi persona y ilustrar mi casa. Dios me dé gracia para que yo acierte así en el servicio de su majestad, como en el de v. s. que con todas veras procuraré, y en la recuperación y cobranza de la real hacienda el cuidado que pide la materia. días ha Sr. que tenía prevenido unas chucherías menorquinas para remitir a v. s. para los muchachos, como son ocho cántaros de miel, manteca y dos de cortones en escabeche, y dos cestos con dos docenas de quesos de Mahón. V. s. será servido mandar se reciba esta poquedad, como de un aficionado servidor y por serlo más frutos caseros para los muchachos, que de los marítimos no faltará a quien regalar si llegan tan [1§] como me han asegurado. En Mahón ha llegado de Génova el patrón Pajes y dicen que ya se proveió el canonicato que tenía Gual, y callan en persona de quien muchas novedades tenemos en este gobierno y más negocios que ambos consejos de Castilla y Aragón y todos son alentar pendencias y desacreditar la justicia. Yo no quiero cansar a v. s. en referirle disparates y locuras porque en esta ocasión me falta tiempo para la correspondencia de mis Sres. y amigos. Dios me guarde a v. s. (con recuerdo de lo que tengo escrito sobre un pedazo de la quintana en otra ocasión) y prospere en vida de esos caballeros, hijos de v. s. y mis Sres. cuyas manos beso. Ciudadela y octubre 12 de 1655. Mayor servidor de v. s. que sus manos besaDon Bartolome Mercadal Transcripción literal"
+  ],
+  "literal": [
+    "1. Al Sor. D. Po Sta Çilia y Pax mi Sr.2. Mil parabienes me doy del aviso que me ha dado3. Su Iltma de haver ocupado a VS. en el officio4. de Por Rl Su Magd (Dios le Gde) yo me pro5. meto la honrra que el Sor. Visitador y Su Iltma6. me hazen md de escrivirme quando VS.7. por lo paçado muy prodigamente tomo a su8. quenta el favoreçer y honrrar mi perçona y9. Illustrar mi Casa: Dios me de gracia para que10. yo asierte assi en el servicio de Su Magd, como 11. en el de VS. que con todas veras procurare;12. y en la recuperacion y cobranca de la Real13. asienda el cuydado que pide la materia.14. Dias ha Sor. que tenia prevenido unas chucha15. rias menorquinas para remitir a VS. para 16. los muchachos, como son ocho cantaros de17. miel, manteca y dos de ortiones[?] en escabe18. che, y dos sestos con dos dosenas de quessos19. de Mahon VS sera servido mandar se20. reziva esta poquedad, como de un aficiona21. do servidor y por ser lo mas frutos caseros22. para los muchachos, que de los maritimos23. no faltara a quien regalar si llegan tan [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "194:3266a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo23/194:3266a.JPG",
+      "url": "/legajos/legajo-23/images/194:3266a.JPG"
+    },
+    {
+      "filename": "195:3266b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo23/195:3266b.JPG",
+      "url": "/legajos/legajo-23/images/195:3266b.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "194:3266a.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-23/cartas/003853.json",
+  "primary_image_url": "/legajos/legajo-23/images/194:3266a.JPG"
+}

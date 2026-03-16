@@ -1,0 +1,50 @@
+{
+  "legajo_id": "6",
+  "id_carta": "665",
+  "order_in_legajo": 161,
+  "signatura": "251-127c",
+  "nombre_carta": "Carta de Cecilia Zaforteza y Sureda de Sant Martí a Juan Antonio de Boixadors",
+  "fecha_original": "de 1777",
+  "lugar": "Mallorca",
+  "remitente": "Cecilia Zaforteza y Sureda de Sant Martí",
+  "destinatario": "Juan Antonio de Boixadors",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Eminentísimo {eminentísimo} señor y sobrino de mi mayor veneración, El día 20 de junio llegó en esta isla Juanito Zaforteza, mi querido sobrino, sin la menor novedad; por quien merecí una fina expresión de v. e. y de que quedaba V. Eminencia con la más robusta salud de que doy [?] a [?] siempre segura de que V. Eminencia lo miraba con el mayor agrado lo acredita la buena conducta que ha tenido en todo su viaje y los favores en que V. Eminencia lo ha distinguido en esa corte de Roma como continuamente me lo expresa. Yo me reconozco tan obligada a V. Eminencia por tan particulares favores le ha merecido Juanito que sola mi voluntad puede agradecer a V. Ema. lo que no alcanza mi mérito. Deseo mucha salud a V. Ema., y que se digne proporcionarme preceptos de su mayor agrado, que ejecutaré con la mayor satisfacción; y toda mi vida encomendaré a V. Ema. a [?] que guarde V. Ema. muchos años, con salud y [?] Transcripción literal"
+  ],
+  "literal": [
+    "1. Emmo Señor, y 2. sobrino de mi mayor veneracion 3. el dia 20 de Junio llego en esta Isla 4. Juanito Çaforteza mi querido sobrino 5. sin la menor novedad; por quien 6. mereci una fina esprecion de V.E. 7. y de que quedava V.Ema con la más 8. robusta salut de que doy [?] a [?] 9. siempre segura de que V.Ea lo mirava 10. con el mayor agrado lo hacredita 11. la buena conducta que ha tenido en todo 12. su viaje, y los favores en que V.Ema lo 13. ha distinguido en essa corte de Roma 14. como continuamente me lo espresa; Yo 15. me reconosco tan obligada á V.Ema por 16. tan particulares favores le ha merecido 17. Juanito que sola mi voluntad puede 18. ágradecer á V.Ema. lo que no alcansa mi 19. merito, desseyo mucha salut á V.Ema., y 20. que se digne proporcionarme preseptos de 21. su mayor agrado que hejecutare con la 22. mayor satifaccion; y toda mi vida enco- 23. mendare a V.Ema. á [?] q Gde V.Ema. ms 24. a< ño>s, con salud, y [?] [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "251-127c.jpg",
+      "original_url": "http://www.studiolum.com/Web3/img/Legajo06/251-127c.jpg",
+      "url": "/legajos/legajo-06/images/251-127c.jpg"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "251-127c.jpg",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    },
+    {
+      "code": "IMAGE_DOWNLOAD_FAIL",
+      "message": "HTTP 404",
+      "context": {
+        "url": "http://www.studiolum.com/Web3/img/Legajo06/251-127c.jpg"
+      }
+    },
+    {
+      "code": "IMAGE_COUNT_MISMATCH",
+      "message": "Imágenes detectadas (1) != descargadas (0)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-06/cartas/000665.json",
+  "primary_image_url": "/legajos/legajo-06/images/251-127c.jpg"
+}

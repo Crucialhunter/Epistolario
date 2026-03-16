@@ -1,0 +1,38 @@
+{
+  "legajo_id": "20",
+  "id_carta": "3178",
+  "order_in_legajo": 52,
+  "signatura": "061:5958.JPG",
+  "nombre_carta": "Carta de Fructuoso Piqué a Pedro Santacilia y Pax",
+  "fecha_original": "2 de febrero de 1656",
+  "lugar": "Madrid",
+  "remitente": "Fructuoso Piqué",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Sr. mío aunque por Barcelona y Valencia he escrito a v. m. estos dias no quiero dejar de besar su mano con esta y decirle que ya se queda haciendo su despacho que así me lo ha asegurado Diego Matias de Aragues y que podremos remitirle por Valencia de hoy a 8 días y yo lo instaré vivamente por lo mucho que lo desea v. m. a quien doy la enhorabuena del buen suceso de Jeronimo Pelegrin en su pretensión, pues ya su majestad le ha hecho merced del oficio que pedía. Suplico a v. m. me haga merced de mandar que se de luego la inclusa de Marcos Valles en propia mano que me importa y es otra de Fortuny. Y acuérdese v. m. de hacerme merced en lo que le tengo suplicado y de mandarme siempre. Guarde Dios a v. m. muchos años como deseo, de Madrid a 2 de febrero 1656. Beso la mano de v. m. su amigo y Sr. menor servidor Fructuoso Pique Sr. D. Pedro de Santacilia y Pax Transcripción literal"
+  ],
+  "literal": [
+    "1. Sr. mio Aunque por Bana y Vala he escrito a Vm 2. estos dias. No quiero dejar de besar su mano con esta y decirle 3. que ya se queda haziendo su despacho que assi me lo ha asegura 4. do Diego Mathias de Aragues [?] y que podremos remitirle por 5. Valencía do[?] oy a 8 dias Y yo lo instare vivamte por lo 6. mucho que lo desea Vm. A quien doy la norabuena del 7. buen sucesso de Germo. Pelegrin en su pretension, pues ya su 8. Magd le ha hecho mrd del oficio que pedia 9. Sup[li]co a Vm. me haga mrd de mandar que se de luego la 10. inclusa de Marcos Valles en propia mano que me importa 11. y essotra de Fortuni.Y acuerdese Vm. de hazerme mrd 12. en lo que le tengo suplicado y de mandarme siempre gde 13. Dios a Vm mus años como deseo de Madrid a 14. 2 de Febrero 1656 B L[a] m de vm 15. su amigo y mor seror 16. Fructuoso Pique[?] 17. Sr. D. Po de Sta Cilia y Pax [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "061:5958.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo20/061:5958.JPG",
+      "url": "/legajos/legajo-20/images/061:5958.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "061:5958.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-20/cartas/003178.json",
+  "primary_image_url": "/legajos/legajo-20/images/061:5958.JPG"
+}

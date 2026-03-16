@@ -1,0 +1,38 @@
+{
+  "legajo_id": "32",
+  "id_carta": "7097",
+  "order_in_legajo": 120,
+  "signatura": "122:1855.JPG",
+  "nombre_carta": "Carta de Pedro Aulí a Pedro Santacilia y Pax",
+  "fecha_original": "9 de abril de 1665",
+  "lugar": "Cádiz",
+  "remitente": "Pedro Aulí",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Mi Do Pedro la de v. s. he recibido fecha de los 29 descembre con grádísimo cótéto sabiendo goza entera salud Dios se le cóserve los añños que v. s. desea tengo visto las mercedes que cada día voirrecibiendo de v. s. yrrecibiré ya sabe v. s. que yo no tengo otro amparo solo el de v. s. y lo que me encomendera al duque medini Celi que en otras partes pravalece mucho el [?] do armado va obrádo como que en es y en teniendo en [?] no lo decho salir de mi casa porque es la morada novedades só pocas aer abacando la capitana real de la carraca para los puntales se encalo cantalo de puerto real Dios sea servido que le se cemas dice que tindremos armada hasta hoy poca preventió el capitá juá mas ha llegado de Madrid có cédula real de 23 seudos en la gente damar el mt de [?] allá en bornos có dó Antonio Pimentel prestro será en caiis. Guarde Dios a v. s. de este su casa y abril 9 de 1665 Su mayor servido que s m bese Cata Pedro Auli a mi Do Pedro Santacilia Transcripción literal"
+  ],
+  "literal": [
+    "1. Mi Sr. Do Pedro la de VS he recebido 2. fecha de los 29 descembre con grádissimo cóté3. to sabiendo goza entera salud dios se le cóserbe 4. los añños q VS desea 5. tengo visto las mersedes q cada dia voi rreci6. biendo de VS y rrecibire ja sabe VS. q jo no 7. tengo otro enparo solo el de VS y lo q me en8. comendera al Sr Duque medini Celi que 9. en otras partes pravalece mucho el [?] 10. do armado va obrádo como quen es y en teni11. endo en [?] no lo decho salir de mi casa porq 12. es la morada 13. Novedades só pocas aer abacando la capitana 14. real de la carraca para los puntales se 15. encalo cantalo de puerto real dios sea 16. serbido q le se cemas dise q tindremos arma17. da asta oi poca preventió el capitá juá 18. mas ha llegado de madrid có sedula real de 19. 23 seudos en la gente damar el Sr mt de [?] 20. ?? alla en bornos có dó Antonio pimentel pres21. tro sara en caiis gde Dios a VS deste su 22. casa y abril 9 de 1665 23. Su major serbido q s m 24. bese Cata Pedro Auli 25. A mi Sr Do Pedro 26. Stacilia [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "122:1855.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo32/122:1855.JPG",
+      "url": "/legajos/legajo-32/images/122:1855.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "122:1855.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-32/cartas/007097.json",
+  "primary_image_url": "/legajos/legajo-32/images/122:1855.JPG"
+}

@@ -1,0 +1,38 @@
+{
+  "legajo_id": "26",
+  "id_carta": "4278",
+  "order_in_legajo": 8,
+  "signatura": "016:3372.JPG",
+  "nombre_carta": "Carta de Pedro Fajardo de Requeséns-Zúñiga y Pimentel (V marqués de los Vélez) a Pedro Santacilia y Pax",
+  "fecha_original": "fecha sin especificar",
+  "lugar": "Mesina",
+  "remitente": "Pedro Fajardo de Requeséns-Zúñiga y Pimentel (V marqués de los Vélez)",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Aunque ha[ce] pcoos días que escribí a v. m. respon[dí a al]gunas cartas suyas que había recibido no que [?] devolverlo a hacer acompañando con esta al Sr. D. Sancho de Molina y Soto mi gentil ho [?] de cuya mano la recibirá v. m. que envió [?] materias de mi servicio para que en caso de [?] isla pueda dar a v. m. muy buenas nue[vas de su sa]lud y de la marquesa y enviarme las que la suya que holgaré la goza y que muy apro [?] de esa soledad que por lo que esto se ajusta a [?] lo deseo y que favorezca a don Sancho [?] se le ofreciere para continuar su viaje vi [?] el título de criado mío para que v. m. sus favores en que yo le recibiré muy particu[larmente. Guarde] Dios a v. m. muchos años. Messina a 2 [?] El marques de los Velez Sr. D. Pedro de Santacilia y Pax. Transcripción literal"
+  ],
+  "literal": [
+    "1. Aunque ha pcoos dias quescrivi a Vm. respon[...]2. gunas cartas suyas que havia rezivido no q[...]3. de volverlo a hazer acompanando con esta a D. [...]4. Sancho de Molina y Soto mi Gentil ho[...]5. de cuya mano la rezivira Vm. que envio [...]6. materias de mi serviçio para que en caso de [...]7. isla pueda dar a Vm. muy buenas nue[...]8. lud y de la marquesa y inviarme las q[...]9. la suya que holgare la goza y que muy apro[...]10. de esa soledad que por lo que esto se ajusta aq[...]11. lo deseo y que faborezca a Don Sancho [...]12. se le ofreziere para continuar su viaje vi[...]13. el titulo de criado mio para que Vm. [...]14. sus fabores en que yo le rezivire muy parti[...]15. Dios a Vm. muchos años Messina a 2 [...]16. El marques de los Velez17. Sor. D. Pº de Sta. Zilia y Pax. [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "016:3372.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo26/016:3372.JPG",
+      "url": "/legajos/legajo-26/images/016:3372.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "016:3372.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (5)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-26/cartas/004278.json",
+  "primary_image_url": "/legajos/legajo-26/images/016:3372.JPG"
+}

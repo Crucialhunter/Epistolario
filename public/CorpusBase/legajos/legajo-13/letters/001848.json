@@ -1,0 +1,43 @@
+{
+  "legajo_id": "13",
+  "id_carta": "1848",
+  "order_in_legajo": 115,
+  "signatura": "186:2352a.JPG",
+  "nombre_carta": "Carta de Nicolás de Santacilia y Togores a Pedro Santacilia y Pax",
+  "fecha_original": "5 de diciembre de 1668",
+  "lugar": "Mallorca",
+  "remitente": "Nicolás de Santacilia y Togores",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Por todas vías tengo escrito a v. m. de lo que va sucediendo en esta isla, pero como esto es tan corto hay muy poco de que avisar. Por ahora el virrey está muy fuerte, en no dar más del armazón y aún siendo de ese género no lo quiere entregar a los botineros [?], sino hacer libranzas a cada cual, por su [?], y así será preciso que se haga otro despacho con más claridad, porque en habiendo algo de que hacerse, será del mismo género. Con mucho cuidado estamos de la enfermedad de mi hermano, que además de lo que v. m. escribe sé por las diferentes cosas, con los que tienen correspondencia en esa corte. [1§] Con grande suspensión estamos acá con la ida a Barcelona el señor don Juan, y todos dicen estará v. m. contento con estas revoluciones y así le dicen varias cosas, pero acaso que v. m. esté por medio en alguna cosa yo me holgaría mucho de hallarme en ello hasta ver el fin, aunque me quedase por allá, que no por eso dejaría. Estos días ha llovido mucho sin cesar, no ha sido muy bueno para el aceite, pero provechoso para el año que viene. Hay muchos navíos en la {CAT. badia}, de diferentes naciones para aceite, que va a muy buen precio. Guarde Dios a v. s. muchos años como deseo y es menester. Mallorca a 5 de diciembre 1668. Su más humilde hijo de v. m. que su mano besa Don Nicolas de Santacilia y Togorres Mi Sr. y mi padre [2§] Transcripción literal"
+  ],
+  "literal": [
+    "1. Por todas vias tengo escrito aVM2. de lo que va Susediendo en esta3. isla, pero Como esto es tan Corto ay 4. muy poco de que avisar por agora5. El Birey esta muy fuerte, en no dar 6. mas del armaçon y aun siendo dese7. jenero no lo quiere entregar a los8. botineros[?], sino aser libranças a cada9. qual, por su [?], y asi sera presiso 10. que seago hotro despacho, Con mas 11. Claridad, porque en aviendo algo de 12. que asirçe, sera del mismo genero13. Con mucho Cuydado estamos de la en=14. fermedad de mi hermano, que ade=15. mas de lo que VM escrive se por la16. diferentes Cosas, Con los que tienen17. Corresponden sia en esa Corte [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "186:2352a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo13/186:2352a.JPG",
+      "url": "/legajos/legajo-13/images/186:2352a.JPG"
+    },
+    {
+      "filename": "187:2352b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo13/187:2352b.JPG",
+      "url": "/legajos/legajo-13/images/187:2352b.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "186:2352a.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-13/cartas/001848.json",
+  "primary_image_url": "/legajos/legajo-13/images/186:2352a.JPG"
+}

@@ -1,0 +1,43 @@
+{
+  "legajo_id": "14",
+  "id_carta": "1989",
+  "order_in_legajo": 82,
+  "signatura": "162:2503a.JPG",
+  "nombre_carta": "Carta de Gabriel Domènech a Pedro Santacilia y Pax",
+  "fecha_original": "22 de junio de 1645",
+  "lugar": "Tarragona",
+  "remitente": "Gabriel Domènech",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Sr. mío La de v. s. fecha a los 6 del corriente tengo recibida en que me avisa está de partencia para Mallorca, Dios dé a v. s. tan feliz viaje como su humilde criado desea, que bien se me podrá creer esta verdad le quiere mejor que para mi a donde me avisará queriendo Dios diligencias para [?] honrarme con una de esas compañías. Es cierto que yo bien veo no soy merecedor de tanta honra que la que tengo [?] será todo por ser yo su hechura y humilde criado. Anteayer tuvo el gobernador cartas de una espía nuestra como el enemigo había esguazado el río y había degollado más de mil infantes de los nuestros. Ayer tarde tuvo otra carta del mismo en que le avisaba que después de haber esguazado el río cargó nuestra gente sobre el enemigo y se dice le ha degollado más de seis mil infantes y entre [1§] heridos y cautivos son más de nueve mil en todos y también veo cartas de lo mismo de diferentes personas que dicen lo mismo. Nuestras fortificaciones están ya muy adelante y estos días pasados, si no mil y doscientos infantes soldados de la armada, toda muy buena gente y soldados viejos que seremos más de cinco mil sin la caballería, que seremos doscientos y sin gente de la tierra que me parece que si el enemigo viene aquí tendrá mucho que roer. Dios nos dé victoria y a v. m. guarde los años que sus criados hemos menester para que me mande todo lo que fuera de su gusto. Tarragona a 22 de junio 1645. Mínimo criado de v. s. Gabriel Domenech Mi Sr. don Pedro Santacilia y Pax Transcripción literal"
+  ],
+  "literal": [
+    "1. Sr. mio2. La de VS fetxa a los 6 del corrien3. te tengo resibida en que me avisa es4. ta de partensa para mallorca dios5. de a VS tan felis viaje como su6. umilde criado dese que bien se me7. podra creer esta verda le quere me8. jor que para mi a donde me avisa9. ara queriendo dios dilixencias para10. (^??) honrarme con una desas Compañias11. es cierto Sr. que jo bien veo no soy me12. resedor de tanta onra que la que ten13. go ???? sera todo por ser jo su14. etxura y umilde criado; Ante ayer15. tuvo el Governador Cartas de una16. espia nuestra como el enemigo avia17. esguasado el rio y avia degolado mas18. de mil infantes de los nuestros;19. Ajer tarde tuvo otra carta del mesmo20. en que le avisava que despues de aver21. esguasado el rio cargo nuestra jente22. sobre el enemigo y se dise le a de golado23. mas de seis mil infantes y entre [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "162:2503a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo14/162:2503a.JPG",
+      "url": "/legajos/legajo-14/images/162:2503a.JPG"
+    },
+    {
+      "filename": "163:2503b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo14/163:2503b.JPG",
+      "url": "/legajos/legajo-14/images/163:2503b.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "162:2503a.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-14/cartas/001989.json",
+  "primary_image_url": "/legajos/legajo-14/images/162:2503a.JPG"
+}

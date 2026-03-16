@@ -1,0 +1,38 @@
+{
+  "legajo_id": "34",
+  "id_carta": "5197",
+  "order_in_legajo": 226,
+  "signatura": "346:7112.JPG",
+  "nombre_carta": "Carta de Diego Matías de Aragüés a Pedro Santacilia y Pax",
+  "fecha_original": "25 de septiembre de 1658",
+  "lugar": "Madrid",
+  "remitente": "Diego Matías de Aragüés",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "estos renglones hago diciendo como ayer 24 de este se publicó la plaza de hay en el Dr. Mora y que queda príncipe Jurado el Dr. Bassa para la primera que se ofrezca. Asegurese v. m. que ha Vinido Mora muy apoyado del virrey con que ha sido la mayorparte para llevarse la plaza (esto para v. m.)72 temtome en los demás que la carta que he escrito el cinco y haceocho días, con que no aydeq avisar, solo hoy ha venido correodeBadajoz en que esta aquello con mucho aliento y que per todo este mes sejuntarán 160 hombres y 50 mil caballos, y que el Sr. don Juan estará muypresto en Las costas de España, v. m. me mande le sirva y guarde Dios como deseo Madrid a 25 Septiembre 1658. Besa la mano de v. m. su mayor servidor Diego Matias de Aragues 24, marge esquerre Sr. don Pedro Santacilia y Pax [1§] Transcripción literal"
+  ],
+  "literal": [
+    "1. estos renglones hago diciendo como2. ayer 24 deste sepublico laplaza3. de ay enel dor Mora y q queda4. principe Jurado el dor Bassa pa5. laprimera q se offrezca. Asegurese6. Vm q ha Vinido Mora muy7. apoyado del Sr. Virrey con q ha8. sido la mayorparte pa llevarse9. la plaza (esto pa Vm)72 [temtome]10. en [losde]mas q la carta que11. he escrito el cinco y hazeocho12. dias, conq no aydeq avisar,13. solo oy havenido correodeBadaxoz14. enq esta aquello con mucho 15. aliento y q per todo este mes16. sejuntaran 160 hombres y 17. 50 mil cavallos, y q el Sr.18. don Juan estara muypresto en19. Las costas de españa, Vm me20. mande le sirva y ge dios como deseo21. Md a 25 sepe 165822. B l[a] m de Vm su mor seror23. Diego Mathias de Aragues24. [34, marge esquerre] Sr. don Pedro Sta. Cilia y Pax [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "346:7112.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo34/346:7112.JPG",
+      "url": "/legajos/legajo-34/images/346:7112.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "346:7112.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (3)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-34/cartas/005197.json",
+  "primary_image_url": "/legajos/legajo-34/images/346:7112.JPG"
+}

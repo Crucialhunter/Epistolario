@@ -1,0 +1,37 @@
+{
+  "legajo_id": "38",
+  "id_carta": "5523",
+  "order_in_legajo": 100,
+  "signatura": "084:47a.JPG",
+  "nombre_carta": "Carta de Batle Andratx a Pedro Santacilia y Pax",
+  "fecha_original": "7 de octubre de 1663",
+  "lugar": "Andratx",
+  "remitente": "Batle Andratx",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Il·lustríssim En est punt que és circha les deu hores de dia som estat avisat pel talaier de la talaia del port de la present. Vila de com a descobert una nau per al cap del llebeix de la dregonera qui va devers aqueixa ciutat, i per veure que d'exa ciutat vanien dos vaixells qui s'havien d'encontrar amb ella ha posat via fora de tot el qual dona el present. avís a vostra senyoria Il·lustríssima restant prompte Dat en Andraig als 7 d'octubre 1663 El Balla d'Andraig [1§] Al Il·lustríssim Sr. don Pedro de Santacilia i Pax virrei i capità gal. del present. Reg na de Mallorca que deu Gda. en Ciutat [2§] Transcripción literal"
+  ],
+  "literal": [
+    "1. Illm Sr.2. En est punt que es circha las deu hores de3. die som estat avisat per lo talayer de la talaya4. del port de la pnt. Vila de com ha descubert5. una nau per al cap del llebeix de la dregonera6. qui va deves aquexa ciutat, y per vaura q7. de exa ciutat vanian dos vaxells qui se avien8. de encontrar ab ella ha posat via fora de9. tot lo qual dona lo pnt. avis ha vose Señoria10. Illma restant prompta Dat en Andraig11. als 7 de 8bre 166312. Lo Balla de Andraig [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "084:47a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo38/084:47a.JPG",
+      "url": "/legajos/legajo-38/images/084:47a.JPG"
+    },
+    {
+      "filename": "085:47b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo38/085:47b.JPG",
+      "url": "/legajos/legajo-38/images/085:47b.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "084:47a.JPG",
+  "warnings": [],
+  "raw_source": "raw/legajos/legajo-38/cartas/005523.json",
+  "primary_image_url": "/legajos/legajo-38/images/084:47a.JPG"
+}

@@ -1,0 +1,38 @@
+{
+  "legajo_id": "19",
+  "id_carta": "7663",
+  "order_in_legajo": 194,
+  "signatura": "338_7870",
+  "nombre_carta": "Carta de Domingo Pérez a Persona desconocida",
+  "fecha_original": "fecha sin especificar",
+  "lugar": "Colliure",
+  "remitente": "Domingo Pérez",
+  "destinatario": "Persona desconocida",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "La gente questa a que estaron mucho peligro porque la gente de la montaña me paresse que nos Biene amenasando con la muerte y el Jurado de este lugar dice quel no lo puede rremediar que lo quel puede aser en esto es inbiar diez onbres que bajar con bajando la gte asta Colibre y los soldados ya se quieren hir todos asta Colibre y que alli estarán asta que llegue su bandera porque no asse sino la gente de [?] decirles que los an de degollar y assi v. m. disponga de esto lo mas brebe que pueda yo quedo a la mar con los bergantines y la gente en barca da y todos disen que se an de hir aunque yo no quiero que si los an de matar a que mas quieren morir en ese camino y no aquí con las manos atadas Nº. Sr. me le guarde y de la salud que deseo. El sargento Domingo Perez [1§] Transcripción literal"
+  ],
+  "literal": [
+    "1. La gente questa a qui estaron mucho peligro 2. por que la gente de la montaña me paresse 3. que nos Biene amenasando con la muerte y el Ju4. rado deste lugar dise quel no lo puede rremediar 5. que lo quel puede aser en esto es inbiar dies on6. bres que bajar con bajando la gte asta Colibre 7. y los soldados ya se quieren hir todos asta 8. Colibre y que alli estaran asta que llegue su 9. Bandera por que no asse sino la gente de [?] 10. desirles que los an de degollar y assi vm dispon11. ga desto lo mas brebe que pueda yo quedo a la 12. mar con los bergantines y la gente en barca 13. da y todos disen que se an de hir aunque yo 14. no quiero que si los an de matar a qui mas qui15. eren morir en ese camino y no aqui con las ma16. nos atadas Nº. Sr. me le guarde y de la salud 17. que deseo. 18. El sarto. domiº. Peres [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "338_7870.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo19/338_7870.JPG",
+      "url": "/legajos/legajo-19/images/338_7870.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "338_7870.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-19/cartas/007663.json",
+  "primary_image_url": "/legajos/legajo-19/images/338_7870.JPG"
+}

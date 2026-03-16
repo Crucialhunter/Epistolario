@@ -1,0 +1,38 @@
+{
+  "legajo_id": "34",
+  "id_carta": "5103",
+  "order_in_legajo": 130,
+  "signatura": "201:7018.JPG",
+  "nombre_carta": "Carta de Jerónimo Mancho a Pedro Santacilia y Pax",
+  "fecha_original": "16 de mayo de 1657",
+  "lugar": "Madrid",
+  "remitente": "Jerónimo Mancho",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "No canso a v. m. con mis cartas ociosam y así lo hago cuando se me ofrece cansar a v. m. y no tendré yo la culpa de que v. m. me olvide en las ocasiones que se ofrecieren de su servicio pues sabe con la voluntad que ha de ser obedecido al virrey se le han remitido las nominas de los oficios anuales de ese reino cuyos derechos importan puestos aquí dos mil cuatrocientos y treinta y dos reales de plata en estos de este año se ha advertido que van nombrados dos más de los acustumbrados que son asesor y Bayle de la parte forana v. m. se servirá de mandar ver si tienen el mismo sal que los otros por si han de pagar lo que les toca. Guarde Dios a v. m. muchos años como deseo Madrid a 16 de mayo de 1657. Besa la mano de v. m. su maor servidor Jeronimo Manelo Dr. Sr. don Pedro Santacilia y Pax [1§] Transcripción literal"
+  ],
+  "literal": [
+    "1. No canso a Vm. con mis cartas ociosam2. y assi lo hago quando se me offrece cansar3. a V.m. y no tendre yo la culpa de q Vm.4. me olvide en las ocasiones q se offrecieren5. de su servicio pues sabe con la voluntad6. q ha de ser obedecido7. Al sr. Virrey se le han remitido las nominas8. delos officios annuales desse Reyno cuyos9. drechos importan puestos aqui dos mil10. quatrocientos y treynta y dos Rs de plata11. en estos deste año se ha advertido que van12. nombrados dos mas delos acustumbrados13. q son Assessor y Bayle dela parte forana14. Vm se servira de mandar ver si tienen15. el mismo sal q los otros por si han depagar16. loq les toca17. gde Dios a Vm muchos años como deseo 18. Md a 16 de mayo de 165719. B l[a] m de Vm20. su maor servidor21. Geronymo Manelo22. Sr. Dr. Don Pedro santacilia y Pax [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "201:7018.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo34/201:7018.JPG",
+      "url": "/legajos/legajo-34/images/201:7018.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "201:7018.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-34/cartas/005103.json",
+  "primary_image_url": "/legajos/legajo-34/images/201:7018.JPG"
+}

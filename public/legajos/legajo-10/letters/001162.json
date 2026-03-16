@@ -1,0 +1,43 @@
+{
+  "legajo_id": "10",
+  "id_carta": "1162",
+  "order_in_legajo": 29,
+  "signatura": "049-328a",
+  "nombre_carta": "Carta de Josep Togores a Jerónimo Pelegrín de Aragüés",
+  "fecha_original": "21 de julio de 1668",
+  "lugar": "Madrid",
+  "remitente": "Josep Togores",
+  "destinatario": "Jerónimo Pelegrín de Aragüés",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Hemos llegado a esta corte con tanta felicidad de salud que nunca la podíamos rogar mejor, con que mi señor está tan firme como un león y don Juan como un águila, que no puedo decir más. Aquí no tenemos novedades que escribir, más que todas las paces: ruego a Dios sean para bien de este reino. A la señora Caterina, Juana Ana, Jeronillo y {CAT. madò} Esperansa, que los doy muchos recaudos, no olvidando a {CAT. madò} Joana y todos los de arriba. Pero a mi señora y don Nicolás les tuvo este aviso de la salud de los señores, que están, como he dicho, muy buenos. Al señor Bartolomé Fullana i Majol, que manden, y pido a vm. dé este aviso a mi madre e hijas, con que doy fin. Guarde Dios. Madrid, 21 julio 1668 De vm. que sus manos besa, Josep Togores [1§] A Jeronimo Pelegrin de Aragues, que Dios guarde muchos años como deseo. . Mallorca. Transcripción literal"
+  ],
+  "literal": [
+    "1. Havemos llegado a esta corte con tanta felicidad de salut 2. q nuncha la podiamos rogar mejor con q mi señor 3. esta tan firme como un leon y Don Juan como una aguila 4. q nopuedo desir mas. 5. aquí no tenemos novedades q escrivir mas q todo lo pases 6. ruego a Dios sean para bien deste Reyno. 7. A la señora Catherina, Juana Anna, Geronillo, y 8. mado Speransa q los doy muchos recaudos; no 9. olvidando a Mado Juana y todos los de arriva 10. Pero a mi señora, y D. Nicholas les tuvo este aviso 11. de la salut de los señores q estan como he dicho muy buenos 12. Al SS Barte Fullana, y Majol, q manden, y pido 13. a V.M. de este aviso a mi madre, y hijas con q doy fin. Gde 14. Dios, y Md 21 julio 1668. 15. De V.M. c s m b 16. Joseph Togoras [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "049-328a.jpg",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo10/049-328a.jpg",
+      "url": "/legajos/legajo-10/images/049-328a.jpg"
+    },
+    {
+      "filename": "050-328b.jpg",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo10/050-328b.jpg",
+      "url": "/legajos/legajo-10/images/050-328b.jpg"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "049-328a.jpg",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING",
+      "message": "Se detectaron caracteres sospechosos de encoding (4)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-10/cartas/001162.json",
+  "primary_image_url": "/legajos/legajo-10/images/049-328a.jpg"
+}

@@ -1,0 +1,48 @@
+{
+  "legajo_id": "30",
+  "id_carta": "6647",
+  "order_in_legajo": 144,
+  "signatura": "179:5485a.JPG",
+  "nombre_carta": "Carta de Josep Esporrín a Pedro Santacilia y Pax",
+  "fecha_original": "18 de septiembre de 1651",
+  "lugar": "Ciutadella",
+  "remitente": "Josep Esporrín",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "[1§] [2§] [3§] Transcripción literal"
+  ],
+  "literal": [
+    "1. 1. 1."
+  ],
+  "imagenes": [
+    {
+      "filename": "179:5485a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo30/179:5485a.JPG",
+      "url": "/legajos/legajo-30/images/179:5485a.JPG"
+    },
+    {
+      "filename": "180:5485b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo30/180:5485b.JPG",
+      "url": "/legajos/legajo-30/images/180:5485b.JPG"
+    },
+    {
+      "filename": "181:5485c.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo30/181:5485c.JPG",
+      "url": "/legajos/legajo-30/images/181:5485c.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "179:5485a.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-30/cartas/006647.json",
+  "primary_image_url": "/legajos/legajo-30/images/179:5485a.JPG"
+}

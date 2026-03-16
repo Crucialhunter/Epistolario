@@ -1,0 +1,43 @@
+{
+  "legajo_id": "12",
+  "id_carta": "1550",
+  "order_in_legajo": 57,
+  "signatura": "071_6143.JPG",
+  "nombre_carta": "Carta de Cristóbal de Cardona a Pedro Santacilia y Pax",
+  "fecha_original": "30 de marzo de 1641",
+  "lugar": "Vinarós",
+  "remitente": "Cristóbal de Cardona",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "LLETRA COMPLICADA [1§] [2§] Transcripción literal"
+  ],
+  "literal": [
+    "1. LLETRA COMPLICADA1."
+  ],
+  "imagenes": [
+    {
+      "filename": "071_6143.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo12/071_6143.JPG",
+      "url": "/legajos/legajo-12/images/071_6143.JPG"
+    },
+    {
+      "filename": "072_6143.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo12/072_6143.JPG",
+      "url": "/legajos/legajo-12/images/072_6143.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "071_6143.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-12/cartas/001550.json",
+  "primary_image_url": "/legajos/legajo-12/images/071_6143.JPG"
+}

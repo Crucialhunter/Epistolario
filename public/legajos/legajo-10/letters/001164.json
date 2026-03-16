@@ -1,0 +1,43 @@
+{
+  "legajo_id": "10",
+  "id_carta": "1164",
+  "order_in_legajo": 33,
+  "signatura": "052-330a",
+  "nombre_carta": "Carta de Pedro Santacilia y Pax a Jerónimo Pelegrín de Aragüés",
+  "fecha_original": "25 de julio de 1668",
+  "lugar": "Madrid",
+  "remitente": "Pedro Santacilia y Pax",
+  "destinatario": "Jerónimo Pelegrín de Aragüés",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Por Arnaldo, que se partió por Valencia, tengo remitidas una multitud de cartas conque con esta solo digo que procures saber por todas vías cómo ha sido la muerte del marques de Laconi: en qué forma y lo que se presume por qué ha sido esto. Has de procurar con todas veras de los que han venido de ella, y avisarme per todas vías, que me importa. Y Dios guarde. Madrid y julio, 25 de 1668. Don Pedro Jeronimo [1§] {CAT. A Jeroni Pelegri, que Déu guardi}. . Madrid Transcripción literal"
+  ],
+  "literal": [
+    "1. Por Arnaldo que se partio por Valencia tengo remitidas 2. una multitud de cartas con q con esta solo digo que 3. procures saber por todas vias como ha sido la muerte 4. del Marques de Laconi, en q forma, y lo que se presume 5. porq ha sido esto has de procurar con todas veras 6. de los que han venido de ella; y Avisarme por todas vias 7. q me importa; Y Dios gde . Md y Julio 25 8. de 1668. Don Pedro9. [^Geronimo^] [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "052-330a.jpg",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo10/052-330a.jpg",
+      "url": "/legajos/legajo-10/images/052-330a.jpg"
+    },
+    {
+      "filename": "053-330b.jpg",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo10/053-330b.jpg",
+      "url": "/legajos/legajo-10/images/053-330b.jpg"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "052-330a.jpg",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING",
+      "message": "Se detectaron caracteres sospechosos de encoding (4)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-10/cartas/001164.json",
+  "primary_image_url": "/legajos/legajo-10/images/052-330a.jpg"
+}

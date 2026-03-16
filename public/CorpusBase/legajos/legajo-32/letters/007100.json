@@ -1,0 +1,38 @@
+{
+  "legajo_id": "32",
+  "id_carta": "7100",
+  "order_in_legajo": 122,
+  "signatura": "127:1858.JPG",
+  "nombre_carta": "Carta de Nicolás de Santacilia y Togores a Pedro Santacilia y Pax",
+  "fecha_original": "15 de abril de 1665",
+  "lugar": "Madrid",
+  "remitente": "Nicolás de Santacilia y Togores",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Luego me pongo a caballo para Aragues [?] ya colo escrito con otra, el rey está bueno, holgáreme que v. m. lo este, yo estoy bueno gracias a Dios La jornada de Alemania ya está canalado el día, y mes,. Guarde Dios a v. m. muchos años, y a los demás como deseo y me importa Madrid a 15 de abril 1665 Su más humilde hijo de v. m. don Nicolas de Santacilia y Togores mi padre y señor Transcripción literal"
+  ],
+  "literal": [
+    "1. Luego me pongo a cavallo para Arangues ?? 2. ya colo escrito con otra, el Rey esta bue3. no, olgareme que VM. lo este, yo estoy 4. bueno gracias a Dios 5. La jornada de Alemania ya esta canalado 6. el dia, y mes, Guarde Dios a VM. muchos 7. años, y a los demas como deseo y me ynpor8. ta Madrid a 15 de Abril 1665 9. Su mas humilde 10. hijo de VM 11. Don Nicolas de Sta. 12. Cilia y Togores 13. mi Padre y Señor [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "127:1858.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo32/127:1858.JPG",
+      "url": "/legajos/legajo-32/images/127:1858.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "127:1858.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-32/cartas/007100.json",
+  "primary_image_url": "/legajos/legajo-32/images/127:1858.JPG"
+}

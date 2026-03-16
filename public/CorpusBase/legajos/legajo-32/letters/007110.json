@@ -1,0 +1,38 @@
+{
+  "legajo_id": "32",
+  "id_carta": "7110",
+  "order_in_legajo": 132,
+  "signatura": "141:1868.JPG",
+  "nombre_carta": "Carta de Juan Garçes a Pedro Santacilia y Pax",
+  "fecha_original": "28 de abril de 1665",
+  "lugar": "Castillo de San Felipe",
+  "remitente": "Juan Garçes",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Sr. mío en respuesta de la carta de v. m. y de sus favores no tengo que decir más de que me tiene v. m. su servidor con todo reconocimiento y que desearé valer en que mostrarlo y holgara haberlo podido hacer, en el [?] de Francisco Cardona sobre el particular dea como darle conforme me manda v. m. y haberle dado una casa muy capaz para que gozara de las comodidades que v. m. le desea no obstante de las pocas que hay en este castillo siguiendo el orden de v. m. le acomodado lo mejor que podido y en lo demás que se le ofreciece. Le asistire puntualisimamente por ser de mi obligación merecerlo elrreferido y añadiiese la circunstancia de mandármelo v. m. a quien supco. se sirva hacerlo en cuantas ocasiones me juzgare de provecho que a todas acudiré con las veras que puede mi obligación Guarde Dios a v. m. ms. años como deseo castº San Fey abrill 28 de 1665 Su más obligado Servor de v. m. que sus manos besa Juan Garces Sr. D. Pedro de Santacilia y Pax Transcripción literal"
+  ],
+  "literal": [
+    "1. Sr mio en respuesta de la carta de Vm. y de sus fabores 2. no tengo q deçir mas de que me tiene Vm su servidor con 3. todo reconoçimiento y que deseare valer en que mostrarlo 4. y olgara averlo podido haçer, en el [?] de franco 5. Cardona sobre el particular dea como darle conforme 6. me manda Vm y averle dado una casa muy capaz 7. para que goçara de las comodidades q Vm le desea 8. no obstante de las pocas q ay en este castillo siguiendo 9. el orden de Vm le acomodado lo mejor que podido 10. y en lo demas q se le ofreçieze. Le asistire puntualisima11. mente por ser de mi obligaçion mereçerlo el rreferido 12. y añadiiese la circunstançia de mandarmelo Vm. a 13. quien supco. se sirva açerlo en quantas ocasiones me juz14. gare de probecho q a todas acudire con las beras q puede 15. mi obligon. gde Dios a Vmd ms. ans como deseo castº 16. San Phey Abrill 28 de 1665 17. Su mas obligado Servor 18. de Vm q SMB 19. Juan Garçes 20. Sor D. Pº de santa Çilia y Pax [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "141:1868.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo32/141:1868.JPG",
+      "url": "/legajos/legajo-32/images/141:1868.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "141:1868.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-32/cartas/007110.json",
+  "primary_image_url": "/legajos/legajo-32/images/141:1868.JPG"
+}

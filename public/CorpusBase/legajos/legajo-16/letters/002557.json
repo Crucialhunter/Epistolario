@@ -1,0 +1,38 @@
+{
+  "legajo_id": "16",
+  "id_carta": "2557",
+  "order_in_legajo": 43,
+  "signatura": "073:2057.JPG",
+  "nombre_carta": "Carta de Llucià Arbona a Pedro Santacilia y Pax",
+  "fecha_original": "1 de abril de 1667",
+  "lugar": "Sóller",
+  "remitente": "Llucià Arbona",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Molt il·lustre senyor Cristofol Ferrer donat de la casa de Santa Caterina del port d'esta vila ha descobert un beteu a la mar i és anat a portar aquell a est port el dit beteu. És petit i algun tant espenyat. M'ha paregut de tot avisar a vostra senyoria i en tot estaré a les seves ordres. Nostre Senyor guardi a vostra senyoria molts anys i li doni els augments de son desig, de Sóller abril 1 1667. Prompte per obeir les seves ordes,Llucia Arbona, tinent de vostra senyoria Al molt il·lustre senyor don Pedro de Santacilia i Pax, cavaller l'hàbit de Calatrava. Transcripción literal"
+  ],
+  "literal": [
+    "1. Molt Ilustre senor 2. Cristhofol farrer donat de la Cassa de Sta Catherina = 3. del port desta vila ha descubert hun beteu alamar y es 4. anat aportar aquell aest port Lo dit Beteu es petit y algun tant 5. espenat mea aparegut de tot avisar a Va Senoria y entot 6. stare a les sues ordes Nostrosr Gde a VSenoria Molts Anys 7. y li dona los Huments de son desig de Soller Abril. 1. 1667 8. prompta per Hobeir les sues ordes. 9. Llucia Arbona tinent de V Sria10. [Margen izquierdo][^ Al molt Ilustre senor don pedro de sta silia y pax Caveller el habit de Calatrava] [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "073:2057.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo16/073:2057.JPG",
+      "url": "/legajos/legajo-16/images/073:2057.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "073:2057.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (2)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-16/cartas/002557.json",
+  "primary_image_url": "/legajos/legajo-16/images/073:2057.JPG"
+}

@@ -1,0 +1,38 @@
+{
+  "legajo_id": "24",
+  "id_carta": "4054",
+  "order_in_legajo": 111,
+  "signatura": "140:4107a.JPG",
+  "nombre_carta": "Carta de Juan Valero Díaz a Pedro Santacilia y Pax",
+  "fecha_original": "14 de junio de 1652",
+  "lugar": "Madrid",
+  "remitente": "Juan Valero Díaz",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Beso las manos de v. m. por la puntualidad con que en todo me hace merced hasta con [?], que para un majadero como yo que nunca le sirvo en ninguna cosa es doblado favor, y quedará por mi cuenta el suplicar a v. m. me dé ocasiones de su servicio y el [?] a su salud con la buena agua que ya me prometo. Nuestros Medellines están muy buenos y el duque maravilloso caballero hablamos algunas veces de v. m. No hay cosa ninguna de nuevo y solo espéramos el feliz parto de la reina por momentos, porque ha ocho días que salió de cuentas. Nro. Sr. nos dé un hijo y guarde a v. m. como deseo. Madrid a 14 de junio 1652. Juan Valero Diaz Sr. D. Pedro Santacilia y Pax Transcripción literal"
+  ],
+  "literal": [
+    "1. Beso las manos de V.m. por la puntualidad 2. con q en todo me hace merced hasta con3. morteros[?], q para un maxadero como yo 4. q nunca le sirvo en ninguna cosa es doblado5. favor, y quedara por mi quenta el supplicar6. a V.m. me de ocasiones de su servicio y el7. [?] a su salud con la buena agua8. q ya me prometo,9. Nuestros medellines estan muy buenos y 10. el duque maravilloso cavallero hablamos11. algunas veces de Vm. No ay cosa12. ninguna de nuevo y solo esperamos el13. feliz parto de la Reyna por momentos14. porq ha ocho dias q salio de quenta nro Sr.15. nos de un hijo y gde a Vm. como deseo16. Madrid a 14 de Junio 1652??17. Juan Valero diaz18. Sr. D. Po Santa Cilia y Pax [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "140:4107a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo24/140:4107a.JPG",
+      "url": "/legajos/legajo-24/images/140:4107a.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "140:4107a.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-24/cartas/004054.json",
+  "primary_image_url": "/legajos/legajo-24/images/140:4107a.JPG"
+}

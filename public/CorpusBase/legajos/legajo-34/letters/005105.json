@@ -1,0 +1,38 @@
+{
+  "legajo_id": "34",
+  "id_carta": "5105",
+  "order_in_legajo": 132,
+  "signatura": "204:7020.JPG",
+  "nombre_carta": "Carta de Basilio de Castellví y Ponce a Pedro Santacilia y Pax",
+  "fecha_original": "1 de junio de 1657",
+  "lugar": "Valencia",
+  "remitente": "Basilio de Castellví y Ponce",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "S. mío su carta de v. s. de 13 del pasado heresivido con particular alborozo sabiendo queda v. s. con la salud que sus servidores le deseamos gócela v. s. mil años en compañía de Misra doña Catalina cuyas manos besamos Doña Laura y yo y Giuseppe que todos al servicio de v. s. que damos buenos y con el reconocimiento que es justo a la merced que v. s. se sirve de hacer aGiuseppe. beso a v. s. la mano por el favor que espero ha dehcer a él Dr. Rosellón que fio sabrá merecer los favores que v. s. fuere servido de hacerle, suplico a v. s. se sirva de no tenermeocioso dándome muchos empleos en queservir a v. s. quesera para mide mucha estimación Dios guarde a v. s. muchos años Valencia a Primero de junio del Año de 1657 Bavsmo su mayor servidor Don Basilio de Castellvi y Ponce Sr. don Pedro de Santacilia y Pax [1§] Transcripción literal"
+  ],
+  "literal": [
+    "1. S. Mio sucarta de VS de 13 del pasado heresivido2. con particular alboroço sabiendo queda VS con lasalud que3. sus servidores le deseamos goçela VS mil Años en conpañia4. de Misra Doña Catalina cuyas manos besamos Doña5. Laura y yo y Jusepe que todos al servicio de VS que damos6. buenos y con el reconocimiento que es justo a la merced que VS7. sesirve de hacer aJusepe.8. Veso a VS lamano por el fabor que es pero ha dehcer ael9. Dr. Rosellon que fio sabra merecer los fabores que VS fuere10. servido de hacerle, supp[li]co a VS sesirva deno tenermeocioso11. dandome muchos empleos en queservir a VS quesera paramide12. mucha estimacion Dios gde a VS muchos años Valencia13. a Primero de Junio del Año de 165714. Bavsmo su mor sdor15. don Basilio de Castelui16. y Ponçe17. S. Don Pedro de santa sicilia y Pax [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "204:7020.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo34/204:7020.JPG",
+      "url": "/legajos/legajo-34/images/204:7020.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "204:7020.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-34/cartas/005105.json",
+  "primary_image_url": "/legajos/legajo-34/images/204:7020.JPG"
+}

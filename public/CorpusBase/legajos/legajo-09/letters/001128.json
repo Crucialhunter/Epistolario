@@ -1,0 +1,37 @@
+{
+  "legajo_id": "9",
+  "id_carta": "1128",
+  "order_in_legajo": 11,
+  "signatura": "292-9-09a",
+  "nombre_carta": "Carta de No consta a No consta",
+  "fecha_original": "2 de febrero de 1617",
+  "lugar": "Lugar sin especificar",
+  "remitente": "No consta",
+  "destinatario": "No consta",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "{LAT. dia secunda mensis duembril annus a nativitat domini MDCXVII Admodum Reverndo dominus Vicaria gnalis estos pes [?]} Entra lo reverend mossèn Damia Cladera, prevere custós de la Seu de Mallorca, d'una part i de part altra el senyor Juan Antoni Puigdorfila, curador dels béns i heretat del noble senyor don Arnau Santacilia, que altercant sobre que per part del dit mossèn Cladera, en dit nom fou dit que el dit don Arnau Santacilia en son últim testament s'ha deixat que es digués en l'església de la Seu un ofici i conventual per la seva ànima i que fins avui no s'era dit. I així demana que dit curador sia condemnat en fer dir i celebrar el dit ofici conventual en la dita església de la Seu. I per dit senyor Puigdorfila en dit nom fou dit que proveint-ho el senyor oficial que està aparellat en fer adimplir el dit ofici i conventual {LAT. multis per providit sua soleo} que el dit senyor Joan Antoni Puigdorfila, curador [1§] predit, faci dir i celebrar en la dita església de la Seu el dit ofici conventual per ànima del dit don Arnau Santacilia conforme per aquell està disposat cuare etc. Transcripción literal"
+  ],
+  "literal": [
+    "1. {lat.} die secunda mensis duembril 2. ans anat dni MDCXVII 3. Admodum Rdo dnus Vicaria gnlis estos pes[?] 4. Entre lo Rd mo damia cladera pre custos dela seu 5. demaa de un apart y de part altre lo sor juan 6. Antoni puigdorfila Curedor dels bens y heretat 7. del noble don Arnau Sta cilia q altercant so8. bia que perpart del dit mo cladera endit nom 9. finch dit quelodie don arnau Santacilia en son 10. ultim testament se ha dexat ques digues en la is11. glesia dela seu un offici y conventual p la sua 12. anima y que fins vuy no se era dit y axi dema13. ne quedit cureedor sia condemnat en ferd ir 14. y celebrar lodit offici conventual enla dita 15. yiglesia dela seu y perdit sor puigdorfila en 16. ditno fonch dit que provehintho lo sor off q 17. esta aparellat en ferad implii lo dit offi18. ci y conventual multis p Providit sua soleo 19. quelo dit Sor Joan Antoni puigdorfila curador [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "292-9-09a.jpg",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo09/292-9-09a.jpg",
+      "url": "/legajos/legajo-09/images/292-9-09a.jpg"
+    },
+    {
+      "filename": "293-9-09b.jpg",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo09/293-9-09b.jpg",
+      "url": "/legajos/legajo-09/images/293-9-09b.jpg"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "292-9-09a.jpg",
+  "warnings": [],
+  "raw_source": "raw/legajos/legajo-09/cartas/001128.json",
+  "primary_image_url": "/legajos/legajo-09/images/292-9-09a.jpg"
+}

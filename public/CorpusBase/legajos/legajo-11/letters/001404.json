@@ -1,0 +1,38 @@
+{
+  "legajo_id": "11",
+  "id_carta": "1404",
+  "order_in_legajo": 171,
+  "signatura": "297:5259.JPG",
+  "nombre_carta": "Carta de Mossèn Joan Anglès a Pedro Santacilia y Pax",
+  "fecha_original": "7 de junio de 1644",
+  "lugar": "Vinarós",
+  "remitente": "Mossèn Joan Anglès",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Molt m'he folgat de saber de la salut de v. s. i de mi Sra. dona Magdalena per així la tenim tots i estimarem s'ofereixquin ocasions per a poder-lo servir. La carta per al Sr. don Joan Miquel envií a vValència juntament amb una mia dient-li les obligacions tinc a v. s. i que si s'ofereix ocasió em mani que ho estudiaré com és just. El plec per a la Sra. duquessa de Cardona m'ha fet mercè el governador d'esta plaça d'encaminar-la a Saragossa. La del Sr. Garriela ha enviada per l'estafeta tinc per cert que totes aniran ben encaminades. El que per aquí tenim de nou és que el governador de Tarragona ha escrit al governador d'ací que havia tingut avís a 5 d'este que el nostre exèrcit estava dins Lleida i que els francesos s'havien retirat al castell. Se té per cert esta nova perquè totes les noves que han vengut de Tarragona han estades certes i que in catalans que amb molta facilitat passen amb un dia i una nit a l'exèrcit nostre 100 [?] formen per la causa com és menester i no oferint-se altra cosa. Guardi Déu a v. s. i Vinarós a 7 de juny de 1644. Capella de v. s. mossèn Joan Angles Oncle [1§] Transcripción literal"
+  ],
+  "literal": [
+    "1. Molt me he folgat de sabre de la salut de VSª y de 2. mi sra. doña Madalena per axi la tenim tots 3. y estimarem se offeresquen occasions per a poder lo ser 4. vir. La carta per al sr. don Joan Michel embyi a Va 5. lensia juntament ab una mia dienli les obligacions 6. ting a VSª y que si se offereix ocasio ma mane queu es 7. tuviare com es just. lo plech per a la Sra. duquessa 8. de Cardona me ha fet merse lo governador desta plasa 9. de encaminarla a Saragosa. La del Sr. Garriela 10. ha embiada per la estafeta ting per rest que tots 11. aniran ben encaminades. Lo que per assi tenim 12. de nou es que el governador de Tarragona ha escrit al 13. governador de assi que avia tingut avis a 5 deste que 14. lo nostre exercit estava dins Lleyda y que los fransesos 15. se avien retirat al Castell se te per sert esta nova 16. perque tots les noves qie an vengut de Tarragona 17. an estades sertes yq ue In catalans que ab molta fa 18. silitat pasen ab un dia y una nit al exercit nostre 100 19. [^??^] formen per la causa com he menester y no offe 20. riuse altre cose. Gde Deu a VSª y Vinaros a 7 de Juny 21. de 1644. 22. Capella de VSª Mosen Joan Angles [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "297:5259.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo11/297:5259.JPG",
+      "url": "/legajos/legajo-11/images/297:5259.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "297:5259.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (2)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-11/cartas/001404.json",
+  "primary_image_url": "/legajos/legajo-11/images/297:5259.JPG"
+}
