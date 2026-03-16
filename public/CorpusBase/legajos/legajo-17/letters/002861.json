@@ -1,0 +1,43 @@
+{
+  "legajo_id": "17",
+  "id_carta": "2861",
+  "order_in_legajo": 127,
+  "signatura": "211:1403a.JPG",
+  "nombre_carta": "Carta de Jerónimo Pelegrín de Aragüés a Pedro Santacilia y Pax",
+  "fecha_original": "28 de abril de 1660",
+  "lugar": "Madrid",
+  "remitente": "Jerónimo Pelegrín de Aragüés",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Mi Señor. Por la estafeta pasada ha vise a v. m. como su hijo ya estaba en palacio bueno Regalado y muy contento de la buena elección que v. m. hizo y muy diferente ya en la Cortesia y trato. Cada día de obligación a cude a la Capilla y con una vez que le han enseniado lo que ha de aCer abastado y al fin es tan galante en su proceder que todos le quieren de manera que es incCoreible el haberlo de decir a v. m. v. m. escriba al duque de Montalto una carta y remitamela que será buena doña Isabel Salva escribe a v. m. en alaban zas de don Juan que le agrada mucho y a la reina nuestra señora Pocos días ha beso la mano al príncipe y están cuando con el los puliticos le tenían envidia a don Juan de haber entrado a tam buena oCasión en la casa real pues le ven tan asentado y no se mete en más de lo que tiene obligación cobra opinión de hombre de hedad y con el trato muestra ha de ser hombre de Importancia y en el no hay ninguna livian dad. [1§] Acá todos le quieren mucho. Hoy Miércoles ha venido el Capelo del Sr. don Pasqual de Aragon está muy contento. hemos ledado la enhorabuena y ha dado mil abrazos al muchacho que lo estima como si fuese su hijo y a mi ofréceme si es menester alguna cosa Nose olvide v. m. escribir a Pau Reull criado del Sr. don Luis que este es su privado y quien me ha alcanzado la gracia por tener memoria de lo que debe a v. m. la casa de Cardona. También ha de escribir a don Diego Campo secretario del Sr. don Pedro de Aragon que es muy criado de v. m. y todos nos hacen mucha merced y ninguno se olvida de v. m. en los Demas negocios hasta que todo Va vien. v. m. procure a tener salud que es lo que conviene a quien Guarde Nuestro Muchos años en vida de mi Sra. y los demás de casa de mi mujer no tengo que decir a v. m. pues donde v. m. esta yo no hago falta Madrid 28 de abril 1660 Su criado de v. m. que sus manos besa Jeronimo Pelegrin y Aragues Mi señor [2§] Transcripción literal"
+  ],
+  "literal": [
+    "1. Mi Señor. Por la estafeta passada ha2. vise a V.M. como su hijo ja estava en palacio 3. bueno Regalado ÿ muy contento de la buena 4. election que V.M. hizo y muy diferente ja en 5. la Cortessia y trato. Cada dia de obligaçion a6. cude a la Capilla y con una vez que le an 7. enseniado lo que ha de aCer abastado y al 8. fin es tan galante en su proçeder que todos 9. le quieren de manera que es incCoreible el 10. haverlo de diçir a VM.11. VM escriba al Sr Duque de Montalto una 12. carta y remitamela que sera buena 13. Doña Isabel Salvo escribe a VM en alaban14. ças de Don Juan que le agrada mucho y 15. a la Reyna nuestra Señora16. Pocos dias ha Vesso la mano al principe 17. y estan quando con el los puliticos le tenian 18. embidia a Don Juan de haver entrado a tam 19. buena oCassion en la Cassa Real pues le ven 20. tan asentado y no se mete en mas de lo que 21. tiene obligacion cobra opinion de hombre 22. de hedad y Con el trato muestra a de ser hombre 23. de Importançia y en el no haÿ ninguna livian24. dad. [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "211:1403a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo17/211:1403a.JPG",
+      "url": "/legajos/legajo-17/images/211:1403a.JPG"
+    },
+    {
+      "filename": "212:1403b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo17/212:1403b.JPG",
+      "url": "/legajos/legajo-17/images/212:1403b.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "211:1403a.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (4)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-17/cartas/002861.json",
+  "primary_image_url": "/legajos/legajo-17/images/211:1403a.JPG"
+}

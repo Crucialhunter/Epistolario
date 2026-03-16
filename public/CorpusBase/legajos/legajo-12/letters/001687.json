@@ -1,0 +1,38 @@
+{
+  "legajo_id": "12",
+  "id_carta": "1687",
+  "order_in_legajo": 20,
+  "signatura": "285_6288.JPG",
+  "nombre_carta": "Carta de Gabriel Cerdà a Pedro Santacilia y Pax",
+  "fecha_original": "14 de marzo de 1638",
+  "lugar": "Puigpunyent",
+  "remitente": "Gabriel Cerdà",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Mi senyora Sra. Dna. Leonor Aquest mes és en què v. m. acostuma honrar esta església amb una Sta. [?] dominica amb què festeja el Santíssim. Manarà v. m. avisar del gust té en esta matèria, per a puntuals observem i em guardi l'ordre de v. m. que Déu guardi. . Puigpunyent i març 14 de 1638. De v. m. el Sr. Gabriel Cerda, Rector [1§] Transcripción literal"
+  ],
+  "literal": [
+    "1. Mi Señora d. Eleonor2. Aquest mes es en que V.M. acustume3. honrar esta Isglesia ab una Sra.??4. dominica ab que festetja el SS[antíss]im??5. Manerà V.M. avisar del gust6. te en esta materia, para7. puntuals observem y guardem8. el orde de Vm. que deu gde9. Puig[punyen]t y Mars 14 de 163810. de V.M.11. El Dr. Gabriel Cerdà, Rector [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "285_6288.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo12/285_6288.JPG",
+      "url": "/legajos/legajo-12/images/285_6288.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "285_6288.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-12/cartas/001687.json",
+  "primary_image_url": "/legajos/legajo-12/images/285_6288.JPG"
+}

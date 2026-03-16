@@ -1,0 +1,43 @@
+{
+  "legajo_id": "26",
+  "id_carta": "4498",
+  "order_in_legajo": 234,
+  "signatura": "344:3593a.JPG",
+  "nombre_carta": "Carta de Diego Matías de Aragüés a Pedro Santacilia y Pax",
+  "fecha_original": "2 de septiembre de 1663",
+  "lugar": "Madrid",
+  "remitente": "Diego Matías de Aragüés",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Estos renglones hago como recibí las cartas de 20 por Barcelona y que tengo respondido por duplicado. Yo más quisiera se me remitieran las letras del nuncio en la conformidad que tengo escrito y demás recaudos, y como lo digo ahora a Jeronimo en su carta y que se envíen cuanto antes, y también le digo como llegó el síndico de La Pobla, aún no se ha visto su petición y memorial que en viéndose en el consejo me darán traslado para que responda a lo que dice, con que en esto por ahora no hay otro que decir. Ya tengo avisado como el cardenal don Pasqual de Aragon es inquisidor general, su hermano el Sr. don Pedro de Aragon se viene y va por embajador a Roma, el marques de San Roman hoy virrey de Valencia. Aun no está público de lo del duque de Alburquerque si ha de ir con la Sra. emperatriz. [1§] Esto esta desengañado que no será hasta la primavera la jornada. Al duque de Cardona besé las manos y le di la enhorabuena de su hermano. Ya se habló algo de esta jornada y me parece reconocí que estaba gustoso el verse fuera de este cuidado y trabajo preguntóme de v. s. mucho. Los reyes están buenos el rey con su embarazo del impedimento y el príncipe muy mejorado, para 15 del que viene deicen le han de jurar, Dios sobre todo que guarde a v. s. como deseo en compañía de mi Sra. Dña. Leonor que su mano besamos Dña. Margarita y yo con la de v. s. muchas veces y todos esos Sres. Madrid 2 Septiembre 1663. Besa la mano de v. s. su mayor servidor Diego Matias de Aragues Sr. don Pedro Santacilia y Pax. Transcripción literal"
+  ],
+  "literal": [
+    "1. Estos renglones hago como reciví2. las cartas de 20 por Barcelona y q3. tengo respondido por duppdo. Yo mas4. quisiera se me remitieran las letras5. del Sr. Nuncio enl a conformidad q6. tengo escrito y demas recaudos, y7. como lo digo agora a Germo. en su8. carta y q se embien quanto antes.9. Y tambien le digo como llego el sin10. dico de La Pobla, aun no se ha visto11. su peticion y mem[oria]l q en viendose12. ene l Conssº me daran traslado13. pª q responda a lo q dice, con q en14. esto por agora no ay otro q decir.15. Ya tengo avisado como el Sr. Cardenal16. don Pasqual de Aragon es Inqqor. 17. general, su herº el Sr. don Pº de Aragon18. se viene y ba por embaxador a Roma19. el Marqs de San Roman oy20. Virrey de Valencia.21. Aun no esta publico de lo del Duque de22. Alburqe si ha de hir con la Sra. Emperatriz [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "344:3593a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo26/344:3593a.JPG",
+      "url": "/legajos/legajo-26/images/344:3593a.JPG"
+    },
+    {
+      "filename": "345:3593b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo26/345:3593b.JPG",
+      "url": "/legajos/legajo-26/images/345:3593b.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "344:3593a.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (3)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-26/cartas/004498.json",
+  "primary_image_url": "/legajos/legajo-26/images/344:3593a.JPG"
+}

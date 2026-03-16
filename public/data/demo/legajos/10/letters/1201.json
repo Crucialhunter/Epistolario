@@ -1,0 +1,35 @@
+{
+  "id_carta": "1201",
+  "url_origen": "http://santacilia.info/info_carta2.php?id=1201",
+  "legajo": 10,
+  "signatura": "124-368a",
+  "nombre_carta": "Carta de Gabriel Amengual a Jerónimo Pelegrín de Aragüés",
+  "fecha": "22 de septiembre de 1668",
+  "lugar": "Roma",
+  "remitente": "Gabriel Amengual",
+  "destinatario": "Jerónimo Pelegrín de Aragüés",
+  "temas": "Sin especificar",
+  "idioma": "catalán",
+  "resumen": "Lorem ipsum ad his scripta blandit partiendo, eum fastidii accumsan euripidis in, eum liber hendrerit an. Qui ut wisi vocibus suscipiantur, quo dicit ridens inciderint id. Quo mundi lobortis reformidans eu, legimus senserit definiebas an eos. Eu sit tincidunt incorrupte definitionem, vis mutat affert percipit cu, eirmod consectetuer signiferumque eu per. In usu latine equidem dolores.",
+  "transcripcion": {
+    "modernizada": "{ESP. Señor mío,} {ESP. Con} una de v. m. em trobo dels 24 juliol rebuda als 17 de setembre i en ella veig de salut ésser bona. Jo sempre la tinc, amb tot el que em manarà de son servici i de mi senyor don Pedro. Tinc vist que s'és embarcat per Espanya juntament amb el senyor don Juan, son fill. No crec siguin molt llargs a tornar-nos. Els don feliç tornada. {ESP. Acerca} del negoci de mi senyor, no se fa cosa ninguna. L'agent del senyor bisbe ha de citar: ja estic {LAT. manu armata}, que si mou cosa ninguna d'envestir-lo... I així tenc per cert que no mourà cosa ninguna. Com ell ha començat a pagar aquí l'atrassat, que allò de recórrer al senyor bisbe en el Consell Suprem crec que seria molt mal per a ell i per a nosaltres bo. I així comanau a Déu Nostre Senyor a mi senyora dona Eleonor i al senyor don Nicolau mil besamans i rest besant les mans a v. m. i Nostre Senyor el guardi com pot i jo desitj. De Roma i setembre, als 22 de 1668. De v. m. que ses mans besa, Gabriel Amengual. Sr. Jeroni Pelegri Aragues [1§] {ESP. Al Sr. Jeroni Pelegrino Aragues, que Dios guarde. En casa el señor d. Pedro Santacilia. Mallorca.}",
+    "literal": "1. Sr. mio con una de V.M. em trobo dels 24 juliol rebude als 17 de s veix de salut esser bona jo sempre la tinch ab tot lo que em menera de son 2. servici y de mi Sr. don pedro tinch vist que ses enbarcar per españa junta 3. ment ab lo Sr. Don Juan son fill no crech sien mols llarchs a tornar nos. 4. Los don feliç tornada a serca del negosi de mi Sr. no se fa cosa ninguna 5. su agent del Sr. Bisbe a de citar ja estich [^LATmanu armata^] que si mou 6. cosa ninguna de envestirlo y axi tench per sert que no moura cosa ning 7. una com ell a comensat a pagar aqui lo atrasat que allo de recorrer al 8. Sr. Bisbe en el consell supremo crch que seria molt mal parell y per 9. nosaltres bo y axi comenau a Deu n.s a mi Sra. Dona Aleonor ya al 10. Sr. Don Nicolau mil besamans y rest besant les mans a V.M. 11. y Ntro. Sr. lo gde com pot y jo desitj de Roma y sbre als 22 de 1668. 12. De V. M q s m b 13. Gabriel Armengual.14. [^Sr. Gieroni Pelegri Aragues^] [☞]"
+  },
+  "imagenes": [
+    {
+      "src": "/data/demo/legajos/10/images/1201__01__124-368a.jpg",
+      "order": 1,
+      "originalFilename": "124-368a.jpg"
+    },
+    {
+      "src": "/data/demo/legajos/10/images/1201__02__125-368b.jpg",
+      "order": 2,
+      "originalFilename": "125-368b.jpg"
+    }
+  ],
+  "capturado_en": "2026-02-25T17:26:26.128Z",
+  "hasImages": true,
+  "primaryImage": "/data/demo/legajos/10/images/1201__01__124-368a.jpg",
+  "previousCartaId": "1200",
+  "nextCartaId": "1202"
+}

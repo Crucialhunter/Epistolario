@@ -1,0 +1,38 @@
+{
+  "legajo_id": "12",
+  "id_carta": "1620",
+  "order_in_legajo": 124,
+  "signatura": "188_6213.JPG",
+  "nombre_carta": "Carta de Llorenç Coll Barona a Pedro Santacilia y Pax",
+  "fecha_original": "25 de 1651",
+  "lugar": "Tarragona",
+  "remitente": "Llorenç Coll Barona",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Sr. D. Pedro Santacilia mi senyor Aquests dies passats tinguí nova com v. m. s'havia embarcat en València per a Mallorca en la qual hauria folgat hagués {ESP. encontrat} v. m. amb mon germà que he sabut en el mateix era arribat a Tortosa en companyia d'altres vuit i que els havien donat un any de {ESP. desterro} . Bé sap v. m. que l'estar jo fins aquesta en Tarragona és estat per la seva ordre i fins aquesta no tinc resposta sua alguna, el que suplico a v. m. que puix tindrà ocasió ara en les mans per a v. m. negociar amb mon negoci i apretar-lo que pugui qui (fins) tot el temps que he estat en Tarragona he servit el rei Nre. Senyor amb més costat i d'aixó quant importar podré jo mostrar mos servicis servint en la reial armada de mar un any en Ità alia essent soldat de D. Pedro Forteza del hàbit de Sant Joan. Nr. Senyor me guardi a v. m. com pot i jo desitjo. Tarragona als 25 de 1651. De v. m. Criat . Llorenç Coll Barona [1§] Transcripción literal"
+  ],
+  "literal": [
+    "1. Sr. D. Pedro Santazilia mi Señor2. Aquestos dias pasats tingui nova com Vm se havia3. embarcat en Valentia para Mallorca en la qual euria4. folgat agues encontrat Vm ab mon jarma que he sabut5. en lo matex era arribat en tortosa en compañia de6. altres vuyt y que los avian donat un any de desterro7. Be sap Vm que el estar yo fins aquesta en Tarrag[o]na8. es estat per la sua horda y fins aquesta no tinch res[pos-]9. ta sua alguna lo que supp[li]co a Vm. que puis tindra10. ocasio ara en las mans pora Vm negociar ab mon negosi11. y apretar lo q puga qui (^fins) tot lo temps que he12. estat en Tarr[a]g[on]a he servit el Rey Nron. Señor ab mes13. costat y de axo quant importar pore yo mostrar14. mos servisis servint en la Real Armada de mar un15. añy en Italia asent soldat de D. Pº Fortesa16. del Abit de Sant Ju[an] Nre Señor me gde a Vm17. com pot y jo desitjo Tarrag[on]a als 25 de 165118. De Vm Criat19. Llorens Coll Barona [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "188_6213.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo12/188_6213.JPG",
+      "url": "/legajos/legajo-12/images/188_6213.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "188_6213.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-12/cartas/001620.json",
+  "primary_image_url": "/legajos/legajo-12/images/188_6213.JPG"
+}

@@ -1,0 +1,38 @@
+{
+  "legajo_id": "24",
+  "id_carta": "3987",
+  "order_in_legajo": 38,
+  "signatura": "060:4040.JPG",
+  "nombre_carta": "Carta de Joan Maltès a Pedro Santacilia y Pax",
+  "fecha_original": "8 de diciembre de 1640",
+  "lugar": "Mallorca",
+  "remitente": "Joan Maltès",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Sr. don Pedro Santacilia. esta és per a donar avís a v. md. com estic llest pera partir-me, i lo sr. virrey m'ha entretingut per a portarme'n la galeota i així serà forçós haver-me de aguardar. Lo patró Joan Sastre és arribat en Mallorca ha dos dies, i és arribat per miracle, per haver-se vist anegat tres vegades aportant la vela esfondrada i les antenes arrompudes. I ha llançat [?] i barrils a la mar. Per tant suplica a v. md. faci tota la bona obra que puga a dit patró fent-lo pagar de tot lo temns [?] i no sent pena més. Nostre Sr. el guardi, d'esta terra de Mallorca als 8 desembre 1640. El patró Joan Maltes. Criat de v. md. [1§] Transcripción literal"
+  ],
+  "literal": [
+    "1. Sor don pedro Sanctasilia esta es pera donar2. havis a v.m. com stich llest pera partirma i lo Sor.3. vilrey mea antretingut per aportarmen la galeota4. i axi sera forsos haverme deaguardar. Lo patro jua5. Sastre es arribat en mallorca a dos dies i es arribat6. per miracle per versa vist negat tres vegades apor7. tant la vella esfondrada i les antenas arompudes y a8. llensat [?] y barrils a la mar per tant suplica a 9. Vmd. fassa tota la bona obra que puga a dit patro 10. fent lo pagar de tot lo tems inosent pena mes11. nostro Sor. lo gde desta terra de mallca als 8 de 10bre12. 1640br> Lo patro juan maltes13. Criat de Vmd. [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "060:4040.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo24/060:4040.JPG",
+      "url": "/legajos/legajo-24/images/060:4040.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "060:4040.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-24/cartas/003987.json",
+  "primary_image_url": "/legajos/legajo-24/images/060:4040.JPG"
+}

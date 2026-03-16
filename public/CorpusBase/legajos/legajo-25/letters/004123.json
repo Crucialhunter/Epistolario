@@ -1,0 +1,43 @@
+{
+  "legajo_id": "25",
+  "id_carta": "4123",
+  "order_in_legajo": 57,
+  "signatura": "115_157a.JPG",
+  "nombre_carta": "Carta de Jordi Ferragut a Jerónimo Pelegrín de Aragüés",
+  "fecha_original": "25 de mayo de 1667",
+  "lugar": "Madrid",
+  "remitente": "Jordi Ferragut",
+  "destinatario": "Jerónimo Pelegrín de Aragüés",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "De lo que me dice de no escribo no ha sido falta su descuido mio sinó que ha sido per no tenir ocasion que cuando yo [?] Alicante escribí una carta y la dió al patron para irse ya los 11 días LA LLETRA NO S'ENTÉN [1§] Madrid, 25 de mayo 1667, de Jorge Ferragut. Transcripción literal"
+  ],
+  "literal": [
+    "1. De lo que me dise de no escribo no asido falta2. bu descuydo mio sino que a sido por no tenir3. ocasio[n] que quando jo [?] alicante escrivi una4. carta y le dio ennel patro[n] pinse ya los 11 dias 5. LA LLETRA NO S'ENTÉN [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "115_157a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo25/115_157a.JPG",
+      "url": "/legajos/legajo-25/images/115_157a.JPG"
+    },
+    {
+      "filename": "116_157b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo25/116_157b.JPG",
+      "url": "/legajos/legajo-25/images/116_157b.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "115_157a.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (4)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-25/cartas/004123.json",
+  "primary_image_url": "/legajos/legajo-25/images/115_157a.JPG"
+}

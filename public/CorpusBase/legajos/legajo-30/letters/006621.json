@@ -1,0 +1,53 @@
+{
+  "legajo_id": "30",
+  "id_carta": "6621",
+  "order_in_legajo": 94,
+  "signatura": "132:5459a.JPG",
+  "nombre_carta": "Carta de Josep Esporrín a Pedro Santacilia y Pax",
+  "fecha_original": "9 de diciembre de 1619",
+  "lugar": "Mallorca",
+  "remitente": "Josep Esporrín",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Â [1§] Â [2§] Â [3§] Â [4§] Transcripción literal"
+  ],
+  "literal": [
+    "1. 1. 1. 1."
+  ],
+  "imagenes": [
+    {
+      "filename": "132:5459a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo30/132:5459a.JPG",
+      "url": "/legajos/legajo-30/images/132:5459a.JPG"
+    },
+    {
+      "filename": "133:5459b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo30/133:5459b.JPG",
+      "url": "/legajos/legajo-30/images/133:5459b.JPG"
+    },
+    {
+      "filename": "134:5459c.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo30/134:5459c.JPG",
+      "url": "/legajos/legajo-30/images/134:5459c.JPG"
+    },
+    {
+      "filename": "135:5459d.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo30/135:5459d.JPG",
+      "url": "/legajos/legajo-30/images/135:5459d.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "132:5459a.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (13)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-30/cartas/006621.json",
+  "primary_image_url": "/legajos/legajo-30/images/132:5459a.JPG"
+}

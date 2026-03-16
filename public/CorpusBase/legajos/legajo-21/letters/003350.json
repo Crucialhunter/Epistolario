@@ -1,0 +1,38 @@
+{
+  "legajo_id": "21",
+  "id_carta": "3350",
+  "order_in_legajo": 41,
+  "signatura": "065:5639.JPG",
+  "nombre_carta": "Carta de Martín de Rocabertí a Pedro Santacilia y Pax",
+  "fecha_original": "2 de marzo de 1632",
+  "lugar": "Girona",
+  "remitente": "Martín de Rocabertí",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Aningu vull donar avantatge del (lo) {ESP. contento} tinc de la remisioha feta çamagestat a v. m. així me pot v. m. emplea Com acapella desacompania que lanireservint, Com mos pares volen porenge estate ecclesiastic no el puc se rvir abaltres armes deu medejarribar aex estat peraq pugaservira v. m. a qui Déu guardi Girona i marsals 2 de 1632 Sr. don Martí de Rocaberti Sr. don Pedro Santacilia i Pax [1§] Transcripción literal"
+  ],
+  "literal": [
+    "1. Aningu vull donar avantatje del 2. (^lo) contento tinc de la rremisioha feta 3. çamagestat a V.M. axi me pot V.M. 4. emplea Com acapella desacompania 5. q lanireservint, Com mos pares volen 6. porenge estate ecclesiastic nol puch se=7. rvir abaltres armes deu medexarribar 8. aex estat peraq pugaservira V.M. a 9. qui deu guarde Girona y marsals 2 10. de 1632 11. Don marti de Rocaberti 12. [Margen izquierdo][^ Sr Don Pedro Sata Cilia y pax] [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "065:5639.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo21/065:5639.JPG",
+      "url": "/legajos/legajo-21/images/065:5639.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "065:5639.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (2)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-21/cartas/003350.json",
+  "primary_image_url": "/legajos/legajo-21/images/065:5639.JPG"
+}

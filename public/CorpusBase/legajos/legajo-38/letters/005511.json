@@ -1,0 +1,43 @@
+{
+  "legajo_id": "38",
+  "id_carta": "5511",
+  "order_in_legajo": 99,
+  "signatura": "064:35a.JPG",
+  "nombre_carta": "Carta de Joan Barceló a Pedro Santacilia y Pax",
+  "fecha_original": "20 de septiembre de 1663",
+  "lugar": "Algaida",
+  "remitente": "Joan Barceló",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Il·lustríssim. Avis a su Sria Il·lustríssima. com avui que contam als 20 setembre 1663 sirca tres hores de nit me vingué l'Algusir Juan alomar amb altres comissaris els quals m'entreguaren en els carses reals de la present vila d'Algaida les persones de Bernat Servera i Rafel barselo coves [?] i aquells presentes en els carses reals de li present Ciutat en pene de 300 ll. i altres [?] vades conforme acte d'entrego rebut per l'escriva real de dita vila el mateix dia i any els quals dits Servera i Barceló remet. carses reals de li present ciutat de Mallorca. per Matia Ribes lloctinent de batle real de dita vila juntament amb sos compenyons del qual per mon descàrrec dóna avís a {ESP. su sria.} Il·lustríssima. que Déu guarde. Restant prompte a sos {ESP. mandatos} dat en Algaida [?] Joan Barsela [?] [1§] Al Il·lustríssim. Sr. don Pedro de Sta. Cisilia cavaller de l'hàbit de li Calatrava virrei lloct. i capta. general per se Mag. Dat. del present regne de Mallorca. Etc. Guardi Ciutat [2§] Transcripción literal"
+  ],
+  "literal": [
+    "1. Illm. Sr.2. Avis á su Sria Illma. com vuy que contam als 20 7bre. 1663 sirca3. tres hores de nit me vingue lo Algusir Jua[n] alomar ab altres comisaris4. los quals me entreguaren en los carses Reals de la p[rese]nt vile de Algayde5. les persones de Ba[r]n[a]t Servera y Rafel barselo coves[?] Y aquels presentes6. en los carses Reals de le p[rese]nt Ciutat en pene de 300 ll. y altres [?]7. vades conforme acte de entrego rebut p[er] lo scriva Real de dite vile8. lo mateix die y any los quals dits Servera y Barselo remet [...]9. carses Reals de le p[rese]nt Ciutat de Mallca. p[er] Matia Ribes ll[octinent]10. de Balle Real de dite vile juntam[en]t ab sos compeñons de lo11. qual p[er] mon descarrech done avis a su Sria. Illma. q D[eu]12. gde. Resta[n]t prompte a sos mandatos dat en Algayde [?]13. Joan Barsela [?] [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "064:35a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo38/064:35a.JPG",
+      "url": "/legajos/legajo-38/images/064:35a.JPG"
+    },
+    {
+      "filename": "065:35b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo38/065:35b.JPG",
+      "url": "/legajos/legajo-38/images/065:35b.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "064:35a.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-38/cartas/005511.json",
+  "primary_image_url": "/legajos/legajo-38/images/064:35a.JPG"
+}

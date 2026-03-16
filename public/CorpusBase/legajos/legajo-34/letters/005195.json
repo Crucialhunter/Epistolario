@@ -1,0 +1,38 @@
+{
+  "legajo_id": "34",
+  "id_carta": "5195",
+  "order_in_legajo": 224,
+  "signatura": "343:7110.JPG",
+  "nombre_carta": "Carta de Juan Crespí y Brizuela a Pedro Santacilia y Pax",
+  "fecha_original": "24 de septiembre de 1658",
+  "lugar": "Valencia",
+  "remitente": "Juan Crespí y Brizuela",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "recibí la de v. s. de 18 de agosto holgando me mucho de que v. s. goce salud Dios se sirva de contunarla como deseo yo latengo para servir a v. s. en cuanto me quiciere mandar luego que la recibí escribí a mi hero y mer esponde como ya se trata en elConsejo Supremo de admitira composición lacausa del Sr. Antonio sureday valero y así halla es dondeseha deacudir que espero que saldrá bien de todo v. s. meha/ ga merced de decírselo de mi pte y que no respondo a su carta porque meremito aeta. Guarde nsr a v. s. los muchos años que deseo valer, [?] y septiembre 24 de 1658 blamde v. s. su mayor servidor Mr. Sr. don Juan Crespi y Brizuela Sr. don Pedro de Santacilia [1§] Transcripción literal"
+  ],
+  "literal": [
+    "1. Recivi la de vs. de 18 de agosto2. olgando me mucho de que vs. goce3. salud dios sesirva de contunarla como4. deseo yo latengo para servir a 5. vs. enquanto me quiciere mandar6. luego que larecibi escrivi a mi hero7. y mer esponde como ya se trata en8. elconsejo supremo de admitira9. composicion lacausa delsr. antonio10. sureday valero y assi alla es11. dondeseha deacudir que espero12. que saldra bien de todo vs. meha/13. ga md de decirselo demi pte14. y que no respondo asu carta15. porque meremito aeta. gde nsr16. avs. los muchos años que deseo17. val[er,?] y setiembre 24 de 165818. bl[a]mde vs su mr sdor19. Mr. don juan crespi20. y B[uq]uela21. Sr. don po de santacilia [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "343:7110.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo34/343:7110.JPG",
+      "url": "/legajos/legajo-34/images/343:7110.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "343:7110.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-34/cartas/005195.json",
+  "primary_image_url": "/legajos/legajo-34/images/343:7110.JPG"
+}

@@ -1,0 +1,43 @@
+{
+  "legajo_id": "19",
+  "id_carta": "7705",
+  "order_in_legajo": 19,
+  "signatura": "398_7912a.JPG",
+  "nombre_carta": "Carta de Bartolomé Mercadal a Pedro Santacilia y Pax",
+  "fecha_original": "fecha sin especificar",
+  "lugar": "lugar sin especificar",
+  "remitente": "Bartolomé Mercadal",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Sr. míoLes senyores mallorquines acostumen fer coques bambas i altres amb me'l i oli i perquè nª Sra. Sra. Dna. Leonor {Santacilia} pugui indicar si les Menorquines tenen bon gust en fer-les amb mantega de vaca Lin envio que el sabia Juº. Riera dos cadasos i altre de me'l [?] de Menorca dos marcats d'una P. de [?] que perdra V Sra. la bona voluntat i [?] se li ofereix alguna cosa d'esta {ESP. isla} manarà donar-men avís que amb [?] serà obehit. Certa persona m'ha presentat un parell de guants i ma muller i el presentarne en Mallorca. altra parell acerta persona ha tingut descuit en què tots fossin d'una mateixa ma, i peraq. el P presentat [?] de l'ordre de la Madrid te notícia en poder de quista l'altra parell supco. a v. s. li m'han donar la inclusa juntamt. amb el guant que envio de la [1§] ma es querra peraq. dit religiós faci el [?] i d'altre de la ma dreta i de dos emberesades ne [?] altres dos [?] i [?] de v. s. que [?] d'un criat se faci la diligència de la recuperació de dit guant que d'altre [?] serà factible que la quin de dos romangue altres i jo baldas d'una ma Déu me guardi a v. s. Molt de v. s. que [?] Sr. don Bartolome Mercadal Transcripción literal"
+  ],
+  "literal": [
+    "1. Sr. Mio2. Les senores mallorquines acostumen fer 3. cocas bambas y altres ab mel y oli y perq 4. nª Sª. D. Leonor puga indicar si les Me=5. norquines tenen bon gust en ferles ab 6. mantega de vaca Lin envio q lo sabia 7. Juº. Riera dos cadasos y altre de mel 8. ?? de Menorca dos marcats de 9. una P. de [?] de que perdra V Sª. la 10. bona voluntat y [?] se li offerex alguna 11. cosa desta isla manara donarmen avis 12. que ab [?] sera obehyt. 13. Certa persona me ha pntat un parell 14. de guants y me muller y el presentarne 15. en Mallca. altra parell acerta persona 16. ha tingut descuyt en que tots fossen de 17. una mateixa ma, y peraq. el P presen=18. tat [?] de la orde de la Md. te noticia 19. en poder de quista lo altra parell 20. supco. a VSª. li man donar la inclusa 21. juntamt. ab lo guant que envio de la [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "398_7912a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo19/398_7912a.JPG",
+      "url": "/legajos/legajo-19/images/398_7912a.JPG"
+    },
+    {
+      "filename": "399_7912b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo19/399_7912b.JPG",
+      "url": "/legajos/legajo-19/images/399_7912b.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "398_7912a.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-19/cartas/007705.json",
+  "primary_image_url": "/legajos/legajo-19/images/398_7912a.JPG"
+}

@@ -1,0 +1,38 @@
+{
+  "legajo_id": "21",
+  "id_carta": "3333",
+  "order_in_legajo": 23,
+  "signatura": "043:5622",
+  "nombre_carta": "Carta de Diego de Rocabertí a Persona desconocida",
+  "fecha_original": "14 de febrero de 1632",
+  "lugar": "Barcelona",
+  "remitente": "Diego de Rocabertí",
+  "destinatario": "Persona desconocida",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Quant manco noso pensaren m'apar que havent d'axir proveït en virrei de la Nova Espanya en algun altre gran {ESP. puesto} que no se'n pot esperar {ESP. menos} al tantes amistats, les noves són molt confuses però al tothom si vas i ni les estimo molt, Sr. don Luis soler me'n te enveja i diu que d'aquí endavant vol correspondencia amb dos i que li re metan a ell les mies cartes i ací és el més segur camí hagi i llançarlas a l'estafeta que per casa del duc van a la ilm ra al defer-se el plec d'en mans de qui donen demíon [?] tinc bones noves i també de dona Ana don Borguin [?] ha estat quatre o cinc dies al febre ja està bo Avui li ere [Fragmentat] el plec que em havent enviat per ell pens ser a Girona don fr pas dies que ací se passan tristament les carnestoltes sense ras tre ni senyal de mascaro, Sr. don Ramon Sagarriga esta abmodorra i és estat açò part persense fetes les paus ana a casa don Guerau a les primeres dobles Sr. don Francisco acompanat del Duc i del bisbe de Barcelona, Al comte d'Erill l'han mal aparellat amb tres pedrades i dos estucades mossèn [?] Caldes [?] se allar gara amb estes noves i un bela cara i a ja cosa de perill haver co del paper secret que em hem enviat veure si iproptan [?] ser alguna diligència Nostre Sr. vos guard em pot i jo des d'en Barcelona i senyor a 14 de 1632 Sr. don Diego de Rocaberti Pau i el llera [?] [1§] Transcripción literal"
+  ],
+  "literal": [
+    "1. Quant manco noso pensaren me apar que aven de 2. axir provehit en Virrey de la Nova Espana en algun 3. altre gran puesto que no sen pot esperar menos al tantas 4. amistats, las novas son molt confusas pero al totom si 5. vas y ni las estímo molt, Don luis soler men te enveja y diu 6. que de aqui avant vol correspondencía abdos y queli re7. metan a ell las mías cartas y así es lo mes segur cami aja 8. y llansarlas a la estafeta que per cassa del duc van ala ilm[Fragmentado]9. ra al deferse lo plech de en mans de qui donan demíon[?] 10. tinch bonas novas y tambe de dona Ana don Borguen[?] 11. a estat quatre osinch dias al febra ja esta bo Vuy li ere[Fragmentat] 12. lo plech quem aven enviat per ell pens ser a Girona don fr[]13. pas dias que asi se pasan tristament las carnastortas sens ra[s]14. tre ni senal de mascaro, don Ramon Sagarriga esta abmodo15. rra y es estat aso part persense fetas las paus ana a casa don 16. Guerau alas primeras doblas don francisco acompanat del 17. Duc y del bisbe de Barcelona, Al Comte de Erill lo an mal 18. aparellat ab tres pedradas y dos estucadas Mosen [?] Caldes[?] se allar19. gara abestas novas y un bela cara y a ya cosa de perill aver20. co del paper secret quem avem enviat veure si iproptan[?]21. ser alguna diligencia Nostre sor vos guart em pot 22. y jo dende en Barcelona y Senor a 14 de 1632 23. Don Diego de Rocaberti 24. Pau y lo llera[?] [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "043:5622.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo21/043:5622.JPG",
+      "url": "/legajos/legajo-21/images/043:5622.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "043:5622.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-21/cartas/003333.json",
+  "primary_image_url": "/legajos/legajo-21/images/043:5622.JPG"
+}

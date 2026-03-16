@@ -1,0 +1,43 @@
+{
+  "legajo_id": "28",
+  "id_carta": "4715",
+  "order_in_legajo": 25,
+  "signatura": "036:3649a.JPG",
+  "nombre_carta": "Carta de Maria de Boixadors i de Rocabertí a Pedro Santacilia y Pax",
+  "fecha_original": "21 de noviembre de 1628",
+  "lugar": "Girona",
+  "remitente": "Maria de Boixadors i de Rocabertí",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Els {ESP. varios} parers del mal del comte me dóna {ESP. ánimo} que ha de parar en bé. Plega a la divina misericòrdia de Déu no permeti altra cosa, que sols de passar per la incexinasió [?] m'altera. Jo sóc arribada ací a Girona i m'hi pens detenir fins a veure millorada a dona Maria, ma filla, que encara que el perill de la malaltia està ja fora, en tot cas ha de restar allesiada [?] de la cama. Del fleumó la té tota via arronsada sens poder-ne fer ningun moviment. Temo que ací hi hagi habilitat per a curar-la bé. Déu sia alabat de tot. Per sa misericòrdia vulgui tornar a tots la salut complida. Suplic a v. m. m'avisi del que hi haurà de nou, i si [1§] los apar sia jo bona en ninguna cosa de pare, haurà filla per a acudir a m'obligació. Guardi Déu a v. m. com jo desitj. Girona y novembre, als 21 de 1628. Dona Maria de Boixadors i de Rocaberti. Transcripción literal"
+  ],
+  "literal": [
+    "1. los varios pares del mal del conde2. me dona animo que a de parar3. en be plega ala divina miseri4. cordi de deu no per meta altra5. cosa que sols de pasar per la y6. ncexina sio me altera jo so ari7. bada asi a gerona y mi pens de8. tenir fins a veurer millorada9. a dona maria ma filla que en10. cara que lo parill de la maleltia11. esta ja fora ab tot cas a de res12. tar allesiada de la cama del13. fleumo la te tota via aronsa14. da sens poder ne fer ningun15. moviment temo que asi y axa16. abilitat pera curarla be deu17. sia alabat de to per sa miseri18. cordia vulla tornar a tots la salut19. conplida soplic a v.m. me avi20. se del quei aura de nou y si [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "036:3649a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo28/036:3649a.JPG",
+      "url": "/legajos/legajo-28/images/036:3649a.JPG"
+    },
+    {
+      "filename": "037:3649b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo28/037:3649b.JPG",
+      "url": "/legajos/legajo-28/images/037:3649b.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "036:3649a.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-28/cartas/004715.json",
+  "primary_image_url": "/legajos/legajo-28/images/036:3649a.JPG"
+}

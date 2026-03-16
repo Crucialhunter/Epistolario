@@ -1,0 +1,38 @@
+{
+  "legajo_id": "39",
+  "id_carta": "5640",
+  "order_in_legajo": 38,
+  "signatura": "71:8300.JPG",
+  "nombre_carta": "Carta de Gabriel Cerdà a Leonor Santacilia i Despuig",
+  "fecha_original": "15 de marzo de 1658",
+  "lugar": "Palma",
+  "remitente": "Gabriel Cerdà",
+  "destinatario": "Leonor Santacilia i Despuig",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "v. m. em farà mercè en què la domi nica se faci amb tota la solimnitat que se acostuma alegint v. m. el predi cador i avisar-me del diner se te de pagar que amb tota puntualitat s'entregara a la persona que v. m. ele gira, o, enviara Guardi Déu a v. m. molts anys Ciutat, 15 de març 1658 dona Eleanor Santacilia i Despuig Mi Sra. aquí va el P. Fr. Josep salve [?] Qui ha predicat el sermo per v. m. me farà mercè manar se li don 30 s pel sermo i 12 s per l'ofici i en tot que sia cosa de son gust me mane. Puigpunyent i març 25 de 1658 de v. m. El Dr. Gabriel Cerda Rector Rector Gabriel Cerda pre. a la noble Sra. dona Eleanor Despuig i Santacilia guarde. Déu Ciutat Al Rector Gabriel Cerda guardi Déu et Purpunyent [1§] Transcripción literal"
+  ],
+  "literal": [
+    "1. VM. em fara merse en que la domi=2. nica se fassa ab tota la solimnitat3. que se acostuma alegint V.M. el predi=4. cador y havisarme de lo diner se te5. de pagar que ab tota puntualitat se6. entregara a la persona que V.M. ele=7. gira, o, inviara Guarde Deu a VM.8. molts añys Ciutat, 15 de Mars 16589. Dona Eleanor Sta Cilia y10. Despuig11. Mi Sa. aqui va el P. Fr. Joseph salve? Qui ha12. predicat el sermo per VM. me fara merse13. manar se li don 30 s per el sermo y14. 12 s per lo offici y en tot q sia cosa15. de son gust me mane. Puig[punyen]t y mars16. 25 de 165817. De VM.18. El dr. Gabriel Cerda Rector19. Sr. Rector Gabriel Cerda pre.20. A la noble Sa. Dona Eleanor21. Despuig y Sta Cilia gde. Deu22. Ciutat23. Al Sr Rector Gabriel24. Cerda Gde Deu ett25. Purpunyent [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "71:8300.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo39/71:8300.JPG",
+      "url": "/legajos/legajo-39/images/71:8300.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "71:8300.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-39/cartas/005640.json",
+  "primary_image_url": "/legajos/legajo-39/images/71:8300.JPG"
+}

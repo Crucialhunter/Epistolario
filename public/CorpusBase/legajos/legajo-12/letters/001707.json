@@ -1,0 +1,38 @@
+{
+  "legajo_id": "12",
+  "id_carta": "1707",
+  "order_in_legajo": 197,
+  "signatura": "315_6300.JPG",
+  "nombre_carta": "Carta de Bárbara Valls i Olivera a Pedro Santacilia y Pax",
+  "fecha_original": "21 de diciembre de 1662",
+  "lugar": "Felanitx",
+  "remitente": "Bárbara Valls i Olivera",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Senyor don Pedro, V. m. tingui molt santes i bones festes i alegres juntament amb tots els de sa casa, a qui li envio un parell de capons. V. m. rebrà la bona voluntat, als 21 desembre 1662. V. Barbara Valls i Olivera Felanitx Transcripción literal"
+  ],
+  "literal": [
+    "1. Señor Do Pedro2. V.m. tinga molt santas i bonas festas3. y alegras juntament ab tots los da4. sa cassa aquí li an via un parell5. de capo[n]s V.m. rabra la bona6. voluntat als 21 d[esem]bra 16627. V. barbara valls y olivera8. fallanig [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "315_6300.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo12/315_6300.JPG",
+      "url": "/legajos/legajo-12/images/315_6300.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "315_6300.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-12/cartas/001707.json",
+  "primary_image_url": "/legajos/legajo-12/images/315_6300.JPG"
+}

@@ -1,0 +1,48 @@
+{
+  "legajo_id": "6",
+  "id_carta": "585",
+  "order_in_legajo": 88,
+  "signatura": "100-56a",
+  "nombre_carta": "Carta de Thomas Joven de Salas a Cecilia Zaforteza y Sureda de Sant Martí",
+  "fecha_original": "28 de agosto de 1756",
+  "lugar": "Madrid",
+  "remitente": "Thomas Joven de Salas",
+  "destinatario": "Cecilia Zaforteza y Sureda de Sant Martí",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Mi señora, Aunque por la obligación de mi oficio estaba constituido a poner todos los medios oportunos y convenientes para el feliz éxito de la dependencia que v. s. sigue con D. Salvador Sureda de Sn. Martí, la atención que experimento por la carta que recibí de v. s. de 9 de los corrientes me pone en nueva obligación de mirar este asunto con el afecto y pasión de interesado, que aunque no añade esperanza alguna en el éxito, por ser la primera obligación el único y mayor estímulo para el desempeño, con todo promete bastante para que [1§] v. s. descanse del todo, con el seguro de que a más de quedar yo por abogado para defender el pleito, lo miraré como propio para dirigirlo y adelantarlo, por merecer con ello la honra de servir a v. s. en este extremo, ya que en el primero de la defensa no puedo decir otro tanto por estar de por medio el cumplimiento de la obligación de mi oficio. Manifesté a D. Gabriel Tomás en vista de la copia de autos que desde los principios me entregó, el buen concepto que formaba de la pretensión y justicia de v. s., que es el único que podemos formar y manifestar los abogados en todo asunto que pende de decisión de hombres, y yo espero [2§] ver acreditado mi concepto para que v. s. logre el gusto que con ello se le promete. v. s. esté con el seguro de que así en el asunto pendiente como en lo que se sirva mandarme procuraré acreditar mi afecto y correspondencia. Dios guarde a v. s. los muchos años que deseo. Madrid y agosto 28 de 1756. Mi señora. Señora, besa los pies de v. s. su más afecto obligado servidor, D. Tomás Joven de Salas. Sra. Dña. Cecilia Zaforteza y de Berga, mi señora. Transcripción literal"
+  ],
+  "literal": [
+    "1. Mi Señora 2. Aunque por la Obligacion de mi oficio 3. estaba constituydo, á poner todos los 4. medios oportunos, y Convenientes para 5. el feliz exito de la Dependencia, que 6. V.S. sigue con D. Salvador Sureda de 7. Sn. Marti: la atencion que experimento 8. por la Carta que recivi de V.S. de 9 de 9. los Corrientes, me pone en Nueva obli- 10. gacion de mirar este assumpto con el 11. afecto, y Pasion de interesado; que aunque 12. no añade esperanza alguna en el exi- 13. to, por ser la primera obligacion, el 14. Vnico, y mayor estimulo, para el Desem- 15. peño; con todo promete bastante paraque [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "100-56a.jpg",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo06/100-56a.jpg",
+      "url": "/legajos/legajo-06/images/100-56a.jpg"
+    },
+    {
+      "filename": "101-56b.jpg",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo06/101-56b.jpg",
+      "url": "/legajos/legajo-06/images/101-56b.jpg"
+    },
+    {
+      "filename": "102-56c.jpg",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo06/102-56c.jpg",
+      "url": "/legajos/legajo-06/images/102-56c.jpg"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "100-56a.jpg",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-06/cartas/000585.json",
+  "primary_image_url": "/legajos/legajo-06/images/100-56a.jpg"
+}

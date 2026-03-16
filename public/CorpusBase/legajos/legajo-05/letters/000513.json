@@ -1,0 +1,55 @@
+{
+  "legajo_id": "5",
+  "id_carta": "513",
+  "order_in_legajo": 11,
+  "signatura": "01-1b copy",
+  "nombre_carta": "Carta de Pedro Antonio Zaforteza a Carlos II",
+  "fecha_original": "10 de junio de 1672",
+  "lugar": "Mallorca",
+  "remitente": "Pedro Antonio Zaforteza",
+  "destinatario": "Carlos II",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Señor. Para pagar los salarios y ayudas de costa al inquisidor de Mallorca y demás ministros de dicho tribunal no entra más dinero en la receta que cuatrocientos ducados que tiene de pensión sobre el obispado y los frutos de un canonicato que son inciertos pero puédense arbitrar por cada año en quinientos cincuenta ducados. Todo este dinero, cuando se pueda cobrar, no es bastante, señor, para pagar dichos salarios y ayudas de costa, por cuya causa y haberse ofrecido algunas dificultades en la cobranza de la pensión impuesta sobre el obispado, ha sido necesario que v. alteza mandase socorrer esta receta por mano del Tesorero de la general Inquisición, con que se han podido pagar los salarios corridos a los ministros pero no las ayudas de costa, de que se les deben muchas cantidades las cuales esperan cobrar de otra pensión que habían entendido había mandado v. alteza añadir a esta receta sobre el dicho obispado. Pero como este tribunal no haya recibido despacho alguno en virtud del cual pueda cobrar más que la referida a los 400 ducados, y estos faltan para cobrar de la vacante del obispo, para lo cual tengo hecho diligencia con el señor Jaime Ballester, canónigo y subcolector de dicha vacante, el cual rehúsa pagarlos con motivo que no [1§] lo puede hacer sin orden del nuncio y Colector general Apostólico en los reinos de España, al cual se lo tiene comunicado. y le ha respondido que tiene vendido la vacante y que con el comprador de ella se ha de averiguar dicha cobranza. Con que por ahora no se halla otro camino para facilitarla que dar cuenta a v. alteza de lo que pasa para que siendo de su servicio pueda ordenar que el nuncio de su Santidad remita a su subcolector los despachos necesarios para que pague los dichos 400 ducados, para que con ellos se pueda socorrer a los ministros de v. alteza que le sirven en dicho tribunal. Guarde Dios Nuestro Señor a v. alteza largos años. Mallorca y junio 10 de 1672. Don Pedro Zaforteza Receptor Correspondencia de D. Pedro Antonio Zaforteza Transcripción literal"
+  ],
+  "literal": [
+    "1. Señor.2. Para pagar los salarios y ayudas de costa al Inqor 3. de Mallorca y demás Ministros de dicho Tribunal 4. no entra mas dinero en la recepta que quatrocientos du- 5. cados que tiene de pension sobre el Obispado y los 6. frutos de un canonicato que son inciertos pero pue- 7. dense arbitrar por cada año en quinientos cinquenta 8. ducados: todo este dinero cuando se pueda cobrar, 9. no es bastante Sr para pagar dichos salarios y ayudas 10. de costa, por cuya causa y haverse offrecido algunas 11. dificultades en la cobrança de la pension impuesta 12. sobre el Obispado, ha sido necessario que V. Alta 13. mandasse socorrer esta recepta por mano del Thezo- 14. rero de la General Inquisicion, con que se han po- 15. dido pagar los salarios corridos a los Ministros; 16. pero no las ayudas de costa, de que se les deven 17. muchas cantidades, las quales esperan cobrar de 18. otra pensión que havian entendido havia manda- 19. do V. Alta añadir a esta recepta sobre el dicho 20. Obispado; pero como este tribunal no haya recibido 21. despacho alguno en virtud del qual pueda cobrar 22. mas que la referida a los 400 ducados y estos fal- 23. tan para cobrar de la vacante del Obispo; para 24. lo qual tengo hecho diligencia con El Sr. Jayme 25. Ballester Canonigo, y Subcollector de dicha va- 26. Cante, el qual rehusa pagarlos, con motivo que no [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "01-1a copy.gif",
+      "original_url": "http://www.studiolum.com/Web3/img/Legajo05/01-1a copy.gif",
+      "url": "/legajos/legajo-05/images/01-1a copy.gif"
+    },
+    {
+      "filename": "01-1b copy.gif",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo05/01-1b copy.gif",
+      "url": "/legajos/legajo-05/images/01-1b copy.gif"
+    },
+    {
+      "filename": "02-1c copy.gif",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo05/02-1c copy.gif",
+      "url": "/legajos/legajo-05/images/02-1c copy.gif"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "01-1a copy.gif",
+  "warnings": [
+    {
+      "code": "IMAGE_DOWNLOAD_FAIL",
+      "message": "HTTP 404",
+      "context": {
+        "url": "http://www.studiolum.com/Web3/img/Legajo05/01-1a copy.gif"
+      }
+    },
+    {
+      "code": "IMAGE_COUNT_MISMATCH",
+      "message": "Imágenes detectadas (3) != descargadas (2)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-05/cartas/000513.json",
+  "primary_image_url": "/legajos/legajo-05/images/01-1a copy.gif"
+}

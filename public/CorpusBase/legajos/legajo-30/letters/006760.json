@@ -1,0 +1,48 @@
+{
+  "legajo_id": "30",
+  "id_carta": "6760",
+  "order_in_legajo": 24,
+  "signatura": "354:5598a",
+  "nombre_carta": "Carta de Diego Matías de Aragüés a Persona desconocida",
+  "fecha_original": "9 de diciembre de 1619",
+  "lugar": "Mallorca",
+  "remitente": "Diego Matías de Aragüés",
+  "destinatario": "Persona desconocida",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Â [1§] Â [2§] Â [3§] Transcripción literal"
+  ],
+  "literal": [
+    "1. 1. 1."
+  ],
+  "imagenes": [
+    {
+      "filename": "354:5598a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo30/354:5598a.JPG",
+      "url": "/legajos/legajo-30/images/354:5598a.JPG"
+    },
+    {
+      "filename": "355:5598b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo30/355:5598b.JPG",
+      "url": "/legajos/legajo-30/images/355:5598b.JPG"
+    },
+    {
+      "filename": "356:5598c.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo30/356:5598c.JPG",
+      "url": "/legajos/legajo-30/images/356:5598c.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "354:5598a.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (12)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-30/cartas/006760.json",
+  "primary_image_url": "/legajos/legajo-30/images/354:5598a.JPG"
+}

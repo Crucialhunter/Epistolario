@@ -1,0 +1,37 @@
+{
+  "legajo_id": "30",
+  "id_carta": "6601",
+  "order_in_legajo": 133,
+  "signatura": "103:5439a.JPG",
+  "nombre_carta": "Carta de Arzobispo de Valencia a Pedro Santacilia y Pax",
+  "fecha_original": "20 de febrero de 1651",
+  "lugar": "Valencia",
+  "remitente": "Arzobispo de Valencia",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "[1§] [2§] Transcripción literal"
+  ],
+  "literal": [
+    "1. 1."
+  ],
+  "imagenes": [
+    {
+      "filename": "103:5439a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo30/103:5439a.JPG",
+      "url": "/legajos/legajo-30/images/103:5439a.JPG"
+    },
+    {
+      "filename": "104:5439b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo30/104:5439b.JPG",
+      "url": "/legajos/legajo-30/images/104:5439b.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "103:5439a.JPG",
+  "warnings": [],
+  "raw_source": "raw/legajos/legajo-30/cartas/006601.json",
+  "primary_image_url": "/legajos/legajo-30/images/103:5439a.JPG"
+}

@@ -1,0 +1,78 @@
+{
+  "legajo_id": "6",
+  "num_cartas": 180,
+  "num_imagenes": 407,
+  "rango_temporal": [
+    1739,
+    1779
+  ],
+  "remitentes_frecuentes": [
+    {
+      "name": "Tomás Mariano Quint Zaforteza",
+      "count": 27
+    },
+    {
+      "name": "Cecilia Zaforteza y Sureda de Sant Martí",
+      "count": 14
+    },
+    {
+      "name": "Ignasi Vila",
+      "count": 10
+    },
+    {
+      "name": "Gabriel Joachim Zaforteza y Berga",
+      "count": 5
+    },
+    {
+      "name": "Persona desconocida",
+      "count": 5
+    }
+  ],
+  "destinatarios_frecuentes": [
+    {
+      "name": "Cecilia Zaforteza y Sureda de Sant Martí",
+      "count": 157
+    },
+    {
+      "name": "Persona desconocida",
+      "count": 10
+    },
+    {
+      "name": "No consta",
+      "count": 3
+    },
+    {
+      "name": "conde de Valdellano",
+      "count": 2
+    },
+    {
+      "name": "Doctor Bibiloni",
+      "count": 1
+    }
+  ],
+  "lugares_frecuentes": [
+    {
+      "name": "Barcelona",
+      "count": 38
+    },
+    {
+      "name": "Madrid",
+      "count": 35
+    },
+    {
+      "name": "Palma",
+      "count": 29
+    },
+    {
+      "name": "Mallorca",
+      "count": 21
+    },
+    {
+      "name": "lugar sin especificar",
+      "count": 10
+    }
+  ],
+  "temas_frecuentes": [],
+  "warnings_count": 171,
+  "densidad_narrativa_estimada": "Media"
+}

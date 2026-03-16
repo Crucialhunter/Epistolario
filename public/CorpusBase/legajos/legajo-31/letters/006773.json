@@ -1,0 +1,43 @@
+{
+  "legajo_id": "31",
+  "id_carta": "6773",
+  "order_in_legajo": 13,
+  "signatura": "020:1524a.JPG",
+  "nombre_carta": "Carta de Francesc Rosselló a Pedro Santacilia y Pax",
+  "fecha_original": "27 de noviembre de 1660",
+  "lugar": "Ibiza",
+  "remitente": "Francesc Rosselló",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "[1§] [2§] Transcripción literal"
+  ],
+  "literal": [
+    "1. 1."
+  ],
+  "imagenes": [
+    {
+      "filename": "020:1524a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo31/020:1524a.JPG",
+      "url": "/legajos/legajo-31/images/020:1524a.JPG"
+    },
+    {
+      "filename": "021:1524b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo31/021:1524b.JPG",
+      "url": "/legajos/legajo-31/images/021:1524b.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "020:1524a.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-31/cartas/006773.json",
+  "primary_image_url": "/legajos/legajo-31/images/020:1524a.JPG"
+}

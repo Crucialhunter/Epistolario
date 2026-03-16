@@ -1,0 +1,43 @@
+{
+  "legajo_id": "12",
+  "id_carta": "1529",
+  "order_in_legajo": 33,
+  "signatura": "046_6122a.JPG",
+  "nombre_carta": "Carta de Jerónimo del Castillo a Pedro Santacilia y Pax",
+  "fecha_original": "25 de junio de 1639",
+  "lugar": "Zaragoza",
+  "remitente": "Jerónimo del Castillo",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Muy merecida le tenga a v. m. todo el favor y merced que me hace con su carta de 25 de este, dándose por servido de mis deseos, los cuales serán siempre de servirle y obedecerlo muy al paso de lo que me confieso obligado. Si con esta seguridad me hallare de provecho v. m. para mandarme experimentará con la fineza que me muestro reconocido a sus favores de v. m. cuya persona guarde Nro. Sr. y prospere como merece y de los sucesos que puede. Zaragoza y junio 25 de 1639. La carta que será con esta han dejado hoy en mi aposento, remítola a v. m. Jeronimo del Castillo Sr. D. Pedro Santacilia [1§] Transcripción literal"
+  ],
+  "literal": [
+    "1. Muy mereçida le tenga a Vm todo el favor y mrd.2. que me haçe con su carta de 25 deste dandose por servido3. de mis deseos los quales seran siempre de servirle y obedeçerlo4. muy al paso de lo que me confiesso obligado si conesta si5. guridad me hallare de provecho Vm para mandarme6. esperimentara con la fineça que me muestro Reconoçido7. a sus favores de Vm cuya persona guarde Nro. Sr. y pros8. pere como mereçe Y de los subçessos que puede Çaragoça y9. Junio 25 de 163910. La carta que sera conesta an dejado oy en mi aposento Remitola11. a Vm:12. Geronimo del Castillo13. Sr. D. Pº Santazilia [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "046_6122a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo12/046_6122a.JPG",
+      "url": "/legajos/legajo-12/images/046_6122a.JPG"
+    },
+    {
+      "filename": "047_6122b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo12/047_6122b.JPG",
+      "url": "/legajos/legajo-12/images/047_6122b.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "046_6122a.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-12/cartas/001529.json",
+  "primary_image_url": "/legajos/legajo-12/images/046_6122a.JPG"
+}

@@ -1,0 +1,48 @@
+{
+  "legajo_id": "6",
+  "id_carta": "536",
+  "order_in_legajo": 36,
+  "signatura": "010_6aa",
+  "nombre_carta": "Carta de Madalena a Cecilia Zaforteza y Sureda de Sant Martí",
+  "fecha_original": "30 de enero de 1741",
+  "lugar": "Barcelona",
+  "remitente": "Madalena",
+  "destinatario": "Cecilia Zaforteza y Sureda de Sant Martí",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Amiga i querida mia: m’alegro de les bones notícies me dones de la tua salut i de l’oncle Francesc, benefici que tots logram i jo ja fora del perill del part, al que [no és] estat a temps; però em [queda] el {ESP. consuelo} d’haver-se batejat la criatura i jo que ho passo tan bé que penso demà anar a missa. Te remet les puntes, les que voldria fossin a ton gust. El valor d’elles és a sis reals les grans el pam i les altres a tres. Quedo tua de cor, pregant a Déu te guardi molts anys com pot i desitjo. Barcelona i gener 30 de 1741. L’amiga que més te vol Madalena Amiga i querida mia [A l’altra pàgina del document]A dona Cecilia Zaforteza i Sureda. Guardi Déu molts anys com pot. Mallorca Transcripción literal"
+  ],
+  "literal": [
+    "1. 1. Amiga y querida mia: me ale- 2. gro de las bonas noticias me do- 3. nas de la tua salut, y del Oncle 4. franch, (^[?]) benefici que tots logram 5. y jo ja fora del parill del part, al 6. que [^no es] estat á temps; pero me [^queda] al con- 7. suelo de averse betejat (^[?]) la cria- 8. tura y jo que ho paso tan bé que 9. penso dema anar á misa. te reme- 10. to las puntas, las que volria 11. fosen á ton gust. lo valor de 12. ellas es á sis reals las grans [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "010_6ab.jpg",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo06/010_6ab.jpg",
+      "url": "/legajos/legajo-06/images/010_6ab.jpg"
+    },
+    {
+      "filename": "011_6b.jpg",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo06/011_6b.jpg",
+      "url": "/legajos/legajo-06/images/011_6b.jpg"
+    },
+    {
+      "filename": "010_6aa.jpg",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo06/010_6aa.jpg",
+      "url": "/legajos/legajo-06/images/010_6aa.jpg"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "010_6ab.jpg",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-06/cartas/000536.json",
+  "primary_image_url": "/legajos/legajo-06/images/010_6ab.jpg"
+}

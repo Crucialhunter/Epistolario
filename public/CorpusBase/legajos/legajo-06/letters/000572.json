@@ -1,0 +1,43 @@
+{
+  "legajo_id": "6",
+  "id_carta": "572",
+  "order_in_legajo": 75,
+  "signatura": "075-43a",
+  "nombre_carta": "Carta de Joan Thomas de Boxadors a Cecilia Zaforteza y Sureda de Sant Martí",
+  "fecha_original": "14 de noviembre de 1748",
+  "lugar": "Roma",
+  "remitente": "Joan Thomas de Boxadors",
+  "destinatario": "Cecilia Zaforteza y Sureda de Sant Martí",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Roma i novembre 14 de 1748. Tia i molt senyora mia, He diferit fins ara respondre a l’apreciada carta de v. s. per no haver tingut facilitat, trobant-me fora de Roma, de complir amb eixa obligació. Avui ho executo expressant a v. s. la suma pena que ha ocasionat la funesta notícia que v. s. me participa, tant per la {ESP. pérdida} d’un oncle, a qui jo devia i amava tant, quant pel sentiment en què per fatalitat considero a v. s. la cristiana conformitat de v. s. no necessita de més reflexions per suportat amb la deguda superioritat d’{ESP. ánimo} eix colp tan sensible, particularment a vista de la vida exemplar de mon oncle i senyor, que deixa esperar que sa llarga i penosa malaltia serà estada seguida d’un etern repòs. Molt he sentit que les contingències, que no estaven en mon arbitri, m’hagin impedit el {ESP. consuelo} de veure a v. s. Però encara que no hagi {ESP. lograt} la ditxa de poder-la assegurar personalment de mon respecte i m’amistat, visca v. s. persuadida que m’interessaré sempre infinitament en tots els seus {ESP. consuelos} i que una de més majors satisfaccions serà la d’obeir [1§] a v. s. en quant me dispensa el favor de manar-me. Déu guarda a v. s. els dilatats anys que necessito. Besa la mà de v. s., son més afecte nebot i servidor ,Joan Tomàs de Boixadors A mi senyora dona Cecilia Zaforteza, guardi Déu molts anys. Mallorca Tia i molt senyora mia Transcripción literal"
+  ],
+  "literal": [
+    "1. Roma y Novre 14 de 1748 2. Tia y molt señora mia: He differit fins ara respondrer 3. á la apreciada carta de V.S. per no haver tingut facilitat, 4. trobantme fora de Roma, de cumplir ab eixa obligació. 5. Vuy ó executo expressant á V.S. la suma pena que 6. ha ocasionat la funesta noticia que V.S. me participa, tant 7. per la perdida de un Oncle á qui jo devia, y amava tant[?] 8. quant per lo sentiment en que per [?] fatalitat consi-[?] 9. dero a V.S. La christiana conformitat de V.S. no necessi- 10. ta de mas reflexions per suportar ab la deguda superio-[?] 11. ritat de animo eix colp tan sensible, particularment 12. á vista de la vida exemplar de mon Oncle y Señor, que 13. deixa esperar que sa Llarga y penosa malaltia sarà estada 14. seguida de un etern repos. Molt he sentit que las contin- 15. gencias, que no estaven en mon arbitri, me hajan impe- 16. dit lo consuelo de Veurer á V.S. però encara que no haja lo- 17. grat la ditxa de poderla assegurar personalment de mon 18. respecte, y ma Amistat, Visca V.S. persuadida que me in- 19. teressare sempre infinitament en tots sos consuelos, y 20. que una de mas majors satisfacions sarà la de obeir [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "075-43a.jpg",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo06/075-43a.jpg",
+      "url": "/legajos/legajo-06/images/075-43a.jpg"
+    },
+    {
+      "filename": "076-43b.jpg",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo06/076-43b.jpg",
+      "url": "/legajos/legajo-06/images/076-43b.jpg"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "075-43a.jpg",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-06/cartas/000572.json",
+  "primary_image_url": "/legajos/legajo-06/images/075-43a.jpg"
+}

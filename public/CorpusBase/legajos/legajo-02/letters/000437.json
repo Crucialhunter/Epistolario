@@ -1,0 +1,37 @@
+{
+  "legajo_id": "2",
+  "id_carta": "437",
+  "order_in_legajo": 1,
+  "signatura": "57-26a",
+  "nombre_carta": "Carta de No consta a Gregorio Quint Zaforteza",
+  "fecha_original": "fecha sin especificar",
+  "lugar": "Mallorca",
+  "remitente": "No consta",
+  "destinatario": "Gregorio Quint Zaforteza",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Los beneficiados de santa Olaya entre dos oficios toman el turno de las misas de dentro del coro y tienen conversación de forma que dan muy mal ejemplo a los seglares. Por las tardes dentro de la iglesia, particularmente de verano, tienen conversación, levantando mucho la voz, que parece más lonja que iglesia y lugar sagrado. El oficio de difuntos se reza con mucha prisa y muy atropelladamente. El rector, como tiene tantas ocupaciones, no puede asistir [1§] mucho al coro y hay falta por hacer la doma. Los sacristanes o seglares van por semanas y si el de semana está ocupado con algún viático o unción, no hay quien guarde la iglesia y hay falta en muchas cosas. En el coro cuando se oficia hay poco silencio. Transcripción literal"
+  ],
+  "literal": [
+    "1. Los beneficiados de s<an>ta Olalla en-2. tre dos oficios toman el turno de 3. las missas de dentro del choro y 4. tienen conversasion de forma [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "57-26a.jpg",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo02/57-26a.jpg",
+      "url": "/legajos/legajo-02/images/57-26a.jpg"
+    },
+    {
+      "filename": "58-26b.jpg",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo02/58-26b.jpg",
+      "url": "/legajos/legajo-02/images/58-26b.jpg"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "57-26a.jpg",
+  "warnings": [],
+  "raw_source": "raw/legajos/legajo-02/cartas/000437.json",
+  "primary_image_url": "/legajos/legajo-02/images/57-26a.jpg"
+}

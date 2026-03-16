@@ -1,0 +1,43 @@
+{
+  "legajo_id": "21",
+  "id_carta": "3385",
+  "order_in_legajo": 75,
+  "signatura": "111:5674a.JPG",
+  "nombre_carta": "Carta de Magdalena de Zaforteza i Rocabertí a Pedro Santacilia y Pax",
+  "fecha_original": "24 de mayo de 1632",
+  "lugar": "Girona",
+  "remitente": "Magdalena de Zaforteza i Rocabertí",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Ja s'ha descuidat d'escriure'm i jo no l'hi vull perdonar perquè sé que hi ha moltes noves que dir-me i així escrigui les m'han dit que son publicades moltes mercès al duc de Cardona v. m. les sabia més {ESP. verdaderas} que és privat d'eixos srs. Jo del comte voldria que se'n publicàs de bones Déu me'n faci gràcia que li asseguro que [?] molt a bon segur que me'n pot creure no [?] restat aquí el consell d'Arago i l'infant [?] si tindrà bona estela al fi és escriga'm no hi ha [?] que m'agraden que en ser del comte i bones mi [?] i si li aparque les corts siguin llargues que és {ESP. abreviassin} que desig molt veure el comte [?] Déu ho faci qui pot i a v. m. guardi molts anys [?] i maig als 24 de 1632. La comtessa de Perelada Sr. don Pedro de Santacilia [1§] Girona [?] la comtessa de Peralada 24 mag vt. 1642 [2§] Transcripción literal"
+  ],
+  "literal": [
+    "1. Ja ses decuydat de escriurem y yo no lay vull perdonar 2. peruqe sequey ha moltas novas que dirme y axi escriga 3. las me han me dit ques son publicades moltes merces 4. al duch de Cardona Vm. las sabia mesverdaderas ques 5. privat dexos sors yo del Comte volria quesen publicas 6. de bonas Deu men fasagratia que li aseguro q[Ilegible]7. deiyo molt abonsegur que menpot creurer no[Ilegible] 8. restat aqui lo Concell de Arago. y lo Infant[Ilegible] 9. si tindra bona estela alfi es escrigam nolla[Ilegible]10. quem agraden que en serdel comtey bonas mi [Ilegible]11. ysi li aparque las corts sian llargas que 12. ques abreviasen que desig molt veurer lo Comte [Ilegible]13. Deu ho fasa qui pot y a V.m. gde molts anys [Ilegible]14. Y maig als 24 de 1632 15. La Comtesa 16. de peralada 17. [Margen izquierdo][^ Sr don Pedro desta silia] [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "111:5674a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo21/111:5674a.JPG",
+      "url": "/legajos/legajo-21/images/111:5674a.JPG"
+    },
+    {
+      "filename": "112:5674b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo21/112:5674b.JPG",
+      "url": "/legajos/legajo-21/images/112:5674b.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "111:5674a.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-21/cartas/003385.json",
+  "primary_image_url": "/legajos/legajo-21/images/111:5674a.JPG"
+}

@@ -1,0 +1,43 @@
+{
+  "legajo_id": "11",
+  "id_carta": "1352",
+  "order_in_legajo": 122,
+  "signatura": "202:5212a.JPG",
+  "nombre_carta": "Carta de Pere Maltès a Pedro Santacilia y Pax",
+  "fecha_original": "6 de octubre de 1643",
+  "lugar": "Roses",
+  "remitente": "Pere Maltès",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Mi senyor don Pedro amb esta l'avís a v. m. de la mia salut com as molt bona gràcies a Déu. [?] de la seva salut com v. m. és de viatge son avisat a Roses i serem a on arribarem sortir el remetre quan serem fora vinguérem [?] demanam al nom com era dia de sant Francesc vaig-li dar sant Francesc, per nom parlarem de la [?] diguem que volia tirar satem part el mio essent ell vint i quatre homes i ell només que vint saga vostra senyoria [?] sen casa no dic barca per perquè i bor més per a més i així li vaig dir que no volia a conserva sinó que Déu fes son cami i ell me respongué que li van dir que sinó {ESP. peleava} el [?] i l'Alabau que el tiraria la part i jo li respongué i li diguí que si ell {ESP. peleava} li rendia no li havia de dar més del que li tocava i així a l'endemà que són dilluns de sant Francesc davant de banys venint per ança li darem coda del dematí fins al migdia de son pare alberque la qual dirà la veritat. Els mateixos mariners de la mateixa barca que des angesa per amor de nosaltres i [?] Calonge ja no va en terra ni fou primer que nosaltres a gundir de mosquet i així sens son volgut per senyor de la casa i jo per no cercar pendències per res presta de vostra senyoria vaig dir que no es mogués ningú i així serà els que selen [1§] que li diran brevetat davant de vostra senyoria perquè la potestat que els port de davant de vosa senyoria i així davant de mi prengueren quinze reals davant i dos peces de cinc reals sens altres diners que pel que d'ells mateixos han dit. I així entenc que la presa es mia i gran el que de dret pens que no han volgut fer el que jo volia que posàssim a gent tard en com altre a la presa i no ha volgut i posàs a la mà i se n'anà i jo vaig anar a un altra barca armada que sortia per prendre-li la presa i [?] perquè comenci a veure que el Jordi Antona altre goses un poc de xaloc i fou forçat tornar a Roses i així i tot la gent la [?] molt que son vint-i-quatre homes qui fan el servici de vosa senyoria. A mi senyora dona Magdalena dar-li a dos mil besamans i a mi senyor don Miquel i a mi senyora dona Beatriu i al marit que ja comanem molt i a tothom de casa i només Nostre Senyor el guard així com pot. Fet a 6 d'octubre de l'any 1643. I als catalans que es moguin d'aquí fins que jo sigui aquí. El patró Pere Maltes, criat de vosa senyria Transcripción literal"
+  ],
+  "literal": [
+    "1. Mi sanor don Pedro ab esta la visa a VM de le mia salut 2. com as molt bona gracias a deu axura de la save salut com 3. Vm as de viage son avisat an Rosas y serem agon aribarem 4. sortir lo remetre quant serem fora venguerem aperlemant 5. demenam al nom com ere dia de san Francesc vaig li dar san Francesc 6. per nom perlarem de la [^??`] diguem que volia tirar 7. satem parte lo mio asent lo vint y quatre omons y el 8. nomes que vint saga vosaseñoria [^??^] sencase no dic bar 9. que per parque y bor mes per a mes y axi li vaig dir que no vo 10. lia a conserva sino que deu fes son quemi y el me respongue que ly van 11. dir que sino peleave al bunharque y el arebau quel tiraria 12. le part i io li respongue y li diguui que si el peleave le rendia 13. no le via de dar mes de lo que li tocave y axi alendema que donc di 14. luns de san Francesc devant de bains venint peransa 15. li darem coda del demeti fins al mig dia de so Pera alberque le qual 16. dira la beritat los metexos meriners de le metexa barque que des angesa 17. per amor de nosaltres y Albar colongo ja no ba entere in fonc pri 18. mer que nosaltres angundir de mosquet y axi sens son voilgut 19. per sañor de la quesa i io per no sercar pendencias per res presta de vosa 20. noria vay dir que nos mogues ningu y axi sera los que selan [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "202:5212a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo11/202:5212a.JPG",
+      "url": "/legajos/legajo-11/images/202:5212a.JPG"
+    },
+    {
+      "filename": "203:5212b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo11/203:5212b.JPG",
+      "url": "/legajos/legajo-11/images/203:5212b.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "202:5212a.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-11/cartas/001352.json",
+  "primary_image_url": "/legajos/legajo-11/images/202:5212a.JPG"
+}

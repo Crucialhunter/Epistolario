@@ -1,0 +1,38 @@
+{
+  "legajo_id": "32",
+  "id_carta": "7113",
+  "order_in_legajo": 135,
+  "signatura": "147:1871.JPG",
+  "nombre_carta": "Carta de Nicolás de Santacilia y Togores a Pedro Santacilia y Pax",
+  "fecha_original": "6 de mayo de 1665",
+  "lugar": "Aranjuez",
+  "remitente": "Nicolás de Santacilia y Togores",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "La de v. m. he recibido en Aragues holgándome mucho que tenga salud, yo la tengo gracias a Dios buena mis compañeros me han pedido una carta de favor para el duque de Medina de las Tores, pidiéndole que haga a Antonio de la Peña mozo de ofico de los de la boca v. m. se servira de aserla. Guarde Dios a v. m. muchos años como deseo y me importa Aran que es a 6 de MAyo 1665 Su más humilde hijo de v. m. que sus manos besa Don Nicolas de Santacilia y Togores mi padre y señor [1§] Transcripción literal"
+  ],
+  "literal": [
+    "1. La de VM e reçibido en Arangues olgandome mucho 2. que tenga salud, yo la tengo grasias a Dios buena 3. mis compañeros me an pedido una carta de favor para 4. el Duque de Medina de las Tores, pidiendole que 5. aga a Antonio de la Peña moso de ofico de los de la boca 6. VM se cervira de aserla Guarde Dios a VM. muchos 7. años como deseo y me inporta Aranques a 6 de MAyo 8. 1665 9. Su mas humilde hijo de 10. VM. q. S. M. B. 11. Don Nicolas de Sta.Cilia y Togores 12. mi Padre y Señor [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "147:1871.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo32/147:1871.JPG",
+      "url": "/legajos/legajo-32/images/147:1871.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "147:1871.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-32/cartas/007113.json",
+  "primary_image_url": "/legajos/legajo-32/images/147:1871.JPG"
+}

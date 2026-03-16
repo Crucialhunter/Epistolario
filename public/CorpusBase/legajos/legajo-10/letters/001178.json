@@ -1,0 +1,38 @@
+{
+  "legajo_id": "10",
+  "id_carta": "1178",
+  "order_in_legajo": 48,
+  "signatura": "082-345",
+  "nombre_carta": "Carta de Gabriel Roger a Jerónimo Pelegrín de Aragüés",
+  "fecha_original": "25 de agosto de 1668",
+  "lugar": "Madrid",
+  "remitente": "Gabriel Roger",
+  "destinatario": "Jerónimo Pelegrín de Aragüés",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Duermen hasta ahora los negocios y la enfermedad de mi señor don Juan. Ya está de mejora, que sale de un gran lago: Dios lo disponga a su voluntad y conveniencia a mi señor que está muy bueno. Ahora empezaremos la carrera que no pararemos hasta la bandera, a pesar de la lavandera, y v. m. mándeme con puntualidad; aseguro será obedecido. Novedades no tenemos por acá, que yo las sepa, y guarde Dios a v. m. en vida de la señora Caterina y los muchachos. Madrid y agosto, 25 de 1668. Suyo y servidor de v. m., Gabriel Roger. Jeronimo Pelegrin Transcripción literal"
+  ],
+  "literal": [
+    "1. Duermen hasta agora los negocios y la enfermedad dfe mi 2. señor don Juan, Ja está de mejora que sale de un gran 3. lago; Dios lo disponga a su voluntad y conveniencia a 4. mi señor que esta muy bueno; agora empesaremos la 5. carrera que no pararemos hasta la vandera, a pesar de 6. la lavandera; Y V.M. mandeme con puntualidad [^??arrigavo??^] sera obedecido. Novedades no tenemos por aca que 7. jo las sepa. Y gde Dios a V.M. en vida de la señora 8. Catheroina y los muchachos. Md y Agosto 25 de 9. 1668. 10. Suyo y servidor de V.M. 11. Gabriel Roger.12. [^Sr. Geronimo Pelegrin^] [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "082-345.jpg",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo10/082-345.jpg",
+      "url": "/legajos/legajo-10/images/082-345.jpg"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "082-345.jpg",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING",
+      "message": "Se detectaron caracteres sospechosos de encoding (4)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-10/cartas/001178.json",
+  "primary_image_url": "/legajos/legajo-10/images/082-345.jpg"
+}

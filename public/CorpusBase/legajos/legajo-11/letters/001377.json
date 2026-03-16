@@ -1,0 +1,38 @@
+{
+  "legajo_id": "11",
+  "id_carta": "1377",
+  "order_in_legajo": 148,
+  "signatura": "242:5236.JPG",
+  "nombre_carta": "Carta de Laudòmia Rossa i Domènech a Pedro Santacilia y Pax",
+  "fecha_original": "5 de abril de 1644",
+  "lugar": "El Grau de Valencia",
+  "remitente": "Laudòmia Rossa i Domènech",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Señor, esta halle a v. s. con la salud que yo deseo, juntamente con todos los de su casa. V. s. habrá de saber que de las coladoras que v. s. me envió las despaché luego al punto para Madrid y como yo no me entendía qué se pagaba llamé a Antonio Sancho, al cual le pagué todos los derechos y ahora me ha salido con una flor diciendo que yo le debía el peaje y la [a]duana. Mire v. s. qué tratos estar habiéndole pagado y no le he pagado ni le quiero pagar así: v. s. se lo puede decir a su padre el trato que ha usado, que bastaba que fuera de v. s. para que no hiciera lo que ha hecho. Mire v. s. lo que hay que fiar de mercaderes. El señor don Juan Miquel ha me escrito que le ha dicho su padre de Sancho que yo le debía cinco libras y eso es falso, porque todo se lo he pagado, hasta un diner. Miquel había de ir a Menorca y no ha habido ocasión, mas la primera que haya irá y le llevará una carga de obra que ya le tengo pagada y dos pares de tapines. Y con esto Nuestro Señor le guarde a v. s. en compañía de mi señora y de la niña y me mande en cosas de su servicio que lo haré como v. s. lo verá. Del Grau, abril 5 de 1644 Laudomia Rossa Transcripción literal"
+  ],
+  "literal": [
+    "1. Señor esta alle VSª con la salud que yo 2. deseo juntamente con todos los de su casa. 3. VSª abra de saber que de las coladoras que VSª 4. me ynbio las despache luego al punto para 5. Madrid y como yo ne me entendia que sepaga- 6. va llame a Antonio Sancho al qual le pa 7. gue todos los derechos y aora me a salido con 8. una flor disiendo que yo le devia el peaje 9. y la duana mira VSª que tratos estar avien- 10. do le pagado y no le e pagado ni le quiero pagar 11. asi VSª se lo puede desir a su padre el trato 12. que ausado que hasta va que fuera de VSª 13. para que no hisiera lo que a echi mire VSª 14. lo que ay que fiar de mercadeles. ( su padre) 15. El sr. don Juan Miquel a me escrito que leha dicho 16. su padre de Sancho que yo le devia sinco libras 17. y eso es falso por que todo seloepagado Asta 18. un diner Miquel avia de yr a Menorca y no 19. a avido ocasion mas la primera que aya 20. yra y le llebara una carga de obra que 21. ya le tengo pagada y dos pares de tapines 22. y con esto ntro. Sr. le gde a VSª en conpañia 23. de mi señora y de la niña y me man- 24. de en cosas de su servicio que lo are como VSª 25. lo vera del Grao abril 9 de 1644 26. llaudomia rosa [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "242:5236.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo11/242:5236.JPG",
+      "url": "/legajos/legajo-11/images/242:5236.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "242:5236.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (2)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-11/cartas/001377.json",
+  "primary_image_url": "/legajos/legajo-11/images/242:5236.JPG"
+}

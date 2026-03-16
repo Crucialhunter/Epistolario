@@ -1,0 +1,43 @@
+{
+  "legajo_id": "21",
+  "id_carta": "3504",
+  "order_in_legajo": 193,
+  "signatura": "358:5792a.JPG",
+  "nombre_carta": "Carta de Alonso Cortés a Pedro Santacilia y Pax",
+  "fecha_original": "20 de noviembre de 1639",
+  "lugar": "Pamplona",
+  "remitente": "Alonso Cortés",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Amígo con harto cuidado quedo de vuestra [?] y más de que sea tan justificada ocasión en que se hace prueba del talento y nuestro usado de él no salte a que pues puede poco estarse la resolución no [?] de Madrid que [?] avro gusto D. Fernando va [?] les dé licencia y para Madrid [?] estoy yo la fuera yendo le [?] no desconfío que en [?] partida no os venga orden [?]siempre me tendréis por vuestras ocasiones en que os sirva. Guarde Nro. Sr. [?] Pamplona y noviembre 20 de 1639. Vuestro amigo Don Alonso Cortes y Barquera [1§] Pamplona 20 Noviembre 1639 Don Alonso [?] Transcripción literal"
+  ],
+  "literal": [
+    "1. Amígo con arto cuidado quedo de Vra [Fragmentado]2. y mas deque sea tan justificada ocasion 3. enque se hace prueba deel talento y nuestro 4. usado deel no salte a qui pues puede poco [es]5. tarse laresolucíon no[?] demadrid que [Ilegible]6. avro gusto D fernando ba [Ilegible]7. les de licencia ypa madrid [Ilegible][es]8. toy yola fuera yendo le[Ilegible]9. nodesconfio que en [Ilegible]10. partida no os benga orden [Ilegible]11. tos sienpre me tendreis por buestras [Ilegible]12. siones enqueos sirba ge nrosr [Ilegible]13. Panpla y 9e [Nobiembre] 20 de 639 14. VRo amigo [Ilegible]15. DonAlo[?] [ilegible] 16. Y Barchera [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "358:5792a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo21/358:5792a.JPG",
+      "url": "/legajos/legajo-21/images/358:5792a.JPG"
+    },
+    {
+      "filename": "359:5792b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo21/359:5792b.JPG",
+      "url": "/legajos/legajo-21/images/359:5792b.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "358:5792a.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-21/cartas/003504.json",
+  "primary_image_url": "/legajos/legajo-21/images/358:5792a.JPG"
+}

@@ -1,0 +1,38 @@
+{
+  "legajo_id": "26",
+  "id_carta": "4471",
+  "order_in_legajo": 209,
+  "signatura": "301:3566.JPG",
+  "nombre_carta": "Carta de Jerónimo de Carvajal Agurto a Pedro Santacilia y Pax",
+  "fecha_original": "4 de agosto de 1647",
+  "lugar": "Madrid",
+  "remitente": "Jerónimo de Carvajal Agurto",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Luego que recibí la carta de v. m. supliqué con mucho gusto a mi Sra. me mandase escribir los papeles para el inquisidor general y con mayor mando supe los escribiese y así lo hice y remití con criado de casa para más crédito y he dicho a Onofre de Terrers que a la entrada del qº [?] vaya dando a aquellos Sres. me morial del negocio y quien lo ha intercedido. También he hablado al secretario ante quien pasa y nos hará toda amistad, buenos era hacerle algún regalillo con algo de esa tierra que por acá se estima, y vea v. m. si me manda otra cosa de su servicio, pues sabe me tiene a su obediencia. Dios guarde a v. m. muchos años, de Madrid 4 de agosto 1647. M Jeronimo de Carvajal Agurto Sr. don Pedro de Santacilia y Pax. Transcripción literal"
+  ],
+  "literal": [
+    "1. Luego que reçevi la carta de Vm. supliquea2. con mucho gusto a mi Sra. me mandase escrivir3. los papeles para el Sr. Inq[uisid]or G[enera]l y con mayor4. mando supe los escriviesse y asi lo hiçe5. y remiti con criado de casa para mas credito6. y e dicho a Onofre de Terrers que a la7. entrada del qº[?] vaya dando aquellos Sres. me8. moriad del negocio y quien lo a interçedido9. Tanbien e hablado al srio. ante quien10. pasa y nos hara toda amistad, buenos era11. haçerle algun regalillo con algo de12. esa tierra que por aca se estima, y vea13. V.m. si me manda otra cosa de14. su servicio pues save me tiene a su obidiencia15. Dios g[uard]e a Vm. muchos años de M[adri]d16. 4 de Agº 164717. M Grnio de Carvajal Aourt18. [Sr. Don] Pº de Sta Cilia y Pax. [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "301:3566.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo26/301:3566.JPG",
+      "url": "/legajos/legajo-26/images/301:3566.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "301:3566.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-26/cartas/004471.json",
+  "primary_image_url": "/legajos/legajo-26/images/301:3566.JPG"
+}

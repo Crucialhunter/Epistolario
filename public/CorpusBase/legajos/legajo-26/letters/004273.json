@@ -1,0 +1,43 @@
+{
+  "legajo_id": "26",
+  "id_carta": "4273",
+  "order_in_legajo": 186,
+  "signatura": "009:3367a.JPG",
+  "nombre_carta": "Carta de Catalina Fernández de Córdoba y Aragón (II duquesa condesa de Olivares) a Pedro Santacilia y Pax",
+  "fecha_original": "24 de abril de 1647",
+  "lugar": "Madrid",
+  "remitente": "Catalina Fernández de Córdoba y Aragón (II duquesa condesa de Olivares)",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Mucho me he holgado de haber entendido por la que he recibido de v. m. de 14 del pasado la salud con que se hallaba, cuyas nuevas deseo continuadas siempre. Mis achaques [pesan] todavía, sin haber bastado los muchos remedios que los médicos les han aplicado, pero de [roto] la suerte ya v. m. sabe que me tiene para servirle.Estimo mucho el aviso que v. m. me da de [la llega]da de mi hermano a esa isla en seguimiento del viaje y todo lo demás que v. m. me dice en su parte, y siempre creeré que sus palabras [roto] son evangelio. Mi hermano iba muy [seguro] de mi deseo de servirle, de que espero que v. m. no dudará y que en el nuevo camino que [roto] se ha de portar, de manera que le hemos de[roto] muy adelantado. Guarde Dios a v. m. muchos años como deseo. Madrid, 24 de abril 16[roto]. [Letra original de la remitente:] Mi salud es siempre muy mala, con ocho sangrías y sin cop[roto] y dos fuentes no me siento m[roto]a después de tantos tiempos Señor don Pedro de Santacilia y Pax [1§] de enfermedad. V. m. verá allá al señor don Vicente: espero en Dios que se ha de hacer el primer lugar en el mundo su valor y juicio, pues en tan poco tiempo no se vió todo diferente. Ya Dios le ayude y le conserve y estas viles letras que dice v. m. gracias a Dios que las ha conocido. V. m. me diga lo que le parece que estuitl [?] No me puedo alargar, y escríbame siempre de todo lo que nos manda le sirvamos: ya sabe somos amigos de verdad toda esta casa de v. m. Siempre diga v. m. lo que le dice y parece el señor don Vicente. La duquesa condesa de Olivares Transcripción literal"
+  ],
+  "literal": [
+    "1. Mucho me he holgado de aver entendido por l[a]2. que he reçivido de Vm de 14 del pasado la3. salud con que se hallaba cuyas nuevas dese[o]4. continuadas siempre; mis acahques [roto]5. todavía, sin aver vastado los muchos reme[dios]6. que los medicos les an aplicado, pero de que [la]7. suerte, ya Vm save que me tiene para serville8. Estimo mucho el aviso que Vm me da de [la i-??]9. da de mi hermano aesa Isla en seguimiento del10. viage y todo lo demas que Vm me diçe en su11. parte y siempre creere que sus palabras 12. son evangelio: Mi hermano yba muy [seguro??]13. de mi deseo de servirle de que espero que [V.m. no]14. dudra y que en el nuevo camino que [...]15. se ha de portar de manera que le hemos de [...]16. muy adelantado. Guarde Dios a Vm [muchos]17. años como deseo M[adri]d 24 de Abril 16[...]18. My salud es syenpre muy mala [...]19. con ocho sangryas y syn cop[...]20. y dos fuentes no me syento m[...]21. a despues de tantos tyenp[os]22. Sr. Don Pedro de Santaçilia y Paz [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "009:3367a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo26/009:3367a.JPG",
+      "url": "/legajos/legajo-26/images/009:3367a.JPG"
+    },
+    {
+      "filename": "010:3367b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo26/010:3367b.JPG",
+      "url": "/legajos/legajo-26/images/010:3367b.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "009:3367a.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (3)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-26/cartas/004273.json",
+  "primary_image_url": "/legajos/legajo-26/images/009:3367a.JPG"
+}

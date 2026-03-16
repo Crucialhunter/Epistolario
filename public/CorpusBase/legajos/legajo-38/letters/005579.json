@@ -1,0 +1,42 @@
+{
+  "legajo_id": "38",
+  "id_carta": "5579",
+  "order_in_legajo": 22,
+  "signatura": "169:103a",
+  "nombre_carta": "Carta de Persona desconocida a Persona desconocida",
+  "fecha_original": "fecha sin especificar",
+  "lugar": "lugar sin especificar",
+  "remitente": "Persona desconocida",
+  "destinatario": "Persona desconocida",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Al lloctinent del procurador reial de la vila de Andraix es diu Grabriel Alemany el per que es suplica a su merced es diu Guillem Terrades de Son Lluis [1§] Transcripción literal"
+  ],
+  "literal": [
+    "1. Al lloch tinent del Sr. Procurador Reyal de la vila2. de Andraix es diu Grabriel Alemañy=3. el per qui es supplica a su mersed es diu Guillem4. Terrades de Son Lluis [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "169:103a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo38/169:103a.JPG",
+      "url": "/legajos/legajo-38/images/169:103a.JPG"
+    },
+    {
+      "filename": "170:103b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo38/170:103b.JPG",
+      "url": "/legajos/legajo-38/images/170:103b.JPG"
+    },
+    {
+      "filename": "171:103.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo38/171:103.JPG",
+      "url": "/legajos/legajo-38/images/171:103.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "169:103a.JPG",
+  "warnings": [],
+  "raw_source": "raw/legajos/legajo-38/cartas/005579.json",
+  "primary_image_url": "/legajos/legajo-38/images/169:103a.JPG"
+}

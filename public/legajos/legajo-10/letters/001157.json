@@ -1,0 +1,38 @@
+{
+  "legajo_id": "10",
+  "id_carta": "1157",
+  "order_in_legajo": 24,
+  "signatura": "039-323",
+  "nombre_carta": "Carta de Juan Lañez a Jerónimo Pelegrín de Aragüés",
+  "fecha_original": "10 de julio de 1668",
+  "lugar": "Lugar sin especificar",
+  "remitente": "Juan Lañez",
+  "destinatario": "Jerónimo Pelegrín de Aragüés",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Aguardando a v. m. en esta corte en compañía de mi Sr. D. Pedro deseo escribir y solicitar muchas órdenes de su empleo y habiendo sabido Transcripción literal"
+  ],
+  "literal": [
+    "1. Aguardando a V.M. en esta corte en com 2. pañia de mi Sr. D. Pedro deseo escribir 3. y solicitar muchas ordenes [ilegible a partir de aquí, sabiendo manejar algún programa se puede hacer] [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "039-323.jpg",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo10/039-323.jpg",
+      "url": "/legajos/legajo-10/images/039-323.jpg"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "039-323.jpg",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING",
+      "message": "Se detectaron caracteres sospechosos de encoding (5)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-10/cartas/001157.json",
+  "primary_image_url": "/legajos/legajo-10/images/039-323.jpg"
+}

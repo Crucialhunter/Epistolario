@@ -1,0 +1,45 @@
+{
+  "legajo_id": "26",
+  "id_carta": "4374",
+  "order_in_legajo": 110,
+  "signatura": "151:3468.JPG",
+  "nombre_carta": "Carta de Marc Antoni Forteza a Pedro Santacilia y Pax",
+  "fecha_original": "20 de noviembre de 1642",
+  "lugar": "Roma",
+  "remitente": "Marc Antoni Forteza",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Joan Baptista Femenia, criat de v. s., arribà a esta cort la setmana passada per efecte de sol·licitar i portar-se'n la dispensa del matrimoni que v. s. te concordat, en ocasió que el Dr. Antoni Gual estava de partida per a Nàpols per ordre d'aquell senyor virrei, i no podent ell despatxar-lo, per mans pròpies, deixà encomanat a un amic que la {ESP. despedís} amb molta pressa, obligant-se primer en bons i en persona per cent i setze escuts d'or que faltaren i foren menester per la componenda de la dita dispensa, fent compte d'enviar-la empenyada que el dit Femenia fundà molt gran {ESP. agravi}, dient que pareixeria molt mal i seria contra la reputació de v. s. i sua, tornar-se'n allí amb les mans buides, i féu molt gran diligència en procurar que el mercader li entregàs desempenyada, i per aqueix efecte fou necessària nova fiança, la qual hem feta el Dr. Cristofol Garcies, rector de Sineu, i jo per servir a v. s. i consolar el dit son criat, amb confiança molt segura que manarà v. s. honrar les lletres del canvi, i no permetrà que ens en resulti algun fastidi, {CAST. antes} bé ens farà mercè d'estimar la nostra cortesia i bona voluntat en son servei. Entretant, guardi Nre. Sr. a v. s. i sia per molt feliços anys el dit matrimoni, de Roma 20 de novembre 1642. Besa la mà a v. s. son humil servidor Marc Antoni Forteza, prevere. Olim rector de St. Nicolau Sr. don Pedro Santacilia Transcripción literal"
+  ],
+  "literal": [
+    "1. Juan Batista Femenia criat de V.S. arribà à esta cort la semmana passada per2. effecte de solliçitar y portarsen la dispensa del Matrimoni que V.S. te concordat, en3. occasio que el Dr. Antoni Gual estava de partida per à Napols per orde de aquell señor4. Virrey, y no podent ell despacharle, per mans propies, dexà encomanat à un Amich q5. la despedis ab molta pressa, obligantse primer en bons y en persona per çent y setse6. escuts de or que faltaren y foren menester per la componenda de la dita dispensa,7. fent compte de embiarla empeñada de que el dit Femenia fundà molt gran agra8. vi dient que parexeria molt mal y seria contra la reputaçio de V.S. y sua, tornar9. sen aly ab les mans buydes, y fèu molt gran diligençia en procurar que el Merca10. der ley entregàs desempeñada, y per aqueix effecte fonch neçessaria nova fian11. ça, la qual havem feta el Dr. Christofol Gaçies Rector de Sineu y yo per ser12. vir a V.S. y consolar el dit son criat, ab confiança molt segura de que manarà V.S.13. honrrar les lletres del cambi, y no permetrà que nos ne result algun fastidi, antes bè14. nos fara merçe de estimar la nostra cortesia y bona voluntat en son servey. En15. tretant, gde N. Sr. à V.S. y sia per molt feliçes añys el dit Matrimoni. De16. Roma 20 de novembre 164217. B. l. m. à V.S.18. Son Humil Servidor19. March Antoni Fortesa pre.20. olim Rector de St. Nicolau21. Sr. Don Pº Santaçilia [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "151:3468.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo26/151:3468.JPG",
+      "url": "/legajos/legajo-26/images/151:3468.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "151:3468.JPG",
+  "warnings": [
+    {
+      "code": "IMAGE_DOWNLOAD_FAIL",
+      "message": "HTTP 404",
+      "context": {
+        "url": "http://santacilia.info/intranet2/img/Legajo26/151:3468.JPG"
+      }
+    },
+    {
+      "code": "IMAGE_COUNT_MISMATCH",
+      "message": "Imágenes detectadas (1) != descargadas (0)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-26/cartas/004374.json",
+  "primary_image_url": "/legajos/legajo-26/images/151:3468.JPG"
+}

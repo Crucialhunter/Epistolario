@@ -1,0 +1,38 @@
+{
+  "legajo_id": "24",
+  "id_carta": "3999",
+  "order_in_legajo": 50,
+  "signatura": "072:4052.JPG",
+  "nombre_carta": "Carta de José Pérez de Pomar y Torres de Mendoza a Pedro Santacilia y Pax",
+  "fecha_original": "15 de enero de 1641",
+  "lugar": "Zaragoza",
+  "remitente": "José Pérez de Pomar y Torres de Mendoza",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "A más de las obligaciones que a don Juan de Benavides reconozco, es una de las mayores el que por su ocasión se acuerde v. m. me tiene muy a su servicio y así le suplico se sirva de acordarse de mandarme muchas cosas de su gusto a que acudiré con toda estimación y puntualidad. Las cartas de v. m. di a Tomás [?] Trias y luego [?] dio los dos mil y cien reales como v. m. lo mandó y se ha dispuesto de ellos conforme v. m. ordenó que fuera. Ya le escribo en que si acaso por acá se ofreciere algo vuelvo a suplicar a v. m. me mande, cuya vida sea con la salud y aumentos que deseo. De Zaragoza y enero a 15 de 1641. D. Josep de Pomar y Torres Sr. D. Pedro de Santacilia y Pax Transcripción literal"
+  ],
+  "literal": [
+    "1. A mas de las obligaciones ya Don2. Juan de Venavides reconozco es una3. de las mayores el aporta ocasion se4. aquerde Vm me tiene muy a su ser5. vicio y asi le sup[li]co se sirba de acor6. darse de mandarme muchas cosas de7. su gusto a que acudire con toda estima8. cion y puntualidad; las cartas de9. Vm di a Tomas Caniela Trias y luego10. dio los dos mil y cien reales como11. Vm lo mando y se a dispuesto de12. ellos conforme me ordeno D. Juan13. ya le escribo en que si acaso por14. aca se ofreziere algo buelbo a suplicar15. a Vm me mande cuya vida sea16. con la salud y aumentos q devo17. de [?] y Enero a 15 de 164118. D. Joseph de19. Pomar ??20. Sr. D. Po de Sa cilia y Paz [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "072:4052.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo24/072:4052.JPG",
+      "url": "/legajos/legajo-24/images/072:4052.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "072:4052.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (2)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-24/cartas/003999.json",
+  "primary_image_url": "/legajos/legajo-24/images/072:4052.JPG"
+}

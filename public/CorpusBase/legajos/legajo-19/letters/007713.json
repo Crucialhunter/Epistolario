@@ -1,0 +1,38 @@
+{
+  "legajo_id": "19",
+  "id_carta": "7713",
+  "order_in_legajo": 210,
+  "signatura": "414_7920.JPG",
+  "nombre_carta": "Carta de Diego Cortés a Pedro Santacilia y Pax",
+  "fecha_original": "fecha sin especificar",
+  "lugar": "Vinarós",
+  "remitente": "Diego Cortés",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Don Pedro mi señor yo llegue siendo Dios servido a Vinarós con salud plege a Dios Nuestro Señor se la dé cumplida a su señoría encuanta la embarcación ni otra ninguna cosa no me ha enteresado el patrón Soler con quien vine embarcado han las [?] me ha honrado dándome en su casa una cama [?] de comer Nuestro Señor le paje las obras [?] misericordia que a eso su Senoria conmigo quw aunque que no las puedo pagar las reconozco Dios guarde a su señoría Diego Cortes criado de su señoría a 28 del mes de marzo escrita en Vinarós [1§] Transcripción literal"
+  ],
+  "literal": [
+    "1. Don pedro mi Señor yo llege siendo 2. Dios servido a Vinaros con salut plege 3. a Dios nuestro Señor se la de complida a su 4. Señoria enquanta la enbarcasion ni otra 5. niguna cosa no me a enteresado el patron 6. Soler con quien vine enbarcado an las [?] 7. me a onrado dandome en su casa una cama ?? 8. de comer nuestro Señor le page las obras [?] 9. misericordia que a heso su Senoria conmigo 10. quw aunq que no las puedo pagar las reconoz11. co Dios guarde a su Señoria Diego Cortes12. criado de su Señoria a 28 del mes de marzo13. escrita en vinaros [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "414_7920.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo19/414_7920.JPG",
+      "url": "/legajos/legajo-19/images/414_7920.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "414_7920.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-19/cartas/007713.json",
+  "primary_image_url": "/legajos/legajo-19/images/414_7920.JPG"
+}

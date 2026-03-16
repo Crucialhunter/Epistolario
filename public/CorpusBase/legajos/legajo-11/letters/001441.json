@@ -1,0 +1,43 @@
+{
+  "legajo_id": "11",
+  "id_carta": "1441",
+  "order_in_legajo": 234,
+  "signatura": "368:5296a.JPG",
+  "nombre_carta": "Carta de Josep de Rocabertí a Pedro Santacilia y Pax",
+  "fecha_original": "4 de abril de 1652",
+  "lugar": "Ibiza",
+  "remitente": "Josep de Rocabertí",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Cierto que hago cuanto me es posible para ajustarme a poder pasarlo en esta tierra y como veo la genta tan atenta a materias me ocasiona a grande disgusto por mi parte procuraré no dar que decir y acautalarme cuanto sea posible para cuando me capitulen porque pensar es caparme de ellos yo solo sería pen sar un imposible. Yo pretendía la Bai lia general de Cataluña y me avisan que su majestad que Dios guarde a más de 4 años que tenía hecha merced de la futura a mi señora la condesa de Eril con lo cual queda frustrada mi pretensión estos días he tenido nuevas de que se me ha hecho merced de una ayuda de corte de mil modines de sal con lo cual hasta haberla cobrado no trataré de don Pedro Santacilia [1§] otra britención sino de servir a v. s. y demás de su casa cuyas manos beso. Al padre dirá v. s. que esta canalla de villanos que han afrocido en diferentes ocasiones algunos herros de cazar de noche y cuando lea ofrecido ocasión de enviarlo se me han apartado de ello en fin todos son gente no santa y que de cualquier mane ra cumpliré con lo que le tengo ofrecido aunque sea hacerles criar borrado cuantas. Guarde Dios a v. s. como deseo Ibiza y abril 4 de 1652. Josep de Rocaberti [2§] Transcripción literal"
+  ],
+  "literal": [
+    "1. Cierto sr. que hago quanto me es posible para 2. ayustarme a poder pasarlo en esta tierra 3. y como veo la genta tan atenta a ma 4. terias me ocasiona a grande disgusto 5. por mi parte procurare no dar que decir 6. y acautalarme quanto sea pocible para 7. quando me capitulen porque pensar 8. es caparme dellos yo solo seria pen 9. sar un imposible=. Jo pretendia la Bai 10. lia Gl de Cataluña y me avisan que 11. su Magd que dios gde ha mas de 4 años 12. que tenia hecha merced de la futura a 13. mi señora la condessa de Eril con lo 14. qual queda frustrada mi pretencion 15. estos dias he tenido nuevas de que se me ha 16. hecho merced de una ajuda de corte 17. de mil modines de sal con lo qual 18. hasta haverla cobrado no tratare de 19. [^Sr. don Pedro Sta. Cilia^] [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "368:5296a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo11/368:5296a.JPG",
+      "url": "/legajos/legajo-11/images/368:5296a.JPG"
+    },
+    {
+      "filename": "369:5296b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo11/369:5296b.JPG",
+      "url": "/legajos/legajo-11/images/369:5296b.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "368:5296a.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-11/cartas/001441.json",
+  "primary_image_url": "/legajos/legajo-11/images/368:5296a.JPG"
+}

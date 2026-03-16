@@ -1,0 +1,43 @@
+{
+  "legajo_id": "15",
+  "id_carta": "2177",
+  "order_in_legajo": 75,
+  "signatura": "121:6402a",
+  "nombre_carta": "Carta de condesa de Zavellá a Persona desconocida",
+  "fecha_original": "17 de abril de 1640",
+  "lugar": "Vallmoll",
+  "remitente": "condesa de Zavellá",
+  "destinatario": "Persona desconocida",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "[Falta la primera página] Aquí té una carta de sor Juana. I cert me té {ESP. lastimada} del que m'escriu, quan mal ho fa amb ella don Joan Miquel. I així, v. m. {ESP. acuda}-li amb el que puga. Jo, per ma part, [esta línea no està transcrita] ja en tinc escrit a mon procurador que li [?] da, i amb b tot, les tornaré a encarir. V. m. renyi molt a don Joan Miquel en aqueixa matèria, perquè porteu cruament. Vegi si és cosa {ESP. platicable} de poder haver una cartilla per poder eximir tots els llocs de mon fill d'allojaments de soldats, mirant que es estat dels primers que acudiren, i amb el {ESP. gasto} i puntalitat que ha servit aquesta companyia, i si el pot haver, si he pres que ens treurà de moltes vexacions. I guardi Déu a v. m. molts anys com jo desitj. Vallmoll, a 17 d'abril 1640. Escriguera per via de [?] a l'inquisidor Estineu. La comtessa de Zavella. Transcripción literal"
+  ],
+  "literal": [
+    "1. Vm pens jo que haura ya rebu2. des las mies peregrinacions ACABAR LA CARTA... [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "121:6402a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo15/121:6402a.JPG",
+      "url": "/legajos/legajo-15/images/121:6402a.JPG"
+    },
+    {
+      "filename": "122:6402b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo15/122:6402b.JPG",
+      "url": "/legajos/legajo-15/images/122:6402b.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "121:6402a.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-15/cartas/002177.json",
+  "primary_image_url": "/legajos/legajo-15/images/121:6402a.JPG"
+}

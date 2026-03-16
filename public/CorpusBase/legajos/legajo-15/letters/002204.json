@@ -1,0 +1,43 @@
+{
+  "legajo_id": "15",
+  "id_carta": "2204",
+  "order_in_legajo": 103,
+  "signatura": "162:6429a.JPG",
+  "nombre_carta": "Carta de marqués de Leganés a Pedro Santacilia y Pax",
+  "fecha_original": "11 de agosto de 1646",
+  "lugar": "Caspe",
+  "remitente": "marqués de Leganés",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Señor mío, Habiéndose tomado resolución de que la persona del señor maestro de campo [general], don Francisco Jutavila, venga a este ejército con un golpe de gente de Tarragona, por lo que conviene ganar tiempo. Me ha parecido escribir a v. m. estos renglones, supicándole en conformidad de la orden que tiene de venir, con la infantería de ese tercio, a Tarragona, para juntarse con el señor don Francisco y hacer la marcha incorporadamente. Suplicándole se sirva de dar suma prisa a esto, ajustando con el señor don Francisco, de manera que, si es posible, salga todo a un tiempo de Tarragona, entendiéndose los dos para este efecto y quedando de acuerdo ambos. En el día que se juzgue pueda llegar v. m. a Tarragona para cuyo efecto le despachará una falúa, y, en caso que el señor don Francisco no pueda esperar allía v. m., y que haya marchado, se servirá v. m. de estar advertido para ir a desembarcar la gente de ese tercio a los Alfe ques, para que, desde allí, con más facilidad y menos tiempo, pueda llegar a unirse, a Tortosa, con el señor don Franscisco Jutavila, a quien escribo en esta conformidad, y que en Tortosa se tenga prevenido pronto el pan y socorro para toda la infantería que se ha de juntar allí. V. m. me tiene a su servicio siempre, a quien suplico me emplee con toda seguridad y que acudiré a él en cuanto valiere, con suma voluntad. y besos. Duarde Dios a v. m. muchos años. De Caspe, a 11 de agosto de 1646 Guarde mi de v. m., El marques de Leganes. Suplico a v. m., señor mío, se dé toda prisa a traernos esa gente, por lo que importa. Y no se espera sino su llegada para disponer lo demás y sírvase v. m. de corresponderse con el señor don Francisco Jutavila. Y acusarme a mí, cuanto antes, de su salida de Mallorca. Y venga la famosa mula, que estoy esperando en buena devoción. Señor don Pedro Santacilia Transcripción literal"
+  ],
+  "literal": [
+    "1. Señor mío haviendose tomado resolucion deque lapersona 2. sel señor Mro de campo genl [?] Don franco Jutavila[?] benga aeste 3. exercito con ungolpe degente de tarragona por lo que 4. Convíene ganar tiempo meha pareçido escrivir a Vm 5. estos Renglones suplicandole enconformidad de la orden 6. quetíene debenir conla Infanteria de ese terçio a tarra7. gona para juntarse con el señor Don franco y hacer la 8. marcha incorporada mente Suplicandole sesirva dedar 9. Sumaprisa aesto ajustando con el señor Don franco de manera 10. quesi esposible salga todo auntiempo de tarragona entendien11. dose losdos paraeste effecto y quedadndo de acuerdo ambos 12. En el dia quesejuzgue pueda llegar Vm a tarragona para 13. cuyo effecto lesepachara una faluca yencaso que el señor 14. Don franco nopueda esperar alli a Vm yquehaya marchado 15. Seservira Vm de estar advertido para ir ades embaracar 16. La gente de ese terçio alos Alfaques paraque desde alli con 17. mas facilidad ymenos tiempo pueda llegar aunirse a tor18. tossa con el señor Don franco Jutavila[?] aquien escrivo enesta 19. conformidad yque en tortossa setenga prevenido pronto 20. elpan y socorro para toda la Infanteria que sehade juntar 21. alli, Vm metiene asu serviçio Siempre aquien [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "162:6429a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo15/162:6429a.JPG",
+      "url": "/legajos/legajo-15/images/162:6429a.JPG"
+    },
+    {
+      "filename": "163:6429b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo15/163:6429b.JPG",
+      "url": "/legajos/legajo-15/images/163:6429b.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "162:6429a.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (2)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-15/cartas/002204.json",
+  "primary_image_url": "/legajos/legajo-15/images/162:6429a.JPG"
+}

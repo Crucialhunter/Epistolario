@@ -1,0 +1,38 @@
+{
+  "legajo_id": "38",
+  "id_carta": "5591",
+  "order_in_legajo": 55,
+  "signatura": "190:115.JPG",
+  "nombre_carta": "Carta de Bartolomé Mercadal a Pedro Santacilia y Pax",
+  "fecha_original": "21 de septiembre de 1661",
+  "lugar": "Ciutadella",
+  "remitente": "Bartolomé Mercadal",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Procurador reial mi senyor Tinc rebuda la de v. s. de 31 d'agost ju tament amb la patent de son tinent en esta isla per haver-ne feta deixació el Dr. Alberti; jo Sr. mio tinc pres posº de l'ofici als 18 del corrent amb confiança que v. s. serà servit sustentarma els consells i advertències (que) que els anys passats que jo servia dit ofici me donava, que és pagar per prelació fins a on bestera el diner, i plor qui plor, perquè en estos temps està el real Patrimoni molt {ESP. alcanzat} jo procuraré en tot complir [?] obligacions de l'ofici i en servir a v. s. en el que serà servit manarmado nantli de tot les gràcies, i mes em particular de la bona electio de Jaume Abadia per escriva, puits enaltra persona era anar a les seguas per molt temps i sens dubte serà del servei de sa magestat la continuació en propietat Déu Nre. Sr. guardi a v. s. com li suplico i tinc menester Ciutadella i septiembre 21 de 1661. Molt servidor de v. s. que ses mans besa don Bartolome Mercadal [1§] Transcripción literal"
+  ],
+  "literal": [
+    "1. Sor Por Real mi Señor2. Tinch rebuda la de VS de 31 de Agost ju3. tament ab la patent de son tinent enesta Isla4. per haverna feta dexacio lo Dor. Alberti; yo5. Sor. Mio tinch pres possº del officy als 186. del corrent ab confiansa que VS sera servit7. sustentarma los consells y advertencias (^que)8. que los añys passats queyo servia dit officy9. me donava, que es pagar per prelacio fins10. aont bestera el diner, y plor qui plor, perque11. en estos temps está el Real Patrimony molt12. alcançat yo procurare en tot cumplir13. (^[?]) obligacions del officy y en servir a14. VS. en lo que sera servit manarma do15. nantli de tot las gracias, y mes em perticular16. de la bona electio de Jauma Abadia per17. scriva, puits enaltra persona era anar18. a las seguas per molt temps y sens dupta19. sera del servey de Se Magd. la continuacio20. en propietat Deu N Sor. gde a VS com li21. sup[li]co y tinch menester Ciutadella y 7bre.22. 21 de 166123. Molt Sdor. de VS. q.s.m.b.24. Don Bartt. Mercadal [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "190:115.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo38/190:115.JPG",
+      "url": "/legajos/legajo-38/images/190:115.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "190:115.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-38/cartas/005591.json",
+  "primary_image_url": "/legajos/legajo-38/images/190:115.JPG"
+}

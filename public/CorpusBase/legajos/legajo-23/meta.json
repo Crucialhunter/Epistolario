@@ -1,0 +1,74 @@
+{
+  "legajo_id": "23",
+  "num_cartas": 201,
+  "num_imagenes": 351,
+  "rango_temporal": [
+    1622,
+    1669
+  ],
+  "remitentes_frecuentes": [
+    {
+      "name": "Diego Matías de Aragüés",
+      "count": 13
+    },
+    {
+      "name": "Juan Seguals",
+      "count": 11
+    },
+    {
+      "name": "Persona desconocida",
+      "count": 10
+    },
+    {
+      "name": "Nicolau de Montanyans y Togores",
+      "count": 8
+    },
+    {
+      "name": "Francina Fuster i Pax",
+      "count": 5
+    }
+  ],
+  "destinatarios_frecuentes": [
+    {
+      "name": "Pedro Santacilia y Pax",
+      "count": 192
+    },
+    {
+      "name": "Persona desconocida",
+      "count": 6
+    },
+    {
+      "name": "Leonor Santacilia i Despuig",
+      "count": 2
+    },
+    {
+      "name": "Sebastià Suau",
+      "count": 1
+    }
+  ],
+  "lugares_frecuentes": [
+    {
+      "name": "Mallorca",
+      "count": 56
+    },
+    {
+      "name": "Madrid",
+      "count": 56
+    },
+    {
+      "name": "Ciutadella",
+      "count": 17
+    },
+    {
+      "name": "Barcelona",
+      "count": 12
+    },
+    {
+      "name": "Perpiñán",
+      "count": 8
+    }
+  ],
+  "temas_frecuentes": [],
+  "warnings_count": 75,
+  "densidad_narrativa_estimada": "Media"
+}

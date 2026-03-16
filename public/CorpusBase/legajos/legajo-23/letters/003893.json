@@ -1,0 +1,43 @@
+{
+  "legajo_id": "23",
+  "id_carta": "3893",
+  "order_in_legajo": 148,
+  "signatura": "265:3306a.JPG",
+  "nombre_carta": "Carta de Diego Matías de Aragüés a Pedro Santacilia y Pax",
+  "fecha_original": "23 de febrero de 1661",
+  "lugar": "Madrid",
+  "remitente": "Diego Matías de Aragüés",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Tengo avisado a v. m. como recibió todo lo que vino per Valencia remitido a Luis Viguet, y repartídose donde convenía. El día de San Matías bajó el decreto para el hábito de don Juan y estoy diligenciando se saque la cédula del rey sea de Santiago, y para despachar la comisión de las informaciones se ha de depositar en el consejo de las órdenes 300 ducados plata y hacer fianza por si fuere menester más este despacho no se entregará sin estar hecha esta diligencia. Y aquí hasta ahora no se halla quien del dinero ni Jerónimo Mancho lo tiene, y así v. m. procure cuan antes como tengo escrito en otras se remita un pedazo de dinero. Para la entrada de la segunda semana de Cuaresma se me entregará la ejecutoria del pleito de la Inquisición con su duplicado que remitiré luego y también la patente de la ayuda de costa y si hallo el dinero también la comisión para las pruebas del Sr. don [1§] Juan que se ha de procurar cuan antes se le ponga. Hoy no pude escribir por estar en el Retiro, van las cartas de Malta para que v. m. vea lo que le escriben sus tios, ya se les ha respondido con todo cumplimiento con que [?] no se necesitaba, esta de muy buen color, a Dios gracias, holgáreme que no necesita de que coma carne esta Cuaresma. Al obispo de Mallorca le han venido las bulas ofrece una duda con que no le han despachado en el consejo que les sobre las pensiones. Prométome que se allanará. Por ahora no hay de nuevo que decir a v. m. mandándome le sirva, a mi Sra. Dña. Leonor besamos la mano Dña. Margarita Juanico y yo con las de v. m. muchas veces y todos esos Sres. y guarde Dios como deseo. Madrid a 26 febrero 1661. Besa la mano de v. m. su mayor servidor Diego Matias de Aragues Parece ser que v. m. escriba dos renglones al Sr. don Luis dándole las gracias del hábito del Sr. don Juan. El cardenal de Aragón se va muy presto y es por la Francia. Al Dr. Escales fiscal de ahí le envían a Ibiza a que haga una firmación de lo que ha pasado con el gobernador, con que estará más cerca de quedarse por acá. Sino la [?] de estar ahí y no faltarán quien apetezca esa plaza. Sr. don Pedro de Santacilia y Pax Transcripción literal"
+  ],
+  "literal": [
+    "1. Tengo avisado a Vm. como recivio todo2. lo q vino per Valencia remitido a Luys3. Viguet, y repartidose donde convenia 4. El dia de St. Mathias baxo el decreto5. pa el havito de Don Juan y estoy6. delegenciando se saque la çedula7. del Rey sea de Santiago, Y para8. despachar la Comision de las Informa9. ciones se ha de depositar en el Consso de10. las Ordenes 300 ddos pta y hazer fianza11. por si fuere menester mas este despacho12. no se entregara, sin estar hecha esta 13. diliga. Y aqui hasta agora no se14. halla quien de el dinero ni Gero15. Mancho le tiene. Y asi Vm. procure16. quan antes como tengo escrito en otras17. se remita un pedazo de dinero.18. Para la entrada de la segunda semana19. de quaresme se me entregara la exe20. cutoria del pleyto de la Inqon con21. su duppdo q remitire luego y tam22. bien la patente de la ayuda de 23. costa y si hallo el dinero tam24. bien la Comission pa las pruebas del Sr. don [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "265:3306a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo23/265:3306a.JPG",
+      "url": "/legajos/legajo-23/images/265:3306a.JPG"
+    },
+    {
+      "filename": "266:3306b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo23/266:3306b.JPG",
+      "url": "/legajos/legajo-23/images/266:3306b.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "265:3306a.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (3)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-23/cartas/003893.json",
+  "primary_image_url": "/legajos/legajo-23/images/265:3306a.JPG"
+}

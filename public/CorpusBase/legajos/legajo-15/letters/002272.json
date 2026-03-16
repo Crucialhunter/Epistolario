@@ -1,0 +1,38 @@
+{
+  "legajo_id": "15",
+  "id_carta": "2272",
+  "order_in_legajo": 171,
+  "signatura": "270:6497.JPG",
+  "nombre_carta": "Carta de Rodrigo de Borja Llançol de Romaní y Olivera a Pedro Santacilia y Pax",
+  "fecha_original": "28 de julio de 1648",
+  "lugar": "Vinarós",
+  "remitente": "Rodrigo de Borja Llançol de Romaní y Olivera",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Señor mío: Yo me hallo fuera de la ocupación que hasta ahora he tenido en vinarós, y más desembarazado para poder servir a v. m. en cuanto me quisiere mandar. Pienso partirme dentro de pocos días para la corte, y he querdio antes, dar cuenta de ello a v. m., para que sepa donde me han de hallar sus órdenes, pues en cualquier parte que estuviere, desearé mucho el tenerlas muy frecuentes, para poder servir a v. m. Me la haga en que el manto venga remitido a Giuseppe Cartel, por si yo ya hubiere partido, avisándole del coste, que yo le dejaré orden para que le remita a v. m., o siga la orden que fuere servido darle. A mi me tendrá v. m. siempre y en cualquier parte donde estuviere a su servicio. Conforme fuero de Aragón a todo bien y mal tratar. Don rodrigo de Borja Lançol [ ] [Señor don Pedro de Santacilia ] Transcripción literal"
+  ],
+  "literal": [
+    "1. Señor mio Yome hallo fuera de la Ocupaçion que 2. hasta ahora hetenido en Vinaroz ymas desemba3. razado parapoder servir a Vm. en quanto me 4. quisiere mandar. Pienso partirme dentro de 5. pocos dias para la Corte. y hequerido antes dar 6. qta dello a Vm. para q sepadonde meande 7. hallar sus ordenes. pues en qualquier pte q estuviere 8. deseare mucho Eltenerlas muy frequentes para 9. poder servir a Vm. como devo. Gme Dios a Vm. 10. Los muchos años q puede Vinoz y Jullio 11. 28 de 1648. 12. Sr mio sup[li]co a Vm. mela aga enq 13. el manto Venga remitido a Jusepe Cartel porsi 14. yo ja Ubiere partido avisandole del coste q yo 15. ledejare ordenpa que le remita a Vm. osiga 16. la orden que fuere servido darle. ami me 17. tendra Vm. siempre y enqualquier parte donde 18. estubiere sau servo Conforme fuero de Aragon 19. atodo bien y mal tratar. 20. Don Rodrigo 21. de Borja lançol 22. [Margen izquierdo][^[S]r Don Pedro desta Cilia] [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "270:6497.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo15/270:6497.JPG",
+      "url": "/legajos/legajo-15/images/270:6497.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "270:6497.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (2)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-15/cartas/002272.json",
+  "primary_image_url": "/legajos/legajo-15/images/270:6497.JPG"
+}

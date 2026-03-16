@@ -1,0 +1,43 @@
+{
+  "legajo_id": "13",
+  "id_carta": "1869",
+  "order_in_legajo": 136,
+  "signatura": "215:2373a.JPG",
+  "nombre_carta": "Carta de José Balell a Pedro Santacilia y Pax",
+  "fecha_original": "12 de enero de 1669",
+  "lugar": "Barcelona",
+  "remitente": "José Balell",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Sr. don Pedro Santacilia y Pax He recibido la que v. s. fue servido mandarme escribir en 5 de este con el debido conocimiento por la noticia de saber de su salud que tanto estimo, y deseo, como siempre me sucederá, que viva v. s. muchos años para mandarme y ordenarme [?]. La inclusa para mi sra. irá está noche sin falta, porque el pasaje que tenía las demás, como avisé el sábado pasado, no se había ido y partirá esta noche. Mucho me holgaré que estas materias del sr. d. Juan se acaben y quede s. a. como merece y deseo. Las tropas en Rosellón han entrado en numero 50.000 infantes y 10.500 caballos y de estos han pasado a Conflent parte y dicen para fortificar a Villafranca, que como vecina de Puigcerdán han dado celos a su excelencia y hoy ha marchado el sr. Jeronimo de la Avull [?] a Puigcerdán, por lo que pueda ser. Bravas carnestolendas se esperan, pues ya hemos empezado y se continuarán los saraos [1§] al paso que su excelencia está sin medios para acudir a tanta desnudez y necesidad y en particular a los [?] oficiales. La caballería padece por falta de forrajes, que no los hay. Con todo, los paisanos se alientan con la sombra de s. a., que como tengo dicho no vienen sin [?] como solían. Dios nos asista como puede y a v. s. guarde felicísimos años, como puede, deseo y es menester, en compañía de cuanto quiere y merece. Barcelona y enero 12 de 1669. Cierto criado de v. s. que su mano besa . Josep Balell [2§] Transcripción literal"
+  ],
+  "literal": [
+    "1. Sr. don Pedro Santa Cilia y Pax mi Sr.2. He Reciv[i]do la que VS fue servido3. Mandarme escribir en 5. deste4. con el devido conocimiento por la 5. noticia de saver de su salud, que6. tanto estimo y deso como siempre7. me sucede a mi biba VS ms a< ño>s8. para Mandarme y enviarme9. la Inclusa pa mi Sa. hira es10. ta noche sin falta porque 11. el pasaje que tenia las demas 12. como avise el savado pasado13. no se havia hido y pasaria14. esta noche.15. Mucho me olgare que estas ma16. terias del Sr. d. Juan se acaven17. y quede S.A. como merece y deso18. Las Tropas en Rossellon hanen19. trado [?] 50000 In20. fantes y 10500 Cavallos y des21. tas han pasado A Conflent par22. te y dizen pa fortificar a Villa23. franca que como vezina de24. Puigserdan han dado selas25. a su exa y oi ha marchado26. el Sr. Ge. de la Avull[?] i Puig27. serdan por lo que puede ser28. Bravas Carnastoliendas sesperan29. ran pues ya hemos empecado30. y de Continuar los [?] [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "215:2373a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo13/215:2373a.JPG",
+      "url": "/legajos/legajo-13/images/215:2373a.JPG"
+    },
+    {
+      "filename": "216:2373b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo13/216:2373b.JPG",
+      "url": "/legajos/legajo-13/images/216:2373b.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "215:2373a.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-13/cartas/001869.json",
+  "primary_image_url": "/legajos/legajo-13/images/215:2373a.JPG"
+}

@@ -1,0 +1,78 @@
+{
+  "legajo_id": "29",
+  "num_cartas": 220,
+  "num_imagenes": 350,
+  "rango_temporal": [
+    1613,
+    1668
+  ],
+  "remitentes_frecuentes": [
+    {
+      "name": "Persona desconocida",
+      "count": 22
+    },
+    {
+      "name": "Tomás Ruiz de Salas",
+      "count": 15
+    },
+    {
+      "name": "Nicolás de Santacilia y Togores",
+      "count": 13
+    },
+    {
+      "name": "Pedro Juan de la Guardia",
+      "count": 12
+    },
+    {
+      "name": "Diego Matías de Aragüés",
+      "count": 11
+    }
+  ],
+  "destinatarios_frecuentes": [
+    {
+      "name": "Pedro Santacilia y Pax",
+      "count": 180
+    },
+    {
+      "name": "Persona desconocida",
+      "count": 29
+    },
+    {
+      "name": "No consta",
+      "count": 1
+    },
+    {
+      "name": "Francisco Zaforteza",
+      "count": 1
+    },
+    {
+      "name": "marqués de los Vélez",
+      "count": 1
+    }
+  ],
+  "lugares_frecuentes": [
+    {
+      "name": "Madrid",
+      "count": 56
+    },
+    {
+      "name": "Mallorca",
+      "count": 48
+    },
+    {
+      "name": "Valencia",
+      "count": 36
+    },
+    {
+      "name": "Vinarós",
+      "count": 14
+    },
+    {
+      "name": "Lugar sin especificar",
+      "count": 12
+    }
+  ],
+  "temas_frecuentes": [],
+  "warnings_count": 114,
+  "densidad_narrativa_estimada": "Media"
+}

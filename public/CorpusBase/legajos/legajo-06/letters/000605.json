@@ -1,0 +1,48 @@
+{
+  "legajo_id": "6",
+  "id_carta": "605",
+  "order_in_legajo": 101,
+  "signatura": "138-70a",
+  "nombre_carta": "Carta de Francisco Desbrull y Boíl a Cecilia Zaforteza y Sureda de Sant Martí",
+  "fecha_original": "10 de julio de 1759",
+  "lugar": "Malta",
+  "remitente": "Francisco Desbrull y Boíl",
+  "destinatario": "Cecilia Zaforteza y Sureda de Sant Martí",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Malta y julio 10 de 1759. Muy Sra., La buena ley que a v. s. y a toda su casa profeso me obliga a participar a v. s. mi feliz viaje, que aunque con algún mareo los primeros días, ha sido con la mayor felicidad. Y así el día 12 del mes pasado llegamos en ese puerto, en donde me mantengo con igual salud y [1§] beneficio. Yo disfruto para lo que fuere de su gusto mandarme. Estimaré me excuse con el Sr. D. Tomás, a quien suplico a v. s. diga reconozco [?] ésa por suya y que por la brevedad del tiempo no le escribo, y pidiendo a v. s. haga las mismas expresiones con mi Sra. Dña. Caterina, saludando y repitiéndome a la obediencia de los de toda su familia. Ruego a Dios guarde a v. s. muchos años como deseo. Besa las manos de v. s. su más seguro servidor, Francisco Desbrull y Boil. Muy Sra. mía. Transcripción literal"
+  ],
+  "literal": [
+    "1. Malta, y julio 10 de 1759 2. Muy Sra. la bue- 3. na ley q[u]e á V.S. y á toda su 4. casa professo, me obliga, á 5. participar a V.S. mi fel- 6. iz viage, q[u]e aunq[u]e con alg- 7. un mareo los primeros dias 8. ha sido con la mayor fe- 9. lizidad. Y assi el dia 12 del 10. mes passado llegamos en 11. esse Puerto, en donde me ma- 12. ntengo, con igual salud au- [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "138-70a.jpg",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo06/138-70a.jpg",
+      "url": "/legajos/legajo-06/images/138-70a.jpg"
+    },
+    {
+      "filename": "139-70b.jpg",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo06/139-70b.jpg",
+      "url": "/legajos/legajo-06/images/139-70b.jpg"
+    },
+    {
+      "filename": "139-70bb.jpg",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo06/139-70bb.jpg",
+      "url": "/legajos/legajo-06/images/139-70bb.jpg"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "138-70a.jpg",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (2)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-06/cartas/000605.json",
+  "primary_image_url": "/legajos/legajo-06/images/138-70a.jpg"
+}

@@ -1,0 +1,43 @@
+{
+  "legajo_id": "26",
+  "id_carta": "4409",
+  "order_in_legajo": 161,
+  "signatura": "214:3503a.JPG",
+  "nombre_carta": "Carta de Rafael Vives García a Pedro Santacilia y Pax",
+  "fecha_original": "2 de mayo de 1644",
+  "lugar": "Madrid",
+  "remitente": "Rafael Vives García",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Su majestad. que Dios guarde. Hizo merced al Sr. Bartolome Mercadal del supuesto que v. s. me mandó que le solicitase para alférez de la compañía de caballos de esa isla, queriendo sacar la cédula me ha dicho el oficial que la tiene, que debe pagar media [?] y que son siete ducados por cada un año de los seis que le suplique que viene a ser 42 ducados que son reales 62 y así será v. s. servido mandar que estos se me provean para que vaya el despacho, o mandarme lo que fuere servido que yo haga, que es cierto que a tener acá dinero con que pagar dicha cantidad, no la pidiera. Por acá andan los tiempos muy necisitados, y no hay amigo que pueda valer. Ya le escribí al capitán Cardona que eran menester dineros para el despacho media annata [?] de la sobrestancia de que su majestad se ha hecho merced. V. s. le advierta, que puede pasarse el tiempo de la merced y que tengamos que haber de trabajar a más de lo hecho y que don Gaspar Litago no dará dinero porque no la ha cobrado y que cuando lo cobrase no lo daría hasta que tenga aviso del Dr. Martorell de que pague lo que le dio su señoría acá y más ahora que esta proveído [?] de Bosa [?] y sabrá de ir y para eso ha menester dinero. Procure el proveerle que le importa, que otros han querido pretenderla y llegaron tarde. Jaime Anglada me dijo que tenía en buena Sr. gobernador. [1§] disposición la licencia que v. s. pide y el señor Josep Navarro que se admiraba de que v. s. no le mandaba en sus negocios y que no sabía porque había los guiaban. Estos dias. [ACABAR LA CARTA] Transcripción literal"
+  ],
+  "literal": [
+    "1. Su Magd. q Dios gde. hizo md. al Sr. Bartholome Mer2. cadal del suppto. que V.S. me mando q le soliçitasse para3. Alferez de la compª de cavallos dessa Isla, queriendo sacar4. la sedula ma ha dicho el off[icia]l que la tiene, q deve pagar5. media Annata y que son siete ducados por cada un6. Año de los seys que le supple. que viene a ser 427. ducados que son Rles. + 62 y assy sera V.S. serbido8. mandar q estos se me provehan para q vaya el9. despacho, o, mandar me lo que fuere serbido que10. yo aga, que es çierto q a tener aca dinero con q pagar11. dha cantidad, no la pidiera po[r] aca andan los tiempos12. muy neçisitados, y no hay amigo q pueda valer.13. Ya le scrivi al Capn. Cardona q eran menester dine14. ros para el despacho m[edi]a Annata de la sobrestan15. tia de q Su Magd. se ha echo md. V.S. le advier16. ta, q puede passarse el tiempo de la md. y que ten17. gamos q haver de travajar a mas de lo echo18. y q don Gaspar Litago no dar adinero porq no19. la cobrado y q quando lo cobrasse no lo daria20. hasta q tenga abiso del dr. Marthorell de que21. paga lo que le dio Su Sa. aca y mas agora22. q esta provehydo [?] de Bossa[?] y sabra23. de hir y para esso ha menester dinero procure24. el aproveherle q le importa, q otros han25. querido pretenderla y llegaron tarde.26. Jayme Anglada me dixo q tenia en buena27. Sr. Gdor. [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "214:3503a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo26/214:3503a.JPG",
+      "url": "/legajos/legajo-26/images/214:3503a.JPG"
+    },
+    {
+      "filename": "215:3503b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo26/215:3503b.JPG",
+      "url": "/legajos/legajo-26/images/215:3503b.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "214:3503a.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-26/cartas/004409.json",
+  "primary_image_url": "/legajos/legajo-26/images/214:3503a.JPG"
+}

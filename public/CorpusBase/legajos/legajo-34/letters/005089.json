@@ -1,0 +1,38 @@
+{
+  "legajo_id": "34",
+  "id_carta": "5089",
+  "order_in_legajo": 116,
+  "signatura": "180:7004",
+  "nombre_carta": "Carta de Josep de Rocabertí a Persona desconocida",
+  "fecha_original": "8 de marzo de 1657",
+  "lugar": "Barcelona",
+  "remitente": "Josep de Rocabertí",
+  "destinatario": "Persona desconocida",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "el Sr. don Miquel meca aquí ja v. m. coneixera doncs estigué en eixa ciutat en temi del comte de Montoro m'ha manat el servir en escriurer a v. m. esta i altres ocasions suplicant-lo que de servesca v. m. d'encaminar una cobrança li sobre ex real patrimoni i em sap la mercè que v. m. me fala de per molt certa en esta ocasió jo ho suplico a v. m. perquè es persona que merex molt i doncs dit pensa passar aquí me prometo de v. m. tot bon despaix deu a v. m. guardi com pot i dessió encompanyia de mi Sra. dona Leonor i {ESP. demés} de sa casa aquí dona Junes estes Juinyoras i jo besam les mans amb la de v. m. Barcelona març 8 de 1657 Sr. don Josep de Rocaberti [1§] Transcripción literal"
+  ],
+  "literal": [
+    "1. lo sr don Miquel meca aqui ya Vm conexera2. pues estigue en exa ciutat [e]n temi del Conde3. de Montoro me ha manat lo cervir en escriu/4. rer a Vm esta y altres ocasions suplicantlo5. que de cervesca Vm de encaminar una6. cobransa le sobre ex Real patrimoni7. y am sap la merse que Vm me fala8. de per molt certa en esta ocasio yo ho9. suplico a Vm perque es persona que mer/10. ex molt y pues dit Sr. pensa pasar11. aquí me prometo de Vm tot bon despaix12. deu a Vm gde compot y desyo enconpa/13. ñyia de mi Sra dona leonor y demes14. de sa casa aquí dona [J]unes estas [Ju]iño/15. ras y jo besam las mans abla de Vm16. Barna mars 8 de 165717. Don Joseph de18. Rocaberti [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "180:7004.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo34/180:7004.JPG",
+      "url": "/legajos/legajo-34/images/180:7004.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "180:7004.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-34/cartas/005089.json",
+  "primary_image_url": "/legajos/legajo-34/images/180:7004.JPG"
+}

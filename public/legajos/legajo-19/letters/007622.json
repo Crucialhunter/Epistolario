@@ -1,0 +1,73 @@
+{
+  "legajo_id": "19",
+  "id_carta": "7622",
+  "order_in_legajo": 305,
+  "signatura": "236_cg104a.JPG",
+  "nombre_carta": "Carta de Jerónimo Pelegrín de Aragüés a Pedro Santacilia y Pax",
+  "fecha_original": "2 de marzo de 1662",
+  "lugar": "Mallorca",
+  "remitente": "Jerónimo Pelegrín de Aragüés",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Maghs. senyors [1§] Mestre Christofol Garcias Ferrer donareu a me Josep Togores Fuster de cassa de mi Sr. Don Pedro cinc cens claus dinals que son per la cassa del menat fet als 9 de Març 1662 [2§] Me Chistofol Garcias Ferrer donarà a me Josep Togoras Fuster de cassa de de mi Sr. Don Pedro Santacilia sinch sens claus dinals dich 500 claus dinals i mes cent claus dobles dich 100 claus dobles i mes Doce claus de dos dobles que han de servir per la cassa del manat, fet als 22 feb. 1662 dich _____ 500 claus dinals dich _____ 100 claus dobles mes _____ 12 claus de 2. Jeroni Pelegri [3§] Me. Chistofol Garcias Ferrer donarà a me Josep Thogoras Fuster sinch cens claus dinals i cent de dobles que serveixen per la cassa del menat fet a 25 feb. 1662 [4§] Mestre Chistofol Garcias Ferrer donarà v. m. per compte del Sr. Don Pedro Santacilia i Pax a me. Josep Fuster de cassa de dit Sr. set cens claus dobles per la feina del Prxo i cuina, de la cassa del menat de dit Sr. fet als 13 d'Agost 1662. dich ______ 700 claus dobles d'ordre de mi Sr. D. Pedro Jeroni Pelegri [5§] Mestre Chistofol Garcias donareu a me. Josep Togoras Fuster docens cinquanta claus dinals que son per la cassa del menat per mi senyor Don Pedro Santacilia i Pax, fet als 2 d'Abril 1662 dich. Docens cinquanta claus dinals. Jeroni Pelegri [6§] Me Chistofol Garcias Ferrer donarà al portador desta, cen caus dobles i cent dinals que son per servei de mi Sr. Don Pedro Santacilia fet als 11 d'Abril 1661 dich ____ Cent claus dobles i cent dinals Jeroni Pelegri [7§] v. m. servirà donar a Pere Femenia Carreter de cassa quatre cens claus varquerols i reservarse este, fet a 14 de juny 1661. Jeroni Pelegri [8§] Transcripción literal"
+  ],
+  "literal": [
+    "1. Maghs. Senors 1. Mestre Christofol Garcias Ferrer donareu a me Jusep Togores Fuster de cassa de mi sr. 2. Don Pedro sinc cens claus dinals que son per la cassa del menat fet als 9 de Mars 3. 1662 [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "236_cg104a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo19/236_cg104a.JPG",
+      "url": "/legajos/legajo-19/images/236_cg104a.JPG"
+    },
+    {
+      "filename": "237_cg104b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo19/237_cg104b.JPG",
+      "url": "/legajos/legajo-19/images/237_cg104b.JPG"
+    },
+    {
+      "filename": "238_cg104c.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo19/238_cg104c.JPG",
+      "url": "/legajos/legajo-19/images/238_cg104c.JPG"
+    },
+    {
+      "filename": "239_cg104d.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo19/239_cg104d.JPG",
+      "url": "/legajos/legajo-19/images/239_cg104d.JPG"
+    },
+    {
+      "filename": "240_cg104e.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo19/240_cg104e.JPG",
+      "url": "/legajos/legajo-19/images/240_cg104e.JPG"
+    },
+    {
+      "filename": "241_cg104f.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo19/241_cg104f.JPG",
+      "url": "/legajos/legajo-19/images/241_cg104f.JPG"
+    },
+    {
+      "filename": "242_cg104g.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo19/242_cg104g.JPG",
+      "url": "/legajos/legajo-19/images/242_cg104g.JPG"
+    },
+    {
+      "filename": "243_cg104h.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo19/243_cg104h.JPG",
+      "url": "/legajos/legajo-19/images/243_cg104h.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "236_cg104a.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (4)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-19/cartas/007622.json",
+  "primary_image_url": "/legajos/legajo-19/images/236_cg104a.JPG"
+}

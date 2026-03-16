@@ -1,0 +1,43 @@
+{
+  "legajo_id": "12",
+  "id_carta": "1582",
+  "order_in_legajo": 91,
+  "signatura": "118_6176a.JPG",
+  "nombre_carta": "Carta de Gabriel Domènech a Pedro Santacilia y Pax",
+  "fecha_original": "21 de noviembre de 1644",
+  "lugar": "Mallorca",
+  "remitente": "Gabriel Domènech",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Ja v. s. amb el Sr. don Joan Miquel {ESP. sabe} el que teníem de nou per aquí i el que tenim després que és partissen que els dies passats que era el dia de St. Simó i Judes arribà el marquès de Montealegre amb sis galeres de Nàpols a prendre les provisions que una nau havia deixades ací i pel temps estigué ací fins als 11 del present que és partí per a Dénia per anar a prendre el duc de Medina de les Torres, que diuen va per ambaixador extraordinari en Roma i d'allí uns diuen que ha de passar en Alemanya, altres que ha de prendre la seva casa i tornar a Espanya, tenint per cert que v. s. el tindrà aquí de passada i amb dites galeres estarà aguardant el virrei i don Miquel Sureda que sabem estàn en Dénia dels primers del present mes fins ara aguardant passatge. Amb dites galeres s'embarcà el tresorer nre. i Ramon Torrella, don Mateu Forteza, Carles Desbach, Alfonso Dusay i Baltasar Rusiñol Çagranada, el Dr. Armella que sa magestat ha jubilat i el virrei embarcà la Sra. virreina que sols es restat amb dos criats. G. Valero arribà amb una nau d'Eivissa dos dies {ESP. antes} que és partissen les galeres i el regent anà en sa casa i prengue'l i que l'han tornat a embarcar amb les galeres. Diuen va pres i remès al duc d'Arcos. Per altre Mi Sr. don Pedro Santacilia [1§] port se són embarcats amb una nau [?] Antoni Puigdorfila, don Gregori Vilallonga, Pere Andreu i Baltasar Ferrer. Amb una {ESP. saetia} que arribà de Tarragona rebí la que va amb esta per a v. s. del Sr. Gabriel i les estampes que van amb esta. A mi no m'escriu cosa nova esta assentat a la companyia de don Diego Correa, comissari general de la cavalleria. V. s. no deixi sempre de manar-me el que sia de son gust puix sap que ningú amb més gust que jo servirà a v. s. a qui Nre. Senyor guardi molts anys amb els {ESP. acresentaments} que pot i els seus criats desitjam. Mallorca als 21 de novembre 1644. Al Sr. don Joan Miquel li besam les mans. Criat de v. s. Gabriel Domenech [2§] Transcripción literal"
+  ],
+  "literal": [
+    "1. Ja V.Sa. ab lo Sr. don Juan Michel sabe l o que teniam2. de nou per assi y lo que tenim despres ques parti3. sen que los dias pasats que hera lo die de St. Simo4. i Judas arriba lo sr. amrques de Montealegre5. ab sis galeras de napols a pendre les provisions6. que una nau avia dexades assi i per lo temps7. estigue assi fins als 11 del p[rese]nt ques parti para 8. denia per anar a pendre lo duch de medina9. de las torres que diuhen va per enbaxidor10. estreordinari en Roma i de alli uns diuhen11. que a de pasar en alemanya altres que ha12. de pendre le sua casa i tornar en españya13. tenint per çert que Vsa. lo tindra aqui14. de pasada y ab dites galeras estara aguar15. dant lo virey i don mi[quel] sureda que sabem16. estan en denia dels primers del p[rese]nt mes17. fins ara aguardant pasatje ab dites18. galeras se enbarca lo Sr. tesorer nro. y remo19. torrella den matheu forteza carles desbach20. alfonso deusay i baltesar rusiñol çagranada21. lo dor. Armella que se mag[esta]d ha jubilat y lo sr.22. virey enbarca la Sra. vireyna que sols es restat23. ab dos criats g[abrie]l?? valero arriba ab una24. nau de Ivisa dos dies antes ques partisen25. les galeras y lo regent ana en se coasa y prenguel26. i han lo tornat enbercar ab les galeras diuhen27. va pres i remes al duch de arcos per altre28. mi Sor don Pedro StaÇilia [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "118_6176a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo12/118_6176a.JPG",
+      "url": "/legajos/legajo-12/images/118_6176a.JPG"
+    },
+    {
+      "filename": "119_6176b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo12/119_6176b.JPG",
+      "url": "/legajos/legajo-12/images/119_6176b.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "118_6176a.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-12/cartas/001582.json",
+  "primary_image_url": "/legajos/legajo-12/images/118_6176a.JPG"
+}

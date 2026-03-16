@@ -1,0 +1,62 @@
+{
+  "legajo_id": "26",
+  "id_carta": "4368",
+  "order_in_legajo": 105,
+  "signatura": "143:3462a.JPG",
+  "nombre_carta": "Carta de Salvador Viñales a Pedro Santacilia y Pax",
+  "fecha_original": "9 de julio de 1642",
+  "lugar": "Gobon",
+  "remitente": "Salvador Viñales",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Un bergantín de la patria ha aportado a esta playa y los marineros de él me han dado nuevas de su nueva salud de v. m. de que me he holgado en el ama como tan servidor de v. m. que lo seré hasta la muerte. Dicen me le ha hecho su majestad merced del gobierno de esa isla de Menorca. Corto premio para tan grandes merecimientos, pero en los tiempos presentes importa mucho que en ese puesto se halle persona de tan grandes partes. V. m. sabe muy bien que estoy en este puesto del final ocupado en la tenencia de los castillos, y marquesado y que a tres años y medio que lo sirvo con esperanzas de ocupar mayor puesto. V. m. me la haga de avisarme si el castillo de San Felipe de Menorca estabalo o si en Mallorca hay alguna plaza. Aquí valen de a la califa de mis servicios o el gobierno de Ibiza para que yo pueda anteponerme a la pretensión de una de ellas, que hallaré por alabar tanto apoyo y favores con mis [?] generales y para las medias anatas lo que fuere menester. Las novedades de por acá no las escribo porque las de España nos dan mayor cuidado. Sóolo suplico a v. m. me responda por vía de Génova, encaminándolas a Juan Bautista Sr. D. Pedro de Santacilia [1§] Tessorello que me las remitirá. Asimismo me hará de avisarme de los camaradas Juan Antonio Vivot y don Tomas de Veri y Dameto y el Sr. Jeronimo Rossiñol si son vivos y a don Dezcallar y los puestos que ocupan y [?] guárdeme Dios a v. m. muy largos y felices años con los [?] que para mi deseo, del castillo Gobon del final a 9 de Julio 1642. Muy servidor de v. m. Salvador de Viñales Del Castillo Gobon 9 julio 1642 Salvador de Viñales Transcripción literal"
+  ],
+  "literal": [
+    "1. Un bergantin de la patria a aportado a esta playa2. y los marineros del me an dado nuebas de su nueva3. salud de Vm de que me e olgado en el ama como4. tan serbidor de Vm. que lo sere asta la muerte5. dicen me le a echo su Majesta merçe del gobier6. no desa ysla de menorca corto premio para tan gran7. desmereçimientos pero en los tienpos presentes8. ynporta mucho que en es[e] puesto se alle persona9. de tan grandes partes= Vm sabe mui bien que10. estoy eneste puesto del final ocupado en la tene11. çia de los castillos, y marquesado y que a tres anos12. y medio que lo sirbo con esperanças de ocupar ma13. yor puesto, Vm me la aga de abisarme si el cas14. tillo de S. Felipe de moon estabalo o si en ma15. llorca ay alguna plaça aqui balen de a la califa16. de mis serbiçios o el gobierno de Ybisa para que17. yo pueda anteponerme a la pretension de una18. dellas que allare por alabar tanto apoyo y fabo19. res con mis (^??) jenerales y para las medias anatas lo20. que fuere menester las nobedades de por aca no las21. escribo porque las despaña nos dan mayor cuyda22. do solo suplico a Vm me responda por bia23. de Jenoba encaminandolas a Juan Bautista24. Sr. D. Pedro de Sta. Çilia [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "143:3462a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo26/143:3462a.JPG",
+      "url": "/legajos/legajo-26/images/143:3462a.JPG"
+    },
+    {
+      "filename": "144:3462b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo26/144:3462b.JPG",
+      "url": "/legajos/legajo-26/images/144:3462b.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "143:3462a.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    },
+    {
+      "code": "IMAGE_DOWNLOAD_FAIL",
+      "message": "HTTP 404",
+      "context": {
+        "url": "http://santacilia.info/intranet2/img/Legajo26/143:3462a.JPG"
+      }
+    },
+    {
+      "code": "IMAGE_DOWNLOAD_FAIL",
+      "message": "HTTP 404",
+      "context": {
+        "url": "http://santacilia.info/intranet2/img/Legajo26/144:3462b.JPG"
+      }
+    },
+    {
+      "code": "IMAGE_COUNT_MISMATCH",
+      "message": "Imágenes detectadas (2) != descargadas (0)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-26/cartas/004368.json",
+  "primary_image_url": "/legajos/legajo-26/images/143:3462a.JPG"
+}

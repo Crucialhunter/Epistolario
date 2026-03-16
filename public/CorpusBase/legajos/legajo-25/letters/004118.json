@@ -1,0 +1,38 @@
+{
+  "legajo_id": "25",
+  "id_carta": "4118",
+  "order_in_legajo": 52,
+  "signatura": "106_152a.JPG",
+  "nombre_carta": "Carta de Pere Mallol a Jerónimo Pelegrín de Aragüés",
+  "fecha_original": "20 de mayo de 1667",
+  "lugar": "Sant Joan (Mallorca)",
+  "remitente": "Pere Mallol",
+  "destinatario": "Jerónimo Pelegrín de Aragüés",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Senyor Jeroni Estos dies passats rebí una carta de v. m. i així he fet el que em mani si està bé o no v. m. ja ho veuré que ací no som molt curials, sols hi hem afegit la vídua d'Antoni Mestre i l'hem continuada el peu de la resposta. El batle i l'escrivà no han volgut cosa ninguna. Basta esser cosa de v. m. sols s'ha pagat al passatge que se li han donats vint sous, els quals ha pagats m. Font i encara ha anat pertot, en coses de son gust. No deixi de manar-me del que em diu de la gràcia m'ha feta. Mi senyor voldria v. m. m'excusàs de dit càrrec i li agrairé molt que tant amb el càrrec com sens el càrrec no deixi de ser es criat de tots i molt més sens el càrrec i així si em pot fer mercè d'excusar-me ho rebré amb particular mercè tot per avís i si importa cosa. Avís de Sant Joan i maig als 20 de 1667. De v. m. Pere Mallol Transcripción literal"
+  ],
+  "literal": [
+    "1. Señor Hyeroni2. Estos dies pessats rebi une carte de V.m. y axi3. he fet lo quem mane si esta be, o, no V.m.4. jau veura que assi no som molt curials5. sols hey havem afegit la Vª de Antoni6. mestre y len continuade el peu de la7. resposta. Al Balle y lo s[cri]ba no han8. volgut cosa niguna basta esser cosa9. de V.m. sols se ha paguat al pisatjebr> que se li han donats vint sous els10. quals ha paguats m. Font y encare 11. ha anat p[er] pertot, en coses de song ust12. no dex de menarme13. De lo quem diu de la gratia me ha feta14. mi Señor volria V.m. me escusas de dit15. carech y ley agreire molt que tant ab16. lo carech com sens el carech no dex de ser17. scriat de tots y molt mes sens el carech18. y axi sim pot fer merce de escusarme19. heu rebre ab perticular merçe tot p[er]20. avis y si importa cosa avis de St. Jua21. y maig als 20 de 166722. De V.m. Pera Mallol [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "106_152a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo25/106_152a.JPG",
+      "url": "/legajos/legajo-25/images/106_152a.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "106_152a.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (4)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-25/cartas/004118.json",
+  "primary_image_url": "/legajos/legajo-25/images/106_152a.JPG"
+}

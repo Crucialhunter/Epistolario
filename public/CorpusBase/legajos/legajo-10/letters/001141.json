@@ -1,0 +1,38 @@
+{
+  "legajo_id": "10",
+  "id_carta": "1141",
+  "order_in_legajo": 9,
+  "signatura": "014-307",
+  "nombre_carta": "Carta de Francesc Gual i Sunyer a Jerónimo Pelegrín de Aragüés",
+  "fecha_original": "14 de junio de 1668",
+  "lugar": "Madrid",
+  "remitente": "Francesc Gual i Sunyer",
+  "destinatario": "Jerónimo Pelegrín de Aragüés",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "La carta que v. m. em féu mercè per al senyor Diego Maties jo li he donada en ses pròpies mans i em fa molta mercè, i me demanà si havia de fer ninguna diligència per mi. Jo li digué que per ara no se m'oferí, que quant importa li estimarem ja. Li estim la mercè que v. m. m'ha feta i si té gust d'escriure-li el que jo li estim, i a v. m. si se li ofereix ninguna cosa en què jo l'hagi de servir no excusi el manar-me. Déu el guardi molts anys. De Madrid, als 14 de juny 1668. Servidor de v. m., . Francesc Gual Senyor Jeroni Pelegri Transcripción literal"
+  ],
+  "literal": [
+    "1. La carta que V.M. en feu marsa per el 2. Sr. Diego Matias jo laie donada en sas propias manas, y em fa molta marsa y me de 3. mana, si avia de fer ninguna diligensia 4. per mi. Yo li dige que per ara no se me 5. oferit que quant ynporta, lei estimaren 6. ya li astimle marsa que V.M. en a feta 7. y si te gust de aperiurali lo aque jo 8. lei afim y a V.M. si se le oferex ningu 9. na cosa en que jo al y aja de servir 10. no asens el amnarme leu. Lo guart 11. mols anis de madrid als 14 de juny 12. 1668 13. Servidor de V.M., F. Gual14. [^Geroni Pelegrin^] [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "014-307.jpg",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo10/014-307.jpg",
+      "url": "/legajos/legajo-10/images/014-307.jpg"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "014-307.jpg",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING",
+      "message": "Se detectaron caracteres sospechosos de encoding (4)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-10/cartas/001141.json",
+  "primary_image_url": "/legajos/legajo-10/images/014-307.jpg"
+}

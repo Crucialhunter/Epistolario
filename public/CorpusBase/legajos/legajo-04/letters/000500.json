@@ -1,0 +1,43 @@
+{
+  "legajo_id": "4",
+  "id_carta": "500",
+  "order_in_legajo": 4,
+  "signatura": "083-40a",
+  "nombre_carta": "Carta de Leonard Burgues Zaforteza a Francisco María Chevi",
+  "fecha_original": "fecha sin especificar",
+  "lugar": "lugar sin especificar",
+  "remitente": "Leonard Burgues Zaforteza",
+  "destinatario": "Francisco María Chevi",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Señor Nicolas Roque Vantapelle. Por la falta que tenemos de embarcaciones de este lugar al de Ámsterdam no ha podido ser nuestra correspondencia tan frecuente como yo deseo. Estimo la ocasión que ahora se me ofrece de este navío inglés capitán [?] para besar a v. m. la mano y saber de su salud y juntamente suplicarle me haga mucho en primera ocasión, y lo más presto que se pueda remitir tres tapicerías, todas de buena calidad, aunque historias o países diferentes las unas de las otras, que han de servir la una por mi casa, otra para la de un hijo mío, el señor Juan Baptista Zaforteza, y la otra para don Pedro de Veri, mi yerno, para lo cual remitimos a v. m. cada uno de nosotros aceite para los gastos que se ofrecerán, como verá a v. m. con las pólizas de cargo; y asimismo las medidas que han de tener los paños de dichas tapicerías. La que yo quiero para mi casa han de ser arboladas con figuras de hombres y venados y otros animales que a v.m. parecieren más vistosos, siendo posible de las más vistosas que se puedan hallar; y cuando en esto se ofreciere alguna dificultad o a v.m. le pareciere otra cosa mejor, queda a su disposición remitírmela a su gusto. De las otras dos tapicerías seguirá v. m. la orden que les dan los dichos mi hijo y yerno. Estamos todos muy confiados que tanto el despacho del aceite como en la compra de dichos paños mirará v. m. por nuestro interés como por cosa propia del suyo. De nuevo encargo a v. m. que sean los paños muy finos y de buen gusto. Las partidas de aceite que cada uno de nosotros remitimos a v. m. nos parece que bastarán para el coste de las tapicerías, pero en caso que faltase algún dinero para alguna de los demás, no repare v. m. en suplirlo de mi dinero, dándonos aviso de lo que fuere. Con este mismo navío va una persona de mucha satisfacción, genovés, para comprar otro navío por algunos particulares de esta ciudad. Con él podrá v. m. cargar las dichas tapicerías, no teniendo otra ocasión más de pronto, [1§] y asegurará todo el valor de la mía tapicería, y lo mismo hará en cualquier navío que la cargase, no en siendo convoyado de otros navíos hasta Mallorca, pero en caso que viniere convoyado podrá excusar la seguridad. En respecto de los demás, seguirá v.m. la orden que le darán. Francisco Maria Chevi. Transcripción literal"
+  ],
+  "literal": [
+    "1. [^Sr. Nicolas Roque Vantapelle^]2. Por la falta que tenemos de embarcaciones deste lugar al 3. d stardam no ha podido ser nuestra corres pondencia tan frequente 4. como jo deseo, estimo la ocasión que agora se me 5. ofrece deste navio ingles capn [hay un espacio lo que parece indicar es que no sabía el nombre del Capitán del barco y esperaba ponerlo]6. para besar a V.M. 7. la mano y saber de su salud y juntamente suplicarle me 8. haga mucho en primera ocasión y lo mas presto que se 9. pueda remitir tres tapicerias todas de buena calidad, aun 10. que historias o paises diferentes las unas de las otras, que han 11. de servir la una por mi casa otra la para la de un hijo 12. mio el Sr. Juan Baptta Çafortesa, y la otra para don pedro 13. de Veri mi hierno para lo qual remitimos a V.M. cada uno 14. de nosotros azeyte para los gastos que se ofrzeran como vera 15. V.M. con las polissas de cargo; y assi mesmo las medidas que han de16. tener los panyos de dchas tapicerias. La que jo quiero 17. para mi casa a de ser arboladas con figuras de hombres y 18. venados siendo possible de las mas vistosas que se puedan 19. allar y quando en esto se ofreciere alguna dificultad + 20. queda a su disposicion remitirmela a su gusto. De las otras 21. dos tapicerias seguira V.M. la orden que les dan los dhos 22. mi hijo y hierno. estamos todos muy confiados que 23. tanto el despacho del azeyte como en la compra de 24. dichos pañyos mirara V.M. por nuestro interes como por cosa 25. propia del suyo. De nuevo encargo V.M. que sean los pañyos muy finos y de buen gusto, las partidas de azeyte que cada 26. uno de nosotros remitimos a V.M. nos parece que bastaran 27. para el coste de las tapicerias pero en caso que faltasse 28. algun dinero para alguna de los demas no repare V.M. 29. en suplirlo de mi dinero, dando nos aviso de lo que fuere. 30. Con este mismo navio va una perssona de mucha satisfa 31. cion ginoves para comprar otro navio por algunos par 32. ticulares desta ciudad. Con el podra V.M. cargar las dchas 33. tapicerias no teniendo otra ocasión mas de prom[p]34. to [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "083-40a.jpg",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo04/083-40a.jpg",
+      "url": "/legajos/legajo-04/images/083-40a.jpg"
+    },
+    {
+      "filename": "084-40b.jpg",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo04/084-40b.jpg",
+      "url": "/legajos/legajo-04/images/084-40b.jpg"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "083-40a.jpg",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-04/cartas/000500.json",
+  "primary_image_url": "/legajos/legajo-04/images/083-40a.jpg"
+}

@@ -1,0 +1,38 @@
+{
+  "legajo_id": "34",
+  "id_carta": "5131",
+  "order_in_legajo": 160,
+  "signatura": "244:7046.JPG",
+  "nombre_carta": "Carta de Basilio de Castellví y Ponce a Pedro Santacilia y Pax",
+  "fecha_original": "17 de septiembre de 1657",
+  "lugar": "Valencia",
+  "remitente": "Basilio de Castellví y Ponce",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Señor mío, Mi señora doña Costanza de Ávila es persona a quien tengo particulares obligaciones, por cuya razón deseo con todo extremo se ofrezcan muchas ocasiones en que poder servir a esta señora. Me ha dicho la grande necesidad en que se halla respecto de no poder cobrar una renta que tiene en esa ciudad y que v. s. unicamente es quien puede disponer el que cobre. Y así, yo suplico a v. s. se sirva de hacerme el favor que fuere posible para que se consiga esa cobranza, que será para mí de particular estimación; que además de ser razón, me consta padece suma descomodidad faltándole ese socorro. V. s. metiene siempre a su servicio, deseoso de tener muchas ocasiones de servir a v. s., cuya vida guarde Nuestro Señor los muchos años que deseo. Valencia y septiembre a 17 de 1657. Besa a v. m. la mano su mayor servidor, don Basilio de Castellvi y Ponce Sr. d. Pedro Santacilia [1§] Transcripción literal"
+  ],
+  "literal": [
+    "1. Señor mio, mi señora, doña Costança de havila es2. persona aquien tengo particulares obligaciones por cuya3. Raçon deseo contodo estremo seo frezcan muchas ocasiones4. en que poder servir aesta señora, [aimedho] lagrande5. necesidad enquesehalla, Respeto denopoder cobrar Una6. renta quetiene enesaciudad y que VS unicamente es,7. quienpuede disponer el que cobre y asi yo supp[li]co aVS sesirva8. dehaçerme el fabor que fuere posible para que se consiga9. essa cobrança quesera para mi de particular estimaçion que10. ademas de ser rraçon meconsta padeçe suma discomodidad11. faltandole esse socorro. VS metiene, siempre , asuservicio12. deseoso detener muchas ocasiones deservir a VS cuya13. bida gde nro Señor los muchos años que deseo, Valencia y14. septiembre a 17 de 1657.15. B a vm l[a] mo su mor sdor16. don Basilio de castelui17. y Ponçe18. [28, extrem inferior] Sr. D. Pedro Santa Silia [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "244:7046.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo34/244:7046.JPG",
+      "url": "/legajos/legajo-34/images/244:7046.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "244:7046.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-34/cartas/005131.json",
+  "primary_image_url": "/legajos/legajo-34/images/244:7046.JPG"
+}

@@ -1,0 +1,66 @@
+{
+  "legajo_id": "22",
+  "num_cartas": 104,
+  "num_imagenes": 191,
+  "rango_temporal": [
+    1621,
+    1668
+  ],
+  "remitentes_frecuentes": [
+    {
+      "name": "Antonio Gual",
+      "count": 9
+    },
+    {
+      "name": "Miguel Guiño",
+      "count": 5
+    },
+    {
+      "name": "Francisco Sureda y Vivot",
+      "count": 4
+    },
+    {
+      "name": "Miguel Zanglada",
+      "count": 3
+    },
+    {
+      "name": "Pedro Monleón",
+      "count": 3
+    }
+  ],
+  "destinatarios_frecuentes": [
+    {
+      "name": "Pedro Santacilia y Pax",
+      "count": 97
+    },
+    {
+      "name": "Persona desconocida",
+      "count": 7
+    }
+  ],
+  "lugares_frecuentes": [
+    {
+      "name": "Mallorca",
+      "count": 31
+    },
+    {
+      "name": "Madrid",
+      "count": 14
+    },
+    {
+      "name": "Barcelona",
+      "count": 13
+    },
+    {
+      "name": "Zaragoza",
+      "count": 9
+    },
+    {
+      "name": "Lugar sin especificar",
+      "count": 5
+    }
+  ],
+  "temas_frecuentes": [],
+  "warnings_count": 33,
+  "densidad_narrativa_estimada": "Media"
+}

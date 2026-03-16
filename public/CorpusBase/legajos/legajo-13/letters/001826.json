@@ -1,0 +1,43 @@
+{
+  "legajo_id": "13",
+  "id_carta": "1826",
+  "order_in_legajo": 92,
+  "signatura": "153:2330a.JPG",
+  "nombre_carta": "Carta de José Balell a Pedro Santacilia y Pax",
+  "fecha_original": "13 de octubre de 1668",
+  "lugar": "Barcelona",
+  "remitente": "José Balell",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Señor don Pedro de Santacilia y Pax, mi señor. He recibido la que v. s. fue servido mandarme escribir de 13 de este con mucho contento por la noticia he tenido de la salud de v. s. que tanto estimo y quiero si bien con el pesar que el Sr. don Juan no tenga toda salud como se la deseo y estimo las honras y mercedes es servido hay continuarme que me dan mayores obligaciones como las deben para su mayor servicio de v. s. De Mallorca no ha venido embarcación, ni acá la ha habido con que me hallo con dos pliegos el del virrey del correo pasado y del de este para mi Sra. que irán en primera ocasión sin perderla. El duque de Sant German con toda su casa llegó domingo y aunque tenía una torre prevenida fuera de la ciudad, su excelencia le obligó a que se apease en el palacio nuevo como lo hizo dicen por estar enfermo lo esta hace purgado y se partirá en podiendo. Estanse despalmando las galeras que serán once. Sábese que en Cerdeña no hay cosa que de cuidado, si bien [1§] 400 soldados que se embarcaran con las galeras no eran buen [?]. Espéranse dos mil soldados de los de Badajoz para estas guarniciones, todos alemanes y valones, que estarán también asistidos de la necesidad como los (Ratxat que) demás que es lástima y durarán lo que Dios será servido y ellos querrán. La Reforma de la caballería no será hasta que se haya hecho la fiesta, previene el príncipe de Parma para mi Sra. la duquesa esta será después que su excelencia habrá vuelto a Arenys a asistir y ver si puede echarse este navío a la mar con los nuevos aprestos que se han hecho y su excelencia se irá inmediatamente que el duque de Saint Germain se habrá embarcado, aunque se tiene mucha vigilancia siempre se pasan caballos a Francia y los paisanos siempre claman sus alojamientos. Suplico a v. s. sea servido tenerme en su gracia y servicio, cuya vida guarde Nuestro Señor muchos años como puede, deseo y es menester en compañía del Sr. don Juan, cuyas manos beso y de cuanto quiere y merece. Barcelona y octubre 20 de 1668. Acá no se tiene por tan segura la paz como hay, pues Francia conserva sus tropas y hace nuevas levas aunque con pretexto de [?] que dicen esta apretada. Cierto criado de v. s. que su mano besa, Josep Balell Barcelona Del 13 y 20 octubre 1668. Respuesta a 23 dicho El sargento mayor Josep Balell Transcripción literal"
+  ],
+  "literal": [
+    "1. Sr d Po de Sta Cilia y Pax mi Sr2. He Reciv[i]do la que VS fue serv[i]do3. Mandarme escribir de 13 deste 4. con mucho contento por la no 5. ticia he tenido de la salud de VS6. que tanto estimo y quiero si bien 7. con el pesar que el Sr. d Juan no ten8. ga toda salud como se la deseo9. y estimo las onrras y mdes es serv[i]do10. ai continuarme que me dan ma11. yores obligaciones como las deven12. pa su mayor servicio de VS13. de Mallorca no ha venido embar 14. cacion, ni aca la ha havido con15. que me hallo con dos pliegos el del16. Sr. Birrey del Correo pass[a]do y del17. deste pa mi Sa. que hiran en prime18. ra ocasion sin perderla19. El Sr Duque de St German con toda20. su Casa llego domingo y aunque 21. Tenia una Torre prebenida fuera22. de la Ciud Su exca le obligo a que23. se apease enel Palacio nuevo co24. mo lo hizo dizen por estar enfer25. mo lo esta hase purgado26. y se partira en podiendo estanse27. despalmando las Galeras que, se28. ran onse savese que en Serdeña29. no ay cosa que de cuidado si bien [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "153:2330a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo13/153:2330a.JPG",
+      "url": "/legajos/legajo-13/images/153:2330a.JPG"
+    },
+    {
+      "filename": "154:2330b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo13/154:2330b.JPG",
+      "url": "/legajos/legajo-13/images/154:2330b.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "153:2330a.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-13/cartas/001826.json",
+  "primary_image_url": "/legajos/legajo-13/images/153:2330a.JPG"
+}

@@ -1,0 +1,38 @@
+{
+  "legajo_id": "33",
+  "id_carta": "4930",
+  "order_in_legajo": 121,
+  "signatura": "185:6846.JPG",
+  "nombre_carta": "Carta de Luis de Aragón (VII duque de Cardona) a Pedro Santacilia y Pax",
+  "fecha_original": "10 de agosto de 1633",
+  "lugar": "Madrid",
+  "remitente": "Luis de Aragón (VII duque de Cardona)",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "muy gustoso me dejan las nuevas que v. m. me da de su lle gada a ese estado con su compañía de 300 hombres que bien ciera es que estando por su cuidado todo será con mucho lucimien to y con saber que con esto ha cumplido v. m., para desechar sus penalidades estaremos gustosos los que deseábamos su quie tud, dígame v. m. si piensa hacer por allá asistencia algún tiempo y habiendo de ser así, no me calle los avisos que se ofrezcan pues con tenerlos de tan buen original se divertira la ociosidad de la aldea, y más si v. m., me da con ellos muchas ocasiones en que poderle servir como lo deseo. Guarde Dios a v. m. largos años Lu cena 10 de agosto de 1633 Sr. don Luis de Aragón Sr. don Pedro de Santacilia [1§] Transcripción literal"
+  ],
+  "literal": [
+    "1. Muy gustoso me dejan las nuevas que Vm. me da de su lle2. gada a ese estado con su conpañia de 300 onbres que bien çiera3. es que estando por su cuydado todo sera con mucho luçimien4. to y con saver que con esto a cumplido Vm, para desechar sus5. penalidades estaremos gustossos los que desseavamos su quie 6. tud, digame Vm. si pienssa haçer por alla asistençia algun7. t[iem]po y abiendo de ser assí, no me calle los abissos que se ofrezcan8. pues con tenerlos de tan buen original se divertira la ociosidad de9. la aldea, y mas si Vm, me da con ellos muchas ocassiones en10. que poderle servir como lo desseo gde. Dios a Vm. largos años Lu11. çena 10 de Agosto de 163312. Don Luys de Aragon13. Sr. Don Pº de Santaçilia [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "185:6846.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo33/185:6846.JPG",
+      "url": "/legajos/legajo-33/images/185:6846.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "185:6846.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-33/cartas/004930.json",
+  "primary_image_url": "/legajos/legajo-33/images/185:6846.JPG"
+}

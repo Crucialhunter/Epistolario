@@ -1,0 +1,38 @@
+{
+  "legajo_id": "28",
+  "id_carta": "7909",
+  "order_in_legajo": 156,
+  "signatura": "269:3787.JPG",
+  "nombre_carta": "Carta de Felipe de Lanuza y Rocabertí a Pedro Santacilia y Pax",
+  "fecha_original": "7 de noviembre de 1664",
+  "lugar": "Barcelona",
+  "remitente": "Felipe de Lanuza y Rocabertí",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "De 18 de septiembre recibí la de v. m. y estimo mucho que haya llegado con la salud que le deseo, que bien la puede fiar a mi voluntad que esta es grande. En todo lo que fuera servido a v. m., suplico me mande lo que se ofreciere de su gusto para que conozca mi fineza. Don Antonio Dameto también me escribe dándome parte de su matrimonio, que le respondo yo juzgo que aunque v. m. me diga que le ha encontrado en casa del conde de montenegro con muchas fiebres pero ahora no estará tan dado a perros que habrá trocado el cariño de ellos en la dama, que es más seguro divertimiento. Dios guarde a v. m. muchos años como deseo. Barcelona y noviembre 7 de 1664. Muy servidor de v. m. que sus manos besa, Don Felipe de Lanuza y Rocaberti. Sr. don Pedro Santacilia y Pax. Transcripción literal"
+  ],
+  "literal": [
+    "1. De 18 de setiembre resibi la de vm y 2. estimo mucho que aya llegado co la salud que3. le deseo que bien la puede fiar a mi voluntad4. que esta es grande en todo lo que fuera servido5. a vm suplico me mande lo que se ofresiere6. de su gusto para que conosca mi fineza.7. Don Antonio Dameto tambien me escrive dando8. me parte de su matrimonio que le Respondo9. yo yusgo que aun que vm me digua que le a en10. contrado en casa del Conde de montenegro con11. muchas fiebres pero agora no estara tan dado12. a perros que avra trocado el cariñyo de ellos en la13. dama ques mas seguro divertimiento14. Dios ge. a vm muchos añyos como deseo Ba15. rna. y noviembre .7. de 166416. Mui servidor de vm17. q. s. m. B.18. Don Phelipe de la mura [?] 19. y Rocaberti20. Sr. Don Pedro Santisilia y Pax21. - [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "269:3787.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo28/269:3787.JPG",
+      "url": "/legajos/legajo-28/images/269:3787.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "269:3787.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-28/cartas/007909.json",
+  "primary_image_url": "/legajos/legajo-28/images/269:3787.JPG"
+}

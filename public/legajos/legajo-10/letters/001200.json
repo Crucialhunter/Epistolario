@@ -1,0 +1,43 @@
+{
+  "legajo_id": "10",
+  "id_carta": "1200",
+  "order_in_legajo": 45,
+  "signatura": "122-367a",
+  "nombre_carta": "Carta de Pedro Santacilia y Pax a Jerónimo Pelegrín de Aragüés",
+  "fecha_original": "21 de agosto de 1668",
+  "lugar": "Madrid",
+  "remitente": "Pedro Santacilia y Pax",
+  "destinatario": "Jerónimo Pelegrín de Aragüés",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Dues cartes acab de rebre tuas de 2 i 4 d'aquest i la una rompí en haver-la llegida, a què dic que ja sereu fora de dubtes amb les cartes que hauran arribat i n'Arnau ha portades, que he sabut per carta d'Eivissa estava ja per aqueixos mars. Després que és fou partit s'emmalaltí en Joan Miquel: sang pel nas, febre i dolors per tot el cos, que està sense poder-se girar ni moure. Els metges estan meravellats de sa flaquesa, fortalesa i polsos; sols Juan Seguals diu que l'ha vist més apretat. Avui me sembla l'han trobat que s'entretén, això és el que n'he pogut treure dels metges. Ja us advertesc seria en mala ocasió me faltàs diners tant d'una manera com d'altra, doncs no falta treball que aquesta pobra gent de casa està morta: tres vegades ha demanat glopejar des que escric esta carta. Déu se servesca de tot i et guardi molts anys amb tota ta casa. Madrid i agost, 21 de 1668. Don Pedro Jeroni [1§] {ESP. A Jeronimo Pelegri d'Aragues, que Dios guarde com deseo}. Mallorca. Transcripción literal"
+  ],
+  "literal": [
+    "1. Dos cartas acab de reber tuas de 2 y 4 de aquest y la 2. una rompi en haverla llegida a que dich que ja sereu fora 3. de duptes ab las cartas que haura arribay, y en Arnau aportadas 4. que he sabut per carta de Ivissa estava ja per aquexos 5. mars; Despres ques fonch partit se enmalelti en Juan Mi 6. quel Sanch p lo nas febre, y dolors per tot el cos que esta sens 7. porerse girar ni moure els metjes estan meravellats de sa 8. flaquesa fortalesa y plosos, sols Juan Caguals siu que lo 9. ha vist mes apretat, Vuy me apar lan trobat que 10. se entreten axo es lo quen he pogut traure dels metjes. 11. Ja os advertesch serie en mala occasio me faltasse diners tant 12. de una menra com de altre, puis no falta traballs 13. que aquesta pobra gent de casa esta morta, tres vegades ha demanat 14. glopetjar desde que escrich esta carta. Deu se servesca de tot 15. y et gde ms a< ñy>s ab tota te casa. Madrid y Agosto 21 de 1668. 16. Pedro Santacilia y Pax. 17. [^Geroni^] [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "122-367a.jpg",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo10/122-367a.jpg",
+      "url": "/legajos/legajo-10/images/122-367a.jpg"
+    },
+    {
+      "filename": "123-367b.jpg",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo10/123-367b.jpg",
+      "url": "/legajos/legajo-10/images/123-367b.jpg"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "122-367a.jpg",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING",
+      "message": "Se detectaron caracteres sospechosos de encoding (4)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-10/cartas/001200.json",
+  "primary_image_url": "/legajos/legajo-10/images/122-367a.jpg"
+}

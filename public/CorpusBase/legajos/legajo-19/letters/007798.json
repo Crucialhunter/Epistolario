@@ -1,0 +1,38 @@
+{
+  "legajo_id": "19",
+  "id_carta": "7798",
+  "order_in_legajo": 248,
+  "signatura": "534_7997.JPG",
+  "nombre_carta": "Carta de Magdalena de Zaforteza i Rocabertí a Pedro Santacilia y Pax",
+  "fecha_original": "21 de marzo de 1637",
+  "lugar": "Girona",
+  "remitente": "Magdalena de Zaforteza i Rocabertí",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Per anar v. m tant de [?] no he advertit de dei amº. Caldes passas a casa a cercar un plec que ha dies que el tinc que per no saber on enviar-lo l'aguardava per quant passaria i [?] l'envio pel [?] perquè em [?] que hi ha cartes LA LLETRA GAIREBÉ NO ES VEU Transcripción literal"
+  ],
+  "literal": [
+    "1. Per anar v. m tant de [?] no he advertit de 2. dei amº. Caldes pasas acasa a sercar un plech que 3. ha dias quel tinch que per no saber hont enviar4. lo lo aguardava per quant pasaria y [?] lo en5. vio per el [?] per quem [?] quey 6. ha cartas LA LLETRA GAIREBÉ NO ES VEU [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "534_7997.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo19/534_7997.JPG",
+      "url": "/legajos/legajo-19/images/534_7997.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "534_7997.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-19/cartas/007798.json",
+  "primary_image_url": "/legajos/legajo-19/images/534_7997.JPG"
+}

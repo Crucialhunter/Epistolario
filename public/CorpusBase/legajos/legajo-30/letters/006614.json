@@ -1,0 +1,43 @@
+{
+  "legajo_id": "30",
+  "id_carta": "6614",
+  "order_in_legajo": 87,
+  "signatura": "123:5452a",
+  "nombre_carta": "Carta de Tomás Ruiz de Salas a Persona desconocida",
+  "fecha_original": "9 de diciembre de 1619",
+  "lugar": "Mallorca",
+  "remitente": "Tomás Ruiz de Salas",
+  "destinatario": "Persona desconocida",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Â [1§] Â [2§] Transcripción literal"
+  ],
+  "literal": [
+    "1. 1."
+  ],
+  "imagenes": [
+    {
+      "filename": "123:5452a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo30/123:5452a.JPG",
+      "url": "/legajos/legajo-30/images/123:5452a.JPG"
+    },
+    {
+      "filename": "124:5452b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo30/124:5452b.JPG",
+      "url": "/legajos/legajo-30/images/124:5452b.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "123:5452a.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (7)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-30/cartas/006614.json",
+  "primary_image_url": "/legajos/legajo-30/images/123:5452a.JPG"
+}

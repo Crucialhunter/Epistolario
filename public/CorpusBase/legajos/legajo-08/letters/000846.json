@@ -1,0 +1,43 @@
+{
+  "legajo_id": "8",
+  "id_carta": "846",
+  "order_in_legajo": 128,
+  "signatura": "048-39a copia",
+  "nombre_carta": "Carta de Bartolomé Mercadal a Persona desconocida",
+  "fecha_original": "9 de marzo de 1645",
+  "lugar": "Ciutadella",
+  "remitente": "Bartolomé Mercadal",
+  "destinatario": "Persona desconocida",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Senyor mio Et. Sent l'ausència de v. s. en l'ocasió en què em trobo doncs essent tants els favors que sempre tinc rebuts no pos dubte en esta ocasió em faria particular mercè en treure [?] del {CAST. empeño} en què estic. etts. Mon oncle arribà en esta calar [?] ahír havent fets les dilligències possibles com més llargament v. s. entrendrà per su propie carta no és estat possible fos atemps per presicar Le queresme que litenim comanade. majorment haver preseit segones intencions coses dignes de molt gran sentiment com llargament veure amb la carta del dit Mon onelo i amb la suplicació que s'ha presentada en el Rt. general i li certificho que sinó fora per la meldat que li han hurdide des d'ací enfore ens pellerie se queresme però tinguda atencio asemblant vellacario suplico amb les venes i encariment que puc [1§] se servas quer v. s. aser-me propició a més que per haver usat el terme tant mal els frares és just no em falt justicie. aquí va unepericia que el senyor batle general ha recusat declarar i remetre v. s. Jo amb el jurat Pomar dub que en haver donat els magistrats la queresme, ja no temen li ma en cosa ningune, i així puits el pare Serra Mon onelo entén que havent fetes les diligències possibles en venir atemps i l'han impedit que açò no és bastant per llevarlis justicie i dic jo que ell V. general declar aqual dels dos predicados deu predicar. i els altres dos jurats invisteixen que li queresme ja està donada i que elpare serra fos estat ací atemps i notoca declarasio d'esta matèria en el V. general v. s. estera advertit del que posa i li suplico que vingue, que tinc per cert que lesue presentie imbrevera el cva aquest empenyo, puits sap (lo que) quant corre per mon comte deu-lo guardi com pot yjo desitjo de Ciutadella i març els 9 de 1645 Bartomeu Mercadal Transcripción literal"
+  ],
+  "literal": [
+    "1. Señor Mio lt 2. Sent la heusentia de VS en la ocasio en 3. quem trobo puis essent tans los favos que 4. sempre tinch rebuts nopos dupte en esta 5. ocasio em ferie particular mersit entreur? 6. del empeño enque estich. etc 7. Mon onelo ariba enesta Cala lieva hevent 8. fetsles dilligencies possibles com mes llarga- 9. ment VS entendra p supropie Carta no 10. es estat possible fos atemps per presicar 11. Lequeresme que litenim acomenade. major- 12. ment aver preseit segones intencions coses 13. dignes de molt gran sentiment com llarga- 14. ment veura abla carta del dit Mon onelo 15. y abla suplicatio que seha presentade anel 16. R< >. S< >. Gl. y li sertificho que sino fore 17. p la meldat queli han hurdide des 18. de asi enfore nos pellerie sequeresme 19. Pero tingude atencio asenblant vellacario 20. suplico ab les venes y encariment que puch [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "048-39a copia.jpg",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo08/048-39a copia.jpg",
+      "url": "/legajos/legajo-08/images/048-39a copia.jpg"
+    },
+    {
+      "filename": "049-39b copia.jpg",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo08/049-39b copia.jpg",
+      "url": "/legajos/legajo-08/images/049-39b copia.jpg"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "048-39a copia.jpg",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-08/cartas/000846.json",
+  "primary_image_url": "/legajos/legajo-08/images/048-39a copia.jpg"
+}

@@ -1,0 +1,78 @@
+{
+  "legajo_id": "39",
+  "num_cartas": 46,
+  "num_imagenes": 88,
+  "rango_temporal": [
+    1628,
+    1669
+  ],
+  "remitentes_frecuentes": [
+    {
+      "name": "Joan Baptista Carbonell",
+      "count": 6
+    },
+    {
+      "name": "Persona desconocida",
+      "count": 5
+    },
+    {
+      "name": "Mateu Gual",
+      "count": 3
+    },
+    {
+      "name": "Joan López",
+      "count": 2
+    },
+    {
+      "name": "Magín Ribes",
+      "count": 2
+    }
+  ],
+  "destinatarios_frecuentes": [
+    {
+      "name": "Pedro Santacilia y Pax",
+      "count": 37
+    },
+    {
+      "name": "Persona desconocida",
+      "count": 4
+    },
+    {
+      "name": "Jerónimo Mancho",
+      "count": 2
+    },
+    {
+      "name": "Joan Gual",
+      "count": 1
+    },
+    {
+      "name": "Leonor Santacilia i Despuig",
+      "count": 1
+    }
+  ],
+  "lugares_frecuentes": [
+    {
+      "name": "Mallorca",
+      "count": 17
+    },
+    {
+      "name": "Barcelona",
+      "count": 7
+    },
+    {
+      "name": "Lugar sin especificar",
+      "count": 4
+    },
+    {
+      "name": "Madrid",
+      "count": 3
+    },
+    {
+      "name": "Palma",
+      "count": 2
+    }
+  ],
+  "temas_frecuentes": [],
+  "warnings_count": 17,
+  "densidad_narrativa_estimada": "Media"
+}

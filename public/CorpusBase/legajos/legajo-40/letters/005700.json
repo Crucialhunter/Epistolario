@@ -1,0 +1,32 @@
+{
+  "legajo_id": "40",
+  "id_carta": "5700",
+  "order_in_legajo": 75,
+  "signatura": "094:52.JPG",
+  "nombre_carta": "Carta de Persona desconocida a Pedro Santacilia y Pax",
+  "fecha_original": "28 de junio de 1639",
+  "lugar": "Mallorca",
+  "remitente": "Persona desconocida",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "El Sr. don Pedro Santacilia i Pax deu {ESP. su merced} a 28 de junio 1639 100 l. que por su carta de 27 del presente dé de contado a Monsarro [1§] Transcripción literal"
+  ],
+  "literal": [
+    "1. El Sr. Don Pº Santa Çilia y Pax deu su md. a 28 de Junio 1639 100 Ll que por su carta de 27 del presente de de contado a mon sarro"
+  ],
+  "imagenes": [
+    {
+      "filename": "094:52.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo40/094:52.JPG",
+      "url": "/legajos/legajo-40/images/094:52.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "094:52.JPG",
+  "warnings": [],
+  "raw_source": "raw/legajos/legajo-40/cartas/005700.json",
+  "primary_image_url": "/legajos/legajo-40/images/094:52.JPG"
+}

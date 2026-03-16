@@ -1,0 +1,37 @@
+{
+  "legajo_id": "40",
+  "id_carta": "5665",
+  "order_in_legajo": 10,
+  "signatura": "044:17a",
+  "nombre_carta": "Carta de Persona desconocida a Persona desconocida",
+  "fecha_original": "fecha sin especificar",
+  "lugar": "lugar sin especificar",
+  "remitente": "Persona desconocida",
+  "destinatario": "Persona desconocida",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "El que ha pagat mi Sra. amb els de baix escrits. Després ve una nota breu. [1§] Transcripción literal"
+  ],
+  "literal": [
+    "1. Lo que ha pagat mi Sa. an els debaix escrits. Després ve una nota breu."
+  ],
+  "imagenes": [
+    {
+      "filename": "044:17a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo40/044:17a.JPG",
+      "url": "/legajos/legajo-40/images/044:17a.JPG"
+    },
+    {
+      "filename": "045:17b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo40/045:17b.JPG",
+      "url": "/legajos/legajo-40/images/045:17b.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "044:17a.JPG",
+  "warnings": [],
+  "raw_source": "raw/legajos/legajo-40/cartas/005665.json",
+  "primary_image_url": "/legajos/legajo-40/images/044:17a.JPG"
+}

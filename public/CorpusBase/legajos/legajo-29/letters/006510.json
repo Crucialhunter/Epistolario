@@ -1,0 +1,43 @@
+{
+  "legajo_id": "29",
+  "id_carta": "6510",
+  "order_in_legajo": 210,
+  "signatura": "324:4327a.JPG",
+  "nombre_carta": "Carta de Nicolás de Santacilia y Togores a Pedro Santacilia y Pax",
+  "fecha_original": "24 de noviembre de 1665",
+  "lugar": "Madrid",
+  "remitente": "Nicolás de Santacilia y Togores",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "[1§] [2§] Transcripción literal"
+  ],
+  "literal": [
+    "1. 1."
+  ],
+  "imagenes": [
+    {
+      "filename": "324:4327a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo29/324:4327a.JPG",
+      "url": "/legajos/legajo-29/images/324:4327a.JPG"
+    },
+    {
+      "filename": "325:4327b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo29/325:4327b.JPG",
+      "url": "/legajos/legajo-29/images/325:4327b.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "324:4327a.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-29/cartas/006510.json",
+  "primary_image_url": "/legajos/legajo-29/images/324:4327a.JPG"
+}

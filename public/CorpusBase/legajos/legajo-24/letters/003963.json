@@ -1,0 +1,43 @@
+{
+  "legajo_id": "24",
+  "id_carta": "3963",
+  "order_in_legajo": 14,
+  "signatura": "025:4016a.JPG",
+  "nombre_carta": "Carta de Maria de Lanuça i de Rocabertí a Pedro Santacilia y Pax",
+  "fecha_original": "12 de mayo de 1632",
+  "lugar": "Gerona",
+  "remitente": "Maria de Lanuça i de Rocabertí",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "[1§] Maria de Lanuça i de Rocaberti Transcripción literal"
+  ],
+  "literal": [
+    "1. La imatge no es veu bé."
+  ],
+  "imagenes": [
+    {
+      "filename": "025:4016a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo24/025:4016a.JPG",
+      "url": "/legajos/legajo-24/images/025:4016a.JPG"
+    },
+    {
+      "filename": "026:4016b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo24/026:4016b.JPG",
+      "url": "/legajos/legajo-24/images/026:4016b.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "025:4016a.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (2)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-24/cartas/003963.json",
+  "primary_image_url": "/legajos/legajo-24/images/025:4016a.JPG"
+}

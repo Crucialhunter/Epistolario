@@ -1,0 +1,38 @@
+{
+  "legajo_id": "11",
+  "id_carta": "1476",
+  "order_in_legajo": 243,
+  "signatura": "418:5331.JPG",
+  "nombre_carta": "Carta de Diego Matías de Aragüés a Pedro Santacilia y Pax",
+  "fecha_original": "23 de marzo de 1661",
+  "lugar": "Madrid",
+  "remitente": "Diego Matías de Aragüés",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Por el pliego que va de su majestad para el virrey por Valencia va con esta la ejecutoria de este Consejo Supremo de la Inquisición que he obtenido en el pleito con el canónigo Togores va en toda forma, v. m. me hará que en recibiendo la se presente en la Inquisición de Mallorca y pasar adelante la ejecución y pedir mandamiento de pago por todo y si fuere menester renover de nuevo las finanzs y dar dichas para la seguridad de que la parte contraria no pueda tener ocasión de que asir en la ejecución pues hoy esta corriente con este despacho, y avisarme del recibo del que el otro duplicado le remitiré por Barcelona a 26 de este al conde de Zavella, en lo demás me remito a la carta que va a parte. Guarde Dios a v. m. muchos años. Madrid 23 de marzo 1661. besa la mano de v. m. su mayor servidor Diego Matias de Aragues Sr. don Pedro Santacilia y Pax [1§] Transcripción literal"
+  ],
+  "literal": [
+    "1. Por el pliego que ba de su Magd para el sr. 2. Virey por Valencia ba con esta la exria 3. deste Conso supremo de la Inquision que he obtenido 4. en el pleyto con el sr. Canonigo Togores ba 5. en toda forma, VM me hara que en reciviendo la 6. se presente en la Inqon de Mallorca y pasar 7. adelante la exon y pidir mandamto de pago 8. por todo y si fuere menester renover de nuevo 9. las finanzss y dar dichas para la seguridad 10. de que la parte contraria no pueda tener ocasion 11. de que assir en la exon pues oy esta corriente 12. con este despacho, y avisarme del recivo del 13. que el otro duppdo le remitire por Barcelona 14. a 26 deste al sr. Conde de Cavalla, en 15. lo demas me remito a la carta que ba a parte 16. gde Dios a VM muchos años. Md 23 de 17. Marzo 1661. 18. Besa la mano de VM 19. su mayor seror 20. Diego Mathias de Aragues 21. [^Sr. don Pedro Santacilia y Pax^] [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "418:5331.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo11/418:5331.JPG",
+      "url": "/legajos/legajo-11/images/418:5331.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "418:5331.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (3)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-11/cartas/001476.json",
+  "primary_image_url": "/legajos/legajo-11/images/418:5331.JPG"
+}

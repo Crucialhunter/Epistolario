@@ -1,0 +1,38 @@
+{
+  "legajo_id": "21",
+  "id_carta": "3541",
+  "order_in_legajo": 230,
+  "signatura": "417:5829.JPG",
+  "nombre_carta": "Carta de Josep Lázaro Jiménez a Pedro Santacilia y Pax",
+  "fecha_original": "5 de enero de 1644",
+  "lugar": "Mallorca",
+  "remitente": "Josep Lázaro Jiménez",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "No le haga a v. s. novedad el que m heaya vuelto a hacer otra vez ultramarino, y siempre de v. s. pues me hallo dispuesto a todo lo que fuere de su servicio. En el mismo bajel que yo he venido, se embarcó Jaime Mesquida hermano del Juez muerto, hame pedido enviará a v. s. la que va con esta. Sospecho que quiere auxiliarse del favor de v. s. sobre intereses de la hacienda de sus hermanos. También se lo suplico a v. s. que se obrará de piedad porque se halla pobre. v. s. me mande y guarde como deseo. Mallorca y enero 5 de 1644. Besa a v. s. su mano Josep Lazaro Jimenez Sr. gobernador Transcripción literal"
+  ],
+  "literal": [
+    "1. No le haga a Vs. novedad el que meaya buelto a 2. hacer otra Vez ultramarino, y siempre de VS 3. pues me hallo dispuesto atodo lo que fuere de 4. su servicio 5. En el mismo Vaxel que yo he venido, se embarco 6. Jaime Mesquida hero del Juez muerto, hame 7. pidido embiara avs. la que va con esta 8. sospecho que quiere ausiliarse del favor de 9. Vs. sobre intereses de la hacienda desus herma10. nos, tambien selo sup[li]co avs. que se obrara de 11. piedad porque se halla pobre Vs me 12. mande y gde como deseo . Mallorca y 13. enero 5 de 1644 14. B a vs. s m 15. Josep Lazaro Gimenez16. [Margen izquierdo][^ Sr Governador] [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "417:5829.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo21/417:5829.JPG",
+      "url": "/legajos/legajo-21/images/417:5829.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "417:5829.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (2)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-21/cartas/003541.json",
+  "primary_image_url": "/legajos/legajo-21/images/417:5829.JPG"
+}

@@ -1,0 +1,32 @@
+{
+  "legajo_id": "40",
+  "id_carta": "5712",
+  "order_in_legajo": 49,
+  "signatura": "125:64",
+  "nombre_carta": "Carta de Persona desconocida a Persona desconocida",
+  "fecha_original": "fecha sin especificar",
+  "lugar": "Mallorca",
+  "remitente": "Persona desconocida",
+  "destinatario": "Persona desconocida",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Llista del que he pagat per les colcadures que portaren de Formentor al Sr. don Pedro de Santacilia y el doctor Joan Baptista de Magarola en Pollença, són les següents [1§] Transcripción literal"
+  ],
+  "literal": [
+    "1. Llista de lo que he pagat per las coalcadures qui aportaran de Formantor a lo Sr don Petro de Sta Silia y lo Sr doctor Joan Bapª de Magarola en Poll[enç]a son los saguents"
+  ],
+  "imagenes": [
+    {
+      "filename": "125:64.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo40/125:64.JPG",
+      "url": "/legajos/legajo-40/images/125:64.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "125:64.JPG",
+  "warnings": [],
+  "raw_source": "raw/legajos/legajo-40/cartas/005712.json",
+  "primary_image_url": "/legajos/legajo-40/images/125:64.JPG"
+}

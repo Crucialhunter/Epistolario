@@ -1,0 +1,48 @@
+{
+  "legajo_id": "32",
+  "id_carta": "7249",
+  "order_in_legajo": 226,
+  "signatura": "356:2007a.JPG",
+  "nombre_carta": "Carta de José Balell a Pedro Santacilia y Pax",
+  "fecha_original": "19 de diciembre de 1666",
+  "lugar": "Barcelona",
+  "remitente": "José Balell",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Transcripción literal"
+  ],
+  "literal": [
+    "1. 1. 1."
+  ],
+  "imagenes": [
+    {
+      "filename": "356:2007a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo32/356:2007a.JPG",
+      "url": "/legajos/legajo-32/images/356:2007a.JPG"
+    },
+    {
+      "filename": "357:2007b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo32/357:2007b.JPG",
+      "url": "/legajos/legajo-32/images/357:2007b.JPG"
+    },
+    {
+      "filename": "358:2007c.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo32/358:2007c.JPG",
+      "url": "/legajos/legajo-32/images/358:2007c.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "356:2007a.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-32/cartas/007249.json",
+  "primary_image_url": "/legajos/legajo-32/images/356:2007a.JPG"
+}

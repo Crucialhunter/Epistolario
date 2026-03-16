@@ -1,0 +1,42 @@
+{
+  "legajo_id": "31",
+  "id_carta": "6936",
+  "order_in_legajo": 175,
+  "signatura": "255:1687a.JPG",
+  "nombre_carta": "Carta de Joan Martorell Squella a Pedro Santacilia y Pax",
+  "fecha_original": "10 de septiembre de 1663",
+  "lugar": "Palma",
+  "remitente": "Joan Martorell Squella",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "[1§] [2§] [3§] Transcripción literal"
+  ],
+  "literal": [
+    "1. 1. 1."
+  ],
+  "imagenes": [
+    {
+      "filename": "255:1687a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo31/255:1687a.JPG",
+      "url": "/legajos/legajo-31/images/255:1687a.JPG"
+    },
+    {
+      "filename": "256:1687b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo31/256:1687b.JPG",
+      "url": "/legajos/legajo-31/images/256:1687b.JPG"
+    },
+    {
+      "filename": "257:1687c.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo31/257:1687c.JPG",
+      "url": "/legajos/legajo-31/images/257:1687c.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "255:1687a.JPG",
+  "warnings": [],
+  "raw_source": "raw/legajos/legajo-31/cartas/006936.json",
+  "primary_image_url": "/legajos/legajo-31/images/255:1687a.JPG"
+}

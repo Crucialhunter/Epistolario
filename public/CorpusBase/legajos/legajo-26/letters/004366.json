@@ -1,0 +1,57 @@
+{
+  "legajo_id": "26",
+  "id_carta": "4366",
+  "order_in_legajo": 101,
+  "signatura": "140:3460a.JPG",
+  "nombre_carta": "Carta de Francisco de Leguaio a Pedro Santacilia y Pax",
+  "fecha_original": "16 de septiembre de 1641",
+  "lugar": "Génova",
+  "remitente": "Francisco de Leguaio",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Sr. mío no escribí a v. m. el otro día porque no tuve lugar de añadir nada a lo que contenia la carta que iba en nombre de su excelencia de mi letra, pero ya habrá dicho a v. m. el Sr. don Antonio de Velasco lo que todos nos acordamos de la merced que nos hizo y que entre los obligados me tengo siempre por el más fiel servidor de v. m. Hasta ahora no hemos salido del misterio de la jornada de su excelencia pero ello esperamos por instantes que ya ha salido de Nápoles una galera que trae un embajador del virrey que ha de descubrir este encanto y no tenemos premisas de que ha de ser demasiado de malo, en sabiéndolo lo avisaremos luego a v. m. Como se perdió con que es la tercera plaza que este año nos han ganado los franceses en el Piamonte, pero ninguna en todo el de la consecuencia que esta y con tales circunstancias que no será lo menos la plaza. Todo va [1§] muy cuesta abajo y más este estado que tampoco cuidan de asistirle. V. m. me haga merced. de remitir esa carta al capitán Aguilar nro. amigo y sino hubiere pasado de hoy el Sr. don Antonio de Velasco que se fue en un bajel inglés que había de llegar a ese puerto darle de mi parte muchos recados y que se acuerde del que le suplica. Guarde Dios a v. m. como deseo. Génova y setiembre 16 de 1641. Don Francisco de Leguaio Sr. D. Pedro Santacilia [1§] Génova 16 Septiembre 1641 S. Fco. de Leguaio Transcripción literal"
+  ],
+  "literal": [
+    "1. Sr. mio no escribi a Vm el otro dia porque no tube lugar de2. añadir nada a lo que contenia la carta que yba en nonbre3. de Su Exª de mi letra, pero ya abra dicho a Vm el Sr. Don4. Antº de Velasco lo que todos nos acordamos de la mrd. que5. nos hizo y que entre los obligados me tengo sienpre por6. el mas fiel servidor de Vm.7. Hasta aora no emos salido del misterio de la jornada8. de Su Exª pero lo esperamos por ynstantes que ya a salido9. de Napoles una galera que trae un enbaxador del Sr. Virrey10. que a de descubrir este encanto y no tenemos premissas de11. que a de ser demasiado de malo, en saviendolo lo avisaremos12. luego a Vm13. Cumo se perdio con que es la tercera plaça que este14. año nos an ganado los franzesses en el piamonte pero nin15. guna en todo el de la consequencia que esta y con tales16. çircunstançias que no sera lo menos la plaça, Todo ba [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "140:3460a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo26/140:3460a.JPG",
+      "url": "/legajos/legajo-26/images/140:3460a.JPG"
+    },
+    {
+      "filename": "141:3460b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo26/141:3460b.JPG",
+      "url": "/legajos/legajo-26/images/141:3460b.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "140:3460a.JPG",
+  "warnings": [
+    {
+      "code": "IMAGE_DOWNLOAD_FAIL",
+      "message": "HTTP 404",
+      "context": {
+        "url": "http://santacilia.info/intranet2/img/Legajo26/140:3460a.JPG"
+      }
+    },
+    {
+      "code": "IMAGE_DOWNLOAD_FAIL",
+      "message": "HTTP 404",
+      "context": {
+        "url": "http://santacilia.info/intranet2/img/Legajo26/141:3460b.JPG"
+      }
+    },
+    {
+      "code": "IMAGE_COUNT_MISMATCH",
+      "message": "Imágenes detectadas (2) != descargadas (0)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-26/cartas/004366.json",
+  "primary_image_url": "/legajos/legajo-26/images/140:3460a.JPG"
+}

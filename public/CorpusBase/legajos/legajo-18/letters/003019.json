@@ -1,0 +1,43 @@
+{
+  "legajo_id": "18",
+  "id_carta": "3019",
+  "order_in_legajo": 53,
+  "signatura": "085:4858a.JPG",
+  "nombre_carta": "Carta de Basilio de Castellví y Ponce a Pedro Santacilia y Pax",
+  "fecha_original": "8 de julio de 1662",
+  "lugar": "Valencia",
+  "remitente": "Basilio de Castellví y Ponce",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Señor mío, Los días pasados escribí a v. s., solicitando nuevas de su salud, que las deseo muy buenas, y entonces avisé a v. s. la mejoría del señor d. Juan. Y como quedan en casa de Diego Matias de Aragues de quien remití un pliego, en la estafeta pasada he tenido el incluso y aviso a v. s. de que se continúa la mejoría y que el enfermo queda muy convalecido de que repito a v. s. la enhorabuena con mucho alborozo y espero muy aprisa saldrá su M. de casa enteramente bueno. Las novedades de acá se reducen a que siendo así que el marques de Camarasa subió consultado en primer lugar para el gobierno de Cerdeña, se dio al Pre. Ludovico virrey de Aragón y general de las galeras de aquel reino con que parece han querido juntar los dos puestos de virrey y general en un sujeto. Aquí ha corrido voz y en Madrid daban este gobierno al señor duque de Sarmoneta, pero hasta ahora no hay novedad ninguna. El ejército va caminando la tirará adentro pero juzgo se retirará por los grandes calores hasta septiembre. En lo del valido no hay cosa particular sino que en el sentir de todos corre por el señor duque de Medina de las Torres y hay muchas razones para verlo así. El señor marques de Castelrodrigo paso por aquí corriendo la posta, llegó a Madrid y en el mismo traje del camino besó la mano a v. m. de quien fue muy bien ad [1§] mitido y se juzga no volverá a Barcelona y me lo parece por lo pocos cariños que llevó a aquel gobierno. No se me ofrece otra cosa que decir a v. s., cuya vida guarde Dios los muchos años que deseo en compañía de mi sra. dña. Leonor cuyas manos con las de v. s. besamos dña. Laura Jusepe y yo. Valencia y julio a 8 de 1662. Besa a v. s. la mano su mayor servidor, don Basilio de Castellvi y Ponce Sr. D. Pedro de Santacilia y Pax [2§] Transcripción literal"
+  ],
+  "literal": [
+    "1. Señor mio los dias pasados escrivi a VS, soliçítando 2. nuevas desusalud. quelas deseo muy buenas y entonzes 3. avise a VS. lamexoria delseñor Dn Juan ycomo quedan 4. en cassa de Diego Mathias de Araguez de quien remiti 5. unpliego, en la estafetapasada hetenido el Inclusso 6. y abiso a VS deque se continua lamexoria y que 7. El enfermo queda muy conbaleçido deque repito a VS 8. la Norabuena con mucho Alboroco y espero muy aprisa 9. saldrasumd decasa enteramte bueno. 10. Las noevdades de acase leduren aquesiendo assi q elsr 11. Marques de Camarasa subio consultado enprimer 12. lugar para el Gobierno de Cerdeña sedio ael Pre 13. Ludovico Virey de Aragon y General de las Galeras 14. de aquel reyno conque pareze hanquerido juntar 15. los dos puestos de Virey y general en unsujeto 16. Aqui acorrido voz yen Madrid davan este Gobierno 17. aelseñor. Duque desarmoneta pero hasta aora no ay 18. novedad ninguna, el exto ba caminando la tirara 19. adentro pero juzgo se retirara por los grandes calores hasta 20. septiembre, enlo del Valido no ay cosaparticular 21. sinoque enelsentir de todos correpor elseñor. Duque de 22. Medina delas Torres y ay muchas raçones para verlo assi 23. elseñor. Marqs de Castel Rodrigo paso por aqui 24. corriendo laposta llego a Md y enel mesmo Traje del 25. Camino beso lamano a Vmd. de quien fue muy bien ad [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "085:4858a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo18/085:4858a.JPG",
+      "url": "/legajos/legajo-18/images/085:4858a.JPG"
+    },
+    {
+      "filename": "086:4858b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo18/086:4858b.JPG",
+      "url": "/legajos/legajo-18/images/086:4858b.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "085:4858a.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-18/cartas/003019.json",
+  "primary_image_url": "/legajos/legajo-18/images/085:4858a.JPG"
+}

@@ -1,0 +1,43 @@
+{
+  "legajo_id": "10",
+  "id_carta": "1217",
+  "order_in_legajo": 85,
+  "signatura": "150-384a",
+  "nombre_carta": "Carta de Miguel Sancho a Jerónimo Pelegrín de Aragüés",
+  "fecha_original": "24 de octubre de 1668",
+  "lugar": "Alicante",
+  "remitente": "Miguel Sancho",
+  "destinatario": "Jerónimo Pelegrín de Aragüés",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Señor mío, La carta de v. m. de 20 del corriente tengo recibida a 22 con las cartas para el señor don Pedro. V. m. ha hecho muy bien avisarme del crédito de Antonio Basset, que encontinente me dio carta para Madrid para que se pague y encontinente remití a Madrid al señor don Pedro juntamente con las demás cartas y le di aviso de todo. V. m. ya sabe que en esto y en cuanto fuere de su gusto siempre me tiene muy pronto. Y he sentido mucho la muerte del regente: Dios le tenga en el Cielo, que cierto era buen amigo y señor me hacía mucha merced. El señor don Josep Descals se halla en un lugar [a] diez leguas de Alicante y he dado aviso, y lo mismo he hecho al señor don Luis. V. m. me mande lo de su gusto y Dios le guarde. Alicante y octubre, 24 de 1668. Servidor de v. m. su mayor amigo que sus manos besa, Miguel Sancho. Sr. Jeronimo Pelegrin [1§] A Jeronimo Pelegrin, que Dios guarde. Mallorca. Miguel Sancho Transcripción literal"
+  ],
+  "literal": [
+    "1. Señor mio la carta de V.M. de 20 del corriente tengo 2. recivida a 22 con las cartas para el Sr. don Pedro 3. V.M. ha hecho muy bien avisarme del credito de 4. Antonio Baset que en continente medio carta 5. para Madrid para que se pague y en continente 6. remiti a Madrid al Sr. Don pedro junta 7. mente con las demas cartas y le di aviso de todo 8. V.M. ya sabe que en esto y en quanto fuere de 9. su gusto siempre me tiene muy prompto 10. y he sentido mucho la muerte del Sr. 11. Regente dios le tenga en el cielo que sierto era 12. buen amigo y me hazia mucha md el sr. Don 13. Jusepe Descals se halla en un lugar diez leguas 14. de Alicante y he dado aviso y lo mismo he hecho 15. al Sr. Don Luis. V.M. me mande lo de su gusto 16. y dios le gde Alicante y octte 24 de 1668 17. Seror de V.M. su mayor 18. amigo q s m b 19. Miguel Sancho.20. [^Sr. Geronimo Pelegrin^] [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "150-384a.jpg",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo10/150-384a.jpg",
+      "url": "/legajos/legajo-10/images/150-384a.jpg"
+    },
+    {
+      "filename": "151-384b.jpg",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo10/151-384b.jpg",
+      "url": "/legajos/legajo-10/images/151-384b.jpg"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "150-384a.jpg",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING",
+      "message": "Se detectaron caracteres sospechosos de encoding (4)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-10/cartas/001217.json",
+  "primary_image_url": "/legajos/legajo-10/images/150-384a.jpg"
+}

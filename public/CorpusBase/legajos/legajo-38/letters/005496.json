@@ -1,0 +1,38 @@
+{
+  "legajo_id": "38",
+  "id_carta": "5496",
+  "order_in_legajo": 117,
+  "signatura": "039:20",
+  "nombre_carta": "Carta de Escrivà Miralles a Persona desconocida",
+  "fecha_original": "1 de enero de 1667",
+  "lugar": "Alaró",
+  "remitente": "Escrivà Miralles",
+  "destinatario": "Persona desconocida",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Delme de bestiars Alaró de l'any 1667 lliu rat a Juan Rossello als Gelat de la vila de Binisalem per. fiancas Vicens Amengual als Quiam. de la vila de Selva habitador en la de Sancelles i Juan Marti de Binisalem als Rego Sba. Miralles Sr. D. Juan Bautista Zaforteza mensari Sr. don Diego Clapes mensari Sr. D. Ramon Sureda Canongi mensari Antoni Piza menor Ador. del Bisbat Pere Onofre Mayol pdor. de la mensa Ca pitular [1§] Transcripción literal"
+  ],
+  "literal": [
+    "1. Delme de bestiars Alero de la[ny 1667 lliu-]2. rat a Juan Rossello als. Gelat [de la vila] 3. de Binisalem per [...]4. ff[ianc]as5. Vicens Amengual als. Quiam [... de la]6. vila de Selva habitador en la de7. Sancellas y8. Juan Marti de Binisalem als. Rego9. Sba. Miralles10. D. Juan Bapt[ist]a Saforteza mens[ari]11. Don Diego Clapes mens[ari]12. D. Ramon Sureda Canongi mensari13. Antoni Piza me[nor] Ador. del Bisbat 14. Pere Honofre Mayol 15. pdor. de la mensa Ca-16. pitular [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "039:20.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo38/039:20.JPG",
+      "url": "/legajos/legajo-38/images/039:20.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "039:20.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (2)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-38/cartas/005496.json",
+  "primary_image_url": "/legajos/legajo-38/images/039:20.JPG"
+}

@@ -1,0 +1,43 @@
+{
+  "legajo_id": "21",
+  "id_carta": "3493",
+  "order_in_legajo": 181,
+  "signatura": "334:5781a.JPG",
+  "nombre_carta": "Carta de Pedro Fajardo de Requeséns-Zúñiga y Pimentel (V marqués de los Vélez) a Pedro Santacilia y Pax",
+  "fecha_original": "4 de noviembre de 1639",
+  "lugar": "Pamplona",
+  "remitente": "Pedro Fajardo de Requeséns-Zúñiga y Pimentel (V marqués de los Vélez)",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "La carta de v. m. de ayer he recibido de mano del capitán don Juan Vivot, y hemos ajustado de la manera que sea de portar en su cuartel y ofrecídome será haciendo todo buen pasaje a los Vezos. de la villa de Lumbier a donde está alojado y teniendo v. m. la mano en esto, espero procurará disponerlo de manera que todos estén contentos y con conmodidad y díceme v. m. se necesita mucho vaya una persona a ajustar los alojamientos por la descomodidad con que estan, y así partirá mañana y llevará entendida la matraña para su mejor disposición, procurando su conveniencia de v. m. y conservan de los naturales, y también lasbores sobre la contribución que han de hacer. La licencia se dio al ayudante y a todo lo que a v. m. se le ofrecere acudiré con mucho gusto. Guarde Dios a v. m. mu [?], Pamplona 11 de noviembre 1639. El marques de los Velez Sr. D. Pedro Santacilia [1§] Pamplona 4 Noviembre 1639 El marques de los Velez rdo. Transcripción literal"
+  ],
+  "literal": [
+    "1. La carta de Vm de ayr he Recevído de 2. Mano del Cappa Don Juan Bibot: y e3. mos ajustado dela Manera que sea de 4. PorJar En su quartel y offrezidome sera 5. haziendo todo buen pasaxe alos Vezos de 6. la Villa de lumbier a donde Esta alojado 7. y Teniendo Vm. la Mano Enesto. Espon 8. Procurara disponerlo de Manera: q todos 9. esten conjenosos y con conmodidady 10. Dise me Vm senecesita mucho Vaya Una 11. Perssona a ajustar los alojamtos por la des12. conmodidad con questan: y asi partira ma13. ñana y llevara Entendida la Matraña 14. para su Mexor disposizion Procurandosu 15. combeniencia de Vm. y conservazn delos Na16. turales : y tamvien las hores sobre la contri17. buzn que hande hazer : la liza se dio al 18. ayudante : y a todo lo que a Vm seleofrecere 19. acudire conmucho gusto ge Dios a Vm mu20. yora Pampa 11 de Novie 1639 21. El Marqs delos veles22. [Margen izquierdo][^ sr D Po Sanctaçilia] [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "334:5781a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo21/334:5781a.JPG",
+      "url": "/legajos/legajo-21/images/334:5781a.JPG"
+    },
+    {
+      "filename": "335:5781b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo21/335:5781b.JPG",
+      "url": "/legajos/legajo-21/images/335:5781b.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "334:5781a.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (5)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-21/cartas/003493.json",
+  "primary_image_url": "/legajos/legajo-21/images/334:5781a.JPG"
+}

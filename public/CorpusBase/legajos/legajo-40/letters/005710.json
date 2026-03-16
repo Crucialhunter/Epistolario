@@ -1,0 +1,37 @@
+{
+  "legajo_id": "40",
+  "id_carta": "5710",
+  "order_in_legajo": 84,
+  "signatura": "122:62a",
+  "nombre_carta": "Carta de Persona desconocida a Persona desconocida",
+  "fecha_original": "9 de enero de 1653",
+  "lugar": "Mallorca",
+  "remitente": "Persona desconocida",
+  "destinatario": "Persona desconocida",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Llista dels papers i el {ESP. demés} que resta en mon poder del Sr. don Francisco Magarola avui als 9 gener 1653 [1§] Transcripción literal"
+  ],
+  "literal": [
+    "1. Llista dels papes y lo demes que resta en mon poder del Sr. Don Fran[cis]co Magarola vuy als 9 Jener 1653"
+  ],
+  "imagenes": [
+    {
+      "filename": "122:62a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo40/122:62a.JPG",
+      "url": "/legajos/legajo-40/images/122:62a.JPG"
+    },
+    {
+      "filename": "123:62b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo40/123:62b.JPG",
+      "url": "/legajos/legajo-40/images/123:62b.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "122:62a.JPG",
+  "warnings": [],
+  "raw_source": "raw/legajos/legajo-40/cartas/005710.json",
+  "primary_image_url": "/legajos/legajo-40/images/122:62a.JPG"
+}

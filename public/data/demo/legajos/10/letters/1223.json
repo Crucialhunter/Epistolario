@@ -1,0 +1,35 @@
+{
+  "id_carta": "1223",
+  "url_origen": "http://santacilia.info/info_carta2.php?id=1223",
+  "legajo": 10,
+  "signatura": "160-390a",
+  "nombre_carta": "Carta de Pedro Santacilia y Pax a Jerónimo Pelegrín de Aragüés",
+  "fecha": "6 de noviembre de 1668",
+  "lugar": "Madrid",
+  "remitente": "Pedro Santacilia y Pax",
+  "destinatario": "Jerónimo Pelegrín de Aragüés",
+  "temas": "Sin especificar",
+  "idioma": "castellano",
+  "resumen": "Lorem ipsum ad his scripta blandit partiendo, eum fastidii accumsan euripidis in, eum liber hendrerit an. Qui ut wisi vocibus suscipiantur, quo dicit ridens inciderint id. Quo mundi lobortis reformidans eu, legimus senserit definiebas an eos. Eu sit tincidunt incorrupte definitionem, vis mutat affert percipit cu, eirmod consectetuer signiferumque eu per. In usu latine equidem dolores.",
+  "transcripcion": {
+    "modernizada": "Nuevas mejores se aguardan de haber tomado los montes donde es nacido el señor don Juan, que fueron a prender en Consuegra. Que las que me escribes cuanto menos se discurriere en estas materias lo tendré por acertado, porque será de mala digestión, y materias donde se atravesarán provincias si Dios no las remedia y demás malas consecuencias que haber salido el dr. Guells después de muerto. Del buen regente me pesa, que era muy buen ministro y merecen sus hijos y casa remuneraciones. Yo no dejaré de decirlo siempre y procuraré por los amigos, aunque acá hay un enjambre de pretendientes, y como ven la carestía con que está este lugar, todos desean puestos para comer. Dios te guarde como deseo. Madrid y noviembre, 6 de 1668. {CAT. A tots els de la casa de Berga que els escriuré llargament i prenguin esta per pròpia i amb el vell que n'he rebudes dues en resposta dues i Anna diu que doncs està demanada que la vull portar ací per casar-la}. Don Pedro. Jeronimo [1§] A Jeronimo Pelegrin de Aragues, Dios guarde. Mallorca.",
+    "literal": "1. Nuevas majores se aguardan de haver tomado los montes donde has 2. nacido el señor don Juan, que fueron a prender en Consuegra 3. que la que q las q meescriues quanto menos se discurriere en estas mate 4. riaslo tendre por acertado porque sera de mala digestion, y 5. materias donde se atravessaran provincias si Dios no las 6. remedia, y de mas malas consequencias que haver salido el 7. Dr. guells despues de muerto; del buen Regente me pesa 8. que era muy buen ministro, y merecen sus hijos y casa remu 9. neraciones jo no dexare de desirlo siempre, y procurare 10. por los amigos, aunque aca ay un axambre de pretendientes 11. y como ven la carestia con que esta este lugar todos desean puestos 12. para comer. Dios te gde como deseo. Md y noviembre 6 de 1668. 13. A tots los de la casa de Berga quels escriure llargament 14. y prengan esta per propia y an el vell que ne rebudas 15. duas en resposta duas y Ana diu que pues esta demannada 16. que la vull a portar assi per cassarla 17. . Don Pedro.18. [^Geronimo^] [☞]"
+  },
+  "imagenes": [
+    {
+      "src": "/data/demo/legajos/10/images/1223__01__160-390a.jpg",
+      "order": 1,
+      "originalFilename": "160-390a.jpg"
+    },
+    {
+      "src": "/data/demo/legajos/10/images/1223__02__161-390b.jpg",
+      "order": 2,
+      "originalFilename": "161-390b.jpg"
+    }
+  ],
+  "capturado_en": "2026-02-25T17:27:19.347Z",
+  "hasImages": true,
+  "primaryImage": "/data/demo/legajos/10/images/1223__01__160-390a.jpg",
+  "previousCartaId": "1222",
+  "nextCartaId": "1224"
+}

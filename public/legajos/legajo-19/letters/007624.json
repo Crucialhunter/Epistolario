@@ -1,0 +1,48 @@
+{
+  "legajo_id": "19",
+  "id_carta": "7624",
+  "order_in_legajo": 323,
+  "signatura": "247_cg106a",
+  "nombre_carta": "Carta de Jerónimo Pelegrín de Aragüés a Persona desconocida",
+  "fecha_original": "11 de febrero de 1668",
+  "lugar": "Mallorca",
+  "remitente": "Jerónimo Pelegrín de Aragüés",
+  "destinatario": "Persona desconocida",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Me. Gabriel Homs donareu al Sen Juan Caldentei Coher de cassa mija quartera d'ordi i mija de civada ques per serbei del bestiar de cassa de mi Sr. Don Pº. Sta, @ 11 de febrer 1668 De ordre de mi Sr. Jeroni Pelegri dich ____ 3 que d'ordi dich ____ 3 que civada val la mitja que d'ordi mitja de civada 27 sous [1§] Me. Gabriel Thomas donareu al se'n Juan Caldentei cocher de cassa de mi Sr. Don Pº. mija quartera d'ordi i mija de sibada que és per lo cavall del Sr. Don Juan fet als 22 de feb. 1668. d'ordre de mi Sr. Jeroni Pelegri Mitja quartera de civada val 12 dous Mitja quartera d'ordi val 15 sous [2§] Mestre Gabriel Thomas donareu per compte del Sr. Don Juan de Santacilia una qra. d'ordi i una de sibada ço es els dies passats de que no tenien polica mija qª. d'ordi i mija de sibada que donareu per dita ordre al Sen Juan Caldentei coher de cassa i esta del dia de bui que son tot dos quarteres com tinc dit, fet als 26 de Marts 1668 dich De ordre del Sr. Don Juan de Santacilia a Jeroni Pelegri Val la quartera d'ordi 32 val la civada 24 [3§] Transcripción literal"
+  ],
+  "literal": [
+    "1. Me. Gabriel Homs donareu al Sen Juan Caldentei Coher de cassa 2. mija quartera de ordi i mija de sivada ques per serbei del 3. bestiar de cassa de mi Sr. Don Pº. Sta, @ 11 de febrer 4. 1668 5. De orde de mi Sr. Geronim Pelegri 6. dich ____ 3 q de ordi 7. dich ____ 3 q. sivada 8. val la mitga q de ordi mitja de sivada 9. 27 sous [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "247_cg106a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo19/247_cg106a.JPG",
+      "url": "/legajos/legajo-19/images/247_cg106a.JPG"
+    },
+    {
+      "filename": "248_cg106b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo19/248_cg106b.JPG",
+      "url": "/legajos/legajo-19/images/248_cg106b.JPG"
+    },
+    {
+      "filename": "249_cg106c.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo19/249_cg106c.JPG",
+      "url": "/legajos/legajo-19/images/249_cg106c.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "247_cg106a.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (4)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-19/cartas/007624.json",
+  "primary_image_url": "/legajos/legajo-19/images/247_cg106a.JPG"
+}

@@ -1,0 +1,38 @@
+{
+  "legajo_id": "26",
+  "id_carta": "4295",
+  "order_in_legajo": 32,
+  "signatura": "040:3389.JPG",
+  "nombre_carta": "Carta de Enrique de Aragón (VI duque de Cardona) a Pedro Santacilia y Pax",
+  "fecha_original": "21 de agosto de 1630",
+  "lugar": "Lucena",
+  "remitente": "Enrique de Aragón (VI duque de Cardona)",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "No ha menester assegurarme v. m. de lo que [?] tan conocido como los efectos de su animo, pues tengo [?] sin duda que así como se aventajó en sentir [?] teniendo de la duquesa habrá celebrado el haberse librado de ellas y caminar también en su convalecencia ambas cosas me tienen consoladísimo y con seguridad de que muy presto se hallará de manera que no se conozca lo que ha padecido. Estimo sus finezas de v. m. en acudir a ver a Antonio y deseo ya estar presos varios para demás cerca poderle servir todo a v. m. y así lo voy procurando. Dios lo encamine y guarde a v. m. muchos años. Lucena 21 de agosto 1630. V. m. es buen amigo, yo lo soy suyo sin que me lleve ventaja en eso. Muy suyo [?] Sr. don Pedro de Santacilia Transcripción literal"
+  ],
+  "literal": [
+    "1. No ha menester asegurame V.m. de lo que [...]2. tan conocido como los efestos de su animo, pues teng[...]3. sin duda q assi como se aventajo en sentir [...]4. teniendo de la duquessa, abra celebrado el haverse5. librado dellas y caminar tan bien en su convalecencia6. ambas cossas me tienen consoladisimo y con seguridad de7. q muy presto se hallara de mra q no se conozca lo q a pade8. çido estimo sus finezas de V.m. en acudir a ver a Antº9. y deseo ya estar presos varios para demas cerca poderle10. servir todo a V.m. y asi lo voy procurando Dios lo encamine11. y gde. a V.m. muchos a< ño>s Luzena 21 de Agosto 163012. Vm es buen amygo yo lo soy suyo13. syn que me llebe bentaja enesso14. Muy suyo [?]15. [?]16. Sr. Don Pº de Sta. Cilia [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "040:3389.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo26/040:3389.JPG",
+      "url": "/legajos/legajo-26/images/040:3389.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "040:3389.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-26/cartas/004295.json",
+  "primary_image_url": "/legajos/legajo-26/images/040:3389.JPG"
+}

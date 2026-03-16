@@ -1,0 +1,45 @@
+{
+  "legajo_id": "26",
+  "id_carta": "4328",
+  "order_in_legajo": 64,
+  "signatura": "090:3422.JPG",
+  "nombre_carta": "Carta de Pedro Paracuellos a Pedro Santacilia y Pax",
+  "fecha_original": "7 de diciembre de 1639",
+  "lugar": "Zaragoza",
+  "remitente": "Pedro Paracuellos",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Señor y dueño, a v. s. con la salud que sus servidores deseamos, yo en particular he menester, tres o cuatro veces escrito y remitido los pliegos que han llegado y ahora van las cartas de don Pedro Mari. Yo hasta ahora no sé que haya [?] si acaso los hay los remitiré con toda puntualidad. Del señor don Justo, téngale Dios en el Cielo, ha llegado hoy la nueva que es muerto, buen caballero y paisano. No hay otra cosa de nuevo de Salsas. De Madrid tuve carta de don Feliciano [?] y me da noticia de su buena salud y de la leva de don César que entiendo estará aquí de hoy en ocho días. Yo estoy aguardando a v. s. me emplee en cosas de su gusto, pues mis mayores medios es servirle. Al Sr. don Juan Vivot escrito y al teniente don Pedro no he tenido nueva de v. s., ni de sus mercedes a la que han llegado unos soldados de la compañía de don Juan a esta ciudad a sentar plaza. En todo estará disposición de v. s. a quien me le guarde el cielo los años de mi deseo, de Zaragoza Diciembre a 7 de lano 1639. Criado de v. s. Pedro Paracuellos Sr. D. Pedro Santacilia He ofrecido en el estudio del Sr. don Martin Bautista de Lanuza hacer esta el Sr. don Miguel Bautista besa a v. s. muy afectuoso hame dado muchos recados para v. s. Dice que lo que se le pidió por la [?] lo hizo con mucho cuidado y que le escribió a v. s. y no ha tenido respuesta. Es muy mío. A v. s. suplico me honre. Transcripción literal"
+  ],
+  "literal": [
+    "1. Señor y dueno,2. A VSa. con la salud que sus serbidores deseamos yo en particular3. e menester tres o cuatro beces escrito y remitido los pliegos q an4. legado y aora ban las cartas de don pedro marí lo asta ora no se q aya5. [?] si acaso los ay los remitir[e] con toda puntualidad del6. Señor don Justo tengale Dios en el cielo a legado y la nueba q es mu7. erto buen cabalero y paisano. No ay otra cosa de nuebo de Salsas8. de Madrid tube carta de don Feliciano [?] i me da noticia de9. su buena salud y de la leba de don Cesar quentiendo esta10. ra aqui de oy en ocho dias yo estoi aguardando VSa. me en11. plee en cosas de su gusto pues mi mayores medios es serbille12. Al Sr. don Juan Bibot escrito y al tiniente don Pedro no e tenido13. nueba de VSra. Ni de sus mercedes a la q an legado unos soldados14. de la compania de don Juan a esta ciudad a sentar placa15. en todo estara dispusicion de VSra. A quien me le ge. el cielo los16. anos de mi deseo de Caragoza decienbre a 7 de lano 17. 163918. Criado de VSra.19. Pedro Paracuellos20. Sr. D. Pº Santacilia21. [^e ofrecido en el estudio del Sr. don martin bautista22. de lanuca acer esta el Sr. don migel batista besa a VSa.23. muy afet. A me dado muchos recados para Vsa.24. dice q lo q se le pidio por la [?] lo yzo con mucho25. cuidado y q le escribio a VSa. y no a tenido respuesta26. Es mui Sr. mio A VSa. suplico me onre] [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "090:3422.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo26/090:3422.JPG",
+      "url": "/legajos/legajo-26/images/090:3422.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "090:3422.JPG",
+  "warnings": [
+    {
+      "code": "IMAGE_DOWNLOAD_FAIL",
+      "message": "HTTP 404",
+      "context": {
+        "url": "http://santacilia.info/intranet2/img/Legajo26/090:3422.JPG"
+      }
+    },
+    {
+      "code": "IMAGE_COUNT_MISMATCH",
+      "message": "Imágenes detectadas (1) != descargadas (0)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-26/cartas/004328.json",
+  "primary_image_url": "/legajos/legajo-26/images/090:3422.JPG"
+}

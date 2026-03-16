@@ -1,0 +1,46 @@
+{
+  "legajo_id": "36",
+  "id_carta": "7320",
+  "order_in_legajo": 66,
+  "signatura": "097:7795a",
+  "nombre_carta": "Carta de Josep de Rocabertí a Persona desconocida",
+  "fecha_original": "5 de octubre de 1652",
+  "lugar": "Ibiza",
+  "remitente": "Josep de Rocabertí",
+  "destinatario": "Persona desconocida",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Â Â Transcripción literal"
+  ],
+  "literal": [],
+  "imagenes": [
+    {
+      "filename": "097:7795a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo36/097:7795a.JPG",
+      "url": "/legajos/legajo-36/images/097:7795a.JPG"
+    },
+    {
+      "filename": "098:7795b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo36/098:7795b.JPG",
+      "url": "/legajos/legajo-36/images/098:7795b.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "097:7795a.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (7)",
+      "context": {}
+    },
+    {
+      "code": "MISSING_LITERAL",
+      "message": "Transcripción literal vacía",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-36/cartas/007320.json",
+  "primary_image_url": "/legajos/legajo-36/images/097:7795a.JPG"
+}

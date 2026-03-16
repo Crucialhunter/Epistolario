@@ -1,0 +1,38 @@
+{
+  "legajo_id": "14",
+  "id_carta": "2065",
+  "order_in_legajo": 166,
+  "signatura": "268:2576",
+  "nombre_carta": "Carta de Carlos Velázquez a Persona desconocida",
+  "fecha_original": "10 de marzo de 1662",
+  "lugar": "Palermo",
+  "remitente": "Carlos Velázquez",
+  "destinatario": "Persona desconocida",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Mi señor. Largamente tengo escrito a v. m. dándole cuenta de todo y ya partida la barca se ha ofrecido que este virrey ha dado patente de capitán a fray D. Joan de Villarro, el caballero del hábito de San Juan hijo del Sr. secretario y por ser de quien yo dependo en todos mis negocios y espero por medio suyo el conseguir la claridad de ellos y la persona del alférez Jaime Andres va por este efecto. Suplico a v. m. que con todas veras sea servido el facilitar que ese mozo tenga todo amparo en v. m. como si fuera por mi propia persona, que para mi será el mejor favor que v. m. me pueda hacer. Guarde Dios como yo deseo, de Palermo y marzo 10 1662. Sobrino de v. m. que sus manos beso,D. Carlos Velazquez Transcripción literal"
+  ],
+  "literal": [
+    "1. Mi señor Largamente tengo escrito a V.m.2. dandole quenta de todo y ya partida la barca3. sea offrecido que este Sr. Virey á dado paten=4. te de capitan á fra. D. Joan de Villarro5. el Cavallero del habito de St. Juan hico del6. Sr. secretario y por ser de quien io dependo7. en todos mis negocios y espero por medio8. suio el conseguir la claridat dellos y la9. persona del alferes Jaime Andres va10. por este effecto supplico á V.m que con11. todas veras sea servido el facilitar que12. esse mosso tenga todo emparo en V.m.13. como si fuera por mi propia persona14. que para mi sera el mecor favor que15. V.m. me pueda asser guarde Dios como16. io desseo de Palermo y Marso 10 166217. Sobrino de V.m. q18. sus manos beso D. Carlos19. Velasques [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "268:2576.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo14/268:2576.JPG",
+      "url": "/legajos/legajo-14/images/268:2576.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "268:2576.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-14/cartas/002065.json",
+  "primary_image_url": "/legajos/legajo-14/images/268:2576.JPG"
+}

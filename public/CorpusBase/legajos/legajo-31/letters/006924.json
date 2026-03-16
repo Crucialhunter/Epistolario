@@ -1,0 +1,48 @@
+{
+  "legajo_id": "31",
+  "id_carta": "6924",
+  "order_in_legajo": 164,
+  "signatura": "236:1675a.JPG",
+  "nombre_carta": "Carta de Basilio de Castellví y Ponce a Pedro Santacilia y Pax",
+  "fecha_original": "23 de agosto de 1663",
+  "lugar": "Valencia",
+  "remitente": "Basilio de Castellví y Ponce",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Transcripción literal"
+  ],
+  "literal": [
+    "1. 1. 1."
+  ],
+  "imagenes": [
+    {
+      "filename": "236:1675a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo31/236:1675a.JPG",
+      "url": "/legajos/legajo-31/images/236:1675a.JPG"
+    },
+    {
+      "filename": "237:1675b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo31/237:1675b.JPG",
+      "url": "/legajos/legajo-31/images/237:1675b.JPG"
+    },
+    {
+      "filename": "237:1675c.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo31/237:1675c.JPG",
+      "url": "/legajos/legajo-31/images/237:1675c.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "236:1675a.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-31/cartas/006924.json",
+  "primary_image_url": "/legajos/legajo-31/images/236:1675a.JPG"
+}

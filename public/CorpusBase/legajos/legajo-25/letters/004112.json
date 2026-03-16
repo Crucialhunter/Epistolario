@@ -1,0 +1,43 @@
+{
+  "legajo_id": "25",
+  "id_carta": "4112",
+  "order_in_legajo": 46,
+  "signatura": "093_146a.JPG",
+  "nombre_carta": "Carta de Juan García del Pozo a Jerónimo Pelegrín de Aragüés",
+  "fecha_original": "2 de mayo de 1667",
+  "lugar": "Soria",
+  "remitente": "Juan García del Pozo",
+  "destinatario": "Jerónimo Pelegrín de Aragüés",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Amo y señor mío. Muchos días ha[ce] que no he tenido carta de v. m. ni sabido de su salud que me tiene con mucho cuidado. Quiera su divina majestad dársela a v. m. tan cumplida como deseo y le ruego se acuerde de mi y particularmente en la deuda de los 30760 reales de plata que me debe la casa de Pascual de Buria, pues sabe v. m. que el difunto mando se me pagasen y su mujer se allanó a pagar esta deuda y yo he ofrecido a v. m. porque esto tenga efecto se sirva con la cantidad que le pareciere y hoy necesito más de este dinero por haberme faltado la mayor parte de mi hacienda, hallarme en esta tierra tan miserable y así confío en la merced que v. m. siempre me ha hecho la favorecerá para que yo consiga esta cobranza. Guarde Dios a v. m. como deseo. Soria y mayo 2 de 1667. Muy servidor de v. m. que sus manos besa Juan Garcia del Pozo Sr. Jeronimo Peregrin y Aragues [1§] Soria, 2 Mayo 1667, de Juan Garcia del Pozo Transcripción literal"
+  ],
+  "literal": [
+    "1. Amo y señor mio. Muchos dias a que no he te2. nido cartta de Vmd. ni savido de su salud3. que me tiene con mucho cuydado quiera su divina4. Magd. darsela a Vmd. tan cumplida como desseo5. y le rruego se aquerde de mi y particularm[en]te6. en la deuda de los 30060 Rs de plata7. que me deva la cassa de Pasqual de Buria pues save8. Vmd. que el difuntto mando se me pagassen9. y su muger se allano a pagar hesta deuda10. y go he ofrecido a Vmd. porque hesto tenga11. hefecto se sirva con la cantidad que le pa12. reçiere= y hoy neçesitto mas deeste dinero por13. aberme falttado la maior partte de mi14. açienda hallarme enesta tierra tan15. misserable y asi confio en la mrd. que Vmd.16. siempre me a hecho la favorecera para17. que yo consiga hesta cobranza. Gde Dios a Vmd.18. comod eseo Soria y mayo 2 de 166719. Muy ss[ervid]or de Vmd. q S M B S20. Joan Garcia del Pozo21. Sr. Geronimo Peregrin y araguez [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "093_146a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo25/093_146a.JPG",
+      "url": "/legajos/legajo-25/images/093_146a.JPG"
+    },
+    {
+      "filename": "094_146b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo25/094_146b.JPG",
+      "url": "/legajos/legajo-25/images/094_146b.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "093_146a.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (5)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-25/cartas/004112.json",
+  "primary_image_url": "/legajos/legajo-25/images/093_146a.JPG"
+}

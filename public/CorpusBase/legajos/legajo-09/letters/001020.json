@@ -1,0 +1,53 @@
+{
+  "legajo_id": "9",
+  "id_carta": "1020",
+  "order_in_legajo": 57,
+  "signatura": "085-42aa",
+  "nombre_carta": "Carta de Antonio Vellón a Arnau de Santacilia",
+  "fecha_original": "15 de abril de 1675",
+  "lugar": "Cremona",
+  "remitente": "Antonio Vellón",
+  "destinatario": "Arnau de Santacilia",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Señor mío, dos cartas recibo de v. m. una de 12 y otra de 19 de marzo y gozo sumamente se halle con buena salud que se la prospere Nuestro Señor largamente y por infinitísimos años. En cuanto a lo que pertenece a los intereses de su compañía y a que el sargento no se meta en nada a nadie eso muy bien lo ejecuto diversas veces a fin [de que] se le remitiese dinero. Por último me hice dar yo 500 libras, de las cuales remetí al ayudante Diego Alvarez, 300 para que de una vez se acaben los negocios que v. m. sabe con que ahora quedan en mi poder 300, y siempre estoy predicando al dicho sargento a efecto. [A partir de ahora se corresponde con la parte final de la carta] [1§] a v. m. sus manos y que están con grandes ansias de verlo cuanto antes en este estado al alférez nuevo de la compañía de v. m. y a Juan de Villanueva que v. m. me encomienda tendré muy presentes en las ocasiones que se ofrecieren de su servicio. Amigo y servidor de v. m. que us manos besa, Antonio Vellon Señor capitán don Arnau Santacilia [2§] se gobierne en modo que no ocasione quejas y por lo que le experimento espero que cuanto v. m. vuelva no habrá que decir y puede asegurarse que si esta compañía estuviese debajo de sus ojos no pudiera hacer más v. m. de lo que hago yo que tanto la aprecio como propia, pues además de ser numerosa de soldados son también muy lúcidos de vestidos que ninguna de las de más de la nación que se hallan en esta plaza no les llevan ventaja. En cuanto al soldado que v. m. me dice en la de 19 ha asentado en su compañía llamado Francisco Vellon y le ha insinuado ser mi pariente. Es verdad que estuvo aquí en este estado y diciendo [3§] que quería servirle. Le hice asentar plaza en la compañía de don Felix Fernandes de Castro por el intento de ayudarle, motivo de decir que no le conozco por nada, mayormente cuando entra el punto de reputación cual él no ha estimado pues se huyó sin causa. No obstante el saber el que tenía un capitán que por mi hubiera hecho algo. Por acá no hay novedad digna de aviso y por esto no me alargo a más que en rogar a Dios que guarde a v. m. los dilatados años que deseo. Cremona a 15 Abril 1675. Añado, que todos los amigos y soldados de la compañía de v. m. besan. Transcripción literal"
+  ],
+  "literal": [
+    "1. Señor mio dos cartas recivo de VM una 2. de 12 y otra de 19 de Marzo y goso su3. mamente se halle con buena salud que 4. se la prosperee Nro señor largamte y 5. por ynfinitissimos años 6. En quanto a lo q pertenece alos ynteresses 7. de su Compa y á que el Sargto no se 8. meta en nada a nadie esso muy bien 9. lo executto divesas vezes a fin se le re10. mittiesse dinero por ultimo me hize 11. dar yo 500 libras de las quales remetti 12. al ayudte diego Alvarez 300 paraq 13. de una vez se acaven los negocios q 14. Vm. save con que haora quedan en 15. mi poder 300 y siempre estoy 16. predicando al dicho sargto a effecto [A partir de ahora se corresponde con la parte final de la carta] [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "085-42aa.jpg",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo09/085-42aa.jpg",
+      "url": "/legajos/legajo-09/images/085-42aa.jpg"
+    },
+    {
+      "filename": "085-42ab.jpg",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo09/085-42ab.jpg",
+      "url": "/legajos/legajo-09/images/085-42ab.jpg"
+    },
+    {
+      "filename": "086-42ba.jpg",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo09/086-42ba.jpg",
+      "url": "/legajos/legajo-09/images/086-42ba.jpg"
+    },
+    {
+      "filename": "086-42bb.jpg",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo09/086-42bb.jpg",
+      "url": "/legajos/legajo-09/images/086-42bb.jpg"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "085-42aa.jpg",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-09/cartas/001020.json",
+  "primary_image_url": "/legajos/legajo-09/images/085-42aa.jpg"
+}

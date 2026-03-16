@@ -1,0 +1,43 @@
+{
+  "legajo_id": "6",
+  "id_carta": "566",
+  "order_in_legajo": 68,
+  "signatura": "062-37a",
+  "nombre_carta": "Carta de condesa de Centellas a Cecilia Zaforteza y Sureda de Sant Martí",
+  "fecha_original": "22 de septiembre de 1748",
+  "lugar": "Barcelona",
+  "remitente": "condesa de Centellas",
+  "destinatario": "Cecilia Zaforteza y Sureda de Sant Martí",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "La carta que rebo de v. s. me deixa contristada per la malencònica notícia que v. s. se serveix participar-me de la mort del senyor d.Francesc, marit de v. s., que santa glòria {ESP. gosi}, el que certament se pot creure de la seva cristiana vida, i considerant el gran dolor i {ESP. desconsuelo} de v. s. en esta ocasió l’acompanyo en aquest sentiment amb les majors veres de ma verdadera llei i amistat, pregant a v. s. s’ànima i cuidi molt de [1§] la seva salut i que admetia v. s. un abraç que donarà a v. s. de ma part Ma. Pona dona que anant-se’n el xabec tan acompanyat han resolt l'anar-se’n per aquest correu i ja pot creure v. s. que per mi és un dia molt malencònic i les pobres no han vingut sinó a veure treballs. V. s. pot quedar certa de mon immutable afecte i que en tots temps faré el major {ESP. aprecio} de tenir repetides ocasions de servir i complaure a v. s., mentre quedo pregant a Déu guardi a v. s. molts anys com desitjo i és menester. Barcelona i setembre 22 de 1748. Besa la mà de v. s. sa verdadera amiga de cor i amb ap[recia]da servidora,la comtessa de Centelles Amiga querida i senyora mia Transcripción literal"
+  ],
+  "literal": [
+    "1. Amiga qda y Sra mia: la 2. carta q rebo de V. Sa. me deja 3. contristada per la malencolica 4. noticia q V.Sa. se serveix par- 5. ticiparme de la mort del Sr. Dn. 6. Frch marit de V.Sa. q S[a]nta 7. Gloria goze lo q certament se 8. pot creurer de la sua cristiana 9. vida, y considerant lo gran dolor 10. y desconsuelo de V. Sa. en esta oca- 11. sió, la aconpaño en est sentnt 12. ab las majors veras de ma verda- 13. dera lley, y amistat, pregant á 14. V.S. se anime, y cuide molt de [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "062-37a.jpg",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo06/062-37a.jpg",
+      "url": "/legajos/legajo-06/images/062-37a.jpg"
+    },
+    {
+      "filename": "063-37b.jpg",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo06/063-37b.jpg",
+      "url": "/legajos/legajo-06/images/063-37b.jpg"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "062-37a.jpg",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-06/cartas/000566.json",
+  "primary_image_url": "/legajos/legajo-06/images/062-37a.jpg"
+}

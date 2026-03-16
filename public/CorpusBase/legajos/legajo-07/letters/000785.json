@@ -1,0 +1,43 @@
+{
+  "legajo_id": "7",
+  "id_carta": "785",
+  "order_in_legajo": 33,
+  "signatura": "27-16a copy",
+  "nombre_carta": "Carta de Juan Francisco Suñer a Jerónimo Pelegrín de Aragüés",
+  "fecha_original": "1 de mayo de 1675",
+  "lugar": "Madrid",
+  "remitente": "Juan Francisco Suñer",
+  "destinatario": "Jerónimo Pelegrín de Aragüés",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Señor mío, He recibido la de vuestra merced de 26 de marzo en que me manda vuestra merced hiciere diligencias del beneficio que vaca en San Jaime por muerte del Lido. [?] Baustista Mas, y aunque lo he solicitado y dado el memorial y hablado con todos los Sres., no lo hemos podido conseguir por haber muchos pretendientes y estar ya empeñados el señor marques de Castelnovo y el señor don Miguel Salva por el hijo de don Francisco Truyols, y venir el primero en la terna. Y [ha] habido muchos ofrecimientos de dinero por el beneficio y no lo han podido conseguir. Con que ha empeño que vino de Mallorca. Estimara mucho yo [?] haber podido obrar este negocio por ser la primera cosa que vuestra merced me ha mandado. Siempre me tendrá vuestra merced aquí a su orden en todo lo que fuere de provecho. Guarde Dios a vuestra merced largos años como deseo. Madrid y mayo a 1 de 1675. Besa la mano de vuestra merced, su mayor servidor, Juan Suñer. Señor Jeronimo Pelegri de Aragues. [1§] Madrid. Juan Suñer. Mayo al primero 1675. Respuesta a 31 de mayo 1675. Transcripción literal"
+  ],
+  "literal": [
+    "1. Sr. mio he recebido la de Vm. de 26 de Março enq. 2. me manda V.m. hisihere diligencias del bene- 3. ficio que vaca en san Jayme por muerte del 4. Lido. [?] Baustista mas. y aunque lo he solici- 5. tado. y dado el memorial y hablado con 6. todos los Srs. no lo hemos podido conseguir 7. por haver Muchos. pretendientes. y estar 8. ya enpenados. el sor. Marques de Castelnovo 9. y el Sor. dn Migel salba. por el ijo de 10. Don franco Truols y venir el primero en la 11. terna y havido muchos ofrecimientos de 12. dinero por el beneficio y no lo han podido 13. Consegir conque ha enpeño que vino de 14. Mallorca estimara Mucho [y]o [?] haver podido 15. obrar este negocio por ser la primera cosa 16. que V.m. me ha mandado siempre me 17. tendra V.m. aqui a su orden en todo lo que 18. fuere de provecho. gde Dios a Vm. lar- 19. gos años como deseo Md y mayo a 1 de 1675 20. B l[a] M[a]no de Vm. 21. Su Mayor servidor 22. Juan Suñer 23. Sor. Geronymo pelegri de Aragues [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "27-16a copy.gif",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo07/27-16a copy.gif",
+      "url": "/legajos/legajo-07/images/27-16a copy.gif"
+    },
+    {
+      "filename": "28-16b copy.gif",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo07/28-16b copy.gif",
+      "url": "/legajos/legajo-07/images/28-16b copy.gif"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "27-16a copy.gif",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (5)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-07/cartas/000785.json",
+  "primary_image_url": "/legajos/legajo-07/images/27-16a copy.gif"
+}

@@ -1,0 +1,38 @@
+{
+  "legajo_id": "31",
+  "id_carta": "6920",
+  "order_in_legajo": 160,
+  "signatura": "232:1671.JPG",
+  "nombre_carta": "Carta de Josep de Rocabertí a Pedro Santacilia y Pax",
+  "fecha_original": "8 de agosto de 1663",
+  "lugar": "Barcelona",
+  "remitente": "Josep de Rocabertí",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Per ma de Guillem Soler que penso vingué amb les naus que aporta el comte de Plasència, rebí la que v. s. [?] ju feta del 24 del passat i per estar de partença per una aldea d'esta [?] no pogui admetrer la persona recomanada que com veu li proposi el haver d'estar [?] per algun temps no el LLETRA DIFÍCIL Transcripción literal"
+  ],
+  "literal": [
+    "1. Per ma de Guillem Soler que penso 2. vingue ab las naus que aporta lo com3. ta de Plasencia, rebi la que VS [?] 4. iu feta del 24 del pasat y per estar 5. de partensa per una aldea desta [?] 6. no pogui admetrer la persona recoma7. nada que com veu li proposi lo haver 8. de estar [?] per algun tems no lo LLETRA DIFÍCIL [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "232:1671.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo31/232:1671.JPG",
+      "url": "/legajos/legajo-31/images/232:1671.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "232:1671.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-31/cartas/006920.json",
+  "primary_image_url": "/legajos/legajo-31/images/232:1671.JPG"
+}

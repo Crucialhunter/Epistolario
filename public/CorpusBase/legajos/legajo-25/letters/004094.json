@@ -1,0 +1,43 @@
+{
+  "legajo_id": "25",
+  "id_carta": "4094",
+  "order_in_legajo": 28,
+  "signatura": "053_128a.JPG",
+  "nombre_carta": "Carta de Diego Matías de Aragüés a Jerónimo Pelegrín de Aragüés",
+  "fecha_original": "6 de abril de 1667",
+  "lugar": "Madrid",
+  "remitente": "Diego Matías de Aragüés",
+  "destinatario": "Jerónimo Pelegrín de Aragüés",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Estos renglones hago porque escribo al Sr. don Pedro gozamos de salud, a Dios gracias, Doña Margarita y yo holgaré que v. m. la tenga y sobrina y niños y de Nro. Sr. muy buenas pascuas de resurrección y de nra. parte reciban todos muchos recaudos. El Sr. don Miguel Salva (juzgo) dispone su jornada para los primeros de mayo, estoy prevenido para pedirle en todo lo que v. m. me tiene advertido que espero de su bondad lo hará. Más ha de un mes que el protonotario no ha despachado un memorial, y como se han entrado las vacaciones sin haber ido el vicecanciller al consejo por su indisposición no se ha despachado cosa alguna en este oficio. Espero que si hay alguna junta en estas vacaciones, o salido de ellas nos despachará y en particular el de Jaime Bauza. No se me ofrece por ahora otra cosa remitiéndome a todo lo que tengo avisado. Guarde Dios a v. m. muchos años. Madrid a 6 de abril 1667. Tío y servidor de v. m. Diego Matias de Aragues Sr. Jeronimo Pelegrin de Aragues, mi sobrino [1§] A Jeronimo Pelegrin de Aragues, mi sobrino, guarde Dios. Mallorca Transcripción literal"
+  ],
+  "literal": [
+    "1. Estos renglones hago porq escrivo al Sr. Don2. pedro goçamos de salud a Dios graçias Doña3. Margta. y yo olgare q Vmd. la tenga y sobrina4. y niños y de Nro. Sr. muy buenas Pasquas de5. Ress[urreccio]n y de nra. parte reçivan todos m[ucho]s recaudos6. El Sr. Don Miguel Salva (juzgo) dispone7. su jornada para los primeros de mayo, estoy8. prevenido para pedirle en todo lo que Vmd. me9. tiene advertido q espero de su bondad lo ara10. Mas a de un mes que el Sr. Protonott[ario] no ha despa11. chado un memorial, y como se han entrado las12. vacaciones sin haver ido el Sr. Vicecançeller al13. Conssº por su indisp[osicio]n no se ha despachado cossa alg[un]a14. eneste offiçio espero q si ay alg[un]a junta enestas15. vacaçiones, o, salido dellas nos despachara y en16. particular el de Jayme Baussa. No se me ofreçe por17. aora otra cossa remitiendome a todo lo que tengo avisado18. gde Dios a Vmd. m[ucho]s a[ño]s Madrid a 6 de Abril 166719. Tio y ser[vid]or de Vm.20. Diego Mathias de Aragues21. Sr. Geronimo Pelegrin de Aragues mi sobrino [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "053_128a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo25/053_128a.JPG",
+      "url": "/legajos/legajo-25/images/053_128a.JPG"
+    },
+    {
+      "filename": "054_128b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo25/054_128b.JPG",
+      "url": "/legajos/legajo-25/images/054_128b.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "053_128a.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (7)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-25/cartas/004094.json",
+  "primary_image_url": "/legajos/legajo-25/images/053_128a.JPG"
+}

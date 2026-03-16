@@ -1,0 +1,38 @@
+{
+  "legajo_id": "18",
+  "id_carta": "3108",
+  "order_in_legajo": 141,
+  "signatura": "227:4947.JPG",
+  "nombre_carta": "Carta de Isidro Marqués a Pedro Santacilia y Pax",
+  "fecha_original": "4 de mayo de 1667",
+  "lugar": "Madrid",
+  "remitente": "Isidro Marqués",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Señor mío. bien puede v. s. estar cierto que en lo poco que mis hombres pueden llevar en servicio de v. m. no es cuso contribuir con mis cortas fuercas como lo sabe el buen Matias Aragues con que en esta part estoy yo mismo satisfho del afecto y voluntad que siembr pre me asiste de desear cuanto fuere de la conveniencia de v. s. así valiere yo algo que fuese de provecho para que esta verdad se acreditase con obras, no con palabras. Guarde Dios a v. s. muchos años como puede y deseo. Madrid a 4 de mayo de 1667 B la M a v. s. su mayor servidor Isidro Marques Suplico a v. s. mande entregar la inclusa Sr. D. Pedro Sanacilia y Pax [1§] Transcripción literal"
+  ],
+  "literal": [
+    "1. Señor mio. Bien puede VS estar 2. cierto que en lo poco que mis hombres 3. pueden llevar en servicio de Vm. no es4. cusso contribuir con mis cortas fuercas 5. como lo sabe el buen Mathias Arangues 6. conque en esta part estoi yo mismo sa7. tisf[]ho del afecto y voluntad que siembr> pre me asiste de dessear quanto fuere 8. de la conveniencia de VS. assi valiere 9. yo algo que fuesse de provecho para que 10. esta verdad se acreditasse con obras, no 11. con palabras. Gde Dios a VS. muchos 12. años como puede ydesseo. Md a 4 de 13. Maio de 1667 14. B[] l[a] M[] a VS su maior sdor 15. Ysidro Marques 16. [Margen izquierdo][^ Sup[li]co a VS mande entregar la inclussa]17. [Margen izquierdo][^ Sr D Po Sanacilia y Pax]18. [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "227:4947.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo18/227:4947.JPG",
+      "url": "/legajos/legajo-18/images/227:4947.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "227:4947.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-18/cartas/003108.json",
+  "primary_image_url": "/legajos/legajo-18/images/227:4947.JPG"
+}

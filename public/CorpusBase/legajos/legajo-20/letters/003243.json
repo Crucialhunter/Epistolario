@@ -1,0 +1,38 @@
+{
+  "legajo_id": "20",
+  "id_carta": "3243",
+  "order_in_legajo": 117,
+  "signatura": "265:6024.JPG",
+  "nombre_carta": "Carta de Basilio de Castellví y Ponce a Pedro Santacilia y Pax",
+  "fecha_original": "20 de marzo de 1668",
+  "lugar": "Valencia",
+  "remitente": "Basilio de Castellví y Ponce",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "señor [?] mío en este pasaje tengo escrito a v. s. y en esta doy cubierta al pliego incluso que he recibido de Diego Matias todas las novedades que escriben de Madrid refiero al virrey que se las participara a v. s. en esta casa quedamos para servir a v. s. buenos Dña. Laura Giuseppe y yo que besamos a v. s. las manos con las de mi Sra.da.Leonor el Sr. don Juan y el Sr. don Nicolas; esta noche ha llovido solo para mojar las calles pero no para remediar nos La Necesidad en que se halla la campaña perdiéndose los frutos por la falta de agua. Dios me guarde a v. s. muchos años como deseo Valencia [?] y Mar ço a 20 de 1668 Beso a v. s. la mo s m servidor Sr. don Basilio de Castellvi [?] y Ponce Sr. don Pedro Santacilia [?] y Pax. [1§] Transcripción literal"
+  ],
+  "literal": [
+    "1. Senor[?] mio en este pasaje tengo escrito â V.S. y en esta 2. doy cubierta al pliego inclusso que he recevido de 3. Diego Mathias todas las nobedades que escriven 4. de Md. refiero al Sr.Virrey que se las participara 5. â VS. en esta casa quedamos para servir â V.S. 6. buenos Dª Laura Jusepe y yo que besamos â V.S. 7. las manos con las de mi sra.Dª.Leonor el Sr Don 8. Juan y el Sr. Don Nicolas; esta noche â llovido 9. solo para mojar las calles pero no para remediar 10. nos La Necesidad en que se halla la campaña 11. perdiendose los frutos por la falta de agua. Dios 12. Me gde a V.S. ms ans como deseo Vala[?] y Mar 13. ço a 20 de 1668 14. B a V.S. l[a] mo s[u] m sdor 15. Don Basilio de Castelui[?] 16. y Ponce 17. Sr Don Pedro sta. zilia[?] y Pax. [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "265:6024.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo20/265:6024.JPG",
+      "url": "/legajos/legajo-20/images/265:6024.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "265:6024.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-20/cartas/003243.json",
+  "primary_image_url": "/legajos/legajo-20/images/265:6024.JPG"
+}

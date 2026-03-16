@@ -1,0 +1,38 @@
+{
+  "legajo_id": "24",
+  "id_carta": "4046",
+  "order_in_legajo": 99,
+  "signatura": "129:4099.JPG",
+  "nombre_carta": "Carta de Pascual de Aragón a Pedro Santacilia y Pax",
+  "fecha_original": "11 de abril de 1651",
+  "lugar": "Toledo",
+  "remitente": "Pascual de Aragón",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Con mucho gusto y estimación he recibido su carta de v. m. de 10 de febrero por las buenas nuevas que me da de su feliz viaje, y de haber llegado con entera salud a su casa, de que quedo muy contento y deseoso que a v. m. se le ofrezcan por acá muchas cosas que mandarme en su servicio, a que asistire siempre con el afecto y veras que debo. Ahora me hallo en Toledo donde he venido a tener estos quince días de vacaciones y en cualquier parte me hallará v. m. con muy buena voluntad para servirle. Dios guarde a v. m. muchos años como deseo. Toledo 11 de abril de 1651. Besa la mano de v. m. su más verdadero servidor Don Pascual de Aragon Sr. don Pedro de Santacilia y Pax. Transcripción literal"
+  ],
+  "literal": [
+    "1. Con mucho gusto y estimaçion he reçivido su carta de2. Vm de 10 de febrero por las buenas nuevas q me3. da de su feliz viaje, y de haver llegado con entera4. salud a su cassa, de que quedo muy contento, y deseoso5. que a Vm se le ofrezcan por aca muchas cossas q6. mandarme en su servo a que asistire siempre con el7. afecto, y veras, que devo. Aora me hallo en Toledo8. donde he venido a tener estos quince días de vacacio9. nes y en qualquier parte me hallara Vm con muy buena10. volunt[a]d, para servirle Dios gde a Vm muchos años11. como deseo Toledo 11 de Abril de 165112. B l[a] m de Vm su mas13. verdadero sdor14. don Pasqual15. de Aragon16. Sr. Don Pedro de Santacilia y Pax. [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "129:4099.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo24/129:4099.JPG",
+      "url": "/legajos/legajo-24/images/129:4099.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "129:4099.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-24/cartas/004046.json",
+  "primary_image_url": "/legajos/legajo-24/images/129:4099.JPG"
+}

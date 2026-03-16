@@ -1,0 +1,38 @@
+{
+  "legajo_id": "23",
+  "id_carta": "3918",
+  "order_in_legajo": 172,
+  "signatura": "309:3331.JPG",
+  "nombre_carta": "Carta de Ramón Fortuny a Pedro Santacilia y Pax",
+  "fecha_original": "16 de febrero de 1669",
+  "lugar": "Mallorca",
+  "remitente": "Ramón Fortuny",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "En molt de {ESP. cuidado} i aflicció estic des que v. s. m'honrà fent-me servidor de la mort del Sr. don Juan que Déu Nre. Sr. tengui. Afligit per haver perdut el major amic, puix que amiga confessar majors i obligacions, {ESP. cuidados} de la salut de v. s. a tan gran cap encara que amb confiança de sa prudència i valor. Déu Nre. Sr. consoli a v. s. com pot, i per molts anys amb la salut que desitj per mi en companyia del Sr. don Nicolau, i em doni moltes ocasions de mostrar mos afectes en servir a v. s. i a totes ses coses. Mallorca i febrer als 16 de 1669. Ramon Fortuny Sr. D. Pedro Santacilia Transcripción literal"
+  ],
+  "literal": [
+    "1. En molt de cuidado y aflichsio estich desde que2. V.Sa. me honrrá fent me sebidor de le mort3. del Sor. Don Juan que D N S tenga=4. Aflijit per aver perdut el Major Amich5. puis que amiga confesere majos [?]6. y obligacions, cuidados d le salut d V.S= 7. a tan gran cap encare que ab confianse8. de se prudensia y valor//9. D N S consol a V.Sa. com pot, y part10. mols añs ab le salut que desix per mi en11. conpeñie del Sor. Don Nicolau, y en don12. moltes ocasions de mostrar mos afechtes13. en sarvir a Vsa. y a totes ses coses Mca14. y fbrer als 16 de 166915. Ramon Fortuñy16. Sr. D. P[e]dro Sa. Cilia [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "309:3331.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo23/309:3331.JPG",
+      "url": "/legajos/legajo-23/images/309:3331.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "309:3331.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-23/cartas/003918.json",
+  "primary_image_url": "/legajos/legajo-23/images/309:3331.JPG"
+}

@@ -1,0 +1,38 @@
+{
+  "legajo_id": "13",
+  "id_carta": "1882",
+  "order_in_legajo": 157,
+  "signatura": "233:2386.JPG",
+  "nombre_carta": "Carta de Bartolomé Garcias a Pedro Santacilia y Pax",
+  "fecha_original": "10 de julio de 1669",
+  "lugar": "Madrid",
+  "remitente": "Bartolomé Garcias",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Su carta de v. s. ha sido para mi de suma estimación por las noticias que me da de su mejoría que me holgaré vaya adelante muy a medida del gusto de v. s. a y de todos sus servidores séale mil veces en hora el haber matrimoniado al Sr. don Nicolás a quien beso la mano y suplico a v. s. a se la dé muy cumplida de mi parte. La que venía para el Sr. don Antonio Pimentel se la enviado hoy con otra mía que le escribo dándole las gracias de que por su medio se dio los días pasados una compañía de infantería a mi sobrino Juan Garcies, el cual estará siempre y yo de la misma manera muy a las órdenes de v. s. a a quien guarde Dios muchos años. Madrid y julio 10 de 1669. Besa la mano de v. s. a su mayor servidor y menor capellán Don Bartolomé Garcies Sr. don Pedro Santacilia y Pax [1§] Transcripción literal"
+  ],
+  "literal": [
+    "1. Su carta de VSa hasido parami de suma esti2. macion por las noticias que me da de su mejoria3. que me olgare vaya adelante muy amedida4. del gusto de VSa. y de todos sus servidores5. seale mil vezes en hora el haver matrimoni6. ado ael Sr. Don Nicolas aquien beso la mano y7. suplico a VSa. sela de muy cumplida de mi pae8. La que venia para el Sr. Don Antonio Pimentel9. sela imbiado oy con otra mia que le escrivo10. dandole las gracias deque por su medio se dio los11. dias passados una Compañia de infanteria a12. mi sobrino Juan Gacies el qual estara siem13. pre y yo de la misma manera muy a las14. ordenes de VSa. a quien gde Dios muchos años15. Madrid y Julio 10 de 166916. B l[a] m de VSa. su mayr Serdor17. y menor Capellan18. Sr. Don Barttme Gaçies19. Sr. Don Pedro Sta Cilia y Pax [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "233:2386.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo13/233:2386.JPG",
+      "url": "/legajos/legajo-13/images/233:2386.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "233:2386.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-13/cartas/001882.json",
+  "primary_image_url": "/legajos/legajo-13/images/233:2386.JPG"
+}

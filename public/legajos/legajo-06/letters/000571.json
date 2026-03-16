@@ -1,0 +1,74 @@
+{
+  "legajo_id": "6",
+  "id_carta": "571",
+  "order_in_legajo": 74,
+  "signatura": "073-42a",
+  "nombre_carta": "Carta de J. Plasencia a Cecilia Zaforteza y Sureda de Sant Martí",
+  "fecha_original": "9 de noviembre de 1748",
+  "lugar": "Madrid",
+  "remitente": "J. Plasencia",
+  "destinatario": "Cecilia Zaforteza y Sureda de Sant Martí",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Mi Sra. y mi tía, De sumo aprecio y consuelo me escribe la carta con que v. s. me honra de 30 del vencido, por la noticia que v. s. me da, de quedar con alivio del resfriado padecido, que no es de extrañar en lance tan funesto y que siempre halle consigo muchos disgustos que en medio de la aflicción principal añaden sinsabores. Dios consuele a v. s. como me intereso y le suplico, pues solo siento valer tan poco que no pueda contribuir en el alivio que la deseo. Pero v. s. viva persuadida que me interesaré por cuanto [?] me mande con las mayores [1§] [?], y que deseo solo el acierto de obedecerla, siendo para mí de [?] aprecio el que v. s. quiera honrarme con sus preceptos. Mi hijo y yo quedamos a los pies de v. s. para cuanto sea del agrado de v. s. mandarnos. Paréceme extraordinario el que v. s. salga de la casa antes de pasar el año de viudedad, pero como no estoy informado de los estilos del país no puedo decir algo, y aunque mudando [?] parece alivio para desviar el pensamiento melancólico, considero que a v. s. le ha de servir de incomodidad a lo pronto. Contándome lo mucho que mi tío apreciaba a v. s., no me causa novedad la haya mejorado en su testamento, pues cierto que en ese país no quedan bien las que enviudan sin hijos, y me alegro que v. s. tenga a los [?] consuelo, ya que los primos se lo llevan todo, los que eso desde [?] con v. s. de la mayor atención. Quedo a los pies de v. s. [?] de que me mande para facilitarme el gusto de obedecerla. Dios guarde a v. s. los muchos años como he menester. Madrid y noviembre a 9 de 1748. A los pies de v. s., el sobrino que más la venera, J. Plasencia. Mi Sra. y mi tía Dña. Cecilia Sureda de St. Martí y Zaforteza. Transcripción literal"
+  ],
+  "literal": [
+    "1. Mi Sra. y mi Tia de sumo aprecio 2. y consuelo, mescrive la carta con 3. q V.S. me honrra de 30 del vencido, 4. por la noticia q V.S. me dá, de quedar 5. con alivio del resfriado padecido, 6. q no es de estrañar en lanze tan 7. funesto y q siempre haye consigo 8. muchos disgustos, q en medio 9. de la aflicción principal, añaden 10. sin sabores: Dios consuele a V.S. 11. como me intereso y y le sup[li]co, pues 12. solo siento valer tan poco, q no 13. pueda contribuyr en el alivio 14. q la deseo; Pero V.S. viva persua- 15. dida q me interessaré [?] 16. -to me mande con las mayores [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "073-42a.jpg",
+      "original_url": "http://www.studiolum.com/Web3/img/Legajo06/073-42a.jpg",
+      "url": "/legajos/legajo-06/images/073-42a.jpg"
+    },
+    {
+      "filename": "074-42ba.jpg",
+      "original_url": "http://www.studiolum.com/Web3/img/Legajo06/074-42ba.jpg",
+      "url": "/legajos/legajo-06/images/074-42ba.jpg"
+    },
+    {
+      "filename": "074-42bb.jpg",
+      "original_url": "http://www.studiolum.com/Web3/img/Legajo06/074-42bb.jpg",
+      "url": "/legajos/legajo-06/images/074-42bb.jpg"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "073-42a.jpg",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    },
+    {
+      "code": "IMAGE_DOWNLOAD_FAIL",
+      "message": "HTTP 404",
+      "context": {
+        "url": "http://www.studiolum.com/Web3/img/Legajo06/073-42a.jpg"
+      }
+    },
+    {
+      "code": "IMAGE_DOWNLOAD_FAIL",
+      "message": "HTTP 404",
+      "context": {
+        "url": "http://www.studiolum.com/Web3/img/Legajo06/074-42ba.jpg"
+      }
+    },
+    {
+      "code": "IMAGE_DOWNLOAD_FAIL",
+      "message": "HTTP 404",
+      "context": {
+        "url": "http://www.studiolum.com/Web3/img/Legajo06/074-42bb.jpg"
+      }
+    },
+    {
+      "code": "IMAGE_COUNT_MISMATCH",
+      "message": "Imágenes detectadas (3) != descargadas (0)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-06/cartas/000571.json",
+  "primary_image_url": "/legajos/legajo-06/images/073-42a.jpg"
+}

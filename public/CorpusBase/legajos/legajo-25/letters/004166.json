@@ -1,0 +1,43 @@
+{
+  "legajo_id": "25",
+  "id_carta": "4166",
+  "order_in_legajo": 100,
+  "signatura": "207_200a.JPG",
+  "nombre_carta": "Carta de Diego Matías de Aragüés a Jerónimo Pelegrín de Aragüés",
+  "fecha_original": "4 de agosto de 1667",
+  "lugar": "Madrid",
+  "remitente": "Diego Matías de Aragüés",
+  "destinatario": "Jerónimo Pelegrín de Aragüés",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "El amigo Sebastian Truyol va con esta que lleva muy buen despacho que en estos tipos no ha sido poco y en breves días dará razón de todo y como el Sr. don Nicolas está muy adelante en su pretensión, que juzgo salido de ella se irá a su casa donde estará mejor. En esta estamos a Dios gracias con salud aunque los calores nos dan fastidio. Por Valencia escribiré más largo y avisaré de todo que el lunes se ha de ver en la sala del gobierno si se le hace fuerza o no al obispo la provisión del auditor del nuncio. Al Sr. don Pedro y demás señores besamos las manos Dña. Margarita y yo con las de v. m. y guarde Dios como deseo. Madrid 4 de agosto 1667. Tío y servidor de v. m. Diego Matias de Aragues Sr. Jeronimo Pelegrin de Aragues, mi sobrino [1§] Madrid. Diego Matias 4 de agosto 1667. Transcripción literal"
+  ],
+  "literal": [
+    "1. El Amigo Sebastian Truiol va conesta 2. q lleva muy buen despacho q enestos3. tpos no ha sido poco y en breves dias4. dara razon de todo y como el Sr. Don Nicolas5. esta muy adelante en su pretension q6. juzgo salido della se hira a su casa7. donde estara mejor enesta estamos a Dios8. graas con salud aunq los calores nos9. dan fastidio. Por Vala escrivire mas10. largo y avisare de todo q el lunes se11. ha de ver en la sala del Gobierno si se12. le haze fuerza o no al Sr. Obispo la pro13. vision del Auditor del Sr. Nuncio14. Al Sr. Don Pedro y demas SSes. bessamos15. las manos Dª Margta y yo con las de16. Vm y gde. Dios como deseo Madrid17. 4 de Ag[os]to 166718. Tio y ser[vid]or de Vm19. Diego Mathias de Aragues20. Sr. Gerº Pelegrin de Aragues mi sobrino [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "207_200a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo25/207_200a.JPG",
+      "url": "/legajos/legajo-25/images/207_200a.JPG"
+    },
+    {
+      "filename": "208_200b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo25/208_200b.JPG",
+      "url": "/legajos/legajo-25/images/208_200b.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "207_200a.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (7)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-25/cartas/004166.json",
+  "primary_image_url": "/legajos/legajo-25/images/207_200a.JPG"
+}

@@ -1,0 +1,38 @@
+{
+  "legajo_id": "38",
+  "id_carta": "5492",
+  "order_in_legajo": 113,
+  "signatura": "032:16",
+  "nombre_carta": "Carta de Escrivà Miralles a Persona desconocida",
+  "fecha_original": "1 de enero de 1667",
+  "lugar": "Campos",
+  "remitente": "Escrivà Miralles",
+  "destinatario": "Persona desconocida",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Delme de bestiars de la vila de Cam pos de l'any 1667 lliurat a mestre Gabri el Thomas carnisser per 433 ll. Gabriel Thomas pª. i Marti Ferregut trocador d'ell [?] Sba. Miralles. Sr. D. Juan Bautista Zaforteza mensari Antoni Piza menor adr. del Bisbat Pere Onofre Mayol pdor. de la mensa ca pitular [1§] Transcripción literal"
+  ],
+  "literal": [
+    "1. Delme de bestiars de la vila de Cam2. pos del any 1667 lliurat a m[estr]e Gabri3. el Thomas carnisser p[er] 433 ll.4. Gabriel Thomas pª. y5. Marti Ferregut trocador dell[?]6. Sba. Miralles.7. D. Juan Bapt[ist]a Saforteza mens[ari]8. Ant[oni] Piza me[nor] adr. del Bisbat9. Pere Honofre Mayol 10. pdor. de la mensa ca11. pitular [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "032:16.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo38/032:16.JPG",
+      "url": "/legajos/legajo-38/images/032:16.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "032:16.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (2)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-38/cartas/005492.json",
+  "primary_image_url": "/legajos/legajo-38/images/032:16.JPG"
+}

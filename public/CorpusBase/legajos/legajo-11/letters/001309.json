@@ -1,0 +1,37 @@
+{
+  "legajo_id": "11",
+  "id_carta": "1309",
+  "order_in_legajo": 77,
+  "signatura": "136:5169a.JPG",
+  "nombre_carta": "Carta de Miguel Sureda a Pedro Santacilia y Pax",
+  "fecha_original": "16 de julio de 1643",
+  "lugar": "Mallorca",
+  "remitente": "Miguel Sureda",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Per cartes de don Joan Miquel sé que {ESP. gosa} v. s. la salut que jo li desitja i també de les bones noves hi ha que mi senyora dona Magdalena estigui amb un principi de prenyat. Déu la deixi arribar en el fi com v. s. desitge. Alguns dies ha que suplici a v. s. em fes mercè manar fer mitja dotzena de panys puix ací per ningun cas en podem al [1§] v. s. mercè donar de ma part molts besamans. Mallorca 16 juliol 1643. Miquel Sureda [2§] Transcripción literal"
+  ],
+  "literal": [
+    "1. Por cartas de don Juan Miquel se que gosa 2. VS la salud que jo li desitge. Se y tam3. be se les bonnes noves hi ha de que mi4. señora doña Madalena estigui ab un5. principi de preñat. Deu la dex arribar6. en el fi com VS desitge. Alguns7. diu ha que suppliqui a VS em fesmarle8. manar fer mitia dotzena depanys puix alli per ningun cas ne porem al9. [mitad de la carta] [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "136:5169a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo11/136:5169a.JPG",
+      "url": "/legajos/legajo-11/images/136:5169a.JPG"
+    },
+    {
+      "filename": "137:5169b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo11/137:5169b.JPG",
+      "url": "/legajos/legajo-11/images/137:5169b.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "136:5169a.JPG",
+  "warnings": [],
+  "raw_source": "raw/legajos/legajo-11/cartas/001309.json",
+  "primary_image_url": "/legajos/legajo-11/images/136:5169a.JPG"
+}

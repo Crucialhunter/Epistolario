@@ -1,0 +1,43 @@
+{
+  "legajo_id": "21",
+  "id_carta": "3494",
+  "order_in_legajo": 183,
+  "signatura": "336:5782a.JPG",
+  "nombre_carta": "Carta de Pedro Fajardo de Requeséns-Zúñiga y Pimentel (V marqués de los Vélez) a Pedro Santacilia y Pax",
+  "fecha_original": "13 de noviembre de 1639",
+  "lugar": "Pamplona",
+  "remitente": "Pedro Fajardo de Requeséns-Zúñiga y Pimentel (V marqués de los Vélez)",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "He recibido la carta de v. m. de 12 de este en que me representa la poca comodidad que los soldados tienen en los alojamientos por estar cargados los lugares tan pobres que es fuerza no poderlo llevar ni conservarse las compañías y deseando el reparo de unos y de otros envío al capitán D. Antonio de Gurpide con comisión para ajustar los alojamientos y reconocer los ensanches que puede haber para aliviar los luges y juntamente declaro lo que se ha de dar a los oficiales y soldados para excusar los disgustos y [?] que se pueden ofrecer y encargo a v. m. ponga mucho cuidado en el cumplimiento de lo referido. Guarde Dio a v. m. muchos años, de Pamplona y noviembre 17 de 1639. El marques de los Velez Sr. D. Pedro Santacilia y Pax [1§] Pamplona 13 Noviembre 1639 El marques de los Velez rdo. Transcripción literal"
+  ],
+  "literal": [
+    "1. He Recivido lacarta de Vm de 12 deste Enquemere 2. pressta la poca comodidad quelos soldados tienen enlos alo3. xamíentos por estar cargados los lugares ytanpobres 4. quees fuerça nopoderlo llevar niconservarsse las compas 5. y deseando el Reparo de Unos ydeotros Imvio al Ca6. pitan D Antonio de Gurpide Con Comiss[i]on para ajustar 7. los aloxamtos y reconocer los ensanches quepuede haver 8. pa aliviar los luges y Juntamte declaro loque sea dedar 9. alos offiziales y soldados para escussar los disgustos y 10. duferas quesepueden ofrecer yencargo a Vm pongamu11. cho Cuydado enel Cumpto delo referido Gue Dio a Vm 12. muchos a< ñ>os De Pampa y Nove 17 de 1639 13. El Marqs delos Veles 14. [Margen izquierdo][^Sr D Po Santa Zilia y Pax] [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "336:5782a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo21/336:5782a.JPG",
+      "url": "/legajos/legajo-21/images/336:5782a.JPG"
+    },
+    {
+      "filename": "337:5782b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo21/337:5782b.JPG",
+      "url": "/legajos/legajo-21/images/337:5782b.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "336:5782a.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (5)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-21/cartas/003494.json",
+  "primary_image_url": "/legajos/legajo-21/images/336:5782a.JPG"
+}

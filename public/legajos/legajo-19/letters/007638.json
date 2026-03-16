@@ -1,0 +1,42 @@
+{
+  "legajo_id": "19",
+  "id_carta": "7638",
+  "order_in_legajo": 184,
+  "signatura": "269_cg120a",
+  "nombre_carta": "Carta de Persona desconocida a Persona desconocida",
+  "fecha_original": "fecha sin especificar",
+  "lugar": "lugar sin especificar",
+  "remitente": "Persona desconocida",
+  "destinatario": "Persona desconocida",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "[1§] [2§] [3§] Transcripción literal"
+  ],
+  "literal": [
+    "1. 1. 1."
+  ],
+  "imagenes": [
+    {
+      "filename": "269_cg120a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo19/269_cg120a.JPG",
+      "url": "/legajos/legajo-19/images/269_cg120a.JPG"
+    },
+    {
+      "filename": "270_cg120b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo19/270_cg120b.JPG",
+      "url": "/legajos/legajo-19/images/270_cg120b.JPG"
+    },
+    {
+      "filename": "271_cg120c.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo19/271_cg120c.JPG",
+      "url": "/legajos/legajo-19/images/271_cg120c.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "269_cg120a.JPG",
+  "warnings": [],
+  "raw_source": "raw/legajos/legajo-19/cartas/007638.json",
+  "primary_image_url": "/legajos/legajo-19/images/269_cg120a.JPG"
+}

@@ -1,0 +1,38 @@
+{
+  "legajo_id": "14",
+  "id_carta": "2041",
+  "order_in_legajo": 141,
+  "signatura": "233:2553.JPG",
+  "nombre_carta": "Carta de Basilio de Castellví y Ponce a Pedro Santacilia y Pax",
+  "fecha_original": "23 de diciembre de 1661",
+  "lugar": "Valencia",
+  "remitente": "Basilio de Castellví y Ponce",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Señor mío hállome con carta de v. s. de 24 de noviembre y sin ocasión de responder hasta ahora y así doy a v. s. las pascuas que deseo tenga v. s. muy alegres acompañándoselas a mi Sra. Dña. Leonor con muy buena salud cuyas manos besa doña Laura y Giuseppe y yo con ambos hago lo mismo. Sin duda que los canarios se templaron a vista de la merced que v. s. es servido hacerme están famosos y me divierten mucho solo le falta a la galería el que v. s. se halle en ella para todo cumplimiento a mi estimación y que me dé repetidas órdenes v. s. que obedecer con fina voluntad. Dios me guarde a v. s. los muchos años que deseo. Valencia y diciembre a 23 de 1661. Besa a v. s. su mano su mayor servidor Don Basilio de Castellvi y Ponce Por el mejor caballo de los que han de entrar en la máscara grande me dice el Sr. duque de Montalto que se tiene el blanquillo. Sr. D. Pedro de Santacilia Transcripción literal"
+  ],
+  "literal": [
+    "1. Señor mio hallome con carta de V.S. de 24. de Nove y sin oca2. sion de responder asta ahora y asi doy a V.S. las Pascuas que3. deseo tenga V.S. muy alegres acompañandoselas a mi Sra. D.4. Elionor con muy buena sd cuyas manos besa Doña Laura y5. Jusepe y yo con ambos ago lo mismo6. Sin duda que los canarios se templaron a vista de la md que7. V.S. es servido hazerme estan famosos y me divierten mucho8. solo le falta a la Galeria el que V.S. se halle en ella para todo9. cumplimto a mi estimaçion y que me de repetidas ordenes10. V.S. a que obedeçer con fina voluntad Dios me gde. a V.S. los11. muchos años que deseo Valz[i]a y Deze a 23 de 166112. B a VS s[u] mo su mor sdor13. Don Basilio de Castelví14. y Ponçe15. [^por el mejor cavallo16. de los q an de entrar en la17. mascara Grande me diçe el18. Sor. duq de Montalto q se19. tiene el blanquillo]20. Sr. D. Pedro de Sta. Cizilia [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "233:2553.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo14/233:2553.JPG",
+      "url": "/legajos/legajo-14/images/233:2553.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "233:2553.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-14/cartas/002041.json",
+  "primary_image_url": "/legajos/legajo-14/images/233:2553.JPG"
+}

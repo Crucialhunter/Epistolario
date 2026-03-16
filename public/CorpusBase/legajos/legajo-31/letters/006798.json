@@ -1,0 +1,38 @@
+{
+  "legajo_id": "31",
+  "id_carta": "6798",
+  "order_in_legajo": 37,
+  "signatura": "050:1549.JPG",
+  "nombre_carta": "Carta de Jaume Antoni Rubí a Pedro Santacilia y Pax",
+  "fecha_original": "17 de enero de 1661",
+  "lugar": "Lugar sin especificar",
+  "remitente": "Jaume Antoni Rubí",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Ab una en trob de v. s.ra. en què demana anyels de tot gènere de fruita, i com jo se que el Sra. compte mi [?] tan gran gust i servir @ v. s.ra. no el puc anar més galant, en més que son anyel de pruneras de don gleu i pereras de la nau, i li qui em sermanyas i [?] alsbercoques d'en Perpinyà r, i ho marge i pruneres d'en frau, encara que no seran tan bonsanyels com demana la grucultura de v. s.ra. i la del sergent major Cuturer, rebals tals com seran; no seran aquí el dilluns de St. Antoni per causa que el signa és el [?] seran aquí dilluns d'est. sebastià qui serà dimecres primer vinent, restant jo sembre molt criat i servidor de v. s.ra. a qui Nostre Sr. guardi de li [?] @17 de jaer 1661. Sembre criat de v. s.ra. que S. m. B. Jaue. Anto. Rubi Beneficiat Sr. don Pedro Santacilia i Pax [1§] Transcripción literal"
+  ],
+  "literal": [
+    "1. Ab una en trob de VSª. en que demane anyels de tot 2. genero de fruita, y com jo çe quel Sª. compta mi [?] 3. tan gran gust y servir @ VSª. nol puch anar mes 4. galant, en mes que son anyel de pruneras de Don gleu 5. y pereras de la nau, i le quim sermanyas y [?] 6. alsbercoques den perpinyar, i au marge i pruneres 7. den frau, en care que no seran tan bonsanyels com 8. demane la grucultura de VSª. i la del sergent ma9. jor Cuturer, rebals tals com seran; no seran aqui el 10. dilluns de St. Antoni per cause que el signa es el [?] 11. saran aqui dilluns de st. sebastià qui sara dimecres 12. primer vinent, restant jo senbre molt criat y 13. servidor de VSª. aqui nostre Sor. gde de le [?] 14. @17 de jaer 1661. 15. Senbre criat de VSª. 16. q. S. m. B. 17. Jaue. Antto. Rubi 18. Beneficiat 19. Sr. Don Pedro santacilia y pachs [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "050:1549.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo31/050:1549.JPG",
+      "url": "/legajos/legajo-31/images/050:1549.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "050:1549.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-31/cartas/006798.json",
+  "primary_image_url": "/legajos/legajo-31/images/050:1549.JPG"
+}

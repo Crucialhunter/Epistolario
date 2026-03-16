@@ -1,0 +1,38 @@
+{
+  "legajo_id": "28",
+  "id_carta": "4802",
+  "order_in_legajo": 110,
+  "signatura": "173:3736.JPG",
+  "nombre_carta": "Carta de Vicente de Aragón a Pedro Santacilia y Pax",
+  "fecha_original": "12 de julio de 1650",
+  "lugar": "Valencia",
+  "remitente": "Vicente de Aragón",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Muy bien dice v. s. que la diferencia que hay de las letras a las armas se distingue por estimación cuando los ministros de la una profesión son jueces de los de la otra, por lo cual es caso de admirar que togados hayan decidido la causa de capitán general como el marqués de Aitona. Pero no creo que deje de templarse el rigor que ha tenido su sentencia. Yo volví ayer de Gandía y estoy tratando de ajustar los trastos que me quedan para dar la vuelta, que lo deseo porque buscaré a v. s. y le serviré con pretensión de ser su amigo. Vale. Lo guarde Dios a v. s. mil años. Valencia, 12 de julio 1650. Sr. mío voy con toda brevedad ajustando todos los embarazos para poderme ir, y espero lo conseguiré con toda brevedad. Amigo de v. s., Don Vicente de Aragon. Sr. don Pedro Santacilia. Transcripción literal"
+  ],
+  "literal": [
+    "1. [OJO: repetir foto] 2. Muy bien dice vs que la diferencia que ay de las3. letras a las armas se distingue por estimación qdo.4. los ministros de la una profesión son jueces5. de los de la otra por lo qual es caso de admirar6. que togados ayan decidido la causa de Capn Gl7. como el Marques de Aytona pero no creo que dexe8. de templarse el rrigor que a tenido su sentencia9. yo bolvi ayer de Gandia y estoy tratando de ajustar10. los trastos que me quedan para dar la buelta que11. lo deseo porque buscare a Vs y le servire con pre12. tension de ser su amigo bale [?] lo gde Dios a Vs13. mil años Valencia 12 [?] de julio 1650 Sr mio14. voy con toda brebedad ajustando todos15. los embarazos para poder me yr y es16. pero lo conseguire con toda brebedad17. Amigo de vs18. Don Vicente19. de Aragon20. Sr. Don Pº Santa Cilia [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "173:3736.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo28/173:3736.JPG",
+      "url": "/legajos/legajo-28/images/173:3736.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "173:3736.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-28/cartas/004802.json",
+  "primary_image_url": "/legajos/legajo-28/images/173:3736.JPG"
+}

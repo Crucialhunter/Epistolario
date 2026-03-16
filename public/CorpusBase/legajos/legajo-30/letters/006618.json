@@ -1,0 +1,38 @@
+{
+  "legajo_id": "30",
+  "id_carta": "6618",
+  "order_in_legajo": 91,
+  "signatura": "128:5456",
+  "nombre_carta": "Carta de Persona desconocida a Persona desconocida",
+  "fecha_original": "9 de diciembre de 1619",
+  "lugar": "Mallorca",
+  "remitente": "Persona desconocida",
+  "destinatario": "Persona desconocida",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Â [1§] Transcripción literal"
+  ],
+  "literal": [
+    "1."
+  ],
+  "imagenes": [
+    {
+      "filename": "128:5456.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo30/128:5456.JPG",
+      "url": "/legajos/legajo-30/images/128:5456.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "128:5456.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (3)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-30/cartas/006618.json",
+  "primary_image_url": "/legajos/legajo-30/images/128:5456.JPG"
+}

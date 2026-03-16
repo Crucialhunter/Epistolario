@@ -1,0 +1,38 @@
+{
+  "legajo_id": "28",
+  "id_carta": "4783",
+  "order_in_legajo": 86,
+  "signatura": "140:3717.JPG",
+  "nombre_carta": "Carta de Juan Jerónimo Eraso a Pedro Santacilia y Pax",
+  "fecha_original": "28 de mayo de 1639",
+  "lugar": "Lanaja",
+  "remitente": "Juan Jerónimo Eraso",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Viendo la merced que v. s. me hace, me ha pedido una persona de mucha obligación suplicase a v. s. mande pagar la cura del cirujano de Alcubierre, que a no ser tan justificada la deuda no cansara a v. s. Con el seguro que tengo, me atrevo confiado en lo mucho que sabe honrar a quien como yo se precia del más afecto criado de v. s. A quien me guarde Dios tantos años como puede y deseo. Lanaja, en esta suya.Y mayo 28 de 39. de v. s., el licenciado Juan Jeronimo Eraso. Amo y Sr. Transcripción literal"
+  ],
+  "literal": [
+    "1. Viendo la md. que vs. me hace2. me ha pedido una persona de mucha obli3. gacion suplicasse a vs. mande pagar la4. cura del cirujano de Alcubierre que5. á no ser tan justificada la deuda no6. cansara a vs. con el seguro que tengo me7. atrevo confiado en lo mucho q sabe hon8. rrar a quien como yo se precia del mas9. afecto criado de vs. a quien me gde.10. Dios tantos años como puede y desseo11. Lanaja en esta Suia Y maio 28 de 3912. de vs.13. El licensdo. Juan Perº. Erasso.14. Amo y Sr. [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "140:3717.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo28/140:3717.JPG",
+      "url": "/legajos/legajo-28/images/140:3717.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "140:3717.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-28/cartas/004783.json",
+  "primary_image_url": "/legajos/legajo-28/images/140:3717.JPG"
+}

@@ -1,0 +1,43 @@
+{
+  "legajo_id": "10",
+  "id_carta": "1175",
+  "order_in_legajo": 43,
+  "signatura": "077-341a",
+  "nombre_carta": "Carta de Gabriel Roger a Jerónimo Pelegrín de Aragüés",
+  "fecha_original": "15 de agosto de 1668",
+  "lugar": "Madrid",
+  "remitente": "Gabriel Roger",
+  "destinatario": "Jerónimo Pelegrín de Aragüés",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Del cielo aguardamos la mejoría del señor d. Juan: Dios lo haga. Con esto aún estamos boca y ojos cerrados, bien es verdad clara que mi señor está muy bueno: Dios nos lo conserve. Para otras ocasiones escribiremos novedades si las hay, y Dios sea con todos. Madrid y agosto, 15 de 1668. Su aficionado y servidor, Gabriel Roger. Sr. Jeronimo Pelegrin [1§] A Jeronimo Pelegrin de Aragues, que Dios guarde muchos años como deseo. Mallorca Transcripción literal"
+  ],
+  "literal": [
+    "1. Del cielo aguardamos la mejora del Sr. Don juan. Dios 2. lo aga con esto aun estamos boca y ojos serrados; bien es verdad 3. clara que mi señor esta muy bueno Dios nos lo conserve 4. p otras ocasiones escriviremos; novedades si las ay, Y Dios 5. sea con todos. Madrdi y Agosto 15 de 1668. 6. Su afficionado y Servidor, Gabriel Roger. 7. [^Sr de Pelegrin^] [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "077-341a.jpg",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo10/077-341a.jpg",
+      "url": "/legajos/legajo-10/images/077-341a.jpg"
+    },
+    {
+      "filename": "078-341b.jpg",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo10/078-341b.jpg",
+      "url": "/legajos/legajo-10/images/078-341b.jpg"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "077-341a.jpg",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING",
+      "message": "Se detectaron caracteres sospechosos de encoding (4)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-10/cartas/001175.json",
+  "primary_image_url": "/legajos/legajo-10/images/077-341a.jpg"
+}

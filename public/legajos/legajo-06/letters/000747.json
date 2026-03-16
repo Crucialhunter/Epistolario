@@ -1,0 +1,48 @@
+{
+  "legajo_id": "6",
+  "id_carta": "747",
+  "order_in_legajo": 12,
+  "signatura": "422-208aa",
+  "nombre_carta": "Carta de Juan Zaforteza a Cecilia Zaforteza y Sureda de Sant Martí",
+  "fecha_original": "fecha sin especificar",
+  "lugar": "Mallorca",
+  "remitente": "Juan Zaforteza",
+  "destinatario": "Cecilia Zaforteza y Sureda de Sant Martí",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Tía y muy señora mía, Doy noticia a v. m. como el dr. Ferrer ha encontrado a Jaime muy malo, de manera que dice no le haría novedad el que esta noche tuviera una novedad mayor. Lo participo a v. m. y si halla que se haya de decir a madre, [2§] se lo podrá v. m. decir esta noche, porque si sucede alguna cosa no la coja de improviso. Juan. [En la otra cara del pliegue, al revés, el destinatario] A dña. Cecilia Zaforteza, viuda. Guarde Dios muchos años. Palma Transcripción literal"
+  ],
+  "literal": [
+    "1. Tia y Muy Señora 2. mia doy noticia á 3. V.Md. como el Dr. Fer- 4. rer ha encontra- 5. do á Jayme 6. muy malo de ma- 7. nera que dice 8. no le haria no- 9. vedad el que es- 10. ta noche tuvi- 11. era una no- 12. vedad mayor 13. lo participo á V.Md. 14. y si halla que 15. se haya de de- 16. cir á Madre [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "422-208aa.jpg",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo06/422-208aa.jpg",
+      "url": "/legajos/legajo-06/images/422-208aa.jpg"
+    },
+    {
+      "filename": "422-208ab.jpg",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo06/422-208ab.jpg",
+      "url": "/legajos/legajo-06/images/422-208ab.jpg"
+    },
+    {
+      "filename": "423-208b.jpg",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo06/423-208b.jpg",
+      "url": "/legajos/legajo-06/images/423-208b.jpg"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "422-208aa.jpg",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-06/cartas/000747.json",
+  "primary_image_url": "/legajos/legajo-06/images/422-208aa.jpg"
+}

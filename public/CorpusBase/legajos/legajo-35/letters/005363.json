@@ -1,0 +1,43 @@
+{
+  "legajo_id": "35",
+  "id_carta": "5363",
+  "order_in_legajo": 173,
+  "signatura": "202:8210a.JPG",
+  "nombre_carta": "Carta de Joan Borràs a Pedro Santacilia y Pax",
+  "fecha_original": "8 de febrero de 1660",
+  "lugar": "Palermo",
+  "remitente": "Joan Borràs",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Sens carta de v. s. em troba a que haver de respondre havent-li escrit amb la barca del P. Joan Torner i amb l'ocasió de les galeres i, també mateix, a Jeroni Pelegrí, en el qual envio un modelo de procura perquè si v. s. gustava fer-la publicar aquí a un notari i enviar-la’m, perquè jo pugui passar endavant els negocis del Sr. don Carlos, com veurà més largamte amb la inclusa carta de Jeroni Pelegrí, jo tinc ací cobrat algunes partides de diner del Sr. don Carlos, el qual se es cobrat amb fiances. Tinc donada ordre al {ESP. licenciado} Pere Crespí que pac 600 reals de 8 a Gemo. Pelegrí com a curador de la heretat del Sr. don Carlos Velaz quez i, per dit efecte, li envio una partida de roba que, en continent, que sia venuda, me fa el dit pagament. En els negocis del Sr. don Carlos me remito a la carta de Gemo. per no ser llarg. El príncep de la Aràbia, que fa 12 unces Sr. don Pedro Santacilia i Pax de renda a la heretat del Sr. D. Carlos se tindrà molt de treball de cobrar perquè és el primer mal pagador de Sicília. El {ESP. licenciado} Pere Crespí entregarà a v. s. tots els papers he trobats fins al dia d'avui en favor del Sr. D. Carlos, que assegur a v. s. que m'han costat molt de treball, en particular, els papers del príncipe de la Aràbia, que per {ESP. medi} d'un criat de la seva casa me’n dóna clarícies. Està v. s. segur que no’m descui darè en fer totes les diligències per buscar papers en favor del Sr. D. Carlos i donar avís de tot els que és farà i me li guard Nr. Palermo, i febrer a 8 de 1660. Capellà de v. s. Joan Borràs Transcripción literal"
+  ],
+  "literal": [
+    "1. Sens carta de VS em troba aquebr> haver de respondre havantli escrit ab la2. barca del P. Juan Torner y ab la ocazio de las3. galeras y tanbe matex a Geroni Pelegri4. en el qual envio un modello de procura5. para que si VS gustava ferla publicar aqui6. a un notari y enviarlem perque jo puga pasar7. havant los negosis del Sor. Don Carlos com veura8. mes llargmt. ab la incluza carta de Geroni9. Pelegri, jo tinch assi cobrat algunas partidas10. de diner del Sor. Don Carlos lo qual ses cobrat ab11. fiansas, tinch doanda orde al licenziado12. Pere Crespi que pach 600 reals de 8 a Gemo.13. Pelegri com a curador de la heretat del Sor14. Don Carlos Velasques y per dit afecta li envio15. una partida de roba que encontinent ksia venuda16. me fae dit pagamt. en los negosis del Sor17. Don Carlos me remito a la carta de Gemo.18. per no ser llarch19. Lo Prinçep de la Arabia que fa 12 onzas20. Sr. Don Pº Santaçilia y Pax [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "202:8210a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo35/202:8210a.JPG",
+      "url": "/legajos/legajo-35/images/202:8210a.JPG"
+    },
+    {
+      "filename": "203:8210b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo35/203:8210b.JPG",
+      "url": "/legajos/legajo-35/images/203:8210b.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "202:8210a.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-35/cartas/005363.json",
+  "primary_image_url": "/legajos/legajo-35/images/202:8210a.JPG"
+}

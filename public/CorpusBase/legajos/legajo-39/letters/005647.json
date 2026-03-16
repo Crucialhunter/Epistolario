@@ -1,0 +1,38 @@
+{
+  "legajo_id": "39",
+  "id_carta": "5647",
+  "order_in_legajo": 46,
+  "signatura": "83:8307.JPG",
+  "nombre_carta": "Carta de Andreu Corró a Pedro Santacilia y Pax",
+  "fecha_original": "12 de junio de 1669",
+  "lugar": "Pollença",
+  "remitente": "Andreu Corró",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Illtr Per una carta del Jeroni Pelegri he sabut dues coses una que Va.Sria està molt millor i que ja va per casa: i l'altra que ha casat el Sr. don Nicolau son fill de tot el qual com a criat de v. s. me som molt alegrat i així li sia per a bé i Déu Nre. Sr. li dóna molts anys de vida per veure els fins que desitja i seccessio en la seva casa i voldria així mateix que Déu me dones vida per servir-los a tots amb les mies propies miseries de part mia donarà al per a bé al dit son fill i que tingué esta per prapria. Per al portador d'esta rebrà mig quarti de muntonech de diferents licors entenc que serà bo també envia al Sr. don Nicolau una castanyata d'aigue de gavarrera de fullas cosa bona, perquè si la vol enviar a la seva senyora ho faci que l'estimara; en el que sia de son gust dispongue que sempre me tindrà prompte a ses ordres Nre. Sr. el guardi molts anys Pollença als 12 Juny 1669 Sempre Criat i servidor de Va.Sria. Andreu Corronat son lloctinent en dita vila [1§] Transcripción literal"
+  ],
+  "literal": [
+    "1. Illtr Sr2. Per una carta del Sr Hieronim Palagri he sabut3. dos cosas una que Va.Sria esta molt millor y que ja4. va per casa: y la altra que ha casat el Sr don5. Nicolau son fill de tot lo qual com a criat6. de Va. Sria. me som molt alagrat y axi li sia7. parabe y Deu Nro Sr li dona molts anys de8. vida per veura los fins que desitje y seccessio9. en la sua casa y voldria axi matex que Deu10. me donas vida per servirlos a tots ab les mias11. proprias miserias de part mia donara al12. parabe al dit Sr son fill y que tingue esta13. per prapria. Per al portador de esta rabra14. mig quarti de muntonech de diffarents15. licors antench que sera bo tambe anvia16. al Sr Don Nicolau una castanyata de aigue17. de gavarrera de fullas cosa bona, parque18. si la vol anviar a la sua señora ho fasse19. que lo estimara; en lo que sia de son20. gust dispongue que sempre me tindra21. prompte a ses ordes Nro Sr lo gde molts22. anys Pollença als 12 Juny 166923. Sempre Criat y Sdor de Va.Sria.24. Andreu Corronat son lloctt[inen]t 25. en dita vila [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "83:8307.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo39/83:8307.JPG",
+      "url": "/legajos/legajo-39/images/83:8307.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "83:8307.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-39/cartas/005647.json",
+  "primary_image_url": "/legajos/legajo-39/images/83:8307.JPG"
+}

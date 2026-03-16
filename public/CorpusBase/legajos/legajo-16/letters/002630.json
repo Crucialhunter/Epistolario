@@ -1,0 +1,38 @@
+{
+  "legajo_id": "16",
+  "id_carta": "2630",
+  "order_in_legajo": 118,
+  "signatura": "190:2130.JPG",
+  "nombre_carta": "Carta de Josep de Rocabertí a Pedro Santacilia y Pax",
+  "fecha_original": "29 de agosto de 1667",
+  "lugar": "Barcelona",
+  "remitente": "Josep de Rocabertí",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Per lo Senyor virrei Sr. don Mí que el Salva tinc escrita un llargament, ara sene ofereix fer estes lineas, que moha manat persona de moltes obligacions, i que suplicas a v. m. que en la pretensió que porta lo religiós que donava esta empropia dita se li faci tota bona se va [?] en les cobransas (que passa asoli citar) que per haverho de cobrar d'artam bé tanta ma puc jo prometrerme la mercè que confío de qui és tant Senyor meu i d'esta casa del que dit religios cobrara, tenen d'utilarsen unes senyores religioses descalsas, les qual s de la mercè que Em els farà en tanta necessitat com tenen se va major l'obligació de pregar a Nostre Senyor sa salut de v. m. a qui guardi com pot i desitjo Barcelona i agost 29 de 1667 Servidor de v. m. que Seves Mans besa don Josep de Rocaberti Senyor don Pedro Santacilia i Pax [1§] Transcripción literal"
+  ],
+  "literal": [
+    "1. Per lo Sr Virrey don Míquel Çalba tinch 2. escrita Un llargament, ara sene ofereix fer 3. estas lineas, que moha manat persona de 4. moltas obligacions, y que suplicas a Vm. 5. que en la pretencio que porta lo religios 6. que donava esta enpropia dita seli fasa tota 7. bona seva[?] en las cobransas (que pasa asoli8. citar) que per haverho de cobrar de artam9. be tanta ma puch yo prometrerme 10. la merse que confio de qui hes tant 11. Sr meu y desta casa delo que dit reli12. gios cobrara, tenan de utilarsen unas 13. senoras religiosas descalsas, las quals dela 14. merse que Em los fara en tanta nessesitat 15. com tenan seva major la obligacio de pregar 16. a Ne Sr sa salud de Vm. a qui gde com 17. pot y desijo Barna y Agost 29 de 1667 18. Servidor de Vm. que S[] M[] B[] 19. Don Joseph de 20. Rocaberti 21. [Margen izquierdo][^ Sr don pedro Sta Cilia y Pax] [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "190:2130.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo16/190:2130.JPG",
+      "url": "/legajos/legajo-16/images/190:2130.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "190:2130.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-16/cartas/002630.json",
+  "primary_image_url": "/legajos/legajo-16/images/190:2130.JPG"
+}

@@ -1,0 +1,43 @@
+{
+  "legajo_id": "9",
+  "id_carta": "1011",
+  "order_in_legajo": 48,
+  "signatura": "067-33a",
+  "nombre_carta": "Carta de Diego Álvarez a Arnau de Santacilia",
+  "fecha_original": "6 de diciembre de 1674",
+  "lugar": "Milán",
+  "remitente": "Diego Álvarez",
+  "destinatario": "Arnau de Santacilia",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Señor mío, Tres correos hace que no he tenido aviso de v. m., solo nuevas de su salud por carta del señor don Joseph Meoz. Yo, conforme la orden que v. m. me dio, le [he] ido dando al señor capitán don Francisco Villalonga y lo continuaré hasta su venida de v. m. He tenido noticia de que la gente de la leva se queda en Cataluña y, caso que sea así y que su venida de v. m. no sea tan presto, mi medalla al señor capitán don Mateo dé, y así por acá no vi cosa de nuevo de que poder avisar a v. m. pues la compañía se halla todavía [1§] en Carmona y se han sentado algunos soldados en ella. De maestre se dice la habrá a fin de este mes revés [?] cuanto puedo decir a v. m., cuya vida guarde Dios muchos años. Milán, a 6 de diciembre 1674. Besa las manos de v. m. Su amigo y servidor, Diego alvarez Señor capitán don Arnau de Santacilia Transcripción literal"
+  ],
+  "literal": [
+    "1. Señor mio tres Coreos a queno ete2. nido avíso de Vm. solo nuevas 3. de su salud por carta del Señor D Jo4. sef Meoz yo Conforme laorden 5. que Vmd. Medio Leído dando al 6. Sr Capn D franco Villalonga ylo con7. tinuare asta Suvenida de Vmd. 8. Etenído Notízia deque la Jente dela leva 9. Sequeda En Cataluña y Casso quesea 10. así yquesu venída de Vm. nosea 11. tan presto Mi medalla al Señor Capn 12. D Mateo deyssasí por aca noví cosa 13. de nuevo de que poder avísar a Vmd. 14. pues la Compa Sealla toda vía [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "067-33a.jpg",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo09/067-33a.jpg",
+      "url": "/legajos/legajo-09/images/067-33a.jpg"
+    },
+    {
+      "filename": "068-33b.jpg",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo09/068-33b.jpg",
+      "url": "/legajos/legajo-09/images/068-33b.jpg"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "067-33a.jpg",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-09/cartas/001011.json",
+  "primary_image_url": "/legajos/legajo-09/images/067-33a.jpg"
+}

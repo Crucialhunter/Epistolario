@@ -1,0 +1,74 @@
+{
+  "legajo_id": "36",
+  "num_cartas": 122,
+  "num_imagenes": 178,
+  "rango_temporal": [
+    1621,
+    1699
+  ],
+  "remitentes_frecuentes": [
+    {
+      "name": "Persona desconocida",
+      "count": 30
+    },
+    {
+      "name": "Diego Matías de Aragüés",
+      "count": 8
+    },
+    {
+      "name": "Josep de Rocabertí",
+      "count": 4
+    },
+    {
+      "name": "Diego de Sada",
+      "count": 4
+    },
+    {
+      "name": "Pedro Santacilia y Pax",
+      "count": 3
+    }
+  ],
+  "destinatarios_frecuentes": [
+    {
+      "name": "Pedro Santacilia y Pax",
+      "count": 88
+    },
+    {
+      "name": "Persona desconocida",
+      "count": 30
+    },
+    {
+      "name": "Leonor Santacilia i Despuig",
+      "count": 3
+    },
+    {
+      "name": "Rafael Vives García",
+      "count": 1
+    }
+  ],
+  "lugares_frecuentes": [
+    {
+      "name": "Mallorca",
+      "count": 49
+    },
+    {
+      "name": "Madrid",
+      "count": 32
+    },
+    {
+      "name": "Ibiza",
+      "count": 5
+    },
+    {
+      "name": "Ciutadella",
+      "count": 5
+    },
+    {
+      "name": "Barcelona",
+      "count": 3
+    }
+  ],
+  "temas_frecuentes": [],
+  "warnings_count": 71,
+  "densidad_narrativa_estimada": "Media"
+}

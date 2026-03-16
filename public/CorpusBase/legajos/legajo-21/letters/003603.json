@@ -1,0 +1,38 @@
+{
+  "legajo_id": "21",
+  "id_carta": "3603",
+  "order_in_legajo": 293,
+  "signatura": "502:5891.JPG",
+  "nombre_carta": "Carta de Gabriel Maimó a Pedro Santacilia y Pax",
+  "fecha_original": "26 de mayo de 1669",
+  "lugar": "Madrid",
+  "remitente": "Gabriel Maimó",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Por carta remitida al Dr. Domenech supimos de que v. s. había llegado a Mallorca y su casa con buena salud de que recibí mucho contento como más aficionado a v. s. y codicioso de que Dios se la conserve los años su deseo de v. s. Acá no tenemos novedad sobre aquel negocio de que pueda avisar a v. s. que se está aguardando la información del virrey de Cerdeña, pues se sabe que las cosas por allá van de muy mala disposición de que le aguarda alguna novedad por acá. Dios guarde a v. s. como deseo. Guillermo besa las manos a v. s. y dice se queda al servicio de v. s. Madrid y 26 Mayo de 1669. Criado de v. s. que sus manos besa El Dr. Gabriel Maimo Sr. don Pedro de Santacilia, mi Sr. Transcripción literal"
+  ],
+  "literal": [
+    "1. Por Carta remetida al Dr. Domenech supomos de que V.Sa. 2. havia llegado a Mallorca i su casa con buena salud 3. de que recevi mucho contento como mas aficionado 4. avsª y codicioso de que dios sela conserve los 5. años su deseo de V [s]ª; = aca no tenemos 6. novedad sobre aquell negocio de que pueda avisar 7. aV.Sª. que se esta aguardando la informacion 8. del sr Virrey de Cerdeña pues se save que 9. las cosas por alla van de mui mala disposicion 10. de que le aguarda alguna novedad por aca 11. Dios gde a V.Sª como deseo. = Guillermo 12. besa las manos a V. Sª. i dice se queda 13. al sercio de V.Sª [Ilegible] 14. Madrid i 26 Majo de 1669 15. Criado de VS.a q s m b 16. el Dor Gabriel Maimo 17. [margen inferior izquierdo] [^ Sr Don Pedro de santacilia mi sr] [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "502:5891.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo21/502:5891.JPG",
+      "url": "/legajos/legajo-21/images/502:5891.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "502:5891.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-21/cartas/003603.json",
+  "primary_image_url": "/legajos/legajo-21/images/502:5891.JPG"
+}

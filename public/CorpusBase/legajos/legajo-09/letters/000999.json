@@ -1,0 +1,48 @@
+{
+  "legajo_id": "9",
+  "id_carta": "999",
+  "order_in_legajo": 36,
+  "signatura": "041-21a",
+  "nombre_carta": "Carta de Diego Álvarez a Arnau de Santacilia",
+  "fecha_original": "17 de julio de 1674",
+  "lugar": "Milán",
+  "remitente": "Diego Álvarez",
+  "destinatario": "Arnau de Santacilia",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Amigo y señor, Recibo la de v. m. y me huelgo en el alma goce v. m. de entera salud y que tengo tan adelantada su leva pues con eso le esperamos en breve por estas partes con la venida del señor príncipe de Leñi. Se paró la muestra a los 17 de junio y en su compañía de v. m. se ha pasado muy bien esta muestra, la dio el señor duque de Osuna que se halla con toda su casa y familia en que a cinco millas de Milán. Dícese que el señor príncipe de Leñi dará muestra a la fin de este, ya que será algo rigurosa. Ha pedido aseguradas de la gente efectiva y así no sé en la forma que los darán. El señor maestre de campo se halla gobernando en Alejandría que cierto no le es de [1§] ninguna conveniencia. El señor conde de Melgar [?] y el señor duque de Uceda se ajustaron y ya muerden todos de [?] a don tita [?] le perdono y ya se han de [?] por Milán y se dice que el señor don Josep de Cordoba vendrá en breve con su puesto. Dios cura sin asiantes de la salida del señor duque de su gobierno muchas provisiones de capitanes de infantería graduados y asimismo de caballos y de tenientes de maestre de campo [?] y de sargento Nigores del Burgo de Alejandría. Don Juan Montero fue Dios Servido de este mundo [?] y su compañía se dío a don Pedro Fagordo [?] y la de don Pedro Fagordo que era la de Ramos se ha dado a don Felipe Lezcalde, hermano del auditor gobernal [?]. Esas dos cartas me han traído a casa, poco más o menos y [?] se de persona v. m. tiene juicio y crea lo que fuere servido. Yo le sirvo [?] al capitán don Francisco Villalonga en todo [2§] y lo continuaré. Guarde Dios a v. m. muchos años. Milán, a 17 de julio 1674. Besa las manos de v. m. su amigo y servidor, Diego Alvarez Señor capitán don Arnau de Santacilia Transcripción literal"
+  ],
+  "literal": [
+    "1. Amígo Yseñor Recivo la de Vmd. 2. y me guelgo en el alma Goce Vmd. 3. De entera salud y quetengo tan adelan4. tada Suleva Pues Coneso leesperamos 5. enbreve Porestas Partes 6. Con la benida delsr Principe Deliñi separo 7. la muestra alos 17 deJunío Yensu compa 8. De Vmd. se apasado muí Bien esta mu9. estra la dío el Sr Duque de osuna q 10. se alla con toda sucasa Y familia en 11. que an Cindo Millas de millan 12. Dicese que el sr Prinsipe Deliñi Dara 13. muestra ala fin deste Yaquesera al14. go Rigurosa a Pedido Aseguradas 15. Dela Gente efetiua Yasi nose enla 16. forma quelos Daran 17. El sr mre e Campo Sealla Governando en 18. alexandria queverto [?] no le es de [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "041-21a.jpg",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo09/041-21a.jpg",
+      "url": "/legajos/legajo-09/images/041-21a.jpg"
+    },
+    {
+      "filename": "042-21b.jpg",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo09/042-21b.jpg",
+      "url": "/legajos/legajo-09/images/042-21b.jpg"
+    },
+    {
+      "filename": "043-21c.jpg",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo09/043-21c.jpg",
+      "url": "/legajos/legajo-09/images/043-21c.jpg"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "041-21a.jpg",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-09/cartas/000999.json",
+  "primary_image_url": "/legajos/legajo-09/images/041-21a.jpg"
+}

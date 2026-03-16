@@ -1,0 +1,38 @@
+{
+  "legajo_id": "27",
+  "id_carta": "4585",
+  "order_in_legajo": 56,
+  "signatura": "094:4394.JPG",
+  "nombre_carta": "Carta de Gabriel Seguí a Pedro Santacilia y Pax",
+  "fecha_original": "10 de julio de 1629",
+  "lugar": "Canet",
+  "remitente": "Gabriel Seguí",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Sr. don Pedro dues de v. m. tinc rebudes, amb les quals me fa gran mercè de que v. m. em mani en coses de s'han de fer avui i l'avis com sóc carregat de ferro, però per servir a v. m. tot és no res, que de qualsevol manera faré de tocar a coses i en arribar ha dites coses faré un home a v. m. del qual se servirà venir prompte per a [?] aitar-lo que demana i només seré que besa les mans a v. m. juntament amb tot els mariners del vaixell us (fet) Nostre senyor guardi molt a v. m. amb la seva bona companya, fet de Canet i juliol als 10 de 1629. Gabriel Segui, criat de v. m. [1§] Transcripción literal"
+  ],
+  "literal": [
+    "1. Sor Don pedro dos de v.m. tinch rabudas ab las2. quals me fa gran merse de q v.m. em mana en cossas3. de sen fer vuy y lo avissa co shoh carragat de ferro4. pero per servir a v.m. tot es no res que de qualsevol5. manera fare de tocar a cossas y en aribar adita cossas6. fare un home a v.m. delo qual se servira venir pro[t?]a7. per a haitar lo q damana y no mes sere que bessa8. las mans a v.m. juntament ab tot los marines del9. vaxel us (fet) Nostro senor guarda molt a vm10. ab la sua bona copania fet de canet y Juliol als11. 10 de 162912. [22, signatura] Gabriel Segui13. [23, signatura] Criat de v.m. [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "094:4394.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo27/094:4394.JPG",
+      "url": "/legajos/legajo-27/images/094:4394.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "094:4394.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-27/cartas/004585.json",
+  "primary_image_url": "/legajos/legajo-27/images/094:4394.JPG"
+}

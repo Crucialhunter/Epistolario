@@ -1,0 +1,38 @@
+{
+  "legajo_id": "30",
+  "id_carta": "6539",
+  "order_in_legajo": 120,
+  "signatura": "017:5377.JPG",
+  "nombre_carta": "Carta de Gabriel de Lupian a Pedro Santacilia y Pax",
+  "fecha_original": "14 de febrero de 1640",
+  "lugar": "Pont dels Alfacs",
+  "remitente": "Gabriel de Lupian",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Â [1§] Transcripción literal"
+  ],
+  "literal": [
+    "1."
+  ],
+  "imagenes": [
+    {
+      "filename": "017:5377.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo30/017:5377.JPG",
+      "url": "/legajos/legajo-30/images/017:5377.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "017:5377.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (3)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-30/cartas/006539.json",
+  "primary_image_url": "/legajos/legajo-30/images/017:5377.JPG"
+}

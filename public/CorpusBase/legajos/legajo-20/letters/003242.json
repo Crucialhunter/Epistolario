@@ -1,0 +1,43 @@
+{
+  "legajo_id": "20",
+  "id_carta": "3242",
+  "order_in_legajo": 115,
+  "signatura": "263:6023a.JPG",
+  "nombre_carta": "Carta de Diego Matías de Aragüés a Pedro Santacilia y Pax",
+  "fecha_original": "14 de marzo de 1668",
+  "lugar": "Madrid",
+  "remitente": "Diego Matías de Aragüés",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "He recibido la de v. s. de 26 del pasado holgándome goce de muy buena salud, como se la deseamos Dña. majestad y yo que sus manos besamos y las de mi Sra. Dña. Leonor, y todos esos señores. muchas veces. holgaré saber que don Arnaldo haya llegado con bien a esa ciudad. y también porque se ejecute la orden que llevo, que por Barcelona espero habrá llegado el duplicado que tengo remitido. y por ayi y por Valencia habrá recibido v. s. las letras de este tribunal de la Inquisición sobre la apelación de lo que el inquisidor de hay declaro y uélgome que el Sr. don Nicolas este tan mejoradode su achaque [?] quería Dios darle la salud muy cumplida como le deseamos. y a se ha visto en el Consejo de Aragón el informe que vino Con la carta de v. s. de que se remitira orden. y también la ayuda de costa [?] con que se sacara el despacho para cobrarla. Por acá no ha faltado algunas novedades los días pasados, y ahora se espera que mañana, o, el sábado se publicarán las paces con Portugal. El embajador del [?] llego y esta de posada en las [1§] casas de Sosa [?], junto a las del almirante de Castilla y se le da para su plato y para el de su gente diez mil reales cada día, Aun no ha hablado a la reina. estos días por una revuelta de trigo [?] y moneda [?] que ha habido en este lugar lo han achaqueado [?] al [?] del, infantado y de [?], con que le mandaron salir de la corte, luego y sacadole [?] una multa de veinte mil ducados. El Sr. don Juan está ya bueno dicen se partirá dentro cuatro días a embarcarse a la Coruña Dios le dé buen viaje y dichas y ge a v. s. como deseo Madrid 14 [?] Marzo 1668. Beso las manos de v. s. su menor servidor Diego Matias de Aragues Sr. don Pedro Santacilia y Pax [2§] Transcripción literal"
+  ],
+  "literal": [
+    "1. He recivido la de Vs. de 26 del passado 2. olgandome goze de muy buena salud, como 3. se la deseamos da. Mag<[?]> y yo q sus 4. manos besamos y las de mi sra. da. 5. Leonor, y todos essos sses. muchas vezes. 6. olgare saver q don Arnaldo haya llegado 7. con bien a essa ciudad. Y tambien porq 8. se execute la orden q llevo, que por 9. Barcelona espero habra llegado el duppdo 10. q tengo remitido. Y por ayi y por 11. Valencia habra recivido Vs. las letras 12. deste tribunal de la Inqon sobre la 13. apellacion de lo q el Inqor de ay declaro 14. y uelgome q el Sr. don Nicolas este tan 15. mejoradode su achaque[?] queria Dios darle 16. la salud muy cumplida como le deseamos. 17. Ya se ha visto en el Consso de Aragon el infor- 18. me q vino con la carta de Vs. de q se re- 19. mitira orden. Y tambien la ayuda de costa[?] 20. con q se sacara el despacho pa cobrarla. 21. Por aca no ha faltado algunas novedades 22. los dias passados, Y agora se espera q 23. mañana, o, el savado se publicaran las 24. pazes con Portugal. El embajador del 25. [?] llego y esta de possada en las [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "263:6023a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo20/263:6023a.JPG",
+      "url": "/legajos/legajo-20/images/263:6023a.JPG"
+    },
+    {
+      "filename": "264:6023b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo20/264:6023b.JPG",
+      "url": "/legajos/legajo-20/images/264:6023b.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "263:6023a.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (3)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-20/cartas/003242.json",
+  "primary_image_url": "/legajos/legajo-20/images/263:6023a.JPG"
+}

@@ -1,0 +1,43 @@
+{
+  "legajo_id": "36",
+  "id_carta": "7332",
+  "order_in_legajo": 77,
+  "signatura": "113:7807.JPG",
+  "nombre_carta": "Carta de Cristóbal Crespí de Valldaura y Brizuela a Pedro Santacilia y Pax",
+  "fecha_original": "6 de octubre de 1655",
+  "lugar": "Madrid",
+  "remitente": "Cristóbal Crespí de Valldaura y Brizuela",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "El vicecanciller don Matias Bayetola, que goce de Dios, me hizo siempre mucha merced y habiendo de reconocer estas obligaciones en sus herederos no puedo dejar de recomendar a v. m. todo lo que les toca, y muy en particular la satisfacción de lo que está librado en esa Procuración Real a mi señora doña Luisa de Toledo y asegurar a v. m. que de más que de por mi oficio me toca este cuidado y el encargar a v. m. que sea puntual su paga pues según el grado de que goza, no puede retardarse, estimaré mucho todo lo que en esto hiciere v. m., que guarde Dios largos años. Madrid a 6 de octubre 1655. Sr. don Cristobal Crespi de Valldaura Sr. D. Pedro. Santacilia y Pax. [1§] El vicecanciller Sr. D. Matias Bayetola, que goce de Dios, me hizo siempre mucha merced y habiendo de reconocer estas obligaciones en sus herederos no puedo dejar de recomendar a v. m. todo lo que les toca y muy en particular la satisfacción de lo que está librado en esa Procuración Real a mi sra. dña. Luisa de Toledo y asegurar a v. m. que de más que de por mi oficio me toca este cuidado y el encargar a v. m. que sea puntual su paga pues según el grado de que goza no puede retardarse, estimaré mucho todo lo que en esto hiciere v. m., que guarde Dios largos años. Madrid a 6 de octubre 1655. Sr. don Cristobal Crespi de Valldaura Duplicado. Sr. d. Pedro Santacilia y Pax. [2§] Transcripción literal"
+  ],
+  "literal": [
+    "1. El Sr. Vicecanciller, don Mathias Bayetola, que goce de Dios me 2. hizo siempre mucha merced, y habiendo de reconocer estas obliga3. ciones en sus herederos no puedo dejar de recomendar a Vm. to4. do lo que les toca y muy en particular la satisfacion de lo que es5. ta librado en essa Procuracion Real a mi Señora D. Luisa de 6. Toledo y assegurar a Vm que de mas que de por mi officio me 7. toca este cuydado y el encargar a Vm que se apuntual su paga 8. pues segun el grado de que goza, no puede retardarse, estimare 9. mucho todo lo que en esto hiziere Vm. que Gde. Dios largos años. 10. Md. a 6 de Octubre 1655. 11. Don Christoval Crespî 12. de Valdaura 13. Sr. D. Pº. Santa Cicilia y Pax. [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "113:7807.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo36/113:7807.JPG",
+      "url": "/legajos/legajo-36/images/113:7807.JPG"
+    },
+    {
+      "filename": "114:7807.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo36/114:7807.JPG",
+      "url": "/legajos/legajo-36/images/114:7807.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "113:7807.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (2)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-36/cartas/007332.json",
+  "primary_image_url": "/legajos/legajo-36/images/113:7807.JPG"
+}

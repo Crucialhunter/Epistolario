@@ -1,0 +1,43 @@
+{
+  "legajo_id": "29",
+  "id_carta": "6305",
+  "order_in_legajo": 4,
+  "signatura": "001:4121a.JPG",
+  "nombre_carta": "Carta de condesa de Zavellá a Pedro Santacilia y Pax",
+  "fecha_original": "1 de abril de 1613",
+  "lugar": "Barcelona",
+  "remitente": "condesa de Zavellá",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Dues cartes de v. m. tinc rebudes amb l'una d'elles tinc vist [?] que m'escriu v. m. del negoci del sr. don Arnau, en el qual responc llargament i li dic mon parer i així en aquest particular me remet al que dic en sa carta. En el {ESP. demés} que v. m. m'escriu d'un tal Mas que està ací pres, un frare vingué a parlar-me sobre d'aquest negoci, aprés no l'he vist, mes jo tinc opinió que deu negociar bé puix no m'ha dit res. V. m. procuri de guardar-se d'anar de nits i no donar ocasió de posar-se de Déu, de mirar per si i no donar ocasió de sa persona. Ja escric al sr. don Arnau que es guardi bé i que totes les coses amb el temps tenen remei que ara no convé sinó guardar sa persona. A la Sra. Francina besa les mans, a la qual si tinc temps amb aquest li escriuré [?] fer-ho per un altre vaixell que se n'anirà dins pocs dies i que prenga esta per pròpia. Guardi a v. m. com pot en Barcelona a 4 d'abril 1613. {ESP. La condesa de Zavella} [1§] A don Pedro de Santacilia. Barcelona, de la comtessa de Zavella,(2)En esta fecha, Bernat de Boixadors y Eril d'Orcau era el I conde Zavellá. Falleció en 1616. d'1 abril 1613. Transcripción literal"
+  ],
+  "literal": [
+    "1. Dos cartes de VM. tinch rebudas ab la una delles tinch vist lo 2. que me escriu VM. del negoci del sr. don arnau, a nal qual 3. responch llargamet i li dich mon parer y axi en aquest 4. particular me remet al q dich en sa carta _ en lo demes 5. q VM. me escriu de un tal mas q esta assi pres, un frare 6. vingue a parlarme sobre de aquest negoci, apres no le vist 7. mes yo tinch opinio q deu negociar be pus no ma dit res 8. VM. pcure de guardarse de anar de nits y no donar 9. ocasio de posarse en treball q ya son germa esta 10. vm pcure pera mor de deu de mirar per si y no donar oca11. sio de sa persona ya escrich al Sr. don arnau ques guarde 12. be y q totes les coses ab lo temps tenen remey q ara no conve 13. sino guardar sa persona, a la Sra. francina bese les mans 14. a la qual si tinch temps ab aquest li escriure sino fer ho per 15. un altre vaxell q sen anira dins pochs dies y q frenga esta 16. per pia nre Sr. gde. a VM. com pot en Barª. a 4 17. de abril 161418. la condesa 19. de çavella [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "001:4121a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo29/001:4121a.JPG",
+      "url": "/legajos/legajo-29/images/001:4121a.JPG"
+    },
+    {
+      "filename": "002:4121b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo29/002:4121b.JPG",
+      "url": "/legajos/legajo-29/images/002:4121b.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "001:4121a.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-29/cartas/006305.json",
+  "primary_image_url": "/legajos/legajo-29/images/001:4121a.JPG"
+}

@@ -1,0 +1,43 @@
+{
+  "legajo_id": "18",
+  "id_carta": "3017",
+  "order_in_legajo": 50,
+  "signatura": "081:4856a.JPG",
+  "nombre_carta": "Carta de Diego Matías de Aragüés a Pedro Santacilia y Pax",
+  "fecha_original": "28 de junio de 1662",
+  "lugar": "Madrid",
+  "remitente": "Diego Matías de Aragüés",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "he recibido su carta de v. m. de 8 de este que me he holgado, que me habían dicho había estado v. m. indispuesto, el Sr. don Juan está mejorado mucho y ha cuatro días Come en la mesa con nosotros, y así v. m. este sin cuidado, que con una género de cocimiento con muchas raejas [?] de hurtar y con cebada que le ha ordenado elmedico tome unas cuantas mañanas con un terron de azucar leva bien y ha comen zado atener gusto en el Comer, qha tenido unos cuantos días Una inapetencia gran de, y el deseade beber no le lodecia tanto de que se leguarda con todo cuidado, si viene yano lo busca ni apetece itiene conocido elmal que le ha hecho, Enrazón de los empeños de maravedesis que v. m. me dice no lo ay, y Picador y teniente están satisfechos, con todo daré Una vuelta por allá Undia de estos y sabré si hay algo que no sé si al Ayo le debe un doblón a no sé que reales de a 8. que para cosas que no son menester y se les dañosas las presta el, alfin yo Vere si hay algo deempeño y si fuere legitimo lo pagare [1§] el obispo de Mallorca esta acá en Toledo díjome que en estar aquí de vuelta se hira, el tiempo del calor esta adelante, no sé lo que hara, con todo el Sr. don Pedro de Aragon se parte el sábado para Barcelona y embarcarse, yadixe a v. m. el ofrecimiento qlehice depalabra demasdelq v. m. lehizo en la carta de recomendación de don (Juan) Ramon sureda que si alpasar tocabaen Mallorca honrara su casa de v. m. hizo mucha estimación de esto yadon Ramon Leadmitio como escribí a v. m. Creo no lograra la ocasión a este pasaje, que no hacen si no hacer se empeñen y después que se consigue lo que se puede desear le ataxan con que no le he hablado más en ella bien puede estar contento frano Ramis, yale escribo lo que parece debe hacer Por ahora no hay de nuevo v. m. me mande le sirva a mi Sra. Dña. Leonor Besamos la mano con las de v. m. y todos esos señores y guarde Dios como deseo Madrid a 28 Junio 1662 El Sr. don Juan por no cansarse un poco no escribe en la primera Vez que yo escriba lo hara. Besa a v. m. su mano y lademisra Dña. Leonor, y las de todos esos señores. Besa la mano de v. m. su mayor servidor Diego Matias de Aragues Sr. don Pedro Santacilia y Pax [2§] Transcripción literal"
+  ],
+  "literal": [
+    "1. He recivido su carta de Vm. de 8 deste q 2. me he olgado, q me havian dicho havia 3. estado Vm. indispuesto, el sr don Juan 4. esta mejorado mucho y ha quatro dias 5. Come en la mesa con nosotros, y assi 6. Vm. este sin cuydado, q con una genero 7. de cocimto con muchas raejas[?] de hurtar 8. y con cebada q leha ordenado elmedico 9. tome Unas quantas mañanas con Un 10. terron de azucar leba bien y ha comen11. çado atener gusto enel Comer, qha 12. tenido Unos qtos dias Una inapetencia gran13. de, yel deseade bever nole lodecia tanto 14. deq se leguarda con todo cuydado, si 15. biene yano lo busca ni apeteze ytiene 16. conocido elmal q lehahecho, 17. Enrazon de los empeños de maravedesis q Vm 18. medize no lo ay, y Picador y tiniente estan 19. satisfechos, con todo dare Una Buelta por 20. alla Undia destos y sabre si ay algo 21. q nose si al Ayo le deve un doblon 22. a noseq reales de a 8. q para Cosas 23. q noson menester yseles dañossas 24. las presta el, alfin yo Vere si 25. ay algo deempeño y si fuere legitimo lo pagare [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "081:4856a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo18/081:4856a.JPG",
+      "url": "/legajos/legajo-18/images/081:4856a.JPG"
+    },
+    {
+      "filename": "082:4856b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo18/082:4856b.JPG",
+      "url": "/legajos/legajo-18/images/082:4856b.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "081:4856a.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (3)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-18/cartas/003017.json",
+  "primary_image_url": "/legajos/legajo-18/images/081:4856a.JPG"
+}

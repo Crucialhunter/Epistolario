@@ -1,0 +1,37 @@
+{
+  "legajo_id": "38",
+  "id_carta": "5563",
+  "order_in_legajo": 89,
+  "signatura": "148:87a.JPG",
+  "nombre_carta": "Carta de Persona desconocida a Pedro Santacilia y Pax",
+  "fecha_original": "21 de agosto de 1663",
+  "lugar": "Llucmajor",
+  "remitente": "Persona desconocida",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Il·lustríssim Avui cirque dos hores a passar de sol m'és vingut Joan Ant. Ballaster dient me com una hora antes de mig dia son anats a la seva posº dita Son Ballaster tres homes armats amb tres cavalls i lian pres lo seu cavall, al qual se'n han portat ensellat i ambrillat, i jo lie demanat si els ha coneguts e digué que no tot per avís a v. s.I. a qui Nre. Sr. guardi de Lucmajor als 21 agost de 1663 El Balle de Luchor. [1§] Al Il·lustríssim. Sr. D. Pedro de Santacilia virRey i Capa. general per Sa Magd. en el present. Regne que nro. guarde. [2§] Transcripción literal"
+  ],
+  "literal": [
+    "1. Illm Sr.2. Vuy cirque dos horas a passar de sol me3. es vingut Jº Antt. Ballaster dient me4. com una hora antes de mitx die son5. anats a la sua possº dita Son Ballaster tres6. homens armats ab tres cavalls y lian7. pres lo seu cavall, al qual sen an8. aportat ensellat y anbrillat, y jo lie9. demenat sils ha coneguts e dix que10. no tot per avis á V.S.I. a qui nro11. Sr. gde de Luch[maj]or als 21 Agost12. de 166313. Lo Balle de Luchor. [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "148:87a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo38/148:87a.JPG",
+      "url": "/legajos/legajo-38/images/148:87a.JPG"
+    },
+    {
+      "filename": "149:87b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo38/149:87b.JPG",
+      "url": "/legajos/legajo-38/images/149:87b.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "148:87a.JPG",
+  "warnings": [],
+  "raw_source": "raw/legajos/legajo-38/cartas/005563.json",
+  "primary_image_url": "/legajos/legajo-38/images/148:87a.JPG"
+}

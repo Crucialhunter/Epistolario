@@ -1,0 +1,38 @@
+{
+  "legajo_id": "32",
+  "id_carta": "7093",
+  "order_in_legajo": 116,
+  "signatura": "118:1851.JPG",
+  "nombre_carta": "Carta de Nicolás de Santacilia y Togores a Pedro Santacilia y Pax",
+  "fecha_original": "1 de abril de 1665",
+  "lugar": "Madrid",
+  "remitente": "Nicolás de Santacilia y Togores",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "La estafeta paçada dege de escribir como el conde de alcutí y su padre con otros caballeros, que yo no conozco, pero no llegaron a venir sino a cazar las espadas, aunque el conde de Medellin anduvo muy bisaro por acá se amb la que hacen cuatro concegeros de Estado que son el cardenal Colona el duque de Cardona y el duque de Montalvo y el gobernador de Milán, que ahora ceme a olvidado el nombre El Rey a desyciete ve arangues, y me nombraron a mi porque vaya, ha sido fuerza ir. Guarde Dios a v. m. muchos años como deseo y me importa Madrid a 1 de abril de 1665 su más humilde hijo de v. m. y S. M. B. Sr. don Nicolas de Santacilia y Togores mi padre y señor [1§] Transcripción literal"
+  ],
+  "literal": [
+    "1. La estafeta paçada dege de escrivir co2. mo el conde de alcutí y su padre con 3. otros cavalleros, que yo no conosco, pero no lle4. garon a venir sino a caçar las espadas, aun5. que el Conde de Medelin anduvo muy 6. bisaro 7. por aca se abla que asen quatro con8. çegeros de Estado que son el Cardenal Co9. lona el Duque de Cardona y el Duque 10. de Montalvo y el Governador de Mila11. n, que aora ceme a olvidado el nonbre 12. El Rey a desyçiete ve arangues, y me 13. nombraron a mi porque vaya, a sido fuerça 14. yr Guarde Dios a VM. muchos anos co15. mo deseo y me inporta Madrid a 1 de 16. abril de 1665 17. su mas humilde hijo de 18. VM y S. M. B. 19. Don Nicolas de Sta. Cilia y Togores 20. mi Padre y Señor [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "118:1851.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo32/118:1851.JPG",
+      "url": "/legajos/legajo-32/images/118:1851.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "118:1851.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-32/cartas/007093.json",
+  "primary_image_url": "/legajos/legajo-32/images/118:1851.JPG"
+}

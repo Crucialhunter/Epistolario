@@ -1,0 +1,38 @@
+{
+  "legajo_id": "34",
+  "id_carta": "4992",
+  "order_in_legajo": 23,
+  "signatura": "028:6909.JPG",
+  "nombre_carta": "Carta de Vicente de Aragón a Pedro Santacilia y Pax",
+  "fecha_original": "23 de septiembre de 1655",
+  "lugar": "Madrid",
+  "remitente": "Vicente de Aragón",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "mío el criado que yo tenía a aquí a lapretensiontesnofi/ cio meha dicho comoseparte ya ens tar le y como me ha viadicho se yrialuegono escribí a v. s. dándolo ha ta ahora la enhorabuena deloficio de g ha coho mercida v. s. que ya podrá considerar [?] con el gusto queseladan pues solo lo queio caaR lo tengo más que por propio ysolo me quedara que desearel gls lo gnelos muchos a de [?] que deseo Acame ellñtodavi apues aún no handespachado al duque mi Dr. ya deba eso más de lo que juzga/ vamos pue notiene más remedio que lafle maylo y es uploc a v. s. es que acuerdesey su amigo con toda finesay re da [?] Dios guarde a v. s. muchos a [?] s Mdy septiembre 23 D. 1655 Amigo de v. s. don Vicente de Aragues Sr. don Pedro Santacilia y Pax [1§] Transcripción literal"
+  ],
+  "literal": [
+    "1. Sr. mio el criado que [io] tenia a aqui à lapretension[tesn]ofi/2. cio mehadicho comoseparte ya e[ns] [t]ar [l]e y como me3. ha viadicho se yrialuegono escribi à vs dandolo ha ta4. haora la norabuena deloficio de g ha coho mer[ci]da vs5. queyapodra considerar [?] con elgusto queseladan6. pues solo lo queio ca[aR] lo tengo mas quepor propio7. ysolo me quedara q desearel g[lls] lo g[n]elos muchos8. a[ d??] [q] deseo9. Acame [ellny]todavi apues haun no handes pachado10. al Duq mi dr. yya de[v]a e[ss]o mas delo q juzga/11. vamos pue notiene mas remedio q lafle maylo12. [ ]yes uploc a vs es es q[] [ ] aquerdesey su amigo13. contoda [f]inesay re[ da?] Dios gde a Vs muchos14. a[ ??]s [Md]y setiembre 23 d 165515. Amigo de VS16. Don Vicente 17. de Aragues18. Sr Don Po Sta CiliayPax [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "028:6909.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo34/028:6909.JPG",
+      "url": "/legajos/legajo-34/images/028:6909.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "028:6909.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-34/cartas/004992.json",
+  "primary_image_url": "/legajos/legajo-34/images/028:6909.JPG"
+}

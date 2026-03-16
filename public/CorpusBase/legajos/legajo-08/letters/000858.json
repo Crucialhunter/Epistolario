@@ -1,0 +1,38 @@
+{
+  "legajo_id": "8",
+  "id_carta": "858",
+  "order_in_legajo": 140,
+  "signatura": "063-51 copia",
+  "nombre_carta": "Carta de Gabriel Seguí a Persona desconocida",
+  "fecha_original": "29 de marzo de 1645",
+  "lugar": "Maó",
+  "remitente": "Gabriel Seguí",
+  "destinatario": "Persona desconocida",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Al fer del dia he rebut l'avís de v. s. juntament amb els plecs pel senyor duc d'Alonse Alto i de [?], els quals en el mateix punt he fets donar van junt amb esta respota de tots amb les Pitiüsses. Tinc la gent d'esta vila i terme pel segon {ESP. mandato} previnguda que per no haver-se descobert [?] vaixell algun no la he feta ajuntar en continant. La persona qui te a càrrec el castell m'escriu estiguin els tres-cents homes previnguts i el mateix m'ha escrit la seva excelència loCastell miescriu estigan els tres Cents homes previnguts i el mateix m'ha escrit su exelència acudiré a tot el que convingui. Guardi Déu Nostre Senyor a v. s. com pot. De Mahó i març, a 29 de 1645. De tot el que se innovi serà v. s. avisat. Gabriel Segui Senyor governador Transcripción literal"
+  ],
+  "literal": [
+    "1. Al fer del dia herebut lo avis deVSª juncta- 2. ment ablos plectio p lo s< > Duque de Alonse 3. Alto, Yde lalcayt losquals anal matex punt 4. he fets donar, van junctabesta respota detots 5. ablas pitusas= Tinch lagent destavila 6. Y terma p alsegon mandato previnguda que 7. p no haversa des cubert Viey Vaxell algu nola 8. hefeta ajunctar encontinant, lapersona qui te 9. acarrach loCastell miescriu stigan los 10. tres Cents homens previnguts Y lomatex 11. me ha escrit su ex< [a]> avedire atot loq 12. Convinga g< > Deu nr< > Señor aVsª compot 13. deMaho Y mars a 29 de 1645 14. detot loq se innovensa seraVsª avisat 15. Gabriel Sagui 16. Señor G< > [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "063-51 copia.jpg",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo08/063-51 copia.jpg",
+      "url": "/legajos/legajo-08/images/063-51 copia.jpg"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "063-51 copia.jpg",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-08/cartas/000858.json",
+  "primary_image_url": "/legajos/legajo-08/images/063-51 copia.jpg"
+}

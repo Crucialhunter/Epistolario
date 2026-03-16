@@ -1,0 +1,38 @@
+{
+  "legajo_id": "26",
+  "id_carta": "4481",
+  "order_in_legajo": 220,
+  "signatura": "316:3576.JPG",
+  "nombre_carta": "Carta de Ramon Despuig de Rocabertí a Pedro Santacilia y Pax",
+  "fecha_original": "4 de noviembre de 1651",
+  "lugar": "Ibiza",
+  "remitente": "Ramon Despuig de Rocabertí",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Ni el conèixer que és lei inviolable a tots la de morir, ni veure que és disposició de Déu encara que em conform amb la seva voluntat, és bastant per aliviar-me la pena, que m'ha causat la mort de mon germà D. Joan, que fou servit de portar-se'l a millor vida a 19 d'octubre. Morí tan cristianament, amb tanta edificacio de tots, que tinc per cert està {ESP. gosant} de la divina glòria, si bé, sempre tindré obligació de pregar per la sua ànima, pel gran amor de germà que sempre he experimantat amb ell, i suplic a v. m. ho faci com qui tant el volgué en vida. Sé les obligacions i desig que tenia de servir a v. m. i voldria se persuadis el que les continuaré quant serà servit manar-me. Déu guard a v. m. com pot. Eivissa novembre 4 de 1651. Don Ramon Despuig {de Rocaberti} Sr. D. Pedro Santacilia Transcripción literal"
+  ],
+  "literal": [
+    "1. Ni el conexer que es lei inviolable a tots la de morir, ni veure2. que es dispositio de Deu encare quem comform ab la sua3. voluntat, es bastant per aliviarme la pena, que me ha causat4. la mort de mon germa D. Juan que fonc servit de portarselo5. a millor vide a 19 de octubre, mori tan chritianement ab6. tanta edificasio de tots, que tinc per ser esta gosant de la div=7. ina glorie, si be, sempre tindre (^tindre) obligasio de pregar per8. la sue anim per lo gran hamor de germa que sempre he9. esperimantat ab ell, y suplic a V.m. ho fasa com qui tant 10. lo volge en vide, se las obbligasions y desig que tenia de servir11. a V.m. y voldrie se persuadis el que las continuare en qu=12. ant sera servit manarme Deu guart a V.m. com pot13. Isvisa noembre 4 de 165114. Don Ramon15. des puig16. Sr. D. Pedro Sentesilie [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "316:3576.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo26/316:3576.JPG",
+      "url": "/legajos/legajo-26/images/316:3576.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "316:3576.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-26/cartas/004481.json",
+  "primary_image_url": "/legajos/legajo-26/images/316:3576.JPG"
+}

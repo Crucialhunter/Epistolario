@@ -1,0 +1,38 @@
+{
+  "legajo_id": "33",
+  "id_carta": "4814",
+  "order_in_legajo": 9,
+  "signatura": "008:6730.JPG",
+  "nombre_carta": "Carta de Bonaventura de Lanuza Montbuí y Vilarig a No consta - Probablemente Pedro Santacilia y Pax",
+  "fecha_original": "15 de junio de 1627",
+  "lugar": "Girona",
+  "remitente": "Bonaventura de Lanuza Montbuí y Vilarig",
+  "destinatario": "No consta - Probablemente Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Diumenge a la tarda arribà lo patro Maltes de Menorca, fugitiu perquè allà lo volgueren fer prendre els inquisidors, i lo que allà no pogueren fer han fet los de Barcelona. En açò s'ha seguit lo prendre ahir dematí (bo) lo veguer i don Bernat de Cabrera a Miquel Anglada i Ramon Quint han-me avisat d'açò per propi, i lo mateix aviso jo amb esta per a que tots se tingan compte i estiguen sobre lo avís pel que pot ser, perquè conforme açò los negocis no corren ben. Demà faré avisar també lo de Flaçà [?]. V. m. avise del ordre que se haurà de tenir en tot, i si vol escriure'l a Barcelona enviem lo despatx que sia ací demà, entrada de nit, perquè tinc home que se'n anirà dijous dematí i és segur. Lo demés dirà lo donador d'esta. Guardi Déu a v. m. Girona i juny als 15 de 1627 Sr. don Bonaventura de Lanuça Montbui i Vilarig [1§] Transcripción literal"
+  ],
+  "literal": [
+    "1. Diumenge a la tarda arriba lo patro Maltes de Ma2. norca fugitiu perque alla lo volgueran fer pendrar3. los Inquisidos y lo que alla no pogueran fer an fet4. los de Barcelona: an asso se ha seguit lo pendrar5. air dematí (^bo) lo vaguer y don Bernat de Cabrera6. a Miquel Anglada y Ramon quint an me avisat7. de asso per propi y lo mateig aviso jo ab esta pe8. ra que tots se tingan compte y estigan sobre lo9. avís per lo que pot fer perque conforme asso10. los negossis no corran ben: dema fare avisar ta11. be lo de flaça Vm avise del horde que se aura12. de tenir en tot y si vol escriurerel a barcelona13. enviem lo despaig que sia assi dema entrada14. de nit per que tinch home que sen anira dijous15. demati y es segur lo dames dira lo donador desta16. guarde deu a Vm. Gerona y Juny als 15 de 162717. Don Bonaventura de la18. nuça monbuy y vilarig [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "008:6730.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo33/008:6730.JPG",
+      "url": "/legajos/legajo-33/images/008:6730.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "008:6730.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-33/cartas/004814.json",
+  "primary_image_url": "/legajos/legajo-33/images/008:6730.JPG"
+}

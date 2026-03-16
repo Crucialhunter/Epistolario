@@ -1,0 +1,43 @@
+{
+  "legajo_id": "17",
+  "id_carta": "2902",
+  "order_in_legajo": 168,
+  "signatura": "284:1444a.JPG",
+  "nombre_carta": "Carta de Jerónimo Pelegrín de Aragüés a Pedro Santacilia y Pax",
+  "fecha_original": "4 de junio de 1660",
+  "lugar": "Madrid",
+  "remitente": "Jerónimo Pelegrín de Aragüés",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "La imatge no es veu nítida. [1§] el castillo de San Sebastián y como el marqués es mozo y pocas experiencias de la guerra dijo que sí, acudieron luego a hablar al barón diciéndole que quería entrar a ver el castillo con aquellos grandes de Francia y el barón respondió que no, el marques dijo que sí y que había empeñado su palabra y el barón le dio razones con que el marqués se podía desempeñar cargaron de razones de manera que pusieron mano a las espadas y obligó el marques al Baron que le hubo de decir que se fuese a Madrid a enseñarlos los jardines que el a soldados que tanta fama como eran aquellos francés no les quería enseñar su fuerza con que su majestad enterado de esta materia mandó prender el marqués. Ha causado mucho que hablar esto en la corte y aún estos han sido los menores disgustos que han habido, yo tengo a v. m. largamente de todos los negocios de v. m. y que me envíe a decir si quiere que me vaya que ya estoy aguardando respuesta y asimismo que en esta corte no se halla quien quiera dar un real para esta tierra y que yo ya algunos días que no le tengo y asimismo se han de pagar dos vestidos de don Juan y nosotros hemos de comer, y he de pasar el camino. Yo tengo confianza cuando esta llegue a manos de. v. m. habrá (puesto) dado orden para que esto tenga satisfacción como lo confío, a diez de este jueves se ha de ver el pleito de la Inquisición, Dios nos dé buen suceso y guarde a v. m. muchos años como deseo y es menester. Madrid 4 de junio 1660. Su criado de v. m. Jeronimo Pelegrin Mi Sr. don Pedro [2§] Transcripción literal"
+  ],
+  "literal": [
+    "1. La imatge no es veu nítida.1. el Castillo de San sebastian y como el Sr. Marques es moço 2. y pocas experiençias de la Guerra dixo que ssi, acudieron 3. luego Ablar al Baron diçiendole que queria entrar a ver 4. el Castillo con aquellos grandes de françia y el Baron res5. pondio que no, el marques dixo que si y que haviempeñado 6. su pallabra y el Baron le dio raçones con que el marques se 7. podia desempeñar cargaron de racones de manera que pu=8. sieron mano a las espadas y obligo el Marques al Baron 9. que le (^hu) hubo de diçir que se fuesse a madrid a enseñjarlos 10. los Jardines que el a soldados que tanta fama como heran 11. aquellos frances no les queria enseñar su fuerça con que Su 12. Magd enterado desta materia Mando prender el Marques 13. a Caussado Mucho que ablar esto en la Corte y aun estos 14. an sido los menores disgustos que han habido,15. Yo tingo a V.M. largamente de todos los negocios de 16. V.M. y que me Invie a dicir si quiere que me vaia que ja estoÿ 17. aguardando Respuesta y anssimismo que en esta Corte no 18. se halla quien quiera dar un Real para estierra y que yo 19. ya algunos dias que no le tengo y ansimismo se han de pagar 20. dos bestidos de Don Juan y nosotros hemos de comer, y he 21. de passar el Camino jo tengo confiança quando esta llegue 22. a manos de. V.M. abra (^puesto) dado orden para que esto tenga 23. satisfaçion como lo confio, a diez deste Juves se ha dever el 24. Pleÿto de la Inquisicion Dios nos de Buen Successo y gde. 25. a V.M. muchos años Como deseo y he menester. Madrid 26. 4 de Junyo 166027. Su Criado de VM28. Gmo. Pelegrin29. Mi Sr. Don Pedro [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "284:1444a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo17/284:1444a.JPG",
+      "url": "/legajos/legajo-17/images/284:1444a.JPG"
+    },
+    {
+      "filename": "285:1444b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo17/285:1444b.JPG",
+      "url": "/legajos/legajo-17/images/285:1444b.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "284:1444a.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (4)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-17/cartas/002902.json",
+  "primary_image_url": "/legajos/legajo-17/images/284:1444a.JPG"
+}

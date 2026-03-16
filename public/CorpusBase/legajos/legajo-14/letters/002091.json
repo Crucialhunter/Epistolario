@@ -1,0 +1,43 @@
+{
+  "legajo_id": "14",
+  "id_carta": "2091",
+  "order_in_legajo": 188,
+  "signatura": "317:2601a.JPG",
+  "nombre_carta": "Carta de Nicolás de Santacilia y Togores a Pedro Santacilia y Pax",
+  "fecha_original": "3 de septiembre de 1663",
+  "lugar": "Madrid",
+  "remitente": "Nicolás de Santacilia y Togores",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Por vía de Valencia tengo escrito a v. m. tocante a mis pretensiones, y lo mismo que v. m. me significa en sus cartas, eso mismo salió luego que llegó a manos del Consejo de Aragón, pero fue de tal género que no se pudo remediar, y toda su razón de ellos fue que toda la hacienda real esta aplicada, para resguardo de esos puertos, con que desistieron una consulta muy honrada del conde Talara, pero no obstante sin que llegó a manos del consejo. Espero tener buen suceso, pidiendo una compañía de caballos para Cataluña, que ahora se ha de levantar buen trozo, porque están temiendo por instantes, y treinta escudos al mes sobre cualquier sueldo por vía de encomiendo esto fuera gran cosa sí lo sacara, pero atento a que don Blasco de Loyola me ha enviado un recado con el [?], que la reina tiene deseo de premiarme, que tenga los ojos en algo militar. Dios quiera tengamos buen suceso. [1§] Por acá se dicen muchas cosas pero las más inciertas y particularmente de Flandes, porque está muy sangriento aquello, pero ahora se dice han tenido buen suceso, porque teniendo sitiado una plaza el francés entro mercí [?] a socorrerla y de camino mató a cuatro mil hombres del enemigo, y dicen se escapó el rey de Francia milagrosamente, porque estaba con dieciocho caballos suyos enmedio de las tropas de acá y en Milán ha caído piedra y fe de tal género, que asoló todos los tejados. Guarde Dios a v. m. muchos años como deseo y es menester. Madrid a 3 de septiembre 1663. Su más humilde hijo de v. m. que sus manos besaDon Nicolas de Santacilia y Togores Mi Sr. y mi padre [2§] Transcripción literal"
+  ],
+  "literal": [
+    "1. Por via de Valensia tengo escrito a VM2. tocante a mis pretensiones, y lo mismo que 3. VM me sinnifica en sus Cartas, eso mismo Sa=4. lio luego que llego a manos del Consejo de Ara5. gon, pero fue de tal genero que no se pudo re-6. mediar, y toda su rason dellos fue que toda-7. la asienda real esta haplicada, para resgur-8. do de esos puerto, con que desistieron una consulta9. muy honrada del Conde Talara, pero nos-10. tante sin que llego a manos, del Consejo es=11. pero tener buen suseso, pidiendo una Conpa-12. nia de Cavallos para Cataluña, que aora se13. ha de llevantar buen troso, porque estan te=14. miendo por istantes, y treinta escudos al15. mes sobre qualquier sueldo por vía de en16. comiendo esto fuera gran cosa sí lo sacara17. pero atento a que Don Blasco de Loyola me a-18. inbiado un recado con el Ayo, que la Reina19. tiene deseo de premiarme, que tenga los20. ojos en algo militar Dios quera tengamos21. buen suseço [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "317:2601a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo14/317:2601a.JPG",
+      "url": "/legajos/legajo-14/images/317:2601a.JPG"
+    },
+    {
+      "filename": "318:2601b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo14/318:2601b.JPG",
+      "url": "/legajos/legajo-14/images/318:2601b.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "317:2601a.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-14/cartas/002091.json",
+  "primary_image_url": "/legajos/legajo-14/images/317:2601a.JPG"
+}

@@ -1,0 +1,43 @@
+{
+  "legajo_id": "30",
+  "id_carta": "6534",
+  "order_in_legajo": 116,
+  "signatura": "011:5372a.JPG",
+  "nombre_carta": "Carta de Catalina Fernández de Córdoba y Figueroa a Pedro Santacilia y Pax",
+  "fecha_original": "de mayo de 1635",
+  "lugar": "Perpiñán",
+  "remitente": "Catalina Fernández de Córdoba y Figueroa",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "No pierde v.m. punto en cuanto sabe puede hacerme merced y el darme nuevas de cómo les va a Antonio y a Vicente es para mí de tanto gusto que aseguro a v.m. que es alivio de muchos cuidados. Continúe v.m. el decirme cómo les va y que ese amigo pues es seguro lo diga a v.m. Pedro lo pasará muy bien con su compañía de v.m. y yo bien segura de lo que puede prometerse de ella: dígame v.m. cómo les va y en qué pasan la vida. Presto se cansan los de Villanueva, pues apenas está acabado el pan de la boda; ya veo me dice v.m. andan desavenidos. Ya el de Villafranca queda en Barcelona y pues estará más apartado. Durará más la amistad del protonotario y aseguro a v.m. que se holgará el duque de que no lo hubiesen encomendada la fábrica de estos barcos, pues en ningún caso la apetecía, que solo trataba de no pasar por tales desaires. Me holgaré mucho que sea su despacho de v.m. muy bueno: asegúrese bien y dígame dónde está esta gente para la armada y el puesto en que quiere ocupar al duque, que si es de su casa será el que mejor le estará. V.m. me avise {1§} de todo cuanto supiere y juzgaré importa se sepa. Guarde Dios a v.m. muchos años. Perpiñán a [fecha olvidada] de mayo 1635. [Letra original de la remitente: todo lo que no es para ver de sus cartas de v.m. no sale de mi mano, y cada día estimo más a su persona de vmd. La duquesa de Seg[orb]e y de Cardona Transcripción literal"
+  ],
+  "literal": [
+    "1. 1."
+  ],
+  "imagenes": [
+    {
+      "filename": "011:5372a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo30/011:5372a.JPG",
+      "url": "/legajos/legajo-30/images/011:5372a.JPG"
+    },
+    {
+      "filename": "012:5372b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo30/012:5372b.JPG",
+      "url": "/legajos/legajo-30/images/012:5372b.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "011:5372a.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (2)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-30/cartas/006534.json",
+  "primary_image_url": "/legajos/legajo-30/images/011:5372a.JPG"
+}

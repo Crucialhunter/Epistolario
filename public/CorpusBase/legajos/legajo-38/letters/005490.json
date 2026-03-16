@@ -1,0 +1,38 @@
+{
+  "legajo_id": "38",
+  "id_carta": "5490",
+  "order_in_legajo": 112,
+  "signatura": "030:14",
+  "nombre_carta": "Carta de Escrivà Miralles a Persona desconocida",
+  "fecha_original": "1 de enero de 1667",
+  "lugar": "Pollença",
+  "remitente": "Escrivà Miralles",
+  "destinatario": "Persona desconocida",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Delme de bestiars de la vila de Pollença de l'any 1667 lliurat a Jeroni Arades carnisser per 202 ll. Jaume Segui i Bartomeu Aloy tots de Pollença Miralles sba. Sr. don Diego Clapes mensari Sr. don Ramon Sureda mensari Antoni Pisa Ador. de li mensa episcopal Pere Onofre Mayol pdor. de la mensa Capi tular [1§] Transcripción literal"
+  ],
+  "literal": [
+    "1. Delme de bestiars de la vila de Pollensa2. del añy 1667 lliurat a H[ieroni]m Arades carnisser3. per 202 ll.4. Jaume Sagui y5. Barthomeu Aloy tots de Pollensa6. Miralles sba.7. Don Diego Clapes mens[ari8. Don Ramon Sureda mensari]9. Ant[oni] Pisa Ador. de le 10. mensa Apiscopal11. Pere Honofre Mayol 12. pdor. de la mensa Capi-13. tular [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "030:14.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo38/030:14.JPG",
+      "url": "/legajos/legajo-38/images/030:14.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "030:14.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (2)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-38/cartas/005490.json",
+  "primary_image_url": "/legajos/legajo-38/images/030:14.JPG"
+}

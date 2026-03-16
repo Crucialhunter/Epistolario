@@ -1,0 +1,43 @@
+{
+  "legajo_id": "35",
+  "id_carta": "5392",
+  "order_in_legajo": 202,
+  "signatura": "252:8239a.JPG",
+  "nombre_carta": "Carta de Diego Matías de Aragüés a Pedro Santacilia y Pax",
+  "fecha_original": "11 de marzo de 1664",
+  "lugar": "Madrid",
+  "remitente": "Diego Matías de Aragüés",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Por la carta de v. s. de 27 de enero, que ha recibido Jeronimo, nos hemos holgado doña Margarita y yo goce v. s. de buena salud. Que sea por muchos años, como deseamos, que besamos a v. s. sus manos y las de mi señora Dña. Leonor y todos esos Sres. muchas veces. y a v. s. habrá recibido las cartas de aviso de la jornada para Alemania, en que vaya el duque de Cárdenas a llevar la Sra. emperatriz. También cómo el Sr. don Nicolas tomó el hábito y se le dio el presidente de órdenes conde de Oropesa, y como la pendencia de los pajes y el ayuda de cámara, don Juan Marañón, todo quedó bien sin que se haya hecho novedad alguna con unos ni con otros, más, de haber estado retirados por más de cincuenta días. y con lo que se ha dado razón a v. s. ha parecido que Jeronimo no se mueva hasta ver si en esta primavera será la jornada de la señora emperatriz, por si v. s. tiene alguna novedad, y también hasta haber respuesta de v. s. de lo que se le tiene avisado y no aguarda otra cosa. Por ahora no hay de nuevo. Su Mgd., Dios le guarde., está bueno, aunque siempre impedido de aquel lado y la orina no le da tanto como solía. v. s. me mande le sirva y guarde Dios los muchos años que deseo. Madrid, a 11 Marzo 1664. Manda v. s. se dé ese plieguecillo al virrey que es de su correspondiente. Besa la mano de v. s. su mayor servidorDiego Matías de Aragues Madrid, 11 Marzo 1664 Diego Matías Aragues Sr. don Pedro Santacilia y Pax Transcripción literal"
+  ],
+  "literal": [
+    "1. Por la carta de VS. de 27 de enero q ha2. recivido Germo nos havemos olgado Doña3. Margta y yo goze VS. de buena salud q4. sea por muchos anos como deseamos que5. vesamos a VS. sus manos y las de mi 6. Sra. da. Leonor y todos essos SSrs. muchas vezes7. Ya VS. habra recivido las cartas de8. aviso de la jornada pa Alemania en q9. baya el Sr. Duque de Cardenas a llevar10. la Sra. Emperatriz Tambien como11. el Sr. Don Nicolas tomo el havito y se12. le dio el Sr Presidente de ordenes Conde13. de Oropessa, y como la pendencia de14. los Pajes y el Ayuda de Camara don15. Juan Maranon todo quedo bien sin q16. se haya hecho novedad alguna con unos17. ni con otros, mas de haver estado retirados18. por mas de cinquenta dias. Y con lo q19. se ha dado razon ha VS. ha parecido20. que Germo. no se mueba hasta ver si21. enesta primavera sera la jornada de la22. Sra. Emperatriz por si VS. tiene alguna [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "252:8239a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo35/252:8239a.JPG",
+      "url": "/legajos/legajo-35/images/252:8239a.JPG"
+    },
+    {
+      "filename": "253:8239b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo35/253:8239b.JPG",
+      "url": "/legajos/legajo-35/images/253:8239b.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "252:8239a.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (3)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-35/cartas/005392.json",
+  "primary_image_url": "/legajos/legajo-35/images/252:8239a.JPG"
+}

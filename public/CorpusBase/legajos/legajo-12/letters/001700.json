@@ -1,0 +1,37 @@
+{
+  "legajo_id": "12",
+  "id_carta": "1700",
+  "order_in_legajo": 191,
+  "signatura": "304_6293a.JPG",
+  "nombre_carta": "Carta de Juan Miguel de Santacilia y Togores a Pedro Santacilia y Pax",
+  "fecha_original": "1 de abril de 1662",
+  "lugar": "Madrid",
+  "remitente": "Juan Miguel de Santacilia y Togores",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Padre y señor mío. Don Pedro Fer. del Campo a quien v. m. conocería en Flandes, secretario del infante cardenal y ahora lo es de su majestad en la secretaria, de gera de la parte de la mar y del despacho universal, tiene un sobrino compañero mío muy mi amigo, me ha dicho que después de la enfermedad que su tío ha pasado (de que todavía está convaleciente y com pocas ganas de comer) se le han antojado unas aceitunas de Mallorca como aquellas que v. m. me suele enviar. Yo deseo hacer tanto gusto a este caballero y a su sobrino (que me ha encargado haga estos oficios) que estimaría mucho [1§] poderlo servir. Con unas pocas suplico a v. m. que en la primera ocasión que se ofrezca de enviármelas me haga este favor que deseo merecer a v. m. porque sé que me las han de agradecer. Con harto cuidado me tiene el no tener carta de v. m. muchos días ha yo quedo rogando a Dios no sea falta de salud y que se la dé a v. m. y le guarde como es menester en compañía de mi madre y Sra. cuyas manos beso y de mis hermanos a quienes me encomiendo de corazón. Madrid y abril 1º de 1662. Don Juan Santacilia Sr. don Pedro de Santacilia y Pax mi padre y Sr. [2§] Transcripción literal"
+  ],
+  "literal": [
+    "1. Padre y Senor mio Don Pedro Fer del 2. Canpo a quien V.M. conoceria en flan[de]s3. secretario del Sr ynfante Cardenal4. y aora loes de Su M[a]g[esta]d en la s[ecreta]ria de5. gera de la parte de la mar y del des6. pacho unyversal, tiene un sobrino7. compañero mio muy mi amigo ame8. dicho que despues de la enfermedad9. que su tio a pasado (de que todavia10. esta convalesiente y conpoquas ganas11. de comer) se le an antocado unas asitu12. nas de Mallorca como aquelas que13. V.M. me suele ynviar yo deseo as=14. er tanto gusto a este Cavalero y a su15. sobrino (que me a encargado aga16. estos ofisios) que estimaria mucho [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "304_6293a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo12/304_6293a.JPG",
+      "url": "/legajos/legajo-12/images/304_6293a.JPG"
+    },
+    {
+      "filename": "305_6293b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo12/305_6293b.JPG",
+      "url": "/legajos/legajo-12/images/305_6293b.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "304_6293a.JPG",
+  "warnings": [],
+  "raw_source": "raw/legajos/legajo-12/cartas/001700.json",
+  "primary_image_url": "/legajos/legajo-12/images/304_6293a.JPG"
+}

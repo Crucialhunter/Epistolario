@@ -1,0 +1,43 @@
+{
+  "legajo_id": "32",
+  "id_carta": "7114",
+  "order_in_legajo": 136,
+  "signatura": "148:1872a.JPG",
+  "nombre_carta": "Carta de Nicolás de Santacilia y Togores a Juan Seguals",
+  "fecha_original": "7 de mayo de 1665",
+  "lugar": "Aranjuez",
+  "remitente": "Nicolás de Santacilia y Togores",
+  "destinatario": "Juan Seguals",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "El vestido no tienes que enviármelo porque el día que me lo había de poner me hizo falta as hacer unos calçones, como los del vestido delgado, y cuenta que se han de la misma tela, y los mismos botones, y sino me los envias aprica y rerroto todos los caballeros que vinieron de Malorca dales un recaudo de mi parte y be a casa del conde de Cavella y dale un recaudo diciéndole como he estado con mucho cuidado Mañana te remitiré una carta para mi padre y Sr. no dejes de escribirme todos los días, y be al parte todos [1§] los días si pudieres [?] quien te prestase tres doblones con los dos de ocho de la mesada me arias mucho gusto y si los allares no tardes en enviarme los y Jerónimo no le irá muy bien de aquiadelante conmigo y Sr. me holgaría que estuviera en Madrid Dios te guarde como deseo Aragues a 7 de mayo 1665 Sr. don Nicolas de Santacilia y Togores a Juan Çaguales [2§] Transcripción literal"
+  ],
+  "literal": [
+    "1. El bestido no tienes que enbiarmelo 2. porque el dia que me lo avia de pon3. er me yso falta as aser unos calço4. nes, como los del vestido delgado, y quen5. ta que sean de la misma tela, y los mis6. mos botones, y sino me los embias apr7. ica y rerroto 8. Todos los cavalleros que vinieron 9. de Malorca dales un recaudo de 10. mi parte y be a casa del conde de 11. Cavella y dale un recaudo disien12. dole como e estado con mucho cui13. dado 14. Mañana te remitire una carta para 15. mi Padre y no dejes de escrivirme 16. todos los dias, y be al parte todos [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "148:1872a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo32/148:1872a.JPG",
+      "url": "/legajos/legajo-32/images/148:1872a.JPG"
+    },
+    {
+      "filename": "149:1872b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo32/149:1872b.JPG",
+      "url": "/legajos/legajo-32/images/149:1872b.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "148:1872a.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-32/cartas/007114.json",
+  "primary_image_url": "/legajos/legajo-32/images/148:1872a.JPG"
+}

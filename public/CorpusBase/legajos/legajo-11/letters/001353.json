@@ -1,0 +1,43 @@
+{
+  "legajo_id": "11",
+  "id_carta": "1353",
+  "order_in_legajo": 123,
+  "signatura": "204:5213a.JPG",
+  "nombre_carta": "Carta de Josep de Rocabertí a Pedro Santacilia y Pax",
+  "fecha_original": "7 de octubre de 1643",
+  "lugar": "Madrid",
+  "remitente": "Josep de Rocabertí",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Sr. don Pedro Santacilia i Pax Alguns dies fa que en casa de don Francisco Forteza trobí cartes que pensava ja tenir resposta de v. m. i així v. m. pensarà que és descuit meu el no rebre cartes meves i per això i ha molts mesos que no sé cosa de sa salut de v. m.. Si bé ara des que aquests cavallers mallorquins són en aquesta cort n'he sabudes i de com mi senyora Magdalena està prenyada, doni Déu a v. m. molts fills i que els pugui veure com tots desitgen. Jo pensava partir cap a Mallorca a on també pensava estar alguns mesos, però com les coses estan [?] tan mala qualitat ho dilataré fins que viatgin aquests cavallers que me [?] serà tot acomodat. Les noves que per aquí tenim són per a [ser] no contades, l'exercit diuen és eixit a campanya, ja veu v. m. que és temps que si se retiràs de la campanya m'apar seria més a son lloc. Jo està mal es per això me trobo en Madrid però ara estic boníssim [1§] per a servir a v. m. amb {ESP. hallo} que em vulgui manar a qui suplico de ma part me faci mercè donar més besamans a mi senyora dona Magdalena a qui Déu gaurdi com pot i jo desitjo, en Madrid i octubre 7 de 1643. Josep de Rocaberti Transcripción literal"
+  ],
+  "literal": [
+    "1. [^Sr. don pedro Sta. Cilia y Pax^]2. Algunos dias ha que en casa de don Franco Fortesa 3. trobi cartas de que pensava ya tenir respos 4. ta de Vm y axi Vm pensara ques descuit 5. meu lo no rebrer cartas mias y per en aso 6. aja molts mesos que no se cosa de sa salud 7. de VM si be ara desde que estos cavallers 8. mallorquins son en esta Cort ne sabudes 9. y de com mi señora Madalena esta 10. preñada done deu a Vm molts fills y quels 11. puga veurer com tots desijan. Jo pensava 12. partirme per a Mallorca aont tambe pensava 13. astar alguns mesos pero com las cosas estan 14. don tan mala calitat o dilatare fins vajan 15. estos cavallers que me apa sara tot acomo 16. dad= las novas que per aci tenim son 17. pera no contadas lo exercit diuen es axit acam 18. paña ya veu Vm en aques tems que si 19. se retiras de la campaña me apar seria 20. mes a son lloc. Jo esta mal esper asso 21. me trobo en Madrid pero ara estic bonissim [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "204:5213a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo11/204:5213a.JPG",
+      "url": "/legajos/legajo-11/images/204:5213a.JPG"
+    },
+    {
+      "filename": "205:5213b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo11/205:5213b.JPG",
+      "url": "/legajos/legajo-11/images/205:5213b.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "204:5213a.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-11/cartas/001353.json",
+  "primary_image_url": "/legajos/legajo-11/images/204:5213a.JPG"
+}

@@ -1,0 +1,37 @@
+{
+  "legajo_id": "31",
+  "id_carta": "6786",
+  "order_in_legajo": 27,
+  "signatura": "035:1537a.JPG",
+  "nombre_carta": "Carta de Jaume de Santacilia a Pedro Santacilia y Pax",
+  "fecha_original": "1 de enero de 1661",
+  "lugar": "Larache",
+  "remitente": "Jaume de Santacilia",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "[1§] [2§] Transcripción literal"
+  ],
+  "literal": [
+    "1. 1."
+  ],
+  "imagenes": [
+    {
+      "filename": "035:1537a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo31/035:1537a.JPG",
+      "url": "/legajos/legajo-31/images/035:1537a.JPG"
+    },
+    {
+      "filename": "036:1537b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo31/036:1537b.JPG",
+      "url": "/legajos/legajo-31/images/036:1537b.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "035:1537a.JPG",
+  "warnings": [],
+  "raw_source": "raw/legajos/legajo-31/cartas/006786.json",
+  "primary_image_url": "/legajos/legajo-31/images/035:1537a.JPG"
+}

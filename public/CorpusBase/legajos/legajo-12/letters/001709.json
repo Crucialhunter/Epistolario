@@ -1,0 +1,38 @@
+{
+  "legajo_id": "12",
+  "id_carta": "1709",
+  "order_in_legajo": 201,
+  "signatura": "317_6302.JPG",
+  "nombre_carta": "Carta de conde de Santa María de Formiguera a Pedro Santacilia y Pax",
+  "fecha_original": "28 de marzo de 1663",
+  "lugar": "Son Sardina",
+  "remitente": "conde de Santa María de Formiguera",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Amb la mercè que v. m. em fa tinc vista les novetats i mudances de virrei poques noves fresques sa poden aguardar suposat tots dos bergantins a molts dies que falten de València conforme m'ha dit un fill d'un criat de casa qui és vingut amb el bergantí, no obstant que diu aporten uns daspatxos per al virrei, tocants a la lleva i un capità i alferes al {ESP. sargento} major costurer em fa mercè que ha vengut demà ocupat a fer treure una [?]. Si v. m. te novetats que em farà mercè de qui participam d'elles per tenir-lo ocupat amb dos {ESP. modos}, molt val la intercesió de v. m. per qui per l'obra podem dir que les formatjades són molt bones, i amb abundància per haver-ne regalada. Mi Sra. dona Magdalena a dona Francina la mort de don Pedro no deixarà de fer falta alguns i altres no. Déu li hagi ajudat i doni molts anys de vida a v. m. en companyia de mi Sra. dona Leonor i als senyors, els seus fills a qui de part de dona Francina i mia molts {ESP. recaudos} . Son Sardina, als 28 de març 1663. El comte de Santa Maria de Formiguera Sr. don Pedro Santacilia i Pax [1§] Transcripción literal"
+  ],
+  "literal": [
+    "1. An la marsa que Vm. em fa tinc vista las novedats2. y mudansas de visrrey pocas novas frescas sa3. podan agordad suposat tots dos bargantins4. á mols dias qui faltan de vallensia comforma5. ma dit un fill de un criat de casa qui es vin6. gut an lo barganti no hostant que diu apor7. tan uns daspaixs par al visrrey tocans a la8. lleva y un capita y alferis= al sargento9. mayor custurer am fa mersa de que a vangut10. dama ocupat a fer treura una haigo si vm11. te novedats de que em fera mersa de qui partisi12. pam de ellas per tenirlo ocupat an dos modos,13. molt val la antersasio de vm per qui par la14. obra podem dir que los formagadas son molt15. bonas, y anb abundansia per averna regalada ma16. Sra. dona madalena a Da. fransina17. la mort de don Poio no dexara de fer falta18. alguns y altres no deu li aya ayudat y don19. mols hañys de vida a Vm a conp[anyi]a de mi20. Sra. Da. helenor y als srs. sos fills a qui de part de Da21. fransina y mia mols recaudos. Son Sarda[?] als 2822. de mars 166323. El Comte de Sta Ma24. de formiguera25. Sr Don Pedro santa cicilia y pax [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "317_6302.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo12/317_6302.JPG",
+      "url": "/legajos/legajo-12/images/317_6302.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "317_6302.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-12/cartas/001709.json",
+  "primary_image_url": "/legajos/legajo-12/images/317_6302.JPG"
+}

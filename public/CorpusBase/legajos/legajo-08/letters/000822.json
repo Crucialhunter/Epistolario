@@ -1,0 +1,38 @@
+{
+  "legajo_id": "8",
+  "id_carta": "822",
+  "order_in_legajo": 11,
+  "signatura": "018-15a copia",
+  "nombre_carta": "Carta de Ángelo del Santísimo Sacramento (carmelita) a Persona desconocida",
+  "fecha_original": "fecha sin especificar",
+  "lugar": "lugar sin especificar",
+  "remitente": "Ángelo del Santísimo Sacramento (carmelita)",
+  "destinatario": "Persona desconocida",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Fray Angelo, del santísimo sacramento, religioso carmelita descalzo por haber dado {CAT. altra} vez y perdido todo cuanto tenía y serle forzoso mañana pasar adelante para embarcarse, suplico a v. e. le favorezca con alguna limosna, que siempre reconocerá, suplicando a Dios en sus pobres sacrificios por el aumento de v. e. y que guarde su persona. Humilde capellán menor de todos, que su mano besa. Fray Angelo, del santísimo sacramento. Transcripción literal"
+  ],
+  "literal": [
+    "1. Fr. Angelo del .ss<>. sacram<>. Religioso carmelita 2. descalço por aver cado altrabes iperdido todo 3. quanto tenia, i serle forçoso mañana pasar 4. adelante para enbarcarse, suplico aV. Exc 5. le favoresca con alguna limosna, quesiempre 6. reconoçera suplicando aDios ensus pobres 7. sacifiçios por el aumento de V. Exce< [a]> i que 8. guarde supersona 9. humilde capellan menor detodos 10. q sumano besa 11. Fr. Angelo del 12. .S. sacrato 13. 14. [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "018-15a copia.jpg",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo08/018-15a copia.jpg",
+      "url": "/legajos/legajo-08/images/018-15a copia.jpg"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "018-15a copia.jpg",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (2)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-08/cartas/000822.json",
+  "primary_image_url": "/legajos/legajo-08/images/018-15a copia.jpg"
+}

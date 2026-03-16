@@ -1,0 +1,38 @@
+{
+  "legajo_id": "26",
+  "id_carta": "4524",
+  "order_in_legajo": 260,
+  "signatura": "385:3620.JPG",
+  "nombre_carta": "Carta de Jerónimo Pelegrín de Aragüés a Pedro Santacilia y Pax",
+  "fecha_original": "6 de diciembre de 1668",
+  "lugar": "Mallorca",
+  "remitente": "Jerónimo Pelegrín de Aragüés",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Señor. v. s. bien sabe v. s. cuan de esta su casa es el Sr. Mateu Armengol y en todo y por todo asiste cada día con buena volundad el alférez Jaime Armengol, todavía se halla en esta ciudad, aguardando ocasión honrosa para poder pasar a Cádiz, donde está domiciliado, y como no tenemos otro amparo, sino el de v. s., se ha de servir favorecerle con el duque de Medinaceli, duque de Alcala i el Sr. don Antonio Pimentel de Prado la honren con una bengala de capitán, que supuesto es hijo de padres tan honrados y ha servido a su majestad tantos años. Suplicamos a v. s. esta intercesión para honrarnos a todos. Dios guarde a v. s. muchos años com deseo y es menester. Mallorca 6 de desembre 1668. Su {ESP. criado} de v. s. que sus manos besa, Jeronimo Pelegrin y Aragues {CAT. De v. s. Mateu Armengol, que Nre. Sr. me'l deixi veure a Mallorca en vida del Sr. son fill} Transcripción literal"
+  ],
+  "literal": [
+    "1. Señor. V.S. bien save, (^V.S.) quan desta su cassa es2. el Sr. Matheu Armengol y en todo y por todo asiste cada día3. con buena volundad= el Alferez Jaime Armengol4. toda via se hall enesta Ciudad aguardando ocassion5. onrrossa para poder passar a Cadiz donde esta dumisilia6. do; y como no tenemos otro emparo sino el de V.S. se ha7. de servir favorecerle con el Sr. Duque de Medina Celi Sr.8. Duque de Alcala y el Sr. Don Anttº Pimentel de Prado9. le onrren con una vengala de capitan que supuesto10. es hijo de padres tan onrrados y ha servido a Su Magd.11. tantos añyos supplicamos a V.S. esta intercession para12. onrrarnos a ttodos Dios gde. a V.S. m[ucho]s a[ño]s como deseo y he13. menester Mallorça 6 de 10bre 166814. De V.S Mtheu15. Armanglo que Ne. Sr.16. lom dex veura a Mall[orc]a17. en vida del sr. don fill18. Su criado de V.S. q[ue] s.m.B.19. Heronymo Pelegrin y Aragues [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "385:3620.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo26/385:3620.JPG",
+      "url": "/legajos/legajo-26/images/385:3620.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "385:3620.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (4)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-26/cartas/004524.json",
+  "primary_image_url": "/legajos/legajo-26/images/385:3620.JPG"
+}

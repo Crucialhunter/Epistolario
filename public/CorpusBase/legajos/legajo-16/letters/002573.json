@@ -1,0 +1,43 @@
+{
+  "legajo_id": "16",
+  "id_carta": "2573",
+  "order_in_legajo": 60,
+  "signatura": "098:2073a.JPG",
+  "nombre_carta": "Carta de Diego Matías de Aragüés a Pedro Santacilia y Pax",
+  "fecha_original": "23 de abril de 1667",
+  "lugar": "Madrid",
+  "remitente": "Diego Matías de Aragüés",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Tengo escritas por todas partes y no se me ofrece ahora más de decir a v. s. como el señor don Nicolás va mejorando de cada día y valiéndose con mas libertad de piernas y brazos y de los oídos de manera que ya se levanta a sus necesidades sin que haya menester quien le ayude, con que espero, siendo Dios servido, ha de quedar con muy buena salud. Por cura se le ha asistido en cuanto se le ofrece y en el cuidado de sus menesteres. Acá en todo hay dilaciones y suspensión sin despachar cosa que importa, con que no se puede caminar más, y los ministros superiores muy ocupados pero sin resoluciones. Hoy toman los birretes en el colegio de la compañía de Jesús los señores duque de Montalto y nuncio de España por mano del señor cardenal de Aragón. Ayer besó la mano al señor duque de Cardona (que esta famoso), y me hizo mucha merced y me ofreció volvería a hablar al señor vicecanciller y al señor don Antonío Ferrer que es muy suyo para la pretensión del oficio que en esta semana que viene. Entendéremos en ello porque el decreto y memorial está en poder del señor potronotarío. También besé la mano a mi señora la duquesa de Cardona, que está muy gruesa preñada, [1§] En lo del obispo entendéremos con toda fuerza por toda la semana que viene, y tengo muy prevenida a mi señora la condesa de Ricla para que nos haga despachar, que muestra deseos eficaces para el buen suceso y es mucho del auditor del señor nuncio que es el que lo ha de hacer. El señor don Miguel Salva me ha dicho que espera salir de aquí para mitad de Mayo, y parece que su ropa la remite por Valencia para que la envíen a Mallorca a Miguel Fiol. Como digo de sus pensiones (sepa v. s.) que el puesto de mayordomo mayor que tenía el señor duque de Montalto su provisión está suspendida por ahora por la revolución que hay de pretendientes, y en el ínterin que ejerza el conde del Real como mayordomo más antiguo de la reina. Mire v. s. de que calidad esta todo. V. s. me mande le sirva y guarde Dios muchos años como deseo. Madrid a 23 de abril 1667. Al señor don Jorge Dezcallar se le despachó anteayer con que subirá la consulta presto y me prometo estará bien despachado. Besa las manos de v. s. su mayor servidor, Diego Matias de Aragues Después de escrita recibo por Barcelona cartas de 4 de éste, no se ofrece que responder a ellas siempre insito en que la [?] y cadenas se la llevan a v. s. y no se remita aquí, y así se le digo a Balell y al cual escribió al señor don Nicolás una carta toda de su mano. Por Valencia escribirá a v. s. Hoy se ha publicado la mayordomía mayor del duque de Alba y mañana se va a palacio. Señor don Pedro Santacilia y Pax Transcripción literal"
+  ],
+  "literal": [
+    "1. Tengo escritas por todas partes y no seme ofreçe aora mas 2. de deçír a VS. como El señor Don Nicolas va mejoran3. do de cada dia y valiendose conmas livertad depier4. nas y brazos y delos ydos demanera queyaselevanta 5. a sus neçessidades sinque ayamenester quíen leayude 6. conque espero siendo Dios serdo ade quedar con muy 7. buena salud por cura sele a assistido enqto sele ofreçe 8. y enel cuydado de sus menesteres; 9. Aca entodo ay dilaçiones y suspenssíon sin despachar 10. Cossa queimporta, con que nose puede Camínar mas, y 11. Los Ministros superíores muy ocupados perosín Resoles 12. Oy toman los Virretes enel colegío dela compa de Jesus 13. los señores Duque de Montalto, y Nuncio de España 14. por mano del Sr Cardenal de Aragon; 15. Ayer vesso la mano al sr Duque de Cardona (q 16. esta famoso), yme hizo mucha md yme ofrecio 17. Volveria ablar al Sr Viçe Cançeller y al sr D Antonío 18. Ferrer que es mucho suyo para la pretenssíon del 19. offiçio que enesta semana q Viene entenderemos en 20. ello porque el decreto y meml esta en poder del Sor 21. Potro notarío. tanbien bese lamano ami Sa la Duqa 22. de Cardona que esta muy gruesa preñada, [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "098:2073a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo16/098:2073a.JPG",
+      "url": "/legajos/legajo-16/images/098:2073a.JPG"
+    },
+    {
+      "filename": "099:2073b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo16/099:2073b.JPG",
+      "url": "/legajos/legajo-16/images/099:2073b.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "098:2073a.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (3)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-16/cartas/002573.json",
+  "primary_image_url": "/legajos/legajo-16/images/098:2073a.JPG"
+}

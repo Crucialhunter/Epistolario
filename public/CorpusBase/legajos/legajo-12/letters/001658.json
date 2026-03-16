@@ -1,0 +1,37 @@
+{
+  "legajo_id": "12",
+  "id_carta": "1658",
+  "order_in_legajo": 163,
+  "signatura": "241_6251a.JPG",
+  "nombre_carta": "Carta de Pedro Pellicer a Pedro Santacilia y Pax",
+  "fecha_original": "31 de octubre de 1651",
+  "lugar": "Barcelona",
+  "remitente": "Pedro Pellicer",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "[1§] Transcripción literal"
+  ],
+  "literal": [
+    "1."
+  ],
+  "imagenes": [
+    {
+      "filename": "241_6251a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo12/241_6251a.JPG",
+      "url": "/legajos/legajo-12/images/241_6251a.JPG"
+    },
+    {
+      "filename": "242_6251b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo12/242_6251b.JPG",
+      "url": "/legajos/legajo-12/images/242_6251b.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "241_6251a.JPG",
+  "warnings": [],
+  "raw_source": "raw/legajos/legajo-12/cartas/001658.json",
+  "primary_image_url": "/legajos/legajo-12/images/241_6251a.JPG"
+}

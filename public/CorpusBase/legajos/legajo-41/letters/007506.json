@@ -1,0 +1,47 @@
+{
+  "legajo_id": "41",
+  "id_carta": "7506",
+  "order_in_legajo": 90,
+  "signatura": "296:132a",
+  "nombre_carta": "Carta de Persona desconocida a Persona desconocida",
+  "fecha_original": "4 de junio de 1627",
+  "lugar": "Mallorca",
+  "remitente": "Persona desconocida",
+  "destinatario": "Persona desconocida",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "[1§] [2§] [3§] [4§] Transcripción literal"
+  ],
+  "literal": [
+    "1. 1. 1. 1."
+  ],
+  "imagenes": [
+    {
+      "filename": "296:132a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo41/296:132a.JPG",
+      "url": "/legajos/legajo-41/images/296:132a.JPG"
+    },
+    {
+      "filename": "297:132b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo41/297:132b.JPG",
+      "url": "/legajos/legajo-41/images/297:132b.JPG"
+    },
+    {
+      "filename": "298:132c.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo41/298:132c.JPG",
+      "url": "/legajos/legajo-41/images/298:132c.JPG"
+    },
+    {
+      "filename": "299:132d.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo41/299:132d.JPG",
+      "url": "/legajos/legajo-41/images/299:132d.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "296:132a.JPG",
+  "warnings": [],
+  "raw_source": "raw/legajos/legajo-41/cartas/007506.json",
+  "primary_image_url": "/legajos/legajo-41/images/296:132a.JPG"
+}

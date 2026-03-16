@@ -1,0 +1,43 @@
+{
+  "legajo_id": "16",
+  "id_carta": "2576",
+  "order_in_legajo": 62,
+  "signatura": "104:2076a.JPG",
+  "nombre_carta": "Carta de Diego Matías de Aragüés a Pedro Santacilia y Pax",
+  "fecha_original": "27 de abril de 1667",
+  "lugar": "Madrid",
+  "remitente": "Diego Matías de Aragüés",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "He recibido las cartas de 6 del corriente y respondido por Barcelona. El señor don Nicolas está ya muy mejorado de su achaque que no es poca dicha escribe de su M. no la que va con esta, que cuando entró en mi casa no se podía valer de manos ni pies que parece cosa milagrosa en tan breves días. Espero que presto tendrá licencia para vestirse. v. s. descuide todo lo demás por ahora es menester escribirle algo de cariño de los negocios hasta ver [?] con ellos. No diré palabra, ojalá que el obispo venga acá que mucho más abreviáramos y a v. s. habrá recibido la cédula y duplicado para el dinero. Suplícole se haga con puntualidad y se me avise luego. Lo demás que tengo advertido de Balell lo dicho, v. s. tiene con un hijo al señor duque de Cardona que parió habrá tres días mi señora la duquesa con feliz parto, esta contentísimo. Yo le fui luego a besar la mano, también de parte de v. s. [1§] El día de San Jorge recibieron losbirretes de cardenales los señores duque de Montalto, y nuncio de España por mano del señor cardenal de Aragón, el señor cardenal de Montalto se mudó en frente San Gil, y ocupa ya el cuarto que tenía en Palacio el señor duque de Alba con el puesto de mayordomo mayor. No se me ofrece otra cosa por acá. v. s. me mánde le sirva que sus manos besamos doña Margarita y yo con las de mi señora doña Leonor el señor don Juan y todos esos señores muchas veces y guarde Dios como deseo. Madrid 27 de abril de 1667. El señor don Jorge Dezcallar estará presto despachado y me prometo bien que su consulta está arriba y también me aseguró se iba a mitad del que viene el señor don Miguel Salva y la plaza de fiscal que hay, en esta semana saldrá. No tiene v. s. ya que estar con cuidado del señor don Nicolas que de verdad me mucho cuidado. Besa las manos de v. s. su mayor servidor Diego Matias de Aragues Señor don Pedro Santacilia y Pax [2§] Transcripción literal"
+  ],
+  "literal": [
+    "1. He reçívído Las cartas de 6 del corríente y Respon2. dido por Barçelona = 3. El Señor D Nícolas esta ya muy megorado de 4. su achaque que no es poca dicha escribe desuma5. no la que va con esta, que quando entro en mí 6. Cassa nosepodia baler demanos ní pies que pareçe 7. Cossa milagrosa entan brebes días, Espero que 8. presto tendra liçençía para bestirsse. VS. descuy9. de de todo lo demas por aora es menester escriville 10. algo de caríño = 11. delos Negoçíos hastaber amoseba con ellos 12. Nodire palabra, ojala que el obispo benga aca 13. que mucho mas abreviaramos = 14. Ya VS. havra Reçívído la Çedula y duplicado 15. para El dinero, Suplicole se aga conpuntualidad 16. y seme avíse luego. Lodemas que tengo advertí17. do de Balell lo dicho. (/dicho;) 18. Vs. tiene Con un hijo al Sr Duque de Cardona 19. que parío habra tres dias MiSa la Duquesa con 20. feliz parto, esta Contentissímo. Yo le fi luego a 21. besarla mano, tanbien de parte de Vs. [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "104:2076a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo16/104:2076a.JPG",
+      "url": "/legajos/legajo-16/images/104:2076a.JPG"
+    },
+    {
+      "filename": "105:2076b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo16/105:2076b.JPG",
+      "url": "/legajos/legajo-16/images/105:2076b.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "104:2076a.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (3)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-16/cartas/002576.json",
+  "primary_image_url": "/legajos/legajo-16/images/104:2076a.JPG"
+}

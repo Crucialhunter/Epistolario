@@ -1,0 +1,37 @@
+{
+  "legajo_id": "9",
+  "id_carta": "1123",
+  "order_in_legajo": 4,
+  "signatura": "286-9-05aa",
+  "nombre_carta": "Carta de Persona desconocida a Arnau de Santacilia",
+  "fecha_original": "fecha sin especificar",
+  "lugar": "lugar sin especificar",
+  "remitente": "Persona desconocida",
+  "destinatario": "Arnau de Santacilia",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Pesa el cadenó i clauer d'or setanta i tres lliures [?] – 173 lliuresMés per {ESP. milloria} d'or tres lliures – 3 lliures Més denou dotzenes de claus menuts – 10 lliures 1 sous Més deu sivelles i tres anells – 4 lliures 8 sous Més tres dotzenes i un clau grossos de plata – 7 lliures 198 lliures 3 sous Més per les mans del deman dic quaranta lliures – 40 lliures 238 lliures 3 sous 209 lliures 33 lliures 3 sous 9 lliures 28 lliures 3 sous[1§] Pesa el cadenó i clauer d'or cent trenta lliures – 130 Lliuresmés he rebut cinquanta lliures – 50 lliures més tinc rebut vint-i-cinc lliures – 25 lliures 205 lliures Transcripción literal"
+  ],
+  "literal": [
+    "1. pessa al Cadano y clauher de hor2. setanta y tres lliures [?] 173 L 3. Mes p Miloria dehor tres lliures tres L 4. Mes denou dotsenas de Claus me-5. nuts 10 L[ 1s 6. mes deu sivellas y tres anells ? 4 L 8 s 7. mes tres dotsenas y Un Clau y grossos[?] 8. de plata ? 7 L 9. 198 L[liures>] 3 s 10. Mes ples mans de lo deman dit 11. coranta lliures ? 40 L 12. 238 L 3 s 13. 109 L 14. = 33 L 3 s 15. 9 L 16. 28 L 3 s [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "286-9-05aa.jpg",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo09/286-9-05aa.jpg",
+      "url": "/legajos/legajo-09/images/286-9-05aa.jpg"
+    },
+    {
+      "filename": "286-9-05ab.jpg",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo09/286-9-05ab.jpg",
+      "url": "/legajos/legajo-09/images/286-9-05ab.jpg"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "286-9-05aa.jpg",
+  "warnings": [],
+  "raw_source": "raw/legajos/legajo-09/cartas/001123.json",
+  "primary_image_url": "/legajos/legajo-09/images/286-9-05aa.jpg"
+}

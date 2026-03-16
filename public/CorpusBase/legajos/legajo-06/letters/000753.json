@@ -1,0 +1,38 @@
+{
+  "legajo_id": "6",
+  "id_carta": "753",
+  "order_in_legajo": 58,
+  "signatura": "431-214",
+  "nombre_carta": "Carta de Tomás Mariano Quint Zaforteza a Cecilia Zaforteza y Sureda de Sant Martí",
+  "fecha_original": "de julio de 1748",
+  "lugar": "Mallorca",
+  "remitente": "Tomás Mariano Quint Zaforteza",
+  "destinatario": "Cecilia Zaforteza y Sureda de Sant Martí",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Cecília, Estim estiguis amb salut. Ta mare està bona i els {ESP. demés}, en Tomàs, a Son Mas i els comediants estan repartits per Son Mas, Son Orlandis i Coves. De part de tots el Sr. Francesc i tu molts {ESP. recuerdos}. Jo fris i Déu te guardi molts anys. D. Tomàs Quint Zaforteza, ton pare [1§] A dona Cecilia Zaforteza i Sureda, guardi Déu molts anys. Sant Martí Transcripción literal"
+  ],
+  "literal": [
+    "1. Cecilia estim estigas 2. en salut te mara es- 3. ta bone y los demes 4. en Thomas a Son Mas 5. y los Comediantes estan 6. repartits per Son Mas, 7. Son Orlandis y Covas 8. de part de tots al Frch y 9. tu molts redos jo fris y 10. Deu te Gde ms as 11. Dn. Thomas Quint 12. Caforteza Ton Para 13. A Dne. Cecilia 14. Caforteza y Sure- 15. de Gde Deu 16. ms as 17. St. 18. Marti. [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "431-214.jpg",
+      "original_url": "http://www.santacilia.org/intranet/img/Legajo06/431-214.jpg",
+      "url": "/legajos/legajo-06/images/431-214.jpg"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "431-214.jpg",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (2)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-06/cartas/000753.json",
+  "primary_image_url": "/legajos/legajo-06/images/431-214.jpg"
+}

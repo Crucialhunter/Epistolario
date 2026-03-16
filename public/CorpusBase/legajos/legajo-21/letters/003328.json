@@ -1,0 +1,43 @@
+{
+  "legajo_id": "21",
+  "id_carta": "3328",
+  "order_in_legajo": 18,
+  "signatura": "036:5617a",
+  "nombre_carta": "Carta de condesa de Zavellá a Persona desconocida",
+  "fecha_original": "6 de febrero de 1632",
+  "lugar": "Vallmoll",
+  "remitente": "condesa de Zavellá",
+  "destinatario": "Persona desconocida",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Lada v. m. tinc rebuda juntament en el Creu, i m'estar que és estada bona advertència la que v. m. he feta que no ha per un monestir tot sol la decència me v. m. besa que Jo no he volada [?] cuio [?] que ara so en una part [?] en una altra, i així es menester de [?] jura sots els monestirs de [?] no obstant que tinc fet propo [?] hable si no moure de vallmol [?] i que vull fer {ESP. verdaderas} ses [?] de v. m. que tant diu que el viuda rica Tantas tristesas m'escria de guerra i com fesions, que em fan venir {ESP. malencolia} el que voldria es queixa remor de guerra servís perquè v. m. isques amb alguna compania, i si acàs vol palteres a son fill lifas a saber que se {ESP. arrimo} pqualsevol cosa, la altra dia li demanava ho com sabria ser soldat tant petit, i me [1§] digué que faria tot el que veuria son pare: que axinoi ha sinó fer coques ho que ja té qui el imitaria Ali no tenim cosa nova sinó que tot i tenim salut gràcies a Déu escrigui v. m. d'aquí noves que ni ha abundacia guardi Nostre Senyor a v. m. com desig Vallmoll a 6 de {ESP. febrero} 1662 [?] [2§] Transcripción literal"
+  ],
+  "literal": [
+    "1. Lade v.m. tinch rebuda Juntamens en lo 2. Creu, y me astar ques estade bona ad3. vertencia laque v.m. he feta deque no 4. ha per un monestir tot sol la decencia 5. me v.m. besa Sr que Jono he volada 6. [Ilegible] cuio[?] que hara so en una part 7. [Ilegible] en una altra, y axi es menester de 8. [Ilegible] jura sots los monestirs de 9. [Ilegible]no obstant quetinch fet propo 10. [Ilegible] able si no moure de vallmol 11. [Ilegible] y que vull fer verda[^de]ras ses 12. [Ilegible] de v.m. que tant diu que lo 13. viuda rica 14. Tantas tristesas me escria de guerra y con 15. fesions, quem fan venir malencolia 16. loque voldria es quexa remor de guerra 17. servis peraque v.m. isques ab alguna 18. compania, ysi acas vol palteres ason fill 19. lifas asaber que se arrimo pqualsevol 20. cosa, la altre dia lidemanava ho com 21. sabria ser soldat tant petit, y me [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "036:5617a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo21/036:5617a.JPG",
+      "url": "/legajos/legajo-21/images/036:5617a.JPG"
+    },
+    {
+      "filename": "037:5617b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo21/037:5617b.JPG",
+      "url": "/legajos/legajo-21/images/037:5617b.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "036:5617a.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-21/cartas/003328.json",
+  "primary_image_url": "/legajos/legajo-21/images/036:5617a.JPG"
+}

@@ -1,0 +1,38 @@
+{
+  "legajo_id": "32",
+  "id_carta": "7119",
+  "order_in_legajo": 138,
+  "signatura": "156:1877.JPG",
+  "nombre_carta": "Carta de Nicolás de Santacilia y Togores a Juan Seguals",
+  "fecha_original": "10 de mayo de 1665",
+  "lugar": "Madrid",
+  "remitente": "Nicolás de Santacilia y Togores",
+  "destinatario": "Juan Seguals",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Miércoles te enviaré la carta para mi padre. No tienes que enviarme calzones porque si tenemos de andar con tantos misterios, por eso no quiero con Antonio de la Peña, y tu dile que te busque un hombre de confianza y le darás los tres doblones, y si puede ser mañana no lo esperes a esotro día, y haz todo lo que pudieres. A toda la gente da muchos recaudos. Dios te guarde como deseo, Madrid a 10 de mayo 1665. Sr. don Nicolas de Santacilia y Togores a Juan Çaguales Transcripción literal"
+  ],
+  "literal": [
+    "1. Miercoles te enbiare la carta para 2. mi Padre 3. no tienes que enbiarme calcones 4. por que si tenemos de andar con 5. tantos misterios por eso no quiero 6. con antonio de la Peña, y tu dile 7. que rebusque un onbre de confi8. anca, y puede ser mañana no lo espe9. res a esotro dia, y as todo lo que 10. pudieres a toda la gente da mu11. chos recaudos Dios te guarde como 12. deseo Madrid a 10 de Mayo 1665 13. Don Nicolas de Sta. Cilia y 14. Togores 15. a Juan Caguales [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "156:1877.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo32/156:1877.JPG",
+      "url": "/legajos/legajo-32/images/156:1877.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "156:1877.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-32/cartas/007119.json",
+  "primary_image_url": "/legajos/legajo-32/images/156:1877.JPG"
+}

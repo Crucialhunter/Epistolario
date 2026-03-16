@@ -1,0 +1,38 @@
+{
+  "legajo_id": "11",
+  "id_carta": "1327",
+  "order_in_legajo": 96,
+  "signatura": "165:5187.JPG",
+  "nombre_carta": "Carta de Llorenç Carreras a Pedro Santacilia y Pax",
+  "fecha_original": "12 de agosto de 1643",
+  "lugar": "Mallorca",
+  "remitente": "Llorenç Carreras",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Amb {ESP. cuidado} me posa li nova que vingué de li indisposisió de v. s. però prest vingué de li {ESP. milloria} de salut sia nostre servit donarlei complida i conservar-li molts anys com aquest son servidor desitja amb estava un pleguet rebut del virrei i una carta que ací m'han comanat tot pens anirà per mans del Sr. don Joan Mi chel esta terra està en les desditxes que v. s. sap i temo no passen a aqueixa si se efectue el que és tracte d'enviar ahir a Baro na i quatre o sis Camarades seves que son homes que no sabran estar quiets i podien perturbar-li pau que el bon Govern de v. s. me'n ten a eixa {ESP. isla} i causar-li algun {ESP. enfado} ja en he advertit a alguns de li audiència i al Nico lau Togores Déu ho encamin tot i a v. s. guar de com li pupplic de Mallorca a 12 agost 1643 El Ardiaco Carreras governador de Menorca [1§] Transcripción literal"
+  ],
+  "literal": [
+    "1. Ab cuidado me posa le nove que vingue 2. de le indisposisio de VSª pero prest vin 3. gue de le milloria de salut sie nostro Sr. 4. servit donarlei complide y conservar lei 5. molts anys con est son servidor desitge 6. ab esta va un pleguet rebut del sr. Virrey 7. y una carte que asi me an acomenat tot 8. pens anira per mans del sr. don Joan Mi 9. chel esta terra esta en les desditxes que 10. VSª sap y temo no pasen a aquexa si se 11. efectue lo ques tracte de enviar ahi a Baro 12. na y quatre o sis Camarades sues que son 13. homes que no sabran estar quiets y porien 14. perturbar le pau que lo bon Govern de VSª men 15. ten a exa isla y causarli algun enfado jan 16. he advertit a alguns de le audientia y al Sr. Nico 17. lau Togores Deu ho encamin tot y a VSª guar 18. de com li pupplic de Mallorca a 12 Agost 1643 19. El Ardiaco Carreras 20. [^Sr. Governador de Menorca^] [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "165:5187.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo11/165:5187.JPG",
+      "url": "/legajos/legajo-11/images/165:5187.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "165:5187.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-11/cartas/001327.json",
+  "primary_image_url": "/legajos/legajo-11/images/165:5187.JPG"
+}

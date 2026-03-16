@@ -1,0 +1,38 @@
+{
+  "legajo_id": "18",
+  "id_carta": "3083",
+  "order_in_legajo": 119,
+  "signatura": "190:4922.JPG",
+  "nombre_carta": "Carta de Jerónimo Pelegrín de Aragüés a Pedro Santacilia y Pax",
+  "fecha_original": "5 de agosto de 1664",
+  "lugar": "Madrid",
+  "remitente": "Jerónimo Pelegrín de Aragüés",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Mi Sra. El dissabte de St. Jaume Parti de Barcelona i arrivi a esta Cort a 4 del corrent a on mete v. m. molt prompte per a servir-la suplicant-la sempre tinga memòria de mamuller i filla que per a mí serà mercè particular en cara quiyo Notinga ser vida a v. m. (per) en cosa fassau per a morde Déu que amb el seu empan resto sempre prostrar asos peus. Procurare a silicitar els Negocis de mi que tinc confiança quant esta arrivara a les mans de v. m. 1| ja estira descansant al Costat i regalos que v. m. acostuma tenir sempre Nostresr la guardi Mols anys com desig i tinc menester Madrid 5 d'agost 1664 Criat de v. m. que ses mans besa Jeroni Pelegri Sr. don Nicolau he vist avui de matí es fa Molt galant Cavaller que v. m. noloconexeria Mi senora [1§] Transcripción literal"
+  ],
+  "literal": [
+    "1. Mi sra Lo disapte de St Jaume Parti de Bar=2. celona y arrivi a esta Cort a 4 del Corrent aont mete 3. VM. molt pronte pera servirla suplicantla sempre 4. tinga memoria de mamuller y filla que paramí 5. sera merced particular en cara quiyo Notinga ser=6. vida a VM. (^per) en cossa fassau pera morde Deu 7. que ab lo seu empan resto sempre prostrar asos 8. peus. 9. Procurare a silicitar los Negocis de misr que tinch 10. confiança quant esta arrivara a las mans de VM. 11. [2|] ja estira descansant al Costat y regalos que VM. 12. acostuma tenir sempre Nostrosr la guarde Mols 13. anys com desig y tinch menester Madrid .5. 14. de Agost 1664 15. Criat de VM. q s[] M[] B[] 16. Geronym Pelegri 17. Don Nicolau he vist vuy 18. de mati es fa Molt galant 19. Cavaller que VM. noloconexeria20. [Margen izquierdo][^ Mi senora] [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "190:4922.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo18/190:4922.JPG",
+      "url": "/legajos/legajo-18/images/190:4922.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "190:4922.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (4)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-18/cartas/003083.json",
+  "primary_image_url": "/legajos/legajo-18/images/190:4922.JPG"
+}

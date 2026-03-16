@@ -1,0 +1,43 @@
+{
+  "legajo_id": "18",
+  "id_carta": "2976",
+  "order_in_legajo": 9,
+  "signatura": "017:4815a",
+  "nombre_carta": "Carta de Joan Pizà a Persona desconocida",
+  "fecha_original": "17 de diciembre de 1647",
+  "lugar": "Pollença",
+  "remitente": "Joan Pizà",
+  "destinatario": "Persona desconocida",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Molt il·lustre Amb esta sabrà com som Arribat en esta vila de Pollença amb salut complida sempre per a servir a v. m. del que m'en comana del vimblanc Rebra el portador de la present la (/la) castana Jo he fetes moltes diligències en haver de cercar el millor d'esta vila i així li agrada a v. m. Avisara i va a raó de nou sous Mitx corter i així v. m. dispongue en coses de son gust Nostre li don Molt bones i felices d'estes Juntament amb tots els de sa casa Nostre Sr. el guarda i Pollença als 17. desembre 1647 Joan Pissa Criat de v. m. [1§] Mallorca 1648 {ESP. rdo} [2§] Transcripción literal"
+  ],
+  "literal": [
+    "1. Molt Illustre Sr 2. Ab esta sebra com som Arribat en esta vila de Pollença ab 3. salut complida sempre para s[erv]ir a vm. de lo que me 4. en comana del vinblanch Rebra el portador de la pnt la 5. (/la) castana Jo he fetas moltas diligentias en haver de sercar 6. lo millor de esta vila y Axi li agrada a vm. Avisara 7. y va a reho de nou sous Mitx corter y Axi vm. dispon8. gue en cosas de son gust Nostro Sr li don Molt bones y 9. felises destas Juntament ab tots los de se casa Nostre Sr 10. lo guarda y Pollença als 17. 10bre 1647 11. Joan Pissa Criat de Vm. [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "017:4815a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo18/017:4815a.JPG",
+      "url": "/legajos/legajo-18/images/017:4815a.JPG"
+    },
+    {
+      "filename": "018:4815b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo18/018:4815b.JPG",
+      "url": "/legajos/legajo-18/images/018:4815b.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "017:4815a.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (2)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-18/cartas/002976.json",
+  "primary_image_url": "/legajos/legajo-18/images/017:4815a.JPG"
+}

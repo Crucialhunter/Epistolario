@@ -1,0 +1,38 @@
+{
+  "legajo_id": "16",
+  "id_carta": "2583",
+  "order_in_legajo": 70,
+  "signatura": "114:2083.JPG",
+  "nombre_carta": "Carta de Nicolás de Santacilia y Togores a Pedro Santacilia y Pax",
+  "fecha_original": "7 de mayo de 1667",
+  "lugar": "Madrid",
+  "remitente": "Nicolás de Santacilia y Togores",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Solo para dar cuenta a v. m. de mi salud escribo esta, como es buena, holgáreme que la de v. m., y mi madre, y hermanos sean de mi pretensión hasta ahora, no he empezado nada, porque espero salir de casa muy presto y lo primero tratar de despachar antes que se muden las cosas, aunque están bien malas, ahora virrey y tesorero, tratan de irse muy presto,. Guarde Dios a v. m. muchos años como deseo y es menester, Madrid a 7 de mayo 1667. Su más humilde hijo de v. m. que su mano besa Don Nicolas de Santacilia y Togores Mi señor y mi padre Transcripción literal"
+  ],
+  "literal": [
+    "1. Solo para dar quenta a VM de misalud 2. escrivo esta, Como es buena, olgareme que 3. la de VM, y mi Madre, y hermanos se han 4. de mi pretension asta agora, no he enpe5. sado nada, porque espero salir de Casa muy 6. presto y lo primero tratar de despachar 7. antes que se mudan las Cosas aun que 8. estan bien malas, aora Virey y Tesore9. ro, tratan de irse muy presto, Guarde 10. Dios a VM muchos años Como deseo y e11. menester Madrid a 7 de Mayo 1667 12. Su mas humilde hijo 13. de VM q MB 14. Don Nicolas Sta Cilia y Togores 15. [Margen izquierdo][^ mi sr y mi Padre] [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "114:2083.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo16/114:2083.JPG",
+      "url": "/legajos/legajo-16/images/114:2083.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "114:2083.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-16/cartas/002583.json",
+  "primary_image_url": "/legajos/legajo-16/images/114:2083.JPG"
+}

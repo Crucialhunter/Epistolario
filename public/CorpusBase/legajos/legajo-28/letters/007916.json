@@ -1,0 +1,43 @@
+{
+  "legajo_id": "28",
+  "id_carta": "7916",
+  "order_in_legajo": 163,
+  "signatura": "279:3794a.JPG",
+  "nombre_carta": "Carta de Jerónimo Pelegrín de Aragüés a Pedro Santacilia y Pax",
+  "fecha_original": "17 de enero de 1665",
+  "lugar": "Madrid",
+  "remitente": "Jerónimo Pelegrín de Aragüés",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Por Alicante hoy tengo respondido a todas las de v. m. de 18 del pasado. Esta sola es para avisarle cómo llegó el Sr. Cardenal Colona a 14 de este en Alcalá, adonde está. Ayer a 16 se publicó la jornada de la señora infanta para 15 de abril. Y el sr duque de Cardona la lleva y ha aceptado el cargo respondiendo con galantería que solo interesaba el servir al rey sin atender a sus particulares. Y así se ofreció a ello. Hoy [he] estado en su casa y don Pedro Mateo su secretario me ha dicho que lo escribiese en esta conformidad a v. m. De lo que se innovare avisaré con puntualidad. Madrid, 17 de enero 1665. Su criado que sus manos besa. Jeronimo Pelegrin. Mi Sr. don Pedro. [1§] [Otra letra] Nº 59 Madrid, 17 Febrero 1665. Jeronimo Pelegrin. NOTA: ver carta 3790. Transcripción literal"
+  ],
+  "literal": [
+    "1. Por Alicante oy tengo respondido attodas las2. de vm de 18 del passado. esta sola es para havisarle3. como llego el sr. Cardenal Colona a 14 deste en Alcala4. adonde esta. Hajer a 16. se publico la jornada dela5. señora Infanta para 15 de Abril. y el sr Duque6. de Cardona la lleva y ha haceptado el cargo. Res7. pondiendo con galateria que solo interesava el8. servir al Rey. sin attender a sus particulares9. y assi se ofrecio ha ello. oy estado en su cassa y Don 10. Pedro Matheo. su secretario me ha dicho quelo escrivise11. en esta conformidad a vm delo quese inovare12. havisare con puntualidad. Madrid 17. de Henero13. 1665.14. Su Criado q. s. M. B.15. Geronymo Pelegrin16. Mi sr. Don Pº. [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "279:3794a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo28/279:3794a.JPG",
+      "url": "/legajos/legajo-28/images/279:3794a.JPG"
+    },
+    {
+      "filename": "280:3794b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo28/280:3794b.JPG",
+      "url": "/legajos/legajo-28/images/280:3794b.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "279:3794a.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (4)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-28/cartas/007916.json",
+  "primary_image_url": "/legajos/legajo-28/images/279:3794a.JPG"
+}

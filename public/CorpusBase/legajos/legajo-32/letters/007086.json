@@ -1,0 +1,48 @@
+{
+  "legajo_id": "32",
+  "id_carta": "7086",
+  "order_in_legajo": 109,
+  "signatura": "107:1844a.JPG",
+  "nombre_carta": "Carta de Jerónimo Pelegrín de Aragüés a Pedro Santacilia y Pax",
+  "fecha_original": "25 de marzo de 1665",
+  "lugar": "Madrid",
+  "remitente": "Jerónimo Pelegrín de Aragüés",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Transcripción literal"
+  ],
+  "literal": [
+    "1. 1. 1."
+  ],
+  "imagenes": [
+    {
+      "filename": "107:1844a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo32/107:1844a.JPG",
+      "url": "/legajos/legajo-32/images/107:1844a.JPG"
+    },
+    {
+      "filename": "108:1844b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo32/108:1844b.JPG",
+      "url": "/legajos/legajo-32/images/108:1844b.JPG"
+    },
+    {
+      "filename": "109:1844c.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo32/109:1844c.JPG",
+      "url": "/legajos/legajo-32/images/109:1844c.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "107:1844a.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (4)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-32/cartas/007086.json",
+  "primary_image_url": "/legajos/legajo-32/images/107:1844a.JPG"
+}

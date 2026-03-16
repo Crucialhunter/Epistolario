@@ -1,0 +1,47 @@
+{
+  "legajo_id": "33",
+  "id_carta": "4844",
+  "order_in_legajo": 45,
+  "signatura": "055:6760a.JPG",
+  "nombre_carta": "Carta de conde de Peralada a Pedro Santacilia y Pax",
+  "fecha_original": "14 de mayo de 1629",
+  "lugar": "Barcelona",
+  "remitente": "conde de Peralada",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "[4§] Transcripción literal"
+  ],
+  "literal": [
+    "1."
+  ],
+  "imagenes": [
+    {
+      "filename": "055:6760a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo33/055:6760a.JPG",
+      "url": "/legajos/legajo-33/images/055:6760a.JPG"
+    },
+    {
+      "filename": "056:6760b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo33/056:6760b.JPG",
+      "url": "/legajos/legajo-33/images/056:6760b.JPG"
+    },
+    {
+      "filename": "057:6760c.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo33/057:6760c.JPG",
+      "url": "/legajos/legajo-33/images/057:6760c.JPG"
+    },
+    {
+      "filename": "058:6760d.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo33/058:6760d.JPG",
+      "url": "/legajos/legajo-33/images/058:6760d.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "055:6760a.JPG",
+  "warnings": [],
+  "raw_source": "raw/legajos/legajo-33/cartas/004844.json",
+  "primary_image_url": "/legajos/legajo-33/images/055:6760a.JPG"
+}

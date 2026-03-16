@@ -1,0 +1,43 @@
+{
+  "legajo_id": "32",
+  "id_carta": "7117",
+  "order_in_legajo": 94,
+  "signatura": "153:1875a.JPG",
+  "nombre_carta": "Carta de José Balell a Pedro Santacilia y Pax",
+  "fecha_original": "9 de marzo de 1665",
+  "lugar": "Barcelona",
+  "remitente": "José Balell",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Sr. D. Pedro Santacilia, mi Sr. Recibí sus acostumbrados favores de v. s. con la última fue servido mandarme escribir estimando mucho el haber tenido buena noticia de la salud de v. s. que como a tan interciado que lo suplico a Dios Nro. Sr. se la conserve como puede desº. y es menester, ahí van las novedades del que por acá se ofrece y continuan en las que se irán ofrechien con muy buena voluntad y afecto. El pliego que hicia a Jeronimo pª. Madrid remití puntual y por si acaso Jerónimo se hubiese partido puse en su ausencia al Sr. D. Nicolas su hijo y mi y es porque Jordi me lo había advertido que [?] Gmo. estaría fuera de Madrid. mucho me pesa que con este pasaje no pueda remitir la calandria y es que a los partes [?] han ofrecido y de ningª. ha llegado havelo en estando en mi poder al hermano del Sr. D. Gabriel de Berga a quien beso su mano me ofrecido servir a esta ciud. y lo [?] haré en volviendo de la semblea como es mi obligación. [1§] y pues v. s. sabe que soy su criado le suplico me mande como quien puede asegurado de que le dé obedecer y servir con toda atención guarde. muchos años a v. s. felices en compañía de cuanto quiere y desea. Barcelona y marzo a 9 de 1665 Cierto criado de v. s. que sus manos besa. Josep Balell Transcripción literal"
+  ],
+  "literal": [
+    "1. Sr. D Pº. Santacilia mi sr 2. Recivi sus acostumbrados favores de VS 3. con la ultima fue servdo mandarme 4. escrivir estimando mucho el haver te5. nido buena noticia de la salud de VS. 6. que com a tan interciado que lo suppco 7. A Dios nro Sr. se la conserve como puede 8. desº. y he menester, Ay van las nove9. dades del que por aca se offrece y continua10. n en las que se hiran offrechien con mui 11. buena boluntad y afecto 12. El pliego que hicia a Geronimo pª. 13. Madrid remiti puntual y por si acaso 14. Geronimo se huviese partido puse 15. en su ausencia al Sr. D Nicolas su hijo 16. y mi Sr. y es porque Jordi me lo havia 17. advertido que [?] Gmo. estaria fuera 18. de Madrid. 19. Mucho me pesa que con este pasaje no 20. pueda remitir la calandria y es que 21. a los partes [?] han offrecido y de 22. ningª. ha llegado havelo en estando en 23. mi poder 24. Al hermano del Sr. D. Gabriel de Ber25. ga a quien beso su mano me offrecido servir a 26. esta ciud. y lo [?] hare en bolviendo 27. de la semblea como es mi obligon. [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "153:1875a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo32/153:1875a.JPG",
+      "url": "/legajos/legajo-32/images/153:1875a.JPG"
+    },
+    {
+      "filename": "154:1875b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo32/154:1875b.JPG",
+      "url": "/legajos/legajo-32/images/154:1875b.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "153:1875a.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-32/cartas/007117.json",
+  "primary_image_url": "/legajos/legajo-32/images/153:1875a.JPG"
+}

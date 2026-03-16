@@ -1,0 +1,43 @@
+{
+  "legajo_id": "6",
+  "id_carta": "741",
+  "order_in_legajo": 7,
+  "signatura": "408-202a",
+  "nombre_carta": "Carta de Antonio Mir a Cecilia Zaforteza y Sureda de Sant Martí",
+  "fecha_original": "fecha sin especificar",
+  "lugar": "Palma",
+  "remitente": "Antonio Mir",
+  "destinatario": "Cecilia Zaforteza y Sureda de Sant Martí",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Señora. Remito a v. m. los papeles despachados a mi satisfacción. Me parece conveniente el que se les ponga unas puertas de pergamino, antes de pasarse a manos del abogado para su examen. También convendrá que en ínterin el señor dn. Tomás, su hermano, solicite la copia del instrumento de 5 enero de 1501 en poder de Cristobal Mir, notario, el que para en casa del señor marqués de Vivot, de lo que ya queda advertido porque del contenido de dicho [1§] instrumento ha de resultar la noticia de las 3.300 libras que se pagaron por razón del fideicomiso. Y en ínterin queda a sus órdenes su más seguro y atento servidor. Antonio Mir. La señora doña Cecilia Zaforteza, viuda. Transcripción literal"
+  ],
+  "literal": [
+    "1. Señora. Remito á V.M. 2. los papeles despachados, á mi 3. satisfacion. Me parece conve- 4. niente el que se les ponga 5. unas puertas de pergami- 6. no, antes de pasarse á ma- 7. nos del Abogado para su 8. examen. 9. Tambien convendra, q< ue> en In- 10. terin el S< eñ>or Dn. Thomas su 11. hermano, solicite la copia 12. del Instrumento de 5 Ene- 13. ro de 1501 en poder de 14. Cristoval Mir Not< ario>, el 15. que para en casa del S< eñ>or 16. Marq< ué>s de Vivot, de lo 17. q< ue> ya queda advertido; porq< ue> 18. del contenido de d< ic>ho Ins- [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "408-202a.jpg",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo06/408-202a.jpg",
+      "url": "/legajos/legajo-06/images/408-202a.jpg"
+    },
+    {
+      "filename": "409-202b.jpg",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo06/409-202b.jpg",
+      "url": "/legajos/legajo-06/images/409-202b.jpg"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "408-202a.jpg",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-06/cartas/000741.json",
+  "primary_image_url": "/legajos/legajo-06/images/408-202a.jpg"
+}

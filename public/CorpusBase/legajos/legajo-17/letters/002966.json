@@ -1,0 +1,43 @@
+{
+  "legajo_id": "17",
+  "id_carta": "2966",
+  "order_in_legajo": 231,
+  "signatura": "402:1508a.JPG",
+  "nombre_carta": "Carta de Sebastià Bibiloni a Pedro Santacilia y Pax",
+  "fecha_original": "20 de septiembre de 1660",
+  "lugar": "Lugar sin especificar",
+  "remitente": "Sebastià Bibiloni",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Ilstr [?] Mi senyor don Pedro, després d'haver besades la (sic) mans ha v. s. li don avís que haurà cosa d'uns vint dies que em prengué en tertio i en barber i dos altres homes que no els conegue [?] i així no he pogut fer a saber ha v. s. fins esta hora per causa que he estat apartat se'n poder parlar ha persona ninguna i així no he poguda saber la causa d'aquest negoci pot ser perquè jo no he ofes ha persona ninguna de Mallorca Jo em pens que serà alguna persona qui em deu voler mal i així estic. Confiat de v. s. que en aquest negoci farà el que li apere xera no dic més Nostre Senyor guardi la persona de v. s. i els {ESP. demés} de sa casa. d'esta presó als 20 setembre i 1660. Criat de v. s. que sa mà besa Sebastia Babiloni [1§] a don Pedro çentacilia cavaller de l [?] hàbit de Chala trava procurador reial del reina de Mallorca [2§] Transcripción literal"
+  ],
+  "literal": [
+    "1. Ilstr Sr.[?]2. Mi Señor Don Pedro, dempues de haver besadas la (sic) mans3. ha Vs. li don avis q aura cosa de uns vint dias quem prengue 4. en tertio y en barber y dos altros homens que no los conegue?5. y axi no he pugut fer a seber ha Vs. fins esta hora per causa 6. q he estat apartat sen poder parlar ha persona ninguna 7. y axi no he poguda seber la causa de aquest negosi pot ser 8. perq jo no he ofes ha persona ninguna de Mallorca 9. Jo em pens que sera alguna persona quim deu voler mal y axi 10. estic. Confiat de Vs. que en aquest negosi fera lo que li apere=11. xera no dic mes nostro Señor gde la persona de Vs.12. y los demes de se casa. De esta pres[o] als 20 7bre13. y 1660.14. Criat de Vs. q s[a] m[a] b15. Sebastia Babiloni [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "402:1508a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo17/402:1508a.JPG",
+      "url": "/legajos/legajo-17/images/402:1508a.JPG"
+    },
+    {
+      "filename": "403:1508b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo17/403:1508b.JPG",
+      "url": "/legajos/legajo-17/images/403:1508b.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "402:1508a.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (2)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-17/cartas/002966.json",
+  "primary_image_url": "/legajos/legajo-17/images/402:1508a.JPG"
+}

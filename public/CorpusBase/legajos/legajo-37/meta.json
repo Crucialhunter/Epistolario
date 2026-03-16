@@ -1,0 +1,78 @@
+{
+  "legajo_id": "37",
+  "num_cartas": 60,
+  "num_imagenes": 189,
+  "rango_temporal": [
+    1624,
+    1706
+  ],
+  "remitentes_frecuentes": [
+    {
+      "name": "Persona desconocida",
+      "count": 24
+    },
+    {
+      "name": "Bernat Rosselló Custos",
+      "count": 10
+    },
+    {
+      "name": "Pedro Santacilia y Pax",
+      "count": 3
+    },
+    {
+      "name": "No consta",
+      "count": 3
+    },
+    {
+      "name": "Jacinto Cardona",
+      "count": 2
+    }
+  ],
+  "destinatarios_frecuentes": [
+    {
+      "name": "Persona desconocida",
+      "count": 44
+    },
+    {
+      "name": "Pedro Santacilia y Pax",
+      "count": 5
+    },
+    {
+      "name": "No consta",
+      "count": 3
+    },
+    {
+      "name": "Leonor Santacilia i Despuig",
+      "count": 1
+    },
+    {
+      "name": "Pedro Juan Fortuny",
+      "count": 1
+    }
+  ],
+  "lugares_frecuentes": [
+    {
+      "name": "Mallorca",
+      "count": 27
+    },
+    {
+      "name": "lugar sin especificar",
+      "count": 12
+    },
+    {
+      "name": "Lugar sin especificar",
+      "count": 7
+    },
+    {
+      "name": "Ciutadella",
+      "count": 7
+    },
+    {
+      "name": "Bunyola",
+      "count": 2
+    }
+  ],
+  "temas_frecuentes": [],
+  "warnings_count": 23,
+  "densidad_narrativa_estimada": "Media"
+}

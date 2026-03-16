@@ -1,0 +1,38 @@
+{
+  "legajo_id": "21",
+  "id_carta": "3343",
+  "order_in_legajo": 34,
+  "signatura": "057:5632",
+  "nombre_carta": "Carta de Ana Rocabertí Sarriera a Persona desconocida",
+  "fecha_original": "1 de marzo de 1632",
+  "lugar": "Girona",
+  "remitente": "Ana Rocabertí Sarriera",
+  "destinatario": "Persona desconocida",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Privadíssim senyor, De tots els {CAST. grandes} de costela he sabut que v.m. era caigut de cavall per lo camí i em som [m]olt alegrada de que sia alçat perquè qui es cau i s'aixeca Déu li ajuda. El rei de Suècia té ja por de v. m., jo tinc por que tant postagant com m'han dit que v. m. veié els diamants no siguin restes. He fet fer dos {CAST. candeleros} i els tinc ja amb candeles perquè quan sàpiga v.m. me'ls faré acendrar per parlar-li i veurà quina cara fa perquè m'han dit v.m. s'és tornat molt feroç. {ESP. Gosa} v. m. la llibertat molts anys que de tots sos bons successos ningú se n'alegrarà més que jo. Nostre Senyor guardi a v. m. com la monarquia d'Espanya té menester i jo desig. De Girona i març a 1 any 1632 dona Ana Rocaberti i Sarriera [1§] Transcripción literal"
+  ],
+  "literal": [
+    "1. privadissim Sr detots los grandes de costela 2. esabut que vm era caigut de caval per 3. locami ymsomolt alegrada deguesia alsat 4. perque quis (^salsa) cau y se axexa deu lia 5. guda lo rei de suesia te ya por de vm y otin 6. por quetant postagant com man ditque 7. vm ve que los diamans no sian restas 8. e fet fer dos candaleros yls tinc ya 9. ab candelas peruqe cuant sapiavm 10. me los fare ans enrar per parlar li yveu11. ra quina cara fa perque mandit vm ses 12. tornat molt fa ros gosa vm la libar13. tat mols ans que detots sos bons sucse14. sos ningu sen alegrara mes que yo. 15. nostre senor ge avm com la monar-16. quia despana te menestre yo desio degiro17. na y mars a 1 ay 1632 18. Dona Ana rocaberti 19. y çarriera [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "057:5632.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo21/057:5632.JPG",
+      "url": "/legajos/legajo-21/images/057:5632.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "057:5632.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-21/cartas/003343.json",
+  "primary_image_url": "/legajos/legajo-21/images/057:5632.JPG"
+}

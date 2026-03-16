@@ -1,0 +1,43 @@
+{
+  "legajo_id": "21",
+  "id_carta": "3460",
+  "order_in_legajo": 147,
+  "signatura": "266:5748a.JPG",
+  "nombre_carta": "Carta de marqués de Torreguso a Pedro Santacilia y Pax",
+  "fecha_original": "16 de junio de 1639",
+  "lugar": "Pamplona",
+  "remitente": "marqués de Torreguso",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Ilustrísimo Sr. Sr. mío habienido resuelto el Sr. teniente de ir a buscar el señor marques de la carta para s. e. mejor considerado resuelve volverse por la nomina y así no he querido se vuelva sin besarle las manos y habiendole de [?] de v. s. me precio y que en cuanto se sirviere de mandar le erviré y lo mismo está dispuesto hacer el duque. Yo por haber estado enfermo algunos días y ser de passar a [?] por donde me encaminaré entre cuatro días [?] porque sepa. [?] [1§] mandarme días son le supliqué me enviase los cuatro roncines. Vuelvo a suplicárselo y viniendo de su mano no he de dudar han de ser más extremados. Nro. Sr. guarde a v. m. como deseo, Pamplona 26 junio 1639. El marques de Torreguso . Pamplona 16 Junio 1639 El marques de Torreguso rdo. Transcripción literal"
+  ],
+  "literal": [
+    "1. Illmo snr 2. sñor mio havienido resuelto el snr 3. tiniente de hir a buscar el sñor 4. Marqs dele carta para S.E. 5. mexor considerado resuelve Vol6. berse por la nomina y assi no 7. e querido se buelva sin be8. sarle las mans y acienda serda que 9. serr d[e] VS me preçio y q en qo se 10. sirviere de mandar le Sirvare[?] 11. y lo mismo sta dispuesto açer 12. el duq yo por haver stado en 13. firmo[?] algunos dias i ser depas14. sar a lasuo[?] vençia pordonde 15. me encaminare entre quatro 16. dias havisiselo porq seppa dal [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "266:5748a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo21/266:5748a.JPG",
+      "url": "/legajos/legajo-21/images/266:5748a.JPG"
+    },
+    {
+      "filename": "267:5748b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo21/267:5748b.JPG",
+      "url": "/legajos/legajo-21/images/267:5748b.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "266:5748a.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-21/cartas/003460.json",
+  "primary_image_url": "/legajos/legajo-21/images/266:5748a.JPG"
+}

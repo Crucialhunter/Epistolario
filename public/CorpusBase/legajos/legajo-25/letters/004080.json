@@ -1,0 +1,48 @@
+{
+  "legajo_id": "25",
+  "id_carta": "4080",
+  "order_in_legajo": 14,
+  "signatura": "029_114a.JPG",
+  "nombre_carta": "Carta de Diego Matías de Aragüés a Jerónimo Pelegrín de Aragüés",
+  "fecha_original": "26 de febrero de 1667",
+  "lugar": "Madrid",
+  "remitente": "Diego Matías de Aragüés",
+  "destinatario": "Jerónimo Pelegrín de Aragüés",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "La carta de v. m. y del Sr. don Pedro recibo de 16 de este por Barcelona, holgándome haya salud que es lo que importa. Todas las cartas hasta éstas he recibido menos las que me insinúan por Alicante últimamente y yo estoy quejoso que en estas últimas que he recibido no me digan haber recibido mis cartas de tantas como tengo escritas. Así de los últimos del año pasado como el de éste que no es posible no hayan recibido algunas hasta 16 de éste y así aguardo aviso, y también si han llegado a manos de v. m. las que tengo escritas y al señor don Pedro últimamente sobre los oficios que tenía Pedro Pelayo en ese reino, que soy pretendiente de ellos. Espero el aviso de todo. El señor don Miguel Salva todavía esta de espacio como se lo digo al Sr. don Pedro. En la pretensión de Bauza haré todo lo posible para conseguir el informe. El Sr. don Nicolas está mejor no es cosa de cuidado, creo saldrá presto a servir a palacio que está en la casa de los pajes y Juan se está todavía en la mía y no le puedo reducir a que [1§] se vuelva con el Sr. don Nicolás. Creo tiene razón y me pesa los disgustos que ha dado a su padre y gastándole tanto que creerá muy bien lo que yo le escribí y sin embargo de lo que me tuve tiesas con el no pude excusar a la partida de aquí sacarle dos vestidos uno de paño fino y otro de verano que le prometo que en la ocasión me tuvo muy apurado con sus desconciertos. Por su padre habrá acabado de conocer ahora lo que yo le decía. V. m. me mande que sus manos besamos con las de mi sobrina doña Margarita y yo y a los niños abrazos. Dios guarde a v. m. muchos años. Madrid y febrero a 26 de [?]. Tío y servidor de v. m. Diego Matias de Aragues. Mi Sobrino, Jeronimo Pelegrin [2§] A Jeronimo Pelegrin de Aragues, mi sobrino. Guarde Dios. Mallorca {CAT. Madrid als 26 febrer 1667}, de mi tío Diego Matias de Aragues, respuesta a 5 Abril 1667. Transcripción literal"
+  ],
+  "literal": [
+    "1. La carta de Vmd. y del Sr. don Pedro recivo de 162. deste por Barçelona, olgandome aya salud que es3. lo que importa, todas las cartas hasta estas he4. recivido menos las que me insinuan por Alicante5. ultimam[en]te y yo estoy quexoso que enestas ulti-6. mas que he reçivido no me digan haber reçivido7. mis cartas de tantas como tengo escritas, assi de8. los ultimos del año passado como el de este que no9. es posible no ayan reçivido alg[un]as hasta 16 deste10. y assi aguardo avisso, y tanvien si han llegado11. a manos de Vmd. las que tengo escritas y al señor12. Don Pedro ultimam[en]te sobre los offiçios que tenía13. Pedro Pelayo enesse Reyno que soy pretendiente14. de ellos, espero el avisso de todo15. El señor Dom Mig[ue]l Salva todavía esta de espa16. çio como se lo digo al Sr. don Pedro17. En la pretenssion de Baussa are todo lo posible para18. conseguir el informe19. El Sr. don Nicolas esta mejor no es cossa de cuy20. dado creo saldra presto a servir a Palaçio que21. esta en la cassa de los pajes y Juan se esta22. todavia en la mia y no le puedo reduçir a que [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "029_114a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo25/029_114a.JPG",
+      "url": "/legajos/legajo-25/images/029_114a.JPG"
+    },
+    {
+      "filename": "030_114b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo25/030_114b.JPG",
+      "url": "/legajos/legajo-25/images/030_114b.JPG"
+    },
+    {
+      "filename": "031_114c.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo25/031_114c.JPG",
+      "url": "/legajos/legajo-25/images/031_114c.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "029_114a.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (7)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-25/cartas/004080.json",
+  "primary_image_url": "/legajos/legajo-25/images/029_114a.JPG"
+}

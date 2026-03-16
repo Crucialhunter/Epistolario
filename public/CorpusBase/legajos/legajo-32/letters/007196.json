@@ -1,0 +1,38 @@
+{
+  "legajo_id": "32",
+  "id_carta": "7196",
+  "order_in_legajo": 196,
+  "signatura": "274:1954.JPG",
+  "nombre_carta": "Carta de Baltasar Cupí a Pedro Santacilia y Pax",
+  "fecha_original": "6 de septiembre de 1666",
+  "lugar": "Barcelona",
+  "remitente": "Baltasar Cupí",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "IMATGE BORROSA [1§] Transcripción literal"
+  ],
+  "literal": [
+    "1. IMATGE BORROSA"
+  ],
+  "imagenes": [
+    {
+      "filename": "274:1954.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo32/274:1954.JPG",
+      "url": "/legajos/legajo-32/images/274:1954.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "274:1954.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-32/cartas/007196.json",
+  "primary_image_url": "/legajos/legajo-32/images/274:1954.JPG"
+}

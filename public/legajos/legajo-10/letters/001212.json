@@ -1,0 +1,43 @@
+{
+  "legajo_id": "10",
+  "id_carta": "1212",
+  "order_in_legajo": 79,
+  "signatura": "140-379a",
+  "nombre_carta": "Carta de José de Cisneros a Jerónimo Pelegrín de Aragüés",
+  "fecha_original": "13 de octubre de 1668",
+  "lugar": "Madrid",
+  "remitente": "José de Cisneros",
+  "destinatario": "Jerónimo Pelegrín de Aragüés",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Señor mío, Mucho [he] extrañado no haber tenido carta de v. m. ni respuesta a las que le [he] escrito, y a no haber sabido por el señor Diego Matias de Aragues y por otros que v. m. se hallaba con buena salud: me hubiera tenido con cuidado de si era falta de ella. Cada día he estado aguardando que v. m. me enviase el picote del género y color que el pasado y el de color plateado, según lo que v. m. me avisó en la última de que estaba acabado de hacer. Suplico a v. m. me haga merced de remitirlo cuanto antes que porque no se yerre el color del plateado; si no estuviere tejido envío a v. m. esa muestra y suplico a v. m. añada al que le tengo pedido veintidós varas de plateado y otras veintidós del amusco, que este sea del color y género que el que v. m. me envió, que era lindísimo. Y puede v. m. servirse de encaminarlo a Valencia a Vicente Ferrera como el pasado, o a Alicante, al señor Diego Matias, para que yo se lo entregue. Y no excuse v. m. el darme muchas ocasiones de su servicio a que asistirle con buena voluntad y deseo de que guarde Dios a v. m. largos años. Madrid, 13 de octubre de 1668. Besa las manos de v. m. su mayor servidor, Don José de Cisneros Sr. Jeronimo Pelegrin de Aragues [1§] Madrid, de don Giuseppe de Cisneros, mayordomo del excelentísimo duque de Cardona, mi señor. De 13 de octubre 1668 sobre unas ropas que pide. Tiene respuesta por duplicado hasta 4 de octubre 1668. Transcripción literal"
+  ],
+  "literal": [
+    "1. Sr. mio mucho estrañado no aver tenido carta de V.M. 2. ni respuesta a las que le escrito y a no aver savido por el Sr. 3. Diego Mathias de Aragues y por otros que V.M. se allaba con 4. buena salud me hubiera tenido con cuidado desiera falta 5. de ella. 6. Cada dia e estado aguardando que V.M. me embiase el picote 7. de el genero y color que el pasado y el de colorplateado 8. segun lo que V.M. me aviso en la ultima de que estaba acavado 9. de ser. Suplico a V.M. me aga med de remitirle quanto 10. antes que porque no se yerre el color de el plateado sino estubie 11. re texido enbio a V.M. esa muestra y suplico a V.M. añada 12. al que le tengo pedido Ve dos baras de plateado y otras ve y 13. dos del amusco queste sea del color y genero que el que V.M. 14. me enbio que era lindisimo y puede V.M. servirse deenca 15. minarle a Valenzia a Bisente Ferrera como el pasado, o a 16. Alicante al Sr. Diego Mathias para que yo se lo entregue y no escuse V.M. 17. el darme muchas ocasiones de su servicio a que asistirle con buena 18. boluntad y deseo de que gde Dios a V.M. largos años. Md 13 19. de octte de 1668. 20. Besa las manos de V.M. su mor seror 21. Don joseph de Cisneros 22. [^Sr. Geronimo Pelegrin de Aragues^] [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "140-379a.jpg",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo10/140-379a.jpg",
+      "url": "/legajos/legajo-10/images/140-379a.jpg"
+    },
+    {
+      "filename": "141-379b.jpg",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo10/141-379b.jpg",
+      "url": "/legajos/legajo-10/images/141-379b.jpg"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "140-379a.jpg",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING",
+      "message": "Se detectaron caracteres sospechosos de encoding (5)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-10/cartas/001212.json",
+  "primary_image_url": "/legajos/legajo-10/images/140-379a.jpg"
+}

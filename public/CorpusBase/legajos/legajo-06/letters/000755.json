@@ -1,0 +1,43 @@
+{
+  "legajo_id": "6",
+  "id_carta": "755",
+  "order_in_legajo": 19,
+  "signatura": "434-216a",
+  "nombre_carta": "Carta de Cecilia Zaforteza y Sureda de Sant Martí a Antonio Fuster de Salas",
+  "fecha_original": "fecha sin especificar",
+  "lugar": "Mallorca",
+  "remitente": "Cecilia Zaforteza y Sureda de Sant Martí",
+  "destinatario": "Antonio Fuster de Salas",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "(^Querido) Sobrino y muy señor mío: En respuesta a la que te he merecido del día en que me supones que para responder a la pretensión de mi sobrino d. Juan Zaforteza necesitas de los papeles pertenecientes a la hermana de d. Nicolás de Santacilia, los que me suplicas te entregue, debo expresarte que ignoro cuáles serán a más de los que se han tenido presentes [tachadura] en la formación de las liquidaciones que en el día tenemos entre manos de la misma hermana, [1§] pero siempre que consideres que yo tenga alguno de ellos, avisándome de él luego lo aprontaré para tu servicio, en que tendré particular gusto, y el mayor siempre que quieras proporcionarme tus preceptos. Dios Nuestro Señor te guarde muchos años, etcétera. Besa la mano Tu tía y más auténtica servidora. Señor d. Antonio Fuster de Salas. Transcripción literal"
+  ],
+  "literal": [
+    "1. (^Querido) Sobrino, y muy 2. S< eñ>or mio en resp< ues>ta a la q< u>e te he 3. merecido del dia 4. en q< u>e me supones q< u>e 5. para responder á la 6. pretencion de mi Sob- 7. rino Dn. Juan Zaforteza 8. necessitas de los papeles 9. pertenecientes a la [2110. ]11. her< man>a de Dn. Nicolas de 12. Santacilia, los q< u>e me 13. suplicas te entregue, 14. devo expresarte q< u>e ignoro 15. quales seran a mas de 16. los q< u>e [^se] han (^?,) [^tenido p< resen>te] q>ue> 17. (^por [?] en) [^en la formacion de] las 18. liquidaciones q< u>e en el 19. dia tenemos entre ma- 20. nos, de la misma her< man>a [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "434-216a.jpg",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo06/434-216a.jpg",
+      "url": "/legajos/legajo-06/images/434-216a.jpg"
+    },
+    {
+      "filename": "435-216b.jpg",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo06/435-216b.jpg",
+      "url": "/legajos/legajo-06/images/435-216b.jpg"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "434-216a.jpg",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-06/cartas/000755.json",
+  "primary_image_url": "/legajos/legajo-06/images/434-216a.jpg"
+}

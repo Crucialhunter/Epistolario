@@ -1,0 +1,43 @@
+{
+  "legajo_id": "8",
+  "id_carta": "950",
+  "order_in_legajo": 123,
+  "signatura": "222-146a copia",
+  "nombre_carta": "Carta de Príncipe de Palaconia a Persona desconocida",
+  "fecha_original": "14 de 1645",
+  "lugar": "Maó",
+  "remitente": "Príncipe de Palaconia",
+  "destinatario": "Persona desconocida",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "V.s. sabe por lo que le escribo cuánto me importa por el servicio de su magestad llegar luego en Palermo por dar expedición tanto de lo que tenían menester las galeras que quedan cuanto por las otras que han [de venir] por el fin de abril por orden muy [tinta borrada], que Dios guarde. Ahora me acaban de decir que llega [tinta borrada] que habiendo venido el baile de Mahón per v. s. sabe por lo que le escribo cuanto me emporta por el servicio de su majestad llegar luego en Palermo por dar spedicción tanto de lo que tenían menester las galeras que quedan cuanto por las otras que han [?] por eel fin Sr. D. Abril por orden muy [?] que Dios guaede ahora m. acaban da decir que lleg [?] que habiendo venido el Bayelde Mahón per ¿ di un pestolon lo tirato anouhe [?] que le cospico en un brazo sepor que se surprenda o más desuspenha es guarde [?] velas que es que viene a las mismas sajetias detenid en castillo con dos criados me dicen que por eso quiere detener todos. y en esa conformitad es tiempo tan buono como lo es. nos detiene [1§] en prejudición del sus. Sr. D. S. m. demás que as conviene me ha persona (que les) siendo ser de v. s. a quien suplico layo mande que nos vamos. avisando al alcalde que no deteña las sagetias y sia v. s. parece por el curso de la justicia detengase los culpados y hayan lo que v. s. fuere servido cuya persona Dios guarde como quiere y yo deseo. dal castillo Sr. D. maon. y ebre 14 &ndach;645 El ¿ de Palaernia Transcripción literal"
+  ],
+  "literal": [
+    "1. V.S. sabe por lo que le escrivo quanto me enporta por 2. el ser< > des M< > llegar luego en Palermo por dar 3. spedicion tanto delo que tenian menester las galeras 4. que quedan quanto por las otras que an?? 5. por eel fin d.Abril por orden muy ? 6. que Dios g< > 7. aora m.acaban da deçir que lleg?? 8. que haviendo venido el Bayelde maon per 9. di un pestolon lo tirato anouhe ? 10. que le cospico en un braço 11. seporque se surprenda ó mas desuspenha es g< >?? 12. velasques que biene alas mismas sajettias detenid 13. en Castillo con dos criados mediçen que por esso quier[e] 14. detener todos. y en essa conformitad es tiempo 15. tan buono como lo es. nos detiene [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "222-146a copia.jpg",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo08/222-146a copia.jpg",
+      "url": "/legajos/legajo-08/images/222-146a copia.jpg"
+    },
+    {
+      "filename": "223-146b copia.jpg",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo08/223-146b copia.jpg",
+      "url": "/legajos/legajo-08/images/223-146b copia.jpg"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "222-146a copia.jpg",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-08/cartas/000950.json",
+  "primary_image_url": "/legajos/legajo-08/images/222-146a copia.jpg"
+}

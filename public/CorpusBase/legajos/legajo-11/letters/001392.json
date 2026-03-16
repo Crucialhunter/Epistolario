@@ -1,0 +1,38 @@
+{
+  "legajo_id": "11",
+  "id_carta": "1392",
+  "order_in_legajo": 163,
+  "signatura": "269:5250.JPG",
+  "nombre_carta": "Carta de Mossèn Joan Anglès a Pedro Santacilia y Pax",
+  "fecha_original": "6 de mayo de 1644",
+  "lugar": "Vinarós",
+  "remitente": "Mossèn Joan Anglès",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "A dues que tinc rebudes de mà de v. s. tinc respost i amb ella suplicava a v. s. m'ensenyés la persona en Mallorca a qui pogués encaminar les cartes que jo li escrivia i v. s. pot enviar-les a Visent Montaina mercader en la plaça de la Morera en València que és persona que em fa mercè i tendrà {ESP. cuidado} d'enviar-me-les. El que per aquí tenim de nou és que l'exèrcit del rei Nostre Sr. està ja en Catalunya a la vista de Lleida. Avui ha vengut avís del marques de Torelló que s'ha vist de Roses que s'han descobert d'aquella plaça 12 naus i algunes galeres i moltes altres noves i no se sap si venen a sitiar Roses o a Tarragona. El marques de Torelló escriu en la mateixa carta que a 4 d'este dos bergantins grossos i altres fragates han pres davant de Tarragona dues barques grosses amb 1200 quarteres de forment que venien de Mallorca per aquella plaça nostre i posa sa mà i vulgui {ESP. remediar} -ho i li guardi a v. s. com pot i ha de menester. Vinarós i maig a 6 de 1644. Mossèn Joan Angles [1§] Transcripción literal"
+  ],
+  "literal": [
+    "1. [^Sr. don Pedro^]2. A dos que ting rebudes de ma de VS ting respost y ab ella supli 3. cava a VS [^??mes seynules??`] persona en Mallorca a qui pogues en 4. caminar les cartes que jo li escrivia y VS pot embiar los 5. a Visent Montayna mercader en la plaza de la Morera en 6. Valensia que es persona quem fa merse y tendra cuydado 7. de enbiarmelas lo que per assi tenim de nou es que lo exer 8. cit del Rey nostren sr. esta ja en Catalunya a la vista de 9. Lleyda. Huy a vengut avis del Marques de Toralto que se a 10. vis de Roses que se han descubert de aquella plasa 12 naus 11. y algunes galeres y noltres altres nobes y no se sab si ve 12. nen a sitiar Roses ho a Tarragona el marques de Toralto 13. escriu en la matheixa carta que a 4 deste dos bargantins 14. grosos y altres fragates an pres davant de Tarragona dos barques 15. grosas ab 1203 quatives de forment que venien 16. de Mallorca per aquella plasa nostre Sr. y pose se ma 17. y vulga remediaro y le guarde a VS com pot y ha menester 18. Vinaros y maig a 6 de 1644. 19. Mosen Joan Angles [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "269:5250.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo11/269:5250.JPG",
+      "url": "/legajos/legajo-11/images/269:5250.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "269:5250.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (2)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-11/cartas/001392.json",
+  "primary_image_url": "/legajos/legajo-11/images/269:5250.JPG"
+}

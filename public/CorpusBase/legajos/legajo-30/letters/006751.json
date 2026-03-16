@@ -1,0 +1,38 @@
+{
+  "legajo_id": "30",
+  "id_carta": "6751",
+  "order_in_legajo": 19,
+  "signatura": "344:5589",
+  "nombre_carta": "Carta de Gabriel de Berga y Zanglada a Persona desconocida",
+  "fecha_original": "9 de diciembre de 1619",
+  "lugar": "Mallorca",
+  "remitente": "Gabriel de Berga y Zanglada",
+  "destinatario": "Persona desconocida",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Â [1§] Transcripción literal"
+  ],
+  "literal": [
+    "1."
+  ],
+  "imagenes": [
+    {
+      "filename": "344:5589.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo30/344:5589.JPG",
+      "url": "/legajos/legajo-30/images/344:5589.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "344:5589.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (3)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-30/cartas/006751.json",
+  "primary_image_url": "/legajos/legajo-30/images/344:5589.JPG"
+}

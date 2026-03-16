@@ -1,0 +1,43 @@
+{
+  "legajo_id": "31",
+  "id_carta": "6906",
+  "order_in_legajo": 129,
+  "signatura": "209:1657a.JPG",
+  "nombre_carta": "Carta de Jusepe [José] Mateo a Pedro Santacilia y Pax",
+  "fecha_original": "23 de diciembre de 1661",
+  "lugar": "Almendralejo",
+  "remitente": "Jusepe [José] Mateo",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Sr. mío, el no tener hora segura me ha obligado a la suspésión que v. m. ha visto ahora aunque tampoco la tengo lo hago dándole cuenta de mi salud que, a Dios gracias, es cumplida alegráreme en el alma v. m. goce de ella después que salí de sa ciudad no he tenido nuevas ninguna de v. m. ni de mi padre lo cual me ha tenido y me tiene con gran cuidado y suspenso yo [?] no saber lo que tengo de hacer v. m. será [?] de decirle a mi padre que tenga esta por [?] y me avise por medio de su hijo de v. m. ara que escribiendo leyó en la parte donde [?] merremita las cartas. Dios me guarde a v. m. como puede y deseo almendralejo 23 de diciembre 1661 años Sr. D. Pedro Santacilia [1§] de v. m. servidor que su mano besa Josepe Mateo [2§] Transcripción literal"
+  ],
+  "literal": [
+    "1. Sr mio, el no tener ora segura me 2. a obligado a la suspésion que Vmd 3. a bisto agora aunque tanpoco la 4. tengo lo ago dandole quenta de mi sa5. lud que a dios grazias es cumplida 6. alegrareme en el alma Vmd goze 7. della = 8. despues que sali desa ciudad no ete9. nido nuevas ninguna de Vmd ni de 10. mi padre lo qual me ha tenido i meti11. ene con gran cuidado i suspenso jo [?] 12. no saber lo que tengo de acer Vmd 13. sera [?] de decille a mi padre 14. que tenga esta por [?] i me avi15. se por medio de su ijo de Vmd 16. ara que escriviendo leio en la p17. arte donde [?] me rremita las 18. cartas. Dios me gde a Vmd como 19. puede i deseo almendralejo 20. 23 de dizienbre 1661 años 21. Sr. D. Pº. santasilia [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "209:1657a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo31/209:1657a.JPG",
+      "url": "/legajos/legajo-31/images/209:1657a.JPG"
+    },
+    {
+      "filename": "210:1657b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo31/210:1657b.JPG",
+      "url": "/legajos/legajo-31/images/210:1657b.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "209:1657a.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-31/cartas/006906.json",
+  "primary_image_url": "/legajos/legajo-31/images/209:1657a.JPG"
+}

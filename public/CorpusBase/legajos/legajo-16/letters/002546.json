@@ -1,0 +1,38 @@
+{
+  "legajo_id": "16",
+  "id_carta": "2546",
+  "order_in_legajo": 32,
+  "signatura": "056:2046.JPG",
+  "nombre_carta": "Carta de Nicolás de Santacilia y Togores a Pedro Santacilia y Pax",
+  "fecha_original": "5 de marzo de 1667",
+  "lugar": "Madrid",
+  "remitente": "Nicolás de Santacilia y Togores",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "La de v. m. he recibido con mucho gusto por saber de su salud, la mia, aunque no del todo puena, algo más alentada. Yo confío a Dios que saldre aprisa de este y se pondrá mano en lo que v. m. ordena. Por este correo escribiré a don Mateo Gual y a v. m. más largo. Guarde Dios a v. m. muchos años como deseo y es menester. Madrid a 5 de marzo 1667. Su más humilde hijo de v. m. que su mano besa,Don Nicolas de Santacilia y Togores Mi señor y mi padre Transcripción literal"
+  ],
+  "literal": [
+    "1. Lade VM he resibido Con mucho gusto 2. por saber de su salud, la mia; aun que 3. no del todo puena, algo mas alentada, y[o]4. Con fio a Dios, que sal[dr]e aprisa deste, y 5. se pondra mano en lo que VM [or]dena 6. por Este Coreo escrivre aDon Mateo G[ua]l 7. y a VM mas largo, Gurade Dios a VM 8. muchos años Como deseo y emenest[er] 9. Madrid a 5 de Marsso 1667 10. Su mas Humilde [hi]jo 11. de VM q S[u]M[>ano>]B[>esa>] 12. Don Nicolas de Sta Cilia y Togores13. [Margen izquierdo][^MiSr y mi Padre]14. 057/2047 [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "056:2046.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo16/056:2046.JPG",
+      "url": "/legajos/legajo-16/images/056:2046.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "056:2046.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-16/cartas/002546.json",
+  "primary_image_url": "/legajos/legajo-16/images/056:2046.JPG"
+}

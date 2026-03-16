@@ -1,0 +1,43 @@
+{
+  "legajo_id": "13",
+  "id_carta": "1752",
+  "order_in_legajo": 19,
+  "signatura": "036:2256a.JPG",
+  "nombre_carta": "Carta de María Rendón Sarmiento a Pedro Santacilia y Pax",
+  "fecha_original": "30 de julio de 1668",
+  "lugar": "Cádiz",
+  "remitente": "María Rendón Sarmiento",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Quiera nuestro señor tenga más dicha esta de llegar a manos de v. s., pues de muchas que he escrito no he visto ni he merecido respuesta, cosa que atribuía a mi poca dicha hallándome muy desconsolada. Pero sabiendo como v. s. ha estado en Madrid he cobrado nuevos alientos volviendo a revivir mis esperanzas, pues después de Dios las tengo en v. s. fundadas todas, y creo que en esto no padezco engaño. Y así digo, señor, que ya v. s. habrá recibido distintas cartas mías donde imploraba su favor por hallarme muy pobre por una fianza que hice al capitán Pedro Aulí, mi marido, que Dios haya, de ochocientos pesos los cuales los gastó cuando fue a Mallorca y manda en su testamento se paguen de su hacienda, como en otras he dado a v. s. más larga relación. Después se ofreció ir a esa ciudad don Francisco Nieto, al cual di poder y llevó las cláusulas del testamento para que mejor se cobrase del dicho capitán. De Francisco Nieto no he tenido respuesta de lo que ha hecho en mi negocio y así, por amor de Dios, postrada a las plantas de v. s., pido mire mi causa con ojos de piedad y haga que se pague esta cantidad; o si la ha cobrado el capitán Nieto, que se me mande por estar en tanto empeño y viviendo a expensas de mis hermanos con muchas pesadumbres por haber empeñado lo poco que tenía para mí y para mi hija, que he perdido. Esto me halla destituida de todo favor humano. Confío en Dios que v. s. ha de amparar esta criada suya y Dios Nuestro Señor le dará muy buena salud, pues hace muchas obras de caridad y el alma de mi marido tendrá descanso, y así vuelvo a suplicar a v. s. me avise para que yo esté con menos cuidado y con más confianza. Y Dios guarde la vida de v. s. para amparo de pobres ceta [?] Señor d. Pedro de Santacilia [1§] Cádiz y julio 30 de 1668. Besa las manos de v. s. su mayor criada, doña Maria Rendon Sarmiento [2§] Transcripción literal"
+  ],
+  "literal": [
+    "1. Quiera nuestro ssr. tenga mas dicha esta de lle-2. gar a manos de Va. pues de muchas q es (e es) escrito3. no e visto mi e meresido Repuesta cosa q atribuia 4. ami poca dicha hallandome mui desconsolada5. pero sabiendo como Va a estado en madrid e cobra[-]6. do nuebos alientos volviendo a revivir mis esperan[-]7. sas pues depues de dios las tengo en Va fundadas to[-]8. das. y creo q en esto no padesco engaño =9. Y asi digo ssr. q ya Va avra resevido distin[-]10. tas cartas mias donde inplorava su fabor por hallar11. me mui pobre por una fiansa q hise al c[a]p[i]tan Po12. de auli mi marcho q dios aia. De ochosientos pesos los13. q(^ua) les gasto qdo fue a mallorca y manda en su tes14. tamento se paguen desuha cienda como en otras e da[-]15. do a Va mas llarga relasion despues se ofresio ir a16. esa siudad d franco nieto. a el qual di poder y llevo las17. clausulas del testamento para q mexor se cobrase18. del dicho c[a]p[i]tan d franco nieto no e tenido Repuesta de19. lo q a hecho en mi negosio y asi Por amor de dios pos[-]20. trada a las plantas de Va. pido mire mi causa21. con ojos de piedad y haga q se pague esta cantidad22. osi la a cobrado el capitan nieto. q se me mande23. por estar entanto enpeño y viviendo a espensas24. de mis hermanos con muchas pesadunbres por25. aver enpeñado lo poco q tenia para mi y para mi hi[-]26. ja. que perdido esto me hallo destituida de todo27. fabor humano. confio en dios q Va a de anparar28. esta criada suia y dios n ssr. le dara mui bue[-]29. na salud. pues hase muchas Ararde Caridad y el30. alma de mi marido tendra descanso y asi vuel[-]31. vo a suplicar a v< [?]>a me avise para q yo este32. con menos cuidado y con mas confiansa y dios33. gde la vida de Va. Sra. va amparo de pobres elton[?]34. Ssr. d. Po de Sta. i esilia [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "036:2256a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo13/036:2256a.JPG",
+      "url": "/legajos/legajo-13/images/036:2256a.JPG"
+    },
+    {
+      "filename": "037:2256b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo13/037:2256b.JPG",
+      "url": "/legajos/legajo-13/images/037:2256b.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "036:2256a.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (2)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-13/cartas/001752.json",
+  "primary_image_url": "/legajos/legajo-13/images/036:2256a.JPG"
+}

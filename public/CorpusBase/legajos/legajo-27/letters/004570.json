@@ -1,0 +1,38 @@
+{
+  "legajo_id": "27",
+  "id_carta": "4570",
+  "order_in_legajo": 41,
+  "signatura": "074:4379.JPG",
+  "nombre_carta": "Carta de Bonaventura de Lanuza Montbuí y Vilarig a Miquel Oliver",
+  "fecha_original": "8 de junio de 1629",
+  "lugar": "Barcelona",
+  "remitente": "Bonaventura de Lanuza Montbuí y Vilarig",
+  "destinatario": "Miquel Oliver",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Ací no hi ha cosa nova, sinó les galeres de Malta que vénen molt cosides i amb molts cavallers de l'hàbit. Vènien per passar la reina d'Hongria que pensaven era ja ací, conforme l'ordre que molts mesos ha tenien del rei. Han enviat un capità a Madrid perquè sabés les ordres havien d'aguardar, entretant se'n van a Cartgena i d'aquí a la costa de Barberia, a veure si podrien trobar les galeres de biserta, o altra ventura. El de Feria és ja pel camí i ací s'és ja vist el privilegi i són [?] els que acostumen enis en semblants oracions com és el regent, tresorer, i altres pens entrarà avui en Lleida i dimarts ací. Les que van amb esta donareu en continent i les del pare Pujol en ses pròpies mans. Guardi vos Déu. Barcelona i Juny als 8 de 1629. Don Bonaventura de Lanuza Mombuy y Vilarig Miquel Oliver Transcripción literal"
+  ],
+  "literal": [
+    "1. Assi noy ha cosa nova sino las galeras de Malta2. que venan molt cusidas yab molts cavallers del3. abit venian per passar la Reyna de Ungria que4. pensavan era ja assi conforme lo orde que mo/5. lts mesos ha tenian del Rey: han venviat un6. capita amadrid per que sabes los ordes havian7. de aguardar entretant senban a Cartgena yde8. aquí ala costa de Berberia abeurar si podri/9. an trobar las galeras de biserta ,o, altra betura7910. Lo de feria es ja per lo cami y assi se es ja b[is?]t11. lo privilegi yson enits los que acustuman enis12. enseblants orasions comes lo Regent, tasorer , y13. altres pens entrara vu enlleyda y dimars assí14. Las que van ab esta donareu encontinent ylas15. del para pujol ensas propias mans guartvos deu16. Barna y Juny als 8 de 1629 DonBonaventuradela17. Nevamonbuyyvilarig18. [28, extrem inferior esquerre] miquel oliver [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "074:4379.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo27/074:4379.JPG",
+      "url": "/legajos/legajo-27/images/074:4379.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "074:4379.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-27/cartas/004570.json",
+  "primary_image_url": "/legajos/legajo-27/images/074:4379.JPG"
+}

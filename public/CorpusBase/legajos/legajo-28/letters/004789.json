@@ -1,0 +1,38 @@
+{
+  "legajo_id": "28",
+  "id_carta": "4789",
+  "order_in_legajo": 97,
+  "signatura": "149:3723.JPG",
+  "nombre_carta": "Carta de Raimundo de Rocabertí a Pedro Santacilia y Pax",
+  "fecha_original": "10 de junio de 1639",
+  "lugar": "Lugar sin especificar",
+  "remitente": "Raimundo de Rocabertí",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Para un tío no tengo de necesidad de consejo de viejo, que su cordura es tanta que faltas de nietos suple tantas. De mi madre no tengo cartas, que estoy aguardando la estafeta de hora en hora porque se dicen grandes novedades. Y son que el francés tiene ya tomados dos o 3 lugares, cercado Perpiñán. Gustaría esa fuese ocasión fuésemos todos en Rosellón para que yendo con su compañía me empleare en cosas de su servicio, y el condado venidero [cuatro palabras tachadas] fuese casa suya como siempre nos hemos honrados de que v. m. lo quisiese emplear, estar y poco gastar porque siempre aunque conde {CAT. de gens fum} pero para que v. m., aunque sea echarlo a rodar todo, lo [?] tendremos por bien empleado con se causa sirva de ello, a quien infinitos siglos guarde el Cielo a tal tío que socorre cuando se ofrece. Hoy, 10 de junio 1639. Su nieto, aunque no conde aún, en potencia siempre de servirlo como tal, don Raimundo de Rocaberti. A mi tío, don Pedro Santacilia y Pax. Transcripción literal"
+  ],
+  "literal": [
+    "1. Para un tio no tengo de nessessidad de2. Concejo de viejo que su cordura es3. tanta; que faltas de nietos suple tantas4. De mi madre no tengo cartas que estoi aguardan5. do la stafeta de hora en hora porque se di6. cen grandes novedades y son que el Frances7. tiene ya a tomados Dos o 3 lugares sercado8. Perpinian custara [?] essa fuesse occasion fuessemos9. todos en Rosellon paraq iendo con su com10. pania me enpleare en cosas de su servisio11. y ell condado venidero [cuatro palabras tachadas] fuesse12. casa suia como siempre non avemos honrados13. de que vm lo quisiesse emplear, estar y poco14. gastar porque siempre aunque conde [CAT] de gens15. fum [/CAT] pero paraque vm aunque sea etxar16. lo a rodar todo lo [?] tendremos por bien empleado17. com se causa sirva dello a quien infinitos sig18. los guarde el Cielo a tal tio que socorre19. quando se ofrese oy 10 de Junio 163920. Su nieto a unque No21. conde aun en potensia siempre22. de servillo como tal Don Ray23. mundo De Rocaberty24. A mi tio Don Pedro Sta. CIlia y Pax [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "149:3723.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo28/149:3723.JPG",
+      "url": "/legajos/legajo-28/images/149:3723.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "149:3723.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-28/cartas/004789.json",
+  "primary_image_url": "/legajos/legajo-28/images/149:3723.JPG"
+}

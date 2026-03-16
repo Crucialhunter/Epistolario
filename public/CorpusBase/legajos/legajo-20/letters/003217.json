@@ -1,0 +1,43 @@
+{
+  "legajo_id": "20",
+  "id_carta": "3217",
+  "order_in_legajo": 60,
+  "signatura": "123:5998a.JPG",
+  "nombre_carta": "Carta de Conde de Zavellá a Pedro Santacilia y Pax",
+  "fecha_original": "28 de septiembre de 1661",
+  "lugar": "Madrid",
+  "remitente": "Conde de Zavellá",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Sr. mío aunque se me delatan las cartas de v. s. y aunque me hallo con el justo sentimiento de la muerte de mi querida mujer no he querido dejar de escribir a v. s. encomendándole el amparo de esa huerfana hija mía única. Bien sabe v. s. que siempre mi casa le ha debido obras de padre, no las niegue ahora a quien en ella más las necesita, ayudando a que en llegando la embarcación que ahora estoy solicitando la logre luego sin replicas ni dilaciones pues de este suceso pende la seguridad y estimación de nuestras casas. Y esa pobre hacienda merezca [1§] también el favor de v. s. pues sabe cuan falto de medios estoy y cuanto los es menester aquí para vida y pleitos. Fio en todo del amparo de v. s. cuya vida guarde Dios como deseo. Madrid, Septiembre a 28 de 1661. Besa la mano de v. s. su más obligado servidorEl conde de Zavella Transcripción literal"
+  ],
+  "literal": [
+    "1. Sr. mio aunq se me [?] las cartas 2. de VS. y aunq me hallo con el justo 3. sentimto de la muerte de mi querida 4. mujer no he querido dexar de escri- 5. vir a VS. encomendandole el am- 6. paro de esa huerfana hija mia 7. unica. bien sabe VS. q siempre mi 8. casa le ha debido obras de padre 9. no las niegue aora a quien en ella 10. mas las necesita, ajudando a q en 11. llegando la embarcacion q aora 12. estoy solicitando la logre luego 13. sin replicas ni dilaciones pues 14. de este suceso pende la seguridad 15. y estimacion de nuestras casas. 16. Y esa pobre hazienda, merezca [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "123:5998a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo20/123:5998a.JPG",
+      "url": "/legajos/legajo-20/images/123:5998a.JPG"
+    },
+    {
+      "filename": "124:5998b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo20/124:5998b.JPG",
+      "url": "/legajos/legajo-20/images/124:5998b.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "123:5998a.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-20/cartas/003217.json",
+  "primary_image_url": "/legajos/legajo-20/images/123:5998a.JPG"
+}

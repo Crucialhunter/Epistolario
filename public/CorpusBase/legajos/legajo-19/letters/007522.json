@@ -1,0 +1,37 @@
+{
+  "legajo_id": "19",
+  "id_carta": "7522",
+  "order_in_legajo": 73,
+  "signatura": "004_cg4a",
+  "nombre_carta": "Carta de Persona desconocida a Persona desconocida",
+  "fecha_original": "fecha sin especificar",
+  "lugar": "Mallorca",
+  "remitente": "Persona desconocida",
+  "destinatario": "Persona desconocida",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Comptes diversos Nº. Pere Antonio. Garsia Transcripción literal"
+  ],
+  "literal": [
+    "1. [Comptes diversos]1. Nº. Pere Antt. Garsia"
+  ],
+  "imagenes": [
+    {
+      "filename": "004_cg4a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo19/004_cg4a.JPG",
+      "url": "/legajos/legajo-19/images/004_cg4a.JPG"
+    },
+    {
+      "filename": "005_cg4b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo19/005_cg4b.JPG",
+      "url": "/legajos/legajo-19/images/005_cg4b.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "004_cg4a.JPG",
+  "warnings": [],
+  "raw_source": "raw/legajos/legajo-19/cartas/007522.json",
+  "primary_image_url": "/legajos/legajo-19/images/004_cg4a.JPG"
+}

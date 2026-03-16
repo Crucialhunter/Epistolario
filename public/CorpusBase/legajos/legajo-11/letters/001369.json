@@ -1,0 +1,38 @@
+{
+  "legajo_id": "11",
+  "id_carta": "1369",
+  "order_in_legajo": 138,
+  "signatura": "224:5228.JPG",
+  "nombre_carta": "Carta de Antoni Amorós a Pedro Santacilia y Pax",
+  "fecha_original": "4 de noviembre de 1643",
+  "lugar": "Alcúdia",
+  "remitente": "Antoni Amorós",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "La de v. s. he rebuda junt a la del Domenech que esta nit se parteix per Inca ja tenia escrit v. s. posàs al patro manàs posar el patró a la presó perquè en [?] en tenen que li havien amollat al ca, però com li coment al patró Pere Maltés i dues vegades sens fruit, he determinat posar-li una cadena que tinc d'una barqueta que no crec la talli perquè els patrons tots tenen excusa. Pesa'm amb extrem i {ESP. asert} que si no hi hagués hagut altre vaixell l'enviava a Capdepera, a on ha d'haver conegut el patró Pere Malterra, va amb el patró Munar amb qui ja ha estat embarcat i així serà perquè coses de v. s. voldria poder-les fer amb les ra [?] jo he estat mal sortat en no dar gust amb la puntualitat que jo dec servir a v. s. i així perdoni que cert ens falta de ma voluntat. Amb tot estic prompte pel que v. s. manarà a qui Nostre Sr. guardi molts com pot junt amb mi Sra., i els {ESP. demés} de {ESP. palasio} . De Alcúdia a 4 novembre 1643. Criat de v. s. Antoni Amoros Sr. don Pedro Santacilia, capità general de la {ESP. isla} de Menorca [1§] Transcripción literal"
+  ],
+  "literal": [
+    "1. La de Vsa he rebuda junt a la del sr. Domenech 2. que esta nit se partax per Yncha ya tania escrit Vsa 3. (/possas al patro) manas posar lo patro a le prasso perque 4. a de va antenen que li avian amolat al ca pero com le coment 5. a lo patro Pera Moltes y dos vegades sens fruit, e detarminat 6. posarli une cadena que tinch de una barcata que no 7. crech la tala perque los patrons tots tenen ascusa pesam 8. an astrem y assert que si noi agues agut altra vaxell 9. lo an viave an cap de Pera a ont a de ver conegut lo patro Pera Mal 10. tiara va an lo patro Munar an qui ja astat anbarcat ya 11. sebera perque cosses de VSa voldria porer las fer ab las ra ara 12. jo astat mal sortat an no dar gust an le puntualitat que jo dech 13. sarvir a Vsa ja ci perdone que sert nos falta de me voluntat 14. antot astich pronte per lo que Vsa menera a qui nostro Sr. 15. guarda molts com pot junt an mi sra., y los demes de Palassio delcudia a 4 nbre 1643 16. Criat de Vsa 17. Antoni Amoros 18. [^Sr. don Pedro Sta. Sillia capita general de la islla de Menorque^] [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "224:5228.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo11/224:5228.JPG",
+      "url": "/legajos/legajo-11/images/224:5228.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "224:5228.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-11/cartas/001369.json",
+  "primary_image_url": "/legajos/legajo-11/images/224:5228.JPG"
+}

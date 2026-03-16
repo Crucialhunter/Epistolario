@@ -1,0 +1,38 @@
+{
+  "legajo_id": "28",
+  "id_carta": "7930",
+  "order_in_legajo": 177,
+  "signatura": "307:3808.JPG",
+  "nombre_carta": "Carta de Práxedes Rocabertí a Pedro Santacilia y Pax",
+  "fecha_original": "9 de mayo de 1665",
+  "lugar": "Barcelona",
+  "remitente": "Práxedes Rocabertí",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "El Espíritu Santo comuníquenos su divino amor. Muy asegurada me tiene v. s. del gozo que me significa le [a]cabe de ver ajustado y capitulado el casamiento de mi hermano y señor con la sobrina y mi señora. A Dios repetidas gracias de ver este vínculo de parentesco y que mi hermana tenga este consuelo de tener [?] por yerno al hermano. Dios quiera que en breve venga la dispensación que le hemos concluido, y sea todo ocasión de tenerle todos de servir a v. s. A mi tía y señora beso la mano con las de mi prima y mi señora, su hija de v.s. Guarde Nuestro Señor a v.s. los años de mi deseo. Barcelona, de este convento de la Compañía de María, mayo 9 de 1665. Sobrina y sierva de v. s. que sus manos besa, Praxedes Rocaberti Mi tío y señor don Pedro Santacilia. Transcripción literal"
+  ],
+  "literal": [
+    "1. El espiritu sto. comunique·avs· su divino2. amor muy asigurade me tiene vs del goso3. que me sinifica le cabe de ver ajustado y4. capitulado el casamiento de mi Hermano5. y Sr. con la subrina y mi sra. a dios repati-6. des gracias de ver este vinculo de parantes-7. co y que mi Hermana tenga este consuelo8. de tener [?] por hierno el Hermano. Dios quiera9. que enbreve benga la dispencesion que le10. vemos concluydo y sea todo ocasion de te-11. nerle todos de servir a vs. a mi tia y mi sra.12. beso la mano, con las de mi prima y mi sra.13. su hija d vs. G< uar>de. nuestro sr. avs los14. años d mi deseo Bar< celo>na. deste con< ven>to d la15. comp< añí>ª de Maria Mayo 9 de 166516. Subrina y sierve de vs q. s. M. B.17. Praxedes Rocaberti18. mi tio y sr. don pedro sta. cilia [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "307:3808.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo28/307:3808.JPG",
+      "url": "/legajos/legajo-28/images/307:3808.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "307:3808.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (2)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-28/cartas/007930.json",
+  "primary_image_url": "/legajos/legajo-28/images/307:3808.JPG"
+}

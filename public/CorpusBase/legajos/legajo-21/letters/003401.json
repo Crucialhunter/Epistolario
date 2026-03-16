@@ -1,0 +1,43 @@
+{
+  "legajo_id": "21",
+  "id_carta": "3401",
+  "order_in_legajo": 92,
+  "signatura": "140:5690a.JPG",
+  "nombre_carta": "Carta de Pedro Jiménez de Murillo a Pedro Santacilia y Pax",
+  "fecha_original": "12 de diciembre de 1638",
+  "lugar": "Tauste",
+  "remitente": "Pedro Jiménez de Murillo",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Sr. mío, hay estaré siendo Nro. Sr. servido sin falta ninguna hoy, y con la disposición que se ha de tener en lo venidero, que será con mucho más descanso de los soldados y lugares y porque la vista será presto a la cual me remito no soy más largo, sino que para [?] a v. m. esta nueva, y que tenga noticia de esto hago a [?] propio. Nuestro Sr. guarde a v. m. muchos años como deseo. En Tauste a 12 de diciembre 1638. Don Pedro Jimenez de Murillo Sr. don Pedro Santacilia y Pax, que me guarde [1§] Tauste, 10 Diciembre 1638.Don Pedro Jimenez de Murillo rdo. Transcripción literal"
+  ],
+  "literal": [
+    "1. Sr mio Hay estare siendo Nrosr serlo sin falta nin-2. guna oy, y con la disposicion q se a detener enlo 3. venidero, q sera con mucho mas descansa de 4. los soldados y lugares y por q la vista sera presto 5. ala cual me remito nosoi mas largo, sino 6. q para lai a Vm. esta nueta[??, y qtenga 7. noticia desto hago alGte[?] propio NRo sr gde a Vm 8. muchos años como desseo En Tauste. a 12. dedeze 1638. 9. Don Po ximenes de Murillo 10. [Margen izquierdo][^ Sr d Po Sta Cilia y Paz qmege] [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "140:5690a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo21/140:5690a.JPG",
+      "url": "/legajos/legajo-21/images/140:5690a.JPG"
+    },
+    {
+      "filename": "141:5690b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo21/141:5690b.JPG",
+      "url": "/legajos/legajo-21/images/141:5690b.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "140:5690a.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-21/cartas/003401.json",
+  "primary_image_url": "/legajos/legajo-21/images/140:5690a.JPG"
+}

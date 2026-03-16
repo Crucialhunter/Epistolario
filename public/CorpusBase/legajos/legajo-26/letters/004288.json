@@ -1,0 +1,38 @@
+{
+  "legajo_id": "26",
+  "id_carta": "4288",
+  "order_in_legajo": 24,
+  "signatura": "032:3382.JPG",
+  "nombre_carta": "Carta de Diego de Rocabertí a Pedro Santacilia y Pax",
+  "fecha_original": "19 de diciembre de 1629",
+  "lugar": "Barcelona",
+  "remitente": "Diego de Rocabertí",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "La quartera està molt en son punt i avui em sóc resolt a fer-ne poc cas i veuré si podré del tot vèncerla i així em sóc arriscat a escriure que fins ara no havia escrit carta alguna des que arribarem ací viu la festa [?] despus-ahir que fou mala, però millor del que s'esperava no fou tant de burles que no hagin mort un home els {ESP. demés}, sols els espantaren. La reina d'Hongria ve ací a embarcar-se segurament, podeu aquí prometre-us de tenir-la en Cadaqués o Colliure si no muden d'intent que d'hivern seria molta sort poder de pas entrar al golf. El comte haurà ja contat les {ESP. demés} noves. Nostre Sr. vos guardi com pot i jo desitj, en Barcelona i desembre a 19 de 1629. Don Diego de Rocaberti Transcripción literal"
+  ],
+  "literal": [
+    "1. La quartana esta molt en son punt y vuy me so2. resolt a ferne poc cas y veurer si podre del tot ven3. cerla y axi me so arriscat a escriurer que fins4. ara no avia escrit carta alguna dende que arri5. barem asi Viu la festa [?] despusayr que fou ma6. la pero millor del que se esperava no fou tant de7. burlas que no ajan mort un home els demes sols los e[s]8. pantaren, la Reyna de Ungria ve así a embarcarse9. segurament podeu aqui prometrervos de tenirla en10. Cadaques o Coplliure si no mudan de intent que de 11. ivern seria molta sort poder de pas entrar al golf, lo 12. comte aura ja contat las demes noves Nostre Sr. vos13. guart com pot y jo desitx en Barcelona y desembre14. a 19 de 162915. Don Diego de 16. Rocabertí [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "032:3382.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo26/032:3382.JPG",
+      "url": "/legajos/legajo-26/images/032:3382.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "032:3382.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-26/cartas/004288.json",
+  "primary_image_url": "/legajos/legajo-26/images/032:3382.JPG"
+}

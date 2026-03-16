@@ -1,0 +1,48 @@
+{
+  "legajo_id": "6",
+  "id_carta": "588",
+  "order_in_legajo": 92,
+  "signatura": "106-59a",
+  "nombre_carta": "Carta de Ignasi Vila a Cecilia Zaforteza y Sureda de Sant Martí",
+  "fecha_original": "6 de noviembre de 1756",
+  "lugar": "Barcelona",
+  "remitente": "Ignasi Vila",
+  "destinatario": "Cecilia Zaforteza y Sureda de Sant Martí",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Molt il·lustre senyora dona Cecília, Gustós rebo la de v. s. de 15 del passat amb la que m’alegro de sa salut mentre que, a Déu gràcies, queda la que m’assisteix junt la parenta i fills pel que sia de l’{ESP. agrado} de v. s. manar-nos. En quant al del {ESP. panyo}, ha dos o tres dies no he vist Pere Ferrer, mariner del correu, a qui recomaní me posàs en sa guia les dues canes de {ESP. panyo} de color de cafè, me recomanà li remetia, que com he estat {ESP. algo} ocupat en servir en {ESP. algo} a D. Gabriel de Berga, que supòs el veurà més prest que no se pensava, guardant-lo Nostre Sr. de perill, me valguí de dit Pere Ferrer i [1§] encara que ell no ho hagi executat, i el temps en esta no me dóna lloc, en el vinent quedarà v. s. servida. Participo a v. s. com a l’arribo de mi Sr. D. Gabriel de Berga rebí carta de 3 del corrent del Dr. Gabriel Tomàs, prevere, qui m’ordena faci tot esforç a són arribo d’entregar tres-centes peces de vuit antigues al Dr. Estrany, [?] i capellà del dit Sr. D. Gabriel de Berga, i que també tenia escrit a v. s. que a mon avís les entregaria v. s. aquí jo ordenaria, pel que me valguí d’un amic per no haver de pagar interessos, qui me’ls entregà en esta i li fiu lletra [?] pagadora per a v. s., i {ESP. luego} entreguí dita partida de 300 pesos [2§] al Dr. Estrany, i me’n firmà {ESP. recibo}, el que suposo ja li dirà de paraula, pel que a l’arribo del correu compareixerà a v. s. Joan Saqueto Calafat amb dita lletra, que ja és conegut de Pere Ferrer, i espero de v. s. l’admetrà, perquè tots quedem bé, que és quant amb la present se m’ofereix cansar a v. s. retornant-li les degudes saluts de part mia parenta, i fills amb tota estimació, mentre quedo per a servir-la, i me mani en allò de son {ESP. agrado}, {ESP. cuya} vida guardi Déu els anys de mon desig. D’esta sa casa, Barcelona i novembre als 6 de 1756. Besa la mà de v. s. son més humil servidor, Ignasi Vila Molt senyora, dona Cecilia Zaforteza Transcripción literal"
+  ],
+  "literal": [
+    "1. Molt Ille. Sra. Da. Cicilia gustos 2. rebo la de V.Sria de 15 del passat ab la q[u]e 3. me alegro de sa salut mentres que 4. á Deu gracias queda la que me asisteix 5. junt La Parenta, y fills per lo que sia 6. del agrado de V.Sria manarnos. 7. En quant alo del Panyo ha dos, o, tres 8. dies no he vist Pera farre mariner del 9. Correu aqui recomani me possas en 10. sa guia las dos Canas de panyo de color 11. de Cafe me recomana li remetia, que 12. Com he estat algo ocupat en servi en 13. algo á Dn. Gabriel de Berga, que su- 14. pos lo veura mes prest que no se pen- 15. saba Guardantlo Ne Sr. de Perill 16. Me valguí de dit Pera farrer y en [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "106-59a.jpg",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo06/106-59a.jpg",
+      "url": "/legajos/legajo-06/images/106-59a.jpg"
+    },
+    {
+      "filename": "107-59b.jpg",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo06/107-59b.jpg",
+      "url": "/legajos/legajo-06/images/107-59b.jpg"
+    },
+    {
+      "filename": "107-59bb.jpg",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo06/107-59bb.jpg",
+      "url": "/legajos/legajo-06/images/107-59bb.jpg"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "106-59a.jpg",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-06/cartas/000588.json",
+  "primary_image_url": "/legajos/legajo-06/images/106-59a.jpg"
+}

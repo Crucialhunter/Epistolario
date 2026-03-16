@@ -1,0 +1,45 @@
+{
+  "legajo_id": "26",
+  "id_carta": "4349",
+  "order_in_legajo": 85,
+  "signatura": "121:3443.JPG",
+  "nombre_carta": "Carta de Antonio de Villacorta y Mercado a Pedro Santacilia y Pax",
+  "fecha_original": "21 de diciembre de 1639",
+  "lugar": "Pamplona",
+  "remitente": "Antonio de Villacorta y Mercado",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Entre las cartas que tenía mi tío en la estafeta era una de D. Feliciano con otra para v. m. por donde verá v. m. tiene la licencia. Doyle el parabién como a quien tan bien estará porque está muy de prisa D. Agustin. No soy màs largo. Guarde Dios a v. m. com deseo de Pamplona, Diciembre a 21 de 1639. Servidor de v. m. Antonio Villacorta y Mercado Sr. D. Pedro Santacilia y Pax Pamplona 21 Diciembre 1639Dn Antonio Villacorta y Mercado A don Pedro Santacilia y Pax, mi Sr. gobernador, que Dios guarde muchos años. Transcripción literal"
+  ],
+  "literal": [
+    "1. Entre las cartas que tenia mi2. tio en la estafeta era una de 3. D. Feliciano con otra para Vm4. por donde vera Vm tiene la5. liçençia doile el parabien6. como a quien tan bien esta7. ra porq esta mui de pri8. esa d. Agustin no soi mas lar9. go Gde. Dios a Vm. como deseo10. de panpl[on]a deze. a 21 de 163911. Servidor de Vm12. D. Alº Villacorta13. y Mercado14. Sr. D. Pº Sta cilia y Paz15. [A la part esquerra diu:]16. Pamp[lon]a 21 deze. 163917. Don Alonso Villacorta y Mercado18. A don Pº Sta cilia y Paz19. mi govern[ad]or que dios20. gde. Muchos años [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "121:3443.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo26/121:3443.JPG",
+      "url": "/legajos/legajo-26/images/121:3443.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "121:3443.JPG",
+  "warnings": [
+    {
+      "code": "IMAGE_DOWNLOAD_FAIL",
+      "message": "HTTP 404",
+      "context": {
+        "url": "http://santacilia.info/intranet2/img/Legajo26/121:3443.JPG"
+      }
+    },
+    {
+      "code": "IMAGE_COUNT_MISMATCH",
+      "message": "Imágenes detectadas (1) != descargadas (0)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-26/cartas/004349.json",
+  "primary_image_url": "/legajos/legajo-26/images/121:3443.JPG"
+}

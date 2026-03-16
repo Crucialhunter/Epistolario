@@ -1,0 +1,38 @@
+{
+  "legajo_id": "28",
+  "id_carta": "7874",
+  "order_in_legajo": 120,
+  "signatura": "195:3751.JPG",
+  "nombre_carta": "Carta de Fructuoso Piqué a Pedro Santacilia y Pax",
+  "fecha_original": "12 de abril de 1651",
+  "lugar": "Madrid",
+  "remitente": "Fructuoso Piqué",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "La de v. m. de 20 de febrero recibí con mucho gusto por la nueva que me trae de su salud y buena llegada a su casa, y ruego a Dios se la conserve por muchos años. Yo la tengo, gracias a su Divina Majestad. Y con deseo de valer algo para servir a v. m., como lo haré siempre a ley de buen catalán y amigo de v. m. Ya, gracias a Nro. Sr., me tiene v. m. lugarteniente de protonotario en propi [?] por haber muerto el Miércoles Santo mi principal, el Sr. [?] Navarro. Y si este nuevo empleo me trujere muchos [?] de v. m. será para mí de mayor estimación Y en todas [?] soy todo de v. m., que guarde Dios infinitos años, como deseo. Madrid, a 12 abril 1651. De v. m. capitán y servidor.Fructuoso Pique. Al Sr. don Jaime Zanglada, muchos besamanos por md. Sr. don Pedro Santacilia y Pax. Transcripción literal"
+  ],
+  "literal": [
+    "1. La de vm. de 20. de Febrero recibi con mucho gusto por2. la nueva que me trahe de su salud y buena llegada a su3. casa, y ruego à Dios sela conserve por muchos años., Yo la4. tengo gracias à su Divina Mgd. Y con deseo de valer algo para5. servir a vm. como lo hare siempre a ley de buen Catalan6. y amigo de vm ?7. ya gracias anro. sr. me tiene vm. Lugte. de Protsrio. en propi [?] 8. por haver muerto el miercoles sto. mi principal el Sr. [?] 9. Navarro, y si este nuevo empleo me trujere muchos [?] 10. de vm. sera para mi de mayor estimon., Y en todas [?] 11. soy todo de vm. que gde. Dios infinitos años Como desseo12. Md. a 12 Abril 165113. de vm Capn. y Seror.14. Fructuoso Pique15. Al sr. Don Jayme Çanglada16. muchos besamanos por md.17. Sr. Don Pedro sta.Cilia y Pax [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "195:3751.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo28/195:3751.JPG",
+      "url": "/legajos/legajo-28/images/195:3751.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "195:3751.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-28/cartas/007874.json",
+  "primary_image_url": "/legajos/legajo-28/images/195:3751.JPG"
+}

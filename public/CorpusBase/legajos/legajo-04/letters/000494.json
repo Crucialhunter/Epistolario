@@ -1,0 +1,43 @@
+{
+  "legajo_id": "4",
+  "id_carta": "494",
+  "order_in_legajo": 49,
+  "signatura": "069-34a",
+  "nombre_carta": "Carta de Leonard Burgues Zaforteza a Marqués de Castelnovo",
+  "fecha_original": "17 de marzo de 1674",
+  "lugar": "Mallorca",
+  "remitente": "Leonard Burgues Zaforteza",
+  "destinatario": "Marqués de Castelnovo",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Señor marqués de Castelnou Señor mío, las noticias que me ha dado don Pedro de Veri de la salud de v. s. me tienen tan gustoso que me alientan y dan confianza de poderle ver y servir en este reino cumpliendo con mis obligaciones antiguas aumentadas con nuevos favores que cada día recibo de v. s., que para mí lo han sido de mucha estimación los que de su mano han recibido don Pedro de Veri y mi nieto, Leonardo Quint Zaforteza, al cual quiere v. s. apadrinar y honrar en la pretensión que tiene de un hábito de las órdenes militares, que será de mayor estimación siendo por mano de v. s. como para mí lo ha sido el de que su majestad me hizo merced por mano del señor don Alonso de Cardona, conde de Eril, y marques de Castelnovo, mi señor (que tenga Dios en la gloria) de que siempre he hecho mucho aprecio. En esta ocasión que aguardamos elección de nuevo virrey por faltarse ya poco tiempo a cumplirse los tres años del gobierno del señor conde de Fuenclara, estimaría que fuese de conveniencia a v. s. ocuparlo, como lo sería al reino quedar honrado con él. No son pocos los que lo desean, y yo aunque no tenga ninguna premisa de que v. s. nos quiera favorecer, no desconfío de poderle ver y servir en este reino, en el cual y en todas partes estimaré muchos [empleos] en su servicio. Noticioso del cariño que tiene v. s. a este reino, el aprecio que haya de los buenos sujetos me [roto] [1§] a suplicarle su amparo en la pretensión que tiene el doctor Jaime Canet, oídor de esta Real Audiencia, en caso que se haya de aprovechar la regencia de esta Real Cancillería por promoción del doctor Julian Roca, a quien su majestad ha hecho merced de plaza en el civil de la Audiencia de Barcelona. De su entereza, inteligencia y despacho está enterado el señor don Miguel Salva, de quien podrá v. s. informarse para que sin ningún reparo pueda favorecerme a mí y asegurar el gobierno de la administración de la justicia. Guarde nuestro Señor a v. s. largos años con las felicidades que sus servidores le deseamos. Mallorca y marzo, 17 de 1674. De v. s. su mayor servidor que su mano besa,Leonardo Burgues Zaforteza. Transcripción literal"
+  ],
+  "literal": [
+    "1. [^Señor Marques de Castelnou^]2. Señor mio las noticias que me ha dado don Pedro 3. de Veri de la salud de V.Sª. me tienen tan gus 4. toso que me alientan, y dan confiança de poderle 5. ver, y servir en este Reyno cumpliendo con mis 6. obligaciones antiguas augmentadas con nuebos fa 7. vores que cada dia recibo de V.Sª. que para mi lo 8. han sido de mucha estimasion los que de su mano 9. han recibido don Pedro de Veri, y mi nieto Leonar 10. do Quint Çafortesa al qual quiere V.Sª. apadrinar 11. y honrrar en la pretencion que tiene de un 12. habito de las ordenes militares que sera de mayor 13. estimacion siendo por mano de V.Sª. como para mi 14. lo ha sido el de que su Magd me hiso M por mano 15. del Señor Don Alonso de Cardona Conde de Eril y Mar 16. ques de Castelnovo mi Señor (que tenga Dios en la gloria) 17. de que siempre he hecho mucho aprecio. 18. En esta ocasión que aguardamos elecion de nuebo 19. Virrey por faltarse ja poco tiempo a cumplirse los tres 20. anños del gobierno del señor Conde de fuenclara est 21. imaria que fuese de conveniencia a V.Sª. ocuparle 22. como lo seria al Reyno quedar honrrado con el no 23. son pocos los que lo desean, y jo aunque no tenga 24. ninguna premissas de que V.Sª. nos quiera favorecer 25. no desconfio de poderle ver y servir en este Reyno 26. en el qual y en todas partes estimare muchos empleos 27. en su servicio. 28. Notisioso del cariño que tiene V.Sª. a este Reyno 29. el aprecio que haja de los buenos sujetos me [roto]30. [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "069-34a.jpg",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo04/069-34a.jpg",
+      "url": "/legajos/legajo-04/images/069-34a.jpg"
+    },
+    {
+      "filename": "070-34c.jpg",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo04/070-34c.jpg",
+      "url": "/legajos/legajo-04/images/070-34c.jpg"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "069-34a.jpg",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-04/cartas/000494.json",
+  "primary_image_url": "/legajos/legajo-04/images/069-34a.jpg"
+}

@@ -1,0 +1,43 @@
+{
+  "legajo_id": "14",
+  "id_carta": "2076",
+  "order_in_legajo": 185,
+  "signatura": "286:2587.JPG",
+  "nombre_carta": "Carta de conde de Santa María de Formiguera a Pedro Santacilia y Pax",
+  "fecha_original": "14 de agosto de 1663",
+  "lugar": "Santa Margalida",
+  "remitente": "conde de Santa María de Formiguera",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Els successos de Portugal diu [?] qui està tant derrotat el nostre exèrcit no els poden [?] bons els anglesos apigorraran passar [?] del mar. Déu ajut a Francesc Sorell [?] que era bon religios en Pere [?] fou ací ahir, i em va dir la mercè que v. s. li fa, i dels qui vuinyasen amb ell n'hi ha qui fan alguns {ESP. reparos}, i són qui estan enculpats amb [?] finites [?] ’ i han [?] fer algun ases amb isglesias, o capalans jo ho alavi díeu qui al virrei envia un recau do en el bisba, i altra al inquisidor, i així complit aldatero son alibarats de tot així son avi són tots, o la major part, i per exemple sin roman ningú usar rigor amb ells per [?] pallant contra els dos no m'ho [?] trob a cert a enviar-los a Palerm perquè vint rigor [?] forraran [?] astats 200 homes {CAST. antes} més que manco, i amb tanta necessitat enviar-lo si molt més aquest treball a v. s. I a Portugal fra Tomas se troba ací, i va a [?] a Pollença i dona fra. Jo [?] fr. Tomas, i d'aquí tots ha escrit, i a mi Sra. dona HaLeonorlenor, i a v. s. i als {ESP. demés} [1§] fills de v. s. de part de tots molts {ESP. recaudos}, de Santa Margalida, als 14 d'agost 1663. Comte de Santa Maria de Formiguera Transcripción literal"
+  ],
+  "literal": [
+    "1. Los susesos de Portugal diu?? qui asta tant2. darrotat el nostro asersit nols poden ??3. [?] bons= los hinglesos apigoraran pas4. sar [?] del mar= deu ayut a fr Sorel?? que era bon5. raligios= enpara margui?? Fonc asi air, y vam6. dir la marsa que V.S.I li fa, y dels qui vuin7. yasen enbel nia qui fan algunes raparos, y son8. qui astan enculpats an [?] finitras?? y an9. ??? fer algun ases anb isglesias, o capalans jo10. au alavi dieu qui al virrey anvia un recau11. do anal bisba, y altra al inquisidor, y axi conplit12. aldatero son alibarats de tot axi son avi son13. tots, o, la mayor part, y par asenpla sin roman14. nigu husar rigor ab ells per so pallant contra los15. dos no/mo? trop asert an anviarlos a pallerm per16. que vint rigor?? foraran?? Astats 200 homes antes17. mes que manco, y antanta nasasitat anviarlo18. sit molt mes aquest travail a V.S.I an Portugal19. fra Tomas sa troba asi, y va a ??? a Polensa20. y da. fra. Jo [?] ?? fr. Tomas, y daqui21. tots ascritat, y a mi Sra. Da. Halenor, ya V.S.I y demes [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "286:2587.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo14/286:2587.JPG",
+      "url": "/legajos/legajo-14/images/286:2587.JPG"
+    },
+    {
+      "filename": "287:2587b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo14/287:2587b.JPG",
+      "url": "/legajos/legajo-14/images/287:2587b.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "286:2587.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-14/cartas/002076.json",
+  "primary_image_url": "/legajos/legajo-14/images/286:2587.JPG"
+}

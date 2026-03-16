@@ -1,0 +1,48 @@
+{
+  "legajo_id": "31",
+  "id_carta": "6859",
+  "order_in_legajo": 99,
+  "signatura": "138:1610a.JPG",
+  "nombre_carta": "Carta de Francesc Rosselló a Pedro Santacilia y Pax",
+  "fecha_original": "23 de agosto de 1661",
+  "lugar": "Ibiza",
+  "remitente": "Francesc Rosselló",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Transcripción literal"
+  ],
+  "literal": [
+    "1. 1. 1."
+  ],
+  "imagenes": [
+    {
+      "filename": "138:1610a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo31/138:1610a.JPG",
+      "url": "/legajos/legajo-31/images/138:1610a.JPG"
+    },
+    {
+      "filename": "139:1610b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo31/139:1610b.JPG",
+      "url": "/legajos/legajo-31/images/139:1610b.JPG"
+    },
+    {
+      "filename": "140:1610c.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo31/140:1610c.JPG",
+      "url": "/legajos/legajo-31/images/140:1610c.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "138:1610a.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-31/cartas/006859.json",
+  "primary_image_url": "/legajos/legajo-31/images/138:1610a.JPG"
+}

@@ -1,0 +1,38 @@
+{
+  "legajo_id": "23",
+  "id_carta": "3855",
+  "order_in_legajo": 110,
+  "signatura": "197:3268.JPG",
+  "nombre_carta": "Carta de Magín Ribes a Pedro Santacilia y Pax",
+  "fecha_original": "20 de octubre de 1655",
+  "lugar": "Mallorca",
+  "remitente": "Magín Ribes",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Senyor D. Pedro Per relació del patró Joan Cases tenguí notícia de com sa magestat, que Déu guardi, havia feta mercè a v. s. del càrrec de procurador reial d'eixa ciutat i regne del que hem tengut molt gran {ESP. contento} i voldria que fos dar l'{ESP. enhorabuena} de virrei de Nàpols. {ESP. Gócela} v. s. molts anys amb molts augments de gràcia per ara no hi ha cosa nova de què donar avís a v. s. sols suplicar a Nostre Sr. li doni molta vida i salut i que em mani en moltes coses de son gust, a qui Nostre Sr. guardi. Eivissa i octubre 20 de 1655. De v. s. que sa mà besaMagi Ribes Transcripción literal"
+  ],
+  "literal": [
+    "1. Señor D. Pedro2. Per relecio del Patro Juan cassas tengui noticia de com3. sa Magd que Deu Gue avia feta merce a V.Sa. del4. carrech de Por Rl dexa Ciutat y Reyne del que5. avem tengut mol gran Contento y voldria q fos 6. dar la en orabuena de vis Rey de napols, Gozela7. V.Sa. molts añys en molts Aumets de gracia per8. ara noya Cossa nova de que donar avis á9. V.Sa. sols suplicar a nostre Sr. li done molta vida10. y salut y que em mane en moltas Cossas de Son11. gust a qui nostre Dr. Gue Ivisa y 8bre 20 de 165512. de V.S. q s[a] m< à> B13. Magi Ribes [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "197:3268.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo23/197:3268.JPG",
+      "url": "/legajos/legajo-23/images/197:3268.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "197:3268.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-23/cartas/003855.json",
+  "primary_image_url": "/legajos/legajo-23/images/197:3268.JPG"
+}

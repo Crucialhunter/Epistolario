@@ -1,0 +1,38 @@
+{
+  "legajo_id": "34",
+  "id_carta": "5148",
+  "order_in_legajo": 177,
+  "signatura": "264:7063.JPG",
+  "nombre_carta": "Carta de Pascual de Aragón a Pedro Santacilia y Pax",
+  "fecha_original": "26 de diciembre de 1657",
+  "lugar": "Lugar sin especificar",
+  "remitente": "Pascual de Aragón",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "en carta deprimo del corriente que recibo de v. m., Veo la merced que me hace dendon perservido de lo quepuede solicitar el buen despacho de Jeronimo Pele/ guin, y siempre que v. m. creyere de mi afecto lo que deseo servirle, será hacerme la que le merezco, fiando de mi las ocasiones que se ofrecieren en quepueda acreditarle; en lo que v. m. me dice de Valencia no se haya motivo para que se hable de mi persona, y conozco cuan indigna es para puesto semejante Dios gd a v. m. muchos años como deseo [?] 26 de Dezre 1657 muy deem Sr. don Pasqual de Aragon Duplicado Sr. D. Pedro de dantacilia y Pax [1§] Transcripción literal"
+  ],
+  "literal": [
+    "1. encarta deprimo del Corriente que Reçivo de2. Vm, Veo la mrd queme hace dendon[ ] perservido de3. lo quepuede soliçitar el buen despacho de Geronimo Pele/4. guin, y siempre que Vm creyere demi afecto lo que5. deseo servirle, sera hacerme la que le merezco, fiando6. demi las ocassiones q se ofreçieren en quepueda7. acreditarle; en lo que Vm mediçe de Valencia no8. se aya motibo paraquese hable demi persona, y9. conozco quan indigna es para puesto semejante10. Dios gd aVm muchos años como deseo [?]11. 26 de Dezre 165712. mui deem13. Don Pasqual14. dee Aragon15. Duppdo16. Sr. D. Po de dantaçilia Y Pax [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "264:7063.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo34/264:7063.JPG",
+      "url": "/legajos/legajo-34/images/264:7063.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "264:7063.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-34/cartas/005148.json",
+  "primary_image_url": "/legajos/legajo-34/images/264:7063.JPG"
+}

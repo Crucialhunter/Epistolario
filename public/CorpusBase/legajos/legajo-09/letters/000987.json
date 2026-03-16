@@ -1,0 +1,43 @@
+{
+  "legajo_id": "9",
+  "id_carta": "987",
+  "order_in_legajo": 22,
+  "signatura": "013-9a",
+  "nombre_carta": "Carta de Diego Álvarez a Arnau de Santacilia",
+  "fecha_original": "14 de febrero de 1674",
+  "lugar": "Milán",
+  "remitente": "Diego Álvarez",
+  "destinatario": "Arnau de Santacilia",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Amigo y señor, Recibo la de v. m. y me huelgo infinito de que v.m. goce de entera salud. Mucho me pesa del mal despacho que haya en esa corte, pues le aseguro a v. m. que por aquí no sea más bueno [?] Para él queda dinero, yo creo que por esas partes debe de ser lo mismo. Luego [?] y las once doblas de España las tres de mi medalla [?] y las ocho por v. m. de que le doy infinitas gracias por los favores que me hace y asimismo le voy dando al señor capitán don Francisco Villalonga lo que me pide y no faltaré a servir a v. m. Los días pasados le ha sucedido una desgracia a su alférez [1§] de v. m. que se les ha [?] y le ha pasado una mano, mas me dice en su carta se halla mejor. V. m. sabe me tiene a sus órdenes para todo lo que fuere servido mandarme. La carta remití al señor maestre de campo agradeciendo a v. m. las noticias que se sirve darme de las cosas de su corte. Yo creo que ahora [?] de este país don Manuel [?] porque ya le conocen [?]. Guarde Dios a v. m. muchos años. Milán a 14 de febrero 1674. Besa las manos de v. m. su amigo y servidor, Diego Alvarez Señor capitán, don Arnau de Sanatcilia Transcripción literal"
+  ],
+  "literal": [
+    "1. aMígo Ysr Recivo la de Vmd Y me 2. guelgo Ynfíníto deque md Goca3. De entera salud = mucho mepesa 4. Del mal despacho queay a Enesacor5. te Pues le aseguro aVmd. Que 6. Por ay no sea mas bueno [Ilegible] 7. Por a elqueda Dinero Yiocreo 8. quepor esa partes Debo deser lomes9. mo = luego comco[?] y leronce[?] 10. Dio las despaña las tres de mi meda11. lla y las ocho Por Vmd. deque le hay 12. Ynfinitas Gracias Por los favores q 13. Meace Yassimismo levoy Dando al 14. sr Capn Don franco Billa longa lo 15. que mepide Yno faltare aservera 16. Vmd = los Dias Pasados lea 17. sucedido una desgracia asu alfz [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "013-9a.jpg",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo09/013-9a.jpg",
+      "url": "/legajos/legajo-09/images/013-9a.jpg"
+    },
+    {
+      "filename": "014-9b.jpg",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo09/014-9b.jpg",
+      "url": "/legajos/legajo-09/images/014-9b.jpg"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "013-9a.jpg",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-09/cartas/000987.json",
+  "primary_image_url": "/legajos/legajo-09/images/013-9a.jpg"
+}

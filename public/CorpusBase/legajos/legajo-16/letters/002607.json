@@ -1,0 +1,38 @@
+{
+  "legajo_id": "16",
+  "id_carta": "2607",
+  "order_in_legajo": 90,
+  "signatura": "155:2107.JPG",
+  "nombre_carta": "Carta de Nicolás de Santacilia y Togores a Pedro Santacilia y Pax",
+  "fecha_original": "14 de junio de 1667",
+  "lugar": "Madrid",
+  "remitente": "Nicolás de Santacilia y Togores",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "muy buendia tendrá v. m. con la nueva del obispo, que Creo la mucha rason, a brasido motivo de salir tan, a prisa yo he dado ya memorial, que fe esta mañana veré en que para de primer decreto para sise ofreciere volver areplicar y otra vez hablar a la reina. Guarde Dios a v. m. muchos años como deseo yemenes ter Madrid a 14 de Julio 1667 Su más humilde hijo de v. m. que su mano besa don Nicolas de Santacilia y Togores mi señor y mi padre [1§] Transcripción literal"
+  ],
+  "literal": [
+    "1. Muy buendia tendra VM Con la 2. nueva del hobispo, que Creo la mucha 3. rason, a brasido motivo de salir tan, a 4. prisa 5. jo e dado ya memorial, que fe esta ma-6. ñana vere enque parade primer decre-7. to para sise ofreciere bolver areplicar 8. y otraves ablar ala Reyna Guarde Dios 9. a VM muchos años Como deseo yemenes10. ter Madrid a 14 de Julio 1667 11. Su mas humilde hijo 12. de VM q s[u] M[]B[] 13. Don Nicolas de Sta Cilia y Togores 14. [Margen izquierdo][^ mi Sr y mi Padre] [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "155:2107.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo16/155:2107.JPG",
+      "url": "/legajos/legajo-16/images/155:2107.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "155:2107.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-16/cartas/002607.json",
+  "primary_image_url": "/legajos/legajo-16/images/155:2107.JPG"
+}

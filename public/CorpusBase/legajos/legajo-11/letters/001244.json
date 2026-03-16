@@ -1,0 +1,38 @@
+{
+  "legajo_id": "11",
+  "id_carta": "1244",
+  "order_in_legajo": 12,
+  "signatura": "013:5104.JPG",
+  "nombre_carta": "Carta de Bernat Suñer a Pedro Santacilia y Pax",
+  "fecha_original": "9 de febrero de 1643",
+  "lugar": "Palma",
+  "remitente": "Bernat Suñer",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "El sr. don Carlos volgué voluntàriament portar unes cartes dient importava molt anàs la persona, que jo les volia enviar per a la posta. Me demanà li cercàs a tota presa un cavall; li féu donar el de Tomàs Marsio [?] qui tenia la porta, oferint-se pagar dit Sr. qualsevol dany. Se m'és vingut [?] amb menys de 4 hores passa el camí el cavall és mort. Bé sap v. s. el paguin dels mateixos diners i és un pobre home. Suplic a v. s. [?] me digui en què se [?]. va aquí v. s. li serà padrí doncs és molt just sia salut fer esto prompte en tot el que manarà a qui guardi la divina. De Ciutat i febrer a 9 de 1643. [P.D.] Ma mare tinc molt malalta, penso avui l'extremunciam. Déu sia servit de tot i ens doni el que sap que ens convé. Bernat Suñer Sr. governador Transcripción literal"
+  ],
+  "literal": [
+    "1. Lo Sr. don Carlos volgué voluntarie 2. ment aportar unes cartes dient importa 3. ve molt anas se persone q jo les 4. volia ambiar per a la posta me de 5. mena li sercas a tota pressa un ca 6. vall li feu donar el de Tomas [^??Macsio??^] 7. qui tenia la porta oferintse pagar 8. dit Sr. qualsevol dany. Se me es vin 9. gut [humedad que afecta a tres líneas] 10. ab menos de 4 horas passa lo camí 11. lo cavall es mort. Be sap V.S. lo 12. paguen de los propris diners y es un 13. pobre home. Suplic a V.S. die medi 14. en que se pach. Va aqui V.S. li sera 15. padri puis es molt just sie salut fet 16. esto prompte en tot lo que manera 17. cuya persone Gde la Divina de 18. Ciutat y fabrer a 9 de 1643. 19. mu Mare tinch molt mala penso 20. vuy la [^??^] Deu sie 21. servit de tot y nos don lo que 22. sap nos conve. 23. Bernat Suñer?? 24. [^Sr. Goor^] [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "013:5104.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo11/013:5104.JPG",
+      "url": "/legajos/legajo-11/images/013:5104.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "013:5104.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-11/cartas/001244.json",
+  "primary_image_url": "/legajos/legajo-11/images/013:5104.JPG"
+}

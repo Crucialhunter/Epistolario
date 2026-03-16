@@ -1,0 +1,38 @@
+{
+  "legajo_id": "18",
+  "id_carta": "3082",
+  "order_in_legajo": 118,
+  "signatura": "189:4921.JPG",
+  "nombre_carta": "Carta de Conde de Zavellá a Pedro Santacilia y Pax",
+  "fecha_original": "26 de julio de 1664",
+  "lugar": "Madrid",
+  "remitente": "Conde de Zavellá",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "mío recibí unade v. s. y por enar que su partenza será luego no le respondí ahora lo hago estimando mucho he merced que me hace y deseo y tenga v. s. muy buen viaje con las felicidades que deseo. el achaque de mi poba [?] no ha tenido un mes en la cama y aún arrasto y tan mal conalecidoq estoy con harta pena pero sino precon más deseo de terminar v. s. qn guarde Dios como deseo Madrid y julio a 26 de 1664 Su Sa [?] de v. s. que su mano besa El conde de Zavella Sr. D. Pedro Santacilia [1§] Transcripción literal"
+  ],
+  "literal": [
+    "1. Sr mio recibi unade VS y por enar 2. q supartença sera luego nole respondi 3. aora lo hago estimando mucho he md q 4. me haze y deseo y tenga VS muy buen 5. viage con las felicidades q deseo. el 6. acha q de mi poba [?] nohatenido un mes 7. en la cama y aun arrasto y tan mal 8. conalecidoq estoy con harta pena pero sino 9. precon mas deseo de terminar Vsaqn 10. ge Dios como deseo Md y Julio a 26 11. de 1664 12. Su Sa [?] de VS. 13. q su m b El Conde de Çavella 14. [Margen izquierdo][^ Sr D Pedro Sta Cilia] [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "189:4921.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo18/189:4921.JPG",
+      "url": "/legajos/legajo-18/images/189:4921.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "189:4921.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-18/cartas/003082.json",
+  "primary_image_url": "/legajos/legajo-18/images/189:4921.JPG"
+}

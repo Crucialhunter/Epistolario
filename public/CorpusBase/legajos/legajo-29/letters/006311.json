@@ -1,0 +1,43 @@
+{
+  "legajo_id": "29",
+  "id_carta": "6311",
+  "order_in_legajo": 166,
+  "signatura": "012:4127a",
+  "nombre_carta": "Carta de Arnau Santacilia i Santacilia a Persona desconocida",
+  "fecha_original": "5 de abril de 1662",
+  "lugar": "Mallorca",
+  "remitente": "Arnau Santacilia i Santacilia",
+  "destinatario": "Persona desconocida",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Â [1§] Â [2§] Transcripción literal"
+  ],
+  "literal": [
+    "1. 1."
+  ],
+  "imagenes": [
+    {
+      "filename": "012:4127a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo29/012:4127a.JPG",
+      "url": "/legajos/legajo-29/images/012:4127a.JPG"
+    },
+    {
+      "filename": "013:4127b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo29/013:4127b.JPG",
+      "url": "/legajos/legajo-29/images/013:4127b.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "012:4127a.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (6)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-29/cartas/006311.json",
+  "primary_image_url": "/legajos/legajo-29/images/012:4127a.JPG"
+}

@@ -1,0 +1,48 @@
+{
+  "legajo_id": "10",
+  "id_carta": "1138",
+  "order_in_legajo": 6,
+  "signatura": "005-304a",
+  "nombre_carta": "Carta de Pablo Corbella a Jerónimo Pelegrín de Aragüés",
+  "fecha_original": "2 de junio de 1668",
+  "lugar": "Càller (Cagliari)",
+  "remitente": "Pablo Corbella",
+  "destinatario": "Jerónimo Pelegrín de Aragüés",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Amigo y señor mío, El patrón Josep Pujol ha llegado a Oristán con su bergantín y él ha venido aquí por tierra. Ha llegado hoy y luego lo despacho para que le den lo que me ha pedido porque no es tierra de estar en ella en este tiempo. Con faluca que despachó el príncipe de Pomblín escribí a v. m. avisándole cómo el capitán Bauló me dio los dos cortes de vestido. Ahora se me ofrece el haber menester ciento veinte palmos conforme a la muestra que va dentro de esta, de la misma calidad y color (que el señor Pedro Sanchez dirá a v. m. quién lo hizo porque me envío un corte de él) y v. m. lo hará asegurar cuando venga porque es encomienda y no quiero correr [1§] riesgo en nada. Guarde Nuestro Señor a v. m. y toda su casa, cuyas manos beso en toda felicidad. . Caller y junio, a 2 de 1667. [otra letra distinta] Con d. Rovira escribiremos largo. Amigo y servidor de v. m. que su mano besa,Pablo Corbella. Jeronimo Pelegrin de Aragues [2§] Caller 2. 16 de junio de 1668. De d. Pablo Corbella. Respuesta 6 junio y en la saetía de Jeronimo de Aragues Transcripción literal"
+  ],
+  "literal": [
+    "1. Amigo y Señor mío el Patron Jusepe Pu 2. jol a llegado a oristan con su bergan 3. tin y el avenido aquí por tierra a 4. llegado hoy y luego lo despacho para 5. que le den lo que me ha pidido porque 6. no es tierras de estar en ellas en este 7. tiempo. 8. Con faluca que despacho el sr. Princi 9. pe de Pomblin escribi a V.M. abisan 10. dole como el Capitán baulo medio 11. los dos cortes de vestido; ahora se me 12. ofrese el aver menester ciento y beinte 13. palmos conforme a la muestra que va de 14. tro desta de la mesma calidad y color 15. que el Señor Pedro Sanchez dira a V.M. 16. quien lo hizo porque me embio un corte 17. del y V.M. lo ara asegurar quando ven 18. ga porq es encomienda y no quiero correr [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "005-304a.jpg",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo10/005-304a.jpg",
+      "url": "/legajos/legajo-10/images/005-304a.jpg"
+    },
+    {
+      "filename": "006-304b.jpg",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo10/006-304b.jpg",
+      "url": "/legajos/legajo-10/images/006-304b.jpg"
+    },
+    {
+      "filename": "007-304c.jpg",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo10/007-304c.jpg",
+      "url": "/legajos/legajo-10/images/007-304c.jpg"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "005-304a.jpg",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING",
+      "message": "Se detectaron caracteres sospechosos de encoding (4)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-10/cartas/001138.json",
+  "primary_image_url": "/legajos/legajo-10/images/005-304a.jpg"
+}

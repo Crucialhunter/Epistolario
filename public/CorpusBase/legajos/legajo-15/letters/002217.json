@@ -1,0 +1,38 @@
+{
+  "legajo_id": "15",
+  "id_carta": "2217",
+  "order_in_legajo": 116,
+  "signatura": "180:6442.JPG",
+  "nombre_carta": "Carta de Laudòmia Rossa i Domènech a Pedro Santacilia y Pax",
+  "fecha_original": "15 de mayo de 1647",
+  "lugar": "Valencia",
+  "remitente": "Laudòmia Rossa i Domènech",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Mi señor don Pedro, Hago saber a v. s. como he recibido una carta de que me soy alegrada de saber de su salud, como es buena, que ya pidió nuevas a Jaime Socies, el escribano de Canales, y me dijo que v. s. estaba como un rey, {CAT. de que jo em folguí molt}. Y me hará merced v. s., {CAT. si cosa ha [de] menester d'ací de València, que jo} lo haré como criada de v. s. Señor, me hará merced de enviarme dos {CAT. pernils} de tocino que aquí no hay a ningún precio. Y no digo más. Guarde Dios a v. s., a Joan Miquel y a mi señora doña Magdalena, y mi señora doña Beatriz, que le beso las manos mil veces. Hecha a 15 de mayo 1647. Laudomia Ros i Domenech Transcripción literal"
+  ],
+  "literal": [
+    "1. Mi Sor Don Pedro 2. hago assaber a Vsna como erresibido una carta 3. de que me soy alegrada de saber de su salud 4. como es buena que jo pidio muevas a Jayme 5. Socies el escrivano de Canales ime dico que 6. V Sria estava como unrey {cat.} de que jo em 7. folgui molt y me ara mersed Vsria 8. si cossa amenester desi de Valca que 9. jo lo ara como criada de Vsria 10. Señor me ara merced de Anviarme dos 11. {cat.} pernils de tossino que aquy noay 12. aningun pressio y no digo Mas gde dios 13. a Vsria a Mi Juan Michel ia mi Sra 14. Doña mabdalena imi Sra dña batris 15. que libessa las Manos Mil vesses 16. fetxa a 15 de mayo 1647 17. Laudomia Rossa y Domenech [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "180:6442.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo15/180:6442.JPG",
+      "url": "/legajos/legajo-15/images/180:6442.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "180:6442.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (2)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-15/cartas/002217.json",
+  "primary_image_url": "/legajos/legajo-15/images/180:6442.JPG"
+}

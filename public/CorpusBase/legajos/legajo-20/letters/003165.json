@@ -1,0 +1,38 @@
+{
+  "legajo_id": "20",
+  "id_carta": "3165",
+  "order_in_legajo": 41,
+  "signatura": "045:5946.JPG",
+  "nombre_carta": "Carta de Aurelio Amigón y Pascual a Pedro Santacilia y Pax",
+  "fecha_original": "12 de diciembre de 1655",
+  "lugar": "Lugar sin especificar",
+  "remitente": "Aurelio Amigón y Pascual",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Sr. mío doy a v. m. la enhorabuena, de lo que a [?] deseado [?] y a mi me la doy de haberle servido en lo que he podido; que de haberme hallado en consejo donde pueda asistir [?] a las conveni encias que se ofrecian [?] del servicio de v. m. un fulano [?] tiene poder mío para cobrar mis tercias, y una pensión que tengo en ese obispado suplico a v. m. le asista en lo que se ofreciere de suerte [?] que lo conoz ca [?] yo. Dios guarde a v. m. como deseo [?] de 12 de 655 [?]. Besa la mano de v. m. su muy afecto y seguro servidor Sr. don Pascual [?] Sr. D. Pedro Santacilia y Pax [1§] Transcripción literal"
+  ],
+  "literal": [
+    "1. Sor. mio doy a v.m. la enorabuena, de lo que a[?] 2. deseado[?] y a mi me la doy de haverle servi- 3. do en lo que e podido; q de haverme hallado en 4. consejo donde pueda asistir[?] a las conveni- 5. encias que se ofresian[?] del servicio de 6. V.M. un fulano[?] [?] tiene poder mio 7. para cobrar mis tercias, y una pension que 8. tengo en ese obispado suplico a v.m le asista 9. en lo que se ofreciere de suerte[?] que lo conoz- 10. ca[?] yo. dios gde a vm como deseo [?] 11. de 12 de 655[?] 12. B l[a] m de VM su muy 13. affecto y seguro sdor 14. Don Pasqual 15. [?] 16. [?] d. Po Santacilia y Pax [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "045:5946.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo20/045:5946.JPG",
+      "url": "/legajos/legajo-20/images/045:5946.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "045:5946.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-20/cartas/003165.json",
+  "primary_image_url": "/legajos/legajo-20/images/045:5946.JPG"
+}

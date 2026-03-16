@@ -1,0 +1,43 @@
+{
+  "legajo_id": "7",
+  "id_carta": "778",
+  "order_in_legajo": 14,
+  "signatura": "14-9a copy",
+  "nombre_carta": "Carta de José Balell a Jerónimo Pelegrín de Aragüés",
+  "fecha_original": "22 de agosto de 1666",
+  "lugar": "Barcelona",
+  "remitente": "José Balell",
+  "destinatario": "Jerónimo Pelegrín de Aragüés",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Amigo y muy señor mío, He recibido la de vuestra merced de 14 de este con la estimación debida a tanta merced como es servido continuarme, lo que estimo como es razón. Acá me tiene vuestra merced para servirle con muy buena voluntad y gusto. La que venía para su primo y señor mío remití de mi mano a Madrid. Con este pliego y otro que ya tenía escrito al señor D. Pedro verá vuestra merced todas las novedades, que por eso no las expreso con esta, y continuará las que se irán ofreciendo con mucho gusto y más por favorecerlas tanto mío amo y vuestra merced también. Yo tengo hecho un papel de cosas memorables del estado de Cataluña hasta el día presente, de dos tiempos: el primero hasta el año fatal de 1640 y desde dicho año hasta el presente tanto del tiempo de la guerra como de la conclusión de la paz. Acá, y por no tener de quien fiarme, no remito copia, porque yo ya voy acabando con mi vista y solo escribo con el tiento. Si viene un amigo, lo copiará. Este discurso lo leyó el señor canónigo y secretario de la Santa Inquisición, el señor don Gabriel Fabregas, mi amigo y señor. Acá, según las materias van disponiéndose, ya estamos espada en mano, y pues sabe que todo soy suyo. No soy más largo. Guarde Dios a vuestra merced muchos años como puede y deseo en compañía de quien quiere. Barcelona y agosto 22, a 1666. Cierto servidor y amigo de vuestra merced que sus manos besa, Josep Balell. Señor Jeronimo Pelegrin de Aragues. [En el margen] Suplico a vuestra merced mande dar las inclusas. [1§] Jeronimo Pelegrin Transcripción literal"
+  ],
+  "literal": [
+    "1. Amigo y mui Sr. mio he Recivdo la de Vm 2. d 14 deste con la estimacion devida a 3. tanta md como es servido continuarme 4. lo que estimo como es razon Aca me tiene 5. Vm. pa servirle con mui buena bolun- 6. tad. y gusto, la que venia pa su primo 7. y Sr. mio Remiti de mi mano A Madrid 8. con este pliego y otro que ya tenia escrito 9. al Sr. D. Po bera Vm todas las noveda- 10. des que por eso no las expreso con esta 11. y continuara las que se hiran offrecciend[o] 12. con mucho gusto y mas por faborecerlas 13. tanto mio Amo y Vm. tamvien. Jo ten- 14. go hecho un papel de cosas memorables del 15. estado de Cataluña hasta el dia pnte de 16. dos tiempos. el po hasta el año fatal de 1640 17. y desde dho año hasta el pnte tanto del tiem- 18. po de la Guerra como de la conclusion de la 19. Paz aca y por no tener de quien fiarme no 20. Remito copia porque yo ya voi acavan- 21. do con mi vista y solo escrivo con el 22. tiento si viene un amigo lo copiara Este 23. Discurso lo leio el Sr. canonigo y secretio 24. de la Sta Inqon el Sr. dn Gabriel fabregas mi 25. amigo y Sr. = Aca segun las materias van 26. disponiendose ya estamos espada en mano 27. y pues save que todo soi suio no soi mas largo 28. gde dios a Vm ms a< ño>s como puede y deso en compa 29. de qen quiere Barcelona y Agto 22 a 1666 30. Cierto servor y A de Vm q s m b 31. Joseph Balell 32. Sr. Gmo Pelegrin de Aragues 33. Supp[li]< > a Vm Mande dar las Inclusas. [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "14-9a copy.gif",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo07/14-9a copy.gif",
+      "url": "/legajos/legajo-07/images/14-9a copy.gif"
+    },
+    {
+      "filename": "15-9b copy.gif",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo07/15-9b copy.gif",
+      "url": "/legajos/legajo-07/images/15-9b copy.gif"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "14-9a copy.gif",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (5)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-07/cartas/000778.json",
+  "primary_image_url": "/legajos/legajo-07/images/14-9a copy.gif"
+}

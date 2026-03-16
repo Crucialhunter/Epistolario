@@ -1,0 +1,45 @@
+{
+  "legajo_id": "26",
+  "id_carta": "4321",
+  "order_in_legajo": 58,
+  "signatura": "075:3415.JPG",
+  "nombre_carta": "Carta de Cosme Compte a Pedro Santacilia y Pax",
+  "fecha_original": "27 de noviembre de 1639",
+  "lugar": "Lugar sin especificar",
+  "remitente": "Cosme Compte",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Mi senyor molt ens som alegrats en la carta que rebé el senyor don Antoni aquesta estafeta passada que [?] ja ens tenia en {ESP. cuidado} tant de temps que no sabíem noves de sa mercè. El senyor don Antoni li farà a saber el que ha passat per ací a esta companyia que cert hi ha molt que contar. Ha estat molt donat que em pensava que és morís. Déu és estat servit de tornar-li la salut que cert pobre cavaller ha patit molt. Jo estic bo que és tot [?] al Senyor per al servei del rei i de sa mercè que és el que jo més desitjo al {ESP. padre} que jo li sou sempre son servidor i que em mani i a Mateu que ens torna tant arrogant que em faci mercè d'escriure com li va al senyor tinent que li beso les mans. Pere Ribas s'és partit molt bé i té a les ocasions i té gana. Déu [?] prest [?] que ja voldria jo ser guarit d'aquell mal. Per amor de Déu que si escriu que hi havia alguna cosa per a mi i el pare Domenech que perdoni que la falta de [?] és causa no per a lliurar-li. Avui fils [?] 27 de novembre ani 1639. Cosme Compte, criat de sa mercè. Transcripción literal"
+  ],
+  "literal": [
+    "1. Mi senior molt nos som alagraits en la2. carta que rebe lo senior don antoni a3. questa estefeta pasada que ser tia nos ta4. nia en cuidado tant de tens que no sa5. biam novas de sa merse lo senior don6. Antoni li fara a saber lo que a pasat7. per asi a este conpania que sert ia8. molt que contar a estat mol do9. nat quem pensava ques moris deu10. es estat sarvit de tornarli la salut11. que sert pobra cavaler a patit molt12. io estigh bo q es tot [?] al sen13. ior pera al servei del rei i de sa14. merse que es lo que io m es desixio15. al padre que io li sou sempra son servi16. dor i quem mane i a mateu que nos17. torna tant arogant quem fasa merse18. descriure com li va al senior tinent19. que li beso las mans20. Pera Ribas ses partit molt be i te21. a las ocasions i te gana deu [?]22. [?] prest avossaste que ia voldri23. a io ser gorit de aquei mal24. Per amor de Deu que si escriuquei avia alguna cosa per a mi25. i lo pare domenec que perdona que la falta de fa per26. es causa no peruiurali Viu fils[?] 27 de noembra ani 163[...]27. Cosme Compta criat de sa merse [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "075:3415.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo26/075:3415.JPG",
+      "url": "/legajos/legajo-26/images/075:3415.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "075:3415.JPG",
+  "warnings": [
+    {
+      "code": "IMAGE_DOWNLOAD_FAIL",
+      "message": "HTTP 404",
+      "context": {
+        "url": "http://santacilia.info/intranet2/img/Legajo26/075:3415.JPG"
+      }
+    },
+    {
+      "code": "IMAGE_COUNT_MISMATCH",
+      "message": "Imágenes detectadas (1) != descargadas (0)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-26/cartas/004321.json",
+  "primary_image_url": "/legajos/legajo-26/images/075:3415.JPG"
+}

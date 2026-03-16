@@ -1,0 +1,38 @@
+{
+  "legajo_id": "36",
+  "id_carta": "7321",
+  "order_in_legajo": 67,
+  "signatura": "099:7796.JPG",
+  "nombre_carta": "Carta de Josep de Rocabertí a Pedro Santacilia y Pax",
+  "fecha_original": "19 de octubre de 1652",
+  "lugar": "Mallorca",
+  "remitente": "Josep de Rocabertí",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Per ocasió d'avisar de la indisposició de don Juan, mon nebot, li tinc de fer estes ratlles, suplicant a v. s. que me mani avisar de sa salud, que per haver tingudes estos dies {ESP. atras} cartes d'eixa ciutat i no haver-les vistes de v. s., estic amb {ESP. cuidado} per un bergantí que toca per mal temps en esta {ESP. isla}. Sabí com el comte de Zavella era a Vinarós, i ara se diu que el Sr. Juan de Austria seria sobre Barcelona, i com per ací sempre són confuses las noves, suplico a v. s. me mane avisar d'elles i del que hi ha del servei de v. s., a qui Déu guarde com pot y desitjo [?] i octubre 19 de 1652. Don Josep de Rocaberti Sr. Don Pedro Santacilia i Pax Transcripción literal"
+  ],
+  "literal": [
+    "1. Per ocasio de avisar de la indisposicio 2. de Don Juan mon nabot la tinc de 3. fer estas rallas suplicant a VS que 4. me mane avisar de sa salud que 5. per haver tingudas estos dias atras 6. cartas dexa ciutat y no haverlas 7. vistas de VS estic ab cuidado per 8. un berganti que toca per mal 9. tems en esta isla sabi com lo comta 10. de Savalla era en Binaros, y ara 11. se diu que lo Sr Juan de Austria 12. seria sobre Barna y com per aci sem13. pra son confusas las novas supli14. co a VS me mane avisar dellas 15. y de lo que ia del cervei de VS 16. a qui Deu gde com pot y desijo [?] 17. y 8bra 19 de 1652 18. Don Joseph de 19. Rocaberti 20. Sr. Don Pedro Sta. Cilia y Pax [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "099:7796.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo36/099:7796.JPG",
+      "url": "/legajos/legajo-36/images/099:7796.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "099:7796.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-36/cartas/007321.json",
+  "primary_image_url": "/legajos/legajo-36/images/099:7796.JPG"
+}

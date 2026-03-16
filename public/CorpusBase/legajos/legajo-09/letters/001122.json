@@ -1,0 +1,32 @@
+{
+  "legajo_id": "9",
+  "id_carta": "1122",
+  "order_in_legajo": 3,
+  "signatura": "285-9-04",
+  "nombre_carta": "Carta de No consta a Persona desconocida",
+  "fecha_original": "fecha sin especificar",
+  "lugar": "lugar sin especificar",
+  "remitente": "No consta",
+  "destinatario": "Persona desconocida",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Memoria del dinero recibido del señor don Francisco Villalonga en San Cin 4 doblas de Italia __________ 88 2 doblas de España __________ 46 7 Felipes __________ 49 más __________ 60 más __________ 100 Más __________ 30 __________373__________ Transcripción literal"
+  ],
+  "literal": [
+    "1. Memoria del Dínero reçivido del 2. sr Don franco Villalonga en San Çin 3. 4 Doblas e Ytalía 88 4. 2 Doblas de éspaña 46 5. 7 Phleipes 49 6. mas 60 7. mas 100 8. Mas 30 9. 373 [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "285-9-04.jpg",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo09/285-9-04.jpg",
+      "url": "/legajos/legajo-09/images/285-9-04.jpg"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "285-9-04.jpg",
+  "warnings": [],
+  "raw_source": "raw/legajos/legajo-09/cartas/001122.json",
+  "primary_image_url": "/legajos/legajo-09/images/285-9-04.jpg"
+}

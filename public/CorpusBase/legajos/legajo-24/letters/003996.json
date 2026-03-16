@@ -1,0 +1,38 @@
+{
+  "legajo_id": "24",
+  "id_carta": "3996",
+  "order_in_legajo": 46,
+  "signatura": "069:4049.JPG",
+  "nombre_carta": "Carta de Pedro Fajardo de Requeséns-Zúñiga y Pimentel (V marqués de los Vélez) a Pedro Santacilia y Pax",
+  "fecha_original": "12 de enero de 1641",
+  "lugar": "Vilafranca",
+  "remitente": "Pedro Fajardo de Requeséns-Zúñiga y Pimentel (V marqués de los Vélez)",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "El Sr. don Juan de Garay llega a esa ciudad y pasará a [?] a conferir con el marques de Villafranca algunos puntos que se ofrecen sobre las asistencias de esta ejecutoria y porque para la disposición de lo que lleva encargado que ha de obrar en esa ciudad habrá menester su asistencia de v. m. se la dará ejecutando con los bergantines, tartanas y futas de su cargo que hubiere en ese puerto y las demás que llegaren de Vinarós y otras partes las órdenes que diere para que se ejecute en todo el servicio de S. M. y se aseguren los aciertos que son menester de lo que se ofrece por acá hará relación el Sr. don Juan y yo espero en Nro. Sr. que ha de hacer cierta la profecía de v. m. en lo de Barcelona. Dispóngalo su divina majestad como conviene y guarde a v. m. muchos años. Villafranca. 12 de enero 1641 [?] por su importancia [?] la estancia de esas embarcaciones. El marques de los Velez Transcripción literal"
+  ],
+  "literal": [
+    "1. El Sr. Don Juan de Garay llega a essa ciud y pasara 2. a zal[?] a conferir con el sr. Marq de Villafranca3. algunos puntos que se ofrezen sobre las asistençias deste4. exte y porque para la dispocission de lo que lleva en5. cargado que a de obrar enessa ciud abra menester su asis6. tençia de V.m. se la dara executando con los bergan7. tines tartanas y futas de su cargo que ubiere enesse8. puerto y las demas que llegaren de Vinaroz y otras partes9. las ordenes que diere para que se execute en todo el servo10. de SMd. y se aseguren los açiertos q son menester de 11. lo que se ofreze por aca hara relazion el s. Don Ju12. y io espero en nro Sr. que a de haçer çierta la profesia13. de Vm en lo de Barcna dispongalo su divina 14. Magd como conviene y Guarde a V.m. muchos15. años Villafranca. 12 de Heno 1641 16. [?] importançia 17. 18. El Marq de los Velez [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "069:4049.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo24/069:4049.JPG",
+      "url": "/legajos/legajo-24/images/069:4049.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "069:4049.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (5)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-24/cartas/003996.json",
+  "primary_image_url": "/legajos/legajo-24/images/069:4049.JPG"
+}

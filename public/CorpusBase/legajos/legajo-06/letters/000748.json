@@ -1,0 +1,38 @@
+{
+  "legajo_id": "6",
+  "id_carta": "748",
+  "order_in_legajo": 13,
+  "signatura": "424-209",
+  "nombre_carta": "Carta de Mariana Romero a Cecilia Zaforteza y Sureda de Sant Martí",
+  "fecha_original": "fecha sin especificar",
+  "lugar": "Palma",
+  "remitente": "Mariana Romero",
+  "destinatario": "Cecilia Zaforteza y Sureda de Sant Martí",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "A mi señora da. Cecilia Zaforteza besa las manos su más afecta servidora da. Mariana Romero y la participa marcha a España, al destino que a Cagigal [?] v. m. se ha dignado conferirle, donde, como en todas distancias, la servirá; no dándole lugar lo pronto de su viaje a pasar personalmente a recibir sus estimables órdenes. Transcripción literal"
+  ],
+  "literal": [
+    "1. A mi s<eño>ra Da. Sicilia Za- 2. forteza B< esa> L< a> M< ano> su 3. mas afecta Serv< ido>ra Da. 4. Mariana Romero y la 5. participa marcha a Es- 6. paña ál destino que 7. a cagigal[?] V.M. se a dig- 8. nado conferirle, donde 9. como en todas distanci- 10. as la servira, no dando 11. le lugar lo pronto de su 12. viaje á pasar personal 13. m< en>te a recivir sus esti 14. mables órdenes. [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "424-209.jpg",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo06/424-209.jpg",
+      "url": "/legajos/legajo-06/images/424-209.jpg"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "424-209.jpg",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-06/cartas/000748.json",
+  "primary_image_url": "/legajos/legajo-06/images/424-209.jpg"
+}

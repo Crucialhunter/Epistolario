@@ -1,0 +1,43 @@
+{
+  "legajo_id": "6",
+  "id_carta": "668",
+  "order_in_legajo": 168,
+  "signatura": "255-129c",
+  "nombre_carta": "Carta de Cecilia Zaforteza y Sureda de Sant Martí a Pedro Rubio Benedicto y Herrero",
+  "fecha_original": "7 de febrero de 1778",
+  "lugar": "Palma",
+  "remitente": "Cecilia Zaforteza y Sureda de Sant Martí",
+  "destinatario": "Pedro Rubio Benedicto y Herrero",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Ilustrísimo y reverendísimo Sr. Luego que supe que el magnánimo y recto corazón de nuestro piadoso y justificado monarca había nombrado a V.I. por pastor de este rebaño, ya me prometí un padre de pobres y desvalidas huérfanas, según me lo asegura la que se digna v. s. dirigirme por el último correo, con fecha de 7 del inmediato febrero, avivando con ella mi flaco espíritu, como de una desmerecida viuda que desea servir a Dios, obedecer al soberano y seguir los silbos de su pastor. Con éstos lograrán mis niñas el pasto saludable, con aumento de virtud y temporalidades, y yo acreditar mi lealtad con rendida obediencia a los suaves documentos de V.I., cuya importante salud y vida por la felicidad de esta isla suplico a Dios guarde muchos años. Palma y abril de 78. [1§] Muy Sra. mía, El buen olor de piedad y virtud con que v. s. edifica a Palma y a todo este [?] reino de Mallorca ha llegado a esta Corte y la ha reconocido con una satisfacción conforme a su corazón nuestro grande y piadoso monarca. Qué mucho será que siendo yo mayoral nombrado para ese rebaño me llene de júbilo y de particular consuelo por el que hallan en v. s. las que miro ya como mías, pobres y desvalidas huérfanas. Por el grande Dios a quien v. s. mira principalmente en sus obras de caridad, encarecidamente ruego a v. s. que no la hagan desmayar y aflojar las miserias y flaquezas que v. s. puede justamente anunciar y presentir de este nuevo pastor indigno de tan alto ministerio. Yo me alegrara ser un Sn. Jerónimo, ya que v. s., noble viuda mallorquina, imita tanto a otra sta. y noble viuda romana. Dios N. Sr. será el remunerador de todo, y si me concede S.M. lo que deseo y pido para su santo servicio, para consuelo de pobres y para satisfacción mía, guardará su vida muchos años. Santiago de Madrid y febrero 7 de 1778. Beso las manos de v. s. Su más seguro servidor y capellán, Pedro Rubio Benito y Herrero. Señora Dña. Cecilia Zaforteza. Transcripción literal"
+  ],
+  "literal": [
+    "1. Illmo y Rmo Sr. 2. Luego q[u]e supe q[u]e el Magnanimo, y recto 3. corazon de nuestro piadoso, y justificado 4. Monarca, havia nombrado á V.I. por Pas- 5. tor de este Rebaño, ya me prometi un Pa- 6. dre de Pobres, y desvalidas huerfanas, segun 7. me lo asegura la q[u]e se digna V.S. dirigirme 8. por el ultimo correo con fecha de 7 del im- 9. mediato Febrero, avivando con ella mi flaco 10. espiritu, como de una desmerecida Va q[u]e 11. desea servir á Dios, obedezer al Soberano, y se- 12. guir los silvos de su Pastor: con estos lograran 13. mis Niñas el pasto saludable, con aumeto de 14. virtud, y temporalidades, y yo acreditar mi leal- 15. tad con rendida obeda a los suaves documentos 16. de V.I. cuya importante salud y vida por 17. la felicidad de esta Isla, suplico á Ds gde ms a< ño>s 18. Pal y Abl de 78 [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "255-129c.jpg",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo06/255-129c.jpg",
+      "url": "/legajos/legajo-06/images/255-129c.jpg"
+    },
+    {
+      "filename": "256-129d.jpg",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo06/256-129d.jpg",
+      "url": "/legajos/legajo-06/images/256-129d.jpg"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "255-129c.jpg",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-06/cartas/000668.json",
+  "primary_image_url": "/legajos/legajo-06/images/255-129c.jpg"
+}

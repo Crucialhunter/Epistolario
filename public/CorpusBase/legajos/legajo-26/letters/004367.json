@@ -1,0 +1,45 @@
+{
+  "legajo_id": "26",
+  "id_carta": "4367",
+  "order_in_legajo": 102,
+  "signatura": "142:3461.JPG",
+  "nombre_carta": "Carta de Miguel de Pujales a Pedro Santacilia y Pax",
+  "fecha_original": "25 de mayo de 1642",
+  "lugar": "Milán",
+  "remitente": "Miguel de Pujales",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Señor capitán don Pedro Santacilia Mucha merced recibiría de que v. m. se sirviese de darme aviso de su salud y de lo que por allá pasa acerca de las guerras, y sobre todo de que v. m. me mandase muchas cosas de su servicio, que me hallará prontísimo. El que dará ésta a v. m. era soldado de este castillo. Va con licencia a España, llámase Juan de Sevilla, es soldado muy honrado, es mi amigo y así suplico a v. m. sea servido de hacerle la merced que hubiere lugar, que la recibiré yo a mi cuenta y por ello quedaré muy obligado a v. m., cuya persona guarde Dios muchos años con mucha felicidad y contento, del Castillo de Milán a 25 de mayo de 1642. Besa a v. m. sus manos Su verdadero servidor Miguel de Pujales Transcripción literal"
+  ],
+  "literal": [
+    "1. Señor Capn. Don Pº. Santasilia2. Mucha merced recebiria de q vm se serviesse de darme avisso de su 3. salud y delo q por alla passa a cerca de las guerras, y sobre todo de q 4. v. m. me mandaze muchas cossas de su servicio q me allara promti5. ssimo el que dera esta a v. m. era soldado deste Castº. va con lice6. ncia a España llamase Juá de Sivilla es soldado muy onrado, es 7. my amigo y assi suplico a vm. sea servido de hazer le la merced 8. q uviere lugar q la recebire jo a mi quenta y por ello quedare muy 9. obligado a v. m. cuya persona gde. Dios muchos años con much10. a felicidad y contento del Castº de Milan a 25 de Mayo de 164211. Besa a vm. sus manos 12. Su verdadero servidor 13. Miguel de Pujales [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "142:3461.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo26/142:3461.JPG",
+      "url": "/legajos/legajo-26/images/142:3461.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "142:3461.JPG",
+  "warnings": [
+    {
+      "code": "IMAGE_DOWNLOAD_FAIL",
+      "message": "HTTP 404",
+      "context": {
+        "url": "http://santacilia.info/intranet2/img/Legajo26/142:3461.JPG"
+      }
+    },
+    {
+      "code": "IMAGE_COUNT_MISMATCH",
+      "message": "Imágenes detectadas (1) != descargadas (0)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-26/cartas/004367.json",
+  "primary_image_url": "/legajos/legajo-26/images/142:3461.JPG"
+}

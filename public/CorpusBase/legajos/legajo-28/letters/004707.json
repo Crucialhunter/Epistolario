@@ -1,0 +1,38 @@
+{
+  "legajo_id": "28",
+  "id_carta": "4707",
+  "order_in_legajo": 28,
+  "signatura": "026:3641.JPG",
+  "nombre_carta": "Carta de condesa de Zavellá a Pedro Santacilia y Pax",
+  "fecha_original": "14 de diciembre de 1628",
+  "lugar": "Barcelona",
+  "remitente": "condesa de Zavellá",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "En rebre la de v. m. he parlat amb la duquessa i farà tot quan per als d'alla facin el que ella els escriurà, que tot anirà bé. El meu frare besa a v. m. les mans i el desija veure summament. Déu vulgui sia amb salut. Eixa carta me convé la doni v. m. amb seguretat al pare Bernardino, guàrdia dels caputxins, i que v.m. [?] també la respongui amb seguretat i [tinta borrada] [margen izquierdo, en vertical] que convé, digui v. m. a la comtessa prengui es[ta] per pròpia. Guardi Nostre Sr. a v. m. com jo desitj. Barcelona, a 14 de desembre de 1628 [1627] [?] La comtessa de Zavella Transcripción literal"
+  ],
+  "literal": [
+    "1. en rebra la de v.m. e parlat2. ab la duquesa y fara tot3. quant pora los de alla4. fasan lo que ella els es5. criura que tot [a]nira be6. lo meu frara besa v.m.7. las mans yl desija veu8. ra sumament deu vulla9. sia abselut, exa carta10. me conve la done vm ab11. seguratat al para berna12. rdino guardia dels capu13. txins y que v.m. [tinta borrada] 14. tambe la res[pondra ab]15. seguratat y [tinta borrada] 16. [margen izquierdo, en vertical] 17. que conve, diga v.m. a la comte[ssa]18. prenga es per propia, [y guardi]19. nostro sõr a v.m. com jo desix [Barce] 20. lona a 14 de desembre de 1628 [2627 [?] ] 21. la comtesa22. de çavella [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "026:3641.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo28/026:3641.JPG",
+      "url": "/legajos/legajo-28/images/026:3641.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "026:3641.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-28/cartas/004707.json",
+  "primary_image_url": "/legajos/legajo-28/images/026:3641.JPG"
+}

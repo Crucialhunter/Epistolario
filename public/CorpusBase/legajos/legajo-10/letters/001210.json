@@ -1,0 +1,43 @@
+{
+  "legajo_id": "10",
+  "id_carta": "1210",
+  "order_in_legajo": 77,
+  "signatura": "136-377a",
+  "nombre_carta": "Carta de Gabriel Roger a Jerónimo Pelegrín de Aragüés",
+  "fecha_original": "10 de octubre de 1668",
+  "lugar": "Madrid",
+  "remitente": "Gabriel Roger",
+  "destinatario": "Jerónimo Pelegrín de Aragüés",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Respondo a su carta de su tío de 25 septiembre, recibida por vía de Valencia, diciéndole que salud hay, que goza mi señor don Pedro y don Juan cobra poca tierra o etc. como profesor de notaría. Pienso con el favor de Dios que nos despacharemos presto para ver bajar la viga y subir el quintal de la tafona: Dios lo haga como quiero. A v. m. guarde en vida de sus hijos y mujer, a quienes dará muchos recados. Madrid, octubre X de MDCLXVIII. De v. m. amigo y servidor, Gabriel Roger Sr. Jeronimo Pelegrin [1§] A Jeronimo Pelegrin de Aragues, guarde Dios muchos años. Mallorca. Transcripción literal"
+  ],
+  "literal": [
+    "1. Respondo a su carta de su tio de 25 settre recivida por via de 2. Valencia disiendole que salud ay que gosa mi señor don 3. Pedro, y Don Juan cobra poca tierra o etts. como professor de 4. nottaria: Pienso con el favor de Dios que nos despacharemos 5. presto para ver baxar la biga, y subir el quintal de la 6. Tafona Dios lo aga como quiero a V.M. gde en vida de sus 7. hijos y muger a quienes dara muchos recados. Madrid 8. octte X de MDCLXVIII. 9. De V.M. amigo y servidor 10. Gabriel Roger 11. [^Sr. geronimo Pelegrin^] [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "136-377a.jpg",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo10/136-377a.jpg",
+      "url": "/legajos/legajo-10/images/136-377a.jpg"
+    },
+    {
+      "filename": "137-377b.jpg",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo10/137-377b.jpg",
+      "url": "/legajos/legajo-10/images/137-377b.jpg"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "136-377a.jpg",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING",
+      "message": "Se detectaron caracteres sospechosos de encoding (4)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-10/cartas/001210.json",
+  "primary_image_url": "/legajos/legajo-10/images/136-377a.jpg"
+}

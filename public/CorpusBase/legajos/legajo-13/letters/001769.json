@@ -1,0 +1,43 @@
+{
+  "legajo_id": "13",
+  "id_carta": "1769",
+  "order_in_legajo": 32,
+  "signatura": "064:2273a.JPG",
+  "nombre_carta": "Carta de Josep de Rocabertí a Pedro Santacilia y Pax",
+  "fecha_original": "11 de agosto de 1668",
+  "lugar": "Barcelona",
+  "remitente": "Josep de Rocabertí",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Sr. mío mucho me alegro de verle a v. m. con ánimo de pretendiente y en la corte, quiera Dios que pueda negociar bien y deprisa y que podamos ver a v. m. en esta ciudad que lo deseo buenamente ya que la otra vez quiso mi poca suerte que me hallase fuera. No faltan novedades en todas partes ya v. m. sabrá el fatal suceso de Cerdeña y me parece que habría causado la novedad mucho ruido [?] hoy lo que importa es acudir con brevedad al remedio. En esta su casa de v. m. tenemos todos salud y besan a v. m. las manos y yo quedo suplicando a Dios que le guarde como deseo. Ya sabemos que Zavella está galanteando y aún se ha dicho a quien yo no sé nada porque [?] me lo callo todo. Barcelona y agosto 11 de 1668. Servidor de v. m. que sus manos besaDon Josep de Rocaberti Sr. don Pedro Santacilia y Pax [1§] Barcelona Agosto 11 de 1668 (respuesta) (a 1 del mismo) de D. Josep de Rocaberti [2§] Transcripción literal"
+  ],
+  "literal": [
+    "1. Sr. Mio Mucho me alegro de verle a Um2. con animo de pretendiente y en la corte3. quiera dios que pueda negociar bien y4. deprisa y que podamos ver a Um en esta5. ciudad quelo deseo buenamente ya que6. la otra vez. quiso mi poca suerte que me7. hallase fuera:8. No faltan nouedades en todas partes ya9. Um sabra el fatal sucesso de Çerdeña10. y me parese que habria causado la nou[-]11. edad mucho ruido[?] ay lo que inporta12. has acudir con breuedad al Remedio13. En esta tierra[?] de Um tenemos todos sa[-]14. lud y Besan a Um las manos y io quedo15. suplicando adios que le gde como deseo16. ya sabemos que Çaualla[?] esta galan[-]17. teando y haun se ha dicho aquien yo18. no se nada seu[?] que el melo callo todo19. Barna y Agosto 11 de 1668.20. Servuidor de Um y e M [?]21. Don Joseph de22. Rocaberti23. Sr. don Pedro Stacilia y Pax [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "064:2273a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo13/064:2273a.JPG",
+      "url": "/legajos/legajo-13/images/064:2273a.JPG"
+    },
+    {
+      "filename": "065:2273b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo13/065:2273b.JPG",
+      "url": "/legajos/legajo-13/images/065:2273b.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "064:2273a.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-13/cartas/001769.json",
+  "primary_image_url": "/legajos/legajo-13/images/064:2273a.JPG"
+}

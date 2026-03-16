@@ -1,0 +1,38 @@
+{
+  "legajo_id": "24",
+  "id_carta": "3972",
+  "order_in_legajo": 25,
+  "signatura": "039:4025.JPG",
+  "nombre_carta": "Carta de Ana de Córdoba y Aragón a Pedro Santacilia y Pax",
+  "fecha_original": "5 de abril de 1635",
+  "lugar": "Medellí­n",
+  "remitente": "Ana de Córdoba y Aragón",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Aunque sean pocos renglones por estar departida para merced a donde he enviado por carruaje para que esté aquí a once, no he querido dejar de decir a v. m. la merced que he recibido con su carta y con entender que se han de dilatar sus negocios hasta que le bese las manos, que cierto lo deseo pasar aquellos buenos ratos tanto como ver a mi hermano sin dependencia de Villafranca ni Bellafila y pues espero en Dios tratar de todo con v. m. muy presto de palabra. Para allá lo remito, a quien guarde su majestad como deseo. En Medellín, 5 de abril 1635. [Letra original de la remitente:] Que la carta que escribí a v. m. me la volvieron y con esto entendí se había v. m. ido, que como esto suele ser tan de repente entendí esta era la causa de haberme vuelto la que escribí a v. m. Ya espero en Dios nos veremos presto. Doña Ana de Cordoba Señor d. Pedro de Santacilia Transcripción literal"
+  ],
+  "literal": [
+    "1. Aunque sean pocos renglones por estar de partida para md2. adonde he enbiado por carruaje para que este aquí 3. a onçe, no he querido dejar de deçir a V.m. la md que4. he reçevido con su carta y con entender que sean de dilatar5. sus negoçios hasta que le bese las manos que cierto lo desseo6. pasar aquellos buenos ratos tanto como ver a mi herno7. sin dependençia de Villafranca ni Vellafilla y pues espero8. en Dios tratar de todo con Vm. muy presto de palabra 9. para alla lo remito a quien gde Su magd como desseo.10. En Medellin. 5. de Abril 1635.11. [^q la carta que scribi a vm me la12. bolbieron y con esto entendi sea13. bia vm ydo que como esto suele ser14. tan de repente entendi esta era15. la quausa dea ber me buelto la16. que scribi a vm ya espero en dios17. nos beremos presto18. dona ana19. de cordoba]20. Sor D. Po de Sta. Çelia [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "039:4025.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo24/039:4025.JPG",
+      "url": "/legajos/legajo-24/images/039:4025.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "039:4025.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (2)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-24/cartas/003972.json",
+  "primary_image_url": "/legajos/legajo-24/images/039:4025.JPG"
+}

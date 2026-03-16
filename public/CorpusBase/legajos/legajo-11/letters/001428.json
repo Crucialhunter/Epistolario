@@ -1,0 +1,43 @@
+{
+  "legajo_id": "11",
+  "id_carta": "1428",
+  "order_in_legajo": 195,
+  "signatura": "348:5283a.JPG",
+  "nombre_carta": "Carta de José de Pueyo y Muñoz a Pedro Santacilia y Pax",
+  "fecha_original": "16 de agosto de 1644",
+  "lugar": "Zaragoza",
+  "remitente": "José de Pueyo y Muñoz",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Sr. mío, v. m. me tiene ya en Zaragoza que llegué dos días a y gracias a Dios con salud y también, Da. Chatalina mi Sra., Da. Francisca, mis hjos y yo le he visto a estos señores regentes una vez que por ser la primera visita no he hablado de negocios [?] solo presentarme con la ocasión de la vacante por muerte de don Jacinto Villalonga soy pretendiente y cuando no me den la regencia por tener contario al fiscal [?] que resulta podré conseguirla. Las nuevas de Lérida habrá sabido v. m. como se entregó y el rey entró dentro y juró guardar las constituciones y vendrá a esta ciudad después de mañana o el día siguiente y Tarragona que la tenía sitiada el francés ha levantado ya el sitio según se ha dicho. Hoy don Flilipe de Silva ha pasado a Castilla, algunos dicen preso, pero lo cierto es que lo han arrimado y han nombrado en su lugar a Andres Canselmo, napolitano, hoy ha entrado don Antonio de Aragon. El Pr. Sr. don Juan Miguel Santacilia me ha escrito como se iba a Menorca que mi sra, Da. Beatriz estaba enferma ha me apenado que esa fuese la causa en cuanto a disculpar el que esté en Menorca. [1§] Lo procuraré dar a entender pues lo siento [?] que no hay inconveniente, Dr. Josep de Torres el nuevo virrey no partirá tan presto dicen que a mitad del que viene, pero yo creo que será más la dilación, v. m. ya sabe cuan suyo soy y cuantas las obligaciones no deje mandarme en su serviocio en las manos Dña. Catalina mi Sra. Dña. Francina mis hijos y yo besamos y guarde Dios, de Zaragoza a 23 de agosto 1644. Don Josep de Pueyo y Muñoz Transcripción literal"
+  ],
+  "literal": [
+    "1. Sr. mio Vm me tiene ya en Çaraga que 2. llegue dos dias a y gracias a Dios con salud y tan 3. bien Dª Chatalina mi sra. Dª Francisca mis hjos y 4. yo le visto a estos señores regentes una vez que 5. por ser la primera visita no e ablado de negoci 6. os so no solo presentarme con la ocasion de la va 7. cante por muerte de don Jacinto Valonga soy preten 8. diente y quando no me den la Regencia por tener 9. contario al fiscal [^??isco??^] que resulta podre conseguirla. 10. Las nuevas de Lerida habra savido VM como 11. se entrego y el Rey entro dentro y juro guar 12. dar las constituciones y vendra a, esta ciudad 13. despues de mañana o, el dia siguiente y Tarr 14. gona que la tenia sitiada el frances a levan 15. tado ya el sitio segun sea dicho oy don Phli 16. lipe de Silva a pasado a Castilla algunos dicen preso 17. pero lo cierto es que lo an arrimado y an nombrado 18. en su lugar a Andres Canselmo napolitano 19. oy a entrado don Antonio de Aragon 20. .21. El Pr. don Juan Miguel Santacilia mea escrito como se 22. iva a Menorca que mi sra, dª Beatris estava en 23. ferma a me penado que esa fuese la causa 24. en quanto a disculpar el que este en Menorca. [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "348:5283a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo11/348:5283a.JPG",
+      "url": "/legajos/legajo-11/images/348:5283a.JPG"
+    },
+    {
+      "filename": "349:5283b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo11/349:5283b.JPG",
+      "url": "/legajos/legajo-11/images/349:5283b.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "348:5283a.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (2)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-11/cartas/001428.json",
+  "primary_image_url": "/legajos/legajo-11/images/348:5283a.JPG"
+}

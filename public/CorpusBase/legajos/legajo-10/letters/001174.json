@@ -1,0 +1,48 @@
+{
+  "legajo_id": "10",
+  "id_carta": "1174",
+  "order_in_legajo": 42,
+  "signatura": "075-340a",
+  "nombre_carta": "Carta de Gabriel Roger a Jerónimo Pelegrín de Aragüés",
+  "fecha_original": "9 de agosto de 1668",
+  "lugar": "Madrid",
+  "remitente": "Gabriel Roger",
+  "destinatario": "Jerónimo Pelegrín de Aragüés",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Nunca tales novedades es menester ser el primero que las denuncie, que no me he atrevido dar tan malas nuevas a casa de mi señor como de la enfermedad de mi señor d. Juan, que prometo en verdad lo que no querría que si escapamos con el pellejo será providencia de alguna buena persona que estará rogando por la salud. Tenemos tres médicos y todos se hallan engolfados en la enfermedad, que después de haber tenido mucho corrimiento de sangre nos ha venido abundancia de calentura, con todo el cuerpo tullido de dolor, que lo hemos de revolver abrazos con mucha impaciencia y lleno de linimientos. Dios nos dé lo que conviene por casa de mi señor {LAT. et fiat domini voluntas}. Hasta anteayer, a 7 de este, no habíamos tenido lugar de hablar a la cruz de Saco, espero que veremos un gran jubilate del consejo, que pienso lo que no es el más favorable para nosotros. Y se murmura algo de la revolución de Càller (Cagliari), si tendrá émulos en ella. Estamos aguardando ver el nuestro d. Juan que hará su enfermedad para ponernos a la hoguera de nuestra andanza, y Dios nos deje tapar muchas bocas hediondas de Mallorca, que será a pesar de ellos. Mi señor está muy bueno y fuerte, que es para investir a cualquier contrario con su espada vibrante y vigor de su fuerte brazo. A mi señora por ahora no escribo ni a mi señor don Nicolas porque no me agrado de tales novedades y hacerlas noticiosas. Solo le dé los saludos a mi señor, a quien Dios guarde y a todos, como hemos menester. Madrid y agosto, 9 de 1668 Su amigo y servidor de v. m., Gabriel Roger Señor Jeronimo Pelegrin [1§] A Jeronimo Pelegrin de Aragues, que Dios guarde muchos años como deseo. [2§] [con otra letra] Madrid. Gabriel Roger, de 9 y 25 de {CAT. agost 1668. Resposta 12 de setembre}. Transcripción literal"
+  ],
+  "literal": [
+    "1. Nunca tales novedades es menester ser el primero que las denuncie 2. que no me he atrevido dar tan malas nuevas a casa de mi Señor 3. como de la enfermedad de mi Señor Don Juan que prometo en ver 4. dad lo que no querria que si escapamos con el pellejo sera provi 5. dencia de alguna buena persona que estara rogando por la salud 6. . Tenemos tres medicos, y todos se halla engolfados en la enfer 7. medad , que despues de haver tenido mucho corrimiento de sangre 8. nos ha benido abuendancia de calentura, con todo el cuerpo 9. atullido de dolor, que lo hemos de rebolver abrasos con mucha 10. impaciencia; y lleno de linimientos; Dios nos de lo que 11. conviene por casa de mi Sr. [^LAT fiat domini voluntas^] 12. Hasta antejer a 7 deste no haviamos tenido lugar de hablar a 13. la Crus de Saco, espero que veremos un gran jubilare del 14. Consejo, que piesno lo que no es el mas favorable para nos, y se 15. murmura algo de la rebolucion de Callar si tendra emulos en ella. 16. Estamos aguardando ver el nuestro Don Juan que hara su enfermedad 17. para ponernos a la oguera de nuestra andansas, y Dios nos 18. dexe tapar muchas bocas ediondas de Mallorca, que sera a pesar 19. dellos. 20. Mi Señor esta muy bueno y fuerte que es para inbestir a qual 21. quier contrario con su espada vibrante, y vigor de su fuerte brazo 22. . A mi Señora por agora no escrivo ni a mi Sr. Don Nicolas 23. porque no me agrado de tales novedades y haserlas noticiosas 24. solo la de los saludos a mi Sr. a quien Dios gde y a todos como 25. demos menester. Md y Agosto 9 de 1668 26. Su amigo y servidor de V.M. 27. Gabriel Bover 28. [^Sr. Go Pelegrin^] [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "075-340a.jpg",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo10/075-340a.jpg",
+      "url": "/legajos/legajo-10/images/075-340a.jpg"
+    },
+    {
+      "filename": "076-340ba.jpg",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo10/076-340ba.jpg",
+      "url": "/legajos/legajo-10/images/076-340ba.jpg"
+    },
+    {
+      "filename": "076-340bb.jpg",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo10/076-340bb.jpg",
+      "url": "/legajos/legajo-10/images/076-340bb.jpg"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "075-340a.jpg",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING",
+      "message": "Se detectaron caracteres sospechosos de encoding (4)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-10/cartas/001174.json",
+  "primary_image_url": "/legajos/legajo-10/images/075-340a.jpg"
+}

@@ -1,0 +1,48 @@
+{
+  "legajo_id": "9",
+  "id_carta": "1076",
+  "order_in_legajo": 111,
+  "signatura": "198-98a",
+  "nombre_carta": "Carta de Francisco Pérez de Guzmán a Arnau de Santacilia",
+  "fecha_original": "18 de agosto de 1676",
+  "lugar": "Milán",
+  "remitente": "Francisco Pérez de Guzmán",
+  "destinatario": "Arnau de Santacilia",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Sr. mío y amigo con la llegada del capitán Juan de Robles a este estado me dijo traía Comisión delm, para pagarme 30 reales de a ocho que v. m. le dijo me entregae del precio de las pistolas, y que estas devía darlas de los alcances que v. m., hazía aquí de su compañía pero habiendo querido usar del poder que traía [?] cobrar y pagar, no ha hallado, cosa en que poder meter Mano, por haberle a v. m. remitido, lo que le tocaba, los que que daron con el Manxo [?] de hacerlo, y no mereciéndole yo a v. m. que en la satisfacción de este dinero hubiese Intope, creo habrá Cuido no le Comisión que el capitán Robles traía [1§] pero no lo estando (como dígo) debo suplicar a v. m., se sírva de hacerme merced de mandar si me pague da cantidad, a la persona de quien hubíere de haber v. m., pues Juan de Robles no halla efecto de que poderlo hacer y si v. m. no alCansare, aquí de que yo sea satisfecho, me hará favor de enviarme de hay letra de dicha suma que le quedaré con mucho agradecimiento pues prasera [?] razón que pues v. m. se quedó con las pistolas, no hago satisfecho de ellos que es cuanto se me ofrece, y que me tiene a su servicio cuya vida guarde Dios muchos años como deseo, Milán y agosto 18 de 1676. Besa la mano de v. m. su mayor servidor y servicio Amigo Sr. D. f [?] Perez de Guzman [2§] debo Crecer a v. m., que habiendo escrito al capitán Sr. D. Pedro taraval, como testamentario que fue de D. Diego de Herrera (q está en gloria) para que pagase un alcance que su alférez (que fue con v. m.) tenía de su plaza, de quien v. m., alcanzaba no sé que dinero, responde no sabe que le toque pagar esta deuda sargento mr Sr. D. Arnau de Santacilia [3§] Transcripción literal"
+  ],
+  "literal": [
+    "1. Sr mio y Amígo Conla llegada del 2. Capn Ju de Robles a este estado me 3. dixo traia Comision delm, para pa4. garme 30 reales de a ocho que Vm 5. le dixo me entregae del presio delas 6. Pistolas, Yque estas devía darlas delos 7. Alcanses que Vm, hazía aqui de su 8. Compa Pero haviendo querido usar 9. del Poder que traia [Ilegible] 10. cobrar y pagar, no a allado , cossa 11. enque poder meter Mano, por haver 12. le a Vm remitido, loque le tocava, 13. losque que daron Con el Manxo[?] de 14. hazerlo, Yno merezíendole yo a Vm 15. que enla satisfaçíon deste dinero 16. hubiese Intope, creo abra Cuido nole 17. Comission que el Capn robles traia [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "198-98a.jpg",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo09/198-98a.jpg",
+      "url": "/legajos/legajo-09/images/198-98a.jpg"
+    },
+    {
+      "filename": "199-98ba.jpg",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo09/199-98ba.jpg",
+      "url": "/legajos/legajo-09/images/199-98ba.jpg"
+    },
+    {
+      "filename": "199-98bb.jpg",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo09/199-98bb.jpg",
+      "url": "/legajos/legajo-09/images/199-98bb.jpg"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "198-98a.jpg",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (2)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-09/cartas/001076.json",
+  "primary_image_url": "/legajos/legajo-09/images/198-98a.jpg"
+}

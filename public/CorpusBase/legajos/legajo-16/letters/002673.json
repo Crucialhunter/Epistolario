@@ -1,0 +1,38 @@
+{
+  "legajo_id": "16",
+  "id_carta": "2673",
+  "order_in_legajo": 160,
+  "signatura": "259:2173.JPG",
+  "nombre_carta": "Carta de José Balell a Pedro Santacilia y Pax",
+  "fecha_original": "19 de diciembre de 1667",
+  "lugar": "Barcelona",
+  "remitente": "José Balell",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Señor don Pedro Santacilia mi señor El pliego que va con este ya se ha visto a la uvita de Mallorca con las galeras que por el mal tiempo, han vuelto a esta ciudad domingo a la mañana y habiendo recibido el sábado el pliego In cluso de Diego Matias de Aragues Le. Remito junto con otra carta y pues v. s. sabrá por la de Madrid como el seño5r Sr. don Nicolás se había partido para Alicante lo excuso en esta y las demás novedades de la Corte., y solo digo que los fran ceses Continuan sus levas. y siempre nos amanacan por esta parte con el duque de Anjou y que acá no se envian tropas por ahora y todo se dispone mal suplico a v. s. sea servido de Tener me en su gracia y servicio y Admitir de mi buena ley y afecto estas Santas na vidades y principio de año nuevo quedadndo Rogando a Dios Nuestro Señor se las de tan cumplidas como puede y este su criado desea y las menester en compañía de todos esos mis señores cuyas manos. Beso y guarde la persona de v. s. muchos años Barcelonay diciembre A19 1667 cierto criado de v. s. que sus manos besa Josep Balell [1§] Transcripción literal"
+  ],
+  "literal": [
+    "1. [Margen izquierdo][^ Sr D Pedro Sta Cilia mi sr]2. El Pliego que va con este ya se 3. ha Visto ala uvita de Mallorca 4. con las Galeras que por el mal 5. tiempo, han buelto A esta Ciud 6. domingo ala mañana y haviendo 7. Reciv[i]do el Savado el pliego In8. cluso de diego Matias de Aragues 9. Le Remito Junto con otra Carta 10. y pues VS. savra por la de Madrid 11. como el s5r d Nicolas se havia 12. partido pa Alicante lo escuso en 13. esta y las demas novedades de 14. la Corte., y solo digo que los fran15. ceses Continuan sus levas. y siem16. pre nos amanacan por esta parte 17. con el duque de Anjou y que 18. aca no se Invian tropas por 19. agora y todo se dispone mal 20. supp[li]co A VS. sea serv[i]do de Tener me en 21. su gracia y servo y Admitir de mi 22. buena ley y afecto estas Stas na23. vidades y principio de año nuevo 24. quedadndo Rogando A dios nro sr 25. selas de tan cumplidas como pue26. de y este su Criado deza y las menes27. ter en Comp de todos esos mis SSs 28. cuias manos. Beso y gde la persona 29. de VS. ms a<ño>s Barcelonay dize A19 30. 1667 31. Çierto Criado de VS. q s[] m[] b[] 32. Joseph Balell [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "259:2173.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo16/259:2173.JPG",
+      "url": "/legajos/legajo-16/images/259:2173.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "259:2173.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-16/cartas/002673.json",
+  "primary_image_url": "/legajos/legajo-16/images/259:2173.JPG"
+}

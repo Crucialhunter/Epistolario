@@ -1,0 +1,43 @@
+{
+  "legajo_id": "3",
+  "id_carta": "457",
+  "order_in_legajo": 21,
+  "signatura": "37-21a",
+  "nombre_carta": "Carta de Nicolás de Santacilia y Togores a Juan Miguel de Santacilia y Togores",
+  "fecha_original": "13 de agosto de 1668",
+  "lugar": "Mallorca",
+  "remitente": "Nicolás de Santacilia y Togores",
+  "destinatario": "Juan Miguel de Santacilia y Togores",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "La de veinte del pasado he recibido, holgándome por las noticias de tu carta y de don Arnau, haber llegado a esa corte con tanta salud y fortaleza. Por acá es lo mismo, juntamente con los amigos. Solo tenemos el comendador Berga algo inquieto con el motivo de haberle muerto el criado que le servía con dos puñaladas; y lo peor de todo, no llegó a tiempo confesor, que eso se puede sentir más que todo. Pasado mañana se va una saetía a Malta con Arnau Net. Me han dicho que tenías intención de enviar la galga de Barcelona al comendador Fuster, que me lo dijeron delante de su hermano, y así se la remitiré, que no hará falta donde están tres que tengo que ya corren. En cuanto a los potros, he visto algunos pero no hay cosa a propósito, solo los dos de Galdent son los de mejor [1§] disposición, y en particular el pintado es de mayor forma y ya está por cualquier cosa. Y así, en la primera ocasión que tenga pienso enviártele y luego, que es de muy buena casta. Ya he recibido el vestido con don Arnau. Con la primera ocasión avísame dónde está don José Manrique, o dónde se halla, si ha pasado a Milán o no. Al barón de [?], dos o tres pescozones, y a los demás muchos recaudos, y a esos señores maestros y amigos, y a don Juan de Castañeda, que siempre soy suyo. Con lo que hubiere te iré avisando. Dios te guarde los años de mi deseo. Mallorca, a 13 de agosto 1668. Tu hermano, que más te quiere, don Nicolas de Santacilia. Mi hermano. Transcripción literal"
+  ],
+  "literal": [
+    "1. La de veinte del pasado he resibido2. olgandome por las notisa de tu carta3. y de Don Arnau, haver llegado a esa Corte4. con tanta salud y fortalesa por aca es5. lo mismo juntamente con los amigos6. solo tenemos el Comendador Berga al7. go inquieto con el motivo de aver le8. muerto el criado que le servia con dos9. puñaladas y lo peor de todo, no llego10. a tienpo confesor que eso se puede sen11. tir mas que todo12. Pasado mañana se va una seatia a13. Malta con Arnau Net me an dicho14. que tenias intension de inbiar la gal =15. ga de Barselona al Comendador fuster16. que me lo dijeron delante de su herma17. no y asi se la remitire que no ara fal =18. ta donde estan tres que tengo que ya19. coren20. En quanto a los potros e visto algunos pero21. no ay cosa aproposito solo los dos22. de Galdent son los de mejor dis = [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "37-21a.jpg",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo03/37-21a.jpg",
+      "url": "/legajos/legajo-03/images/37-21a.jpg"
+    },
+    {
+      "filename": "38-21b.jpg",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo03/38-21b.jpg",
+      "url": "/legajos/legajo-03/images/38-21b.jpg"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "37-21a.jpg",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-03/cartas/000457.json",
+  "primary_image_url": "/legajos/legajo-03/images/37-21a.jpg"
+}

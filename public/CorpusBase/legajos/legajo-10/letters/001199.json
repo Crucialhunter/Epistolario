@@ -1,0 +1,48 @@
+{
+  "legajo_id": "10",
+  "id_carta": "1199",
+  "order_in_legajo": 67,
+  "signatura": "119-366a",
+  "nombre_carta": "Carta de Diego Matías de Aragüés a Jerónimo Pelegrín de Aragüés",
+  "fecha_original": "19 de septiembre de 1668",
+  "lugar": "Madrid",
+  "remitente": "Diego Matías de Aragüés",
+  "destinatario": "Jerónimo Pelegrín de Aragüés",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Ya le han vuelto a purgar al Sr. don Juan y le ha ido bien, está mejorado, a Dios gracias, si en estando levantado no se guarda bien puédele costar el pellejo, que así se lo han dicho los tres médicos; ahora sí lo visita Vera. El Sr. don Pedro está bueno. Comienza [a] hacer carabanas encomiéndale a v. m. a Dios que tengo muy buenas esperanzas y el duque esta de mucho mejor semblante que solía. V. m. diga al Sr. D. Miguel Sureda beso las manos y que se ha tomado el proceso para estropeado juntamente él ha llegado que se había de hacer y que a v. m. entregué los 3 reales de plata que esto serán menester ahora, y en lo que se [?] en adelante [?] la parte contraria que [?] ha introducido se nombren 4 adjuntos más con que se reconoce preveniéndose con esto ha de alargar más tiempo ya se le ha conocido la flor esto no deba cuidado. Si Juan Bautista [?] viene en la mañana que el tinente general de la artillería se conseguiría su pretensión, porque tengo buen medio con el Sr. Diego Sarmiento, general de la artillería que a él se le ha cometido el consejo de guerra proveerá ese efecto. Solicito le haré todo cuanto pudiere. [1§] El consejo ha resuelto se ejecute lo que tiene determinado en lo de la saetía de Génova y en lo demás que informe el virrey, sa [?] estos despachos y se remitirán. V. m. se me mande muchos saludos a v. m. y las sobrinas y sobrinos y guarde Dios como deseamos Dña. Margarita y yo. Madrid 19 septiembre 1668. De v. m., tío y servidor, Diego Matias de Aragues Sr. Jeronimo Pelegrin de Aragués [2§] A Jeronimo Pelegrin de Aragues, mi sobrino, guarde Dios. Mallorca. [con otra letra]Mi tío, Diego Matias Transcripción literal"
+  ],
+  "literal": [
+    "1. Ya le han vuelto a purgar al Sr. Don Juan 2. y le ha hido bien, esta mejorado a Dios gracias 3. si en estando levantado no se guarda bien 4. puede le costar el pellejo que asi se lo han dicho 5. los tres medicos, agora si lo visita ver 6. el Sr. don Pedro esta bueno. Comienza hazer 7. carabanas encomiendale a V.M. a dios que tengo 8. muy buenas esperanzas del Sr. duque esta 9. de mucho mejor semblante que solia. 10. V.M. diga al Sr. D. Miguel Sureda veso las manos 11. y que se ha tomado el processo pa [estropeado] 12. fundante el allegado que se havia de hazer y que a V.M. 13. entregue los iii Rs de pla que esto seran menester 14. agora, y en lo que se [^??^] en adelante [^??^] 15. la parte contraria que [^??^] ha introducido 16. se nombren 4 adjuntos mas con que se reconoze 17. preveniendose con esto ha de alargar mas tiempo 18. ya se le ha conocido la flor esto no deva cuydado 19. .20. Si Sr. Batista Manyo viene en la mañana 21. que el tinente gnl de la artilleria se conseguiria 22. su pretension, porque tengo buen medio con 23. el Sr. Diego Sarmto gnl de la artilleria 24. que a el se le a cometido el cono de guerra 25. provera esse effecto. Solicito le are todo 26. qunato pudiere. [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "119-366a.jpg",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo10/119-366a.jpg",
+      "url": "/legajos/legajo-10/images/119-366a.jpg"
+    },
+    {
+      "filename": "120-366b.jpg",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo10/120-366b.jpg",
+      "url": "/legajos/legajo-10/images/120-366b.jpg"
+    },
+    {
+      "filename": "121-366c.jpg",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo10/121-366c.jpg",
+      "url": "/legajos/legajo-10/images/121-366c.jpg"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "119-366a.jpg",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING",
+      "message": "Se detectaron caracteres sospechosos de encoding (7)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-10/cartas/001199.json",
+  "primary_image_url": "/legajos/legajo-10/images/119-366a.jpg"
+}

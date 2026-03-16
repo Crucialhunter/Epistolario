@@ -1,0 +1,38 @@
+{
+  "legajo_id": "21",
+  "id_carta": "3587",
+  "order_in_legajo": 275,
+  "signatura": "483:5875.JPG",
+  "nombre_carta": "Carta de Fructuoso Piqué a Pedro Santacilia y Pax",
+  "fecha_original": "14 de julio de 1649",
+  "lugar": "Madrid",
+  "remitente": "Fructuoso Piqué",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "V. m. hace muy mal en excusarse de mandarme a menudo, porque cuanto más fuere tanto mayor favor y merced recibiré yo de v.m., porque deseo muchos empleos de su servicio y gusto, para lograr el mío con la obediencia. Quisiera Sr. mío tener mucha mano para servir al Dr. Francisco Delabau, como me lo manda v. m. en su carta de 13 del pasado, pero ofrezco lo [?] que aquello, que es la paga de los [?] reciba la buena voluntad que esa [?] mientras viva. Guarde Nro. Sr. a v. m. muchos años como deseo, de Madrid a 14 de Julio 1649. Capitán y servidor de v. m. Fructuoso Pique Sr. don Pedro Santacilia y Pax Transcripción literal"
+  ],
+  "literal": [
+    "1. Vm. haze muy mal en escusarse de mandarme 2. a menudo , porq quanto mas fuere tanto mayor 3. favor y md recibire Yo devm , porq desseo muchos 4. empleos de su servo y gusto , paralograr es mio 5. conla obediencia 6. quisiera s.r mio tener mucha mano para servir al 7. sr Dr Fran.o Delaban , como melo manda vm. en 8. su carta de 13 del passado , Pero offrezco lo [Ilegible] 9. q. aquello , que es la paga delos [Ilegible. Borrado] 10. reciba la buena vold que essa [Ilegible] 11. mientras biva , g.de nro sr a vm. muchos años Como 12. desseo de Md a 14 dejulio 1649 13. Capn Y Seror devm 14. Fructuoso Pique15. [margen inferior izquierdo] [^ Sr Don Po Sta Cilia y Pax] [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "483:5875.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo21/483:5875.JPG",
+      "url": "/legajos/legajo-21/images/483:5875.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "483:5875.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-21/cartas/003587.json",
+  "primary_image_url": "/legajos/legajo-21/images/483:5875.JPG"
+}

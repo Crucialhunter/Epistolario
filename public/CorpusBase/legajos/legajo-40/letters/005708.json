@@ -1,0 +1,47 @@
+{
+  "legajo_id": "40",
+  "id_carta": "5708",
+  "order_in_legajo": 46,
+  "signatura": "115:60a",
+  "nombre_carta": "Carta de Persona desconocida a Persona desconocida",
+  "fecha_original": "fecha sin especificar",
+  "lugar": "lugar sin especificar",
+  "remitente": "Persona desconocida",
+  "destinatario": "Persona desconocida",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Carta tota escrita en llatí [1§] Transcripción literal"
+  ],
+  "literal": [
+    "1. Carta tota escrita en llatí"
+  ],
+  "imagenes": [
+    {
+      "filename": "115:60a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo40/115:60a.JPG",
+      "url": "/legajos/legajo-40/images/115:60a.JPG"
+    },
+    {
+      "filename": "116:60b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo40/116:60b.JPG",
+      "url": "/legajos/legajo-40/images/116:60b.JPG"
+    },
+    {
+      "filename": "117:60c.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo40/117:60c.JPG",
+      "url": "/legajos/legajo-40/images/117:60c.JPG"
+    },
+    {
+      "filename": "118:60d.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo40/118:60d.JPG",
+      "url": "/legajos/legajo-40/images/118:60d.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "115:60a.JPG",
+  "warnings": [],
+  "raw_source": "raw/legajos/legajo-40/cartas/005708.json",
+  "primary_image_url": "/legajos/legajo-40/images/115:60a.JPG"
+}

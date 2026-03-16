@@ -1,0 +1,37 @@
+{
+  "legajo_id": "12",
+  "id_carta": "1561",
+  "order_in_legajo": 67,
+  "signatura": "084_6154a.JPG",
+  "nombre_carta": "Carta de P. Antoni Bosch a Pedro Santacilia y Pax",
+  "fecha_original": "1 de julio de 1641",
+  "lugar": "Lugar sin especificar",
+  "remitente": "P. Antoni Bosch",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "sr. don Pedro la presente será co [1§] [2§] Transcripción literal"
+  ],
+  "literal": [
+    "1. Don Pedro la presentte sera co"
+  ],
+  "imagenes": [
+    {
+      "filename": "084_6154a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo12/084_6154a.JPG",
+      "url": "/legajos/legajo-12/images/084_6154a.JPG"
+    },
+    {
+      "filename": "085_6154b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo12/085_6154b.JPG",
+      "url": "/legajos/legajo-12/images/085_6154b.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "084_6154a.JPG",
+  "warnings": [],
+  "raw_source": "raw/legajos/legajo-12/cartas/001561.json",
+  "primary_image_url": "/legajos/legajo-12/images/084_6154a.JPG"
+}

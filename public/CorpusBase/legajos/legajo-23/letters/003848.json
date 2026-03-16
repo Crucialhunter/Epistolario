@@ -1,0 +1,43 @@
+{
+  "legajo_id": "23",
+  "id_carta": "3848",
+  "order_in_legajo": 103,
+  "signatura": "188:3261a.JPG",
+  "nombre_carta": "Carta de Bartolomé Mercadal a Pedro Santacilia y Pax",
+  "fecha_original": "22 de agosto de 1655",
+  "lugar": "Ciutadella",
+  "remitente": "Bartolomé Mercadal",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Mi Sr. sabe Dios lo que he sentido la muerte de don Miguel Sureda que Dios tenga su santa gloria ya que Dios es estado servido. He me consolado mucho que v. s. tenga el mismo cargo yo estaba determinado ir a besar las manos a v. s. como mi nieta murió hija de v. s. estoy con pleitos suplico a v. s.. sea servido que una carta de su majestad para el Sr. don Miguel Sureda en mi favor que mande v. s. que se haga lo que su majestad mande que me ha escrito el Dr. Juan Aranda para palacio que dio dicha carta a dicho Sr. don Miguel Sureda, como es muerto, no se ha enviado la orden. Vuelvo a suplicar a v. s. que como no tengo otra cosa sino lo que su majestad me ha hecho merced. esto será grande merced como v. s. siempre me ha hecho a quien Dios me guarde en vida de mi Sra. y hijos de v. s. de Menorca y Ciutadella a 22 de agosto de 1655. Mi Sr. don Pedro Santacilia y Pax procurador real no puedo dejar de dar cuenta de todo [1§] a v. s. como tan señor mío. Dios ha sido servido llevarse a mi mujer y nieta. Dios sea servido de todo yo estoy a punto de tomar estado y me es forzoso. Vuelvo a suplicar a v. s. que vengan los despachos tengo dicho y en con [?] a don Bartolomé Mercadal se me pague. Dios se lo pagará a v. s. Criado de v. s. Pedro Caules de Haro Transcripción literal"
+  ],
+  "literal": [
+    "1. Mi sor. sabe dios lo que e sentido la muert2. te de Sor. don Miguel Sureda que dios3. tenga su santa gloria ya que dios es estado4. servido eme consolado mucho que Vsa.5. tenga el mismo cargo yo estava deter6. minado yr a besar las manos a Vsa. como7. mi nieta morio hija de Vsa. estoy con8. pleytos suplico a Vsa. sea servido que 9. una carta de Su Magd para el Sor. don10. Miguel Sureda en mi favor que mande11. Vsa. que se aga lo que Su Magd mande que12. mea escrito el Sor dor. Juan Aranda pa13. lacio que dio dicha carta a dicho Sor.14. don Miguel Sureda como es muerto.15. no se a ynviado la horden buelvo a suplicar16. a Vsa. que como no tengotra cosa sino lo17. que Su Magd me ha ho merced: esto sara 18. grande merced como Vsa. siempre me19. ha hecho a quien dios me guarde en vida20. de mi Sa. y hijos de Vsa. de menorca 21. y ciudadela a 22 de Agosto de 1655-22. Mi Sor. don Pedro23. Santa silia y pax24. Procurador real25. [^no puedo dexar de dar cuenta de todo [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "188:3261a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo23/188:3261a.JPG",
+      "url": "/legajos/legajo-23/images/188:3261a.JPG"
+    },
+    {
+      "filename": "189:3261b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo23/189:3261b.JPG",
+      "url": "/legajos/legajo-23/images/189:3261b.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "188:3261a.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-23/cartas/003848.json",
+  "primary_image_url": "/legajos/legajo-23/images/188:3261a.JPG"
+}

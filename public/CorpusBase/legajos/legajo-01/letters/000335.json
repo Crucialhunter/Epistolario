@@ -1,0 +1,60 @@
+{
+  "legajo_id": "1",
+  "id_carta": "335",
+  "order_in_legajo": 26,
+  "signatura": "061-226a",
+  "nombre_carta": "Carta de Jordi Ferragut a Jerónimo Pelegrín de Aragüés",
+  "fecha_original": "28 de septiembre de 1667",
+  "lugar": "Madrid",
+  "remitente": "Jordi Ferragut",
+  "destinatario": "Jerónimo Pelegrín de Aragüés",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Amigo,",
+    "Aunque no tengo cartas de vuestras mercedes ha mucho tiempo, no por eso no dejaré de escribir que dos o o tres correos, que todo el mundo tiene cartas y yo no. Aquí, por ahora, no tengo por avisar vmd., porque las cosas van que no pueden ir peores para nosotros. Pedro, marino, me ha dado para vmd. muchos recados, y Domingo Rodriguez, portero de la casa de los pajes, murió estos días pasados. Y Pedro, marino, quiere ser portero; no sé si lo alcanzará. Mi señora doña Margarita y los demás de casa están todos buenos, gracias a Dios. Y digo más, el Señor la guarde como deseo.",
+    "Y Madrid, a 28 de septiembre de año 1667.",
+    "Su amigo de vuestra merced,Jorge Ferragut",
+    "De mi parte dará vuestra merced a su señora y a los demás de su casa muchos recados.",
+    "Señor Jeronimo Pelegrin.",
+    "[1§] A Jeronimo Pelegrin. Guarde Dios muchos años.",
+    "Mallorca."
+  ],
+  "literal": [
+    "1. Amigo aun que no tengo cartes de {CAT vosesme[r]sedes}",
+    "2. a mucho tienpo no por eso no decere descrivir que doso",
+    "3. tres Coreos que todo el mundo tiene cartes y Jo no",
+    "4. aqui por aora no tengo por avisar V md porque",
+    "5. las coses van que no pueden jr peores poranosotros",
+    "6. pedro marino me adados para V. md muchos",
+    "7. recados y Domingo rodriges portero de la casa de",
+    "8. los PaJes morio estos dias pasados y Pedro ma",
+    "9. rino quero aser portero no se si lo el cansera",
+    "10. mi sa doña margarite y los de mas de",
+    "11. casa estan todos buenos gracias a dios",
+    "12. y digo mas lo sr la guarde Como deseo y",
+    "13. madrid a 28 de setembre de año 1667",
+    "14. su amigo de v md Jorge Ferragut",
+    "15. de mi parte dara vmd asu sa yalos",
+    "16. de mas de su casa muchos recados",
+    "17. Sr geronimo Palagrin [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "061-226a.gif",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo01/061-226a.gif",
+      "url": "/legajos/legajo-01/images/061-226a.gif"
+    },
+    {
+      "filename": "062-226b.gif",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo01/062-226b.gif",
+      "url": "/legajos/legajo-01/images/062-226b.gif"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "061-226a.gif",
+  "warnings": [],
+  "raw_source": "raw/legajos/legajo-01/cartas/000335.json",
+  "primary_image_url": "/legajos/legajo-01/images/061-226a.gif"
+}

@@ -1,0 +1,37 @@
+{
+  "legajo_id": "31",
+  "id_carta": "7025",
+  "order_in_legajo": 264,
+  "signatura": "397:1776a.JPG",
+  "nombre_carta": "Carta de Juan Seguals a Pedro Santacilia y Pax",
+  "fecha_original": "30 de diciembre de 1664",
+  "lugar": "Madrid",
+  "remitente": "Juan Seguals",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "[1§] [2§] Transcripción literal"
+  ],
+  "literal": [
+    "1. 1."
+  ],
+  "imagenes": [
+    {
+      "filename": "397:1776a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo31/397:1776a.JPG",
+      "url": "/legajos/legajo-31/images/397:1776a.JPG"
+    },
+    {
+      "filename": "398:1776b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo31/398:1776b.JPG",
+      "url": "/legajos/legajo-31/images/398:1776b.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "397:1776a.JPG",
+  "warnings": [],
+  "raw_source": "raw/legajos/legajo-31/cartas/007025.json",
+  "primary_image_url": "/legajos/legajo-31/images/397:1776a.JPG"
+}

@@ -1,0 +1,43 @@
+{
+  "legajo_id": "25",
+  "id_carta": "4158",
+  "order_in_legajo": 91,
+  "signatura": "189_192a.JPG",
+  "nombre_carta": "Carta de Nicolás de Santacilia y Togores a Jerónimo Pelegrín de Aragüés",
+  "fecha_original": "13 de julio de 1667",
+  "lugar": "Madrid",
+  "remitente": "Nicolás de Santacilia y Togores",
+  "destinatario": "Jerónimo Pelegrín de Aragüés",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "La vuestra he recibido de 20 del pasado holgándome de que estén buenos todos, yo ya estoy muy mejorado. Los días pasados escribí, aunque muy corto, que estamos faltos de novedades, sólo que ya tenemos pontífice. La guerra de obispo y inquisidor creo la han entendido ya, y el obispo podrá ser que venza según lo que se dice por acá. Dios os guarde y decidme en qué estado está la leva que se quiere hacer por allá, que por acá se apetece con grande esfuerzo. Madrid a 13 de Julio 1667. Don Nicolas de Santacilia y Togores Sr. Jeronimo Pelegri y Aragues [1§] Madrid, de don Nicolas de Santacilia, de 13 de Julio 1667. Tiene respuesta a 5 de agosto. Transcripción literal"
+  ],
+  "literal": [
+    "1. La buestra e resibido de 20 del pasado olgandome2. de que esten buenos todos, yo ia estoy muy megora-3. do; los días pasados escrivi aunque muy corto, que4. estamos faltos de novedades, solo que ya tenemos 5. Pontífise6. La gera de hobispo y Inquisidor, creo la an7. entendido ya, y el hobispo podra ser que vensa8. segun lo que se dise por aca9. Dios os guarde y desidme en que estado esta la le=10. va que se quiere aser por alla, que por aca se apete=11. se con grande esfuerso Madrid a 13 de Julio 166712. Don Nicolas de Sta Cília13. y Togores14. Geronimo Pelegri y Aragues [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "189_192a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo25/189_192a.JPG",
+      "url": "/legajos/legajo-25/images/189_192a.JPG"
+    },
+    {
+      "filename": "190_192b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo25/190_192b.JPG",
+      "url": "/legajos/legajo-25/images/190_192b.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "189_192a.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (5)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-25/cartas/004158.json",
+  "primary_image_url": "/legajos/legajo-25/images/189_192a.JPG"
+}

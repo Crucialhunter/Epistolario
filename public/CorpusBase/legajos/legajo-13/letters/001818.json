@@ -1,0 +1,38 @@
+{
+  "legajo_id": "13",
+  "id_carta": "1818",
+  "order_in_legajo": 82,
+  "signatura": "139:2322.JPG",
+  "nombre_carta": "Carta de Basilio de Castellví y Ponce a Pedro Santacilia y Pax",
+  "fecha_original": "16 de septiembre de 1668",
+  "lugar": "Valencia",
+  "remitente": "Basilio de Castellví y Ponce",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "A 26 septiembre, respondida Señor mio. Recibo su carta de v. s. de 12 del corriente con el sentimiento que corresponde a mi obligación por insinuarme v. s. quedaba el Sr. don Juan lentamente convaleciendo en su achaque y experimentando la penalidad de la sed y opilación que v. s. me insinúa quiera Dios se vea cuanto antes restituido a la perfecta salud que le deseo cuya noticia será para mi de particular alborozo, mayormente si v. s. la acompañare de muchos empleos de su servicio a que acudirá siempre mi afecto con las veras que debe, quedo enteramente bueno Dña. Laura y Giuseppe me acompañan en esta felicidad y todos besamos a v. s. las manos quedando sumamente reconocidos a la fineza de v. s. y mi Sra. Dña. Leonor habiéndonos favorecido con el velo para la defensa de los mosquitos que es el enemigo de mayor oposición que pueden tener v. s. viva mil años por las honras que nos hace y me le guarde Dios los muchos que deseo. Valencia y septiembre a 16 de 1668. Dígame v. s. que le ha parecido del casamiento, de mi sobrina. Besa a v. s. la mano su mayor servidor, Don Basilio de Castellvi y Ponce Sr. don Pedro Santacilia y Pax. Transcripción literal"
+  ],
+  "literal": [
+    "1. A 26. sett respda2. Señor mio: Recivo su carta de VS de 12. del Corriente3. con el sentimiento que corresponde a mi obligacion4. por insinuarme VS quedava el Sr. Don Juan lentamen5. te combaleciendo en su achaque y experimentando la6. penalidad de la sed y opilaçion que VS me insinua quie7. ra Dios se vea cuanto antes restituydo a la perfeta8. salud que le deseo cuya notiçia sera para mi de 9. particular alboroço, mayormente si V.S. la acompañare10. de m[ucho]s empleos de su servicio aque acudira siempre11. mi afecto con las veras que deve, quedo enteramen12. te bueno Da Laura y Jusepe me acompañan enesta13. felicidad y todos besamos a V.S. Las manos quedan14. do sumamente reconocidos a la fineza de V.S. y mi Sra.15. Da. Leonor haviendonos favorecido con el velo para la16. defensa de los mosquitos que es el enemigo de ma=17. yor oposicion que pueden tener V.S. biva mil años18. por las honrras que nos haze y me le gde. Dios los19. m[ucho]s que deseo Vala y Setiembre a 16. de 1668.20. Digame VS q[ue] le apareçido del Casamiento, de mi so21. brina.22. Ba VS l[a] m s[u] m sdor23. Don Basilio de Castelví24. y Ponçe25. Sr. Don Pedro Santa Zilia y Pax. [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "139:2322.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo13/139:2322.JPG",
+      "url": "/legajos/legajo-13/images/139:2322.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "139:2322.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-13/cartas/001818.json",
+  "primary_image_url": "/legajos/legajo-13/images/139:2322.JPG"
+}

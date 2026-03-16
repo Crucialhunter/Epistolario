@@ -1,0 +1,38 @@
+{
+  "legajo_id": "10",
+  "id_carta": "1187",
+  "order_in_legajo": 56,
+  "signatura": "100-354",
+  "nombre_carta": "Carta de Cristobal Madron a Jerónimo Pelegrín de Aragüés",
+  "fecha_original": "8 de septiembre de 1668",
+  "lugar": "Valencia",
+  "remitente": "Cristobal Madron",
+  "destinatario": "Jerónimo Pelegrín de Aragüés",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "De 28 del pasado es la que recibo de v. m. en que me dice la poca salud que goza el abogado fiscal Costa: quiera Dios al tiempo que llegue halle a su merced muy bueno, libre de toda desgana. El corte de vestido que trajo el patrón Camps para el señor d. Juan Francisco de Pueyo envié por él y queda en mi poder, de que avisaré de ello después de mañana a dicho señor adelantando esta por si se va dicho patrón quede noticioso de ello v. m., que mi Señor guarde muchos años. Valencia y septiembre, 8 de 1668. Besa las manos de v. m.,Don Cristobal Madron Señor Jeronimo Pelegrin de Aragues Transcripción literal"
+  ],
+  "literal": [
+    "1. De 28 del passado es la que recibo de V.M. 2. en que me dize la poca salud que gosa el Sr. 3. Abogado Fiscal Costa quiera Dios al tiempo 4. que llegue alle asu md, muy bueno libre de 5. toda desgana, 6. El corte de vestido que trajo el Patron Camps 7. para el Sr. D. Jn Frco de Pueyo imbie por el y 8. queda en mi poder deque avisare dello despues 9. de mañana a dicho Sr. adelantando esta por 10. si se va dicho Patron quede noticioso dello V.M. 11. que mi Sr. Gde muchos años. Vala y settre 12. 8 de 1668. 13. Besa las manos de V.M. 14. Don Christoval Madron[^??^]15. [^Sr. Geronimo Pelegrin de Aragues^] [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "100-354.jpg",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo10/100-354.jpg",
+      "url": "/legajos/legajo-10/images/100-354.jpg"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "100-354.jpg",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING",
+      "message": "Se detectaron caracteres sospechosos de encoding (4)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-10/cartas/001187.json",
+  "primary_image_url": "/legajos/legajo-10/images/100-354.jpg"
+}

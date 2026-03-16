@@ -1,0 +1,38 @@
+{
+  "legajo_id": "25",
+  "id_carta": "4126",
+  "order_in_legajo": 61,
+  "signatura": "121_160.JPG",
+  "nombre_carta": "Carta de Miguel Sastre a Jerónimo Pelegrín de Aragüés",
+  "fecha_original": "26 de mayo de 1667",
+  "lugar": "Llucmajor",
+  "remitente": "Miguel Sastre",
+  "destinatario": "Jerónimo Pelegrín de Aragüés",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Senyor compare Jo he sabut que tenim el vellet senyor Berga jurat en camp que em som alegrat en gran manera, basta esser coses de v. m. a mi m'importa per la bona ocasió i entenc ara que v. m. té la bona ocasió li serà fàcil. No dic el vessatge d'esta vila que en majors {ESP. apretos} sap treure la busca llarga. A mi ara com tinc dit m'importa per cert {CAST. empeny} tinc en esta vila i del que parlàrem dels albarans n'he trobat un de 60 lliures. No dic més, tot el servei de v. m. al Sr. Antoni Mallol mil {ESP. comendacions} i si importa cosa ninguna, avisar-me d'esta sa casa i Llucmajor als 26 maig 1667. De v. m. son compare Miquel Sastre Pau Senyor Jeroni Pelegri, que Déu guardi etts. Ciutat Transcripción literal"
+  ],
+  "literal": [
+    "1. Señor compare2. Jo he sabut que tenim el vejet señor Ber-3. gue jurat en camp de q em som elegrat en4. gran menera bastes esser coses de Vme. a5. mi me importa per la bona ocasio y enten[c]h6. ara q Vme. te la bona ocasio li sera facil7. no dich [^el vesatje de esta vila] que en majors apretos sap treura la8. busca llarga, a mi ara com tinch dit me9. importa per cert empenyo tinch en esta vila10. y de lo que perlaram dels albarans ne11. he trobat un de 60 L no dich mes tot el12. servey de Vme. al Sr. Antt[oni] Mallol13. mil comendetions y si importa cosa nigu14. na havisar me ha desta se casa y lluch[maj]or15. als 26 maig 166716. De Vme. son compare17. Michel Sastre Pau18. Señor Hieronim19. Pelegri q Deu Gde20. etta.21. Ciutat [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "121_160.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo25/121_160.JPG",
+      "url": "/legajos/legajo-25/images/121_160.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "121_160.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (4)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-25/cartas/004126.json",
+  "primary_image_url": "/legajos/legajo-25/images/121_160.JPG"
+}

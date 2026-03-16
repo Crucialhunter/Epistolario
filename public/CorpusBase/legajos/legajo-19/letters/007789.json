@@ -1,0 +1,38 @@
+{
+  "legajo_id": "19",
+  "id_carta": "7789",
+  "order_in_legajo": 88,
+  "signatura": "523_7988.JPG",
+  "nombre_carta": "Carta de Joan Agustí Barenys a Pedro Santacilia y Pax",
+  "fecha_original": "fecha sin especificar",
+  "lugar": "Mallorca",
+  "remitente": "Joan Agustí Barenys",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Ja per altra tinc ha escrit a V Sª [?] obra del marcader Cardona qui quant dormia somia al negoci havia de fer i contava les responsions i les seguretats i nòlits i com [?] domia res li rayxia al portador d'esta as un got algutcir de Saragossa que i anava per guarda de vista a don Francisco despexo, [?] qui per a aportar-se'n al resibo fornia [?] daspaxar el prest i as bé [?] per a ací el que i ha de nou és que els bandatgats Canamunt han presos 7 homes de Canavall. so espera torrens i tomas galmes i han farios i as fraret i Jaume per a llo t ramon pons fins a set i planos i altres duien i havia dos jarmans baragas i que quan els portaban ací tanguera dasgratia dels i hagueren els d'aportar amb dos carros astaban guiats i han continent els [?] guiaran i açò as el que i ha de nou nótro guardi a v. s. els cavallers passan per València qui partiran d'aquí fóra gran [?] Capella de v. s. Agusti Barenys pre Transcripción literal"
+  ],
+  "literal": [
+    "1. Ja par altra tinc a scrit a V Sª 2. ?? obra del marcader cardona qui 3. quant dormia somia al negosi 4. avia de fer y contava las raspon5. sions y las seguratats y nolits y con 6. ?? domia res li rayxia al por7. tador desta as un got algut8. zir de Seragosa q hi anava 9. per guarda de vista a don 10. Francisco despexo, [?] qui para 11. aportarsen al resibo fornia 12. ?? daspaxar lo prest y as be [?] 13. para asi lo quey a de nou as que los 14. bandatgats canamunt an pre15. sos 7 homens de canavall. so as16. pera torrens y tomas galmes y 17. an farios y as fraret y Jaume 18. parallo t ramon pons fins a set 19. y planos y altras duian y avia dos 20. jarmans baragas y que quant 21. los portavan asi tanguera dasgra22. tia dels y agueran los de aportar 23. ab dos carros astavan guiats y 24. an continent los [?] guiaran 25. y aso as lo quey a de nou 26. nótro Sor gde a VSª. los cavallers pasan per 27. Vallensia qui partiran de aqui fóra gran ??28. Capella de VSª29. Agusti Barenys pre [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "523_7988.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo19/523_7988.JPG",
+      "url": "/legajos/legajo-19/images/523_7988.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "523_7988.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-19/cartas/007789.json",
+  "primary_image_url": "/legajos/legajo-19/images/523_7988.JPG"
+}

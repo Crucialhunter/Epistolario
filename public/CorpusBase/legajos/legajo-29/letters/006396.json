@@ -1,0 +1,38 @@
+{
+  "legajo_id": "29",
+  "id_carta": "6396",
+  "order_in_legajo": 86,
+  "signatura": "151:4214",
+  "nombre_carta": "Carta de Pedro Juan de la Guardia a Persona desconocida",
+  "fecha_original": "10 de junio de 1649",
+  "lugar": "Mallorca",
+  "remitente": "Pedro Juan de la Guardia",
+  "destinatario": "Persona desconocida",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Â [1§] Transcripción literal"
+  ],
+  "literal": [
+    "1."
+  ],
+  "imagenes": [
+    {
+      "filename": "151:4214.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo29/151:4214.JPG",
+      "url": "/legajos/legajo-29/images/151:4214.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "151:4214.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (3)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-29/cartas/006396.json",
+  "primary_image_url": "/legajos/legajo-29/images/151:4214.JPG"
+}

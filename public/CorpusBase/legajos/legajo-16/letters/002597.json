@@ -1,0 +1,43 @@
+{
+  "legajo_id": "16",
+  "id_carta": "2597",
+  "order_in_legajo": 86,
+  "signatura": "136:2097a.JPG",
+  "nombre_carta": "Carta de Nicolás de Santacilia y Togores a Pedro Santacilia y Pax",
+  "fecha_original": "29 de mayo de 1667",
+  "lugar": "Madrid",
+  "remitente": "Nicolás de Santacilia y Togores",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Por vía de Barcelona tengo escrito como jorge ha llegado a esta corte, no dudo lo hará muy bien En la de nueve de mayo me dice v. m. haga algún papel, en lo de la futura, ya no puede ser, pero en la mía, a todos los quiero hablar, porque esto de segundas personas, no dan la hatensión que es menester El Rey de Francia, en persona, y estará la hora de ahora, con Castelrodrigo, algunos disen, enviara, sino ha envía do, a su hermano, a lo de Cataluña y al paso de Alemania treinta mil hombres, con que esta declarado del todo, yo etsoy con deseo de sacar, alguna cosa para esas fortificaciones, y diesmas que es lo que más fuerza me ase, y más dificultoso y en sacándolo, no medeten dre un instante acá, y podremos hablar más despasio de esta putebra [?] [1§] yo el camino que podré tomar, o por una parte o por otra. Guarde Dios a v. m. muchos años como deseo y es menester Madrid a 29 de mayo 1667 Su más humilde hijo de v. m. que su mano besa don Nicolas de Santacilia y Togores mi señor y mi padre [2§] Transcripción literal"
+  ],
+  "literal": [
+    "1. Porvia de Barselona tengo escrito Como= 2. jorge ha llegado a esta Corte, no dudo lo 3. hara muy bien 4. En la de nueve de Mayo me dise VM. haga 5. algun papel, en lo de la futura, ya no 6. puede ser, pero en la mia, a todos los 7. quiero hablar, por que esto de segundas 8. personas,no dan la hatension que es= 9. menester 10. El Rey de franssia, en persona, y esta11. ra la ora de aora, Con Castel Rodrigo, 12. algunos disen, inbiara, sino ha inbia=13. do, a su hermano, a lo de Cataluña 14. y al paso de Alemania treinta mil 15. honbres, Conque esta declarado del 16. todo, yo etsoy Con deseo de sacar, alguna 17. cosa para esas fortificaciones, y diesmas 18. que es lo que mas fuersa me ase, y mas 19. dificultosso y en sacandolo, no medeten20. dre un istante aca, y podremos ablar 21. mas despasio desta putebra[?]22. 137/2097b [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "136:2097a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo16/136:2097a.JPG",
+      "url": "/legajos/legajo-16/images/136:2097a.JPG"
+    },
+    {
+      "filename": "137:2097b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo16/137:2097b.JPG",
+      "url": "/legajos/legajo-16/images/137:2097b.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "136:2097a.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-16/cartas/002597.json",
+  "primary_image_url": "/legajos/legajo-16/images/136:2097a.JPG"
+}

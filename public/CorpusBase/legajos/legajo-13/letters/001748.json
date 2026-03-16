@@ -1,0 +1,43 @@
+{
+  "legajo_id": "13",
+  "id_carta": "1748",
+  "order_in_legajo": 15,
+  "signatura": "029:2252a.JPG",
+  "nombre_carta": "Carta de Basilio de Castellví y Ponce a Pedro Santacilia y Pax",
+  "fecha_original": "24 de julio de 1668",
+  "lugar": "Valencia",
+  "remitente": "Basilio de Castellví y Ponce",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Señor mío, muy conformes a mi deseo son las noticias que v. s. me da de su salud en carta de 16 del corriente y siendo las de mi mayor estimación y aprecio dejo de ponderar a v. s. el gusto con que las celebro. Yo quedo al servicio de v. s. bueno doña Laura y Giuseppe lo están y todos besamos a v. s. las manos con las del Sr. don Juan. Estimo a v. s. la merced que me ha hecho en mandar se entregara a la Sra. doña María de Aragón, mi sobrina, el recado que doña Laura le enviaba dejanos con harto cuidado la noticia que su Sra. nos participa en esta estafeta de quedar con terciana y cuatro veces sangrada. De lo mucho que v. s. me favorece no dudo la fineza con que v. s. obrará en cuanto me tocare como lo experimento en lo que v. s. ha [1§] respondido a los que le han preguntado de Giuseppe esta cada día más famoso y tan servidor de v. s. como su padre, en cuya conformidad suplico no nos limite los empleos de su servicio que en todos tiempos solicitará nuestro afecto y obligación. Dios me guarde a v. s. muchos años como deseo. Valencia y julio a 24 de 1668. Besa la mano su mayor servidor Don Basilio de Castellvi y Ponce Sr. don Pedro Santacilia y Pax. Valencia Julio 24 de 1668. El gobernador respuesta al primero Agosto 1668. [2§] Transcripción literal"
+  ],
+  "literal": [
+    "1. Señor mio, muy conformes ami deseo son2. las notiçias que V.S. me da de su salud en carta3. de 16 del corriente y siendo las de mi ma-4. yor estimaçion y apreçio dejo de ponderar a V.S.5. el gusto conque las celebro. Yo quedo al6. seruicio de V.S. bueno Da Laura y Jusepe7. lo estan y todos besamos a V.S. las manos8. con las del sr. Don Juan =9. estimo a V.S. la merçed que me a hecho en10. mandar se entregara a la sra. Da Maria11. de Alagon mi sobrina el recado que 12. Da Laura le embiaua dejanos con harto13. cuydado la notiçia que su sra. nos participa14. en esta estafeta de quedar con terçiana15. y cuatro uezes sangrada=16. Delo mucho que V.S. me fauoreçe no du-17. do la fineza conque V.S. obrara en cuanto me18. tocare como lo experimento enlo que V.S. a [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "029:2252a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo13/029:2252a.JPG",
+      "url": "/legajos/legajo-13/images/029:2252a.JPG"
+    },
+    {
+      "filename": "030:2252b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo13/030:2252b.JPG",
+      "url": "/legajos/legajo-13/images/030:2252b.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "029:2252a.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-13/cartas/001748.json",
+  "primary_image_url": "/legajos/legajo-13/images/029:2252a.JPG"
+}

@@ -1,0 +1,38 @@
+{
+  "legajo_id": "12",
+  "id_carta": "1576",
+  "order_in_legajo": 85,
+  "signatura": "110_6170.JPG",
+  "nombre_carta": "Carta de Antonio de Aragón a Pedro Santacilia y Pax",
+  "fecha_original": "11 de febrero de 1642",
+  "lugar": "Valencia",
+  "remitente": "Antonio de Aragón",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Esperaba con cuidado saber de su llegada de v. m. i me ha sacado del Sr. D. Rodrigo de Herrera que me dice desde Vinarós había tenido carta de v. m. con aviso que había sido con salud, no dejo de tener algunos celos que hubiera esta memoria, y no para mi, que no se la merezco menos, díceme que v. m. le escribe quedaban todos los apercebimientos prevenidos que me he holgado mucho entenderlo, y suplico a v. m. se trabaje en ello de manera que en caso que convenga no sea menester detenernos porque falten, sino que está todo bien dispuesto i acondicionado. Si bien hasta ahora no sé de las galeres ni a donde ni para cuando vendrán. He escrito a Madrid en la materia con correo i aguardo lo que su majestad ordena. De mi madre sé que llegó a Huesca buena i que aquella tenía dueño en el cuidado. No parece que pueden tardar las órdenes de lo que se hubiere de hacer por la mar. A D. Rodrigo envio las nuevas que aquí se han alcanzado y que las remita a v. m. para que se entretenga, escríbame con todos los que vinieren i mándeme en que le sirva. Guarde Dios a v. m. com puede, Valencia 11 de febrero 1642. LLETRA COMPLICADA Sr. D. Pedro Santacilia y Pax Transcripción literal"
+  ],
+  "literal": [
+    "1. Esperava con cuydado saver de su llegada de Vm y me à sacado2. del d, Rodrigo de Herrera q[ue] me diçe desde Binaros havia tenido3. carta de Vm con aviso que havia sido con salud, no dexo de tener al4. gunos çelos q[ue] huviese esta memoria, y no para mi, que no se la meresco5. menos, diçeme que Vm. le escrive quedavan todos los aperçebim[ien]tos6. prevenidos q me he holgado mucho entenderlo, y supp[li]co a vm. se7. trabaxe en ello de manera q en caso q convenga no sea menester dete8. nernos por q falten sino q esto todo bien dispuesto y aondiçionado,9. Si bien hasta ahora no se de las Galeras ni adonde ni para quan10. do vendran, he escrito a M[adri]d en la materia con correo y aguar11. do lo q[ue] Su Mag[esta]d ordena, de mi Madre se q[ue] llego a Huesca bue12. na y q aquella tenia dueño en el cuydado, no pareçe q pueden13. tardar las ordenes de lo q se huviere de haçer por la mar,14. A D. Rodrigo embio las nuevas q aqui se han alcançado y q15. las remita a Vm. para q se entretenga, escrivamen con todos los16. q vinieren y mandeme en q le sirva. Gu[ard]e Dios a Vm como pue17. de Valençia 11 de febr[e]ro 1642 18. LLETRA COMPLICADA19. Sr. D. Pº. Sta. Cilia y Pax [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "110_6170.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo12/110_6170.JPG",
+      "url": "/legajos/legajo-12/images/110_6170.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "110_6170.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-12/cartas/001576.json",
+  "primary_image_url": "/legajos/legajo-12/images/110_6170.JPG"
+}

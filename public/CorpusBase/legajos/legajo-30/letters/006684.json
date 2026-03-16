@@ -1,0 +1,38 @@
+{
+  "legajo_id": "30",
+  "id_carta": "6684",
+  "order_in_legajo": 185,
+  "signatura": "240:5522.JPG",
+  "nombre_carta": "Carta de Diego Matías de Aragüés a Pedro Santacilia y Pax",
+  "fecha_original": "22 de junio de 1661",
+  "lugar": "Madrid",
+  "remitente": "Diego Matías de Aragüés",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Recibo la de v. m. de 2 de este y con ellas el consuelo que ha menester mi sentimiento por la muerte de mi hija, y debo conformarme con la voluntad de Dios, que save lo que más me conviene y guarde debo tomar por castigo este trabajo por mis pecados, sírvase de ello su divina majestad. Ge. a v. m. los muchos años que le deseo en vida de mi Sra. Dña. Leonor, que su mano besamos Dña. Margarita y yo con las de v. m. muchas veces y a todos esos señores. Md. a 22 Junio 1661. Besa la mano de v. m. su mayor Seror. Diego Matias de Aragues Sr. don Pedro Santacilia y Pax. [1§] Transcripción literal"
+  ],
+  "literal": [
+    "1. Recivo la de Vm. de 2 deste y con ellas 2. el consuelo q. ha menester mi sentimiento 3. por la muerte de mi hija, y devo confor4. marme con la voluntad de Dios, que 5. save lo q. mas me combiene y gde. devo tomar 6. por castigo este trabajo por mis pecados, 7. sirvase dello su divina Magd. Ge. 8. a Vm. los muchos años q. le deseo en 9. vida de mi Sª. Dª. Leonor, q. su mano 10. vesamos Dª. Magta. y yo con las de Vm. 11. muchas vezes y a todos essos SSes. 12. Md. a 22 Junio 1661 13. Besa la mano de Vm. 14. Su mayor Seror. 15. Diego Mathias de Aragues 16. Sr. Don Pedro Sta. Cilia y Pax. [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "240:5522.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo30/240:5522.JPG",
+      "url": "/legajos/legajo-30/images/240:5522.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "240:5522.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (3)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-30/cartas/006684.json",
+  "primary_image_url": "/legajos/legajo-30/images/240:5522.JPG"
+}

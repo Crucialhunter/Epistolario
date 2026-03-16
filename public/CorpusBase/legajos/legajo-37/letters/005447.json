@@ -1,0 +1,37 @@
+{
+  "legajo_id": "37",
+  "id_carta": "5447",
+  "order_in_legajo": 5,
+  "signatura": "055:31a",
+  "nombre_carta": "Carta de Persona desconocida a Persona desconocida",
+  "fecha_original": "fecha sin especificar",
+  "lugar": "lugar sin especificar",
+  "remitente": "Persona desconocida",
+  "destinatario": "Persona desconocida",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Llista de noms de persona [1§] Transcripción literal"
+  ],
+  "literal": [
+    "1. Llista de noms de persona"
+  ],
+  "imagenes": [
+    {
+      "filename": "055:31a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo37/055:31a.JPG",
+      "url": "/legajos/legajo-37/images/055:31a.JPG"
+    },
+    {
+      "filename": "056:31b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo37/056:31b.JPG",
+      "url": "/legajos/legajo-37/images/056:31b.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "055:31a.JPG",
+  "warnings": [],
+  "raw_source": "raw/legajos/legajo-37/cartas/005447.json",
+  "primary_image_url": "/legajos/legajo-37/images/055:31a.JPG"
+}

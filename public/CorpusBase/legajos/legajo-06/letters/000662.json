@@ -1,0 +1,43 @@
+{
+  "legajo_id": "6",
+  "id_carta": "662",
+  "order_in_legajo": 164,
+  "signatura": "245-126a",
+  "nombre_carta": "Carta de Cecilia Zaforteza y Sureda de Sant Martí a conde de Valdellano",
+  "fecha_original": "1 de noviembre de 1777",
+  "lugar": "Palma",
+  "remitente": "Cecilia Zaforteza y Sureda de Sant Martí",
+  "destinatario": "conde de Valdellano",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "La real gratitud que la benignidad de Su Majestad se ha dignado manifestarme, por la que v. s. me escribio con fecha de 3 del pasado septiembre de acuerdo de su Real Cámara me constituye con la más honrosa obligación de continuar en la honesta ocupación de asistir a la casa de las niñas huérfanas de esta ciudad de Palma, lo que si hasta el presente no he ejecutado con aquella actividad y celo que corresponde al Beneficio del Estado y del público, por deberse el lucimiento de sus labores y la educación cristiana y política de las educandas a la aplicación y celo del ilustrísimo y reverendísimo Sr. D. Juan Díaz de la Guerra, actual obispo de Sigüenza, y antes de esta diócesis, que a más de aplicar la mayor parte del producto anual de la mitra en aumento de la casa, proveyéndola de los simples de algodón, linos, cáñamos y demás necesarios para el ejercicio de los labores de cada una, y de los comestibles para el abasto, y aún en su ausencia lo ha continuado el corriente por mi medio con 180 fanegas de trigo y 50 fanegas de legumbres, las ha instruido con las piadosas demostraciones con que todas las semanas las [?] tava de [?] [1§] ha dimanado el más profundo recato, educación, instrucción y crianza de las niñas, cuyo ejemplar puede servir en lo sucesivo para que no se olviden las educandas, y más por ser del real agrado y de la alta aprobación de la Real Cámara, expresando los más vivos deseos que tengo de ocuparme en todo lo que sea del real agrado, hasta exponer mi persona y hacienda a sus reales pies, como me considere útil su real piedad, a que me reconozca la más agradecida e inutil vasalla. Dios guarde a v. s. muchos años como deseo. Palma y 9 noviembre de 77 Cecilia Zaforteza. Muy ilustre Sr. conde de Valdellano. Transcripción literal"
+  ],
+  "literal": [
+    "1. La Rl gratitud que la Benignidad de S[u] Magd 2. se ha dignado manifestarme, por la q[u]e V.S. me 3. [?] con fecha de 3 del passado sette de acuerdo 4. de su Rl Camara me contituyhe con la mas 5. honrosa obligación de continuar en la onesta 6. ocupacion de asistir a la casa de las Niñas huerfanas 7. de esta Ciudad de Palma, lo q[u]e si hasta el pte no 8. he executado con aquella actividad, y zelo q[u]e 9. corresponde al Beneficio del Estado, y del pub- 10. lico, por deverse el Lucimiento de sus Labores, y 11. la educacion christiana, y politica de las educan- 12. das, á la aplicacion, y zelo del Illmo y Rmo Sr. 13. Dn Juan Dias de la Guerra actual Obispo de 14. Siguensa, y antes de esta Diossesis, q[u]e a mas de apli- 15. car la mayor parte del producto annual de la 16. mitra en aumento de la casa, proveyhendola de los 17. simples de algodon, linos, cañamos, y demas 18. necessarios para el exercicio de los labores de 19. cada una, y de los comestibles para el abasto, y ah- 20. un en su ausensia lo ha continuado el corrte por mi 21. medio con 180 fs de trigo, y 50 fs de legumbres 22. las ha instruhido con las piadosas demostraciones 23. con q[u]e todas las semmanas las [?]tava de [?] [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "245-126a.jpg",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo06/245-126a.jpg",
+      "url": "/legajos/legajo-06/images/245-126a.jpg"
+    },
+    {
+      "filename": "246-126b.jpg",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo06/246-126b.jpg",
+      "url": "/legajos/legajo-06/images/246-126b.jpg"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "245-126a.jpg",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-06/cartas/000662.json",
+  "primary_image_url": "/legajos/legajo-06/images/245-126a.jpg"
+}

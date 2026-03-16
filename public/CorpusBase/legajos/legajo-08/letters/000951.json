@@ -1,0 +1,43 @@
+{
+  "legajo_id": "8",
+  "id_carta": "951",
+  "order_in_legajo": 122,
+  "signatura": "224-147a copia",
+  "nombre_carta": "Carta de Príncipe de Palaconia a Persona desconocida",
+  "fecha_original": "2 de 1645",
+  "lugar": "Maó",
+  "remitente": "Príncipe de Palaconia",
+  "destinatario": "Persona desconocida",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "V.s. me hará favor avisármelo luego tanto si lo hay en este puerto como si sabe si lo hay en Alcudia, porque este navío de turcos no nos dejará: sé cómo lo ha hecho de Portocolom hasta acá y hasta ahora. Le suplica también que a la primera ocasión envíe este pliego en Alcudia al señor marqués del Viso, que mucho importa, encargando por la respuesta. Yo pienso que de este en aquel puerto son prontas las reacciones. V.s. me hará siempre de favorecerme. Perdóneme el enfado y le beso su mano. Del castillo de Mahón y febrero, 2 del 1645. Príncipe de Palaconia [?] [1§] Siendo el tiempo bueno ayer a las dos nos izamos a la vela, llegando casi debajo la torre la Atalaya, cerca este puerto. Fue necesario volver y la causa fue de un bajel de turcos que nos estaba aguardando y luego que nos vio aposó contra nosotros. Descuido en excusable del torrero que habiendo yo dado parte al señor Bayele lo ha puesto preso, y así es razón que [?]. También aviso a v. s., a quien suplico si avisa si en este puerto hubiera embarcación mayor por cualquiera parte de Italia, que yo me resolviera en ella embarcarme tanto más que dando la vuelta se rompió el [tinta borrada] en dos pedazos, que no es posible más. Transcripción literal"
+  ],
+  "literal": [
+    "1. VS. me ará favor abisarmelo luey, tanco 2. se lo ay en este puorto, como se sube se 3. lo ay, en Alcudia, porque este navio 4. de turcos no nos de jera, se como lo a echo 5. deporto colomo asta aca, y asta aora, 6. lesup< [a]> tanbien que a la p< > ocasion 7. inbia este pliego en Alcudia al señor 8. marques del Viso, que muccho enporta 9. encargando por la respuosta 10. yo pienso que sesse en aquel puerto son 11. prontas las reasiones. 12. V.S. me ará siempre d.favoreçerme 13. perdoname del enfado y le b.s. su 14. dal Castillo d maon y ebrero 2 del 645 15. Prencipe de Palaconia?? [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "224-147a copia.jpg",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo08/224-147a copia.jpg",
+      "url": "/legajos/legajo-08/images/224-147a copia.jpg"
+    },
+    {
+      "filename": "225-147b copia.jpg",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo08/225-147b copia.jpg",
+      "url": "/legajos/legajo-08/images/225-147b copia.jpg"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "224-147a copia.jpg",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-08/cartas/000951.json",
+  "primary_image_url": "/legajos/legajo-08/images/224-147a copia.jpg"
+}

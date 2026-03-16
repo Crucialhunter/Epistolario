@@ -1,0 +1,43 @@
+{
+  "legajo_id": "31",
+  "id_carta": "6910",
+  "order_in_legajo": 150,
+  "signatura": "214:1661a.JPG",
+  "nombre_carta": "Carta de Isabel de Salvá a Pedro Santacilia y Pax",
+  "fecha_original": "6 de junio de 1663",
+  "lugar": "Madrid",
+  "remitente": "Isabel de Salvá",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Señor mío, Esta halle a v. m. con la buena salud que yo deseo, amén. Alborozada me tenía que me habían dicho v. m. venía a esta corte, y ahora me dicen que no es así. Como v. m. goce de buena salud, yo lo llevaré bien y toda la casa, que se la deseo como la mía: esto puede v. m. muy bien creer. El rey nuestro señor está muy convalecido de sus achaques; el príncipe, ha[ce] más de quince días está con unas tercianillas. Dicen que son por salirle alguna muela o diente; ello le dan con frío y le dura la terciana seis o siete horas. Queda limpio de calentura y mama bien y duerme una vez lo han sangrado, mas a todos nos tiene con cuidado, como importa tanto su vida: Dios se lo deje, como es menester, amén. La reina y la infanta están muy [2§] buenas, Dios las guarde. Mi hermana está buena y besa a v. m. las manos, y yo hago lo propio; y al señor don Juan, que me holgaré esté muy bueno, que harta soledad me hace no verlo en la capilla; y a todas esas mis señoras hacemos lo propio. Quiero dar a v. m. cuenta de los hijos del conde, mi señor, que también ha bien avenido [?] en ellas de muy buena gana mi señor. Y ya le dije a v. m. en otra días ha[ce] como había casado el condecico de Alcaitín [Alcoutim] con hija del señor duque de Cardona. Es muy gentil mi señora doña Teresa y todos están muy contentos. Ahora, pocos días ha[ce], casó a mi señora doña Juliana Portocarrero con el señor duque de Arcos; es muy gentil dama. Están capitulados; han ido por la disposición. También están muy contentos todos: Dios los guarde mil años, y a v. m. le deseo lo mismo. Yo ando bien flaca porque tengo malísima gana de comer, pero ando en pie y sirvo de cualquier suerte muy al servicio de v. m. y de toda su casa; y en su compañía me lo guarde Dios como deseo y he menester. Madrid y junio 6 de 1663. Quien más lo quiere a v. m. y desea servir, doña Isabel de Salvá Transcripción literal"
+  ],
+  "literal": [
+    "1. Senor mio esta ale a VM con la bu2. ena salud que jo deseo, alborozada 3. me tenia que me avian dixo ve4. nia VM esta(ta) corte y aora 5. me disen que no es asi como VM 6. goze de buena calud jo lo llevare 7. bien y toda la cassa que se la de8. seo como la mia esto puede VM mui 9. bien creer el Rey nuesto Sr. esta 10. convalecido de sus achaques el 11. Principe a mas de 15 dias esta con 12. unas tercianillas dissen que son 13. por salille alguna muela o diente 14. ello le dan con frio y le dura la 15. terciana seis o siete oras (^que debi)16. queda linpio de calentura y ma17. ma bien y dueme una ves lo an18. sengrado mas a todos nos tiene (^co)19. con cuidado como importa tanto 20. su vida jo se la dexe como es 21. menester amen; y la (înfanta) [Rei] 22. na y la Infanta estan mui bue [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "214:1661a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo31/214:1661a.JPG",
+      "url": "/legajos/legajo-31/images/214:1661a.JPG"
+    },
+    {
+      "filename": "215:1661b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo31/215:1661b.JPG",
+      "url": "/legajos/legajo-31/images/215:1661b.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "214:1661a.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-31/cartas/006910.json",
+  "primary_image_url": "/legajos/legajo-31/images/214:1661a.JPG"
+}

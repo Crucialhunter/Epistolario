@@ -1,0 +1,38 @@
+{
+  "legajo_id": "26",
+  "id_carta": "4274",
+  "order_in_legajo": 15,
+  "signatura": "011:3368.JPG",
+  "nombre_carta": "Carta de Basilio de Castellví y Ponce a Pedro Santacilia y Pax",
+  "fecha_original": "12 de septiembre de 1627",
+  "lugar": "Valencia",
+  "remitente": "Basilio de Castellví y Ponce",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "[1§] Transcripción literal"
+  ],
+  "literal": [
+    "1. Señor mio su carta de V. S. he reçebido y"
+  ],
+  "imagenes": [
+    {
+      "filename": "011:3368.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo26/011:3368.JPG",
+      "url": "/legajos/legajo-26/images/011:3368.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "011:3368.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-26/cartas/004274.json",
+  "primary_image_url": "/legajos/legajo-26/images/011:3368.JPG"
+}

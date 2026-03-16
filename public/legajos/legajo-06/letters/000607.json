@@ -1,0 +1,43 @@
+{
+  "legajo_id": "6",
+  "id_carta": "607",
+  "order_in_legajo": 104,
+  "signatura": "141-72a",
+  "nombre_carta": "Carta de Guillem Nadal a Cecilia Zaforteza y Sureda de Sant Martí",
+  "fecha_original": "19 de marzo de 1765",
+  "lugar": "Manacor",
+  "remitente": "Guillem Nadal",
+  "destinatario": "Cecilia Zaforteza y Sureda de Sant Martí",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Mi senyora dona Cecília, Després de les degudes saluts etts. Estimaria de v. m. en fes el favor d'enviar-me un bitllet, d’aturar el portador, que v. m. m’ha enviat estos dies, perquè jo seria passat a besar-li les mans. Però no és estat possible, perquè jo i mon fill estem detinguts, per causa de no estar bons. Però li assegur que dilluns de festes i passarem un o altre a passar comptes, si Déu ho vol. Esto és el que voldria de v. m. perquè {ESP. gastos} no paguin deutes, i en coses amb què la pugui servir disponga. A tots els de casa moltes memòries, i de part de ma mare doblades. Déu la guardi molts anys. Manacor, i Marçals 19 de 1765. Servidor de v. m. Guillem Nadal, prevere. Per l’amo Sebastià Mesquida, que sa mà besa [En la otra página del documento, la dirección][1§] A mi senyora dona Cecilia Zaforteza i Berga, Déu la guardi molts anys de [?]. En Palma Transcripción literal"
+  ],
+  "literal": [
+    "1. Mi Sra. Dña. Cecilia despres 2. de les degudes saluts etc. Estime- 3. ria deV.M. en fes al fevor de 4. enviarma un billet, de aturar al 5. Portedor, que V.M. me ha enviat 6. estos dies, perque jo seria pesat 7. a besarli les mants, pero no es estat 8. posible, perque jo, y mon Fill es- 9. tem de tenguts, per cause de no 10. estar bons, pero li hesegur que 11. dilluns de Festes ey peserem 12. un, ó altre a pesar comptes, si 13. Deu ó vol esto es lo que voldrie 14. de V.M. perque gastos no pagen 15. deutes; y en coses ab que le pu- 16. gue servir dispongue a tots 17. los de Case moltes memories, y 18. de parat de mo Mare doblades 19. Deu la Gde ms a>ny>s , Manacor, y 20. Marts als 19 de 1765. 21. Servidor de V.M. 22. Guillem Nadal Pre. 23. Per lamon Sebestia Masquide 24. Q S[a] M[a] B [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "141-72a.jpg",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo06/141-72a.jpg",
+      "url": "/legajos/legajo-06/images/141-72a.jpg"
+    },
+    {
+      "filename": "141-72b.jpg",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo06/141-72b.jpg",
+      "url": "/legajos/legajo-06/images/141-72b.jpg"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "141-72a.jpg",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-06/cartas/000607.json",
+  "primary_image_url": "/legajos/legajo-06/images/141-72a.jpg"
+}

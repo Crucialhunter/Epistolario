@@ -1,0 +1,37 @@
+{
+  "legajo_id": "31",
+  "id_carta": "6963",
+  "order_in_legajo": 205,
+  "signatura": "300:1714a.JPG",
+  "nombre_carta": "Carta de Persona desconocida a Pedro Santacilia y Pax",
+  "fecha_original": "4 de mayo de 1664",
+  "lugar": "Madrid",
+  "remitente": "Persona desconocida",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "[1§] [2§] Transcripción literal"
+  ],
+  "literal": [
+    "1. 1."
+  ],
+  "imagenes": [
+    {
+      "filename": "300:1714a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo31/300:1714a.JPG",
+      "url": "/legajos/legajo-31/images/300:1714a.JPG"
+    },
+    {
+      "filename": "301:1714b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo31/301:1714b.JPG",
+      "url": "/legajos/legajo-31/images/301:1714b.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "300:1714a.JPG",
+  "warnings": [],
+  "raw_source": "raw/legajos/legajo-31/cartas/006963.json",
+  "primary_image_url": "/legajos/legajo-31/images/300:1714a.JPG"
+}

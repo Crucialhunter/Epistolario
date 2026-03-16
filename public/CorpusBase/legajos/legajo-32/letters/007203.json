@@ -1,0 +1,38 @@
+{
+  "legajo_id": "32",
+  "id_carta": "7203",
+  "order_in_legajo": 204,
+  "signatura": "284:1961.JPG",
+  "nombre_carta": "Carta de Basilio de Castellví y Ponce a Pedro Santacilia y Pax",
+  "fecha_original": "30 de septiembre de 1666",
+  "lugar": "Valencia",
+  "remitente": "Basilio de Castellví y Ponce",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Señor mío la falta tan grande de embarcacion para Cerdeña que acá hay me da motivo a suplicar a v. s. me favorezca en mandar remitir el pliego incluso para mi Sra. la marquesa. de Villacor mi herna. en la primer ocasión que se ofreciere para aquella isla que será para mi de particular estimación Dios guarde a v. s. muchos años como deseo Valencia y Setbre. a 30 de 1666 Beso a v. s. l mo su mayor servidor Don Basilio de Castellvi y Ponce Señor don Pedro Santacilia y Pax [1§] Transcripción literal"
+  ],
+  "literal": [
+    "1. Señor mio la falta tan grande de envarcacion 2. para cerdeña que aca ay me da motivo a suplicar 3. a V. S. me faboresca en mandar remitir el plie4. go yncluso para mi sra. la Marqsa. de Villacor 5. mi herna. en la primer ocaçion que se ofreçiere 6. para haquella ysla que sera para mi de par7. ticular estimacion Dios gde. a V. S. muchos años 8. como deseo Valençia y Setbre. a 30 de 1666 9. B a VS l mo su mor Sdor 10. Don Basilio de Castelvi 11. y Ponçe 12. Señor Don Pº Sta. Çilia y pax [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "284:1961.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo32/284:1961.JPG",
+      "url": "/legajos/legajo-32/images/284:1961.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "284:1961.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-32/cartas/007203.json",
+  "primary_image_url": "/legajos/legajo-32/images/284:1961.JPG"
+}

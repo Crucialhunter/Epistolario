@@ -1,0 +1,38 @@
+{
+  "legajo_id": "29",
+  "id_carta": "6444",
+  "order_in_legajo": 153,
+  "signatura": "221:4261.JPG",
+  "nombre_carta": "Carta de Pedro de Aragón a Pedro Santacilia y Pax",
+  "fecha_original": "24 de mayo de 1652",
+  "lugar": "Lugar sin especificar",
+  "remitente": "Pedro de Aragón",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Luego que recibí su carta de v. m. en que me avisaba [?] su llegada a ese isla, respondí a ella, y ahora la [?] al a que recibo de 25 del pasado estimando que [?] llegase con buena salud y que se haya continuado [?] el suceso que deseo. La campaña de este año en Cataluña promete [?] que las de otros, por ofrecerse los [?] v. m. advierte en su carta; Dios lo disponga [?] que se consiga la reducción de aquel principado [?] Bástale a la persona que v. m. me encarga el mandato suyo para hallarme seguro en lo que [?] hubiere menester. Téngalo v. m. entendido [?] que se ofrece de su servicio, que a todo [?] mismas veras de Dios a v. m. muchos [?] leza 24 de mayo de 1651. Y huelgo que v. m. [?] pero yo lo estoy y muy me [?] mobras y en esto sepa [?] engaña a tiempo que [?] es menester. Pedro de Aragón Sr. D. Pedro Santacilia y Pax Transcripción literal"
+  ],
+  "literal": [
+    "1. Luego q recibi su carta de Vmd enq me avissava ?? 2. su llegada a esse isla, respondi a ella, y agora la [?] 3. al aqe reçibo de 25 del passado estimando q ?? 4. llegasse con buena salud y que se aya continuado [?] 5. el suçesso que desseo.6. La campaña deste año en Cataluña promete 7. çidad q las de otros, por offreserse los [?] 8. Vmd advierte en su carta; Dios lo disponga [?] 9. que se consiga la reducçion de aquel prinçi [?] 10. Bastale a la persona q Vmd me encarga el 11. mendado suyo para hallarme seguro en lo q [?] 12. ubiere menester: tengalo Vmd entendido [?] 13. que se offreçe de su serviçio , q a todo [?] 14. mismas veras de Dios a Vmd muchos 15. leza 24 de Mayo de 65116. guelgo que Vm [?] 17. pero yo lo estoy y muy me [?] 18. mobras y en esto sepa [?] 19. engaña a tiempo que [?] 20. es menester21. Pº de Aragon22. Sr D. Pº. StaÇilia y pax [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "221:4261.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo29/221:4261.JPG",
+      "url": "/legajos/legajo-29/images/221:4261.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "221:4261.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-29/cartas/006444.json",
+  "primary_image_url": "/legajos/legajo-29/images/221:4261.JPG"
+}

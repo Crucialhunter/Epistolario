@@ -1,0 +1,43 @@
+{
+  "legajo_id": "12",
+  "id_carta": "1527",
+  "order_in_legajo": 31,
+  "signatura": "042_6120a.JPG",
+  "nombre_carta": "Carta de Bartomeu Domènech a Pedro Santacilia y Pax",
+  "fecha_original": "14 de abril de 1639",
+  "lugar": "Petra",
+  "remitente": "Bartomeu Domènech",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "En aquest punt és arribat aquí plec que m'ha portat un home i en el punt he despatxat el cap d'esquadra. No hi és, jo pens que hi farà la patent de don Antoni, jo ho dic per ganes que en tinc, però no crec que hi sia. Guardi Déu a v. m. Petra, abril 14 de 1639. Criat de v. m. . Bartomeu Domenech, prevere. Transcripción literal"
+  ],
+  "literal": [
+    "1. En aquest punt es aribat aqui2. plach que ma aportat un home3. y en lo punt he despaxat4. lo cap de esquadre noges jo5. pans quei fara la apatent6. de don Ant[oni] jou dich p[er]7. ganas que en tinch p[er]hò no8. crach quej sia gde. deu a9. v.m. Pe[tr]a Abril 14 de 10. 163911. C[riat] de V.m12. Bartt[omeu] Domenech pre[vere] [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "042_6120a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo12/042_6120a.JPG",
+      "url": "/legajos/legajo-12/images/042_6120a.JPG"
+    },
+    {
+      "filename": "043_6120b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo12/043_6120b.JPG",
+      "url": "/legajos/legajo-12/images/043_6120b.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "042_6120a.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-12/cartas/001527.json",
+  "primary_image_url": "/legajos/legajo-12/images/042_6120a.JPG"
+}

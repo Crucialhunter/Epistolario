@@ -1,0 +1,43 @@
+{
+  "legajo_id": "22",
+  "id_carta": "3645",
+  "order_in_legajo": 25,
+  "signatura": "038:4995a.JPG",
+  "nombre_carta": "Carta de Pere Avinyó a Pedro Santacilia y Pax",
+  "fecha_original": "14 de enero de 1629",
+  "lugar": "Vilatenim",
+  "remitente": "Pere Avinyó",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Avui la llebrera se'n torna a Perelada i deixa dues goses que nodreix que tenen cinc dies només. Jo havia enviat el fadrí a Perelada a cercar la dita llebrera i quan és estat a Perelada li han dit que v. m. se la n'havia manada a Pau i així suplico a v. m. se servesca donar-la al present portador que sos cadells no han mamat d'ahir ençà, que sap v. m. que totes mes coses estan a son manar i sempre resto criat de v. m., de Vilatenim i gener a 14 de 1629. Pere Avinyo [1§] A don Pedro Santacilia i Pax, guardi Déu Transcripción literal"
+  ],
+  "literal": [
+    "1. Ai la llebrera sen torna a peralada i de2. xa dos gosas que nodrex que tenan cinch??3. dias nomes jo avia enviat lo fadri en peralada4. a cercar la dita llebrera i quant es estat a pera5. lada li an dit que V.m. se len avia manada6. a pau i axi soplico a V.m. se cerves[c]a donar7. la al present portador que sos cadells8. no an mamat dei ansa que sab V.m. que9. totas mas cosas estan a son manar i sem10. pra resto criat de v.m. de Vilatenim?? i ge11. ner a 14 de 162912. Pera Avinyio [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "038:4995a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo22/038:4995a.JPG",
+      "url": "/legajos/legajo-22/images/038:4995a.JPG"
+    },
+    {
+      "filename": "039:4995b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo22/039:4995b.JPG",
+      "url": "/legajos/legajo-22/images/039:4995b.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "038:4995a.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-22/cartas/003645.json",
+  "primary_image_url": "/legajos/legajo-22/images/038:4995a.JPG"
+}

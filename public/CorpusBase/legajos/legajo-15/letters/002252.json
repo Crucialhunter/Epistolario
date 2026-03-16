@@ -1,0 +1,38 @@
+{
+  "legajo_id": "15",
+  "id_carta": "2252",
+  "order_in_legajo": 151,
+  "signatura": "243:6477.JPG",
+  "nombre_carta": "Carta de Joan Avilés a Pedro Santacilia y Pax",
+  "fecha_original": "15 de octubre de 1647",
+  "lugar": "Vinarós",
+  "remitente": "Joan Avilés",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "[Senyor don Pedro] A quedo encorregut de les sobrades fines, es que v. m. me fa en les dos po [l] treres que tinc rebudes, que hi hauré que no li escric, per culpa {ESP. mia} . No he pogut sinó una ocasió, puix confeso ma culpa. confio {ESP. alcançar} lo [perdó], [prometent] d'ací en avant, ser més puntual. El que per ací fa de nou, es que lo nostre exèrcit mare [?] a la volta de Lleida, a 8 d'este, qui diu va a Balaguer, qui diu a Flix. Déu ho encamine, i doni bon succés. En {ESP. este} poble estam veixats de l'enemic. [Avui] s'han emportat un laurador a [m] b sis cavaleadieres,, que estava en la partida [de vés] [l'{ESP. otra} nau] [?], plegant garrofes [?]. De Velència tenien {ESP. malas} noves, que les [i] nfermetats van pijorant. Sr. D. [i] uen que ja tapien cases i que la senyora Virreina és fora i que [amb] el real; i [ja] guarda que no entre [gent] de València . Per tots {ESP. estos} pobles se guardi n; Nostre Senyor que ens doni sanitat i [si se] guardi d'este mal contagiós. Saragossa ha enviat dos doctors i un diputat a la ciutat de València , que Aragó està proveïent de bastiments; i que venien els bastiments hagin de menester, que a [m] b gent d'Aragó els entren dins València , i si es necessari, gent per abservir [?] dels malalts, que l'enviasen. Ha quedat la ciutat molt agraïda a {ESP. este} favor. I no oferir-se altra cosa, guardi Déu a v. m., com he de menester i desiti [e]. Vinaròs, i octubre, a 15 de 1647. Mossèn Joan Avilés. Transcripción literal"
+  ],
+  "literal": [
+    "1. [Margen izquierdo][^Sor don Pedro]2. A quedo encorregut de les sobrades fines[^es] que 3. Vmd. me fa en les dos portreres que ting 4. rebudes quey aure que no li escrich per cul5. pa mia no he perdut sino una ocasio puix 6. confeso (^mul) ma culpa confio alcansar lo pra[?] 7. do promelzad de assi en avant ser mes 8. puntual lo que per assi fa denou es que 9. lo nostre exersit mareha la volta de leyda 10. a 8 deste qui diu va abalaguer qui diu 11. a flix deu ho encamine y done bon suses 12. en este poble estam veixats dele miqne huy 13. sen anportat un laurador ab sis cavaleadieres [?] 14. que estava en lapartida be deves lo trenau[?] ple15. gant garrofes: de Valensia tenien males no16. ves que les enfermetats van pijorant deuen 17. que ja tapien cases y que la sa Vireyna 18. es fora y que an lo real [?] y la guarda que 19. no entregant de Valensia per tots estos po20. bles se guarden nostre sr quens done sanitat 21. ysis se guarde deste mal contagios saragosa 22. ha embiat dos doctors y un diputat a Valen23. sia offerint lo sr diputat a la Ciutat de Va24. lensia que Aragoesta proveit de bastiments 25. y que venien los bastiments ajen de menes26. ter que ab gent de Arago los entran dins 27. Valensia y si es nesesari gent per abservir 28. dels malats que la embiasan Aquedat la 29. Ciutat molt agraida aeste favor y no offerirse altra cosa gde deu 30. a Vmd com he menester y desija Vinaros y octubre a 15 de 1647. 31. mo Joan Avyles [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "243:6477.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo15/243:6477.JPG",
+      "url": "/legajos/legajo-15/images/243:6477.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "243:6477.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-15/cartas/002252.json",
+  "primary_image_url": "/legajos/legajo-15/images/243:6477.JPG"
+}

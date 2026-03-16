@@ -1,0 +1,57 @@
+{
+  "legajo_id": "41",
+  "id_carta": "7486",
+  "order_in_legajo": 70,
+  "signatura": "238:112a",
+  "nombre_carta": "Carta de Pedro Santacilia y Pax a Persona desconocida",
+  "fecha_original": "4 de junio de 1627",
+  "lugar": "Mallorca",
+  "remitente": "Pedro Santacilia y Pax",
+  "destinatario": "Persona desconocida",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "[1§] [2§] [3§] [4§] [5§] [6§] Transcripción literal"
+  ],
+  "literal": [
+    "1. 1. 1. 1. 1. 1."
+  ],
+  "imagenes": [
+    {
+      "filename": "238:112a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo41/238:112a.JPG",
+      "url": "/legajos/legajo-41/images/238:112a.JPG"
+    },
+    {
+      "filename": "239:112b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo41/239:112b.JPG",
+      "url": "/legajos/legajo-41/images/239:112b.JPG"
+    },
+    {
+      "filename": "240:112c.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo41/240:112c.JPG",
+      "url": "/legajos/legajo-41/images/240:112c.JPG"
+    },
+    {
+      "filename": "241:112d.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo41/241:112d.JPG",
+      "url": "/legajos/legajo-41/images/241:112d.JPG"
+    },
+    {
+      "filename": "242:112e.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo41/242:112e.JPG",
+      "url": "/legajos/legajo-41/images/242:112e.JPG"
+    },
+    {
+      "filename": "243:112f.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo41/243:112f.JPG",
+      "url": "/legajos/legajo-41/images/243:112f.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "238:112a.JPG",
+  "warnings": [],
+  "raw_source": "raw/legajos/legajo-41/cartas/007486.json",
+  "primary_image_url": "/legajos/legajo-41/images/238:112a.JPG"
+}

@@ -1,0 +1,38 @@
+{
+  "legajo_id": "16",
+  "id_carta": "2682",
+  "order_in_legajo": 168,
+  "signatura": "276:2182.JPG",
+  "nombre_carta": "Carta de Jerónimo Pelegrín de Aragüés a Pedro Santacilia y Pax",
+  "fecha_original": "8 de enero de 1668",
+  "lugar": "Valencia",
+  "remitente": "Jerónimo Pelegrín de Aragüés",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Ahir arribarem al Grau ahir amb la capitana el senyor don Nicolau son fill i jo ara en aquest, punt que són les 10 del matí partim ianam adormir alaventa nova Déunos Sr. don bon passeja i ens deixi arribar a besar lama a v. m. quegràcies a Déu tenim salut València a 8 de gener 1668. Mi senyor estava pel senyor son fill i permi Jeroni Pelegri Anotació a lapiz Es de 1669 Mi senyor don Pedro Santacilia [1§] Transcripción literal"
+  ],
+  "literal": [
+    "1. Air arribarem al Grau ahir ab la Capitana 2. losr Don Nicolau son fill i jo ara en aquest, 3. punt que son las 10 del mati partim ianam 4. adormir alaventa nova Deunos don bon 5. passaja i nos dexe arribar abessar lama 6. a V.M. quegracias a Deu tenim salut 7. Valencia a 8 de Jener 1668. 8. Mi sr 9. estava per losr son fill i 10. permi 11. Geronym Pelegri 12. [Anotación a lápiz][^ Es de 1669]13. [Margen izquierdo][^ Mi sr Don Po Sta Cilia] [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "276:2182.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo16/276:2182.JPG",
+      "url": "/legajos/legajo-16/images/276:2182.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "276:2182.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (4)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-16/cartas/002682.json",
+  "primary_image_url": "/legajos/legajo-16/images/276:2182.JPG"
+}

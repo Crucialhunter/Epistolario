@@ -1,0 +1,38 @@
+{
+  "legajo_id": "17",
+  "id_carta": "2800",
+  "order_in_legajo": 66,
+  "signatura": "102:1342.JPG",
+  "nombre_carta": "Carta de Luis de Aragón (VII duque de Cardona) a Pedro Santacilia y Pax",
+  "fecha_original": "2 de octubre de 1658",
+  "lugar": "Valencia",
+  "remitente": "Luis de Aragón (VII duque de Cardona)",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "doy a v. s. la enhorabuena de haber ajustado dar estado a su hija pues todo lo que sea aumentarse la familia de v. s. lo deseo para servir a v. s. en los mandatos que me diere. Pongo en manos de v. s. la copia del memorial que por medio de mi hermano el Sr. don Pedro puse en las suas leale v. s. y muestrele a todos pues tienen noticia de la grandeza de mi casa y estados las tengan de la quiebra, su majestad ofreció su memoria así de lo pasado como de lo presente alivio común con que consuela a todo vasallo. Guarde Dios a v. s. muchos años Valencia 2 de otbe 1658. Sr. don Luis de Aragón [?] Sr. don Pedro de Santacilia [1§] Transcripción literal"
+  ],
+  "literal": [
+    "1. Doy a VS la norabuena de aver ajustado dar 2. estado a su hija pues todo lo que sea aumentarse 3. la familia de VS lo desseo para servir a VS en 4. los mandatos que me diere.5. Pongo en manos de VS la copia del memorial 6. que por medio de mi herno el Sor. Don Pedro pusse en 7. las suas leale VS y muestrele a todos pues tienen 8. notiçia de la grandeça de mi cassa y estados las 9. tengan de la quiebra, su Magd ofreçio su memo10. ria assi de lo passado como de lo pressente alivio 11. comun conque con suela a todo vassallo Gde. Dios 12. a VS ms años Valençia 2 de ott[u]be 1658.13. Don Luys de Aragon[?]14. Sr. Don Pedro de Sta. Çiçilia [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "102:1342.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo17/102:1342.JPG",
+      "url": "/legajos/legajo-17/images/102:1342.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "102:1342.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-17/cartas/002800.json",
+  "primary_image_url": "/legajos/legajo-17/images/102:1342.JPG"
+}

@@ -1,0 +1,43 @@
+{
+  "legajo_id": "22",
+  "id_carta": "3647",
+  "order_in_legajo": 27,
+  "signatura": "041:4998a.JPG",
+  "nombre_carta": "Carta de Pere Avinyó a Pedro Santacilia y Pax",
+  "fecha_original": "29 de marzo de 1629",
+  "lugar": "Vilatenim",
+  "remitente": "Pere Avinyó",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "En est punt he sabut per cosa certa que el senyor bisbe ve a dormida avui digo us en Vilatenim en casa del rector si bé les aigües son grosses i el bisbe ha de passar la muga si ell ve anit com se'n té per cert jo dematí a punta de dia faig un propi a v. m. suplicant-lo se seversca en venir a fins a Vilatenim que sens v. m. no entenc el senyor bisbe doni llicència per la tribuna de la capella, el que em pesarà que v. m. hagi de prendre tant treball per a mi que com les aigües son grosses s'haurà de passar al pont de Castella i en coses de son servei me mani que sap que el desitjo servir com tinc obligació, a qui Déu guardi a v. m. com pot, de Vilatenim i març a 29 de 1629. Pere Avinyo [1§] A don Pedro Santacilia i Pax, guardi Déu Perelada [2§] Transcripción literal"
+  ],
+  "literal": [
+    "1. en est punt e sabut per cosa serta que2. lo Señyor bisba ve a dormida avuÿ digo3. us en vilatenim en casa del rector si be4. las aygos son grosas i lo bisbe a de pasar5. la muga si ell ve anit com sente per sert6. jo demati a punta de dia fas un propi a7. V.m. suplicanlo se seversca en venir a8. fins a vilatenim que sens V.m. no entenc9. lo señyor bisba don liçensia per la tribuna 10. de la capella lo quem pesara que V.m.11. age de pendra tant treball pera mi que12. com las aÿguas son grosas se aura de pasar13. al pont de castalla i en cosas de son ser14. veÿ me man que sab quel desigo servir com 15. tinc obligasio a qui deu guarde a V.m.16. com pot de Vilatenim i mars a 29 de 162917. Pera Avinÿo [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "041:4998a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo22/041:4998a.JPG",
+      "url": "/legajos/legajo-22/images/041:4998a.JPG"
+    },
+    {
+      "filename": "042:4998b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo22/042:4998b.JPG",
+      "url": "/legajos/legajo-22/images/042:4998b.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "041:4998a.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-22/cartas/003647.json",
+  "primary_image_url": "/legajos/legajo-22/images/041:4998a.JPG"
+}

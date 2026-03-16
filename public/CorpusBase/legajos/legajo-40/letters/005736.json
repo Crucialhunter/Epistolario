@@ -1,0 +1,47 @@
+{
+  "legajo_id": "40",
+  "id_carta": "5736",
+  "order_in_legajo": 59,
+  "signatura": "220:88a",
+  "nombre_carta": "Carta de Persona desconocida a Persona desconocida",
+  "fecha_original": "fecha sin especificar",
+  "lugar": "Palma",
+  "remitente": "Persona desconocida",
+  "destinatario": "Persona desconocida",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Compte de la pedra se porta del Coll per la casa del Mercat. [1§] Transcripción literal"
+  ],
+  "literal": [
+    "1. Compta de la pedra se aporta del Coll per la cassa del Mercat."
+  ],
+  "imagenes": [
+    {
+      "filename": "220:88a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo40/220:88a.JPG",
+      "url": "/legajos/legajo-40/images/220:88a.JPG"
+    },
+    {
+      "filename": "221:88b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo40/221:88b.JPG",
+      "url": "/legajos/legajo-40/images/221:88b.JPG"
+    },
+    {
+      "filename": "222:88c.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo40/222:88c.JPG",
+      "url": "/legajos/legajo-40/images/222:88c.JPG"
+    },
+    {
+      "filename": "223:88d.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo40/223:88d.JPG",
+      "url": "/legajos/legajo-40/images/223:88d.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "220:88a.JPG",
+  "warnings": [],
+  "raw_source": "raw/legajos/legajo-40/cartas/005736.json",
+  "primary_image_url": "/legajos/legajo-40/images/220:88a.JPG"
+}

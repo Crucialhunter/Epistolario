@@ -1,0 +1,38 @@
+{
+  "legajo_id": "33",
+  "id_carta": "4942",
+  "order_in_legajo": 130,
+  "signatura": "202:6858.JPG",
+  "nombre_carta": "Carta de Luis de Aragón (VII duque de Cardona) a Pedro Santacilia y Pax",
+  "fecha_original": "28 de marzo de 1635",
+  "lugar": "Perpiñán",
+  "remitente": "Luis de Aragón (VII duque de Cardona)",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "mucho holgaría que el suceso de mi hermano el marques de Pobar, se ajustase muy a su gusto, por lo que deseo le tenga en todo y su mayor quietud como lo espero siendo esto tan poco considerable, muy bien se dispondrá lo de la fabrica de las fustas de Cataluña con tan buenos superintendentes. v. m. me avise todo lo que de allí entendiere que holgara tuviera vuelto muy bien despachado Bellafilla Avíseme v. m. de sus particulares que le deseo en el los muy gustoso suceso y que tenga los acrecentamientos que merece y ya sabe v. m. que para todo lo que le tocare me tiene con muy segura voluntad sin ninguna reservación pues no la ha de haber en mi para servirle siempre. Guarde Dios a v. m. como deseo. Lucena, 28 de marzo 1635 Sr. don Luis de Aragón Sr. don Pedro de Santacilia [1§] Transcripción literal"
+  ],
+  "literal": [
+    "1. Mucho holgaria que el sucesso de mi hermano el Marques2. de Pobar, se ajustasse muy a su gusto, por lo que desseo le tenga3. en todo y su mayor quietud como lo espero siendo esto4. tan poco considerable,5. Muy bien se dispondra lo de la fabrica de las fustas de Cata6. luña con tan buenos superintendentes. V.m. me avisse todo7. lo que de allí entendiere que holgara tuviera buelto muy8. bien despachado Bellafilla9. Avisseme Vm de sus particulares que le desseo enellos muy10. gustoso sucesso y que tenga los acrecentamientos que mereçe11. y ya save Vm que para todo lo que le tocare me tiene con12. muy segura voluntad sin ninguna reservaçion pues no la13. a de aver en mi para servirle siempre. Gde. Dios á Vm como14. desseo. Lucena, 28 de março 163515. Don Luis de Aragon16. Sr. Don Pedro de Santaçilia [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "202:6858.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo33/202:6858.JPG",
+      "url": "/legajos/legajo-33/images/202:6858.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "202:6858.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-33/cartas/004942.json",
+  "primary_image_url": "/legajos/legajo-33/images/202:6858.JPG"
+}

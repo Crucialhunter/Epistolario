@@ -1,0 +1,43 @@
+{
+  "legajo_id": "6",
+  "id_carta": "758",
+  "order_in_legajo": 21,
+  "signatura": "443-219a",
+  "nombre_carta": "Carta de Pedro Antonio Obrador a Cecilia Zaforteza y Sureda de Sant Martí",
+  "fecha_original": "fecha sin especificar",
+  "lugar": "Llucmajor",
+  "remitente": "Pedro Antonio Obrador",
+  "destinatario": "Cecilia Zaforteza y Sureda de Sant Martí",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Señora dña. Cecilia, Las informaciones que pueden haber dado a v. s. sobre el estudiante Bernardo Noguera, de que los padres de este convento de San Buenaventura de Llucmajor le tienen grande manía porque tiene vocación de ser religioso dominico, me parece no tienen fundamento sólido. Si acaso será el padre organista, porque no quiere servir de músico, y en este particular sí hay culpa. Yo, que soy su maestro, la tengo, porque no lo quiero. Que más conviene que sea estudiante que no músico, supuesto que está atrasado en la latinidad. Pero espero que se aprovechará. Y yo también tendré cuidado [1§] de su aplicación a fin de que pueda servir de utilidad en la sagrada religión de Nuestro Padre Santo Domingo. Dios guarde a v. s. como deseo muchos años, P[Besa] L<a> M<ano> v. s. Fray Pedro Antonio Obrador, maestro de Gramática. Transcripción literal"
+  ],
+  "literal": [
+    "1. S<eño>ra Dña. Cecilia. 2. Las informaciones, q< u>e pueden 3. haver dado á V< uestra> S< eño>ria sobre el 4. estudiante Bernardo Noguera, 5. de que los Padres deste Conv< en>to de 6. S< an> Buenav< entur>a de Llu[c]mayor le tienen 7. grande mania porq< u>e tiene vocacion 8. de ser Relig< ios>o Dominico, me parece 9. no tienen fundamento solido, si acaso 10. será el P< adre> Organista porq< u>e no quiere 11. servir de Musico, y en este particu- 12. lar si ay culpa, yo q< u>e soy su Maestro 13. la tengo, porq< u>e no lo quiero; que 14. mas conviene q< u>e sea Estudiante q< u>e 15. no Musico, supuesto q< u>e está atraza- 16. do en la Latinidad, pero espero q< u>e se 17. aprovechará, y Yo tambien tendre 18. cuidado [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "443-219a.jpg",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo06/443-219a.jpg",
+      "url": "/legajos/legajo-06/images/443-219a.jpg"
+    },
+    {
+      "filename": "444-219b.jpg",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo06/444-219b.jpg",
+      "url": "/legajos/legajo-06/images/444-219b.jpg"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "443-219a.jpg",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-06/cartas/000758.json",
+  "primary_image_url": "/legajos/legajo-06/images/443-219a.jpg"
+}

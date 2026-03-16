@@ -1,0 +1,38 @@
+{
+  "legajo_id": "34",
+  "id_carta": "5081",
+  "order_in_legajo": 109,
+  "signatura": "166:6996.JPG",
+  "nombre_carta": "Carta de Joan Tomàs de Rocabertí a Pedro Santacilia y Pax",
+  "fecha_original": "17 de enero de 1657",
+  "lugar": "Valencia",
+  "remitente": "Joan Tomàs de Rocabertí",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Sr. mio Aunque yo no haya recibido respuesta de la que escriba v. m. suplicándole me hiciere favor, endisponer con el Señor virrey Seme librasen las trescienta slibras que me hizo merced su majestad sin embargo he sabido la merced que v. m. me ha eho en Cuidar de dicho negoci por tener tan buena ocasión del señor don Juan Miguel brulu a suplicar a v. m. se sirva hacer cn dicho virrey ahora que estade partida seponga inixaqueleandicho delpecho que remití al a [?] porque mis necesidades songrades y la asistencia de mis Irmanos y parientes esmada v. m. me haga el favor dacer oposible en que secobre esemineria; y si acaso no puede tener efecto con ese virrey; agaporsu vida no lamepierda el despacho que con el virrey que vendrá Juse tendrá más cabida. Guarde Dios a v. m. como deseo de Predn Valencia 17 Enero Año 1657 Beso la mano de v. m. su mayor servidor Juant homás de Rocaberti [1§] Transcripción literal"
+  ],
+  "literal": [
+    "1. [capçalera] Sr mio2. Aunque yo no aya recivido respuesta de la que3. escriva Vm suplicandole me hiziere favor, endisponer4. con el Señor Virrey Seme librassen las trescienta slibras5. que me hizo merced su Magd sin embargo he sabido la6. merced que vm me ha eho en C[uidar] de dicho negocio7. Por tener tan buena ocasión del Señor don Juan miguel [brulu]8. a suplicar a vm se sirva azer cn dicho virrey aora9. que estade partida seponga [inixa]queleandicho delpe[sho]10. que remiti al [a?] porque mis necessidades songrades11. y la assistensia demis [I]rmanos y parientes esma[d]a12. Vm me haga el favor dazer opossible enque secobre13. essemineria; y si acaso no puede tener effeto con [es]se14. virrey; agaporsu vida no lamepierda el despacho15. que con el virrey que vendra [J]use tendra mas cabida16. gde dios a Vm como de seo de Predn Vala 17 enero17. Año 165718. B l[a] m de Vm19. su maior seror20. Juant homas21. de Rocaberti [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "166:6996.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo34/166:6996.JPG",
+      "url": "/legajos/legajo-34/images/166:6996.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "166:6996.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (2)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-34/cartas/005081.json",
+  "primary_image_url": "/legajos/legajo-34/images/166:6996.JPG"
+}

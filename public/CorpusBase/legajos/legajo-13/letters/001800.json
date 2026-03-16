@@ -1,0 +1,43 @@
+{
+  "legajo_id": "13",
+  "id_carta": "1800",
+  "order_in_legajo": 65,
+  "signatura": "113:2304a.JPG",
+  "nombre_carta": "Carta de José Balell a Pedro Santacilia y Pax",
+  "fecha_original": "25 de agosto de 1668",
+  "lugar": "Barcelona",
+  "remitente": "José Balell",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Sr. D. Pedro Santacilia y Pax ACABAR LA CARTA [1§] Acá no hay más novedades que mucha necesidad en las tropas que el país se cansa y parece que los caballos empiezan a tomar la vuelta a Francia y si se descuidan se podrán muy bien remontar los franceses de lindísimos caballos. su excelencia se halla en Arenys con mi Sra. la duquesa, hija, yerno y casi toda la casa y también muchos cabos del ejército para varar el navío. Quiera Dios que tenga buen éxito por el mucho maderaje de que está cargado y haber costado cien mil ducados y el leñambre muy barato. La Sra. condesa mi Sra. de Perelada ha parido una hija con que ya tenemos al conde de Zavella abuelo y doy a v. s. la enhorabuena por la parte que le toca y le remito la inclusa que recibí [?]. Suplico a v. s. sea servido de ponerme en su gracia y servicio cuya vida guarde Nuestro Señor muchos años como puedo, deseo y es menester en compañía de cuanto quiere y merece. Barcelona y agosto 25 de 1668. Cierto criado de v. s. que su mano besa Josep Balell [2§] Transcripción literal"
+  ],
+  "literal": [
+    "1. 1. Aca no ay mas Novedades que 2. mucha necessid en las tropas que 3. el Pais se cansa y parece que los4. Cavallos empiecan a tomar la buel5. ta a francia y si se descuidan se po6. dren mui bien Remontar los fran7. ceses de lindissimos Caballos. 8. Su exa se halla en Arenys con mi Sa.9. la duquesa hija hierno y casi toda10. la Casa y tanvien muchos Cavos del11. exto para Verar el Navio quiera12. dios que tenga buen exhito por el mu13. cho maderaje de que esta Cargado14. y haver Costado Cien mil ducados15. y el leñambre mui barato16. La Sa. Condesa mi Sa. de Paralade17. ha parido una hija conque ya tene18. mos al Sr. Conde de Cavella Aguelo19. y doi a V.S. la norabuena por la par20. te que le toca y le Remito la Inclu21. sa que Recivi [?] las poss.[?]22. Supp[li]co a VS sea servido de ponerme23. en su gracia y servio cuia Bida 24. gde nro Sr ms a< ño>s como puedo dejo25. y he menester en Compa de qto quiere26. y merece Barcelona y Agto 25 de 166827. Çierto Criado de VS q s[u] m b28. Joseph Balell [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "113:2304a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo13/113:2304a.JPG",
+      "url": "/legajos/legajo-13/images/113:2304a.JPG"
+    },
+    {
+      "filename": "114:2304b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo13/114:2304b.JPG",
+      "url": "/legajos/legajo-13/images/114:2304b.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "113:2304a.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-13/cartas/001800.json",
+  "primary_image_url": "/legajos/legajo-13/images/113:2304a.JPG"
+}

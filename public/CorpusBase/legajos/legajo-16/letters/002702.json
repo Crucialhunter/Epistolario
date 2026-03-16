@@ -1,0 +1,48 @@
+{
+  "legajo_id": "16",
+  "id_carta": "2702",
+  "order_in_legajo": 186,
+  "signatura": "319:2202a.JPG",
+  "nombre_carta": "Carta de Josep de Rocabertí a Pedro Santacilia y Pax",
+  "fecha_original": "5 de febrero de 1668",
+  "lugar": "Barcelona",
+  "remitente": "Josep de Rocabertí",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "lo {ESP. sargento} major Balell me notifica un capítol de carta de v. m. queli dia faci relcio de mi i del contes de Plasència i Zavella i de nostras andansas jo senyor estic bastant ment achacos i no obstant açò he de fer pasacalles per estar la hacienda de don Ignes dividida i per esta suya no puc ser puntual en la correspondència ilo comte de Cava lla arriba de Madrid a Vallmoll (divan que està sant) deu ne sap vereitat) ací fa com divan del vici virtut, que divan que el diabla quant fou vell se volia fer frara – lo conta de Plasència esta gros, i bell si bé amb el temps que corra i tan poc afortunat pels servidors del rei Obliga afer discu rsos Malencolics avista de con les preven cions enfrança i que pernostra part son venen tant pocas: cibi esta estafeta última ha portat de nou que lo ajust amb Portugal està molt avansat amb què podent servirnos de totes aquelles tropes podrien ofosarnos al enemic i desbaratar els mals designes [1§] i assegurarnos de no haver de tornar apasar ebro [?] En esta sa casa de v. m. tenen salut darà Ignes fills i havent presentit que el senyor don Nicolas vol tractar de servir asa magestat estimaren la vulgui emprar amb sa presència que ja sap v. m. Mas obligacions d'haver de servir als de sa casa de v. m. a qui guardi Déu com pot i dessió Barcelona i febrer 5 de 1668 besa les mans de v. m. su mes cert servidor Sr. don Josep de {ESP. Rocaberti Perelada està {ESP. contento} en tener a mi senyora la comtessa penyada de dos meses} Senyor don Pedro Santacilia i Pax [2§] Barcelona, Resposta. 21 febrer 1668 Sr. don Josep derocaberti [3§] Transcripción literal"
+  ],
+  "literal": [
+    "1. lo Sargento major Balell me notifica un 2. capitol de carta de Vm. queli dia fasa relcio 3. de mi y del contes de Plasencia y Cavalla 4. y de nostras andansas yo sr estic bastant5. ment achacos y no obstant aso he de fer 6. pasacalles per estar la asienda de don Ignes 7. dividida y per esta ssuya no puch ser pun8. tual en la correspondencia ilo comte de Cava9. lla arriba de madrid a Vallmoll (divan 10. questa sant) deu ne sap vereitat) aci fa com 11. divan del vici virtut, que divan quel diabla 12. quant fou vell se volia fer frara ? 13. lo conta de Plasencia esta gros, y bell sibe ab 14. lo temps que corra y tant poch afortunat 15. per los servidors del Rey Obliga afer discu16. rsos Malencolichs avista de conlas preven17. cions enfransa y que pernostra part son 18. venen tant pocas: cibi esta estafeta ultima 19. ha portat de nou que lo ajust ab portugal 20. esta molt avansat abque podent servirnos 21. de totas aquellas tropas podrien ofosarnos al 22. enemich y desbaratar los mals designes [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "319:2202a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo16/319:2202a.JPG",
+      "url": "/legajos/legajo-16/images/319:2202a.JPG"
+    },
+    {
+      "filename": "320:2202b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo16/320:2202b.JPG",
+      "url": "/legajos/legajo-16/images/320:2202b.JPG"
+    },
+    {
+      "filename": "321:2202c.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo16/321:2202c.JPG",
+      "url": "/legajos/legajo-16/images/321:2202c.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "319:2202a.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-16/cartas/002702.json",
+  "primary_image_url": "/legajos/legajo-16/images/319:2202a.JPG"
+}

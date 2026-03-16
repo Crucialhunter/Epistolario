@@ -1,0 +1,48 @@
+{
+  "legajo_id": "17",
+  "id_carta": "2918",
+  "order_in_legajo": 183,
+  "signatura": "312:1460a.JPG",
+  "nombre_carta": "Carta de Bartolomé Mercadal a Pedro Santacilia y Pax",
+  "fecha_original": "14 de julio de 1660",
+  "lugar": "Ciutadella",
+  "remitente": "Bartolomé Mercadal",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Sr. don Pedro de Santacilia Mi señor Concidero a v. s. tan ufano y contento con la elección de gran maestro en persona del Sr. don Rafael Cotoner que me atrevo ha decir hace ventaja a sus propios hermanos, y así doy a v. s. muchos parabienes por lo honorífico porten tición del reino, como por el bien que ha de resultar en la nobleza de esa ciudad en que v. s. intereza tanto en sobrinos y deudas de cuya sangre y valor se nos promete igual acresentamiento Dios lo haga como puede. Sr. mío bien quisiera excusar el cansar a v. s. algunas particularidades que entenderá por otra vía del proceder del Dr. Albertí que por haberle hecho merced v. s. por mi medio y intercesión como me lo refiere en sus honradas cartas [1§] pudiera haber tenido mayores atencio nes, pero como de su natural es vano y desconocido con facilidad, ha mostrado el ser quien es, sin embargo que no quiere dejar la plaza de médico de la Compañia de infantería por ser poco de interés que se le sigue cosa tan infima al ser teniente de v. s. y tener por consejeros los mismos que el gobernador al pazo que por médico esta sujeto al gobernador y capitán de la Compaña, y los días paçados ciertas personas hubieron ne gociado que estando a la Audiencia con ambos consajeros fuese la mujer de un soldado que estaba malo en la cama a llamerle para que de pronto fuesa a visitar y dar remedio al enfermo y no falto (aunque no lo merece el Dr. Alberti), quien lo es corecto [?] y según veo de su proceder le su cedera en este oficio lo mismo que cuando fue Bayle General, por sus des conocimientos [?] del todo [?] y dejarse llevar de todo punto, de los [2§] hermanos Cardona y Tolosa que le hacen espa das en sus bandos con Morell y le sirven de consajeros yo me remito al tiempo y suplico a v. s. me tenga siempre en su gracia como a su mayor servidor y Dios Sr. que me le guarde la divina majestad como puede y tengo de menester. Ciudadela y julio 14 de 1660. muy servidor de v. s. que s m Sr. don Bart Mercadal [3§] Transcripción literal"
+  ],
+  "literal": [
+    "1. Sr. Don Pedro de Sta. Cilia2. Mi Señor3. Concidero a VS. tan ufano y contento 4. con la eleccion de gran maestro en per5. sona del Sr. Don Raphael Cotoner que 6. me atrevo ha dezir haze ventaja a sus 7. propios hermanos, y assi doy a VS. mu8. chos parabienes por lo honorifico porten9. ticio del Reyno, como por el bien que 10. ha de resultar en la noblesa de essa 11. Ciudad en que VS. intereça tanto en so12. brinos y deudas de cuya sangre y valor13. se nos promete igual acresentamiento 14. Dios lo haga como puede.15. Sor. mio bien quisiera escusar el cansar a 16. VS. algunas particularidades que 17. entendera por otra via del proseder del 18. dor. Albertí que por haverle hecho md 19. VS. por mi medio y intercession como 20. me lo refiere en sus honrradas cartas [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "312:1460a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo17/312:1460a.JPG",
+      "url": "/legajos/legajo-17/images/312:1460a.JPG"
+    },
+    {
+      "filename": "313:1460b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo17/313:1460b.JPG",
+      "url": "/legajos/legajo-17/images/313:1460b.JPG"
+    },
+    {
+      "filename": "314:1460c.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo17/314:1460c.JPG",
+      "url": "/legajos/legajo-17/images/314:1460c.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "312:1460a.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-17/cartas/002918.json",
+  "primary_image_url": "/legajos/legajo-17/images/312:1460a.JPG"
+}

@@ -1,0 +1,43 @@
+{
+  "legajo_id": "11",
+  "id_carta": "1280",
+  "order_in_legajo": 50,
+  "signatura": "088:5140a.JPG",
+  "nombre_carta": "Carta de Antoni Amorós a Pedro Santacilia y Pax",
+  "fecha_original": "21 de mayo de 1643",
+  "lugar": "Alcúdia",
+  "remitente": "Antoni Amorós",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Il·lustríssim Sr. Las cartes me remeté v. s. per al Sr. procurador reial les rebé a la tarda i el dematí les rebé a ciutat, i amb tot estic i estaré sempre prompte en tota puntualitat a servir a v. s. vuit o deu dies fa que don Juan de Villena [?] era a Campanet amb tretze o catorze comissaris i els bandejats eren una trentena i mostrant-se set o vuit i tiren dins les cases de Monnàber i els comissaris van i en continent i enrevoltant la casa i comecen a tirar {ESP. rama} i llenya per metrar-hi foc i els bandejats per un forat de bastiment mataren el vell amb pa de Sóller i un altre de ciutat a qui trencaren les cames i a qui surten els altres una trentena i comencen a tirar arcabussades i mataren els comissaris en Mateu de Monnàber i fugiren que els bandejats els {ESP. alcançaren} fins dins Campanet d'on l'endemà hi anaren tres jutges de l'audiència prengueren les sis capes i tres arcabussos i ara dilluns [?] els comissaris són sortits que diu eren vuitanta i han {ESP. encontrats} els bandejats altra vegada a Morneta que dinaven i eren seixanta i ja s'han tirat moltes arcabussades a mort els bandejats Bartomeu pa fil del que mataren l'altra ferida i un jove de Sineu que han travessat i els comissaris han mort [espació en blanco] a seu nedor i un criat de don Joanot i un tal Corriola de Sóller i han pres viu en Jordi Gran de Sóller i diu n'hi ha deu o dotze malferits, açò és el que per ací es dui en les presons, quaranta capes, vint sarrons, molts arcabussos i una bístia [1§] carregada de sabates i antipares noves que en aquell punt els havien enviat de ciutat. Déu Nostre Sr. ho remei com pot \u001b [dos palabras tachadas] perquè diu que al millor que ens mata gent ens falta. Déu ho remei com pot i guardi Déu a v. s. molts anys junt a mi Sra. i la seva germana i {ESP. demés} de casa d'Alcúdia a 21 de maig 1643. Criat de v. s. Antoni Amorós Les que van he rebudes avui de don Vicent Mut perquè les remetés a v. s., entenc que demà dematí seran aquí que me diu importan. Transcripción literal"
+  ],
+  "literal": [
+    "1. Illm Sor2. Las cartas me ramete vsa per lo sr. procurador raial las ra 3. be a la tarda y lon dema de mati las rabe ansieitat ya antot estich 4. y astare senpra pronte en tote pux tu [^??^] en sarvira. 5. Vuit o deu dias fa que don Juan de Villena era en Campanet an 6. tressa i catorse comidaris y los bendetgats eran una tretene 7. y mostranse set o vuit y tiran dijns las casses de Monnaba y los 8. comisaris vani en continent y an redol tan la cava y comensan a tir 9. ar raameylesa permestrari foch y los bendetgats per un forat 10. de bastiment metaran al vey anpa de soler jun altra de 11. ciutat ane qui trancaven las cames y aqui surten los altres 12. une trentene y comensan los atirar arcabusades y mataran 13. los comisaris an Mateu de Monaba y fogiren que los bendet 14. gats los alcansavan fins dins Campanet de ont lon dema y ana 15. ran tres jutjes de la audientia prangueran los sis capas y tres 16. arcabusos y ara dilluns los comissaris son sortits que diuveran 17. vuitanta y asi an contrats los bendetgats altre vegada a mor 18. neta que dinaven y eran xexanta y anse tirat moltes ar 19. cabusades at mort los bendetgats Bartomeu Pafil del que me 20. taran laltra farida y un jove de Sineu que an travesat y los comi 21. saris an mort [espacio en blanco] a seu nedor y un nesat de don Juan Ml y un 22. ral Corcolla de Soller jan pres viu an Gordigran de Soler y diu nia 23. deu o dosse malls ferits asso as lo que parasso asdui an 24. los prasos corante capas vint sarons molts arcabus y una bustia [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "088:5140a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo11/088:5140a.JPG",
+      "url": "/legajos/legajo-11/images/088:5140a.JPG"
+    },
+    {
+      "filename": "089:5140b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo11/089:5140b.JPG",
+      "url": "/legajos/legajo-11/images/089:5140b.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "088:5140a.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-11/cartas/001280.json",
+  "primary_image_url": "/legajos/legajo-11/images/088:5140a.JPG"
+}

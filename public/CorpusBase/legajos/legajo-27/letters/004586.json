@@ -1,0 +1,38 @@
+{
+  "legajo_id": "27",
+  "id_carta": "4586",
+  "order_in_legajo": 57,
+  "signatura": "095:4395",
+  "nombre_carta": "Carta de Diego de Rocabertí a Persona desconocida",
+  "fecha_original": "12 de julio de 1629",
+  "lugar": "Castellón",
+  "remitente": "Diego de Rocabertí",
+  "destinatario": "Persona desconocida",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Per veure'l tinc poc d'embarcació pens podria ser s'ha detingut aquí en Castelló fins a la nit el duc d'Alcala en tal cas enviau-me per aquest portador i enviau-me a seure a [?] cavall i algú qui m'acompanyi i jo aniria a les cinc. Déu vos guard com pot, en Pau i juliol a 12 de 1629. Don Diego de Rocaberti Transcripción literal"
+  ],
+  "literal": [
+    "1. Per veurer lo tinc poc de embarcacio pens podria ser se2. detingut aqui en Castello fins ala nit [ ] duc de Alcala3. en tal cas anviaume per aquest portador y enviaumea[seua?]4. cavall y algu quem acuman y jo aniria eles sinch deuvos5. guart com pot en Pau y Juliol a 12 de 16296. [7, signatura] Don Diego de7. [8, signatura] Rocaberti [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "095:4395.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo27/095:4395.JPG",
+      "url": "/legajos/legajo-27/images/095:4395.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "095:4395.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-27/cartas/004586.json",
+  "primary_image_url": "/legajos/legajo-27/images/095:4395.JPG"
+}

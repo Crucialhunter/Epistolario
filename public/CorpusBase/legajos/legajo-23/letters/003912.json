@@ -1,0 +1,38 @@
+{
+  "legajo_id": "23",
+  "id_carta": "3912",
+  "order_in_legajo": 167,
+  "signatura": "299:3325.JPG",
+  "nombre_carta": "Carta de Conde de Zavellá a Pedro Santacilia y Pax",
+  "fecha_original": "26 de diciembre de 1667",
+  "lugar": "Barcelona",
+  "remitente": "Conde de Zavellá",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "V. m. ha ganado el pleito que tenía en Madrid, dándole a v. m. la enhorabuena con muy buenas nuevas de la salud de su hijo, como está no dudo tendrá v. m. muy buenas pascuas. Las mías serán muy malas faltándome como me falta el socorro de esa hacienda, pues ya la mitad de diciembre y el Enero no he cobrado ni tengo sobre que caer muerto. Dios me dé paciencia y a v. m. guarde como deseo. Barcelona y diciembre a 26 de 1667. Su menor servidor de v. m. que su mano besaEl conde de Zavella En [?] de estas divinas [?] pido media docena de flascos de agua de murta gavanera y montones, [?] y una cestica huevos [?] de Manacor blancos y colorados. Transcripción literal"
+  ],
+  "literal": [
+    "1. Vm. ha ganada el pleyto q2. tenia en Madrid, dandole[?]3. a Vm la norabuena con muy bue4. nas nuevas de la salud de su hijo,5. [?] no dudo tendra Vm. muy6. buenas pasquas. Las mias seran muy7. malas faltandome como me falta el8. socorro de esa hazienda pues ya9. La mitad de Dize y el Henero no10. he cobrado ni tengo sobre q caer 11. muerto Dios me de paciencia y 12. a Vm. gde como deseo Barna13. y deze a 26 de 166714. Su m Sdor de Vm. q su m b15. El Conde de Çavella16. [^en albricias de estas divinas[?] pido media dozena de flascos17. de agua de murta Gavanera y Montones,[?] y una cestica18. huevos[?] de Manacor blancos y colorados.] [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "299:3325.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo23/299:3325.JPG",
+      "url": "/legajos/legajo-23/images/299:3325.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "299:3325.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-23/cartas/003912.json",
+  "primary_image_url": "/legajos/legajo-23/images/299:3325.JPG"
+}

@@ -1,0 +1,38 @@
+{
+  "legajo_id": "33",
+  "id_carta": "4934",
+  "order_in_legajo": 3,
+  "signatura": "191:6850.JPG",
+  "nombre_carta": "Carta de Catalina Fernández de Córdoba y Figueroa a No consta - Probablemente Pedro Santacilia y Pax",
+  "fecha_original": "fecha sin especificar",
+  "lugar": "Barcelona",
+  "remitente": "Catalina Fernández de Córdoba y Figueroa",
+  "destinatario": "No consta - Probablemente Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Buen silencio se guarda v. md., pues en tantas victorias no se acuerda de los amigos. Deseo saber qué hizo v. md., que por acá se dicen grandes cosas. Dígame v. m. si su alteza le ha hecho merced y el de Leganés si le ha hablado. Gran pérdida fue la de [su hijo?], que si él viviera v. md. tuviera lo que merece. Todos los deudos de v. md. están buenos. Guarde Dios a v. m. De Barcelona, 11 de octubre [roto] La duquesa de Segorbe y de Cardona [1§] Transcripción literal"
+  ],
+  "literal": [
+    "1. Buen silenzio se guarda2. Vmd pues en tantas bi3. torias no se aquerda de los4. amigos deseo saber que5. hizo Vmd que por aca se di6. zen grandes cosas7. digame Vmd si su alteza8. le a hecho mrd. y el de lega 9. nes si le a hablado gran10. perdida fue la de [?]11. que si el bibiera Vmd tubiera la12. que mereze todos las deudas13. de Vmd y tan buenas Gde14. dios a Vm de barcelona 11 de otu15. bre 16[roto] La duquesa de Segorbe16. y de Cardona [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "191:6850.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo33/191:6850.JPG",
+      "url": "/legajos/legajo-33/images/191:6850.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "191:6850.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (2)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-33/cartas/004934.json",
+  "primary_image_url": "/legajos/legajo-33/images/191:6850.JPG"
+}

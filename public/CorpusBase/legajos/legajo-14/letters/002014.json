@@ -1,0 +1,38 @@
+{
+  "legajo_id": "14",
+  "id_carta": "2014",
+  "order_in_legajo": 111,
+  "signatura": "200:2528.JPG",
+  "nombre_carta": "Carta de Pere Fornés a Pedro Santacilia y Pax",
+  "fecha_original": "8 de agosto de 1660",
+  "lugar": "Mallorca",
+  "remitente": "Pere Fornés",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Sr. don Pedro Esta és per fer sabedor a v. m. i la Sra. dona Leonor com Déu Nre. Sr. és estat servit de portar-se'n d'esta vida a la millor mossèn Jaume Fornes, mon fill i capella de vostres mercès. Déu Nre. Sr. l'hagi acollit a la seva santa glòria. Ha rebut tots els sagramets i ha tingut sempre molt gran judici fins a l'última boquejada que tot és pura misericòrdia de Déu. Aquí va el portador de la present que Pere Brotat i Fornes, nebot meu, qui estudiant de filosofia si vostres mercès me podien honrar en donar-li el benefici que mon fill tenia, seria fer-ne servici a Nre. Sr. i haurien perdut un criat i cobrat altre qui els serviria amb major diligència. Nre. Sr. els guardi d'esta sa casa i agost 8 de 1660. Pere Fornes Demet, son mínim criat Al Sr. don Pedro de Santacilia i Pax Transcripción literal"
+  ],
+  "literal": [
+    "1. Sor. don Pedro2. esta es per fer sebidor a V.m.d. y la Sa. Dona Aleonor3. com deu n. Sor. es estat servit de aportarsen desta vida4. a le millor mº jaume fornes mon fill y capella de5. V.es.m.es. Deu n. Sor. lo aja acullit a le sua Sta. gloria 6. ha Rebuts tots los sagremets y a tingut sempre molt7. gra[n] judici fins a le ultima boqueada que tot es pura8. misericordia de deu, a qui va el portedor de la prese[n]t9. que Pera Brotat y fornes nebot meu qui estudiant de10. filosofia si ves. mes. me poria[n] honrrar en donar 11. li el binifissi qui mon fill tenia seria ferne servici12. a n. Sor. y hauria[n] perdut un criat y cobrat altre13. qui los serviria ab major diligentia, n. Sor. 14. los gde. de esta se casse y Agost 8 de 166015. Pere fornes demet son16. minim Criat17. Al Sor. Don Pedro de Sta. cili y pax [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "200:2528.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo14/200:2528.JPG",
+      "url": "/legajos/legajo-14/images/200:2528.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "200:2528.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-14/cartas/002014.json",
+  "primary_image_url": "/legajos/legajo-14/images/200:2528.JPG"
+}

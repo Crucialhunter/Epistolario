@@ -1,0 +1,38 @@
+{
+  "legajo_id": "26",
+  "id_carta": "4525",
+  "order_in_legajo": 261,
+  "signatura": "386:3621.JPG",
+  "nombre_carta": "Carta de Josep de Rocabertí a Pedro Santacilia y Pax",
+  "fecha_original": "19 de julio de 1669",
+  "lugar": "Barcelona",
+  "remitente": "Josep de Rocabertí",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Sr. mío, por no haberme advertido en la ocasión que hubo bajel no respondí a la que tuve de v m. de 16 de junio pasado y ahora lo hago dando a v. m. una y muchas enhorabuenas de la llegada a ese reino y concluido el casamiento del Sr. D. Nicolás con tanto aplauso de toda su casa de v. m. y de esta con la Sra. Doña Leonor de Verí, de que damos a v. m. la enhorabuena y querrá Dios mejorar a v. m. los achaques para que goce de su buena compañía infinitos y guarde a v. m. como deseo. Barcelona y julio 19 de 1669. El conde de Zavella tenemos aquí y muy trocado no sé si tendrá algunos impulsos de pasar a esa isla, porque esta plaza lo halla falta de matrimonios y el desembarcarse [?] Servidor de v. m. que sus manos besa. Don Josep de Rocaberti Sr. don Pedro Santacilia y Pax Transcripción literal"
+  ],
+  "literal": [
+    "1. Sr. mio por no averme advertido en la ocasi-2. on q[ue] huvo baxel no respondi a la q[ue] tube de Vd.3. de 16 de Junio passado y agora lo ago dando a 4. Vd. una y muchas norabuenas de la llegada a esse5. reyno y conclu&iulm;do el casamiento del Sr. Dn. Nico[las]6. con tanto aplauso de toda su casa de Vd. y desta7. con la Sra. Doña Eleonor de Verí, de que damos8. a Vd. la norabuena y querra Dios mejorar a Vd.9. los achaques para q[ue] goze de su buena compañía10. infinitos y gde a Vd. como deseo B[arcelo]na y Julio11. 19 de 166912. El conde de Çavalla tenemos aqui y mui13. trocado no çe si tendra algunos inpulsos14. de pasar a essa Isla porque esta plaza lo ha15. lla falta de matrimonios y el desembarc-16. arse[?]17. Servidor de Vm q.s.m.B18. Don Joseph de 19. Rocabertí20. Sr. Don Pedro Santacília y Pax [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "386:3621.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo26/386:3621.JPG",
+      "url": "/legajos/legajo-26/images/386:3621.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "386:3621.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-26/cartas/004525.json",
+  "primary_image_url": "/legajos/legajo-26/images/386:3621.JPG"
+}

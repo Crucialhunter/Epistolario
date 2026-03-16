@@ -1,0 +1,32 @@
+{
+  "legajo_id": "20",
+  "id_carta": "3145",
+  "order_in_legajo": 22,
+  "signatura": "024:5929.JPG",
+  "nombre_carta": "Carta de Joan Nicolau a Pedro Santacilia y Pax",
+  "fecha_original": "26 de enero de 1655",
+  "lugar": "Puig de Randa",
+  "remitente": "Joan Nicolau",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "1º folio que consta la carta. [1§] Transcripción literal"
+  ],
+  "literal": [
+    "1. 1º folio de que consta la carta."
+  ],
+  "imagenes": [
+    {
+      "filename": "024:5929.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo20/024:5929.JPG",
+      "url": "/legajos/legajo-20/images/024:5929.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "024:5929.JPG",
+  "warnings": [],
+  "raw_source": "raw/legajos/legajo-20/cartas/003145.json",
+  "primary_image_url": "/legajos/legajo-20/images/024:5929.JPG"
+}

@@ -1,0 +1,48 @@
+{
+  "legajo_id": "23",
+  "id_carta": "3808",
+  "order_in_legajo": 63,
+  "signatura": "122:3220a.JPG",
+  "nombre_carta": "Carta de Enrique de Aragón (VI duque de Cardona) a Pedro Santacilia y Pax",
+  "fecha_original": "7 de marzo de 1635",
+  "lugar": "Perpiñán",
+  "remitente": "Enrique de Aragón (VI duque de Cardona)",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "como la estafeta pasada han venido con esta dos cartas de v. m. de 22 de febrero tan iguales como el ánimo de v. m. en la merced que siempre me hace y pues esta este credi to de mi parte tan constante y v. m. al pie de la obra continue El Escrivirme que no le faltará la ocasión mayormente con la llegada hay del marques de Villafranca y Giuseppe Bellafilla, que me dicen ha sido El primero muy bien recibido y agasajado. Llamado a muchas juntas y que publica ha se Informara los Validos, y apoyar los procedimientos y lances pasados de la Ciudad, y según esto, claro está que con tal medio se asentara todo muy a gusto. Las cartas de v. m. son de las reservadas, y así sin peligro puede Escri vir cuanto se ofreciere, como lo fio del cuidado de v. m. de Francia he sabido que aquel Rey a preso a Mosiur de Pilonans valido del duque de Orliens, y casado con una sobrina del cardenal de Rocheliu, a Mosiur de Mompensier, y al marques de Fargi por sospechas de confidencias con El Emperador. reina madre y Sr. Infante, que los tiene apartados unos de otros, y con guardas [?] seis leguas fuera de París, y que después había partido áLorena donde aquel duque había entrado con seis mil caballos, y dos mil infantes y en carta que he tenido de París de 16 del pasado Sr. don Pedro Santacilia [1§] me confirman esto mismo, que es cuanto hallo que decir a v. m. de lo de por acá, con deseo que le guarde Nro. Sr. muchos años, Perpiñán a 7 de marzo 1635 Señor don Pedro v. m. es fino en todo yo Señor don Pedro v. m. estimo en todo yo lo pondero como debo y lo estimo todos los dyscursos que se ya seré y lo más cierto ni [?] que v. m. El du de Segorbe [?] [2§] Perpiñán rdo. 7 marco 1635 El duque de Segorbe [3§] Transcripción literal"
+  ],
+  "literal": [
+    "1. Como la estafeta pasada han venido con esta dos2. cartas de V.m de 22 de febrero tan iguales como el animo3. de V.m en la mrd que siempre me hace y pues esta este credi4. to de mi parte tan constante y V.m. al pie de la obra continue El5. Escrivirme que no le faltara la ocasion mayormente con la llegada6. ay del Marqs de Villafranca y Jusepe Bellafilla, que me diçen7. ha sido El primero muy bien recivido y agasajado. Llamado à8. muchas juntas y que publica ha se Informara los Validos, y9. apoyar los procedimientos y lances pasados de la Ciudad, y segun10. esto, claro esta que con tal medio se asentara todo muy a gusto. Las11. cartas de V.m. son de las reservadas, y assi sin peligro puede Escri12. vir quanto se ofreciere, como lo fio del cuydado de V.m. De Francia 13. he savido que aquel Rey a preso à Mosiur de Pilonans Valido14. del Duque de Orliens, y casado con una sobrina del cardenal de15. Rocheliu, a Mosiur de Monpensier, y al Marqs de Fargi 16. por sospechas de confidencias con El Emperador. Reyna Madre17. y Sor. Infante, q los tiene apartados unos de otros, y con guardas[?]18. seys leguas fuera de París, y que despues havia partido á Lorena19. donde aquel Duque havia entrado con seys mil cavallos, y dos20. mil Infantes y en carta q he tenido de París de 16 del pasado 21. Sr. Don Po. Sta. cilia [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "122:3220a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo23/122:3220a.JPG",
+      "url": "/legajos/legajo-23/images/122:3220a.JPG"
+    },
+    {
+      "filename": "123:3220b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo23/123:3220b.JPG",
+      "url": "/legajos/legajo-23/images/123:3220b.JPG"
+    },
+    {
+      "filename": "124:3220c.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo23/124:3220c.JPG",
+      "url": "/legajos/legajo-23/images/124:3220c.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "122:3220a.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-23/cartas/003808.json",
+  "primary_image_url": "/legajos/legajo-23/images/122:3220a.JPG"
+}

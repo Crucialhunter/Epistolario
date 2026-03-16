@@ -1,0 +1,43 @@
+{
+  "legajo_id": "33",
+  "id_carta": "4868",
+  "order_in_legajo": 64,
+  "signatura": "097:6784a",
+  "nombre_carta": "Carta de Maria de Boixadors i de Rocabertí a Persona desconocida",
+  "fecha_original": "de octubre de 1629",
+  "lugar": "Barcelona",
+  "remitente": "Maria de Boixadors i de Rocabertí",
+  "destinatario": "Persona desconocida",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Aquestos dies quant rebí la de v. m. no li respongui per estar molt ocupada ja sap astonas estic tant melancolica que no fas cosa de gust i així ara puix nos fa Nostre Sr. mer se de donar milora a don Diego ja cobram un poc de mes {ESP. ànimo} de la bona convaslasència de v. m. me'n alegro molt i confia serà també bona la del Sr. comte i de la comtessa que les sancrias confio li hauran fet bon efecte Plega al enviarnos la saltu a tots amb compliment i amb el {ESP. contento} que és peram d'una bona embar casio que segons m'escriu don Francisco esta esperant llicència del rei Sr. don me'l sior de borja pera anar a Mallorca de dona maria de lanusa estic aguardant saber que està deslliura plega al se apiade de mi i me Sr. don de tos bones noves aquí escric una carta pera mi Sora la daquesa si v. m. {ESP. hasta} [1§] pera poderla donar de ses mans serà fer-me molta mercè i suplicar-li de part mia me faria molt gran mercè de deixar-me la lli terra a plas malas pera portar aqueixa criada malalta que és han paul que lo matxo millor dels dos que em porten la llitera {ESP. hasta} aspllat pera molts dies i a necessitat de traurer d'aquella casa de pau ana Isabel que mej ja en per donat les febras cada dia i no pot venir sens llitera si v. m. no pot donar la carta que faci aqueix personare mossèn caldes i el negociar lo fer anar la llitera de part de tarda perquè al meti puguin partir aquí va un home que hem pres ara poca que ja v. m. loconeixera pera donar una vista a pau es veu rer en què {ESP. hasta} lo recollir i el del fer lo vi al comte i a mi Sora la comtessa suplica v. m. els dona mos besamans i que desig molt saber noves de la salut de ses senorias a tots guart nostre i don infinits anys de vida com jols desig Sant Feliu i octubre als de 1629 Dona Maria de Boixadors i de Rocaberti [2§] Transcripción literal"
+  ],
+  "literal": [
+    "1. aquestos dias quant rebi la de V.m2. no li respongui per astar molt3. ocupada ya sap astonas estic tant4. melancolica que no fas cosa de gust5. y axi ara puis nos fa nostre Sor. mer6. se de donar milora a don diego ya7. cobram un poc de mes animo de la8. bona convaslasensia de Vm men aleg[r]o9. molt y confia sara tanbe bona la del10. Sor. conde y de la condesa que las11. sancrias confio li auran fet bon efecte12. Plega al Sor enviarnos la salut a13. tots ab conpliment y ab lo conten14. to ques peram de una bona enbar15. casio que sagons mescriu don fransisco16. esta esperant llisensia del rey don mel17. sior de borja pera anar a mallorca18. de dona maria de lanusa estic aguar19. dant saber questa deslliura plega al20. Sor se apiade de mi y me don de tots21. bones noves aquí escric una carta22. pera mi Sora la daquesa si Vm asta [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "097:6784a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo33/097:6784a.JPG",
+      "url": "/legajos/legajo-33/images/097:6784a.JPG"
+    },
+    {
+      "filename": "098:6784b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo33/098:6784b.JPG",
+      "url": "/legajos/legajo-33/images/098:6784b.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "097:6784a.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-33/cartas/004868.json",
+  "primary_image_url": "/legajos/legajo-33/images/097:6784a.JPG"
+}

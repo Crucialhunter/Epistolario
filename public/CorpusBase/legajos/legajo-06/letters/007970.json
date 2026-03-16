@@ -1,0 +1,43 @@
+{
+  "legajo_id": "6",
+  "id_carta": "7970",
+  "order_in_legajo": 55,
+  "signatura": "045-26a",
+  "nombre_carta": "Carta de Cecilia Zaforteza y Sureda de Sant Martí a Persona desconocida",
+  "fecha_original": "27 de junio de 1746",
+  "lugar": "Palma",
+  "remitente": "Cecilia Zaforteza y Sureda de Sant Martí",
+  "destinatario": "Persona desconocida",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Cecilia, he rebudes les tues cartes i em som torbat a escriure, no per falta de voluntat, sino per mos [?] dents molt penosos i extravagants, i així encomanem a la Puríssima i Sant {ESP. Cristo} de Santa Eulàlia, que és necessitat molt urgent, {ESP. pues} tinc tal excés d'eixutor que em dona tals de [?] paciència i vigilia que és una llàstima i no tinc cap. En fi, mos pecats ho merexin. De notícies no en sé cosa particular y es com [?] no venen. El comanador té una carta de València que van a dit don Ramon Despuig i Cotoner a en Tomàs, que s'han suscitades algunes dificultats per venir les ? [dies], pero que pensaven se [?] per [?] posat el comandant de València per facilitar vinguessin els matrimonis van desparetats [?], {ESP. pues} a ventre de esposar esta nit passada el [?] valencià li emparaven la lletra, tenint ja tot l'ajust i haver berenat el correu per la carta de D. Llorens Despuig de 8 d'est mes, en que diu estan bons y son a Plasència, ell i son germà prop de allí. De part de tots els de casa rebràs tu y tots molts {ESP. recados} i Déu vos guard molts anys. Ciutat, als 27 juny 1746. Si acas veus en Nicolau Puigdorfila, li dona ton pare i tots molts{ESP. recados} y que si li han portat tabac i que si es bo prendré antes particular ale [?] ns {ESP. pues} sé on és. [1§] A dona Cecilia Zaforteza y Sureda de Sant Marti, que Déu guardi molts anys. A Dna. Francisca St. Marti Transcripción literal"
+  ],
+  "literal": [
+    "1. Cecilia he rebudes les tuas cartes 2. y em som torbat a escriurer no per3. falte de voluntat sino per mos [?] 4. dents molt penosos y extrevagants 5. y axi encomanem a la Purisima y St 6. Cristo de Sta Eulalia que es nesasitat 7. molt urgent pues tinc tal acses de 8. axutor qui em done tals de [?] 9. palansia y vigilia que es una llastima 10. y no tinch cap. En fi mos pecats o merexa. 11. De notisias no en se cosa particular y 12. es com [?] no venen el comenador 13. te una carte de valensia que en a dit Dn 14. Ramon Despuig y Cotoner a nen Thomas 15. que se an susitades algunes dificultats 16. per vanir les [?] dias, pero que pen17. saven se [?] per [?] posat 18. el comandant de Valensia per fasili19. tar vinguessin los matrimonis van 20. desparetats, pues a ventre de esposar 21. esta nit pasada el [?] valensia 22. li anparaven le lletra tanint ja tot 23. lo ajust y aver barenat el correu 24. par le carte de Dn. Llorens Despuig de 8 25. de est mes en que diu estan bons y son 26. a Plasensia, ell y son jerma prop de alli27. [en vertical]28. de part de tots los de casa rebras tu y tots molts recados y Deu29. vos guard ms. as. Ciutat als 27 juliol 1746.30. Si acas veus en Nicolau Puigdorfilali done ton pare 31. i tots molts recados y que se li an portals [?] y que 32. [?] y pendre antes Particular [?]33. ns pues se a ont es. [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "045-26a.jpg",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo06/045-26a.jpg",
+      "url": "/legajos/legajo-06/images/045-26a.jpg"
+    },
+    {
+      "filename": "045-26b.jpg",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo06/045-26b.jpg",
+      "url": "/legajos/legajo-06/images/045-26b.jpg"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "045-26a.jpg",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-06/cartas/007970.json",
+  "primary_image_url": "/legajos/legajo-06/images/045-26a.jpg"
+}

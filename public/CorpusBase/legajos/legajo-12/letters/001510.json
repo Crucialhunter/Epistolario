@@ -1,0 +1,37 @@
+{
+  "legajo_id": "12",
+  "id_carta": "1510",
+  "order_in_legajo": 7,
+  "signatura": "004_6103a.JPG",
+  "nombre_carta": "Carta de Persona desconocida a Pedro Santacilia y Pax",
+  "fecha_original": "10 de julio de 1628",
+  "lugar": "Mallorca",
+  "remitente": "Persona desconocida",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Encara que m'atribuirà v. m. a mala criança el suplic molt humilment se servesca, vista la present, a fer-me mercè de venir-me a parlar en esta sa casa de v. m. per coses de molta importància, que en no anar jo aquí he de pensar ens pot fer altra cosa, a qui Déu guardi. D'esta sa casa, avui als 10 de juliol 1628. El domer major molt humil capellà de v. m. [1§] A don Pedro Santacilia, que Déu guardi. Transcripción literal"
+  ],
+  "literal": [
+    "1. Encara que me attribuira V.m. a mala crian2. sa lo supplich molt humilment se servesca3. vista la (^p) present en ferme marce de venir4. me a parlar en esta sa casa de v.m. per cosas5. de molta importantia, que en no anar jo aquí he6. de pensar nos pot fer altra cosa aqui deu7. gde. desta sa casa vuy als 10 de Juli[ol]8. 16289. lo domer major mo[lt]10. humil capella de V.[m.] [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "004_6103a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo12/004_6103a.JPG",
+      "url": "/legajos/legajo-12/images/004_6103a.JPG"
+    },
+    {
+      "filename": "005_6103b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo12/005_6103b.JPG",
+      "url": "/legajos/legajo-12/images/005_6103b.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "004_6103a.JPG",
+  "warnings": [],
+  "raw_source": "raw/legajos/legajo-12/cartas/001510.json",
+  "primary_image_url": "/legajos/legajo-12/images/004_6103a.JPG"
+}

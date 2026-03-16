@@ -1,0 +1,43 @@
+{
+  "legajo_id": "14",
+  "id_carta": "2094",
+  "order_in_legajo": 189,
+  "signatura": "321:2604a.JPG",
+  "nombre_carta": "Carta de Diego Matías de Aragüés a Pedro Santacilia y Pax",
+  "fecha_original": "10 de septiembre de 1663",
+  "lugar": "Madrid",
+  "remitente": "Diego Matías de Aragüés",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Tengo remitido a v. s. por Valencia y Barcelona los despachos para cobrar del obispo todo lo que se debiere. Juzgo habrán llegado ya a su mano. No tengo que encargar en esto pues lo tengo dicho duplicadamente. El pliego último que recibí por Alicante de 17 del pasado recibió en su mano el señor protonotario, y la carta también del vicecanciller que por haber estado indispuesto estos días no se ha tomado resolución. Avisaré lo que fuere. Balell me avisa como se embarcó el Sr. don Miguel Salva, con que estará ya descansando en el palacio de Mallorca y habrá ejecutado la orden con don Rodrigo de Borja, que harto lo han ponderado acá estos señores del consejo. Espero tenga su merecido. El Sr. D. Nicolás parece va mejorando con su cura, porque le van saliendo nuevas materias de lo que tenía detenido allí, espero le ha de suceder bien y en estando bueno se dispondrá lo que se ha de hacer. [1§] Muy buena nueva ha venido de Flandes con carta del marques de Castelrodrigo escrita al embajador que está en Ingalaterra, pareciéndole que el correo que enviaba lo habían de detener en Francia (y ha sido asi). Teniendo sitiado el francés a Terromunda fueron a socorrerle y se dieron tan buena mañana que hicieron levantar el sitio, con perdida de más de cinco mil hombres, retirándose tan aprisa que no pudieron retirar todo lo que tenían ahí, y de encuentro de la retirada les alcanzo un cabo principal con mil caballos que dispuso el marques de Castelrodrigo, que aprisionó un grande cabo del francés, y más de ciento y ochenta prisioneros, personas principales y cabos del ejercito. Ya se estenderá por menor todo lo demás y llegara ahí. Ha sido cosa que se ha alentado todo el lugar por acá. V. s. me mande le sirva, que sus manos besamos doña Margarita y yo y las de mi Sra. Dña. Leonor y Sr. D. Juan y todos esos Sres. muchas veces y guarde Dios los muchos años que deseo. Madrid a 10 de septiembre 1663 [?]. Besa la mano de v. s., su menor servidor Diego Matias de Aragues V. s. cobre su ayuda de costa, pues tiene su despacho, porque acá no se ha dado orden ninguna en contra con que a los demás cabos ha de informar el virrey Sr. don Pedro Santacilia y Pax. Transcripción literal"
+  ],
+  "literal": [
+    "1. Tengo remitido a VS por Valencia y Barça2. los despachos para cobrar del Sr. obispo todo3. lo que se deviere, Juzgo havran llegado4. ya a su mano no tengo que encargar en esto5. pues lo tengo dho duplicadamente=6. El pliego ultimo que Reçivi Por Alicante7. de 17 del passado Reçivio en su mano el8. Señor Protonotario, y la carta tambien9. del Sr. Viçecanr que por haver estado10. indispuesto estos dias no se ha tomado11. Resolucion abisare lo que fuere12. Balell me avisa, como se embarcó el Sr.13. Don Miguel Zalba, con que estará14. ya descansando en el Palacio de Mallorca15. y haura executado la orden con Don16. Rodrigo de Borja, que harto lo han17. ponderado acá estos Señores del Consso.18. Espero tengo su mereçido=19. El Sr. D. Nicolas, pareçe va mejoran20. do con su cura, porque le van saliendo21. nuebas materias de lo que tenia deteni22. do alli, espero le ha de suçeder bien y23. en estando bueno se dispondra lo q se ha de haçer. [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "321:2604a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo14/321:2604a.JPG",
+      "url": "/legajos/legajo-14/images/321:2604a.JPG"
+    },
+    {
+      "filename": "322:2604b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo14/322:2604b.JPG",
+      "url": "/legajos/legajo-14/images/322:2604b.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "321:2604a.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (3)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-14/cartas/002094.json",
+  "primary_image_url": "/legajos/legajo-14/images/321:2604a.JPG"
+}

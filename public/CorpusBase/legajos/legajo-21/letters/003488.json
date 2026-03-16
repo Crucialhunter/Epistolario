@@ -1,0 +1,43 @@
+{
+  "legajo_id": "21",
+  "id_carta": "3488",
+  "order_in_legajo": 176,
+  "signatura": "325:5776a.JPG",
+  "nombre_carta": "Carta de Pedro Fajardo de Requeséns-Zúñiga y Pimentel (V marqués de los Vélez) a Pedro Santacilia y Pax",
+  "fecha_original": "21 de octubre de 1639",
+  "lugar": "Tolosa",
+  "remitente": "Pedro Fajardo de Requeséns-Zúñiga y Pimentel (V marqués de los Vélez)",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Por ser tan importante y preciso el despacho de alguna infanta que s. m. ha mandado que con toda brevedad pase a Cataluña conviene que habiéndolo de hacer sin perder tiempo y faltando bagajes para la marcha que v. m. disponga con efecto como todos los que llevan las compañías de dragones y los más que se pudiere juntar de esos lugares me los remita aquí. Luego {CAT. demanar} que para mañana muy temprano estén juntos en esta villa aunque sea haciendo que los que ocupan los bagajes en esas compañías se vayan a pie hasta el tránsito que lo que obraré. v. s. en esta diligencia será de particular servicio de su majestad y para mi de mucha estimación, porque sin este medio no será posible ejecutar lo orden de su majestad con la celeridad que conviene. Guarde Nro. Sr. a v. m. muchos años, Tolosa yotubre 21 de 1639. El marques de los Velez Sr. don Pedro de Santacilia [1§] Tolosa 21 Octubre 1639 El marques de los Velez rdo. Transcripción literal"
+  ],
+  "literal": [
+    "1. Por ser tan ymportante y precisso eldespacho 2. de alguna ymfanta que SMd amandado quecon 3. toda brevedad pase acataluna Combiene queaviendolo 4. de haçer sin perder tiempo y faltando bagajes para 5. lamarcha que Vm disponga conefecto como todos 6. los que llevan las compas de dragones y los mas quese pudiere 7. juntar deesos lugares me los remita aqui luego demanar 8. que para mañana muy temprano esten juntos enesta 9. Villa aunque se a haciendo que los que ocupan los 10. Vagajes enesas compañias se bayan apie hasta el 11. transito quelo que obrare Vm enesta diligencía 12. sera departícular servo de S[u] Md y parami demucha 13. estimaçion porquesin este medio no sera pusible 14. executar lo horden de S[u] Md con la seleridad que con15. viene Ge Nro sr a Vm muchos años Tolossa 16. yotubre 21 de 1639 17. El Marqs delos Veles18. [Margen izquierdo][^ sr Don Po desta cilía] [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "325:5776a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo21/325:5776a.JPG",
+      "url": "/legajos/legajo-21/images/325:5776a.JPG"
+    },
+    {
+      "filename": "326:5776b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo21/326:5776b.JPG",
+      "url": "/legajos/legajo-21/images/326:5776b.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "325:5776a.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (5)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-21/cartas/003488.json",
+  "primary_image_url": "/legajos/legajo-21/images/325:5776a.JPG"
+}

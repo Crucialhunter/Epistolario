@@ -1,0 +1,38 @@
+{
+  "legajo_id": "16",
+  "id_carta": "2706",
+  "order_in_legajo": 192,
+  "signatura": "325:2206.JPG",
+  "nombre_carta": "Carta de Diego Matías de Aragüés a Pedro Santacilia y Pax",
+  "fecha_original": "14 de febrero de 1668",
+  "lugar": "Madrid",
+  "remitente": "Diego Matías de Aragüés",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "El señor don Arnaldo se parte hoy y va bien despachado y loha trabajado famosamente lleva los despachos, y también las bulas de v. s. y las del señor don Juan. y las cuenta nuestras. v. s. me avisara de sullegada, y de haber recibido estos papeles. v. s. me mande le sirva y guarde Dios como deseo Madrid 14 Febrero 1668 Besa las manos de v. s. su mayor servidor Diego Matias de Aragues señor don Pedro Santacilia y Pax [1§] Transcripción literal"
+  ],
+  "literal": [
+    "1. El sr don Arnaldo separte oy y ba 2. bien despachado y loha trabajado 3. famossamte lleva los despachos, Y 4. tambien las bullas de VS. y las del 5. Sr don Juan. Y las qta nras. Vs. me 6. avisara de sullegada, yde haver reci7. vido estos papeles. Vs. me mande 8. le sirva yge dios como desseo 9. Md 14 febrero 1668 10. B[]l[] M[] de Vs s[u] m[] s[] 11. Diego Mathias de 12. Aragues13. [Margen izquierdo][^ sr don Pedro Sta Cilia y Pax] [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "325:2206.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo16/325:2206.JPG",
+      "url": "/legajos/legajo-16/images/325:2206.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "325:2206.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (3)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-16/cartas/002706.json",
+  "primary_image_url": "/legajos/legajo-16/images/325:2206.JPG"
+}

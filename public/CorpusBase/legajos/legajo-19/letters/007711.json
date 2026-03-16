@@ -1,0 +1,48 @@
+{
+  "legajo_id": "19",
+  "id_carta": "7711",
+  "order_in_legajo": 234,
+  "signatura": "409_7918a",
+  "nombre_carta": "Carta de Persona desconocida a Persona desconocida",
+  "fecha_original": "4 de junio de 1627",
+  "lugar": "Mallorca",
+  "remitente": "Persona desconocida",
+  "destinatario": "Persona desconocida",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Â [1§] Â [2§] Â [3§] Transcripción literal"
+  ],
+  "literal": [
+    "1. 1. 1."
+  ],
+  "imagenes": [
+    {
+      "filename": "409_7918a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo19/409_7918a.JPG",
+      "url": "/legajos/legajo-19/images/409_7918a.JPG"
+    },
+    {
+      "filename": "410_7918b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo19/410_7918b.JPG",
+      "url": "/legajos/legajo-19/images/410_7918b.JPG"
+    },
+    {
+      "filename": "411_7918c.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo19/411_7918c.JPG",
+      "url": "/legajos/legajo-19/images/411_7918c.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "409_7918a.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (9)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-19/cartas/007711.json",
+  "primary_image_url": "/legajos/legajo-19/images/409_7918a.JPG"
+}

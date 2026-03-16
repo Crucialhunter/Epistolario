@@ -1,0 +1,43 @@
+{
+  "legajo_id": "21",
+  "id_carta": "3492",
+  "order_in_legajo": 182,
+  "signatura": "332:5780a.JPG",
+  "nombre_carta": "Carta de Pedro Fajardo de Requeséns-Zúñiga y Pimentel (V marqués de los Vélez) a Pedro Santacilia y Pax",
+  "fecha_original": "6 de noviembre de 1639",
+  "lugar": "Pamplona",
+  "remitente": "Pedro Fajardo de Requeséns-Zúñiga y Pimentel (V marqués de los Vélez)",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "El ayudante Pedro Gomez me dio la carta de v. m. en su recomendación y ha parecido tan justa la pretensión que al punto le he dado licencia por dos mesas para ir a solicitar su sueldo y por la aprovación en que v. m. ha hablado siempre de su persona, holgaré tenga buen suceso. Los de Lumbier se me han vuelto a quejar de las demasías del capitán D. Juan Vivot y particularmente de la aspereza con que trata al alcalde y regidores. v. s. le temple porque sino se modera lo habré de traer a esta ciudad. Guarde Dios a v. m. como deseo de Pamplona y noviembre 6 de 1639. El marques de los Velez Sr. gobernador D. Pedro Santacilia y Pax [1§] Pamplona 6 Noviembre 1639 El marques de los Velez rdo. Transcripción literal"
+  ],
+  "literal": [
+    "1. El ayudante Pedro Guemes medio lacarta 2. de Vm ensu recomendacion yaparecido tanjusta3. la pretenssion que alpunto leedado licena por dos mesas 4. para yr a Solicitar su sueldo ypor la provacion 5. Anque Vm. a ablado siempre desuperssa olgare tenga 6. buen suzesso. 7. Los de Lumbier semeanbuelto aquejar de las demasias 8. del Cappn D Ju Vibot y particularmte de la espere9. ca conque trata al Alcalde y regidores Vm letem10. pleporque sino semodera lebare de Traer a esta Ciud 11. Gue Dios a Vm Como deseo De Pama y Novie 6 de 12. 1639 13. El Marq delos Veles 14. [Margen izquierdo][^ Sor Govor D Po Santacilia yPax] [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "332:5780a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo21/332:5780a.JPG",
+      "url": "/legajos/legajo-21/images/332:5780a.JPG"
+    },
+    {
+      "filename": "333:5780b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo21/333:5780b.JPG",
+      "url": "/legajos/legajo-21/images/333:5780b.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "332:5780a.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (5)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-21/cartas/003492.json",
+  "primary_image_url": "/legajos/legajo-21/images/332:5780a.JPG"
+}

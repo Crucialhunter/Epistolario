@@ -1,0 +1,43 @@
+{
+  "legajo_id": "6",
+  "id_carta": "542",
+  "order_in_legajo": 42,
+  "signatura": "021_12a",
+  "nombre_carta": "Carta de R. María Teresa de Armendáriz a Cecilia Zaforteza y Sureda de Sant Martí",
+  "fecha_original": "17 de junio de 1741",
+  "lugar": "Barcelona",
+  "remitente": "R. María Teresa de Armendáriz",
+  "destinatario": "Cecilia Zaforteza y Sureda de Sant Martí",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Amiga y querida mía, No excuso participarte mi arribo a esta ciudad, que ha sido con mucha felicidad aunque yo me he mareado un poco. Mañana nos ponemos en camino para el cuartel que nos han destinado, donde me tendrás como en todas partes para servirte. [1§] Yo celebraré que lo pases en compañía del señor d. Francisco con cabal salud. Yo quedo buena y siempre para servirte pidiendo a Nuestro Señor te guarde muchos años. Barcelona y junio 17 de 1741. Tu amiga que más te estima, R. Maria Teresa de Armendariz. Mi querida amiga, da. Cecilia Forteza Transcripción literal"
+  ],
+  "literal": [
+    "1. Amiga y Querida mia 2. No escuso: participarte 3. mi arrivo a esta Ciudad 4. que a sido con mucha 5. felizidad aunque yo 6. me he mareado un 7. Poco, Mañana nos 8. ponemos en Camino 9. para el Quartel que 10. nos an destinado, 11. donde me tendras co- 12. mo en todas partes 13. para servirte [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "021_12a.jpg",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo06/021_12a.jpg",
+      "url": "/legajos/legajo-06/images/021_12a.jpg"
+    },
+    {
+      "filename": "022_12b.jpg",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo06/022_12b.jpg",
+      "url": "/legajos/legajo-06/images/022_12b.jpg"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "021_12a.jpg",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (3)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-06/cartas/000542.json",
+  "primary_image_url": "/legajos/legajo-06/images/021_12a.jpg"
+}

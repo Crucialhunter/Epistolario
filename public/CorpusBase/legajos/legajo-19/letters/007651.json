@@ -1,0 +1,63 @@
+{
+  "legajo_id": "19",
+  "id_carta": "7651",
+  "order_in_legajo": 279,
+  "signatura": "288_cg133a.JPG",
+  "nombre_carta": "Carta de Jerónimo Pelegrín de Aragüés a Pedro Santacilia y Pax",
+  "fecha_original": "14 de octubre de 1657",
+  "lugar": "Mallorca",
+  "remitente": "Jerónimo Pelegrín de Aragüés",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Jo Bartomeu Castallo del terme de la [?] i testimoni com Mestra Bartomeu [?] ver picapedrer hatorga Aver rebut del honorable Bartomeu Boras cinquanta i sis sous i son a pagat dit boras tres lliures i deu sous i sis dotzenes i mig de mitjans i enpeimentar huna cambra i a pagat dit boras vint i quatre sous vint i vuit sous i sis dotzenes de retjoles fet als 4 d'hoctubra 1657 dich ____ 8 L 18 S [1§] [2§] tres jornals i mig de mestra a [?] lo jornal val mes tres jornals de manobra a 16 L lo jornal val mes per 4 barsellas guix val mes per adop de sa calsade un jornal i mig de mestre val mes 9 almuts de tres pol val m 3 lliures d'almangara m 1 jornal i mig manobra [3§] Sen Bartomeu Borras Arendador de Son Pax pagareu a me Bober, picapedrer vint i sinch lliures dich 25 L a bon compte del Arrendament i ha dit Bober per l'esquerada te de mi Sr. Don Pedro en dit Rafal fet als 4 Agost 1658 dich ____ 25 L De ordre de mi Sr. Jeroni Pelegri [4§] A 1 de maig 1659 Memoria de tot el que ha pagat berthomeu boras p lo noble S. Pedro Santacilia Pº. p segar lo ordi un jornal i mig m p cavar al verger p posar grells m p 14 bersellas ordi p sembrar an el verger a 24 S val m. mitge quartera ordi que dini an el cotxer m una quartera ordi dini als altres cotxes m dos quarteres tres almuts p sembrar la altra part del verger a dita rº. m p sembrar la tanca dels pages vuit bersellas ordi a en pere de Canpedret m he pegat p 14 jornals de cavar al verger per sembrar dit ordi m p la ferratge que prenge gillem Ferragut p les poltres quatre lliures vuit sous m p dotze sindris vint i nou sous m p lo [?] se'n portaren les tafones Mes an pres 4? ordi quant anaren a Son Ignasi que valen 16 S a rº. 24 [5§] Comptes [6§] Transcripción literal"
+  ],
+  "literal": [
+    "1. Jo Bartomeu Castallo del terma de la [?] 2. [?] y testimoni com Mestra Bartomeu [?] 3. ver picapedrer hatorga Aver rabut del hono4. rable Bartomeu Boras sinquanta y sis sous y son 5. a pagat dit boras tres lliures y deu sous y sis do6. tsenes y mitg de mitjans y enpeimentar hun7. a cambra y a pagat dit boras vint y quatra sous 8. vint y vuit sous y sis dotzenes de retjoles fet 9. als 4 de hoctubra 1657 dich ____ 8 L 18 S [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "288_cg133a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo19/288_cg133a.JPG",
+      "url": "/legajos/legajo-19/images/288_cg133a.JPG"
+    },
+    {
+      "filename": "289_cg133b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo19/289_cg133b.JPG",
+      "url": "/legajos/legajo-19/images/289_cg133b.JPG"
+    },
+    {
+      "filename": "290_cg133c.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo19/290_cg133c.JPG",
+      "url": "/legajos/legajo-19/images/290_cg133c.JPG"
+    },
+    {
+      "filename": "291_cg133d.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo19/291_cg133d.JPG",
+      "url": "/legajos/legajo-19/images/291_cg133d.JPG"
+    },
+    {
+      "filename": "292_cg133e.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo19/292_cg133e.JPG",
+      "url": "/legajos/legajo-19/images/292_cg133e.JPG"
+    },
+    {
+      "filename": "293_cg133f.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo19/293_cg133f.JPG",
+      "url": "/legajos/legajo-19/images/293_cg133f.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "288_cg133a.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (4)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-19/cartas/007651.json",
+  "primary_image_url": "/legajos/legajo-19/images/288_cg133a.JPG"
+}

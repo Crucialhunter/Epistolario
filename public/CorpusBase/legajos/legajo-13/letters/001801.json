@@ -1,0 +1,38 @@
+{
+  "legajo_id": "13",
+  "id_carta": "1801",
+  "order_in_legajo": 66,
+  "signatura": "115:2305.JPG",
+  "nombre_carta": "Carta de Mateu Fortesa i Suñer a Pedro Santacilia y Pax",
+  "fecha_original": "26 de agosto de 1668",
+  "lugar": "Mallorca",
+  "remitente": "Mateu Fortesa i Suñer",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Sr. mío la de v. s. recibí de 12 de Julio en que me dice de su llegada y del Sr. don Juan su hijo con buena salud que fue para mi de gran contento, si bien ahora he tenido noticia que estaba algo desganado. Confío en Dios estará bueno, yo estoy rabiando por partir, y la galera no viene habiendo dejado la embarcación de cuatro galeras que pasaron en Barcelona, pero he resuelto que sino viene para a quince del que viene tomar un bergantín que no puedo más por no entrar en el tiempo riguroso del frío y guarde Dios a v. s. y me mande todo lo que sea de su gusto que en todo me tendrá a su obediencia, de Mallorca a 26 de agosto 1668. Don Mateu Forteza y Nuñez Sr. don Pedro Santacilia [1§] Transcripción literal"
+  ],
+  "literal": [
+    "1. Sr. mio la de VSa. resibi de 12 de Julio en que me2. dise de su legada i del Sr. don Juan su hijo con buena Sa=3. lut que fue para mi de gran contento si bien aora4. etenido notisa que estaba algo desganado confio en 5. dios estera bueno 6. jo estoi rebiando por partir, i la galera noviene avien7. do decado la enbarcasion de quatro galeras que 8. pasaron en Barselona pero eresuelto que sino9. viene para aquinse del que viene tomar un10. bergantin que no puedo mas por no entrar en11. el tiempo riguroso del frio i gde Dios a V.Sa. i me man12. de todo lo que sea de su g[us]to que en todo me tendra a su13. obediensia de Mallorca a 26 de Agosto 166814. Don Mateu Fortesa15. y Nuñez16. Sr. don Pedro Sta. Silia [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "115:2305.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo13/115:2305.JPG",
+      "url": "/legajos/legajo-13/images/115:2305.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "115:2305.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-13/cartas/001801.json",
+  "primary_image_url": "/legajos/legajo-13/images/115:2305.JPG"
+}

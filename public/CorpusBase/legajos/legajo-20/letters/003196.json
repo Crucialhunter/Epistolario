@@ -1,0 +1,48 @@
+{
+  "legajo_id": "20",
+  "id_carta": "3196",
+  "order_in_legajo": 74,
+  "signatura": "089:5977a.JPG",
+  "nombre_carta": "Carta de Miquel Domènech a Pedro Santacilia y Pax",
+  "fecha_original": "1 de diciembre de 1665",
+  "lugar": "Madrid",
+  "remitente": "Miquel Domènech",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "La present es per a enviar a saber a v. s. com tothom està bo, sino jo que estic mal, i em folga de saber de la salut d v. s. i de la Sra. dona Leonor i de tots sos fills, i com he rebut un barrelet d'olives i i una salsera de tàperes, i si rebé catorze plats prims i dotze escudelles primes, d'aquella nòmina dels mallorquins, no la puc trobar ni sé que la féu ma muller, i que em faci mercè de cridar, a Jeroniet de Colltort que ell si darà millor notícia que jo no sé, i a v. s. em farà mercè que em deu dos-cents reals castellans Jeroniet de Colltort, que jo el feia posar en la presó, i munta dalt que jo estava mal, i em donà 50 reals, i em digué que cada viatge daria la meitat del que [1§] guanyaria i és estat dos viatges, i no m'ha donat res i s'amagava de mi, i tots els patrons me pagaren, llevat d'Onofre Mesquida que em deu tres-cents reals castellans conforme ells mateixos setagaren, i Bartomeu Franci, em queda a deure set peces d'aguit que li deixà ma muller, i Miquel Rovira ja m'ha pagat, i Malagana i Bielo, i si ja ningú que jura que m'ha pagat, que vagi en bona hora i v. s. perdoni de l'{ESP. enfado}, li remet a v. s. dues dotzenes de melons i dues arroves de naps i Déu a v. s. guardi del Grau i desembre a 12 de 1665. De v. s. servidor Miquel Domenech Sr. don Pedro de Santacilia [2§] [?] A don Pedro de Santacilia que Déu guardi. Mallorca Tenen els [?] una creu vermella per senyal [?] Miquel Domenech marit de la [?] Transcripción literal"
+  ],
+  "literal": [
+    "1. La pnt es pera enviar a sebre 2. a Vª Sª. com tot hom esta bo, si 3. no yo que estich mal, yer[?] 4. folge de saber de la salut d 5. Vª Sª. y de la sra. doña Leonor 6. y de tots sos fills, y com he 7. rebut un barilet de olives y 8. y una salsera de [?], y 9. si rebe catorse plats prims y 10. dotse escudelles primes, De aquella 11. nomina dels[?] mallorquins, no la puch 12. trobar ni se que la feu ma mu- 13. ller, y que em fasa merce de 14. cridar, a Geroniet de colltort 15. que ell si dara millor notisia que 16. que yo no se, y en Vª Sª em fara mer- 17. ce que em deu dotsens reals cas- 18. tellans Geroniet de colltort, que yo el 19. feia posar en la preso, y munta dalt[?] 20. que yo estava mal, y em dona 21. 50[?] Reals, y em digue que cada 22. viage daria la mitad del que [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "089:5977a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo20/089:5977a.JPG",
+      "url": "/legajos/legajo-20/images/089:5977a.JPG"
+    },
+    {
+      "filename": "090:5977b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo20/090:5977b.JPG",
+      "url": "/legajos/legajo-20/images/090:5977b.JPG"
+    },
+    {
+      "filename": "091:5977c.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo20/091:5977c.JPG",
+      "url": "/legajos/legajo-20/images/091:5977c.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "089:5977a.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-20/cartas/003196.json",
+  "primary_image_url": "/legajos/legajo-20/images/089:5977a.JPG"
+}

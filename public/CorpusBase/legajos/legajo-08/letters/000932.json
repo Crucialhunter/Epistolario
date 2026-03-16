@@ -1,0 +1,43 @@
+{
+  "legajo_id": "8",
+  "id_carta": "932",
+  "order_in_legajo": 68,
+  "signatura": "193-128a copia",
+  "nombre_carta": "Carta de Thomás Áufre y Velasco a Persona desconocida",
+  "fecha_original": "14 de octubre de 1643",
+  "lugar": "Castillo de San Felipe (Menorca)",
+  "remitente": "Thomás Áufre y Velasco",
+  "destinatario": "Persona desconocida",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Luego que llegué aquí hice relación al castellano de lo que el teniente de baile de Mahón dio aviso a v. s. de lo sucedido en razón de no haber guiado el navío de infantería de Sicilia y como v. s. se hallaría muy disgustado por haber sido muchas las que se le habían callado de esta calidad; y asimismo la orden que v. s. dio delante de mí al baile y muriesen razón de lo que habían de obrar en la primera ocasión que sucediese otro tanto. A que me respondió que si hubo hierro en esto fue culpa suya porque cuando el alcalde le avisó que sin dar [?] guiaje al dicho navío le respondió hiciera lo que se acostumbraba, con que al alcalde no atendió al inconveniente que podía haber aunque fuese bajel de su majestad, y así los dejo sultar en tierra para tomar refuerzo y proseguir al punto su viaje. Y asimismo dice que de ninguna manera de aquí adelante consentirá tratar ni desembarcar a nadie de ningún bajel que venga sin que primero la tierra haga su obligación, que es cierto que lo que más se ha de mirar es la salud. Y en cuanto a lo demás de si él había de tener la orden y de la carestía de bienes y no haber consentido dar aviso a v. s. y lo demás lo tengo por fábula según me significa el dicho castellano y etc. Me han dicho que escribiese a v. s. como lo hago y me mande lo que fuera de su servicio, a quien Nuestro Señor [1§] guarde como deseo. De este castillo, a 14 de octubre 1643. Thomas Áufre y Velasco. Señor gobernador. Transcripción literal"
+  ],
+  "literal": [
+    "1. Luego quellegue aqui. hiçe Relaçion al castellano. delo q el. 2. Thiniente de Baile deMahon dio aviso a V.S. delo susedido, 3. En Razon. de no aver guiado el navio. deJnfant< [a]> desicilia 4. y como V.S. seallaria muy disgustado p aver sido muçhas las q 5. sele avian callado desta calidad. (^y en q< >) y asi mis< > la horden q 6. V.S. dio delante de mi al baili y morierisen Racon delo 7. q avian de i brar enla Prim< [a]> ocasion q sucediesse otrotanto 8. aque me Respondio que si huvo hierro enesto fue.Culpa 9. suyo p que q< > el AlB leaviso. que sindaria Guiaje al dho 10. navio. le Respondio hiçiera lo q seacostumbrava con q 11. al Alb< > Atendio al jncomve< > quepodia haver aun q fuese 12. Basel de suM[a]g< > yasi. los dejo sultar entierra. p< [a]> tornar Refuerço 13. y proseguir alpunto. Su Biaje y asimis< > dize quedeninguna 14. manera deaqui adelante. consentira. tratar. ni desembar- 15. car a nadie deningun Basel que Benga. sinq primero la 16. tierra haga su obligaçion que es sierto q lo q mas seade 17. mirar es la salud. y en q< > a lo demas. de siel avia detener 18. la horden y dela carestia. de bienes. y no aver consentido dar aviso 19. aV.s. y lo demas lotengo p fabula. segun mesignifica el dho 20. castellano y etts.anmedho q escriviesse aV.S. como lo hago. 21. y me mande lo que fuera. desu serviçio aquien nro S< > [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "193-128a copia.jpg",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo08/193-128a copia.jpg",
+      "url": "/legajos/legajo-08/images/193-128a copia.jpg"
+    },
+    {
+      "filename": "194-128b copia.jpg",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo08/194-128b copia.jpg",
+      "url": "/legajos/legajo-08/images/194-128b copia.jpg"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "193-128a copia.jpg",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (2)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-08/cartas/000932.json",
+  "primary_image_url": "/legajos/legajo-08/images/193-128a copia.jpg"
+}

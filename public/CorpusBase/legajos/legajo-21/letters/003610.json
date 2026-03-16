@@ -1,0 +1,38 @@
+{
+  "legajo_id": "21",
+  "id_carta": "3610",
+  "order_in_legajo": 299,
+  "signatura": "513:5898.JPG",
+  "nombre_carta": "Carta de Julián Vila a Pedro Santacilia y Pax",
+  "fecha_original": "20 de junio de 1669",
+  "lugar": "Mallorca",
+  "remitente": "Julián Vila",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Per carta del pro. fra don Gabriel quan tingué notícia de la bona i {ESP. acertada} elecció dic del casament del Sr. don Nicolau amb la Sra. verina, jo ja tant digna de ser estimada vulgui Déu Nre. Sr. que sia per a molts anys en vida de v. s. i de mi Sra. dona Leonor. En persona volia anar a donar mil {ESP. enhorabuenas} a v. s. i a mi Sr. don Nicolau i ocupacions, de la facultat no m'han donat lloc. V. s. les rebrà juntament amb mi Sr. don Nicolau i en el que sia de son gust me manaran els ho suplic que serà per a mi de molt de gust poder donar gust a .v. s. Casia vida i guadri [?] Nre. Sr. com desitja d'esta sa casa i juny a 20 de 1669. Indigne de v. s. que ses mans besaEl Dr. Julian Vila Transcripción literal"
+  ],
+  "literal": [
+    "1. Per carta del pt Fr[a] Don Gabriel quat 2. tingue notitia de la bona y acertada 3. Electio Vich del Casament del Sr Don nico= 4. lau Ab la Sra Verina joja tant digna 5. de ser estimada vulla deu nesr quesia 6. para mols añys en vida de V.S. 7. y de mi Sra Dona eleonor. 8. Sr En persona volia anar Adonar 9. mil nora buenas. A V.S. y a mi Sr 10. don nicolau i ocupasions. de la facultat 11. no me an donat lloch; V.S las rebra jun= 12. tament Ab miSr. Don nicolau i en lo que 13. sia desongust me maneran losho 14. suplica que sera perami de Molt degust 15. poder donar gust A.V.S. Casia vida 16. yde la [?] nesr . Com desitja desta sacasa 17. y juñy a 20 de 1669 18. Indigne Sor de VS. Q S M b 19. el dr julia Vila [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "513:5898.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo21/513:5898.JPG",
+      "url": "/legajos/legajo-21/images/513:5898.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "513:5898.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-21/cartas/003610.json",
+  "primary_image_url": "/legajos/legajo-21/images/513:5898.JPG"
+}

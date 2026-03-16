@@ -1,0 +1,43 @@
+{
+  "legajo_id": "6",
+  "id_carta": "630",
+  "order_in_legajo": 129,
+  "signatura": "188-95a",
+  "nombre_carta": "Carta de Tomás Mariano Quint Zaforteza a Cecilia Zaforteza y Sureda de Sant Martí",
+  "fecha_original": "11 de julio de 1770",
+  "lugar": "Madrid",
+  "remitente": "Tomás Mariano Quint Zaforteza",
+  "destinatario": "Cecilia Zaforteza y Sureda de Sant Martí",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Madrid i juliol 14 de 1770. Tia Cecília, Esper esta la trobarà amb perfecta salut. Jo la {ESP. gos} bona, a Déu gràcies, amb tota la família pel que sia del seu gust manar-me. Tia Cecília, jo no som massa llarg perquè he acabat tot és que dir i, sols que vegi lletra meva més fresca, li escric esta. No sé descuit, per amor de Déu, d’escriure’m moltes cartes i llargues. Jo encara que no n’és [A la izquierda, de arriba abajo]i que com diu Malondra, en prendre sa ploma per [1§] v. m. no acabaria mai, però ja es vespre i me’n vaig a casa la Sotomayor. De part de tots rebrà moltes memòries i de mi les prendrà a {ESP. medida} del seu gust. Déu la guardi molts anys com desig. Son nebot qui més l’estima, Tomas Mariano Quint Zaforteza. Tia Cecília Transcripción literal"
+  ],
+  "literal": [
+    "1. Madrid y Juliol 2. 14 de 1770 3. Tia Cecilia esper esta 4. la trobera ab perfeta salud jo la 5. gos bona á Deu gracias en tota la 6. familia per lo que sia del seu gu- 7. st manarme. 8. Tia Cecilia jo no som 9. masa llarch perque he acabat tot 10. es que dir y sols que vegue lletra 11. meva mes fresca li escrich esta 12. no se descuit per amor de Deu 13. de escriuram moltas Cartes y 14. llargues jo encara que no nesc- 15. [A la izquierda, de arriba abajo]16. y que com diu Sor Malondra [?], hen pendrar se ploma [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "188-95a.jpg",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo06/188-95a.jpg",
+      "url": "/legajos/legajo-06/images/188-95a.jpg"
+    },
+    {
+      "filename": "189-95b.jpg",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo06/189-95b.jpg",
+      "url": "/legajos/legajo-06/images/189-95b.jpg"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "188-95a.jpg",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (2)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-06/cartas/000630.json",
+  "primary_image_url": "/legajos/legajo-06/images/188-95a.jpg"
+}

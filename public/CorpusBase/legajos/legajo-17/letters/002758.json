@@ -1,0 +1,43 @@
+{
+  "legajo_id": "17",
+  "id_carta": "2758",
+  "order_in_legajo": 23,
+  "signatura": "028:1300a.JPG",
+  "nombre_carta": "Carta de Basilio de Castellví y Ponce a Pedro Santacilia y Pax",
+  "fecha_original": "2 de marzo de 1658",
+  "lugar": "Valencia",
+  "remitente": "Basilio de Castellví y Ponce",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Su carta de v. s. de 22 de enero he recibido y juntamente con ella particular alborozo sabiendo queda v. s. con la salud que le deseo, gócela v. s. muchos años como yo se la deseo, que de lo que me precio de su mayor servidor bien se me puede fiar. Yo al servicio de v. s. quedo bueno y doña Laura y Giuseppe lo están y todos besamos sus manos de v. s., las de mi señora, doña Isabel y el Sr. don Juan Manuel. Tengo respondido por Alicante a v. s. avisando del recibo del caballo y aunque allí significó a v. s. mis agradecimientos no excuso de decir a v. s. lo mucho que he estimado este favor, porque además de ser el potro famoso por cosa de v. s. le estimo como no podré encarecer y Giuseppe en su corta edad estima al Sr. don Juan Manuel este favor, deseando él y yo se ofrezcan muchas ocasiones que nos ayuden al desempeño de tanta obligación. Acá hemos tenido los mayores fríos del mundo con grandísimas nieves y lo he sentido un poco por hallarme en la villa de Onteniente, 12 leguas de Valencia, en la ocupación de la visita a donde tengo toda mi casa. En Madrid ha llovido, que dicen ha sido un diluvio, con que se han malogrado las fiestas del partón de la reina Nra. Sra. El conde de Oñate murió, con que hemos perdido una gran cabeza. El Arzobispo de Santiago que estaba proveído [1§] no ha querido ese arzobispado con que nos hemos a quien nos enviarán. No se me ofrece otra cosa de que avisar a v. s., a quien guarde Dios muchos años como deseo. Valencia y 2 de marzo de 1658. Beso a v. s. su menor servidor,Don Basilio de Castellvi y Ponce Sr. don Pedro Santacilia y Pax Transcripción literal"
+  ],
+  "literal": [
+    "1. Su carta de VS. de 22 de henero he rrecibido y juntamte 2. con ella particular alboroço sabiendo queda VS. con la salud 3. que le deseo goçela VS. muchos años como yo se la deseo que de lo 4. que me precio de su mayor servidor bien se me puede fiar, Yo 5. al serviçio de VS. quedo bueno y Doña Laura y Jusepe lo estan 6. y todos vesamos sus manos de VS las de mi Señora, Doña Ysabel 7. y el Sr. Don Juan Manuel,8. Tengo respondido por Alicante a VS. havisando del recivo del 9. cavallo y aunque allí significo aVS. mis agradecimis no escusso 10. de deçir a VS. lo mucho que heestimado este fabor, porque ade11. mas de ser el potro famoso por cossa de VS. le estimo como no 12. podre encareçer y Jusepe en su corta hedad estima ael Sr. Don 13. Juan Manuel este fabor, deseando el y yo se ofrezcan mu14. chas ocasiones quenos ayuden al desempeño de tanta obli 15. gación. Aca hemos tenido los mayores frios del mundo con gran16. disimas niebes y lo he sentido un poco por hallarme en la 17. Villa deontiniente 12 leguas de Valencia en la ocupaçión 18. de la Visita a donde tengo toda mi cassa.19. en Madrid allobido que diçen asido undilubio con que se 20. anmalogrado las fiestas del parto, de la Reyna Nra. Sa. 21. el Conde de oñate murio conque hemos perdido una gran 22. Caveçael. Arzobispo de Santiago queestava pro 23. veido [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "028:1300a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo17/028:1300a.JPG",
+      "url": "/legajos/legajo-17/images/028:1300a.JPG"
+    },
+    {
+      "filename": "029:1300b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo17/029:1300b.JPG",
+      "url": "/legajos/legajo-17/images/029:1300b.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "028:1300a.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-17/cartas/002758.json",
+  "primary_image_url": "/legajos/legajo-17/images/028:1300a.JPG"
+}

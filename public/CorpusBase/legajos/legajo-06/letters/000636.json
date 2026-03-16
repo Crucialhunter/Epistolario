@@ -1,0 +1,53 @@
+{
+  "legajo_id": "6",
+  "id_carta": "636",
+  "order_in_legajo": 136,
+  "signatura": "198-101aa",
+  "nombre_carta": "Carta de Tomás Mariano Quint Zaforteza a Cecilia Zaforteza y Sureda de Sant Martí",
+  "fecha_original": "24 de agosto de 1770",
+  "lugar": "Madrid",
+  "remitente": "Tomás Mariano Quint Zaforteza",
+  "destinatario": "Cecilia Zaforteza y Sureda de Sant Martí",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Madrid i agost 24 de 1770. Tia Cecília, Esper esta la trobarà amb perfecta salut. Jo la {ESP. gos} bona, a Déu gràcies, amb tota la família pel que sia del seu gust manar-me. El Dia 14 del corrent vaig rebre 4 cartes seves i la còpia de la del marquès, de les que em vaig alegrar moltíssim, més que no fa compte, perquè a Madrid ses coses qui em donen [1§] Gust són molt poques. Dia 25 del corrent qui es demà faig comptes d’anar-me’n a la Granja amb el marquès de Sant Lleonardo, vejam si arribarà a bé. Tia Cecília, pot pensar quin gust tenc de tenir d’anar a la Granja, però tenc de ballar segons es so. Jo voldria esser ja a Malta qui hi tenc es meu gust allà. Per aquí no hi ha ninguna novetat i no se diu res de cinc. No sé m’ofereix [En la otra página][2§] res d’ella, sinó que estiga bona i que m’escriga molt i llarg, llarguíssim, que és el únic qui m’alegra i tenc confiança que serà així. Sa marquesa encara proseeix amb el prenyat (o ganes!), que diuen ses monges de Santa Clara. No tenc ninguna cosa més que escriure-li, sinó que estic boníssim. De part de tots rebrà moltes memòries i de mi les prendrà a son gust. Déu la guardi molts anys com [En la otra página][3§] desig i pot. Son nebot qui més l’estima de cor, de cor de cor! Tomàs Mariano Quint Zaforteza. Rebrà 4 cartes més Tia Cecília Transcripción literal"
+  ],
+  "literal": [
+    "1. Madrid y Agost 2. 24 de 1770 3. Tia Cecilia esper es- 4. ta la trobera ab perfeta sa- 5. lud Jo la gos bona á Deu gs 6. en tota la familia per lo que 7. sia del seu gust Manarme 8. el 9. Dia 14 del Corrent vatx Re- 10. brer 4 Cartes suas y la Copi- 11. a de la del Marques de las q 12. hem vatx alegrar moltisim mes 13. que no fa conta perque á Ma- 14. drid ses cosas qui hem donan [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "198-101aa.jpg",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo06/198-101aa.jpg",
+      "url": "/legajos/legajo-06/images/198-101aa.jpg"
+    },
+    {
+      "filename": "199-101ba.jpg",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo06/199-101ba.jpg",
+      "url": "/legajos/legajo-06/images/199-101ba.jpg"
+    },
+    {
+      "filename": "198-101ab.jpg",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo06/198-101ab.jpg",
+      "url": "/legajos/legajo-06/images/198-101ab.jpg"
+    },
+    {
+      "filename": "199-101bb.jpg",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo06/199-101bb.jpg",
+      "url": "/legajos/legajo-06/images/199-101bb.jpg"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "198-101aa.jpg",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (2)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-06/cartas/000636.json",
+  "primary_image_url": "/legajos/legajo-06/images/198-101aa.jpg"
+}

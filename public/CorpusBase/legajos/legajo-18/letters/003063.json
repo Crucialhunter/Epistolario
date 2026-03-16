@@ -1,0 +1,38 @@
+{
+  "legajo_id": "18",
+  "id_carta": "3063",
+  "order_in_legajo": 97,
+  "signatura": "160:4902.JPG",
+  "nombre_carta": "Carta de Nicolás Ludoviz a Pedro Santacilia y Pax",
+  "fecha_original": "29 de agosto de 1663",
+  "lugar": "Càller (Cagliari)",
+  "remitente": "Nicolás Ludoviz",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "He recibido los pliegos que v. s. me remite con la suya de 15 del corriente En que me avisa dehallarse ocupando el gobierno D. ese Ro donde serán seguros los aciertos con la prudencia de v. s. que expe rímentara siempre muy sispuesta mi voluntad en todos los empleos de su servicio, Guarde Dios a v. s. muchos años Cáller y agosto 29 de 1663 Nicolas Ludoviz Sr. D. Pedro Santacilia [1§] Transcripción literal"
+  ],
+  "literal": [
+    "1. Herecivido los pliegos que VS me remite 2. con la suya de 15 del corriente En queme 3. avisa dehallarse ocupando el Govierno d 4. esse Ro donde seran seguros los açiertos 5. con la prudençia de V.S. que expe6. rímentara siempre muy sispuesta mi 7. Voluntad entodos los empleos desu servo, 8. Guarde Dios a V.S.muchos años 9. Caller y Agosto 29 de 1663 10. Nicolas Ludoviz11. [Margen izquierdo][^ Sr D Po Santecilla]12. [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "160:4902.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo18/160:4902.JPG",
+      "url": "/legajos/legajo-18/images/160:4902.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "160:4902.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-18/cartas/003063.json",
+  "primary_image_url": "/legajos/legajo-18/images/160:4902.JPG"
+}

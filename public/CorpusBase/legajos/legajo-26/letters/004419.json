@@ -1,0 +1,43 @@
+{
+  "legajo_id": "26",
+  "id_carta": "4419",
+  "order_in_legajo": 165,
+  "signatura": "233:3514a.JPG",
+  "nombre_carta": "Carta de Basilio de Castellví y Ponce a Pedro Santacilia y Pax",
+  "fecha_original": "13 de julio de 1644",
+  "lugar": "Càller (Cagliari)",
+  "remitente": "Basilio de Castellví y Ponce",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Señor mío. Hállome con una carta de v. s. de 22 de abril, la cual recibí en una tartana que vino de Mallorca y en ella el patrón Pedro Maltes el cual se ha detenido hasta hoy y vuelve, con que aseguro el que llegue esta a sus manos de v. s. Mi viaje fue feliz y lo pasé mucho mejor que en el pasaje de Alicante a Mallorca. Aquí se trabaja en la remisión de los trigos cuanto se puede y hoy parten de aquí tres naves cargadas de trigos, las dos por cuenta de mercaderes y la otra por cuenta de su majestad. Habiendo hecho para ello los esfuerzos posibles, no habiendo ningunos medios de que poderse valer, ni de arbitrios, ni de hacienda de su majestad. Por el mes de abril pasado fue otra nave y para Agosto entiendo que irá otra. Buenas nuevas hemos tenido de los sucesos de las armas de su majestad. En Lérida y Portugal, Dios quiera continuarlos y que se nos mejore la fortuna, como lo hemos menester de espacio toma D. Crisanto su viaje creo que debe de tener poca gana de ir, pues lo difiere tanto yo. Señor tengo los pensamientos muy humildes, no puedo aspirar a cosa tan grande, para mi fuera la dicha. Acá nos han dicho que el Sr. don Lope salía por la isla, procurando el mayor sosiego de ella y de sus prendas se puede esperar todo buen suceso. V. s. me tenga Sr. D. Pedro de Santacilia [1§] en su gracia y me mande en que le sirva, a que acudiré como debo. Dios Guarde a v. s. muchos años, de Cáller a 13 de julio de 1644. V. s. me tiene siempre muy suyo y con particular deseo de servirle. Servidor de v. s. Don Basilio de Castellvi y Ponce Transcripción literal"
+  ],
+  "literal": [
+    "1. Señor mío Allome con una carta de VSa. de 22 de abril2. la qual recivi en una tartana que vino de Mallorca y en3. ella el Patron Pedro Maltes el qual se a detenido hasta oy4. y buelbe con que asiguro el que llegue esta a sus manos de VSa.5. mi viaje fue feliz y lo pase mucho mejor que en el pasaje6. de alicante a mallorca aquí se travaxa en la remision de los7. trigos quanto se puede y oy parten de aquí tres naves cargadas8. de trigos las dos por cuenta de mercaderes y la otra por cuenta9. de Su Magd. haviendo echo para ello los esfuerços pusibles10. no haviendo ningunos medios de que poderse valer ni de arbi11. trios ni de hacienda de Su Magd. por el mes de Abril pasado12. fue otra nave y para agosta entiendo que yra otra=13. Buenas nuebas emos tenido de los suçesos de las armas de su 14. Magd. en Lerida y portugal Dios quiera continuarlos y q15. se nos mejora la fortuna como lo emos menester de espaçio16. toma D. Grisanto su viaje creo que deve de tener poca gana17. de yr pues lo difiere tanto yo Señor tengo los pensamientos18. muy humildes no puedo espirar a cosa tan grande para mi19. fuera la dicha, aca nos an dicho que el Sr. Don Lope salía20. por la ysla procurando el mayor sosiego della y de sus prendas21. se peude esperar todo buen suçesso VSª me tenga22. Sr. D. Pº de Santa Zezília [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "233:3514a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo26/233:3514a.JPG",
+      "url": "/legajos/legajo-26/images/233:3514a.JPG"
+    },
+    {
+      "filename": "234:3514b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo26/234:3514b.JPG",
+      "url": "/legajos/legajo-26/images/234:3514b.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "233:3514a.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-26/cartas/004419.json",
+  "primary_image_url": "/legajos/legajo-26/images/233:3514a.JPG"
+}

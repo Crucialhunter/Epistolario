@@ -1,0 +1,38 @@
+{
+  "legajo_id": "10",
+  "id_carta": "1218",
+  "order_in_legajo": 86,
+  "signatura": "152-385",
+  "nombre_carta": "Carta de Gabriel Roger a Jerónimo Pelegrín de Aragüés",
+  "fecha_original": "27 de octubre de 1668",
+  "lugar": "Madrid",
+  "remitente": "Gabriel Roger",
+  "destinatario": "Jerónimo Pelegrín de Aragüés",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Señor, Don Juan se halla en la misma manera. Se hacen todos los remedios humanos y divinos: Dios nos dé suerte. Aunque nuestro patrón no se pone en estas cosas, corren copias de esta carta y muchas mentiras. Mi señor está bueno, y don Juan de la misma manera. Dios le mejore como deseamos y le guarde a v. m. Madrid y octubre, 27 de 1668. Su amigo, Gabriel Roger Señor Jeronimo Pelegrin de Aragues Transcripción literal"
+  ],
+  "literal": [
+    "1. Señor Don Juan se halla en la misma 2. manera hasense todos los remedios humanos, y 3. divinos Dios nos de suerte; aunque nuestro patron 4. no se pone en estas cosas corren copias desta carta 5. y muchas mentiras; 6. Mi Señor esta bueno, y don Juan de la misma ma 7. nera. Dios le mejore como deseamos y le 8. gde a V.M. Md y octub. 27 de 1668. 9. Su amigo, Gavriel Roger 10. [^Sr. Gmo Pelegrin de Aragues^] [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "152-385.jpg",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo10/152-385.jpg",
+      "url": "/legajos/legajo-10/images/152-385.jpg"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "152-385.jpg",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING",
+      "message": "Se detectaron caracteres sospechosos de encoding (4)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-10/cartas/001218.json",
+  "primary_image_url": "/legajos/legajo-10/images/152-385.jpg"
+}

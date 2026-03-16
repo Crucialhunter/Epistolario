@@ -1,0 +1,43 @@
+{
+  "legajo_id": "12",
+  "id_carta": "1528",
+  "order_in_legajo": 32,
+  "signatura": "044_6121a.JPG",
+  "nombre_carta": "Carta de Bartomeu Domènech a Pedro Santacilia y Pax",
+  "fecha_original": "10 de junio de 1639",
+  "lugar": "Castellón",
+  "remitente": "Bartomeu Domènech",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Molt he sentida la mort del comte de Formiguera, Déu el tinga al Cel. Del que v. m. escriu que li faci a saber el que és estat el de don Alonso com su patró no és cosa ninguna i ahir estigué pres al {ESP. cuerpo} de guardia i al Sr. justícia {ESP. dije} al tinent que don Alonso no tenia culpa i així ho acomodàrem i el traguérem. Esta nit ha vingut la notícia al tinent que havien anat tres soldats al terme de la Roxa [?] i a una masia havien robat cinc camises i no sé quin {ESP. tosino} i unes peces de formatge. Els soldats son Sevilla i el virrei Mi Sr. [1§] i Anton el negre. El virrei i Anton estan presos i el Sevilla no s'és trobat. Ha fetes totes les diligències possibles. L'home de la Rocha és estat un simple venir davant tothom que ells tot el dia han estat al {ESP. cuerpo} de guardia i els són passejats i en sa barca l'home era ací se son retirats que l'Anton han espiat fora del lloc i l'han corregut molt perquè era {ESP. cerca} de les deu hores de la nit. En fi, està pres, en el virrei convindria que l'Anton anàs aquí [?] perquè no farà altra cosa també mateix està presa la muller de Sevilla perquè diuen que ella sabia alguna cosa i ja s'era retirada de sa passa. Quan v. m. serà ací ja informarà millor que Nostre Sr. guardi, de Castelló juny 10 de 1639. Criat de v. m. . Bartomeu Domenech prevere El tinent no escriu perquè no hi ha paper. Transcripción literal"
+  ],
+  "literal": [
+    "1. Molt he sentida la mort2. del comta de Formigerra3. deu lo tinga al Sel4. de lo que vm scriu que li5. fasa a sabar lo que es estat6. lo de don Alonso con su pa-7. tro no es cossa niguna8. i air estige pras en al que9. rpo de guardia y al Sr. Ius-10. tisia dige en al Sr tinent11. que don Alonso no tania12. culpa y axi ho acomoda13. ram y lo tragarem14. esta nit ha vingut la15. notisia en al sr. tinent16. que avian anat res sol17. dats en al terme de la18. Roxa?? y a una massia a19. vian robat sic[n]h camissas20. y no se quin tosino y unas21. pesas de formaje los sol22. dats son Sivilla y lo virey23. Mi Sor. [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "044_6121a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo12/044_6121a.JPG",
+      "url": "/legajos/legajo-12/images/044_6121a.JPG"
+    },
+    {
+      "filename": "045_6121b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo12/045_6121b.JPG",
+      "url": "/legajos/legajo-12/images/045_6121b.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "044_6121a.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-12/cartas/001528.json",
+  "primary_image_url": "/legajos/legajo-12/images/044_6121a.JPG"
+}

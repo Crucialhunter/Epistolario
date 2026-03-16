@@ -1,0 +1,38 @@
+{
+  "legajo_id": "16",
+  "id_carta": "2578",
+  "order_in_legajo": 64,
+  "signatura": "108:2078.JPG",
+  "nombre_carta": "Carta de Esperança Perelló a Pedro Santacilia y Pax",
+  "fecha_original": "29 de abril de 1667",
+  "lugar": "Palma",
+  "remitente": "Esperança Perelló",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Ihs. Mi senyor il·lustríssim, Sa senyoria se servirà de {ESP. despedir} tan prompte al port el portador de la present, qui és un cosí germà meu, Bartomeu Huguet, i que es fa fratura [?] moltíssima a casa seva per raó que es té una filla a la qual l'enteniment li és trabucat. No dic més. Repant [?] sempre besant les mans de sa senyoria. Fet avui, als 29 abril de 1667. Senyora Esperança Perello i son fill, Miquel Joan, que ses mans besen. A l'il·lustríssimo senyor don Pedro Santacilia i Pax, guardi Déu Nostre Senyor. Saluts. En Ciutat [1§] Transcripción literal"
+  ],
+  "literal": [
+    "1. Jhs 2. Mi Sr illustrissim se senoria se ser3. vira de despedir ta porpta lo port al 4. portador de la pnt qui es u cosinjer-5. ma meu Bartomeu uguet y qs fa 6. fratura moltissima acassa sua p Rao7. q te una filla a laql lo entenimet 8. li es trebucat. no dich mes. repat 9. sempre besat les de se senoria. fet 10. vuy als 29 Abril de 1667. 11. Senora Sperasa pereyo y sifill 12. Mi Jua q s[mb13. [Margen izquierdo, y al reves][^ Al illustrissimo sr do Pedro Sacta cilia y pax gde D N S Saluts. En Ciutat] [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "108:2078.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo16/108:2078.JPG",
+      "url": "/legajos/legajo-16/images/108:2078.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "108:2078.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (2)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-16/cartas/002578.json",
+  "primary_image_url": "/legajos/legajo-16/images/108:2078.JPG"
+}

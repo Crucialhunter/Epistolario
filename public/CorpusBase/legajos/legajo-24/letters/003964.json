@@ -1,0 +1,43 @@
+{
+  "legajo_id": "24",
+  "id_carta": "3964",
+  "order_in_legajo": 15,
+  "signatura": "027:4017a.JPG",
+  "nombre_carta": "Carta de Antonio Nicolás a Pedro Santacilia y Pax",
+  "fecha_original": "12 de mayo de 1632",
+  "lugar": "Madrid",
+  "remitente": "Antonio Nicolás",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Si bien es verdad que por ningún camino debo cansar a v. m. pero como conozco su generosidad y sé lo mucho que desea ocasiones de hacer bien a sus servidores, me ha servido de motivo para atreverme a suplicar a v. m. este enfado. El Dr. Mayans ha ocho días que salió de la cárcel tan acosado de gastos y trabajos que le han obligado para repararse de parte de ellos a pretender una de las comisiones que el presidente de Castilla dentro de breves días ha de proveer las unas de las visitas de las casas de la moneda, y las otras de las sacas de los puertos. Sé lo mucho que puede con el dicho presidente el Sr. duque de Cardona y como el conseguir v. m. una carta suya para el buen suceso de esta pretensión está en su mano de v. m. He querido suplicarle esta merced obligado así de la gran amistad que profeso al duque de Aragón [1§] como en esta ocasión que de lo [?] ofrece y en particular [?] miento que tengo de su [?] a quien aseguro, que comunicado el pretendiente juzgará v. m. por bien empleada la que v. m. le puede hacer en este negocio que yo le suplico con todos encarecimientos posibles como también lo escribo al Dr. Gual de mi parte lo supliqué a v. m. y si no hubiera ocasión del Sr. duque de Cardona y puede v. m. por vía de otro señor igualmente la estimaré sobre mis hoyos a quien suplico se sirva mandarme muchas cosas de su servicio y gusto. Guarde Dios a v. m. Madrid y mayo 12 1632. El Dr. Antonio Nicolas Por Madrid 12 mayo rta. 1632 Antonio Nicolas Transcripción literal"
+  ],
+  "literal": [
+    "1. Si bien es verdad que por ningun camino2. devo cansar á V.m. pero como conosco su ge- 3. nerosidad y se lo mucho que desea ocasiones4. de haser bien á sus servidores, me á servido5. de motivo para átreverme á suplicar á V.m.6. este enfado= El dor. Mayans á ocho dias que7. saliò de la Carcel tan acosado de gastos y8. trabajos que le han obligado para repararse9. de parte de ellos á pretender una de las10. commissiones quel Presidente de Castilla den-11. tro de breves dias à de proveher las unas de las12. visitas de las casas de la moneda, y las otras13. de las sacas de los puertos.= Se lo mucho que14. puede con el dicho Presidente el Sor. Duque15. de Cardona y como el conseguir V.M. una16. carta suya para el buen successo desta pre-17. tençion esta en su mano de V.M. he queri- 18. do Suplicarle esta md obligado assí de la 19. gran amistad que professo al Duque de Aragon [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "027:4017a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo24/027:4017a.JPG",
+      "url": "/legajos/legajo-24/images/027:4017a.JPG"
+    },
+    {
+      "filename": "028:4017b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo24/028:4017b.JPG",
+      "url": "/legajos/legajo-24/images/028:4017b.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "027:4017a.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-24/cartas/003964.json",
+  "primary_image_url": "/legajos/legajo-24/images/027:4017a.JPG"
+}

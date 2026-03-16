@@ -1,0 +1,48 @@
+{
+  "legajo_id": "16",
+  "id_carta": "2636",
+  "order_in_legajo": 123,
+  "signatura": "200:2136a.JPG",
+  "nombre_carta": "Carta de Andreu Corró a Pedro Santacilia y Pax",
+  "fecha_original": "8 de septiembre de 1667",
+  "lugar": "Pollença",
+  "remitente": "Andreu Corró",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Jhesus il·lustre senyor El delluns proppassat doni avís a v. s. d'una part Com Jaume segui m'havia dit comlo mateix die, trobant-se delmunt en casa de Joan Corro, sobre del delmar tingueren una difarència sobre delmar siurar, en què venint a paraules, Joan Corro entra en una Cambre i tregue un garrot, i feri al dit Jaume Segui en la boca com més llargament el tinc avisat; i d'altre part també mateix li doni avís com la muller del dit Joan Corro m'era vinguda, i m'havia dit el que passa enditas di farentia, en què el dit Jaume Segui havia donada ocasió per haver escampats vus siurons per la casa per no voler els demar, com de tot més llargament li'n tinc donat avís, i així avui me som vin guts que per {ESP. medi} de bones persones, la dita difarència ses ajustada, i que el dit Jaume Segui i el dit Joan Corro volen esser bons amics per quant, el colp que el dit Jaume Segui tenia en la boca no és estat cosa ninguna, i així suplicam a v. s. ho vulgui tenir en bé per ser persones quietes de ses cases, i Jo en partí cular li suplica enqant puch, perquè [1§] me'n som sentit molt perquè he estat en mig una pel {ESP. puesto} en què m'ha honrat, i altre per esser el dit Jaume Segui delmer, i el dit Joan Corro mon cosi, que de dit dia a esta part me troba en el llit d'unes tertianes, i així el suplica manar excusar {ESP. gastos} si es possible, i Nostre Sr. Guardi la persona de v. s. amb parfeta salut, Pollença i setembre als 8 de 1667. Andreu Corro notari son lloctinent [2§] Al molt il·lustre senyor don Pedro Santacilia 7y Pax de l'hàbit de Calatrava procurador reial en el present Regne guardi Nostre Senyor Ciutat [3§] Transcripción literal"
+  ],
+  "literal": [
+    "1. Jhs 2. Illre Sor 3. Lo delluns propassat doni avis a V. Sria. De una 4. part Com Jaue segui me avia dit comlo 5. mateix die, trobantse delmunt en casa de Joan 6. Corro, sobre del delmar tingueren una difaren-7. tia sobre delmar siurar, enque venint 8. a paraules, Joan Corro entra en una Cambre 9. y tregue un garrot, y feri alo dit Jaue Segui 10. en la boca com mes llargament lo tinch 11. avisat; y de altre part tambe mateix li doni 12. avis com la muller del dit Joan Corro me era 13. vinguda, y me avia dit loque passa enditas di14. farentia, enque lo dit Jaue Sagui avia donada 15. ocasio p haver escampats vus siurons pla casa 16. p no voler los demar, con de tot mes llargamt 17. lin tinch donat avis, y axi vuy me som vin18. guts que p medi de bones perçones, la dita difa-19. rentia ses ajustada, y que lodit Jaue Segui y 20. lodit Joan Corro volen esser bons amichs 21. per quant, lo colp que lo dit Jaue Segui tania 22. enla boca no es estat cosa ninguna, y axi su-23. plicam a V.Sria. ho vulla tenir en be per ser 24. perçones quietes de ses cases, y Jo en parti25. cular ley suplica enqant puch, perque [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "200:2136a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo16/200:2136a.JPG",
+      "url": "/legajos/legajo-16/images/200:2136a.JPG"
+    },
+    {
+      "filename": "201:2136b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo16/201:2136b.JPG",
+      "url": "/legajos/legajo-16/images/201:2136b.JPG"
+    },
+    {
+      "filename": "202:2136c.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo16/202:2136c.JPG",
+      "url": "/legajos/legajo-16/images/202:2136c.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "200:2136a.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-16/cartas/002636.json",
+  "primary_image_url": "/legajos/legajo-16/images/200:2136a.JPG"
+}

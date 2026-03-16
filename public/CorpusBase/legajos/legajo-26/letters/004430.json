@@ -1,0 +1,43 @@
+{
+  "legajo_id": "26",
+  "id_carta": "4430",
+  "order_in_legajo": 132,
+  "signatura": "246:3525a.JPG",
+  "nombre_carta": "Carta de Martí Vila a Pedro Santacilia y Pax",
+  "fecha_original": "2 de agosto de 1643",
+  "lugar": "Ciutadella",
+  "remitente": "Martí Vila",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Mi Sr. don Pedro Santacilia La de v. s. de 18 del passat rebí a 26 del mateix amb el gust i alegria com és just per saber de com és arribat en bon passatge i salut complida en sa casa, el que em servi d'{ESP. alivio} pel des {ESP. consuelo} que tinc de l'{ESP. ausència} de v. s. jo més que tots els d'esta illa com més antic afectat i servidor de v. s. i que he rebut tantes [?] [mer]ces i espero rebre no obstant s'{ESP. ausència} en particular en l'ocasió que ara [?] rex suplicar, com suplico a v. s. que em faci [?] intercedir per mi al Sr. inquisidor a que [?] mercè de l'assessoria, que té el Dr. Joan Martorell en esta illa del sant ofici el Sr. comissari ha escrit a dit Sr. inquisidor en mon favor, i li diu en la carta que deman parer i descarrega sa consciència en la provisió de dit ofici en el que v. s. l'aconsella qui coneix els [?] i habilitats dels pretensors de dit ofici que son el Dr. Olivar, i Dr. Abadia, que estic jo molt cert que v. s. farà bon informe en mon favor (no obstant que sé que ells també supliquen a v. s. que els faci la mateixa mercè) per ser v. s. tant cristià i amic de la justícia i que el Sr. inquisidor {ESP. acerta} en sos negocis. El fi que ells tenen [1§] es {ESP. gosar} de la franquesa de l'ofici, sens considerar que també es necessari tenir les parts requisites i doctrina necessària per exercir l'ofici, majorment essent el comissari de poques lletres, amb tot que bon sacerdot i desitjos de complir en ses obligacions conforme v. s. sap molt bé i així resto amb esta confiança que v. s. me farà mercè, com sempre, i en perpètua obligació de servir a v. s. el qual guardi el Sr. amb els augments que desitja. Ciutadella de Menorca 2 d'agost de 1643. El Dr. Marti Vila Transcripción literal"
+  ],
+  "literal": [
+    "1. Mi Sr. Don Pedro Sta. Cilia2. La de V.S. de 18 del passat rebi a 26 del matex3. ab lo gust y alegria com es just per seber de4. com es arribat en bon pasatge y salud cu[m]plida5. en sa casa, lo quem servi de alvio per el des-6. consuelo que tinch de la ausentia de V.S. jo7. mes que tots los desta Illa co[m] mes antich affec8. tat y servidor de V.S. y de que he rebut tantes [...]9. ces y espero reber no obsta[n+t sa ausen[cia...]10. en particular en la occasio que are [...]11. rex suplicar, co[m] suplico a V.S. quem fasse[...]12. intercedir per mi al Sor. Inquisidor a quem [...]13. merse de la Assessoria, que te lo Dor. Joan 14. Marthorell en esta Illa del St. Offici lo Sor.15. co[m]missari ha escrit a dit Sor. Inquisidor en mo[n]16. favor, y li diu en la carta que dema[n] parer17. y descarrega sa consientia en la provisio18. de dit offici en lo que V.S. li aco[n]sella qui conex19. los subientes[?] y habilitats dells (dels) pretensors20. de dit offici que so[n] lo dor. Olivar, y dor. Abadia,21. de que estich jo molt cert que V.S. fara bon22. informe en mon favor (no obsta[n]t que se23. que ells tambe suplica[n] a V.S. quels fasse la24. matexa merse) per ser V.S. ta[n]t christia25. y amich de la justitia y de que lo sor. Inquisi26. dor aserte en sos negocis. El fi que ells tenen [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "246:3525a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo26/246:3525a.JPG",
+      "url": "/legajos/legajo-26/images/246:3525a.JPG"
+    },
+    {
+      "filename": "247:3525b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo26/247:3525b.JPG",
+      "url": "/legajos/legajo-26/images/247:3525b.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "246:3525a.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-26/cartas/004430.json",
+  "primary_image_url": "/legajos/legajo-26/images/246:3525a.JPG"
+}

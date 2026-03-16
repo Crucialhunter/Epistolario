@@ -1,0 +1,47 @@
+{
+  "legajo_id": "12",
+  "id_carta": "1564",
+  "order_in_legajo": 71,
+  "signatura": "089_6157a.JPG",
+  "nombre_carta": "Carta de Juan Benavides y de la Cerda a Pedro Santacilia y Pax",
+  "fecha_original": "22 de agosto de 1641",
+  "lugar": "Tarragona",
+  "remitente": "Juan Benavides y de la Cerda",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "[1§] Transcripción literal"
+  ],
+  "literal": [
+    "1."
+  ],
+  "imagenes": [
+    {
+      "filename": "089_6157a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo12/089_6157a.JPG",
+      "url": "/legajos/legajo-12/images/089_6157a.JPG"
+    },
+    {
+      "filename": "090_6157b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo12/090_6157b.JPG",
+      "url": "/legajos/legajo-12/images/090_6157b.JPG"
+    },
+    {
+      "filename": "091_6157c.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo12/091_6157c.JPG",
+      "url": "/legajos/legajo-12/images/091_6157c.JPG"
+    },
+    {
+      "filename": "092_6157d.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo12/092_6157d.JPG",
+      "url": "/legajos/legajo-12/images/092_6157d.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "089_6157a.JPG",
+  "warnings": [],
+  "raw_source": "raw/legajos/legajo-12/cartas/001564.json",
+  "primary_image_url": "/legajos/legajo-12/images/089_6157a.JPG"
+}

@@ -1,0 +1,43 @@
+{
+  "legajo_id": "17",
+  "id_carta": "2960",
+  "order_in_legajo": 225,
+  "signatura": "392:1502a.JPG",
+  "nombre_carta": "Carta de Jerónimo Pelegrín de Aragüés a Leonor Santacilia i Despuig",
+  "fecha_original": "8 de septiembre de 1660",
+  "lugar": "Madrid",
+  "remitente": "Jerónimo Pelegrín de Aragüés",
+  "destinatario": "Leonor Santacilia i Despuig",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Mi senyora amb la carta que el Son fill envia a v. m. sabrà noves de sasalud que perno repació altravegada nou dich. estam aguardant querefresh. el temps un poc i tornara a {ESP. palacio} jo mepartire que no m'ha paregut deixar el que noestiga amb perfecta salut Amb el plec del Rafel Pons va la sentència que ses publicada a 3 yanConfirmat la de Mallorca però anreservat un dret a don Pedro Verí, el Dr. Bassa ja dirà el que és assegur a v. m. que seafet, tot el possible i que sia tingut {ESP. cuidado} . A mi escric i envio un informe sobre el Corral real i escrivania de Binisalem jo confio que v. m. també, m'ajudara com a son Criat, en tot loquepuga. Nostre Senyor guardi a v. m. molts anys com desig i tinc Menester en companyia de mi Madrid 8 de setembre 1660. Criat de v. m. Jeroni Pelegri Mi senyora. [1§] a mi senyora dona Leonor Santacilia i Despuig. que Déu guardi molts anys. Mallorca [2§] Transcripción literal"
+  ],
+  "literal": [
+    "1. Mi Señora ab la carta que el Sr. Son fill envia a V.M. 2. sabra novas de sasalud que perno repetio altravegada nou 3. dich. estam aguardant querefresh. el temps un poch y tor=4. nara aPalacio yo mepartire que nome haparegut dexar=5. lo que noestiga ab perfeta salud6. Ab lo plech del Sr. Rafel Pons va la sentencia que ses publicada 7. a .3. yanConfirmat lade Mallorca pero anreservat un=8. dret a Don Pedro Verí, el dor. Bassa ja dira lo quees asegur 9. a V.M. queseafet, tot lo posible y que sia tingut cuydado.10. Ami Sr. escrich y embio un informe sobre el Corral Real y 11. escribania de Binisalem jo confio que V.M. tambe,12. me ajudara com ason Criat, entot loquepuga.13. Nostro Señor Guarde aVM mols añys com desig y tinch 14. Menester en comppañia de mi Sr. Madrid .8. de 7bre 1660.15. Criat de VM16. Geronym Pelegri17. Mi Señora. [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "392:1502a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo17/392:1502a.JPG",
+      "url": "/legajos/legajo-17/images/392:1502a.JPG"
+    },
+    {
+      "filename": "393:1502b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo17/393:1502b.JPG",
+      "url": "/legajos/legajo-17/images/393:1502b.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "392:1502a.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (4)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-17/cartas/002960.json",
+  "primary_image_url": "/legajos/legajo-17/images/392:1502a.JPG"
+}

@@ -1,0 +1,38 @@
+{
+  "legajo_id": "33",
+  "id_carta": "4897",
+  "order_in_legajo": 93,
+  "signatura": "144:6813.JPG",
+  "nombre_carta": "Carta de Gregori Perelló a Pedro Santacilia y Pax",
+  "fecha_original": "21 de septiembre de 1630",
+  "lugar": "Barberá",
+  "remitente": "Gregori Perelló",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Per tenir tan bona ocasió no he pogut deixar de fer a sabr da com de la mia salut com és molt bona que a deu [?] com jo desitja jo suplic a v. m. que nos descuida de mi que jo mai me decuida de v. m. jo p0enso que per tots sans serem aquí v. m. fasem mercè de recordar sa de mi si mana ninguna cosa d'este ciutat de Vich noi a sinó manar ma que jo el servi re de boníssima gana. de vic a 21 de setembre de 1630 Gregori perello molt gran criat i servidor de v. m. Al Sr. don Pedro Santa sili i Pax [1§] Transcripción literal"
+  ],
+  "literal": [
+    "1. Per tenir tant bona aucasio noe pugut dexar de fer a2. sabr da com de la mia salut com es molt bone q a deu3. [?] com jo desiga jo soplic a Vm que nos4. descuida de mi que jo mai me decuida de Vm yo p0enso5. que per tots sans sarem aqui V.m. fassem merce6. de recordar sa de mi si mana nig[u]na cosa de este7. siutat de vich noi a sino manar ma que jol servi8. re de bonisima g[a]na. de vic a 21 de setembre de 16309. Gregori perello molt g[r]an criat10. i servidor de vm11. Al sr don pedro12. santa sili i pax [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "144:6813.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo33/144:6813.JPG",
+      "url": "/legajos/legajo-33/images/144:6813.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "144:6813.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-33/cartas/004897.json",
+  "primary_image_url": "/legajos/legajo-33/images/144:6813.JPG"
+}

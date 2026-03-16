@@ -1,0 +1,37 @@
+{
+  "legajo_id": "32",
+  "id_carta": "7236",
+  "order_in_legajo": 220,
+  "signatura": "335:1994a.JPG",
+  "nombre_carta": "Carta de Francisco Truyols a Pedro Santacilia y Pax",
+  "fecha_original": "3 de diciembre de 1666",
+  "lugar": "Cádiz",
+  "remitente": "Francisco Truyols",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Transcripción literal"
+  ],
+  "literal": [
+    "1. 1."
+  ],
+  "imagenes": [
+    {
+      "filename": "335:1994a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo32/335:1994a.JPG",
+      "url": "/legajos/legajo-32/images/335:1994a.JPG"
+    },
+    {
+      "filename": "336:1994b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo32/336:1994b.JPG",
+      "url": "/legajos/legajo-32/images/336:1994b.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "335:1994a.JPG",
+  "warnings": [],
+  "raw_source": "raw/legajos/legajo-32/cartas/007236.json",
+  "primary_image_url": "/legajos/legajo-32/images/335:1994a.JPG"
+}

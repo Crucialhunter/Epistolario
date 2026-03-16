@@ -1,0 +1,38 @@
+{
+  "legajo_id": "16",
+  "id_carta": "2696",
+  "order_in_legajo": 181,
+  "signatura": "309:2196.JPG",
+  "nombre_carta": "Carta de Basilio de Castellví y Ponce a Pedro Santacilia y Pax",
+  "fecha_original": "2 de febrero de 1668",
+  "lugar": "Valencia",
+  "remitente": "Basilio de Castellví y Ponce",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Señor mío, Ya v. s. sabe la mucha amistad que tenemos en esta casa con mi señora doña Constanza de Ávila, por cuya razón y por la de saber la descomodidad con que vive me hallo obligado a suplicar a v. s. se sirva con su autoridad disponer se le pague alguna cantidad por cuenta de lo mucho que se le está debiendo en ese [?] de la renta que goza en ella. Fío de la merced que v. s. me hace se ha de lograr esta intercesión para que esta señora tenga algún alivio para subvenir los muchos empeños en que se halla, de que me consta bastantemente. Dios guarde a v. s. muchos años. Valencia y 2 de febrero de 1668 Besa a v.s. su mano su mayor servidor, Don Basilio de Castellvi y Ponce Señor don Pedro Santacilia y Pax [1§] Transcripción literal"
+  ],
+  "literal": [
+    "1. Señor mio Ya VS save lamucha amistad que tenemos 2. enesta casa con mi señora doña Constança de Abila por 3. Cuya raçon ypor la desaver ladescomodidad conquebiue4. me hallo obligado asuplicar a VS sesirva consu au5. toridad disponer selepague alguna cantd por cuenta 6. delo mucho quesele esta debiendo enessa reuto[?] dela renta 7. que Goça en ella fio dela merçed que VS mehay se 8. adelograra esta yntercession para que esta señora tenga 9. algun alibio para subbenía los muchos empeños 10. enque se halla deque meconsta bastante mente dios 11. gde a VS ms a< ño>s Va y 2 de febrero de 1668 12. Ba a vs s mo s[u] m sdor 13. don Basilio de Castelvi 14. y Ponçel 15. [Margen izquierdo][^ Sr d Po Santa silia y Pax] [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "309:2196.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo16/309:2196.JPG",
+      "url": "/legajos/legajo-16/images/309:2196.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "309:2196.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-16/cartas/002696.json",
+  "primary_image_url": "/legajos/legajo-16/images/309:2196.JPG"
+}

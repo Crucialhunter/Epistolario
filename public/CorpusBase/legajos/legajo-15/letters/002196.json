@@ -1,0 +1,43 @@
+{
+  "legajo_id": "15",
+  "id_carta": "2196",
+  "order_in_legajo": 95,
+  "signatura": "148:6421a.JPG",
+  "nombre_carta": "Carta de Cristóbal de Cardona a Pedro Santacilia y Pax",
+  "fecha_original": "19 de julio de 1645",
+  "lugar": "Valencia",
+  "remitente": "Cristóbal de Cardona",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Amigo y señor mío: Bien creeréis de nuestra amistad que no la turbará ningún accidente ni tampoco la poca correspondéncia de cartas, pues aunque ellan han para do, por [no] haberlo yo estado jamás, pues los motivos de estas guerras no nos perdonan continuo trabajo, con haber huido de Vinarós, estar ocupado y el reb [?] de nuestra vivienda y gobierno han ocasionado no escribirnos muchas veces. Y si pensara que para serviros necesitabáis de vencer los míos, los hiciera muy contínuos, por lo que deseo y debo subiros. Y en fe que en nuestro ánimo hallaré la misma acogida, os suplico que al portador de esta, que es el señor don Vicente Ros, deudo y señor mío, que va a esa isla a negocios propios a causa de una hacienda que tiene en ella, en que se le ofrezca, como a forastero, le hagan el agasajo y honras que hacen a los que se acogen a vuestro sagrado, que lo estimaré como es baza. [?] Señor don Pedro de Santacilia Mi hermano murió, suceso que me ha dejado lastimado, y así se halla don Joan de Benavides que a enviudado estos días en esta ciudad, a donde trajo su mujer. Las novedades de guerra son muy pocas, después de la pérdida de Roses y haber rompido nuestro ejército más el enemigo sobre Camarasa, de lo cual ha quedado tan falto [?] de gente y el del enemigo por los que le mataron, que no se entiende sino en [emprobarles], lo que nos lleva a todos marcados por lo mucho y con prisa que se pide. A don Diego Caballero, que no ha salido de Valencia después que vino de Roses, llegó ha tres días orden de su majestad para que le prendiesen y con guardas de vista le tuviesen hasta otras, que le llegó ayer, para que ele pasen a Madrid y pongan en sus cárceles. Con que tiene el trato harto que padecer. Hasta que le escuche su descargo, Dios le dé paciencia y nos libre de estos sucesos y os guarde muchos años, a quien beso las manos. De Valencia y julio, a 19 de 1645. Don Cristobal de Cardona. Transcripción literal"
+  ],
+  "literal": [
+    "1. Amígo y Sr mío bien crehereís de nra a2. místad, q no la turbara níngun acçidente, 3. ní tampoco la poca corespondeçia de cartas 4. pues aunq>ue> ellas an parado, pr eso averlo 5. yo estado jamas, pues los motívos destas gue6. rras no nos perdonan contínuo trabajo, con 7. aver huído de Vínaros, estar ocups Y el reb[fragmentado] 8. de Nra Vívíenda, y gobíerno, an ocasionado] 9. no escribíros muchas veçes, Y sí pensava, q 10. pa çerbíros, nesesítavaís de vencerlos míos, 11. los hisiera muí contínuos, pr lo q deseo, 12. y devo çubíros= Y enfe q en no anímo alla13. re la mesma acogída, os supp[li]co, q al por14. tador desta, q es el Sr don Vícente Ros, deudo 15. y Sr mío, q ba aesa Ysla a negr propíos 16. a causa de una acíenda, q tíene en ella, en 17. lo q sele ofresca como a forastero, leagán 18. el agasajo, Y onrras, q açen, a los q seaco19. gen a Vro sagrado, q lo estímare como es vaça20. [Margen izquierdo] [^ Sr d Po de Santacílía] [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "148:6421a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo15/148:6421a.JPG",
+      "url": "/legajos/legajo-15/images/148:6421a.JPG"
+    },
+    {
+      "filename": "149:6421b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo15/149:6421b.JPG",
+      "url": "/legajos/legajo-15/images/149:6421b.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "148:6421a.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-15/cartas/002196.json",
+  "primary_image_url": "/legajos/legajo-15/images/148:6421a.JPG"
+}

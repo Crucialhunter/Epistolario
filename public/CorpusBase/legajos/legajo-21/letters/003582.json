@@ -1,0 +1,38 @@
+{
+  "legajo_id": "21",
+  "id_carta": "3582",
+  "order_in_legajo": 283,
+  "signatura": "475:5870a.JPG",
+  "nombre_carta": "Carta de Rafael Vives García a Pedro Santacilia y Pax",
+  "fecha_original": "17 de noviembre de 1649",
+  "lugar": "Madrid",
+  "remitente": "Rafael Vives García",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Sr. don Pedro Santacilia El Sr. Bartolome Garcias me dijo que tenía a cargo en negocio de v. m. que no podía acabar por falta de dinero y como no pude servir a v. m. en otra se le ofrecí luego sólo que le adelante y [?] bien como espera y así me vino a pedir 300 reales que le di en cuenta doble que será v. m. servido mandar pagar a los Sres. Juan y Gabriel Ruiz, de cuyo dinero los di y aunque sin orden entiendo que lo tendrá por bien. Van letras de la cantidad con los intereses de la plaza que son 45 reales, v. m. no quiere mandarme en que lo sirva sabiendo, que le soy muy capellán. No tenemos cosa nueva de que avisar, sino la continuación de las guerras civiles en Francia y que el [?] de España con 250 hombres entró a principios de marzo en favor del parlamento habiendo restituido por el rey [?] y por otra plaza dado en nenes. Si dura la brega será de provecho para nosotros, en Cataluña no hay gabacho, sino en las plazas y a la de Tortosa entran la provisión cada semana. Barcelona dio para proveer las 1000 libras con que se hizo y así se espera que habrá alguna novedad. Dios nos dé paz con su gracia y a v. m. me guarde. Madrid y noviembre a 17 de 1649. El Dr. Rafael Vives y Garcia, capellán de v. m. Transcripción literal"
+  ],
+  "literal": [
+    "1. [Margen izquierdo][^ sr d Po Santacilia ]2. Elsr Bartholome Gaçias me dijo q tenia acargo 3. en nego de vme. q nopodia acabar porfalta de dino y 4. Como no pude servir avmd. En otra se le offreçi luego soloq 5. leadelante y fenesia[?] bien Como espera yassi me 6. vino apedir 300 Rs que le di enqta doble qsera Vmd 7. serdido mandar pagar alos ssres Ju y Gabriel Ruis de 8. Cuya dino los diyaunq sin orden entiendo q lo tendra 9. por bien van letras dela Cantidad con los Interesses de 10. laplassa q son 45 Res Vmd. noquiere mandarme 11. enq lo Sirva sabiendo, q lesoy muy Capellan Note12. nemos cosa nueba deq avisar sino la Continuaçio 13. de las Guerras Civiles en fransia; yq eldafuensal[?] 14. daña Con 250 hombres entro apos de Março en 15. favor del Parlamto haviendo restituydo p el Rey 16. Arras. Yque yotra plassa dado en nenes; si dura la 17. brega sera deprovecho para nosotros, en Catalunya 18. nohay Gavacho sino enlas plassas yalade Tortosa 19. entran la provision Cada Semana Barcelona dio pa 20. proveer las 1000 libras conq se hiso y assi se 21. espera q havra alguna Novedad Dios nos de paz 22. Consugra ya vmd. megde Md y Novie a 17 de 23. 1649 24. Eldr Rafael Vives Y Garcia 25. Capellan de Vmd. [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "475:5870a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo21/475:5870a.JPG",
+      "url": "/legajos/legajo-21/images/475:5870a.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "475:5870a.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-21/cartas/003582.json",
+  "primary_image_url": "/legajos/legajo-21/images/475:5870a.JPG"
+}

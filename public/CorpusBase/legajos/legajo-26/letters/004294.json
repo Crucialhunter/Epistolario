@@ -1,0 +1,38 @@
+{
+  "legajo_id": "26",
+  "id_carta": "4294",
+  "order_in_legajo": 31,
+  "signatura": "039:3388.JPG",
+  "nombre_carta": "Carta de Maria des Güell a Pedro Santacilia y Pax",
+  "fecha_original": "6 de agosto de 1630",
+  "lugar": "Peralada",
+  "remitente": "Maria des Güell",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Per pensar gusta v. m. de guanyar obres de misericòrdia i és d'emparar els que estan en treballs m'ha donat {ESP. ánimo} de suplicar a v. m. em faci mercè en el que aniré dient aquí. Va en Pere Joan de Moragues, que per un cas li ha succeït que en raó del món no se li pot donar tanta culpa i així és més fàcil l'{ESP. alcançar} perdó. M'han dit que la duquessa de Cardona està molt colèrica en contra de dit Pere Joan. He pensat que ningú com v. m. no podia prendre aquest negoci amb més fervor, perquè aquest home pugui estar fora de perill i amb quietud en sa casa, encara que sia amb alguna composisió. D'ací rebre mercè, i faci v. m. tota la bona obra possible, que Nostre Senyor l'hi posarà en molt gran compte i ho estimaré com és raó. A qui Déu a v. m. guardi. Perelada, als 6 d'agost 1630. Maria des Guell Transcripción literal"
+  ],
+  "literal": [
+    "1. Para pensar gusta V.m. de2. gua[n]yar obras de misericordia3. i es denparar los questan4. en treballs me a donat animo5. de soplicar a V.m. em fasa mer6. se em lo que anire dient7. aqui va en pejuan de morague[s]8. que per un cas lia socseit quebr> 9. en rao del mon no se li pot do10. nar tanta qulpa i axi es mes fasil11. lo alcansar perdo an me dit que12. la ducesa de cardona esta13. molt colerica en quantra de dit14. perjuan e pensat que ningu com15. V.m. no podia pendra aquest na16. gosi ab mes farvor pera que17. aquest oma poga estar fora18. de perill i ab quietat en sa casa19. encara que sia ab alguna conposisio20. de asi rebre merse i fasa V.m.21. tota la bona obra posibla que nostro22. Sor. lai posara en molt gran comta23. i ou estimare com es rao a qui Deu24. a V.m. guarde Perelada als 6 de 25. agost 163026. Maria des Guell [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "039:3388.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo26/039:3388.JPG",
+      "url": "/legajos/legajo-26/images/039:3388.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "039:3388.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-26/cartas/004294.json",
+  "primary_image_url": "/legajos/legajo-26/images/039:3388.JPG"
+}

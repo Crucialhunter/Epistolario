@@ -1,0 +1,43 @@
+{
+  "legajo_id": "21",
+  "id_carta": "3481",
+  "order_in_legajo": 169,
+  "signatura": "311:5769a.JPG",
+  "nombre_carta": "Carta de Pedro Fajardo de Requeséns-Zúñiga y Pimentel (V marqués de los Vélez) a Pedro Santacilia y Pax",
+  "fecha_original": "19 de septiembre de 1639",
+  "lugar": "Tolosa",
+  "remitente": "Pedro Fajardo de Requeséns-Zúñiga y Pimentel (V marqués de los Vélez)",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "He recibido la carta de v. m. de 13 de este y siento las descomodidades que la caballería de su cargo de v. m. ha pasado en este viaje y que no tuviese efecto el socorro que se les ofreció para Vitoria y si ahora supiera de donde enviársele a v. m. se hiciera luego, más estase esperando y en llegando (quiera puesto) será lo primero a que se acudirá y en el ínterim es tan dado que se alojen en los mejores lugares de esta provincia porque deseo se [?] esta compañías y es también asistidas. Guarde Dios a v. m. muchos años, Tolosa Septiembre 19 de 1639. Luego se le socorrerá a v. m. y solo io soy el que mucho [?] bien conocerá [?] he lliría y me [?] mataremos dalo Tarlascora [?]. El marques de los Velez Sr. D. Pedro Santacilia [1§] Tolosa 19 Septiembre 1639 El marques de los Velez rdo. Transcripción literal"
+  ],
+  "literal": [
+    "1. Herrecivido lacarta de Vm de13 deste y siento las 2. descomodidades que la cavalleria de Sucargo de Vm a 3. pasado eneste biaje y quenotubiese efecto el Socorro q 4. seles offrecio para Vittoría ysi aora Subiera de donde 5. embiarsele a Vm sehiciera luego, mas estase esperando 6. y enllegando (quiera puesto) sera loprimero aquese acudira y 7. enelynterín entandado[?] quese alaxen enlos mejores 8. Lugares desta Prova porque deseo secon su benesta 9. compañias y estanbien asistidas gue Dios a Vm 10. Muchos años Tolosa sette 19 de 1639 11. luegosele socorrera a Vm ysoloio soi el que 12. mucho[?] bien conoscera[?] he lliria y meeia[?] 13. yniesa mataremos dalo Tarlascora[?] 14. ni lurnari 15. El Marqs delos veles16. [Margen izquierdo][^ sr D Po Santaçilia] [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "311:5769a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo21/311:5769a.JPG",
+      "url": "/legajos/legajo-21/images/311:5769a.JPG"
+    },
+    {
+      "filename": "312:5769b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo21/312:5769b.JPG",
+      "url": "/legajos/legajo-21/images/312:5769b.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "311:5769a.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (5)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-21/cartas/003481.json",
+  "primary_image_url": "/legajos/legajo-21/images/311:5769a.JPG"
+}

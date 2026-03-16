@@ -1,0 +1,38 @@
+{
+  "legajo_id": "26",
+  "id_carta": "4299",
+  "order_in_legajo": 37,
+  "signatura": "044:3393.JPG",
+  "nombre_carta": "Carta de Diego de Rocabertí a Pedro Santacilia y Pax",
+  "fecha_original": "25 de septiembre de 1630",
+  "lugar": "Barcelona",
+  "remitente": "Diego de Rocabertí",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "El correu que despatxa el duc de Feria a v. s. amb tanta presa no ens dona lloc de poder escriure per avisar-lo del que passava, com a v. s. han enviat també cartilla del rei al comte de Santa Coloma, i les tenen Montagut i Vallfogona a don Pedro Santacilia li pareixia ahir despatxar a v. s. i a don Luis Dezcallar no li parague tant el cert, és que pensen determinarà i fer el que és deurà o resoldrà v. s. ací molt millor i així tots informassin en què devia v. s. venir amb novetat i entenem que haurà pres aqueixa resolució, puix ja així com així n'estava determinat. Nostre Sr. torn la salut complida al vescomte i a don Ramon i guardi a v. s. com pot i jo desitjo, en Barcelona i setembre a 25 de 1630. Don Diego de Rocaberti Transcripción literal"
+  ],
+  "literal": [
+    "1. Lo correu que despatxa lo duc de feria a V. ab tan2. ta presa nons dona lloch de poder escriurer per avisarlo del3. que passava, com a VSa an enviat tambe cartilla del Rey al4. Comte de Sta. Coloma, y las tenen Montagut y Vallfogona5. a Don Pedro Santacilia li aparexia ayr despatxar a VSa. y a6. Don Luis Descallar no lay aparague tant lo cert, es que pen7. sen determinara y fer lo ques deura o resoldra VSa. asi molt8. millor y axi tots emformassen en que devia VSa. venir ab no9. vedad y entenem que aura pres aquexa resolucion pux ja axi10. com axi ne estava determinat Nostre Sr. torn la salut cum11. plide al Vescomte y a don Ramon y guarde a VSa. com12. pot y jo desitje en Barcelona y setembre a 25 de 163013. Don Diego de 14. Rocabertí [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "044:3393.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo26/044:3393.JPG",
+      "url": "/legajos/legajo-26/images/044:3393.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "044:3393.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-26/cartas/004299.json",
+  "primary_image_url": "/legajos/legajo-26/images/044:3393.JPG"
+}

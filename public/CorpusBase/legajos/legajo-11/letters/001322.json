@@ -1,0 +1,39 @@
+{
+  "legajo_id": "11",
+  "id_carta": "1322",
+  "order_in_legajo": 91,
+  "signatura": "",
+  "nombre_carta": "Carta de Agustí Calafat a Pedro Santacilia y Pax",
+  "fecha_original": "31 de julio de 1643",
+  "lugar": "Mallorca",
+  "remitente": "Agustí Calafat",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Transcripción literal"
+  ],
+  "literal": [],
+  "imagenes": [],
+  "has_images": false,
+  "primary_image": null,
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    },
+    {
+      "code": "MISSING_SIGNATURA",
+      "message": "Signatura vacía",
+      "context": {}
+    },
+    {
+      "code": "MISSING_LITERAL",
+      "message": "Transcripción literal vacía",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-11/cartas/001322.json"
+}

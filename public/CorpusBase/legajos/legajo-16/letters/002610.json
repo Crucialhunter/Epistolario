@@ -1,0 +1,38 @@
+{
+  "legajo_id": "16",
+  "id_carta": "2610",
+  "order_in_legajo": 97,
+  "signatura": "159:2110.JPG",
+  "nombre_carta": "Carta de Nicolás de Santacilia y Togores a Pedro Santacilia y Pax",
+  "fecha_original": "20 de julio de 1667",
+  "lugar": "Madrid",
+  "remitente": "Nicolás de Santacilia y Togores",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Por todas partes tengo escrito a v. m. pero ahora no hay cosa de nuevo de que dar cuenta; mi pretensión Core hasta hora no hay cosa fija pero no des Confio, porque los, he informado bien, y me pare se me harán algunos la gracia que pudieran. Guarde Dios a v. m. muchos años como deseo y es menester Madrid a 20 de Julio 1667 Su más humilde hijo de v. m. que su mano besa don Nicolas de Santacilia y Togores mi señor y mi padre [1§] Transcripción literal"
+  ],
+  "literal": [
+    "1. Por todas partes tengo escrito a VM. pero hagora 2. no ay Cosa de nuevo de que dar quenta; mi preten3. sion Core asta ora no ay cosa fija pero no des4. Confio, porque los, e informado bien, y me p[a]re5. se me haran algunos la grasia que pudieran 6. Guarde Dios a VM muchos años Como deseo 7. y e menester Madrid a 20 de Julio 1667 8. Su mas humilde hijo 9. de VM q S[u] M[] B[] 10. Don Nicolas [de] Sta Cilia y Togores11. [Margen izquierdo][^ mi Sr y mi Padre] [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "159:2110.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo16/159:2110.JPG",
+      "url": "/legajos/legajo-16/images/159:2110.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "159:2110.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-16/cartas/002610.json",
+  "primary_image_url": "/legajos/legajo-16/images/159:2110.JPG"
+}

@@ -1,0 +1,43 @@
+{
+  "legajo_id": "6",
+  "id_carta": "556",
+  "order_in_legajo": 56,
+  "signatura": "046-27aa",
+  "nombre_carta": "Carta de Padre de Cecília Zaforteza a Cecilia Zaforteza y Sureda de Sant Martí",
+  "fecha_original": "13 de julio de 1746",
+  "lugar": "Palma",
+  "remitente": "Padre de Cecília Zaforteza",
+  "destinatario": "Cecilia Zaforteza y Sureda de Sant Martí",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Cecília, Hem estimat molt la tua carta i no deixarem d’encomanar-te a Déu. Jo esper tu també t’hi comanaràs i guardaràs. Ahir hi hagué novetat haver-se desposat ahir D. March Net amb dona Escofet, i anava vestit de cassalla i ja havia alguns dies, i el marquès del Reguer no és anat a veure sa germana. Esper tots estareu bons i que vos divertigueu i de part de ta mare i mia molts {ESP. recaudos} a tots i en particular a D. Francesc i que té {ESP. arregany} si no fas la raó. Déu vos guardi molts anys. Ciutat als 13 juliol 1746. Vaig de pressa.Ton pare. [En la izquierda, dearriba a abajo]Dona Leonor diu que dóna Maria Francisca està bona. [En la otra página del documento, el destinatario][1§] A dona Cecilia Zaforteza i Sureda de Santmarti, que Déu guardi molts anys. St. Martí Transcripción literal"
+  ],
+  "literal": [
+    "1. Cicilia em estimat molt 2. le tua Carte y no dexarem de an- 3. comenarte a Deu; Jo esper tu tambe 4. ti comenerás y Guarderás air aya-5. gue novedad (^[?]) averse desposat 6. air D. March (^[al]) Net en Dne. 7. Escofet; y anave Vastit de cassa- 8. lla y ja avia alguns dias; y 9. el Marques del Reguer no es 10. anat a Veurer se Germana 11. esper tots estireu bons y que vos 12. divertigau y de part de te Mara 13. y mia Molts redos a tots y en 14. Particular a D. Fch y que te 15. arregañy si no fas le reó Deu 16. vos Gde ms as Ciutat als 17. 13 Juliol 1746 18. vaig depresa Ton Para 19. [A la izquierda, de arriba a abajo ]20. Dne. Leonor diu que Dne. Maria Fcha esta bone [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "046-27aa.jpg",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo06/046-27aa.jpg",
+      "url": "/legajos/legajo-06/images/046-27aa.jpg"
+    },
+    {
+      "filename": "046-27ab.jpg",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo06/046-27ab.jpg",
+      "url": "/legajos/legajo-06/images/046-27ab.jpg"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "046-27aa.jpg",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (2)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-06/cartas/000556.json",
+  "primary_image_url": "/legajos/legajo-06/images/046-27aa.jpg"
+}

@@ -1,0 +1,43 @@
+{
+  "legajo_id": "6",
+  "id_carta": "576",
+  "order_in_legajo": 79,
+  "signatura": "081-47a",
+  "nombre_carta": "Carta de Maria Eularia Mulet Careras a Cecilia Zaforteza y Sureda de Sant Martí",
+  "fecha_original": "23 de diciembre de 1749",
+  "lugar": "Viena",
+  "remitente": "Maria Eularia Mulet Careras",
+  "destinatario": "Cecilia Zaforteza y Sureda de Sant Martí",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Muy señora y ama mía, Con rendida veneración puesta a los pies de v. s. le participo como me hallo en esta ciudad de Viena con cabal salud, a Dios gracias, con mis hijos y marido, lo cual espero de v. s., que Dios se la conserve por muchos siglos como para mi deseo. Sabrá v. s. que al cabo de dos meses que he llegado aquí he tenido noticia de Hungría de la muerte de mi madre, y yo partera en la cama, que con la ayuda de Dios he salido muy bien, y el muchacho ahora se halla robusto, fuerte como un león. Su padrino ha sido el señor d. Pedro Arnau, capellán en la casa del S.E. el señor conde de Cervellón, a quien tengo de agradecer mucho por los grandes beneficios que me ha hecho. Mi marido está con el barón Aguilar, y es judío, pero se trata con los más grandes ministros de esta Corte por la grande riqueza que tiene; por esto hemos de tomar el tiempo como viene hasta que Dios le envíe otra mejor ocasión para acomodarse. Suplico a v. s. ponerme a los pies de mi amo y señor d. Josep, de mi señora da. Juana, de mi señora da. María Antonia. Ya no he encontrado la tía Palfi, que Dios se la llevó por su mejor descanso. Y la Judita de casa Cervellón le da mil recados. Con esto quedo rogando a Dios me guarde a v. s. los años de mi deseo. Viena y diciembre a 23 de 1749. Su más rendida y humilde criada, María Eulalia Mulet y Carreras. Mi señora y ama, da. Cecilia Forteza. [1§] [destinatario] A mi señora da. Cecilia Zaforteza. Guarde Dios muchos años como deseo. En Palma. Transcripción literal"
+  ],
+  "literal": [
+    "1. Muy Señora y Ama mia con rendida venerasion puesta 2. a los pies de V.S. le partiçipo como me allo en esta 3. ciudad de Viena con cabal salud a Dios gracias con mis hijos 4. y marido, lo qual espero de V.S. que Dios se la conserve 5. por muchos siglos como para mi deseo. Sabra V.S. que 6. al cabo de dos meses que é llegado aqui é tenido notisia 7. de Ongaria de la muerte de mi Madre, é jo partera en la 8. cama, que con la ajuda de Dios é salido muy bien, y el muchacho 9. aora se alla robusto fuerte como un leon. su padrino á sido 10. el Señor D. Pedro Arnau Capellan en la casa del S.E. el Señor 11. Conde de Serbellon, a quien tengo de agradeser mucho por los 12. grandes benefisios que me á echo. mi marido esta con el 13. Baron Aguilar, y es judio, pero se trata con los mas grandes 14. Ministros desta Corte por la grande riquesa que tiene por esto 15. avemos de tomar el tiempo como viene asta que Dios le envie 16. otra mejor ocasion para acomodarse. 17. Suplico a V.S. ponerme a los pies de mi Amo y Señor D. 18. Joseph de mi Señora Da. Juána de mi Señora Da. Maria 19. Antonia ja no é encontrado la Tia palfi [?] que Dios se la llevo 20. por su mejor descanso. Y la Judita de casa Serbellon le da mil 21. recados. con esto quedo rogando a Dios me Gde a V.S. los A< ño>s 22. de mi deseo. 23. Viena y bre a 23 de 1749 24. Su mas rendida y humilde 25. Criada Maria Eulalia Mulet 26. y Careras 27. Mi Señora y Ama Da. 28. Sicilia Fortesa [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "081-47a.jpg",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo06/081-47a.jpg",
+      "url": "/legajos/legajo-06/images/081-47a.jpg"
+    },
+    {
+      "filename": "082-47b.jpg",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo06/082-47b.jpg",
+      "url": "/legajos/legajo-06/images/082-47b.jpg"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "081-47a.jpg",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-06/cartas/000576.json",
+  "primary_image_url": "/legajos/legajo-06/images/081-47a.jpg"
+}

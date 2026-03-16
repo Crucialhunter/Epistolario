@@ -1,0 +1,43 @@
+{
+  "legajo_id": "15",
+  "id_carta": "2222",
+  "order_in_legajo": 122,
+  "signatura": "191:6447a.JPG",
+  "nombre_carta": "Carta de Joan Avilés a Pedro Santacilia y Pax",
+  "fecha_original": "19 de junio de 1647",
+  "lugar": "Vinarós",
+  "remitente": "Joan Avilés",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "La de v. m. dels 13 de juny tinc rebuda i responent a ella, dic que estimo com és just la bona memòria té d'esta, sa casa. I folgaré s'oferesquin moltes ocasions en que puguem servir-lo, que {ESP. ademés} de les que en donarà, buscarem quantes podrem. El privat del senyor don Juan és el {ESP. conde} d'Eril, i el conseller major, el senyor don Melchor de Borja, perquè en la instrucció que porta el senyor don Joan es que prenga consell de tots i que resolga en allò que amb don Melchor diu els de l'entreteniment de {ESP. Su Alteza}, don Fernando Carrillo, el {ESP. conde} [Xavier], el baró de Balvilla [?] i un altre que és diu don Fernando, d'edat de 30 anys, {ESP. al parèixer}. Fins ací [avui] no s'ha atracat sinó d'entretenir el príncep, així en Galls de gent de la terra, anar a casar algunes vesprades, jugar a pilota tots els dies en un triquet de corda i en el principi allargués en públic. El príncep és de condició molt {ESP. apacible} i de bona alçada. S'han desembrocat de l'armada quatre mil homes i s'han juntat en la gent de [Sutora] [?] i Tarragona i van per la castellania a l'exèrcit. L'armada consta de 40 naus, en les quals n'hi ha 8 de foc i nou galeres. Don Jeroni Domes de Sandoval és mort, estan esperant per a esta nit, {ESP. correo} de Madrid, i sabran qui ocupava este {ESP. puesto} que fins avui no se sap, si bé no faltin qui diga que {ESP. Su Alteza} ho sap. Li [?] de l'armada és que les naus han de passar a Itàlia i les galeres se n'han d'anar a Dénia en el senyor don Joan i que per [?] no aguardin sinó que vinga el general, que l'estan aguardant d'hora en hora. De Lleida se sap que està {ESP. apretada}. Li ha posat l'enemic quatre bateries, però que [?] de defensa va lentíssimament. Maten-li molta gent a l'enemic. Déu l'encamine tot i vos done tot bon succés, i a v. m. el guardi com [he] menester i desitjo, que li sem pot fiar esta voluntat. Vinarós i juny 19 de 1647. El plec de don Josep m'importa que vagi per persona segura. Capellà de v. m., mossèn Juan Aviles. Assegure a v. m. de ma salut, com és bona, sempre amb desig que v. m. {ESP. l'emplea}, i em folga molt de la de v. m. i tota sa casa. Els cans han estat a propòsit per a esta ocasió, doncs s'altesa és aficionat a caçar. Sols que no sabem de quina pell ni quin color. Les comediantes s'han eixaropat. Així, de pas [?] Orfila, que ja [en] per fer porqueres. València. Senyor de v. m.,Don Pedro Gavalda Senyor don Pedro Transcripción literal"
+  ],
+  "literal": [
+    "1. La de Vmd dels 13 de Juny tinch rebuda 2. y responent aella dich que estimo com 3. es Just la bona memoria te desta saca4. sa [?] y folgare se offerisquen moltes ocasios 5. en que pugam servirlo que ademes de 6. les quen donara buscarem quantes podrem 7. el privat del Sor Don Joan es el Conde 8. de Eril y lo conseller major el Sor don 9. melchor de Borja perque en la instruc10. cio que porta el Sor don Joan es que 11. prenga consell de tots y que resolga en 12. lo que ab Sor don melchor diu los del 13. en tre teniment de su Altesa son Don 14. fernando Carrillo el conde chavier el 15. baro de Balivila [?] y un Altre ques diu 16. don fernando de edat de 30 Anys alparex17. er fins assi huy no se atractat sino de 18. entretenir alprinsep aixi en Galls de gent 19. de la terra, anar acasar algunes vesprades 20. gugar apilota tots los dies en un triquet 21. de corda[?] y en lo principi allargues en 22. publich el prinsep es de condicio molt a23. (^pasp) pasible y de bona alsada se han des24. en brocat de la armada quatre mil ho25. mens y se han juntat en la gent de su [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "191:6447a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo15/191:6447a.JPG",
+      "url": "/legajos/legajo-15/images/191:6447a.JPG"
+    },
+    {
+      "filename": "192:6447b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo15/192:6447b.JPG",
+      "url": "/legajos/legajo-15/images/192:6447b.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "191:6447a.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-15/cartas/002222.json",
+  "primary_image_url": "/legajos/legajo-15/images/191:6447a.JPG"
+}

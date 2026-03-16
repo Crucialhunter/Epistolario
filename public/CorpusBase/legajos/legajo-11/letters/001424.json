@@ -1,0 +1,43 @@
+{
+  "legajo_id": "11",
+  "id_carta": "1424",
+  "order_in_legajo": 192,
+  "signatura": "339:5279a.JPG",
+  "nombre_carta": "Carta de Rafael Vives García a Pedro Santacilia y Pax",
+  "fecha_original": "8 de agosto de 1644",
+  "lugar": "Madrid",
+  "remitente": "Rafael Vives García",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Sr. gobernador, Días hace que no me hallo con carta de v. s. que deba responder la Vela ha sido con otra del amigo que quiere que se de la primera en el consejo de la Inquisición haré lo que v. s. me manda y avisaré de la resolución no no sé si ya habrá llegado a su manos la comisión para armar caballero a Jaimico que lo deseo harto y que puede sea en Mahón que lo vean mi madre y la suya. El Sr. Jaime Anglada me dijo que como el conoce esta ausente quiso el cituar la pensión de v. s. por otra mano y aviso a don Juan Miguel para que lo mereciese la persona. Ahora sabemos lo que se hará del consejo porque pueda yo resolver mi viaje, o quedarme si su majestad viene como se presume esperamos que vendrá sino se va a Alcañiz a donde dicen que se pasará su majestad por lo que queda de verano después de la entrega de Lérida de que el mi correo al principio de este mes con harta demostración de alegría que hizo esta corte. Las condiciones de rendimiento dicen son que salen los franceses balas en boca y con sus banderas 3000 han de pasar a Francia con tres piezas de artillería por Navarra, dicen que después de haberse entregado pidieron caballos para ello que don Filipe de Silva les respondió que eso no estaba capitulado y que para incorporarse con la Mota valen 400 [1§] que el dio adelantados. La ciudad se ha entregado a merced de su majestad, quien les hará más de los que merecen porque Barcelona y lo restante esta a la misma para tomar resolución. Quiera Dios que se ha de rendirse luego, que harto nos quedará que trabajar con Perpiñán y falsas. En Fraga murieron algunos señores y entre ellos capatilla Barajas, el confesor de su majestad Santo Thomé y muchos pajes. Dios les tenga en la gloria. De Portugal no se dice nada más de que Torrecusa se arma y les da algunos disgustos y que será posible que su majestad vaya allá. Ya tenemos día fijo para el votar el pleito del suegro el veinticinco de este mes espero darle buena nueva, entre tanto v. s. me mande que le serviré como debe, de Madrid y agosto a 3 de 1644. Rafael Vives y Garcia Transcripción literal"
+  ],
+  "literal": [
+    "1. [^Sr. Godor^] 2. Dias ha que no me hallo con carta de VS a que 3. deva responder la Vel[a] ha sido con otra del 4. amigo que quiere que se de la pr en el conso de la Inquion hare 5. lo que VS me manda y avisare de la resolucion 6. no no se si ya havra llegado a su manos la comission para 7. armar cavallero a Jaymico70 que lo deseo harto y que puede 8. sea en Mahon que lo vean mi madre y la suya. 9. El sr. Jaime Anglada me dixo que como el cono esta 10. ausente quiso el cituar la pencion de VS por otra 11. mano y aviso a Don Juan Miguel para que lo 12. mereciesse la persona. Agora sabemos lo que 13. se hara del Consejo porque pueda yo resolver 14. mi viaje, o, quedarme si su Magd viene co 15. mo se presume esperamos que vendra sino se va 16. a Alcanyis adonde disen que se pasasa su magd por lo que 17. da de verano despues de la entrega de Lerida 18. de quel mi correo al po deste mes con arta demostra 19. cio de alegria que hiso esta Corte las 20. condiciones de rendimiento disen son que salen los 21. franseses balas en boca71 y con sus banderas 3000 22. han de passar a Francia con tres pieças de Arta por 23. Navarra disen que despues de haverse entregado 24. pidieron cavallos para ello que don Philipe de Silva 25. les respondio que esso no estava capitulado 26. y que para incorporarse con la Mota valen 400 [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "339:5279a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo11/339:5279a.JPG",
+      "url": "/legajos/legajo-11/images/339:5279a.JPG"
+    },
+    {
+      "filename": "340:5279b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo11/340:5279b.JPG",
+      "url": "/legajos/legajo-11/images/340:5279b.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "339:5279a.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-11/cartas/001424.json",
+  "primary_image_url": "/legajos/legajo-11/images/339:5279a.JPG"
+}

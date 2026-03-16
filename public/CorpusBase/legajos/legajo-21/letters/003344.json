@@ -1,0 +1,38 @@
+{
+  "legajo_id": "21",
+  "id_carta": "3344",
+  "order_in_legajo": 35,
+  "signatura": "058:5633.JPG",
+  "nombre_carta": "Carta de Bernat Martí a Pedro Santacilia y Pax",
+  "fecha_original": "1 de marzo de 1632",
+  "lugar": "Madrid",
+  "remitente": "Bernat Martí",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Sr. don Pedro Santacilia Fins avui no s'ha tractat del negoci del comte mi senyor Jo penso serà estada la causa haver tingut de tractar alguns negocis de molt Importantia, conforme m'ha dit el Secretari Juan Lorenzo el qual he so licitat cadedia, havent se tratat de dit negoci Ja faré m'obligació en donar-me avís a v. m. i comte mi senyor en el qual me donarà v. m. mil besamans quedant sempre al servici de sa Jm [?] i de v. m. aquí Nre. Sr. guardi de Madrid març a 1 1632 Servira a v. m. el Dr. Bernat Marti [1§] Transcripción literal"
+  ],
+  "literal": [
+    "1. [Margen izquierdo][^ Sr d Pedro Sta cilia]2. Fins vuy no se ha tractat del negoci del Conde mi senor 3. Jo penso sera estade la causa haver tingut de tratar 4. alguns negocis de molt Importantia, conforme me 5. ha dit lo Sr Secretari Juan lorenso elqual he so6. licitat cadedia, havent se tratat de dit negoci Ja 7. fare me obligatio en donarme avis a v.md. y 8. Conde mi senor enelqual me donara v.m. m[il]9. bessamans quedant sempre al servici de su Jm[?] 10. y de v.m. aqui ne Sr guarde de mad[rid] 11. mars a 1 1632 Servira a vm 12. el dr Bernat Marty [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "058:5633.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo21/058:5633.JPG",
+      "url": "/legajos/legajo-21/images/058:5633.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "058:5633.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-21/cartas/003344.json",
+  "primary_image_url": "/legajos/legajo-21/images/058:5633.JPG"
+}

@@ -1,0 +1,43 @@
+{
+  "legajo_id": "10",
+  "id_carta": "1193",
+  "order_in_legajo": 62,
+  "signatura": "110-360a",
+  "nombre_carta": "Carta de Pedro Santacilia y Pax a Jerónimo Pelegrín de Aragüés",
+  "fecha_original": "14 de septiembre de 1668",
+  "lugar": "Madrid",
+  "remitente": "Pedro Santacilia y Pax",
+  "destinatario": "Jerónimo Pelegrín de Aragüés",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Siendo la causa de tanta consideración, no pongo duda que le darán letras de {LAT. videndi et recognoscendi}. Por ser tan pocos los que han de votar y tantos los embarcados, pasarlas aquí será buena, como dirá el señor dr. Parets, y nuestros abogados que acá han dado petición prevencional por parte de la condesa. Juan va de mejora, sino bebe, y como escribo tan a menudo tengo poco que decir a ti ni a Nicolas. Dios os guarde muchos años como deseo y me importa. Madrid, 14 septiembre 1668. Don Pedro Jeronimo [1§] A Jeronimo Pelegrin de Aragues, que Dios Guarde muchos años como deseo. Mallorca. [otra letra]De mi señor don Pedro Transcripción literal"
+  ],
+  "literal": [
+    "1. Siendo la causa de tanta consideracion no pongo duda que le 2. daran letras de Videndoi, y recognoscendi per ser tan pocos los 3. que han de votar, y tantos los embarcados, passarlas 4. aquí sera buena como dira el Sr. Dr. parets y nuestros abo 5. gados que aca han dado peticion prevencional por parte de la Condessa 6. . Juan va de mejora sino beve y como escrivo tan a menudo 7. tengo poco q desir a ti ni a Nicholas. Dios os gde ms a< ño>s 8. como deseo, y me importa. Md 14 settre 1668. 9. Pedro Santacilia.10. [^Geronimo^] [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "110-360a.jpg",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo10/110-360a.jpg",
+      "url": "/legajos/legajo-10/images/110-360a.jpg"
+    },
+    {
+      "filename": "111-360b.jpg",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo10/111-360b.jpg",
+      "url": "/legajos/legajo-10/images/111-360b.jpg"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "110-360a.jpg",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING",
+      "message": "Se detectaron caracteres sospechosos de encoding (4)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-10/cartas/001193.json",
+  "primary_image_url": "/legajos/legajo-10/images/110-360a.jpg"
+}

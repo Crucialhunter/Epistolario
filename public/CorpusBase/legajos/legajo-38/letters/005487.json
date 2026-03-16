@@ -1,0 +1,38 @@
+{
+  "legajo_id": "38",
+  "id_carta": "5487",
+  "order_in_legajo": 107,
+  "signatura": "027:11",
+  "nombre_carta": "Carta de Escrivà Miralles a Persona desconocida",
+  "fecha_original": "1 de enero de 1666",
+  "lugar": "Sóller",
+  "remitente": "Escrivà Miralles",
+  "destinatario": "Persona desconocida",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Delme de bestiars de la vila de Soller de l'any 1667 lliurat a Nadal Bernat als Ruat per 111 ll. Gabriel Jorda als Nasi i Gregori Arbona tots de Soller Scriba Miralles Sr. D. Juan Bautista Zaforteza mensari Sr. D. Diego Clapes mensari Sr. D. Ramon Sureda mensari Antoni Pisa Ador. de la mensa episcopal Pere Onofre Mayol pdor. de la mensa capitular [1§] Transcripción literal"
+  ],
+  "literal": [
+    "1. Delme de bestiars de la vila de Soller2. del añy 1667 lliurat a Nadal Bernat3. als Ruat per 111 ll.4. Gabriel Jorda als Nasi y5. Gregori Arbona tots de Soller6. S[cri]ba Miralles7. D. Juan Bapt[ist]a Çaforteza mens[ari]8. D. Diego Clapes mens[ari]9. D. Ramon Sureda mensari10. Ant[oni] Pisa Ador. de la mensa11. Apiscopal12. Pere Honofre Mayol pdor.13. de la mensa Capitular [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "027:11.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo38/027:11.JPG",
+      "url": "/legajos/legajo-38/images/027:11.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "027:11.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (2)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-38/cartas/005487.json",
+  "primary_image_url": "/legajos/legajo-38/images/027:11.JPG"
+}

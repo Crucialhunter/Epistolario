@@ -1,0 +1,38 @@
+{
+  "legajo_id": "24",
+  "id_carta": "3966",
+  "order_in_legajo": 20,
+  "signatura": "031:4019.JPG",
+  "nombre_carta": "Carta de Luis de Aragón (VII duque de Cardona) a Pedro Santacilia y Pax",
+  "fecha_original": "20 de marzo de 1635",
+  "lugar": "Lucena",
+  "remitente": "Luis de Aragón (VII duque de Cardona)",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Tres cartas de v. m. recibo juntas este ordinario, y siempre son de tanto gusto para mi, que siento mucho me falten las nuevas que deseo de la salud de v. m. y sus particulares, que holgaré saber en el estado que se hallan y que tengan el suceso que todos querríamos, mucho estimo los avisos que v. m. de dá de lo que por allá se ofrece y nuevas de Alemania, que no pueden dejar de ser de mucha estimación todos los buenos sucesos del ejército de la Liga Catolica. Harto he sentido el suceso de mi hermano don Pedro, que v. m. me avisa, así por las circustancias, como por el disgusto que a todos nos cabe del que esto le ha de causar v. m. Dios le guarde en todas ocasiones muestra su buena voluntad de que yo quedo con la parte de estimación que me toca, deseando muchas ocasiones para servirlo a v. m. Dígame v. m. todo lo que entendiere de Cataluña y particulares de mi padre y de la ida de su majestad a aquel principado que la dudo hallándose tan adelante el tiempo. De por acá no veo qué avisar a v. m. más de que la condesa está alumbrada de una hija con que quedamos todos muy contentos. Dios guarde a v. m. como deseo. Lucena 20 de marzo 1633. Dígame v. m. todo lo que fuere entendí en el negocio de mi hermano que aseguro a v. m. me tiene penadísimo. Don Luis de Aragón Sr. don Pedro de Santacilia Transcripción literal"
+  ],
+  "literal": [
+    "1. Tres cartas de V.m. recivo juntas este ordinario, y siempre son de tanto2. gusto para mi, que siento mucho me falten las nuevas que desseo de3. la salud de Vm y sus particulares, que holgare saver en el esta4. do que se hallan y que tengan el sucesso que todos querriamos,5. Mucho estimo los avissos que V.m. de dà de lo que por alla se ofreze 6. y nuevas de Alemania, que no pueden dejar de ser de mucha7. estimaçion todos los buenos sucessos del exerçito de la Liga8. Catolica,9. Harto e sentido el sucesso de mi hermano Don Pedro, que Vm 10. me avissa, assi por las çircustançias, como por el disgusto que a to11. dos nos cabe del que esto lea de caussar V.m. Dios le guarde12. en todas ocassiones muestra su buena voluntad de que yo quedo13. con la parte de estimaçion que me toca, desseando muchas ocassio14. nes para servirlo a Vm,15. Digame Vm todo lo que entendiere de Cataluña. y particula16. res de mi padre. y de la yda de su M[a]gd .à. aquel Principado 17. que la dudo hallandose tan adelante el tiempo, de por18. aca no veo que avissar a Vm mas de que la Condessa19. està alumbrada de una hija con que quedamos todos 20. muy contentos, Dios guarde a Vm como desseo Lucena21. 20 de março 1633. [^digame Vm todo lo que fue22. re entendien en el negoçio de mi hermano23. que aseguro a Vm me tiene penadissimo]24. Don Luys de Aragon25. Sr. Don Pedro de Santaçilia- [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "031:4019.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo24/031:4019.JPG",
+      "url": "/legajos/legajo-24/images/031:4019.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "031:4019.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-24/cartas/003966.json",
+  "primary_image_url": "/legajos/legajo-24/images/031:4019.JPG"
+}

@@ -1,0 +1,50 @@
+{
+  "legajo_id": "20",
+  "id_carta": "3257",
+  "order_in_legajo": 132,
+  "signatura": "284:6038a.JPG",
+  "nombre_carta": "Carta de Juan Miguel de Santacilia y Togores a Leonor Santacilia i Despuig",
+  "fecha_original": "20 de julio de 1668",
+  "lugar": "Madrid",
+  "remitente": "Juan Miguel de Santacilia y Togores",
+  "destinatario": "Leonor Santacilia i Despuig",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Mi madre y Sra. con esta doy cuenta v. m. de nuestra llegada a esta corte 11 Julio con salud gracias a Dios y mi padre mejor y más bi saro que todos, pero sentimos mucho la ausencia de v. m. yo no menos. y con deseos de tener ocasiones par que v. m. me mande cosas de su gusto que obedeceré como tengo obligación Dios guarde a v. m. largos años [?] como deseo Madrid a 20 Julio 1668. Beso las manos de v. m. don Juan de Santacilia mi Sra.y mi madre doña Leonor Santacilia y des Puix [1§] Transcripción literal"
+  ],
+  "literal": [
+    "1. Mi Madre y sra. Con esta doy 2. cuenta v.m. de nuestra llegada a esta 3. Corte 11 Julio con salud Gracias a 4. Dios y mi Padre mejor y mas bi- 5. saro que todos, pero sentimos mu- 6. cho la ausencia de V.m. yo no 7. menos. y con deseos de tener oca- 8. ciones par que V.m. me mande 9. cossas de su gusto que obedecere 10. como tengo obligacion 11. Dios Gde a Vm largos añoss[?] 12. como desseo Madrid a 20 Julio 13. 1668. 14. Beso la Mano de V.m. 15. Don Juan de SantaCilia 16. mi sra.y mi Madre Dona Eleonor SantaCilia y des Puix [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "284:6038a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo20/284:6038a.JPG",
+      "url": "/legajos/legajo-20/images/284:6038a.JPG"
+    },
+    {
+      "filename": "285:6038b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo20/285:6038b.JPG",
+      "url": "/legajos/legajo-20/images/285:6038b.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "284:6038a.JPG",
+  "warnings": [
+    {
+      "code": "IMAGE_DOWNLOAD_FAIL",
+      "message": "HTTP 404",
+      "context": {
+        "url": "http://santacilia.info/intranet2/img/Legajo20/285:6038b.JPG"
+      }
+    },
+    {
+      "code": "IMAGE_COUNT_MISMATCH",
+      "message": "Imágenes detectadas (2) != descargadas (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-20/cartas/003257.json",
+  "primary_image_url": "/legajos/legajo-20/images/284:6038a.JPG"
+}

@@ -1,0 +1,38 @@
+{
+  "legajo_id": "31",
+  "id_carta": "6886",
+  "order_in_legajo": 128,
+  "signatura": "182:1637.JPG",
+  "nombre_carta": "Carta de Francesc Rosselló a Pedro Santacilia y Pax",
+  "fecha_original": "4 de diciembre de 1661",
+  "lugar": "Ibiza",
+  "remitente": "Francesc Rosselló",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Yo quedo tan certificado de la voluntad de v. s. y de la merced que me hace en la carta de 7 del pasado 2 que le aseguro, es conforme a mi deseo, y a los que tengo de que se conozcan en todas ocasiones las veras que he de [?] a las cosas de su servicio honrándome siempre de ser criado de su casa, y en lo demás solo me pesara que se nombre teniente con desaire mío, sin haber yo faltado a mis obligaciones, ni sin saber la causa, que lo más cierto será por haber defendido el Patrimonio real y sus Regalias, y veo que ha sido más poderosa una sinistra información que los servicios que tengo hechos a su majestad. en diferentes puestos militares en que le he servido, paga de buenos servicios, de estos tiempos, supª. a v. s. se sirva que aunque yo no sea su tiente tenerme en memoria mandándome en todo que fuere de su servicio con seguro que acudiré ello como debo. Guarde Dios a v. s. muchos años Eivisa y diciembre . a 4 de 1661 servidor. de v. s. que sus manos besa Francisco Rosellón [?] Sr. D. Pedro Santacilia y Pax [1§] Transcripción literal"
+  ],
+  "literal": [
+    "1. Yo quedo tan sertificado de la voluntad de VS. y de la 2. md. que me haze en la carta de 7 del passado 2 3. que le assiguro, es conforme a mi deseo, y a los q 4. tengo de que se conoscan en todas ocasiones las 5. veras que he de [?] a las cosas de su serviçio hon6. rrandome siempre de ser criado de su casa, y 7. en lo demas solo me pesara q se nombre tiniente 8. con desayre mio, sin haver yo faltado a mis obli9. gaçiones, ni sin saber la causa, q lo mas sierto 10. sera por haver defendido el Patrimonio Real 11. y sus Regalias, y veo que ha sido mas poderosa 12. una sinistra informaçion q los serviçios que 13. tengo hechos a su Magd. en diferentes puestos 14. militares en q le he servido, paga de buenos 15. serviçios, destos tiempos, supª. a V. S. se sirva 16. q aunq yo no sea su tiente tenerme en memoria 17. mandandome en todo que fuere de su serviçio 18. con siguro q acudire ello como devo gde. Dios 19. a VS. muchos años Iviça y Xbre. A 4 de 1661 20. Sdor. de VS. m. s. q. s. m. B. 21. Françisco Rossellon [?] 22. Sr. D Pº. SantaSilia y Pax [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "182:1637.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo31/182:1637.JPG",
+      "url": "/legajos/legajo-31/images/182:1637.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "182:1637.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-31/cartas/006886.json",
+  "primary_image_url": "/legajos/legajo-31/images/182:1637.JPG"
+}

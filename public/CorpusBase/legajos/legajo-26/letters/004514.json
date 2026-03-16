@@ -1,0 +1,43 @@
+{
+  "legajo_id": "26",
+  "id_carta": "4514",
+  "order_in_legajo": 250,
+  "signatura": "371:3609a.JPG",
+  "nombre_carta": "Carta de Nicolás de Santacilia y Togores a Pedro Santacilia y Pax",
+  "fecha_original": "26 de septiembre de 1665",
+  "lugar": "Madrid",
+  "remitente": "Nicolás de Santacilia y Togores",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "No se rija v. m. por una carta de 23 de este que le tengo escrita por vía de Valencia, aunque es verdad que el rey dejó en el testamento que se deshiciera su casa, no lo han ejecutado, porque ya han vuelto las llaves a los gentiles hombres de la cámara y volverá a estar todo como estaba, menos algunas puertecillas. Se dice que quedan seis pajes para la jornada los que estamos nombrados y siete para la capilla, la reina va muy aprisa para que sea la jornada, no obstante no será tan aprisa. Tenemos de ir con los galeones. El duque de Montesaredo ha hecho cinco presas de mucho valor, ya lo habrá sabido v. m. primero. Señor, aunque envíe poderes a Diego Matías no le tengo de pedir nada, y así v. m. no tiene para que enviárselos como se lo tengo escrito muchas veces. [1§] A mi madre y señora, hermanas y a todos esos caballeros muchos recaudos. Guarde Dios a v. m. muchos años como deseo y es menester. Madrid a 26 de septiembre 1665. El conde de Zavella me dijo que quería ir a componer su hacienda y a dar un paseo por allá muy aprisa, pero como son los que mandan. No sé si se irá tan aprisa. Su más humilde hijo de v. m., que sus manos besa Don Nicolas Santacilia y Togores Mi padre y señor Transcripción literal"
+  ],
+  "literal": [
+    "1. No se riga Vm por una carta de 23 deste que2. le tengo escrita por vía de Valensia; aunque3. es verdad que el Rey dejo en el testamen=4. to que se desisiera su casa no lo an ejecutado5. porque ya an buelto las llaves a los genti=6. lonbres de la Camara y bolvera a estar todo7. como estava menos algunas puertesillas, se dise8. que quedan seys pages para la jornada9. los que estamos nonbraods y siete para10. la capilla, la Reyna ba mucha prisa11. para que sea la jornada nostante no sera12. tan aprisa tenemos de yr con los galeones13. el Duque de montesareho a echo sinco14. presas de mucho valor ya lo abra sa15. bido VM primero16. Señor aunque enbie poderes a Diego ma=17. tias no le tengo de pedir nada, y así18. VM no tiene para que inbiarselos co=19. mo se lo tengo escr[^i]to muchas veses [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "371:3609a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo26/371:3609a.JPG",
+      "url": "/legajos/legajo-26/images/371:3609a.JPG"
+    },
+    {
+      "filename": "372:3609b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo26/372:3609b.JPG",
+      "url": "/legajos/legajo-26/images/372:3609b.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "371:3609a.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-26/cartas/004514.json",
+  "primary_image_url": "/legajos/legajo-26/images/371:3609a.JPG"
+}

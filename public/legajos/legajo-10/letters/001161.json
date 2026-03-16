@@ -1,0 +1,43 @@
+{
+  "legajo_id": "10",
+  "id_carta": "1161",
+  "order_in_legajo": 28,
+  "signatura": "047-327a",
+  "nombre_carta": "Carta de Pedro Santacilia y Pax a Jerónimo Pelegrín de Aragüés",
+  "fecha_original": "21 de julio de 1668",
+  "lugar": "Madrid",
+  "remitente": "Pedro Santacilia y Pax",
+  "destinatario": "Jerónimo Pelegrín de Aragüés",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Juntas tres cartas suyas acabo de recibir y he me holgado mucho de tener tan individualmente las nuevas que corren por aquí. La muerte del marques de Laconi y sus criados hasta ahora no se ha sabido más noticias de las que me has dado, y así están en mucho cuidado. Aguardo venga la licencia que me dices remitirá el señor virrey, que importa. Con don Arnau, donador de esta, sabrás todo lo que corre por aquí, que no tengo que añadir más. Que Dios te guarde. {CAT. Mestre} Colom ha ocho días se partió vía de Alicante. Dios los traiga en bien uno y otro. Madrid, 21 de julio 1668. Don Pedro Jerónimo [1§] A Jeronimo Pelegrin de Aragues, que Dios guarde como deseo. . Mallorca Transcripción literal"
+  ],
+  "literal": [
+    "1. Juantas tres cartas suyas acavo de recibir y he me olgado mucho 2. de tener tan individualmente las nuevas que corren por aquí, La 3. muerte del Marques de Laconi, y sus criados hasta ahora no 4. se ha savido mas noticias de las que me has dado y asi 5. estan en mucho cuydado. 6. Aguardo venga la licencia que me dizes remitira el Señor Virrey 7. que importa. 8. Con Don arnau donador desta sabras todo lo que corre por aquí, que 9. no tengo que añadir mas que Dios Gde. 10. [^??^] Colom a ocho dias se partio via de Alicante [21 Dios los traiga en bien uno, y otro; Md 21 de Julio 1668. Sr. Don Pedro.11. [^Geronimo^] [es la misma letra que la anterior pero diferente remitente] [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "047-327a.jpg",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo10/047-327a.jpg",
+      "url": "/legajos/legajo-10/images/047-327a.jpg"
+    },
+    {
+      "filename": "048-327b.jpg",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo10/048-327b.jpg",
+      "url": "/legajos/legajo-10/images/048-327b.jpg"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "047-327a.jpg",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING",
+      "message": "Se detectaron caracteres sospechosos de encoding (4)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-10/cartas/001161.json",
+  "primary_image_url": "/legajos/legajo-10/images/047-327a.jpg"
+}

@@ -1,0 +1,43 @@
+{
+  "legajo_id": "36",
+  "id_carta": "7314",
+  "order_in_legajo": 60,
+  "signatura": "086:7789a.JPG",
+  "nombre_carta": "Carta de Bartolomé Mercadal a Pedro Santacilia y Pax",
+  "fecha_original": "28 de abril de 1651",
+  "lugar": "Madrid",
+  "remitente": "Bartolomé Mercadal",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Por carta del doctor Juan Martorell de 7 y por otra del m. de 4 del presente que acaban de llegar en mis manos, veo la desgracia de esa casa y el justo sentimiento de haber fallecido mi Sra. Dña. Beatriz cuya alma tenga Dios en su Gloria a mi me pudiera dar muy grande cuidado la salud de v. m. sino me tuviera acreditado su discreción y prudencia y la mucha con que sabrá llevar este golpe tan riguroso, que si bien por ser de mano de Dios debemos conformarnos con su divina voluntad, es fuerza que la carne y sangre sientan el dolor de tan temprana muerte y de falta de una vida tan menesterosa. Supº. a v. m. modere el sentimiento pues la ejemplar y conocidos méritos de mi Sra. S. Beatriz nos pueden asegurar el descanco eterno, hagalo Dios como puede y me guarde a v. m. los años de vida que tengo menester ets. el informe ha llegado y hasta gora no se visto muy pocas novedades y las más modenas son aorcar mucha gente por no aguardar el indulto cuando para la reina Nra. Sra. que se deje a decir este mes las ocupaciones de mi pleito no me dan lugar a ser más largo, pues todos [1§] los días de la semana pasada y deçta esta informando a los Sres. regentes y espero tener sentencia dentro de quince días Dios lo haga si conviene que de cualquier manera esta vendido a cu voluntad Madrid y abril 28 1651 mayor servidor de v. m. que sus manos besa Barth Meradal [2§] Transcripción literal"
+  ],
+  "literal": [
+    "1. Por carta del dotor Juan Martorell de 7 y por otra 2. del m. de 4 del presente que acaban de llegar en 3. mis manos, veo la desgracia de essa casa y el justo 4. sentimiento de haver fallecido mi Sª. D. Beatriz cuya 5. alma tenga Dios en su Gloria = a mi me pudiera dar 6. muy grande cuidado la salut de VM. sino me tubiera 7. acreditado su discrecion y prudencia y la mucha con 8. que sabra llevar este golpe tan riguroso, que si bien 9. por ser de mano de Dios devemos conformarnos con 10. su divina voluntad, es fuerça que la carne y san11. gre sientan el dolor de tan temprana muerte y de 12. falta de una vida tan menesterosa. Supº. a VM. 13. modere el sentimiento pues la exemplar y conocidos 14. meritos de mi Sª. S. Beatriz nos pueden asegurar 15. el descanço eterno, hagalo Dios como puede y me 16. Gde. a VM. los años de vida que tengo menester etts. 17. el informe a llegado y asta gora no se visto muy 18. pocas novedades y las mas modenas son aorcar 19. mucha gente por no aguardar el indulto quan20. do para la Reyna Nra. Sª. que se deje a decir 21. este mes = Las ocupaciones de mi pleito no 22. me dan lugar a ser mas largo, pues todos [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "086:7789a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo36/086:7789a.JPG",
+      "url": "/legajos/legajo-36/images/086:7789a.JPG"
+    },
+    {
+      "filename": "087:7789b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo36/087:7789b.JPG",
+      "url": "/legajos/legajo-36/images/087:7789b.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "086:7789a.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-36/cartas/007314.json",
+  "primary_image_url": "/legajos/legajo-36/images/086:7789a.JPG"
+}

@@ -1,0 +1,38 @@
+{
+  "legajo_id": "30",
+  "id_carta": "6580",
+  "order_in_legajo": 66,
+  "signatura": "069:5418",
+  "nombre_carta": "Carta de Pau Serra i de Parets a Persona desconocida",
+  "fecha_original": "9 de diciembre de 1619",
+  "lugar": "Mallorca",
+  "remitente": "Pau Serra i de Parets",
+  "destinatario": "Persona desconocida",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Â p> Transcripción literal"
+  ],
+  "literal": [
+    "1. p>"
+  ],
+  "imagenes": [
+    {
+      "filename": "069:5418.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo30/069:5418.JPG",
+      "url": "/legajos/legajo-30/images/069:5418.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "069:5418.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (3)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-30/cartas/006580.json",
+  "primary_image_url": "/legajos/legajo-30/images/069:5418.JPG"
+}

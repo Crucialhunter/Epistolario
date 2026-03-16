@@ -1,0 +1,43 @@
+{
+  "legajo_id": "29",
+  "id_carta": "6418",
+  "order_in_legajo": 100,
+  "signatura": "182:4235a.JPG",
+  "nombre_carta": "Carta de Agustí Crespí a Pedro Santacilia y Pax",
+  "fecha_original": "12 de abril de 1651",
+  "lugar": "Madrid",
+  "remitente": "Agustí Crespí",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Sr. mío, dos tengo recibidas de v. m. de 20 Febrero y de 16 Marzo y con saber goza salud estoy con el gusto que se puede imaginar así que recibí el pliego que me dio el conde mi Sr. Fui a buscar a D. Rafael Mayans dándole de las cartas y diciéndole que ya sabía que v. m. no tenía quien se prestase más de su criado que yo y así que no me excusase en mandarme todo lo que se ofreciese en su servicio. Respondióme que el haría todo lo que v. m. le mandara y que si se ofreciese algo en que yo pudiese intervenir que me avisaría y juntamente al conde mi Sr. el cual a dicho que en todo lo que fuese de provecho que lo avisen que siempre hará todo lo posible para las cosas tocantes a v. m. los más de los días veo a D. Rafael para ver si se ofrece alguna cosa y me dice que en siendo ocasión me avisará. El caballo que v. m. envía al Sr. D. Pedro aún no ha llegado, pero ya tiene mi amo [?] al canónigo Pedro Juan que lo remita. Paréceme que también vendrán las otras y las demás cosas yo daré aviso a v. m. de todo. Estimo la merced que v. m. me hace en haber honrado mi pobre casa, [?] de v. m. ya más [?] esperar sino muchas honras. Dios le dé muchos años de vida para que experimente mi reconocimiento. En Madrid no hay cosa nueva de que dar aviso a v. m. Mi Sra. la mayor tiene salud y todos los demás señores. Dios guarde a v. m. como yo deseo, de Madrid y 12 abril 1651. Su menor criado que su mano besaAgustin Crespi Todos esos señores dan a v. m. muchos recados, particularmente el Sr. D. Íñigo y D. Bernardo. Transcripción literal"
+  ],
+  "literal": [
+    "1. Sor. mio dos tengo resebidas de vm. de 20 2. febrero y de 16 Marso y con saber gosa salud 3. stoy con el gusto que se puede imahinar = 4. asi que resebi el pliego que me dio el 5. conde mi Sor. fui a buscar a D. Rafael mayans 6. ?? de las cartas y disendole que ya sabia 7. que vm. no tenia quen se prestase mas de su 8. criado que yo y asi que no me escusase en 9. mandarme todo lo que se ofresiese en su servisio 10. respondiome que el haria todo lo que vm. le 11. mandara y que si se ofresiese algo en que 12. yo pudiese intervenir que me avisaria y 13. iuntamente al Conde mi Sor. el qual a dicho 14. que en todo lo que fuese de provecho que lo 15. avisen que siempre hara todo lo posible para 16. las cosas tocantes a vm = los mas de los dias 17. veo a D. Rafael para ver si se ofrese alguna 18. cosa y me disa que en siendo ocasion me avisara 19. el cavallo que vm. imbia al Sº. D. Pedro aun 20. no a llegado, pero ya tiene mi amo [?] 21. al canonigo pedro juan que lo remita , parese22. me que tanbien vendran las otras y las demas 23. cosas so dare aviso a vm. de todo = estimo 24. la mersed que vm. me hase en aver onrado 25. mi pobre casa, [?] de vm. ya mas [?] [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "182:4235a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo29/182:4235a.JPG",
+      "url": "/legajos/legajo-29/images/182:4235a.JPG"
+    },
+    {
+      "filename": "183:4235b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo29/183:4235b.JPG",
+      "url": "/legajos/legajo-29/images/183:4235b.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "182:4235a.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (2)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-29/cartas/006418.json",
+  "primary_image_url": "/legajos/legajo-29/images/182:4235a.JPG"
+}

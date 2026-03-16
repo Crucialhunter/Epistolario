@@ -1,0 +1,43 @@
+{
+  "legajo_id": "9",
+  "id_carta": "991",
+  "order_in_legajo": 26,
+  "signatura": "023-13a",
+  "nombre_carta": "Carta de Marqués de las Torres a Arnau de Santacilia",
+  "fecha_original": "27 de marzo de 1674",
+  "lugar": "Madrid",
+  "remitente": "Marqués de las Torres",
+  "destinatario": "Arnau de Santacilia",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Su carta de v. m. de 8 del corriente acabo de recibir, siéndome de muy particular estimación las noticias que v. m. me da de estar ya despachado para comenzar la leva en Málaga y de que partía por la mañana sin falta de que me he holgado mucho y de que se dará la orden para 60 arcabuces y 40 mosquetes, diligencia que ha importado mucho y que yo se la estimo por la falta que por acá hay de buenas armas y no dudo del cuidado de v. m. serán los 100 hombres que se han de levantar lo mejor que pueda ser, ya que no hay orden para más número. Las novedades de los 800 hombres que sacan del regimiento para Cataluña con el sargento mayor y movimientos de la caballería y demás provisiones estimo mucho tener [tan] [1§] buenas noticias, porque doy a v. m. muchas gracias y espero me continuará las que fueren ocurriendo. Bien sé que no necesitaba acordar a v. m. el tabaco, pero sé que los que están en la corte tienen tanto en que divertirse y más tratándose de despachos largos, que me pareció hacer memoria a v. m. de ello por la seguridad que tengo de que favorecería. Por acá no hay ningunas novedades y sólo acuerdo a v. m. me tiene siempre deseoso de que se ofrezcan ocasiones donde manifestar lo que le estimo. Guarde Dios a v. m. muchos años. Lodi y marzo, 27 de 1674. Servidor de v. m., que sus manos besa,el marques de las Torres Señor capitán don Arnaldo Santacilia Transcripción literal"
+  ],
+  "literal": [
+    "1. Su carta de Vm de 8 del corriente acabo derese2. bir siendome de muy particular estimacion 3. las noticias que Vm me da de estar ya despa4. chado para comensar laleva en Malaga y de 5. que partia por la mañana sinfalta deque me 6. he olgado mucho y de que se dara la ordenpa 7. 60 arcabuzes y 40 mosquetes diligencia que 8. ha importado mucho y que yo Sela estimo 9. por la falta que por aca ay de buenas armas 10. Y no dudo del Cuidado de Vm seran los 100 11. hombres que se han de levantar lo mejor que 12. que pueda ser ya que no ay orden para mas 13. numero, 14. Las novedades delos 800 hombres que sacan 15. delregimto para Cataluña conel sargento 16. mayor y movimientos dela cavalleria y de 17. mas provisiones estimo mucho tener [Ilegible] [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "023-13a.jpg",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo09/023-13a.jpg",
+      "url": "/legajos/legajo-09/images/023-13a.jpg"
+    },
+    {
+      "filename": "024-13b.jpg",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo09/024-13b.jpg",
+      "url": "/legajos/legajo-09/images/024-13b.jpg"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "023-13a.jpg",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-09/cartas/000991.json",
+  "primary_image_url": "/legajos/legajo-09/images/023-13a.jpg"
+}

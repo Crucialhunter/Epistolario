@@ -1,0 +1,43 @@
+{
+  "legajo_id": "21",
+  "id_carta": "3615",
+  "order_in_legajo": 308,
+  "signatura": "521:5903a.JPG",
+  "nombre_carta": "Carta de Conde de Zavellá a Pedro Santacilia y Pax",
+  "fecha_original": "31 de octubre de 1669",
+  "lugar": "Barcelona",
+  "remitente": "Conde de Zavellá",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Sr. mío. Participo a v. s. con igual gusto a mi obligación, mi buena fortuna en el casamiento con mi Sra. Dña. Teresa de Pinos y Rocaberti cuya calidad y prendas excede todo mérito, esperando que v. s. calificará mi acierto con su aprobación, y con darme nuevas ocasiones de su mayor servicio, y guarde Dios a v. s. como deseo. Barcelona y octubre a 3 de 1669. Beso la mano de v. s. su menor servidorEl conde de Zavella En otra tengo escrito a v. s. esta sólo será para acompañar el pliego suplicando a v. s.reparta las inclusas a losparientes y amigos como a v. s. le pareciere. Sr. D. Pedro, mi Sr. Barcelona, conde de Zavella, respuesta a 31 de octubre 1669. Transcripción literal"
+  ],
+  "literal": [
+    "1. Sr mio. Participo a v.s. con igual gusto a mi 2. obligacion, mi buena fortuna en el casamiento con mi 3. Sa- da- Theresa de Pinos, y Rocaberti cuya calidad, 4. y prendas axcede todo merito. esperando que V.S., 5. calificara mi acierto con su aprobacion, y con dar- 6. me nuebas ocasiones de su major serbicio, y gde 7. Dios a V.S. como deseo Barca y otubre a 3 de 1669. 8. B l de VS 9. Su mr sr 10. El Conde de Çavella 11. En otra tengo escrito a VS. eta solo sera 12. para acompañar el pliego suplicando a 13. y amigos como a VS le pareciere 14. [Margen izquierdo][^ Sr D Pedro misr] [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "521:5903a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo21/521:5903a.JPG",
+      "url": "/legajos/legajo-21/images/521:5903a.JPG"
+    },
+    {
+      "filename": "522:5903b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo21/522:5903b.JPG",
+      "url": "/legajos/legajo-21/images/522:5903b.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "521:5903a.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-21/cartas/003615.json",
+  "primary_image_url": "/legajos/legajo-21/images/521:5903a.JPG"
+}

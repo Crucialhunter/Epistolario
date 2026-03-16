@@ -1,0 +1,38 @@
+{
+  "legajo_id": "32",
+  "id_carta": "7253",
+  "order_in_legajo": 195,
+  "signatura": "365:2011.JPG",
+  "nombre_carta": "Carta de José Balell a Pedro Santacilia y Pax",
+  "fecha_original": "29 de agosto de 1666",
+  "lugar": "Barcelona",
+  "remitente": "José Balell",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "S D. Pº mi Sr. IMATGE BORROSA Transcripción literal"
+  ],
+  "literal": [
+    "1. S d Pº mi Sr 2. IMATGE BORROSA [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "365:2011.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo32/365:2011.JPG",
+      "url": "/legajos/legajo-32/images/365:2011.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "365:2011.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-32/cartas/007253.json",
+  "primary_image_url": "/legajos/legajo-32/images/365:2011.JPG"
+}

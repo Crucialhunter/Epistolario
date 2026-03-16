@@ -1,0 +1,43 @@
+{
+  "legajo_id": "6",
+  "id_carta": "628",
+  "order_in_legajo": 127,
+  "signatura": "182-93a",
+  "nombre_carta": "Carta de Tomás Mariano Quint Zaforteza a Cecilia Zaforteza y Sureda de Sant Martí",
+  "fecha_original": "9 de julio de 1770",
+  "lugar": "Lugar sin especificar",
+  "remitente": "Tomás Mariano Quint Zaforteza",
+  "destinatario": "Cecilia Zaforteza y Sureda de Sant Martí",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Tia Cecília, Esper esta la trobarà amb perfecta salut. Jo la {ESP. gos} bona, a Déu gràcies, en companyia de mon pare, ma mare i de tots els demés. Nosaltres arribàrem devers les 8 i no vàrem trobar sinó ma mare i els al·lots, perquè els altres eren a Son Santmartí a caçar i, després vingueren, i jo vaig dir a mon pare que v. m. està boníssima. De part de tots rebrà moltes memòries i de mi a son gust i no deixarà de dar-les de part meua al Dr. Gabriel [1§] i demés. Déu la guardi molts anys v. s., als 9 de juliol de 70. Son nebot qui més l’estima de cor, Tomàs Mariano Quint Zaforteza Tia Cecília Transcripción literal"
+  ],
+  "literal": [
+    "1. Tia Cecilia esper esta la trobe- 2. ra ab perfeta salud jo la gos bona 3. á Deu gracias en compeñia de 4. Mon Para Me Mara y de tots los 5. demes. 6. Nosaltres arribarem deves 7. las 8 y no varem trobar sino Me 8. Mara y los allots perque los 9. altres eran á Son San Marti á 10. casar y despres vingueran y 11. y jo vatx dir a Mon Para que 12. V.M. esta bonissima de part de 13. tots rebra ms ms y de mi á son 14. gust y no dexera de darles de pa- 15. rt meua á nel Sr. Dr. Gabriel [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "182-93a.jpg",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo06/182-93a.jpg",
+      "url": "/legajos/legajo-06/images/182-93a.jpg"
+    },
+    {
+      "filename": "183-93b.jpg",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo06/183-93b.jpg",
+      "url": "/legajos/legajo-06/images/183-93b.jpg"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "182-93a.jpg",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (2)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-06/cartas/000628.json",
+  "primary_image_url": "/legajos/legajo-06/images/182-93a.jpg"
+}

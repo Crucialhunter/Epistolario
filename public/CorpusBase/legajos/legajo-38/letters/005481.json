@@ -1,0 +1,38 @@
+{
+  "legajo_id": "38",
+  "id_carta": "5481",
+  "order_in_legajo": 127,
+  "signatura": "009:5.JPG",
+  "nombre_carta": "Carta de Antoni Imperial a Bartolomé Mercadal",
+  "fecha_original": "31 de octubre de 1696",
+  "lugar": "Ciutadella",
+  "remitente": "Antoni Imperial",
+  "destinatario": "Bartolomé Mercadal",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "El Gor. i capità gl. Magnífich i Noble Sr. don Bartomeu Mercadal lloctinent de procurador reial en la present illa de Menorca de diners del real Patri moni donarà i pagara a Josep Sabater vint i quatre lliures per vuit dies que su Sra. amb son Alguacil son estats fora fent les diligències que sa magestat ha manat fer per tota l'illa conforme dos reals ordres de 2 i 4 setembre del corrent any que convenia molt a son Rl. sevey 16 lliures per {ESP. su sria.} i les 8 lliures pel Alguacil que tot fa mana [?] de dites 24 lliures i prendre apocha de {ESP. recibo} en son descàrrec dat en Ciutadella als 31 d'octubre 1696 24 lliures Sr. don Antoni Imperial Ut Rubi Assor. {LAT. Poques sba. Firmavit apocham dia 1a 9bris. 1696 Abadia escriva} Dich jo Josep Sabater que tinc rebut del noble Sr. don Bartomeu Mercadal por. Rl. de l'illa de Menorca la damunt dita quantitat per les raons damunt dites i per no saber escriurà fas fer la present de mà de Jaume Xemena arjen ter, avui al primer de novembre 1696 Ita est in originali Jacobus Abadia Regi Patrimoni sba. [1§] Transcripción literal"
+  ],
+  "literal": [
+    "1. Lo Gor. y Capta. gl. 2. Mag[nífic]h y Nob[le] Don Bart[omeu] Mercadal loc[tinent] de Procurador3. Real en la p[rese]nt illa de Menorca de diners del Real Patri=4. moni donara y pagara a Joseph Sabater vint y quatre5. lliu[res] per vuyt dias que su Sa. ab son Alguazil son estats6. fora fent las diligentias que se Magd. ha manat fer per7. tota la illa conforme dos Reals ordes de 2 y 4 7bre. del8. corrent añy que convenia molt a son Rl. sevey= 16 ll[iures]9. per su Sria. y las 8 ll[iures] p[er] lo Alguazil que tot fa mana [?]10. de ditas 24 ll[iuras] y pendra apocha de recibo en son descarrech11. dat en Ciut[adell]a als 31 de 8bre 1696 24 ll[iures]12. Don Ant[oni] Imperial13. Ut Rubi Assor.14. {lat.}.....15. Poques sba.16. Firmavit apocham die 1a17. 9bris. 1696 Abadia s[criba]18. Dich jo Joseph Sabater que tinch rebut del nob[le] don19. Bart[omeu] Mercadal por. Rl. de la Illa de Menorca la demunt20. dita cantitat per las rahons demunt ditas y per no seber21. scriura fas fer la p[rese]nt de mà de Jau[m]e Xemena arjen-22. ter, vuy al p[rime]r de 9bre 169623. Ita est in originali24. Jacobus Abadia Regi Patrimony sba. [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "009:5.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo38/009:5.JPG",
+      "url": "/legajos/legajo-38/images/009:5.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "009:5.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-38/cartas/005481.json",
+  "primary_image_url": "/legajos/legajo-38/images/009:5.JPG"
+}

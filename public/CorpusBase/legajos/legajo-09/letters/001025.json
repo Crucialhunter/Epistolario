@@ -1,0 +1,48 @@
+{
+  "legajo_id": "9",
+  "id_carta": "1025",
+  "order_in_legajo": 64,
+  "signatura": "095-47a",
+  "nombre_carta": "Carta de Diego Álvarez a Arnau de Santacilia",
+  "fecha_original": "20 de junio de 1675",
+  "lugar": "Milán",
+  "remitente": "Diego Álvarez",
+  "destinatario": "Arnau de Santacilia",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Amigo y señor Recibo la de v. m. y en cuanto a lo que me encarga luego puse en ejecución elavisar al señor sargento mayor Antonio Vellon para que Meremítire los quíníentos escudos obíen Cien doblas de España a mi respondido Melas enviara para este Domingo y síno seubíere partido elcorreo Remí tire la letra en la conformídad que v. m. me ordena balíéndome del alférez Sr. don tho más de revenga y erea v. m. Su amigo y servidor quelesoí que si meubíeran pasado umpoco dedínero quemedeven lo ubíera hecho antes deaver escrito al señor sargento mayor, Vellon pero espero queyra la letra Coneste correo a al capitán don Francisco Villalonga leentregado trescientas libras habrá cuatro digo aintersición dedon Josep Misa dizíéndome irá para un negocio quya [1§] portaba mucho a v. m. deno sé que pleíto quetraían entre manos pues yo quiero saber lo que no me quieren decir enadelante Deoy Mas obedeceré suorden de v. m. pues nodare dinero anaíde aquí no hay Novedad de que poder avisare v. m. solo quesedíse que el señor presidente quiere dar muestra al procurador del que evíne [?] yanosotros sepasa para labra nos ladarán en Pavía la compañía de don Baltasar de Soto. Sedío aBer nardo de Rosellón y dentro de quínce días fuedios servido dellebárselo yaora estabaca y se díce de seguro se la darán a don Francisco Perez de Guzman capitán del castillo demilan aquí a venído orden para quelevuelvan su compañía a don Mateo de ysasí no sé lo queresultara v. m. ha hecho muibien en no haberme remítido mi medalla puesespero en Dios Mela traíra [?] v. m. asuvenida Sr. don Feliu de Castro a mar chado al final a mudar a Suias [?] y don galzarán a marchado sin fuerzo al [2§] final y pínto apezíguiton [?] en la compañía de v. m. están todos buenos aunque a Días que no han sentado soldado ninguno yabra cuatro días meenviaron dos bajas que es todo cuanto puedo decir a v. m. asegurándole nomedesquídaro en remitir la letra deldínero a quien su plíco nometenga orígeo [?] En mandarme muchas cosas de su servicio pues Sabe loare con Muí entera voluntad. Guarde Dios a v. m. muchos años Milán a 20 de Junío 1675. Besa las manos de v. m. Su amigo y servidor Diego alvarez Señor capitán don Harnao de Santa Cilla [3§] Transcripción literal"
+  ],
+  "literal": [
+    "1. Amigo y Señor rezibo lade Vmd. yen 2. quanto alo que me encarga luego puse en ejecucíon elavisar al S Sargto 3. Mayor Anto Vellon para que 4. Meremítíre los quíníentos escudos 5. obíen Çien doblas de españa ami respon-6. dído Melas enbíara para este Domíngo 7. y síno seubíere partído elCorreo Remí8. tíre la letra enla Conformídad que Vm. 9. me ordena balíendome del Alfz D tho10. mas de revenga y erea Vmd Suamigo 11. y Servr quelesoí que si meubíeran pa12. sado unpoco dedínero quemedeven lo 13. ubíera hecho antes deaver escríto al 14. Sr Sargto Mayor, Vellon pero espe15. ro queyra laletra Coneste Coreo a 16. al Capn D franco Billalonga leentrega17. do treçíentas libs abra quatro digo 18. ayntersiçíon deD Josep Misa dizíen19. dome hira para un negoçío quya [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "095-47a.jpg",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo09/095-47a.jpg",
+      "url": "/legajos/legajo-09/images/095-47a.jpg"
+    },
+    {
+      "filename": "096-47ba.jpg",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo09/096-47ba.jpg",
+      "url": "/legajos/legajo-09/images/096-47ba.jpg"
+    },
+    {
+      "filename": "096-47bb.jpg",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo09/096-47bb.jpg",
+      "url": "/legajos/legajo-09/images/096-47bb.jpg"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "095-47a.jpg",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-09/cartas/001025.json",
+  "primary_image_url": "/legajos/legajo-09/images/095-47a.jpg"
+}

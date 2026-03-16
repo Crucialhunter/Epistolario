@@ -1,0 +1,43 @@
+{
+  "legajo_id": "23",
+  "id_carta": "3941",
+  "order_in_legajo": 2,
+  "signatura": "341:3354a.JPG",
+  "nombre_carta": "Carta de Mateu Fortesa i Suñer a Pedro Santacilia y Pax",
+  "fecha_original": "fecha sin especificar",
+  "lugar": "Madrid",
+  "remitente": "Mateu Fortesa i Suñer",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "La de v. s. tinc rebuda en gran {ESP. contento} per saber {ESP. gosa} de bona salut que és el més important. El que tenim de nou que en {ESP. palacio} cada dia entra una companyia, treu l'altra hi ha sis capitans grans senyors, sis capitans cavallers particulars acabat d'entrar els senyors, és fet que no es pogués donar sopar que entraven tots els senyors acompanyent el qui havia d'entrar carta a aquesa [?] en el sopar 27 mil reals el de menjar [?] {CAST el duque de Abrantes, el de Fuensalida, el marques de les Navas i los demás hicieron gran gasto} el paper que fiu amb en Jeroni el volgué veure al vicecanceller i el portà en Consell. Agradà molt i després me cridà el Sr. don Rafel Vilosa i me digué de part del consell com s'havia de fer que li donés un paper en què em tornà a cridar i me digué que estava bé, però que jo no deia sinó les conveniències d'haver aquí sis naus de cos i la forma com s'havien Sr. don Pedro Santacilia i Pax [1§] d'armar en què m'han cridat i m'han dit que jo no deia sinó les conveniències del cos i del servei del rei i que no m'obligava a prendre'ls en què em faran obligar sempre que tingués efecta que jo el prendria, en què fiu un paper dient que si el me donaven en totes les condicions que jo demanava els pendria en què s'ha enviat informe al virrei que ací tenen mode per pagar el {ESP. gasto} també mateix doní els quarts que faltin agregar que m'envia Jeroni Pelegri i manarà que fes un memorial com lo fiu. Han enviat còpia en València al Sr. don Juan Crespi tinent [?] (sic) perquè informi, també altra pel virrei que l'ha remès al Sr. don Juan Crespi en què envia la carta a v. s. que m'escriu el Sr. don Joan i de que {ESP. ha escrito} al virrei quan li envia l'informe de la reina nostra Sra., en què jo no tenc que petenir [?] li'm donen ninguna cosa ells m'ho han de negociar i agrair [?] per les cartes estimaré molt que tot el que v. s. podrà en els informes que venguin bé em farà mercè com sempre i guardi Déu a v. s. com pot i jo desitjo, de Madrid a 28 d'agost. . Diego Matias està bo ja es passeja i va pertot. Les cartes de casa en mans pròpies Su servidor de v. s. que ses mans besa. Don Mateu Forteza i Suñer Transcripción literal"
+  ],
+  "literal": [
+    "1. La de Vsa. tinch rabuda en gran Contento2. per sabar gosa de bone salut que es lo mes inpor3. tant= lo que tenim de nou que en Palasio4. cade dia entra una Conpania, treu le altra5. ai sis Capitans grans Saños, sis Capitans Caval 6. les perticulas acabat de entrar los Seños as7. fet que nos poges donar sopar que entraven8. tot los seños aconpeiant el qui avia dentrar9. Carta naquesa gasta[?] en lo sopar 27 mil10. reials el de melgar[?] {esp.} el duchque de abrantes el11. de fuensalida el marques de las navas i los de12. mas isieron gran gasto= el paper que fiu en 13. ben geroni el volgue veura al Sr. Visicansiler14. i lo porta en consel agrada molt i dempres15. me crida el Sr. Don Rafel Vilosa i digem16. de part del consel com se avia de fer que li 17. dones un paper en que em torna cridar18. i digem que estava be pero que jo no19. deia sino les conveniensias de aver aqui20. sis naus de cos i la forma com se avian de21. Sr. Don Pedr Santa Silia 22. y Paix [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "341:3354a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo23/341:3354a.JPG",
+      "url": "/legajos/legajo-23/images/341:3354a.JPG"
+    },
+    {
+      "filename": "342:3354b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo23/342:3354b.JPG",
+      "url": "/legajos/legajo-23/images/342:3354b.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "341:3354a.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-23/cartas/003941.json",
+  "primary_image_url": "/legajos/legajo-23/images/341:3354a.JPG"
+}

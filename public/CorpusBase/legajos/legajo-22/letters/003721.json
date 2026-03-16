@@ -1,0 +1,48 @@
+{
+  "legajo_id": "22",
+  "id_carta": "3721",
+  "order_in_legajo": 102,
+  "signatura": "184:5090a.JPG",
+  "nombre_carta": "Carta de Miguel de Salvá y de Vallgornera a Pedro Santacilia y Pax",
+  "fecha_original": "16 de septiembre de 1668",
+  "lugar": "Mallorca",
+  "remitente": "Miguel de Salvá y de Vallgornera",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Señor mío recibo su carta de v. m. de 25 del pasado y me he alegrado mucho de las buenas nuevas que v. m. me da de su salud y de la mejora del Sr. don Juan que me tenía con cuidado por considerar a v. m. cuan grande le tendría de su enfermedad yo quedo muy bueno y siempre con muy buena voluntad para emplearla en cuanto fuere del servicio de v. m. Las represalias que al principio y mientras no se me dé nueva orden v. m. este cierto que se ejecutará todo como hasta aquí por lo mucho que deseo tenga v. m. satisfacción de la presa que le tienen genoveses. El duque de Osuna ha cogido en una galera de la escuadra de Génova una cantidad de dinero, pero esto ha sido por descamino no llevándolo registrado y es independiente de represalias y en esto no puedo obrar cuando es fuera de mi jurisdicción [1§] y a gracias a Dios me hallo fuera del embarazo del tercio. Embarqué en la capitana de este reino que los armadores la acomoda ron muy bien y por ser este bajel tan bueno me pareció que iria en el bien acomodada la infantería. A 11 de este salieron de esta [?] van por Menorca y de allí se engolfarán para el final, lleva el tercio con oficiales y todo quinientos hombres sin algunos embozados que se han embarcado y no han asentado plaza a que hasta llegar al final aseguro a v. m. que no he visto otros quinientos españoles mejores en mi vida no había un hombre que desechar y todos muy bien vestidos. Dios los lleve con buen salvamento. Don Arnaldo va muy recomendado al marques de Montoro y creo que se han de hallar muy bien con s. e. y desde Barcelona me escribió le enviase luego el tercio y que dijera a los oficiales de su parte que les ayudaría y asistiría mucho con que me prometo han de estar muy favorecidos de s. e. y particularmente don Arnaldo que iba muy bueno. Del reino no traigo cosa de [2§] nuevo que participar a v. m. Está muy quieto como cuando v. m. le dejó, y v. m. trate de que lo despachen aprisa que entra el invierno y me dará cuidado si le coge a v. m. en él por los grandes frios, y v. m. no me tenga ocioso en su servicio que ya sabe que soy suyo. Dios guarde a v. m. muchos años. Mallorca y octubre 16 de 1668. Muy seguro servidor de v. m. que sus manos besaDon Miguel de Salva y de Vallgornera Sr. D. Pedro Santacilia [3§] Transcripción literal"
+  ],
+  "literal": [
+    "1. Señor mio Recivo su Carta de V.m. de 25 del2. passado y me he alegrado mucho de las buenas3. nuevas q[ue] Vm. me da de su salud y de la me 4. jora del sr. Don Juan que me tenía con cuydado por5. considerar a Vm. quan grande le tendria de su6. emfermedad Yo quedo muy bueno y siempre7. con muy buena voluntad para emplearla en8. quanto fuere del serv[ici]o de V.m.9. Las represalias que al principio y mientras no se10. me de nueva orden V.m. este cierto que se execu11. tara todo como hasta aquí por lo mucho que12. desseo tenga V.m. satisfaczion de la pressa que13. le tienen Genovesses14. El sr. Duque de Osuna ha coxido en una 15. Galera de la esquadra de Genova una Canti16. dad de dinero pero esto assido por descamino17. no llevandolo registrado y es independiente18. de represalias y enesto no puedo obrar19. quando es fuera de mi Jurisdicion [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "184:5090a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo22/184:5090a.JPG",
+      "url": "/legajos/legajo-22/images/184:5090a.JPG"
+    },
+    {
+      "filename": "185:5090b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo22/185:5090b.JPG",
+      "url": "/legajos/legajo-22/images/185:5090b.JPG"
+    },
+    {
+      "filename": "186:5090c.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo22/186:5090c.JPG",
+      "url": "/legajos/legajo-22/images/186:5090c.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "184:5090a.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (2)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-22/cartas/003721.json",
+  "primary_image_url": "/legajos/legajo-22/images/184:5090a.JPG"
+}

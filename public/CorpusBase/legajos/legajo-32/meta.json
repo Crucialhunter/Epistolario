@@ -1,0 +1,74 @@
+{
+  "legajo_id": "32",
+  "num_cartas": 231,
+  "num_imagenes": 372,
+  "rango_temporal": [
+    1664,
+    1666
+  ],
+  "remitentes_frecuentes": [
+    {
+      "name": "Persona desconocida",
+      "count": 49
+    },
+    {
+      "name": "Diego Matías de Aragüés",
+      "count": 17
+    },
+    {
+      "name": "Juan Seguals",
+      "count": 17
+    },
+    {
+      "name": "Nicolás de Santacilia y Togores",
+      "count": 16
+    },
+    {
+      "name": "Jerónimo Pelegrín de Aragüés",
+      "count": 15
+    }
+  ],
+  "destinatarios_frecuentes": [
+    {
+      "name": "Pedro Santacilia y Pax",
+      "count": 158
+    },
+    {
+      "name": "Persona desconocida",
+      "count": 69
+    },
+    {
+      "name": "Juan Seguals",
+      "count": 3
+    },
+    {
+      "name": "Leonor Santacilia i Despuig",
+      "count": 1
+    }
+  ],
+  "lugares_frecuentes": [
+    {
+      "name": "Mallorca",
+      "count": 78
+    },
+    {
+      "name": "Madrid",
+      "count": 69
+    },
+    {
+      "name": "Barcelona",
+      "count": 23
+    },
+    {
+      "name": "Cádiz",
+      "count": 9
+    },
+    {
+      "name": "Valencia",
+      "count": 7
+    }
+  ],
+  "temas_frecuentes": [],
+  "warnings_count": 157,
+  "densidad_narrativa_estimada": "Media"
+}

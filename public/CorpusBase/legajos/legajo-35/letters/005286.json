@@ -1,0 +1,38 @@
+{
+  "legajo_id": "35",
+  "id_carta": "5286",
+  "order_in_legajo": 98,
+  "signatura": "100:8132.JPG",
+  "nombre_carta": "Carta de Síndics Alaior a Pedro Santacilia y Pax",
+  "fecha_original": "25 de julio de 1644",
+  "lugar": "Alaior",
+  "remitente": "Síndics Alaior",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "governador, Nostre consell ha determinat {ESP. cerca} de la informatió que s'ha de rebre de la pelea tingué la gent d’esta vila a la marina de les Coves amb els moros, que suplic em a v. s. sia de son servei manar rebre dita informatió personalment i també que sia servit manar que els {ESP. gastos} qui es faran amb aquella, si n’hi ha, se paguin del moro sé es venut i de la despulla v. s. serà servit manar avisar del que resoldrà. Esta Universitat té plet amb moltes persones d’esta vila {ESP. cerca} una talla se’ls demana dels béns tenen a les altres viles d’esta illa. I com el batlle sia interessat per ser un d'ells, tenim necessitat de batlle delegat; i per haver-hi moltes persones interessades, com tenim dit, no hem atrobat sinó les tres debaix escrites desenteresades, de les quals v. s. serà servit manar elegir la que li aparega que de tot ens farà particular mercè, manant-nos en tot el que sia del gust i servei de v. s., {ESP. cuya} molt il·lre. persona la Divina guardi a. d'Alaior i juliol a 25 de 1644. Domingo Guàrdia Bartomeu Cintes Pere Fanals Joan Fàbregues i per ell Llopis notari Pere Pons Llorenç Pons Síndics d’Alaior Transcripción literal"
+  ],
+  "literal": [
+    "1. Sr. Govor2. Nostre Consell ha determinat circa de la Informatio que se3. ha de rrebre de la Pelea tingue la gent desta vila a la marina4. de las covas ab los moros, que suppliquem a VSª sia de son servey5. manar rebre dita informatio personalment y tambe que sia6. servit manar que los gastos quis feran ab aquella, si ni ha, 7. se paguen del moro ses venut y de la despulla VSª sera servit8. manar avisar de lo que resoldra=9. Esta universitat te plet ab moltas personas desta vila circa10. una talla sels demane dels bens tenen a las altres vilas11. desta Illa y com lo balle sia interessat p ser un de ells12. tenim necessitat de Balle delegat y p haverhi moltes13. persones interesades com tenim dit no havem atrobat14. sino las tres debaig scritas desenteresades de las quals15. VSª sera servit manar elegir la que li aparegue que16. de tot nos fera particular merce manant nos en tot17. lo que sia del gust y servey de VSª cuya molt Illre.18. persona la Divina gde. de Alayor y Juliol a 25 de 164419. Domingo Guardia Barthomeu Cintas20. Pere Fanals Joa Fabregues y p ell Llopis nott21. Pere Pons Lorens Pons22. Sindichs de Alayor [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "100:8132.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo35/100:8132.JPG",
+      "url": "/legajos/legajo-35/images/100:8132.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "100:8132.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-35/cartas/005286.json",
+  "primary_image_url": "/legajos/legajo-35/images/100:8132.JPG"
+}

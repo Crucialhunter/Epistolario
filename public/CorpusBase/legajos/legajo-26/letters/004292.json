@@ -1,0 +1,38 @@
+{
+  "legajo_id": "26",
+  "id_carta": "4292",
+  "order_in_legajo": 29,
+  "signatura": "036:3386.JPG",
+  "nombre_carta": "Carta de Magdalena de Zaforteza i Rocabertí a Pedro Santacilia y Pax",
+  "fecha_original": "1 de agosto de 1630",
+  "lugar": "Barcelona",
+  "remitente": "Magdalena de Zaforteza i Rocabertí",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Per no saber si el comte és partit no m'ha paregut donar avís a v. m. del que passa. El donador d'esta una despús anit a un fadri d'en Matas i es ja segona volta per sos intents que ell se sap és estada una cosa miraculosa com no la mort que assegur a v. m. que [1§] Transcripción literal"
+  ],
+  "literal": [
+    "1. Per no saber si lo comte es partit no me ha paregut 2. donar avis a V.m. del que pasa Lo donador desta3. ena despus a nit a un fadri den matas y es ya segona volta4. per sos intens que ell se sap es estada una cosa mire5. culosa con no la mort que asegur a V.m. que6. 7. 8. 9. 10. 11. 12. 13. 14. 15. 16. 17. 18. 19. 20. 21. 22. 23. 24. 25. 26. 27. 28. 29. 30. [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "036:3386.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo26/036:3386.JPG",
+      "url": "/legajos/legajo-26/images/036:3386.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "036:3386.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-26/cartas/004292.json",
+  "primary_image_url": "/legajos/legajo-26/images/036:3386.JPG"
+}

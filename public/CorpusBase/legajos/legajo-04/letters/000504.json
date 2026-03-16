@@ -1,0 +1,43 @@
+{
+  "legajo_id": "4",
+  "id_carta": "504",
+  "order_in_legajo": 8,
+  "signatura": "093-44a",
+  "nombre_carta": "Carta de Bartolomé Garcias a Persona desconocida",
+  "fecha_original": "fecha sin especificar",
+  "lugar": "lugar sin especificar",
+  "remitente": "Bartolomé Garcias",
+  "destinatario": "Persona desconocida",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Con la que de v. m. he recibido de 20 de noviembre tengo entendido que ha sido Dios servido llevarse a mejor vida al Sr. Gabriel Maymo, mi buen amigo, y la merced que de v. m. he recibido en procurar que bajase decreto de la reina nuestra Sra. para que se le consultase la pretensión del hábito de una de las órdenes militares de Castilla que pretende don Leonardo Quint y Zafortesa, en la consideracion de los servicios de su padre y míos. Tuve aviso del dicho Sr. Maymo que visto ese decreto por los señores del Consejo de Aragón proveyeron que dichos servicios se presentasen auténticos. Parte de los míos se presentaron en el dicho consejo el año 1655, los demás habían de estar en poder del dicho Sr. Maymo, del cual tuve aviso que se habían hallado los míos, y que juntos se presentarían para que de ellos se hiciese relación en consejo. No he tenido otro aviso ni sé si se han presentado, ni que sobre de ellos se haya tomado resolución alguna, solo he podido entender que para asegurar pretensión tan justificada procuró el Sr. Maymo valerse del favor del Sr. D. Diego de Azada, caballero de la orden de Santiago y secretario del dicho consejo, el cual podrá ser tenga noticia del estado en que se halla esa materia; y si no la tiene, se podrá saber con los oficiales de dicho consejo, y juntamente la resolución que los Sres. del han tomado en caso que dichos servicios se hayan presentado, y si no lo estuvieron como tengo dicho los míos se hallarán en la cancilleria [roto] de mi hijo Thomas, que goce de Dios, estarán [roto] de Juan Suñer, del cual tengo aviso que [roto] Vicente en otro de su majestad le había [roto] [Sr. D. Bartolome Garcias] [1§] los papeles que estaban en poder del dicho Sr., y entre ellos una patente de capitán de infantería de que su majestad, que esté en gloria, me hizo merced en el año 1634, la cual yo la había remitido para que la presentase si le parecía, pues en virtud de ella levanté a mi costa una compañía de las más numerosas que salieron de este reino y serví con ella cuando se tomaron del francés las islas de Sta. Margarita y san Honorato hasta la reforma que hizo el marqués de Santacruz. Estimaré que v. m. bese la mano en mi nombre al señor don Diego de Azada y le entregue la inclusa en que le suplico favorezca esa pretensión, y podrá ser que su merced dé camino para asegurar el buen suceso de ella, y de lo que resultase suplico a v. m. me dé aviso y que me dé muchos empleos en su servicio, asegurándole que los estimaré y que saliendo esta merced echará v. m. de ver que me precio de agradecido. Guarde Dios a v. m. largos años. Mallorca. Transcripción literal"
+  ],
+  "literal": [
+    "1. Con la que de V.M he recibido de 20 de bre ten 2. go entendido que ha sido Dios servido llevarsse a mejor vida 3. al Sr. Gabriel Maymo mi buen amigo, y la md que de V.M. 4. he recibido en procurar que baxasse decreto de la Rewyna nuestra 5. Sra. para que se le consultasse la pretencion del habito de una 6. de las ordenes militares de Castilla que pretende Don leonardo 7. Quint y Çafortesa, en la consideracion de los servicio de su padre 8. y mios= tube aviso del dho Sr. Maymo que visto esen dcho 9. por los señores el concejo de aragon proveyeron que dichos 10. servicios se presentassen autenticos; parte de los mios se pre 11. sentaron en el dho concejo el año 1655 [??1644??]12. . los demas avian 13. de estar en poder del dicho Sr. Maymo, del qual tube aviso que 14. se avian hallado los mios, y que juntos se presentarian para que 15. dellos se hiziesse relacion en consejo; no he 16. tenido otro aviso ni se si se han presentado ni que sobre 17. de elloos se haya tomado resolucion alguna; Solo he podido 18. entender que para assigurar pretencion tan justificada pro 19. curo el Sr. Maymo valersse del favor del Sr. D. Diego de 20. Azada cavallero de la orden de Stiago y secretario del 21. dicho concejo, el qual podra ser tenga noticia del estado en 22. que se halla essa materia, y si no la tiene se podra 23. saber con los oficiales de dho concejo, y juntamente la re 24. solucion que los Sres. del han tomado en caso que dichos 25. servicios se hajan presentado, y si no lo estubieron como 26. tengo dicho los mios se hallaran en la cansilleria 27. de mi fijo Thomas que gose de Dios, estaran [roto]28. 29. de Juan Sunñer del qual tengo aviso que [roto]30. 31. Viscente en otro de su Magd le avia 32. [roto]33. [^sr. D. Bartolome Gacias^] [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "093-44a.jpg",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo04/093-44a.jpg",
+      "url": "/legajos/legajo-04/images/093-44a.jpg"
+    },
+    {
+      "filename": "094-44b.jpg",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo04/094-44b.jpg",
+      "url": "/legajos/legajo-04/images/094-44b.jpg"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "093-44a.jpg",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-04/cartas/000504.json",
+  "primary_image_url": "/legajos/legajo-04/images/093-44a.jpg"
+}

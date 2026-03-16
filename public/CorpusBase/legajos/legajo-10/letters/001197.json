@@ -1,0 +1,48 @@
+{
+  "legajo_id": "10",
+  "id_carta": "1197",
+  "order_in_legajo": 66,
+  "signatura": "115-364a",
+  "nombre_carta": "Carta de José Balell a Jerónimo Pelegrín de Aragüés",
+  "fecha_original": "18 de septiembre de 1668",
+  "lugar": "Barcelona",
+  "remitente": "José Balell",
+  "destinatario": "Jerónimo Pelegrín de Aragüés",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Amigo y señor mío, Con todo cuidado como debo tengo escrito al señor d. Nicolás y a v. m. y [he] remitido todos los pliegos he tenido del señor d. Pedro, mi amo, y quedo maravillado cómo en los dos bergantines que han venido esta semana no haya tenido carta de v. m. ni del señor don Nicolás y más por ser el hueco de los bergantines que han venido, con quien remití los últimos pliegos que había también para mi señora.; con que quedo con todo el cuidado que no puedo encarecer y no puede dar este criado razón de ellos al señor d. Pedro más de la que tengo dada, que los he remitido, y quedaba con cuidado de no tener cartas su señora con la venida de los dos bergantines. Al señor d. Nicolas escribo y remito todos los pliegos con que me hallo y para v. m. y pues las novedades van con la del señor d. Nicolas, que verá lo excuso con esta y le suplico me avise de haber recibido todos los pliegos y de mandarme. Guarde Nuestro Señor a v. m. muchos años como puede y deseo. Barcelona y septiembre, 18 de 1668. Doy a v.m. la enhorabuena de la mejora del señor d. Juan que ya está muy convaleciente, gracias a Dios. Cierto servidor y amigo de v. m. que sus manos besa, Josep Balell. Señor Jeronimo Pelegrin de Aragues [1§] [con otra letra que parece moderna]Vistas cartas dirigidas a dña. Leonor Santacilia y Despuig y a Jeronimo Pelegrin desde Barcelona y otros puntos. [2§] Balell Transcripción literal"
+  ],
+  "literal": [
+    "1. Amigo y sr. mio con todo cuidado como devo 2. tengo escrito al sr. D. Nicolas y a V.M. y re 3. mitido todos los pliegos he tenido del sr. d. 4. Po mio amo, y quedo maravillado como 5. en los dos bergantines que han venido 6. esta semana no aya tenido carta de V.M. 7. ni del Sr. Nicolas y mas por ser el Ueco 8. de los bergantines que han venido con 9. quien remiti los Ultimos pliegos que ha 10. via tanuien pa mi sra. con que quedo con to 11. do el cuidado que no puedo encarecer y no 12. puede dar este criado razon dellos al Sr. d. 13. Po mas de la que tengo dada que los he re 14. mitido y quedava con cuidado de no tener 15. cartas su Sra. con la venida de los dos bergan 16. tines. Al sr. d. Nicolas escribo y remito 17. todos los pliegos con que me hallo y pa V.M. y pues las novedades van con la 18. del Sr. d. Nicolas que vera lo escuso con 19. esta y le supp[li]co me avise de haver recivido 20. todos los pliegos y de mandarme. Gde Nro Sr 21. a V.M. ms a< ño>s como pueda y deseo. Barcelo 22. na, y settie 18 de 1668. 23. doi a V.M. la norabuena de la mejora del Sr. d. Juan 24. que ya esta mui conbaleciente gracias a Dios. 25. Vuestro seror y A de V.M. q s m b 26. Joseph Balell.27. [^Sr.Germo Pelegrin de Aragues^] [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "115-364a.jpg",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo10/115-364a.jpg",
+      "url": "/legajos/legajo-10/images/115-364a.jpg"
+    },
+    {
+      "filename": "116-364ba.jpg",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo10/116-364ba.jpg",
+      "url": "/legajos/legajo-10/images/116-364ba.jpg"
+    },
+    {
+      "filename": "116-364bb.jpg",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo10/116-364bb.jpg",
+      "url": "/legajos/legajo-10/images/116-364bb.jpg"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "115-364a.jpg",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING",
+      "message": "Se detectaron caracteres sospechosos de encoding (5)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-10/cartas/001197.json",
+  "primary_image_url": "/legajos/legajo-10/images/115-364a.jpg"
+}

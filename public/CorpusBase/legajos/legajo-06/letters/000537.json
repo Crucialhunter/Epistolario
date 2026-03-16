@@ -1,0 +1,43 @@
+{
+  "legajo_id": "6",
+  "id_carta": "537",
+  "order_in_legajo": 37,
+  "signatura": "012_7a",
+  "nombre_carta": "Carta de Rosolea a Cecilia Zaforteza y Sureda de Sant Martí",
+  "fecha_original": "25 de febrero de 1741",
+  "lugar": "Son Orlandis",
+  "remitente": "Rosolea",
+  "destinatario": "Cecilia Zaforteza y Sureda de Sant Martí",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Son Orlandis y febrero 25 de 1741 Muy señora mía y mi querida amiga, anteayer se creyó que marchase el correo y yo hacía juicio de salir hoy para la ciudad, por lo que no he remitido a v. s. la calesa, pero viendo que el tiempo se pone peor no he querido detenerla más por no hacer a v. s. mala obra, y así la remito dándole muchas gracias y deseando que v. s., en compañía del señor d. Francisco y mi señora dña. Leonor y demás señores gocen de perfecta salud, quedando la mía y la de don [1§] Josep a la disposición de vv. ss. María Manuela dice que porque era para ella v. s. prestó el calés, y da mil memorias a v. s. y al señor d. Francisco, a cuya obediencia, se repite don Josep, y yo. Y estimaremos a vv. ss. que cuando mande a buscar la calesa, si no tiene inconveniente, me la remita. Pero si se les hace mala obra sentiré mucho se incomoden. Mi marido se repite a los pies de v. s. con el rendimiento que debe, y ambos deseamos que Dios guarde a v. s. muchos años, como puede. Besa la mano de v.s. su mayor servidora y amiga, Doña Rosolea Gracias Señora da. Cecilia Forteza. Transcripción literal"
+  ],
+  "literal": [
+    "1. Son Olandis y Feb<re>ro 25 de 1741. 2. Mui S< eñor>a mia y mi querida 3. amiga, ante ayer, se cre 4. yo, q< u>e marchase el correo 5. y yo asia Juyzio de salir 6. oy para la ciudad, por lo que 7. no, he remitido a VS la ca 8. lesa, pero viendo, q< ue> el tiempo 9. se pone, peor no, he querido 10. detenerla mas por no aser 11. a VS mala obra, y asi, la 12. remito dandole muchas 13. gracias, y deseando que 14. VS, en compañia del S< eño>r 15. Dn. Fran< cis>co y mi S< eñor>a Da. Leonor 16. y demas señores goçen 17. de perfecta salud, que 18. dando la mia y la de don [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "012_7a.jpg",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo06/012_7a.jpg",
+      "url": "/legajos/legajo-06/images/012_7a.jpg"
+    },
+    {
+      "filename": "013_7b.jpg",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo06/013_7b.jpg",
+      "url": "/legajos/legajo-06/images/013_7b.jpg"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "012_7a.jpg",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-06/cartas/000537.json",
+  "primary_image_url": "/legajos/legajo-06/images/012_7a.jpg"
+}

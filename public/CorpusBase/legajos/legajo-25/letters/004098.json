@@ -1,0 +1,43 @@
+{
+  "legajo_id": "25",
+  "id_carta": "4098",
+  "order_in_legajo": 32,
+  "signatura": "061_132a.JPG",
+  "nombre_carta": "Carta de Miguel Malo a Jerónimo Pelegrín de Aragüés",
+  "fecha_original": "9 de abril de 1667",
+  "lugar": "Madrid",
+  "remitente": "Miguel Malo",
+  "destinatario": "Jerónimo Pelegrín de Aragüés",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Sr. mío muchos días ha[ce] que no tengo carta de v. m. ni tampoco del Sr. Mateo Maestre ni me ha enviado el nombre del hijo para quien ha de ser el oficio como v. m. me lo dice en la última que recibí de v. m. y será preciso que lo haga luego para sacar el despacho porque si se pasa el año que tenemos de tiempo sería no haber hecho nada y se cumple por todo Septiembre. El Sr. D. Miguel Salva se ha prestado para irse por todo mayo y creo que Bescansa irá por secretario y yo le recomendaré al Sr. D. Miguel su persona de v. m. y a los criados que todos son amigos. V. m. y su esposa reciban recados de toda mi casa y la respuesta de esta sea luego. Guarde Dios a v. m. como deseo. Madrid y abril a 9 de 1667. Sr. mío v. m. se enmienda y escriba y vea lo que se ha de hacer en este negocio. Servidor de v. m. que sus manos besaMiguel Malo Sr. Jeronimo Pelegrin y Aragues [1§] Madrid, de Miguel, Mayo de 9 de abril 1667 Transcripción literal"
+  ],
+  "literal": [
+    "1. Sr. mío muchos dias a que no tengo carta de2. Vm ni tanpoco del sr. Matheo Maestre ni mea3. imbiado el nombre del hijo pª quien a de ser el4. offiçio como Vm. me lo diçe en la ultima que5. reçivi de Vm. y sera preçiso que lo aga luego6. pª sacar el despacho porque si se pasa el año q7. tenemos de tiempo sería no aver echo nada8. y se cumple por todo sepptte.9. El Sr. D. Miguel Salva se a prestado pª irse10. por todo mayo y creo que Bescansa ira por11. s[ecreta]rio y yo le recomendare al Sr. D. Miguel12. su persona de Vm. y a los criados que todos13. son amigos Vm. y su esposa reçivan reca14. dos de toda mi cassa y la respuesta desta15. sea luego Gde Dios a Vm. como deseo Md. y16. Abril a 9 de 1667 Sr. mio Vm se enmienda17. y escriba y bea lo q se a de aér en este nego18. Ser[vid]or de Vm q s.m.b.19. Miguel Malo20. Sr. Germo. Pelegrin y Aragues [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "061_132a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo25/061_132a.JPG",
+      "url": "/legajos/legajo-25/images/061_132a.JPG"
+    },
+    {
+      "filename": "062_132b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo25/062_132b.JPG",
+      "url": "/legajos/legajo-25/images/062_132b.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "061_132a.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (4)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-25/cartas/004098.json",
+  "primary_image_url": "/legajos/legajo-25/images/061_132a.JPG"
+}

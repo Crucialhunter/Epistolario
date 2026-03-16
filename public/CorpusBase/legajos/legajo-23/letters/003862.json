@@ -1,0 +1,38 @@
+{
+  "legajo_id": "23",
+  "id_carta": "3862",
+  "order_in_legajo": 116,
+  "signatura": "205:3275.JPG",
+  "nombre_carta": "Carta de Esperança Tord i Bartrola a Pedro Santacilia y Pax",
+  "fecha_original": "7 de noviembre de 1656",
+  "lugar": "Barcelona",
+  "remitente": "Esperança Tord i Bartrola",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Senyor don Pedro, A v. m. tinc escrites moltes cartes i encara no he tingut resposta de ninguna (jo penso serà la causa de no haver-les rebudes) fent-li a saber la mort de don Francisco, el qual m'ha deixada desconsolada com v. m. pot pensar, amb dos fills, una minyona i un minyó, el qual pot v. m. tenir per molt gran servidor seu. Jo he sabut per un deute meu que dona Margarida era morta: Déu nostre la tinga en el cel i do[ni] a v. m. molts anys de vida en companyia de tots eixos senyors. La mia germana morí en Madrid cosa d'algun any. V. m. se servirà de fer-me mercè d'enviar-me una mantellada que jo pagaré el que serà. Tots els meus fills donen a v. m. els deguts besamans juntament amb mi. V. m. me mani d'esta sa casa en coses de son servei, que ho faré amb molt gran gust. Déu el guardi. De Barcelona, en el carrer del portal nou, avui als de novembre 7 de l'any 1656. Dona Esperança Tord i de Bartrola Transcripción literal"
+  ],
+  "literal": [
+    "1. Sr.2. Don Pedro a VM tinch escritas3. moltas cartas y encara no e tingut4. resposta de ninguna jo penso sera5. la causa de no haverlas Rebu6. das fenli a saber la mort de7. Don Fransisco lo qual me a8. dexada desconsolada com Vm pot9. pensar ab dos fills una minyona10. y un minyo lo qual pot Vm tenir11. p molt gran servidor seu Jo e sa12. but p un deuta meu q dona Margari 13. da era morta Deu nostre Sr. la tinga en lo14. cel y do a Vm molts anys de vida en15. companya de tots exos Señors, La mia jer 16. mana mori en madrid cosa de algun any17. Vm se servira de ferme marse18. de enviarme una mantellada q jo19. pagare lo q sera tots los meus fills donen20. a Vm los deguts besamans juntament21. ab mi Vm me man desta sa casa en 22. cosas de son servey q o fare ab molt gran gust23. Deu lo ge de Ba en lo carrer del portal nou vui24. als de 9bre 7 del any 165625. Dona esparansa Tord y 26. de Bartrola [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "205:3275.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo23/205:3275.JPG",
+      "url": "/legajos/legajo-23/images/205:3275.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "205:3275.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-23/cartas/003862.json",
+  "primary_image_url": "/legajos/legajo-23/images/205:3275.JPG"
+}

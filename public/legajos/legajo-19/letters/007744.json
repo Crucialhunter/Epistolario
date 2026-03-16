@@ -1,0 +1,42 @@
+{
+  "legajo_id": "19",
+  "id_carta": "7744",
+  "order_in_legajo": 48,
+  "signatura": "456_7865a.JPG",
+  "nombre_carta": "Carta de Persona desconocida a Pedro Santacilia y Pax",
+  "fecha_original": "fecha sin especificar",
+  "lugar": "Mallorca",
+  "remitente": "Persona desconocida",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Senyor mio la carta i dapara bini [?] famoses les dit anyo serà majores i todo els viene d'estes santíssimas manos mercè venerasim i LLETRA MOLT DÍFICIL Transcripción literal"
+  ],
+  "literal": [
+    "1. Señor mio la carta y dapara bini ?? 2. famossas las dit año sera majores 3. i todo los biene de estas santisimas 4. manos merse venerassim y 5. LLETRA MOLT DÍFICIL [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "456_7865a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo19/456_7865a.JPG",
+      "url": "/legajos/legajo-19/images/456_7865a.JPG"
+    },
+    {
+      "filename": "457_7865b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo19/457_7865b.JPG",
+      "url": "/legajos/legajo-19/images/457_7865b.JPG"
+    },
+    {
+      "filename": "458_7865c.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo19/458_7865c.JPG",
+      "url": "/legajos/legajo-19/images/458_7865c.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "456_7865a.JPG",
+  "warnings": [],
+  "raw_source": "raw/legajos/legajo-19/cartas/007744.json",
+  "primary_image_url": "/legajos/legajo-19/images/456_7865a.JPG"
+}

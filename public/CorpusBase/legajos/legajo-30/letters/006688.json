@@ -1,0 +1,43 @@
+{
+  "legajo_id": "30",
+  "id_carta": "6688",
+  "order_in_legajo": 189,
+  "signatura": "245:5526a.JPG",
+  "nombre_carta": "Carta de Basilio de Castellví y Ponce a Pedro Santacilia y Pax",
+  "fecha_original": "25 de junio de 1661",
+  "lugar": "Valencia",
+  "remitente": "Basilio de Castellví y Ponce",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Señor mío recibo su carta de v. m. que tenía bien deseada con particular alborozo viendo las buenas nuevas que se sirva de darme de su salud y de la de mi Sra. Doña Leonor cuyas manos con las de v. s. besamos muchas veçes Dña. Laura Giuseppe y yo que todos al servicio de v. s. que damos buenos, no he dejado de escribir en todas las ocasiones que se han ofrecido y he tenido notiçia mía [?] en ocasión que no escribiese a v. s. y no sé que sea la causa de faltar estas causas del Sr. don Juan a muchos dias no las tengo si bien por Diego Matias he sabido tiene la salud que sus servidores deseamos, y está muy bien hallado en palaçio Pareçeme muy bien la prebençion que se hace en ese reino para salir en corso contra los moros que tanto infectan esos mares y serán de grnde oposición las cuatro naves para reparo de tantos daños como ocasionan, muy buena dha ha sido la de haber hecho presa las galeras de Génova de Inavio y no es de menor consecuencia en Portugal. Las materias de acá corren siempre borasca en los omiçidios que se continuan y aunque la Justiçia hace cuanto que de nada basta para atajar tanto daño porque donde se marchita una flor salen dos mil espinas. [1§] Mucho se teme el ajuste del casamiento del inglés [?] de Isabel de Portugal materia queda harto cuidado y más cuando las prevenciones para la guerra de aquel reino corren con tan perecosos pasos bien diferentes de los del contrario de quien es damos superados en latente y demás pertrechos militares el caballo Blanço que v. s. me hizo favor salio famoso de todas maneras con que me pareçio subirle a mayor jerarquia pues lo merecía su presencia y abilidad y habrá 12 dias en compañía de otro le he enviado de presente al duque de Montalbo y su excelencia me dice aparecido famosa [?] y queda contentísimo no se me ofrece otra novedad de que dar cuenta a v. s. cuya vida guarde Nro Señor muchos años como deseo Valencia y 25 de junio de 1661 al fin el blanquillo subió al grado de mayor gerarquia, pues le monta un caballeriço mayor de la reina Nuestra Señora y un duque de Montalvo, aseguro a v. s. que me açe soledad en la caballeriza. Ba v. s. l mo su mor Servidor Sr. don Basilio de Castellvi y Ponçe Sr. D. Pedro Santa Silia y Pax [2§] Transcripción literal"
+  ],
+  "literal": [
+    "1. Señor mio recivo su carta de VM que tenia bien deseada 2. con particular alboroço biendo las buenas nuebas que se sirva 3. de darme de su salud y de la de mi Sª. Doña Leonor cuias manos 4. con las de VS. vesamos muchas veçes Dª Laura Jusepe y yo que 5. todos al servicio de VS que damos buenos, no he dejado de es6. crivir en todas las ocasiones que se an ofrecido y he tenido no7. tiçia mia [?] en ocasion que no escriviese a VS y no se que sea la 8. causa de faltar estas causas del Sr. Don Juan a muchos dias 9. no las tengo si bien por Diego Mathias he savido tiene la salud 10. que sus servidores deseamos, y esta mui bien hallado en palaçio 11. Pareçeme mui bien la prebençion que se haçe en ese Reino para 12. salir en corso contra los moros que tanto ynfectan esos mares 13. y seran de grnde oposicion las cuatro naves para reparo de tan14. tos daños como ocasionan, mui buena dha a sido la de haver 15. hecho presa las galeras de Jenova de Inavio y no es de menor 16. consequencia en portugal. 17. Las materias de aca coren siempre borasca en los omiçidios 18. que se continuan y aunque la Justiçia hace cuanto que de nada 19. basta para atajar tanto daño porque donde se marchita una 20. flor salen dos mil espinas. [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "245:5526a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo30/245:5526a.JPG",
+      "url": "/legajos/legajo-30/images/245:5526a.JPG"
+    },
+    {
+      "filename": "246:5526b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo30/246:5526b.JPG",
+      "url": "/legajos/legajo-30/images/246:5526b.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "245:5526a.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-30/cartas/006688.json",
+  "primary_image_url": "/legajos/legajo-30/images/245:5526a.JPG"
+}

@@ -1,0 +1,38 @@
+{
+  "legajo_id": "17",
+  "id_carta": "2897",
+  "order_in_legajo": 162,
+  "signatura": "279:1439.JPG",
+  "nombre_carta": "Carta de Jerónimo Pelegrín de Aragüés a Pedro Santacilia y Pax",
+  "fecha_original": "2 de junio de 1660",
+  "lugar": "Madrid",
+  "remitente": "Jerónimo Pelegrín de Aragüés",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Novedades no las tenemos sola esta es para avisar a. v. m. y que tenemos salud gracias a Dios y estoy aguardando cartas de v. m. con mucho deseo [?] Las Inclusas son del licenciado Jaime Bru que envía un despacho a Juan Petro noto suplico a. v. m. Mande se den a buen Recaudo. Guarde Dios a. v. m. muchos años como deseo y me Importa. Madrid. 2 de junio 1660. Su criado de v. m. Jeronimo Pelegrin Mi Sr. [1§] Transcripción literal"
+  ],
+  "literal": [
+    "1. Novedades no las tenemos sola esta 2. es para avisar a. V.M. y que tenemos 3. salut gracias a Dios y estoÿ aguardando 4. cartas de V.M. con mucho desseo?5. Las Inclussas son del Licendo Jaime 6. Bru que embia un despacho a Juan 7. Petro notto Supp[li]co a. V.M. Mande se den 8. a buen Recaudo.9. Gde Dios a. V.M. muchos años como 10. deseo y me Inporta. Madrid. 2 de 11. Junÿo 1660.12. Su Criado de VM13. Geronymo Pelegrin14. Mi Sr. [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "279:1439.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo17/279:1439.JPG",
+      "url": "/legajos/legajo-17/images/279:1439.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "279:1439.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (4)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-17/cartas/002897.json",
+  "primary_image_url": "/legajos/legajo-17/images/279:1439.JPG"
+}

@@ -1,0 +1,32 @@
+{
+  "legajo_id": "3",
+  "id_carta": "452",
+  "order_in_legajo": 16,
+  "signatura": "31-16",
+  "nombre_carta": "Carta de Miguel Sancho a Juan Miguel de Santacilia y Togores",
+  "fecha_original": "8 de julio de 1664",
+  "lugar": "Alicante",
+  "remitente": "Miguel Sancho",
+  "destinatario": "Juan Miguel de Santacilia y Togores",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Juan Seguals me ha escrito que el señor don Pedro y el señor don Gabriel están camino de Mallorca por vía de Barcelona. Vuestra merced lo verá con el pliego que va con esta. Aunque vuestra merced no me quiere mandar ninguna cosa, ya sabe que siempre me tiene muy suyo. Me holgaré goza de buena salud y que Dios le guarde muchos años. Alicante, julio a 8 de 1664. Servidor de vuestra merced, que sus manos besa, Miguel Sancho. Señor don Juan de Santacilia. Transcripción literal"
+  ],
+  "literal": [
+    "1. Juan Segual me aschrito que el Sr.2. don Predro y el Sr. don grabiel estan3. camino de Mallrca por via de basa4. lona vm lo vera con el plego5. va con esta6. Aunque vm no me quiere7. mandar ninguna cossa ya8. sabe que siemper me tiene 9. mui suyo, me olgare gossa10. de buena salut y que dios11. le gde muchos años Alicante12. julio a 8 de 1664.13. serdor de vm q s m b14. Miguel Sancho.15. Sr. don Juan de Sta cilia. [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "31-16.jpg",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo03/31-16.jpg",
+      "url": "/legajos/legajo-03/images/31-16.jpg"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "31-16.jpg",
+  "warnings": [],
+  "raw_source": "raw/legajos/legajo-03/cartas/000452.json",
+  "primary_image_url": "/legajos/legajo-03/images/31-16.jpg"
+}

@@ -1,0 +1,38 @@
+{
+  "legajo_id": "20",
+  "id_carta": "3302",
+  "order_in_legajo": 176,
+  "signatura": "347:6083.JPG",
+  "nombre_carta": "Carta de Nicolás de Santacilia y Togores a Leonor Santacilia i Despuig",
+  "fecha_original": "6 de enero de 1669",
+  "lugar": "Valencia",
+  "remitente": "Nicolás de Santacilia y Togores",
+  "destinatario": "Leonor Santacilia i Despuig",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Yo he abierto el pliego que va hoy por ver si había alguna carta mía y las he sacado, y así solo son estas dos rayas para hacérelo a saber a v. m. a quien Dios Guarde como deseo. Valencia a 6 de enero 1669. Don Nicolas Mi Sra. y mi madre [1§] Transcripción literal"
+  ],
+  "literal": [
+    "1. Jo[?] e habierto el pliego que va [?] 2. por ver si avia alguna carta mia 3. y las e sacado, y asi solo son estas dos 4. rayas para aserselo asaber a VM 5. a quien Dios Guarde como deseo Valen 6. çia a 6 de Enero 1669 7. Don Nicolas 8. mi Sra. y mi Madre [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "347:6083.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo20/347:6083.JPG",
+      "url": "/legajos/legajo-20/images/347:6083.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "347:6083.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-20/cartas/003302.json",
+  "primary_image_url": "/legajos/legajo-20/images/347:6083.JPG"
+}

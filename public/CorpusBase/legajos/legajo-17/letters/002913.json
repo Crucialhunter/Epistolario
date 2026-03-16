@@ -1,0 +1,38 @@
+{
+  "legajo_id": "17",
+  "id_carta": "2913",
+  "order_in_legajo": 179,
+  "signatura": "304:1455.JPG",
+  "nombre_carta": "Carta de Jerónimo Pelegrín de Aragüés a Pedro Santacilia y Pax",
+  "fecha_original": "28 de junio de 1660",
+  "lugar": "Madrid",
+  "remitente": "Jerónimo Pelegrín de Aragüés",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "com la buena ocasion del Capp Domenech escric estos Ringlons dient-li com don Juan i jo tenim salut gràcies a Dios ací la tinga v. m. i tots de casa com jo desigo. Jo tinc escrit a v. m. que aquí ens troba qui bulla dar un diner per eixa terra. v. m. en açò faci el que li aparega ací s'han de pagar dos vestits de don Juan que se li han fets i altres miseries necessàrias. El plet de la Inquisició [?] a Déu de Juny amb què crec estar despedit per tot aqueix més i estic aguardant llicència de v. m. per partir-me amb els Sr. don Rafel Martorell fill del senyor regent qui no deixarà de procurar bona embarcatio, En raó de dar memorial Sr. don Juan pel que se deu a v. m. 9 escuts que sa magestat no sia ací no hi ha que poder fer cosa perquè del consell ens pot aguardar cosa bona En el de l'apuntament aguart les certificatories per fer el possible. Déu guardi a v. m. molts anys com desig i tinc de menester. Madrid 28 Juny 1660 Son Criat Jeroni Pelegri Ma muller que no tinga {ESP. cuidado} que esti bo [?] [1§] Transcripción literal"
+  ],
+  "literal": [
+    "1. Con la buena ocassion del Sr. Capp Domenech 2. escrich estos Ringlons dientli com don Juan i jo 3. tenim salut gracias a Dios asi la tinga VM y tots 4. de cassa com jo desigo.5. Jo tinch escrit a VM que aqui nos trova qui bulla dar 6. un diner per exa terra. VM en asso fassa lo que li 7. aparega asi se han de pagar dos vestits de Don Juan 8. que se li han fets y altres miserias necessarias.9. Lo plet de la Inquisicio [?] a Deu de Juny 10. ab que crech estar despedit per tot aquex mes 11. y estich aguardant llicençia de VM per partirme 12. ab los Sr. don Rafel Martorell fill del señor 13. Regent qui no dexara de procurar bona embarcatio, 14. En raho de dar memorial don Juan per lo que se 15. deu a VM 9 escuts que sa Magestad no sia assi no ja 16. que poder fer cossa perque del Consell nos pot 17. aguardar cossa bona18. En lo del apuntament aguart las sertificatorias19. per fer lo possible. Deu guarde a VM mols añys com 20. desig y tinch de menester. Madrid 28 Juny 166021. Son Criat Geronym Pelegrin22. Ma muller que no tinga cuydado que esti bo? [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "304:1455.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo17/304:1455.JPG",
+      "url": "/legajos/legajo-17/images/304:1455.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "304:1455.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (4)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-17/cartas/002913.json",
+  "primary_image_url": "/legajos/legajo-17/images/304:1455.JPG"
+}

@@ -1,0 +1,38 @@
+{
+  "legajo_id": "25",
+  "id_carta": "4140",
+  "order_in_legajo": 73,
+  "signatura": "152_174.JPG",
+  "nombre_carta": "Carta de Pablo Corbella a Jerónimo Pelegrín de Aragüés",
+  "fecha_original": "10 de junio de 1667",
+  "lugar": "Càller (Cagliari)",
+  "remitente": "Pablo Corbella",
+  "destinatario": "Jerónimo Pelegrín de Aragüés",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Amigo y Sr. mío en pliego del Sr. D. Pedro que tengo entregado tengo escrito a v. m. después por el tiempo se ha detenido esta barca con que Giuseppe Cavanillas me ha dado las cartas que van con esta para su mujer. V. m. me haga favor de dárselas en propia mano, pues ya dice donde vive y hacerme merced de que reciba el dinero que escribo a v. m. en la otra que lo estimaré mucho .La que va para Isabel Cortes es en respuesta de una que me remitió el secretario Petillas. V. m. se la podrá dar que sabrá quien es. Guarde Nro. Sr. a v. m. muchos años en toda felicidad. Cáller y junio a 10 de 1667. Beso a v. m. las manos su amigo y servidor Pablo Corbella Al capitán Ballester tengo entregado otro pliego grande, v. m. se sirva que se [?] Sr. Jeronimo Pelegrin de Aragues. Transcripción literal"
+  ],
+  "literal": [
+    "1. Amigo y Sr. mio en pliego del Sr. D. Pedro que2. tengo entregado tengo escrito a Vm. despues por3. el tiempo se ha detenido esta barca con q Jusse4. pe Cavanillas me ha dado las cartas que van5. conesta para su muger Vm. me aga favor de6. darselas en propia mano pues ya diçe donde vive7. y hacerme md. de que reciva el dinero que escrivo8. a Vm. en la otro que lo estimare mucho=9. La que va para Ysabel Cortes es en respuesta de10. una que me remitio el sr. secretario Petillas Vm. se la11. podra dar que sabra quien es g[uard]e Nro. Sr. a Vm12. muchos años en toda felicidad Caller y Junio13. a 10 de 166714. Beso a Vm las manos15. su Amigo y servidor16. Pablo Corvella17. Al capn. Ballester tengo18. entregado otro pliego grande19. Vm se sirba que se labre[?]20. Sr. Geronimo Pelegrin de Aragues [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "152_174.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo25/152_174.JPG",
+      "url": "/legajos/legajo-25/images/152_174.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "152_174.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (4)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-25/cartas/004140.json",
+  "primary_image_url": "/legajos/legajo-25/images/152_174.JPG"
+}

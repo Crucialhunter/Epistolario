@@ -1,0 +1,37 @@
+{
+  "legajo_id": "22",
+  "id_carta": "3621",
+  "order_in_legajo": 4,
+  "signatura": "001:4967a.JPG",
+  "nombre_carta": "Carta de Felip Garras a Pedro Santacilia y Pax",
+  "fecha_original": "8 de marzo de 1627",
+  "lugar": "Génova",
+  "remitente": "Felip Garras",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Aquí envio les obres d'Antonio Perez, que en nom de v. m. m'han demanades. Servescas no iscan de ses mans que així serà segur tornarà en les mies, que com són coses úniques i privades causen apetit i lo recel de l'ocasió propínqua del sr. comte me fa témer. Però asseguren v. m., qui ho pot. De mi no faltaré quan convinga i fins a procurar una negra si convé. Guardi Déu a v. m., Genova, 8 març 1627. Sr. Felip Garras. [1§] A don Pedro Santacilia, guardi Nostre Sr. Transcripción literal"
+  ],
+  "literal": [
+    "1. Aqui envio les obres de Antonio Perez, que2. en nom de Vm. me an demanades. Servescas3. no iscan de ses mans que axi sera segur4. tornara en les mies que com son coses5. uniques y privades causen apetit y lo Resel6. de la ocasio propinqua del Sr. Comte me7. fa temer. Pero aseguran Vm. qui, o, pot8. de mi no faltare en quant convinga y fins 9. a Procurar una negra si conve. Gde. deu10. a Vm. Gerona, 8 mars 162711. S. Phelip Garra?? [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "001:4967a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo22/001:4967a.JPG",
+      "url": "/legajos/legajo-22/images/001:4967a.JPG"
+    },
+    {
+      "filename": "002:4967b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo22/002:4967b.JPG",
+      "url": "/legajos/legajo-22/images/002:4967b.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "001:4967a.JPG",
+  "warnings": [],
+  "raw_source": "raw/legajos/legajo-22/cartas/003621.json",
+  "primary_image_url": "/legajos/legajo-22/images/001:4967a.JPG"
+}

@@ -1,0 +1,38 @@
+{
+  "legajo_id": "18",
+  "id_carta": "3041",
+  "order_in_legajo": 74,
+  "signatura": "123:4880.JPG",
+  "nombre_carta": "Carta de Diego Matías de Aragüés a Pedro Santacilia y Pax",
+  "fecha_original": "6 de diciembre de 1662",
+  "lugar": "Madrid",
+  "remitente": "Diego Matías de Aragüés",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "No se me ofrece otro que decire sino que dio todas las cartas a sus dueños yalgunos van respondidas, que Por Barcelona tengo escrito y la Ultima por Valencia enun pliego grande de fueron las cuentas que v. m. medira si le haré recibido, y también mediga como parecieron los guantes yelrepartimiento que se hizo, y si en Valencia dio al gobernador ya su hijo Losq leseñale, Para eltocado iguantes de mi Sra. Dña. Leonor me digasi fuean apropósito. Por acá no hay de Una hija que están acá contentos y se han hecho Luminarias y su majestad dijo, al embajador de Francia ya tenemos nuera para España. Por acá hay salud todos los amigos y estas sas que acos [?] también venir acasa, ha hacerme merced están buenas Vesan a v. m. las manos y de Margarita y yo lo mismo y también, hacelamd [?] Ayer enterramos al buen J [?] Viante Govisiran Dios le haga perdonado y guarde a v. m. los muchos años que deseo Madrid a 6 dice 1662 de v. m. muy servidor que sus manos besa Diego Matias de Aragues Sr. don Juan de Santacilia [1§] Transcripción literal"
+  ],
+  "literal": [
+    "1. No seme offreze otro q deçire sino q dio 2. todas las cartas asus dueños yalgunos ban 3. respondidas, q Por Barcelona tengo escrito y 4. la Ultima por Valencia enun pliego grande 5. de fueron las qtas q Vm. medira si lehare 6. recivido, y tambien mediga como parecieron 7. los guantes yelrepartimto q se hizo, ysi 8. en Valencia dio al Gobernador ya su hijo 9. Losq leseñale, Para eltocado yguantes 10. de mi sra da Leonor me digasi fuean aproposito. 11. Poraca no ay de Una hija q estan aca con12. tentos y se han hecho Luminarias 13. Ysu M[a]gd dixo, al embaxador de francia 14. ya tenemos nuera pa España. 15. Poraca ay salud todos los amigos 16. y estas ssas q acos[?] tambien Venir 17. acasa, ha hazerme md estan buenas 18. Vesan a Vm. las manos y de Ma[r]gta 19. y yo lo mismo y Ytambien, hazelamd [?]20. Ayer enterramos al buen J[?] Viante 21. Govisiran dios le haga perdonado 22. yge a Vm. los mos años q deseo Md 23. a 6 dize 1662 24. de Vm. muy seror q s[u] m[] b[] 25. Diego Mathias de Aragues26. [Margen izquierdo][^ sr don Juan de sta Cilia]27. [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "123:4880.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo18/123:4880.JPG",
+      "url": "/legajos/legajo-18/images/123:4880.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "123:4880.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (3)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-18/cartas/003041.json",
+  "primary_image_url": "/legajos/legajo-18/images/123:4880.JPG"
+}

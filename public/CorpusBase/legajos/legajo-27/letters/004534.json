@@ -1,0 +1,43 @@
+{
+  "legajo_id": "27",
+  "id_carta": "4534",
+  "order_in_legajo": 7,
+  "signatura": "005:4343a.JPG",
+  "nombre_carta": "Carta de Juan Suñer a Pedro Santacilia y Pax",
+  "fecha_original": "8 de enero de 1627",
+  "lugar": "Madrid",
+  "remitente": "Juan Suñer",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Le vostre tinc rebuda dels 24 de desembre, en la qual me deis si havia rebuda una carta vostra i, per al duc de Maqueda i ens avisi com l'havia dada i també en l'estafeta passada vos avisí de les diligències que s' havien fetes en el relator de que s'aguardi bon principi en els negocis [?] així no hagi sinó tenir confiança se donarà algun remei a les annexions [?] fan vos a Mallorca i jo no perdé punt [?] La carta que em remeten i el duc de Maqueda les portarà el pare fra Maiol, juntament amb el majordom del duc amb un {ESP. recaudo} meu que jo estic en el llit amb que no és cosa de consideració. Som me folgat molt siau eixit tan airós d'aqueix encontre i així us diré el que jo he tengut. Dimecres a les deu de la tarda vingué un paisà en ma casa que li havia succeït un disgust i jo un criat meu féu a compensar-lo i essent a la {ESP. misma} part posaren mà i als primers caps rompé l'espasa. El meu camarada li prengué l'espasa del criat i tornà-la a rompre i així deixaren-me sol que els companys entraren dins d'una casa a prendre espasa i tancaren la porta i així m'{ESP. acometeren} a mi sol de què em donaren algunes ferides i no m'encarnaren sinó dos, una punta en el cap i a una cuixa travessada, que com jo no tenia sinó espasa i cap defensa Sr. D. Pedro Santacilia [1§] i així me abrací amb un en què abre company seu com [?] armats i broques me tirà alguns cops i acudí un alcalde de {ESP. corte} en què no es despartírem, ja gràcies a Nostre Sr. estic molt bo com tot es mirar-ia [?] seu ha de fer cas i que guardi {ESP. Dios} vos molts anys, de Madrid i gener a 8 de 1627. Fins ací no es diu quant partirà [?] aquella per [?]. El sobreescrit de la carta del duc Sicilia al {ESP. duque de Nejar y Maqueda} Transcripción literal"
+  ],
+  "literal": [
+    "1. Le vostre tinc Rabude De los 24 de 10bre9 en le2. qual me deis si avia rabuda una carte vostre [y, p?] el Duc3. de Maqueda y ens havisi com le avia dada y tanbe4. en le estafeta pasada vos avisi de les diligensias que 5. se avian fetas en lo relator de que se aguarde bon prinsi/6. pi en los negosis ? axi no aja sio tenir confianza se7. donera algun remei a les anexesions fan vos a mallorca i8. jo no perdepunt ? Le Carte que em remeten y el Duc9. de mequeda les aportera el para fra maiol juntament10. ab lo major doni del Duc ab un recaudo meu que Jo11. estic en el llit abe que no es cose de consideratio -12. Som me folgat molt siau axit tan airos de aqueix en/13. quantra y axi es dire el que jo he tengut dimecres14. a les deu de les tarde venge un peisa en me case15. que li avia socseit un disgust y jo un Criat meu feu16. a Compensarlo y asent a la misma part posaren ma17. y a los primes Caps rompe le espasa lo meu Camarade18. y prenge le espasa del Criat y torna le ronpe y axi19. dexaren me sol que los compaños entraren dins de 20. una Case a pendre espase y tencaren la porte y axi21. me acometeran a mi sol de que em donaren algunes22. farides y no me encarnaren sino dos ana punte anel23. Cap y e una cuxa trevesada que com jo no tenia 24. sino espasa y [ca...]10 defensa25. [inferior marge esquerre]: [illegible] Pedro Stasilla [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "005:4343a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo27/005:4343a.JPG",
+      "url": "/legajos/legajo-27/images/005:4343a.JPG"
+    },
+    {
+      "filename": "006:4343b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo27/006:4343b.JPG",
+      "url": "/legajos/legajo-27/images/006:4343b.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "005:4343a.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-27/cartas/004534.json",
+  "primary_image_url": "/legajos/legajo-27/images/005:4343a.JPG"
+}

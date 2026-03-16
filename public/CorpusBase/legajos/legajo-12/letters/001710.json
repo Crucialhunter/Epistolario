@@ -1,0 +1,43 @@
+{
+  "legajo_id": "12",
+  "id_carta": "1710",
+  "order_in_legajo": 208,
+  "signatura": "318_6303a.JPG",
+  "nombre_carta": "Carta de conde de Santa María de Formiguera a Pedro Santacilia y Pax",
+  "fecha_original": "16 de agosto de 1664",
+  "lugar": "Madrid",
+  "remitente": "conde de Santa María de Formiguera",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Con la de v. s. de 9 tengo envidia a su casa y así le suplico me la alquile por mucho más que la de Garriga por el buen agüero hay en ella en parir varones. v. s. goce muchos años el contento y les vea con dilatada sucesión. Yo estoy en el limbo de noticias de Mallorca por no tener carta de nadie y como Antonio está ocupado en sus competencias y censuras no tengo que aguardarlas. Muchos años ha que las cluecas levantan pollos como lo hicieron de mi ahora el conde de Ayamans para el empeño sea más duradero le añaden los compañeros no bastando el principal que es cosa sin fin ni desempeño. Novedad no hay ninguna que yo sepa, más que haber preso un alférez que vino con Jeronimo y las verduleras de la plaza dicen que por haber hablado sobre la muerte del marques de Almazan. También han reconocido la casa del almirante de Aragón con mucha prevención de gente y gracias a Dios no hallaron a nadie. Antonio Pascual Martorell síndico de Mallorca Dios se lo ha llevado esto mañaña a mejor vida [1§] con cuatro días de camas, Dios guarde a v. s. muchos años en salud, Madrid y agosto a 16 de 1664. Del sargento mayor Balell no tengo carta estoy en cuidado de su salud v. s. me avise si está bueno. El conde de Santa María de Formiguera Sr. don Pedro Santacilia y Pax [2§] Transcripción literal"
+  ],
+  "literal": [
+    "1. Con la de VS de 9 tengo envidia a su casa2. y ansi le suplico me la alquile por mucho mas3. que la de Garriga por el bue Ag&uulm;ero ay enella4. en parir barones VS goze muchos años el 5. contento y les vea con dilatada succession.6. Yo estoy en el limbo de notiçias de Mallorca7. por no tener carta de nadie y como Antonio8. esta ocupado en sus competenías y çenzuras9. no tengo que aguardarlas10. Muchos años ha que las cluecas llevantan11. pollos como lo hizieron de mi agora el Conde12. de Ayamans para el empeño sea mas13. duradero le añaden los compañeros no bas=14. tando el prinçipal que es cosa sin fin ni15. desenpeño.16. Novedad no ay ninguna que yo sepa mas17. que haver preso un Alferez que vino con Ge=18. ronimo y las verduleras de la plaça dizen19. que por haver hablado sobre la muerte del20. Marques de Almaçan tambien ha reconoçido21. la casa del Sr. Almirante de Aragon con mucha22. prevençion de gente y graçias a dios no halla=23. ren á nadie24. Antonio Pasqual Martorell sindico de Mall[or]ca25. Dios se lo ha llevado esto mañaña a mejor vida [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "318_6303a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo12/318_6303a.JPG",
+      "url": "/legajos/legajo-12/images/318_6303a.JPG"
+    },
+    {
+      "filename": "319_6303b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo12/319_6303b.JPG",
+      "url": "/legajos/legajo-12/images/319_6303b.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "318_6303a.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-12/cartas/001710.json",
+  "primary_image_url": "/legajos/legajo-12/images/318_6303a.JPG"
+}

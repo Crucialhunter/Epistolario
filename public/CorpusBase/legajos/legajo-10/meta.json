@@ -1,0 +1,66 @@
+{
+  "legajo_id": "10",
+  "num_cartas": 99,
+  "num_imagenes": 185,
+  "rango_temporal": [
+    1668,
+    1669
+  ],
+  "remitentes_frecuentes": [
+    {
+      "name": "Diego Matías de Aragüés",
+      "count": 17
+    },
+    {
+      "name": "Pedro Santacilia y Pax",
+      "count": 11
+    },
+    {
+      "name": "Gabriel Roger",
+      "count": 10
+    },
+    {
+      "name": "Miguel Malo",
+      "count": 9
+    },
+    {
+      "name": "José Balell",
+      "count": 8
+    }
+  ],
+  "destinatarios_frecuentes": [
+    {
+      "name": "Jerónimo Pelegrín de Aragüés",
+      "count": 98
+    },
+    {
+      "name": "Antoni Company",
+      "count": 1
+    }
+  ],
+  "lugares_frecuentes": [
+    {
+      "name": "Madrid",
+      "count": 49
+    },
+    {
+      "name": "Valencia",
+      "count": 11
+    },
+    {
+      "name": "Barcelona",
+      "count": 8
+    },
+    {
+      "name": "Alicante",
+      "count": 5
+    },
+    {
+      "name": "Càller (Cagliari)",
+      "count": 3
+    }
+  ],
+  "temas_frecuentes": [],
+  "warnings_count": 99,
+  "densidad_narrativa_estimada": "Media"
+}

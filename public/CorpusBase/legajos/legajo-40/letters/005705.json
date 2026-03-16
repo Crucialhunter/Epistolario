@@ -1,0 +1,37 @@
+{
+  "legajo_id": "40",
+  "id_carta": "5705",
+  "order_in_legajo": 44,
+  "signatura": "101:57a.JPG",
+  "nombre_carta": "Carta de Persona desconocida a Pedro Santacilia y Pax",
+  "fecha_original": "fecha sin especificar",
+  "lugar": "Mallorca",
+  "remitente": "Persona desconocida",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Deu el Sr. don Pedro de Santacilia al Sr. Joan Antonio de Puigdorfila curador de l'heretat del Sr. don Arnau de Santacilia qm. [?] quondam [?] el que es segueix [1§] Transcripción literal"
+  ],
+  "literal": [
+    "1. Deu lo Sr. Don Pedro de Sta Cilia anal Sr Joan Anttº de Puigdorfila curedor de la heretat del sr. Don Arnau de Sta Cilia qm.[?]quondam[?] lo ques seguex"
+  ],
+  "imagenes": [
+    {
+      "filename": "101:57a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo40/101:57a.JPG",
+      "url": "/legajos/legajo-40/images/101:57a.JPG"
+    },
+    {
+      "filename": "102:57b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo40/102:57b.JPG",
+      "url": "/legajos/legajo-40/images/102:57b.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "101:57a.JPG",
+  "warnings": [],
+  "raw_source": "raw/legajos/legajo-40/cartas/005705.json",
+  "primary_image_url": "/legajos/legajo-40/images/101:57a.JPG"
+}

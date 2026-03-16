@@ -1,0 +1,43 @@
+{
+  "legajo_id": "10",
+  "id_carta": "1143",
+  "order_in_legajo": 11,
+  "signatura": "018-309a",
+  "nombre_carta": "Carta de Pablo Corbella a Jerónimo Pelegrín de Aragüés",
+  "fecha_original": "16 de junio de 1668",
+  "lugar": "Càller (Cagliari)",
+  "remitente": "Pablo Corbella",
+  "destinatario": "Jerónimo Pelegrín de Aragüés",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Amigo y señor mío, Con el patrón Josep Pujol tengo escrito a v. m. y pídole se sirva enviarme ciento veinte palmos de una tela conforme la muestra y de la misma calidad que iba en la carta. El patrón Pujol no quiere aquí más de diez escudos y seis que pagué por dos caballos para llevarlos a alistarlos donde le dieron unos bastimentos que aún no me han enviado la cuenta ni sé lo que mentarlos: sabiéndolo, lo avisaré a v.m. Con una faluca que dejó el duque de Pomblín a los últimos días de marzo, avisé a v.m. cómo el capitán Bartolomé había entregado las dos cartas, no obstante que perdió el bajel. Cuando v.m. me envíe esta tela, la asegurará y me enviará la cuenta [1§] que tenemos entre los dos para saber cómo estamos. Y avíseme de novedades. A toda su familia de v.m. beso las manos. Guarde Nuestro Señor a v.m. como deseo muchos años. Caller (Cagliari) y junio, 16 de 1668. V. m. me avise dónde o cómo se halla nuestro amigo Petillas. Amigo y servidor de v. m. que su mano besa, Pablo Corbella Jeronimo Pelegrin y Aragues. Transcripción literal"
+  ],
+  "literal": [
+    "1. Amigo y Sr. mio con el Pn Jusepe Pujol 2. tengo escrito a V.M. y piddole se sirba 3. Ynviarme ciento y bente Palmos de una 4. tela conforme la muestra y de la mesma 5. calidad que yba en la carta=.6. El patron Pujol no quiere aquí mas de diez es 7. cudos y seys que pague por dos cavallos 8. pa. [^??^] [^??^] don de le dieron 9. unos bastimentos que aun no me an 10. ynviado la qta ni se lo que mentarla 11. saviendolo lo avisare a V.M.=. 12. Con una faluca que desso el De Sr. Po de 13. Pamblin a los ultimos de Marzo avise 14. a V.M. Como el Capª Bartolome avia en 15. tregado las sdos cartas no os tante que 16. perdio el vajel quando V.M. envie 17. esta tela la asegurara y me ynviara la quenta [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "018-309a.jpg",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo10/018-309a.jpg",
+      "url": "/legajos/legajo-10/images/018-309a.jpg"
+    },
+    {
+      "filename": "019-309b.jpg",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo10/019-309b.jpg",
+      "url": "/legajos/legajo-10/images/019-309b.jpg"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "018-309a.jpg",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING",
+      "message": "Se detectaron caracteres sospechosos de encoding (4)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-10/cartas/001143.json",
+  "primary_image_url": "/legajos/legajo-10/images/018-309a.jpg"
+}

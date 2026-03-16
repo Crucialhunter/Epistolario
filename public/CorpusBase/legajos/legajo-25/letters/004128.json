@@ -1,0 +1,43 @@
+{
+  "legajo_id": "25",
+  "id_carta": "4128",
+  "order_in_legajo": 63,
+  "signatura": "124_162a.JPG",
+  "nombre_carta": "Carta de Miguel Boscana a Jerónimo Pelegrín de Aragüés",
+  "fecha_original": "26 de mayo de 1667",
+  "lugar": "Mallorca",
+  "remitente": "Miguel Boscana",
+  "destinatario": "Jerónimo Pelegrín de Aragüés",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Sr. Jeroni per alet breu i després de les moltes {ESP. encomendacions} que se m'oferiren a donar-li, he sabut que la [?] Gabriel Berga a eixit jurat del regne que m'ha obligat escriure a v. m. si em faria mercè del vilatge de Llucmajor, que jo ho rebre al molta mercè i així v. m. serà servit prendre aqueix treball per esta ocasió, que en altres semblants ocasions jo faré el mateix per ell. D'esta sa casa i maig 26 de 1667. De v. m. criat Miguel Boscana, pastor [1§] A Jeroni Palegri, que Déu guardi. En Ciutat. Transcripción literal"
+  ],
+  "literal": [
+    "1. Sor. Hieroni per alet breu y denpres de las moltas enco2. mandations q se me ofaren a donarli he sebut q la [?]3. gabriel berga a axit jurat del Regna de q mea obligat4. escriura a V.m. sim faria meré de lo vilatje de lluma5. jor q jo an rebre al molta merçe y axi V.m. sera servit6. pendra aquix trebal per esta ocasio q en altres semblans7. ocasions jo fare lo matex per ell desta se case y maig 268. de 16679. De V.m. criat miguel boscane pestor [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "124_162a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo25/124_162a.JPG",
+      "url": "/legajos/legajo-25/images/124_162a.JPG"
+    },
+    {
+      "filename": "125_162b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo25/125_162b.JPG",
+      "url": "/legajos/legajo-25/images/125_162b.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "124_162a.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (4)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-25/cartas/004128.json",
+  "primary_image_url": "/legajos/legajo-25/images/124_162a.JPG"
+}

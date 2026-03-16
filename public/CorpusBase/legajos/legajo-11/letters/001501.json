@@ -1,0 +1,43 @@
+{
+  "legajo_id": "11",
+  "id_carta": "1501",
+  "order_in_legajo": 269,
+  "signatura": "456:5356a.JPG",
+  "nombre_carta": "Carta de Jerónimo Pelegrín de Aragüés a Pedro Santacilia y Pax",
+  "fecha_original": "23 de septiembre de 1665",
+  "lugar": "Madrid",
+  "remitente": "Jerónimo Pelegrín de Aragüés",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Por vía de Barcelona tengo dado aviso a v. s. de la muerte de su majestad que goce de Gloria, ha quedado gobernado la reina Nuestra Sra. con la Junta de los siguientes el Arzobispo de Toledo que fuere el que lo rea murió 24 horas después del Rey. presidente de Castilla que es hoy el conde de Castrillo, el vicecanciller de Aragón y se ha calzado excelencia con este nuevo título con que si v. s. no debe de dársela por noble grande al marques de Itona, el inquisidor general cardenal Sr. don Pascual y por haio de su Magestd el de Penaranda. Por ahora no se trata más de los despachos y órdenes para los reinos que estén con preven ción. Podra ser me parta muy presto sino hay novedad en casa de los Pax es del Rey. En lo demás me remito siendo Dios servido a la vista para decir a boca. Aquí está muy valido y se habla con arta [1§] claridad de que el conde de Medellin va por virrey a Nápoles no está publicado con que no se puede hablar en esto más largo Dios lo haga como conviene;a me dicho que como veia las cosas diferentes y con algunas decasiones en lo que ha pasado para la jornada de la señora emperatriz no ha respondido a las cartas que lo hará ahora con toda largueza a mi Sra. y a don Juan bese la mano con las de v. s. que guarde Dios los muchos años que deseo y he de menester. Madrid 23 de septiembre 1665 Su criado de v. s. que B. s. m. Jeronimo Pelegrin Sr. don Pedro mío [2§] Transcripción literal"
+  ],
+  "literal": [
+    "1. Por via de Barcelona tengo dado aviso 2. a VS de la muerte de su Magd que goçe de 3. Gloria, a quedado governado la Reyna Nuestra 4. Sra. con la Junta de los siguientes el Arzobispo 5. de Toledo que fuere el que lo rea murio 6. 24 horas despues del Rey. Presidente de 7. Castilla que es oy el Conde de Castrillo, el sr. 8. Vicecanciller de Aragon y se ha calçado exa 9. con este nuevo titulo con que si VS no debe de 10. darsela por noble84 sr. Grande al sr. Marques 11. de Itona, el sr. Inquisidor General Cardenal don Pasqual y por haio de su Magd el sr. 12. de Penaranda. 13. Por agora no se trata mas de los despachos y 14. ordenes para los Reynos que esten con preven 15. cion 16. .17. Podra ser me parta muy presto sino hay novedad 18. en cassa de los Paxes del Rey. 19. En lo demas me remito siendo Dios servido 20. a la vista para decir a boca. 21. Aqui esta muy valido y se habla con arta [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "456:5356a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo11/456:5356a.JPG",
+      "url": "/legajos/legajo-11/images/456:5356a.JPG"
+    },
+    {
+      "filename": "457:5356a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo11/457:5356a.JPG",
+      "url": "/legajos/legajo-11/images/457:5356a.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "456:5356a.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (4)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-11/cartas/001501.json",
+  "primary_image_url": "/legajos/legajo-11/images/456:5356a.JPG"
+}

@@ -1,0 +1,48 @@
+{
+  "legajo_id": "3",
+  "id_carta": "445",
+  "order_in_legajo": 5,
+  "signatura": "14-8a",
+  "nombre_carta": "Carta de Margarita de la Higuera y Quiñones a Juan Miguel de Santacilia y Togores",
+  "fecha_original": "1 de noviembre de 1662",
+  "lugar": "Madrid",
+  "remitente": "Margarita de la Higuera y Quiñones",
+  "destinatario": "Juan Miguel de Santacilia y Togores",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Señor don Juan de Santacilia. Senor mío, Aunque fue de tanto consuelo para mí su carta de vuestra merced, con todo no pude dejar de volver a las lágrimas; cuando se fue, de pena, y ahora, de contento de haber visto letra de vuestra merced y saber llegó tan bueno a los ojos del señor don Pedro, cosa que me tenía con tanto cuidado que en esto y en lo que quiero a vuestra merced bien merezco el nombre que me da. Y así le suplico no excuse el mandarme, que será para mí el mayor favor que me puede hacer. A todas las señoras he dado sus recados de vuestra merced y se han holgado mucho y besan a vuestra merced las manos. Ha de saber que el doctor Vera, después de haber puéstose de clérigo muy reverendo, amaneció casado. Doña Juana de [He]rrera con un nieto está muy contenta. Doña María Artas muy al contrario, porque en tres días fue Dios servido de llevarse a don Juan de Santiago, que ha sido gran lástima. Estas son las novedades que tenemos desde que vuestra merced se fue. El rey no está tomando las unciones, y así no responde a vuestra merced. Isabel besa a vuestra merced la mano, que ya está muda y así no miente. Y diga vuestra merced a Juan que como está pasando rosarios con mi sobrino no se acuer- Señor don Pedro de Santacilia [1§] da de nadie. Y perdone vuestra merced lo que le canso, y hágame merced de cumplir por mí con el señor don Pedro y mi señora, su madre, y hermanos; y quédeseme con Dios, que me guarde a vuestra merced como deseo y he menester. Madrid, noviembre. Servidora de vuestra merced que su mano besa, doña Margarita de la Higuera y Quiñones. [2§] Madrid. De doña Margarita de la Higuera y Quiñones, mujer de Diego Matias de Aragues. Recibida 28 febrero 1663, para don Juan de Santacilia. {CAT. Ha de respondre el senyor don Joan de Santacilia perquè estes cartes són sues.} Respuesta a 24 de mayo 1663. Transcripción literal"
+  ],
+  "literal": [
+    "1. Senor myo, aunq fue de tanto con que lo pa 2. my su carta de vm con todo no pude dejar3. de bolver a las lagrymas quando se fue4. de pena y aora de contento de aber bysto5. letra de vm y saber llego tan bueno6. a los ojos del señor don perdro cosa q me7. tenya con tanto cuydado q en esto y en lo8. q quyero a vm byen mereco el nonbre9. q me da y asy le suplyco no escuse el10. mancarme q sera para my el mayor11. fabor q me puede acer a todas las señoras12. e dado sus recados de vm y se an holagado13. mycho y besan a vm las manos14. a de saber q el dotor bera despues de aber15. puestose de celrygo m[^uy] reberendo amane16. cyo casado doña Juana de rera con un17. nyeto esta muy contenta doña marya18. artas muy alecontraryo por q en tres19. dyas fue dyos serbydo de llebarse20. a don Juan de Santyago q a sydo gran21. lastyma = estas son las nobedades q tene22. mos des de q vm se fue el rey no esta23. tomando las uncyones y asy no respon24. de a vm ysabel besa a vm la mano25. q ya esta muda y asy no myente26. y dyga vm a Juan q como esta pasan27. do rosaryos con my sobryno no se acuer28. [en el margen izquierdo]29. señor don Juan de30. santecylla [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "14-8a.jpg",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo03/14-8a.jpg",
+      "url": "/legajos/legajo-03/images/14-8a.jpg"
+    },
+    {
+      "filename": "15-8b.jpg",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo03/15-8b.jpg",
+      "url": "/legajos/legajo-03/images/15-8b.jpg"
+    },
+    {
+      "filename": "16-8c.jpg",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo03/16-8c.jpg",
+      "url": "/legajos/legajo-03/images/16-8c.jpg"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "14-8a.jpg",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-03/cartas/000445.json",
+  "primary_image_url": "/legajos/legajo-03/images/14-8a.jpg"
+}

@@ -1,0 +1,43 @@
+{
+  "legajo_id": "25",
+  "id_carta": "4107",
+  "order_in_legajo": 41,
+  "signatura": "084_141a.JPG",
+  "nombre_carta": "Carta de Diego Matías de Aragüés a Jerónimo Pelegrín de Aragüés",
+  "fecha_original": "20 de abril de 1667",
+  "lugar": "Madrid",
+  "remitente": "Diego Matías de Aragüés",
+  "destinatario": "Jerónimo Pelegrín de Aragüés",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Después de haber recibido todas las cartas y respondido a ellas he recibido otra por Valencia de 27 del pasado en que me avisa v. m. envía la cajuela de las sobrasadas con el patrón Juan Camps, para que las entregue a Viguet. Escríbole esta noche para que me diga si la ha recibido y me la remita, a las demás cartas a todas tengo respondido con que no se ofrece que decir. Conforme lo que me ha dicho el señor don Miguel Salva se partirá de aquí a la mitad del que viene. El Sr. don Nicolás después que está en mi casa que ha[ce] siete días está muy mejorado. Espero como el médico le va curando que ha de tener salud presto. Hele dado sus recados de v. m. le envía los mismos. En casa estamos todos buenos, a Dios gracias, muchas saludes para v. m. y mi sobrina y niños y guarde Dios como deseo. Madrid a 20 de abril de 1667. Tío y servidor de v. m. Diego Matias de Aragues Sr. Jeronimo Pelegrin de Aragues, mi sobrino [1§] A Jeronimo Pelegrin de Aragues, mi sobrino. Guarde Dios. Mallorca 20 Abril 1667, de mi tío, Diego Matias de Aragues. De Madrid. Tiene respuesta a 6 de mayo 1667. Transcripción literal"
+  ],
+  "literal": [
+    "1. Despues de haver reçivido todas las cartas y respon2. dido a ellas he reçivido otra por Valencia de 27 del3. passado en que me avissa Vmd. invia la caxuela de4. las sobreassadas con el Patron Juan Camps para q5. las entrege a Viguet, escrivole esta noche para que6. me diga si la ha reçivido y me la remita, a las7. demas cartas a todas tengo respondido con que no se8. ofreçe que deçir. Conforme lo que me ha d[ic]ho el Señor9. Don Miguel Salva se partira de aqui a la mitad10. del que viene11. El Sr. Don Nicolas degsues q esta en mi cassa12. q ha siete dias esta muy megorado, espero como13. el medico le va curando que ha de tener salud presto14. ele dado sus recados de Vmd. le invia los mismismos (sic)15. En cassa estamos todos buenos a Dios gracias muchas saludes16. para Vmd. y mi sobrina y niños y gde Dios como17. desseo Madrid a 20 de Abril de 166718. Tio y ser[vid]or de Vm19. Diego Mathias de Aragues20. Sr. Geronimo Pelegrin de Aragues mi sobrino [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "084_141a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo25/084_141a.JPG",
+      "url": "/legajos/legajo-25/images/084_141a.JPG"
+    },
+    {
+      "filename": "085_141b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo25/085_141b.JPG",
+      "url": "/legajos/legajo-25/images/085_141b.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "084_141a.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (7)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-25/cartas/004107.json",
+  "primary_image_url": "/legajos/legajo-25/images/084_141a.JPG"
+}

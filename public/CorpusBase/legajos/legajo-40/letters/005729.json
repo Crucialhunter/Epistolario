@@ -1,0 +1,32 @@
+{
+  "legajo_id": "40",
+  "id_carta": "5729",
+  "order_in_legajo": 56,
+  "signatura": "213:81",
+  "nombre_carta": "Carta de Persona desconocida a Persona desconocida",
+  "fecha_original": "fecha sin especificar",
+  "lugar": "Mallorca",
+  "remitente": "Persona desconocida",
+  "destinatario": "Persona desconocida",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Un compte [1§] Transcripción literal"
+  ],
+  "literal": [
+    "1. Un compte"
+  ],
+  "imagenes": [
+    {
+      "filename": "213:81.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo40/213:81.JPG",
+      "url": "/legajos/legajo-40/images/213:81.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "213:81.JPG",
+  "warnings": [],
+  "raw_source": "raw/legajos/legajo-40/cartas/005729.json",
+  "primary_image_url": "/legajos/legajo-40/images/213:81.JPG"
+}

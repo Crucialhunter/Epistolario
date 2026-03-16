@@ -1,0 +1,38 @@
+{
+  "legajo_id": "20",
+  "id_carta": "7864",
+  "order_in_legajo": 190,
+  "signatura": "367:6097.JPG",
+  "nombre_carta": "Carta de Magín Ribes a Pedro Santacilia y Pax",
+  "fecha_original": "8 de mayo de 1669",
+  "lugar": "Ibiza",
+  "remitente": "Magín Ribes",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Ilustrísimo Sr. don Pedro Ya tengo escrito más largamente a v. s. en orden de las cosas tocantes al real patriminio, solo hago estos renglones dando la enhorabuena a mi señora doña Leonor de la vuelta de v. s. en su casa, que la goce para muchos años. Por manos del patrón Jaime Palau recibirá v. s. dos canteros de miel de romero de la más pura que se ha hallado. Suplico a v. s. reciba mi voluntad que si el regalo fuere a tan grande como ella no me dolería [?] tan afrentado [?] como quedo. v. s. me mande en muchas cosas de su servicio que a todas ellas será obedecido y les guarde el Cielo como puede y deseo. Ibiza y mayo a 8 de 1669. Servidor de v. s. que sus manos besa Magin Ribes Transcripción literal"
+  ],
+  "literal": [
+    "1. ill<[?]> Sr. Don Pedro 2. Ya tengo escrito mas largamente a 3. VS en horden de las cossas tocantes 4. al Real Patriminio solo hago estos 5. Riglones dando la anorabuena a 6. mi Señora Dona Alianor de la buelta 7. de V.S. en su cassa que la gose para 8. muchos Años 9. Por manos del patron Jayme Palau[?] 10. Resibira VS dos canteros de miel de 11. Romero de la mas pura que se ha allado 12. Supp[li]co a VS Resibe mi voluntat 13. que si el Regalo fuere a tan grande 14. como ella no me dolaria[?] tan afron- 15. tado[?] como quedoV.S. me mande en 16. muchas cossas de su servicio que a 17. todas ellas sera obedesido y les gde 18. el cielo como puede y desejo Iviça 19. y Majo a 8 de 1669 20. Servidor de V.S. q s m B 21. Magin Ribes [?] [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "367:6097.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo20/367:6097.JPG",
+      "url": "/legajos/legajo-20/images/367:6097.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "367:6097.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-20/cartas/007864.json",
+  "primary_image_url": "/legajos/legajo-20/images/367:6097.JPG"
+}

@@ -1,0 +1,37 @@
+{
+  "legajo_id": "19",
+  "id_carta": "7529",
+  "order_in_legajo": 84,
+  "signatura": "031_cg11a.JPG",
+  "nombre_carta": "Carta de Pedro Santacilia y Pax a Pedro Santacilia y Pax",
+  "fecha_original": "fecha sin especificar",
+  "lugar": "Mallorca",
+  "remitente": "Pedro Santacilia y Pax",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Compte del senyor don Pedro de Santacilia Transcripción literal"
+  ],
+  "literal": [
+    "1. Comte del Sor don pedro de Santasilia1."
+  ],
+  "imagenes": [
+    {
+      "filename": "031_cg11a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo19/031_cg11a.JPG",
+      "url": "/legajos/legajo-19/images/031_cg11a.JPG"
+    },
+    {
+      "filename": "032_cg11b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo19/032_cg11b.JPG",
+      "url": "/legajos/legajo-19/images/032_cg11b.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "031_cg11a.JPG",
+  "warnings": [],
+  "raw_source": "raw/legajos/legajo-19/cartas/007529.json",
+  "primary_image_url": "/legajos/legajo-19/images/031_cg11a.JPG"
+}

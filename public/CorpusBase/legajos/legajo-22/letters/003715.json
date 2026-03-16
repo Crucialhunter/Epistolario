@@ -1,0 +1,38 @@
+{
+  "legajo_id": "22",
+  "id_carta": "3715",
+  "order_in_legajo": 97,
+  "signatura": "174:5084.JPG",
+  "nombre_carta": "Carta de Isidro Marqués a Pedro Santacilia y Pax",
+  "fecha_original": "19 de diciembre de 1665",
+  "lugar": "Madrid",
+  "remitente": "Isidro Marqués",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Señor mío. No cumpliera con mi obligación si no deseara a v. s. estas santas pascuas del nacimiento de Nro. Sr. con la buena salud y felicidad que mi voluntad solicita, esperando sigan otras muchas. Doy noticia a v. s. de como a tres días que su majestad me concedió los honores del título de Srio. por la corona de Aragón, bien contra la voluntad de los del consejo y vicecanciller, que lo han repugnado, pero estos demás Sres. de la junta me hacen merced. v. s. ya sabe cuan a su obediencia me tiene siempre para ejecutar sus mandatos. La jornada de la Sra. emperatriz según se dice será para Abril o Mayo, con que poco antes podrá Jerónimo venir. Dios guarde a v. s. muchos años como puede. Madrid a 19 de diciembre de 1665. Mayor servidor de v. s. que sus manos besa Isidro Marques La inclusa es del Sr. D. Blasco y la de mi la mandará v. s. remitir. Sr. D. Pedro de Santacilia Transcripción literal"
+  ],
+  "literal": [
+    "1. Señor mio. No cumpliera con mi obli2. gacion si no desseara a VS. estas Stas. 3. Pasquas del nacimiento de nro. Sr. con4. la buena salud y felicidad que mi volun[ta]d5. solicita, esperando singan otras muchas.6. Doy noticia a VS. de como á tres dias 7. que su Mgd. me concedio los honores8. del titulo de Srio.?? por la Corona de Aragon9. bien contra la voluntad de los del Consº10. y sr. Vecicanciller, que lo han repugnado11. pero estos demas Sres. de la Junta me 12. hazen m[erce]d. VS. ya sabe quan á su13. obediencia me tiene siembre para exe14. cutar sus mandatos ? La jornada15. de la sra. Emperatriz segun se dize16. sera para Abril,.o, Mayo, con que poco17. antes podra Germº. venir. Dios gde.18. a VS muchos años como puede. Madrid19. a 19 de Diz[iembr]e de 1665? 20. Maior serv[i]dor de VS qsmB21. Isidro Marques22. [^La inclussa23. es del Sr. D Blasco24. y la de mi Sr.25. la mandara Vsa.26. remitir]27. Sr. D. Pº de Santacilia [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "174:5084.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo22/174:5084.JPG",
+      "url": "/legajos/legajo-22/images/174:5084.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "174:5084.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-22/cartas/003715.json",
+  "primary_image_url": "/legajos/legajo-22/images/174:5084.JPG"
+}

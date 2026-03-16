@@ -1,0 +1,37 @@
+{
+  "legajo_id": "19",
+  "id_carta": "7776",
+  "order_in_legajo": 70,
+  "signatura": "502_7975a",
+  "nombre_carta": "Carta de Pedro Santacilia y Pax a Persona desconocida",
+  "fecha_original": "fecha sin especificar",
+  "lugar": "lugar sin especificar",
+  "remitente": "Pedro Santacilia y Pax",
+  "destinatario": "Persona desconocida",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "copia de carta escrita per [?] governador de la plaça del [?] Al marques de MortaraEsta noche passada comenzo el príncipe de comte [?] que tenia en els ata que és i als dos dio fuego als viveres [?] les trincheras i encaminàndose todo a su puente [?] doblando de la otra part nosotros quedamos d'haciendo els ata que és i gozosos LLETRA GAIREBÉ INVISIBLE Transcripción literal"
+  ],
+  "literal": [
+    "1. Copia de carta escrita por [?] governador de la plaça del 2. ?? Al Marques de Mortara3. Esta noche pasada comenzo el Principe de Conde [?] 4. ?? que tenia en los ataques y a los dos dio fuego a los 5. viveres [?] las trincheras y encaminandose todo asu puente 6. ?? doblando de la otra parte nosotros quedamos de haciendo los 7. ataques y gozosos LLETRA GAIREBÉ INVISIBLE [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "502_7975a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo19/502_7975a.JPG",
+      "url": "/legajos/legajo-19/images/502_7975a.JPG"
+    },
+    {
+      "filename": "503_7975b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo19/503_7975b.JPG",
+      "url": "/legajos/legajo-19/images/503_7975b.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "502_7975a.JPG",
+  "warnings": [],
+  "raw_source": "raw/legajos/legajo-19/cartas/007776.json",
+  "primary_image_url": "/legajos/legajo-19/images/502_7975a.JPG"
+}

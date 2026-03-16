@@ -1,0 +1,43 @@
+{
+  "legajo_id": "29",
+  "id_carta": "6497",
+  "order_in_legajo": 199,
+  "signatura": "296:4314a.JPG",
+  "nombre_carta": "Carta de Diego Matías de Aragüés a Pedro Santacilia y Pax",
+  "fecha_original": "6 de mayo de 1665",
+  "lugar": "Madrid",
+  "remitente": "Diego Matías de Aragüés",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Transcripción literal"
+  ],
+  "literal": [
+    "1. 1."
+  ],
+  "imagenes": [
+    {
+      "filename": "296:4314a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo29/296:4314a.JPG",
+      "url": "/legajos/legajo-29/images/296:4314a.JPG"
+    },
+    {
+      "filename": "297:4314b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo29/297:4314b.JPG",
+      "url": "/legajos/legajo-29/images/297:4314b.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "296:4314a.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (3)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-29/cartas/006497.json",
+  "primary_image_url": "/legajos/legajo-29/images/296:4314a.JPG"
+}

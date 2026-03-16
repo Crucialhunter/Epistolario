@@ -1,0 +1,43 @@
+{
+  "legajo_id": "6",
+  "id_carta": "658",
+  "order_in_legajo": 158,
+  "signatura": "237-122a",
+  "nombre_carta": "Carta de Bartolomé Campamar a Cecilia Zaforteza y Sureda de Sant Martí",
+  "fecha_original": "23 de septiembre de 1773",
+  "lugar": "Palma",
+  "remitente": "Bartolomé Campamar",
+  "destinatario": "Cecilia Zaforteza y Sureda de Sant Martí",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Muy sor. mío, En cumplimiento de lo mandado por su ilustrísima, mi sor., con decreto del día 13 de octubre del año próximo pasado para que tenga el debido efecto la real provisión del Consejo expedida en 23 de julio anterior, dirigida entre otras cosas a que Su Ilustrísima se cerciore de las necesidades que padezcan las iglesias parroquiales y las cantidades que cada una haya de menester, así para los reparos que de contado sean precisos en ellas, como para su subsistencia en lo sucesivo, y procure también averiguar lo que cada interesado, o perceptor de diezmos percibe, a fin de hacer el correspondiente prorrateo de lo que cada uno deberá contribuir, lo pongo en noticia de V. como interesado que es en la percepción de diezmos de la parroquia de la Villa de Artá para que exponga por este oficio lo que tuviere por conveniente a la equitativa regulación, que deberá ejecutarse con arreglo a la mente del Sto. Concilio, y a las circunstancias y decente manutención de aquéllos, en la inteligencia de que en caso de excusa a manifestar las porciones [1§] de diezmos que lleva V., se procederá según previera dicha Real Orden al secuestro de todas las que le corresponden hasta tanto que se pueda liquidar y verificar la cantidad con que deberá contribuir. Y del recibo de ésta se servirá darme aviso. Nro. Señor guarde a V. mucho años como deseo. Palma y setiembre 23 de 1773. Besa las manos de V. su seguro afecto servidor, Bartolomé Campamar [?] subs [?] to de la Curia Eclesiástica. [?] Da. Cecilia Zaforteza, viuda. Transcripción literal"
+  ],
+  "literal": [
+    "1. Muy Sor. mio: En cumplimto de lo mandado por Su 2. Illma mi Sor. con decreto del dia 13 de octte del año 3. proximo pasado paraq[u]e tenga el devido efecto la Rl 4. Provon del Consejo expedida en 23 de julio anterior , 5. dirigida entre otras cosas a que Su Illma se cerciore 6. de las necessidades que padescan las Iglesias Parroquiales , 7. y las cantidades que cada una haya de menester, assi 8. para los reparos que de contado sean presisos en ellas, 9. como para su subsistencia en lo successivo, y procure 10. tambien averiguar lo que cada interesado, ó Per- 11. ceptor de Diezmos persibe á fin de hazer el corres- 12. pondiente prorateo de lo que cada uno devera con- 13. tribuhir; lo pongo en noticia de V. como interesado 14. que es en la percepción de Diezmos dela Parroquia 15. de la Villa de Artá paraque exponga por este oficio 16. lo que tuviere por conveniente á la equitativa regu- 17. lacion, que devera executarse con arreglo a la men- 18. te del Sto. Concilio, y á las circunstancias, y decente 19. manutencion de aquellos, en la intelligencia de 20. que en caso de escusa á manifestar las porciones [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "237-122a.jpg",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo06/237-122a.jpg",
+      "url": "/legajos/legajo-06/images/237-122a.jpg"
+    },
+    {
+      "filename": "238-122b.jpg",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo06/238-122b.jpg",
+      "url": "/legajos/legajo-06/images/238-122b.jpg"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "237-122a.jpg",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (2)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-06/cartas/000658.json",
+  "primary_image_url": "/legajos/legajo-06/images/237-122a.jpg"
+}

@@ -1,0 +1,38 @@
+{
+  "legajo_id": "20",
+  "id_carta": "3157",
+  "order_in_legajo": 32,
+  "signatura": "036:5938.JPG",
+  "nombre_carta": "Carta de Bernardo Henríquez a Pedro Santacilia y Pax",
+  "fecha_original": "2 de septiembre de 1655",
+  "lugar": "Madrid",
+  "remitente": "Bernardo Henríquez",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Con mucho gusto damos a v. s. la enhorabuena de la merced que su majestad, Dios le guarde, ha sido servido hacerle del oficio de procurador real de ese reino. Gócelo v. s. muchos años como deseamos sus servidores y le suplicamos se acuerde de las [?] que siempre se acostumbra en semejantes ocasiones [?] pues siempre nos tendrá prontos a su servicio [?]. Guarde Dios a v. s. muchos años como todos deseamos Madrid y septiembre 2 de 1655. Los porteros del Consejo Supremo de Aragón que besan a v. s. la mano Gaspar Romero, Miguel Malo, Francisco Nuñez de Estiarte, Agustin Marin, Bernardo Henriquez Sr. D. Pedro Santacilia y Pax Transcripción literal"
+  ],
+  "literal": [
+    "1. Con mucho gusto Damos a VS Lanora Buena. 2. de la mrd que su magd Dios le guarde a sido 3. servido hazerle del Offizio de Procurador 4. Rl desse Reyno gozelo VS muchos años como. 5. Desseamos sus servidores y le suplicamos 6. se acuerde de las adbirçias[?]q siempre se 7. acostumbra en semagantes ócasiones[y?] pues siempre 8. Nos tendra pronttos a su ser servizio[?] gde Dios aVS. 9. muchos años Como Todos deseamos md.[?] 10. y Settre de 1655 11. Los porteros del Consso[?] Suppmo[?] de aragon[?] 12. q bessan a VSa la mano 13. Gaspar Romero Miguel Malo[?] 14. Franco[?] Agustin Marin 15. Berdo[?] Henrriquez 15]16. Sr D.Po Santazilia y Pax [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "036:5938.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo20/036:5938.JPG",
+      "url": "/legajos/legajo-20/images/036:5938.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "036:5938.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-20/cartas/003157.json",
+  "primary_image_url": "/legajos/legajo-20/images/036:5938.JPG"
+}

@@ -1,0 +1,43 @@
+{
+  "legajo_id": "16",
+  "id_carta": "2524",
+  "order_in_legajo": 10,
+  "signatura": "013:2024a.JPG",
+  "nombre_carta": "Carta de Conde de Zavellá a Pedro Santacilia y Pax",
+  "fecha_original": "21 de enero de 1667",
+  "lugar": "Madrid",
+  "remitente": "Conde de Zavellá",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Señor mío siempre son para mi de suma estimación y gusto las cartas de v. s. y así no dejar de solicitar las siempre que tuviere ocasión yo he estado en la cama, casi tres meses con una larga enfermedad y ahora con las reliquias de ella. En esta maldita gota que no me permite estar en pie he pasado un mal invierno bien diferente del que v. s. habrá tenido isla. El sargento mayor Balell me he [?] Sr. don Nicolas su hijo de v. s. ha Barcelona con el marques de la Guardia que traía muy buena salud, de que me he holgado igualmente que de poder dar a v. s. esta noticia trataban de tomar carruaje si bien será posible que las carnestolendas de Barcelona los detengan ya que no las nieves del camino, que por ser tantas este año se han ahogado en los puertos algunos hombres. Por acá no hay cosa más nueva, que una liga grande que dicen se trata, entre España, Alemania y sus potentados Inglaterra y Holanda, Señor don Pedro Santacilia y Pax [1§] quedando a cargo del inglés el ajuste de Portugal cierto es cierto perderá los orgullos Francia, o acábanme de decir creo, que tiene fundamento que en la corte del emperador previniéndose una montería sobre querer entrar haber lo que se haría un criado de nuestro embajador y resistirse lo [?] sobre estante de aquella otra alegando el criado las licencias deloficio de su amo [Agujero] le dio unos palos junto, [?] [Agujero] ñeros y mataron al sobrestante y sin esta han ido sucediendo sobre el empeño otras algunas muertes. El emperador lo ha sentido mucho. El embajador dice que no ha dado bastante sastifacción será lo que Dios quisiere, como v. s. no me olvide todo es menos. Guarde Dios a v. s. muchos años como deseo. Madrid y enero 21 de 1667. La mano ajena es por enfermo. [?] y su merced que su mano besa,Leonor de Zavella Transcripción literal"
+  ],
+  "literal": [
+    "1. Sr mio siempre son parami de suma estima2. çion y gusto las cartas de VS y asi no dexar de 3. solisitar las siempre que tubiere ocasion yo he 4. estado enla cama, casi tres meses con una larga 5. enfermedad y agora conlas reliquias de ella 6. Enesta maldita gota queno mepermite estar en 7. pie he pasado unmalynbierno bien diferente 8. del que VS. abra tenido[Fragmentado]9. ysla. 10. El sargento mayor Balell mehe eso[Fragmentado]11. gado don nicolas su hijo de VS. ha barçelona con 12. El marques dela guardia que tray muy buena salud, 13. deque me holgado Ygualmente quedepoder dar 14. ha VS. esta noticia tratavan de Tomar caruage 15. sibien sera pusible que las carnastolendas de 16. bara los detengan yaqueno las niebes del 17. camino que porser tantas este año sehan ha18. ogado enlos puertos algunos hombres poraca 19. Noay cosa mas nueba, que Una liga grande 20. que dicen se trata, entre Éspaña alemania y 21. sus potentados yngalaterra Yolanda, 22. [Margen izquierdo][^Sr don Pedro Sta Cilia Y pax] [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "013:2024a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo16/013:2024a.JPG",
+      "url": "/legajos/legajo-16/images/013:2024a.JPG"
+    },
+    {
+      "filename": "014:2024b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo16/014:2024b.JPG",
+      "url": "/legajos/legajo-16/images/014:2024b.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "013:2024a.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-16/cartas/002524.json",
+  "primary_image_url": "/legajos/legajo-16/images/013:2024a.JPG"
+}

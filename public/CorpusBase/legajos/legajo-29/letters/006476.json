@@ -1,0 +1,37 @@
+{
+  "legajo_id": "29",
+  "id_carta": "6476",
+  "order_in_legajo": 145,
+  "signatura": "261:4293a.JPG",
+  "nombre_carta": "Carta de Marc Antoni Cotoner a Pedro Santacilia y Pax",
+  "fecha_original": "16 de agosto de 1651",
+  "lugar": "Madrid",
+  "remitente": "Marc Antoni Cotoner",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "[1§] [2§] Transcripción literal"
+  ],
+  "literal": [
+    "1. 1."
+  ],
+  "imagenes": [
+    {
+      "filename": "261:4293a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo29/261:4293a.JPG",
+      "url": "/legajos/legajo-29/images/261:4293a.JPG"
+    },
+    {
+      "filename": "262:4293b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo29/262:4293b.JPG",
+      "url": "/legajos/legajo-29/images/262:4293b.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "261:4293a.JPG",
+  "warnings": [],
+  "raw_source": "raw/legajos/legajo-29/cartas/006476.json",
+  "primary_image_url": "/legajos/legajo-29/images/261:4293a.JPG"
+}

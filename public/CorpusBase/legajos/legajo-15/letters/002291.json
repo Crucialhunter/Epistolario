@@ -1,0 +1,38 @@
+{
+  "legajo_id": "15",
+  "id_carta": "2291",
+  "order_in_legajo": 189,
+  "signatura": "298:6516",
+  "nombre_carta": "Carta de Joan Tomàs de Rocabertí a Persona desconocida",
+  "fecha_original": "17 de marzo de 1667",
+  "lugar": "Zaragoza",
+  "remitente": "Joan Tomàs de Rocabertí",
+  "destinatario": "Persona desconocida",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Tío y señor: Recibo la de v. s. de 28 de enero, gozosísimo por las noticias me da de su salud. Dios se la conserve a v. s. con los aumnetos que deseo y del [e] t [o] da sucesión. Conocer los inconvenientes de la falta de asistencia a esa hacienda, [e] ir Zavella, en su humor, no es al presente tratable. Más fácil hallará la isla del reino con el título tan justo del casamiento. Quedo con acuerdo de conferir despación la materia en viéndole, y con singular estimación del afecto con que v. s. siempre [se la vi] [?] mira por al mayor bien y conveniencias de [?] to casa se lo siento, que v. s. me tenga tan cuidado para mandarme, sabiendo cuánto de mi gusto serán las ocasiones [?] v. s. [?] me ofreciere de su servicio. Guarde Dios a v. s. en vida de todos sus hijos. a mi señora, doña Isabel, beso las manos. Zaragoza, 17, marzo, 1667. El más afecto sobrino de v. s., que sus manos besa, Juan Tomás de Rocabertí. [ ] [Tío y señor, Pedro de Santacilia y Pax ] Transcripción literal"
+  ],
+  "literal": [
+    "1. Tyo y Señor Recivo lade VS. de 28 2. de Henero Goçosissimo porlas noticias 3. Me dadesusalud, dios sela conserve a 4. VS conlos aumentos quedeseo y delatada 5. sucession. Conoser los inconveenintes 6. dela falta de Assitencia a essa assienda 7. yr Çavella ensu humor no esalprese8. tetratable mas facil hallara laisla 9. del Rno conel titulo tajusto delcasa10. Miento Quedo con acuerdo de conferír 11. despacio la materia en Viendole ycon 12. singular estimacion del Affecto con13. que VS siempre selguis [?] mira por al 14. mayor bien y conveniencias dento Casa15. selo siento que VS. me tenga tan Cui16. dado para Mandarme sabiendo quan 17. demi gusto seran lasocasamis VS[?] 18. me ofreciere desu serbicio, Gde dios a 19. VS en vida detodos sus Hijos. ami 20. Señora doña Isabel B[]l[] M[] Çar[a]ga 21. 17. Marzo 1667 22. El Mas Affecto Sobr>i>no 23. de VS q S[u]M[]B[] 24. Juan Thomas 25. de Rocaberti 26. [Margen izquierdo][^Tyo y Sr pedrode Sta Cilia y pax] [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "298:6516.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo15/298:6516.JPG",
+      "url": "/legajos/legajo-15/images/298:6516.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "298:6516.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (2)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-15/cartas/002291.json",
+  "primary_image_url": "/legajos/legajo-15/images/298:6516.JPG"
+}

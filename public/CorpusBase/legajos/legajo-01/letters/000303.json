@@ -1,0 +1,53 @@
+{
+  "legajo_id": "1",
+  "id_carta": "303",
+  "order_in_legajo": 13,
+  "signatura": "034-213a",
+  "nombre_carta": "Carta de Nicolás de Santacilia y Togores a Jerónimo Pelegrín de Aragüés",
+  "fecha_original": "3 de septiembre de 1667",
+  "lugar": "Madrid",
+  "remitente": "Nicolás de Santacilia y Togores",
+  "destinatario": "Jerónimo Pelegrín de Aragüés",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "De 4 de agosto he recibido una carta vuestra con el gusto acostumbrado, y por saber gozan la salud que yo les deseo. La mía es buena, gracias a Dios, y espero estar del todo bueno con algunas prevenciones, que ahora es el tiempo mejor, no obstante que viene el invierno. Aquí no puedo ser más largo. Por carta de mi padre sabréis las novedades que hay por acá. Dios os guarde y a toda vuestra casa muchos años como deseo.",
+    "Madrid, a 3 de septiembre 1667.",
+    "Don Nicolas de Santacilia.",
+    "A Jeronimo Pelegri.",
+    "[1§] Madrid",
+    "Don Nicolas de Santacilia. Tiene respuesta a 24 de octubre 1667."
+  ],
+  "literal": [
+    "1. De 4 de Agosto he recibido una carta bues",
+    "2. tra con el gusto acostunbrado, y por saber gosan",
+    "3. la salud que yo les deseo, la mia es buena",
+    "4. grasias a Dios, y espero estar del todo bueno con",
+    "5. algunas prevensiones que aora es el tienpo me",
+    "6. gor nosptante que viene el invierno",
+    "7. hago no puedo ser mas largo por carta de mi",
+    "8. padre sabrís las novedades que ay por aca",
+    "9. Dios os Guarde ya toda buestra ^casa muchos",
+    "10. anos como deseo Madrid a 3 setiembre 1667",
+    "11. Don Nicolas de Stacilia.",
+    "12. A Geronimo Pelegrí [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "034-213a.gif",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo01/034-213a.gif",
+      "url": "/legajos/legajo-01/images/034-213a.gif"
+    },
+    {
+      "filename": "035-213b.gif",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo01/035-213b.gif",
+      "url": "/legajos/legajo-01/images/035-213b.gif"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "034-213a.gif",
+  "warnings": [],
+  "raw_source": "raw/legajos/legajo-01/cartas/000303.json",
+  "primary_image_url": "/legajos/legajo-01/images/034-213a.gif"
+}

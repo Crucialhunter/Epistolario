@@ -1,0 +1,38 @@
+{
+  "legajo_id": "8",
+  "id_carta": "863",
+  "order_in_legajo": 164,
+  "signatura": "068-56 copia",
+  "nombre_carta": "Carta de Gabriel Seguí a Persona desconocida",
+  "fecha_original": "23 de abril de 1649",
+  "lugar": "Maó",
+  "remitente": "Gabriel Seguí",
+  "destinatario": "Persona desconocida",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Avui, que serà alguna hora de dinar, ha entrada una sagetia de Càller que ve carregada de bescuit, vi i [?] roba de mercader que ve a vendre-la en Roses o Tarragona, o allí on trobarà sa comoditat per vendre dita mercaderia. El patró s'anomena Bernardo Genoves, aporta vuit frares francesos descalços, que van en Toledo a capital. Conta de nou que la Setmana Santa arriba una sagetia de Génova en Alguer, la qual conta que en Barcelona havien degollat molts francesos i els catalans quan els degollaven deien \"visca el rei d'Espanya\". No cont altra cosa de nou, sinó que quan el senyor duc de Montalto se n'anà d'ací prengueren dues sageties franceses que venien de Barbaria carregades de blat i aportaven catorze caixes de coral amb molta riquesa. Guardi Nostre Senyor a vostra senyoria molt [?]. De Maó, a 23 d'abril 1649. Gabriel Segui Senyor governador El patró que després d'haver escrita la present m'ha dit que és molt conegut de v. m. que li féu carregar en Tarragona els {ESP. enfermos} que com eren més de cent per {ESP. llevar}. A Castelló de la Plana Transcripción literal"
+  ],
+  "literal": [
+    "1. Vuy que sera alguna hera de dia ha entrada 2. Una setjatia de Caller qui vecarregada de biscujt 3. Vi y tosina roba de mercader qui va havendrela 4. en rosas ,o, Terragona ,o, alli hent Trobara 5. sa conmoditat per vendre dita mercaderia lo 6. patro se anomena Bernardo Jenoves aporta 7. Vujt frares francesos descalsos quivan en tolido a 8. capitol, conta de nou que la semmana santa 9. ariba una setjatia dejenova en alguer qui conta. 10. que en barsellona havian degollats quant los degollavan dejan Vi[us] 11. el Rej de spanja no conta altre caso de nou 12. sino que quant lo señor duque de mont alto. 13. sen ana de asi prengueran dos setjadias francessos 14. qui venian de barbaria carragadas de blat y aporta- 15. ven quatorsa coxas de coral ab molta riquessa 16. Guarde no señor a V< > señoria molt Her de 17. maho a 23 de Abril 1649 18. Gabriel Sagui 19. [S< >] Governador 20. elpatro que despres de haver scrita la pnt mia dit que es molt conegut. 21. de S< > que lifeu carregar enterregona los enfermos que com eran mes de cent 22. per levar á Castellons dela plana [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "068-56 copia.jpg",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo08/068-56 copia.jpg",
+      "url": "/legajos/legajo-08/images/068-56 copia.jpg"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "068-56 copia.jpg",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-08/cartas/000863.json",
+  "primary_image_url": "/legajos/legajo-08/images/068-56 copia.jpg"
+}

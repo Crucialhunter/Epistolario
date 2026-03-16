@@ -1,0 +1,38 @@
+{
+  "legajo_id": "28",
+  "id_carta": "4808",
+  "order_in_legajo": 116,
+  "signatura": "183:3742.JPG",
+  "nombre_carta": "Carta de Pascual de Aragón a Pedro Santacilia y Pax",
+  "fecha_original": "28 de octubre de 1650",
+  "lugar": "Toledo",
+  "remitente": "Pascual de Aragón",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Señor mío, tiene con sumo gusto la merced que se ha hecho a mi primo, y con sumo pesar el disgusto del Sr. don Pedro, que cierto no sé en qué han de parar las desgracias de este Sr. Yo estoy aquí detenido, que a no [?] ya me hubiera partido. V. m. a buen seguro nos comprende en toda ocasión de pesar, [?] to, con toda demostración. Dios guarde cientos. Por mi parte quisiera se ofreciesen muchas ocasiones en que servirle. Dios guarde a v. m. muchos años. Toledo [?] 28 de octubre de 1650. Don Pascual de Aragon. Sr. D. Pedro Santacilia y Pax. Transcripción literal"
+  ],
+  "literal": [
+    "1. Señor mio; tiene con summo gusto la merced2. que se ha hecho a mi Primo, y con sum3. mo pesar el disgusto del Sor. d. Pº. que cierto4. no se en que ã de parar las desgracias deste5. Sor. yo estoy aqui detenido; que a no [?] ya me6. huviera partido; vm. a buen seguro nos7. comprende, entoda ocasion de pesar, [?] 8. to, con toda demostracion; dios gde cientos9. por mi parte quisiera se ofreciesen10. muchas ocasiones enque servirle.11. dios gde. a vm muchos años Jdo. [?] 28.12. de otubre de 650.13. Don Pasqual14. de Aragon15. Sor. d. Pº Santa cilia y Pax [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "183:3742.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo28/183:3742.JPG",
+      "url": "/legajos/legajo-28/images/183:3742.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "183:3742.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-28/cartas/004808.json",
+  "primary_image_url": "/legajos/legajo-28/images/183:3742.JPG"
+}

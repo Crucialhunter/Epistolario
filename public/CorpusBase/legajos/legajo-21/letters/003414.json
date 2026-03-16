@@ -1,0 +1,43 @@
+{
+  "legajo_id": "21",
+  "id_carta": "3414",
+  "order_in_legajo": 76,
+  "signatura": "168:5702a",
+  "nombre_carta": "Carta de condesa de Zavellá a Persona desconocida",
+  "fecha_original": "4 de enero de 1638",
+  "lugar": "Vallmoll",
+  "remitente": "condesa de Zavellá",
+  "destinatario": "Persona desconocida",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Com v. m. està en part a on no sabem per on s'han d'encaminar les cartes van a perill de perdre's, però fent-ne moltes alguna n'hi arribarà. Escriguí per quina via s'han de remetre. Veig que aquell negoci ultramar faig de tant que pens no tindrà [?] i així v. m. que ha rodat [?] gam apuntat a on [?] que la veu que el comte [?] que ens ha que espera [?] li judicaria i es cavesp [?] perquè no [?] l'he tret de Barcelona i ho prendré {ESP. hasta} content sols pugui haver a córrer llebres i per açò li falta un cavall que sia lleial i propi per als estralls i que tengui pas, i així per vida v. m. vegi si en la companyia n'hi ha ningú a propòsit i envia'l escriga'm llarg que les sues cartes són de manera que no donen consolació. Ací tots tenim salut gràcies a Déu ella v. m. guardi com desig, Vallmoll a 4 de gener 1638. La comtessa de Zavella [1§] {ESP. Vallmoll 4 Enero 1639 mi Sra. la condesa de Zavella vt. } Transcripción literal"
+  ],
+  "literal": [
+    "1. Com v.m. esta enpart ahont no sabem 2. phont sehan de encaminar las cartas 3. van aperill depredres, pero fentne moltes 4. alguna ni arribara escriga pquina via 5. sehan de remetrer. 6. veig que aquell negoci ultramar fasda 7. tant que pens notindra [Ilegible]8. y axi v.m. queha rodat [Ilegible] 9. gam ab puntat ahont [Ilegible]10. que la veu quelo comte [Ilegible]11. que nos ha que espeia [Ilegible] 12. li judicaria y es cavesp[?] pque no[Ilegible]13. lohetret debarcelona y ho prendre asta 14. content sols puga aver acorer llebres 15. y per aco li falta un cavall que sia lleal y 16. propi pera los estrall y quetenga pas, y axi 17. per vida v.m. veia si enla compania 18. ni ha ningu aproposit y enviel 19. escrigam llarch quelas suas cartas son 20. de manera que no donen consolacio 21. asi tots tenim salud gracias adeu ella 22. v.m. gde com desig vallmoll a 4 de 23. Jener 1638 24. la comtesa 25. de çavella [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "168:5702a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo21/168:5702a.JPG",
+      "url": "/legajos/legajo-21/images/168:5702a.JPG"
+    },
+    {
+      "filename": "169:5702b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo21/169:5702b.JPG",
+      "url": "/legajos/legajo-21/images/169:5702b.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "168:5702a.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-21/cartas/003414.json",
+  "primary_image_url": "/legajos/legajo-21/images/168:5702a.JPG"
+}

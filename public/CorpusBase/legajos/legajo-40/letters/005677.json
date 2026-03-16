@@ -1,0 +1,32 @@
+{
+  "legajo_id": "40",
+  "id_carta": "5677",
+  "order_in_legajo": 19,
+  "signatura": "059:29",
+  "nombre_carta": "Carta de Persona desconocida a Persona desconocida",
+  "fecha_original": "fecha sin especificar",
+  "lugar": "lugar sin especificar",
+  "remitente": "Persona desconocida",
+  "destinatario": "Persona desconocida",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Relació de noms de persona [1§] Transcripción literal"
+  ],
+  "literal": [
+    "1. Relació de noms de persona"
+  ],
+  "imagenes": [
+    {
+      "filename": "059:29.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo40/059:29.JPG",
+      "url": "/legajos/legajo-40/images/059:29.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "059:29.JPG",
+  "warnings": [],
+  "raw_source": "raw/legajos/legajo-40/cartas/005677.json",
+  "primary_image_url": "/legajos/legajo-40/images/059:29.JPG"
+}

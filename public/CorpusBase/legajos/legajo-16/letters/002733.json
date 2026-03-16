@@ -1,0 +1,43 @@
+{
+  "legajo_id": "16",
+  "id_carta": "2733",
+  "order_in_legajo": 221,
+  "signatura": "389:2233a.JPG",
+  "nombre_carta": "Carta de Conde de Zavellá a Pedro Santacilia y Pax",
+  "fecha_original": "14 de junio de 1668",
+  "lugar": "Barcelona",
+  "remitente": "Conde de Zavellá",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Señor mío los trabajos se hicieron para acresolar [?] el valor de los hombres yo he nacido para sufrir ya se ahora cuando había tomado ya puerto en el pleito de Mallorca hasalido mi cuñada con ser restituida a la posesión de mi hacienda en virtud de la capitulación de la paz a esto no ha habido reparo y así es forzoso pasar la carrera hasta liquidar los cre ditos que pretende en una casa para sacarla de ella. esta siempre sealar gara más de la que yo quisiera y así siaora mi falta el so corro de Mallorca vea v. m. cual quedo pues no tengootro arbitrio sino veme al Hospital. Suplico a v. m. que en esto obra como tiene obligación pues en tal trance ya lo es el [1§] acudir a que es tan pariente y señor de ella y puede considerar cual me veo pues dejan duda parte la incomodidad, es bien descon solada cosa que cuando todos los más vilas buel ven aposar de sus haciendas yo con toda mi sangre y sermones a cuestas quede desposade de ella y la que para todos espes [?] para mi sea guerra y afan. No creo que lo haga mucha presión en el rey ylos Mentores. pero por ahora deseo que la haga en v. m. y en losdemi casa para que no me dejen perecer. Dios a v. m. guarde como deseo Barcelona y junio 14 de 1668 mayor Servidor de v. m. que su mano besa Elconde de Zavella Señor don Pedro Santacilia y Pax [2§] Transcripción literal"
+  ],
+  "literal": [
+    "1. Sr mio los trabajos se hisieron 2. para acresolar[?] el valor de los hombres 3. yo he nacido para sufrir yase aora 4. quando avia tomado ya puerto en 5. el pleyto de Mallorca hasalido mi 6. cuñada con ser restituyda a la pose7. sion de mi hazienda en virtud de la 8. capitulacion de la paz aesto no ha 9. avido reparo yasi es forçoso pasar 10. la carrera hasta liquidar los cre11. ditos q pretende en una casa para 12. sacarla della. esta siempre sealar13. gara mas de la q jo quisiera 14. yasi siaora mi falta el so15. corro de Mallorca vea Vm. qual 16. quedo pues no tengootro arbitrio sino 17. veme al Hospital. Suplico a Vm q 18. en esto obra como tiene obligacion 19. pues en tal trance ya lo es el [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "389:2233a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo16/389:2233a.JPG",
+      "url": "/legajos/legajo-16/images/389:2233a.JPG"
+    },
+    {
+      "filename": "390:2233b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo16/390:2233b.JPG",
+      "url": "/legajos/legajo-16/images/390:2233b.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "389:2233a.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-16/cartas/002733.json",
+  "primary_image_url": "/legajos/legajo-16/images/389:2233a.JPG"
+}

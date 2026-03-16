@@ -1,0 +1,38 @@
+{
+  "legajo_id": "9",
+  "id_carta": "986",
+  "order_in_legajo": 21,
+  "signatura": "012-8",
+  "nombre_carta": "Carta de Marqués de las Torres a Arnau de Santacilia",
+  "fecha_original": "14 de febrero de 1674",
+  "lugar": "Lodi",
+  "remitente": "Marqués de las Torres",
+  "destinatario": "Arnau de Santacilia",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "De particular estimación me ha sido su carta de v. m. por las noticias que me da de que goza salud y que los negocios van bien y siempre que v. m. me las continue me serán muy gustosas y más si las acompaña con algunos empleos donde manifestar la buena voluntad con que los deseo. El correo pasado escribí a v. m. en respuesta de otra suya con el aviso de haber llegado a esa corte y le supliqué a la vuelta a este estado me traiga v. m. un poco de tabaco de su monte de Sevilla y así lo duplico ahora por si la carta primera no llegó a sus manos de v. m., cuya vida guarde Dios como deseo. Lodi y febrero, 14 de 1674. Servidor de v. m., que sus manos besa, el marques de las Torres Señor capitán don Arnaldo Santacilia Transcripción literal"
+  ],
+  "literal": [
+    "1. De particular estimacion [m]e ha sido su 2. carta de VM por las noticias que me da de 3. que goza salud y quelos negocios ban bien 4. Y siempre que Vm. me las continue me se5. ran muy gustosas y mas si las acompaña 6. con algunos emleos donde manifestar la 7. buena Voluntad conque los deseo 8. el Correo pasado escrivi a Vm. enrespuesta de 9. otra suya on el aviso de aver llegado a essa 10. corte y le suplique que ala buelta aeste estado 11. me trayga Vm Un poco de tabaco de sumonte 12. de Sivilla y assi lo duplico agora porsi lacarta 13. primera no llego asus manos de Vm Cuya 14. vida gde dios como deseo los di y febrero 14 de 1674 15. serbidor de vm q S m b 16. el marqs de 17. las torres 18. [Margen izquierdo][^ Sr Capn dn Arndo Sta cilia] [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "012-8.jpg",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo09/012-8.jpg",
+      "url": "/legajos/legajo-09/images/012-8.jpg"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "012-8.jpg",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-09/cartas/000986.json",
+  "primary_image_url": "/legajos/legajo-09/images/012-8.jpg"
+}

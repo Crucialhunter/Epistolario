@@ -1,0 +1,43 @@
+{
+  "legajo_id": "25",
+  "id_carta": "4159",
+  "order_in_legajo": 92,
+  "signatura": "191_193a.JPG",
+  "nombre_carta": "Carta de Jordi Ferragut a Jerónimo Pelegrín de Aragüés",
+  "fecha_original": "13 de julio de 1667",
+  "lugar": "Madrid",
+  "remitente": "Jordi Ferragut",
+  "destinatario": "Jerónimo Pelegrín de Aragüés",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "La de v. m. tengo recibide holgándome mucho de que todo tengan salud, gracias a Dios yo también la tengo buena, por lo que su merced me quesiere mandar y de lo que v. m. me dice del Sr. don Nicolás le voy asistiendo en lo mayor gusto que se puede pensar en todo, que no está muy bueno y me dice el médico que tardará mucho, porque no está bien curado y por no tener tiempo no soy más largo en escribir, con el otro correo le escribieré más. Su tío y todos los demás de su casa tienen salud y por acá no tenemos por ahora cosa nueva por avisar a v. m. No digo más, de esta corte a 13 de julio 1667. Su amigo de v. m. que sus manos besaJorge Ferragut y de mi parte dará v. m. a todos los de su casa muchos recados Sr. Jeronimo Pelegrin [1§] Madrid. Jordi Ferragut de 13 de Julio 1667. Transcripción literal"
+  ],
+  "literal": [
+    "1. La de Vme. tengo resibide olgandome mucho de que2. todo tingan salut gracia a dios jo tanbin (sic) la tengo buena3. por lo ue su Vme. ma quesiere mandar4. Y de lo que Vme. me dise del Sr. don Nicolas li voy5. asistiendo en lo major gusto que se puede pensar en todo6. que no esta muy bueno y me dise el medico que tarda-7. ra mucho porque no asta bien curado8. Y por no tenir tiempo no soy mas largo an ascrivir9. con lotre coreo li escriviere mas10. Su tio y todos los demas de su cassa tienen salut11. y por aca no tenimos por aora cosa nueve por12. avisar Vme. no digo mas deste corte a 13 de julio13. 166714. Su amigo de Vmd. que sus manos Bese15. Gorge Ferragut y de mi parte dara vmd.16. a todos los de su cassa muchos recados17. Sr. Geronimo palagrin [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "191_193a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo25/191_193a.JPG",
+      "url": "/legajos/legajo-25/images/191_193a.JPG"
+    },
+    {
+      "filename": "192_193b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo25/192_193b.JPG",
+      "url": "/legajos/legajo-25/images/192_193b.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "191_193a.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (4)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-25/cartas/004159.json",
+  "primary_image_url": "/legajos/legajo-25/images/191_193a.JPG"
+}

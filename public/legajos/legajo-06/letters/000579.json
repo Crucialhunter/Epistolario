@@ -1,0 +1,38 @@
+{
+  "legajo_id": "6",
+  "id_carta": "579",
+  "order_in_legajo": 82,
+  "signatura": "088-50",
+  "nombre_carta": "Carta de Manuela Francisca Ramírez a Cecilia Zaforteza y Sureda de Sant Martí",
+  "fecha_original": "24 de abril de 1756",
+  "lugar": "Madrid",
+  "remitente": "Manuela Francisca Ramírez",
+  "destinatario": "Cecilia Zaforteza y Sureda de Sant Martí",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Muy señora mía y ama, Tengo muy presente el cariño y amistad con que nos tratamos el tiempo que yo estuve en esa isla, y del mismo modo deseo servir a v. s. en cuanto me mandare. El señor Gabriel Tomás ha estado con mi marido, que queda informado de todo, y no dude v. s. que en cuanto tenga arbitrio la servirá con particular gusto en esta ocasión y en cuantas v. s. le facilitare. Quedo para servir a v. s. con entera voluntad y rogando a Nuestro Señor guarde a v. s. muchos años. Madrid y abril 24 de 1756. Besa las manos de v. s. su amiga y segura servidora, Manuela Francisca Ramírez. Mi señora ama, Cecilia Zaforteza. Transcripción literal"
+  ],
+  "literal": [
+    "1. Mui Sra. mia y ama tengo mui pre- 2. sente el cariño, y amistad, con que nos 3. tratamos el tiempo que yo estuve en essa 4. Ysla, y del mismo modo deseo servir a 5. V.S. en quanto me mandàre. 6. El Sr. Gabriel Thomas, hà estado 7. con mi marido, que queda informado 8. de todo, y no dude V.S. que en quanto 9. tenga advitrio la servirá con particu- 10. lar gusto en esta ocasion, y en quan- 11. tas V.S. le facilitare 12. Quedo p[a]ra servir a V.S. con entera 13. voluntad, y rogando a Nro Sr. ge a V.S. ms a< ño>s 14. Madrid y Abril 24 de 1756 15. B L[a] M de V.S. su Amiga 16. y segura servidora 17. Manuela Frana 18. Ramirez 19. Mi Sra aa Cecilia Caforteza [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "088-50.jpg",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo06/088-50.jpg",
+      "url": "/legajos/legajo-06/images/088-50.jpg"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "088-50.jpg",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (2)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-06/cartas/000579.json",
+  "primary_image_url": "/legajos/legajo-06/images/088-50.jpg"
+}

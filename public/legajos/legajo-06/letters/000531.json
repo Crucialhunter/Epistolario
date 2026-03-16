@@ -1,0 +1,60 @@
+{
+  "legajo_id": "6",
+  "id_carta": "531",
+  "order_in_legajo": 30,
+  "signatura": "000_1a",
+  "nombre_carta": "Carta de Joseph a Cecilia Zaforteza y Sureda de Sant Martí",
+  "fecha_original": "11 de marzo de 1739",
+  "lugar": "Viena",
+  "remitente": "Joseph",
+  "destinatario": "Cecilia Zaforteza y Sureda de Sant Martí",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Tía y muy señora mía, Estimaría fallar a lo mucho que debo a su cariño, y al respeto y particular voluntad que le profeso, si dejase de darle noticia de mi arribo en esta Corte después de haber logrado un feliz y sereno viaje. El día 8 del corriente fue el de mi arribo, para mí muy gustoso y de gran consuelo, pues logré ver después de algunos años (^el ver) a mi padre y señor y poder besarle la mano. Lo he encontrado fuerte y mozo, algo cansado y abatido por padecida rigurosa constipación antes de mi venida. Lo que me da que sentir, entre mi contento y consuelo, es la breve detención de mi persona con tan agradable gustosa y deseada compañía, teniendo establecida mi padre la partenza por la mitad de mayo. En derechura vamos a Génova, de donde, con la primera segura ocasión, pasaré a ponerme a los pies de v. s.. y espero deberle su aprobación y consenso en un proyecto que, fiado en su bien [1§] merecido cariño, me he adelantado a presentar a mi padre y señor que muy contento y gustoso ha aceptado luego. Lo que tengo representado es que, dignándose S.E. encargarme la conducta de mi querida hermana María Antonia, para que la pase a España, y pidiendo mis intereses y establecimiento el que yo me vea cuanto antes en esa isla, he pedido a mi padre y señor permita que mi hermana venga conmigo a esa isla, de donde se pasará al lugar que s. e. gustare y determinare, que en tanto quedará depositada en casa y manos de v. s. en compañía de mi amada Juanita, siendo las dos de la misma edad y estatura. Mi padre, oyendo el nombre y casa de v. s., ha convenido muy gustoso, conservando por la persona de v. s. un cariño, veneración y respeto que no podrá pensarlo. Perdone, señora, el haberme atrevido a tanto de disponer de su amparo, protección y casa pero si es que haya faltado, no es mía la culpa si no (^el) del demasiado y bien conocido afecto de v. s. que me ha dado lugar a tanto atrevimiento. [2§] Estimaré que, hasta llegue el tiempo de ponerme a su[s] plantas, se digne ponerme a las de la tía Francina y demás tías y señoras, a las de mis señoras Maria Magdalena y de mi señora dña. Catalina Sureda y de mi hermosa prima Francina. A mi querida y amada Juanita, mil abrazos y mil besos; del tío dr. Ramón, que quedo a su obediencia; a mis primos, mil memorias, y que les ruego me esperen, si es posible y no es hacerles mal obra, y padecer para las bodas. Señora, quiérame mucho y mucho pues le aseguro de igual correspondencia. Dios guarde su persona los muchos años deseo y he menester. Viena y marzo 11 de 1739. Besa la mano de v. s., Su sobrino que más la quiere Josep. Transcripción literal"
+  ],
+  "literal": [
+    "1. Tya y muy Señora mia estimaria fallar a lo 2. mucho que devo a su cariño, y al respeto y 3. particular voluntad que le professo, si dexasse 4. de darle noticia de mi arrivo en esta Corte 5. despuez de haver logrado un feliz y sereno via- 6. je: el dia 8 del corriente fue el de mi arrivo 7. para mi muy gustoso y de gran consuelo pues 8. logre el ver despuez de algunos años (^el ver) 9. a mi Padre y señor y poder besarle la mano, 10. lo he encontrado, fuerte y moço, algo cansado y 11. abatido, por padecida rigurosa costipacion antes 12. de mi venida 13. Lo que me da que sentir entre mi contento y consuelo 14. hes la breve detencion de mi persona con tan 15. agradable gustosa y deseada compañia teniendo 16. establecida mi Padre la partenca por la mitad 17. de mayo; En drechura vamos a Genova de donde 18. con la primera segura ocasion passare a ponerme 19. a los piez de VS. y espero deverle su aprobacion y 20. consenso en un proiecto que fiado en su bien mere- [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "000_1a.jpg",
+      "original_url": "http://www.studiolum.com/Web3/img/Legajo06/000_1a.jpg",
+      "url": "/legajos/legajo-06/images/000_1a.jpg"
+    },
+    {
+      "filename": "001_1b.jpg",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo06/001_1b.jpg",
+      "url": "/legajos/legajo-06/images/001_1b.jpg"
+    },
+    {
+      "filename": "002_1c.jpg",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo06/002_1c.jpg",
+      "url": "/legajos/legajo-06/images/002_1c.jpg"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "000_1a.jpg",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    },
+    {
+      "code": "IMAGE_DOWNLOAD_FAIL",
+      "message": "HTTP 404",
+      "context": {
+        "url": "http://www.studiolum.com/Web3/img/Legajo06/000_1a.jpg"
+      }
+    },
+    {
+      "code": "IMAGE_COUNT_MISMATCH",
+      "message": "Imágenes detectadas (3) != descargadas (2)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-06/cartas/000531.json",
+  "primary_image_url": "/legajos/legajo-06/images/000_1a.jpg"
+}

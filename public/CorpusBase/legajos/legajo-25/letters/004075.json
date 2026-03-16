@@ -1,0 +1,43 @@
+{
+  "legajo_id": "25",
+  "id_carta": "4075",
+  "order_in_legajo": 8,
+  "signatura": "016_109a.JPG",
+  "nombre_carta": "Carta de Diego Matías de Aragüés a Jerónimo Pelegrín de Aragüés",
+  "fecha_original": "16 de febrero de 1667",
+  "lugar": "Madrid",
+  "remitente": "Diego Matías de Aragüés",
+  "destinatario": "Jerónimo Pelegrín de Aragüés",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Recibo las cartas del primero de este y de 31 del pasado holgándome goce de buena salud y mi sobrina y niños que sea por muchos años, a Dios gracias, las tenemos Dña. Margarita y yo les besamos las manos que no es poco según se ha padecido este invierno que ha sido general en todas partes, con todo está muy mejorado y lo mismo será por allá y habrán llegado todas mis cartas así las que fueron por Barcelona como por Valencia (de que espero aviso). Y también, de como el Dr. Armella volvió a recibir las letras que vinieron para el regente Romero. V. m. me dé este aviso porque el regente está con este cuidado que no tenía que habérselas enviado, sino guardar su orden he recibido una carta del Dr. Delabau en orden a Portoles, juzgo que habrá recibido la carta que tengo hecho con el que sino le agradaré que me lo avise. El memorial y carta de Jaime Bauza con la letra de los 100 reales he recibido y ejecutaré luego la diligencia y avisaré del suceso, v. m. le dé recados de mi parte v. m. me diga el estado en que tiene el negocio de Juan Garcia del Pozo [1§] Todos los pliegos tengo recibidos, el señor D. Nicolas entrarà mañana con el marques de la Guardia y daré sus recaudos de v. m. paréceme que conforme veo a Juan Seguals no volverá con su merced. El crédito de Antonio Nadal le volví con que ya v. m. lo habrá recibido Pedro Pelayo murió con que se ha tardado el designio de que los oficios que tenía hay para beneficiarlos con que eso cesó el consejo pide al virrey ternas informe para proveerlos. Avisaré cuando se remita lo que en esto se ha de hacer para con el virrey. Todavía esta despacio la jornada del Sr. D. Miquel Salva y caso que vaya me doy per asegurado lo que v. m. me tiene advertido para con su señoría. V. m. me mande y guarde Dios los muchos años que le deseo. Madrid a 16 de febrero 1667. Sr. Jeronimo Pelegrín de Aragues Transcripción literal"
+  ],
+  "literal": [
+    "1. Reçivo las cartas del primero deste y de 31 del passado2. olgandome goçe de buena salud y mi sobrina y 3. niños que sea por muchos años, a Dios graçias las4. tenemos Dª Margta. y yo les bessamos las manos5. que no es poco segun se ha padecido este invierno6. que ha sido gen[era]l en todas partes, con todo esta muy7. mejorado y lo mismo sera por alla y havran llegado8. todas mis cartas assi las q fueron por Barçelona9. como por Valençia (de q espero avisso). Y tanvien,10. de como el Sr. Br. Armella bolvio a recivir las le11. tras que vinieron para el Sr. Regte. Romero, V.md.12. me de este avisso porque el Sr. Regte. esta coneste13. cuydado que no tenia que haverselas inviado sino 14. guardar su orden=15. He reçivido una carta del Dr. Delabau en or16. den a Portoles, Juzgo que habra reçivido [^la carta] que17. tengo hecho con el que sino le agradare que me18. lo avisse19. El memorial y carta de Jayme Baussa con la le20. tra de los 100 Reales he reçivido y executare21. luego la dilig[enci]a y avisare del suçesso, V.md. le22. de Recados de mi parte23. V.md. me diga el estado en que tiene el negoçio24. de Juan Grcia del Poço [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "016_109a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo25/016_109a.JPG",
+      "url": "/legajos/legajo-25/images/016_109a.JPG"
+    },
+    {
+      "filename": "017_109b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo25/017_109b.JPG",
+      "url": "/legajos/legajo-25/images/017_109b.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "016_109a.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (7)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-25/cartas/004075.json",
+  "primary_image_url": "/legajos/legajo-25/images/016_109a.JPG"
+}

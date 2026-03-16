@@ -1,0 +1,42 @@
+{
+  "legajo_id": "12",
+  "id_carta": "1731",
+  "order_in_legajo": 223,
+  "signatura": "359_6324a.JPG",
+  "nombre_carta": "Carta de Gabriel Amengual a Pedro Santacilia y Pax",
+  "fecha_original": "9 de octubre de 1667",
+  "lugar": "Palermo",
+  "remitente": "Gabriel Amengual",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "LLETRA UN POC COMPLICADA [1§] [2§] Carta a Roma al licenciado Gabriel Amengual guardé con todos los papeles por vía de Palermo, en 9 de octubre 1667, de las sentencias manutención del Sr. Nuncio de las Españas, la carta de pago y lo demás [?]. Transcripción literal"
+  ],
+  "literal": [
+    "1. LLETRA UN POC COMPLICADA"
+  ],
+  "imagenes": [
+    {
+      "filename": "359_6324a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo12/359_6324a.JPG",
+      "url": "/legajos/legajo-12/images/359_6324a.JPG"
+    },
+    {
+      "filename": "360_6324b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo12/360_6324b.JPG",
+      "url": "/legajos/legajo-12/images/360_6324b.JPG"
+    },
+    {
+      "filename": "361_6324c.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo12/361_6324c.JPG",
+      "url": "/legajos/legajo-12/images/361_6324c.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "359_6324a.JPG",
+  "warnings": [],
+  "raw_source": "raw/legajos/legajo-12/cartas/001731.json",
+  "primary_image_url": "/legajos/legajo-12/images/359_6324a.JPG"
+}

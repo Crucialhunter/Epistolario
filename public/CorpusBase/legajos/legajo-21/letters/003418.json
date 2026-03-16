@@ -1,0 +1,43 @@
+{
+  "legajo_id": "21",
+  "id_carta": "3418",
+  "order_in_legajo": 106,
+  "signatura": "176:5706a.JPG",
+  "nombre_carta": "Carta de Jerónimo Ribó a Pedro Santacilia y Pax",
+  "fecha_original": "13 de enero de 1639",
+  "lugar": "San Sebastián",
+  "remitente": "Jerónimo Ribó",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Recibí la carta de v. m. de los 28 del de que me pesa mucho el ver que su caballería este tan mal alojada y tratada, y como ya recibí días antes otra carta suya en semejante tenor de cuenta de esto al po y a su majestad para que lo mandasen remediar y para lo que entiendo creo que lo irán haciendo y entretanto para lo que tocare a mi parte v. m. puede estar cierto que le acudiré en todo lo puntual y guarde Dios a v. m. [?] Enero 13 de 1639. El conde Jeronimo Ribo Sr. Pedro de Santacilia [1§] San Sabasthian 13 Enero 1639 el [?] rdo. [2§] Transcripción literal"
+  ],
+  "literal": [
+    "1. Rvi la carta de Vm delos 28 del 2. de quemepesa mucho elber que su Cavalleria 3. este tan mal alojada y tratada, y 4. como ya Rvi dias antes otra carta suya en 5. semejante tenor dequenta de esto al po 6. Yasu M[a]gd para quelo mandasen Remediar 7. ypalo q entiendo creo que lo yran aciendo 8. yentretanto palo que tocare amiparte 9. Vm. puede estar cierto queleacudire 10. entodo lo pun[Ilegible] y gde Dios a Vm [Ilegible]11. heno 13 de1639 12. Cargmo llic[?]13. [Margen izquierdo][^ Sr Pedro des Sezilia] [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "176:5706a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo21/176:5706a.JPG",
+      "url": "/legajos/legajo-21/images/176:5706a.JPG"
+    },
+    {
+      "filename": "177:5706b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo21/177:5706b.JPG",
+      "url": "/legajos/legajo-21/images/177:5706b.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "176:5706a.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (2)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-21/cartas/003418.json",
+  "primary_image_url": "/legajos/legajo-21/images/176:5706a.JPG"
+}

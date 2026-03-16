@@ -1,0 +1,38 @@
+{
+  "legajo_id": "19",
+  "id_carta": "7720",
+  "order_in_legajo": 29,
+  "signatura": "424_7927.JPG",
+  "nombre_carta": "Carta de Isabel Ordoño Rosales y Porras a Pedro Santacilia y Pax",
+  "fecha_original": "fecha sin especificar",
+  "lugar": "Mallorca",
+  "remitente": "Isabel Ordoño Rosales y Porras",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Señor mío, Ha sido para mí de muy grande alborozo las buenas nuevas que me da del casamiento de mi señora doña Leonor. Gócelo vuestra merced este gusto con otros muchos largos y felices años como yo se los deseo, dándole Nuestro Señor dos mil años de vida para que vea nietos y biznietos, cuya vida guarde el Cielo como deseo. De esta su casa, hoy jueves. Servidora de uced que su mano besa,doña Isabel Ordono Rosales y Porras Al señor don Pedro Santacilia Transcripción literal"
+  ],
+  "literal": [
+    "1. Señor mio a sido para mi de muy grande al2. borozo las buenas nuebas que me da del ca3. samiento de mi señora doña leonor gozelo 4. usa merzed este gusto con otros muchos largos 5. i felizes años como io se los deseo dando lenues6. tro señor dos milaños debida paraque bea 7. nietos i bisnietos = cuia bida guarde el zielo 8. como deseo = desta su casa oi xuebes serbidora 9. de used que su mano besa =10. Doña isabel ordoño rosales11. iporas =12. al señor don pedro santasilia [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "424_7927.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo19/424_7927.JPG",
+      "url": "/legajos/legajo-19/images/424_7927.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "424_7927.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-19/cartas/007720.json",
+  "primary_image_url": "/legajos/legajo-19/images/424_7927.JPG"
+}

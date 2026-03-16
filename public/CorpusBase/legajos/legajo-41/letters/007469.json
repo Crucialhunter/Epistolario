@@ -1,0 +1,53 @@
+{
+  "legajo_id": "41",
+  "id_carta": "7469",
+  "order_in_legajo": 53,
+  "signatura": "202:95a",
+  "nombre_carta": "Carta de Persona desconocida a Persona desconocida",
+  "fecha_original": "4 de junio de 1627",
+  "lugar": "Mallorca",
+  "remitente": "Persona desconocida",
+  "destinatario": "Persona desconocida",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Â [1§] Â [2§] Â [3§] Â [4§] Transcripción literal"
+  ],
+  "literal": [
+    "1. 1. 1. 1."
+  ],
+  "imagenes": [
+    {
+      "filename": "202:95a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo41/202:95a.JPG",
+      "url": "/legajos/legajo-41/images/202:95a.JPG"
+    },
+    {
+      "filename": "203:95b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo41/203:95b.JPG",
+      "url": "/legajos/legajo-41/images/203:95b.JPG"
+    },
+    {
+      "filename": "204:95c.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo41/204:95c.JPG",
+      "url": "/legajos/legajo-41/images/204:95c.JPG"
+    },
+    {
+      "filename": "205:95d.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo41/205:95d.JPG",
+      "url": "/legajos/legajo-41/images/205:95d.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "202:95a.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (12)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-41/cartas/007469.json",
+  "primary_image_url": "/legajos/legajo-41/images/202:95a.JPG"
+}

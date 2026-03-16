@@ -1,0 +1,43 @@
+{
+  "legajo_id": "4",
+  "id_carta": "477",
+  "order_in_legajo": 31,
+  "signatura": "036-16a",
+  "nombre_carta": "Carta de Martín de Landicar a Sebastiany Baueza",
+  "fecha_original": "17 de octubre de 1662",
+  "lugar": "Mallorca",
+  "remitente": "Martín de Landicar",
+  "destinatario": "Sebastiany Baueza",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Por muchas mías tengo suplicado a v. m. que las alcaparras que remitió el señor Leonardo Burgues Zaforteza del hábito de Alcántara con los bergantines del patrón Lucas Estarellas y capitán Jerónimo Castany, dador de esta, las vendiesen v. m. al aventaje posible, comprando del neto procedido tantas perlas o algún buen diamante, y me avisó el Sr. Juan Bauzá que en haber ocasión las vendería, pues la ha habido en el despacho de flota, sean al servir v. m. si han comprado las perlas entregarlas al dicho capitán Jerónimo Castany o de no el dinero procedido y la cuenta, como dicho señor da orden a v. m., lo cual mandarán observar y seguir y hacerme merced de dar al dicho señor la satisfacción que a su majestad se le debe y que yo tanto tengo encarecido con mis cartas, que de lo que en esto v. m. hicieren quedaré obligado por toda mi vida. El Señor guarde a v. m. muchos años como deseo. Mallorca y octubre, a 17 de 1662. Servidor de v. m. Martin de Landicar [1§] A Sebastian Juan Bautista Maricon, el Señor guarde. Transcripción literal"
+  ],
+  "literal": [
+    "1. Por muchas mias tengo suplicado a Vm<>. que las 2. alcaparras que remitio el Sr. Leonardo Burgues Cafor[^-]3. 4. teza del Abito de Alcantara conlos Borgantines 5. del Pñ. Lucas estarellas, y Cap< > Jeronimo Castany 6. dador desta; los vendiesen V.m< >. al abentaje pusi- 7. ble, comprando del nesto proçedido tantas perlas 8. o, Algun buen diamante, y me avisso el S. Juan 9. Baueza que en aver ocasion las venderia, jpues 10. la á avido eneldespacho de flota, sean al 11. servir V.m< >. si an comprado las perlas entregarlas 12. dho Cap< > Jeronimo Castany, o, de no el din< > 13. proçedido, y la quenta, como dhoS. da orden a V.m< >. 14. lo qual mandaran observar j seguir, j ajerme 15. mº. de dar al dhoS. la satisfaçion que a su 16. m< >. sele deve, y queyo tanto tengo encareçido 17. Con mis cartas, que delo que en esto V.m< >. hicie- 18. ren, quedare obligado por toda my vida El Sor. g 19. a Vm. muchos años como deseo Mall< [a]20. >. y ocob< >. 21. á 17 de 1662. 22. Servi< > deVm< >.23. Martin de Landicar 24. SS. Sebastiany Juº. Bautta. Maricon [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "036-16a.jpg",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo04/036-16a.jpg",
+      "url": "/legajos/legajo-04/images/036-16a.jpg"
+    },
+    {
+      "filename": "037-16b.jpg",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo04/037-16b.jpg",
+      "url": "/legajos/legajo-04/images/037-16b.jpg"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "036-16a.jpg",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-04/cartas/000477.json",
+  "primary_image_url": "/legajos/legajo-04/images/036-16a.jpg"
+}

@@ -1,0 +1,42 @@
+{
+  "legajo_id": "39",
+  "id_carta": "5605",
+  "order_in_legajo": 6,
+  "signatura": "02:8265a.JPG",
+  "nombre_carta": "Carta de Jaume Rossinyol a Pedro Santacilia y Pax",
+  "fecha_original": "17 de octubre de 1632",
+  "lugar": "Mallorca",
+  "remitente": "Jaume Rossinyol",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "La lletra es veu malament [1§] Transcripción literal"
+  ],
+  "literal": [
+    "1. La lletra es veu malament"
+  ],
+  "imagenes": [
+    {
+      "filename": "02:8265a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo39/02:8265a.JPG",
+      "url": "/legajos/legajo-39/images/02:8265a.JPG"
+    },
+    {
+      "filename": "03:8265b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo39/03:8265b.JPG",
+      "url": "/legajos/legajo-39/images/03:8265b.JPG"
+    },
+    {
+      "filename": "04:8265c.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo39/04:8265c.JPG",
+      "url": "/legajos/legajo-39/images/04:8265c.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "02:8265a.JPG",
+  "warnings": [],
+  "raw_source": "raw/legajos/legajo-39/cartas/005605.json",
+  "primary_image_url": "/legajos/legajo-39/images/02:8265a.JPG"
+}

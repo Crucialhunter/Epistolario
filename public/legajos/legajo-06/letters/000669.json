@@ -1,0 +1,43 @@
+{
+  "legajo_id": "6",
+  "id_carta": "669",
+  "order_in_legajo": 169,
+  "signatura": "257-130a",
+  "nombre_carta": "Carta de Manuel Gómez Salazar a Cecilia Zaforteza y Sureda de Sant Martí",
+  "fecha_original": "25 de mayo de 1778",
+  "lugar": "Mallorca",
+  "remitente": "Manuel Gómez Salazar",
+  "destinatario": "Cecilia Zaforteza y Sureda de Sant Martí",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Muy Sra. mía de mi respeto y estimación, Incluyo a v. s. la carta de recomendación de que hablé el otro día por encargo de D. Antonio Bisquerra para que se sirva firmarla, poniendo antes de su letra las expresiones usuales de cortesanía, y espero del honor que v. s. me dispensa, tenga a bien devolvérmela, ya que mis ocupaciones me impiden, practicar personalmente el oficio, de hacerla presente a v. s., a cuya gustosa obediencia repito mi verdad, [1§] atención y pronta voluntad, conque ruego a Nro. Señor conserve a v. s. dilatados años. Hoy, 25 de mayo de 1778. Beso las manos de v. s. Su más atento seguro servidor y capellán, D. Manuel Gómez Salazar. Mi Sra. Dña. Cecilia Zaforteza. Transcripción literal"
+  ],
+  "literal": [
+    "1. Muy Sa. mia de mi Respeto, y 2. estimon Incluio a V.S. la Carta 3. de Recomendn de q[u]e hablè el otro 4. dia pr encargo de Dn. Anton[i]o Bis- 5. querra, paraq[u]e se sirva firmar- 6. la, poniendo antes de su letra 7. las expresiones usuales de corte- 8. sania, y espero del honor, q[u]e V.S. 9. me dispensa, tenga a bien devol- 10. bermela, ia que mis ocupacions 11. me impiden, practicar perso- 12. nalmte el oficio, de hacerla pre- 13. sente á V.S., á cuia gustosa obe- 14. diencia repito mi verdad, a- [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "257-130a.jpg",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo06/257-130a.jpg",
+      "url": "/legajos/legajo-06/images/257-130a.jpg"
+    },
+    {
+      "filename": "258-130b.jpg",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo06/258-130b.jpg",
+      "url": "/legajos/legajo-06/images/258-130b.jpg"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "257-130a.jpg",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (2)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-06/cartas/000669.json",
+  "primary_image_url": "/legajos/legajo-06/images/257-130a.jpg"
+}

@@ -1,0 +1,38 @@
+{
+  "legajo_id": "35",
+  "id_carta": "5294",
+  "order_in_legajo": 107,
+  "signatura": "108:8140.JPG",
+  "nombre_carta": "Carta de Gabriel Seguí a Pedro Santacilia y Pax",
+  "fecha_original": "28 de agosto de 1644",
+  "lugar": "Maó",
+  "remitente": "Gabriel Seguí",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "El soldat de cavall qui està de guarda en el castell de Sant Filip m'ha donat avís de com sirca mitjanit han passats tretze o catorze fanals per davant del port que no saben el que és. El mateix avís m'ha donat l'alcaït i juntament m'ha remesa esta per a v. s. Encontinent, he acomiadats els cavalls que acudisen per les mariners de la part de migjorn i aquest matí m'han feta relació que l'atalaier de l'atalaia Grosa ha ací jurat que no es veu vaixell algú de què restarà v. s. avisat a {ESP. cuya} molt il·lre. persona la divina guardi a. de Maó a 28 d'agost 1644. Gabriel Seguí Senyor governador Transcripción literal"
+  ],
+  "literal": [
+    "1. El soldat de cavall qui esta de guarda2. anal castell de Snt. Philip me ha donat3. havis de com sirca mitjanit han passats tretza4. ,o, catorsa fanals p devant del port que no5. saben lo que es lo matex havis me ha donat6. lo alcayt y juntament me ha ramesa esta7. p a VSª encontinent he despadits los cavalls8. q acudisan p las marinas de la part de9. mitjorn y est mati me han feta relatio10. q lo atalayer de la atalaya grossa ha asi11. gurat q nos veu vaxell algu de q12. restara VSª avisat a cuya molt Illre13. persona la divina gde. De Maho a 2814. de Agost 164415. Gabriel Sagui16. Señor Governador [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "108:8140.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo35/108:8140.JPG",
+      "url": "/legajos/legajo-35/images/108:8140.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "108:8140.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-35/cartas/005294.json",
+  "primary_image_url": "/legajos/legajo-35/images/108:8140.JPG"
+}

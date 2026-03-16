@@ -1,0 +1,50 @@
+{
+  "legajo_id": "26",
+  "id_carta": "4336",
+  "order_in_legajo": 72,
+  "signatura": "102:3430.JPG",
+  "nombre_carta": "Carta de Macià Monsarró a Pedro Santacilia y Pax",
+  "fecha_original": "11 de diciembre de 1639",
+  "lugar": "Zaragoza",
+  "remitente": "Macià Monsarró",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Cuatro o cinco despachos he remitido a v. m. después que está en ciudad que he tenido respuesta de ninguna no sé lo que puede ser en que no me escriba si es alguna falta que yo haya hecho. Escríbamelo v. m. que yo me enmendare de aquí a ocho días al más largo me fui a hacer fiestas a Barcelona en compañía de don Miguel v. m. vea si se le ofrece alguna cosa que hasta el domingo o lunes estaré en Zaragoza y estaré por dos días después de pasados los reyes estamos en Zaragoza ya sabe que soy todo suyo hasta morir a quien Dios guarde los años que yo deseo, Zaragoza y diciembre a 11 de 1639. Macia Monsarro Sr. don Pedro Santacilia Transcripción literal"
+  ],
+  "literal": [
+    "1. Quatro, o, cinco despachos he remitido a Vms.2. despues que esta en ciudad que he tenio respuesta3. de ninguna no se lo que puede ser en que no4. me escriba si es alguna falta que yo haya hecho5. escribame lo Vmd. que yo me enmendare de aqui6. a ocho dias al mas largo me fuy a hazer fiestas7. a Barcelona en compania de Don Miguel Vmd.8. vea si se le offrese alguna cossa que hasta el do9. mingo, o, lunes estare en Caragoça y estare por10. dos dias despues de pasados los reyes estamos en11. Carag[o]ca ya sabe que soy todo suyo hasta mo12. rir a quien Dios gde. los [?] yo deseo13. Carag[o]ca y deze. a 11 de 163914. Masia Monsarro15. Sr. Don Pedro Stacilia [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "102:3430.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo26/102:3430.JPG",
+      "url": "/legajos/legajo-26/images/102:3430.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "102:3430.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (2)",
+      "context": {}
+    },
+    {
+      "code": "IMAGE_DOWNLOAD_FAIL",
+      "message": "HTTP 404",
+      "context": {
+        "url": "http://santacilia.info/intranet2/img/Legajo26/102:3430.JPG"
+      }
+    },
+    {
+      "code": "IMAGE_COUNT_MISMATCH",
+      "message": "Imágenes detectadas (1) != descargadas (0)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-26/cartas/004336.json",
+  "primary_image_url": "/legajos/legajo-26/images/102:3430.JPG"
+}

@@ -1,0 +1,78 @@
+{
+  "legajo_id": "16",
+  "num_cartas": 224,
+  "num_imagenes": 394,
+  "rango_temporal": [
+    1664,
+    1668
+  ],
+  "remitentes_frecuentes": [
+    {
+      "name": "Diego Matías de Aragüés",
+      "count": 50
+    },
+    {
+      "name": "Nicolás de Santacilia y Togores",
+      "count": 27
+    },
+    {
+      "name": "José Balell",
+      "count": 15
+    },
+    {
+      "name": "Basilio de Castellví y Ponce",
+      "count": 12
+    },
+    {
+      "name": "Jordi Ferragut",
+      "count": 9
+    }
+  ],
+  "destinatarios_frecuentes": [
+    {
+      "name": "Pedro Santacilia y Pax",
+      "count": 216
+    },
+    {
+      "name": "Persona desconocida",
+      "count": 2
+    },
+    {
+      "name": "Joan Prats",
+      "count": 1
+    },
+    {
+      "name": "Josep Ribera",
+      "count": 1
+    },
+    {
+      "name": "Rafel Martorell",
+      "count": 1
+    }
+  ],
+  "lugares_frecuentes": [
+    {
+      "name": "Madrid",
+      "count": 99
+    },
+    {
+      "name": "Barcelona",
+      "count": 40
+    },
+    {
+      "name": "Valencia",
+      "count": 17
+    },
+    {
+      "name": "Càller (Cagliari)",
+      "count": 12
+    },
+    {
+      "name": "Lugar sin especificar",
+      "count": 6
+    }
+  ],
+  "temas_frecuentes": [],
+  "warnings_count": 144,
+  "densidad_narrativa_estimada": "Media"
+}

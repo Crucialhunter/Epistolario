@@ -1,0 +1,38 @@
+{
+  "legajo_id": "31",
+  "id_carta": "6970",
+  "order_in_legajo": 210,
+  "signatura": "309:1721.JPG",
+  "nombre_carta": "Carta de Basilio de Castellví y Ponce a Pedro Santacilia y Pax",
+  "fecha_original": "24 de junio de 1664",
+  "lugar": "Valencia",
+  "remitente": "Basilio de Castellví y Ponce",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Señor mío recibo su carta de v. s. de 18 del corriente y me deja muy contento el saber que hemos de tener a v. s. cerca de acá, para poder tener más frecuentes las noticias de la salud de v. s. y muchos lances en que manifestar mi obediencia muy malas nuevas hemos tenido en esta estafeta de Portugal, y verdaderamente que nos tiene con sumo cuidado mayormente cuando nos halla tan flacos de infantería; el Marq. de San Roman continuando en sus aciertos ha conseguido un servicio de 400 hombres para aquel ejército pagados por siete meses sin que hubiere en los estamentos el menor reparo del mundo; y en fin es socorro de grande consecuencia para mediante la aflicción en que nos hallamos Dña. Laura y Giuseppe besan a v. s. las manos y yo hago lo mismo. Guarde Dios a v. s. muchos años Valencia y junio a 24 de 1664. Beso a v. s. lmo su mayor servidor Don Basilio de Castellvi y Ponce Sr. D. Pedro Santacilia y Pax [1§] Transcripción literal"
+  ],
+  "literal": [
+    "1. Señor mio reçivo su carta de VS. de 18 del corriente y me deja 2. muy contento el saver que hemos de tener a VS. cerca de 3. aca, para poder tener mas frequentes las notiçias de la salud 4. de VS. y muchos lançes en que manifestar mi obediençia 5. Muy malas nuevas hemos tenido en esta estafeta de Portu6. gal, y verdaderamente que nos tiene con summo cuydado 7. mayormente quando nos halla tan flacos de infanteria; 8. el Sr. Marq. de San Roman continuando en sus açiertos 9. ha conseguido un serviçio de 400 hombres para aquel exerçito 10. pagados por siete messes sin que huviere en los estamentos el 11. menor reparo del mundo; y en fin es socorro de grande con12. sequençia para mediante la aflicçion en que nos hallamos = 13. Dª. Laura y Jusepe besan a VS. las manos y yo hago lo mes14. mo gde Dios a VS. muchos años Valencia y Junio a 15. 24 de 1664. 16. B a VS lmo su mor sdor 17. Don Basilio de Castelvi 18. y Ponçe 19. Sr. Dn. Pº. Sta. zilia y Pax [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "309:1721.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo31/309:1721.JPG",
+      "url": "/legajos/legajo-31/images/309:1721.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "309:1721.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-31/cartas/006970.json",
+  "primary_image_url": "/legajos/legajo-31/images/309:1721.JPG"
+}

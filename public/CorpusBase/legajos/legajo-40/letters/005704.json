@@ -1,0 +1,32 @@
+{
+  "legajo_id": "40",
+  "id_carta": "5704",
+  "order_in_legajo": 43,
+  "signatura": "100:56",
+  "nombre_carta": "Carta de Persona desconocida a Persona desconocida",
+  "fecha_original": "fecha sin especificar",
+  "lugar": "Mallorca",
+  "remitente": "Persona desconocida",
+  "destinatario": "Persona desconocida",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "un compte molt breu [1§] Transcripción literal"
+  ],
+  "literal": [
+    "1. Un compte molt breu"
+  ],
+  "imagenes": [
+    {
+      "filename": "100:56.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo40/100:56.JPG",
+      "url": "/legajos/legajo-40/images/100:56.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "100:56.JPG",
+  "warnings": [],
+  "raw_source": "raw/legajos/legajo-40/cartas/005704.json",
+  "primary_image_url": "/legajos/legajo-40/images/100:56.JPG"
+}

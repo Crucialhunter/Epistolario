@@ -1,0 +1,38 @@
+{
+  "legajo_id": "34",
+  "id_carta": "4999",
+  "order_in_legajo": 30,
+  "signatura": "041:6916.JPG",
+  "nombre_carta": "Carta de Marquès de Corubau a Pedro Santacilia y Pax",
+  "fecha_original": "25 de octubre de 1655",
+  "lugar": "Gandia",
+  "remitente": "Marquès de Corubau",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "La amistad y correspondencia que tengo Sr. don Melchor Vanenciano me obliga a lograr on de la que confío de v. m. haciéndome mío fa/ vorecer a este caballero porque per medio de la uto/ ridad de v. m. pueda cobrar dostos ducados que su d, Dios le guarde, le hizo mío en el patrimonio de men [?] en donde sirvió Sr. don Jaye su padre de G [?] y para que pueda cobrar el rezago [?] con que acreditar v. m. la confianza [?] esta interseción y a mi me tendra m [?] para servirle y desear muchas occes en [?] cerlo e su servicio guarde nuestro a v. m. co [?] felicidad Gandía a 25 de octubre 1655 doy a v. s. la enhorabuena [?] merced que su majestad le [?] y siempre me tiene a su ser/ vicio. suplicole a v. s. favorezca a este caballero quelebesa su mano [?] marques de santi [?] 24, extrem esquerre Sr. don Pedro Santacilia 25, en vertical, marge esquerre El Marqués de corubau [1§] Transcripción literal"
+  ],
+  "literal": [
+    "1. La amistad y correspondencia que tengo [ ] don2. Melchor Vanenziano me obliga a lograr [ ]on3. de la que confio de v.m. haziendome mio [f]a/4. vorezer a este cavallero por que per medio de la [u]to/5. ridad de V.m. pueda cobrar dostos ducados q su[ ]d6. , dios le gde, le hizo mio enel patrimonio de men//7. en donde sirvio don Jaye supadre de G//8. y para que pueda cobrar el rezago //9. con q acreditar V.m. la confianza//10. esta interseçion y ami metendra m//11. para servirle y desear muchas occes en//12. çerlo e suservo gde nro sr. av.m. co//13. felizidad Gandia a 25 de otubre 165514. doy a v.s. lanorabuena [?]15. merzed quesu magd le[ ??]16. y siempre me tiene asu ser/17. vizio.18. suplicole a V.s. favorezca19. aeste cavallero quelebesa20. sumano 21. [illegible] [illegible]22. Marques23. de santi[ ??]24. [34, extrem esquerre] Sr. don Pedro Staçilia25. [35, en vertical, marge esquerre] El Marqués de [corubau] [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "041:6916.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo34/041:6916.JPG",
+      "url": "/legajos/legajo-34/images/041:6916.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "041:6916.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-34/cartas/004999.json",
+  "primary_image_url": "/legajos/legajo-34/images/041:6916.JPG"
+}

@@ -1,0 +1,38 @@
+{
+  "legajo_id": "33",
+  "id_carta": "4836",
+  "order_in_legajo": 31,
+  "signatura": "044:6752.JPG",
+  "nombre_carta": "Carta de Bonaventura de Lanuza Montbuí y Vilarig a Pedro Santacilia y Pax",
+  "fecha_original": "28 de julio de 1628",
+  "lugar": "Girona",
+  "remitente": "Bonaventura de Lanuza Montbuí y Vilarig",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Bé sap v. m. lo quant content estic del servei de Miquel Oliver i així pot creurar el que m'ha passat haver de ser el que he fet si bé era forçós (si be) però pens tornar-lo a cobrar si ramey i ha: i així pus el Sr. don Diego s'ha de detenir aquí alguns dies pens veurà amb tots v. m. aquí en Perelada perquè ti nc d'arribar en Palau, çavardera per alguns negocis i tots junts parlarem aquí llargament: a don Francisco Bach no he bist encara ni se si és arribat guardi Déu a v. m. Girona i juliol als 28 de 1628 Sr. don Bonaventura de Lanuça Mombuy i bilarig Sr. don Pedro Santacilia i Pax [1§] Transcripción literal"
+  ],
+  "literal": [
+    "1. Be sap V.m. lo quant content estich del2. servey de Miquel Oliver y axi pot creurar3. lo quem a pesat hver de ser lo que he fet si4. be era forços (^si be) pero pens tornarlo a cobrar5. si ramey y ha: y axi pus lo Sor. don Diego se6. ha de detenir aqui alguns dias pens veurá7. ab tots Vm aqui en perelada perque ti8. nch de arribar en Palau, Çavardera per9. alguns negocis y tots junts parlarem aquí10. llargament: a don Fran[cis]co Bach no he bist11. encara ni se si es arribat guarde deu a12. V.m. Gerona y Juliol als 28 de 162813. Don Bonaventura de la14. Nuça mombuy y bilarig15. Sr. don Pedro Sta. Cilia y Pax [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "044:6752.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo33/044:6752.JPG",
+      "url": "/legajos/legajo-33/images/044:6752.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "044:6752.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-33/cartas/004836.json",
+  "primary_image_url": "/legajos/legajo-33/images/044:6752.JPG"
+}

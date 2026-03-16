@@ -1,0 +1,38 @@
+{
+  "legajo_id": "28",
+  "id_carta": "4763",
+  "order_in_legajo": 73,
+  "signatura": "111:3697.JPG",
+  "nombre_carta": "Carta de Macià Monsarró a Pedro Santacilia y Pax",
+  "fecha_original": "13 de abril de 1639",
+  "lugar": "Zaragoza",
+  "remitente": "Macià Monsarró",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Anoche llegaron sus cartas de v. m. que p [?] tarde ya las hizo llevar el Sr. Tomás Cor [?] a la estafeta. Las de hoy ya las he dado a todos. Valonga va muy bien en favor de don Miguel, y a v. m. beso muchas veces las manos por la merced. Al padre capellán, que me espanto que me haya remitido una tan mala cosa como la sacristana, que no quiere servir sino pasear y emborracharse, que las más noches trueca en la cama un cántaro de vino y dice que más quiere hilar al torno que trabajar. Al barbero le dirá v. m. que envíe orden que así tiene todos los vestidos y un libro que han traído de Barcelona con dos reales de ocho con los carros de Matutano. En lo que me dice ha de venir aquí avíseme v. m. en tiempo para que pueda buscar posada. Y a v. m. ge. Nuestro Sr. Zaragoza a 13 de abril 1639. Macia Monsarro. Sr. don Pedro Santacilia. Transcripción literal"
+  ],
+  "literal": [
+    "1. anoche llegaron sus cartas de Vm que p [?] 2. tarde ja las hizo llevar el sr. Thomas Cor [?] 3. alla estafeta las de oy ya las he dado a todos4. Valonga va muy bien en favor de don miguel y a vm5. besso muchas veses las manos por la md. – al padre6. capelan que me espanto que maya remetido una tan7. mala cossa como la sagristana que no quiere servir8. sino pasear y en boratxarse que las mas noxes trueca9. en la cama un cantaro de vino y dize que mas quie10. re ylar al torno que tabaxar – al barbero le dira11. vm que envie horden que asi tiene todos los vestidos12. y un libro que an traydo de Barª. con dos reales13. de ocho con los carros de matutano – en lo que14. me dize ha de venir aqui aviseme vm en tiempo para15. que pueda buscar posada y a vm ge. nuestro Sr.16. Çaragª. a 13 de abril 163917. masia monsarro18. Sr. Don Pº. Santtª. Sillia [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "111:3697.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo28/111:3697.JPG",
+      "url": "/legajos/legajo-28/images/111:3697.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "111:3697.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (2)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-28/cartas/004763.json",
+  "primary_image_url": "/legajos/legajo-28/images/111:3697.JPG"
+}

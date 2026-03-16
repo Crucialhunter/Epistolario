@@ -1,0 +1,38 @@
+{
+  "legajo_id": "12",
+  "id_carta": "1638",
+  "order_in_legajo": 142,
+  "signatura": "208_6231.JPG",
+  "nombre_carta": "Carta de Luis de Aragón (VII duque de Cardona) a Pedro Santacilia y Pax",
+  "fecha_original": "17 de abril de 1651",
+  "lugar": "Lucena",
+  "remitente": "Luis de Aragón (VII duque de Cardona)",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Estimo a v. m. me haya avisado llegase a su casa [?] y que el viaje lo fuese que me tenía con cuidado por el riesgo de la navegación que deseo quede v. m. muy gustoso y con muy buena salud y tener ocasiones en que servir a v. m. Tendra noticia como Nro. Sr. ha sido servido de [?] a la duquesa [?] que me tiene con desconsuelo que en el favor que v. m. me hace es consuelo el decirlo. Guarde Dios a v. m. muchos años. Lucena 17 de abril 1651. Don Luis de Aragón Sr. D. Pedro Santacilia y Pax [1§] Transcripción literal"
+  ],
+  "literal": [
+    "1. Estimo a Vm, me aya avisado llegase a su casa [...]2. y q el viage lo fuese q me tenia con cuidado3. por el riesgo de la navegacion q deseo qde vmd.4. muy gustodo y con muy buena salud y tener5. ocasiones en q servir a Vm. Tendra6. noticia com Nro Sr a sido ser[vi]do de [...]7. a la Duqsa Travaj?? q me tiene con [des-]8. consuelo q en el favor q Vm me haze9. escusa de el decirlo Gde Dios a Vm [muchos]10. años Lucena 17 de Abril 165111. Don Luis de Aragón12. Sr. D. Pº Sta Cilia y Pax [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "208_6231.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo12/208_6231.JPG",
+      "url": "/legajos/legajo-12/images/208_6231.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "208_6231.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-12/cartas/001638.json",
+  "primary_image_url": "/legajos/legajo-12/images/208_6231.JPG"
+}

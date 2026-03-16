@@ -1,0 +1,43 @@
+{
+  "legajo_id": "9",
+  "id_carta": "1044",
+  "order_in_legajo": 79,
+  "signatura": "139-66a",
+  "nombre_carta": "Carta de Diego Álvarez a Arnau de Santacilia",
+  "fecha_original": "31 de julio de 1675",
+  "lugar": "Milán",
+  "remitente": "Diego Álvarez",
+  "destinatario": "Arnau de Santacilia",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "En la carta que v. m. me escríve se scríve decir que meentrega ran 90 escudos moneda de Mílan y aunque Sr. don Francisco dice me los traeran esta Semana, bien do en la carta que v. m. le escribe a el, que el número para rece 90 me baldre solo de estos y pondré en depósito los 40 en manos del ayudante Alvarez hasta saber Claramente la voluntad de v. m. quien podrá decir por letra la Cantídad porque en los números de a equibocado epero de cualquiera manera es mayor la galantería de v. m. que elmérito mío y me tendra siempre con este reconimiento y estimación [1§] Señor mío recibo carta de v. m. y a un que en ella me dice le remita la Letra de los Ducientos éscudos pues no doy nada de lo mío leremito a v. m. esa letra de Ducientos trece reales de aocho y medio pues de esta letra y de la pasada lo he buscado prestado sin tener yo nada de v. m. cuya vida guarde Dios muchos años como deseo Milán 31 de Julio 1675. Besa las manos de v. m. su mayor servidor Diego Alvarez v. m. se le ha dado de Vaja en los oficios del sueldo desde primero de Julio y así me ha parecido avi sárselo a v. m. Señor capitán don Arnau de Santacilia [2§] Transcripción literal"
+  ],
+  "literal": [
+    "1. En la Carta q Vm me escríve 2. se scríve deçir que meentrega 3. ran 90 escudos moneda de Mílan 4. y aun que Dn franco dice me 5. los traeran esta Semana, bien6. do enla carta q Vm le 7. escrive a el, q el numero pa8. reçe 90 me baldre solo destos 9. y pondre en deposito los 40 en 10. manos del Ayudante Albarez 11. asta Saver Claramente la 12. voluntad de Vm quien podra 13. deçir por letra la Cantídad 14. por que enlos numeros de 15. a equibocado epero de 16. qualquiera manera es mayor 17. la galantería de Vm que elmerito 18. mío Y metendra siempre con este 19. reconimo Yestimon [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "139-66a.jpg",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo09/139-66a.jpg",
+      "url": "/legajos/legajo-09/images/139-66a.jpg"
+    },
+    {
+      "filename": "140-66b.jpg",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo09/140-66b.jpg",
+      "url": "/legajos/legajo-09/images/140-66b.jpg"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "139-66a.jpg",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-09/cartas/001044.json",
+  "primary_image_url": "/legajos/legajo-09/images/139-66a.jpg"
+}

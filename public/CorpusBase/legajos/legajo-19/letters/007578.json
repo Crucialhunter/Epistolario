@@ -1,0 +1,38 @@
+{
+  "legajo_id": "19",
+  "id_carta": "7578",
+  "order_in_legajo": 255,
+  "signatura": "140_cg60.JPG",
+  "nombre_carta": "Carta de Salvador Viñales a Pedro Santacilia y Pax",
+  "fecha_original": "1 de enero de 1645",
+  "lugar": "Castillo Gobon",
+  "remitente": "Salvador Viñales",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "[1§] Transcripción literal"
+  ],
+  "literal": [
+    "1."
+  ],
+  "imagenes": [
+    {
+      "filename": "140_cg60.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo19/140_cg60.JPG",
+      "url": "/legajos/legajo-19/images/140_cg60.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "140_cg60.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-19/cartas/007578.json",
+  "primary_image_url": "/legajos/legajo-19/images/140_cg60.JPG"
+}

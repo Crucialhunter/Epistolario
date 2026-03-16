@@ -1,0 +1,38 @@
+{
+  "legajo_id": "19",
+  "id_carta": "7659",
+  "order_in_legajo": 191,
+  "signatura": "330_7866.JPG",
+  "nombre_carta": "Carta de Dionís Monserrat a Pedro Santacilia y Pax",
+  "fecha_original": "fecha sin especificar",
+  "lugar": "Calaf",
+  "remitente": "Dionís Monserrat",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "En calaf, [?] vinc distam de Barcelona . una jornada i mitja esta un pages que és diu Cazullas en qui se consultan malalties que és presen fer embruxades. podien demanar d'aquest home al Sr. Pere Monserrat i [?] m'ho germà en el Carrer de la Bo queria, i ell podrà saber amb gens de Piena que és lloc més vehi a Calaf. Si v. m. encara [?] Cazulla, o, si es mou si ha deixar a algun l'ordre que podia tenir per a tals curas El Sr. Dionys Monserrat Transcripción literal"
+  ],
+  "literal": [
+    "1. En calaf, [?] vinc distam de Barª. una 2. jornada y mitja esta un pages ques 3. diu Cazullas en qui se consultan 4. malaltias ques presen fer enbruxades. 5. podian demanar de aquest home 6. al Sor. Pere Monserrat y [?] 7. mo germa en lo Carrer de la Boque8. ria, y ell podra saber ab gens 9. de Piena ques lloch mes vehi a 10. Calaf. Si vm encara [?] Cazulla, 11. o, si es mou si ha dexar a algun lo 12. orde que podia tenir per a tals 13. curas 14. Lo Sor. Dionys 15. Monserrat [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "330_7866.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo19/330_7866.JPG",
+      "url": "/legajos/legajo-19/images/330_7866.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "330_7866.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-19/cartas/007659.json",
+  "primary_image_url": "/legajos/legajo-19/images/330_7866.JPG"
+}

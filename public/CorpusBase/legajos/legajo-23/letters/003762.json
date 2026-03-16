@@ -1,0 +1,32 @@
+{
+  "legajo_id": "23",
+  "id_carta": "3762",
+  "order_in_legajo": 18,
+  "signatura": "027:3174",
+  "nombre_carta": "Carta de conde de Peralada a Persona desconocida",
+  "fecha_original": "17 de junio de 1629",
+  "lugar": "Barcelona",
+  "remitente": "conde de Peralada",
+  "destinatario": "Persona desconocida",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "P un mal dulls escric [?] del braç [?] LLETRA COMPLICADA [1§] Transcripción literal"
+  ],
+  "literal": [
+    "1. Per un mal dulls escrich [?] del bras [?] 2. LLETRA COMPLICADA [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "027:3174.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo23/027:3174.JPG",
+      "url": "/legajos/legajo-23/images/027:3174.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "027:3174.JPG",
+  "warnings": [],
+  "raw_source": "raw/legajos/legajo-23/cartas/003762.json",
+  "primary_image_url": "/legajos/legajo-23/images/027:3174.JPG"
+}

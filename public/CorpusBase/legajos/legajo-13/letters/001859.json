@@ -1,0 +1,38 @@
+{
+  "legajo_id": "13",
+  "id_carta": "1859",
+  "order_in_legajo": 126,
+  "signatura": "203:2363.JPG",
+  "nombre_carta": "Carta de Llorenç Servera a Pedro Santacilia y Pax",
+  "fecha_original": "2 de enero de 1669",
+  "lugar": "Mallorca",
+  "remitente": "Llorenç Servera",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Mi Sr. D. Pedro Den {ESP. pues} de besar a v. senyoria les mans folgaria que esta el trobàs en la complida salut que desitja. A mi m'ha pessat moltíssim la mort del Sr. D. Joan, que Déu molts anys tengui en Santa glòria. Jo en som embarcat en la capitana, acompanyent mi senyor D. Nicolas fins a València i allí a on me manarà que com a criat de v. senyoria no em pot manar-li cosa que no faci conforme li dirà en Jeroni i mi senyor D. Nicolás. Sr. mio fins al dia d'avui he servit l'armada en l'esquadró de Santorio i si fos que en refermaren a mi i a tots els capitans espanyols per posar-hi el general capitans genovesos i així confia en v. senyoria que {ESP. supuesto} que és troba aquí en Madrid que en farà mercè de buscar-me algun {ESP. puesto} en què pugui passar la mia vida i em perdoni v. senyoria si m'atrevesc a ecriure-li tan llarg que com a criat que som de v. senyoria i de mi senyor D. Nicolás i de mi senyora m'ha obligat servir-se esta confiat que v. senyoria es recordara de mi. Déu me'l guardi i li doni cent anys de vida més perquè pugui fer bé als seus criats que fins els morts han de dir bé de v. senyoria i de la casa de Santacilia . Mallorca i gener als 2 de 1669. De v. senyoria que sa mà besa el capità Llorenç Server, criat fins a la mort. Etts. [1§] Transcripción literal"
+  ],
+  "literal": [
+    "1. Mi Sr. D. Pedro2. Den pues de besar a V. Señoría les mans folgaria 3. que esta el trobas en la cumplida salut que4. dezitja ami mea pesat moltissim la mort5. del Sr. D. Juan que Deu ms a< ñ>s tenga en Sta6. gloria; jo en som embarcat en La Capitana7. acompañiant mi Señor D. Nicolas fins en8. Vala y halli ahont me manera que com9. a Criat de V.Señoria nom pot menar le cosa10. que no fassa conforme Li dira en Hieronym11. y mi Señor D. Nicolas, Sr. mio fins lo die de 12. vuy he servit ala Armada en lo esquadro de13. Santorio y si fosi que en refermaren ami y ha14. atots los Capitans espeñiols per posarhi el Gene 15. ral Capitans Genovessos y axi confia en 16. V.Señoria que supuesto que es troba aqui en17. Madrit que en fara merse de buscarme algun18. puesto en que pugue pasar la mia vida y en19. perdona V.Señoria si me trevesch Scriureli20. tant llarch que com a Criat que som de V.Señoria21. y de mi Señor D. Nicolas y de mi señora mea22. obligat servirse esta confiat de que V.Señoria es 23. recordara de mi Deu me lo gde y li dona Cent24. añys de Vida mes perque pugue fer be a sos Cri-25. ats que fins los morts an de dir be de V.Señoria26. y de la Casa de Sentecilia Mallca y Janer als27. 2. de 1669.28. De V.Señoria q s[a] m[a] b al Capita29. Llorens Servera Criat fins a la 30. mort. Ettc. [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "203:2363.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo13/203:2363.JPG",
+      "url": "/legajos/legajo-13/images/203:2363.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "203:2363.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-13/cartas/001859.json",
+  "primary_image_url": "/legajos/legajo-13/images/203:2363.JPG"
+}

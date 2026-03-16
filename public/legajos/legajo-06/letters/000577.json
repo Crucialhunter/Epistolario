@@ -1,0 +1,43 @@
+{
+  "legajo_id": "6",
+  "id_carta": "577",
+  "order_in_legajo": 80,
+  "signatura": "083-48a",
+  "nombre_carta": "Carta de Ignasi Vila a Cecilia Zaforteza y Sureda de Sant Martí",
+  "fecha_original": "27 de diciembre de 1749",
+  "lugar": "Barcelona",
+  "remitente": "Ignasi Vila",
+  "destinatario": "Cecilia Zaforteza y Sureda de Sant Martí",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Molt il·lustre senyora dona Cecília, Gustós rebo l'afavorida de v. s. de 16 del corrent per les bones notícies {ESP. encontré} de sa salut i {ESP. demés} mentre que, a Déu guardi, queda la que m’assisteix junt la parenta i {ESP. demés} d’esta de v. s. pel que sia de son {ESP. agrado} manar-nos. No me dilato en escriure doncs el Sr. Gabriel suplirà mes faltes de paraula. Sols li puc dir [que] no ha tingut sinó tropell i si altra ocasió torna, no vagi amb tanta presa, doncs no ha tingut plaer de res, i quedo per servir-la d’esta sa casa. Barcelona i desembre als 27 de 1749 . Besa la mà de v. s. Ignasi Vila, son servidor. Molt senyora, dona Cecilia Zaforteza Transcripción literal"
+  ],
+  "literal": [
+    "1. Molt Illa. Sra. 2. Da. Cicilia gustos rebo la 3. afavorida de V.S. de 16 del 4. corrent per las bonas noticias 5. encontro de sa salut, y demes 6. mentres que á Deu g queda 7. la que me asisteix junt 8. la Parenta y demes de esta 9. de V.S. per lo que sia de 10. son agrado manarnos. 11. No me dilato en escriurer 12. pues lo Sr. Gabriel supli- 13. ra mas faltas de paraula 14. sols li puch dir no (^li) ha [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "083-48a.jpg",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo06/083-48a.jpg",
+      "url": "/legajos/legajo-06/images/083-48a.jpg"
+    },
+    {
+      "filename": "084-48b.jpg",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo06/084-48b.jpg",
+      "url": "/legajos/legajo-06/images/084-48b.jpg"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "083-48a.jpg",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-06/cartas/000577.json",
+  "primary_image_url": "/legajos/legajo-06/images/083-48a.jpg"
+}

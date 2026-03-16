@@ -1,0 +1,58 @@
+{
+  "legajo_id": "1",
+  "id_carta": "343",
+  "order_in_legajo": 34,
+  "signatura": "079-234a",
+  "nombre_carta": "Carta de Pere Joan Rius a Jerónimo Pelegrín de Aragüés",
+  "fecha_original": "13 de octubre de 1667",
+  "lugar": "Palma",
+  "remitente": "Pere Joan Rius",
+  "destinatario": "Jerónimo Pelegrín de Aragüés",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Senyor Jeroni,",
+    "Ja sé que no el tinc obligat amb ninguna cosa, però confiat com a tant senyor meu li suplic que faci mercè de fer {ESP. amparo} a aqueixa pobra dona, lo qual ella ja li informarà. I adès vertir lo qual ja veurà la justícia què fa. I voldria, a més d’això, que don Pedro, mi senyor, embarassàs aqueixos dos homes qui manin en presa aqueixa dona, perquè tot ho fan per fer-li sobres. Confio que farà mercè i no deixarà si li ofereix ninguna cosa de posar-me amb el que sia de son gust. Nostre Senyor el guardi.",
+    "Des de sa casa, als 13 d'octubre 1667.",
+    "Son amic i servidor, Pere Joan Rius",
+    "A Jeroni Pelegri que Déu guardi.",
+    "Ciutat."
+  ],
+  "literal": [
+    "1. Sr Jaroni",
+    "2. ja se que nol tinch obbligat ab ningune",
+    "3. cosse paro có fiat. és atent Sor meu",
+    "4. li soplich que fasse mersse de fer",
+    "5. eparo anequexa pobra done lo qual",
+    "6. ella ja linformera. i ades vertir lo [?]",
+    "7. ja encara la justisia que te i voldria",
+    "8. ade mes dexo que do Pedro mi Sor",
+    "9. em baracgas aquexo dos homes qui má",
+    "10. em presse aquexa done perque tot ofen",
+    "11. per fer li sobres co fio que fara",
+    "12. merse i no dexera si li ho faraix, nin",
+    "13. gune cosse de posarme ab lo quesia",
+    "14. de son gust. nostro S lo gde",
+    "15. deste se casse als 13 de sbre 1667",
+    "16. Só Amich i servor",
+    "17. Pera Juan Rius [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "079-234a.gif",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo01/079-234a.gif",
+      "url": "/legajos/legajo-01/images/079-234a.gif"
+    },
+    {
+      "filename": "079-234b.gif",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo01/079-234b.gif",
+      "url": "/legajos/legajo-01/images/079-234b.gif"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "079-234a.gif",
+  "warnings": [],
+  "raw_source": "raw/legajos/legajo-01/cartas/000343.json",
+  "primary_image_url": "/legajos/legajo-01/images/079-234a.gif"
+}

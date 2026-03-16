@@ -1,0 +1,38 @@
+{
+  "legajo_id": "17",
+  "id_carta": "2895",
+  "order_in_legajo": 160,
+  "signatura": "277:1437.JPG",
+  "nombre_carta": "Carta de Basilio de Castellví y Ponce a Pedro Santacilia y Pax",
+  "fecha_original": "30 de mayo de 1660",
+  "lugar": "Valencia",
+  "remitente": "Basilio de Castellví y Ponce",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Señor mío acabo de recibir una carta del señor don Juan en que me avisa, queda con buena salud, a Dios gracias, y me remite un pliego de los inclusos y aunque tengo escrito a v. s. en este pasaje hago estos renglones besando a v. s. la mano y por enviar a v. s. ese papel que son las nue bas que atraido la estafeta que son de buen orijinal con que se les puede dar seguro Credito, acá no hay novedad ninguna de que dar cuenta a v. s. añadiendo a lo que tengo escrito en lo tocante a este reino, sino suplicarle se sirva de no tenerme ocioso mandándome muchas en que sirva a v. s. cuya vida guarde. nuestro Señor muchos años como deseo, encom pañia de mi señora doña Leonor y el señor don Juan Miguel, cuyas manos con las de v. s. besamos, doña Laura, Giuseppe, y yo. Valencia y 30 de Maio, de 1660 Beso a v. s. s mo su mayor servidor Don Basilio de Castellvi y Ponce Sr. D. Pedro de Santacilia y Pax [1§] Transcripción literal"
+  ],
+  "literal": [
+    "1. Señor mio acavo de recivir una carta de el Señor Don 2. Juan en que me abisa, queda con buena salud a Dios gra3. çias y me remite un pliego de los ynclusos y aunque ten4. go escrito a VS. eneste pasaje hago estos renglones besando5. a VS la mano y por ymbiar a VS. ese papel que son las nue6. bas que atraido la estafeta que son de buen orijinal conque 7. se les puede dar seguro Credito, aca no ai nobedad ningu8. na de que dar cuenta a VS. añadiendo a lo que tengo escrito 9. en lo tocante a este Reyno, sino suplicarle se sirva de no 10. tenerme ocioso mandandome muchas en que sirva a VS. 11. cuia bida gde. nro Señor muchos años como deseo, encom12. pañia de mi Señora doña Leonor y el Señor Don Juan 13. Miguel, cuias manos con las de Vs. besamos, doña Laura, 14. Jusepe, y yo. Valencia y 30 de Maio, de 166015. B a VS s[u] mo su mor sdor16. Don Basilio de Castelví 17. y Ponçe18. Sr. D. Po de Santa Silia y Pax [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "277:1437.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo17/277:1437.JPG",
+      "url": "/legajos/legajo-17/images/277:1437.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "277:1437.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-17/cartas/002895.json",
+  "primary_image_url": "/legajos/legajo-17/images/277:1437.JPG"
+}

@@ -1,0 +1,43 @@
+{
+  "legajo_id": "6",
+  "id_carta": "679",
+  "order_in_legajo": 179,
+  "signatura": "276-140a",
+  "nombre_carta": "Carta de Nicolás Abrí Dezcallar a Cecilia Zaforteza y Sureda de Sant Martí",
+  "fecha_original": "29 de mayo de 1779",
+  "lugar": "Barcelona",
+  "remitente": "Nicolás Abrí Dezcallar",
+  "destinatario": "Cecilia Zaforteza y Sureda de Sant Martí",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Barcelona y mayo 29 de 1779. Muy señora mía de mi mayor veneración. A lo que iba a partir para mi Pueblo de Palau recibi la favorecida de v. s. por lo que excusé en aquella ocasión contestar el recibo de aquella, esperando dar satisfación, restituido en esta, como lo hago agradeciendo a v. s. sus finas expresiones de cuya sinceridad estoy bien seguro, y gustaría que creyera v. s. y admitiera por ingenuos y verdaderos los deseos con que solicito ocasiones de complacer a v. s. en un todo. Yo, a menos pensar me partiré de esta para Malta, aunque sólo será este paseo de un año. Dios me de un feliz viaje y ocasión como la deseo con ansia de pasar a esta isla o en la ida o en la vuelta para poder y rendir mis respetos a v. s. supli [1§] cándole se sirva hacer tantas expresiones de mi parte a mi señorra dña. Catalina, su hermana, y mis señoras sus sobrinas en el ínterin que espero yo lograr aquella ocasión, puede v. s. disponer de mi, pues que en todas distancias me serán apreciables los preceptos de v. s., cuya vida ruego a Dios guarde los muchos años que deseo. Besa la mano de v. s. su más atento y seguro servidor,El Bailio Abri Dezcallar Mi señora dña. Cecilia Zaforteza Transcripción literal"
+  ],
+  "literal": [
+    "1. Bar<celo>na y Maio 29 de 1779. 2. Muy Señora mia de mi maior 3. veneracion A lo que iba á partir para mi 4. Pueblo de Palau recibi la favorecida de V.S. 5. con lo que escuse en aquella ocasion con- 6. textar el recibo de aquella, esperando 7. dar satisfacion restituhido en esta, como 8. lo hago agradeciendo á V.S. sus finas ex- 9. pressiones de cuya cinceridad estoy bien 10. seguro, y gustaria que creyera V.S. y ad- 11. mitiera por ingenuos y verdaderos los de- 12. seos con que solicito ocasiones de compla- 13. cer á V.S. en un todo 14. Yo á menos pensar me partiré de es- 15. ta para Malta aunque solo será este 16. passeo de un año. Dios me de un feliz viage 17. y ocasion como la dezeo con ansia de passar 18. á esta Isla ó en la ida ó en la buelta para 19. poder y rendir mis respetos á V.S. supli- [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "276-140a.jpg",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo06/276-140a.jpg",
+      "url": "/legajos/legajo-06/images/276-140a.jpg"
+    },
+    {
+      "filename": "277-140b.jpg",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo06/277-140b.jpg",
+      "url": "/legajos/legajo-06/images/277-140b.jpg"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "276-140a.jpg",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (3)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-06/cartas/000679.json",
+  "primary_image_url": "/legajos/legajo-06/images/276-140a.jpg"
+}

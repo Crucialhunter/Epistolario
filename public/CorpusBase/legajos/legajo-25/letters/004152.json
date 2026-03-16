@@ -1,0 +1,48 @@
+{
+  "legajo_id": "25",
+  "id_carta": "4152",
+  "order_in_legajo": 85,
+  "signatura": "173_186a.JPG",
+  "nombre_carta": "Carta de Diego Matías de Aragüés a Jerónimo Pelegrín de Aragüés",
+  "fecha_original": "6 de julio de 1667",
+  "lugar": "Madrid",
+  "remitente": "Diego Matías de Aragüés",
+  "destinatario": "Jerónimo Pelegrín de Aragüés",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "En las pasadas tengo avisado como recibí las cartas de hay de 12 del pasado y aguardo me responda v. m. a lo que tengo escrito, y me avise de su salud y de la de toda su casa, hoy la tenemos todos en esta de v. m., enviando muchas saludes a sobrina y sobrinos, Dña. Margarita y yo. En lo demás me remito a lo que tengo escrito al Sr. D. Pedro. y me avise del estado en que está lo de Juan Garcia del Pozo, y en llegando hoy el virrey nuevo. V. m. me remita (con seguridad) en la primera ocasión de la muestra de esa tela, y el coste de cada vara, que en sabiendo lo que es le pondrán hoy el dinero en plata doble. Es para una gran señora que me lo ha encargado mucho. V. m. me haga merced que se haga luego la diligencia y me lo remita cuanto antes que la recibiré muy particular, y me mande le sirva y guarde Dios los muchos años que le deseo. Madrid a 6 de julio de 1667. Tío y servidor de v. m. Diego Matias de Aragues Sr. Jeronimo Pelegrin de Aragues, mi sobrino [1§] [Un trozo de tela negra] [2§] A Jeronimo Pelegrin de Aragues, mi sobrino. Guarde DiosMallorca Madrid 6, 9 y 12 de Julio 1667, de Diego Matias de Aragues. Tiene respuesta en 5 de agosto 1667. Transcripción literal"
+  ],
+  "literal": [
+    "1. En las passadas tengo avisado como reçivi2. las cartas de ay de 12 del p[a]ssado. Y aguardo3. me responda Vmd. a lo que tengo escrito, y me4. avise de su s[alu]d y de la de toda su cassa, hoy la5. tenemos todos enesta de Vmd. inviando mu[cha]s6. saludes á sobrina y sobrinos Dª Margta. y yo7. en lo demas me remito a lo que tengo escrito8. al Sr. D. Pedro. Y me avise el estado en que9. esta lo de Juan Garçia del Pozo, y en llegando10. ay el sr. Virrey nuebo.11. Vmd. me remita (con seguridad) en la primª12. ocassion de la muestra dessa tela, y el coste de13. cada bara, que en sabiendo lo que es le pondran14. ay el dinero en p[la]ta doble. Es para una gran15. Sª. que me lo ha encargado mucho Vmd. me16. haga md. que se haga luego la diligençia17. y me l eremita quanto antes que la reçi18. vire muy particular. Y me mande le sirva19. y gde. Dios los m[ucho]s a[ño]s que le deseo Madrid20. a 6 de Julio de 166721. Tio y ser[vid]or de Vm.22. Diego Mathias de Aragues23. Sr. Geronimo Pelegrin de Aragues mi sº [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "173_186a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo25/173_186a.JPG",
+      "url": "/legajos/legajo-25/images/173_186a.JPG"
+    },
+    {
+      "filename": "174_186b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo25/174_186b.JPG",
+      "url": "/legajos/legajo-25/images/174_186b.JPG"
+    },
+    {
+      "filename": "175_186c.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo25/175_186c.JPG",
+      "url": "/legajos/legajo-25/images/175_186c.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "173_186a.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (7)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-25/cartas/004152.json",
+  "primary_image_url": "/legajos/legajo-25/images/173_186a.JPG"
+}

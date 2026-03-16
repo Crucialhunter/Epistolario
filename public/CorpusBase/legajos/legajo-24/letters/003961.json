@@ -1,0 +1,43 @@
+{
+  "legajo_id": "24",
+  "id_carta": "3961",
+  "order_in_legajo": 12,
+  "signatura": "021:4014a.JPG",
+  "nombre_carta": "Carta de Magdalena de Zaforteza i Rocabertí a Pedro Santacilia y Pax",
+  "fecha_original": "6 de mayo de 1632",
+  "lugar": "Girona",
+  "remitente": "Magdalena de Zaforteza i Rocabertí",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "V. m. ha tornat a pensar en escriure'm. V. m. ho continuï. Cada dia estic molt contenta que hagi paregut [?] bé la librea del comte, a mi m'agrada [?] ocasions tant certoses con [?] que paregui bé el que [?] s'agrada de [?] són els que [?]. En el de les [?] comte es troba [?] al fi en açò el comte [?] de dir el que pot fer i [?] és comanar-lo molt de veres a Déu el guardi. Molt m'agrada el que v. m. diu que no publiqui i així no mostraré la carta a mi Sra. dona Maria amb llicència de v. m. que v. m. ja se la hi escriurà ni tampoc tinc ocasió de veure la que ací estic fora d'eixos barris. V. m. ja sap el que el comte li comana i havia comanat a don Garau Guardiola. No sé en quin estat està eix negoci. V. m. me farà mercè d'escriure, me n'agradarà molt haver prendit-lo quan vagi a les corts [?] el que importa és que s'hi conservi i també Sr. don Pedro Santacilia [1§] d'esser anat a besar la mà al rei amb tot el braç el que importa és que v. m. procuri per sa part que v. m. se {ESP. acerte} aqueix negoci de la presidència i antiguitat de sa casa. Això es el primer pas que te d'assentar a que m'apar a mi [?] no sé qui és el president en estes corts ni sé el duc de Cardona quin ofici fa en estes corts. Escrigui-m'ho llarg el que hi haurà i fàcim mercè d'escriure'm cada dia, que cada dia hi haurà portador de tot el que passarà aquí del comte que les cartes de v. m. me son de gran {ESP. alivio}. Estic molt contenta d'esser restada ací que cada dia se'n sues d'aquí que puc saber tot el que [?] fent-me v. m. mercè d'escriure-m'ho i així [?] més llarga. Nostre Sr. a v. m. guardi molts anys. Girona i maig als 6 de 1632. La comtessa de Perelada Transcripción literal"
+  ],
+  "literal": [
+    "1. V.m. ha tornat pensa en escriurem V.m. ho continue2. cada dia estich molt contenta que haja paregut [...]3. be la librea del comte a mim agrada [...]4. occasions tant sertosas con [...]5. que parega be lo que [...]6. se agrada de [...]7. son los que [...]8. [AQUESTA LÍNIA NO S'ENTÉN]9. molt be [...]10. En lo de las [...]11. Comte se troba [...]12. al fi en aso lo Comte [...]13. de dir lo que pot fer y [...]14. es comanarlo molt de veres a Deu lo guarde15. molt me agrada lo que v.m. diu que no publique y16. axi no mostrare la carta a mi Sa. dona Maria ab17. llisensia de v.m. que v.m. ya se li (^escriura) escriura18. ni tanpoch tinch ocasió de veurer la que asi estich19. fora de exos barris20. vm ya sap lo que lo comte li comana y avia21. comanat a don Garau guardiola no se en quin22. estat esta ex negosi V.m. me fara merce de escriurer23. men agradara molt lo aver prendit lo com bea las24. corts. lo que importa es que si concerve y tanbe25. Sr. don Pedro Sta. silia [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "021:4014a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo24/021:4014a.JPG",
+      "url": "/legajos/legajo-24/images/021:4014a.JPG"
+    },
+    {
+      "filename": "022:4014.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo24/022:4014.JPG",
+      "url": "/legajos/legajo-24/images/022:4014.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "021:4014a.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-24/cartas/003961.json",
+  "primary_image_url": "/legajos/legajo-24/images/021:4014a.JPG"
+}

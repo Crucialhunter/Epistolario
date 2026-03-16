@@ -1,0 +1,38 @@
+{
+  "legajo_id": "19",
+  "id_carta": "7698",
+  "order_in_legajo": 14,
+  "signatura": "390_7905.JPG",
+  "nombre_carta": "Carta de Pedro Pax Olim Español a Pedro Santacilia y Pax",
+  "fecha_original": "fecha sin especificar",
+  "lugar": "lugar sin especificar",
+  "remitente": "Pedro Pax Olim Español",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "No se amb quin títol pot v. s. datanir lo senyor Antoni tello fent tanta falta a sa muller i casa maiorment tenint Sr. don Juan miquel mi senora dona Beatriu aqui [?] part mia dara mil besamans amb conpanyia da mi senora tia que Nostre Senyor [?] amb un fil mascla. estam aguardant el virrei nou eregnara com amb altres i gosen gra seré da v. s. que Déu guardi Sr. don Pedro Pax olim spanyol [1§] Transcripción literal"
+  ],
+  "literal": [
+    "1. No se ab quin titol pot V. S. datanir lo señor 2. Antoni tello fent tanta falta a sa muller y 3. casa maiorment tanint don juan miquel 4. mi senora dona beatris aqui [?] part 5. mia dara mil besamans ab conpañia da 6. mi senora tia que nostro sañor [?] ab 7. un fil mascla. estam aguardant lo virrei 8. nou eregnara com ab altras y gosen gra 9. sere da V. S. que deu guarde 10. don pedro pax 11. olim spañol [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "390_7905.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo19/390_7905.JPG",
+      "url": "/legajos/legajo-19/images/390_7905.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "390_7905.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-19/cartas/007698.json",
+  "primary_image_url": "/legajos/legajo-19/images/390_7905.JPG"
+}

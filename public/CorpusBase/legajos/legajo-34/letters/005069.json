@@ -1,0 +1,43 @@
+{
+  "legajo_id": "34",
+  "id_carta": "5069",
+  "order_in_legajo": 97,
+  "signatura": "150:6984a.JPG",
+  "nombre_carta": "Carta de Agustí Crespí a Pedro Santacilia y Pax",
+  "fecha_original": "29 de noviembre de 1656",
+  "lugar": "Madrid",
+  "remitente": "Agustí Crespí",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "con grandísimo desconsuelo me tiene el haber muchos días que v. s. no se acuerda de hacerme las hoarras que suele y por ser el portador son mío espero que esa doge a las manos do [?] ya a otra ocasión lago avisado a v. s. de como el conde mi me mandó volviese a esta corte a las dar de la hacien/ da de mi Sra. que este en gloria deseo suumamente el salirdeste recyo/ sio y dar una vista a la patrisa no porque el conde mi de tede decerme la merced que siempre si/ jor estar yo algo astacoso y ca/ [?] la patria sira mucho [1§] estos son mis distos y para a el intería el que v. s. me dé muchas órdenes en que obedecerle y de estos de ver certa dusa y lo propio desean los señores que antes de venirme me preguntaron que si sabía algo de v. s. Dios guarde a v. s. y de la salud que deseo y es menester Ma/ drid a 29 de noviembre de 1656 de v. s. siempre servidor que sus manos besa Agustin Crespi 29, extrem inferior Sr. D. Pedro Santacilia y Pax [2§] Transcripción literal"
+  ],
+  "literal": [
+    "1. Con grandissimo desconsuelo me2. tiene el haber mushos dias que3. vsª no se aquerda de [haser]me las4. [hoarras] que suele y por ser el5. portador son mio espero que essa6. [doge] a las manos do [?] ia a otra7. ocasión [l]ago habisado a vsª de Como8. el Conde my Sr. me mando bolbiese9. a esta Corte a [las dar] de la hasien/10. da de mi Sa que este en gloria11. deseo suummamente el salirdeste [recyo/]12. sio i dar una bista a la [p]atr[is]a13. no porque el conde mi Sr de t[e]de14. des[erme] la mersed que siempre si/15. [jor] estar yo algo astacoso i ca/16. [?] la [patria] sira musho [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "150:6984a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo34/150:6984a.JPG",
+      "url": "/legajos/legajo-34/images/150:6984a.JPG"
+    },
+    {
+      "filename": "151:6984b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo34/151:6984b.JPG",
+      "url": "/legajos/legajo-34/images/151:6984b.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "150:6984a.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (2)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-34/cartas/005069.json",
+  "primary_image_url": "/legajos/legajo-34/images/150:6984a.JPG"
+}

@@ -1,0 +1,53 @@
+{
+  "legajo_id": "13",
+  "id_carta": "1835",
+  "order_in_legajo": 102,
+  "signatura": "166:2339a.JPG",
+  "nombre_carta": "Carta de José Balell a Pedro Santacilia y Pax",
+  "fecha_original": "3 de noviembre de 1668",
+  "lugar": "Barcelona",
+  "remitente": "José Balell",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Señor don Pedro Santacilia y Pax, mi señor He recibido la que v. s. fue servido mandarme escribir en 27 del pasado con mucho contento por la noticia he tenido de su buena salud que tanto estimo y deseo y así envió al Sr. don Juan el pliego para mi Sra. junto con los demás que tengo dicho partirán esta noche sin falta por no haberse y do el bergantín que dije. En la materia porque está preso don Bernardo Patiño. Se dejan bravas cosas [?] de hoy porque hubo extraordinario y también llegó [?] a la posta para alcanzar las galeras que se partieron 11 con el duque de San Germain. Sábado pasado que ya tenía las cartas al correo a que le obligó el tiempo muy bueno, siendo la menor que en esa corte Andalucía y otras partes había muchas prevenciones de [?] y querían matar al padre confesor y que su alteza convenía esto y más adelante y que se daría hecho [?] porque le querían prender y que todos los puertos estaban prevenidos, que puedo decir que el [?] de mi de campo y [1§] Luis Espluga fue enviado de su excelencia desde Arenys, donde se halla a Lérida a toda diligencia y que todos los sres son parciales del Sr. don Juan también ha creído [?] muy de veras que su alteza en este principado. Esto discurren indios y filósofos pequeños porque los grandes se hallan muchos días ha ausentes a sus lugares, los más cerca de esta ciudad como Badalona, [?] y Castelldefels. Lo cierto es que habrá muchos que no sólo se habrán holgado, sino que lo habrán avisado a sus amigos ahí Francia, Dios nos tenga de su mano y quiera aquietar esto y dar los alivios que necesita esta monarquía. En cuanto al bajel lo que sé por ahora de cierto que ha entrado 50 palmos más de los que estaba en el agua y que se halla a 22 palmos de agua por proa y 14 por popa y que todos le aseguran que se logrará gracias a Dios, porque sería lástima se perdiese tan lindo bajel. La disposición corre por sus marineros de estas costas, y conviene con ellos el que de la artillería no más que así fue el trato y ganóla el superintendente, se desespera. Hágase el milagro que es lo que importa y vuelvan sus excelencia a enviar al palacio nuevo donde está ya toda la ropa y los doblados hechos para las cañas y sortija y luego se seguirá la reforma. La lástima es que Francia logre los caballos que se pasan y dejarse de reformas. Sino continuará la necesidad [2§] que ella reformará a todos y los paisanos sin soldados como desean y más los Sres. del gobierno. Dios ponga remedio con todo como se necesita y guarde Dios a v. s. muchos años en compañía del Sr. don Juan y cuanto más quiere y merece. Barcelona y noviembre 3 de 1668. Cierto criado de v. s. que su mano besa, Josep Balell [3§] Barcelona, Noviembre 3. Respuesta a 13, del sargento mayor Josep Balell. Transcripción literal"
+  ],
+  "literal": [
+    "1. Sr d Po Sta Cilia y Pax mi Sr2. He reciv[i]do la que VS fue serv[i]do Man3. darme escribir en 27 del pass[a]do con4. mucho Contento por la noticia he5. tenido de su buena salud que tanto6. estimo y deso y asi invio al Sr. d Juan7. el Pliego pa mi Sa. junto con los de8. mas que tengo dicho partiran esta9. noche sin falta por no haverse hi10. do el Bergantin que dije11. En la materia porque esta preso d Berdo12. Patiño se dizen bravas cosas aja dan13. tes de oi porque huvo extraordino14. y tanvien llego [?] a la 15. posta para alcançar las Galeras que16. se partieron 11 con el Sr. duque de San17. german Savado pass[a]do que ya tenia las18. Cartas al Correo a que le obligo el19. tiempo mui bueno, Siendo la me20. nor que en esa Corte Andaluzia y otras21. partes havia muchas prebenciones d22. Armajon y querian matar al Pe Con23. fesor y que Su Alteza Conbenia esto24. y mas adelante y que se daria hecho[?]25. porque le querian prender y que todos26. los Puertos estavan prebenidos27. que puedo dezir que el Che[?] de Mi Sr.28. de Campo y29. 30. [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "166:2339a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo13/166:2339a.JPG",
+      "url": "/legajos/legajo-13/images/166:2339a.JPG"
+    },
+    {
+      "filename": "167:2339b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo13/167:2339b.JPG",
+      "url": "/legajos/legajo-13/images/167:2339b.JPG"
+    },
+    {
+      "filename": "168:2339c.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo13/168:2339c.JPG",
+      "url": "/legajos/legajo-13/images/168:2339c.JPG"
+    },
+    {
+      "filename": "169:2339d.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo13/169:2339d.JPG",
+      "url": "/legajos/legajo-13/images/169:2339d.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "166:2339a.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-13/cartas/001835.json",
+  "primary_image_url": "/legajos/legajo-13/images/166:2339a.JPG"
+}

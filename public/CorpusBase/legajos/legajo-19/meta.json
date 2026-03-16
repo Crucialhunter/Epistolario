@@ -1,0 +1,78 @@
+{
+  "legajo_id": "19",
+  "num_cartas": 331,
+  "num_imagenes": 602,
+  "rango_temporal": [
+    1510,
+    1698
+  ],
+  "remitentes_frecuentes": [
+    {
+      "name": "Persona desconocida",
+      "count": 165
+    },
+    {
+      "name": "Pedro Santacilia y Pax",
+      "count": 13
+    },
+    {
+      "name": "No consta",
+      "count": 7
+    },
+    {
+      "name": "Jerónimo Pelegrín de Aragüés",
+      "count": 6
+    },
+    {
+      "name": "March Vallès",
+      "count": 3
+    }
+  ],
+  "destinatarios_frecuentes": [
+    {
+      "name": "Pedro Santacilia y Pax",
+      "count": 203
+    },
+    {
+      "name": "Persona desconocida",
+      "count": 116
+    },
+    {
+      "name": "No consta",
+      "count": 4
+    },
+    {
+      "name": "Nicolás de Santacilia y Togores",
+      "count": 2
+    },
+    {
+      "name": "Diego Matías de Aragüés",
+      "count": 2
+    }
+  ],
+  "lugares_frecuentes": [
+    {
+      "name": "lugar sin especificar",
+      "count": 127
+    },
+    {
+      "name": "Mallorca",
+      "count": 118
+    },
+    {
+      "name": "Madrid",
+      "count": 14
+    },
+    {
+      "name": "Lugar sin especificar",
+      "count": 14
+    },
+    {
+      "name": "Barcelona",
+      "count": 11
+    }
+  ],
+  "temas_frecuentes": [],
+  "warnings_count": 68,
+  "densidad_narrativa_estimada": "Media"
+}

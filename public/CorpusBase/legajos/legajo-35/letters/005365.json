@@ -1,0 +1,38 @@
+{
+  "legajo_id": "35",
+  "id_carta": "5365",
+  "order_in_legajo": 175,
+  "signatura": "206:8212.JPG",
+  "nombre_carta": "Carta de Antoni Amorós a Pedro Santacilia y Pax",
+  "fecha_original": "30 de agosto de 1660",
+  "lugar": "Alcúdia",
+  "remitente": "Antoni Amorós",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Molt Il·luma. Disabte proppassat, que contàvem als 28 dels corrents, me presentà Pere Amorós una carta de Vosa senyoria perquè li entregàs el gra tinc replegat del delme de Vernisa, lliurat a Ramon Pou, i el dit Amorós no volgué robar aquell del {ESP. modo} mostra ser [?] delmat conforme li digué davant al bal·le reial i altres persones. Tinc entès que el dit Amorós és anat a donar queixa contra de mi a Vosa senyoria li’n dóna avís per ma part i estic prompte en donar-li tot el dit gra que tinc en mon poder del dit delme i en obeir en tot i per tot les ordres de Vosa Senyoria, a qui Nostre Senyor guarda. D’esta fidelíssima ciutat d'Alcúdia, als 30 d'agost de 1660. SSa. Antoni Amorós, son lloctinent. Al noble Sr. don Pedro Santacilia Transcripción literal"
+  ],
+  "literal": [
+    "1. Molt Illuma. Sr.2. Disapta propessat que contavam als 28 dels conrrents me3. presenta Pere Amoros una carta de Vossa. pera que4. li entragas el gra tinch repelgat del delma de Varnissa5. lliurat a ramon Pou, y lo dit Amoros no volgue robar aquell6. del modo mostarser [?] delmat comforma li digue devant7. al sr. balle real y altres personas, tinch antes que lo8. dit Amoros es anat a donar quexa contra de mi a Vosa. Sa.9. lin dona avis per ma part y estich pront aen donar li10. tot lo dit gra que tinch en mon poder del dit delma11. y en obehir en tot y per tot las ordes de Vosa. SSa. a qui12. Nostro Sr. guarde desta fidelissima Ciutat de Alcudia13. als 30 de agost de 166014. [...] SSa.15. Antoni Amoros son lloctt.16. Al noble sr. don17. Pedro Sta. Cilia [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "206:8212.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo35/206:8212.JPG",
+      "url": "/legajos/legajo-35/images/206:8212.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "206:8212.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-35/cartas/005365.json",
+  "primary_image_url": "/legajos/legajo-35/images/206:8212.JPG"
+}

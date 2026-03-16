@@ -1,0 +1,38 @@
+{
+  "legajo_id": "34",
+  "id_carta": "5073",
+  "order_in_legajo": 101,
+  "signatura": "156:6988.JPG",
+  "nombre_carta": "Carta de Andrés de Arias a Pedro Santacilia y Pax",
+  "fecha_original": "19 de diciembre de 1656",
+  "lugar": "Barcelona",
+  "remitente": "Andrés de Arias",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Señor mío por muchas cartas mías he procurado saber de la saludde v. s. y de ninguna hete/ nido respuesta sies por falta de salud me pesa/ ria mucho como tan interesado Ay va la galera y holgárame saber si v. s. tiene ya hechos los esclavos y sino v. s. se sirva de disponer lo quesave que el flete y todo lo hareyo bueno y fiado que v. s. me favorecera y Juntamte, me ocupe en cuanto fuere de su servicio Barcelona y dice 19 de 1656 servidor de v. s. Ands de Arias 13, extrem inferior Sr. D. Pedro SantaciliaÂ /p Transcripción literal"
+  ],
+  "literal": [
+    "1. Señor mio por muchas cartas mias he procurado2. saber de la salud devs y de ninguna hete/3. nido respuesta sies por falta de salud me pesa/4. ria mucho como tan interesado=5. Ay ba la Galera y holgarame saber si VS6. tiene ya hechos los esclavos y sino VS. sesirva7. de disponer lo quesave que el flete y todo lo8. hareyo bueno y fiado que vs. me favoresera9. y Juntamte, me ocupe en qto fuere desu servicio 10. Barna y dise 19 de 165611. serr de VS12. [Ands de Arias]13. [23, extrem inferior] Sr. D. Po Santa Cicilia14. /p>"
+  ],
+  "imagenes": [
+    {
+      "filename": "156:6988.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo34/156:6988.JPG",
+      "url": "/legajos/legajo-34/images/156:6988.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "156:6988.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (4)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-34/cartas/005073.json",
+  "primary_image_url": "/legajos/legajo-34/images/156:6988.JPG"
+}

@@ -1,0 +1,78 @@
+{
+  "legajo_id": "13",
+  "num_cartas": 168,
+  "num_imagenes": 263,
+  "rango_temporal": [
+    1668,
+    1670
+  ],
+  "remitentes_frecuentes": [
+    {
+      "name": "Jerónimo Pelegrín de Aragüés",
+      "count": 18
+    },
+    {
+      "name": "José Balell",
+      "count": 16
+    },
+    {
+      "name": "Leonor Santacilia i Despuig",
+      "count": 14
+    },
+    {
+      "name": "Basilio de Castellví y Ponce",
+      "count": 14
+    },
+    {
+      "name": "Gabriel de Berga y Zanglada",
+      "count": 7
+    }
+  ],
+  "destinatarios_frecuentes": [
+    {
+      "name": "Pedro Santacilia y Pax",
+      "count": 161
+    },
+    {
+      "name": "Persona desconocida",
+      "count": 3
+    },
+    {
+      "name": "Nicolás de Santacilia y Togores",
+      "count": 1
+    },
+    {
+      "name": "Juan Miguel de Santacilia y Togores",
+      "count": 1
+    },
+    {
+      "name": "Leonor Santacilia i Despuig",
+      "count": 1
+    }
+  ],
+  "lugares_frecuentes": [
+    {
+      "name": "Mallorca",
+      "count": 102
+    },
+    {
+      "name": "Barcelona",
+      "count": 21
+    },
+    {
+      "name": "Valencia",
+      "count": 19
+    },
+    {
+      "name": "Alicante",
+      "count": 5
+    },
+    {
+      "name": "Madrid",
+      "count": 4
+    }
+  ],
+  "temas_frecuentes": [],
+  "warnings_count": 71,
+  "densidad_narrativa_estimada": "Media"
+}

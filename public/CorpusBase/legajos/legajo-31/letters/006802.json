@@ -1,0 +1,38 @@
+{
+  "legajo_id": "31",
+  "id_carta": "6802",
+  "order_in_legajo": 42,
+  "signatura": "057:1553.JPG",
+  "nombre_carta": "Carta de Vicente de Aragón a Pedro Santacilia y Pax",
+  "fecha_original": "30 de enero de 1661",
+  "lugar": "Lugar sin especificar",
+  "remitente": "Vicente de Aragón",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Sr. mio resivo lado v. s. de 27 del pasado i per ella veo no ha recibido v. s. una carta mia en [?] gràcies de la mercè [?] que me hizo con els fiesa menester es doncs a destilar agua que per a mi hanvido de la LLETRA DIFÍCIL [1§] Transcripción literal"
+  ],
+  "literal": [
+    "1. Sr mio resivo la do VS de 27 del pasado y per ella veo no 2. ha rezevido VS una carta mia en [?] gratias de la 3. merced [?] que me hizo con los fiese mester es pues a destilar 4. agua que para mi hanvido de la LLETRA DIFÍCIL [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "057:1553.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo31/057:1553.JPG",
+      "url": "/legajos/legajo-31/images/057:1553.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "057:1553.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-31/cartas/006802.json",
+  "primary_image_url": "/legajos/legajo-31/images/057:1553.JPG"
+}

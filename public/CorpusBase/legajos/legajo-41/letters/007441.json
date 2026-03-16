@@ -1,0 +1,38 @@
+{
+  "legajo_id": "41",
+  "id_carta": "7441",
+  "order_in_legajo": 124,
+  "signatura": "133:67.JPG",
+  "nombre_carta": "Carta de Pedro Fajardo de Requeséns-Zúñiga y Pimentel (V marqués de los Vélez) a Gregorio Romero de Morales",
+  "fecha_original": "27 de abril de 1639",
+  "lugar": "Pamplona",
+  "remitente": "Pedro Fajardo de Requeséns-Zúñiga y Pimentel (V marqués de los Vélez)",
+  "destinatario": "Gregorio Romero de Morales",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "El Marques de los Velez adelantado ??Auiendo repressentado Don Antonio Pellicer de touar. Fin de la compañia ?? cauallos dragones del ?? don Pedro Santaciliai pax. que su Magestad Dios le guarde ??merced de darle patente de capitan i parayr a montar a cataluña una compañia de cauallos dragones. Suplicandomele de lizencia, para yr a executarlolo ??renido por Vien i por la pressentse la concedo de que se tomara la ??la Veed?? general ?? de la Caualleria dada EnPamplona a 27 abril 1639 El marques de los Velez adelantado por mandado de su excelencia don G?? Romero y Morales.?? a don An?? Pellicer de to??ar Parayr a cataluña a montar una compañia de cauallos Dragones [1§] Transcripción literal"
+  ],
+  "literal": [
+    "1. El Marq<ue>s de los Velez adelantado [??]2. Auiendo repressentado Don Antonio Pe3. llicer de touar. Fin de la compañia [??] ca4. uallos dragones del [??] don P< edr>o Santacilia5. i pax. que su Mag< esta>d Dios le guarde [??]6. m< e>r< ce>d de darle patente de capitan i para7. yr a montar a cataluña una compa8. ñia de cauallos dragones. Suplicandome9. le de lizencia, para yr a executarlo10. lo [??]renido por Vien i por la pressent11. se la concedo de que se tomara la [??]12. la Veed[??] g< enera>l [??] de la Cau< alleri>a dada En13. Pamplona a 27 abril 1639 El mar14. ques de los Velez adelantado por man15. dado de su ex< celenci>a don G[??] Romero y 16. Morales.17. [??] a don An[??] Pellicer de to[??]ar Para18. yr a cataluña a montar una compañia de cauallos Dragones [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "133:67.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo41/133:67.JPG",
+      "url": "/legajos/legajo-41/images/133:67.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "133:67.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (5)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-41/cartas/007441.json",
+  "primary_image_url": "/legajos/legajo-41/images/133:67.JPG"
+}

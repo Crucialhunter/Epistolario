@@ -1,0 +1,43 @@
+{
+  "legajo_id": "25",
+  "id_carta": "4124",
+  "order_in_legajo": 58,
+  "signatura": "117_158a.JPG",
+  "nombre_carta": "Carta de Miguel Malo a Jerónimo Pelegrín de Aragüés",
+  "fecha_original": "25 de mayo de 1667",
+  "lugar": "Madrid",
+  "remitente": "Miguel Malo",
+  "destinatario": "Jerónimo Pelegrín de Aragüés",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Recibo la de v. m. de 8 del corriente y con ella la del Sr. Mateo Maestre y es menester que v. m. le diga que la merced de su majestad es que disponga de su oficio en quien quisiere de sus hijos dentro de un año y que se cumple por Septiembre y así que la envíe luego con todas las calidades que pide y no será menester sino una carta simple de su merced. El Sr. D. Miguel Salva se parte de aquí a primero de junio, ya va v. m. muy recomendado a su señoría y con esto guarde Dios a v. m. como deseo. Madrid y mayo a 25 de 1667. Servidor de v. m. que sus manos besa Miguel Malo Sr. Jeronimo Pelegrin y Aragues [1§] Madrid, de Miguel Malo, de 25 de mayo 1667. Transcripción literal"
+  ],
+  "literal": [
+    "1. R[eci]vo la de Vm. de 8 del corr[ien]te y con2. ella la del sr. Matheo Maestre y es menes3. ter que Vm. le diga q la md. de su Magd.4. es q disponga de su offiçio en quien5. quisiere de sus hijos dentro de un año6. y que se cumple (^??) por setiem[br]e y assi que7. la embie luego con todas las calidades8. que pide y no sera menester sino una9. carta simple de su md.10. El Sr. D. Migl Çalba se parte de aqui11. a primero de Junio ya ba Vm. muy12. recomendado a su Señoria y con esto gde.13. Dios a Vm. como deseo M[adri]d y Mayo a14. 25 de 1667 Ser[vid]or de Vm q s.m.b.15. Miguel Malo16. Sr. Germo Pelegrin y Aragues [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "117_158a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo25/117_158a.JPG",
+      "url": "/legajos/legajo-25/images/117_158a.JPG"
+    },
+    {
+      "filename": "118_158b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo25/118_158b.JPG",
+      "url": "/legajos/legajo-25/images/118_158b.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "117_158a.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (4)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-25/cartas/004124.json",
+  "primary_image_url": "/legajos/legajo-25/images/117_158a.JPG"
+}

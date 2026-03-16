@@ -1,0 +1,38 @@
+{
+  "legajo_id": "17",
+  "id_carta": "2892",
+  "order_in_legajo": 158,
+  "signatura": "273:1434.JPG",
+  "nombre_carta": "Carta de Isabel de Salvá a Pedro Santacilia y Pax",
+  "fecha_original": "26 de mayo de 1660",
+  "lugar": "Madrid",
+  "remitente": "Isabel de Salvá",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Carta de lectura difícil. Transcripción literal"
+  ],
+  "literal": [
+    "1. Carta de lectura difícil."
+  ],
+  "imagenes": [
+    {
+      "filename": "273:1434.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo17/273:1434.JPG",
+      "url": "/legajos/legajo-17/images/273:1434.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "273:1434.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-17/cartas/002892.json",
+  "primary_image_url": "/legajos/legajo-17/images/273:1434.JPG"
+}

@@ -1,0 +1,38 @@
+{
+  "legajo_id": "15",
+  "id_carta": "2290",
+  "order_in_legajo": 188,
+  "signatura": "297:6515.JPG",
+  "nombre_carta": "Carta de Marqués de Leganés duque de San Lucar a Pedro Santacilia y Pax",
+  "fecha_original": "31 de octubre de 1666",
+  "lugar": "Valencia",
+  "remitente": "Marqués de Leganés duque de San Lucar",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Señor mío: La enhorabuena que v. m. me da por su carta de 10 del pasado de hallarme ejerciendo estos cargos, admito gustosamente, y deme v. m. creer del afecto y voluntad que le profeso y de lo que procuro imitar a mi padre, que se ha en gloria. Desearé en ellos se ofrezcan muchas ocasiones en que mostrar el agradecimiento a que me conducen sus grandes atenciones de v. m. y la estimación que hago de su persona. Guarde Dios a v. m. muchos años. Real de Valencia, 31 de octubre, 1666. [?] su servidor, Du que de San Mar, Marqués de Leganés. [ ] [Señor don Pedro Santacilia y Pax ] Transcripción literal"
+  ],
+  "literal": [
+    "1. Señor mío laen norabuena que Vm meda por 2. sucarta de10 ? delpassado dehallarme éxer3. çíendo estos Cargos admíto gustossamente, y 4. deve Vm creér delafecto y volunt[a]d q lepro5. fesso y delo queprocuro ymítar ami Padre 6. quesea éngloría deseare que énellos seofrezcan 7. muçhas ocassíones enque mostrar elagradeçimto 8. aqueme conducen Susgrandes atenznesde Vm 9. y laestimaçíon quehago de superssona; ge D< 10. a Vm muchos años Real [?]de Vala 31 de 8re 1666 11. [Ilegible] su seor 12. Duq de S[a]n Mar 13. Marqde leganes14. [Margen izquierdo][^Sr Don Pedro Santeçilla Y Pax] [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "297:6515.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo15/297:6515.JPG",
+      "url": "/legajos/legajo-15/images/297:6515.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "297:6515.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (2)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-15/cartas/002290.json",
+  "primary_image_url": "/legajos/legajo-15/images/297:6515.JPG"
+}

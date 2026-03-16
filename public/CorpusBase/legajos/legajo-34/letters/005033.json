@@ -1,0 +1,43 @@
+{
+  "legajo_id": "34",
+  "id_carta": "5033",
+  "order_in_legajo": 61,
+  "signatura": "097:6948a.JPG",
+  "nombre_carta": "Carta de Basilio de Castellví y Ponce a Pedro Santacilia y Pax",
+  "fecha_original": "23 de abril de 1656",
+  "lugar": "Palencia",
+  "remitente": "Basilio de Castellví y Ponce",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "S. mío. alleme. con dos Cartas. de v. s., de 28 de febrero y otra de 31 de Mco y en ambas eo. queda v. s. con la salud. quele deseo. gócela v. s., mil anos, encompania de mi Sra. Dña. Leonor. yesos. Sres. Cuyas. ms. B. Dña. Laura. yo y Juseph. He recibido la relación, que v. s. meha hecho merced de enviarme. porquele Bs lam. mil beces, la carta fue Alicante, y el pliego remití al protonotario de quien hasta ahora no he tenido respuesta. Luego que la haya procuraré vaya enlaprimer ocasión, en cuanto asegurar a v. s., quinoay novedad. ninguna más del haberse dicho. y me marabilla harto el que hayan llegado, hay esas noticias detambuen original, cuando crea no hay ningunas, erca. v. s., que se las hubiere las comunicare con todo cuidado a v. s. y quesi se me hiciere esta merced, (que no la espero)31 será para mi. de particular alborozo solo porque v. s. me [1§] tenga más cerca. para servirle. como lo pide mi obligación Aca. no hay más novedades. que el haber hecho del con/sejo de estado. al duque de Arcos, que llegó la flota. si bien falta. la Almiranta y otro navío de don Ju Transcripción literal"
+  ],
+  "literal": [
+    "1. S. Mio. alleme. con dos Carttas. de VS, de 28 de febrero2. y otra de 31 de Mco y en anbas eo. queda VS. con la3. salud. queledeseo. goçela VS, mil anos, enconpania4. de misra Dª Leonor. yesos. sres. Cuyas. ms. B. Dª5. Laura. yo y Juseph.6. Herreçivido la Relaçion, que VS. mehahecho mrd de7. inbiarme. porquele Bs l[a]m. mil beçes, la carta fue8. [A]licante, y el pliego rremiti al Sr. Protonotario de9. quien astaora no hetenido respuesta. Luego quela10. aya procurare baya enlaprimer ocasion,11. en quanto asigurar a VS., quinoay novedad. ninguna12. mas de el haverse dicho. y me marabilla arto el que13. ayan llegado, ay esas notiçias detanbuen original,14. quando crea noay ningunas, erca. VS, queselas15. huviere las comunicare contodo cuidado aVS.16. y quesi seme hiçiere esta mrd, (que no la espero)31 sera17. parami. de particular alboroço solo porque VS. me [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "097:6948a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo34/097:6948a.JPG",
+      "url": "/legajos/legajo-34/images/097:6948a.JPG"
+    },
+    {
+      "filename": "098:6948b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo34/098:6948b.JPG",
+      "url": "/legajos/legajo-34/images/098:6948b.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "097:6948a.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-34/cartas/005033.json",
+  "primary_image_url": "/legajos/legajo-34/images/097:6948a.JPG"
+}

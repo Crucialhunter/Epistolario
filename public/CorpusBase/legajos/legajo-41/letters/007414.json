@@ -1,0 +1,38 @@
+{
+  "legajo_id": "41",
+  "id_carta": "7414",
+  "order_in_legajo": 132,
+  "signatura": "093:40.JPG",
+  "nombre_carta": "Carta de Osorio García de Toledo a Pedro Santacilia y Pax",
+  "fecha_original": "31 de mayo de 1641",
+  "lugar": "Benicarló",
+  "remitente": "Osorio García de Toledo",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Don Garcia de Toledo Ossorio ??No obstante ninguna orden, que aya benido, ni benga, sin tenerlamia, no aplicara el Cappitan Don Pedro de Santazilia, ningun Bergantinpara ningun efecto, como con gran daño asta aora sea hecho, siendotreze los que su Magestad sustenta, y allandose oy solos seis, para el mayor empleo, y yo graduare conforme noticias de su Magestad y susmandatos, quales son los fines, que mas aprietan, sin que otro puedaazerlo, y haze ?? al agua luego, los dos que estan en la playa, porqueno es raçon que su Magestad los pague por efetibos no lo siendo. Galeray Plaza de Benicarlo a 31 de mayo de 1641no ??sa de??o ??Por Ma??do del Marques mi SeñorLorenzo de Vidarteorden del Cappitan Don Pedro de Santazilia [1§] Transcripción literal"
+  ],
+  "literal": [
+    "1. Don Garcia de Toledo Ossorio [??]2. No obstante ninguna orden, que aya benido, ni benga, sin tenerla3. mia, no aplicara el Capp< ita>n D< on> Pedro de S< an>tazilia, ningun Bergantin4. para ningun efecto, como con gran daño asta aora sea hecho, siendo5. treze los que su Mag< esta>d sustenta, y allandose oy solos seis, para el 6. mayor empleo, y yo graduare conforme noticias de su Mag< esta>d y sus7. mandatos, quales son los fines, que mas aprietan, sin que otro pueda8. azerlo, y haze [??] al agua luego, los dos que estan en la playa, porque9. no es raçon que su Mag< esta>d los pague por efetibos no lo siendo. Galera10. y Plaza de Benicarlo a 31 de Mayo de 164111. no [??]sa de12. [??]o [??]13. Por Ma< [??]>do del Marq< ue>s mi S< eño>r14. Lorenzo de Vidarte15. orden del Capp< ita>n Don P< edr>o de S< an>tazilia [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "093:40.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo41/093:40.JPG",
+      "url": "/legajos/legajo-41/images/093:40.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "093:40.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-41/cartas/007414.json",
+  "primary_image_url": "/legajos/legajo-41/images/093:40.JPG"
+}

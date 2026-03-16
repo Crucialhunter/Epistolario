@@ -1,0 +1,43 @@
+{
+  "legajo_id": "10",
+  "id_carta": "1215",
+  "order_in_legajo": 81,
+  "signatura": "146-382a",
+  "nombre_carta": "Carta de Miguel Sancho a Jerónimo Pelegrín de Aragüés",
+  "fecha_original": "18 de octubre de 1668",
+  "lugar": "Alicante",
+  "remitente": "Miguel Sancho",
+  "destinatario": "Jerónimo Pelegrín de Aragüés",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Su carta de v. m. de 4 del corriente tengo recibida con las cartas para el señor don Pedro y para el señor Diego Matias, que remitiré con la primera estafeta que cerca dé aviso y v. m. me mande lo de su gusto y Dios le guarde. Alicante y octubre, 18 de 1668. Muy servidor de v. m. que sus manos besa, Miguel Sancho. Sr. Jeronimo Pelegrin [1§] A Jeronimo Pelegrin, que Dios guarde. Mallorca. Transcripción literal"
+  ],
+  "literal": [
+    "1. Su carta de V.M. de 4 del corriente tengo reci 2. bida con las cartas para el Sr. don Pedro 3. y para el Sr. Diego Matias que remitiere 4. con la primera estafeta que cerca de aviso 5. y V.M. me mande lo de su gusto y Dios le 6. gde. Alicante y ottre 18 de 1668. 7. Muy ser de V.M. q s m b 8. Miguel Sancho. 9. Sr. Geronimo Pelegrin [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "146-382a.jpg",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo10/146-382a.jpg",
+      "url": "/legajos/legajo-10/images/146-382a.jpg"
+    },
+    {
+      "filename": "147-382b.jpg",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo10/147-382b.jpg",
+      "url": "/legajos/legajo-10/images/147-382b.jpg"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "146-382a.jpg",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING",
+      "message": "Se detectaron caracteres sospechosos de encoding (4)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-10/cartas/001215.json",
+  "primary_image_url": "/legajos/legajo-10/images/146-382a.jpg"
+}

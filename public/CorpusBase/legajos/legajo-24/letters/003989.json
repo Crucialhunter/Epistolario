@@ -1,0 +1,38 @@
+{
+  "legajo_id": "24",
+  "id_carta": "3989",
+  "order_in_legajo": 40,
+  "signatura": "062:4042.JPG",
+  "nombre_carta": "Carta de Nicolás Castellón a Pedro Santacilia y Pax",
+  "fecha_original": "10 de diciembre de 1640",
+  "lugar": "Roses",
+  "remitente": "Nicolás Castellón",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Ya v. m. estará informado de lo que hizo el marques de Vilafranca con el patrón Seguí que le dió 4 partes [?] de cuerda y dice que todos los mallorquines son ladrones y que antes que esto se acabe los ha de echar todos en galeras. Por aquí se dice que v. m. ha ido a hacer ver las compañía de dragones [?] y que no quiere venir con los bergantines si hay ocasión y a v. m. le parece que saltando su persona de v. m. o estándose ya menester un teniente para que vaya con los bargentines yo dejaré mi compañía y será esta ocasión y por todo lo demás que v. m. fuera servido pues sabe v. m. que la mayor honra que yo puedo tener en este mundo es el mandarme v. m. y tenerme por uno de sus criados de v. m. a quien Dios guarde como puede y Rosas a 10 de diciembre de 1640. Criado de v. m. Nicolas Castellon Sr. don Predro de Santacilia [1§] Transcripción literal"
+  ],
+  "literal": [
+    "1. Ya vm estara ynformado de lo q2. yzo el marques de vilabarca con el3. pretron segi q le dio 4 partes[?] de cuer4. da y dise q todos los malorquines5. son ladrones y q antes q esto se a6. cabe los a de etxar todos en galeras7. por aquí se dise q vm a ydo aser8. vir los conpia de dragones[?] y q no9. quere venir con los bergantines10. si ay ocasion y a vm le parese q 11. saltando su persona de vm o estan12. dose ya menester un tinente13. para q vaya con los bargentines14. yo dexare mi conpia y sara esta ocasion15. y por todo lo demas q vm fuera16. servido pues sabe vm q la mayor17. onra q yo puedo tener eneste mundo18. es el mandarme vm y tenerme19. por uno de sus criados de vm a20. quien dios guarde como puede y rosas21. a 10 de (^[?]) sienbre de 164022. Criado de vm23. Nicolas Castellon24. Sr. Don Predro de25. Santa sisilia [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "062:4042.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo24/062:4042.JPG",
+      "url": "/legajos/legajo-24/images/062:4042.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "062:4042.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (2)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-24/cartas/003989.json",
+  "primary_image_url": "/legajos/legajo-24/images/062:4042.JPG"
+}

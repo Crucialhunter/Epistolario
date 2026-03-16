@@ -1,0 +1,38 @@
+{
+  "legajo_id": "24",
+  "id_carta": "3968",
+  "order_in_legajo": 22,
+  "signatura": "033:4021.JPG",
+  "nombre_carta": "Carta de Enrique de Aragón (VI duque de Cardona) a Pedro Santacilia y Pax",
+  "fecha_original": "22 de marzo de 1635",
+  "lugar": "Perpiñán",
+  "remitente": "Enrique de Aragón (VI duque de Cardona)",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Sus pronósticos de v. m. se han cumplido tan bien que han venido a tocar en lo más sensible como ya lo debe v. m. saber pues se ha remitido al marques de Villafranca la fábrica de unos navíos que aquí se han de hacer y escribo a su majestad suplicándole el reparo de esto pues no es justo que conmigo se haga y cuando no se remedie con mayores instancias suplicaré la exoneración de esto y yo me hallaré mejor en mi casa y esto podrá gobernar otro. V. m. procure entender toda esta materia y lo que han parecido mis cartas, y avíseme con el secreto que espero. Guarde Dios a v. m. muchos años. Perpiñán a 22 de marzo 1635. Guarde Dios a v. m. que mediante su cuidado no ha sido tan sensible el golpe con haber sido el mayor que se ha dado a casa lo que tan poco lo hubiere sido. My suyo [?] y su mano beso [?] Sr. don Pedro Santacilia y Pax Transcripción literal"
+  ],
+  "literal": [
+    "1. Sus Pronosticos de V.m. se han cumplido tan bien que han2. venido a tocar en lo mas sensible como ya lo deve3. V.m. saber pues sea remitido al Marqs de villafranca4. la fabrica de unos Navios que aqui se han de haçer5. y escrivo a su Magd supplicandole el reparo desto pues6. no es justo que conmigo se haga y quando no se remedie7. con mayores instantias supplicare la exoneracion desto8. y yo me hallare mejor en mi casa y esto podra governar9. otro, V.m. procure entender toda esta materia y lo que10. han parescido mis cartas, y aviseme con el secreto q espero, 11. Guarde Dios a V.m. muchos años. Perpn a 22. de Março 1635.12. [^guarde dyos a V.m que13. medyante su cuydado no asy14. do tan sensyble el golpe con 15. a ber sydo el mayor que sea da16. do a Casa (lo que tan poco lou17. viere çido]18. el duq de sogorue 19. y de cardona20. Sr. Don Po. Santacilia y Paz [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "033:4021.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo24/033:4021.JPG",
+      "url": "/legajos/legajo-24/images/033:4021.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "033:4021.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-24/cartas/003968.json",
+  "primary_image_url": "/legajos/legajo-24/images/033:4021.JPG"
+}

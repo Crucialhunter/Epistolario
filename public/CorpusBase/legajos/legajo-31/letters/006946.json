@@ -1,0 +1,38 @@
+{
+  "legajo_id": "31",
+  "id_carta": "6946",
+  "order_in_legajo": 185,
+  "signatura": "273:1697.JPG",
+  "nombre_carta": "Carta de Marqués de Malva a Pedro Santacilia y Pax",
+  "fecha_original": "27 de septiembre de 1663",
+  "lugar": "Madrid",
+  "remitente": "Marqués de Malva",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Señor mi por haber estado catorce meses fuera de aquí no he podido suplicar a v. m. se sirva darme muchos empleos de su servicio. y valerme de la merced que me hace para que se sirva con su autoridad de ordenar que se pague lo que se está debiendo en ese real Patrimº. a mi Pe como v. s. sabe y informara el Dr. Sr. D. Bartolome. de Armella que por ser esta deuda tan justificada y deverse tanta cantidad de ella puedo esperar de v. s. que ha de tener todo el apoyo necesario para que tenga satisfacción cuando no sea en todo por lo menos en parte que aseguro a v. s. será hacerme un singularísimo favor con cuya estimación vivire siempre deseoso de merecer a v. s. a quien guarde Dios muchos años. Madrid a 26 de septiembre 1663. Besa la mano de v. s. su mayor seror. El Marq. de Malva Sr. D. Pedro Santacilia y Pax procurador real de Mallª. Transcripción literal"
+  ],
+  "literal": [
+    "1. Señor mio Por haver estado catorçe meses fuera de aqui no 2. he podido suplicar a Vm se sirva darme muchos empleos de su servº. 3. y valerme de la mrd que me haçe para que se sirva con su autoridad 4. de ordenar que se pague lo que se esta deviendo en ese Rl Patrimº. 5. ami Pe como VS sabe y informara el Dr D Barme. de Armella 6. que por ser esta deuda tan justificada y deverse tanta cantidad della 7. puedo esperar de VS que ha de tener todo el apoyo necesario para 8. que tenga satisfaçion quando no sea en todo por lo menos en parte 9. que aseguro a VS sera haçerme un singularisimo favor con cuya 10. estimacion vivire siempre deseoso de merezer a VS a quien gde Dios 11. ms años. Md a 26 de Sete 1663 12. Blm de VS 13. su mr seror. 14. El Marq. de Malva 15. Sr D Pº Santacilia y Pax Procurador Rl de Mallª. [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "273:1697.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo31/273:1697.JPG",
+      "url": "/legajos/legajo-31/images/273:1697.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "273:1697.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-31/cartas/006946.json",
+  "primary_image_url": "/legajos/legajo-31/images/273:1697.JPG"
+}

@@ -1,0 +1,37 @@
+{
+  "legajo_id": "38",
+  "id_carta": "5541",
+  "order_in_legajo": 79,
+  "signatura": "123:65.JPG",
+  "nombre_carta": "Carta de Persona desconocida a Pedro Santacilia y Pax",
+  "fecha_original": "8 de agosto de 1663",
+  "lugar": "Sóller",
+  "remitente": "Persona desconocida",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Il·lustríssim Senyor El dia present. acircha tres hores de dia mes vingut Damia Colom de Francesc dientma que essent al seu olivar si ha trobadas cabres de que ne ha agafada una i després com l'ha tinguda farmada (es estada) es son amats tres homons qui son Amador Jaume ensaiats germans i Jua Sauh [?] Castajo i a padradas l'hi han presa del que dóna avís a Su Sª Il·lustríssima. avui en Soller als 8 agost 1663 Prompta per obeir sos manaments Pere Arbona balla real [1§] Al Illim Senyor don Pedro Santasillia i Pax cavaller del abit de la Calatrava lloc t. i capta. generall. Per sa magestat en el present. regne de malorcha que deu ge. molts anys et. [2§] Transcripción literal"
+  ],
+  "literal": [
+    "1. Illm Señor2. Lo dia pnt. acircha tres horas de3. dia mes vingut Damia Colom de Ffs.4. dientma que essent al seu olivar5. ci ha trobadas cabres de que ne ha agafada6. una i denpres com la ha tinguda farmada7. (^es estada) es son amats tres homons qui8. son Amador Jauma ensaiats jermans y Jua9. Sauh[?] Castajo i a padradas lai han pressa10. del que dona avis a Su Sª Illma. vui11. en Soller als 8 Agost 166312. Prompta per obair sos m[a]n[ame]nts13. Pera Arbona balla real [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "123:65.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo38/123:65.JPG",
+      "url": "/legajos/legajo-38/images/123:65.JPG"
+    },
+    {
+      "filename": "124:65b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo38/124:65b.JPG",
+      "url": "/legajos/legajo-38/images/124:65b.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "123:65.JPG",
+  "warnings": [],
+  "raw_source": "raw/legajos/legajo-38/cartas/005541.json",
+  "primary_image_url": "/legajos/legajo-38/images/123:65.JPG"
+}

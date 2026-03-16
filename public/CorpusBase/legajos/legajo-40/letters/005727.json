@@ -1,0 +1,41 @@
+{
+  "legajo_id": "40",
+  "id_carta": "5727",
+  "order_in_legajo": 54,
+  "signatura": "208:79a",
+  "nombre_carta": "Carta de Persona desconocida a Persona desconocida",
+  "fecha_original": "fecha sin especificar",
+  "lugar": "Mallorca",
+  "remitente": "Persona desconocida",
+  "destinatario": "Persona desconocida",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Transcripción literal"
+  ],
+  "literal": [],
+  "imagenes": [
+    {
+      "filename": "208:79a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo40/208:79a.JPG",
+      "url": "/legajos/legajo-40/images/208:79a.JPG"
+    },
+    {
+      "filename": "209:79b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo40/209:79b.JPG",
+      "url": "/legajos/legajo-40/images/209:79b.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "208:79a.JPG",
+  "warnings": [
+    {
+      "code": "MISSING_LITERAL",
+      "message": "Transcripción literal vacía",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-40/cartas/005727.json",
+  "primary_image_url": "/legajos/legajo-40/images/208:79a.JPG"
+}

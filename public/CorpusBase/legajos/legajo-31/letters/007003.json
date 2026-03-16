@@ -1,0 +1,43 @@
+{
+  "legajo_id": "31",
+  "id_carta": "7003",
+  "order_in_legajo": 235,
+  "signatura": "356:1754bisa.JPG",
+  "nombre_carta": "Carta de Jaime Barceló y Salvá a Pedro Santacilia y Pax",
+  "fecha_original": "24 de octubre de 1664",
+  "lugar": "Ciutadella",
+  "remitente": "Jaime Barceló y Salvá",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Ilustrísimo SeÃ±orÂ Doy parte a v. s. de como he llegado a esta isla lo cual me holgado el daber se hallaba con entera salud Dios se la mantenga en compaÃ±ia de mi señoría DoÃ±a Leonor g los de su casa SeÃ±or la Ã‡edula que vino de su majestad. que Dios guarde, como es del consejo de guerra no se la he ensenada al procurador real subdito a v. s. . porque me he informado y me han dicho menos no sea por el Consejo de Aragón conforme mis Antecesores la han tenida de 24 quarteras de trigo y seis por el pape de gineta que son treinta por cascun aÃ±o y así suplico a v. s. . que en el interque viene la Ã‡edula de Consejo de Aragón para que se me dé dos quarteras de trigo. Cada mes como daban a don Pedro Lorenzana que así se estila dar a los demás capitanes de san Felipe y así creo v. s. . no pondrá duda en favorecerme con una carta por el Teniente de v. s. . de lo de mi hermano ha quedado en la calidad que a v. s. . lo dejo no obstante me mandó su Exelencia biniese en compaÃ±ia Â [1Â§] de don Juan de Bayarte que mi hermanoÂ quedaba con la atención de mis servicios y los suyos particularmente bastaba ser encomendados del Sr. don Pedro Santacilia y así me tiene v. s. . en esta isla para mandarme que disponer a su voluntad como puede y es menester a quien Dios guarde. CiudadelaÂ y octubre a los 24 de 1664 Ilustrísimo SeÃ±or Sr. don Pedro Santacilia criado de v. s. . Jaime Barcelo y Salva [2Â§] Transcripción literal"
+  ],
+  "literal": [
+    "1. Illmo Señor 2. Doy parte a VSª de como he llegado 3. a esta isla lo qual me holgado el daber 4. se hallava con entera salud Dios se la 5. mantenga en compañia de mi Sª Doña 6. Leonor g los de su casa 7. Señor la Çedula que bino de su Magd. q 8. Dios gde, como es del consejo de guerra 9. no se la he ensenada al Procurador Real 10. subdito a VSª. porq. me he informado y 11. me han dicho menos no sea por el consejo de 12. Aragon comforme mis Antecessores la han 13. tenida de 24 quarteras de de trigo y seys por 14. el pape de gineta que son treinta por cascun 15. año y assi suplico a VSª. que en el inter16. que viene la Çedula de Consejo de Aragon 17. paraq. se me de dos quarteras de trigo. 18. Cada mes como davan a Don Pedro Lorenzana 19. que assi se estila dar a los demas capitanes 20. de san Phelipe y assi creo VSª. no pondra 21. duda en afavorecerme con una carta por 22. el Teniente de VSª. 23. De lo de mi hermano ha quedado en la 24. calidad que a VSª. lo dexo no obstante 25. me mando su Exelencia biniesse en compañia [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "356:1754bisa.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo31/356:1754bisa.JPG",
+      "url": "/legajos/legajo-31/images/356:1754bisa.JPG"
+    },
+    {
+      "filename": "357:1754bisb.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo31/357:1754bisb.JPG",
+      "url": "/legajos/legajo-31/images/357:1754bisb.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "356:1754bisa.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (47)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-31/cartas/007003.json",
+  "primary_image_url": "/legajos/legajo-31/images/356:1754bisa.JPG"
+}

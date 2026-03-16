@@ -1,0 +1,43 @@
+{
+  "legajo_id": "6",
+  "id_carta": "744",
+  "order_in_legajo": 10,
+  "signatura": "413-205a",
+  "nombre_carta": "Carta de Juan Zaforteza a Cecilia Zaforteza y Sureda de Sant Martí",
+  "fecha_original": "fecha sin especificar",
+  "lugar": "Mallorca",
+  "remitente": "Juan Zaforteza",
+  "destinatario": "Cecilia Zaforteza y Sureda de Sant Martí",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Tía y muy señora mía, Habiendo estado (estado) esta mañana en casa del intendente, me ha dicho d. Josef Jalón iba a la {CAT. cavalcada} con un adrezo que v. s. le había dejado y me ha pedido por favor si le quería dejar un caballo, a lo que le respondí que con muchísimo gusto, viendo que v. s. le había dejado el adrezo. Su sobrino y seguro servidor, Juan. Hoy 30 de diciembre. Sobrino, La primera noticia de Jalón es la que tú me acabas de dar, porque no me ha pedido nada. Sí Francisco Dameto me ha pedido el aderezo, al que he respondido que si tú no ibas al pas[?] suyo se lo dejaría; como si tú no vas, avísamelo y se lo dejaré a Dameto. Tía, he visto lo que v. s. me dice de no haberle hablado Jalón, y así v. s. lo puede dejar a Dameto que se lo ha pedido primero. Transcripción literal"
+  ],
+  "literal": [
+    "1. Tia y Muy Señora 2. mia haviendo es- 3. tado (estado) esta 4. mañana en Casa 5. del Intendente 6. me ha dicho Dn. 7. Josef Jalon iva 8. á la {cat.} cualcada 9. con un Adrezo 10. que V.S. le ha- 11. via dejado y 12. me ha pedido 13. por favor si 14. le queria dejar 15. un cavallo a 16. lo que le res- 17. pondi que con 18. muchicimo 19. gusto viendo 20. q< ue> V.S. le ha- 21. via dejado el 22. Adrezo 23. Su sobrino 24. y S< gu>ro S< ervi>dor 25. Juan 26. Oy 30 de 27. Dizi[em]bre 28. Sobrino la pri< me>ra 29. noticia de Calon 30. es la que tu me 31. acabas de dar 32. porque no me 33. a pedido nada 34. Si Fr< ancis>co Dameto 35. me á pedido 36. el Aderesso al 37. que he respon- 38. dido que si tu 39. no ivas al pas[?] 40. suyo se lo dejari 41. ( i)a como si tu 42. no vas ávissa 43. melo, y se lo de- 44. jare á Dameto. 45. Tia he visto lo 46. que V.S. me di 47. ze de no haver 48. le hablado Ja 49. lon, y assi V.S. 50. lo puede dejar 51. á Dameto 52. que se lo ha 53. pedido prime 54. ro. [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "413-205a.jpg",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo06/413-205a.jpg",
+      "url": "/legajos/legajo-06/images/413-205a.jpg"
+    },
+    {
+      "filename": "414-205b.jpg",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo06/414-205b.jpg",
+      "url": "/legajos/legajo-06/images/414-205b.jpg"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "413-205a.jpg",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-06/cartas/000744.json",
+  "primary_image_url": "/legajos/legajo-06/images/413-205a.jpg"
+}

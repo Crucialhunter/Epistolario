@@ -1,0 +1,38 @@
+{
+  "legajo_id": "18",
+  "id_carta": "3020",
+  "order_in_legajo": 52,
+  "signatura": "087:4859.JPG",
+  "nombre_carta": "Carta de Diego Matías de Aragüés a Pedro Santacilia y Pax",
+  "fecha_original": "1 de julio de 1662",
+  "lugar": "Madrid",
+  "remitente": "Diego Matías de Aragüés",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "he recibido su carta de v. m. con elmeml del sargento mayor Jaime Custurer y me fui haber con Mi Jeronimo deVal, y me dijo como el lo había hecho, Tope también en el Costo [?] como se denego ensi de mayo pasado, con que volveré asistir en la pretensión yhablaré a estos señores procurando se leconcede la carta para elembajador en Roma. y de lo que sucediere avisaré a v. m. mandándome Julio 1662 Besa la mano de v. m., su menor servidor Diego Matias de Aragues Sr. don Pedro Santacilia y Pax [1§] Transcripción literal"
+  ],
+  "literal": [
+    "1. He recivido su carta de Vm. con elmeml 2. del Sargto mayor Jayme Custurer y me 3. fui aver Con Misr Germo deVal, yme 4. dixo como el lo havia hecho, Tope 5. tambien enel Costo[?] como se denego ensi de 6. mayo passado, conq bolvere asistir 7. en la pretension yhablare aestos 8. SSes procurando se leconcede lacarta 9. para elembaxador en roma. Yde lo q 10. succediere avisare a Vm. mandandome 11. Julio 1662 12. B[] l[] m[] de Vm, s[u] m[] s[] 13. Diego Mathias de Aragues14. [Margen izquierdo][^ Sr don Pedro sta Cilia y Pax]15. [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "087:4859.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo18/087:4859.JPG",
+      "url": "/legajos/legajo-18/images/087:4859.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "087:4859.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (3)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-18/cartas/003020.json",
+  "primary_image_url": "/legajos/legajo-18/images/087:4859.JPG"
+}

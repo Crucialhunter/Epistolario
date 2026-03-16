@@ -1,0 +1,38 @@
+{
+  "legajo_id": "16",
+  "id_carta": "2600",
+  "order_in_legajo": 84,
+  "signatura": "142:2100.JPG",
+  "nombre_carta": "Carta de Nicolás de Santacilia y Togores a Pedro Santacilia y Pax",
+  "fecha_original": "28 de mayo de 1667",
+  "lugar": "Madrid",
+  "remitente": "Nicolás de Santacilia y Togores",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Por todas partes tengo escrito a v. m. h aunque son de poca instansia, mis cartas, y como estamas agurdando, lo del hofisio, no he hablado en mi negocio, y asi, no hay de que dar cuenta Sr. don Miguel Salva, se va previniendo muy de prisa, don jorge des Calar, de hay en, ocho días, y ya está consertado el Caruaje Por horas se está esperando Coreo, de Flandes, y con heso, no se puede decir nada con certeza. Guarde Dios a v. m. muchos años como deseo y es menester Madrid a 28 de mayo 1667 Su más humilde hijo de v. m. que su mano besa don Nicolas de Santacilia y Togores mi señor y mi padre [1§] Transcripción literal"
+  ],
+  "literal": [
+    "1. Por todas partes tengo escrito a VM haunque 2. son de poca instansia, mis Cartas, y Como estamas 3. agurdando, lo del hofisio, no he ablado en 4. mi negosio, y asi, no ay de que dar quen-5. ta 6. Don Migel Salva, seva previniendo muy 7. de prisa, don jorge des Calar, de ay en, ocho 8. dias, y ia esta Consertado el Caruaje 9. Por horas se esta esperando Coreo, de flan-10. des, y Con heso, no sepuede desir nada Con 11. sertesa Guarde Dios a VM muchos años 12. Como deseo y emenester Madrid a 28 13. de Mayo 1667 14. Su mas humilde hijo 15. de VM q S[u] M[]B[] 16. Don Nicolas de Sta Cilia y Togores 17. [Margen izquierdo][^ mi Seño>r y mi Padre] [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "142:2100.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo16/142:2100.JPG",
+      "url": "/legajos/legajo-16/images/142:2100.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "142:2100.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-16/cartas/002600.json",
+  "primary_image_url": "/legajos/legajo-16/images/142:2100.JPG"
+}

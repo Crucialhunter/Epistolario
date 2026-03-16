@@ -1,0 +1,38 @@
+{
+  "legajo_id": "32",
+  "id_carta": "7202",
+  "order_in_legajo": 203,
+  "signatura": "283:1960.JPG",
+  "nombre_carta": "Carta de José Balell a Pedro Santacilia y Pax",
+  "fecha_original": "29 de septiembre de 1666",
+  "lugar": "Barcelona",
+  "remitente": "José Balell",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Sr. D. Pedro. mi después de haber besado la mano a v. s. con dos [?] las cuales entregaron la una el hijo mº. Miguel Canalis y la otra el Rdo. Pe. Sirilo que pasa a este reino por visitador de nuestra Sra. del Carmen he recibido el incluso pliego de Madrid con carta mía del Sr. Diego Matias de Aragues y me manda le remita cuanto antes por lo mucho que v. s. se ha de holgar ha llegado hoy tan lindo tiempo que dentro de un cuarto se parte la saicia y pues me sinifica la parte de las novedades y que serán las más vicitadas en el marge es querre excuso en este suplico a v. s. me tenga en su gracia y me mande como quiere y puede cuya vida guarde. nro. como puede desº. y es menester Barcelona y Sete. a 29 de 1666 El Sr. D. Vicente llego de su Romería y no sabemos cosa del pasaje de la Sra. emperatriz ni del Sr. Nicolas cierto criado de v. s. que sus manos besa Josep Balell [1§] Transcripción literal"
+  ],
+  "literal": [
+    "1. Sr. D. Pº. mi Sr. 2. Despues de haver besado 3. la mano a VS con dos 4. ?? las quales entrega5. ron la una el hijo mº. 6. Miguel Canalis y la otra 7. el Rdo. Pe. Sirilo que pasa 8. a este Reyno por visitador 9. de nra Sª. del Carmen he 10. recivido el incluso pliego de 11. Madrid con carta mia del 12. Sr. Diego Matias de Aragues 13. y me manda le remita qto 14. antes por lo mucho que VS 15. se ha de olgar ha llegado oi 16. tan lindo tiempo que dentro 17. de un quarto se parte la sai18. tia y pues me sinifica la 19. parte de las novedades y que 20. seran las mas viçitadas 21. [en el marge esquerre] 22. escuso en este suppco. a VS me tenga en su 23. gracia y me mande como quiere y puede cuia 24. bida gde. nro. Sr. como puede desº. y he menester 25. Barcelona y Sette. a 29 de 1666 26. El Sr. D Bisente llego de su Ro27. meria y no savemos cosa del pa28. saje de la Sª. emperatris ni del Sr. Nicolas 29. Cierto Criado de VS qsmb 30. Joseph Balell [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "283:1960.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo32/283:1960.JPG",
+      "url": "/legajos/legajo-32/images/283:1960.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "283:1960.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-32/cartas/007202.json",
+  "primary_image_url": "/legajos/legajo-32/images/283:1960.JPG"
+}

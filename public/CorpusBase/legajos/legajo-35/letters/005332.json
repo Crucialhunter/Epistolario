@@ -1,0 +1,38 @@
+{
+  "legajo_id": "35",
+  "id_carta": "5332",
+  "order_in_legajo": 148,
+  "signatura": "163:8179.JPG",
+  "nombre_carta": "Carta de Gabriel Seguí a Pedro Santacilia y Pax",
+  "fecha_original": "1 de junio de 1645",
+  "lugar": "Maó",
+  "remitente": "Gabriel Seguí",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Antes que acaben de passar les poques hores que em resten de l'administratió de l'ofici bal·le en què v. s. fou servit honrar-me, no puc deixar amb esta prometent-me el ser criat de v. s. majors honres, suplicar-lo si en alguna cosa hauré faltat de complir a l'obligació de mon ofici i servei de v. s. tinga per bé perdonar-me i tenir en memòria de què som un dels seus criats. El guiatge que v. s. fou servit concedir a petició mia a Francesc Pons, Àngel, i Joan Tal tavull, fadrí va expirant; i per ser pobres; i algun tant de ma casa, no he pogut deixar de secundar amb esta suplicar a v. s. sia de son servei manar diferir-los dos mesos més el dit guiatge, que ademés que serà fer v. s. obra de caritat ho rebré en particular mercè Gda. Déu Nre. Sr. a la il·la. persona de v. s. com pot i li suplico. de Maó i juny de 1645. Gabriel Seguí Sor. governador Transcripción literal"
+  ],
+  "literal": [
+    "1. Antes que acaban de passar las pocas horas quem2. restan de la administratio del offici Balle en3. q V.Sria. fonch servit horrarma, no puch4. dexar ab esta prometentem el ser criat de5. V. Sria majors honrras suplicarlo si en alguna6. cosa heure faltat de complir a la obligatio7. de mon offici, y servey de V.Sria. tinga per be8. perdonarma, y tenir en memoria de que9. som un de sos criats.10. El guiatge q V.Sria. fonch servit concedir a11. petitio mia a Ffs. Pons Angel, y Joa Tal12. tavull fedri va espirant; y per ser pobres;13. y algun tant de ma casa no he pogut dexar14. de secundar ab esta suplicar a V.Sria. sia de15. son servey manar differirlos dos mesos mes16. el dit guiatge, que ademes q sera fer V.Sria.17. obre de caritat ho rebre en particular md.18. gde. Deu Nre. Sor. a la Illa. persona de V. Sria. com19. pot y li suplicho de Maho y juñy de 1645. 20. Gabriel Sagui21. Sor. Governador [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "163:8179.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo35/163:8179.JPG",
+      "url": "/legajos/legajo-35/images/163:8179.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "163:8179.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-35/cartas/005332.json",
+  "primary_image_url": "/legajos/legajo-35/images/163:8179.JPG"
+}

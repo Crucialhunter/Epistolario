@@ -1,0 +1,43 @@
+{
+  "legajo_id": "7",
+  "id_carta": "789",
+  "order_in_legajo": 16,
+  "signatura": "33-20a copy",
+  "nombre_carta": "Carta de Diego Matías de Aragüés a Jerónimo Pelegrín de Aragüés",
+  "fecha_original": "15 de agosto de 1667",
+  "lugar": "Madrid",
+  "remitente": "Diego Matías de Aragüés",
+  "destinatario": "Jerónimo Pelegrín de Aragüés",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Remito con esta ese papelito de Juan Garcia del Pozo, que con las memorias que vuestra merced tiene y esto que advierte puede muy bien obrar, así de cortesía como de justicia, que este hombre le sobra la razón. Vuestra merced tome esto con todas veras que le ofrezco, que si consigue esto o parte de ello tendrá buenos guantes que serán a mi elección, y de su mano se pagará. Ya me parece habrán llegado todos mis pliegos, así por Valencia como por Barcelona y Alicante. Encargo mucho vengan esas letras del señor nuncio con la certificación hecha al señor obispo al dorso de ellas, que los demás recaudos que pido para que salgamos de una vez de lo que poco me importa este aquí su hermano [?] ni sus palabras ni enredos. En todo lo demás me refiero a las cartas del señor don Pedro. Hasta ahora no hay novedad en lo de las 257 [?] libras. Si acaso viene ese síndico llamado Antonio Palau, si pareciere [1§] venir vuestra merced acá, puede hacerlo, o enviarme los casos [?] que le pareciere convenientes para representarlos. Me los remita y sean verdaderos, que con esto parece bastará porque acá si no rehúsan las razones que la villa diere, se ha de procurar que se estorbe el que no se le dé informe porque el consejo no determinará esta materia sin que se vuelva a pedir informe. Esto es cierto y en este caso importará esté vuestra merced allá y avisarme a quién se ha de escribir allá. Y si este que viene es criado del de la Formiguera, remítame vuestra merced harto de [?] con todo secreto, como lo es, [?] y todo lo demás que se ofrezca en esto, que el rey si puede darlo podía darle también todo lo demás que es de ese género de tierra [?] y esto libre y sin censo [?] y a cualquiera que quiera hacer gracia de ello. Y antes de que puedan derribar el [?] ni la posesión, han de venir muy cargados de razón y sobra de justicia. Y así vuestra merced no se afane ni fatigue. A vuestra merced mi sobrina y niños mil saludos, y guarde Dios como deseo. Madrid, 15 agosto 1667. Tío y servidor de vuestra merced, Diego Matias de Aragues. [2§] Señor Jeronimo Pelegrin de Aragues, mi sobrino. Transcripción literal"
+  ],
+  "literal": [
+    "1. Remito con esta esse papelito de Juan 2. Garcia del Pozo, q con las memorias 3. q Vm. tiene y esto q adbierte puede 4. muy bien obrar asi de cortesia como de 5. Justicia qeste hombre le sobra la razon 6. Vm. tome esto con todas veras q 7. le offrezco q si consigue esto, o, parte 8. dello tendra buenos guantes q seran 9. a mi elecion y de su mano se pagara 10. Ya me parece habran llegado todos 11. mis pliegos asi por Valencia como 12. por Barcelona y Alicante, 13. encargo mucho vengan essas 14. letras del Sr. Nuncio con la certi- 15. ficacion hecha al sr. obispo al dorsso 16. dellas q los demas recaudos q pido 17. para q salgamos de una vez de lo 18. q poco me importa este aqui 19. su hero [?] ni sus palabras ni enrredos. 20. En todo lo demas me refiero a las 21. cartas del Sr. don Pedro. 22. Hasta agora no ay novedad en lo 23. de las 257 [?] Las si acaso viene esse 24. Syndico llamado Anto Palau; si pareciere [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "33-20a copy.gif",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo07/33-20a copy.gif",
+      "url": "/legajos/legajo-07/images/33-20a copy.gif"
+    },
+    {
+      "filename": "34-20b copy.gif",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo07/34-20b copy.gif",
+      "url": "/legajos/legajo-07/images/34-20b copy.gif"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "33-20a copy.gif",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (7)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-07/cartas/000789.json",
+  "primary_image_url": "/legajos/legajo-07/images/33-20a copy.gif"
+}

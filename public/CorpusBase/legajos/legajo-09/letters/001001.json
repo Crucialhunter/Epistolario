@@ -1,0 +1,42 @@
+{
+  "legajo_id": "9",
+  "id_carta": "1001",
+  "order_in_legajo": 38,
+  "signatura": "045-23a",
+  "nombre_carta": "Carta de Josep de Meoz y Urquiz a Arnau de Santacilia",
+  "fecha_original": "18 de julio de 1674",
+  "lugar": "Milán",
+  "remitente": "Josep de Meoz y Urquiz",
+  "destinatario": "Arnau de Santacilia",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Amigo y señor mío, En la carta de v. m. de 19 de junio encuentro las nuevas de la salud y estimará las acompañará v. m. con muchas órdenes de su servicio en que ejercitarme. Ya dije a v. m. como había llegado a esta ciudad el señor príncipe de Ligni y ahora pide una relación jurada de los capitanes para saber la gente [tinta borrada] [1§] en sus compañías y se cree pasarán muestra. Ya está advertido de todo el amigo Villalonga, y se procurará ajustar todo con satisfacción de v. m. Cuando di las 6 doblas de España a don Francisco me pareció era lo mismo el que las tomase que el pedirlas al ayudante Álvarez y porque soy enemigo de tener en mi poder dinero que no es mío por el peligro de gastarlo con que en esto no se ha perdido [2§] nada, y v. m. las reencontrará en la cuenta que tiene con don Francisco en viniendo. Dios guarde a v. m. muchos años, como deseo. Milán, 18 de julio 1674. Besa las manos de v. m. su mayor servidor y amigo, Josep de Meoz y Urquiz Amigo, terrible condición tiene aquel hombre que está en Sancin y Villalonga está desesperado con razón. Señor don Arnaldo Transcripción literal"
+  ],
+  "literal": [
+    "1. Amigo y sr mío en la Carta 2. de Vm de 19 de Junio en 3. cuentro las nuevas de la Salud 4. y estimara las acompañara 5. Vm con ms ordenes de su ser6. vícío enque exercitarme 7. Ya dije a Vm como havia 8. llegado aesta Çiudad el 9. señor Principe de Ligni 10. y ahora pide Una relacion 11. Jurada delos Capítanes para 12. saver la Gente [Ilegible, borrado] [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "045-23a.jpg",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo09/045-23a.jpg",
+      "url": "/legajos/legajo-09/images/045-23a.jpg"
+    },
+    {
+      "filename": "046-23ba.jpg",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo09/046-23ba.jpg",
+      "url": "/legajos/legajo-09/images/046-23ba.jpg"
+    },
+    {
+      "filename": "046-23bb.jpg",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo09/046-23bb.jpg",
+      "url": "/legajos/legajo-09/images/046-23bb.jpg"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "045-23a.jpg",
+  "warnings": [],
+  "raw_source": "raw/legajos/legajo-09/cartas/001001.json",
+  "primary_image_url": "/legajos/legajo-09/images/045-23a.jpg"
+}

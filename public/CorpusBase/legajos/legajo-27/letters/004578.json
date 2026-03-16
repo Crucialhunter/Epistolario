@@ -1,0 +1,38 @@
+{
+  "legajo_id": "27",
+  "id_carta": "4578",
+  "order_in_legajo": 48,
+  "signatura": "085:4387",
+  "nombre_carta": "Carta de Joan Castelló a Persona desconocida",
+  "fecha_original": "22 de junio de 1629",
+  "lugar": "Barcelona",
+  "remitente": "Joan Castelló",
+  "destinatario": "Persona desconocida",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "[ilegilbe] v. m. se servirà donar un {ESP. recado} de ma part al senyor comte d'Empuries [?] fara v. m. de dir [?] que a la que estava per a servir la nova bona de la salut [?] he sabut havia reca [?] el que m'ha pesat moltíssim per haver jo rebudes moltes mercès de ma de {ESP. su sa.} i que si sabrà que si s'havia de tenir gust haguera anat a besar-li la mà en què tothom fos estat content, però com les coses estan un poc de {ESP. picadillo} no he gosat parlar paraula. Pot estar cert el senyor comte d'Empuries que sempre seré criat molt afectat a coses de {ESP. su sa.} Digui v. m. a la comtessa de Perelada mi Sra. que esta tarda he trobat el senyor comte en Sant Francisco i que està boníssim i que no té {ESP. su sa.} que tenir {ESP. cuidado}. Guardi Nre. Senyor a v. m. els anys de mon desig. Esta carta me l'obliga a escriure Diego de Vilanova. Barcelona i juny 22 de 1629. El Dr. Joan Castello Transcripción literal"
+  ],
+  "literal": [
+    "1. [illegilbe] vm se servira donar un recado demapart2. al señor conde de empuries p[ ]fara un me dedir3. asis[r?] que alaque etava para sercusier oa nova4. bona de la salud asusa he sabre avia reca[ ]put5. loque meha pesat moltissim per aver perebudes6. moltes merces demadesusa y que sisabra qie7. si sa avia detenirgu[ ]t aguera anat abesarli la8. ma abque totom fos estat content pero comles9. cosas estan un poch depicadillo nohe gosat par/10. lar paraula pot estar sert loseñor ( ?) [c??se]11. de empuries que sempre sere [eriat?] molt12. affectat acfas de susa. diga vm ala[cade?]13. ca deparalada misa que esta tarde hetroba14. alseñor comte entant frco yque estabonissim15. y que [mtefisa?] quetenir cuydado gde ne señor16. a Vm los ays demomdefr[j?] sta carta mel[u?]obliga17. ascriurer diego de vilanova barcelona y juny 18. 22 de 1629 Lo [sr?] Jua[ ] Cartellos [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "085:4387.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo27/085:4387.JPG",
+      "url": "/legajos/legajo-27/images/085:4387.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "085:4387.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-27/cartas/004578.json",
+  "primary_image_url": "/legajos/legajo-27/images/085:4387.JPG"
+}

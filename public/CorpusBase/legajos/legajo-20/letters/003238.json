@@ -1,0 +1,43 @@
+{
+  "legajo_id": "20",
+  "id_carta": "3238",
+  "order_in_legajo": 112,
+  "signatura": "256:6019a.JPG",
+  "nombre_carta": "Carta de Diego Matías de Aragüés a Pedro Santacilia y Pax",
+  "fecha_original": "7 de marzo de 1668",
+  "lugar": "Madrid",
+  "remitente": "Diego Matías de Aragüés",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Dios será servido que había llegado con bien a esa ciudad Sr. don Arnaldo Santacilia con que me remito [?] a su llegada y a lo que tengo escrito por Barcelona y remitido el duplicado del despacho que le envíe a Valencia. se había [?] visto el de la certificación y testimonio del maltratamiento que hacen los genoveses a los marineros mallorquines puse en el consejo con memorial como el [?] me dijo estase viendo y consulta de ello a la reina que espero ha de ser grande resolución. Espero saber de Cádiz por el Consejo de Estado si se ha hecho allá embargo de embarcaciones genovesas de que avisaré a v. s. Por Barcelona tengo remitido las letras de la Inquisición de esta suprema y con esta van los duplicados v. s. mandará avisarme del recibo de ellas. [1§] Las paces con Portugal se han publicado en los consejos y dicen que este primer sábado serán los pregones. El Sr. don Juan estaba para partirse y se ha dilatado su jornada por unas tercianas que le ha dado de mala calidad con que se ha despedido el carruaje. v. s. me mande le sirva que sus manos besamos doña Margarita y yo con las de mi Sra. Dña. Leonor y todos esos Sres. muchas veces. Guarde Dios como deseo, Madrid 7 Marzo 1668. Esta semana pondré el memorial para la ayuda de costa. Beso las manos de v. s. su mayor servidorDiego Matias de Aragues Sr. Don Pedro Santacilia y Pax. Transcripción literal"
+  ],
+  "literal": [
+    "1. Dios sera servido q habia llegado 2. con bien a essa Ciudad Don Arnaldo 3. Sta. Cilia con q me remito[?] a su llegada 4. Y a lo q tengo escrito por Barcelona 5. y remitido el duppdo del despacho 6. q le embie a Valencia. se habia[?] visto 7. el de la certificacion y testimonio 8. del Mal tratamto q hazen los Geno- 9. veses a los Marineros Mallorquines 10. puse en el Consso con mem< [?]> como el sr. 11. [?] me dixo estase viendo 12. y consulta dello a la Reyna 13. q espero ha de ser grande resoluçion 14. Espero saber de Cadiz por el Consso 15. de estado si se ha hecho alla embargo 16. de embarcaciones Genovessas de 17. q avissare a VS. 18. Por Barcelona tengo remitido las 19. letras de la Inqon desta suprema 20. y con esta ban los duplicados 21. Vs. mandara abisarme del recivo dellas [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "256:6019a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo20/256:6019a.JPG",
+      "url": "/legajos/legajo-20/images/256:6019a.JPG"
+    },
+    {
+      "filename": "257:6019b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo20/257:6019b.JPG",
+      "url": "/legajos/legajo-20/images/257:6019b.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "256:6019a.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (3)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-20/cartas/003238.json",
+  "primary_image_url": "/legajos/legajo-20/images/256:6019a.JPG"
+}

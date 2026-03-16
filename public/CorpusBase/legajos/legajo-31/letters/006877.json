@@ -1,0 +1,37 @@
+{
+  "legajo_id": "31",
+  "id_carta": "6877",
+  "order_in_legajo": 119,
+  "signatura": "168:1628a.JPG",
+  "nombre_carta": "Carta de Isidoro Sans a Pedro Santacilia y Pax",
+  "fecha_original": "21 de octubre de 1661",
+  "lugar": "Ciutadella",
+  "remitente": "Isidoro Sans",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Transcripción literal"
+  ],
+  "literal": [
+    "1. 1."
+  ],
+  "imagenes": [
+    {
+      "filename": "168:1628a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo31/168:1628a.JPG",
+      "url": "/legajos/legajo-31/images/168:1628a.JPG"
+    },
+    {
+      "filename": "169:1628b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo31/169:1628b.JPG",
+      "url": "/legajos/legajo-31/images/169:1628b.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "168:1628a.JPG",
+  "warnings": [],
+  "raw_source": "raw/legajos/legajo-31/cartas/006877.json",
+  "primary_image_url": "/legajos/legajo-31/images/168:1628a.JPG"
+}

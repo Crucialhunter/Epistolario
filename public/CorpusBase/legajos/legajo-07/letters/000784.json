@@ -1,0 +1,38 @@
+{
+  "legajo_id": "7",
+  "id_carta": "784",
+  "order_in_legajo": 15,
+  "signatura": "26-15 copy",
+  "nombre_carta": "Carta de Jerónimo Pelegrín de Aragüés a Vicecanciller de Aragón",
+  "fecha_original": "20 de junio de 1667",
+  "lugar": "Mallorca",
+  "remitente": "Jerónimo Pelegrín de Aragüés",
+  "destinatario": "Vicecanciller de Aragón",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Excelentísimo señor. Don Nicolas de Santacilia y Pax cuando se partió me dejó en esta su casa de v. e., para todo lo que v. e. quiera mandar a este su criado. Escríbeme en carta de 12 mayo pasado solicite que D. Juan Bayarte se parte con la gente que tuviera que es de conveniencia, y le he entregado una del maestre de campo que aprieta la brevedad. Señor, la compañía esta hecha muy buena gente hombres todos, buenas embarcaciones porque todas las saetías corso han llegado muy pocos días ha. Suplico a v. e. rendido a sus pies ordene al señor virrey mande que dicho capitán se despache cuanto antes porque si no es por mano de v. e. esto va muy despacio ni todavía aún no han hecho nombramiento de otros capitanes. Guarde Dios a v. e. muchos años como este su criado le desea y he de menester. De Mallorca, 20 de junio 1676. Excelentísimo señor beso los pies de v. e.Jeronimo Pelegrin y Aragues. Señor vicecanciller de Aragón, mi señor. Transcripción literal"
+  ],
+  "literal": [
+    "1. Exmo. Señor. 2. Don Nicolas de sta cilia y Pax quando se partio 3. me dexo en esta su cassa de.V.E. para todo lo que 4. V.E. quiera mandar a este su criado. 5. Escribe [^me en] (^con) carta de 12 mayo passado. solicite q 6. D. Juan Baiarte se parta con la gente que tubiera 7. que es de conveniencia y le he entregado una 8. (^carta) del maesse deCampo q apreta la brevedad. 9. Señor la comppa esta echa muy buena gente 10. hombres (^echos) todos. buenas embarcationes por 11. que todas + (^las barca de) las saetias corsso an llegado muy 12. pocos dias. ha: 13. Supp[li]co aV.E rendido a sus pies, ordene al sr. 14. virrey. man(an)de que dicho capitan se 15. despache quanto antes por que 16. sino es por [^mano] de V.E. esto va muy despacio 17. ni (^tanpoco) todavia aun no an echo nombra- 18. miento de otros capitanes. 19. Guarde Dios a V.E. ms a< ño>s como este su criado le dess[e]a 20. y he de Menester. de Mallca 20. de hunyo 21. 1676. 22. Exmo sr. 23. Besso los pies de V.E. 24. Geroymo Pelegrin y Aragues 25. sr. Vicecanciller de Aragon mi sr. [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "26-15 copy.gif",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo07/26-15 copy.gif",
+      "url": "/legajos/legajo-07/images/26-15 copy.gif"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "26-15 copy.gif",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (5)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-07/cartas/000784.json",
+  "primary_image_url": "/legajos/legajo-07/images/26-15 copy.gif"
+}

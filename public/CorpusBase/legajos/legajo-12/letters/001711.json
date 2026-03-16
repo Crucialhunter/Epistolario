@@ -1,0 +1,43 @@
+{
+  "legajo_id": "12",
+  "id_carta": "1711",
+  "order_in_legajo": 209,
+  "signatura": "320_6304a.JPG",
+  "nombre_carta": "Carta de Jaime Martín a Pedro Santacilia y Pax",
+  "fecha_original": "30 de septiembre de 1664",
+  "lugar": "Badajoz",
+  "remitente": "Jaime Martín",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Mi Sr. En todas las ocasiones que he tenido no he dejado de avisar a v. s. de todo lo que habido por acá de nuevo, procurando saber de la salud de v. s., y rogando a Dios se la dé tan cumplida como lo deseo y es menester. Yo la tengo siempre para servir a v. s. Yo he tenido noticia de que en este reino se levanta o se ha de levantar un tercio con que no puedo menos de cansar a v. s. en esta ocasión, suplicándole que se acuerde de mi aunque yo estoy muy confiado que v. s. no me tiene olvidado porque siendo hechura suya y criado de casa, lo cual he recibido tantos favores por cualquier parte. Estado nombrándome así y particularmente los que he recibido de v. s. y espero a los 20 de agosto hubo reforma general y reformaron las tres compañías y las agregaron al tercio de D. Fernando de Verí, lo cual esta sirviendo al dicho tercio de reformado, advirtiendo que de tres capitanes, tres sargentos y tres alféreces no hay otro que este sirviendo sino yo, unos se han ido con licencia, otros sin ella con que ya habrán noticia de lo que por acá se ha pasado de la reforma [?] se haga puntual cada mes pero es una miseria lo que se da, porque se paga en Vellón y tampoco estamos muy ciertos que dure [1§] los tercios se viste de diferentes colores como es uno verde otro azul y otro morado y otros colores estravagantes. Monsier Martí ha salido con cinco mil caballos y tres mil infantes a volar una plaza nuestra que se llama Ronjes, una plaza muy fuerte y porque dicen que todo el ejército se desafía en dicha plaza la huella el enemigo tiene hecho junta y por lengua que se ha cogido dicen que tiene 6 mil infantes y tres mil caballos y quiere salir a estorbar esta facción, veremos que resultará y daré aviso de cuanto sentiera. Aguardando estoy a Martí por ver si me dará licencia para irme con que espero en días besar a v. s. las manos y hallarme delante de sus ojos para mis aumentos que en esta ocasión no me podrán faltar. A mi Sra. doña Leonor mayor y menor beso, mil veces la mano y al Sr. D. Miguel, Juan y don Nicolas de la misma manera rogando a Dios les dé muchos años de vida y salud con la de v. s. juntamente que Dios guarde. Badajoz y septiembre a 30 de 1664. El menor criado de v. s. que sus manos besael alférez Jaime Martin Sr. don Pedro Santacilia y Pax [2§] Transcripción literal"
+  ],
+  "literal": [
+    "1. Mi Sr.2. En todas las ocasiones q etendio no e degado de avi3. sar a Vsa de todo lo q avido poraca de nuevo pro4. curando saber de la salu de Vsa, y rogando a dios se5. la de tan cumplida como lo desseyio y e menester Jo6. la tengo siempre para servir a Vsa.7. Jo etendio notisia de q en este reyino se levanta o se a8. de levantar un tersio con q no puedo menos de can9. sar a Vsa. en esta ocasión suplicandole q se aquer10. de de mi aunq jo estoy muy confiado q Vsa. no11. me tiene olbidado porq siendo ecxura suyia y12. criado de cassa lo qual e resebido tantos favores por13. qualquier parte estado nonbrandome ansi y par14. ticularmente los q e resebido de Vsa. y espero15. A los 20 de agosto uvo reforma general y refor16. maron las tres companias y las agregaron al tersio17. de Dn fernando de vera lo qual esta sirviendo al18. dicxo tersio de reformado advirtiendo q de tres19. capitanes tres sargents y tres alfereses no ay o20. tro q este sirviendo sino jo unos se an ydo con21. lisensia otros sin ella con q ja abran notisia22. de lo q por aca se a pasado23. de la reforma ac se haga pontual cada mes pero 24. es una miseria lo q se da porq se paga en vellon y25. tanpoco estamos muy siertos q dure [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "320_6304a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo12/320_6304a.JPG",
+      "url": "/legajos/legajo-12/images/320_6304a.JPG"
+    },
+    {
+      "filename": "321_6304b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo12/321_6304b.JPG",
+      "url": "/legajos/legajo-12/images/321_6304b.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "320_6304a.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-12/cartas/001711.json",
+  "primary_image_url": "/legajos/legajo-12/images/320_6304a.JPG"
+}

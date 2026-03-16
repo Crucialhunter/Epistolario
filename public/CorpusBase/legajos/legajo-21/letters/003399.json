@@ -1,0 +1,43 @@
+{
+  "legajo_id": "21",
+  "id_carta": "3399",
+  "order_in_legajo": 86,
+  "signatura": "136:5688a.JPG",
+  "nombre_carta": "Carta de Agustín de Villanueva y Díez a Pedro Santacilia y Pax",
+  "fecha_original": "23 de noviembre de 1638",
+  "lugar": "Zaragoza",
+  "remitente": "Agustín de Villanueva y Díez",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Holgárame mucho de haberme hallado en alguna de esas villas para besar a v. m. las manos al tiempo que v. m. paso hoy poderle servir en algo, que esto es lo que yo he de desear siempre, y que vea v. m. si por acá se ofrece en qué servir a v. m. que lo haré con mucho gusto. Guarde Dios a v. m. muchos años, Zaragoza 23 Noviembre 1638. D. Augustin de Villanueva y Diez Sr. don Pedro Santacilia y Pax [1§] Zaragoza 23 Noviembre 1638 El justicia de Aragón rda. [2§] Transcripción literal"
+  ],
+  "literal": [
+    "1. [Zona superior][^ 8]2. olgarame mucho de havermehallado en 3. alguna dessas Villas para vesar a vm 4. Las manos altiempo q vm. passo oy 5. poderle servir enalgo, q esto es lo q 6. yo he de desear siempre, yq vea vm 7. si por aca se offrece enque servir a Vm 8. quelo hare con mucho gusto gde Dios 9. a vm. muchos años Çaragoça 23 nove 1638 10. D Augustin devilla 11. imevaydiez[?] 12. [Margen izquierdo][^ Sr Don Po Sta Cilia y Pax] [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "136:5688a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo21/136:5688a.JPG",
+      "url": "/legajos/legajo-21/images/136:5688a.JPG"
+    },
+    {
+      "filename": "137:5688b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo21/137:5688b.JPG",
+      "url": "/legajos/legajo-21/images/137:5688b.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "136:5688a.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (2)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-21/cartas/003399.json",
+  "primary_image_url": "/legajos/legajo-21/images/136:5688a.JPG"
+}

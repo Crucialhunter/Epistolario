@@ -1,0 +1,43 @@
+{
+  "legajo_id": "23",
+  "id_carta": "3812",
+  "order_in_legajo": 67,
+  "signatura": "131:3224a.JPG",
+  "nombre_carta": "Carta de Luis de Aragón (VII duque de Cardona) a Pedro Santacilia y Pax",
+  "fecha_original": "11 de abril de 1635",
+  "lugar": "Lucena",
+  "remitente": "Luis de Aragón (VII duque de Cardona)",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Alegrome con las nuevas que v. m. me da: de que dar ya el marques mi hermano, en su casa, con que espero se continuara la mejoría de su causa, para que todos nos alegremos de verle sin su cuidado, el aviso que v. m. me da de las cosas de Barcelona estimo mucho como lo hare, de que no deje de continuarlo, por lo que deseo entender todo lo que tocare. á. aquel Principado y que hay se ofrezca. de aquí no veo que decir a v. m. sino que siempre deseo muchas ocasiones para servirle, Dios guarde a v. m. largos años. Lucena, 11 de abril 1635 Sr. don Luis de Aragón Sr. don P. Santacilia [1§] Lucena rdo. 11 de abril 1635 Sr. don Luis de Aragón [2§] Transcripción literal"
+  ],
+  "literal": [
+    "1. Alegrome con las nuevas que V.m. me da: de que dar ya el Marques2. mi hermano, en su cassa, con que espero se continuara la mejoria 3. de su caussa, para que todos nos alegremos de verle sin su cuydado, 4. el avisso que Vm me da de las cossas de Barna estimo mucho5. como lo hare, de que no dexe de continuarlo, por lo que desseo 6. entender todo lo que tocare. á. aquel Principado y que 7. ay se ofrezca. de aquí no veo que deçir a Vm sino8. que siempre desseo muchas ocassiones pa servirle, Dios9. gde a Vm largos años. Lucena, 11. de Abril 1635- 10. Don Luys de Aragon11. Sr. Don P. Santaçilia [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "131:3224a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo23/131:3224a.JPG",
+      "url": "/legajos/legajo-23/images/131:3224a.JPG"
+    },
+    {
+      "filename": "132:3224b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo23/132:3224b.JPG",
+      "url": "/legajos/legajo-23/images/132:3224b.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "131:3224a.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-23/cartas/003812.json",
+  "primary_image_url": "/legajos/legajo-23/images/131:3224a.JPG"
+}

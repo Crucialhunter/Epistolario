@@ -1,0 +1,38 @@
+{
+  "legajo_id": "12",
+  "id_carta": "1556",
+  "order_in_legajo": 62,
+  "signatura": "078_6149.JPG",
+  "nombre_carta": "Carta de Marquès de Vilafranca a Pedro Santacilia y Pax",
+  "fecha_original": "16 de junio de 1641",
+  "lugar": "Tortosa",
+  "remitente": "Marquès de Vilafranca",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Lo que otras personas hubieren ordenado a v. m. sería conveniente según los sucesos, lo que yo le he ordenado es lo que le he escrito y pedídole la cuenta de lo que se recibió en la saetía que es la que no me da, y no entiendo lo que v. m. me dice, que desembarcará, lo que no fuere de proveduría, pero si se hubiese de desembarcar, eso es, lo que había de restituirse, y dar yo orden para ello, y lo que v. m. no habrá podido consentir que se toque, consiste en lo mismo, y en lo demás del admitir que v. m. propone, de que cada bergantín, corra por su cuenta lo que llevaré, aunque este a sueldo de su majestad no hay para que expresarlo, pues es cosa llana, en cualquier barca, que se flete, más no por eso, se ha de tocar, ni consumir el bastimento que en ellas se embarca. Guarde Dios a v. m. muchos años, galera y en la Punta de la Oliveta a 16 de junio de 1641. Marques de Vilafranca Sr. D. Pedro de Santacilia [1§] Transcripción literal"
+  ],
+  "literal": [
+    "1. Lo que otras personas hubieren hordenado a Vm2. seria combiniente segun los sucesos, lo que3. yo le hordenado es lo que le he escrito y pedi=4. dole la quenta de lo que se rezivio en la saetia5. que es la que no me da, y no entiendo lo que6. Vm. me dize, que desembarcara, lo que no7. fuere de proveduria, pero si se hubiese de8. desembarcar, eso es, lo que havia de restitu9. irse, y dar yo horden para ello, y lo que Vm10. no havra podida consentir que se toque, consiste11. en lo mismo, y en lo demas del admitir que Vm12. propone, de que cada bergantin, corra por su quenta13. lo que llevare, aunque este a sueldo de Su Mag[esta]d no14. ay para que espresarlo, pues es cosa llana, en15. qualquier barca, que se flete, mas no por eso, se16. a de tocar, ni consumir el bastimento que en ellas17. se embarca gde. dios a Vm muchos años Galera18. y en la punta de la Oliveta a 16 de Junio de 164119. Don ??20. Sr. D. Pedro de Santizilia [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "078_6149.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo12/078_6149.JPG",
+      "url": "/legajos/legajo-12/images/078_6149.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "078_6149.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-12/cartas/001556.json",
+  "primary_image_url": "/legajos/legajo-12/images/078_6149.JPG"
+}

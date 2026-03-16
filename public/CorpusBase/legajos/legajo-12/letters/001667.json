@@ -1,0 +1,43 @@
+{
+  "legajo_id": "12",
+  "id_carta": "1667",
+  "order_in_legajo": 34,
+  "signatura": "256_6260a.JPG",
+  "nombre_carta": "Carta de Juan Llátzer a Pedro Santacilia y Pax",
+  "fecha_original": "21 de noviembre de 1639",
+  "lugar": "Lugar sin especificar",
+  "remitente": "Juan Llátzer",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Estimaré mucho que halle esta a v. m. con la salud que deseo yo gracias a Dios la tengo muy ?. Por acá hay pocas novedades de que dar la unquenta [?] que hay le dare a Vm muchas ? placa esta muy apretada por [?] yo he llegado aquí con las galeras vestidas las noches en compañía de [?] se acon [?] la ciudad con tan gran [?] çias que se le hace mucho danho [?] por tierra hay una ACABAR LA CARTA [1§] Transcripción literal"
+  ],
+  "literal": [
+    "1. Estimare mucho que halle esta a v. m. 2. con la salud que deseo yo gracias a Dios la 3. tengo muy [?]. Por aca ay pocas no4. vedades de que dar la unquenta [?] 5. que ay le dare a Vm muchas [?] 6. placa esta muy apretada por [?] 7. yo he llegado aqui con las galeras 8. vestidas las noches en compania de [?] 9. se acon [?] la ciudad con tan gran [?] 10. çias que se le haze mucho danho [?] 11. [?] por tierra ay una ACABAR LA CARTA [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "256_6260a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo12/256_6260a.JPG",
+      "url": "/legajos/legajo-12/images/256_6260a.JPG"
+    },
+    {
+      "filename": "257_6260b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo12/257_6260b.JPG",
+      "url": "/legajos/legajo-12/images/257_6260b.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "256_6260a.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-12/cartas/001667.json",
+  "primary_image_url": "/legajos/legajo-12/images/256_6260a.JPG"
+}

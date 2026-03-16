@@ -1,0 +1,48 @@
+{
+  "legajo_id": "29",
+  "id_carta": "6386",
+  "order_in_legajo": 82,
+  "signatura": "135:4204a.JPG",
+  "nombre_carta": "Carta de Lluís de Paguera a Pedro Santacilia y Pax",
+  "fecha_original": "17 de agosto de 1648",
+  "lugar": "Génova",
+  "remitente": "Lluís de Paguera",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "[1§] [2§] [3§] Transcripción literal"
+  ],
+  "literal": [
+    "1. 1. 1."
+  ],
+  "imagenes": [
+    {
+      "filename": "135:4204a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo29/135:4204a.JPG",
+      "url": "/legajos/legajo-29/images/135:4204a.JPG"
+    },
+    {
+      "filename": "136:4204b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo29/136:4204b.JPG",
+      "url": "/legajos/legajo-29/images/136:4204b.JPG"
+    },
+    {
+      "filename": "137:4204c.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo29/137:4204c.JPG",
+      "url": "/legajos/legajo-29/images/137:4204c.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "135:4204a.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-29/cartas/006386.json",
+  "primary_image_url": "/legajos/legajo-29/images/135:4204a.JPG"
+}

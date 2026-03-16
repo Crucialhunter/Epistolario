@@ -1,0 +1,38 @@
+{
+  "legajo_id": "16",
+  "id_carta": "2521",
+  "order_in_legajo": 6,
+  "signatura": "009:2021.JPG",
+  "nombre_carta": "Carta de Nicolás de Santacilia y Togores a Pedro Santacilia y Pax",
+  "fecha_original": "16 de enero de 1667",
+  "lugar": "Barcelona",
+  "remitente": "Nicolás de Santacilia y Togores",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Por manos del sargento mayor Valley [Balell ?] los me han en prestado trescientas y sin cuenta reales de a echo, esto es dejando en prendas, una venera de diamante, y una cadena de oro v. m. se servirá de remitírselo cuanto antes, y le dejo orden de que me lo remita. Guarde Dios a v. m. muchos años como deseo y es menester. Barcelona a 16 de enero 1667. Su más humilde hijo de v. m. que su mano besa, Sr. don Nicolas de Santacilia y Togores Mi señor y mi padre Transcripción literal"
+  ],
+  "literal": [
+    "1. Por manos del sargento Mayor 2. Valley[?] los mean enprestado tresíentas 3. y sinquenta reales de a echo, es to= 4. es dejando en prendas, una Venera 5. dediamante, y una cadena de oro 6. VM se servira de remitirselo quan7. to antes, y le dejo orden de que 8. me lo remita Guarde Dios a VM 9. muchos años Como deseo y emenes10. ter Barselona a 16 de Enero 1667 11. Su mas humilde hijo 12. de VM q S[u]M]B 13. Don Nicolas de Stacilia yTogores14. [Margen izquierda][^mi Señor y mi Padre] [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "009:2021.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo16/009:2021.JPG",
+      "url": "/legajos/legajo-16/images/009:2021.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "009:2021.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-16/cartas/002521.json",
+  "primary_image_url": "/legajos/legajo-16/images/009:2021.JPG"
+}

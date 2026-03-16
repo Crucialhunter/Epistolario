@@ -1,0 +1,43 @@
+{
+  "legajo_id": "31",
+  "id_carta": "7010",
+  "order_in_legajo": 249,
+  "signatura": "368:1761a.JPG",
+  "nombre_carta": "Carta de Pere Antoni Seguí a Pedro Santacilia y Pax",
+  "fecha_original": "20 de noviembre de 1664",
+  "lugar": "Mallorca",
+  "remitente": "Pere Antoni Seguí",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Mi señor don Pedro esta hallé a V señoría con salud juntamente con la compañía de toda su casa esta le remito con el capitán don Pedro oliver con la cual le beso mil veces las manos [?] v. s. me quiere hacer favor y merced de que sea justa con mi negocio que yo pudiera volver a mi casa lo estimaría como se debe y confiado de su piedat Dios le guarde de noviembra 20 de 1664 de Sueca Pere Antonio Segui de la vila de Algayda que sus manos besa [1§] A su señoría Sr. don Pedro Santacilia que Dios guarde en Mallorca [2§] Transcripción literal"
+  ],
+  "literal": [
+    "1. Mi Señor don pedro 2. esta alle a V Señoria con salut juntamente con 3. la compania de toda su casa esta le remito con 4. el capitan don pedro oliver con la qual le beso 5. mil vezes las manos [?] VSª me quiere aser 6. favor y mercet de que sea justa co mi negocio que 7. yo pudiera bolver a mi casa lo estimaria como 8. se deve y confiado de su piedat dios le ge. de novien9. bra 20 de 1664 de Sueca 10. Pere antonio Segui 11. de la vila de Algayda 12. que sus manos besa [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "368:1761a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo31/368:1761a.JPG",
+      "url": "/legajos/legajo-31/images/368:1761a.JPG"
+    },
+    {
+      "filename": "369:1761b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo31/369:1761b.JPG",
+      "url": "/legajos/legajo-31/images/369:1761b.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "368:1761a.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-31/cartas/007010.json",
+  "primary_image_url": "/legajos/legajo-31/images/368:1761a.JPG"
+}

@@ -1,0 +1,43 @@
+{
+  "legajo_id": "21",
+  "id_carta": "3487",
+  "order_in_legajo": 175,
+  "signatura": "323:5775a.JPG",
+  "nombre_carta": "Carta de Alonso Cortés a Pedro Santacilia y Pax",
+  "fecha_original": "19 de octubre de 1639",
+  "lugar": "Mondragón",
+  "remitente": "Alonso Cortés",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Mi señor don Pedro, esta halle a su señoría con entera salud hago [?] a su señoría mi desdicha [agujero]. [?] a su señoría mía que el ayudante estaba delante que podría informar, más yo por amor de Dios su señoría me ampare como siempre y me perdone que no tengo otro amparo. El teniente ha dicho que me ha de echar de la conpañía y me rompió una espada en la cabeza ya vez publ [agujero] dien que no me valía la gloria, que era un ladrón y que le ofendí en cosa ninguna, sino que fue miedo dicho y me quitó armas y caballo y la espada y el capote y la montera y por hacer un mayor agravio me acusó a la inquisiçion diciendo que había estado un [?] y yo me vine a con [?] Lugar y a comulgar por nober en una cárcel al esperado seré por el amparo de vuestra señoría aún afligido y pido perdón por amor de Dios haga vuestra señoría cosa que es en esta ocasión o por esta [?] en esta compañia, porque estoy muy pobre y no sé que hacerme. Dios me garde a vuestra señoria para que avanzare, de Mondragón a 19 de 1639. Criado de vuestra señoría D. Alonso Cortes [1§] Mondragon 19 Octubre 1639 Don Alonso Cortes rdo. Transcripción literal"
+  ],
+  "literal": [
+    "1. Mi sñor donpo esta halle asusenoria con estera 2. salud hago [Ilegible] asuseñoria mi desdicha [Agujero. Ilegible]3. asuseñoria mi a que el ayudante estava delante que podria informarmasyo 4. por amor de dios Suseñoria meampare como siempre 5. yme perdone quenotengo otro anparo el tienente 6. adicho que me ade char de la conpañia y me ron7. pio uanespada enlacabeca yabez publ[Agujero] dien8. queno me balia lagloria que era unladron yquele 9. ofendi en cosa ninguna sino quefue miedo[?] dicho y me 10. quito armas y cabalo y elespada y el capote y 11. lamontera y por açer na maior agraçio me acuso 12. alainquisiçion diciendo que avia stado[?] un 13. rresdigo[?] y yo me bine a con fianrarte[?] Lugar ya 14. comulgar por nober en unacarçel al espesado 15. siere por el enparo de[??[ vuseñoria aun aflijido 16. y pido perdon poramordedios agaveseñoria cosa q 17. es en esteocasion uper esta[?] en estaconpañia 18. Porque stoi mui pobre ynose que acerme dios mi garde a veseñoria paraque avansare de mon19. dragon a 19 de 1639 20. Criado de Veseñoria D Alonsocortes [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "323:5775a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo21/323:5775a.JPG",
+      "url": "/legajos/legajo-21/images/323:5775a.JPG"
+    },
+    {
+      "filename": "324:5775b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo21/324:5775b.JPG",
+      "url": "/legajos/legajo-21/images/324:5775b.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "323:5775a.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-21/cartas/003487.json",
+  "primary_image_url": "/legajos/legajo-21/images/323:5775a.JPG"
+}

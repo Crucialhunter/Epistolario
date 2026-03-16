@@ -1,0 +1,38 @@
+{
+  "legajo_id": "12",
+  "id_carta": "1565",
+  "order_in_legajo": 72,
+  "signatura": "093_6158.JPG",
+  "nombre_carta": "Carta de Marquès de Vilafranca a Pedro Santacilia y Pax",
+  "fecha_original": "4 de septiembre de 1641",
+  "lugar": "Tortosa",
+  "remitente": "Marquès de Vilafranca",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Señor don Pedro yo soy todo de v. m., y ese pliego es para que el navío que tengo de presa en Mahón, pase a Mallorca, cargué de bastimentos y se junte con la armada. v. m. se la remita, y de esa respuesta mía a quien hay gobierna a Mallorca. Guarde Nro. Sr. a v. m. como deseo, Galeras Alfaques a 4 de septiembre 1641. bien dije a v. m. que en partiéndose mejoraria. Su amigo [?] Sr. D. Pedro de Santacilia [1§] Transcripción literal"
+  ],
+  "literal": [
+    "1. Señor Don Pedro yo soy todo de Vm, y 2. ese pliego es para que el navio que tengo3. de presa en Maon, pase a Mallorca, cargue4. de bastimentos y se junte con la Armada. Vm5. se la remita, y de esa respuesta mia a quien ay6. Govierna a Mallorca Gde Nro. Sr. a Vm como7. desseo Galeras Alfaq[ue]s a 4 de sept[iembr]e 16418. Bien dije a Vm que en parti[en]dose 9. mejoraria10. Su amigo11. ???12. ???13. Sr. D. Pº de Santizilia [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "093_6158.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo12/093_6158.JPG",
+      "url": "/legajos/legajo-12/images/093_6158.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "093_6158.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-12/cartas/001565.json",
+  "primary_image_url": "/legajos/legajo-12/images/093_6158.JPG"
+}

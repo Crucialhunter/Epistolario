@@ -1,0 +1,43 @@
+{
+  "legajo_id": "14",
+  "id_carta": "1911",
+  "order_in_legajo": 10,
+  "signatura": "012:2415a.JPG",
+  "nombre_carta": "Carta de Bonaventura de Lanuza Montbuí y Vilarig a Pedro Santacilia y Pax",
+  "fecha_original": "16 de agosto de 1629",
+  "lugar": "Girona",
+  "remitente": "Bonaventura de Lanuza Montbuí y Vilarig",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "En rebre la de v. m. fiu diligències amb els srs. capitulars de la Seu d'aquesta ciutat, que acàs sinó menassin procurador en la ciutat de Mallorca per tenir compte amb el de les rendes tenen en aquella {ESP. isleta} el Sr. Antoni Bordoy, com me mana v. m. amb sa carta que gustarà sia per aqueix. M'han respost que tenint poca satisfacció del que tenien ara per raó que mai en podien treure els comptes determina el capítol que alguns srs. capitulas escriguessin allà amb alguna persona que en tinguessin satisfacció perquè els avisàs de quina persona podrien llançar-me allà que fos a proposit i convenient per tenir esta procura i donés bona satisfacció de si mateix, i així que ho escriguérem al Sr. Dr. Dionís Montserrat, oficial i bicari general del Sr. bisbe, i també al doctor que té Sr. D. Pedro Santacilia i Pax [1§] en la {ESP. isla} algun càrrec que no em recorda si és el regent, o visitador, i que així fins a tenir resposta d'aquests srs. ens poden determinar en res. Suposat això apar [?] es fer allà les diligències [?] se conformaran els srs. capitulars amb la relació que enviaran d'allà. Voldria jo fos estat cosa que depenés de ma voluntat per poder servir a v. m. com dec i desitjo fer-ho. Per no trobar-se ací Oliver ni saber quan tornarà s'és determinat amb les parts, obrir el plec de v. m. s'havia enviat i m'ha donades les cartes que [?], les quals encaminaré a Barcelona en trobar portador segur. Guardi Déu a v. m. com jo desitjo. Girona i agost als 16 de 1629. Sr. don Bonaventura de Lanuça Monbuy i Vilarig Transcripción literal"
+  ],
+  "literal": [
+    "1. En rebrar la de Vm. fiu diligensias ab los 2. Sors. Capitulars de la Seu de aquesta Ciutat3. de que acas sino menassen Procurador en la4. Ciutat de Mallorca per tenir compte ab lo5. de las rendas tenan enaquella Islata lo Sor6. Antoni Bordoy com me mana Bm ab sa carta 7. que gustara sia per aqueig: Anme respost que8. tenint poca satisfacio del que tenian ara per9. raho que may ne podían traurer los comptes de[-] 10. termina lo Capitol que alguns Sors. Capitulas11. escriguessan alla ab alguna persona de quen12. tinguessan satisfacio pera quels avisas de quina13. persona podrian llensarma alla que fos apro 14. posit y convenient per tenir esta procura y donas15. bona satisfacio de si mateig y axi queu escriguera16. al Sor. dor. Dionís Montserrat official y bicari17. General del Sor. Bisbe y tanbe al doctor que te18. Sr. d. Pedro Sta. cilia y Pax [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "012:2415a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo14/012:2415a.JPG",
+      "url": "/legajos/legajo-14/images/012:2415a.JPG"
+    },
+    {
+      "filename": "013:2415b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo14/013:2415b.JPG",
+      "url": "/legajos/legajo-14/images/013:2415b.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "012:2415a.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-14/cartas/001911.json",
+  "primary_image_url": "/legajos/legajo-14/images/012:2415a.JPG"
+}

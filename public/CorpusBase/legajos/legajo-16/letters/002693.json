@@ -1,0 +1,43 @@
+{
+  "legajo_id": "16",
+  "id_carta": "2693",
+  "order_in_legajo": 189,
+  "signatura": "301:2193a.JPG",
+  "nombre_carta": "Carta de Diego Matías de Aragüés a Pedro Santacilia y Pax",
+  "fecha_original": "10 de febrero de 1668",
+  "lugar": "Madrid",
+  "remitente": "Diego Matías de Aragüés",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "He recibido la de v. s. de 11 del pasado itengo respondido a todos las cartas de v. s. hasta este dia. Sr. don Arnaldo Santacilia está bueno, y muy adelante lapretensión que conforme las noticias que hay espero ha de ir presto por ahora por las consultas así de estado, como del Consejo de Aragón corren por lo alto y por lajunta del gobierno Universal. Al señor Palou escribo la que va con está en viniendo lanomina el señor virrey ejecutare todo lo que v. s. me ordena que bastamandármelo v. s. caso que se lenombre de que tengo prevenidos algunos de estos señores para cuando venga dicha nomina. cumplido el tiempo de la ayuda de costas lapedire luego, porque antes no medetermino, porque no me pongan reparo. por estar tandelicados. Del señor conde de Medellin tengo avisado a v. s. en lo demás de su hijo Alesti [?] el señor don Nicolas lo dirá a v. s. El señor conde de Paredes recibo en su mano la carta de v. s. dicen se parte a Valencia la semana que viene, y su ropa la ha enviado de Portugal porahora no hay novedad, más [1§] de que ha sido bien recibido el embajador de y nga laterra, y que al señor marques de Liche se la ha embado los poderes para los ajustes. y que le habían puesto casa en toda forma sin que sea prisionero, Al fin Dios sobretodo, que guarde a v. s. muchos años en vida de mi señora doña Leonor, y señores Hijos que besamos las manos con las de v. s. muchas veces, doña Margarita y yo, Madrid 10 Febrero 1668 besa lasmanos de v. s. su mayor servidor Diego Matias de Aragues Señor don Pedro Santacilia y Pax. [2§] Transcripción literal"
+  ],
+  "literal": [
+    "1. He recivido la de Vs. de 11 del passado 2. ytengo respondido atodos las cartas 3. de VS. hasta este dia. 4. Don Arnaldo Sta Cilia estabueno, y muy 5. adelante lapretension q conforme las noticias 6. q ay espero hade hir presto por agora 7. por las consultas asi de estado, como del 8. consejo de Aragon corren por lo alto 9. y por lajunta del Govierno Universal. 10. Al Sor Palou escrivo la q ba con esta 11. en viniendo lanomina el sr Virrey 12. executare todo lo q VS. meordena que 13. bastamandarmelo VS. caso q se lenombre 14. deq tengo prevenidos algunos destos SSes 15. para qdo benga dha nomina. 16. Cumplido el tpo de la ayuda de Costas lapedire 17. luego, porq antes no medetermino, porq no 18. me pongan reparo. porestar tandelicados. 19. Del sr Conde de Medellin tengo avisado a Vs 20. en lo demas de su hijo Alesti[?] el sr don Nicolas 21. lo dira a Vs. 22. El sr Conde de Paredes recivo en su mano la 23. carta de VS. dicen separte a Valencia la 24. semana q viene, y su ropa laha embiado 25. De Portugal poragora no ay novedad, mas [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "301:2193a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo16/301:2193a.JPG",
+      "url": "/legajos/legajo-16/images/301:2193a.JPG"
+    },
+    {
+      "filename": "302:2193b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo16/302:2193b.JPG",
+      "url": "/legajos/legajo-16/images/302:2193b.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "301:2193a.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (3)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-16/cartas/002693.json",
+  "primary_image_url": "/legajos/legajo-16/images/301:2193a.JPG"
+}

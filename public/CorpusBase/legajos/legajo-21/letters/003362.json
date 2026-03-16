@@ -1,0 +1,38 @@
+{
+  "legajo_id": "21",
+  "id_carta": "3362",
+  "order_in_legajo": 51,
+  "signatura": "084:5651.JPG",
+  "nombre_carta": "Carta de Marqués de Corviso a Pedro Santacilia y Pax",
+  "fecha_original": "6 de marzo de 1632",
+  "lugar": "Mallorca",
+  "remitente": "Marqués de Corviso",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "En esta casa hem sabut gran part del {ESP. contento} de la liberació de v. m. deix li deix {ESP. gosarà} amb la quietud que tots desitjam si jo tant [he] escrit al senyor duc de Cardona perquè em fes mercè d'una carta duplicada per al duc de Feria i l'altra per alguna persona del Consell d'Itàlia, rebré mercè de la mà de v. m. les m'han sol·licitat, ço és una còpia {ESP. cuya} ha d'anar d'aquí dreta via al duc de Feria i l'altra amb per algú del Consell d'Itàlia. Me farà mercè remetre a l'inquisidor Cotoner i en sa {ESP. ausencia} a Gaspar Canyelles i v. m. en esta casa no deix de manar-nos moltes coses de son servei i el guardi a v. m. Déu co jo desitj, de Mallorca a 6 de març 1637. El marques de Corviso Al senyor don Pedro Santacilia Transcripción literal"
+  ],
+  "literal": [
+    "1. enesta case ensa cabut gran part 2. del contento dele liberetio de vm dexe 3. ley dexe gosara eb la quiatut que 4. tots deiggam si jo tant escrit 5. al senyor duc de cardone p quem 6. fajes marse de une carta duplycade 7. perlo duc de feria ilelta per algune 8. persone del consel de itallie rebre 9. merse de la ma de v.m les man 10. sulisitar so es une copie quia de 11. anar de quy dreta via al duc de ferie 12. ilaltre eb la p algo del consel de 13. italie me fara merse remetre al 14. inquisydor cotoner iensa ausentie 15. a gaspar canyelles iv.m. enesta 16. case no dex de menarnos moltas 17. coses de son cervey ilguarde a vm 18. deu co jo desigge de melorque a 19. 6 de mars 1637 20. el marques 21. de corviso[?]22. [Margen izquierdo][^ Al senyor don pedro centa silie] [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "084:5651.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo21/084:5651.JPG",
+      "url": "/legajos/legajo-21/images/084:5651.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "084:5651.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-21/cartas/003362.json",
+  "primary_image_url": "/legajos/legajo-21/images/084:5651.JPG"
+}

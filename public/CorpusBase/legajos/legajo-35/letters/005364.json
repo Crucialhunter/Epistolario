@@ -1,0 +1,43 @@
+{
+  "legajo_id": "35",
+  "id_carta": "5364",
+  "order_in_legajo": 174,
+  "signatura": "204:8211a.JPG",
+  "nombre_carta": "Carta de Antoni Amorós a Pedro Santacilia y Pax",
+  "fecha_original": "22 de agosto de 1660",
+  "lugar": "Lugar sin especificar",
+  "remitente": "Antoni Amorós",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Molt il·lustríssim senyor, Sa senyoria sabrà com ahir varen-me presentar una lletra el senyor Pere Amorós d'aquesta ciutat d’Alcúdia, el qual li diu del Racó, que li entregàs el blat del delme de Vernisa. I, per quant duia una lletra de què dit Ramon Pou, qui es senyor de dit del me de Vernisa, així no m'ha paregut entre gar el dit deume (sic) al dit senyor Pere Amorós, del Racó, per quant jo no tinc carta de Ramon Pou, qui es senyor de dit Pou, de dit deume (sic). Sa senyoria se servirà d'enviar-me resposta en aquí l’hem d’entregar. I no més, restant bé sant les mans a Sa Senyoria. Fet avui als 22 de (de) agost 1660. Antoni Amorós, criat de Vòstran senyoria En el senyor don Pedro Santacilia, procurador reial, que Déu guarda, salut. En la Ciutat Transcripción literal"
+  ],
+  "literal": [
+    "1. Molt yslustrisim Sañor sa sanoria sabra com2. air varan ma prasantar huna letra lo sañor3. Pera Amoros da questa siutat dal cudia lo qual4. li diu dal raco da q[u]e li antragas lo blat dal delma5. da Varnisa y par quant duia una letra6. da que dit Ramon Pou qui as Sañor da dit del7. ma da Varnisa axi no me ha aparagut antra8. gar lo dit deuma allo dit Sañor Pera Moros9. dal Raco par quant io no tinc carta da Ramo[n]10. Pou qui as sañor da dit Pou da dit deuma11. Sa Sanoria as sarvira da anvi[a]rma rasposta12. anaqui lam dantragar y nomes rastant be13. san las mans a sa Sanoria Fet vuy als 22 da14. (da) agost 1660.15. Antoni Amoros16. criat da Von Sanore [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "204:8211a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo35/204:8211a.JPG",
+      "url": "/legajos/legajo-35/images/204:8211a.JPG"
+    },
+    {
+      "filename": "205:8211b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo35/205:8211b.JPG",
+      "url": "/legajos/legajo-35/images/205:8211b.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "204:8211a.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-35/cartas/005364.json",
+  "primary_image_url": "/legajos/legajo-35/images/204:8211a.JPG"
+}

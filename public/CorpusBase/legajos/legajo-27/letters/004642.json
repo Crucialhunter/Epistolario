@@ -1,0 +1,38 @@
+{
+  "legajo_id": "27",
+  "id_carta": "4642",
+  "order_in_legajo": 110,
+  "signatura": "197:4451",
+  "nombre_carta": "Carta de Francisco de Andrade Béjar a Persona desconocida",
+  "fecha_original": "30 de agosto de 1648",
+  "lugar": "Tarragona",
+  "remitente": "Francisco de Andrade Béjar",
+  "destinatario": "Persona desconocida",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Bien sé qué dirá v. m. que no le escribo sino cuando tengo necesidad de su favor. El portador de esta es un estudiante que se llama Ventura Andreu, el cual tengo en casa ha cinco años, y estos señores cónsules no han querido dar este año estudio. Hame pedido que por no se le olvidarlo que ha estudiado, quería ir a Mallorca a estudiar, hallando alguna comodidad para poder hacerlo. Suplico a v. m. le haga esta obra de caridad de hacerle acomodar con alguna persona que le deje ir al estudio que demás de [?] que yo en esto recibiré, hará v. m. una grande obra de misericordia por ser hijo de una viuda pobre y tener otros hermanos que tienen en él todas sus esperanzas. El señor conde de Savella le conoce muy bien y no dejará también de hacerle favor. También envío otro mozo a comprarme algunas cosillas que he de menster si acaso se valiere del favor de v. m. en algo me hará mío mandarle ayudar por un criado y a mi mandarme muchas cosas de su servicio. Con muy buenas nuevas de su salud que Dios aumente por largos años. Tarragona agosto 30 de 1648 años. Criado de v. m.Francisco de Andrade Bejar Transcripción literal"
+  ],
+  "literal": [
+    "1. Biense QUE dira VM quenoleescrivo sino quando tengo necesidad2. desufavor Elpor tador desta es unestudiante quesellama3. Bentura andreu. el qual tengo en cassa azinco años.4. y estes señores Consules no anquerido dareste año estudio5. amepedido quepor nose le olvidar lo queaestudiado queria6. Yr amallorca aestudiar hallando alguna Comodidad7. parapoder hacer lo supp[li]co a VM leaga esta obra8. de Caridad de hacer le aComodar Conalgunapersona9. que ledeje Yr alestudio que demas de La[mro]150 quey oen10. sto recivire ara Vm una grandeobra demiSeri Cordia11. por ser hijo deuna biuda pobre Y tener otros hermanos12. que tienen enel todas sus esperanzas. El señor Conde13. deSavalla Le Conoze mui bien y no dejara tanbiende14. hacer le favor.15. Tambien Ynbio otromozo aComprarmealgunas Cosillas que16. e menster SiaCaso Seba tiere delfavor de Vm enalgo17. mearamio Mandar leayudar por un Criado Yami mandarme18. Muchas Cosas desuservicio Conmui buenas Nuebas desu19. salud que dios aumente per largos años tarraga ag20. 30 de 1648 años21. Criado devm francodandradebeia [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "197:4451.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo27/197:4451.JPG",
+      "url": "/legajos/legajo-27/images/197:4451.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "197:4451.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-27/cartas/004642.json",
+  "primary_image_url": "/legajos/legajo-27/images/197:4451.JPG"
+}

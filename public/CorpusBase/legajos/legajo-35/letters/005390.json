@@ -1,0 +1,38 @@
+{
+  "legajo_id": "35",
+  "id_carta": "5390",
+  "order_in_legajo": 205,
+  "signatura": "249:8237.JPG",
+  "nombre_carta": "Carta de Marqués de Villanueva a Pedro Santacilia y Pax",
+  "fecha_original": "3 de diciembre de 1664",
+  "lugar": "Madrid",
+  "remitente": "Marqués de Villanueva",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Sr. mío, El sábado pasado remitía v. s. por vía de Barcelona un despacho de su majestad. sobre la ejención de la mediannata (sic) de los oficios anuales de asor. de bai le y veguer (sic) de esa ciudad. Ahora remito a v. s. el incluso que es duplicado. sobre lo mismo. v. s. mandará darme aviso de su recibo con todo lo que se ofreciere del servicio de v. s., cuya vida guarde Dios muchos años como deseo. Madrid, y diciembre a 3 de 1664. Besa la mano de v. s. su mr. Seror. El marques de Villalba Sr. D. Pedro Santacilia y Pax Procor. general de Mallª. Transcripción literal"
+  ],
+  "literal": [
+    "1. Sor. mio el sabado pasado remiti a V.S. por via de2. Barzelona un despacho de Su Magd. sobre la exempçion3. de la mediannata de los officios annuales de Assor. de Bay4. le y Veguer de esa Ciudad, aora remito a VS. el incluso que5. es duppdo. sobre lo mismo. V.S. mandara darme aviso de6. su rezivo con todo lo q se offreziere del servº de VS. cuya7. vida gde. Dios ms años como deseo Madrid y deziembre8. a 3 de 16649. B l m de VS10. su mr. Seror.11. El marqs de Villalva12. Sr. D. Pº Santaccilia y Pax Procor. Gl. de Mallª. [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "249:8237.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo35/249:8237.JPG",
+      "url": "/legajos/legajo-35/images/249:8237.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "249:8237.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-35/cartas/005390.json",
+  "primary_image_url": "/legajos/legajo-35/images/249:8237.JPG"
+}

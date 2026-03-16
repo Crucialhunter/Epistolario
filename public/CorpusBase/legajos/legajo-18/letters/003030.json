@@ -1,0 +1,43 @@
+{
+  "legajo_id": "18",
+  "id_carta": "3030",
+  "order_in_legajo": 63,
+  "signatura": "106:4869a.JPG",
+  "nombre_carta": "Carta de Basilio de Castellví y Ponce a Pedro Santacilia y Pax",
+  "fecha_original": "17 de octubre de 1662",
+  "lugar": "Valencia",
+  "remitente": "Basilio de Castellví y Ponce",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Señor mío comparticular alborozo recibo su carta de v. s. de. 8 del corriente que me trae. muy buenas nuevas de su salud de v. s. de mi sra doña Ñeonor y el Sr. don Nicolas cuyas muchos besamos mil veces Doña Laura Giuseppe y yo que al servicio de v. s. quedamos buenos Creo muy bien que dará cuidado los Bageles de moros que v. s. me dice los nuestros parecieron aunque el patrón obro muy mal pues le despacho el virrey la Jun ta de y biza y el sin dar razón de nadase fue a Mallorca. Remito a v. s. esepliego que he tenido de Madrid. Juantamente con esas Gacetas por donde v. s. sabralas novedades de Portugal las de por acá sereducen ha haber salido de la corte el duque de Alburquerque con mi Sra. la duquesa aembarcarse a Ali cante, Murió el marques de Malagon, rindiose laplaza de Moreyra, el Sr. don Juan ordeno a don Benturra tarragena quecon 600 caballos y 200 infantes fuese la vuelta de suycel [?] lugar de 600 vecinos sieteleguas de allí lle garon al amanecer y la gente con 120 caballos que tenían sepusieron endefensa pelearon el lugar y sebol vieron, plegue a Dios que se continuen estos buenos [1§] sucesos y que muy aprisa se vean las Armás de S majestad en lisboa su divin a majestad lo haga como la Monar chia amr v. s. me tiene con rendida obeda para todo cuanto me mande a que acudiré como debo y es mi obligación Dios guarde a v. s. largos años Valencia y octubre a 17 de 1662 Ba V Il mano su mayor servidor Don Basilio de Castellvi y Poncel, al reves rdo. Sr. don Pedro de Santacilia [2§] Transcripción literal"
+  ],
+  "literal": [
+    "1. Señor mio conparticular Alboroço reçivo su carta de VS. 2. de. 8. del corriente que me trae. muy buenas Nuevas de 3. su salud de VS. demi ssra Doña Ñeonor y el sr Don Nicolas 4. cuyas ms vesamos mil veces Doña Laura Jusepe y yo 5. que al servo de VS quedamos buenos = 6. Creo muy bien que dara cuydado los Bageles de 7. Moros que VS. mediçe los nuestros pareçieron aunque 8. elpatron obro muy mal pues le despacho el sr Virey la Jun9. ta de Ybiça y el sin dar racon de nadase fue a Mallorca = 10. Remito a VS. esepliego que he tenido de Madrid. Juantamte con 11. esas Gacetas por donde VS. sabralas nobedades de Portugal 12. las deporaca sereducen ha haver salido dela corte el sr Duque 13. de Alburquerque con mi sra la Duquesa aenbarcarse a Ali14. cante, Murio el Marqs de Malagon, rindiose laplaça de 15. Moreyra, el ssor Don Juan hordeno a Don Benturra 16. tarragena quecon 600 cavallos y 200 Infantes fuese la buelta 17. de suycel[?] lugar de 600 veçinos sieteleguas de alli lle18. garon al amanecer y la gente con 120 cavallos que 19. tenian sepusieron endefensa pelearon el lugar y sebol20. vieron, plegue a Dios que se continuen estos buenos [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "106:4869a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo18/106:4869a.JPG",
+      "url": "/legajos/legajo-18/images/106:4869a.JPG"
+    },
+    {
+      "filename": "107:4869b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo18/107:4869b.JPG",
+      "url": "/legajos/legajo-18/images/107:4869b.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "106:4869a.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-18/cartas/003030.json",
+  "primary_image_url": "/legajos/legajo-18/images/106:4869a.JPG"
+}

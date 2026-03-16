@@ -1,0 +1,38 @@
+{
+  "legajo_id": "35",
+  "id_carta": "5205",
+  "order_in_legajo": 18,
+  "signatura": "003:8050.JPG",
+  "nombre_carta": "Carta de Agustí Ferrer a comte de Perelada i marquès d'Anglesol",
+  "fecha_original": "10 de octubre de 1629",
+  "lugar": "Cadaqués",
+  "remitente": "Agustí Ferrer",
+  "destinatario": "comte de Perelada i marquès d'Anglesol",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Suplica v. s. sia servit manar remetre la inclusa que va amb està a don Lluís de Pagadell, que vagi segura que importa molt no és perda. Jo’m partesc amb una galera per a Gènova. v. s. mana encomanar-me a Nostre Senyor, i manar-me moltes coses de son gust i servei, que acudiré com tinc obligació. a mi senyor don Pedro, que he estat i estic amb molt {ESP. cuidado} de sa desgana per no haver tingut resposta de moltes li tinc escrites. Nostre Senyor li torna la salut complida i a v. s. guarda com pot. Cadaqués i octubre als 10 de 1629. Criat de v. s. Agustí Ferrer pre. Mi senyor el comte de Perelada. Transcripción literal"
+  ],
+  "literal": [
+    "1. Suplica V.S. sia servit manar remetre la2. inclusa que va ab esta a don Lluis de Pagadell3. que vaja sigura que inporta molt nos4. perda jom partesh ab una galera pera5. Genova V.S. mane encomanarme a Nostro6. Señor, y manarme moltes cosas de son7. gust y servey que acudire con tinch obli8. gacio a mi señor don Pedro que he estat y9. estich ab molt cuydado de sa desgane per10. no aver tingut resposta de moltes li tinch11. escritas nostro Señor li torne la salut cum12. plida y a V.S. guarde com pot Cadaques13. y octubre als 10 de 1629.14. Criat de V.S.15. Agusti Ferrer pre.16. Mi Señor lo Comta de Perelada [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "003:8050.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo35/003:8050.JPG",
+      "url": "/legajos/legajo-35/images/003:8050.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "003:8050.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (2)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-35/cartas/005205.json",
+  "primary_image_url": "/legajos/legajo-35/images/003:8050.JPG"
+}

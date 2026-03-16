@@ -1,0 +1,53 @@
+{
+  "legajo_id": "11",
+  "id_carta": "1274",
+  "order_in_legajo": 44,
+  "signatura": "072:5134a.JPG",
+  "nombre_carta": "Carta de Bartomeu Domènech a Pedro Santacilia y Pax",
+  "fecha_original": "15 de mayo de 1643",
+  "lugar": "Mallorca",
+  "remitente": "Bartomeu Domènech",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Ací no hi ha cosa nova i escriure sinó guerra. Tinc perquè un dia no hi hagi com [?] la terra i que no tinguem altra carta {ESP. suya} perquè la justícia és tan roïna que no hi ha qui es pugui creure sinó qui van assolant tota la part forana [?] ha gastades quatre-centes lliures i els comissaris que hi ha dies que estan de presidi en esa de Son Brull fent moscatí i prenent cavalls de totes les viles i assolant tots els sembrats i donen menjar als cavalls. No hi ha qui pugui tenir cavalls i que se n'entren per les cases i els prenen i no els tornen que ha mesos que tenen alguns ca Sr. D. Pedro Santacilia [1§] valls, de manera que tot va a través i tot per causa de la justícia que ho lleva i quan les viles s'avenen a queixar no els escolten. Han donada tanta mà a un balitra que aporta escrivà un agutzir i posa penes les que li pareixen i fa pregons amb trompeta i caixes per ha de la vida que no sia ningú que a les oracions no aporta capa. Ahir prenguí la purga. D'aquí a quatre o cinc dies me'n vaig a Inca a veure nostra mare a on estaré alguns dies. El Sr. Nicolau i el Sr. don Joan Miquel tenen salut. El Sr. don Joan Miquel aniran a veure {CAST. antes} del sol post està en casa a on no se'n tractassin fins que ens posam al lit. Ahir morí una filla de don Mateu Gual i està tant [?] que m'han dit que no l'han anant a veure sinó [2§] Nicolau [?] de canat i al canonge Melcion Sureda. Jo el plany, que no és mal home i v. s. li fa gran falta. En eixir de casa l'aniré a veure que sempre hi vaig de moltes coses. Al taforer Morrelles va a tota ultrança. No és mou de casa en bru i amb totes les consultes Francesc Cotoner l'havia fet assegurar al demetro i el misser el [?] i no li han atesa la paraula que li havia donada i ja els ha desenganyats. Tots tenen ganes de salvar a Miquel Company i ell també té ganes de deixar-lo conforme m'ha dit Francesc Cotoner seria bo que és ratiràs aquí a Menorca. Faré nosa sa mullareta que és vinguda ser-nos que és v. s. de fer-me [3§] a saber si ha rebut un plec de mi Sra. la duquessa de Cardona que el remetre al duc d'Arcos que si havia carta de don Pedro de Aragon. Guardi Déu a v. s. en vida d'aqueixos, mi senyora a qui besa les mans. Mallorca maig 15 de 1643. Bartolome Domenech Transcripción literal"
+  ],
+  "literal": [
+    "1. Asi noy ha cossa nova y 2. seriura sino gerra tinch por 3. que un die noy aja con visca la terra y que no tingam 4. altra carta suja parque 5. la justicia es tant roina 6. que noy ha quis puga crau 7. ra sino quen nau a sol 8. lan tosa la part forana 9. [^??jucho??^] ha gastadas quatra 10. centes liras y lo comisaris 11. qui ha dies que estan 12. de pressidi en essa sen 13. bruis fent moscati 14. pranint cavails de todos 15. las villas y asollant 16. tots los sambrats y donan 17. manjar a los cavails noy 18. ha qui puga tenir cavaiils 19. y que sen entran per las 20. casas y los pranan y no 21. los tornen que ha messos 22. que tenen alguns ca 23. [^Sr. D. Pedro Sta. Silia^] [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "072:5134a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo11/072:5134a.JPG",
+      "url": "/legajos/legajo-11/images/072:5134a.JPG"
+    },
+    {
+      "filename": "073:5134b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo11/073:5134b.JPG",
+      "url": "/legajos/legajo-11/images/073:5134b.JPG"
+    },
+    {
+      "filename": "074:5134c.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo11/074:5134c.JPG",
+      "url": "/legajos/legajo-11/images/074:5134c.JPG"
+    },
+    {
+      "filename": "075:5134d.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo11/075:5134d.JPG",
+      "url": "/legajos/legajo-11/images/075:5134d.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "072:5134a.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-11/cartas/001274.json",
+  "primary_image_url": "/legajos/legajo-11/images/072:5134a.JPG"
+}

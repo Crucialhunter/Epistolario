@@ -1,0 +1,43 @@
+{
+  "legajo_id": "15",
+  "id_carta": "2149",
+  "order_in_legajo": 69,
+  "signatura": "077:6374a.JPG",
+  "nombre_carta": "Carta de Jerónimo de Aganza y Javier a Pedro Santacilia y Pax",
+  "fecha_original": "24 de octubre de 1639",
+  "lugar": "Pamplona",
+  "remitente": "Jerónimo de Aganza y Javier",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Señor mío a su primera carta de v. m. no respondí porque quien me la dio me dijo que dentro de diez días pasaría por este lugar. Sentí mucho que v. m. no quisiese entrar en él y que se fuese sin poderle besar. v. m. cuiden [?], curia haber escribir y madrugo [?] tanto que cuando le bajé que se era [?] ido, agua [?] candado [?] en la mentara once días a cara de jabalís en ser tiempo con un pliego de estos. Ábrole inmaculado y todas las cartas las envíe a sus dueños y de las de [?] Sebastián ha tenido respuesta de que se dio. Yo suplico a v. m. me tenga por su agente, que le aseguro que en todo cuanto pudiere serviré en veras [?] - Y podría v. m. entre esto [?] mandarme un claneca, cuanto pueda se ofreciere. Al marqués le {CAT. a bonich [?] Acencia pise amb tantes cinques} que me dicen {CAT. que no en [?] farà de ella}. Acabo de llegar de mis viajes [?] desde [?] se fue, sino se habría ido dar el su recado [?]. v. m. gran trabajo, es que no haga dinero. Guarde el {CAT. sou}. No de sa {CAT. fer-la} Señor don Pedro Santacilia y Pax L'hem quin [?] [creo que es una repetición] en esta tierra {CAT. anar-lo diuen} de los pobres lugares. Dios guarde a v. m. {CAT. amb} deseo para mejor [?] Dice 23, octubre, 1638 Don Jerónimo de Aganza y Javier [margen derecho] Pamplona 24, octubre, 1639. Don Jeronimo de Aganza Respondido Transcripción literal"
+  ],
+  "literal": [
+    "1. Sr mio asa primer carta deVm no 2. rrespondi porque quien mela dio me 3. diso q dentro de diesdias pasaria por 4. este lugar senti mucho q Vm no quesi5. ese entrar enel i quesefuese sin podille 6. besar Vm. cuidensupsu[?] curia aver escri7. vir imadriujo[?] tanto q quandole baseque8. raesaido agua [?] tandado[?] enlamenta9. ra once dias acara[?] de jabalis emser tiem10. po com unpliego destos[?] abrole Ina11. culaa itodos las cartas las inbie asus12. duenos idela dis Sebastian a tenido rres13. puesta deq sedio io suplico aVm me14. tenga por su agente quele aseguro q en 15. todo quanto iopudiere Aservire em bi16. ras. i podia Vm entidesto mandarme 17. un Claneca quanto pueda se ofreciere. al18. marques le abonic[?] Açencia pisemtan19. tos cinques que midicen qnonsara della 20. acabodellegar de mis biage en Vdent 21. puehun se fue sino si abrira ido dar el 22. surrecadid Vm a ma gran trabajo es q no 23. aca dinero ge el souno desajenu[?] 24. [Margen izquierdo][ Sor. Don Peo santa cilia i Pax] [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "077:6374a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo15/077:6374a.JPG",
+      "url": "/legajos/legajo-15/images/077:6374a.JPG"
+    },
+    {
+      "filename": "078:6374b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo15/078:6374b.JPG",
+      "url": "/legajos/legajo-15/images/078:6374b.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "077:6374a.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-15/cartas/002149.json",
+  "primary_image_url": "/legajos/legajo-15/images/077:6374a.JPG"
+}

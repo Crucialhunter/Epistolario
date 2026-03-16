@@ -1,0 +1,38 @@
+{
+  "legajo_id": "12",
+  "id_carta": "1544",
+  "order_in_legajo": 51,
+  "signatura": "065_6136.JPG",
+  "nombre_carta": "Carta de Antoni de Verí a Pedro Santacilia y Pax",
+  "fecha_original": "21 de marzo de 1641",
+  "lugar": "Mallorca",
+  "remitente": "Antoni de Verí",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Señor don Pedro Santacilia y Pax En todas ocasiones me tiene v. m. muy a su servicio y más ahora que le tenemos más cerca. Podrá ser llegue mi hijo don Tomás de Verí y servidor de v. m. en esa costa que pienso se habrá embarcado con las galeras en que tiene el señor marques de Leganes. Suplico a v. m. se sirva hacérmela muy particular en mandar se facilite la embarcación para Mallorca, que mi señora doña Onofre y yo lo estimaremos por merced particular de manos de v. m. . El dicho mi hijo tiene ya licencia a más de tres meses. Honróle el señor marques con compañía de corazas y aunque el quería proseguir al menos una campaña no lo admitió el dicho señor marques por tener cartas mías en que le suplicaba fuese servido darle licencia, y así con el favor de Dios pienso vendrá en esa costa con dicho señor. v. s. sabe las veras con que deseo servirle a más de mis obligaciones, estaré muy atento a todo lo que fuere del servicio de v. m., cuya persona me guarde Dios los años de mis deseos. Mi señora doña Onofre besa a v. m. las manos, mi señora doña Isabel está con salud razonable. De Mallorca y marzo 21 1641. Don Antonio de Verí [1§] Transcripción literal"
+  ],
+  "literal": [
+    "1. Señor don pedro Santa2. Cilia y pax3. En todas ocasiones me tiene vm muy a su servi4. tio y mas ahora que le tenemos mas cerca5. podra çer llegue mi hijo Don Thomas de Verí6. y servidor de Vm, enessa costa que pienso7. se abra enbarcado con las galeras en que ti8. ene el señor marques de leganes. Suplico a Vm9. se sirva hasermela muy particular en man10. dar se facilite la embarcation para mall[or]ca;11. que mi señora dona Honofre y jo lo estimaremos12. por m[erce]d particular de manos de Vm, el dicho13. mi hijo tiene ja licentia a mas de tres me14. ses. Honrole el Señor marques con conpañia15. de Corasas y aunque el queria proseguir16. almenos una campanya no lo admitio el17. dicto señor marques por tener cartas mias18. en que le suplicava fuesse servido darle li19. centia: i assi con el favor de dios pienso 20. vendra enessa costa con dicho señor Vm.21. sabe las veras con que deseo servirle a mas22. de mis obligationes estare muy atento a todo lo23. que fuere del servitio de Vm. cuja p[er]sona me24. gde dios los años de mis deseos. Mi Señora dona honofre besa a Vm.25. las manos mi Señora dona Isabel esta con salud rasonable. De26. mall[or]ca y março 21 164127. Don Antonio de Verí [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "065_6136.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo12/065_6136.JPG",
+      "url": "/legajos/legajo-12/images/065_6136.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "065_6136.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-12/cartas/001544.json",
+  "primary_image_url": "/legajos/legajo-12/images/065_6136.JPG"
+}

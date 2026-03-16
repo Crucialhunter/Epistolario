@@ -1,0 +1,38 @@
+{
+  "legajo_id": "29",
+  "id_carta": "6355",
+  "order_in_legajo": 46,
+  "signatura": "086:4172.JPG",
+  "nombre_carta": "Carta de Pedro Santacilia y Pax a Tomás Ruiz de Salas",
+  "fecha_original": "16 de marzo de 1641",
+  "lugar": "Lugar sin especificar",
+  "remitente": "Pedro Santacilia y Pax",
+  "destinatario": "Tomás Ruiz de Salas",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Bernardino ha venido y llegó con salud. D. Feliciano y se detiene el patrón Estarellas por no haber orden para tomar [?] y dar [?] que dije Gavalda [?] que no tienen orden y darlos ya lo escrito a v. m. muchos dias ha. Y lo he vuelto a decir a v. m. en otras y ahora lo digo, que si Gavalda no tiene orden, no dará dinero y ni he aplazado [?] mill [?] dos mill di a Nadal y los demas [?]. Guarde Dios a v. m. como deseo. [?] a 16 de marzo 1641. Servidor de v. m. que v. s. Md.Tomas Ruiz de Salas El Sr. Principe de Botera llega noy a Benicarlo. V. m. es muy amigo suyo y de esa suerte no lo puedo pasar mas.Sr. D. Pedro Santacilia Transcripción literal"
+  ],
+  "literal": [
+    "1. Bernardino a Benido y llego con salud 2. D. Feliciano y se detiene el Patron 3. Esterellas por no haver orden para 4. tomar [?] y Dar [?] que dije 5. gavalda [?] que no tienen orden y darlos 6. ya lo escrito a vm muchos dias 7. a. Y lo e buelto a dezir a vm en 8. otras y aora lo digo que si gavalda 9. no tiene orden no dara dinero y ni e 10. aplazado quº mill [?] dos mill 11. Di a Nadal y los demas [?] 12. gde Dios a vm como desseo 13. [?] a 16 de Marzo 1641 14. Servidor de vm q V. S. [?] 15. El Sr Principe de botera 16. llega oy a benicarlo 17. vm es muy amigo suio y desa 18. suerte no lo puedo passar mas 19. Thomas Ruiz de Salas 20. Sr. D. Pº Sta Zilia [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "086:4172.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo29/086:4172.JPG",
+      "url": "/legajos/legajo-29/images/086:4172.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "086:4172.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-29/cartas/006355.json",
+  "primary_image_url": "/legajos/legajo-29/images/086:4172.JPG"
+}

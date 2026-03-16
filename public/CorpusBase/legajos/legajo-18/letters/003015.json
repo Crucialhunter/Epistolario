@@ -1,0 +1,38 @@
+{
+  "legajo_id": "18",
+  "id_carta": "3015",
+  "order_in_legajo": 48,
+  "signatura": "078:4854.JPG",
+  "nombre_carta": "Carta de Diego Matías de Aragüés a Pedro Santacilia y Pax",
+  "fecha_original": "24 de junio de 1662",
+  "lugar": "Madrid",
+  "remitente": "Diego Matías de Aragüés",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Estos renglones hago por Barcelona para que v. m. no esté con cuidado del Sr. don Juan su mejoría va adelante y con un deicmiento [?] que se le hace con cenada y raices de hierbas para que teme por las mañanas espero se le templara presto elhigado que es donde más daño hapadecido con la ocasión de haber venido mucho, el verá a le ha conocido muy bien su complisión elachaque y calentura y así v. m. no tiene que estar con cuidado y la fiesta le ha costado cinco sangrías, dos días hay noches que hadormido bien y toma gusto en la comida. Por acá no hay de nuevo dicen que el Sr. don Juan después de tomado a Gurumena cuya relación heenviado por Vala, ha salido con la mayor parte de la caballería no se sabe el dasiono. v. m., me mande le sirva que sus manos besamos Dña. Margarita y yo y las de mi Sra. Dña. Leonor y guarde Dios como deseo Madrid 24 Junio 1662 Besa la mano de v. m. S m s Diego Matias de Aragues Sr. don Pedro Santacilia y Pax [1§] Transcripción literal"
+  ],
+  "literal": [
+    "1. Estos renglones hago por Barcelona 2. pa q Vm no este con cuydado delsr don Juan 3. su mejoria ba adelante y con un deicmiento [?]4. q selehaze con çenada y raizes de hierbas 5. pa q teme por las mañanas espero 6. se le templara presto elhigado q es 7. donde mas daño hapadeçido con la 8. occasion de haver benido mucho, el 9. Sor vera leha conocido muy bien su 10. complission elachaque y calentura 11. y assi Vm. no tiene q estar con cuydado 12. y la fiesta leha costado cinco sangrias, 13. dos dias hay noches q hadormido bien 14. y toma gusto enla comida. 15. Poraca no ay de nuevo dizen q elsr 16. don Juan despues de tomado a Gurumena 17. cuya relacion heembiado por Vala, ha 18. salido con la mayor parte de la Cavalleria 19. nose save el dasiono. 20. Vm., memande le sirva q susmanos 21. Vesamos da Ma[r]gta y yo ylas de mi 22. Sra da Leonor yge dios como deseo Md 24 23. Junio 1662 24. B[ l[] m[] de Vm S[u] m[] s[] 25. Diego Mathias de Aragues 26. [Margen izquierdo][^ Sr don Pedro Sta Cilia y Pax] [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "078:4854.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo18/078:4854.JPG",
+      "url": "/legajos/legajo-18/images/078:4854.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "078:4854.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (3)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-18/cartas/003015.json",
+  "primary_image_url": "/legajos/legajo-18/images/078:4854.JPG"
+}

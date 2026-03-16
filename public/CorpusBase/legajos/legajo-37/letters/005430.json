@@ -1,0 +1,38 @@
+{
+  "legajo_id": "37",
+  "id_carta": "5430",
+  "order_in_legajo": 32,
+  "signatura": "021:14.JPG",
+  "nombre_carta": "Carta de José Balell a Pedro Santacilia y Pax",
+  "fecha_original": "7 de julio de 1668",
+  "lugar": "Barcelona",
+  "remitente": "José Balell",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Comptes [1§] Transcripción literal"
+  ],
+  "literal": [
+    "1. Comptes"
+  ],
+  "imagenes": [
+    {
+      "filename": "021:14.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo37/021:14.JPG",
+      "url": "/legajos/legajo-37/images/021:14.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "021:14.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-37/cartas/005430.json",
+  "primary_image_url": "/legajos/legajo-37/images/021:14.JPG"
+}

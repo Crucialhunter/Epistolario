@@ -1,0 +1,37 @@
+{
+  "legajo_id": "37",
+  "id_carta": "5428",
+  "order_in_legajo": 34,
+  "signatura": "017:12a.JPG",
+  "nombre_carta": "Carta de Persona desconocida a Leonor Santacilia i Despuig",
+  "fecha_original": "1 de junio de 1669",
+  "lugar": "Mallorca",
+  "remitente": "Persona desconocida",
+  "destinatario": "Leonor Santacilia i Despuig",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Manament d'orde de Su Sra. Il·lustríssima. a la noble dona Leonor de Santacilia i Despuig, que dins deu dies proxims entregue al soldat qui serveix en la Companyia de cavalls forçats per obligació sua, dos terseva [?] amb ses fundas i or meigs d'anar a cavall, per efecte de servir amb elles en dita companyia Juny 1669 Per manament de S.S. Il·lustríssima Maimon [1§] dos pistolas i dos fundas te el capità de cavalls entregades a Josep Canal Cavaller forssat en virtut del present villet i son de mi Sr. [2§] Transcripción literal"
+  ],
+  "literal": [
+    "1. M[anamen]t de orde de Su Sa. Illma. A la nob[le] Da. Eleonor de2. Santacilia y Despuig, que dins deu dias proxims3. entregue al soldat qui servex en la Comp[anyi]a de cavalls4. forsats per oblig[aci]ó sua, dos terseva[?] ab ses fundas y or=5. meigs de anar a cavall, per efecte de servir ab6. ellas en dita comp[anyia] 7. Juny 16698. Per m[anamen]t de S.S. Illma9. Maymon [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "017:12a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo37/017:12a.JPG",
+      "url": "/legajos/legajo-37/images/017:12a.JPG"
+    },
+    {
+      "filename": "018:12b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo37/018:12b.JPG",
+      "url": "/legajos/legajo-37/images/018:12b.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "017:12a.JPG",
+  "warnings": [],
+  "raw_source": "raw/legajos/legajo-37/cartas/005428.json",
+  "primary_image_url": "/legajos/legajo-37/images/017:12a.JPG"
+}

@@ -1,0 +1,43 @@
+{
+  "legajo_id": "21",
+  "id_carta": "3505",
+  "order_in_legajo": 194,
+  "signatura": "360:5793a.JPG",
+  "nombre_carta": "Carta de Jerónimo Ribó a Pedro Santacilia y Pax",
+  "fecha_original": "20 de noviembre de 1639",
+  "lugar": "Tolosa",
+  "remitente": "Jerónimo Ribó",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "He recibido su carta de v. m. de 6 del corriente y visto lo que me representa de trabajos del cuartel en que se halla, que los siento como los míos y no menos el quetanto se resista Salses, que si corre tan mal tiempo en el sitio como acá, lo pasarán mal. Dios nos asista y a v. m. guarde como desea, San Francisco de Tolosa, de noviembre [?]. Jeronimo Ribo [1§] Tolosa 20 Noviembre 1639El conde Jeronimo Ribo rta. Transcripción literal"
+  ],
+  "literal": [
+    "1. He Rdo sucarta de Vm. de 6 delcorrite y Visto loqueme representade 2. travajos delquartel enquesehalla, quelos síento como los míos. Yno 3. menos Elquetanto se Resista salses, quesicorretanmal tíempo En 4. el sitio como aca, lo passaran mal, Díosnosasista ya Vm gde como 5. dessea Sanfranco de tolossa de nove 6. 7. her [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "360:5793a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo21/360:5793a.JPG",
+      "url": "/legajos/legajo-21/images/360:5793a.JPG"
+    },
+    {
+      "filename": "361:5793b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo21/361:5793b.JPG",
+      "url": "/legajos/legajo-21/images/361:5793b.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "360:5793a.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (2)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-21/cartas/003505.json",
+  "primary_image_url": "/legajos/legajo-21/images/360:5793a.JPG"
+}

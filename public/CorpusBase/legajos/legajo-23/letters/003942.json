@@ -1,0 +1,38 @@
+{
+  "legajo_id": "23",
+  "id_carta": "3942",
+  "order_in_legajo": 196,
+  "signatura": "343:3355.JPG",
+  "nombre_carta": "Carta de Francisco Guillermo Cárceres a Pedro Santacilia y Pax",
+  "fecha_original": "29 de agosto de 1669",
+  "lugar": "Lugar sin especificar",
+  "remitente": "Francisco Guillermo Cárceres",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Por otra tengo escrita a v. s. no sé si habrá llegado a sus manos dando aviso de como vaca va la rectoría de Alaior en Menorca y como v. s. me ofreció de en la consulta de dicha rectoría proponerme a mi lo estimaré sobre mis ojos lo haga no por merecimientos míos sino por los que son muertos para que yo pudiere ayudar a esa pobre viuda que con las obliga pasiones de tres hijos padece muchas necesidades. Dios guarde a la ilustre persona de v. s. más que a mi, agosto y 29 de 1669. Humilde capellán de v. s. que sus manos besa el Sr. Francisco Guillermo Carceres pre[sbítero] Sr. don Pedro Santacilia Transcripción literal"
+  ],
+  "literal": [
+    "1. Pr otra tengo escrita a Va. Sria. no se si abra 2. llegado a sus manos dando aviso de como vaca-3. va[?] la retoria de Alaon en menorca y como4. Va.Sa. me ofrezio de en la consulta de dicha5. retoria proponerme hami lo estimare6. sobre mis ojos lo aga no por merecimientos7. mios sino por los que çon muertos para8. que yo pudiere aiudar a eça pobre viuda9. que con las obliga pasiones de tres hijos pa10. dese muchas necesidades dios g Ala11. Ilustre perçona de Va. Sria. mas que12. a mi agosto y 29 de 166913. humilde capellan de Va14. Sira. q s[u] m B15. el Dr. franco Guillermo16. Carceres pre17. Sr. Don Pedro Santa Cilia [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "343:3355.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo23/343:3355.JPG",
+      "url": "/legajos/legajo-23/images/343:3355.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "343:3355.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-23/cartas/003942.json",
+  "primary_image_url": "/legajos/legajo-23/images/343:3355.JPG"
+}

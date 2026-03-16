@@ -1,0 +1,38 @@
+{
+  "legajo_id": "17",
+  "id_carta": "2840",
+  "order_in_legajo": 106,
+  "signatura": "176:1382.JPG",
+  "nombre_carta": "Carta de Cristóbal Crespí de Valldaura y Brizuela a Pedro Santacilia y Pax",
+  "fecha_original": "20 de marzo de 1660",
+  "lugar": "Madrid",
+  "remitente": "Cristóbal Crespí de Valldaura y Brizuela",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Su carta de v. m. de 19 del pasado ha sido para mi de particular estimación así por la merced que en ella v. m. me hace como por el gusto que he tenido de ver al portador que es muy lindo caballero, y aunque le he dicho que me emplee en todo lo que se le ofreciere con la seguridad que debe v. m. no deje de escribirle lo mismo asegurándose que en todas las ocasiones del servicio de v. m. y su casa me hallarà siempre con particular afecto. Dios guarde a v. m. largos años. Madrid a 20 de marzo 1660. Don Cristobal Crespi de Valdaura Duplicado Sr. don Pedro Santacilia y Pax. [1§] Transcripción literal"
+  ],
+  "literal": [
+    "1. Su carta de VM de 19. del passado hasido para mi departicular estimaz[i]on 2. assi por la merçed que en ella VM me haçe como por el gusto que he tenido 3. de ver al portador que es muy lindo cavallero, y aun que le he dicho que 4. me emplehe en todo lo que se le ofreçiere con la seguridad que deve VM 5. no dexe de escrivirle lo mismo assegurandosse que en todas las occasio=6. nes del serviçio de VM y su cassa me hallarà siempre con particu=7. lar affecto Dios gde. A VM largos años Madrid á 20. de Marzo 1660.8. Don Cristoval Crespi9. de Valdaura 10. Duppdo11. Sr. Don Pedro Santacilia y Pax. [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "176:1382.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo17/176:1382.JPG",
+      "url": "/legajos/legajo-17/images/176:1382.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "176:1382.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (2)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-17/cartas/002840.json",
+  "primary_image_url": "/legajos/legajo-17/images/176:1382.JPG"
+}

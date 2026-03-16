@@ -1,0 +1,43 @@
+{
+  "legajo_id": "23",
+  "id_carta": "3806",
+  "order_in_legajo": 61,
+  "signatura": "117:3218a.JPG",
+  "nombre_carta": "Carta de Ana de Córdoba y Aragón a Pedro Santacilia y Pax",
+  "fecha_original": "9 de febrero de 1635",
+  "lugar": "Medellín",
+  "remitente": "Ana de Córdoba y Aragón",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Muy buenas nuevas y de gran gusto para mí han sido las que he tenido con la carta de v. m. y con saber su llegada a Madrid, y quisiera en esta ocasión hallarme en él para gozar de los buenos ratos que se pasaban con sus visitas de v. m. y más ahora con los valimientos del infante y los plácemes que de esos señores v. m. ha tenido, que todos los merece y los tengo de servir a v. m. y que se conozcan aquí y a donde quiera que me hallare. Pedro está bueno y besa a v. m. las manos, y muy bien hallado de casado y en su tierra. Y todos serviremos a v. m., a quien guarde Nuestro Señor. En Medellín. 9 de febrero 1635. [Letra original de la remitente:] He sentido mucho no hallarme en Madrid para besar a v. m. las manos y descansar con contarle mis trabajos porque sé de la merced que me hace v. m. y hacía a Juan [??] gloria. Mucho es, señor don Pedro, que yo viva con lo que por mí ha pasado al fin señor los trabajos que por mí han pasado de todas maneras. V. m. me avise lo que estará ahí, que desearé llegar a tiempo para que pueda besarle las manos. Avíseme v. m. si le hacen la merced que tan merecida tiene, que nadie se holgará más de sus aumentos que yo: bien puede v. m. fiarme lo que nadie con más veras. Doña Ana de Cordoba Señor don Pedro de Santacilia [1§] Medellín. Respondido. 9 febrero 1635. Condesa de Medellín Transcripción literal"
+  ],
+  "literal": [
+    "1. Muy buenas nuevas y de gran gusto para mí an sido las2. que he tenido con la carta de .Vm. y con saver3. su llegada a madrid. y quisiera en esta ocasion hallarme4. en el para goçar de los buenos ratos que se pasavan5. con sus visitas de .Vm. y mas aora con los valimtos6. del infante y los plaçemes que de esos Sres. Vm. 7. ha tenido que todos los mereçe y los tengo8. de servir a Vm. y que se conozcan aqui y adonde9. quiera que me hallare. Pedro esta bueno y besa10. a .Vm. las manos y muy bien hallado de casado11. y en su tierra. y todos serviremos a Vm. a quien12. gde N. Sr. en Medellin .9. de febro 1635 13. e sentido muncho no allarme en ma-14. drid para besar a vm las manos y 15. descansar con contarle mis traba16. gos porque se de la merced que me17. ace vm y acia a Juan se vanagloria18. muncho del Senor don pedro que yo19. biba con lo que por mi a pasado20. al fin si no los trabagos que por21. mi an pasado de todas maneras.22. vm me abise lo que se ara ay que deseare llegar ahi[?]23. pa[ra] que pueda besarle las manos abiseme vm si le acen24. la merced que tan merecida tiene que nadie se olga25. ra mas de sus aumentos que yo bien puede vm fiar26. melo que nadie con mas beras-27. dona ana28. de cordoba [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "117:3218a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo23/117:3218a.JPG",
+      "url": "/legajos/legajo-23/images/117:3218a.JPG"
+    },
+    {
+      "filename": "118:3218b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo23/118:3218b.JPG",
+      "url": "/legajos/legajo-23/images/118:3218b.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "117:3218a.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (2)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-23/cartas/003806.json",
+  "primary_image_url": "/legajos/legajo-23/images/117:3218a.JPG"
+}

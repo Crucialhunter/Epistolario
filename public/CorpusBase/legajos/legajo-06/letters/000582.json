@@ -1,0 +1,38 @@
+{
+  "legajo_id": "6",
+  "id_carta": "582",
+  "order_in_legajo": 86,
+  "signatura": "095-53",
+  "nombre_carta": "Carta de Damià Escursa a Cecilia Zaforteza y Sureda de Sant Martí",
+  "fecha_original": "19 de junio de 1756",
+  "lugar": "Madrid",
+  "remitente": "Damià Escursa",
+  "destinatario": "Cecilia Zaforteza y Sureda de Sant Martí",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Mi Sra. dona Cecília, Don notícia a v. s. com tots estam bons, gràcies a Déu. El Sr. el dissabte del Corpus se partí per a Aranjuez i hem tingudes notícies que està bo i besà la mà al rei. S’ha fet dos vestits molt bons i de gust. Ell pareix és que és caigut molt bé a la cort, que és fa molt de cas d’ell i, a on es vulgui sia, és a Berga. Moltes memòries a tots els de casa sa mare i tots els de casa seva i a la meua dona i na Jerònia, moltes memòries, i a tots els demés. Madrid i juny als 19 de 1756. Son segur criat, Damia Escursa Mi senyora dona Cecilia Zaforteza i Berga [En la parte izquierda del documento, de arriba a abajo]Don ara esta estampa a n’Antonina, ma muller, que tinga devoció amb aquesta santa figura que fa molts de miracles. Transcripción literal"
+  ],
+  "literal": [
+    "1. Mi Sa. Da. Cicilia don notisia 2. a V.S. com tots estam bons g à 3. Deu. el Sr. el disapte del Corp- 4. us se parti per arangues y avem 5. tingudes notisias que esta bo 6. y besá le ma el Rey 7. se ha fets dos vastits molt 8. bons y de gust. el parexa es 9. que es caigut molt be a le 10. Cort que es fa molt de cas 11. del. y a on se vulla sia es 12. en Berga. Moltas memorias 13. a tots los de Case se mare 14. y tots los de case sua y a le 15. meua Dona y ne Jeronia mo- 16. ltes memorias y á tots los da- 17. mes. Madrid y Juñy als 19 de 18. 1756 Son segur criat 19. Damia Escursa [?] 20. Mi Sra. Da. Cicilia Çafortesa y Berga 21. [ En la parte izquierda del documento, de arriba a abajo ] 22. Donera esta estampe á ne Antonine me muller 23. que tinga devosio ap esta Sta figura que fa molts 24. de miraclas [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "095-53.jpg",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo06/095-53.jpg",
+      "url": "/legajos/legajo-06/images/095-53.jpg"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "095-53.jpg",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (3)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-06/cartas/000582.json",
+  "primary_image_url": "/legajos/legajo-06/images/095-53.jpg"
+}

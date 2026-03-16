@@ -1,0 +1,43 @@
+{
+  "legajo_id": "17",
+  "id_carta": "2870",
+  "order_in_legajo": 135,
+  "signatura": "230:1412a.JPG",
+  "nombre_carta": "Carta de Joan Antoni Albertí a Pedro Santacilia y Pax",
+  "fecha_original": "5 de mayo de 1660",
+  "lugar": "Ciutadella",
+  "remitente": "Joan Antoni Albertí",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "procurador reial La de v. s. dels 29 març he rebuda a la qual per trobar-me en Maó a fer arrendar els delmas no pugui respondré de continent que serà esta, en la qual li dic que el que faran preperare pandre doncs l'any passat a penes se'n feu, per estar els bèsties que metaven tant flacs entant que jo no en pugui haver una queixa per son temps l'enviare. El governador m'ha ensenyada una carta de sa magestat que Déu guardi en què dispon se fassen festes en esta illa per les paus i casa: ment de la joveníssima infante, segons se faran en l'any 1588 que no ses trobat, si bé jo digué en el governador que encare: que de part del rei nre. Sr. sia el bolar el patrimoni real esta tant {ESP. alcanzat} que no hi ha poder entant que per acudir als {ESP. gastos} de diates i ministres reals tenc que posar del meu i sempre un he portat sobre li espaldes, per no treure del real Patrimoni i nom espanta de cosa doncs un diner de composicions no ha entrat, ni lluismes a penes corren per la gran falta de diner i ha en tota Menorca coses extra hordinaries, sinó fos que vingués algun naufratx de moros o lluterans, no s'ha entrat sinó molta misseria i així prenguerem resolució que en la parrochial amb acistència de les religiós se faci un solemna ofici patent el Santíssim Sagrament amb molta lluminarie, i apres una processo de gràcies que així el tindrà v. s. per bé i en coses de son servici me tindrà sempre molt prompte a qui Déu me'l guardi [1§] molts anys amb companyia de la seva senyora i infants a qui besso moltes begades les mans de Ciutadella i maig a 5 de 1660 de V. Molt servidor que sa mà B El Dr. Joan Antoni Albertí [2§] Transcripción literal"
+  ],
+  "literal": [
+    "1. Sr Procurador Real2. La de Vsa dels 29 mars he rebude a la qual per trobarme3. en Maho a fer arrendar los delmas no pugue respondre4. de continent que sera esta, en la qual li dich que lo que faran5. preperare pandre puis lo añy pessat apenas sen feu, per6. estar los bestias que metaven tant flacs entant que jo non7. pugue aver una quexa per son temps lo enbiare.8. Lo Sr. Gdor me ha ensenyade una carta de Se Magd. que deu Gde.9. en que dispon se fassen festas enesta Illa per las paus y casa:10. ment de la jovenissima Infante, segons se feran en lo añy11. 1588 que no ses trobat, si be jo digue anel Sr Gdor que encare:12. que depart del Rey nro Sr. sia lo bolar el patrimony Real esta13. tant alcansat que noy ha poder entant que per acudir a los14. gastos de diates y ministres Reals tench que possar del meu15. y sempra hu he aportat sobre ley espaldes, per no treure de lo16. Real Patrimony i nom espante de cossa puis un diner de17. compositions no ha entrat, ni lluismes apenas corren per18. la gran falta de diner y ha en tota Menorca cosses extra19. hordinaries, sino fos que vingues algun naufratx de Moros20. o lluterans, no se ha entrat sino molta misseria y axi21. prengueram resolusio que en la parrochial ab acistensia22. de les religios se fasse un solemna offisi patent lo Santissim23. Sagrament ab molta lluminarie, y apres una processo de24. grasies que axi lo tindra Vsa per be y en cosses de son servisi25. me tindra sempra molt prompte aqui Deu mel Gde [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "230:1412a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo17/230:1412a.JPG",
+      "url": "/legajos/legajo-17/images/230:1412a.JPG"
+    },
+    {
+      "filename": "231:1412b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo17/231:1412b.JPG",
+      "url": "/legajos/legajo-17/images/231:1412b.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "230:1412a.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-17/cartas/002870.json",
+  "primary_image_url": "/legajos/legajo-17/images/230:1412a.JPG"
+}

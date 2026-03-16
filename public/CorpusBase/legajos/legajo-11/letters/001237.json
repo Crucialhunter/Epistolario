@@ -1,0 +1,43 @@
+{
+  "legajo_id": "11",
+  "id_carta": "1237",
+  "order_in_legajo": 7,
+  "signatura": "004:5097.JPG",
+  "nombre_carta": "Carta de Pedro Monleón a Pedro Santacilia y Pax",
+  "fecha_original": "23 de diciembre de 1642",
+  "lugar": "Zaragoza",
+  "remitente": "Pedro Monleón",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Sr. gobernador, mi sr. A v. s. dé Nuestro Señor tan santas y alegres pascuas como deseo, y buenos principios de año. Yo ya estaría en Madrid a no haberme ordenado el regente Villalonga le aguardara, que pienso nos partiremos dentro de breves días allá y en todas partes me tendrá v. s. rendido a su obediencia y tan puntual que no me ganará persona en servir la suya. Ya avisé como enviaba los despachos de la ayuda de estas y después en otro pliego los remití bajo pliego de canónigo Cotoner que ya los habrá recibido. El coste fueron 190 reales de plata y supliqué a v. s. me honrara con remitirlos a mi mujer, etc. El licenciado Domenech está mucho mejor y empieza ya a levantarse y con resolución de partirse cuanto más presto para su tierra. V. s. vea la instrucción que gusta darme acerca de sus particulares, que le serviré con gusto. Su majestad y todos estos señores regentes están ya en Madrid. El regente Villalonga está de partida y me ha mandado le aguardara para acompañarle y me ha sido fuerza. Está muy bien puesto en particular con el protonotario le es aficionadísimo a v. s. y me ha asegurado que en cuanto [1§] v. s. le empleara hallará de su voluntad muy dispuesta para obrar todo lo que sea de mayor conveniencia de v. s. El capitán Mateo Jaime es tan buen escribano como v. s. sabe y así estos renglones van por su cuenta y por ellos besa a v. s. la mano, y avisa como ha asistido al padre Domenech sin dejarle. Un punto ha de partirse a su cuartel, que el marques de Leganes le ha mandado asentar plaza en la compañía de su guardia con 30 escudos de sueldo al mes que tiene en virtud de su cédula real. El duque de Cardona se partió para Segorbe, el sr. don Vicente para Madrid: así se hallan su excelencia de la sra. duquesa y el sr. don Antonio, y tienen muy buenas nuevas del sr. d. Pedro y el capitán Mateo, y carta de su excelencia por la cual le avisa de su salud, con mil honras. Todas las debe al amparo de v. s., a quien suplica se sirva escribir cuatro renglones al marques de Leganes en su recomendación; yo se lo suplico de mi parte. Guarde Nuestro Sr. a v. s. como deseamos todos. Zaragoza y diciembre 23 de 1642. De v. s., Pedro de Monleon Mateo Jaime Transcripción literal"
+  ],
+  "literal": [
+    "1. [Sr. Govor mi Sr.^]2. A V.S de N Señor tan stas y alegres Paquas como 3. deseo, y buenos principios de año. Yo ya estaria en Madrid 4. a no haverme ordenado el Sr. Regente Valonga le 5. aguardara q pienso nos partiremos dentro de breves dias 6. alla y en todas partes me tendra V.S. rendido a su obe 7. diencia y tan puntual que no me ganara persa en servir la 8. suya. Ya avise como embiava los despachos de la ayuda 9. de estas y despues en otro pliego los remiti bajo pliego de 10. Sr. Cononigo Cotoner que ya los habra recibido; el coste fueron 11. 190 Reales pta y supplique a V.S. me honrara 12. con remitirlos a mi muger. ettsa. 13. El licendo Domenech esta mucho mejor y empieça ya a le 14. vantarse y con resolucion de partirse quanto mas presto 15. para su tierra V.S. vea la instruccion que gusta darme 16. acerca de sus particulares que le servire con gusto. 17. Su Magad y todos estos Sres. Regentes estan ya en Madrid 18. El sr. Regente Valonga esta de partida y me ha mandado 19. le aguardara para acompanyarle y me ha sido fuerça. esta 20. muy bien puesto en particular con el Sr. Protonotario es le [roto] 21. aficionadissimo a V.S. y me ha assigurado que en quanto [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "004:5097.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo11/004:5097.JPG",
+      "url": "/legajos/legajo-11/images/004:5097.JPG"
+    },
+    {
+      "filename": "005:5097.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo11/005:5097.JPG",
+      "url": "/legajos/legajo-11/images/005:5097.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "004:5097.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-11/cartas/001237.json",
+  "primary_image_url": "/legajos/legajo-11/images/004:5097.JPG"
+}

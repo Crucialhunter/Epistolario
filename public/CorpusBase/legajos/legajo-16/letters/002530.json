@@ -1,0 +1,43 @@
+{
+  "legajo_id": "16",
+  "id_carta": "2530",
+  "order_in_legajo": 17,
+  "signatura": "024:2030a.JPG",
+  "nombre_carta": "Carta de Diego Matías de Aragüés a Pedro Santacilia y Pax",
+  "fecha_original": "8 de febrero de 1667",
+  "lugar": "Madrid",
+  "remitente": "Diego Matías de Aragüés",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Tengo avisado a v. s. como don Arnaldo Santacilia estaría poco por acá, porque el negocio llegó a tan buena sazón que ya está despachado bien, sólo se detiene para que el Consejo de Aragón le dé los despachos, estos subieran a firmar de la reina pasado mañana con orden que el señor virrey aprese cualesquiera embarcaciones genovesas se haya dado total satisfacción a v. s. y a los demás, y el Consejo de Estado con la misma resolución y orden que en Cadíz apresen cuatro navíos genoveses que están en aquella abadía, con que me prometo que para dice de este se podrá partir de aquí que se llevará las bulas de [?] y hija y las cuentas he querido dar a v. s. esta noticia con esta por Valencia. Los hados he Portugal dicen van bien y que se espera el ajuste de ellos muy a gusto y que están gustosos en Lisboa. Dios lo haga si conviene [1§] para su señor servicio y guarde a v. s. muchos años que sus manos besamos doña Magdalena y yo, con las de mi señora doña Lenor y los señores don Juan y don Nicolás. Madrid 8 Febrero 1668. Besa las manos de v. s., su mayor servidor, Diego Matias de Aragues V. s. me haga merced de mandar se remita esta carta al gobernador de Menorca. Señor don Pedro Santacilia y Pax Mi señor. Madrid. Diego Matias. 8 de febrero 1667. Respuestas 26 de dicho. Transcripción literal"
+  ],
+  "literal": [
+    "1. Tengo avisado a Vs. Como don Arnaldo 2. Sta Cilia estaria poco por aca porq 3. El negocio llego a tan buena saçon qya 4. esta despachado bien, solo sedetiene 5. paraq el Consso de Aragon lede los 6. despachos estos subieran afirmar de 7. la Reyna passado manana Conorden 8. q elsr Virrey apresse qualesquiera 9. embarcaciones Genovessas se haya 10. dado total satisfacion a Vs. yalos 11. demas, Yel Consso deestado Conla 12. misma resolucion. Yorden q en Cadíz 13. apresen quatro Navios Genovesses 14. q estan en aquella Avadia, conq 15. me prometo q para dize deste se 16. podra partir de aqui ^ [^ q sellevara las bullas de Pe y hija ylas qtas] He querido 17. dar a Vs. estanoticia conesta 18. por Valencia 19. Los hados e Portugal dizen ban 20. bien y q se espera el ajuste dellos 21. muy gusto Yq estan gustossos en 22. Lisboa. Dios lo haga su conviene [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "024:2030a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo16/024:2030a.JPG",
+      "url": "/legajos/legajo-16/images/024:2030a.JPG"
+    },
+    {
+      "filename": "025:2030b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo16/025:2030b.JPG",
+      "url": "/legajos/legajo-16/images/025:2030b.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "024:2030a.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (3)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-16/cartas/002530.json",
+  "primary_image_url": "/legajos/legajo-16/images/024:2030a.JPG"
+}

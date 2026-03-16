@@ -1,0 +1,43 @@
+{
+  "legajo_id": "5",
+  "id_carta": "520",
+  "order_in_legajo": 14,
+  "signatura": "16-8a copy",
+  "nombre_carta": "Carta de Junta Provincial del Censo de Población a Juan Burgues Zaforteza",
+  "fecha_original": "28 de diciembre de 1697",
+  "lugar": "Palma",
+  "remitente": "Junta Provincial del Censo de Población",
+  "destinatario": "Juan Burgues Zaforteza",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Junta provincial del censo de población. Baleares. De orden del señor gobernador, presidente, esta junta celebrará sesión el 30 del actual a las doce del día en el despacho de dicha autoridad para tratar asuntos relativos a la estadistica de vecindad [?] y censo de población. Lo que tengo el gusto de participar a v. s. para que se sirva concurrir a dicho acto. Palma, 28 de diciembre 1697. El vocal-secretario R. Fuster 2ª Convocatoria Señor D. Juan Burgues Zaforteza [1§] Señor D. Juan Burgues Zaforteza. J. Cotoner Transcripción literal"
+  ],
+  "literal": [
+    "1. Junta provincial del 2. Censo de poblacion. 3. Baleares. 4. De orden del Señor Gobernador 5. Presidente esta Junta celebrará 6. sesión el 30 del actual a las doce 7. 2ª Convocatoria del dia, en el despacho de dicha 8. autoridad para tratar asuntos 9. relativos a la estadistica de Vicindad [a?] 10. y Censo de poblacion. 11. Lo que tengo el gusto de participar 12. a V. para que se sirva 13. concurrir a dicho acto. 14. Palma, 28 de diciembre 1697 15. El Vocal-Secretario 16. R. Fuster [?] 17. Sr. D. Juan Burgues Zaforteza [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "16-8a copy.gif",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo05/16-8a copy.gif",
+      "url": "/legajos/legajo-05/images/16-8a copy.gif"
+    },
+    {
+      "filename": "17-8b copy.gif",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo05/17-8b copy.gif",
+      "url": "/legajos/legajo-05/images/17-8b copy.gif"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "16-8a copy.gif",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-05/cartas/000520.json",
+  "primary_image_url": "/legajos/legajo-05/images/16-8a copy.gif"
+}

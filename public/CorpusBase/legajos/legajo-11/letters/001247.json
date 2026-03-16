@@ -1,0 +1,43 @@
+{
+  "legajo_id": "11",
+  "id_carta": "1247",
+  "order_in_legajo": 16,
+  "signatura": "017:5107a.JPG",
+  "nombre_carta": "Carta de Francisco Gómez a Pedro Santacilia y Pax",
+  "fecha_original": "27 de febrero de 1643",
+  "lugar": "Ciutadella",
+  "remitente": "Francisco Gómez",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "La interpretación que v. s. da al humos del cabo de la pera se ha visto es muy adequada al intento que v. s. tiene de no partir de esa villa hasta saber de la llegada de mi Sra. doña Madalena [?] determitación de v. s. [?] y siguientes. Sea la primera porque siendo v. s. amante tan fino a cualquier era y aunque haga mal tiempo ha de querer partir volando. La segunda que se ha de cansar por llegar presto. La tercera que es Cuaresma y los manjares carecen de sustancia. La cuarta que después de llegado ha de ejecutar deuda de vida que todo junto para hombres de nuestra edad es poner en peligro la salud y así aconsejo @ v. s. se venga. Tres dias ha que se ven cinco naves que [?] fuerzaa ir hacia Mahón y el tiempo no les ha dado lugar, juzgan [?] de Balaguer serán cuatro y una más y sino serán ellas sens [?] [1§] para poder descansado entrar en la consumación del nuevo estado y dar cumplido gusto a mi Sra. doña Madalena en hallar a v. s. al pie de la obra y mostrar suma fineza y no el disgusto que recibirá en aguardar que quien espera desespera. Según tengo entendido, los jurados llevan mal que v. s. no esté aquí, más no habiendo ocupación ahí tan forsoza. Avise v. s. que el tiempo se pone bueno y que me [?] en jornada casera que en correr sobre peñascos. Antes que yo llegase ya Campins estaba fuera de la càrcel y así no hay que dispensar poque ese negocio y algún otro lo debe de estar. Guárdeme Nuestro Sr. a v. s. los muchos años de mi deseo. Ciudadela febrero 27 de 1643. Da. Catalina besa a v. s. las manos muchas veces está aguardando con alboroto. A la Sra. gobernadora para servirla. Francisco Gomez de la ganancia de los ciento de a ocho [?] doy a v. s. la enhorabuena. y de que le rueguen tengo làstima a los que pierden. Transcripción literal"
+  ],
+  "literal": [
+    "1. La interpretation q V.Sª da al humos 2. del Cabo de la pera se a visto es muy ade 3. quada al intento que V.Sª tiene de no 4. partir de essa villa hasta saber de la 5. llegada de mi Srª. doña madalena [?]6. [roto] determitation de V.Sª. [humedad] 7. y siguientes. 8. Sea la primera porque siendo V.Sª amante 9. tanfino a qualquiera era y aunque haga 10. maltiempo a de querer partir bolando. 11. La segunda que sea de cansar por llegar presto. 12. La tersera que es quaresma y lo, manjares 13. caresen de sustencia. 14. La quarta que despues de llegado a de execu 15. tar deuda de vida que todo junto para hom 16. bres de nuestra edad es poner en peligro la 17. salud y ansi aconsejo @ V.Sª se venga 18. [al margen izquierda][^Tres dias a que se ben sinco naves que [humedad] fuersa ir asia mahon y el tiempo 19. no les a dado lugar jusgan [humedad] de balaguer sieran quatro y 20. una mas y sino seran ellas sens [humedad] ^] [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "017:5107a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo11/017:5107a.JPG",
+      "url": "/legajos/legajo-11/images/017:5107a.JPG"
+    },
+    {
+      "filename": "018:5107b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo11/018:5107b.JPG",
+      "url": "/legajos/legajo-11/images/018:5107b.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "017:5107a.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-11/cartas/001247.json",
+  "primary_image_url": "/legajos/legajo-11/images/017:5107a.JPG"
+}

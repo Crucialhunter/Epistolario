@@ -1,0 +1,43 @@
+{
+  "legajo_id": "18",
+  "id_carta": "3065",
+  "order_in_legajo": 99,
+  "signatura": "163:4904a.JPG",
+  "nombre_carta": "Carta de Jerónimo Mancho a Pedro Santacilia y Pax",
+  "fecha_original": "15 de septiembre de 1663",
+  "lugar": "Madrid",
+  "remitente": "Jerónimo Mancho",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "mío la persona que dará a v. s. esta es el ayudante Gabriel Estrada, que ha servido su majestad como buen soldado en cuya consideración le ha hecho merced de cuatro reales al día en la fortificación de ese reino y porque como verá a v. s. se halla estropeado me ha pedido suplicase a v. s. que su puesto que hay diferentes puestos en dar de los sobrantes se ocupan se haya el de este sujeto en el [?] en donde podrá lograr el servir a su majestad sinquesele moleste haciéndole ir fuera de la ciudad y yo hago esta suplica con mucha confianza de que le he de merecer a v. s. este favor con los muchos que he recibido de hermano, que en mi quedará en recompensa el desear merecer a v. s. repetidos mandatos de sus servicios. Dios guarde a v. s. muchos años como deseo. Madrid a 15 de 7e 1663. Besa la mano de v. s. Su más reconocido ser Jeronimo Mancho Sr. don Pedro Santacilia y Pax [1§] go sactillva [?] [2§] Transcripción literal"
+  ],
+  "literal": [
+    "1. Sr mio la Persona que dara a VS. estaes el 2. Ayudante Gabriel Estrada, que ha servido Su M[a]gd 3. como buen soldado encuya consideracion le ha hecho 4. md de quatro Rs aldia en lafortificaçion de esse Reyno 5. y porque como vera V.S. se halla estropeado me ha 6. pidido suplicase a v.S. que supuesto que hay dife7. rentes puestos endarde los sobretantes se ocupan 8. sea el deeste sugeto enel Alnuedi [?] endonde podra lograr 9. el servir a Su M[a]gd sinquesele moleste haciendole 10. ir fuera dela Ciud y Yo hago esta suplica conmucha 11. confianza deque le he demerezer a V.S. este fabor 12. conlos muchos queherecivido de hermano, que enmí 13. quedira enrecompensa el desear merecer a V.S. repeti14. dos mandatos desus servos Diosgde a V.S. muchos años 15. como deseo md á 15 de 7e 1663 16. B l m de VS 17. Su mas reconocido ser 18. Geronymo Mancho 19. [margen izquierdo][^ Sr Don Po sta Cilia y Pax] [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "163:4904a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo18/163:4904a.JPG",
+      "url": "/legajos/legajo-18/images/163:4904a.JPG"
+    },
+    {
+      "filename": "164:4904b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo18/164:4904b.JPG",
+      "url": "/legajos/legajo-18/images/164:4904b.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "163:4904a.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-18/cartas/003065.json",
+  "primary_image_url": "/legajos/legajo-18/images/163:4904a.JPG"
+}

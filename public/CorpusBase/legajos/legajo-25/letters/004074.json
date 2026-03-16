@@ -1,0 +1,43 @@
+{
+  "legajo_id": "25",
+  "id_carta": "4074",
+  "order_in_legajo": 7,
+  "signatura": "014_108a.JPG",
+  "nombre_carta": "Carta de Miguel Malo a Jerónimo Pelegrín de Aragüés",
+  "fecha_original": "16 de febrero de 1667",
+  "lugar": "Madrid",
+  "remitente": "Miguel Malo",
+  "destinatario": "Jerónimo Pelegrín de Aragüés",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "He recibido dos de v. m. de 6 de enero y [?] que me huelgo que esté muy bueno y toda su casa, pero no he visto carta del Sr. Mateu Mestre en que envié al hijo que le ha de suceder y espero esto para sacar su despacho. El Sr. D. Miguel Salva hará su jornada por todo Abril no hay otro [?] y [?] fiscal será el Sr. Molina y en ese caso ya haremos que le favorezca a v. m. guarde Dios Madrid a 16 de febrero de 1667. Servidor de v. m. que sus manos besaMiguel Malo . Jeronimo Pelegrin y Aragues [1§] Madrid, Miguel Malo, de 16 Febrero 1667. Respuesta a 15 de marzo 1667 Transcripción literal"
+  ],
+  "literal": [
+    "1. He recevido dos de Vm de 6 de henº2. y [?] q me guelgo q este muy3. bueno y toda su cassa pero no he bisto4. carta del Sr. Matheu Mestre en q inbie5. al hijo q le a de suceder y espero esto6. pª sacar su despacho7. El Sr. D. Migl Çalba hara su jornada por8. todo Abril no ay otro [?] y [................]9. [............] El Sr. Molina y en ese caso ya10. haremos q le faboresca a Vm gde. Dios M[adri]d11. a 16 de febr[e]ro de 166712. Ser[vid]or de Vm q s.m.b.13. Miguel Malo14. Gerº Pelegrin y Aragues [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "014_108a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo25/014_108a.JPG",
+      "url": "/legajos/legajo-25/images/014_108a.JPG"
+    },
+    {
+      "filename": "015_108b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo25/015_108b.JPG",
+      "url": "/legajos/legajo-25/images/015_108b.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "014_108a.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (4)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-25/cartas/004074.json",
+  "primary_image_url": "/legajos/legajo-25/images/014_108a.JPG"
+}

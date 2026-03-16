@@ -1,0 +1,38 @@
+{
+  "legajo_id": "32",
+  "id_carta": "7027",
+  "order_in_legajo": 89,
+  "signatura": "002:1785.JPG",
+  "nombre_carta": "Carta de Jerónimo Pelegrín de Aragüés a Pedro Santacilia y Pax",
+  "fecha_original": "2 de enero de 1665",
+  "lugar": "Madrid",
+  "remitente": "Jerónimo Pelegrín de Aragüés",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "No habrán faltado políticos que habrán escrito a v. m. lo que sucedió las maitinas de Navidad en la Capilla Real entre los pajes del rey y entre ellos Sr. don Nicolas, su hijo, con don Juan Marañon ayudante de cámara que fueron unos empujones. El Sr. don Nicolás y dos camaradas suyos están presos, hasta ahora el castigo es el acustumbrado en la casa de los pajes, sino es que su majestad resuelva otra cosa. Estamos a la mira haber en que pasar este negocio y si pasa por muy [?] de todo se dará cuenta a v. m. para que con toda brevedad ordene lo que más conviene: Dios me guarde a v. m. muchos años como deseo y es menester Madrid 2 Enero 1665. Criado de v. m. Jeronimo Pelegrin Mi Sr. don Pedro. Transcripción literal"
+  ],
+  "literal": [
+    "1. Sr. no habran faltado Puliticos que habran escrito a V. M. lo que sucedio las maytinas de Navidad en la Capilla Real entre los pajes del Rey i entre ellos Don Nicolas su hijo. Con Don Juan Marañon ayuda de Camara que fueron unos empuxones al Sr. Don Nicolas y dos camaradas suios estan presos asta agora el castigo es el acustumbrado en la cassa de los pajes sino es que su Magd. resuelva otra cossa estamos a la mira haver en que pasar este negocio y si passa por mui [?] de todo se dara quenta a V. M. para que con toda brevedad ordene lo que mas conviene: Dios me guarde. a VM. muchos años como deseo y he menester Madrid 2 Henero 1665. Criado de VM Geronymo Pelegrin mi Sr. Don Pedro."
+  ],
+  "imagenes": [
+    {
+      "filename": "002:1785.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo32/002:1785.JPG",
+      "url": "/legajos/legajo-32/images/002:1785.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "002:1785.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (4)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-32/cartas/007027.json",
+  "primary_image_url": "/legajos/legajo-32/images/002:1785.JPG"
+}

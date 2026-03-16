@@ -1,0 +1,43 @@
+{
+  "legajo_id": "34",
+  "id_carta": "5027",
+  "order_in_legajo": 3,
+  "signatura": "088:6942a.JPG",
+  "nombre_carta": "Carta de Matías de Bayetola y Cavanillas a Pedro Santacilia y Pax",
+  "fecha_original": "23 de marzo de 1650",
+  "lugar": "Lugar sin especificar",
+  "remitente": "Matías de Bayetola y Cavanillas",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Sr. don Pedro de Santacilia Señor mío en otra o casión tengo escrito al Señor [?] de la paga de mi madre y sus hijos y [?] su majestad [?] que fuera más pagada la pensión en ese real patrimonio [?] no poderan dejar de le ju el que [?] de [?] le fue [?] y la que de d [?] aunque [?] tengo [?] buena naturalesa de [?] la de don layan a que su [?] quedado sino que lo de [?] en su me/ moría favoresiéndome con lo de [?] d [?] pericado que se me pague lo que [?] de la [?] de mi padre que [?] no lo [?] que [?] adelanta esta cobranza [?] [1§] [?] lo de estimación deseando que v. s. no emplee en cosas de su servicio. Guarde Dios av. s. los años que deseo en [?] de felicidad a [?] Marzo a 23 de 1650 besa av. s. su mo su mayor servidor don Matias de Bayetola y Cavanillas [?] lla [2§] Transcripción literal"
+  ],
+  "literal": [
+    "1. [capçalera] Sor Don Pedro Santa Cilia2. Señor mio en otra o casion tengo [escrito]3. al Se[ñor] [illegible] [illegible] de la paga de 4. mi Madre y sus hijos y [illegible] su Magd5. [illegible] [illegible] [illegible] que fuera [mas]6. [pagada] la [pension] en esse Real patrimonio7. [illegible] [illegible] no poderan dejar de [le ju] el [q]8. [illegible] de [illegible] [illegible] le fue [illegible]9. [illegible] y la que de d[illegible] [illegible] [illegible]10. aunque [illegible] tengo [illegible] [illegible]11. buena naturalessa de[illegible] lade [don]12. [layan] a que su [illegible] [illegible] [illegible]13. quedado [sino] que [ ] lo de [illegible] en su me/14. moria faboresiendome con lo [de] [illegible][d??]15. pericado que se me page lo que [illegible]16. [illegible] dela [illegible] [illegible] de [mi Padre]17. que [illegible] [illegible] [nolo] [illegible] [illegible] que18. [illegible] [illegible] [illegible] [illegible] adelanta19. [esta cobransa] [illegible] [illegible] [illegible]20. [illegible] [illegible] [illegible] [illegible] [illegible] [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "088:6942a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo34/088:6942a.JPG",
+      "url": "/legajos/legajo-34/images/088:6942a.JPG"
+    },
+    {
+      "filename": "089:6942b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo34/089:6942b.JPG",
+      "url": "/legajos/legajo-34/images/089:6942b.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "088:6942a.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-34/cartas/005027.json",
+  "primary_image_url": "/legajos/legajo-34/images/088:6942a.JPG"
+}

@@ -1,0 +1,43 @@
+{
+  "legajo_id": "6",
+  "id_carta": "667",
+  "order_in_legajo": 167,
+  "signatura": "253-129a",
+  "nombre_carta": "Carta de Pedro Rubio Benedicto y Herrero a Cecilia Zaforteza y Sureda de Sant Martí",
+  "fecha_original": "7 de febrero de 1778",
+  "lugar": "Madrid",
+  "remitente": "Pedro Rubio Benedicto y Herrero",
+  "destinatario": "Cecilia Zaforteza y Sureda de Sant Martí",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Muy Sra. mía, El buen olor de piedad y virtud con que v. s. edifica a Palma y a todo ese reino de Mallorca ha llegado a esta Corte y la ha reconocido con una satisfacción conforme a su corazón nuestro grande y piadoso monarca. Qué mucho será que siendo yo mayoral nombrado para ese rebaño me llene de júbilo y de particular consuelo por el que hallan en v. s. las que miro ya como mías, pobres y desvalidas huérfanas. Por el grande Dios a quien v. s. mira principalmente en sus obras de caridad, encarecidamente ruego a v. s. que no la hagan desmayar y aflojar las miserias y flaquezas que v. s. puede justamente anunciar y presentir de este nuevo pastor indigno de tan alto ministerio. Yo me alegrara ser un Sn. Jerónimo, ya que v. s., noble viuda mallorquina, imita tanto a otra sta. y noble viuda romana. Dios No. Sr. será el remunerador de todo, y si me concede v. m. lo que deseo y pido para su santo servicio, para consuelo de pobres y para satisfacción mía, guardará su vida muchos años Santiago de Madrid [1§] y febrero 7 de 1778. Beso las manos de v. s. Su más seguro servidor y capellán, Pedro Rubio Benedicto y Herrero. Señora Dña. Cecilia Zaforteza. Transcripción literal"
+  ],
+  "literal": [
+    "1. Muy Sra. Mia: el buen olor de piedad y virtud 2. con que V.S. edifica à Palma, y à todo ese Reyno de Ma- 3. llorca, ha llegado à esta Corte, y la ha reconocido con una 4. satisfaccion conforme à su corazon nuestro grande, y 5. piadoso Monarca. Que mucho serà, que siendo yo 6. Mayoral nombrado para ese Rebaño me llene de 7. Jubilo, y de particular consuelo, por el que hallan en 8. V.S. las que miro ya como mias pobres, y desbalidas 9. Huerfanas. Por el grande Dios à quien V.S. mira 10. principalmte en sus obras de caridad, encarecidamte 11. ruego à V.S. que no la hagan desmayar, y aflojar las 12. miserias, y flaquezas, que V.S. puede justamte anunciar, 13. y presentir de este nuebo Pastor indigno de tan alto Mi- 14. nisterio. Yo me alegrara ser un Sn. Geronimo, ya 15. que V.S. Noble Viuda Mallorquina imita tanto à otra 16. Sta. y noble Viuda Romana. Dios No. Sr. serà el 17. remunerador de todo, y si me concede V.M. lo q 18. deseo y pido, para su santo servicio, para con- 19. suelo de Pobres, y para satisfaccion mia guar- 20. darà su vida ms a< ño>s 21. Santiago de Ma- [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "253-129a.jpg",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo06/253-129a.jpg",
+      "url": "/legajos/legajo-06/images/253-129a.jpg"
+    },
+    {
+      "filename": "254-129b.jpg",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo06/254-129b.jpg",
+      "url": "/legajos/legajo-06/images/254-129b.jpg"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "253-129a.jpg",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-06/cartas/000667.json",
+  "primary_image_url": "/legajos/legajo-06/images/253-129a.jpg"
+}

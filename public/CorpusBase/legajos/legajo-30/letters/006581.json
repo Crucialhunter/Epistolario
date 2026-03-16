@@ -1,0 +1,38 @@
+{
+  "legajo_id": "30",
+  "id_carta": "6581",
+  "order_in_legajo": 130,
+  "signatura": "070:5419.JPG",
+  "nombre_carta": "Carta de Pere Maltès a No consta - Probablemente Pedro Santacilia y Pax",
+  "fecha_original": "24 de abril de 1644",
+  "lugar": "Mallorca",
+  "remitente": "Pere Maltès",
+  "destinatario": "No consta - Probablemente Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Així que so arribat en esta vila, he anat a parlar amb lo patró de la sagetia genovesa que he trobada en es port, i sens dar-hi a li entenent per què causa és mon viatge, me som concertat de pasar amb la sua barca. Entenc que faré monegots prest i bé, volent Déu, el qual a v. sria. guarde. De Mao, a 24 abril 1644. Pere Maltes [1§] Transcripción literal"
+  ],
+  "literal": [
+    "1."
+  ],
+  "imagenes": [
+    {
+      "filename": "070:5419.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo30/070:5419.JPG",
+      "url": "/legajos/legajo-30/images/070:5419.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "070:5419.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-30/cartas/006581.json",
+  "primary_image_url": "/legajos/legajo-30/images/070:5419.JPG"
+}

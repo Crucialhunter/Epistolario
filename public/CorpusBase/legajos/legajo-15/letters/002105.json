@@ -1,0 +1,48 @@
+{
+  "legajo_id": "15",
+  "id_carta": "2105",
+  "order_in_legajo": 2,
+  "signatura": "003:6328a",
+  "nombre_carta": "Carta de condesa de Zavellá a Persona desconocida",
+  "fecha_original": "29 de abril de 1629",
+  "lugar": "Barcelona",
+  "remitente": "condesa de Zavellá",
+  "destinatario": "Persona desconocida",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Ja veig que v. m. té molta raó de queixar-se de mi, més moltes voltes l'he tenguda de queixar-me de v. m., i així estarem cabals. Mes v. m., que està en altra, té molta més obligació d'escriure'm, que, per una carta mia, {ESP. al menos} m'ha de fer mitja dotzena, que eixa [?] dels falcons és propicia per a dictar cartes. És veritat que estic en aquell punt en què poques coses me consolarien, perquè la mia [?] s'en va a Andalusia. Prou fora estat raó que v. m. m'ho hagués escrit això. Ella me promet en sa carta que per l'octubre tornarà de cert. No sé si m'ho crega. V. m. sia explorador cert i escriga-m'ho. Li assegur que no hi puc fer més. Ja sé que s'ha de riure de mi perquè conec l'humor. Jo m'imaginava que, com que el comte morí, mai pus havia de saber qué cosa era voler bé a ningú i ara esta dona no sé que s'ha fet que em té mig guanyada la voluntat. I m'havia restada una altra particularitat, com v. m. sap, que no em dolia ningú. Encara que se n'anés mare o fills, sols d'esta dona m'estar, que gustaria de perpetuitzar-la en la terra que jo hauria d'esser. No se'm dóna res que li diga totes estes coses, i respondre'm el que li diga. I perdon-m'hi si el faig tercer, que d'estes terceries no s'hauria de confessar. Jo faig comptes aquest estiu de passar-lo a Sevilla, si Déu se servit, que mon germà m'ho aconsella molt i n'hi ha necessitat. Voldria que Bernat Ferra pugués venir, que em seria de molt servei, i així v. m. li diga que l'avisaré vuit dies {ESP. antes} que partesca. De la seva germana, senyora Joana, tinc una carta, que desitja summament que v. m. {ESP. assenti} els seus negocis. Ja li he escrit que v. m. era home que desitjava fer bondat, que jo confiava se n'havia de veure en gran {ESP. contento}, vulgui-ho Nostre Senyor. Així que no em guanyava ella en desitjar tot bon succés a v. m. És veritat que, doncs no sé res què fer, no li perdonaré si no m'escriu molt amenat. Eixes cartes que van per una cunyada, procuri encaminar-les. Guardi Nostre Senyor a v. m., com jo desitj. Barcelona, 29 d'abril 1629. La comtessa de Zavella. Transcripción literal"
+  ],
+  "literal": [
+    "1. Ja veig que V.M. te molta rao de2. quexarse de mi, mes moltas vol3. tas lahetenguda da quexarmede4. V.M. yaxi estarem cabals. Mes5. V.M. questa en altra te molta mes6. obligacio deescriurem queper una7. carta mia al menos crehadefer mitja8. dotzena, que exa sinc dels falcons(^no)9. es propia mia dictar cartes es veri10. tat questich en aquell punt que pocas11. cosas que aconsolarian perque la mia12. covadella sen va, a Andalusia, prou13. fora estat rao queV.M. mohagues14. escrit aso: ella mepromet ensa carta15. que per lo (^oct) octubre tornara de cert16. no se simò crega V.M. sia explorador17. cert y escrigamo, queli asegur que18. noi puch fer mes jasequeseha de19. riura de mi perqué conex lo humor20. Jo me imaginava que com lo compte21. mori mai pus havia desaber que cosa22. exa volerbe a ningu, yhaxa esta [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "003:6328a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo15/003:6328a.JPG",
+      "url": "/legajos/legajo-15/images/003:6328a.JPG"
+    },
+    {
+      "filename": "004:6328b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo15/004:6328b.JPG",
+      "url": "/legajos/legajo-15/images/004:6328b.JPG"
+    },
+    {
+      "filename": "005:6328c.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo15/005:6328c.JPG",
+      "url": "/legajos/legajo-15/images/005:6328c.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "003:6328a.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-15/cartas/002105.json",
+  "primary_image_url": "/legajos/legajo-15/images/003:6328a.JPG"
+}

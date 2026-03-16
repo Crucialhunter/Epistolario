@@ -1,0 +1,43 @@
+{
+  "legajo_id": "32",
+  "id_carta": "7033",
+  "order_in_legajo": 27,
+  "signatura": "011:1791a",
+  "nombre_carta": "Carta de Persona desconocida a Persona desconocida",
+  "fecha_original": "2 de enero de 1664",
+  "lugar": "Mallorca",
+  "remitente": "Persona desconocida",
+  "destinatario": "Persona desconocida",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Â [1§] Â [2§] Transcripción literal"
+  ],
+  "literal": [
+    "1. 1."
+  ],
+  "imagenes": [
+    {
+      "filename": "011:1791a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo32/011:1791a.JPG",
+      "url": "/legajos/legajo-32/images/011:1791a.JPG"
+    },
+    {
+      "filename": "012:1791b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo32/012:1791b.JPG",
+      "url": "/legajos/legajo-32/images/012:1791b.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "011:1791a.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (6)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-32/cartas/007033.json",
+  "primary_image_url": "/legajos/legajo-32/images/011:1791a.JPG"
+}

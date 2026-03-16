@@ -1,0 +1,38 @@
+{
+  "legajo_id": "27",
+  "id_carta": "4573",
+  "order_in_legajo": 44,
+  "signatura": "077:4382",
+  "nombre_carta": "Carta de Diego de Rocabertí a Persona desconocida",
+  "fecha_original": "13 de junio de 1629",
+  "lugar": "Barcelona",
+  "remitente": "Diego de Rocabertí",
+  "destinatario": "Persona desconocida",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "En Recasens son [?] de secretari de dona Ana amb una carta que envií a v. m., de maig en avall escriguí de bon seny no tinc resposta de v. m. i desitjo saber si refà el negoci dels doblers de Barcelona i de quanta quantitat s'és feta la pòlissa sobre de la forma en blanc. Déu guardi v. m. en Barcelona i juny a 13 de 1629. Don Diego de Rocaberti Transcripción literal"
+  ],
+  "literal": [
+    "1. En requesens [son?] de secretari de doña Ana2. abuna carta que envy a V.m., de matx en avall3. escrigui de bon seny no tinch resposta de v.m. yde/4. sijosaber si refa lo negosi dels dobers de barcelona yde5. quanta cantitat se es feta la polisa sobre de la forma6. enblanch deu gde v.m. en Pra Juny a 13 de 16297. [8, signatura] Vm diego de8. [9, signatura] Rocaberti [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "077:4382.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo27/077:4382.JPG",
+      "url": "/legajos/legajo-27/images/077:4382.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "077:4382.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-27/cartas/004573.json",
+  "primary_image_url": "/legajos/legajo-27/images/077:4382.JPG"
+}

@@ -1,0 +1,78 @@
+{
+  "legajo_id": "5",
+  "num_cartas": 16,
+  "num_imagenes": 36,
+  "rango_temporal": [
+    1559,
+    1715
+  ],
+  "remitentes_frecuentes": [
+    {
+      "name": "Pedro Antonio Zaforteza",
+      "count": 4
+    },
+    {
+      "name": "No consta",
+      "count": 3
+    },
+    {
+      "name": "Mateu Tagamanent Forteza",
+      "count": 3
+    },
+    {
+      "name": "Juan Riera",
+      "count": 1
+    },
+    {
+      "name": "Junta Provincial del Censo de Población",
+      "count": 1
+    }
+  ],
+  "destinatarios_frecuentes": [
+    {
+      "name": "Persona desconocida",
+      "count": 6
+    },
+    {
+      "name": "No consta",
+      "count": 3
+    },
+    {
+      "name": "Diego Sarmiento de Valladares",
+      "count": 3
+    },
+    {
+      "name": "Carlos II",
+      "count": 1
+    },
+    {
+      "name": "Lleonard Zaforteza",
+      "count": 1
+    }
+  ],
+  "lugares_frecuentes": [
+    {
+      "name": "Mallorca",
+      "count": 12
+    },
+    {
+      "name": "Palma",
+      "count": 1
+    },
+    {
+      "name": "Madrid",
+      "count": 1
+    },
+    {
+      "name": "lugar sin especificar",
+      "count": 1
+    },
+    {
+      "name": "Sóller",
+      "count": 1
+    }
+  ],
+  "temas_frecuentes": [],
+  "warnings_count": 3,
+  "densidad_narrativa_estimada": "Media"
+}

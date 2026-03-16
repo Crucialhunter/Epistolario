@@ -1,0 +1,38 @@
+{
+  "legajo_id": "33",
+  "id_carta": "4931",
+  "order_in_legajo": 122,
+  "signatura": "186:6847.JPG",
+  "nombre_carta": "Carta de Enrique de Aragón (VI duque de Cardona) a Pedro Santacilia y Pax",
+  "fecha_original": "25 de agosto de 1633",
+  "lugar": "Lucena",
+  "remitente": "Enrique de Aragón (VI duque de Cardona)",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "con cuatro cartas me hallo de v. m. dos de 31 de Julio y dos de 3 y 5 de este, y paréceme muy bien la resolución con que v. m. quedaba de responder tan ajustadamente a sus obligaciones, y así espero me avise v. m. como cami na a la Alacia con todo lo que por allá se ofreciere y no dudo deseara v. m. siempre hacerme merced, pues así lo tengo experimentado y visto y v. m. lo que le amo, a don Pedro Pardo acudiré en cuanto se le ofe ciere que basta ser amigo de v. m. para que en cuanto se pudiere halle la acogida que es rason, Guarde Dios a v. m. como deseo, Barcelona a 25 Agosto 1633 Toda la sigurydad que v. m. tyene de mi la ha de hallar ser tísima siempre [?] Sr. D. Pedro Santacilia [1§] Transcripción literal"
+  ],
+  "literal": [
+    "1. Con quatro cartas me hallo de V.m. dos de 31 de2. Julio y dos de 3 y 5 deste, y pareçeme muy bien la3. resoluçion con q V.m. quedava de responder tan ajustadamte4. a sus obligaciones, y assi espero me avise V.m.como cami5. na a la Alacia con todo lo que por alla se offreçiere6. y no dudo deseara V.m. siempre hacerme m[e]rc[e]d, pues assi7. lo tengo esperimentado y visto y V.m. lo que le amo,8. A Don Pedro Pardo acudire en quanto se le offe9. çiere que basta ser amigo de V.m. para q en quanto10. se pudiere halle la acogida que es rason, Guarde11. Dios a V.m. como deseo, Bar[celon]a a 25 Agosto 163312. Toda la sygurydad que Vmm.13. tyene de my la a de allar çer14. tysyma syenpre15. [?]16. [?]17. Sr. D. Pedro Santiçilia [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "186:6847.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo33/186:6847.JPG",
+      "url": "/legajos/legajo-33/images/186:6847.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "186:6847.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-33/cartas/004931.json",
+  "primary_image_url": "/legajos/legajo-33/images/186:6847.JPG"
+}

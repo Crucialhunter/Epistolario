@@ -1,0 +1,38 @@
+{
+  "legajo_id": "15",
+  "id_carta": "2107",
+  "order_in_legajo": 5,
+  "signatura": "008:6330.JPG",
+  "nombre_carta": "Carta de comte de Perelada i marquès d'Anglesol a Pedro Santacilia y Pax",
+  "fecha_original": "7 de mayo de 1629",
+  "lugar": "Barcelona",
+  "remitente": "comte de Perelada i marquès d'Anglesol",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Anit escriguí a la comtessa i a v. m. ben llarg i [?] he donat el plec a un pas [sec] del bisbe que va a servir a don Pedro d'Aragó a la jornada. Si no las han rebudes, [?] les a cercar cap a uns que ens voldria que me'l suplicassin, que ara me pened, com no la he donada al donador. {ESP. Devia} tornar, de va en elles carta [?] senyor don Francisco i noves aquí té v. m., cartes de Mallorca; que Berenguer i una que va a l'escà [?], donà v. m. la inclusa. Avui he parlat amb el bisbe sobre el de Ramona [?]. Està bé en la materia i duc i duquessa li enviaven. Esos senyors sé que van i s'hagi dat crèdit aval, i no tenen de què pus jornaler. Don Lluis i [?] i Montserrat Ramon han vist els papers del comte [?] per escriure-ns, informar en sa casa, i dir a ell per Saboia, que el bat els havia portats allí, obtinguda primer llicència del duc per abocar-lo. Guarda Déu a v. m. Barcelona, els 7 de maig, 1629. El comte de Perelada. Transcripción literal"
+  ],
+  "literal": [
+    "1. Anit escrigui a la Comtesa y a V.M. ben 2. llarch y deustat he donat lo plech 3. a un pasic delbisba q va aservir, a, 4. don pedro de arago ala jornada 5. sinolaian reduidas enujalas asercar 6. capuns q no voldria q mal suplicasan 7. que ara me penet com nola he 8. donadas al donador devia torna 9. de va en ellas carta[?] 3/1 Ço Sor 10. donfrancisco i novas aquí te V.M.11. Cartas de Mallorca q berenguer12. i una q va alesca, dona V.M. la13. inclusa. Vui he parlat ablo bisbe14. sobre lo de ramone esta be enla15. materia i duch i duquesa li envia16. ven essos Sors sequeven17. i Se aia dat credit aval i notenen deque18. pus jornaler, Don lluis, i vinies. 19. i Monserrat ramon avem vin 20. los papes del Conde derill p escriu21. rens informar ensacasa i dia22. ell p Saboia q[u]e lo abat los savia portats allí obtinguda primer 23. lisentía del duch. p asvocarlo guardedeu a V.M. Barcelona24. als 7 de Matx 1629.25. Lo Comte de Peralada [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "008:6330.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo15/008:6330.JPG",
+      "url": "/legajos/legajo-15/images/008:6330.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "008:6330.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-15/cartas/002107.json",
+  "primary_image_url": "/legajos/legajo-15/images/008:6330.JPG"
+}

@@ -1,0 +1,42 @@
+{
+  "legajo_id": "40",
+  "id_carta": "5752",
+  "order_in_legajo": 64,
+  "signatura": "307:104a",
+  "nombre_carta": "Carta de Persona desconocida a Persona desconocida",
+  "fecha_original": "fecha sin especificar",
+  "lugar": "Mallorca",
+  "remitente": "Persona desconocida",
+  "destinatario": "Persona desconocida",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Compte de mestre Anton. Verdum, picapedrer de l'escarada té en la casa del Mercat, de fer les voltes i assentar les [?] per preu de 85 lliures [1§] Transcripción literal"
+  ],
+  "literal": [
+    "1. Compta de Mestre Antt. Berdum Picapedrer de la esquerada te en la cassa del Mercat de fer las boltas y asentar las connas per preu de 85 Ll"
+  ],
+  "imagenes": [
+    {
+      "filename": "307:104a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo40/307:104a.JPG",
+      "url": "/legajos/legajo-40/images/307:104a.JPG"
+    },
+    {
+      "filename": "308:104b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo40/308:104b.JPG",
+      "url": "/legajos/legajo-40/images/308:104b.JPG"
+    },
+    {
+      "filename": "309:104c.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo40/309:104c.JPG",
+      "url": "/legajos/legajo-40/images/309:104c.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "307:104a.JPG",
+  "warnings": [],
+  "raw_source": "raw/legajos/legajo-40/cartas/005752.json",
+  "primary_image_url": "/legajos/legajo-40/images/307:104a.JPG"
+}

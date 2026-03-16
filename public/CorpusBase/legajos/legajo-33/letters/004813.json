@@ -1,0 +1,38 @@
+{
+  "legajo_id": "33",
+  "id_carta": "4813",
+  "order_in_legajo": 8,
+  "signatura": "007:6729.JPG",
+  "nombre_carta": "Carta de Agustí Ferrer a Pedro Santacilia y Pax",
+  "fecha_original": "14 de mayo de 1627",
+  "lugar": "Girona",
+  "remitente": "Agustí Ferrer",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Per acompanyar lo canonge, aní a Barcelona, a on hem estat vuit dies, i per estar lo portador d'esta, que és un capellà d'aquí, no puc ser llarg en avisar a v. m. de lo que ha passat per allà. Sols diré que amb lo meu vici he tinguts famosos verbals a sa pròpia casa de les quatre fins les sis, que hi havia d'escombrar. Estaven molt anugat i ha tingut per molta conveniència lo ser jo anat. V. m. ja veurà amb les dos cartes sues que van aquí el que passa. Tenc molt gran desig se veure'l tenint ocasió escriure més llarg. Si cosa s'oferex, jo estic com sempre [?] folguem de que se faci comparació personal. Pluga a Nostro Senyor sia prompte a on tant ho desitgen, i a v. m. guardi com pot els anys que jo desitge. De Girona, i maig als 14 de 1627. Criat de v. m. Agusti Ferrer, prevere. Senyor don Pedro Santacilia i Pax [1§] Transcripción literal"
+  ],
+  "literal": [
+    "1. Per aconpanyar lo canonge ani a Barcelona ahont2. avem estat vuyt dias, y per estar lo portador desta3. ques hun capellà de aqui no puch ser llarch en4. avisar a V.m. de lo que ha passat per alla sols5. dire que ab lo meu visi he tinguts famosos6. verbals a sa propia casa de les quatre fins7. les cis quey avia de ascombra estaven molt8. anugat y ha tingut per molta conveniencia9. lo ser jo anat V.m. ja veura ab les dos cartes10. sues que van aqui lo que pasa tes molt11. gran (^??) se veurel tenint ocasio escriure mes12. llarch si cosa se oferex jo estich com sempre13. folgem de que se fasa comparacio personas14. prega a nostro señor sia prompta ahont tant ho15. desigen y a V.m. guarde com pot los anys que16. jo desiga de Girona, y maig als 14 de 162717. Criat de V.m18. Agusti ferrer pre[vere]19. Señor don Pedro Sta. Cilia y Pax [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "007:6729.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo33/007:6729.JPG",
+      "url": "/legajos/legajo-33/images/007:6729.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "007:6729.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-33/cartas/004813.json",
+  "primary_image_url": "/legajos/legajo-33/images/007:6729.JPG"
+}

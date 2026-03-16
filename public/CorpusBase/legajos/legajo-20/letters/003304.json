@@ -1,0 +1,38 @@
+{
+  "legajo_id": "20",
+  "id_carta": "3304",
+  "order_in_legajo": 178,
+  "signatura": "350:6085.JPG",
+  "nombre_carta": "Carta de José Balell a Leonor Santacilia i Despuig",
+  "fecha_original": "16 de febrero de 1669",
+  "lugar": "Barcelona",
+  "remitente": "José Balell",
+  "destinatario": "Leonor Santacilia i Despuig",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Sra. Dña. Leonor de Santacilia Despuig mi Sra. Aunque este correo no he tenido cartas del Sr. D. Pedro. mi Sr. para v. s. ni de v. s. para su Sra. con tres embarcaciones que ha habido esta semana y con la ocasión de este pasaje no he querido excusarme con su [?] de besar la mano a v. s. como criado suyo de que me precio y darle noticia que el Sr. D. Pedro y el Sr. D. Nicolas mis amos están buenos, gracias a Dios, y que la pretensión está en muy buen estado y que saldrá antes de la Cuaresma. Esto puedo decir a v. s. por ahora y que continuaré las noticias que tuviere como a [?] ilustrísima [?] casa. Suplico a v. s. [?] perdonarme y mandarme pues ya ve no puedo faltar al menor servicio sin [?] de v. s., cuya vida guarde Nro. Sr. muchos años como puede [?] y es menester en compañía de cuanto quiere y merece. Barcelona y febrero 16 de 1669. Cierto criado de v. s. que sus manos besa Josep Balell Transcripción literal"
+  ],
+  "literal": [
+    "1. Sa. d Leonor de Sta. Cilia Despuch mi sa. 2. Aunque este correo no he tenido 3. cartas del Sr. D. Po. mi Sr. pa VS ni 4. de VS pa su Sa. con tres embarcacio- 5. nes que ha havido esta senma- 6. na y con la ocasion deste pasaje 7. no he querido escusarme con su 8. [?] de besar la mano a VS 9. como criado suio de que me pre- 10. cio y darle noticia que el Sr. D 11. Po[?] y el Sr. D Nicolas mis Amos 12. estan buenos gracias a Dios. y 13. que la pretension esta en mui 14. buen estado y que salira[?] antes 15. de la quaresma esto puedo dezir[?] 16. a VS por agora y que continua- 17. re las noticias que tuviere co- 18. mo a [?][?] 19. Illsma[?] casa. Supp[li]co a VS [?] 20. [?] Perdonarme y Man- 21. darme pues ya ve no puedo 22. faltar al mor servicio sin 23. [?] de VS cuia Bida gde 24. nro Sr. ms a< ño>s como puede[?][?] [3425. y he menester en compa de qto[?] 26. quiere. y merece Barcelona y 27. febo 16 de 1669 28. Çierto criado de VS q s m b 29. Joseph Balell[?] [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "350:6085.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo20/350:6085.JPG",
+      "url": "/legajos/legajo-20/images/350:6085.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "350:6085.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-20/cartas/003304.json",
+  "primary_image_url": "/legajos/legajo-20/images/350:6085.JPG"
+}

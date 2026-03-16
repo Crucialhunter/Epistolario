@@ -1,0 +1,38 @@
+{
+  "legajo_id": "20",
+  "id_carta": "3192",
+  "order_in_legajo": 67,
+  "signatura": "084:5973.JPG",
+  "nombre_carta": "Carta de Jaume Fornés a Pedro Santacilia y Pax",
+  "fecha_original": "30 de diciembre de 1663",
+  "lugar": "Muro",
+  "remitente": "Jaume Fornés",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Mi senyor per en Pere, mon fill he sabudes noves de la salut de vostra senyoria, que em folga moltíssim, i m'ha dit que vostra senyoria li ha dit el poltró qué val i que ell vol per altri, i jo sempre he fet compte que servís per vostra senyoria, o, per son fill, i així si vostra senyoria ell vol per altri jo estic molt content que vostra senyoria faci el negoci a son gust i si ha de ser per a vostra senyoria facin a son gust que ja ell té i no més, i Nostre Senyor el guardi com pot i desitja i Muro als 30 setembre 1665. Pere Fornes, criat de vostra senyoria A mi senyor don Pedro Santacilia, que Déu guardi Ciutat Transcripción literal"
+  ],
+  "literal": [
+    "1. Mi señor 2. p en pere mon fill e sabud es[?] noves de 3. la salut de vose señoria de que en folga 4. moltisim, y me a dit que vose señoria li a 5. dit al [?] que val y que ell vol p 6. altri, y jo sempre e fet comta que servis 7. p vose señoria, o, p son fill, y anxi[?] si vose 8. señoria ell vol p altri jo estinc[?] molt conte- 9. nt que vose señoria fase[?] el nagosi a son gust 10. y si a de ser p vose señoria fasen a son gust 11. que ja ell te y no mes y nostro señor lo gde 12. com pot y desitge y muro als 30. fbre 13. 1665 14. pere fornes criat de vose 15. señoria 16. A. mi señor don pedro 17. S.t sesili que deu gde 18. Ciutat [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "084:5973.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo20/084:5973.JPG",
+      "url": "/legajos/legajo-20/images/084:5973.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "084:5973.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-20/cartas/003192.json",
+  "primary_image_url": "/legajos/legajo-20/images/084:5973.JPG"
+}

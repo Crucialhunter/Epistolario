@@ -1,0 +1,32 @@
+{
+  "legajo_id": "26",
+  "id_carta": "4500",
+  "order_in_legajo": 2,
+  "signatura": "348:3595",
+  "nombre_carta": "Carta de Persona desconocida a Persona desconocida",
+  "fecha_original": "fecha sin especificar",
+  "lugar": "lugar sin especificar",
+  "remitente": "Persona desconocida",
+  "destinatario": "Persona desconocida",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "La imatge és poc nítida. Cal repetir foto. [1§] Transcripción literal"
+  ],
+  "literal": [
+    "1. La imatge és poc nítida. Cal repetir foto."
+  ],
+  "imagenes": [
+    {
+      "filename": "348:3595.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo26/348:3595.JPG",
+      "url": "/legajos/legajo-26/images/348:3595.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "348:3595.JPG",
+  "warnings": [],
+  "raw_source": "raw/legajos/legajo-26/cartas/004500.json",
+  "primary_image_url": "/legajos/legajo-26/images/348:3595.JPG"
+}

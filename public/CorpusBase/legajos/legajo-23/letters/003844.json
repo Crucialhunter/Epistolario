@@ -1,0 +1,38 @@
+{
+  "legajo_id": "23",
+  "id_carta": "3844",
+  "order_in_legajo": 99,
+  "signatura": "183:3257.JPG",
+  "nombre_carta": "Carta de Bartolomé Mercadal a Pedro Santacilia y Pax",
+  "fecha_original": "18 de agosto de 1655",
+  "lugar": "Ciutadella",
+  "remitente": "Bartolomé Mercadal",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Senyor procurador reial Tinc Rebut la de v. s. de 8 d'aquest mes amb l'estimació que dec, per saber {ESP. goza} bona salut. Déu Nre. Sr. la hi conservi i augmenti com jo li suplico i necessito. Mai he pogut dubtar de la voluntat de v. s. quant en tinc fet tanta experiència i tots mos {ESP. ascensos} i honres amb firma sua, la qual beso dues mil vegades amb confiances iguals a la il·lustre sang i pit generós en què v. s. empara a sos aficionats servidors etts. Si v. s. s'és confessat i està absolt dels pecats que li ocasionaven aquelles {ESP. rumbantes} de Madrid farà bé en ocultar el defecte de les parts, fos cas del governador i tractar de casar-lo amb bona {ESP. moza}, que d'esta manera serà matèria per l'absolució. El pobre cavaller viu tan disgustat i sol que necessito de companyia, quant antes serà millor. En raó de mon ofici no tinc novetat de què avisar a v. s. sinó suplicar-lo em tingui en sa gràcia i m'ordeni el que sia de son servei. Déu Nostre Sr. me guardi a v. s. com pot i tinc menester. Ciutadella i agost 18 de 1655. Don Bartomeu Mercadal Transcripción literal"
+  ],
+  "literal": [
+    "1. Señor Por Real2. Tinch Rebut la de VS. de 8. de aquest mes 3. ab la estimacio que dech, per seber goza bona4. çalut, Deu N. Sor. ley conserve y aument com yo 5. li sup[li]co y nesecito= May he pogut duptar de la6. voluntad de VS. quant ne tinch fet tanta as7. periencia y tots mos asenços y honrres ab firma8. sua, le qual beso dos mil vegadas ab confianças9. iguals a la Iltre. sanch y pit generos en que10. VS. ampara a sos aficionats servidos etts.11. Si VS. ses confesat y esta absolt de los pecats que12. li ocasionaven aquellas rumbantes de Madrid13. fera be en ocultar el defecta de las parts fos 14. cas del Gdor y tractar de casarlo ab bona mo15. ça, que desta manera sera materia per16. la absolucio. el Pobre Cavaller viu tan dis17. gustat y sol que nesecito de Compañya, quant 18. antes sera millor=19. En raho de mon oficy no tinch novedad de20. que avisar a VS. sino suplicarlo em tingua21. en se gracia y me orden lo que sia de son servey22. Deu N Sor me Gde a VS com pot y tinch menester23. Ciutadella y Agost 18 de 165524. Don Bartth Mercadal [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "183:3257.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo23/183:3257.JPG",
+      "url": "/legajos/legajo-23/images/183:3257.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "183:3257.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-23/cartas/003844.json",
+  "primary_image_url": "/legajos/legajo-23/images/183:3257.JPG"
+}

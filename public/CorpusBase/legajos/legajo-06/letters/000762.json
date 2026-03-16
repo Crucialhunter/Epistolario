@@ -1,0 +1,48 @@
+{
+  "legajo_id": "6",
+  "id_carta": "762",
+  "order_in_legajo": 25,
+  "signatura": "450-223a",
+  "nombre_carta": "Carta de Sor Elizabet a Cecilia Zaforteza y Sureda de Sant Martí",
+  "fecha_original": "fecha sin especificar",
+  "lugar": "lugar sin especificar",
+  "remitente": "Sor Elizabet",
+  "destinatario": "Cecilia Zaforteza y Sureda de Sant Martí",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Ave Maria Puríssima Avui als 19 d’abril. Caríssima germana espiritual en Crist Jesús: de part de la mare priora i de tota la comunitat, en particular les més malaltisses, totes se posen rendides als seus peus i a la seva obediència, fent-li les gràcies de tot en particular del moltó de nòstrom pare amantíssim, que per nosaltres ha fet tant i fa, crega, que per nosaltres mai serà pesat, perquè sempre el tenim present i tota la nostra vida sempre el comanarem a Déu i a v. m. també pel que coopera per estes miserables. {ESP. Querida} germana, li tenc de demanar caritat que ha de servir per al nostre espòs i nostra mare, una devota persona m’ha feta almoina de dues canes de roba com la mostra i també dos trossos de randa fina, [1§] que la randa que mos han enviada basta per uns camis bons, perquè no n’hi ha i si ve algun canonge estam en corregudes. Ara li suplicam si mos pot enviar la roba qui mos falta qui es tres canes, perquè ja en tenim dues i els camis han menester cinc canes. Si mos pot fer esta caritat, quan m’enviarà la roba els tallarem i li farem un dotzenari a l'esperit sant, perquè li comuniqui el seu amor i tots els seus dons. I si vol més ultra del que li faig cada dia en comunitat, ho dirà que jo no faré cas de desramar la meva sang per v. m., per esta caritat que em farà en el meu espòs i a nostra mare, però si no pot, m’ho enviarà a dir pel senyor dr. Lledó si v. m. no vol escriure, i jo buscaré mon remei. La roba ha de ser com la mostra: totes acompanyam l’alegria de la meva germana dels seus fills i ningun dia mos oblidam [2§] (^si pot i vol) d'ells en comunitat i també en particular i de totes v. m. i del germà totes per caritat els suplicam el {ESP. mismo} i si som bones en res avisen que estam totes promptes per a servir-les. De part de la superiora sor Maria Antònia, sor Maria Paula, molts de {ESP. recaudos} a totes. V. m. perdoni i si pot m’ho enviarà prestet, perquè les mostres les donarem a fer i jo cosiré els camis._ El Senyor mos don el seu amor i gràcia_ La seva germana qui tant l’ama en el Senyor. Transcripción literal"
+  ],
+  "literal": [
+    "1. Ave Maria P<uríssi>ma 2. Vuy als 3. 19 de bril 4. Charissima jermana aspiri- 5. tual en Christo Jesus de part 6. de la mara priora y de tota 7. la comonidad en perticular 8. las mes melaltisas totas se posan 9. rendidas a los seus peus y a la 10. sua obediencia fenli las gra- 11. cias de tot en perticular del 12. moltó de nostrom para amenti- [23 ]13. sim que per nosaltras a fet 14. tant y fa crega que per no- 15. saltras may sera pesat perque 16. sempra al tenim present y 17. tota la nostra vida sempra 18. al comenerem a Deu y a V.M. 19. tanbe per lo que coopera per es- 20. tas miserables: {esp.} carida jer- 21. mana li tench de demanar 22. caritat qui a de servi per al 23. nostro aspos y nostra mara 24. una devota presona mo á 25. feta almoyna de duas ca- 26. nas de roba com la mostra 27. y tanbe dos trosos de randa fi- 28. na [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "450-223a.jpg",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo06/450-223a.jpg",
+      "url": "/legajos/legajo-06/images/450-223a.jpg"
+    },
+    {
+      "filename": "451-223ba.jpg",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo06/451-223ba.jpg",
+      "url": "/legajos/legajo-06/images/451-223ba.jpg"
+    },
+    {
+      "filename": "451-223bb.jpg",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo06/451-223bb.jpg",
+      "url": "/legajos/legajo-06/images/451-223bb.jpg"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "450-223a.jpg",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-06/cartas/000762.json",
+  "primary_image_url": "/legajos/legajo-06/images/450-223a.jpg"
+}

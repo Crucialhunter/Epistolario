@@ -1,0 +1,38 @@
+{
+  "legajo_id": "7",
+  "id_carta": "803",
+  "order_in_legajo": 6,
+  "signatura": "51-34 copy",
+  "nombre_carta": "Carta de Josep Togores a Jerónimo Pelegrín de Aragüés",
+  "fecha_original": "fecha sin especificar",
+  "lugar": "lugar sin especificar",
+  "remitente": "Josep Togores",
+  "destinatario": "Jerónimo Pelegrín de Aragüés",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Senyor Jeroni farà d’enviar dues sotacopes i un saler i anís i pa i olives per al senyor i coses envinagrades i sis torcaboques i dues tovalloles de dar aiguamans i unes tovalles de taula i unes sabates. Enviarà morisques per al senyor, un llacet blanc de friseta, 3 coixins grans i trenta-quatre petits i coixineres i una copa per petita que sia, si a casa n'hi ha, si no, a cort. En allò de Delabau procedir en la forma que m’escriviu per mitjà del dr. Bauçà, usant de molta cortesia a la viuda, però cobrar nostre diner, i el mateix amb el de Sales, però no amb la cortesia, sinó rigorosament, i si es menester, jo hi aniré. Transcripción literal"
+  ],
+  "literal": [
+    "1. Señor geroni fera denviar dos sota copas 2. i un seler i anis y pa y olivas pel 3. señor y cosas envinegradas y cis torca- 4. bocas y dos tovaiolas de dar aigomans 5. i unas tovaias de taula i unas sebatas 6. envira moriscas pel Señor un gecet 7. blanc de friseta 3 coxins grans y 8. 30 quatra petits y coxineras y una 9. Copa per petita que sia sia ca se nia si 10. no a cort 11. En lo da dalabau prosair an la form a que 12. mas criuiu par medi dal Dr. Ba[u]ça husant da 13. molta cortasia ala viuda paro cobrar nastron di 14. ner y lo matex ap lo das alas paro no an la cortasia 15. sino rigurosament y si as manaster yo ay- 16. nire [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "51-34 copy.gif",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo07/51-34 copy.gif",
+      "url": "/legajos/legajo-07/images/51-34 copy.gif"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "51-34 copy.gif",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (4)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-07/cartas/000803.json",
+  "primary_image_url": "/legajos/legajo-07/images/51-34 copy.gif"
+}

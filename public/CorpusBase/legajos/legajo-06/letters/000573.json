@@ -1,0 +1,38 @@
+{
+  "legajo_id": "6",
+  "id_carta": "573",
+  "order_in_legajo": 76,
+  "signatura": "077-44a",
+  "nombre_carta": "Carta de comte de Perelada i marquès d'Anglesol a Cecilia Zaforteza y Sureda de Sant Martí",
+  "fecha_original": "30 de noviembre de 1748",
+  "lugar": "Madrid",
+  "remitente": "comte de Perelada i marquès d'Anglesol",
+  "destinatario": "Cecilia Zaforteza y Sureda de Sant Martí",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Muy Sra. mía, Hallándome con el penetrante dolor de haber sido Dios servido de llevarse para sí el día 27 del presente a las seis y media de la tarde a la condesa, mi mujer, me ha parecido muy propio del afecto que profeso a v. s. ponerlo en su noticia para que acompañándome en tan justa pena, la tenga presente en sus oraciones, y a mí me facilite preceptor de su mayor agrado. Dios guarde a v. s. muchos años. Madrid y noviembre 30 de 1748. Besa las manos de v. s. su rendido sobrino y seguro servidor, El Conde de Perelada. Sra. Dña. Cecilia Sureda. Transcripción literal"
+  ],
+  "literal": [
+    "1. Muy Sra. mia hallandome con el pene- 2. trante dolor de aver sido Dios servido 3. de llevarse para si el dia 27 del pre- 4. sente a las seis y media de la tarde 5. a la Condesa mi muger; me a pare- 6. cido muy propio del afecto q profe- 7. so a V.S. ponerlo en su noticia para 8. que acompañandome en tan justa 9. pena, la tenga preste en sus ora- 10. ciones, y a mi me facilite preceptor 11. de su mor agrado 12. Dios Gde á V.S. ms a< ño>s. 13. Madrid, y Noviembre 30 de 1748 14. B L M de V.S. 15. Su rendido sobrino y seguro sdor 16. El Conde de Perelada 17. Sra. Da. Cecilia Sureda [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "077-44a.jpg",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo06/077-44a.jpg",
+      "url": "/legajos/legajo-06/images/077-44a.jpg"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "077-44a.jpg",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (2)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-06/cartas/000573.json",
+  "primary_image_url": "/legajos/legajo-06/images/077-44a.jpg"
+}

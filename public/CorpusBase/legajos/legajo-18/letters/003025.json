@@ -1,0 +1,43 @@
+{
+  "legajo_id": "18",
+  "id_carta": "3025",
+  "order_in_legajo": 58,
+  "signatura": "097:4864a.JPG",
+  "nombre_carta": "Carta de Diego Matías de Aragüés a Pedro Santacilia y Pax",
+  "fecha_original": "9 de agosto de 1662",
+  "lugar": "Madrid",
+  "remitente": "Diego Matías de Aragüés",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Las cartas de 18 y 23 del pasado he recibido por Valencia, y a todas las demás tengo respondido y dado razón de la enfermedad del Sr. don Juan. Hoy se halla mucho mejor aunque flaco que como el tiempo es tan riguroso de calor harto se hace en pasar, con que espero en refrescando volverá presto, algo será larga su convaleciencia, va volviendo poco a poco y se le procura estar a la vista no haga desorden en beber, si bien es mucho menos la gana que de antes y desengañándole el médico y todos que consiste en guardar orden y no hacerlo en beber, porque le va el dinero, [?] El obispo se parte presto y esta despedido de estos señors díceme se va a Barcelona y que en llegando allá se ajustará lo de las pensiones que ahora se halla empeñado en mucha cantidad y que ha menester el dinero hasta hallarse de asiento en Mallorca. Lo que v. m. hubiere cobrado de la pensión, por ningún caso lo vuelva [1§] por ahora no hay de nuevo, solo se dice que Pantoja ha hecho una facción muy buena por Galicia, y derrotado al enemigo v. m. me mande le sirva, a mi Sra. Dña. Leonor besamos la mano y las de v. m. y todos esos señores muchas veces, el Sr. don Juan y Dña. Margarita y yo, y guarde Dios como deseo. Madrid a 9 Agosto 1662. Besa la mano de v. m. su mayor servidor Diego Matias de Aragues Los días pasados vi a mi Sra. doña Isabel Salva que esta buena y besa a v. m. sus manos. y ha regalado al Sr. don Juan con dulces y bizcochos. Ayer estuvo a ver el Sr. don Juan mi Sra. Dña. Antonia Zamudio y Dezcallar [?] y Escallar hizo merced muy grande y se fue contenta que creo fuese mucho más el mal, y no sin razón porque ha estado muy a pique Dios será servido darle salud cumplida Sr. don Pedro Santacilia y Pax [2§] Transcripción literal"
+  ],
+  "literal": [
+    "1. Las cartas de 18. y 23 del passado he 2. recivido por Valencia, Yatodos las demas 3. tengo respondido, ydado razon de la enfer4. medad del sr don Juan, oy sehalla 5. mucho mejor aunq flaco q como el 6. tpo es tan riguroso decalor arto sehaze 7. enpasar. conq espero enrefrescando 8. bolvera presto, algo sera larga su 9. convaleciençia, ba bolviendo poco 10. apoco y se leprocura estar alavista 11. no haga desorden en bever, sibien es 12. mucho menos lagana q de antes 13. y desengañado le el medico y todos 14. q consiste enguardar orden y no 15. hazer lo en bever, porq le vael diner,[?]16. El sr obispo separte presto y esta 17. despidido destos sses dizeme seba 18. aBarcelona yq en llegando allase 19. ajustara lo de las pensiones q agora 20. sehalla empeñado en mucha 21. cantidad y q hamenester el dinero 22. hasta hallarsse de asiento en Mallorca23. [Margen izquierdo][^ Lo q Vm. hubiere cobrado de la penssion, por ningun caso lo buelva] [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "097:4864a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo18/097:4864a.JPG",
+      "url": "/legajos/legajo-18/images/097:4864a.JPG"
+    },
+    {
+      "filename": "098:4864b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo18/098:4864b.JPG",
+      "url": "/legajos/legajo-18/images/098:4864b.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "097:4864a.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (3)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-18/cartas/003025.json",
+  "primary_image_url": "/legajos/legajo-18/images/097:4864a.JPG"
+}

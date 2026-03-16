@@ -1,0 +1,43 @@
+{
+  "legajo_id": "21",
+  "id_carta": "3451",
+  "order_in_legajo": 139,
+  "signatura": "249:5739a.JPG",
+  "nombre_carta": "Carta de Pedro Fajardo de Requeséns-Zúñiga y Pimentel (V marqués de los Vélez) a Pedro Santacilia y Pax",
+  "fecha_original": "6 de abril de 1639",
+  "lugar": "Pamplona",
+  "remitente": "Pedro Fajardo de Requeséns-Zúñiga y Pimentel (V marqués de los Vélez)",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "En conformidad de lo que v. m. me representa por su carta de 1 de este de las muchas partes y servidor de don Cristobal Barrionuevo, le he dado licencia para ir a servir su plaza de teniente de la compañía de D. Gaspar Calvíllo de que doy aviso a v. m. y que me tiene siempre, muy a su servicio, a quien guarde Dios muchos años, de Pamplona y abril 6 de 1639. El marques de los Velez Sr. D. Pedro Santacilia y Pax [1§] Pamplona 6 Abril 1639 el marques de los Velez rdo. Transcripción literal"
+  ],
+  "literal": [
+    "1. En Conformidad delo que Vm. merepresenta porsucarta 2. de 1. deeste delas muchas partes y servidro de Don 3. Xpobal Barríonuebo, le, e, dado liçena para yr a servír 4. suplaca de Thenite dela Compa de D Gaspar Calvíllo 5. de que doy aviso a Vm. y que me tiene, síempre, muy asu 6. servíc[i]o a quien ge Dios muchos años de Pampna 7. y Abril, 6, de 1639 8. El Marqs delos veles 9. [Margen izquierdo][^ Sr D Po santaçilia y Pax] [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "249:5739a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo21/249:5739a.JPG",
+      "url": "/legajos/legajo-21/images/249:5739a.JPG"
+    },
+    {
+      "filename": "250:5739b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo21/250:5739b.JPG",
+      "url": "/legajos/legajo-21/images/250:5739b.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "249:5739a.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (5)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-21/cartas/003451.json",
+  "primary_image_url": "/legajos/legajo-21/images/249:5739a.JPG"
+}

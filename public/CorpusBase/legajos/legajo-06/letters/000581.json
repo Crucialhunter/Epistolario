@@ -1,0 +1,53 @@
+{
+  "legajo_id": "6",
+  "id_carta": "581",
+  "order_in_legajo": 84,
+  "signatura": "091-52a",
+  "nombre_carta": "Carta de Ignasi Vila a Cecilia Zaforteza y Sureda de Sant Martí",
+  "fecha_original": "7 de mayo de 1756",
+  "lugar": "Barcelona",
+  "remitente": "Ignasi Vila",
+  "destinatario": "Cecilia Zaforteza y Sureda de Sant Martí",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Molt Il·lustre Senyora dona Cecília: després de les degudes saluts, {ESP. dec} dir a v. s. com avui fa vuit dies rebí carta del Dr. Graviel Thomàs, que arribà el dia de Pasqua en Madrid bo, a Déu gràcies. {ESP. Luego} de ser arribat D. Grabiel [de] Berga l’aní a visitar de part de v. s. i me digué m’aportava carta de v. s., i després havent-nos vistos diferents vegades, me digué no l’havia {ESP. encontrada} i, així mateix, Pere Ferrer, donador de la present, me digué aportava una memòria, la que tampoc no ha {ESP. encontrat} pel que si cosa se li ofereix me darà avís. I el dit Pere Ferrer entregarà a v. s. l’anell me deixà recomanat el Dr. Grabiel Gual. Ja havia d’anar el correu passat amb nou diamants, el que folgaré sia a son {ESP. agrado}, que és quant se m’ofereix cansar-la i quedo per servir-la. D’esta sa casa, Barcelona i maig als 7 de 1756. Besa la mà de v. s., son més humil servidor, Ignasi Vila Molt senyora, dona Cecilia Zaforteza {ESP. Muy ilustre Señora [?], Amiga y muy señora mía} [?]) {ESP. Ilustrísima Sra; muy señora mía y amiga:recibo la de v. s. ilustrísima de 24 del pasado, y me causa el mayor gusto ver en ella las expresiones de cariño, y Transcripción literal"
+  ],
+  "literal": [
+    "1. Molt Ilte. Señora Dna. Sisilia 2. despues de las degudas saluts dec 3. dir a V.S. com vui fa vuit dias 4. Rebi Carta del Dr. Graviel Thomas 5. que arriba lo dia de pasqua en 6. madrit bo á Deu gracias 7. Luego de ser arribat Dn. Graviel 8. Berga lo aní visitar de par de V.Sa. 9. y me digue me aportava Carta de 10. V.Sa. y despues abentnos vistos di- 11. ferens Vegadas me digue no la via 12. en Contrada y axi matetx pera 13. farre donador de la Present me di- 14. ge aportava una memoria la que 15. tanpoch no ha encontrat per lo que 16. si Cosa se li ofereix me dara avís [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "091-52a.jpg",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo06/091-52a.jpg",
+      "url": "/legajos/legajo-06/images/091-52a.jpg"
+    },
+    {
+      "filename": "092-52b.jpg",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo06/092-52b.jpg",
+      "url": "/legajos/legajo-06/images/092-52b.jpg"
+    },
+    {
+      "filename": "093-52c.jpg",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo06/093-52c.jpg",
+      "url": "/legajos/legajo-06/images/093-52c.jpg"
+    },
+    {
+      "filename": "094-52d.jpg",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo06/094-52d.jpg",
+      "url": "/legajos/legajo-06/images/094-52d.jpg"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "091-52a.jpg",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-06/cartas/000581.json",
+  "primary_image_url": "/legajos/legajo-06/images/091-52a.jpg"
+}

@@ -1,0 +1,43 @@
+{
+  "legajo_id": "28",
+  "id_carta": "4753",
+  "order_in_legajo": 64,
+  "signatura": "091:3687a.JPG",
+  "nombre_carta": "Carta de Macià Monsarró a Pedro Santacilia y Pax",
+  "fecha_original": "29 de marzo de 1639",
+  "lugar": "Zaragoza",
+  "remitente": "Macià Monsarró",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "La carta del sr. don Antonio Pellicer he recibido con otra carta [del] sr. gobernador, y en el punto se la llevé y se la di en sus manos. Y luego la leyó y me envió a don Juan Redondo y Alvarado [?] pagador de su mag. [?] se le enseñase su carta de v. m., y me [ha] dicho don Juan Redondo que se {CAT. veuria} con el gobernador. Yo despacharé al punto al correo. De mi parte, me dará la bienvenida al capitán Vigot. Yo y el Sr. Miralles estaremos sin falta ninguna. El domingo hay hac [?] vernos con v. m. por cosas que importan. Lo capitán anigo [?] estaba {CAT. aguardant} carta de v. m. pues ha visto que v. m. no ha escrito. No le [he] dicho nada. Dios guarde a v. m. de Zaragoza, a 9 de marzo 1639. . Macia Monsarro Sr. don Pedro Santacilia. [1§] Zaragoza, 29 Marzo 1639. Macia Monsarro. rdo. Transcripción literal"
+  ],
+  "literal": [
+    "1. La carta del Sr. Don Anttonio peliser he recivido con otra carta2. sr. governador y en el punto se le leve y se la di en sus manos y luego la3. leyo y me enviyo a don Juan redondo y al vorado [?] pagador de su mag [?] 4. se le enseyanase su carta de Vm, y me dîcho dicho don Juan redondo5. que se veuria con el governador yo despaxare alpunto al correo?6. de miparte me dara la venvenida al capitan Vigot - yo y el Sr mirales7. estaremos sin falta ninguna el domingo hay hacuernos con8. Vm por cossas que ynportan ~ Lo capitan anigo hestava aguarda9. nt carta de vm pues a visto que Vm no ascrito no ledicho nada10. Dios guarde a vm de Çaragª a 9 de março 163911. masia monsarro12. Sr Don Pedro Santa Sillia [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "091:3687a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo28/091:3687a.JPG",
+      "url": "/legajos/legajo-28/images/091:3687a.JPG"
+    },
+    {
+      "filename": "092:3687b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo28/092:3687b.JPG",
+      "url": "/legajos/legajo-28/images/092:3687b.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "091:3687a.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (2)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-28/cartas/004753.json",
+  "primary_image_url": "/legajos/legajo-28/images/091:3687a.JPG"
+}

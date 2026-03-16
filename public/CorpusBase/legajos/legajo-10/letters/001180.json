@@ -1,0 +1,43 @@
+{
+  "legajo_id": "10",
+  "id_carta": "1180",
+  "order_in_legajo": 50,
+  "signatura": "086-347a",
+  "nombre_carta": "Carta de Pedro Santacilia y Pax a Jerónimo Pelegrín de Aragüés",
+  "fecha_original": "25 de agosto de 1668",
+  "lugar": "Madrid",
+  "remitente": "Pedro Santacilia y Pax",
+  "destinatario": "Jerónimo Pelegrín de Aragüés",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Con lo que me dices ha llegado una saetía genovesa cargada de {CAT. botada}, y que el virrey le había mandado quitar timón y velas. Me ha parecido escribirle que pues su majestad, que Dios guarde, no ha quietado el represarle hasta que lo esté satisfecho: como en efecto no lo estoy, que se sirva detenerle y pasar adelante cobrándolas y escribiendo acá para que me den la satisfacción que mandan sus reales órdenes. Dios te guarde. Madrid y agosto, 25 de 1668. Don Pedro Jeronimo [1§] A Jeronimo Pelegrin de Aragues, que Dios guarde muchos años como deseo. Mallorca. Transcripción literal"
+  ],
+  "literal": [
+    "1. Con lo que me dices ha llegado una saetia genovesa cargada de 2. Botada, y quel Sr. Virrey le havia mandado quitar 3. timon y velas, me ha parecido escrivirle que pues 4. su Magd que Dios gde no ha quietado el repressalle 5. hasta que lo este satisfecho como enefeto no lo estoy 6. que se sirva detenerle, y passar adelante cobrando 7. las, y escriviendo aca para que meden la satisfaccion 8. que mandan sus reales ordenes. Dios te gde. Md y 9. Agosto 25 de 1668. [firma de don pedro]10. [^Gero^] [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "086-347a.jpg",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo10/086-347a.jpg",
+      "url": "/legajos/legajo-10/images/086-347a.jpg"
+    },
+    {
+      "filename": "087-347b.jpg",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo10/087-347b.jpg",
+      "url": "/legajos/legajo-10/images/087-347b.jpg"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "086-347a.jpg",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING",
+      "message": "Se detectaron caracteres sospechosos de encoding (4)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-10/cartas/001180.json",
+  "primary_image_url": "/legajos/legajo-10/images/086-347a.jpg"
+}

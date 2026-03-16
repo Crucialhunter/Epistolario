@@ -1,0 +1,38 @@
+{
+  "legajo_id": "41",
+  "id_carta": "7452",
+  "order_in_legajo": 36,
+  "signatura": "159:78",
+  "nombre_carta": "Carta de Pedro Santacilia y Pax a Persona desconocida",
+  "fecha_original": "4 de junio de 1627",
+  "lugar": "Mallorca",
+  "remitente": "Pedro Santacilia y Pax",
+  "destinatario": "Persona desconocida",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Â [1§] Transcripción literal"
+  ],
+  "literal": [
+    "1."
+  ],
+  "imagenes": [
+    {
+      "filename": "159:78.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo41/159:78.JPG",
+      "url": "/legajos/legajo-41/images/159:78.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "159:78.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (3)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-41/cartas/007452.json",
+  "primary_image_url": "/legajos/legajo-41/images/159:78.JPG"
+}

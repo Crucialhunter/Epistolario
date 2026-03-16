@@ -1,0 +1,38 @@
+{
+  "legajo_id": "26",
+  "id_carta": "4522",
+  "order_in_legajo": 258,
+  "signatura": "383:3618.JPG",
+  "nombre_carta": "Carta de Pedro de Aragón a Pedro Santacilia y Pax",
+  "fecha_original": "21 de septiembre de 1667",
+  "lugar": "Nápoles",
+  "remitente": "Pedro de Aragón",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Habiendo encargado al capitán Vicente Benet que vaya a las costas de España a levantar alguna gente para recluta del tercio de este reino, me ha pararecido acompañarle con estos renglones para que en caso de que llegue a esa ciudad se sirva v. m. de darle la asistencia que le pidiere y le pareciere necesaria, fiando de la atención de v. m. al servicio de su majestad, que contribuirá con sus buenos oficios para que este capitán consiga el efecto de la diligencia a que le envió, cuya demostración de su buena voluntad me dejará con el agradecimiento que es justo. Guarde Dios a v. m. muchos años. Nápoles a 21 de septiembre 1667. V. s. no se acuerda de los amigos viejos. Beso a v. s. las manos, su servidor Pedro Antonio Aragon Sr. D. Pedro Santacilia Transcripción literal"
+  ],
+  "literal": [
+    "1. Haviendo encargado al capn. Vizente Venet2. q[ue] vaya a las costas de españa a lebantar alguna3. gente para recluta del tercio de este Reino me a pa4. recido acompañarle con estos renglones para q[ue]5. en casso de q[ue] llegue a essa ciu[da]d se sirva Vm. de6. darle la assistenzia q[ue] le pidiere y le pareziere ne7. cessaria fiando de la atenzion de Vm. al servº de8. Su Magd. q[ue] contribuira con sus buenos oficios para9. q[ue] este capitan consiga el efecto de la diligencia10. a que le embío cuya demostrazion de su buena11. boluntad me dejara con el agradezimiento q[ue]12. es justo gde. Dios a Vm. m[ucho]s a[ño]s Naps.[?] a 21 de 13. setre. 166714. VS no se aquerda de los amygos byejos15. B. a Vs. ls. Ms. su sor.16. D. Pº Atº Aragon17. Sr. D. Pedro Santa Sicilia [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "383:3618.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo26/383:3618.JPG",
+      "url": "/legajos/legajo-26/images/383:3618.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "383:3618.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-26/cartas/004522.json",
+  "primary_image_url": "/legajos/legajo-26/images/383:3618.JPG"
+}

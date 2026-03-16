@@ -1,0 +1,38 @@
+{
+  "legajo_id": "35",
+  "id_carta": "5254",
+  "order_in_legajo": 65,
+  "signatura": "063:8100.JPG",
+  "nombre_carta": "Carta de Jerónimo Villanueva a Pedro Santacilia y Pax",
+  "fecha_original": "24 de diciembre de 1642",
+  "lugar": "Madrid",
+  "remitente": "Jerónimo Villanueva",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Por el despacho de su majestad. que pongo en manos de v. m. con esta se servirá ver lo que contiene y sin que se me ofrezca qué añadir [?] hago estos renglones para darle cuenta y suplicar a v. m. me avise de su recibo en la primera ocasión que tuviese, con muy buenas nuevas de la salud de v. m., que guarde Dios los años que deseo. Madrid 24 de diciembre 1642 Jerónimo Villanueva Sr. D. Pedro Santacilia Transcripción literal"
+  ],
+  "literal": [
+    "1. Por el despacho de su Magd. que pongo en2. manos de Vm conesta se servira ver lo que3. contiene y sin que se me ofresca que añadir [?]4. hago estos renglones para darle cuberta y 5. supllicar a Vm me avise de su reçivo en la6. primera ocasion que tuviese con muy buenas nue7. vas de la salud de Vm que gde. Dios los años8. que deseo Md. 24 de Deze. 16429. Geronimo Villanueva10. Sr. D. Pº Santaçilia [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "063:8100.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo35/063:8100.JPG",
+      "url": "/legajos/legajo-35/images/063:8100.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "063:8100.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-35/cartas/005254.json",
+  "primary_image_url": "/legajos/legajo-35/images/063:8100.JPG"
+}

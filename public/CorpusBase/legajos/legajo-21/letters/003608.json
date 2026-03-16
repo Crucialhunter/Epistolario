@@ -1,0 +1,38 @@
+{
+  "legajo_id": "21",
+  "id_carta": "3608",
+  "order_in_legajo": 297,
+  "signatura": "510:5896.JPG",
+  "nombre_carta": "Carta de Jerònima Forteza i Brondo a Pedro Santacilia y Pax",
+  "fecha_original": "11 de junio de 1669",
+  "lugar": "Montuïri",
+  "remitente": "Jerònima Forteza i Brondo",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Tinc la de v. m. rebuda amb què em soc folgada del bon gust ha tingut en l'elecció del matrimoni del senyor don Nicolau, son fill, amb la senyora dona Leonor de Veri; i així, gosi vostè molts anys del {ESP. contento}. I el mateix dirà al senyor don Nicolau de part meva, que si fos en ciutat ja seria la meva obligació. No més, sinó Nostre Senyor el guardi. Salut. D'[aqu]esta la seva casa. En Montuïri, als 11 juny 1669. Dona Jeronima Forteza i Brondo Transcripción literal"
+  ],
+  "literal": [
+    "1. Tinch le de V M. re 2. bude abque emso folgade 3. del bon gust a tingut en 4. la electio del matrimoni 5. del Sr Don Nicholau son 6. fill abla Sra Da Eleonor de 7. Veri y aci gos voste mo8. lts añys del contento y, lo 9. meteix dira el Sr Don 10. Nicholau de part mia q 11. si fore en ciutat ja feria12. la mia obligatio no mes 13. sino N sr lo Gde selud14. desta se case en mutujri 15. els 11 juñj i669 16. D Hieronima Forte 17. ssa y Brondo [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "510:5896.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo21/510:5896.JPG",
+      "url": "/legajos/legajo-21/images/510:5896.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "510:5896.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-21/cartas/003608.json",
+  "primary_image_url": "/legajos/legajo-21/images/510:5896.JPG"
+}

@@ -1,0 +1,43 @@
+{
+  "legajo_id": "16",
+  "id_carta": "2648",
+  "order_in_legajo": 135,
+  "signatura": "215:2148a.JPG",
+  "nombre_carta": "Carta de Isidro Márquez a Pedro Santacilia y Pax",
+  "fecha_original": "14 de octubre de 1667",
+  "lugar": "Madrid",
+  "remitente": "Isidro Márquez",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Señor mío, por aber, dos mese, que me hallo, enfermo de tercianas, no he escrito a v. s. sino una carta, pocos días antes, que Caiese, Malo, avisando a v. s. de como el consexo, de Aragón, mepugno, grandemente, la Renta, que el señor conde de Talara, consulto, Al, Señor don Nicolás, en ese reino, y viendo eso, pareció al, Señor, don Blasco, se pidiese, otra cosa, por otro memorial este se volvio, arremitir, al señor conde de Talara, a quien con ocasión, de mi Enfermedad, he devido, el que me aia, venido, aber, Tres veces con que le he podido, hablar apretadamente, para que consultase, en compañía de Caballos, para, Cataluña, al señor don Nicolás, Ofreciome hacerlo como se ha Reconocido, pues ayer me envío un recado, avisandome, como ya su majestad se la habrá concedido, cuya, Nueba, participe luego al señor don Nicolas que ha Mexorado, de sus acá ques, yo doy a v. s. la Norabuena, por ser con puesto, de provecho, yrreputación asegurando, a v. s. que los días pasados, ansalido a servir algunos hijos de Titulos de Castilla, con otra, compañíañia, no más, el señor don Nicolas lo dice el también [1§] con que espero estara, contento Suplico a v. s. Mande a Jeronimo, me envie, unas Alcaparrillas que me han Ordenado, las Coma, Dios guarde a v. s. Mu chos años, Madrid, y octubre a 14 de 1667 mayor Servidor de v. s. que su mano besa Isidro Marques Señor don Pedro, Santacilia [2§] Transcripción literal"
+  ],
+  "literal": [
+    "1. Señor mio, por aber, dos mese, que me hallo, enfermo 2. de tercianas, no he escrito a VS. sino una Carta, pocos 3. dias antes, que Caiese, Malo, abisando a VS. de Como 4. el Consexo, de Aragon, mepugno, grandemente, la 5. Renta, que el Sr Conde de Talara, Consulto, Al, Señor 6. Don Nicolas, en ese Reyno, y biendo esso, pareçio al, 7. Señor, Don Blasco, se pidiese, otra cosa, por otro Memorial 8. este se bolbio, arremitir, al Sr Conde de Talara, a quien 9. con Ocasion, de mi Emfermedad, he devido, el queme 10. aia, benido, aber, Tres beses conque le he podido, hablar 11. apretadamente, para que Consultase, en Compañia de 12. Caballos, para, Cataluña, al Sr Don Nicolas, Ofreçiome 13. haçerlo Como se ha Reconoçido, pues aier me embio 14. un Recado, abisandome, Como ia su Magd se la habra 15. conçedido, Cuia, Nueba, partiçipe luego al Sr D Nicolas 16. que ha Mexorado, de sus achaques, io doi a VS. la 17. Norabuena, por ser con puesto, de probecho, y rreputaçion 18. asegurando, a VS. que los dias pasados, ansalido aserbir 19. algunos hijos de Titulos de Castilla, con otra, Compa20. ñia, no mas, el Señor Don Nicolas lo dis[e el]l [t]ambien [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "215:2148a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo16/215:2148a.JPG",
+      "url": "/legajos/legajo-16/images/215:2148a.JPG"
+    },
+    {
+      "filename": "216:2148b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo16/216:2148b.JPG",
+      "url": "/legajos/legajo-16/images/216:2148b.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "215:2148a.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-16/cartas/002648.json",
+  "primary_image_url": "/legajos/legajo-16/images/215:2148a.JPG"
+}

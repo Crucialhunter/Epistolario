@@ -1,0 +1,38 @@
+{
+  "legajo_id": "16",
+  "id_carta": "2297",
+  "order_in_legajo": 3,
+  "signatura": "001:2016.JPG",
+  "nombre_carta": "Carta de Nicolás de Santacilia y Togores a Pedro Santacilia y Pax",
+  "fecha_original": "13 de enero de 1667",
+  "lugar": "Barcelona",
+  "remitente": "Nicolás de Santacilia y Togores",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Todos mis compañeros van a Madrid con intento de pretender por haber ido a esta jornada, yo he insinuado muchas veces a v. m. como tenía la misma razón, y así como veo que nos vamos acercando a la ocasión me atrevo a volvérselo a representar, y lo que no se hiciere en estas ocasiones. Creo yo que no se hará con facilidad en otras porque en haciendo merced a qualquier criado ha de ser ejemplar para los demás, y así v. m. lo tenga entendido así, en ese mismo dictamen están todos. Guarde Dios a v. m. muchos años como deseo. Barcelona a 13 de enero 1667. Sr. don Nicolas de Santacilia y Togores Mi padre Transcripción literal"
+  ],
+  "literal": [
+    "1. Todos mis Conpañeros van a Madrid 2. Con intento de pretender por aver 3. ido a esta jornada, yo e insinuado 4. muchas veses a Vm Como tenia la 5. misma rason, y asi Como veo que nos 6. vamos asercando a la ocasion me atrevo 7. abolverselo arepresentar, y lo que 8. no se isiere en estas ocasiones Creo 9. yo que no seara Con fasilidad en otras 10. porque en asiendo mersed aqualquier 11. Criado ade ser ejemplar para los 12. demas, y asi VM lo tenga entendido 13. asi, en ese mismo dictamen estan 14. todos Guarde Dios a VM muchos años 15. Como deseo Barselona a 13 de Enero 16. 1667 17. Don Nicolas de Sta Ciliay Togores [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "001:2016.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo16/001:2016.JPG",
+      "url": "/legajos/legajo-16/images/001:2016.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "001:2016.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-16/cartas/002297.json",
+  "primary_image_url": "/legajos/legajo-16/images/001:2016.JPG"
+}

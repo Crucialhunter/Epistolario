@@ -1,0 +1,38 @@
+{
+  "legajo_id": "28",
+  "id_carta": "4779",
+  "order_in_legajo": 83,
+  "signatura": "134:3713.JPG",
+  "nombre_carta": "Carta de Tomás Cornelio Tríes a Pedro Santacilia y Pax",
+  "fecha_original": "26 de mayo de 1639",
+  "lugar": "Zaragoza",
+  "remitente": "Tomás Cornelio Tríes",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Recibí la de v. m. y luego hice la diligencia que v. m. me mandó en saber si había venido dinero. Hanme dicho que no. En todo lo que yo le pudiera servir me tiene a su disposición. El marqués de Vilafranca hasta ahora no ha pasado. Un mozo de mulas que se llama Pedro Boruga [?] de Barcelona, que hoy se hallaba en Zaragoza, ha dicho que había embargado las mulas de otros mulateros de Barcelona para venirse. Digo esto a v. m. por el cuidado que Monsarró tiene el saber cuándo pasará para avisárselo a v. m. A quien guarde Nuestro Sr. muchos años. De Zaragoza a 26 de mayo 1639. Tomas Cornelio Tries. Sr. D. Pedro Santacilia y Pax. Transcripción literal"
+  ],
+  "literal": [
+    "1. Recivy la de vm y luego hize la diligensia que2. vm me mando en saver si avia venido dinero3. an me dicho que no entodo lo que jo le pudiera4. servir me tiene a su disposision ~ el marques de5. Vilafranca asta agora no ha pasado un moço6. de mulas que se lama pedro borcega [?] de Bar~.7. que oy se alava en çaragª. a dho que avia enbargado8. las mulas de otros mulateros de Bar~. para ve9. nirse digo esto a vm por el cuydado que monsarro10. tiene el saver quando pasara para avisarselo a vm11. a quien guarde nuestro sr. muchos años de12. Çaragª a 26 de mayo 163913. Tomas Cornelio Tries14. Sr. D. Pº. Santa Silia y Paxs [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "134:3713.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo28/134:3713.JPG",
+      "url": "/legajos/legajo-28/images/134:3713.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "134:3713.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (2)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-28/cartas/004779.json",
+  "primary_image_url": "/legajos/legajo-28/images/134:3713.JPG"
+}

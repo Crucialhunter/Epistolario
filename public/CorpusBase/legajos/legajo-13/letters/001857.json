@@ -1,0 +1,38 @@
+{
+  "legajo_id": "13",
+  "id_carta": "1857",
+  "order_in_legajo": 124,
+  "signatura": "201:2361.JPG",
+  "nombre_carta": "Carta de José de Cisneros a Pedro Santacilia y Pax",
+  "fecha_original": "28 de diciembre de 1668",
+  "lugar": "Mallorca",
+  "remitente": "José de Cisneros",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Sr. mío acompañan con estos renglones el justo sentimiento de v. s. en la temprana muerte del Sr. D. Juan Miguel de Santacilia que está en el Cielo, como se lo suplico a Nuestro Señor en mis pobres sacrificios y que dé a v. s. todo consuelo, y espero le ha de tener muy grande con la vista del Sr. D. Nicolas que va famoso caballero, su divina majestad le haga muy dichoso y le permita el logro feliz que merecen sus muchas prendas y desea v. s. a quien guarde largos siglos y de muchos y estos principios de año y pascuas de reyes. Mallorca y diciembre 28 de 1668. Jeronimo del Solar Sobremente y Cisneros Sr. D. Pedro de Santacilia y Pax [1§] Transcripción literal"
+  ],
+  "literal": [
+    "1. Sr mio acompañan con estos renglones el Justo sen2. timito de VS en la temprana muerte del Sr. d. Juan3. Migl de Sta Cilia q esta en el Cielo comoselo suplico4. a nro Sr en mis pobres sacrificios y q de a VS5. todo consuelo, y espero le ha de tener mui grande con la vista6. del Sr. d. Nicolas que va famosso cavallero, su divina 7. magd le aya mui dichoso y le permita el logro feliz8. q merecen sus muchas prendas y desea V.S. aquien9. gde largos siglos y de ms y stos principios deaño y Pas10. quas de Reyes Mallca y xbre 28 de 1668.11. [?] del habat[?]12. Sobremte[?] y cisneros 13. Sr. d. Po de Sta Cilia y Paz [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "201:2361.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo13/201:2361.JPG",
+      "url": "/legajos/legajo-13/images/201:2361.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "201:2361.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-13/cartas/001857.json",
+  "primary_image_url": "/legajos/legajo-13/images/201:2361.JPG"
+}

@@ -1,0 +1,38 @@
+{
+  "legajo_id": "38",
+  "id_carta": "5589",
+  "order_in_legajo": 124,
+  "signatura": "186:113.JPG",
+  "nombre_carta": "Carta de Andreu Corró a Pedro Santacilia y Pax",
+  "fecha_original": "5 de enero de 1668",
+  "lugar": "Zaragoza",
+  "remitente": "Andreu Corró",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Ilustríssima Avui {ESP. cerca} una era aparcar de sol ha vingut a mi com passaven tres galeres i enconti nent ne ha vingut altra de com entra ven en el port d'esta vila en què en continent som anats allí a veure quina gent era i m'han dit son tres galeres del duc de Tureis qui partiran de Barcelona amb companyia d'altres tres galeres per a anar a Ità alia; i la tormenta diuen tingueren les ha departides en què elles són arribades en est port i les altres tres prengueran per altra part i si fa bon temps fan compte de partirse dema; també han dit que Irlanda i orlanda han feta lligue amb Espanya contra França i que ses publicat a Barcelona ; de tot el qual Sr. don avís a Va.Sria. que Nre. Sr. guardi molts anys Pollença als 5 gener 1668 {ESP. cerca} dues hores de nit Andreu Corro not. lloct. de Va.Sria. [1§] Transcripción literal"
+  ],
+  "literal": [
+    "1. Illta sr.2. Vuy circa una hera aparcar de sol ha vingut3. a mi com passaven tres galleras y enconti=4. nent ne ha vingut altra de com entra-5. ven anel port de esta vila en que encon=6. tinent som anats alli a veura quina gent7. era y me han dit son tres galeras del duc8. de Tureis qui pertiran de Barcalona ab9. companya de altres tres galeras per a anar10. a Italia; y la tormenta diuen tingueren11. les ha departides en que ellas son arribades12. en est port y les altres tres prengueran13. per altra part y si fa bon temps fan14. compte de pertirse dema; tambe han dit15. que Irlanda y orlanda han feta lligue16. ab españya contra fransa y que ses17. publicat a Barcalona; de tot lo qual18. don avis a Va.Sria. que Nro Sr gde mols19. anys Pollença als 5 Janer 1668 circa dos20. hores de nit21. Andreu Corro nott. lloctt. de Va.Sria. [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "186:113.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo38/186:113.JPG",
+      "url": "/legajos/legajo-38/images/186:113.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "186:113.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-38/cartas/005589.json",
+  "primary_image_url": "/legajos/legajo-38/images/186:113.JPG"
+}

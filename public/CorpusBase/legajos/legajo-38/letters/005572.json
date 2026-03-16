@@ -1,0 +1,32 @@
+{
+  "legajo_id": "38",
+  "id_carta": "5572",
+  "order_in_legajo": 20,
+  "signatura": "159:96",
+  "nombre_carta": "Carta de Persona desconocida a Persona desconocida",
+  "fecha_original": "fecha sin especificar",
+  "lugar": "lugar sin especificar",
+  "remitente": "Persona desconocida",
+  "destinatario": "Persona desconocida",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "LA IMATGE NO ES VEU BÉ [1§] Transcripción literal"
+  ],
+  "literal": [
+    "1. LA IMATGE NO ES VEU BÉ"
+  ],
+  "imagenes": [
+    {
+      "filename": "159:96.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo38/159:96.JPG",
+      "url": "/legajos/legajo-38/images/159:96.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "159:96.JPG",
+  "warnings": [],
+  "raw_source": "raw/legajos/legajo-38/cartas/005572.json",
+  "primary_image_url": "/legajos/legajo-38/images/159:96.JPG"
+}

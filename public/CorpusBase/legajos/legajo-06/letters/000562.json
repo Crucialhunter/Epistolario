@@ -1,0 +1,38 @@
+{
+  "legajo_id": "6",
+  "id_carta": "562",
+  "order_in_legajo": 64,
+  "signatura": "056-33",
+  "nombre_carta": "Carta de comte de Perelada i marquès d'Anglesol a Cecilia Zaforteza y Sureda de Sant Martí",
+  "fecha_original": "21 de septiembre de 1748",
+  "lugar": "Madrid",
+  "remitente": "comte de Perelada i marquès d'Anglesol",
+  "destinatario": "Cecilia Zaforteza y Sureda de Sant Martí",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Madrid y septiembre 21 de 1748. Tía y sra mía de mi vida, La carta de v. s. me llena del más sensible dolor en la funesta noticia que incluye de la pérdida de mi tío. Y como era tanto lo que yo debí siempre a su confianza, no puede esa memoria dejar de aumentar la pena. Deseara poder dar a v. s. muchos consuelos, pero como en las virtudes y cristiandad de v. s. sé que ha de hallar reflexiones más sólidas abrazando la conformidad con las disposiciones del Sr., solo puedo ofrecerme acompañando a v. s. en tan duro golpe, y rogando al Sr. guarde la apreciable vida de v. s. con la gracia que necesitare para el sufrimiento. A los pies de v. s., su más rendido sobrino, El conde de Peralada. Tía y Sra. mía de mi vida. Transcripción literal"
+  ],
+  "literal": [
+    "1. Madrid y bre 21 2. de 1748. 3. Tia y Sra mia de mi vida: La carta 4. de V.S. me llena del mas sensible dolor 5. en la funesta noticia que incluie de la per- 6. dida de mi Tio, y como era tanto lo que 7. yo debi siempre á su confianza no puede 8. essa memoria dexar de aumentar la pena. 9. Deseara poder dar a V.S. muchos consue- 10. los, pero como en las virtudes y christian- 11. dad de V.S. se que ha de hallar reflexio- 12. nes mas solidas abrazando la conformidad 13. con las disposiciones del Sr. solo puedo ofre- 14. cerme acompañando a V.S. en tan duro gol- 15. pe, y rogando al Sr. Gde la apreciable vida 16. de V.S. con la gracia que necessitare para el su- 17. frimiento. A L. P. De V.S. 18. Su mas rendido sobrino 19. El Conde de Perelada 20. Tia y Sra. mia de mi vida. [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "056-33.jpg",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo06/056-33.jpg",
+      "url": "/legajos/legajo-06/images/056-33.jpg"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "056-33.jpg",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (2)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-06/cartas/000562.json",
+  "primary_image_url": "/legajos/legajo-06/images/056-33.jpg"
+}

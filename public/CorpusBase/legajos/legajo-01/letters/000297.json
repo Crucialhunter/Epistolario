@@ -1,0 +1,59 @@
+{
+  "legajo_id": "1",
+  "id_carta": "297",
+  "order_in_legajo": 7,
+  "signatura": "018-207a",
+  "nombre_carta": "Carta de Miguel Malo a Jerónimo Pelegrín de Aragüés",
+  "fecha_original": "24 de agosto de 1667",
+  "lugar": "Madrid",
+  "remitente": "Miguel Malo",
+  "destinatario": "Jerónimo Pelegrín de Aragüés",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Señor Jeronimo Pelegrin y Aragues.",
+    "Con su carta de v. m. 6 del corriente he tenido muy buen día sabiendo de su salud y de su señora y niños. Aquí la tenemos, a Dios gracias. La carta de ese santo religioso he dado en manos del reverendísimo general, y que responderá y le consolará al señor Mateo Maestre, que se trabaja en su negocio para si podemos conseguirle que sea la gracia como desea, que si no, se volverá el dinero al mercader. No hay cosa de nuevo más de las guerras de Flandes, que nos trata mal el francés. Guarde Dios a vuestra merced en compañía de toda su casa, y reciba vuestra merced y esa mi señora recados de doña Ana de Aragues y Petrona y Francisco y Silvestre.",
+    ". Madrid, a 24 de agosto de 1667.",
+    "Servidor de vuestra merced que su mano besa. Miguel Malo.",
+    "[1§] Madrid, Miguel Malo de 24 de agosto 1667."
+  ],
+  "literal": [
+    "1. Sr Ger[oni]mo Pelegrin y Aragues",
+    "2. Con su carta de vm 6 del",
+    "3. corriente hetenido muy buen",
+    "4. dia sabiendo de su salud y de su Srª",
+    "5. y niños aqui latenemos a dios gracias",
+    "6. La carta de ese sto Religioso he dado en",
+    "7. manos del Rmo gl y que respondera y",
+    "8. le consolara",
+    "9. Al S Matheo Maestre que se trabaja",
+    "10. en su nego pa si po demos con si",
+    "11. gir le que sea la gracia como desea",
+    "12. que si no se bolbera el dinero al",
+    "13. mercader = no hay cossa de nuebo",
+    "14. mas de las gerras de flandes qe nos",
+    "15. trata mal el frances gde Dios avm",
+    "16. en Compa de toda su cassa y Re",
+    "17. ciba v m y esa mi Sra. Recados de Da Ana de Aragues y pretona [",
+    "18. y Franco y Silbestre Md a 24 de Ao de 1667",
+    "19. Seror de vm q s m b Miguel Malo [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "018-207a.gif",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo01/018-207a.gif",
+      "url": "/legajos/legajo-01/images/018-207a.gif"
+    },
+    {
+      "filename": "019-207b.gif",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo01/019-207b.gif",
+      "url": "/legajos/legajo-01/images/019-207b.gif"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "018-207a.gif",
+  "warnings": [],
+  "raw_source": "raw/legajos/legajo-01/cartas/000297.json",
+  "primary_image_url": "/legajos/legajo-01/images/018-207a.gif"
+}

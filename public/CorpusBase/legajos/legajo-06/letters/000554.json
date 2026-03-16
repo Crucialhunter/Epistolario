@@ -1,0 +1,43 @@
+{
+  "legajo_id": "6",
+  "id_carta": "554",
+  "order_in_legajo": 53,
+  "signatura": "042_24a",
+  "nombre_carta": "Carta de Juan Campins a Cecilia Zaforteza y Sureda de Sant Martí",
+  "fecha_original": "23 de junio de 1746",
+  "lugar": "Palma",
+  "remitente": "Juan Campins",
+  "destinatario": "Cecilia Zaforteza y Sureda de Sant Martí",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Mi senyora, M’ha dit sa mare que escrigués a v. m. dient que tots estan amb salut i que son pare cada dia es sortit fora casa. Esto és el que m’ha comanat. Aquí no hi ha res de nou per ara. Rebi mil saluts de part de tots els d’esta casa, senyors i senyores i de ma part les donarà a madò Antonina i dirà a don Francesc també que tots li besen les mans, i Déu els guardi els dilatats anys de mon desig, i Ciutat els 23 de juny 1746. Son criat pel que mani, Juan Campins, que ses mans besa [En la otra página del documento, el destinatario]A mi senyora dona Cecilia Zaforteza i Sureda de Santmarti, que Déu guardi molts anys. En Sant Martí. Transcripción literal"
+  ],
+  "literal": [
+    "1. Mi S<enyo>ra me a dit se Mare q<ue> 2. scrigues á V.M. dient que 3. tots estan en salut y que 4. son Pare cade dia es surtit 5. fora case, esto es lo que me á 6. comenat áqui no hiya res de 7. nou per hare reba mil saluts 8. de part de tots los de esta case 9. Señors y Señoras y de me 10. part las donera á medo An- 11. tonina y dira á Don Francesch 12. tambe que tots li besan las 13. mans, y Deu los g< uar>de los dile- 14. tats añys de mon desitg y Ciu- 15. tat els 23 de Juyñ 1746. 16. Son criat P< er> < e>L Q< ue> M< ani>. 17. Juan Campins Q< ue> S< es> M< ans> B< esa> [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "042_24b.jpg",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo06/042_24b.jpg",
+      "url": "/legajos/legajo-06/images/042_24b.jpg"
+    },
+    {
+      "filename": "042_24a.jpg",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo06/042_24a.jpg",
+      "url": "/legajos/legajo-06/images/042_24a.jpg"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "042_24b.jpg",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-06/cartas/000554.json",
+  "primary_image_url": "/legajos/legajo-06/images/042_24b.jpg"
+}

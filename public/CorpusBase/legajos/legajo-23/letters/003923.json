@@ -1,0 +1,38 @@
+{
+  "legajo_id": "23",
+  "id_carta": "3923",
+  "order_in_legajo": 177,
+  "signatura": "317:3336.JPG",
+  "nombre_carta": "Carta de Joan Tomàs de Rocabertí a Pedro Santacilia y Pax",
+  "fecha_original": "29 de mayo de 1669",
+  "lugar": "Valencia",
+  "remitente": "Joan Tomàs de Rocabertí",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Mucho me consuela v. s. con la de 28 del pasado con las buenas noticias del pasaje que me tenía con cuidado. El P. letor Socias recomendado de v. s. no llegó, pero no ha hecho falta, pues queda en sus méritos adelantado y por el he hecho en definitorio y con nº. Pe. Prd. que no se ha podido de lo que hubiere [?] a propósito para mi hermano sírvase v. s. decir su sentir que me holgará mucho a su [?] persona cual conviene v. s. y el conde son de quien v. m. ya mente hace y debe hacer confianza del acierto mi [?] y así v. s. se sirva de hacerme merced de escribir largo lo que le parecieren esta materia que estoy acá de aviento [?] ya y me holgará infinito poder proponer al yerno cosa de toda conveniencia v. s. ya conoce mi obligación y así mande en cuanto fuere de su gusto. A mi Sra. Dña. Leonor beso la mano. Guarde Dios a v. s. Valencia 29 mayo 1669. Besa la mano de v. s. su mayor servidor y [?] D. Juan Thomas de Rocaberti Sr. D. Pedro Santacilia Transcripción literal"
+  ],
+  "literal": [
+    "1. Mutho me Consuela VS. Con la de.2. 28. del passado Con las buenas3. noticias del pasaje que me tenia4. con cuidado5. El Pe letor Socias recomendado de VS.6. no llego, pero no ha etho falta7. pues queda en sus meritos adelanta8. do y por el he etho en difinitorio y9. Con no[?] Pe. Prd. que no se a podido10. de lo que oubiere[?] a proposito para mi11. Herno sirvase VS. decir su sentir12. que me olgara mutho a su [?]13. persona qual Conviene VS. y el 14. Sr. Conde son de quien Vm ia mente15. haze y deve hazer confiança16. del Açierto mi erna y asi VS.17. se sirva de hazerme merced de escri18. vir largo lo que le parecieren19. esta materia que estoy aca de20. aviento[?] ya y me olgara infinito21. poder proponer al erno cosa de toda22. Conveniencia VS. ya conoçe mi obli23. gacion y assi mande en quato fuere24. de su gusto a mi Sa. Da Leonor B l[a] m25. Gde Dios a VS Vala 29. B l[a] m de VS. 26. mayo. 1669 su mayor seror y [?]27. D Juan [?]28. de Rocaberti29. Sr. D. Pedro Sta. Cilia [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "317:3336.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo23/317:3336.JPG",
+      "url": "/legajos/legajo-23/images/317:3336.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "317:3336.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (2)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-23/cartas/003923.json",
+  "primary_image_url": "/legajos/legajo-23/images/317:3336.JPG"
+}

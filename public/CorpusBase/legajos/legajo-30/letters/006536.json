@@ -1,0 +1,38 @@
+{
+  "legajo_id": "30",
+  "id_carta": "6536",
+  "order_in_legajo": 117,
+  "signatura": "014:5374.JPG",
+  "nombre_carta": "Carta de Enrique de Aragón (VI duque de Cardona) a Pedro Santacilia y Pax",
+  "fecha_original": "9 de mayo de 1635",
+  "lugar": "Perpiñán",
+  "remitente": "Enrique de Aragón (VI duque de Cardona)",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Â [1§] Transcripción literal"
+  ],
+  "literal": [
+    "1."
+  ],
+  "imagenes": [
+    {
+      "filename": "014:5374.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo30/014:5374.JPG",
+      "url": "/legajos/legajo-30/images/014:5374.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "014:5374.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (4)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-30/cartas/006536.json",
+  "primary_image_url": "/legajos/legajo-30/images/014:5374.JPG"
+}

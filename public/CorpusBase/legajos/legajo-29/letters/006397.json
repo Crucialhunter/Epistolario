@@ -1,0 +1,37 @@
+{
+  "legajo_id": "29",
+  "id_carta": "6397",
+  "order_in_legajo": 88,
+  "signatura": "152:4215a.JPG",
+  "nombre_carta": "Carta de Pedro Juan de la Guardia a Pedro Santacilia y Pax",
+  "fecha_original": "1 de agosto de 1649",
+  "lugar": "Valencia",
+  "remitente": "Pedro Juan de la Guardia",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "[1§] [2§] Transcripción literal"
+  ],
+  "literal": [
+    "1. 1."
+  ],
+  "imagenes": [
+    {
+      "filename": "152:4215a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo29/152:4215a.JPG",
+      "url": "/legajos/legajo-29/images/152:4215a.JPG"
+    },
+    {
+      "filename": "153:4215b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo29/153:4215b.JPG",
+      "url": "/legajos/legajo-29/images/153:4215b.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "152:4215a.JPG",
+  "warnings": [],
+  "raw_source": "raw/legajos/legajo-29/cartas/006397.json",
+  "primary_image_url": "/legajos/legajo-29/images/152:4215a.JPG"
+}

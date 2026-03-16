@@ -1,0 +1,38 @@
+{
+  "legajo_id": "17",
+  "id_carta": "2748",
+  "order_in_legajo": 16,
+  "signatura": "015:1290.JPG",
+  "nombre_carta": "Carta de Aurelio Amigón y Pascual a Pedro Santacilia y Pax",
+  "fecha_original": "18 de noviembre de 1657",
+  "lugar": "Alicante",
+  "remitente": "Aurelio Amigón y Pascual",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Muchas quejas podía yo formar de su v. s. pues sabiendo soy el fiel de toda su casa en esta ciudad no he merecido acuerdos de v. s. Siquiera en demostración de lo mucho que a v. s. estimo y a todos los que dependen de su casa en tanto tiempo, no le merece mi afecto, y para obligarle a v. s. que me envíe órdenes para obedecerle le doy ocasión remitiéndole la inclusa del Sr. D. Pasqual de Aragon a quien sirvo en esta ciudad y en otras partes. Muchos años hace en todo lo que se le ofrecce, y así la [?] encargo venga a mis manos no más de porque conozca el Sr. D. Pascual mi puntualidad, y esto no embargante, ya v. s. sabe me tiene siempre en esta ciudad tan obediente y servidor de v. s. como siempre lo he sido que sus mandatos serán para mi preceptos inviolables y de mucha estimación. Guarde Dios a v. s. muchos años en la grandeza que deseo. Alicante y noviembre 18 1657. Muy servidor de v. s. que sus manos besa S. Aurelio de Aragón y Pascual Sr. D. Pedro Santacilia y Pax Pror real [1§] Transcripción literal"
+  ],
+  "literal": [
+    "1. Muchas quexas podia jo formar de su V.S. pues sa2. biendo soy el fiel de toda su casa en esta Ciud 3. no he merecido acuerdos de V.S. Siquiera en 4. demonstracion de lo mucho q a V.S. estimo y 5. a todos los q dependen de su casa en tanto tiempo, 6. no lo mereçe mi affecto, y para obligalle 7. a V.S. a q me imbie ordenes para obedecelle 8. le doy occasion remitiendole la inclusa 9. del Sr. d. Pascual de Aragon a quien sirvo 10. en esta Ciud y en otras partes muchos años 11. ha en todo lo q se le offresce, y assi la repta 12. encargo benga a mis manos no mas de porq13. conosca el Sr. d. Pasql mi puntualidad, y esto14. no embargante, ya V.S. sabe me tie15. ne siempre en esta ciud tan obediente 16. y servidor de V.S. como siempre lo he sido 17. q sus mandatos seran para mi preceptos18. inviolables y de mucha estimacion. 19. Gde dios a V.S. muchos años en la gran20. deça q desseo. Alicte y nove 18-1657.21. M svidor de V.S. q s m b22. S. Aurelio de Aragon y Pasqual23. Sr. D. Po Santacilia y Pax Pror Rl - [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "015:1290.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo17/015:1290.JPG",
+      "url": "/legajos/legajo-17/images/015:1290.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "015:1290.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-17/cartas/002748.json",
+  "primary_image_url": "/legajos/legajo-17/images/015:1290.JPG"
+}

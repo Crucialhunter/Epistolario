@@ -1,0 +1,38 @@
+{
+  "legajo_id": "14",
+  "id_carta": "2064",
+  "order_in_legajo": 165,
+  "signatura": "267:2575.JPG",
+  "nombre_carta": "Carta de José de Castellví y Alagón a Pedro Santacilia y Pax",
+  "fecha_original": "10 de marzo de 1662",
+  "lugar": "Valencia",
+  "remitente": "José de Castellví y Alagón",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Pues v. s. me hace tanta merced que me pone a caballo, no he de quedar a pie en el reconocimiento. Sólo v. s. con su galantería ha sabido hacerme hombre antes que el tiempo, con que digo a v. s. bastantemente la obligación en que me ha puesto. Y así no he querido fiársela a mi padre [?] sino que corría por mí esta correspondencia, y la empiezo con besar a v. s. las manos por el favor del caballo y en fe de la estimación en que le pongo ha de ser él reservado hasta en el nombre. A mucho obliga un soborno. Mire. v. s. qué tanto que aun con esta mala letra escribo con todo mi juicio. No escribo a v. s. las novedades porque mi padre lo hace en la suya, pero me reservo para las que hubiere en adelante. Dios guarde a v. s. los muchos años que deseo. Valencia y marzo a 10 de 1662. Mas obligado servidor de v. s. que sus manos besa D. Jose de Castellvi y Alagon Sr. D. Pedro de Santacilia Transcripción literal"
+  ],
+  "literal": [
+    "1. Pues V. S. me aze tanta md. que me pone a caballo no 2. he de quedar a pie en el reconocimiento Solo V. S. con 3. su galanteria a sabido hazerme hombre antes que 4. el tiempo con que digo a V. S. bastantemente la obligació 5. en que me a puesto y asi no he querido fiarsela a mi 6. Pe. sino que corria por mi es tu correspondençia y la empe7. ço con besar a V. S. las manos por el fabor del caballo 8. y en fe de la estimaçion en que le pongo a de ser el reser9. vado asta en el nombre si mucho obliga un soborno mio 10. V. S. que tanto que acen con esta mala letra escrivo con 11. todo mi juizio. No escrivo a V. S. las novedades porque 12. mi padre lo haze en la suya pero me recerbo para 13. las que se uviere en addelante. Dios Ge. a V. S. los ms. as. 14. que deseo. Valª. y Março a 10 de 1662.15. Mas obligado Sdor. de V. S. 16. q. s. M. B. 17. D. Joseph de Castelvi y 18. Alagon19. Sr. Dn. Pº. de Sta. Çiçilia [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "267:2575.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo14/267:2575.JPG",
+      "url": "/legajos/legajo-14/images/267:2575.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "267:2575.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (3)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-14/cartas/002064.json",
+  "primary_image_url": "/legajos/legajo-14/images/267:2575.JPG"
+}

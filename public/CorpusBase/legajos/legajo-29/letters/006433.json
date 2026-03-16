@@ -1,0 +1,38 @@
+{
+  "legajo_id": "29",
+  "id_carta": "6433",
+  "order_in_legajo": 111,
+  "signatura": "202:4250.JPG",
+  "nombre_carta": "Carta de Pascual de Aragón a Pedro Santacilia y Pax",
+  "fecha_original": "3 de mayo de 1651",
+  "lugar": "Madrid",
+  "remitente": "Pascual de Aragón",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Con dos cartas me hallo de v. m. de 25 de marzo y primero de abril, y por ambas veo goza v. m. de buena salud de que quedo muy contento, y juntamente con la carta del licenciado Coloma y nuevas de su partida que cierto me tenía con cuidado no haber tenido aviso suyo después que salió de España, y estaré con él hasta saber haya llegado a salvamento, y así suplico a v. m. me avise si entendiere algo del viaje que hizo la nave en que irá embarcado, y pues v. m. sabe me tiene aquí con toda voluntad para servirle. No excuse darme las ocasiones en que más bien lo pueda mostrar. Dios guarde a v. m. muchos años. Madrid 3 de mayo de 1651. Don Pasqual de Aragon Sr. don Pedro de Santacilia y Pax Transcripción literal"
+  ],
+  "literal": [
+    "1. Con dos cartas me hallo de Vm de 25 de Março y 2. primero de Abril, y por ambas veo goca Vm de buena 3. salud de que quedo muy contento; y juntamente con 4. la carta del ??do Coloma y nuevas de su partda que çierto 5. me tenía con cuidado no haver tenido aviso suyo despues 6. que salio de España, y estare con el hasta saver aya 7. llegado a salvamento, y assi suppco a Vm me 8. havise si entendiere algo del viaje que hizo la 9. Nave en que ira embarcado; y pues Vm save me 10. tiene aqui con toda voluntad para servirle, no 11. escuse darme las ocassiones en que mas bien lo pueda 12. mostrar. Dios gde a Vm muchos años. Md 13. 3 de Mayo de 1651 14. Don Pasqual 15. de Aragon 16. Sor Don Pº de Santacilia y Paz [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "202:4250.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo29/202:4250.JPG",
+      "url": "/legajos/legajo-29/images/202:4250.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "202:4250.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-29/cartas/006433.json",
+  "primary_image_url": "/legajos/legajo-29/images/202:4250.JPG"
+}

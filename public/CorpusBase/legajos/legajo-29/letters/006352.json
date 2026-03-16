@@ -1,0 +1,38 @@
+{
+  "legajo_id": "29",
+  "id_carta": "6352",
+  "order_in_legajo": 41,
+  "signatura": "082:4169.JPG",
+  "nombre_carta": "Carta de Tomás Ruiz de Salas a Pedro Santacilia y Pax",
+  "fecha_original": "10 de febrero de 1641",
+  "lugar": "Vinarós",
+  "remitente": "Tomás Ruiz de Salas",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Sr. mío con esta remito a v. m. el pliego que había de enviar con la barca que partía de Tarragona y se me olvidó y mosén Juan Angles volvió ya de Penar [?] ya que no pasto a hallarse él escribirá a v. m. a que suplico perdone que se va la [?] Guarde Dios a v. m. como deseo. Vinarós de 10 febrero 1641 Servidor de v. m. Tomas Ruiz de Salas Sr. D. Pedro Santacilia Transcripción literal"
+  ],
+  "literal": [
+    "1. Sr Mio con esta remito a Vm El pliego 2. q avia de ynbiar con la barca qe pª 3. de Tarragona y se me olvido 4. y mosen Juº Angles Bolvio 5. ya de Penar ya que no pasto a 6. allarse el escrivira a Vm 7. a q suppco perdone q se va la [?] 8. gde dios a Vm como deseo Vns 9. de [?] febrero 641 10. Servidor de Vm 11. Thomas Ruiz de Salas 12. Sr D Pº Sta Cilia [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "082:4169.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo29/082:4169.JPG",
+      "url": "/legajos/legajo-29/images/082:4169.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "082:4169.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-29/cartas/006352.json",
+  "primary_image_url": "/legajos/legajo-29/images/082:4169.JPG"
+}

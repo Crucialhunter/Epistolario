@@ -1,0 +1,38 @@
+{
+  "legajo_id": "23",
+  "id_carta": "3856",
+  "order_in_legajo": 111,
+  "signatura": "198:3269.JPG",
+  "nombre_carta": "Carta de Pau Seguí a Pedro Santacilia y Pax",
+  "fecha_original": "25 de octubre de 1655",
+  "lugar": "Maó",
+  "remitente": "Pau Seguí",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Governant esta illa de Menorca ja rebia jo mercè de v. s. com fou {ESP. nombrar-me} per a alferes d'una d'estes viles. Això és de les del {ESP. batallón}, sabut, ara el rei nre. Sr. amb propietat ha feta nominació de la persona i v. s. del Sr. don Bartomeu Mercadal aquí i dit Sr. {ESP. nombrarme} per aquí col·lector m'obliga a que visca v. s. molts anys i manar-me com el més mínim que amb tot estaré prompte. Guardi Déu a v. s. com desitjo, de Maó i octubre 25 de 1655. Pau Segui Sr. procurador reial Transcripción literal"
+  ],
+  "literal": [
+    "1. Governant esta Illa de Menorca ia rabia2. io Marsed de V.Sa. com fonch nonbrarme3. p Alferes de una destas vilas axo es de les4. del batellon, sebut, hara el rey ne Sr.5. eb propietat ha feta nominasio de la6. persona y V.Sa. del Sr. don Bartt. Mar- 7. cadal assi y dit Sr. nonbrarme p assi8. Collector me obliga en que visca V.Sa.9. Molts Añys y menarme com el mes minim10. que eb tot estere promte ge deu ha V.Sa.11. com desitgo de Maho y 8bre 25 de 12. 165513. Pau Segui14. Sr. Por Rl [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "198:3269.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo23/198:3269.JPG",
+      "url": "/legajos/legajo-23/images/198:3269.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "198:3269.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-23/cartas/003856.json",
+  "primary_image_url": "/legajos/legajo-23/images/198:3269.JPG"
+}

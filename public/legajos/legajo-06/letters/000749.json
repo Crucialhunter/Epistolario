@@ -1,0 +1,38 @@
+{
+  "legajo_id": "6",
+  "id_carta": "749",
+  "order_in_legajo": 14,
+  "signatura": "425-210",
+  "nombre_carta": "Carta de Persona desconocida a Cecilia Zaforteza y Sureda de Sant Martí",
+  "fecha_original": "fecha sin especificar",
+  "lugar": "Mallorca",
+  "remitente": "Persona desconocida",
+  "destinatario": "Cecilia Zaforteza y Sureda de Sant Martí",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Muy señora mía: Sor María Josefa del Santísimo Rosario me pide que entre hoy y mañana, por Dios, le busque el libro de la introducción a la vida devota de San Francisco de Sales. Y así por el mismo Dios le suplico a v. s. que si lo tiene y se puede desprender de él por algún tiempo, me lo remita, con que quedando servida su reverencia lo quedará también con nuevo motivo para servir a v. s. Su más atento y seguro Transcripción literal"
+  ],
+  "literal": [
+    "1. Muy S<eño>ra mia: Sor Maria 2. Josefa del S< antísi>mo Rosario me 3. pide, q< ue entre hoy, y mañana 4. por Dios le busque el lib< r>o 5. de la introduccion a la vida 6. devota de S< a>n Francisco de 7. Sales, y assi por el mismo 8. Dios le sup< li>co a V.S. que si 9. lo tiene y se puede despren- 10. der de el por algun tiempo 11. me lo remita, con que que- 12. dando servida su Rev< erend>a 13. lo quedará tambien con 14. nuevo motivo p< ar>a servir 15. a V.S. su m< a>s at< en>to y seg< u>ro [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "425-210.jpg",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo06/425-210.jpg",
+      "url": "/legajos/legajo-06/images/425-210.jpg"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "425-210.jpg",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-06/cartas/000749.json",
+  "primary_image_url": "/legajos/legajo-06/images/425-210.jpg"
+}

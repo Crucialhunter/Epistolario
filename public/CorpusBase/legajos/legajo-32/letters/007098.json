@@ -1,0 +1,42 @@
+{
+  "legajo_id": "32",
+  "id_carta": "7098",
+  "order_in_legajo": 82,
+  "signatura": "123:1856a.JPG",
+  "nombre_carta": "Carta de Arnau Santacilia i Santacilia a Pedro Santacilia y Pax",
+  "fecha_original": "10 de abril de 1664",
+  "lugar": "Cádiz",
+  "remitente": "Arnau Santacilia i Santacilia",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "[1§] [2§] [3§] Transcripción literal"
+  ],
+  "literal": [
+    "1. 1. 1."
+  ],
+  "imagenes": [
+    {
+      "filename": "123:1856a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo32/123:1856a.JPG",
+      "url": "/legajos/legajo-32/images/123:1856a.JPG"
+    },
+    {
+      "filename": "124:1856b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo32/124:1856b.JPG",
+      "url": "/legajos/legajo-32/images/124:1856b.JPG"
+    },
+    {
+      "filename": "125:1856c.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo32/125:1856c.JPG",
+      "url": "/legajos/legajo-32/images/125:1856c.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "123:1856a.JPG",
+  "warnings": [],
+  "raw_source": "raw/legajos/legajo-32/cartas/007098.json",
+  "primary_image_url": "/legajos/legajo-32/images/123:1856a.JPG"
+}

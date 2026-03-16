@@ -1,0 +1,43 @@
+{
+  "legajo_id": "23",
+  "id_carta": "3751",
+  "order_in_legajo": 7,
+  "signatura": "005:3163a.JPG",
+  "nombre_carta": "Carta de Vicent París a Pedro Santacilia y Pax",
+  "fecha_original": "29 de mayo de 1627",
+  "lugar": "Madrid",
+  "remitente": "Vicent París",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Per estar tant mal dispost no puc ser llarg. Jo estic lo [?] d'en Toni Martin prenent les uncions amb parts [?] de molts doctors que a tal punt m'ha aportat aquesta cama que després se'n foren d'eixa terra no he tengut un dia de salut tot sia per amor de Déu. Els galeons del duc nostre amo van al Brasil, per son propi compte en esta forma que li paguen a raó de 500 reals {ESP. tonelada} entrada amb eixida cada {ESP. tonelada} són 25 quintals promet li gues gran presa i va en cada vaixell sa companyia d'infanteria i el {ESP. comercio} ho mercaders de Lisboa paguen la infanteria i si algun vaixell s'agregàs a dita armada pagarà un {ESP. tanto} per la conserva se li farà. En fi, van en forma de flota i par compte i ordre del duc nostre amo el viatge serà de sis mesos i en venir aniran a Barcelona. Així que n'hi ha venuts ni té ganes de vendre els vaixells de la (anada) partença del duc N¡nostre amo no en puc dar [?] sols se farà prest del que hi haurà avisaré tenint salut de nou agraeix molt la molta mercè i bona voluntat de v. m. i estic i estaré tots els dies que viuré prompte per al que de son servici serà, que li promet i estimo tant aqueix bon desig té d'afavorir-me com si m'enviarà mil ducats. Déu me deixi pagar tanta mercè. Guardi Déu a v. m. com pot i este son criat li desitja. Madrid i maig a 29 de 1627. Vicent Paris [1§] A don Pedro Santacilia i Pax, guardi Déu Transcripción literal"
+  ],
+  "literal": [
+    "1. Per estar tant mal dispost no pug fer llarc yo estic lo2. espital de anton martin prenint les huncios ab pars[?]3. de mols dotors que a tal punt me a Aportad aques4. ta cama que despres sen foren de hexa tera no he ten5. gut hun dia de salud tod sia per a mor de Deu=6. els galeons del duc nostr amo van al bracil per so7. n propi conte en esta forma que li paguen a rao8. de 500 Re la tunelada entrada ab hexida cada9. tunelada son 25 quintals promet li gues gran pres[a]10. y va en cada vexell sa conpañia de infanteria11. y el comersio ho mercaders de lisboa paguen la infante12. ria y si algun vexell se agregas a dita armada paga13. ra hun tanto per la conserva se li fara en fi van en14. forma de flota y par conte y orde del duc nostron15. amo el viaghe sera de sis mesos y en venir aniran16. a barselona axi que nia venust ni te ganes de [ven??]17. dre els vexxells de la (^anada) partensa del duc18. nostron amo no en pug dar sertenitad sols se fera19. prest de lo que hi aura avisare tenint salud= de nou20. agraex molt la molta merse y bona voluntatd de Vm.21. y estig y estare tost los dies que viure22. pronte pera lo que de son servisi sera que li prometi estime tad aqueix bon desix23. te de favorirme com si menviara mil ducast Deu me dexe pagar tanta merse ge Deu24. a Vm. com pot y este son criat li desicha madrit y maig a 29 de 1627 25. Visent Paris [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "005:3163a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo23/005:3163a.JPG",
+      "url": "/legajos/legajo-23/images/005:3163a.JPG"
+    },
+    {
+      "filename": "006:3163b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo23/006:3163b.JPG",
+      "url": "/legajos/legajo-23/images/006:3163b.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "005:3163a.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-23/cartas/003751.json",
+  "primary_image_url": "/legajos/legajo-23/images/005:3163a.JPG"
+}

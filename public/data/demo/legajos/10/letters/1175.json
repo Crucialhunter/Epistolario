@@ -1,0 +1,35 @@
+{
+  "id_carta": "1175",
+  "url_origen": "http://santacilia.info/info_carta2.php?id=1175",
+  "legajo": 10,
+  "signatura": "077-341a",
+  "nombre_carta": "Carta de Gabriel Roger a Jerónimo Pelegrín de Aragüés",
+  "fecha": "15 de agosto de 1668",
+  "lugar": "Madrid",
+  "remitente": "Gabriel Roger",
+  "destinatario": "Jerónimo Pelegrín de Aragüés",
+  "temas": "Sin especificar",
+  "idioma": "castellano",
+  "resumen": "Lorem ipsum ad his scripta blandit partiendo, eum fastidii accumsan euripidis in, eum liber hendrerit an. Qui ut wisi vocibus suscipiantur, quo dicit ridens inciderint id. Quo mundi lobortis reformidans eu, legimus senserit definiebas an eos. Eu sit tincidunt incorrupte definitionem, vis mutat affert percipit cu, eirmod consectetuer signiferumque eu per. In usu latine equidem dolores.",
+  "transcripcion": {
+    "modernizada": "Del cielo aguardamos la mejoría del señor d. Juan: Dios lo haga. Con esto aún estamos boca y ojos cerrados, bien es verdad clara que mi señor está muy bueno: Dios nos lo conserve. Para otras ocasiones escribiremos novedades si las hay, y Dios sea con todos. Madrid y agosto, 15 de 1668. Su aficionado y servidor, Gabriel Roger. Sr. Jeronimo Pelegrin [1§] A Jeronimo Pelegrin de Aragues, que Dios guarde muchos años como deseo. Mallorca",
+    "literal": "1. Del cielo aguardamos la mejora del Sr. Don juan. Dios 2. lo aga con esto aun estamos boca y ojos serrados; bien es verdad 3. clara que mi señor esta muy bueno Dios nos lo conserve 4. p otras ocasiones escriviremos; novedades si las ay, Y Dios 5. sea con todos. Madrdi y Agosto 15 de 1668. 6. Su afficionado y Servidor, Gabriel Roger. 7. [^Sr de Pelegrin^] [☞]"
+  },
+  "imagenes": [
+    {
+      "src": "/data/demo/legajos/10/images/1175__01__077-341a.jpg",
+      "order": 1,
+      "originalFilename": "077-341a.jpg"
+    },
+    {
+      "src": "/data/demo/legajos/10/images/1175__02__078-341b.jpg",
+      "order": 2,
+      "originalFilename": "078-341b.jpg"
+    }
+  ],
+  "capturado_en": "2026-02-25T17:25:27.365Z",
+  "hasImages": true,
+  "primaryImage": "/data/demo/legajos/10/images/1175__01__077-341a.jpg",
+  "previousCartaId": "1174",
+  "nextCartaId": "1176"
+}

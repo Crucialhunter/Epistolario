@@ -1,0 +1,57 @@
+{
+  "legajo_id": "40",
+  "id_carta": "5724",
+  "order_in_legajo": 99,
+  "signatura": "169:76a",
+  "nombre_carta": "Carta de Persona desconocida a Persona desconocida",
+  "fecha_original": "de 1662",
+  "lugar": "Bunyola",
+  "remitente": "Persona desconocida",
+  "destinatario": "Persona desconocida",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Quadern de lo que es treurà de Son Vivot el corrent any 1662 [1§] Transcripción literal"
+  ],
+  "literal": [
+    "1. Quadern de lo que es traura de Son Vivot lo corrent añy 1662"
+  ],
+  "imagenes": [
+    {
+      "filename": "169:76a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo40/169:76a.JPG",
+      "url": "/legajos/legajo-40/images/169:76a.JPG"
+    },
+    {
+      "filename": "170:76b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo40/170:76b.JPG",
+      "url": "/legajos/legajo-40/images/170:76b.JPG"
+    },
+    {
+      "filename": "171:76c.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo40/171:76c.JPG",
+      "url": "/legajos/legajo-40/images/171:76c.JPG"
+    },
+    {
+      "filename": "172:76d.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo40/172:76d.JPG",
+      "url": "/legajos/legajo-40/images/172:76d.JPG"
+    },
+    {
+      "filename": "173:76e.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo40/173:76e.JPG",
+      "url": "/legajos/legajo-40/images/173:76e.JPG"
+    },
+    {
+      "filename": "174:76f.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo40/174:76f.JPG",
+      "url": "/legajos/legajo-40/images/174:76f.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "169:76a.JPG",
+  "warnings": [],
+  "raw_source": "raw/legajos/legajo-40/cartas/005724.json",
+  "primary_image_url": "/legajos/legajo-40/images/169:76a.JPG"
+}

@@ -1,0 +1,43 @@
+{
+  "legajo_id": "7",
+  "id_carta": "793",
+  "order_in_legajo": 29,
+  "signatura": "39-24a copy",
+  "nombre_carta": "Carta de Nicolás de Santacilia y Togores a Jerónimo Pelegrín de Aragüés",
+  "fecha_original": "12 de abril de 1672",
+  "lugar": "Galdent (Llucmajor)",
+  "remitente": "Nicolás de Santacilia y Togores",
+  "destinatario": "Jerónimo Pelegrín de Aragüés",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Tàperes i sobrassades cercareu per enviar a Madrid a Nicolas [?] i a Pujol, i llengües i si un meló ací hi han ficat altra cosa i que sia molt i bo en Roi xulla pels diners i a desar ací dagor [?] Déu vos guardi. Galdent, a 12 d'abril 1672. Don Nicolas de Santacilia Jeroni Pelegri. [1§] A Jeroni Pelegri i Aragues, que Déu guard. Ciutat. Transcripción literal"
+  ],
+  "literal": [
+    "1. Taparas y sobrasadas sarcarau par 2. anviar a mabrit a Nicolas llo [?] y a Pu- 3. jol y llengos y si an molo asinficat altra 4. cosa y quas ia molt y bo an Roixua 5. pas dines y a datar asi dagor n [?] Deu 6. Vos Guarda Galdent a a 12 de 7. A.1672 8. Don Nicolas de Sta Cilia 9. Geroni Palagri [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "39-24a copy.gif",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo07/39-24a copy.gif",
+      "url": "/legajos/legajo-07/images/39-24a copy.gif"
+    },
+    {
+      "filename": "39-24b copy.gif",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo07/39-24b copy.gif",
+      "url": "/legajos/legajo-07/images/39-24b copy.gif"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "39-24a copy.gif",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (5)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-07/cartas/000793.json",
+  "primary_image_url": "/legajos/legajo-07/images/39-24a copy.gif"
+}

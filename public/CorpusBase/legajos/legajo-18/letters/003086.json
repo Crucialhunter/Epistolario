@@ -1,0 +1,38 @@
+{
+  "legajo_id": "18",
+  "id_carta": "3086",
+  "order_in_legajo": 122,
+  "signatura": "194:4925.JPG",
+  "nombre_carta": "Carta de Conde de Zavellá a Pedro Santacilia y Pax",
+  "fecha_original": "9 de agosto de 1664",
+  "lugar": "Madrid",
+  "remitente": "Conde de Zavellá",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "mío he recibido la de v. s. y holgadome mucho de que tenga salud la mía etaya mejor para servir a v. s. a quien heobedecido en ver al duque de Medína hoy y representarle lo que v. s. me manda habrá respondido que lanovedad en el consejo de Aragón pactan renuchadas [?] y por sus cosas de v. s. tornan por su cuenta El Sr. D. Nicolas mi primo vi el jueves y eta muy bueno biensabe v. s. que en los yo queda servirle cumple sinobligación. No hay otra cosa que avisar a v. s. porque en las novedades hay calma. Guarde Dios a v. s. como deseo Madrid Agosto a 9 de 1664 Ba v. s. l Transcripción literal"
+  ],
+  "literal": [
+    "1. Sr mio he recibido la de VS. y holga-2. dome mucho deq tenga salud la mia 3. etaya mejor para servir a VS. aquien 4. heobedecido en ver al Duque de Medína 5. oy y representarle loq VS me manda ha6. bra respondido q lanovedad enel Conso de 7. Aragon pactan renuchadas[?] y p sus cosas 8. de VS. tornan por su cuenta El sr D 9. Nicolas mi primo vi el jueves y eta muy 10. bueno biensabe VS. que en los yo queda 11. servirle cumple sinobligacion. No ay 12. otra cosa q avisar a VS porq en las nove13. dades ay calma. Ge Dios a VS como de14. seo Md Agosto a 9 de 1664 15. Ba VS l< m 16. Su mayor 17. El Conde de Çavella18. [Margen izquierdo][^ Sr D pedro sta Cilia y Pax] [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "194:4925.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo18/194:4925.JPG",
+      "url": "/legajos/legajo-18/images/194:4925.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "194:4925.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-18/cartas/003086.json",
+  "primary_image_url": "/legajos/legajo-18/images/194:4925.JPG"
+}

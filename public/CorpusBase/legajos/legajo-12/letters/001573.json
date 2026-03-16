@@ -1,0 +1,38 @@
+{
+  "legajo_id": "12",
+  "id_carta": "1573",
+  "order_in_legajo": 79,
+  "signatura": "101_6165.JPG",
+  "nombre_carta": "Carta de Pedro de Aragón a Pedro Santacilia y Pax",
+  "fecha_original": "6 de diciembre de 1641",
+  "lugar": "Villarreal",
+  "remitente": "Pedro de Aragón",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "No creerá v. m. cuanto sentí no hallarle en estos parajes a la salida que tengo que reñir con v. m. no me escribiese cuando Pau estuvo en Tarragona ya sabe v. m. cuanto le quiero y soy amigo que esto es lo más lo menos el ser hermanos. Ya tiene v. m. haya mi hermano y con sus consejos si ve el acierto de su jornada no llevamos y en que v. m. nos escriba tan corto podrá ser nos veamos presto, deseolo mucho y que discutamos largo. No puedo alargarme más que parte Diego de [?] y la poca seguridad que hay en las cartas me detiene. Guarde Dios a v. m. como deseo, Villarreal 6 de diciembre 1641. Espero de las noticias de v. m. y Antonio habrán casado la sucesión que mi casa ha menester, escríbame largo. D. Pedro Antonio de Aragón Transcripción literal"
+  ],
+  "literal": [
+    "1. No crera Vm quanto senti no allarle2. en estos parages a la salida que tengo3. que en ir con Vn no me escribyese quan4. do pau estubom taragona ya sabe Vm5. quanto le quiero y soy amygo que esto6. es lo mas lo menos el ser hermanos7. ya tiene Vm aya my hermano y con sus8. consejos si vel asierto de su jornada9. no llebamos y enque Vm nos es-10. criba tan corto podra ser nos beamos 11. presto deseo lo mucho y que discu12. ramos largo no puedo alargarme13. mas que parte diego de ???? y la14. poca siguridad que ay en las cartas me15. detiene guarde dios a Vm como16. deseo Billareal 6 de diciembre 164117. espero de las notizias 18. de Vm y antº abran19. casado la suzesion que mi casa a20. menester escribame largo21. D Pº Antº de Aragon [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "101_6165.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo12/101_6165.JPG",
+      "url": "/legajos/legajo-12/images/101_6165.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "101_6165.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-12/cartas/001573.json",
+  "primary_image_url": "/legajos/legajo-12/images/101_6165.JPG"
+}

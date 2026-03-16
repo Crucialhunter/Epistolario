@@ -1,0 +1,43 @@
+{
+  "legajo_id": "9",
+  "id_carta": "994",
+  "order_in_legajo": 29,
+  "signatura": "030-16a",
+  "nombre_carta": "Carta de Diego Álvarez a Arnau de Santacilia",
+  "fecha_original": "25 de abril de 1674",
+  "lugar": "Milán",
+  "remitente": "Diego Álvarez",
+  "destinatario": "Arnau de Santacilia",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Amigo y señor,Me huelgo de que su llegada de v. m. a esa ciudad haya sido con muy entera salud y las buenas nuevas que se sirve darme de que su [?] es para que será en breve: Dios le traiga a v. m. con bien, que es cuanto yo deseo. La carta remití al señor maestre de Campo y creo que esa sea la respuesta. Aquí hasta ahora no se ha pasado muestra de casa que será a interim [?] de este paro yo lo tengo por imposible se dice que va a parar [?] a la fin de este mes otros dicen que como no no sé lo que será. Mi señora la duquesa de Uceda parió un niño, que todos los caballeros y damas se han holgado infinito; y asimismo S.E el alférez [1§] de v. m. está con salud. Me ha escrito y remitido dinero para algunos criados de S. E. Por haber solo [?] aunque él me escribe se tiene [?] orden de v. m. pero darles nada y así por esta causa yo tengo la culpa. Al amigo Villalonga le he dado todo cuanto me ha pedido y pedirá pues no le dejaré faltar nada como es mi obligación y de todo lo que le voy dando tengo notas. Él hoy lo anotaba como a buena comedia cosa grande de música que acá hacer el señor conde Desmelgar [?]. Guarde Dios a v. m. muchos años, Milán a 25 de abril 1674. Besa las manos de v. m. su mayor amigo, Diego Alvarez Señor capitán don Arnau de Santacilia Transcripción literal"
+  ],
+  "literal": [
+    "1. Amigo Ysr meguelgo deque su 2. llegada ha De Vmd. aesa Ciudad 3. ayasido con muí entera salud 4. y las buenas nuebas quesesirve 5. Darme dequesurechida[?] espara q 6. sera enbreve no Ds le trayga a Vmd. 7. Conbien que es quanto Yo deseo 8. LaCarta remití alsr mre de Campo 9. Ycreo queesa sea larespuesta a10. qui asta aora no sea pasado 11. muestra Decare quesera a lter [?] 12. deste Paro yo lo tengo Porynpu13. sible se decenqueba apaura[?] 14. alafin deste mes otros hie en15. queacomo no nose loquesera 16. mi sra la duquesa de ucedo Parío 17. un nino quetodos los cavalleros 18. Y damas sean olgado Ynfinito 19. Yasi mismo se el Alfz[?] [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "030-16a.jpg",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo09/030-16a.jpg",
+      "url": "/legajos/legajo-09/images/030-16a.jpg"
+    },
+    {
+      "filename": "031-16b.jpg",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo09/031-16b.jpg",
+      "url": "/legajos/legajo-09/images/031-16b.jpg"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "030-16a.jpg",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-09/cartas/000994.json",
+  "primary_image_url": "/legajos/legajo-09/images/030-16a.jpg"
+}

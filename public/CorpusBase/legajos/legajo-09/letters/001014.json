@@ -1,0 +1,43 @@
+{
+  "legajo_id": "9",
+  "id_carta": "1014",
+  "order_in_legajo": 51,
+  "signatura": "072-36a",
+  "nombre_carta": "Carta de Diego Álvarez a Arnau de Santacilia",
+  "fecha_original": "31 de enero de 1675",
+  "lugar": "Milán",
+  "remitente": "Diego Álvarez",
+  "destinatario": "Arnau de Santacilia",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Amigo y señor, En el correo pasado avisé a v. m. cómo el alférez Andres Albertí hizo dejación de la bandera de orden del señor Maestre de Campo y con voluntad de dicho señor Maestre de Campo sentó un encomendado del señor príncipe de Liñí, pues yo creo que sobre este ya le habrá escrito a v.m. el alférez Juan Moreno y [?] que desde 24 de este mes ha sentado dicho alférez Juan Moreno de Castellano de la Ciudadela de Alejandría al añférez Andres Alberti así que yo la dejación sentó su plazo en la compañía del Maestre de Campo díjome que él no sentar en la de v.m. era por causa de pretender sacar licencia para España; asimismo me dijo que sus cuentas las había hecho delante del señor sargento mayor Antonio Bellon, que es cuento puedo decir a v.m. Yo [1§] estoy esperando al sargento de v. m. para la semana que tiene de quien espero in formarme de las cosas de la compañía que es cuanto puedo decir a v. m. yo he hecho delíjencia dePedro Pevir [?] Na tural del reino de Aragón y no seala tal hombre porque el alférez de don Galceran era de Madrid. yío econocí do a su pade. Guarde Dios a v. m. Madrid muchos años Milán a 31 de enero 1675. Besa las manos de v. m. Su amigo yservidor Diego alvarez Señor capitán don Harnao de Santa zícílía [2§] Transcripción literal"
+  ],
+  "literal": [
+    "1. Amigo Yseñor en el Correo passado avíse 2. a Vmd. Como el Alfz andres albertí yzo de3. jacíon dela Vandera de orden del Señor Mre 4. de Campo y Con voluntad dedho Señor Mre 5. de Campo Sento. un encomendado del Señor 6. Pri>ncip>e deligni pues yocreo quesobreeste 7. yale abra escrito a Vmd. el Alfz Juan Mo8. reno y boívía que desde 24 deste Mes asen9. tado dho alfz Juan Moreno deCastellano 10. dela Ciudadela de Alexa 11. El Alfz andres albertí así queyo la dejaçíon 12. Sento. Suplaza. En la Compa del Mre de 13. Camp díjome. que el nosentar en la de Vmd. 14. era. por causa de pretender Sacarlizen15. zia para españa asímísmo Medíjo q 16. Sus cuentas las abia hecho delante del 17. Señor Sargto Mayor anto Vellon 18. que es quanto puedo deçir a Vmd. yo [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "072-36a.jpg",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo09/072-36a.jpg",
+      "url": "/legajos/legajo-09/images/072-36a.jpg"
+    },
+    {
+      "filename": "073-36b.jpg",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo09/073-36b.jpg",
+      "url": "/legajos/legajo-09/images/073-36b.jpg"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "072-36a.jpg",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-09/cartas/001014.json",
+  "primary_image_url": "/legajos/legajo-09/images/072-36a.jpg"
+}

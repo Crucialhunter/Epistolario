@@ -1,0 +1,43 @@
+{
+  "legajo_id": "35",
+  "id_carta": "5391",
+  "order_in_legajo": 201,
+  "signatura": "250:8238a.JPG",
+  "nombre_carta": "Carta de Magín Ribes a Pedro Santacilia y Pax",
+  "fecha_original": "4 de marzo de 1664",
+  "lugar": "Ibiza",
+  "remitente": "Magín Ribes",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Señor don Pedro Santacilia y Pax, Con una de v. s. me hallo de 3 de enero, la cual he recibido por manos del Sr. Cristóbal Rose llón a los 4 de febrero, he tenido particular contento en ella de saber goza v. s. entera salud, Dios se la conserva los años de mi deseo. doy a v. s. Las gracias de la buena expidición (sic) ha tenido dicho Rosellón con las cuentas de su padre el tiempo fue teniente (sic) de Pdor. real de esta isla, que no se esperaba menos de un tan gran ministro de su majestad. he puesto con debida obediencia la letra de oficio me ha entregado el señor Cristóbal Rosellón. Le he dado seiscientos cincuenta un real y medio, moneda de plata. Lo que v. s. me insinúa que por causa de la poca salud del señor don Matías Gual no me ha podido enviar resulación (sic) de algunas dificultades le tengo comunicado, juntamente ordenarme lo que tengo de hacer en la causa de Pedro Ferrer, de Benisaït, que habrá de haber dilación hasta que yo le haga sabedor de ellas. Digo, señor, que con carta de 24 de agosto 1664 y con otra de 29 de septiembre 1663 tengo dado aviso al Sr. don Matías y a v. s., a quien guarde Dios largos y felices años. Ibiza, Marzo a 4 de 1664. De v. s. que s. M. l. B. Magín Ribes Transcripción literal"
+  ],
+  "literal": [
+    "1. Señor Don Pedro2. Sta. Silia y Pax3. Con una de V.S. me hallo de 3 de hanero la qual4. he resebido por manos del Sor. Christoval Rose=5. llon a los 4 de fabrero he tenido particular contento6. en ella de saber gossa V.S. entera salut Dios7. se la conserva los Años de mi desejo=8. Doy a V.S. las gracias de la buena expidicion9. a tenido dicho Rosellon con las quentas de su10. Padre el tiempo fue tiniente de Pdor. Real11. de esta Isla que no se esperava menos de un tan12. gran ministro de Su Magd.=13. He puesto con debida obediencia la letra de14. officio me ha entregado el Señor Christoval15. Rosellon le he dado seiscientos sinquenta un real16. y medio moneda de Plata, lo que V.S. me insinua17. que por causa de la poca salud del Señor Don18. Mathias Gual no me ha podida inbiar resulacion19. de algunas dificultades le tengo comunicado20. juntamente ordenarme lo que tengo de haser en la21. causa de Pedro Ferrer de Benisayt que habra de22. haver dilacion hasta que yo le haga sabidor23. dellas Digo Señor que con carta de 24 de 24. Agosto 1664 y con otra de 29 de 7bre [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "250:8238a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo35/250:8238a.JPG",
+      "url": "/legajos/legajo-35/images/250:8238a.JPG"
+    },
+    {
+      "filename": "251:8238b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo35/251:8238b.JPG",
+      "url": "/legajos/legajo-35/images/251:8238b.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "250:8238a.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-35/cartas/005391.json",
+  "primary_image_url": "/legajos/legajo-35/images/250:8238a.JPG"
+}

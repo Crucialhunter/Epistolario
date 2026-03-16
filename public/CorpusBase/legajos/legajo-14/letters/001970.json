@@ -1,0 +1,43 @@
+{
+  "legajo_id": "14",
+  "id_carta": "1970",
+  "order_in_legajo": 11,
+  "signatura": "116:2474a.JPG",
+  "nombre_carta": "Carta de Bernat Casas a comte de Perelada i marquès d'Anglesol",
+  "fecha_original": "11 de diciembre de 1631",
+  "lugar": "Lugar sin especificar",
+  "remitente": "Bernat Casas",
+  "destinatario": "comte de Perelada i marquès d'Anglesol",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "En nom de la senyora Ribas, mi senyora, dic a v. senyoria que me faci caritat de parlar amb el senyor capità Don Pedro Santacilia, que parlàs amb el Sr. misser Viñoles que em tregui de la preso per a soldat de la companyia que el serviré lleialment com sempre he servit al senyor Ribes y així a bé que no en conegui v. s. me som atrevit escriure a v. s. per la gran confiança. Jo entenc que parlarà amb lo Sr. misser Viñoles, cercant-me el negoci i serà fer-ne molt gran mercè a mi senyora que si ella fora en Ciutat [?] Palamós ella en persona fos anada a besar las mans a v. s. i confiat no dic mes si no que [?] el Senyor li doni molts anys de vid, avui als 11 desembre 1631. Bernat Casas Criat de v. s. [1§] A mi senyor comte de Perelada {ESP. salud y vida} en Barcelona [2§] Transcripción literal"
+  ],
+  "literal": [
+    "1. En nom de la señora Ribas mi señora dich a vºsa señoria 2. que me fasa caritat de parlar ab lo Señor Capita Don Pedro 3. Sta. Cilia que parlas ab lo Sr. misser Viñoles quem trayga 4. de la preso com ha per soldat de la companyia q lo 5. servire llealment com sempre he servit al senyor 6. ribes y axins ha be que non conege Vsª. Srª. me som 7. atravit escriurer a Vsª. Srª. per la gran confiansa 8. Jo en tinch que parlara ab lo Sr. misser Viñoles [?] 9. sercant me lo negoci y sera fer ne molt gran merce 10. a mi señora que si ella fora en Ciutat [?] 11. palamos ella en persona fora anada a basar las mans 12. a Vsª. Srª. y confiat no dich mes si no que [?] 13. Señor li done molts Anis de vida vuy als 11 des 1631 14. Bernat Cassas 15. Criat de Vsª. Srª. [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "116:2474a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo14/116:2474a.JPG",
+      "url": "/legajos/legajo-14/images/116:2474a.JPG"
+    },
+    {
+      "filename": "117:2474b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo14/117:2474b.JPG",
+      "url": "/legajos/legajo-14/images/117:2474b.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "116:2474a.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-14/cartas/001970.json",
+  "primary_image_url": "/legajos/legajo-14/images/116:2474a.JPG"
+}

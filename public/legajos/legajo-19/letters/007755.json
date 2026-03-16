@@ -1,0 +1,38 @@
+{
+  "legajo_id": "19",
+  "id_carta": "7755",
+  "order_in_legajo": 53,
+  "signatura": "477_7954.JPG",
+  "nombre_carta": "Carta de Jerónimo de Cabrera a Pedro Santacilia y Pax",
+  "fecha_original": "fecha sin especificar",
+  "lugar": "lugar sin especificar",
+  "remitente": "Jerónimo de Cabrera",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Mi Sr. don Pedro de Santacilia Siendo su señoría persona tan noble y caritativa me atrevo careciendo en una cama imposibilitado de salud como lo de demás a importunar a su señoría favorezca un pobre [?] que corre fortuna que don Vicente Vallés me había ofrecido unos dineros ahora se ha ido la vuelta del Puerto de Santa María y así me hallo como a su señoría arriba le [?] por tal necesidad importuno a su señoría en quien confío hallar el auxilio que en su noble pecho espero hallar, que por poco que el favor sea de su señoría será para [?] simo recibido de su [?] Servidor y criado de su señoría,Don Jerónimo de Cabrera, sobrino de don Bernardo de Cabrera A don Pedro de Santacilia, que Nuestro Señor guarde. Transcripción literal"
+  ],
+  "literal": [
+    "1. mi Sr don pº de Santa Sisilia2. Siendo su señoria persona tannoble y cari3. tatiba matrebo caresiendo en una cama 4. ynposibilitado de salud como lo de demas 5. a enportunar a su Señoria faboresca un proba6. ?? que corefurtuna que don bisente Balles 7. meabia ofresido unos dineros agora seai8. do la buelta del punto de santa maria 9. y asime hallo como a su Señoria [?] 10. por tal nesesidad enportuno a su Señoria en 11. quien confio hallar elausilio quen 12. su noble pecho espero hallar que por poco 13. que el fabor ha de su Señoria sera pa14. ra [?] simo resibido de su S ??15. [en el marge esquerre]16. Serbidor y criado de su señoria don gero17. nimo de Cabrera Sobrino de don ber18. nardo de Cabrera 19. [en altra pàgina]20. A don Pº de Santasisilia q. 21. nuestro Sr gde. [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "477_7954.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo19/477_7954.JPG",
+      "url": "/legajos/legajo-19/images/477_7954.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "477_7954.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-19/cartas/007755.json",
+  "primary_image_url": "/legajos/legajo-19/images/477_7954.JPG"
+}

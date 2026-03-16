@@ -1,0 +1,43 @@
+{
+  "legajo_id": "21",
+  "id_carta": "3606",
+  "order_in_legajo": 295,
+  "signatura": "507:5894a.JPG",
+  "nombre_carta": "Carta de Juan Doménech a Pedro Santacilia y Pax",
+  "fecha_original": "3 de junio de 1669",
+  "lugar": "Mallorca",
+  "remitente": "Juan Doménech",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Señor mío Sabrá vuestra señoría como Gloria a Dios que ha llegado hasta su casa con salud. Me holgare v. señoria y todos esos mis senores la tengan muy cumplida. Señor mío el portador de esta y en deudo mío que va para estar he citado hoy un poco tiempo mientras tanto que busca comodidad para trabajar de labrador le estimaré a v. señoria en lo que hubiere lugar que este bajo de su protección, de su señoría. No tengo ningún regalo en que poder servir a su señoría. Los nabos no valen nada al tiempo serviré a su señoría con lo que hubiere en esta tierra, suplicándole no me tenga en olvido en mandarme en muchas cosas de su servicio. Junio a 3 de 1669. Criado de su señoría Juan Domenech [?] A don Pedro de Santacilia, que Dios guarde en Mallorca [2§] Transcripción literal"
+  ],
+  "literal": [
+    "1. [margen izquierdo] [^ Señor mio]2. Sabra vueSeñoria como Gloria adios 3. calle gado asta su casa con salud [?] 4. gare vSeñoria I todos esos mis senores la tengan 5. mui cumplida Señor mio el por todos 6. desta y endeudo mio que va para star he 7. sitado oi un poco tiempo mientras tan to 8. que busca comodidad para trabajar de la 9. brador le stimare a vSeñoria en lo que 10. uviere lugar que ste bajo de su pro 11. tecsion, de Su Señoria no tengo nigun re 12. galo enque poder server aSuSeñoria los 13. nabos[?] no valen nada al tiempo servire 14. aSuSeñoria con loque uviere en sta tiera 15. suplicandole no me tenga en olvido en 16. mandarme en muchas cosas de Su Servi 17. sio Juni a 3 de 1669 18. [margen derecho] [^ Criado de suSeñoria Juan Domenec] [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "507:5894a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo21/507:5894a.JPG",
+      "url": "/legajos/legajo-21/images/507:5894a.JPG"
+    },
+    {
+      "filename": "508:5894b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo21/508:5894b.JPG",
+      "url": "/legajos/legajo-21/images/508:5894b.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "507:5894a.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-21/cartas/003606.json",
+  "primary_image_url": "/legajos/legajo-21/images/507:5894a.JPG"
+}

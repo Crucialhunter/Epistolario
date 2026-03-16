@@ -1,0 +1,53 @@
+{
+  "legajo_id": "6",
+  "id_carta": "559",
+  "order_in_legajo": 60,
+  "signatura": "051-30aa",
+  "nombre_carta": "Carta de Maria Josepha a Cecilia Zaforteza y Sureda de Sant Martí",
+  "fecha_original": "3 de agosto de 1748",
+  "lugar": "Barcelona",
+  "remitente": "Maria Josepha",
+  "destinatario": "Cecilia Zaforteza y Sureda de Sant Martí",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Amiga i querida mia del meu cor, Dies passats rebí una carta tua per mà del patró Portell, la que em serví del major {ESP. consuelo} per les bones notícies de la tua salut, encara que sento que et trobassis amb el {ESP. cuidado} de la indisposició del Sr. D. Francesc, però celebro la {ESP. milloria} i per les cartes de correu me diuen quedava del tot {ESP. convalescut} que ho celebro com té pots creure. Jo [a la izquierda del texto, de arriba a abajo] t’estimaré digues a mi Sra. dona Joana Sureda que m’alegro que el Sr. D. Ramon ho passàs millor, i a la Maria Antònia que m’apar que em recomanà alguna cosa que li enviàs i se m’ha {ESP. olvidat} què era i així que me’n faci memòria que jo desitjo servir-la [1§] quedo per servir-te boníssima i els {ESP. demés} de casa sense novetat, doncs el pare i convaleix, encara que poc a poc, veritat és que com el calor és tan gran no poden practicar els metges els remeis que voldrien. Tots ens trobam amb el disgust de la mort de l’oncle Sr. D. Ramon pammar [?] que morí el dia 27 del més passat i ahir combregaren la seva germana senyora Teresa, que ha 3 anys que està patint i és cert que a la pobra tia dona Gaietana Nostre la carrega de tants treballs com pot portar. a la mia germana a la [2§] Centelles li ha tornat a repetir la flucció amb molta violència, que l’obliga anar-se’n dilluns vinent a Centelles a prendre les aigües de ribes. I sols estaràallí els dies precisos per prende-les i tornarà {ESP. luego} per aprofitar el poc temps que ens queda d’estar juntes. he fet entregar a Ignasi Vila onze pams de cambrai, que amb molts precs n’he rellevat sis diners de cada pam i queda a peseta justa el pam. Celebraré que t’agràdia i avisa si altra cosa se t’ofereix i posa’m a l’obediència del Sr. D. Francesc a la casa Forteza Verí Berga i Dameto i podràs donar l’enhora [En la otra página del documento, la part efinal de la carta] bona a dona Beatriu, que la considero ja partirà i a la Maria Ignàsia i {ESP. demés} amigues mil expressions, totes les mies germanes i noia estimam les tues i D. Salvador està als teus peus i jo quedo tua per servir-te i pregant al te gaurda els molts anys que desitjo. Barcelona, i agost 3 de 1748. Tua de cor eternament,Maria Josepa Amiga i {ESP. querida} mia Transcripción literal"
+  ],
+  "literal": [
+    "1. Amiga y queda mía del meu cor 2. dias pasats rebí una carta tua 3. per ma del patro portell, la 4. quem serví del major consuelo 5. per las bonas noticias de la tua 6. salut, encara que sento quet 7. trobases ab lo cuydado de la indis- 8. posicio del Sr. Dn. Franh pero 9. celebro la milloria, y per las 10. cartas de correu me divan que- 11. daba del tot conbalescut que 12. o celebro com te pots creure, yo 13. [A la izquierda del texto, de arriba a abajo ]14. te estimare digas a mi Sa. Da. Juana sureda que me alegro 15. quel Sr. Dn. ramon ó pasas millor, y a la Maria Antonia que me 16. apar quem recomaa alguna cosa que li envias y se me á olvidat 17. que era y axy que men fasa memoria que jo desitjo servirla [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "051-30aa.jpg",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo06/051-30aa.jpg",
+      "url": "/legajos/legajo-06/images/051-30aa.jpg"
+    },
+    {
+      "filename": "052-30ba.jpg",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo06/052-30ba.jpg",
+      "url": "/legajos/legajo-06/images/052-30ba.jpg"
+    },
+    {
+      "filename": "052-30bb.jpg",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo06/052-30bb.jpg",
+      "url": "/legajos/legajo-06/images/052-30bb.jpg"
+    },
+    {
+      "filename": "051-30ab.jpg",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo06/051-30ab.jpg",
+      "url": "/legajos/legajo-06/images/051-30ab.jpg"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "051-30aa.jpg",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-06/cartas/000559.json",
+  "primary_image_url": "/legajos/legajo-06/images/051-30aa.jpg"
+}

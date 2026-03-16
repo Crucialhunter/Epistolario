@@ -1,0 +1,38 @@
+{
+  "legajo_id": "21",
+  "id_carta": "3513",
+  "order_in_legajo": 202,
+  "signatura": "378:5801.JPG",
+  "nombre_carta": "Carta de Rafael Vives García a Pedro Santacilia y Pax",
+  "fecha_original": "11 de septiembre de 1642",
+  "lugar": "Maó",
+  "remitente": "Rafael Vives García",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Acaba de llegar una faluca que pasa para Nápoles. Detendré el pliego de v. s. hasta la respuesta de esta y tendré escrito según la orden que tenía y en lo demás v. s. me mande en que le sirva a quien Dios Nro Sr. guarde. Mahón y septiembre a 11 de 1642. El Sr. Rafael Vives y Garcia Sr. gobernador Transcripción literal"
+  ],
+  "literal": [
+    "1. Acaba dellegar Unafaluca q passapara 2. Napoles detendre el Pliego deVS. Hastala 3. respuesta desta ytendre escrito segun la 4. ordenq tenia yenlo demas VS. megustan[?] 5. deenq lesirba aqui endios ntro sr gde 6. Mahon y 7bre a 11 de 1642 7. El sr Rafael Vives Y Garçia8. [Margen izquierdo][^ sr Gdor] [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "378:5801.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo21/378:5801.JPG",
+      "url": "/legajos/legajo-21/images/378:5801.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "378:5801.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-21/cartas/003513.json",
+  "primary_image_url": "/legajos/legajo-21/images/378:5801.JPG"
+}

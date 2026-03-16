@@ -1,0 +1,38 @@
+{
+  "legajo_id": "29",
+  "id_carta": "6314",
+  "order_in_legajo": 12,
+  "signatura": "017:4130.JPG",
+  "nombre_carta": "Carta de Onofre de Cruïlles i Urrea a Pedro Santacilia y Pax",
+  "fecha_original": "11 de diciembre de 1627",
+  "lugar": "Castellón",
+  "remitente": "Onofre de Cruïlles i Urrea",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Som molt alegrat del bon succés ha tingut v. m. amb la captura de Francisco Mir que segons bravejava que havia de matar m'apar estada sens tirar molts any pugui v. m. fer justícia i castigar {ESP. bellacos}. Ja escric a mi Sra. la comtessa que si jo [?] en poder descansar a v. m. en res m'ho mani avisar que acudiré amb la brevetat que hauria, i a v. m. dic el mateix que mani en què el servesca. Guardi'l Nre. Sr. els anys de mon desig. Castelló i desembre als 11 de 1627. Don Onofre de Cruilles i Urrea Sr. don Pedro Santacilia Transcripción literal"
+  ],
+  "literal": [
+    "1. Som molt alegrat del bon succes ha tingut 2. vm. ab la captura de Franº mir que segons bra3. vejava que avia de matar me apar estada 4. cens tirar mols añy puga Vm. fer justicia 5. y castigar vellachos ja escric a mi sª. la 6. Comptesa que si jo sobo en poder descan7. sar a Vm. en res mo man avisar que a8. cudire ab la brevedat que ueuria, y a Vm. 9. dic lo matex que man en quel cervesca 10. gdel N. Sr. los añys de mon desixt Cas11. tello y desembre als 11 de 1627 12. Don onofre de Cruilles 13. y Urrea 14. Sr. don pedro Santacilia [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "017:4130.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo29/017:4130.JPG",
+      "url": "/legajos/legajo-29/images/017:4130.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "017:4130.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-29/cartas/006314.json",
+  "primary_image_url": "/legajos/legajo-29/images/017:4130.JPG"
+}

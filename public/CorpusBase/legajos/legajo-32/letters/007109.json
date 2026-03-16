@@ -1,0 +1,38 @@
+{
+  "legajo_id": "32",
+  "id_carta": "7109",
+  "order_in_legajo": 131,
+  "signatura": "140:1867.JPG",
+  "nombre_carta": "Carta de Pedro Aulí a Pedro Santacilia y Pax",
+  "fecha_original": "26 de abril de 1665",
+  "lugar": "Cádiz",
+  "remitente": "Pedro Aulí",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Señor Esta halle a v. s. con la salud que de esta su casa deseamos acá le tenemos por todo aquello que v. s. nos quisiese mandar las novedades de por acá son que el príncipe de montexaxo llego en esta ciudad a 24 de este que vino por la porta y [?] astira en Cádiz muy presto el duque de Averio la armada va muy aprieta a prestarse pero ata ahora hay muy pocos navíos El señor don Antonio Pimentel gobernador de Cádiz estaba en [?] el tiempo que se tomaban las informaciones del proceso le hacen y ha venido de su majestad. se fuere en Granada y asimismo han hecho salir de esta ciudad de Cádiz todos sus amigos que es Sr. D. facundo Cabesa de Vacha y Sr. D. Juan de Soto y Antonio hisquierdo y otros más el tiempo que se toman las informaciones y yo confío en Dios que ha de volver a gobernar a esta ciudad no hay más de que avisar a v. s. sino que Dios lo guarde como puede y de esta su casa le deseamos el señor do Juan de mi parte muchos recaudos y a todos los demás amigos Cádiz y abril a 26 de 1665 criado de v. s. Pedro Auly Transcripción literal"
+  ],
+  "literal": [
+    "1. Señor 2. Esta halle ha V. S. con la salud que desta 3. su cassa deseamos aca le tenemos por todo aquello que 4. V. S. nos quisiese mandar las novedades de por ha5. ca son que el Prinsipe de montexaxo llego 6. en esta ciudad a 24 deste que vino por la 7. porta y [?] astira en Cadis muy presto 8. el Duque de Averio la Armada va muy aprieta 9. a prestarse pero ata agora ay muy pocos na10. vios = 11. El Señor don Antonio Pimentel Governador 12. de Cadis estava en [?] el tiempo que se to13. mavan las informationes del proseso le asen 14. y ha venido de su Magd. se fuere en granada 15. y asi mesmo an echo salir desta ciudad de Cadis 16. todos sus amigos qui es d. facundo Cabesa de 17. Vacha y d. Juan de Soto y Antonio hisquierdo 18. y otros mas el tiempo que se toman las in19. formationes y jo confio en Dios que ha de 20. bolver a governar ha esta ciudad no ay mas 21. de q. avisar ha V. S. sino que dios lo gde 22. como puede y desta su casa le deseamos el 23. Senor do Juan de mi parte muchos recaudos 24. y a todos los demas amigos Cadis y Abril a 26 de 25. 1665 26. Criado de V. S. 27. Pedro Auly [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "140:1867.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo32/140:1867.JPG",
+      "url": "/legajos/legajo-32/images/140:1867.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "140:1867.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-32/cartas/007109.json",
+  "primary_image_url": "/legajos/legajo-32/images/140:1867.JPG"
+}

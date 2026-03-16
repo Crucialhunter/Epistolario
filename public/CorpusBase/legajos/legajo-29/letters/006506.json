@@ -1,0 +1,38 @@
+{
+  "legajo_id": "29",
+  "id_carta": "6506",
+  "order_in_legajo": 194,
+  "signatura": "317:4323.JPG",
+  "nombre_carta": "Carta de Nicolás de Santacilia y Togores a Pedro Santacilia y Pax",
+  "fecha_original": "4 de noviembre de 1664",
+  "lugar": "Madrid",
+  "remitente": "Nicolás de Santacilia y Togores",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "La de v. m. de 4 de octubre he recibido con mucho gusto holgándome de su salud que es buena Dios se la conserve muchos años Por acá se dice que ha muerto el duque de Auero, el cardenal de Aragón le han dado el Arsobispado de Toledo, y han dado al hijo del rey el obispa de Málaga lo de inquisidor general; la jornada, no tengo que decir a v. m. porque cuando pienso que esta resecelio vuelvo a estar a los principios el conde de savella se va hoy o mañana, palou vino a despedirse de mi, y me digo que quería llevase carta para v. m. ya verá a v. m. en que conformidad la escribí y es que estaba ocupado Dios guarde a v. m. muchos años como de ese y es menester Madrid a 4 de noviembre 1664 Sr. don Nicolas de Santacilia y Togores mi padre y señor [1§] Transcripción literal"
+  ],
+  "literal": [
+    "1. La de VM de 4 de octubre e resibido 2. con mucho gusto olgandome de su 3. salud que es buena Dios se la con4. serve muchos años 5. Por aca se dise que a muerto el 6. Duque de Auero, el cardenal de 7. Aragon le an dado el Arsobispa8. do de Toledo, y an dado al hijo 9. del Rey el obispa de malaga 10. lo de inquisidor general; la jorna11. da, no tengo que desir a VM porque 12. quando pienso que esta resecelio 13. buelvo a estar a los prinsipios el 14. conde de savella se va oy o maña15. na, palou vino a despedirse de 16. mi, y me digo que queria lleva17. se carta para VM ya vera VM 18. en que conformidad la escrivi y es 19. que estava ocupado Dios Guarde 20. a VM muchos años como dese y es21. menester Madrid a 4 de noviembre 22. 1664 23. Don Nicolas de Sta 24. Cilia y Togores 25. mi Padre y Señor [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "317:4323.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo29/317:4323.JPG",
+      "url": "/legajos/legajo-29/images/317:4323.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "317:4323.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-29/cartas/006506.json",
+  "primary_image_url": "/legajos/legajo-29/images/317:4323.JPG"
+}

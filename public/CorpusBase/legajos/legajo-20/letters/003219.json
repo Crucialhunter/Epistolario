@@ -1,0 +1,38 @@
+{
+  "legajo_id": "20",
+  "id_carta": "3219",
+  "order_in_legajo": 94,
+  "signatura": "127:6000.JPG",
+  "nombre_carta": "Carta de Nicolás de Santacilia y Togores a Pedro Santacilia y Pax",
+  "fecha_original": "12 de noviembre de 1667",
+  "lugar": "Madrid",
+  "remitente": "Nicolás de Santacilia y Togores",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "[1§] Transcripción literal"
+  ],
+  "literal": [
+    "1. 2. 3. 4. 5. 6. 7. 8. 9. 10. 11. 12. 13. 14. 15. 16. 17. 18. 19. 20. 21. 22. 23. 24. 25. [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "127:6000.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo20/127:6000.JPG",
+      "url": "/legajos/legajo-20/images/127:6000.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "127:6000.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-20/cartas/003219.json",
+  "primary_image_url": "/legajos/legajo-20/images/127:6000.JPG"
+}

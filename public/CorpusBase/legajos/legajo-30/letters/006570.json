@@ -1,0 +1,48 @@
+{
+  "legajo_id": "30",
+  "id_carta": "6570",
+  "order_in_legajo": 127,
+  "signatura": "052:5408a.JPG",
+  "nombre_carta": "Carta de Jorge Dezcallar a Pedro Santacilia y Pax",
+  "fecha_original": "16 de septiembre de 1643",
+  "lugar": "Mallorca",
+  "remitente": "Jorge Dezcallar",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Â [1§] Â [2§] Â [3§] Transcripción literal"
+  ],
+  "literal": [
+    "1. 1. 1."
+  ],
+  "imagenes": [
+    {
+      "filename": "052:5408a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo30/052:5408a.JPG",
+      "url": "/legajos/legajo-30/images/052:5408a.JPG"
+    },
+    {
+      "filename": "053:5408b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo30/053:5408b.JPG",
+      "url": "/legajos/legajo-30/images/053:5408b.JPG"
+    },
+    {
+      "filename": "054:5408c.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo30/054:5408c.JPG",
+      "url": "/legajos/legajo-30/images/054:5408c.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "052:5408a.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (9)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-30/cartas/006570.json",
+  "primary_image_url": "/legajos/legajo-30/images/052:5408a.JPG"
+}

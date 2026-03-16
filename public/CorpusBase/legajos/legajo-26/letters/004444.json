@@ -1,0 +1,38 @@
+{
+  "legajo_id": "26",
+  "id_carta": "4444",
+  "order_in_legajo": 184,
+  "signatura": "266:3539.JPG",
+  "nombre_carta": "Carta de Tomás Gómez a Pedro Santacilia y Pax",
+  "fecha_original": "24 de abril de 1647",
+  "lugar": "Madrid",
+  "remitente": "Tomás Gómez",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "El Sr. secretario Juan Valero me dio una de v. m. [?] de marzo y pocos días antes me habló en palacio el conde de Perelada y dije a v. m. lo que me parecía en este particular que los negocios de esta escuadra se están como el primer día, sin ir atrás ni adelante, y que no obstante esto avisaría yo a dicho Sr. conde por si se ofreciere hacer alguna diligencia respecto de haber dado un memorial y hecho bajar un decreto particular. Don Fernando de Mendoza, caballero de su orden de v. m. y contador de la escuadra del señor duqe de Juanes [?], en que pretende ser teniente del príncipe Doria no me parece que esto haya de tener efecto, pues los Sres. del consejo no ignoran hay personas de mucha importancia en nra. corona para que ocupen este puesto y principalmente la de v. m. de que ya tenemos hablado muy largo. Dicho Valero y yo, el regente Vico tiene licencia para irse a Cerdeña y dice usará de ella con brevedad en viendo que esto toma algo de traza. No dejaré de hacer lo que tengo obligación de oficio en que conozco será muy interesado al servicio de su majestad. Al duque de Montalto tengo escrito largo [?] de todas las cosas de estas galeras y juzgo ya su excelencia con mayor gusto que hasta aquí por cuanto su majestad ha aprobado todo su cuidado en que se fortifique aquel reino y otras muchas cosas que la malicia tenía ocultadas. Yo también escribiré a v. m. más largo en otra estafeta, suplicándole me mande en que le sirva. Nro. Sr. guarde a v. m. muchos años como deseo. Madrid y abril a 24 de 1647. Tomas Gomez Sr. D. Pedro Santacilia y Pax Transcripción literal"
+  ],
+  "literal": [
+    "1. El Sor. Secretarº Juan Valero me dio una de Vm. [?] de março2. y pocos dia santes me ablo en palacio al sr Conde de Peralada y dixe a Vm3. lo que me parezia eneste particular que los negocios desta escuadra4. se estan como el primer dia sin yr atras ni adelante y que no obstante5. esto avisaria yo a dicho sor. Conde por si se ofreciere hazer alguna diligencia6. respecto de haber dado un memorial y echo baxar un decreto particular don Fern7. andº de Mendoça caballero de su orden de Vm y contador de la esquadra del S. Duq[u]e 8. de Juanes[?] en que pretende ser theniente del sr. Principe Doria no me pareze9. que esto aya de tener efeto pues los Ssr. del Conseo no ignoran ay personas10. de mucha inportancia en nra. Corona para que ocupen este puesto y princi-11. palmente la de Vm. de que ya tenemos ablado muy largo dicho Valero12. y yo, el Sr. Regente Vico tiene licencia para yrse a Cerdeña y dize13. usara della con brevedad en viendo questo toma algo de traça no14. dexare de hazer lo que tengo obligacion de oficio en que conozco sera muy15. interesado al servº de Su Mgd. al sr. Duque de Montalto tengo escrito16. largo [?] de todas las cosas destas galeras y juzgo ya su Excª17. con mayor gusto que hasta aqui por cuanto Su Magd. a aprobado todo su18. cuydado en que se fortifique aquel reyno y otras muchas cossas que la19. malicia tenia ocultadas yo tanbien escrivire a Vm mas largo enotra20. estafeta supplicandole me mande en que le sirva Nro. Sr. ge. a Vm muchos21. años como desseo Md y abril a 24 de 164722. Thomas Gomez[?]23. Sr. D. Pº Santacilia y Pax [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "266:3539.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo26/266:3539.JPG",
+      "url": "/legajos/legajo-26/images/266:3539.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "266:3539.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (2)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-26/cartas/004444.json",
+  "primary_image_url": "/legajos/legajo-26/images/266:3539.JPG"
+}

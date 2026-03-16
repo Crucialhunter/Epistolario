@@ -1,0 +1,38 @@
+{
+  "legajo_id": "29",
+  "id_carta": "6512",
+  "order_in_legajo": 196,
+  "signatura": "327:4329.JPG",
+  "nombre_carta": "Carta de Nicolás de Santacilia y Togores a Pedro Santacilia y Pax",
+  "fecha_original": "7 de diciembre de 1664",
+  "lugar": "Madrid",
+  "remitente": "Nicolás de Santacilia y Togores",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "[1§] Transcripción literal"
+  ],
+  "literal": [
+    "1. Por via de Valencia y Barcelona es2. crivi y como Juan esta a casa de 3. Don Antonio Puydorfila todo el 4. dia no tuve con quien remitir las 5. Don Fernando de Borja murio 6. Dios le tenga en el cielo y Ge7. ronimo Manxo [?] Puydor8. fila ya se llevanta 9. La jornada sera yndubita10. blemente para febrero; no ten11. go de que avisarle io lo que 12. Dios me le guarde muchos años 13. como deseo y e menester Ma14. drid a 7 de Desienbre 1664 15. Su mas humilde 16. hijo de VM LmB 17. Don Nicolas de StaCilia 18. mi Padre y Señor19. [en altra pàgina]20. A Don Pedro de SªCilia 21. y Pax mi Padre y Señor 22. que Dios Guarde muchos 23. años como deseo y e 24. menester [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "327:4329.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo29/327:4329.JPG",
+      "url": "/legajos/legajo-29/images/327:4329.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "327:4329.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-29/cartas/006512.json",
+  "primary_image_url": "/legajos/legajo-29/images/327:4329.JPG"
+}

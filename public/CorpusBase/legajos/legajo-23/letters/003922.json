@@ -1,0 +1,43 @@
+{
+  "legajo_id": "23",
+  "id_carta": "3922",
+  "order_in_legajo": 176,
+  "signatura": "315:3335a.JPG",
+  "nombre_carta": "Carta de Josep de Rocabertí a Pedro Santacilia y Pax",
+  "fecha_original": "23 de marzo de 1669",
+  "lugar": "Barcelona",
+  "remitente": "Josep de Rocabertí",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "He recibido la carta que v. m. ha sido servido escribirme su fecha de 16 del corriente y estimo el consuelo que v. m. me da de estas cosas que por mi han pasado. No exagero la materia porque es fuerza pasar por lo hecho y por la desatención de una hija que nunca lo hubiera creído ni le hubieran faltado acá casamientos, pues nuestro mayor consuelo había de ser tenerla casada a nuestros ojos y sin los riesgos de haber de ir divagando por el mundo. A medio de este trabajo me hallaba yo en la cama tullido de un brazo y pierna de que y del susto me dieron todos por muerto, pero Dios no ha querido mejorarme pues ando ya por mis pies y puedo libremente escribir de mi mano, pero porque me cansa mucho escribo de apriesa. El conde de Montoro que ha sido a todo presente hará a v. m. larga relación [1§] que estará ya a esta corte, y enviado por el duque de Osuna. Por acá estamos anhelando novedades de los nuevos presentes. Quiera Dios tenga buen fin todo y guarde a v. m. como yo se lo suplico. Barcelona y marzo 23 de 1669. Besa la mano de v. m. Don Josep de Rocaberti Sr. don Pedro Santacilia y Pax Transcripción literal"
+  ],
+  "literal": [
+    "1. He reçibido la Carta q Vm. ha sido ser=2. vido escrivirme su fecha de 16 del Corrien=3. y estimo el Consuelo q Vm me da destas4. Cosas q por mi anpassado no exagero la5. materia por q es fuerza pasar por lo6. hecho y Por la desatençion de una hija7. q nunca lo ubiera creydo ni le ubieran8. faltado aca Casamientos pues nuestro ma=9. yor Consuelo avia de ser tenerla casada á10. nuestros ojos y sin los riesgos de aver de hir 11. divagando por el Mundo.12. Amedio deste trabajo me hallava yo13. en la cama tullido de un Braso y Pierna14. de q y del susto me dieron todos por muerto15. pero Dios no ha querido mejorarme pues ando16. ya por mis pies y puedo libremente escrivir 17. de mi Mano pero porq me cansa mucho18. escrivo de apresia.19. El Sr. Conde de Montoro q ha sido a todo20. presente hara a Vm. larga relaçion [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "315:3335a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo23/315:3335a.JPG",
+      "url": "/legajos/legajo-23/images/315:3335a.JPG"
+    },
+    {
+      "filename": "316:3335b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo23/316:3335b.JPG",
+      "url": "/legajos/legajo-23/images/316:3335b.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "315:3335a.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-23/cartas/003922.json",
+  "primary_image_url": "/legajos/legajo-23/images/315:3335a.JPG"
+}

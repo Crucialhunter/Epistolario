@@ -1,0 +1,38 @@
+{
+  "legajo_id": "35",
+  "id_carta": "5210",
+  "order_in_legajo": 23,
+  "signatura": "008:8055.JPG",
+  "nombre_carta": "Carta de Gerónimo Puigdorfila a Pedro Santacilia y Pax",
+  "fecha_original": "18 de febrero de 1639",
+  "lugar": "Zaragoza",
+  "remitente": "Gerónimo Puigdorfila",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Ilustre gobernador, Por haber tenido noticia de las muchas mercedes que su majestad hace a v. s. y, entre otras, haberle dado patente para sacar presos de esta cárcel, yo, que soy el más desvalido en ellas, pues me tienen conde nado a diez años de galeras tan injustamente como todos los de esta ciudad saben, así, suplico a v. s. favorezca esta causa haciendo salga por soldado, que yo me prometo a ir a servir a su majestad con armas y caballo en la como pañía que v. s. gustare. y el atreverme a suplicar esto a v. s. es movido de un amigo, de quien recibo mucha merced, que se llama Mon sarro, que me ha dicho la mucha mano que v. s. tiene en esto. Guarde el Cielo a v. s. felices años con muchos más aumentos de·estado como este su criado desea. de esta cárcel de Zaragoza, a 18 de febrero, 1639 años. de v. s. que su mano besa Jerónimo Puigdorfila Transcripción literal"
+  ],
+  "literal": [
+    "1. Ille. Sr. Gobernador2. Por haber tenido noticia de las muchas mercedes que3. su Magestad haçe a V.S.ª y entre otras aberle dado4. patente para saçar pressos desta carcel yo que5. soy el mas desbalido en ellas pues me tienen conde6. nado a diez años de Galeras tan Injustamente7. como todos los desta ciudad saben así supp[li]co8. a V.Sª faboresça esta causa aciendo salga por9. soldado que yo me prometo a yr a serbir a Su 10. magestad con Armas y Caballo en la com11. pañia que V.S.ª gustare y el atrebirme a 12. suplicar esto a V.S.ª es mobido de un amigo de13. quien recibo mucha merced que se llamo Mon14. sarro que me a dicho la mucha mano que V.S.ª15. tiene en esto, guarde el Cielo a V.S.ª felizes16. años con muchos mas aumentos destado17. como este su criado desea desta carcel de18. Caragoça a 18 de Febrero 1639 años19. De V.S.ª que su mano besa20. Geronimo Puch de orfila [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "008:8055.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo35/008:8055.JPG",
+      "url": "/legajos/legajo-35/images/008:8055.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "008:8055.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-35/cartas/005210.json",
+  "primary_image_url": "/legajos/legajo-35/images/008:8055.JPG"
+}

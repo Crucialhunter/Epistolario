@@ -1,0 +1,43 @@
+{
+  "legajo_id": "13",
+  "id_carta": "1833",
+  "order_in_legajo": 100,
+  "signatura": "163:2337a.JPG",
+  "nombre_carta": "Carta de Basilio de Castellví y Ponce a Pedro Santacilia y Pax",
+  "fecha_original": "30 de octubre de 1668",
+  "lugar": "Valencia",
+  "remitente": "Basilio de Castellví y Ponce",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Señor mío, he recibido su carta de 24 de éste holgándome mucho quede v. s. y el Sr. don Juan con la salud que les deseo y tan mejorado de su achaque en esta casa que damos todos con ella para servir a v. s. y yo muy admirado de la novedad que v. s. y todos los demás nos escriben de Madrid, y los discursos sobre esto se hacen son tan varios que no hay entrar en ellos. V. s. se sirva de escribirme todo lo que entendiere en la materia que no es para dejarla olvidada. Los pliegos de v. s. que han venido en la estafeta y los que estaban atrasados fueron ayer en una navecilla y al mismo tiempo llegó un bergantín con muchos pliegos que remito en esta estafeta. Ávisame el Sr. don Miguel que murió el regente, con que no faltan pretendientes a la plaza. V. s. tendrá noticia Sr. don Pedro Santacilia [1§] de ellos y ayudará al más benemérito. Dios guarde a v. s. muchos años como deseo. Valencia y octubre a 30 de 1668. Muchas novedades tenemos v. s. nos las escriba todas. Besa a v. s. su mano su mayor servidor, Don Basilio de Castellvi y Ponce Valencia de 30 octubre 1668. Respuesta a 6 Noviembre El gobernador de Valencia Transcripción literal"
+  ],
+  "literal": [
+    "1. Señor mio he recevido su Carta de 24 e2. este holgandome mucho quede VS y el Sr.3. Don Juan con la salud que les deseo y tan4. mejorado de su achaque en esta casa que5. damos todos conella para servir á V.S.6. y yo muy admirado de la nobedad que7. V.S. y todos los demas nos escriven de Ma=8. drid y los discursos sobre esto se9. hazen son tan varios que no ay entrar10. en ellos V.S. se sirva deescrivirme11. todo lo que entendiere en la materia12. que no es para dejarla olvidada; los13. pliegos de V.S. que han venido en la14. estafeta y los que estavan atrasados15. fueron ayer en una navesilla y al mes16. mo tiempo llego un bergantin con ms17. pliegos que remito enesta estafeta avi18. same el Sr. Don Miguel que murio el19. Regente con que no faltan pretendien20. tes a la plaça. V.S. tendra notiçia21. Sr. Don Pedro Santazilia [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "163:2337a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo13/163:2337a.JPG",
+      "url": "/legajos/legajo-13/images/163:2337a.JPG"
+    },
+    {
+      "filename": "164:2337b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo13/164:2337b.JPG",
+      "url": "/legajos/legajo-13/images/164:2337b.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "163:2337a.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-13/cartas/001833.json",
+  "primary_image_url": "/legajos/legajo-13/images/163:2337a.JPG"
+}

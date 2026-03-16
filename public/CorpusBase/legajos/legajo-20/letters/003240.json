@@ -1,0 +1,38 @@
+{
+  "legajo_id": "20",
+  "id_carta": "3240",
+  "order_in_legajo": 113,
+  "signatura": "260:6021.JPG",
+  "nombre_carta": "Carta de José Balell a Pedro Santacilia y Pax",
+  "fecha_original": "10 de marzo de 1668",
+  "lugar": "Barcelona",
+  "remitente": "José Balell",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Sr. don Pedro Santacilia y Pax mi Tengo escrito y besado la mano a v. s. con los antecedentes y dado todas las noticias. y con esta remito el incluso he [?] del amigo y Aragues a 16 de este se habían de publicar Las Paces. con Portugal y con Lisboa; todas las tropas se van encaminando por acá [?], su ex. Ayer [?] entro [?] a la Plaza de Rosas después de haber estado [?] le dispararon muy lindos Cañonaços que le tienen muy bien guarnecido todavía no han entrado tropas en Rosellón pero siempre dicen se esperan El Sr. D. Juan aún no ha partido para Flandes a causa de su indisposición Dios le dé mucha salud y a v. s. guarde en compañía de todos esos mis [?] cuyas manos. beso Barcelona y marzo a 10 de 1668 Çierto criado de v. s. que sus manos besa Josep Balell [?] [1§] Transcripción literal"
+  ],
+  "literal": [
+    "1. Sr. d Po Sta Cilia y Pax mi sr. 2. Tengo escrito y besado la mano a 3. VS con los antecedentes y dado 4. todas las noticias. y con esta Re- 5. mito el incluso he [?] [?] 6. [?] del Amigo y Sr Aragues 7. A 16 deste se havian de publicar 8. Las Pazes. con Portugal y con 9. Lisboa; todas las tropas se 10. van encaminando por aca[?], su ex. 11. Ayer[?] entro[?] a la Plaça de Rosas 12. despues de haver estado [?] 13. [?] 14. [?] le dispararon mui 15. lindos Cañonaços que le tienen 16. mui bien guarnecido todavia 17. no han entrado tropas en 18. Rosellon pero siempre dizen se 19. esperan El Sr. d. Juan aun no 20. ha partido pa flandes a causa 21. de su indisposicion dios le de mu- 22. cha salud y a VS gde en compa de 23. todos esos mis SSr. [?] cuias manos. 24. beso Barcelona y Março A 10 25. de 1668 26. Çierto criado de VS q s m b 27. Joseph Balell[?] [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "260:6021.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo20/260:6021.JPG",
+      "url": "/legajos/legajo-20/images/260:6021.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "260:6021.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-20/cartas/003240.json",
+  "primary_image_url": "/legajos/legajo-20/images/260:6021.JPG"
+}

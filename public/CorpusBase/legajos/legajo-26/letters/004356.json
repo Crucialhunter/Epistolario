@@ -1,0 +1,45 @@
+{
+  "legajo_id": "26",
+  "id_carta": "4356",
+  "order_in_legajo": 91,
+  "signatura": "129:3450.JPG",
+  "nombre_carta": "Carta de Persona desconocida a Pedro Santacilia y Pax",
+  "fecha_original": "26 de septiembre de 1640",
+  "lugar": "Valencia",
+  "remitente": "Persona desconocida",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Dos cartas he recibido de v. m. de 25 de este; en la una me dice v. m. que se está cargando en Peñiscola, y Benicarló la infanteria, y municiones y pertrechos para el socorro de Tortosa y que entrarán no arriba viéndose primero con el Sr. marques de Villafranca. Paréceme muy bien, y estoy con mucha satisfacción de que v. m. obrará en esto de tal suerte que se consiga el servicio de su majestad como deseamos. El Sr. marques de Villafranca me escribe también en esta materia y yo me confirmo con el parecer de su excelencia que es muy acertado en todo como siempre. En la otra carta me dice v. m. que se observará la orden que he dado para que se socorran los marineros a real y medio y que conviene que sea la orden de lo atrasado, porque es una niñería y que tendría inconveniente no hacerse en esta forma, y así vengo bien en que la orden se entienda de lo atrasado, y que se dé nueva si es menester, porque deseo que estén muy contentos todos en servicio de su majestad. Y escribo a D. Cristobal de Cardona sobre ello para que se ejecute. Guarde Nro. Sr. a v. m. Valencia y Setiembre 26 1640. [?] Colonna Sr. D. Pedro Santacilia [1§] Transcripción literal"
+  ],
+  "literal": [
+    "1. Dos cartas he reçevido de Vm de 25 deste; en la una me diçe2. Vm. que se esta cargando en Peñiscola, y Benicarlo la infan3. teria, y muniçiones y pertrechos para el socorro de Tortosa4. y que entraran no arriba viendose primero con el Sor.5. marques de Villa franca, pareçeme mui bien, y estoy6. con mucha satisfaçion de que Vm. obrara en esto de tal7. suerte que se consiga el serviçio de su magd. como deseamos8. El Sor. Marques de Villa franca me escribe tambien en9. esta materia y io me confirmo con el pareçer de Su Exª10. q es mui açertado en todo como siempre11. En la otra carta me diçe Vm. que se obserbara la orden q12. he dado para que se socorran los marineros a real y medio13. y que combiene que sea la orden de lo atrasado porque es14. una niñeria y que tendría incombeniente no haçerse15. es esta forma, y asi vengo bien en que la orden se enti=16. enda de lo atrasado, y que se de nueba si es menester17. porque deseo q esten mui contentos todos en serviçio18. de Su Magd. y escribo a D. Xptobal de Cardona sobre19. ello para que se execute ge. Nro. Sor. a Vm. Valençia y se20. tiembre 26 164021. Colonna[?]22. D. Pedro Santa Cilia [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "129:3450.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo26/129:3450.JPG",
+      "url": "/legajos/legajo-26/images/129:3450.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "129:3450.JPG",
+  "warnings": [
+    {
+      "code": "IMAGE_DOWNLOAD_FAIL",
+      "message": "HTTP 404",
+      "context": {
+        "url": "http://santacilia.info/intranet2/img/Legajo26/129:3450.JPG"
+      }
+    },
+    {
+      "code": "IMAGE_COUNT_MISMATCH",
+      "message": "Imágenes detectadas (1) != descargadas (0)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-26/cartas/004356.json",
+  "primary_image_url": "/legajos/legajo-26/images/129:3450.JPG"
+}

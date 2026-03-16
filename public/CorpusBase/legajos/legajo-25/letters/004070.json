@@ -1,0 +1,38 @@
+{
+  "legajo_id": "25",
+  "id_carta": "4070",
+  "order_in_legajo": 4,
+  "signatura": "008_104.JPG",
+  "nombre_carta": "Carta de Francesc Bauçà a Jerónimo Pelegrín de Aragüés",
+  "fecha_original": "4 de febrero de 1667",
+  "lugar": "Sant Joan (Mallorca)",
+  "remitente": "Francesc Bauçà",
+  "destinatario": "Jerónimo Pelegrín de Aragüés",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    ". Jeroni rebrà aquí per al senyor Matgi [Ribes] deu lliures v. m. prengui-les i dirà al Sr. Antoni Mayol que jo divendres seré aquí i ho diposarem i veurem per qui ho disposarem i dirà al dit Mayol que em faci plaer fins divendres i si v. m. troba que el temps és llarg dirà a mon fill quin dia vol i jo seré aquí guardant-lo Déu. D'esta sa casa de Sant Joan a 4 febrer 1667. Francesc Bauça Polit Criat de v. m. Transcripción literal"
+  ],
+  "literal": [
+    "1. Sr. Hieroni rabra aqui per al Sen Matgi deu2. lliures V.m. pendralas y dira al Sr. Anto[ni]3. Mallol que io divendres sare aqui y au dipose4. rem y veurem perqui au deposarem y 5. dira al dit Mallol quem fasse pler fins di6. vendres y si V.m. trobe que al temps7. es llarch dira a mon fill quin dia vol8. y io sare aqui Gardantlo Deu desta sa9. case St. Jo[an] a 4 fabrer 166710. Ffs. Bauça polit11. Criat de V.m. [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "008_104.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo25/008_104.JPG",
+      "url": "/legajos/legajo-25/images/008_104.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "008_104.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (7)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-25/cartas/004070.json",
+  "primary_image_url": "/legajos/legajo-25/images/008_104.JPG"
+}

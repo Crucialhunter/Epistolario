@@ -1,0 +1,38 @@
+{
+  "legajo_id": "19",
+  "id_carta": "7603",
+  "order_in_legajo": 311,
+  "signatura": "188_cg85",
+  "nombre_carta": "Carta de Miquel Perelló Cotxer a Persona desconocida",
+  "fecha_original": "24 de mayo de 1664",
+  "lugar": "Mallorca",
+  "remitente": "Miquel Perelló Cotxer",
+  "destinatario": "Persona desconocida",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Compte de Miquel Perelló Cotxerdesde 24 novembre 1664 fins als 24 maig 1664. Van sis mesos que araho 33 L cada més Valen _______ 18 Lmes per companatge araho 4 que cada semana; per vuit i cinc senemanas ___________________________ 4 L Suma tot ______________________ 23 L de les quals deduides deu lliures ha rebudes amb quatre partides resta __ 13 L [1§] Transcripción literal"
+  ],
+  "literal": [
+    "1. Compte de Michel Perelló Cotxer2. Desde 24 novembre 1664 fins als 3. 24 maig 1664. Van sis mesos que 4. araho 33 L cada mes Valen _______ 18 L5. mes per companatje araho 4 q cada 6. semmana; per vuit y sinch senema7. nas ___________________________ 4 L 8. Suma tot ______________________ 23 L 9. de las quals deduidas deu lliures ha 10. rebudas ab quatre partidas resta __ 13 L [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "188_cg85.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo19/188_cg85.JPG",
+      "url": "/legajos/legajo-19/images/188_cg85.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "188_cg85.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-19/cartas/007603.json",
+  "primary_image_url": "/legajos/legajo-19/images/188_cg85.JPG"
+}

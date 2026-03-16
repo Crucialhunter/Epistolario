@@ -1,0 +1,43 @@
+{
+  "legajo_id": "12",
+  "id_carta": "1718",
+  "order_in_legajo": 215,
+  "signatura": "336_6311a.JPG",
+  "nombre_carta": "Carta de Jerónimo Pelegrín de Aragüés a Pedro Santacilia y Pax",
+  "fecha_original": "28 de marzo de 1665",
+  "lugar": "Madrid",
+  "remitente": "Jerónimo Pelegrín de Aragüés",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Miércoles a 25 de este con un pliego grande que he remitido al gobernador de Valencia escribo largamente a v. m. en todas materias. Esta no es más sino por darle aviso como en él van las cartas del duque de Cardona en respuesta de las de v. m. y el gusto que tiene el duque de que v. m. vaya en su compañia etts. Los despachos de don Gabriel estoy sacando para ponerse el hábito que mal trabajo que están los adherentes a veces que conseguir la merced. Paréceme que estos señores mallorquines van despacio con que yo ejecutaré mi jornada, en teniendo los recaudos necesarios de dicho hábito. Dios guarde a v. m. muchos años como deseo, Madrid 28 de marzo 1665. Su criado Jeronimo Pelegrin Martí tiene sitiada Valencia de Alcántara, acá se hace muchos esfuerzos. Caracena se partirá presto Munfur de Santone ha llegado desterrado de Francia con dos hijos suyos a servir a España con una pica cada uno. Venturosos, el marques de Montoro le dio un grande convite anteayer. El príncipe tercina doble, mudado de [?] su majestad con los achaques continuos que le atormentan. La monarquía con tantas distinciones de los [1§] ministros superiores que no se pueden ver unos a otros. El Sr. don Luis es un puntal que sustenta la obra que no acabe de caer. Dios nos dé lo que conviene y nos conserve a su majestad y toda su familia con salud como hemos menester en vida de v. m. que es lo que me importa. Transcripción literal"
+  ],
+  "literal": [
+    "1. Miercoles a 25 de este con un Pliego Grande2. que he remitido al Sr. Governador de Valencia es3. crivo largamente a V.M. en todas materias. esta4. no es mas sino por darle haviso como en van las5. cartas del sr. Duque de Cardona en respuesta de6. las de VM y el gusto que tiene el sr. Duque de7. que VM vaia en su Compp[añi]a etta.8. Los despachos de Don Gabriel estoy sacando9. para ponerse el habito que mal travaxo questan10. los adarentes a veçces que conseguir la merced11. Pareçe me que estos señores Mallorquines van des12. paçio con que jo executare mi jornada, en tiniendo13. los recaudos necesarios de dicho havito Dios14. Guarde a VM muchos anyos como deseo Madrid 2815. de Março 166516. Su Criado G[eroni]mo Pelegrin17. Marti tiene sitada Balencia de Alcantara aca18. se açe muchos esfuerços Caracena[?] se partira presto19. Munfur de Santone ha llegado desterrado de20. françia con dos hijos suios a servir aespania con21. una pica cadauno. Venturosos, el sr. Marques de22. Mortara le dio un grande convite ante hajer23. El Principe tercina doble, mudado de luhe24. Su Mag[esta]d con los achaques continuos que le tormen25. tan. La monarquia con tantas disintiones de los [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "336_6311a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo12/336_6311a.JPG",
+      "url": "/legajos/legajo-12/images/336_6311a.JPG"
+    },
+    {
+      "filename": "337_6311b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo12/337_6311b.JPG",
+      "url": "/legajos/legajo-12/images/337_6311b.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "336_6311a.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (4)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-12/cartas/001718.json",
+  "primary_image_url": "/legajos/legajo-12/images/336_6311a.JPG"
+}

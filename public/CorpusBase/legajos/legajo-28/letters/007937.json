@@ -1,0 +1,43 @@
+{
+  "legajo_id": "28",
+  "id_carta": "7937",
+  "order_in_legajo": 183,
+  "signatura": "315:3815a.JPG",
+  "nombre_carta": "Carta de Jerónimo Pelegrín de Aragüés a Pedro Santacilia y Pax",
+  "fecha_original": "10 de diciembre de 1665",
+  "lugar": "Madrid",
+  "remitente": "Jerónimo Pelegrín de Aragüés",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Dos meses y 21 días ha que no tengo cartas ni nuevas ningunas de la salud de v. m. ni de casa. Dios me las traiga con feliciddad. Amén. Don Nicolás aún sin saber en qué parará la materia. De lo que hubiere avisaré a v. m. Está espantado que en tantos meses no hayan llegado las informaciones de su aviso. Cierto, Sr., me espanto que habiendo tenido tantas cartas estos srs. caballeros mallorquines v. m. no haya tenido quien le escribiese una. Es plaga del tiempo. Mi tío llegó a 7 de este de Zaragoza, y se halla en Madrid. A 10 diciembre 1665. Su criado que sus manos besa. Jeronimo Pelegrin. Señor. [1§] nº 57 Madrid, 10 {CAT. Desembre} 1665. Jeronimo Pelegrin Transcripción literal"
+  ],
+  "literal": [
+    "1. Dos meses y 21. dia ha que no tengo cartas ni nuebas2. ningunas dela salud de vm ni de cassa dios melas3. trayga con feliciddad amen4. Don Nicolas haun sin saver en que parara la5. materia delo que hubiere havisare a vm esta6. espantado que en tantos meses no hajan llegado las7. informaçiones desu haviso.8. Cierto sr.mespanto que haviendo tenido tantas cartas9. estos ssrs. cavalleros Mallorquines vm no haja tenido10. quien le escriviesse una. es Plaga del tiempo.11. Mi tio llego a .7. deste de Caragoça y se halla12. en Madrid. @ .10. Deciembre 166513. Su Criado q. s. m. B.14. Geronymo Pelegrin15. Señor ? [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "315:3815a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo28/315:3815a.JPG",
+      "url": "/legajos/legajo-28/images/315:3815a.JPG"
+    },
+    {
+      "filename": "316:3815b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo28/316:3815b.JPG",
+      "url": "/legajos/legajo-28/images/316:3815b.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "315:3815a.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (4)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-28/cartas/007937.json",
+  "primary_image_url": "/legajos/legajo-28/images/315:3815a.JPG"
+}

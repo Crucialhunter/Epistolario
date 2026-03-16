@@ -1,0 +1,38 @@
+{
+  "legajo_id": "26",
+  "id_carta": "4505",
+  "order_in_legajo": 241,
+  "signatura": "357:3600.JPG",
+  "nombre_carta": "Carta de Jerónimo Pelegrín de Aragüés a Pedro Santacilia y Pax",
+  "fecha_original": "16 de septiembre de 1665",
+  "lugar": "Madrid",
+  "remitente": "Jerónimo Pelegrín de Aragüés",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Secreto. Mi Sr. como todos los de la Junta Patrimonial han escrito que lo de las 25 cuarteradas de tierra se ha hecho sin haber intervenido en ello, ha hablado tanto Palou y la carta de los jurados de la ciudad y ha recriminado tanto esta merced que redujéndose al consejo a que esta merced a mi hecha se estluviese en suceder y que de aquí adelante no se diese más y habiéndose tomado esta resolución a instancia de Palou, suplico que se informarse el consejo si la junta había venido a bien en esto, o no, con que por quitarme de empeños me parece mejor renunciar en favor de su majestad la merced con que la darán a Dr. Frau por haber servido en la cabrevación [?] y a 50 otros que piden tierras en la marjal de La Pobla. Dentro de breves días me trendrá v. m. aquí desengañado de todo cuanto puedo ver en esta vida. Los despachos para cobrar del obispo irán para ampararle los frutos hasta que esté pagado v. m. 16 septiembre 1665. Jeronimo Pelegrin Mi Sr. Transcripción literal"
+  ],
+  "literal": [
+    "1. Secreto.2. Mi Sr. Como todos los de la Junta Patri=3. munial an escrito que lo de las 25 quarteradas4. de tierra se ha echo sin haver intrevenido en ello ha5. hablado tanto Palou y la carta de los Jurados de la Ciudad6. y ha criminado tanto esta merced que reduxendose7. al Consexo a que esta merced a mi hecha se estlubiesse en8. suseser[?] y que de aqui adelante no se diesse mas y ha9. viendose tomado esta resuluçion a istancia de Palou10. supp[li]co que se informarse el Consego si la Junta habia11. benido bien en esto, o no con que por quitarme12. de empeños me pareçe mexor renunciar en favor13. de Su Magd. la merçed con que la daran a Dor. Frau14. por haver servido en la cabrevation y a 50 otros15. que piden tierras en la marjal de la Pobla16. Dentro de breves dias me trendra (sic) VM aqui des17. enganiado de todo quanto puedo ver enesta18. vida19. Los despachos para cobrar del obispo hiran20. para empararle los frutos asta que este21. pagado VM 16 7bre 166522. Geronymo Pelegrin23. Mi Sr. [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "357:3600.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo26/357:3600.JPG",
+      "url": "/legajos/legajo-26/images/357:3600.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "357:3600.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (4)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-26/cartas/004505.json",
+  "primary_image_url": "/legajos/legajo-26/images/357:3600.JPG"
+}

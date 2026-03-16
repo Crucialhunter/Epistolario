@@ -1,0 +1,43 @@
+{
+  "legajo_id": "28",
+  "id_carta": "4784",
+  "order_in_legajo": 87,
+  "signatura": "141:3718a.JPG",
+  "nombre_carta": "Carta de Martín Escuer a Pedro Santacilia y Pax",
+  "fecha_original": "28 de mayo de 1639",
+  "lugar": "Lanaja",
+  "remitente": "Martín Escuer",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Mis obligaciones y afectos me sacaran de esta cama y me llevaran por ventura muerto a Castejón sino viera el Dr. Dellán [?] tiene v. m. a Galeno, Hipócrates y Avicena, y al fin al epílogo de toda la buena medicina. Y aunque por siervo de v. m. he de sentir cualquiere trabajo suyo, nos puede a todos consolar el ver cuán al principio se acude a este, y señaladamente el ver para el otro [?] Dr. Dellán no puede ser de consideración ninguna. No obstante lo cual y querer siempre Nro. Sr. nos dé salud a ambos. Y a v. m. que me mande cuanto fuere de su servicio, cuya mano beso. Y guarde y prospere Dios. Lanaja, y mayo a 28 de 1639. Cierto siervo de v. m. El Dr. Martin Escuer Sr. don Pedro Santacilia. [1§] Lanaja, 28 mayo 1639. El Dr. Martin Escuer. Transcripción literal"
+  ],
+  "literal": [
+    "1. Mis obligaciones y afectos me sacaran de esta cama2. y me llebaran por ventura muerto a Castejon sino vie3. ra el Dr. dellan tiene vmd a Galeno Hipocrates4. y Avicena y al fin al epilogo de toda la buena5. medecina. Y aunque por siervo de vmd he de sentir qual6. quiere trabajo suyo nos puede a todos consolar el ver7. quan al principio se acude a este y señaladamente8. el ver para el otro Dr. dellan no puede ser de9. consideracion ninguna no obstante lo qual y querer10. siempre nro. Sr. nos de salud ha ambos y a vmd que11. me mande quanto fuere de su servicio cuya mano12. vesso y gde y prospere Dios Lanaja13. y mayo a 28 de 163914. perto. siervo de vmd15. El Dr. Martin escuer16. Sr. Don Pedro Sta Cilia [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "141:3718a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo28/141:3718a.JPG",
+      "url": "/legajos/legajo-28/images/141:3718a.JPG"
+    },
+    {
+      "filename": "142:3718b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo28/142:3718b.JPG",
+      "url": "/legajos/legajo-28/images/142:3718b.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "141:3718a.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-28/cartas/004784.json",
+  "primary_image_url": "/legajos/legajo-28/images/141:3718a.JPG"
+}

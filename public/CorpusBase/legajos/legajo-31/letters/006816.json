@@ -1,0 +1,38 @@
+{
+  "legajo_id": "31",
+  "id_carta": "6816",
+  "order_in_legajo": 56,
+  "signatura": "074:1567.JPG",
+  "nombre_carta": "Carta de Juan Balançat a Pedro Santacilia y Pax",
+  "fecha_original": "22 de marzo de 1661",
+  "lugar": "Ibiza",
+  "remitente": "Juan Balançat",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Señor mío la verdat es que me persuadieron algunos amigos míos por orden pieço del señor gobernador que tomase el cargo de lugarteniente de procurador Rel. de v. s. en esta isla y yo deseoso de servir al rey nuestro señor que Dios guarde y a v. s. respordi que lo aria y excersería con las calidades que entonces lo trataron, y habiendo el dicho gobernador escrito a v. s. sobre dicha mi resolusión fue v. s. servido enviar las Apatentes y despachos en mi favor, y deseando yo poner en ejecusión dicho mi intento no he podido hallar personas deudos ni amigos que me hiciesen fianca con pretexto que tienen por esperiencia que de muchos años a esta parte han padecido detrimento en sus haciendas todos los que han ejercido dicho oficio y sus fianzas que lo siento mucho por no poder servir a v. s. a quien el cielo guarde felices años Ibiza y marzo a 22 de 1661 de v. s. que sus manos besa Juan Balançat Al Sr. D. Pedro Santacilia Transcripción literal"
+  ],
+  "literal": [
+    "1. Señor mio la verdat es que me persuadieron algunos 2. Amigos mios por orden pieço del Señor Governador 3. que tomase el Cargo de lugarteniente de Procurador Rel. 4. de V. S. en esta isla y jo deseoso de servir al Rey nuestro 5. señor que Dios guarde y a V. S. respordi que lo aria 6. y excerseria con las calidades que entonses lo trataron, 7. y aviendo el dicho Sr. Governador escrito a V. S. sobre 8. dicha mi resulusion fue V. S. servido enbiar las Apaten9. tes y despachos en mi favor, y deseando jo poner en 10. execusion dicho mi intento no epodido allar personas 11. deudos ni amigos que me hisiesen fianca con pretexto 12. que tienen por esperiensia que de muchos Años a 13. esta parte an padesido detrimento en sus asiendas todos 14. los que an exersido dicho ofisio y sus fianças que lo 15. siento mucho por no poder servir a V. S. a quien 16. el cielo guarde felises Años Ivisa y Março A 22 17. de 1661 18. De V. S. q. s. M. B. 19. Juan Balançat 20. Al Sr. D. Pedro Sta. Silia [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "074:1567.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo31/074:1567.JPG",
+      "url": "/legajos/legajo-31/images/074:1567.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "074:1567.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-31/cartas/006816.json",
+  "primary_image_url": "/legajos/legajo-31/images/074:1567.JPG"
+}

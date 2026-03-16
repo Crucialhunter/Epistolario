@@ -1,0 +1,37 @@
+{
+  "legajo_id": "14",
+  "id_carta": "1946",
+  "order_in_legajo": 46,
+  "signatura": "074:2450a.JPG",
+  "nombre_carta": "Carta de Persona desconocida a Pedro Santacilia y Pax",
+  "fecha_original": "31 de julio de 1632",
+  "lugar": "Mallorca",
+  "remitente": "Persona desconocida",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Si a v. m. no le es descomodidad recibiría merced diese aquellos diez doblones que me pidió en Valencia al criado que lleva este papel que la recibiré muy grande. Guarde Nro. Sr. a v. como puede de esta su casa, 31 de Julio 1632. Don Garau de Guardiola [?] Sr. D. Pedro Santacilia [1§] A don Pedro Santacilia que guarde Nro. Sr. etts. y capitán de infantería {LAT. Gloria patri} Transcripción literal"
+  ],
+  "literal": [
+    "1. Si a V.m. no le es descomodidad Resibiria2. merced diese aquellos dies doblones q me 3. pidio en valencia al criado q leva4. este papel q la resibire muy grande5. ge nro. Sr. a v. como puede de esta su6. cassa 31 de Julio 1632.7. Don Garau de 8. Guardiola??9. Sr. D. Pº Santacilia [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "074:2450a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo14/074:2450a.JPG",
+      "url": "/legajos/legajo-14/images/074:2450a.JPG"
+    },
+    {
+      "filename": "075:2450b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo14/075:2450b.JPG",
+      "url": "/legajos/legajo-14/images/075:2450b.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "074:2450a.JPG",
+  "warnings": [],
+  "raw_source": "raw/legajos/legajo-14/cartas/001946.json",
+  "primary_image_url": "/legajos/legajo-14/images/074:2450a.JPG"
+}

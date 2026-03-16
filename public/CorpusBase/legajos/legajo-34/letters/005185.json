@@ -1,0 +1,43 @@
+{
+  "legajo_id": "34",
+  "id_carta": "5185",
+  "order_in_legajo": 214,
+  "signatura": "329:7100a.JPG",
+  "nombre_carta": "Carta de Juan Crisóstomo de Vargas Machuca a Pedro Santacilia y Pax",
+  "fecha_original": "1 de septiembre de 1658",
+  "lugar": "Roma",
+  "remitente": "Juan Crisóstomo de Vargas Machuca",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "mío el padre fray Antonio Bern [?] nuestro confesor va con la gracia del Cardmd Francisco Baberino probehido en una lestura he recibido de este padre muchos saberes y asistencias porque se le debe de justicia la mía y de mis amigos y pereste título su/ plico a v. m. la suya en lo que necesi/ tare, que esta buena ocasión ha adelan/ tado lo que tenía reservado para Napo/ les dé dar cuenta a v. m. de mi viaje quefue después del buen puerto de lirrna llegar a Roma a tiempo que aún por la prohibición del comercio halle los pasos cerrados en donde he critolas cosas que v. m. medio por relación y conocido en amigo que tiene aquí grande que es el cardenal Angrabi de quien he recibido mucho favor y repetidas veces me ha pregun/ tado de la salud de v. m. con notable afisto a quien guarde Dios como deseo y suplico no me tenga ocioso en su servicio Roma y setembre a 1 de 1658 Al Sr. D. Miguel del cilia afetuosos recados y de parte de doña Jacinta a miseñora doña Leonor y doña Isabel besa la mano de v. m. su mayor criado [?] Servidor Sr. D. Juan Crysostomo de Vargas Machuca 31, extrem inferior Sr. D. Pedro del Cilia y Pax Transcripción literal"
+  ],
+  "literal": [
+    "1. Sr. mio el padre fray Antonio Bern nro2. confesor ba con la gracia del Sr. [Cardmd]3. franco Bab[e]rino probehido en una lestura4. herecibido de este padre muchos saberes y5. asistencias porque seledebe de Justicia la6. mia y de mis amigos y pereste titulo su/7. plico a Vm la suia enlo que necesi/8. tare, que esta buena ocasion ha adelan/9. tado lo que tenia reservado para Napo/10. les de dar cuenta a Vm de mi viaje11. quefue despues del buen puerto de [lirrna]12. llegar a Roma a tiempo que aun porla13. prohibicion del comercio halle los pasos14. cerrados en donde he [crito]las cossas que15. vm. medio por relacion y conocido en16. amigo que tiene aqui grande que es el17. Sr. Cardenal Angrabi de quien herecibido [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "329:7100a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo34/329:7100a.JPG",
+      "url": "/legajos/legajo-34/images/329:7100a.JPG"
+    },
+    {
+      "filename": "330:7100b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo34/330:7100b.JPG",
+      "url": "/legajos/legajo-34/images/330:7100b.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "329:7100a.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-34/cartas/005185.json",
+  "primary_image_url": "/legajos/legajo-34/images/329:7100a.JPG"
+}

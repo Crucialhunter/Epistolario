@@ -1,0 +1,45 @@
+{
+  "legajo_id": "26",
+  "id_carta": "4341",
+  "order_in_legajo": 77,
+  "signatura": "110:3435.JPG",
+  "nombre_carta": "Carta de Antonio de Villacorta y Mercado a Pedro Santacilia y Pax",
+  "fecha_original": "14 de diciembre de 1639",
+  "lugar": "Berasain",
+  "remitente": "Antonio de Villacorta y Mercado",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Ayer miércoles a las dos de la tarde despaché el acta que v. m. me mandó. Holgáreme harto salga a su gusto será posible que no haya llegado a esa ciudad porque temo que ha ido por puente de la reina. Tres soldados de su compañía de v. m. el uno se llama Jaime Pujadas y el otro Bara y el otro no se ha conocido por el nombre han venido esta tarde al anochecer cerca de mis cuarteles y había voz de que habían muerto un hombre en el camino. Si bien hasta ahora no sé que verdad tenga, sólo me han asegurado quien lo vio, que han hecho algún exceso en el camino tomando algún dinero a los que pasaban. Yo no he podido cogerlos porque vino tarde la nueva. Avísoselo a v. m. porque disponga lo que más convenga y a mi en servir a v. m. a quien Dios guarde los años que deseo, de Barasain a 14 de diciembre de 1639. Antonio de Villacorta y Mercado Sr. D. Pedro Santacilia y Pax Transcripción literal"
+  ],
+  "literal": [
+    "1. Ayer miercoles a las dos de la tarde des2. pache el ac[t]a q Vm. me mando olgareme3. arto salga a su gusto sera posible que no4. aya llegado aesa ciudad porq temo q aydo5. por Puente de la Reyna6. Tres soldados de su conpañia de Vm el uno se llama7. Jayme Puxadas y el otro Bara y el otro no8. se a conocido por el nombre an benido9. esta tarde al anochecer cerca de mis10. quarteles y abia boz de que abian muerto11. un onbre en el camino si bien asta aora12. no se q berdad tenga solo me an ase13. gurado quien lo bio que an echo algun14. excesso en el camino tomando algun dinero15. a los q pasaban yo no e podido coxerlos16. porque bino tarde la nueba abisoselo a Vm17. porq disponga lo que mas conbenga y a mi18. en serbir a Vm a quien Dios gude. los19. años q desseo de Barasoayn a 14 de diçienbre20. de 163921. Atº de Villacorta22. y Mercado23. Sor. D. Pº Sta. Çilia y Paz [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "110:3435.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo26/110:3435.JPG",
+      "url": "/legajos/legajo-26/images/110:3435.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "110:3435.JPG",
+  "warnings": [
+    {
+      "code": "IMAGE_DOWNLOAD_FAIL",
+      "message": "HTTP 404",
+      "context": {
+        "url": "http://santacilia.info/intranet2/img/Legajo26/110:3435.JPG"
+      }
+    },
+    {
+      "code": "IMAGE_COUNT_MISMATCH",
+      "message": "Imágenes detectadas (1) != descargadas (0)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-26/cartas/004341.json",
+  "primary_image_url": "/legajos/legajo-26/images/110:3435.JPG"
+}

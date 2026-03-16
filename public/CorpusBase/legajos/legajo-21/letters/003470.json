@@ -1,0 +1,43 @@
+{
+  "legajo_id": "21",
+  "id_carta": "3470",
+  "order_in_legajo": 158,
+  "signatura": "288:5758a.JPG",
+  "nombre_carta": "Carta de Pedro Fajardo de Requeséns-Zúñiga y Pimentel (V marqués de los Vélez) a Pedro Santacilia y Pax",
+  "fecha_original": "23 de julio de 1639",
+  "lugar": "Tolosa",
+  "remitente": "Pedro Fajardo de Requeséns-Zúñiga y Pimentel (V marqués de los Vélez)",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "De todo lo que v. m. me dice en su carta quedo entendido y lo puedo responder es que llegará a v. m. orden del prior para que con sus compañías marchen la vuelta de esta provincia donde en llegando v. m. se procurará ajustar todo lo que tocare a sus particulares y satisfacción de su sueldo en que se asistirá a v. m. con toda puntualidad. Guarde Dios a v. m. muchos años. Tolosa 23 de Julio 1639. v. m. sabe con cuanto gusto le asistiré en lo que si va por lo servidor que le soy. El marques de los Velez Sr. gobernador don Pedro de Santacilia [1§] Tolosa 23 Julio 1639 El marques de los Velez rdo. [2§] Transcripción literal"
+  ],
+  "literal": [
+    "1. de Todo loque Vm mediçe ensucarta quedo en 2. tendido y lo puedo responder es que llegara 3. a Vm. horden del sr Prior paraque con 4. suscompañias marche la buelta desta provincia 5. donde enllegando Vm. seprocurara ajustar 6. todo lo que tocare asus partículares y satisfa7. cion desusueldo enque se asistira a Vm. con 8. toda puntualidad Ge Dios a Vm mu9. chos años Tolosa 23 deJulio 1639 10. Vm sabe con quanto gustolea 11. sistire enlo que siba por loser12. vidor quelesoi 13. El Marqs delos veles14. [Margen izquierdo][^ sr Govr Don Po desa Cilia] [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "288:5758a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo21/288:5758a.JPG",
+      "url": "/legajos/legajo-21/images/288:5758a.JPG"
+    },
+    {
+      "filename": "289:5758b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo21/289:5758b.JPG",
+      "url": "/legajos/legajo-21/images/289:5758b.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "288:5758a.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (5)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-21/cartas/003470.json",
+  "primary_image_url": "/legajos/legajo-21/images/288:5758a.JPG"
+}

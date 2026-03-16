@@ -1,0 +1,38 @@
+{
+  "legajo_id": "28",
+  "id_carta": "4746",
+  "order_in_legajo": 58,
+  "signatura": "077:3680.JPG",
+  "nombre_carta": "Carta de Pedro Jiménez de Murillo a Pedro Santacilia y Pax",
+  "fecha_original": "4 de marzo de 1639",
+  "lugar": "Zaragoza",
+  "remitente": "Pedro Jiménez de Murillo",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Sr. mío. A Dios y a la ventura como [?] se han hecho los dos pares de riendas de cadenilla que lleva el portador. Vea v. m. si son al propósito porque aquí hay solamente un hombre que trabaja de esto. Y para que se acierte envíeme v. m. unas que sean de su gusto, que aquí las imitarán en la mejor forma que se pueda. Y no excuse v. m., le suplico, el darme este gusto, que le tengo muy grande de obedecer sus mandatos y de estimar en parte la mucha merced que siempre me ha hecho y hace. Ntro. Sr. me guarde a v. m. como deseo, en Zaragoza, a 4 Marzo 1639. Don Pedro Jiménez de Murillo Sr. don Pedro Santacilia y Pax. Transcripción literal"
+  ],
+  "literal": [
+    "1. Sr. mio. A Dios y a la bentura como [?] 2. se an hecho los dos pares de riendas de3. cadenilla que lleba el portador vea v.m.4. si son al proposito porque aqui ay solamte5. un hombre que trabaja desto, y paraque se6. acierte imbieme v.m. unas que sean de su gusto7. que aqui las imitaran en la mejor forma q8. se pueda, y no escuse v.m. le supco el9. darme este gusto, que le tengo muy gran-10. de de obedecer sus mandatos y de estimar11. en parte la mucha mrd. que siempre12. me à hecho y haze. Ntro. Sr me gde. a v.m.13. como desseo. en Çaragª a 4 março 163914. Don Pº Ximenez de [?] 15. Sr Don Pº. Sta.Cilia y Paz [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "077:3680.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo28/077:3680.JPG",
+      "url": "/legajos/legajo-28/images/077:3680.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "077:3680.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-28/cartas/004746.json",
+  "primary_image_url": "/legajos/legajo-28/images/077:3680.JPG"
+}

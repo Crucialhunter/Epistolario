@@ -1,0 +1,38 @@
+{
+  "legajo_id": "26",
+  "id_carta": "4445",
+  "order_in_legajo": 185,
+  "signatura": "267:3540.JPG",
+  "nombre_carta": "Carta de Ana de Córdoba y Aragón a Pedro Santacilia y Pax",
+  "fecha_original": "24 de abril de 1647",
+  "lugar": "Madrid",
+  "remitente": "Ana de Córdoba y Aragón",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Estimo en mucho la carta de v. m. y saber que tenga la salud que le deseo. Ya me dijo mi sobrino, el señor d. Vicente, lo que se había holgado de haber visto a v. m. al desembarcarse. Aquí estuvo muy pocos días y solas dos veces le pude ver porque ya sabe v. m. el poco tiempo que tengo para nada. Ya se volvió a Nápoles con resolución de mudar de hábito, no dudo sino que sabrá muy bien servir a su majestad en cualquier puesto que se hallare. Ya sabe v. m. cuánto le deseo servir y así le suplico vea en qué lo puedo hacer. Dios guarde a v. m. como deseo. De Madrid 24 de abril 1647. [Letra original de la remitente:] Me [he] holgado de saber que v. m. haya llegado con salud y que haya hallado v. m. con ella a todos esos señores. El señor don Vicente vi cosa de dos cuartos de hora en diferentes días: Dios le dé buena manderecha en lo que intenta. Los hermanos quedaron muy amigos. Doña Ana de Cordoba Señor d. Pedro de Santacilia Transcripción literal"
+  ],
+  "literal": [
+    "1. Estimo en mucho la carta de Vm2. y saver que tenga la salud que le desseo.3. Ya me dixo mi sobrino el Sr. D. Vicente4. lo que se avia holgado de aver visto a Vm.5. al desenbarcarse. Aqui estubo muy pocos días6. y solas dos vezes le pude ver porque ya save7. Vm el poco tiempo que tengo para nada8. ya se bolvio a Napoles con resolucion de9. mudar de avito, no dudo sino que sabra10. muy bien serbir a Su Magd. en qualquier11. puesto que se hallare ya save Vm quanto12. le desseo servir y assi le sup[li]co vea en que13. lo puedo hacer Dios ge. a Vm. como desseo de Md14. 24 de Ab 1647 me olgado de saber15. que Vm aya llegado con saluda y que16. aya allado Vm con ella a todos esos17. señores. El senor don Vicente vi co18. sa de dos quartos de ora en diferen19. tes dias Dios le de buena manderesha20. en lo que intente los ermanos que21. D. Pº de Santacilia22. daron mui amigos23. Doña Ana24. de Cordova [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "267:3540.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo26/267:3540.JPG",
+      "url": "/legajos/legajo-26/images/267:3540.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "267:3540.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (2)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-26/cartas/004445.json",
+  "primary_image_url": "/legajos/legajo-26/images/267:3540.JPG"
+}

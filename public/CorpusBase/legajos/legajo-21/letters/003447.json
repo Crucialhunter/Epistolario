@@ -1,0 +1,43 @@
+{
+  "legajo_id": "21",
+  "id_carta": "3447",
+  "order_in_legajo": 134,
+  "signatura": "239:5735a.JPG",
+  "nombre_carta": "Carta de marqués de Torreguso a Pedro Santacilia y Pax",
+  "fecha_original": "27 de marzo de 1639",
+  "lugar": "Pamplona",
+  "remitente": "marqués de Torreguso",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Ilustrísimo Sr. Me queda tan solamente el deseo de servir al capitán pues su despacho no me ha dado lugar que ejerciese su obra sea muy en sua buena su compañía que se ha de ver cuan bien empleada está a v. s. me acuerdo ser y sus muchos años besa, Pamplona 27 Marzo 1639. El marques de Torreguso [1§] Pamplona 27 marsos 1639 El marques de Torreguso Transcripción literal"
+  ],
+  "literal": [
+    "1. Me queda tan solamente el deseo de 2. servir al sr Capn pues su despacho no 3. me ha dado lugar q eserçiesse su obra 4. sea muy en sua buena su Compa q 5. se en ha de ver quan bien empleada 6. esta a VS. me acquerdo se< ño>r y sus ms 7. besa Pampa 27 Marzo 1639 8. El Marqs [?] de Torrens [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "239:5735a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo21/239:5735a.JPG",
+      "url": "/legajos/legajo-21/images/239:5735a.JPG"
+    },
+    {
+      "filename": "240:5735b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo21/240:5735b.JPG",
+      "url": "/legajos/legajo-21/images/240:5735b.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "239:5735a.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-21/cartas/003447.json",
+  "primary_image_url": "/legajos/legajo-21/images/239:5735a.JPG"
+}

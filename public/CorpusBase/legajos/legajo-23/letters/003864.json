@@ -1,0 +1,38 @@
+{
+  "legajo_id": "23",
+  "id_carta": "3864",
+  "order_in_legajo": 118,
+  "signatura": "208:3277.JPG",
+  "nombre_carta": "Carta de Francisco Díaz Pimienta a Pedro Santacilia y Pax",
+  "fecha_original": "1 de octubre de 1659",
+  "lugar": "Tarragona",
+  "remitente": "Francisco Díaz Pimienta",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Tiéneme v. s. señor mío, en esta vecindad con salud para servirle. y en ella me detendré lo que el ejército necesitare de la asistencia de la armada y lo hago saber a v. s. para que sepa a donde me han de hallar sus mandatos en el interinazgo. Le beso las manos a que creo que me dará ocasión la vuelta de esta armada a Italia, a donde se ha servido de resolver su majestad que [?]. El Sr. D. Pedro Forteza parece se ha cansado de ser capitán de la armada según me apretó por licencia en Valencia por más que desee dilatarse la hasta aquí a donde espere que tuviere mejor ocasión de pasar a esa ciudad aunque lo hará. En el navío de Canales creo que el hermano que tiene en Madrid le tira hacia allá. Yo desearé siempre sus mayores medras como deseo sea del servicio de v. s. que Dios guarde los muchos años que deseo de la real sobre Tarragona a primero de octubre 1659. Beso a v. s. la mano Francisco Diaz Pimienta El maestro de campo D. Pedro de Santacilia y Pax. Transcripción literal"
+  ],
+  "literal": [
+    "1. Tieneme VS., señor mío, enesta vezindad con sa 2. lud. para. servirle. y enellame detendre lo3. q el exto necessitare, de la asistencia de la Arm[a]da4. y lo hago saver a VS. para que sepa a donde me5. han de hallar sus mandatos en el interinzo[?] le6. beso las manos a q creo q me dara ocasion la buelta7. de esta Arm[a]da a Italia, a donde se ha serv[i]do de8. resolver Su Magd que imbierne,9. El Sor. D. Pedro Forteza pareze se ha cansado 10. de ser capn de la Armada segun me apreto por11. licencia En Valencia por mas que desee dilatarse12. la hasta aqui adonde espere q tubiere mejor ocasi 13. on de passar aessa Ciud aunq lo hara En el navio de14. Canales Creo que El hermo que tiene En Madrid15. le tira azialla. Yo deseare siempre sus maiores16. medras como do sea del servo de VS a q Dios17. gde los muchos años q desseo de la Rl sobre Ta18. rragna a pro de 8re 165919. B a V. l[a] m20. Franco Diaz Pimentel21. El Mro de Campo D. Pedro de Sta. Sicilia y Pax. [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "208:3277.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo23/208:3277.JPG",
+      "url": "/legajos/legajo-23/images/208:3277.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "208:3277.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-23/cartas/003864.json",
+  "primary_image_url": "/legajos/legajo-23/images/208:3277.JPG"
+}

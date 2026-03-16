@@ -1,0 +1,43 @@
+{
+  "legajo_id": "23",
+  "id_carta": "3931",
+  "order_in_legajo": 187,
+  "signatura": "326:3344a.JPG",
+  "nombre_carta": "Carta de José Balell a Pedro Santacilia y Pax",
+  "fecha_original": "25 de julio de 1669",
+  "lugar": "Barcelona",
+  "remitente": "José Balell",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Sr. D. Pedro de Santacilia y Pax mi Sr. Aunque por el pasaje pasado bese la mano a v. s. y remití todos los pliegos con que me hallaba y dado noticia de todo lo que se ofrecía con ocasión de este lo continuo con muy buena voluntad aunque deprisa el correo pasado no tuve noticia de la salud de Diego Matias de Aragues. Así no la puedo dar más de lo que dije con la pasada y la iré dando como la tuviere como se la dé eso ni tampoco hay más novedades solo que hoy día del San Tiago se habían de arbolar las banderas del regimiento y que se esperan cuatro regimientos de alemanes y dos tercios de valones que se han de desembarcar en Cantabria y se dice que estos se han de aquartelar junto a Madrid, al paso que acá esta gente de guerra Padeciendo y el país se cansa la Reforma de la caballería aún no se ha ejecutado [?] pero será de venida del duque de Sesamo se dice cuando esperen que las galeras con mi Sra. la marquesa de Montotro y entonces veremos si pasará a Milán el duque de Viana que siempre enseña poca gana y menos mi Sra. la duquesa. [1§] El conde de Zavella está bueno y me dijo anteayer que ya había respondido a v. s. Está muy de cuidado D. Juan Antonio D. Velasco que ayer le comulgaron. Dios le asista, y, tenga en el Cielo el alma. De D. Francisco Senmanat, que murió anteanoche, que le duró poco la enfermedad. Ya está bueno gracias a Dios y todavía no sabemos lo que es título de vicario que de la corona. Dícese no se halla bien en Zaragoza. Suplico a v. s. sea servido tenerme en su gracia y servicio cuya vida guarde Nro. Sr. muchos años como puede deseo y es menester, en compañía de mis Sres. y del Sr. D. Nicolas, cuyas manos beso como a su criado. Barcelona y julio 25 de 1669. A Jerónimo no le escribo aquí por no tener tiempo como, por no tener ocasión (de que) más de la noticia que verá a con esta del estado de su tío. Cierto criado de v. s. que sus manos besa Josep Balell Transcripción literal"
+  ],
+  "literal": [
+    "1. Sr. d. Po d Sta. Cilia y Pax mi Sr2. Aunque por el pasaje pass[a]do bese la3. mano a VS. y Remití todos los plie4. gos conque me hallava y dado no5. ticia de todo lo que se offrecia con 6. ocasion deste lo Continuo con mui7. buena boluntad aunque d prisa8. el Correo pass[a]do no tuve noticia d9. la salud d diego Matias d Ara10. gues asi no la puedo dar mas d11. lo que dije con la pasada y la hire12. dando como la tuviere como se la13. deso= ni tanpoco ay mas no14. vedades solo que oy dia del Sr. St.15. Tiago se havian d Arbolar las16. Banderas del Regimto y que se espe17. ran quatro Regimtos d Alemanes18. y dos Tercios de Balones que se han19. d desembarcar en Cantabria y se20. dize que estos se han d aquartelar21. junto a Madrid, al paso que aca22. esta Gente[?] d Guerra Padeciendo 23. y el Pais se canca la Reforma de la24. Cavalla aun no se ha executado[?]25. pero sera26. d Venida del Sr. duque de Sessamo27. se dize quando esperen q las Gale28. ras con mi Sa. la Marquesa d29. Mortara y entonces veremos si pa30. sara a Milan el Sr. duque de Via31. na que siempre enseña poca gana32. y menos mi Sa. la duquesa [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "326:3344a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo23/326:3344a.JPG",
+      "url": "/legajos/legajo-23/images/326:3344a.JPG"
+    },
+    {
+      "filename": "327:3344b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo23/327:3344b.JPG",
+      "url": "/legajos/legajo-23/images/327:3344b.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "326:3344a.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-23/cartas/003931.json",
+  "primary_image_url": "/legajos/legajo-23/images/326:3344a.JPG"
+}

@@ -1,0 +1,38 @@
+{
+  "legajo_id": "30",
+  "id_carta": "6562",
+  "order_in_legajo": 52,
+  "signatura": "042:5400",
+  "nombre_carta": "Carta de Thomás Áufre y Velasco a Persona desconocida",
+  "fecha_original": "9 de diciembre de 1619",
+  "lugar": "Mallorca",
+  "remitente": "Thomás Áufre y Velasco",
+  "destinatario": "Persona desconocida",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Â [1§] Transcripción literal"
+  ],
+  "literal": [
+    "1."
+  ],
+  "imagenes": [
+    {
+      "filename": "042:5400.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo30/042:5400.JPG",
+      "url": "/legajos/legajo-30/images/042:5400.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "042:5400.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (5)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-30/cartas/006562.json",
+  "primary_image_url": "/legajos/legajo-30/images/042:5400.JPG"
+}

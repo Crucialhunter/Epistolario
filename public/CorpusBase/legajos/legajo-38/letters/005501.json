@@ -1,0 +1,38 @@
+{
+  "legajo_id": "38",
+  "id_carta": "5501",
+  "order_in_legajo": 1,
+  "signatura": "044:25",
+  "nombre_carta": "Carta de Escrivà Miralles a Persona desconocida",
+  "fecha_original": "de diciembre de",
+  "lugar": "Felanitx",
+  "remitente": "Escrivà Miralles",
+  "destinatario": "Persona desconocida",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Delme de bestiars de la vila de Felanitx de l'any 1667 lliurat a Pere Joan Nicolau, als botiguers de la vila de Felanitx per 461 ll. fiances Bartomeu Nicolau son germà i Juan Obrador d'Antoni dit de Son Burguera, tots de Felanitx Miralles sba. Sr. D. Juan Bautista Zaforteza mensari, don Diego Clapes mensari, D. Ramon Sureda mensari, Antoni Piza [?] de la mensa episcopal, Pere Onofre Mayol, procurador de la mensa capitular. Transcripción literal"
+  ],
+  "literal": [
+    "1. Delme de bestiars de la vila de felenitg 2. del añy 1667 lliurat a Pere Joan Ni- 3. colau als. Botiguer de la vila de Fele-4. nitg per 461 ll.5. ff[ianc]as 6. Barthomeu Nicolau son Jerma y7. Juan Obrador de Antt[on]i dit de Son Bur-8. guera tots de Felenitg9. Miralles sba.10. D. Juan Bapt[ist]a Saforteza mens[ari]11. Don Diego Clapes mens[ari]12. D. Ramon Sureda mens[ari]13. Antt[on]i Piza Ador. de le14. mensa Apiscopal15. Pere Honofre Mayol 16. pdor. de la mensa Ca-17. pitular [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "044:25.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo38/044:25.JPG",
+      "url": "/legajos/legajo-38/images/044:25.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "044:25.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (2)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-38/cartas/005501.json",
+  "primary_image_url": "/legajos/legajo-38/images/044:25.JPG"
+}

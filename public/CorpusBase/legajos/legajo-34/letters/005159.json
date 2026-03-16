@@ -1,0 +1,38 @@
+{
+  "legajo_id": "34",
+  "id_carta": "5159",
+  "order_in_legajo": 189,
+  "signatura": "280:7074.JPG",
+  "nombre_carta": "Carta de Pedro Aulí a Pedro Santacilia y Pax",
+  "fecha_original": "15 de abril de 1658",
+  "lugar": "Barcelona",
+  "remitente": "Pedro Aulí",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Solo será esta para dar aviso a v. s. como me hallo sirviendo en La compañía con qua renta y cinco hombres efeticios sirviendo como hombres de bien. el alférez Pedro Mar torell mono que Dios tengaen susta gloria. el sargento haacabado el tiempo y va aquí con una certificación mía será servido v. s. hacerle la buena obra posible que ha servido muy bien. yo si Dios es servido acabado el tiempo hice aquí con todofonis soldados para recultar yo confío con v. s. me honrara como Siempre, en esta ocasión. Pra acá no hay cosa nueva de que dar aviso a v. s. que Dios guarde de Bna y 15 Abril de 1658 de v. s. Siempre Pedro Auli Sr. D. Pedro de Santacilia [1§] Transcripción literal"
+  ],
+  "literal": [
+    "1. Solo sera esta para dar aviso a V.S. como2. me hallo sirviendo en La Compañia con qua=3. renta y sinco hombres efeticios sirviendo co=4. mo hombres de bien. el alferes Pedro Mar-5. torell mono q Dios tengaen susta gloria.6. el sargento haacabado el tiempo y va aqui7. con una certificacion mia sera servido8. v.s. hazerle la buena obra possible que9. ha servido muy bien. yo si Dios es servido10. acabado el tiempo hice aqui contodo[fonis] sol-11. dados para recultar yo confio con v.s. me-12. honrara como Siempre, en esta ocasion. Pra-13. aca no hay cosa nueva de q dar aviso a14. V.S. q Dios gde de Bna y 15 Abril15. de 1658. de V.S. Siempre16. pedro auli17. Sr. D. Pedro de Sta. Cicilia [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "280:7074.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo34/280:7074.JPG",
+      "url": "/legajos/legajo-34/images/280:7074.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "280:7074.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-34/cartas/005159.json",
+  "primary_image_url": "/legajos/legajo-34/images/280:7074.JPG"
+}

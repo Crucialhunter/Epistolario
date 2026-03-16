@@ -1,0 +1,38 @@
+{
+  "legajo_id": "33",
+  "id_carta": "4943",
+  "order_in_legajo": 163,
+  "signatura": "203:6859",
+  "nombre_carta": "Carta de Pascual de Aragón a Persona desconocida",
+  "fecha_original": "27 de diciembre de 1639",
+  "lugar": "Lucena",
+  "remitente": "Pascual de Aragón",
+  "destinatario": "Persona desconocida",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "La merced que v. m. me hace en la puntualidad de la satisfacción de mis deseos [?] ce la merezco a v. m. así por lo que necesito [?], como por lo mucho que deseo servir a v. m. que en cuantas ocasiones se ofrezcan de su servicio y v. m. me diese hallara cuan cierto le [?] lo que aseguro el cobrar las que en adelante caieren he dado a Juan Siena que es quien dará a v. m. esta suplicale mucho le mande satisfacer las que en [?], pero favorecerle en cuanto se le ofreciee que será de toda estimación Nro. Sr. Dios guarde a v. m. como deseo Madrid 27 de diciembre de 1639 Sr. don Pasqual de Aragon D, Pedro Santacilia y Pax [1§] Transcripción literal"
+  ],
+  "literal": [
+    "1. La merced que Vm. me hace en la puntualidad2. de la satisfacion de mis deseos[?] ce la meresco a Vm asi por3. lo que necessito [?], como por lo mucho que de4. seo servir a Vm. que en quantas ocasiones se ofres5. can de suservicio y V.m me diese hallara quan6. cierto le [?] lo que asseguro el cobrar las que en7. adelante caieren he dado a Juan Siena que es 8. quien dara a Vm esta suplicale mucho le mande sa9. tisfacer las que en[?], pero favorecerle en quanto10. se le ofreciee que sera de toda estimacion Nro Sr Dios11. gde a Vm como deseo M[adri]d 27 de d[iciembr]e de 163912. Don Pasqual13. de Aragon14. Sor D, Pº Santacilia y Pax [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "203:6859.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo33/203:6859.JPG",
+      "url": "/legajos/legajo-33/images/203:6859.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "203:6859.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-33/cartas/004943.json",
+  "primary_image_url": "/legajos/legajo-33/images/203:6859.JPG"
+}

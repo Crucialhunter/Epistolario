@@ -1,0 +1,37 @@
+{
+  "legajo_id": "15",
+  "id_carta": "2137",
+  "order_in_legajo": 172,
+  "signatura": "055:6361a.JPG",
+  "nombre_carta": "Carta de Rafel Nadal a Pedro Santacilia y Pax",
+  "fecha_original": "4 de agosto de 1648",
+  "lugar": "Galera Santa Bà rbara",
+  "remitente": "Rafel Nadal",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "[{ESP. Mi senyor don Pedro de Santacilia }] De part de mon oncle, Mateu Bosc, li referesc ser revit [?] de més negocis, que pense v. m, està descuidat, i li adverteixo, estic en un infern i v. m. me pot treure i m'obliga servir-lo, que tinga en {ESP. mi un esclavo} tota la vida; i tendria permer-se tenir resposta d'este i confiat, com sempre, no el més llarg. Aquí guardi Nostre Senyor d'esta galera de Santa Bàrbara de sa han [?] gui hay d'agost de 164 [?] [?] Transcripción literal"
+  ],
+  "literal": [
+    "1. [Margen izquierdo][^Mi sor Don Po d StaS[i]lia]2. Depart mon honcle Matheu boshc Li Referesche 3. Serrevit[?] demes negosis q Pense V.m. hesta descuida 4. yliadvertexo estich enuninfern y V.m. menpot traure 5. y me obliga servirlo quetinga enmiunesclavo tota 6. lavida y tendria permerse tenir Resposta deste 7. y Confiat Comsenpre Nolomes llarc aquigde Ne Sor desta galera de San8. gui ay de agost de 164 [ilegible] 9. Ilegible] [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "055:6361a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo15/055:6361a.JPG",
+      "url": "/legajos/legajo-15/images/055:6361a.JPG"
+    },
+    {
+      "filename": "056:6361b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo15/056:6361b.JPG",
+      "url": "/legajos/legajo-15/images/056:6361b.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "055:6361a.JPG",
+  "warnings": [],
+  "raw_source": "raw/legajos/legajo-15/cartas/002137.json",
+  "primary_image_url": "/legajos/legajo-15/images/055:6361a.JPG"
+}

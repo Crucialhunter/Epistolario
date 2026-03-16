@@ -1,0 +1,43 @@
+{
+  "legajo_id": "6",
+  "id_carta": "643",
+  "order_in_legajo": 142,
+  "signatura": "211-108a",
+  "nombre_carta": "Carta de Juan Aledo y Orfila a Cecilia Zaforteza y Sureda de Sant Martí",
+  "fecha_original": "7 de mayo de 1771",
+  "lugar": "Mallorca",
+  "remitente": "Juan Aledo y Orfila",
+  "destinatario": "Cecilia Zaforteza y Sureda de Sant Martí",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Senyora dona Cecília, Ja que la mia cara no m’acompanya per a venir a humillar-me davant v. s., {CAST. antes} de partir d’esta de Mallorca, per a donar-li les gràcies dels molts beneficis que v. s. m’ha fets, dels quals jo no som digne, per tant amb estes breus línies pas a donar-li infinites gràcies de tots els beneficis i caritats que m’ha fetes en Mallorca i en Barcelona. I com jo no pugui pel present satisfer-la, sinó amb les mies pobres oracions, no deixaré d’olvidar-me de v. s. tot el temps de la mia vida, com en tinc obligació, [1§] suplicant a Nostre Senyor la conservi sempre en la seva santa gràcia, amèn. Barcelona als 7 de maig de 1771. El més indigníssim criat de v. s., Joan Aledo i Orfila Transcripción literal"
+  ],
+  "literal": [
+    "1. Señora Dna. Scicilia 2. ya que la mia cara 3. no me acompaña pa- 4. ra venir a humillar- 5. me devant V.S. an- 6. tes de partir de esta 7. de Mallorca per a 8. donarli las gracias 9. de los molts beneficis 10. que V.S. me a fets de 11. los quals yo no som 12. digne; per tant ab 13. estas breus lineas pas 14. a donarli infinitas 15. gracias de tots los be- 16. neficis y caritats que 17. me a fetas en Mallo- 18. rca y en Barcelona 19. y com yo no pugue 20. per el present sa- 21. tisferla sino ab las 22. mias pobres oracions 23. no dexare de olvidar- 24. me de V.S. tot el 25. tems de la mía vida 26. com en tinc obligatio [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "211-108a.jpg",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo06/211-108a.jpg",
+      "url": "/legajos/legajo-06/images/211-108a.jpg"
+    },
+    {
+      "filename": "212-108b.jpg",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo06/212-108b.jpg",
+      "url": "/legajos/legajo-06/images/212-108b.jpg"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "211-108a.jpg",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-06/cartas/000643.json",
+  "primary_image_url": "/legajos/legajo-06/images/211-108a.jpg"
+}

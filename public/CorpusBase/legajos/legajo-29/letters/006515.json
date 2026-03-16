@@ -1,0 +1,48 @@
+{
+  "legajo_id": "29",
+  "id_carta": "6515",
+  "order_in_legajo": 213,
+  "signatura": "332:4332a.JPG",
+  "nombre_carta": "Carta de Diego Matías de Aragüés a Pedro Santacilia y Pax",
+  "fecha_original": "20 de enero de 1666",
+  "lugar": "Madrid",
+  "remitente": "Diego Matías de Aragüés",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "[1§] [2§] [3§] Transcripción literal"
+  ],
+  "literal": [
+    "1. 1. 1."
+  ],
+  "imagenes": [
+    {
+      "filename": "332:4332a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo29/332:4332a.JPG",
+      "url": "/legajos/legajo-29/images/332:4332a.JPG"
+    },
+    {
+      "filename": "333:4332b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo29/333:4332b.JPG",
+      "url": "/legajos/legajo-29/images/333:4332b.JPG"
+    },
+    {
+      "filename": "334:4332c.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo29/334:4332c.JPG",
+      "url": "/legajos/legajo-29/images/334:4332c.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "332:4332a.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (3)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-29/cartas/006515.json",
+  "primary_image_url": "/legajos/legajo-29/images/332:4332a.JPG"
+}

@@ -1,0 +1,41 @@
+{
+  "legajo_id": "36",
+  "id_carta": "7319",
+  "order_in_legajo": 64,
+  "signatura": "095:7794a.JPG",
+  "nombre_carta": "Carta de Miguel Zanglada a Pedro Santacilia y Pax",
+  "fecha_original": "13 de septiembre de 1652",
+  "lugar": "Madrid",
+  "remitente": "Miguel Zanglada",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Anteayer hubo fiestas de toros y cañas [?] mañana y tarde se mataron muchos, y aunque no fueron muy buenos [?] ñas fue cosa grande porque fueron [?] cuadrillas de ocho caballos, con muchos grandes y entre [?] de Medellín, que todos anduvieron [?] lantes. El lunes que viene se [?] de fiesta de toros, porque se dice si [?] muchos rejones. De Barcelona han buenas nuevas, y aunque antes [?] más se había tratado sobre si se retiraría [?] el ejército o no. Se resolvió y ma [?] rey no se retirará, que el asistirí a todo lo que fuese menester, con lo que tienen grandes esperanzas todos los ca [?] nes. Dios no de buen suceso. Mi abuelo el deán me ha escrito al verle pedido [?] con diferentes cartas [1] envirá dimisorias en apellido de Zanglada, que por haber estado enfermos {CAT. mossó} Mesquida y {CAT. mossó} Ferro no me las había podido enviar como yo pedía, que lo pusiese yo como quisiese en caso no me las hubiese podido enviar a tiempo, que su merced ya lo dispondría. Y así estoy resuelto la semana que viene ordenarme mudando de las dimisorias el apellido de Farra en Zanglada, y en esta conformidad lo tengo escrito a mi tío, y en nombre de Dios he comenzado a firmarme Zanglada. V. md. se sirva hacerme merced saber si en esto le he dado disgusto, y en caso le haya, en v. md. tengo toda la confianza que lo remediará, y hará que lo hecho vaya por hecho, y asimismo facilitará a mi abuelo el hacer borrar del registro que quedó de las dimisorias el apellido de Farra y mandar escribir Zanglada. Y yo procuraré desempeñarme de tantas obligaciones, esperando siempre muchas que obedecer. En Madrid, 13 septiembre de 1652. Servidor de v. md., q. s. m. b. D. Miguel Zanglada. Transcripción literal"
+  ],
+  "literal": [],
+  "imagenes": [
+    {
+      "filename": "095:7794a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo36/095:7794a.JPG",
+      "url": "/legajos/legajo-36/images/095:7794a.JPG"
+    },
+    {
+      "filename": "096:7794b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo36/096:7794b.JPG",
+      "url": "/legajos/legajo-36/images/096:7794b.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "095:7794a.JPG",
+  "warnings": [
+    {
+      "code": "MISSING_LITERAL",
+      "message": "Transcripción literal vacía",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-36/cartas/007319.json",
+  "primary_image_url": "/legajos/legajo-36/images/095:7794a.JPG"
+}

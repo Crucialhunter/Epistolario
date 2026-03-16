@@ -1,0 +1,51 @@
+{
+  "legajo_id": "1",
+  "id_carta": "390",
+  "order_in_legajo": 80,
+  "signatura": "181-279",
+  "nombre_carta": "Carta de Joan Nicolau a Jerónimo Pelegrín de Aragüés",
+  "fecha_original": "6 de abril de 1668",
+  "lugar": "Llucmajor",
+  "remitente": "Joan Nicolau",
+  "destinatario": "Jerónimo Pelegrín de Aragüés",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "{ESP. Señor amigo},",
+    "Aquí va la certificatòria que vostra mercè m’ha manat fes. Confio que com a tant servidor seu, m’honrarà mon nebot, que se diu Juan Balisilio Nicolau. Si pensàs, senyor, que {ESP. su merced} no m’ho tengués en el número dels criats, li posaria {ESP. medis}, però no tenint vostra mercè criat més antic que jo, confio em serà propici i no em planya la bossa, que corrent es negoci per mà de vostra mercè gustaria, no restàs frustrat son desig, i així dic segona vegada que no em planya la bossa, que ja tenc la rectoria franca, a bé que és vanitat que l'escrivania de Sant Joan és cosa poca; però {ESP. com todo eso} em folgaria que corrent per mà de vostra mercè tengués efecte mon suplicar-li d’esta sa casa i rectoria de Llucmajor, a 6 abril 1668.",
+    "Son capellà, qui ses mans besa. Joan Nicolau, rector."
+  ],
+  "literal": [
+    "1. Aqui va la certificatoria que VMd.",
+    "2. ma manat fes. Confio que com a tant",
+    "3. servidor seu ma honrera mon nebot que",
+    "4. se diu Juan Balisilio Nicolau, si pensas Señor",
+    "5. que su Md. no mo tengues an lo numero de",
+    "6. los criats li poseria medis, pero no tanint Vm",
+    "7. criat mes antich que jo, confio am sera",
+    "8. propritio y nom planga la bossa, que corret",
+    "9. est negoci per ma de Vm gustaria no",
+    "10. restas frustat son desig y axi dic segona",
+    "11. vegada que nom planga la bossa que",
+    "12. ja tench la rectoria franca, abeque es vani-",
+    "13. tat que la scrivania de Sant Joan es cosa",
+    "14. poca; pero {Cast con todo esso am folgaria que corret",
+    "15. per ma de Vm tengues effecta mon soplicarly",
+    "16. desta se cassa i Rectoria de Llucmajor a 6",
+    "17. Abril 1668. Son capella qui s m b",
+    "18. Juan Nicolau Rector [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "181-279.gif",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo01/181-279.gif",
+      "url": "/legajos/legajo-01/images/181-279.gif"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "181-279.gif",
+  "warnings": [],
+  "raw_source": "raw/legajos/legajo-01/cartas/000390.json",
+  "primary_image_url": "/legajos/legajo-01/images/181-279.gif"
+}

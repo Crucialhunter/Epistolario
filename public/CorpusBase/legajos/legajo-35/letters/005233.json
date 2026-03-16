@@ -1,0 +1,38 @@
+{
+  "legajo_id": "35",
+  "id_carta": "5233",
+  "order_in_legajo": 44,
+  "signatura": "038:8079.JPG",
+  "nombre_carta": "Carta de Thomás Áufre y Velasco a Pedro Santacilia y Pax",
+  "fecha_original": "6 de junio de 1642",
+  "lugar": "Castillo de San Felipe",
+  "remitente": "Thomás Áufre y Velasco",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Con la inclusa remito a v. s. los bandos que por no estar despachados no había enviado a v. s. con los demás. v. s. me mande en que le sirva, a quien guarde Dios muchos años como deseo. St. Fe. y julio a 6 de 1642 Tomás de Çufre Señor gobernador Transcripción literal"
+  ],
+  "literal": [
+    "1. Con la ynclussa remito a V.S. los bandos que p no2. estar despachados no avia inviado a V.S. con los demas3. V.S. me mande en que le sirve a quien gde. Dios muchos4. años como desseo. St. Phe. y Jullio A 6 de 16425. Thomas de Çufre6. Señor Governador [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "038:8079.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo35/038:8079.JPG",
+      "url": "/legajos/legajo-35/images/038:8079.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "038:8079.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (2)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-35/cartas/005233.json",
+  "primary_image_url": "/legajos/legajo-35/images/038:8079.JPG"
+}

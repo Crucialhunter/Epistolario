@@ -1,0 +1,50 @@
+{
+  "legajo_id": "26",
+  "id_carta": "4337",
+  "order_in_legajo": 73,
+  "signatura": "103:3431.JPG",
+  "nombre_carta": "Carta de Lluís Gisbert a Pedro Santacilia y Pax",
+  "fecha_original": "12 de diciembre de 1639",
+  "lugar": "Berasain",
+  "remitente": "Lluís Gisbert",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Después de haber escrito el Sr. don Alonso llegué en su posada y supe como enviaba a un soldado a Va. al cual le he dado una guarnición de espadín que dije la [?] que estuve en ese cuartel de enviarla tan bien que hubiera enviada el galgo que es del ayudante. Si supiera gustaba de ello en que me honre en mandarme cuanto es mi deseo. Guarde Dios a v. s. de Berasain y diciembre a 12 de 1639. Humilde criado de v. s. Lluis Gisbert Sr. gobernador Transcripción literal"
+  ],
+  "literal": [
+    "1. Despues de aver escrito el Sor. do Alon2. so legue en su posada y supe como en3. viava a un soldado a V.a. al cual le dado4. una guarnision de espadin que dixe5. la [?] que estuve en esse cuartel de en6. viarla tan bien q uviera enviada7. el galgo que es del aiudante si supiera8. gustava dello en que me onrre en9. mandarme cuanto es mi deseo gde10. Dios a V.a. de Borrasuain y desie11. bre a 12 de 163912. Umilde criado de Va.13. Luis Gisbert14. S. Governador [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "103:3431.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo26/103:3431.JPG",
+      "url": "/legajos/legajo-26/images/103:3431.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "103:3431.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    },
+    {
+      "code": "IMAGE_DOWNLOAD_FAIL",
+      "message": "HTTP 404",
+      "context": {
+        "url": "http://santacilia.info/intranet2/img/Legajo26/103:3431.JPG"
+      }
+    },
+    {
+      "code": "IMAGE_COUNT_MISMATCH",
+      "message": "Imágenes detectadas (1) != descargadas (0)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-26/cartas/004337.json",
+  "primary_image_url": "/legajos/legajo-26/images/103:3431.JPG"
+}

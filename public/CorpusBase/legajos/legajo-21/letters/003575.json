@@ -1,0 +1,38 @@
+{
+  "legajo_id": "21",
+  "id_carta": "3575",
+  "order_in_legajo": 264,
+  "signatura": "466:5863",
+  "nombre_carta": "Carta de Gabriel Seguí a Persona desconocida",
+  "fecha_original": "1 de agosto de 1644",
+  "lugar": "Maó",
+  "remitente": "Gabriel Seguí",
+  "destinatario": "Persona desconocida",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "{ESP. Antes} d'ahir de defora i me digué Pere Sureda que el Sr. Salvador Sureda li havia dit coneixia el {ESP. enfado} que li donava i que per comoditat de tots estaria a gust en la casa del rei i jo sabent el de v. s. que m'ha manat que el servesca no he reparat en manar a Jordi Morro que el tinga allí, que a tenir en ma casa comoditat, l'hauria tingut amb molt gran gust. Dit Sr. he fet acomodar en l'{ESP. aposento} de l'assessor, el qual encara que vingués podrem acomodar en altra part. Guardi Déu a v. s. de Maó i agost primer de 1644. Gabriel Segui Sr. governador Transcripción literal"
+  ],
+  "literal": [
+    "1. Antes de Ayr de defora y me digué Pera Sureda que 2. losr Salvador Sureda li havia dit conexia elenfadoq 3. li donava Y que p comoditat de tots estaria agust 4. en laCasa del Rey Y yo sabent elde VSª 5. que meha manat quel servesq nohe reparat en manar 6. aJordi Morro quel tinga allí, q a tenir en ma 7. casa comoditat, lo hauria tingut ab molt grangust 8. Ditsr hefet acomodar enlo aposento delsr Assor 9. alqual encareq Vingues podrem acomodar en 10. altrepart Gde Deua VSª de Maho y Agost 11. pr de 1644 12. Gabríel Sagui [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "466:5863.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo21/466:5863.JPG",
+      "url": "/legajos/legajo-21/images/466:5863.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "466:5863.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-21/cartas/003575.json",
+  "primary_image_url": "/legajos/legajo-21/images/466:5863.JPG"
+}

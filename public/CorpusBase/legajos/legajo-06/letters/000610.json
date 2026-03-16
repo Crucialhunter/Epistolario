@@ -1,0 +1,43 @@
+{
+  "legajo_id": "6",
+  "id_carta": "610",
+  "order_in_legajo": 110,
+  "signatura": "145-75a",
+  "nombre_carta": "Carta de Tomás Mariano Quint Zaforteza a Cecilia Zaforteza y Sureda de Sant Martí",
+  "fecha_original": "1 de mayo de 1770",
+  "lugar": "Barcelona",
+  "remitente": "Tomás Mariano Quint Zaforteza",
+  "destinatario": "Cecilia Zaforteza y Sureda de Sant Martí",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Tia Cecília, Esper esta la trobarà amb perfecta salut. Jo la {ESP. gos} bona, a Déu gràcies. A mi em gusta molt Barcelona. Ahir vaig anar a casa de Pinós i vaig veure les fadrines. I n’hi ha una guapa l’altra molt {ESP. fea}. Del que li vaig dir d’en Miquel li torn a dir que m'enviï una carta que mon pare el necessita, i jo l'enviaré. La marquesa de Barberà li dóna moltes memòries i el superior de la Missió també li dóna moltes memòries. No tinc res més que participar-li. De part de tots rebrà moltes memòries i de mi les prendrà a {ESP. medida} del seu gust, mentre qued pregant a Déu la guardi els dilatats anys de mon desig. Barcelona i maig 1 de 1770. Son nebot qui més l’estima, Tomàs Mariano Quint Zaforteza Tia Cecília Transcripción literal"
+  ],
+  "literal": [
+    "1. Tia Cecilia esper esta la trobera 2. em perfeta salut jo la gos bona 3. á Deu gracias á mi em gusta 4. molt Barselona air vatx anar 5. á casa de pinos y vatx veurer 6. las fedri(^a^)nas y ni á una gua- 7. pa y la altra molt fea de lo 8. que li vatx dir den Miquel li 9. torn dir que me envii una 10. carta que mon Pare el Nese- 11. cita y io lo enviare la Mar- 12. quesa de Barbara li dona ms 13. ms y el Superior de la Misio ta- 14. mbe li dona ms ms no tinc res [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "145-75a.jpg",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo06/145-75a.jpg",
+      "url": "/legajos/legajo-06/images/145-75a.jpg"
+    },
+    {
+      "filename": "146-75b.jpg",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo06/146-75b.jpg",
+      "url": "/legajos/legajo-06/images/146-75b.jpg"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "145-75a.jpg",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (2)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-06/cartas/000610.json",
+  "primary_image_url": "/legajos/legajo-06/images/145-75a.jpg"
+}

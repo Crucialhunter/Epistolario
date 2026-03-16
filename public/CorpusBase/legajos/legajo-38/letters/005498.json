@@ -1,0 +1,38 @@
+{
+  "legajo_id": "38",
+  "id_carta": "5498",
+  "order_in_legajo": 119,
+  "signatura": "041:22",
+  "nombre_carta": "Carta de Escrivà Miralles a Persona desconocida",
+  "fecha_original": "1 de enero de 1667",
+  "lugar": "Manacor",
+  "remitente": "Escrivà Miralles",
+  "destinatario": "Persona desconocida",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Delma de bestiars de la vila de Manacor del Any 1667 lliurat a Pere Fullana als Burguera de Manacor [?] per 847 ll. fiancas Pere Jaume de la possessio Guillem Llull de Miquel Sr. Francesc Bonat de Mateu i Antoni Riutord als Noviet tots de Manacor Sba. Miralles Sr. D. Juan Bautista Zaforteza don Diego Clapes mensari Sr. D. Ramon Sureda Canongi mensari Antoni Piza menor Ador. del Bisbat Pere Onofre Mayol pdor. de la mança Capi tular [1§] Transcripción literal"
+  ],
+  "literal": [
+    "1. Delma de bestiars de la vila de Manacor2. del Añy 1667 lliurat a Pere Fullana als. 3. Burguera de Manacor (^[?]) per 847 ll.4. ff[ianc]as 5. Pere Jaume de la poss[essi]o6. Guillem Llull de Miquel7. Ffs. Bonat de Matheu y8. Antt[on]i Riutord als. Noviet tots9. de Manacor10. Sba. Miralles11. D. Juan Bapt[ist]a Saforteza12. Don Diego Clapes mens[ari]13. D. Ramon Sureda Canongi mens[ari]14. Antoni Piza me[nor] Ador. del Bisbat 15. Pere Honofre Mayol 16. pdor. de la mansa Capi-17. tular [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "041:22.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo38/041:22.JPG",
+      "url": "/legajos/legajo-38/images/041:22.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "041:22.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (2)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-38/cartas/005498.json",
+  "primary_image_url": "/legajos/legajo-38/images/041:22.JPG"
+}

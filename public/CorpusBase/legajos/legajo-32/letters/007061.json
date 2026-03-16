@@ -1,0 +1,48 @@
+{
+  "legajo_id": "32",
+  "id_carta": "7061",
+  "order_in_legajo": 53,
+  "signatura": "062:1819a",
+  "nombre_carta": "Carta de Marc Sancho a Persona desconocida",
+  "fecha_original": "2 de enero de 1664",
+  "lugar": "Mallorca",
+  "remitente": "Marc Sancho",
+  "destinatario": "Persona desconocida",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Â [1§] Â [2§] Â [3§] Transcripción literal"
+  ],
+  "literal": [
+    "1. 1. 1."
+  ],
+  "imagenes": [
+    {
+      "filename": "062:1819a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo32/062:1819a.JPG",
+      "url": "/legajos/legajo-32/images/062:1819a.JPG"
+    },
+    {
+      "filename": "063:1819b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo32/063:1819b.JPG",
+      "url": "/legajos/legajo-32/images/063:1819b.JPG"
+    },
+    {
+      "filename": "064:1819c.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo32/064:1819c.JPG",
+      "url": "/legajos/legajo-32/images/064:1819c.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "062:1819a.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (9)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-32/cartas/007061.json",
+  "primary_image_url": "/legajos/legajo-32/images/062:1819a.JPG"
+}

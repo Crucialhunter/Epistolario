@@ -1,0 +1,38 @@
+{
+  "legajo_id": "16",
+  "id_carta": "2643",
+  "order_in_legajo": 130,
+  "signatura": "210:2143.JPG",
+  "nombre_carta": "Carta de Teresa Bazán y Pimentel a Pedro Santacilia y Pax",
+  "fecha_original": "25 de septiembre de 1667",
+  "lugar": "Càller (Cagliari)",
+  "remitente": "Teresa Bazán y Pimentel",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Muchos días ha que me hallo sin carta de v.s., que me tiene muy sola el no saber de su salud, y así desearé tener muy buenas noticias de ella y juntamente será de toda mi estimación ver en lo que puedo servir a v.s. Por acá lo que yo suplico a v.s. es me envíe esa carta a mi hermano el señor gobernador de Valencia, y en caso de que le envíen a v.s. algunas para mí tenga cuidado de remitírmelas en todas ocasiones, que será hacerme gran merced. Y perdone v.s. lo que le canso. Guarde Dios a v.s. De Càller (Cagliari), a 25 de septiembre de [ 16]67 La marquesa de Villasor y condesa de Montesanto Señor don Pedro de Santacilia Transcripción literal"
+  ],
+  "literal": [
+    "1. muchos dyasa q me allo syn2. carta de VSª q me tyene muy 3. sola el no saber desusa-4. lud yasy deseare te5. ner muy buena notysy6. as della yguntamente 7. serade toda my estymasy 8. onber en lo q puedo serbyr 9. a VSª poraca lo q yo supli-10. co a VSª es menbye esa 11. carta amier mano 12. el Sr gobernador deba13. lensya yen casode 14. q lenbyen a VSª algunas 15. pamy tenga cuydadodere-16. my tyr melas entodas oca-17. syones q sera aser me gran 18. merse y perdone VSª lo q 19. le canso guarde dyos a VSª 20. de caller a 25 de setyenbre 21. de 67 22. lamarq[ue]sa de byllasor23. condesa de montesanto 24. [Margen izquierdo][^ Sr don Pedro de Santasylya] [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "210:2143.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo16/210:2143.JPG",
+      "url": "/legajos/legajo-16/images/210:2143.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "210:2143.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-16/cartas/002643.json",
+  "primary_image_url": "/legajos/legajo-16/images/210:2143.JPG"
+}

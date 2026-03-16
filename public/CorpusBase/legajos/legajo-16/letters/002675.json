@@ -1,0 +1,38 @@
+{
+  "legajo_id": "16",
+  "id_carta": "2675",
+  "order_in_legajo": 162,
+  "signatura": "262:2175.JPG",
+  "nombre_carta": "Carta de Juan Garçes a Pedro Santacilia y Pax",
+  "fecha_original": "22 de diciembre de 1667",
+  "lugar": "Castillo de San Felipe (Menorca)",
+  "remitente": "Juan Garçes",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "La falta de embarcación ha ocasí nado dífírir responder a la de v. m., de 22 de octubre que acompaño el despacho de su majestad que logro el pasaje de la galera en que vino el señor conde de Perelada a la conclusión de su matrimonío vinculado con hija única del señor conde de Caballá de que doy avm, la h enhorabuena y Gracias del cuidado que se sirvío poner en la remisión de dicho despacho suplicando aun, no me tenga ocioso en cuanto fuere de su servicio en que me emplearé con las veras que debo y Ruego a nuestro Señor dé a v. m., muy felíces pascuas de su santo nacimiento con los principios deaño y guarde avm, muchos años como deseo Castillo de San Felipe y Xre 22 de 1667. Besa la mano de v. m., su mayor servidor Juan Garces Señor don Pedro Santa Çílía y Pax [1§] Transcripción literal"
+  ],
+  "literal": [
+    "1. La falta de embarcaçíon ha ocasínado 2. dífírír responder ala de vm, de 22 de 8re 3. que acompaño el despacho de S[u] M[a]gd que 4. logro el pasaje de la Galera enque vino 5. el sr conde de Perelada ala conclusíon 6. de su matrimonío vinculado con hija unica 7. del sr conde de Caballá deque doy avm, la 8. henorabuena y Graçías del cuidado que se 9. sirvío poner enla remisíon de dho despacho 10. suplicando aun, no metenga oçíoso en 11. quanto fuere desu serviçio en que me 12. empleare conlas beras que devo y Ruego 13. anro Señor de a vm, muy felízes Pasquas 14. desu santo naçímiento con los prinçipios 15. deaño y gde avm, ms an como deseo Castillo 16. San Phe y Xre 22 de 1667 17. Vesa lamano de vm, 18. su mayor servídor 19. Juan Garçes 20. [Margen izquierdo][^ Sr don Pedro Santa Çílía y Pax] [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "262:2175.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo16/262:2175.JPG",
+      "url": "/legajos/legajo-16/images/262:2175.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "262:2175.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-16/cartas/002675.json",
+  "primary_image_url": "/legajos/legajo-16/images/262:2175.JPG"
+}

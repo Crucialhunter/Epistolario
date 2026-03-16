@@ -1,0 +1,38 @@
+{
+  "legajo_id": "26",
+  "id_carta": "4521",
+  "order_in_legajo": 257,
+  "signatura": "382:3617.JPG",
+  "nombre_carta": "Carta de Pere Fornés a Pedro Santacilia y Pax",
+  "fecha_original": "23 de octubre de 1665",
+  "lugar": "Mallorca",
+  "remitente": "Pere Fornés",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Mi senyor, després d'haver besades les mans a vostra senyoria, tinc una rebuda de vostra senyoria i quan la rebí al cavall fou fora vostra senyoria diu que l'enviem per persona segura. No tenim persona més segura que serà en Guillem, que serà aquí diumenge només. Nostre Sr. el guardi d'esta sa casa als 23 octubre 1665. Pere Fornes Dameto, criat de vostra senyoria. Transcripción literal"
+  ],
+  "literal": [
+    "1. Mi Señor2. Denpres de haver besades las mans3. ha vose señoria, tinch una rebuda de4. vose señoria y quant le rebe al cavall5. fonch fora vose señoria diu que lo en6. viem p[er] persona sagura no tenim persona7. mes sagura que sera en Gll. que sera a8. qui diumenga no mes nostro [Sr.] lo guarde des9. ta se case als 23 8bre. 166510. Pere Fornes Demet criat11. de vose señoria [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "382:3617.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo26/382:3617.JPG",
+      "url": "/legajos/legajo-26/images/382:3617.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "382:3617.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-26/cartas/004521.json",
+  "primary_image_url": "/legajos/legajo-26/images/382:3617.JPG"
+}

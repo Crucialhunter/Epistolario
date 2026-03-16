@@ -1,0 +1,38 @@
+{
+  "legajo_id": "21",
+  "id_carta": "3544",
+  "order_in_legajo": 234,
+  "signatura": "422:5832.JPG",
+  "nombre_carta": "Carta de Antoni Amorós a Pedro Santacilia y Pax",
+  "fecha_original": "14 de enero de 1644",
+  "lugar": "Alcúdia",
+  "remitente": "Antoni Amorós",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Il·lustríssim Sr. Les de v. s. he rebudes en què som folgat que tinga v. s. filla i mi sra estan bones, que Nostre Sr. la hi conservi molts anys i v. s. perquè tinga un minyó com diu té {ESP. ánimo} que un any. Les cartes anaren aquí mateix a on recapta el pare Mayol me diu v. s. que si serà per ací que si no ho fa [?] més amic. Per ací no tenim ras de nou. [?] bon que el virrei que ha de venir sa vinguda una cama notícies ver [?] estic prompte pel que v. s. manarà a qui Nostre Sr. guardi molts anys d'Alcúdia a 14 de gener 1644. Criat de v. s. Antoni Amoros Il·lustríssim Sr. don Pedro Santacilia, capità general de Menorca Transcripción literal"
+  ],
+  "literal": [
+    "1. Illm sor 2. los de vsa herebudes anque som folgat de que tin3. ga vsa filla ymisra astan bone que nostro sor lay conser4. va molts anis y vsa per que tinga un nieto[?] com diu te 5. animo de que un any 6. las cartes anaran aqui matex abon recapta Alpana [?] 7. maiol mediu vsa que si ser per assi que si nou fa nbistane[?]8. mes amich per asi notanim ras de nou core bon quel virey 9. que ade venir sa vingude una cama notisias ver ono Anll[?] 10. astich pronta per lo que vsa menera aqui nostro sor guart 11. molts anis delcudia a 14 de janer 1644 12. Criat de vsa 13. Antoni Amoros14. [Margen izquierdo][^ Illm Sor don pedro sta Sillia capitant general de menorque ] [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "422:5832.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo21/422:5832.JPG",
+      "url": "/legajos/legajo-21/images/422:5832.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "422:5832.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-21/cartas/003544.json",
+  "primary_image_url": "/legajos/legajo-21/images/422:5832.JPG"
+}

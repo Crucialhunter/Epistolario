@@ -1,0 +1,38 @@
+{
+  "legajo_id": "26",
+  "id_carta": "4420",
+  "order_in_legajo": 167,
+  "signatura": "235:3515.JPG",
+  "nombre_carta": "Carta de Lluís de Paguera a Pedro Santacilia y Pax",
+  "fecha_original": "4 de agosto de 1644",
+  "lugar": "Génova",
+  "remitente": "Lluís de Paguera",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "El conde de Perelada me ha remitido desde Roma las que van con esta para que cuidase de enviárselas a v. m. y así desearé lleguen a sus manos para que conozca el conde. Deseo servirle y darle gusto suplicando a v. m. me mande lo de su servicio, pues sabe soy muy suyo. Las nuevas que por acá tenemos son de haber muerto el Papa el viernes pasado, a las doce de la mañana. Quiera Dios sea para más bien de la Cristiandad y sosiego de la monarquía de España. El Sr. guarde a v. m. Génova y agosto a 4 de 1644. Don Luis de Paguera Sr. don Pedro Santacilia [1§] Transcripción literal"
+  ],
+  "literal": [
+    "1. El Conde de Peralada mea rremitido dende2. Roma las que van con esta para que cuidase3. de inbiarselas a V.m. y assi deseare lleguen4. a sus manos paraque conoscha el conde deseho5. servirle y darle gusto suplicando a V.m.6. me mande lo de su servicio pues sabe soy7. muy suyo, las nuebas que por acha tenemos8. son de aber muerto el Papa el viernes pasado9. a las doze de la mañana quiera Dios seha para10. mas bien de la Christiandad y sosiego de la mo11. narquia de España El Sr. ge. a V.m. Geno12. va y agosto a 4 de 164413. Don Luis de Paguera14. Sr. Don Pedro StiCilia [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "235:3515.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo26/235:3515.JPG",
+      "url": "/legajos/legajo-26/images/235:3515.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "235:3515.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-26/cartas/004420.json",
+  "primary_image_url": "/legajos/legajo-26/images/235:3515.JPG"
+}

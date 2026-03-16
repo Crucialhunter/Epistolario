@@ -1,0 +1,43 @@
+{
+  "legajo_id": "21",
+  "id_carta": "3404",
+  "order_in_legajo": 93,
+  "signatura": "146:5693a.JPG",
+  "nombre_carta": "Carta de Pedro Fajardo de Requeséns-Zúñiga y Pimentel (V marqués de los Vélez) a Pedro Santacilia y Pax",
+  "fecha_original": "16 de diciembre de 1638",
+  "lugar": "Pamplona",
+  "remitente": "Pedro Fajardo de Requeséns-Zúñiga y Pimentel (V marqués de los Vélez)",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Su carta de v. m. de 24 del pasado he recibido y holgádome mucho con las nuevas de su salud y quisiera que las del [?] alojamiento y comodidades fueran muy a su satisfacción. Ya me avisó de todo don Pedro Jimenez de Murillo y he continuado con muchas veras las instancias para que se provea dinero y acuda al socorro de esas compañías que me avisan se disponía a toda prisa y siempre la daré para que se les asista como conviene a su conservación, en que juzgo se logrará su buen cuidado, de v. m., como en la quietud y buena disposición con que lleva la gente que, es muy conforme a lo que me prometo de su atención de v. m. Yo quedo con la que debo a su servicio y deseo lograrlo én todas ocasiones. Guarde Dios a v. m. como puede Pamplona, 16 de diciembre 1638. El marques de los Velez Sr. don Pedro Santacilia Pax [1§] Pamplona, 16 Diciembre 1638 el marques de los Velez rdo. [2§] Transcripción literal"
+  ],
+  "literal": [
+    "1. Sucarta de Vm. de 24 del pasado é Rdo 2. yolgadome mucho, con las nuebas desu salud 3. y quísíera que las del s halojamiento Y 4. comodidades fueran muy Asusatisfaçíon 5. ya me haviso detodo Don Pedro Jimenez 6. de Murillo y é continuado con muchas beras 7. las ynstançías paraqueseprobea dinero ya 8. cuda Alsocorro dehesasconpañias que mea9. bisanse disponía A toda príesa ysiempre 10. ladare parqueseles hasista como con bíene 11. asuconserbaçíon énque Juzgo selograra 12. subuencuydado , de Vm, como én la quiétud 13. ybuena dispusiçíon conque lleba la Jente que, es 14. muy con forme Alo queme prometo desu Atençíon 15. de Vm, Yo quedo con la quedebo Asuservio 16. y desseo lograllo éntodas ocasiones gde Dios a Vm 17. como puede panplona, 16 de die 1638 18. El Marqs delosVelez19. [Margen izquierdo][^ Sor Don Po Sta Zilia pax] [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "146:5693a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo21/146:5693a.JPG",
+      "url": "/legajos/legajo-21/images/146:5693a.JPG"
+    },
+    {
+      "filename": "147:5693b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo21/147:5693b.JPG",
+      "url": "/legajos/legajo-21/images/147:5693b.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "146:5693a.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (5)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-21/cartas/003404.json",
+  "primary_image_url": "/legajos/legajo-21/images/146:5693a.JPG"
+}

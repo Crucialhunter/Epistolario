@@ -1,0 +1,38 @@
+{
+  "legajo_id": "21",
+  "id_carta": "3351",
+  "order_in_legajo": 42,
+  "signatura": "066_5640.JPG",
+  "nombre_carta": "Carta de Ramon de Rocabertí a Pedro Santacilia y Pax",
+  "fecha_original": "2 de marzo de 1632",
+  "lugar": "Girona",
+  "remitente": "Ramon de Rocabertí",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "No puc dir a v. m. el {ESP. contento} me cap la remissió a feta sa magestat a v. m. ací te un soldat que el servirà yl seguira en tot, que jasab que Jo soc totseu yl tinc de servir sempre immane i ens tre a v. m. guardi de Girona i març als 2 ele 1632 Sr. don ramon de Rocaberti Sr. don Predro Santacilia i Pax [1§] Transcripción literal"
+  ],
+  "literal": [
+    "1. No puc dir a V.M. lo contento me cap la 2. remisio a feta sa magestat a V.M. asi te un soldat 3. quel servira yl seguira en tot, que jasab que Jo [soc] 4. totseu yl tinch de servir sempre im mane y n[os]5. tre Sr a VM. guarde De Gerona y mars 6. als 2 ele 1632 7. Don ramon [de] 8. Rocaberti9. [Margen izquierdo][^ Sr Don Predro Sa cilia y pax] [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "066_5640.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo21/066_5640.JPG",
+      "url": "/legajos/legajo-21/images/066_5640.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "066_5640.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-21/cartas/003351.json",
+  "primary_image_url": "/legajos/legajo-21/images/066_5640.JPG"
+}

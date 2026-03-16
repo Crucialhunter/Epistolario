@@ -1,0 +1,38 @@
+{
+  "legajo_id": "24",
+  "id_carta": "3981",
+  "order_in_legajo": 32,
+  "signatura": "053:4034.JPG",
+  "nombre_carta": "Carta de Joan Mexía de Soto a Pedro Santacilia y Pax",
+  "fecha_original": "30 de noviembre de 1640",
+  "lugar": "Perpiá±án",
+  "remitente": "Joan Mexía de Soto",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "No he podido excusar este enfado y así suplico a v. m. perdone el bergantín que v. m. envió a Menorca con dos mil escudos de los de mi cargo, he entendido volvió y fue derrotado en una cala de Cataluña, con lo cual el patrón no vino a Rosas como se esperaba. Suplico a v. m. sea servido de mandarme avisar si escapó las cartas y recibo que traía de dichos dos mil escudos, y si lo hizo enviármele, o si no, que se procure obtener otro por perdido, para que yo tenga el resguardo necesario, pues como sabe v. m. yo no quedé con ninguno suyo ni del patrón porque a v. m. le pareció que no era necesario. Cuya vida guarde Dios como deseo, de Perpiñán y noviembre 30 de 1640. Joan Mexia de Soto Sr. don Pedro de Santacilia [1§] Transcripción literal"
+  ],
+  "literal": [
+    "1. No é podido escusar este emfado y asi suplico2. a Vmd Perdone,3. el vergantin que Vmd. ymbio a Menorca con 4. dos mil escudos de los de mi cargo, é entendido bolvio5. y fue derrotado, en una cala de Cataluña, con lo qual6. el Patron no vino a Rossas como se esperava7. Suplico a Vmd. sea servido de mandarme avisar8. si escapo las Cartas y recivo que traya de dhos9. dos mil escudos, y si lo hizo ymbiarmele, o sino10. que se procure obtener otro por perdido, para q 11. yo tenga el resguardo necessario, pues como save 12. Vmd. yo no quede con ninguno suyo ni del Patron 13. porq a Vmd. le pareçio que no era necesario, cuya14. vida gde Dios como deseo de Perpan y nove 15. 30 de 1640.16. Joan Mexia de Soto17. Sr. Don Pº de Sta Siçilia [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "053:4034.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo24/053:4034.JPG",
+      "url": "/legajos/legajo-24/images/053:4034.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "053:4034.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-24/cartas/003981.json",
+  "primary_image_url": "/legajos/legajo-24/images/053:4034.JPG"
+}

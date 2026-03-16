@@ -1,0 +1,43 @@
+{
+  "legajo_id": "6",
+  "id_carta": "752",
+  "order_in_legajo": 17,
+  "signatura": "429-213a",
+  "nombre_carta": "Carta de Gabriel Joachim Zaforteza y Berga a Cecilia Zaforteza y Sureda de Sant Martí",
+  "fecha_original": "fecha sin especificar",
+  "lugar": "Mallorca",
+  "remitente": "Gabriel Joachim Zaforteza y Berga",
+  "destinatario": "Cecilia Zaforteza y Sureda de Sant Martí",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Mi senyora, Dn. Pedro ja està declinant la terciana i és una cosa semblant a l'última. Casa de dona Maria ja està llesta i tot el corresponent providenciat. Gabriel. Va un mocador. A dona Cecilia Zaforteza i de Berga, viuda, guardi Déu molts anys etcetera. S<on> Sureda. Transcripción literal"
+  ],
+  "literal": [
+    "1. Mi S<eño>ra: Dn. Pe- 2. dro ya está decli- 3. nant la Tercia- 4. na, y es una cosa 5. semblant á la 6. ultima: casa de 7. Da. Maria ya 8. está lleste, y tot 9. lo corresponent 10. providenciat. 11. Gab< rie>l 12. va un mocador [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "429-213a.jpg",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo06/429-213a.jpg",
+      "url": "/legajos/legajo-06/images/429-213a.jpg"
+    },
+    {
+      "filename": "430-213b.jpg",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo06/430-213b.jpg",
+      "url": "/legajos/legajo-06/images/430-213b.jpg"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "429-213a.jpg",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-06/cartas/000752.json",
+  "primary_image_url": "/legajos/legajo-06/images/429-213a.jpg"
+}

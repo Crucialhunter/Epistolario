@@ -1,0 +1,38 @@
+{
+  "legajo_id": "17",
+  "id_carta": "2830",
+  "order_in_legajo": 96,
+  "signatura": "161:1372.JPG",
+  "nombre_carta": "Carta de Francesc Rosselló a Pedro Santacilia y Pax",
+  "fecha_original": "13 de febrero de 1660",
+  "lugar": "Ibiza",
+  "remitente": "Francesc Rosselló",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Responent a la de v. s. dels 30 de setembre passat, dic que en 29 del mateix entregui els comptes de la mia ad ministració de dos anys 57 i 58 al senyor governador i Acessor i havent els vists i examinats s'entregaren al noti del Patrimoni perquè fes la certificatoria de les apo ches, en la forma acostumada, fins avui no la despa chada, dient que esta aguardant els comptes de Magí Ribes, mon antecessor, els quals ha molts dies té en son poder-lo Acessor el qual per ser poc efecte al dit Ribes, no té molt {ESP. cuidado} en despatxar las, i que tenint els dits comptes, se remetran junts amb els meus, jo no em descuidaré en sol·licitar al noti perquè despatxe els meus, que és el que puc fer i si alguna cosa s'ofereix avisaré a v. s. i en el {ESP. demés} estaré advertit. Guardi Déu a v. s. molts anys Eivissa, i febrer 13 de 1660 Servidor de v. s. i que sa mà besa Francesc Rossello de Francesc Sr. D. Pedro Santacilia i Pax procurador reial de Mallorca [1§] Transcripción literal"
+  ],
+  "literal": [
+    "1. Responent á la de VS dels 30 de sbre passat, dich que 2. en 29. del mateix entregui los comptes de la mia ad=3. ministraçio de dos añys 57 y 58 al Sor Goveror y Acessor 4. y havent los vists y examinats se entregaren al notti 5. del Patrimoni peraque fes la certificatoria de les apo-6. ches, en la forma acustumada, fins vuy no la despa=7. chada, dient que esta aguardant los comptes de 8. Magí Ribes, mon antecessor, los quals ha molts 9. dies te en son poder lo Acessor lo qual per ser poch 10. effecte al dit Ribes, no te molt cuydado en despachar=11. las, y que tenint los dits comptes, se remetran junts 12. ab los meus, yo nom descuydare en soliçitar al notti 13. peraque despache los meus, que es lo que puch fer14. y si alguna cosa se offereix avisare a VS y en lo 15. demes estire advertit. Gde. Deu á VS molts añys 16. Iviça, y Febrer 13 de 166017. Servidor de VS y q s[a] m[a] b 18. Françesch Rossello de Franch19. Sor. D. Po Sta. Silia y Pax Pdor Rl de Malla [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "161:1372.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo17/161:1372.JPG",
+      "url": "/legajos/legajo-17/images/161:1372.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "161:1372.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-17/cartas/002830.json",
+  "primary_image_url": "/legajos/legajo-17/images/161:1372.JPG"
+}

@@ -1,0 +1,43 @@
+{
+  "legajo_id": "6",
+  "id_carta": "611",
+  "order_in_legajo": 107,
+  "signatura": "147-76a",
+  "nombre_carta": "Carta de Juan Antonio de Boixadors a Cecilia Zaforteza y Sureda de Sant Martí",
+  "fecha_original": "17 de marzo de 1770",
+  "lugar": "Barcelona",
+  "remitente": "Juan Antonio de Boixadors",
+  "destinatario": "Cecilia Zaforteza y Sureda de Sant Martí",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Tía y muy Sra. mía, Me alegraré que ésta le halle a v. m. con perfecta salud, como es la mía para lo que gustase mandarme. Le escribo ésta no más que para decirle en cualquier cosa me quisiera v. m. mandar me tendrá pronto y con mucho gusto de servirla, y al mismo tiempo quedo a los pies de V. Md. y rogando a Dios guarde [1§] su vida de v. m. muchos años como deseo. Barcelona, 17 de marzo de 1770. Besa los pies de v. m. su sobrino y servidor, Juan Antonio de Boixadors. Tía y Sra. Dña. Cecilia Zaforteza. Transcripción literal"
+  ],
+  "literal": [
+    "1. Tia y Mui Sra. mia : Me 2. alegrare q[u]e esta le halle 3. á V.M. con Perfecta salud, co- 4. mo es la mia para lo q[u]e gus- 5. tase mandarme; 6. Le escrivo estta nomas 7. q[u]e para dezirle en cualquier 8. cosa me quisiera V.Md. man- 9. dar, me tendra pronto, y con 10. mucho gusto de servirla, y 11. al mismo tiempo, quedo 12. a los Pies de V.Md. y rro- 13. gando a Dios guarde [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "147-76a.jpg",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo06/147-76a.jpg",
+      "url": "/legajos/legajo-06/images/147-76a.jpg"
+    },
+    {
+      "filename": "148-76b.jpg",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo06/148-76b.jpg",
+      "url": "/legajos/legajo-06/images/148-76b.jpg"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "147-76a.jpg",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-06/cartas/000611.json",
+  "primary_image_url": "/legajos/legajo-06/images/147-76a.jpg"
+}

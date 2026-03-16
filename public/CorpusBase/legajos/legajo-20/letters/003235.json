@@ -1,0 +1,43 @@
+{
+  "legajo_id": "20",
+  "id_carta": "3235",
+  "order_in_legajo": 109,
+  "signatura": "251:6016a.JPG",
+  "nombre_carta": "Carta de Diego Matías de Aragüés a Pedro Santacilia y Pax",
+  "fecha_original": "3 de marzo de 1668",
+  "lugar": "Madrid",
+  "remitente": "Diego Matías de Aragüés",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "con esta remito las letras de este Consejo Supremo de Inquisición [?]. v. s. hará que se pongen [?] ejecución las [?] remitiré por Valencia el miércoles, en esta causa tengo escrito mi sentir también por Valencia que no se había de pasar adelante en cosa [?] sino puesto en ejecución la sentencia y ejecutoria que se envió [?] al fin estando acá el [?] se defenderá esto y lo demás que convenga. y a habrá arribado hay Sr. don Arnaldo Santacilia con el despacho. y también recibido el duplicado que he remitido por Barcelona. de todo mandará v. s. dar aviso, El testimonio que recibí Con la carta de v. s. en razón del mal tratamiento que los genoveses hacen a los marineros mallorquines que apresaron con [?] bergantín de v. s. lo ha visto el virrey [?] y dadome orden diera con el memorial [1§] lo cual he ejecutado, y avisaré del a resolución que se tomaré en esto. y también procuraré saber si en Cádiz se ha hecho embargo de embarcaciones de genoveses, que de lo uno y de lo otro el miércoles daré aviso. El Sr. don Juan de Austria al tiempo de disponer su jornada ha caído enfermo de tercianas [?] Flandes que da algún cuidado v. s. me mande le sirva y guarde Dios los muchos años que deseo Madrid 3 Marzo 1668 Las paces con Portugal están ajustadas y firmadas y que pa [?] 6 de este se han de publicar aquí y en Lisboa. Beso las manos de v. s. su menor servidor Diego Matias de Aragues Sr. don Pedro Santacilia y Pax [2§] Transcripción literal"
+  ],
+  "literal": [
+    "1. Con esta remito las letras deste Consso 2. supremo de Inqon[?]. Vs. hara q se pongen[?] 3. exon las [?] remitire por 4. Valencia el miercoles, en esta causa 5. tengo escrito mi sentir tambien por 6. Valencia q no se havia de passar 7. adelante en cosa[?] sino puesto en exon 8. la sentencia y executoria q se imbio[?] 9. al fin estando aca el [?] se defendera 10. esto y lo demas q convenga. 11. Ya habra arrivado ay don Arnaldo 12. Sta. Cilia con el despacho. Y tambien 13. recivido el duppdo q he remitido 14. por Barcelona. de todo mandara 15. Vs. dar avisso, 16. El testimonio q recivi con la carta de 17. Vs. en razon del mal tratamto q los 18. Genovesses hazen a los Marineros 19. Mallorquines q apressaron con [?] 20. Bergantin de Vs. lo ha visto el sr. Virrey[?] 21. y dadome orden diera con el memorial [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "251:6016a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo20/251:6016a.JPG",
+      "url": "/legajos/legajo-20/images/251:6016a.JPG"
+    },
+    {
+      "filename": "252:6016b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo20/252:6016b.JPG",
+      "url": "/legajos/legajo-20/images/252:6016b.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "251:6016a.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (3)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-20/cartas/003235.json",
+  "primary_image_url": "/legajos/legajo-20/images/251:6016a.JPG"
+}

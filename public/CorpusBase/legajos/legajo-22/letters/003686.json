@@ -1,0 +1,43 @@
+{
+  "legajo_id": "22",
+  "id_carta": "3686",
+  "order_in_legajo": 66,
+  "signatura": "125:5055a.JPG",
+  "nombre_carta": "Carta de Miguel Guiño a Pedro Santacilia y Pax",
+  "fecha_original": "16 de abril de 1639",
+  "lugar": "Zaragoza",
+  "remitente": "Miguel Guiño",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Sr. mío los días pasados fui a Jaca a verme con el maestre de campo D. Luis Carrillo que me había enviado a llamar y me ha despachado a unos negocios a Madrid y me partiré mañana donde me tendrá v. m. a su servicio y podrá mandarme y siempre avisaré de todo lo que me sucediere. v. s. se sirva de volver a escribir al conde de Sta. María acerca de mis particulares y a D. Juan Suñer y también si hubiere por allá algún ministro amigo de v. m. las nuevas de acá con todas contra los soldados. [?] que el gobernadorcillo rabía por madar y todo lo que a estos los está bien lo hace fuero. Dios me saque de entre ellos. Dícese que el enemigo quiere invadir la [?] darán holgaré que lo haga sólo por ver si los franceses se atreven a ir contra los fueros y si les presentarán firma del justicia para que se manifiesten, no digo más. Al Sr. licenciado Domenech beso infinitas veces las manos y que me made que soy su criado de veras y si no a las obras me remit. Dios a v. m. guarde como puede y es menester. Zaragoza y abril 16 de 1639. Miguel Guiño Sr. D. Pedro Santacilia [1§] Zaragoza 16 abril 1639 Capitán Miguel Guiño Transcripción literal"
+  ],
+  "literal": [
+    "1. Sor. mio los dias pasados fuy a Xaca a berme co el me.2. de capo d. Luys Carrillo que me abia imbiado a llamar3. y mea despachado a unos negoçios a madrid y me4. partire mañana donde me tendra v.m. a su çerbicio5. y podra madarme y siepre abisare de todo lo que6. me suçediere; v.m. se çirba de bolber a escrivir al code 7. de Sta. maria aserca de mis particulares y a d. Ju[a]n Suñer8. y tabie si hubiere por alla algu ministro amigo de9. v.m. las nuebas de aca co todas contra los sdos.?? que10. el gobernadorçillo rabia por madar y todo lo que 11. aestos los esta bien lo haze fuero, dios me saque12. dentre ellos, disese que el henemigo quihere invadir 13. la Val daran holgare que lo haga solo por ber si los14. françeses se atreben a hir contra los fueros y si les15. presentaran firma del Justisia para que se mani=16. fiesten, no digo mas Al sor. liçesiado domenec 17. beso infinitas besses las manos y que me made que soy18. su criado de veras y sino a las hobras me remito19. Xpo a v.m. gde. como puede y he menester20. Saragosa y Abril 16 de 163921. Miguel Guiño22. Sor. d. Pº Sta.silia [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "125:5055a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo22/125:5055a.JPG",
+      "url": "/legajos/legajo-22/images/125:5055a.JPG"
+    },
+    {
+      "filename": "126:5055b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo22/126:5055b.JPG",
+      "url": "/legajos/legajo-22/images/126:5055b.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "125:5055a.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-22/cartas/003686.json",
+  "primary_image_url": "/legajos/legajo-22/images/125:5055a.JPG"
+}

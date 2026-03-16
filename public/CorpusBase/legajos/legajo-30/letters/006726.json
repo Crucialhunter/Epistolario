@@ -1,0 +1,73 @@
+{
+  "legajo_id": "30",
+  "id_carta": "6726",
+  "order_in_legajo": 3,
+  "signatura": "304:5564a",
+  "nombre_carta": "Carta de Persona desconocida a Persona desconocida",
+  "fecha_original": "9 de diciembre de 1619",
+  "lugar": "Mallorca",
+  "remitente": "Persona desconocida",
+  "destinatario": "Persona desconocida",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Â [1§] Â [2§] Â [3§] Â [4§] Â [5§] Â [6§] Â [7§] Â [8§] Transcripción literal"
+  ],
+  "literal": [
+    "1. 1. 1. 1. 1. 1. 1. 1."
+  ],
+  "imagenes": [
+    {
+      "filename": "304:5564a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo30/304:5564a.JPG",
+      "url": "/legajos/legajo-30/images/304:5564a.JPG"
+    },
+    {
+      "filename": "305:5564b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo30/305:5564b.JPG",
+      "url": "/legajos/legajo-30/images/305:5564b.JPG"
+    },
+    {
+      "filename": "306:5564c.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo30/306:5564c.JPG",
+      "url": "/legajos/legajo-30/images/306:5564c.JPG"
+    },
+    {
+      "filename": "307:5564d.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo30/307:5564d.JPG",
+      "url": "/legajos/legajo-30/images/307:5564d.JPG"
+    },
+    {
+      "filename": "308:5564e.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo30/308:5564e.JPG",
+      "url": "/legajos/legajo-30/images/308:5564e.JPG"
+    },
+    {
+      "filename": "309:5564f.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo30/309:5564f.JPG",
+      "url": "/legajos/legajo-30/images/309:5564f.JPG"
+    },
+    {
+      "filename": "310:5564g.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo30/310:5564g.JPG",
+      "url": "/legajos/legajo-30/images/310:5564g.JPG"
+    },
+    {
+      "filename": "311:5564h.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo30/311:5564h.JPG",
+      "url": "/legajos/legajo-30/images/311:5564h.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "304:5564a.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (24)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-30/cartas/006726.json",
+  "primary_image_url": "/legajos/legajo-30/images/304:5564a.JPG"
+}

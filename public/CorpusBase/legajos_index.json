@@ -1,0 +1,658 @@
+[
+  {
+    "legajo_id": "1",
+    "num_cartas": 101,
+    "rango_temporal": [
+      1667,
+      1668
+    ],
+    "densidad_narrativa": "Alta",
+    "actores_principales": [
+      "Andrés García de Castro",
+      "Miguel Malo",
+      "Jerónimo Pelegrín de Aragüés",
+      "José Balell",
+      "Diego Matías de Aragüés"
+    ]
+  },
+  {
+    "legajo_id": "2",
+    "num_cartas": 26,
+    "rango_temporal": [
+      1709,
+      1718
+    ],
+    "densidad_narrativa": "Media",
+    "actores_principales": [
+      "Persona desconocida",
+      "Francisco Antonio la Portilla",
+      "Juan García",
+      "Joan Martorell Squella",
+      "Gregorio Quint Zaforteza"
+    ]
+  },
+  {
+    "legajo_id": "3",
+    "num_cartas": 23,
+    "rango_temporal": [
+      1660,
+      1668
+    ],
+    "densidad_narrativa": "Media",
+    "actores_principales": [
+      "Juan Miguel de Santacilia y Togores",
+      "Persona desconocida",
+      "duque de Medinaceli",
+      "Jerónimo Pelegrín de Aragüés",
+      "Luis de Guzmán Ponce de León"
+    ]
+  },
+  {
+    "legajo_id": "4",
+    "num_cartas": 51,
+    "rango_temporal": [
+      1604,
+      1675
+    ],
+    "densidad_narrativa": "Media",
+    "actores_principales": [
+      "Pedro de Verí",
+      "Persona desconocida",
+      "Antoni Sobirà",
+      "Carlos Dominico Tremoli y Saromo",
+      "Joseph Tassarello"
+    ]
+  },
+  {
+    "legajo_id": "5",
+    "num_cartas": 16,
+    "rango_temporal": [
+      1559,
+      1715
+    ],
+    "densidad_narrativa": "Media",
+    "actores_principales": [
+      "Persona desconocida",
+      "Lleonard Zaforteza",
+      "Juan Riera",
+      "Pedro Antonio Zaforteza",
+      "Carlos II"
+    ]
+  },
+  {
+    "legajo_id": "6",
+    "num_cartas": 180,
+    "rango_temporal": [
+      1739,
+      1779
+    ],
+    "densidad_narrativa": "Media",
+    "actores_principales": [
+      "Doctor Bibiloni",
+      "Persona desconocida",
+      "Tomás Mariano Quint Zaforteza",
+      "Ignasi Vila",
+      "conde de Valdellano"
+    ]
+  },
+  {
+    "legajo_id": "7",
+    "num_cartas": 37,
+    "rango_temporal": [
+      1539,
+      1694
+    ],
+    "densidad_narrativa": "Media",
+    "actores_principales": [
+      "Persona desconocida",
+      "Josep Togores",
+      "Jerónimo Pelegrín de Aragüés",
+      "Diego Matías de Aragüés",
+      "Nicolau Montanyans y Berard"
+    ]
+  },
+  {
+    "legajo_id": "8",
+    "num_cartas": 170,
+    "rango_temporal": [
+      1621,
+      1673
+    ],
+    "densidad_narrativa": "Media",
+    "actores_principales": [
+      "Pedro Santacilia y Pax",
+      "Persona desconocida",
+      "Gobernador de Menorca",
+      "Thomás Áufre y Velasco",
+      "Gabriel Seguí"
+    ]
+  },
+  {
+    "legajo_id": "9",
+    "num_cartas": 156,
+    "rango_temporal": [
+      1609,
+      1682
+    ],
+    "densidad_narrativa": "Media",
+    "actores_principales": [
+      "No consta - Probablemente Pedro Santacilia y Pax",
+      "Pedro Santacilia y Pax",
+      "Persona desconocida",
+      "Arnau de Santacilia",
+      "Josep de Meoz y Urquiz"
+    ]
+  },
+  {
+    "legajo_id": "10",
+    "num_cartas": 99,
+    "rango_temporal": [
+      1668,
+      1669
+    ],
+    "densidad_narrativa": "Media",
+    "actores_principales": [
+      "Antoni Company",
+      "Pedro Santacilia y Pax",
+      "Miguel Malo",
+      "Jerónimo Pelegrín de Aragüés",
+      "José Balell"
+    ]
+  },
+  {
+    "legajo_id": "11",
+    "num_cartas": 274,
+    "rango_temporal": [
+      1642,
+      1665
+    ],
+    "densidad_narrativa": "Media",
+    "actores_principales": [
+      "Pere Onofre Tauler",
+      "Pedro Santacilia y Pax",
+      "Persona desconocida",
+      "Leonor Santacilia i Despuig",
+      "Vicente de Aragón"
+    ]
+  },
+  {
+    "legajo_id": "12",
+    "num_cartas": 224,
+    "rango_temporal": [
+      1627,
+      1668
+    ],
+    "densidad_narrativa": "Media",
+    "actores_principales": [
+      "Pedro Santacilia y Pax",
+      "Persona desconocida",
+      "Joan Baptista Carbonell",
+      "Leonor Santacilia i Despuig",
+      "Marquès de Vilafranca"
+    ]
+  },
+  {
+    "legajo_id": "13",
+    "num_cartas": 168,
+    "rango_temporal": [
+      1668,
+      1670
+    ],
+    "densidad_narrativa": "Media",
+    "actores_principales": [
+      "Gabriel de Berga y Zanglada",
+      "Pedro Santacilia y Pax",
+      "Persona desconocida",
+      "Juan Miguel de Santacilia y Togores",
+      "Basilio de Castellví y Ponce"
+    ]
+  },
+  {
+    "legajo_id": "14",
+    "num_cartas": 199,
+    "rango_temporal": [
+      1612,
+      1667
+    ],
+    "densidad_narrativa": "Media",
+    "actores_principales": [
+      "Pedro Santacilia y Pax",
+      "Persona desconocida",
+      "Juan Seguals",
+      "Mateu Mulet",
+      "Nicolau Togores i Montanyans"
+    ]
+  },
+  {
+    "legajo_id": "15",
+    "num_cartas": 193,
+    "rango_temporal": [
+      1624,
+      1669
+    ],
+    "densidad_narrativa": "Media",
+    "actores_principales": [
+      "Pedro Santacilia y Pax",
+      "Persona desconocida",
+      "Joan Avilés",
+      "Joan Estelrich",
+      "Pedro Cavaller"
+    ]
+  },
+  {
+    "legajo_id": "16",
+    "num_cartas": 224,
+    "rango_temporal": [
+      1664,
+      1668
+    ],
+    "densidad_narrativa": "Media",
+    "actores_principales": [
+      "Pedro Santacilia y Pax",
+      "Persona desconocida",
+      "Josep Ribera",
+      "Basilio de Castellví y Ponce",
+      "José Balell"
+    ]
+  },
+  {
+    "legajo_id": "17",
+    "num_cartas": 235,
+    "rango_temporal": [
+      1657,
+      1660
+    ],
+    "densidad_narrativa": "Media",
+    "actores_principales": [
+      "Pedro Santacilia y Pax",
+      "Juan Miguel de Santacilia y Togores",
+      "Jaime Oleza y Forteza",
+      "Pere Sastre",
+      "Basilio de Castellví y Ponce"
+    ]
+  },
+  {
+    "legajo_id": "18",
+    "num_cartas": 159,
+    "rango_temporal": [
+      1642,
+      1669
+    ],
+    "densidad_narrativa": "Media",
+    "actores_principales": [
+      "Pedro Santacilia y Pax",
+      "Juan Miguel de Santacilia y Togores",
+      "Persona desconocida",
+      "Juan Seguals",
+      "Conde de Zavellá"
+    ]
+  },
+  {
+    "legajo_id": "19",
+    "num_cartas": 331,
+    "rango_temporal": [
+      1510,
+      1698
+    ],
+    "densidad_narrativa": "Media",
+    "actores_principales": [
+      "Pedro Santacilia y Pax",
+      "Persona desconocida",
+      "Jerónimo Pelegrín de Aragüés",
+      "Diego Matías de Aragüés",
+      "March Vallès"
+    ]
+  },
+  {
+    "legajo_id": "20",
+    "num_cartas": 194,
+    "rango_temporal": [
+      1633,
+      1669
+    ],
+    "densidad_narrativa": "Media",
+    "actores_principales": [
+      "Pedro Santacilia y Pax",
+      "Persona desconocida",
+      "Basilio de Castellví y Ponce",
+      "Gabriel Roger",
+      "Diego Matías de Aragüés"
+    ]
+  },
+  {
+    "legajo_id": "21",
+    "num_cartas": 311,
+    "rango_temporal": [
+      1611,
+      1669
+    ],
+    "densidad_narrativa": "Media",
+    "actores_principales": [
+      "Miquel de Torrelles i Setmenat",
+      "Pedro Santacilia y Pax",
+      "Persona desconocida",
+      "Domingo Abat Demescar",
+      "Mateo Zanglada"
+    ]
+  },
+  {
+    "legajo_id": "22",
+    "num_cartas": 104,
+    "rango_temporal": [
+      1621,
+      1668
+    ],
+    "densidad_narrativa": "Media",
+    "actores_principales": [
+      "Pedro Santacilia y Pax",
+      "Persona desconocida",
+      "Antonio Gual",
+      "Miguel Guiño",
+      "Pedro Monleón"
+    ]
+  },
+  {
+    "legajo_id": "23",
+    "num_cartas": 201,
+    "rango_temporal": [
+      1622,
+      1669
+    ],
+    "densidad_narrativa": "Media",
+    "actores_principales": [
+      "Pedro Santacilia y Pax",
+      "Francina Fuster i Pax",
+      "Persona desconocida",
+      "Juan Seguals",
+      "Sebastià Suau"
+    ]
+  },
+  {
+    "legajo_id": "24",
+    "num_cartas": 120,
+    "rango_temporal": [
+      1621,
+      1667
+    ],
+    "densidad_narrativa": "Media",
+    "actores_principales": [
+      "Pedro Santacilia y Pax",
+      "Persona desconocida",
+      "Jordi Sureda i Vivot",
+      "Francisco Sureda y Vivot",
+      "Juan Miguel Santacilia"
+    ]
+  },
+  {
+    "legajo_id": "25",
+    "num_cartas": 100,
+    "rango_temporal": [
+      1667,
+      1667
+    ],
+    "densidad_narrativa": "Media",
+    "actores_principales": [
+      "Pedro Santacilia y Pax",
+      "Persona desconocida",
+      "Miguel Malo",
+      "Jerónimo Pelegrín de Aragüés",
+      "Manuel de Sarabia Velázquez"
+    ]
+  },
+  {
+    "legajo_id": "26",
+    "num_cartas": 265,
+    "rango_temporal": [
+      1627,
+      1669
+    ],
+    "densidad_narrativa": "Media",
+    "actores_principales": [
+      "No consta - Probablemente Pedro Santacilia y Pax",
+      "Pedro Santacilia y Pax",
+      "Persona desconocida",
+      "Pedro Fajardo de Requeséns-Zúñiga y Pimentel (V marqués de los Vélez)",
+      "Macià Monsarró"
+    ]
+  },
+  {
+    "legajo_id": "27",
+    "num_cartas": 162,
+    "rango_temporal": [
+      1616,
+      1669
+    ],
+    "densidad_narrativa": "Media",
+    "actores_principales": [
+      "Pedro Santacilia y Pax",
+      "Persona desconocida",
+      "Diego de Rocabertí",
+      "conde de Peralada",
+      "Francisco de Pau i Rocabertí"
+    ]
+  },
+  {
+    "legajo_id": "28",
+    "num_cartas": 194,
+    "rango_temporal": [
+      1627,
+      1669
+    ],
+    "densidad_narrativa": "Media",
+    "actores_principales": [
+      "Pedro Santacilia y Pax",
+      "Fructuoso Piqué",
+      "Jerónimo Pelegrín de Aragüés",
+      "Pedro Jiménez de Murillo",
+      "Rafael Mayans"
+    ]
+  },
+  {
+    "legajo_id": "29",
+    "num_cartas": 220,
+    "rango_temporal": [
+      1613,
+      1668
+    ],
+    "densidad_narrativa": "Media",
+    "actores_principales": [
+      "marqués de los Vélez",
+      "Pedro Santacilia y Pax",
+      "Persona desconocida",
+      "Francisco Zaforteza",
+      "Tomás Ruiz de Salas"
+    ]
+  },
+  {
+    "legajo_id": "30",
+    "num_cartas": 238,
+    "rango_temporal": [
+      1619,
+      1667
+    ],
+    "densidad_narrativa": "Media",
+    "actores_principales": [
+      "No consta - Probablemente Pedro Santacilia y Pax",
+      "Josep Esporrín",
+      "Pedro Santacilia y Pax",
+      "Juan Miguel de Santacilia y Togores",
+      "Persona desconocida"
+    ]
+  },
+  {
+    "legajo_id": "31",
+    "num_cartas": 265,
+    "rango_temporal": [
+      1652,
+      1664
+    ],
+    "densidad_narrativa": "Media",
+    "actores_principales": [
+      "Francisco Izquierdo de Berbegal",
+      "Isidoro Sans",
+      "Juan Miguel de Santacilia y Togores",
+      "Persona desconocida",
+      "Juan Seguals"
+    ]
+  },
+  {
+    "legajo_id": "32",
+    "num_cartas": 231,
+    "rango_temporal": [
+      1664,
+      1666
+    ],
+    "densidad_narrativa": "Media",
+    "actores_principales": [
+      "Pedro Santacilia y Pax",
+      "Persona desconocida",
+      "Juan Seguals",
+      "Jerónimo Pelegrín de Aragüés",
+      "Diego Matías de Aragüés"
+    ]
+  },
+  {
+    "legajo_id": "33",
+    "num_cartas": 163,
+    "rango_temporal": [
+      1623,
+      1639
+    ],
+    "densidad_narrativa": "Media",
+    "actores_principales": [
+      "No consta - Probablemente Pedro Santacilia y Pax",
+      "Pedro Santacilia y Pax",
+      "Persona desconocida",
+      "conde de Peralada",
+      "Pedro Pablo de Heredia"
+    ]
+  },
+  {
+    "legajo_id": "34",
+    "num_cartas": 235,
+    "rango_temporal": [
+      1644,
+      1663
+    ],
+    "densidad_narrativa": "Media",
+    "actores_principales": [
+      "Francisco Hortas",
+      "Pedro Santacilia y Pax",
+      "Persona desconocida",
+      "Josep de Pueyo i Mendes",
+      "Basilio de Castellví y Ponce"
+    ]
+  },
+  {
+    "legajo_id": "35",
+    "num_cartas": 215,
+    "rango_temporal": [
+      1627,
+      1669
+    ],
+    "densidad_narrativa": "Media",
+    "actores_principales": [
+      "Magdalena de Zaforteza i Rocabertí",
+      "comte de Perelada i marquès d'Anglesol",
+      "Pedro Santacilia y Pax",
+      "Persona desconocida",
+      "Gabriel Seguí"
+    ]
+  },
+  {
+    "legajo_id": "36",
+    "num_cartas": 122,
+    "rango_temporal": [
+      1621,
+      1699
+    ],
+    "densidad_narrativa": "Media",
+    "actores_principales": [
+      "Pedro Santacilia y Pax",
+      "Persona desconocida",
+      "Diego de Sada",
+      "Josep de Rocabertí",
+      "Diego Matías de Aragüés"
+    ]
+  },
+  {
+    "legajo_id": "37",
+    "num_cartas": 60,
+    "rango_temporal": [
+      1624,
+      1706
+    ],
+    "densidad_narrativa": "Media",
+    "actores_principales": [
+      "Pedro Santacilia y Pax",
+      "Persona desconocida",
+      "Leonor Santacilia i Despuig",
+      "Bernat Rosselló Custos",
+      "Pedro Juan Fortuny"
+    ]
+  },
+  {
+    "legajo_id": "38",
+    "num_cartas": 127,
+    "rango_temporal": [
+      1598,
+      1696
+    ],
+    "densidad_narrativa": "Media",
+    "actores_principales": [
+      "Pedro Santacilia y Pax",
+      "Persona desconocida",
+      "Marc Sancho",
+      "Escrivà Miralles",
+      "Francesc Servera"
+    ]
+  },
+  {
+    "legajo_id": "39",
+    "num_cartas": 46,
+    "rango_temporal": [
+      1628,
+      1669
+    ],
+    "densidad_narrativa": "Media",
+    "actores_principales": [
+      "Pedro Santacilia y Pax",
+      "Persona desconocida",
+      "Joan Baptista Carbonell",
+      "Leonor Santacilia i Despuig",
+      "Joan López"
+    ]
+  },
+  {
+    "legajo_id": "40",
+    "num_cartas": 119,
+    "rango_temporal": [
+      1620,
+      1669
+    ],
+    "densidad_narrativa": "Alta",
+    "actores_principales": [
+      "Pedro Santacilia y Pax",
+      "Persona desconocida",
+      "Felipe IV",
+      "Diego Zanoguera",
+      "No consta"
+    ]
+  },
+  {
+    "legajo_id": "41",
+    "num_cartas": 143,
+    "rango_temporal": [
+      1627,
+      1679
+    ],
+    "densidad_narrativa": "Media",
+    "actores_principales": [
+      "Pedro Santacilia y Pax",
+      "Persona desconocida",
+      "Gregorio Romero de Morales",
+      "Regente del Supremo Consejo de Aragón",
+      "Juan Vivot"
+    ]
+  }
+]

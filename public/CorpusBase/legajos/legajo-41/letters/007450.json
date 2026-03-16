@@ -1,0 +1,38 @@
+{
+  "legajo_id": "41",
+  "id_carta": "7450",
+  "order_in_legajo": 34,
+  "signatura": "155:76",
+  "nombre_carta": "Carta de Persona desconocida a Persona desconocida",
+  "fecha_original": "4 de junio de 1627",
+  "lugar": "Mallorca",
+  "remitente": "Persona desconocida",
+  "destinatario": "Persona desconocida",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Â [1§] Transcripción literal"
+  ],
+  "literal": [
+    "1."
+  ],
+  "imagenes": [
+    {
+      "filename": "155:76.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo41/155:76.JPG",
+      "url": "/legajos/legajo-41/images/155:76.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "155:76.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (3)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-41/cartas/007450.json",
+  "primary_image_url": "/legajos/legajo-41/images/155:76.JPG"
+}

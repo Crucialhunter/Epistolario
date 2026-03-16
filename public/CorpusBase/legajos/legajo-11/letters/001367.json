@@ -1,0 +1,38 @@
+{
+  "legajo_id": "11",
+  "id_carta": "1367",
+  "order_in_legajo": 136,
+  "signatura": "222:5226.JPG",
+  "nombre_carta": "Carta de Antoni Amorós a Pedro Santacilia y Pax",
+  "fecha_original": "1 de noviembre de 1643",
+  "lugar": "Mallorca",
+  "remitente": "Antoni Amorós",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Avui dematí he rebuda una carta del procurador reial junt amb la que va amb esta que amb continent diu se parteix el patró de la barca de v. s. que també se'n porta el ca que és diu Fumat. Amb tot estic prompte pel que v. s. manarà a qui Nostre Sr. guardi molts anys junt amb mi Sra. i els {ESP. demés} de {ESP. palasio} . Al primer de novembre 1643. Criat de v. s. Antoni Amoros Sr. don Pedro Santacilia, capità general de la {ESP. isla} de Menorca [1§] Transcripción literal"
+  ],
+  "literal": [
+    "1. Vuy de meti he rebude une carta del Sr. procurador 2. raial junt an le que va anb esta que an continet diu 3. se parta lo patro de le barque de VSa que tenbe sen a porta 4. lo ca ques diu fumat an tot astich pronta per lo que VSa 5. menera a qui Nostro Sr. guarde molts anis junt an mi 6. sra. y los demes de palessio al primer de novenbra 1643 7. Criat de VSa 8. Antoni Amoros 9. [^Sr. don Pedro Sta. Sillia Capita General de la isslla de Mca^] [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "222:5226.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo11/222:5226.JPG",
+      "url": "/legajos/legajo-11/images/222:5226.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "222:5226.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-11/cartas/001367.json",
+  "primary_image_url": "/legajos/legajo-11/images/222:5226.JPG"
+}

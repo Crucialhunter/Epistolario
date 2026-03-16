@@ -1,0 +1,38 @@
+{
+  "legajo_id": "28",
+  "id_carta": "4770",
+  "order_in_legajo": 80,
+  "signatura": "120:3704.JPG",
+  "nombre_carta": "Carta de Macià Monsarró a Pedro Santacilia y Pax",
+  "fecha_original": "18 de mayo de 1639",
+  "lugar": "Zaragoza",
+  "remitente": "Macià Monsarró",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Per estar ocupat pels negocis de don Miquel no he pugut servir a v. m. en portar los despatxs. El governador me digué a les deu de la nit que importava que jo portés les cartes a v. m. o li fes un propi, i així he buscat un amic que va aquí amb els despatxs. I el governador m'ha dit que digués a v. m. que sa magestat manava amb el despatx que treien diners per a v. m. I la pell, per no poder-la portar l'home, no la hi he dada. El portador pagarà a v. m. dotze reals que hem concertat, que és amic. I a v. m. guardi Déu. De Saragossa, a 18 de maig de 1639. Macia Monsarro. [Sr. D.] Pedro Santacilia. Transcripción literal"
+  ],
+  "literal": [
+    "1. Per estar ocupat per los negocis de don miquel no he2. pugut servir a vm en portar los despaxs el governador3. me digue a les deu de la nit que ynportava que jo portes4. les cartes a vm o li fesa un propi y ayxi e buscat un5. amich que va aqui ab los despaxs y el governador6. me a dit que digase a vm que su magd. manava con el7. despax que treyen diners pera vm y la pel per no poder8. la portar el homo no lay he dada ~ al portador pagara9. vm dotze rells que avem consertat que hes amich10. y a vm guarde deu de Çaragª. a 18 de mayg 163911. masia monsarro12. Pedro Santa Silia [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "120:3704.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo28/120:3704.JPG",
+      "url": "/legajos/legajo-28/images/120:3704.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "120:3704.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (2)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-28/cartas/004770.json",
+  "primary_image_url": "/legajos/legajo-28/images/120:3704.JPG"
+}

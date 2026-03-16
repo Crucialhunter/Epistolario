@@ -1,0 +1,32 @@
+{
+  "legajo_id": "40",
+  "id_carta": "5654",
+  "order_in_legajo": 1,
+  "signatura": "007:6",
+  "nombre_carta": "Carta de Persona desconocida a Persona desconocida",
+  "fecha_original": "fecha sin especificar",
+  "lugar": "Mallorca",
+  "remitente": "Persona desconocida",
+  "destinatario": "Persona desconocida",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Una lletra oficial redactada exclusivament en llatí [1§] Transcripción literal"
+  ],
+  "literal": [
+    "1. Una lletra oficial redactada exclusivament en llatí"
+  ],
+  "imagenes": [
+    {
+      "filename": "007:6.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo40/007:6.JPG",
+      "url": "/legajos/legajo-40/images/007:6.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "007:6.JPG",
+  "warnings": [],
+  "raw_source": "raw/legajos/legajo-40/cartas/005654.json",
+  "primary_image_url": "/legajos/legajo-40/images/007:6.JPG"
+}

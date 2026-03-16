@@ -1,0 +1,38 @@
+{
+  "legajo_id": "33",
+  "id_carta": "4950",
+  "order_in_legajo": 141,
+  "signatura": "215:6866.JPG",
+  "nombre_carta": "Carta de Jerónimo del Castillo a Pedro Santacilia y Pax",
+  "fecha_original": "6 de mayo de 1639",
+  "lugar": "Zaragoza",
+  "remitente": "Jerónimo del Castillo",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Acuerdo a v. m. que no me tenga ocioso sino siempre ocupado en lo que fuere de su gusto y servicio para que pueda desempeñarme en parte de las obligaciones que le confieso teniéndole por muy señor mío y erra da conocese que v. m. admite estos deseos como en que los experimente mandándome en que le obedez ca y asegurándose de mi voluntad que nadie lo hará con más puntualidad Una persona con quien tengo mucha amistad es muy deudo de Juan Martin y Borau soldado Dragon en la compañía del capitán Juan Antonio de Bigot de su regimiento de v. m. estimaré infinito que dicho capitán le tenga por encomendado y le trate como lo merece por hijo de sus padres en los cuales puedo asegurar a v. m. que concurren tales partes que muy sin escrúpulo pueden prometerse todo buen luegar si ya no lo desmereciese por su proce der el dicho Juan Martín que en este caso no sería culpa de ellos ni de v. m. el no honrarle por mi encomendado y por lo que merece guarde Nro. Sr. a v. m. los años que deseo, Zaragoza y mayo 6 de 1639 Jeronimo del Castillo Sr. don Pedro de Santacilia y Pax [1§] Transcripción literal"
+  ],
+  "literal": [
+    "1. Acuerdo a Vm. que no me tenga oçiosso sino siem2. pre ocupado en lo que fuere de su gusto y serviçio para3. que pueda desempeñarme en parte de las obligaciones4. que le confiesso teniendole por muy señor mio y erra5. da conoçese q Vm. admite estos desseos como en6. que los esperimente mandandome en que le obedez7. ca y assigurandose de mi voluntad que nadie lo ara8. con mas puntualidad=9. Una persona con quien tengo mucha amistad es10. muy deudo de Juan Martin y Borau soldado11. Dragon en la compañia del capitan Juan Antonio12. de Bigot de su regimiento de Vm. estimare13. ynfinito que d[ic]ho capitan le tenga por encomendado14. y le trate como lo mereçe por hijo de sus padres en15. los quales puedo assigurar a Vm que concurren16. tales partes que muy sin escrupulo pueden prometerse17. todo buen luegar si ya no lo desmereçiese por su proçe18. der el d[ic]ho Juan Martín que en este casso no seria19. culpa dellos ni de Vm el no honrrarle por mi20. encomendado y por lo que mereçe guarde Nro. Sor.21. a Vm. los años que desseo, Çaragoça y Mayo 6 de 163922. Geronimo del Castillo23. Sor Don Pedro de Santaçilia y Pax [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "215:6866.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo33/215:6866.JPG",
+      "url": "/legajos/legajo-33/images/215:6866.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "215:6866.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-33/cartas/004950.json",
+  "primary_image_url": "/legajos/legajo-33/images/215:6866.JPG"
+}

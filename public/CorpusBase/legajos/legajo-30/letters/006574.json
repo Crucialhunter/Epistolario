@@ -1,0 +1,38 @@
+{
+  "legajo_id": "30",
+  "id_carta": "6574",
+  "order_in_legajo": 60,
+  "signatura": "061:5412",
+  "nombre_carta": "Carta de Francisco Gregorio a Persona desconocida",
+  "fecha_original": "9 de diciembre de 1619",
+  "lugar": "Mallorca",
+  "remitente": "Francisco Gregorio",
+  "destinatario": "Persona desconocida",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Â [1§] Transcripción literal"
+  ],
+  "literal": [
+    "1."
+  ],
+  "imagenes": [
+    {
+      "filename": "061:5412.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo30/061:5412.JPG",
+      "url": "/legajos/legajo-30/images/061:5412.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "061:5412.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (3)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-30/cartas/006574.json",
+  "primary_image_url": "/legajos/legajo-30/images/061:5412.JPG"
+}

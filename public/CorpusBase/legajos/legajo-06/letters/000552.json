@@ -1,0 +1,43 @@
+{
+  "legajo_id": "6",
+  "id_carta": "552",
+  "order_in_legajo": 51,
+  "signatura": "037_22",
+  "nombre_carta": "Carta de Tomás Mariano Quint Zaforteza a Cecilia Zaforteza y Sureda de Sant Martí",
+  "fecha_original": "24 de mayo de 1746",
+  "lugar": "Vinagrella",
+  "remitente": "Tomás Mariano Quint Zaforteza",
+  "destinatario": "Cecilia Zaforteza y Sureda de Sant Martí",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Cecília, He rebuda la tua carta per en Guillem i com era tan tard i no compareixia ningú de Sant Marti he pensat en Joan Bala s’era torbat pel camí. Na Isabeleta l’han sangrada i d’{ESP. antes} d’ahir fins avui a la tarda em passat alga de borrasca. Avui ha suat en diferents ocasions. El metge la troba de millor disposició i jo també, encara que no som metge, té {ESP. calentura} però trob és menor. Esper et veurem prest. Ara són les deu de la nit que en Guillem a cosa de mitja hora és arribat. A d. Francesc molts records i Déu vos guardi molts anys. Vinagrella, als 24 maig 1746. Ton pare Antes d’ahir tingué a la tarda les mans i peus freds el que m’enfadà molt, doncs mai junts foren ser [?]sanes. [1§] A dona Cecilia Zaforteza i Sureda de Sant Marti. Guardi Déu molts anys. St. Martí Transcripción literal"
+  ],
+  "literal": [
+    "1. Cicilia he rebude le tua 2. Carte per en Guillem y com 3. era tant tart y no compara- 4. xia nigu de S< an>t Marti he pen- 5. sat en juan Bala sera torbat 6. per el Cami; ne Isabelete 7. lan sangrade y de antes de air 8. fins vuy a le tarde em pasat 9. alga de borrasca Vuy a suat 10. en difarents ocacions el metge 11. le troba de millor disposicio 12. y jo tanbe encara que no som 13. metge te Calentura pero trob 14. es menor; esper et veurem 15. prest are son les deu de le nit 16. que en Guillem a Cosa de mit- 17. ge ore es arribat. a D. Fr< ances>ch 18. molts re< cor>dos y deu vos G< uar>de 19. m< olt>s a< ny>s Vinegrella als 24 20. maig 1746 21. Ton para 22. [ A la izquierda del documento, de arriba a abajo ]23. antes dair tingue a le tarde les mans y peus frechs 24. lo qui me anfadá molt {esp.} pues may junts foren ter 25. ssanes[?]26. 27. [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "037_22b.jpg",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo06/037_22b.jpg",
+      "url": "/legajos/legajo-06/images/037_22b.jpg"
+    },
+    {
+      "filename": "037_22.jpg",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo06/037_22.jpg",
+      "url": "/legajos/legajo-06/images/037_22.jpg"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "037_22b.jpg",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (2)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-06/cartas/000552.json",
+  "primary_image_url": "/legajos/legajo-06/images/037_22b.jpg"
+}

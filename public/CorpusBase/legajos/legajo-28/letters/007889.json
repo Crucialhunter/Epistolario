@@ -1,0 +1,38 @@
+{
+  "legajo_id": "28",
+  "id_carta": "7889",
+  "order_in_legajo": 136,
+  "signatura": "225:3766.JPG",
+  "nombre_carta": "Carta de Conde de Zavellá a Pedro Santacilia y Pax",
+  "fecha_original": "5 de noviembre de 1654",
+  "lugar": "Madrid",
+  "remitente": "Conde de Zavellá",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Sr. mío, su majestad, que Dios guarde, ha sido servido honrarme con la llave de la cámara sin ejercicio, merced de mucha estimación, y más en mi inclinación. Doy a v. m. esta noticia como tan pariente y Sr. mío, deseando que sea motivo para que me mande muchas cosas de su servicio. A mi Sra. Dña. Leonor y esos ángeles beso la mano, en cuya compañía guarde Dios a v. m. muchos años como deseo. Madrid, y noviembre 5 de 1654. Beso a v. m. y Guarde Nro. Sr.El conde de Zavella. V. m se sirva de decir a mis tías y sras. que por ser tardísimo y no tener papel en casa no les escribo. Que tengan esta por suya y el sábado cumpliré est [?]. Sr. D. Pedro Santacilia. Transcripción literal"
+  ],
+  "literal": [
+    "1. Sr. mio, su Magd. q Dios gde.2. ha sido servido honrrarme con la llave de3. la camara sin exercicio, merced de mu4. cha estimacion y mas en mi inclinacion5. doy a vm. esta noticia como tan pa6. riente y sr. mio deseando q sea mo7. tivo para q me mande muchas cosas8. de su servicio. A mi Sra. D. Leonor9. y esos angeles b. l m en cuya com10. pañia G Dios a vm. muchos años11. como deseo Md. y Nove. 5 de 165412. b a vm ...13. G nr sr14. El Conde de Çavella15. Vm se sirva de16. dezir a mis tias y sras. q por ser tardisimo17. y no tener papel en casa no les escrivo q tengan18. esta por suya y el sabado cÅ«plire est [?] 19. Sr. D. Pedro Sta Cilia [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "225:3766.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo28/225:3766.JPG",
+      "url": "/legajos/legajo-28/images/225:3766.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "225:3766.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-28/cartas/007889.json",
+  "primary_image_url": "/legajos/legajo-28/images/225:3766.JPG"
+}

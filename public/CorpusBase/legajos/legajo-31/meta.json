@@ -1,0 +1,78 @@
+{
+  "legajo_id": "31",
+  "num_cartas": 265,
+  "num_imagenes": 400,
+  "rango_temporal": [
+    1652,
+    1664
+  ],
+  "remitentes_frecuentes": [
+    {
+      "name": "Juan Seguals",
+      "count": 22
+    },
+    {
+      "name": "Persona desconocida",
+      "count": 15
+    },
+    {
+      "name": "Juan Miguel de Santacilia y Togores",
+      "count": 14
+    },
+    {
+      "name": "Francesc Rosselló",
+      "count": 9
+    },
+    {
+      "name": "Isidoro Sans",
+      "count": 9
+    }
+  ],
+  "destinatarios_frecuentes": [
+    {
+      "name": "Pedro Santacilia y Pax",
+      "count": 257
+    },
+    {
+      "name": "Juan Miguel de Santacilia y Togores",
+      "count": 5
+    },
+    {
+      "name": "Francisco Izquierdo de Berbegal",
+      "count": 1
+    },
+    {
+      "name": "Luis de Oie Aranguren",
+      "count": 1
+    },
+    {
+      "name": "Josep Poblet",
+      "count": 1
+    }
+  ],
+  "lugares_frecuentes": [
+    {
+      "name": "Madrid",
+      "count": 95
+    },
+    {
+      "name": "Ciutadella",
+      "count": 32
+    },
+    {
+      "name": "Ibiza",
+      "count": 30
+    },
+    {
+      "name": "Mallorca",
+      "count": 19
+    },
+    {
+      "name": "Valencia",
+      "count": 12
+    }
+  ],
+  "temas_frecuentes": [],
+  "warnings_count": 99,
+  "densidad_narrativa_estimada": "Media"
+}

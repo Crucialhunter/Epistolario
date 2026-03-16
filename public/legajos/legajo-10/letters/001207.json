@@ -1,0 +1,43 @@
+{
+  "legajo_id": "10",
+  "id_carta": "1207",
+  "order_in_legajo": 74,
+  "signatura": "132-374a",
+  "nombre_carta": "Carta de Diego Matías de Aragüés a Jerónimo Pelegrín de Aragüés",
+  "fecha_original": "6 de octubre de 1668",
+  "lugar": "Madrid",
+  "remitente": "Diego Matías de Aragüés",
+  "destinatario": "Jerónimo Pelegrín de Aragüés",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Por Barcelona recibo la de v. m. del 12 del pasado con los dos pliegos que han venido para el Sr. don Pedro. Su señoría está bueno, el Sr. don Juan ha empeorado con una agua de Aspa que tomó dos días que me perece que si la toma el tercer día hubiera rebentado con que se le quitó ayer, y hubo junta de tres médicos los mejores de la corte y de mi señor que el lunes que viene tome un jarabe que le han recetado tres o cuatro chucharas, tres horas antes de comer y con prevención. Excuse todo lo que pudiere y aún más de que no beba sino un vasito de hasta 4 onzas a comer y cenar uno en cada vez y [?] que si hace eso caso y no se guarda de beber se jugara el pellejo; veremos como va de que avisaré el merced les por Valencia que esto presto se verá a el bien, o el mal suceso, (esto es para v. m.) podrá v. m. repitirlo que le pareciere conforme lo que escribiere el Sr. don Pedro, a mi Sra. Dña. Leonor. v. m. de muchos besar de manos de parte de Da. Margarita y mía y criados esos Sres. y al Sr. don Nicolas [1§] huélgome v. m. y sobrinas y sobrinos y estén todos con salud que sea por muchos años como deseamos Dña. Margarita y yo, y reciban muchas saludes de ambos. La que va para el Sr. don Juan Miquel Sureda de v. m. que en ella va la consulta del abogado y por [?] para que los letrados de hay adviertan lo que se les hace decir y con lo que determinen volvería a enviar, el negocio espero ha de tener buen suceso porque le asiste la justicia remita dinero porque ahora es menester porque será de hacer todo el esfuerzo de parte y tengo listos lo más de 90 reales de plata el [?] del artillero m [?] no vino en la terna que se hizo la gracia Sr. don Diego Sarmiento, al que vino primero en ella, en esto se descuidan v. m. mucho que no he falten medios si en ella viniera. Espero que por Valencia se remitirán algunos despachos para el virrey del Sr. don Pedro ya se ha comenzado a caminar en la pretensión principal y hablado a la reina y dádole el memorial impreso con lo que se ha concedido en él (no obstante el desazón con que le tiene el Sr. don Juan) espero se ha de conseguir y el virrey le hace merced v. m. me diga si ha recibido el despacho del nuncio para ese sacerdote, y también si han pagado la letra de la Inquisición de 2813 reales de plata. V. m. me mande y guarde Dios como deseo. Madrid 6 del octubre 1668. Sr. de v. m., tío y servidor, Diego Matias de Aragues. Togores se fue a trabajar a una obra a Barajas está bueno y el Sr. don Pedro ha tenido mucha razón el no volverle a recibir. Jeronimo Pelegrin de Aragues, mi sobrino [2§] Transcripción literal"
+  ],
+  "literal": [
+    "1. Por Barcelona recivo la de V.M. del 12 del 2. pasado con los dos pliegos que han venido 3. pa el Sr. Don Pedro. Su sa esta bueno, el sr. 4. don Juan ha empeorado con una agua de 5. Aspa que tomo dos dias que me pereze que si 6. la toma el tercer dia hubiera rebentado 7. con que se le quito ayer, y hubo junta 8. de tres medicos los mejores de la Corte 9. y de mi Señor que el lunes que viene tome 10. un xarave que le han receptado tres, 11. o quatro chucharas tres horas antes 12. de comer y con prevención escuse todo 13. lo q pudiere y aun mas de q no beva 14. sino un basito de hasta 4 onzas a comer 15. y cenar uno en cada vez y [^??^] 16. que si haze eso caso y no se guarda 17. de bever se jugara el pellejo; veremos 18. como ba de que avisare el merced les 19. por Valencia que esto presto se vera 20. el bien, o el mal sucesso, (esto es para 21. V.M.) podrá V.M repitirlo que le pereciere 22. conforme lo que escriviere el Sr. don Pedro 23. a mi Sra. Dª Leonor. V.M. de ms besar de 24. manos sde parte de DªMarga y mia y criados 25. essos sssres. y al sr. Don Nicolas [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "132-374a.jpg",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo10/132-374a.jpg",
+      "url": "/legajos/legajo-10/images/132-374a.jpg"
+    },
+    {
+      "filename": "133-374b.jpg",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo10/133-374b.jpg",
+      "url": "/legajos/legajo-10/images/133-374b.jpg"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "132-374a.jpg",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING",
+      "message": "Se detectaron caracteres sospechosos de encoding (7)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-10/cartas/001207.json",
+  "primary_image_url": "/legajos/legajo-10/images/132-374a.jpg"
+}

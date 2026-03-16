@@ -1,0 +1,38 @@
+{
+  "legajo_id": "16",
+  "id_carta": "2566",
+  "order_in_legajo": 52,
+  "signatura": "086:2066.JPG",
+  "nombre_carta": "Carta de Domingo Márquez a Pedro Santacilia y Pax",
+  "fecha_original": "16 de abril de 1667",
+  "lugar": "Ciutadella",
+  "remitente": "Domingo Márquez",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Molt il·lustre senyor, don Pedro Santacilia, procurador reial El senyor Joan Gonyalons i Marques, mon cosí, m'ha remès aquest plec, i ordenat suplicàs a vostra senyoria sia servit remetre-la a don Isidro Marques, son fill, perquè amb l'{ESP. amparo} de vostra senyoria arribi en pròpies mans com ho confio i el senyor a vostra senyoria guardi feliços anys desitjo i jo li suplico perquè pugui manar-nos en tot allò del servei de vostra senyoria. Ciutadella de Menorca, abril 16 de 1667. Capellà de vostra senyoria i molt son servidor,el doctor Domingo Marques Transcripción literal"
+  ],
+  "literal": [
+    "1. [Margen Izquierdo][^ Molt Ille sr D Pedro Centecilia Por Real]2. Lo Sr Joan Gonelons y Marquez mon Cussi meha re3. mes aquest plec, y ordenat suplicás a Va Sa sia servit 4. remetrel adon Isidro Marquez son fill peraq ab lo 5. emparo de Va Sa arribia en propias mans com ho con6. fio y losr a Va Sa gde felices anys desitje y joli sup[li]co pera 7. q puga manarnos entot lo del servei de Va Sa Ciuta8. della de Mca Abril 16 de 1667 9. Capella de Va Sa y Molt son servidor 10. El Dor Dogo Marquez 11. 087/206712. Don Nicolas Santacilia y Togores [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "086:2066.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo16/086:2066.JPG",
+      "url": "/legajos/legajo-16/images/086:2066.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "086:2066.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-16/cartas/002566.json",
+  "primary_image_url": "/legajos/legajo-16/images/086:2066.JPG"
+}

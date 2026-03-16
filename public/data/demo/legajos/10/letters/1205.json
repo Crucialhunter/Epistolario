@@ -1,0 +1,30 @@
+{
+  "id_carta": "1205",
+  "url_origen": "http://santacilia.info/info_carta2.php?id=1205",
+  "legajo": 10,
+  "signatura": "130-372",
+  "nombre_carta": "Carta de Gabriel Roger a Jerónimo Pelegrín de Aragüés",
+  "fecha": "1 de octubre de 1668",
+  "lugar": "Madrid",
+  "remitente": "Gabriel Roger",
+  "destinatario": "Jerónimo Pelegrín de Aragüés",
+  "temas": "Sin especificar",
+  "idioma": "castellano",
+  "resumen": "Lorem ipsum ad his scripta blandit partiendo, eum fastidii accumsan euripidis in, eum liber hendrerit an. Qui ut wisi vocibus suscipiantur, quo dicit ridens inciderint id. Quo mundi lobortis reformidans eu, legimus senserit definiebas an eos. Eu sit tincidunt incorrupte definitionem, vis mutat affert percipit cu, eirmod consectetuer signiferumque eu per. In usu latine equidem dolores.",
+  "transcripcion": {
+    "modernizada": "Amigo, Por mucho que diga, no podré explicar la resistencia que hace mi señor don Juan a la enfermedad y medicina, que los médicos quedan pasmados, pero con todo no hay mucha mejoría, que el pobre caballero está hecho un mártir de remedios. Dios le dé la salud tan cumplida como hemos menester y deseo. Mi señor está muy bueno y muy gordo. Dios nos lo persevere. Estos días vino un soldado y pidió audiencia secreta a la reina, que se la concedieron, y habló con su majestad más de media hora, y después llamó su majestad a d. Blasco Loyola y volvió a referir el soldado todo lo que había dicho, con que se fue con él y no se sabe qué soldado ni por qué ha venido de aquella manera, ni de dónde, que aguardamos a ver qué novedad habrá. Dé a mi señora muchos recados, a mi señor d. Nicolas y a todos [los] de casa guarde Dios. Madrid y octubre, [sin día] de 1668. Su amigo y servidor, Gabriel Roger Sr. Jeronimo Pelegrin",
+    "literal": "1. Amigo por mucho que diga no podre explicar la resis 2. tencia que haze mi señor Don Juan a la enfermedad, 3. y medicina que lo medicos quedan pasmados; pero 4. con todo no ay mucha mejoria; que el pobre cavallero 5. esta hecho un martir de remedios Dios le de la salud 6. tan cumplida como hemos menester y deseo. 7. Mi señor esta muy bueno; y muy gordo. Dios 8. nos le persevere. 9. Estos dias vino un soldado y pidio audiencia secreta a la 10. Reyna que se la concedieron, y hablo con su Magd mas de 11. media hora, y [^??^] es hamor su Mag>esta>d a D. Blasco Loyola 12. y bolvio a refferir el soldado todo lo que havia dicho 13. con que se fue con el y no se save que soldado, ni porque 14. ha venido de aquella manera, ni de donde que a 15. guardamos a ver que novedad habra. 16. De a mi Sra. ms recados a mi Señor D. Nicholas 17. y a todos de casa gde Dios. Madrid y octub. [espacio sin el día] de 18. 1668. 19. Su amigo y seror, G. Roger. 20. [^Sr. Gero Pelegrin^] [☞]"
+  },
+  "imagenes": [
+    {
+      "src": "/data/demo/legajos/10/images/1205__01__130-372.jpg",
+      "order": 1,
+      "originalFilename": "130-372.jpg"
+    }
+  ],
+  "capturado_en": "2026-02-25T17:26:35.302Z",
+  "hasImages": true,
+  "primaryImage": "/data/demo/legajos/10/images/1205__01__130-372.jpg",
+  "previousCartaId": "1204",
+  "nextCartaId": "1206"
+}

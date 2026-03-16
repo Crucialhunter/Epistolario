@@ -1,0 +1,43 @@
+{
+  "legajo_id": "7",
+  "id_carta": "790",
+  "order_in_legajo": 22,
+  "signatura": "35-21a copy",
+  "nombre_carta": "Carta de Nicolás de Santacilia y Togores a Jerónimo Pelegrín de Aragüés",
+  "fecha_original": "10 de febrero de 1672",
+  "lugar": "Galdent (Llucmajor)",
+  "remitente": "Nicolás de Santacilia y Togores",
+  "destinatario": "Jerónimo Pelegrín de Aragüés",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Per dissabte a la nit que puga fer confiança del diner amb el cònsul. No voldria més que comptar-ho i que confirmar es compte a raó de deu sense interés, que el demés vendrà. I avisau-me de la quantitat que serà bé en podien avisar d’en [?] de com ha passat. Però no mostro la cara en res. Déu vos guard. Galdent, a 10 de febrer 1672. Don Nicolas de Santacilia. Jeroni Pelegri [1§] A Jeroni Pelegri i Aragues, que Déu guard. Ciutat. Transcripción literal"
+  ],
+  "literal": [
+    "1. Par disapta ala nit qua pua fer 2. confiança dal diner anbal consul 3. no volria mes qua contar au y qua 4. confirmar as conta a rao de deu Sançe 5. intares qua lo dames vandra y 6. avisau ma dala cantitat que sara 7. be an pudian avisar dan rosaio [?] da com 8. a pasat paro no mostru la cara an 9. ras Deu vos Guart Galdent a 10 10. de fr. de 1672 11. Don Nicolas de sa Cilia 12. Garoni Palagri [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "35-21a copy.gif",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo07/35-21a copy.gif",
+      "url": "/legajos/legajo-07/images/35-21a copy.gif"
+    },
+    {
+      "filename": "35-21b copy.gif",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo07/35-21b copy.gif",
+      "url": "/legajos/legajo-07/images/35-21b copy.gif"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "35-21a copy.gif",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (5)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-07/cartas/000790.json",
+  "primary_image_url": "/legajos/legajo-07/images/35-21a copy.gif"
+}

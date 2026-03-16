@@ -1,0 +1,38 @@
+{
+  "legajo_id": "14",
+  "id_carta": "2089",
+  "order_in_legajo": 118,
+  "signatura": "314:2599.JPG",
+  "nombre_carta": "Carta de Isidro Marqués a Pedro Santacilia y Pax",
+  "fecha_original": "5 de agosto de 1661",
+  "lugar": "Real de Valencia",
+  "remitente": "Isidro Marqués",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Señor mío. El Sr. D. Nicolás está indispuesto de una apostema que se le ha abierto, pero estará siendo Dios servido con brevedad bueno. El sueldo que se le consultó para esa ciudad le resigno [?] El Consejo de Aragón y no ha bastado el deseo del Sr. D. Blasco como con efecto le tiene de servir a v. s. Ahora tengo que darle otro memorial para el Sr. D. Nicolás pidiendo una compañía de caballos para Cataluña que creo la consiguiremos y es una cosa muy decente y en que el Sr. D. Nicolas podrá merecer. v. s. ya sabe que en cuanto alcanzaren mis fuerzas estaré siempre a su obediencia y servicio como debo. Guarde Dios a v. s. muchos años como deseo. Real de Valencia 5 de agosto de 1661. Besa la mano a v. s. su mayor servidor Isidro Marques Sr. D. Pedro de Santacilia Transcripción literal"
+  ],
+  "literal": [
+    "1. Señor mio El Sr. D. Nicolas2. está indispuesto de una apostema que3. se le ha abierto pero estara siendo Dios4. servido con brevedad bueno, El sueldo5. q se le consulto pa essa Ciudad le6. resigno?? El Conso de Aragon y no ha7. bastado el desseo del Sr. D. Blasco como8. con efeto le tiene de servir a VS. Aora9. tengo que darle otro meml pa el Sr.10. (D.) Nicolas pidiendo una compania11. de Cavallos para Cataluña que creo12. la consiguiremos y es una cosa mui13. descente y en q el S.D. Nicolas14. podra merecer. V.S. ya sabe que15. en quanto alcanzaren mis fuerzas16. estare siempre a su obediencia y ser17. vicio como devo. Gde Dios a VS.18. muchos años como desseo. Real de [?] 5?19. de Agosto de 1661.20. B L M a VS su ma[yor] ser[vi]dor21. Isidro Marques22. Sr. D. Pº de Santacilia [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "314:2599.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo14/314:2599.JPG",
+      "url": "/legajos/legajo-14/images/314:2599.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "314:2599.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-14/cartas/002089.json",
+  "primary_image_url": "/legajos/legajo-14/images/314:2599.JPG"
+}

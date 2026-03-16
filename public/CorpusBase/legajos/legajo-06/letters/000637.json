@@ -1,0 +1,43 @@
+{
+  "legajo_id": "6",
+  "id_carta": "637",
+  "order_in_legajo": 123,
+  "signatura": "200-102a",
+  "nombre_carta": "Carta de Tomás Mariano Quint Zaforteza a Cecilia Zaforteza y Sureda de Sant Martí",
+  "fecha_original": "5 de julio de 1770",
+  "lugar": "Madrid",
+  "remitente": "Tomás Mariano Quint Zaforteza",
+  "destinatario": "Cecilia Zaforteza y Sureda de Sant Martí",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Madrid i setembre 5 de 70. Tia Cecília, Li don notícia com dia 2 del vençut arribà en Caliu a Madrid i no m’hi trobà a causa d'esser jo a la granja amb el marquès. Però, al punt, prengué els seus atapits i se’n vengué. Li vaig preguntar i ell em va dir que no havia vist mon pare pel que voldria saber si no és del seu gust que ell em servesca, que jo no vull res contra el seu gust. Voldria que m’escrigués molt i llarg. De part de tots rebrà moltes memòries i de mi a son gust. Déu la guardi molts anys. Son nebot qui més l’estima, Tomàs Mariano Quint Zaforteza [A la derecha, de abajo a arriba]Tia Cecília Transcripción literal"
+  ],
+  "literal": [
+    "1. Madrid y Sbre 2. 5 de 70 3. Tia Cecilia li 4. don Noticia com dia 25 5. del vensut arriba en 6. Caliu á Madrid y no 7. mi troba a causa de 8. eser jo á la Granja ab 9. el Marques pero al 10. punt prengue sos Ate- 11. pits y sen vengue li 12. vatx preguntar y ell 13. hem va dir que no 14. havia vist Mon Pare [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "200-102a.jpg",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo06/200-102a.jpg",
+      "url": "/legajos/legajo-06/images/200-102a.jpg"
+    },
+    {
+      "filename": "201-102b.jpg",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo06/201-102b.jpg",
+      "url": "/legajos/legajo-06/images/201-102b.jpg"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "200-102a.jpg",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (2)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-06/cartas/000637.json",
+  "primary_image_url": "/legajos/legajo-06/images/200-102a.jpg"
+}

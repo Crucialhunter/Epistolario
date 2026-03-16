@@ -1,0 +1,62 @@
+{
+  "legajo_id": "40",
+  "id_carta": "5751",
+  "order_in_legajo": 104,
+  "signatura": "300:103a",
+  "nombre_carta": "Carta de Persona desconocida a Persona desconocida",
+  "fecha_original": "29 de noviembre de 1662",
+  "lugar": "Mallorca",
+  "remitente": "Persona desconocida",
+  "destinatario": "Persona desconocida",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Fulls 103a-103g: Compte del que es gastarà en fer la [?] a la casa de Alfàbia, començant a 29 de novembre 1662, per bitllet escrit de Bartomeu Codonyer [1§] Transcripción literal"
+  ],
+  "literal": [
+    "1. Fulls [213a-103g]: Compta de lo que es gastara en fer la [?] a la cassa de Alfabia, comensant a 29 de 9bre 1662 per villet escrit de Berthomeu Codonyer"
+  ],
+  "imagenes": [
+    {
+      "filename": "300:103a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo40/300:103a.JPG",
+      "url": "/legajos/legajo-40/images/300:103a.JPG"
+    },
+    {
+      "filename": "301:103b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo40/301:103b.JPG",
+      "url": "/legajos/legajo-40/images/301:103b.JPG"
+    },
+    {
+      "filename": "302:103c.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo40/302:103c.JPG",
+      "url": "/legajos/legajo-40/images/302:103c.JPG"
+    },
+    {
+      "filename": "303:103d.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo40/303:103d.JPG",
+      "url": "/legajos/legajo-40/images/303:103d.JPG"
+    },
+    {
+      "filename": "304:103e.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo40/304:103e.JPG",
+      "url": "/legajos/legajo-40/images/304:103e.JPG"
+    },
+    {
+      "filename": "305:103f.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo40/305:103f.JPG",
+      "url": "/legajos/legajo-40/images/305:103f.JPG"
+    },
+    {
+      "filename": "306:103g.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo40/306:103g.JPG",
+      "url": "/legajos/legajo-40/images/306:103g.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "300:103a.JPG",
+  "warnings": [],
+  "raw_source": "raw/legajos/legajo-40/cartas/005751.json",
+  "primary_image_url": "/legajos/legajo-40/images/300:103a.JPG"
+}

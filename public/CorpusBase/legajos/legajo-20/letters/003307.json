@@ -1,0 +1,43 @@
+{
+  "legajo_id": "20",
+  "id_carta": "3307",
+  "order_in_legajo": 181,
+  "signatura": "354:6088a.JPG",
+  "nombre_carta": "Carta de José Balell a Leonor Santacilia i Despuig",
+  "fecha_original": "23 de febrero de 1669",
+  "lugar": "Barcelona",
+  "remitente": "José Balell",
+  "destinatario": "Leonor Santacilia i Despuig",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Sra. Dña. Leonor de Santacilia y Despuig mi Sra. Todos los pliegos que he recibido del Sr. don Pedr su esposo y me ha remitido a v. s. y las de v. s. a su Sra. en la misma conformidad como pude mi obligación y en la misma lo continuaré y serviré a v. s. sin reserva. Esta solo sirve de acompañar el incluso de este sábado y de besar la mano a v. s. como lo hago y preciarme de su criado y ser puntual cuando he tenido carta del Sr. D. Pedro con muy buenas noticias de su salud, y de la del Sr. don Nicolás. Gracias a Dios y que la pretensión está en muy buen estado. El Sr. D. Juan llegó a Guadalajara, quiera Dios que sus materias se compongan. Acá no hay más novedad que las galeras se partieron lunes para Cartagena y que tenemos [?] y que el duque de Osuna pasaba a [?] y que acá vendrá el [?] de [?]. Suplico a v. s. sea servido en su gracia y servicio, cuya vida [1§] guarde mío Sr. muchos años como puedo deseo y es menester en compañía de cuanto quiere y merece. Barcelona y febrero 23 de 1669. Cierto [?] criado de v. s. que sus manos besa Josep Balell Transcripción literal"
+  ],
+  "literal": [
+    "1. Sa. d Leonor de Sta. Cilia y Despuch mi sa. 2. Todos[?] los pliegos que he recivido del 3. Sr. d Po su esposo y mi sr. he remi- 4. tido a VS. y las de VS a su Sa. en la 5. misma conformidad como 6. pude mi obligon y en la misma 7. lo continuare y servire a VS. 8. sin reserva. 9. esta solo sirve de acompañar 10. el Yncluso[?] deste savado y de besar 11. la mano a VS. como lo hago 12. y preciarme de su criado y ser 13. puntual cuando , He tenido car- 14. ta del Sr. D. Po con mui buenas 15. noticias de su salud, y de la del Sr. 16. d nicolas. gracias a dios y que 17. la pretencion esta en mui buen 18. estado el Sr. D Juan llego [?] 19. Guadalaxara quiera dios que 20. sus materias se[?] compongan 21. Aca no ay mas novedad que las 22. Galeras se partieron lunes pa 23. Cartagena y que tenemos [?] 24. [?][?] y que el Sr, duque 25. de Ossuna pasava a [?] 26. y que aca vendra el Sr. [?] 27. de [?], Supp[li]co a V.S 28. sea servida [?] enn su 29. gracia y servicio cuia Bida [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "354:6088a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo20/354:6088a.JPG",
+      "url": "/legajos/legajo-20/images/354:6088a.JPG"
+    },
+    {
+      "filename": "355:6088b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo20/355:6088b.JPG",
+      "url": "/legajos/legajo-20/images/355:6088b.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "354:6088a.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-20/cartas/003307.json",
+  "primary_image_url": "/legajos/legajo-20/images/354:6088a.JPG"
+}

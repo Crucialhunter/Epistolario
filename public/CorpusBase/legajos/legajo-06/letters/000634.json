@@ -1,0 +1,53 @@
+{
+  "legajo_id": "6",
+  "id_carta": "634",
+  "order_in_legajo": 134,
+  "signatura": "195-99aa",
+  "nombre_carta": "Carta de Tomás Mariano Quint Zaforteza a Cecilia Zaforteza y Sureda de Sant Martí",
+  "fecha_original": "8 de agosto de 1770",
+  "lugar": "Madrid",
+  "remitente": "Tomás Mariano Quint Zaforteza",
+  "destinatario": "Cecilia Zaforteza y Sureda de Sant Martí",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Madrid i agost 8 de 1770. Tia Cecília, Esper esta la trobarà amb perfecta salut. Jo la {ESP. gos} bona, a Déu gràcies, amb tota la família pel que sia del seu gust manar-me. Em diu que no va rebre sinó dues cartes meues, no sé com pot esser estat perquè li’n tenia sis escrites. Supòs serà per mal govern dels correus, però no ha deixat de donar-me {ESP. enfado} encara que no hi hagués res de subs [A la izquierda, de arriba abajo]tància, sinó quatre frioleres per escriure-li llarg. [En la otra página][1§] Ja som estat a oir-li una missa en el {ESP. Santo Nazareno}, una a la Mare de Déu de la Soledat i una en el {ESP. Beato} Boxas i si vol que li’n faci dir més, avisi-me. Dia primer se n’anà el tinent de rei i sa muller a la Puebla de Sanabria acompanyats del Fèlix, qui crec que hauria estimat més anar-se’n a Mallorca que no a Sanabria. I el dia 4 partí D. Bernardo Estrada i dona Joana per Sòria, en la intendència de dita ciutat, el que em digué que li escrigués [A la derecha, de abajo a arriba]mil expressions de part seua com vaig esser a casa sua. [2§] Tinc rebudes 3 cartes una llarga en fecha dels 7 juliol una dels 3 i una dels 8, de les que em vaig alegrar moltíssim per saber la seva bona salut i assossec a Son Berga. Per aquí no se diu res i jo no vull saber qui l’ha encalçat, i {ESP. demés} qui no pregunt res sinó en és perruquer o en es barber, qui sempre saben bones notícies com son festes de toros i coses semblants. Estimaré que en partir na Bel m’ho escrigui tan prest [A la derecha, de abajo a arriba]com serà possible, per sa primera ocasió que tenga. [En la otra página][3§] Tenc la bona notícia pel Dr. que el fraret de Maranchon l’han posat ahir les Peraires i el planc. Pobre pare Francisco. Tia Cecília, li estimaré que em faci dir dues misses a la Mare de Déu del Carme a la mia intenció i si fos possible que v. m. les pogués oir, o al {ESP. menos} una, seria més en es meu gust i, així, farà el que voldrà. Diumenge tinguérem una tempesta molt grossa i una pedrada horrorosa, qui es mateixos madrilenyos deien que no havien [A la izquierda, de arriba abajo]vista pedra igual en sa vida, tan grossa era. Transcripción literal"
+  ],
+  "literal": [
+    "1. Madrid y Agost 2. 8 de 1770 3. Tia Cecilia esper esta 4. la Trobera ab perfeta salud jo la 5. gos bona á Deu gracias en tota 6. la familia per lo que sia del seu 7. gust manarme 8. hem diu que no va 9. Rebrer sino duas Cartas meuas, no 10. se com pot esser estat perque lin 11. tenia sis Escritas supos sera per 12. mal Covern dels Correus pero no 13. ha dexat de donarme enfado enca- 14. ra que no ey hagues res de sus- 15. [A la izquierda, de arriba abajo]16. tancia sino quatre frioleras per escriureli llarch [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "195-99aa.jpg",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo06/195-99aa.jpg",
+      "url": "/legajos/legajo-06/images/195-99aa.jpg"
+    },
+    {
+      "filename": "195-99ab.jpg",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo06/195-99ab.jpg",
+      "url": "/legajos/legajo-06/images/195-99ab.jpg"
+    },
+    {
+      "filename": "196-99ba.jpg",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo06/196-99ba.jpg",
+      "url": "/legajos/legajo-06/images/196-99ba.jpg"
+    },
+    {
+      "filename": "196-99bb.jpg",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo06/196-99bb.jpg",
+      "url": "/legajos/legajo-06/images/196-99bb.jpg"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "195-99aa.jpg",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (2)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-06/cartas/000634.json",
+  "primary_image_url": "/legajos/legajo-06/images/195-99aa.jpg"
+}

@@ -1,0 +1,38 @@
+{
+  "legajo_id": "6",
+  "id_carta": "547",
+  "order_in_legajo": 46,
+  "signatura": "028_17",
+  "nombre_carta": "Carta de condesa de Centellas a Cecilia Zaforteza y Sureda de Sant Martí",
+  "fecha_original": "10 de febrero de 1742",
+  "lugar": "Barcelona",
+  "remitente": "condesa de Centellas",
+  "destinatario": "Cecilia Zaforteza y Sureda de Sant Martí",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Amiga y señora mía, El día 23 del pasado fue Nuestro Señor servido llevarse para sí el alma de mi padre y señor, el señor conde de Centellas, y no dudando que v. s. me acompañará en el sentimiento de pérdida tan grande, ruego a v. s. le tenga presente en sus fervorosas oraciones, y que ejercite v. s. mi obediencia en cuanto sea del mayor agrado de v. s., cuya vida ruego a Nuestro Señor guarde los dilatados años que puede y deseo. Barcelona y febrero a los 10 de 1742. Besa las manos de v. s. su amiga y mayor servidora, La condesa de Centellas Amiga y señora mía da. Cecilia Sureda de Sant Martí y Zaforteza Transcripción literal"
+  ],
+  "literal": [
+    "1. Amiga y S<eño>ra Mia el dia 23 2. del pasado fue N< uest>ro S< eño>r servido 3. llevarse para si lalma de mi Padre 4. y S< eño>r el S< eño>r Conde de Centellas y 5. no dudando que VS me acompañara 6. en el sent< imient>o de perdida tan grande 7. ruego a VS le tenga presente en sus 8. fervorosas oraciones, y que exercite 9. VS mi ob< edienci>a en quanto sea del Mayor 10. agrado de VS cuya vida ruego 11. a N< uest>ro S< eño>r g< uar>de los diletados 12. a< ño>s que puede, y desseo Barcelo>na 13. y febrero a los 10 de 1742 14. B< esa> L< a> M< ano> de VS 15. Su amiga y m< ayo>r Servidora 16. La Condesa de Centellas 17. Amiga y S< eño>ra Mia Da. Sicilia Sureda de S< an>t Martin y Çafortesa. [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "028_17.jpg",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo06/028_17.jpg",
+      "url": "/legajos/legajo-06/images/028_17.jpg"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "028_17.jpg",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-06/cartas/000547.json",
+  "primary_image_url": "/legajos/legajo-06/images/028_17.jpg"
+}

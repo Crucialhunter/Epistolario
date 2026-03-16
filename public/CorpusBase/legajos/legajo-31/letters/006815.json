@@ -1,0 +1,38 @@
+{
+  "legajo_id": "31",
+  "id_carta": "6815",
+  "order_in_legajo": 61,
+  "signatura": "073:1566.JPG",
+  "nombre_carta": "Carta de Conde de Zavellá a Pedro Santacilia y Pax",
+  "fecha_original": "29 de marzo de 1661",
+  "lugar": "Barcelona",
+  "remitente": "Conde de Zavellá",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Remito a v. m. esos pliegos que d'algunes estafetes he recibido i he remitido a Madrid el [?] miento per a el Rey Nº S. no tengui {ESP. hasta} ahora {ESP. respuesta} de sa recibo. Temo no sé quiebren esos [?] que han de venir en la primera [?] i seria mal caso que LLETRA DIFÍCIL [1§] Transcripción literal"
+  ],
+  "literal": [
+    "1. Remito a VM esos pliegos q. 2. de algunas estafetas he recibido 3. y he remitido a Md. el [?] 4. miento pª el Rey Nº S. no 5. tenga hasta aora respuesta de su 6. recibo. Temo no se quiebren esos 7. ?? q han de venir en la pri8. mera [?] y seria mal caso 9. q LLETRA DIFÍCIL [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "073:1566.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo31/073:1566.JPG",
+      "url": "/legajos/legajo-31/images/073:1566.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "073:1566.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-31/cartas/006815.json",
+  "primary_image_url": "/legajos/legajo-31/images/073:1566.JPG"
+}

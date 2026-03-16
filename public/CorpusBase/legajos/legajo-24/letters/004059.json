@@ -1,0 +1,38 @@
+{
+  "legajo_id": "24",
+  "id_carta": "4059",
+  "order_in_legajo": 74,
+  "signatura": "147:4112.JPG",
+  "nombre_carta": "Carta de Juan Valero Díaz a Pedro Santacilia y Pax",
+  "fecha_original": "12 de septiembre de 1641",
+  "lugar": "Madrid",
+  "remitente": "Juan Valero Díaz",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Presto terna v. m. en que entender en orden al sitio de Barcelona, lo cierto es que lo que corriere por su mano de v. m. siempre será provechoso para el servicio de su majestad. Toda la casa de la Camarena y la del maravilloso duque están buenos el [?] ayer una cuadrilla en las cañas que se ocurrieron en la plaza con el mayor brío del mundo padre y hijo son muy amigos de v. m. y muy a menudo nos acordamos de las cosas pasadas. No hay sino esforzarse y animarlos a todos, que su majestad y sus consejos mucho espera de Mallorca, y más estado v. m. ahí, vea si por acá manda alguna cosa en que yo le sirva que lo haré como debo. Guarde Dios a v. m. como deseo. Madrid a 12 de septiembre 1641. Juan Valero Diaz Sr. D. Pedro Santacilia Transcripción literal"
+  ],
+  "literal": [
+    "1. Presto terna V.m. en que entender en orde2. al sitio de Barcelona, lo cierto es q lo que3. corriere por su mano de V.m. siempre sera4. provechoso para el servicio de Su M[a]gd5. Toda la casa de la Camarena y la del6. maravilloso duq estan buenos el [?]7. [?] ayer una quadrilla en las cañas8. que se currieron en la Plaça con el mayor brio 9. del mundo Padre y hijo son muy amigos10. de V.m. y muy a menudo nos acordamos11. de las cosas pasada no ay Srio. esforca12. se y animarlos a todos, q Su Magd y sus con13. sejos mucho espera de Mallorca, y mas estado14. Vm ahi, vea si por aca manda algu[na]15. cosa en q yo le sirva q lo hare como devo16. Guarde dios a Vm. como deseo Madrid a17. 12. de Setiembre 1641.18. Juan Valero Diaz19. Sor. D. Pº Santa Cilia [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "147:4112.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo24/147:4112.JPG",
+      "url": "/legajos/legajo-24/images/147:4112.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "147:4112.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-24/cartas/004059.json",
+  "primary_image_url": "/legajos/legajo-24/images/147:4112.JPG"
+}

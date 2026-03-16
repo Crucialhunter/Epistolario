@@ -1,0 +1,38 @@
+{
+  "legajo_id": "30",
+  "id_carta": "6559",
+  "order_in_legajo": 49,
+  "signatura": "039:5397",
+  "nombre_carta": "Carta de Joan Armengol a Persona desconocida",
+  "fecha_original": "9 de diciembre de 1619",
+  "lugar": "Mallorca",
+  "remitente": "Joan Armengol",
+  "destinatario": "Persona desconocida",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Â [1§] Transcripción literal"
+  ],
+  "literal": [
+    "1."
+  ],
+  "imagenes": [
+    {
+      "filename": "039:5397.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo30/039:5397.JPG",
+      "url": "/legajos/legajo-30/images/039:5397.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "039:5397.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (3)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-30/cartas/006559.json",
+  "primary_image_url": "/legajos/legajo-30/images/039:5397.JPG"
+}

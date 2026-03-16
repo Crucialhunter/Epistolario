@@ -1,0 +1,43 @@
+{
+  "legajo_id": "8",
+  "id_carta": "819",
+  "order_in_legajo": 8,
+  "signatura": "014-12a copia",
+  "nombre_carta": "Carta de Domingo Márquez a Persona desconocida",
+  "fecha_original": "fecha sin especificar",
+  "lugar": "lugar sin especificar",
+  "remitente": "Domingo Márquez",
+  "destinatario": "Persona desconocida",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Excelentísimo señor, El doctor Domingo Marquez, presbítero vecino de Ciutadella, dice que por orden de vuestra excelencia en presto cuatro pipas para traer vino con la tartana fletada por vuestra excelencia del patrón Bautista Rostit entregadas a los ayudantes Andres de Bargas y Medina. Suplica a vuestra excelencia se manden pagar. Atento está en servicio de la armada y, siendo un pobre clérigo y haber venido desde Ciutadella a esta cobranza con gasto de camino y el que se está haciendo, que de ello recibirá merced. Excelentísimo señorEl Dr. Domingo Marquez Transcripción literal"
+  ],
+  "literal": [
+    "1. Ex<>. Señor. 2. El Doctor Domingo Marquez presbitero bezino de 3. Ciudadella dize que por orden de V exª empres- 4. to quatro pipas para traher vino con la tartana 5. fletada por V exª del Patron Bautista Rostit 6. entregadas alos Ajudantes estndias de Bargas y 7. medina. 8. suplica a V Exª mandan pagar abiendo esta?? 9. en servicio dela hermada y siendo un pobre clerigo 10. y haver venido desde ciudadella a esta Cobranc[?]a 11. con gasto de camino y el que se esta haziendo que 12. de ello recibira merced [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "014-12a copia.jpg",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo08/014-12a copia.jpg",
+      "url": "/legajos/legajo-08/images/014-12a copia.jpg"
+    },
+    {
+      "filename": "015-12b copia.jpg",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo08/015-12b copia.jpg",
+      "url": "/legajos/legajo-08/images/015-12b copia.jpg"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "014-12a copia.jpg",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-08/cartas/000819.json",
+  "primary_image_url": "/legajos/legajo-08/images/014-12a copia.jpg"
+}

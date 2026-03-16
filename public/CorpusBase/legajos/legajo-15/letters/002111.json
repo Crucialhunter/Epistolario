@@ -1,0 +1,43 @@
+{
+  "legajo_id": "15",
+  "id_carta": "2111",
+  "order_in_legajo": 9,
+  "signatura": "013:6334a.JPG",
+  "nombre_carta": "Carta de comte de Perelada i marquès d'Anglesol a Pedro Santacilia y Pax",
+  "fecha_original": "17 de mayo de 1629",
+  "lugar": "Barcelona",
+  "remitente": "comte de Perelada i marquès d'Anglesol",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Ja avisí ahir v. m., quant servit estava de la [?] desditxat. Per amor de Déu, senyor don Pedro, miri que li toca ajudar en això, quan puga. Faci'un eixa mercè [?] quan no hi hagués altra causa, havent-hi mil com cal [?], per amor de mi ho faci. Ja diguí a v. m., podia acompanyar al duc fins a Girona, que Anglada l'haura [?] anar-se'n i {ESP. recibidor} tande. Moltes me dóna {ESP. cuidado}, i el podré. No té anima que li ajudi, que di [en] uns [?], li publicaran sentència de galera, sinó que aní a casa Vinyola, li suspengueren. Al llicenciat Ferrer, que ve molt acomanat, no sé encara. Vilanova s'en caurà. Jo no puc el de procurador. Amb tot faig molt més que puc per passar-me, que v. m. hi té molt [?]. Jo, anit, en veure al duc essent colgat i la tenia en propòsit. No estiga v. m. amb {ESP. cuidado}, que no jo tan poc cortesà, que no sàpiga el que he de fer, però no sia tot el que [?] dia en eixa matèria. Senyor don Pedro [1§] prenc perquè les asmas estiguin tant de. Ja tenia nova de faria per adobar la mia casa a tota pressa. Diu-se bé de serà i jo em pens que encara que no hi [?] el partia és gran no es dona pena q no hi haurà cosa que fer que no es faci i de si us plau a Déu sols voldria que vingués. Mentre jo ací. V. m. m'escriga noves encara que no hi hagi Déu a v. m. guardi. Barcelona, als 17 de maig 1629. El comte de Perelada V. m. doni les incluses com s'acostuma Transcripción literal"
+  ],
+  "literal": [
+    "1. Ja avisi air V.m. quant servit estava 2. delamonrs[?] dea desditxat. p ancorde deu 3. Sor don pedro mire queli toca aiudar 4. En axo en quant puga fasun exa 5. Merse quant noy agues altra causa aventiy 6. mil comujal[?] p amo demi ho fasa. 7. Jadigui a V.m. podia aconpaniar al 8. duch fins ajerona q englada lo heura 9. ous de anarsen y resibidor tande. 10. Moltes me dona cuidado y lo podre no 11. te anima queli ajude q di Ouns[?] li publi=12. caran sentencia degalera sino q ani, a, 13. Casa Vinjola ly suspengueren Al 14. lisensiat ferrer queve molt acomanat 15. nosencara Vilanova sen Caura 16. jo nopuchlo deprocurador abtot fas 17. molt mes de que puch p paserme q V.m. 18. yte molt juseres[?] 19. Jo anyt anveurer alduch asant Cul=20. gat yla tenia en proposit noestiga 21. V.m. ab cuidado q nojo tant poc 22. cortesa q nosapia loq hedefer pero 23. no sea tot lo q [Ilegible] dia en exa 24. Materia.25. [Margen izquierdo][^Sr Don Pedro] [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "013:6334a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo15/013:6334a.JPG",
+      "url": "/legajos/legajo-15/images/013:6334a.JPG"
+    },
+    {
+      "filename": "014:6334b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo15/014:6334b.JPG",
+      "url": "/legajos/legajo-15/images/014:6334b.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "013:6334a.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-15/cartas/002111.json",
+  "primary_image_url": "/legajos/legajo-15/images/013:6334a.JPG"
+}

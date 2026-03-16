@@ -1,0 +1,38 @@
+{
+  "legajo_id": "13",
+  "id_carta": "1870",
+  "order_in_legajo": 137,
+  "signatura": "217:2374.JPG",
+  "nombre_carta": "Carta de Diego Matías de Aragüés a Pedro Santacilia y Pax",
+  "fecha_original": "12 de enero de 1669",
+  "lugar": "Mallorca",
+  "remitente": "Diego Matías de Aragüés",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Sr. don Pedro El recuerdo que hoy se ha dado al sr. virrey ha importado porque se ha despachado el memorial de v. s. como lo pide, y ha dado orden se haga la carta para [que] el lunes se lleve al tercio [?] a señalar para el miércoles se remita por Valencia. La carta de Pelegrin va con esta, y también la de Balell, que es consuelo no hay novedad en Cataluña. Guarde Dios a v. s. de casa. 12 de enero 1669. Besa la mano de v. s. su mayor servidor Diego Matias de Aragues [1§] Transcripción literal"
+  ],
+  "literal": [
+    "1. Sr don Pedro2. el requerdo q oy se hadado3. al Sr. Virey ha importado4. porq se hadespachado el5. meml de VS como lo pide6. y ha dado orden, se haga7. La carta pa el Lunes si8. lleve al [?] a señalar9. pa el mircoles se remita10. por Valencia.11. La carta de pelegrin ba12. Conesta. Y tambien la de13. Balell q es consuelo14. no ay novedad en Cataluña15. gde Dios a VS. de casa 12 de16. enero 166917. B l[a] M de VS.18. su mor serdor19. Diego Mathias de 20. Aragues [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "217:2374.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo13/217:2374.JPG",
+      "url": "/legajos/legajo-13/images/217:2374.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "217:2374.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (3)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-13/cartas/001870.json",
+  "primary_image_url": "/legajos/legajo-13/images/217:2374.JPG"
+}

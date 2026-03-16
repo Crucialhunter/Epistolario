@@ -1,0 +1,43 @@
+{
+  "legajo_id": "11",
+  "id_carta": "1350",
+  "order_in_legajo": 119,
+  "signatura": "198:5210a.JPG",
+  "nombre_carta": "Carta de Rafael Vives García a Pedro Santacilia y Pax",
+  "fecha_original": "1 de octubre de 1643",
+  "lugar": "Madrid",
+  "remitente": "Rafael Vives García",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Sr. gobernador Conocerá el Sr. regente de Mahón que no concurre en las presentes necesidades para el puesto como quien tiene las manos en la masa y por eso habrá tomado la resolución que v. s. me escribe. Pésame haber metídole en negocio de esta calidad yo pensé que de España [?] ser merced y se ha salido sin pagar, porque le conozco la condición en el dar, pero sabe más el necio en su casa, que el cuerdo en la ajena. Dejémosle con su mala, o, buena ventura, que quizás tendrá algún pronóstico de que el hijo de su sobrino llegará a tiempo de que le pueda emplear en lo que yo quisere. Tanto venía su merced como yo deseo venir que en eso a nadie debo nada. En el pr. de v. s. no se ha hecho nada hasta hoy, todos los días lo tratamos Mayans y yo y lo he tratado con Jaime Anglada y todos resolvemos la conveniencia y modo de buscarla, pero don Francisco no ejecuta cosa, no sé si por unos secretos debe tener algo andado. El negocio de Cardona procuraré como para mi. Los informes que remití a v. s. espero con impaciencia y que me mande en que le firma para la causa del suegro se ha asignado para 15 de octubre porque Palavesino hubo de ir a la residencia de Toledo. Espero buena causa, Dios lo haga y a v. s. guarde como deseo. Madrid y octubre de 1643. De Badajoz hicieron los nuestros retirar el enemigo, matáronle 500 hombres y entre ellos el general de caballería tomaron tres piezas de Arta [1§] y un poco de bagaje. En Aragón nuestros ejércitos dicen que salen y nunca acaban de salir. Lo cierto que el enemigo está más poderoso porque tiene 7 mil infantes y 3 mil caballos mejores que los nuestros y quieren asegurar que el nuestro no pase de 6 mil y los caballos no llegan a 2 mil. El conde de Montalvo, que era procurador, perdió [?] y se unió porque don Filipe de Silva quería tratarle de vos y mandarle y el obligado dijo a su majestad que le robaba casa más 400 rationes y servicios y pagas, porque pasaban muestran de 12 mil en número y no llegaban a 8 mil. Estos son los engaños que aún llaman y aprovechos que hacen a su majestad los que le sirven. [?] hasta hoy no tiene puesto en Zaragoza, se alegraron mucho cuando llegó, hicieron sentimientos como por majestad pensando que luego le habían de emplear. Dícenme que su majestad remite algún papel a D. Luis de Haro para que lo despache y que en esto también habiendo envidias porque Monterrey [?] le hiceron una consulta diciendo que era mozo y que no tenía experiencia de las materias y que su majestad para ellas hiciese elección de sujetos capaces. unos dicen que se viene, otros dicen que no vendrá, sabe Dios lo que será. El se sabrá guiarlo y será bien guiado otros [?] tenemos muchos trabajos. Dicho [?] El Sr. Rafael Vives y Garcia Transcripción literal"
+  ],
+  "literal": [
+    "1. [^Sr. Govor^]2. Conoscera al sr. Regr de Mahon que no concurre en 3. las ptes necessas para el puesto como quien tiene 4. las manos en la maça y por esso habra tomado la 5. resolucion que VS me escrive pesame haver metido 6. le en nego de esta calidad yo pense que deseava desean 7. do ser md y se ha salido sin pagar; porque le conosco la 8. condicion en el dar, pero sabe mas el necio en su casa , que el cuerdo en la agena43. Dexemos le con su mala , o, buena ventura, que quizas tendra algun pronostico 9. de que el hijo de su sobrino llegara a tiempo de 10. que le pueda emplear en lo que yo quise. Tanto venia su md 11. como yo deseo venir que en esso a nayde44 devo nada .12. En el p de VS no se ha hecho nada hasta oy todos 13. los dias lo tratamos Mayans y yo y lo he tratado con 14. Jayme Anglada y todos resolbemos la conbenien 15. cia y modo de buscarla, pero don Fraco no executa cosa 16. no se si por unos secretos deve tener algo andado. 17. El no de Cardona procurare como para mi 18. los informes que remitti a VS espero con impa 19. y que me mande en que le firma para la causa del 20. sr. suegro se ha assignado para 15 de obre porque 21. Palavesino ubo de ir a la Residencia de Toledo es 22. para buena causa dios lo aga ya VS gde como deseo . Md y obre de 1643 23. De Badajoz hizieron los ntros retirar el ene 24. migo mataron le 500 hombres y entre elllos el 25. gl de Cavalla tomaron tres pieças de Arta [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "198:5210a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo11/198:5210a.JPG",
+      "url": "/legajos/legajo-11/images/198:5210a.JPG"
+    },
+    {
+      "filename": "199:5210b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo11/199:5210b.JPG",
+      "url": "/legajos/legajo-11/images/199:5210b.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "198:5210a.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-11/cartas/001350.json",
+  "primary_image_url": "/legajos/legajo-11/images/198:5210a.JPG"
+}

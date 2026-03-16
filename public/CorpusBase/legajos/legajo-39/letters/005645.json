@@ -1,0 +1,38 @@
+{
+  "legajo_id": "39",
+  "id_carta": "5645",
+  "order_in_legajo": 44,
+  "signatura": "81:8305.JPG",
+  "nombre_carta": "Carta de Magín Ribes a Pedro Santacilia y Pax",
+  "fecha_original": "10 de septiembre de 1667",
+  "lugar": "Ibiza",
+  "remitente": "Magín Ribes",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "ilustre Ser. Pdor. real Por manos del patrón Miguel Riqu er que lo es de la seiatia Remit a v. s. cuarenta melones me holgaré fu eren como deceio pero Digo Sr. que hay un halagio que dice que la mujer y el melon dentro tienen la traisión tienen esta marca Sr. D. P. tiene v. s. la buena voluntad que lo suple todo Dios guarde a v. s. como puede y deceio que confío que presto nos veremos quue ya estuviere despatxado si no fuera por razón de la setgatia y ro para que tengo entragado que es la que vino de Alger estamos aguardando orden de Madrid para vender lo Ibiza y 7bra a los 10 de 1667 de v. s. u Major Servi Dr. que sus manos besa Magin Ribes [1§] Transcripción literal"
+  ],
+  "literal": [
+    "1. Ille. Ser. Pdor. Rl.2. Por manos del patron Migel Riqu3. er que lo es de la seiatia Remit a4. VSa. quarenta melones me olgare fu5. eren como dezeio pero Digo Sor. que6. ay un halagio que dize que la mujer7. y el melon dentro tienen la traission8. tienen esta marca D. P. tiene Vsa. la9. buena voluntad que lo suple todo10. Dios gde a VSa. como puede y dezeio11. que confio que presto nos veremos12. quue ja estuviere despatxado si no fu13. era por razon de la setgatia y ro14. pa que tengo entragado que es la15. que vino de Alger estamos aguar16. dando orden de Madrid para vender17. lo Ivissa y 7bra a los 10 de 166718. De Vsa. Su Major Servi19. dor q.s.m.b.20. Magin Ribes [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "81:8305.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo39/81:8305.JPG",
+      "url": "/legajos/legajo-39/images/81:8305.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "81:8305.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-39/cartas/005645.json",
+  "primary_image_url": "/legajos/legajo-39/images/81:8305.JPG"
+}

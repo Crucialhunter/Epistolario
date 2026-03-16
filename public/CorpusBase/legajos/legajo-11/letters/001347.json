@@ -1,0 +1,38 @@
+{
+  "legajo_id": "11",
+  "id_carta": "1347",
+  "order_in_legajo": 116,
+  "signatura": "194:5207.JPG",
+  "nombre_carta": "Carta de Mossèn Joan Anglès a Pedro Santacilia y Pax",
+  "fecha_original": "23 de septiembre de 1643",
+  "lugar": "Ibiza",
+  "remitente": "Mossèn Joan Anglès",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "En dies {ESP. atrás} responguí a una que he rebuda [?] el plec del capità Ferra Roig per cert haurà aplegat amb un salvament per haver-la donada a un gendre del patró maltès. El que amb esta suplico és que el que porten esta de Jaume Mato, nebot de Nostre Sr. Sebastia Martorell, amic li [?] han manat el qual està de favor i així no puc deixar de contar a v. s. mani a un dels seus criats acompanyi i es trobi en el tracte de comprar una tartana, que dit Jaume Mato volia posar en eixa terra, que corrent per mà de v. s. és cert farà negoci. Ja conec que som cansat, però com es negoci que un amic el demana és forçós i no puc fer altra cosa. Ací tenim moltes malalties que ens han deixat els soldats en casa. Tots {ESP. gosam} salut tal sia la de v. s. i de la senyora, qui Nostre. Sr. guardi molts anys, i Eivissa a 20 de setembre de 1643. Mossèn Joan Angles Sr. don Pedro Transcripción literal"
+  ],
+  "literal": [
+    "1. En dies atras respongui a una que hay rebuda 2. [^??^] lo plech del Capita Ferra Roig per sert au 3. ra aplegat ab en [^??Salva Suont??^] per averla donada 4. a un gendre del patro maltes. Lo que ab esta 5. soplico es que el que portan esta de Jaume Ma 6. to nebot de Mo. Sebastia Martorell arreglas mens 7. me han manat el qual esta de favor y axi no pug 8. dexar de contar a VSª mane a hu de sos criats 9. acompayne ys trobe en lo tracte de conprar uan 10. tartana que dit Jaume Masso volia posar en 11. exa [^??^] que corrent per ma de VSª es sert 12. fara negosi. Ja coneg que so causat pero con es 13. negosi que un amig lo demana es forsos y no 14. pug der altra cosa. Assi tenim moltes malalties 15. quens an dexat los soldats en casa tots gozam sa 16. lud [^??^] la de VSª y de la Siñora qui nostre 17. Sr. gde molts añys y Ivisa a 20 de setembre 18. de 1643 19. Mto. Joan Angles20. [^Sr. Don Pedro^] [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "194:5207.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo11/194:5207.JPG",
+      "url": "/legajos/legajo-11/images/194:5207.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "194:5207.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (2)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-11/cartas/001347.json",
+  "primary_image_url": "/legajos/legajo-11/images/194:5207.JPG"
+}

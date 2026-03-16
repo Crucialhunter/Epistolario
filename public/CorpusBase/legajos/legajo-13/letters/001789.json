@@ -1,0 +1,43 @@
+{
+  "legajo_id": "13",
+  "id_carta": "1789",
+  "order_in_legajo": 51,
+  "signatura": "095:2293a.JPG",
+  "nombre_carta": "Carta de Basilio de Castellví y Ponce a Pedro Santacilia y Pax",
+  "fecha_original": "14 de agosto de 1668",
+  "lugar": "Valencia",
+  "remitente": "Basilio de Castellví y Ponce",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Señor mío, hállome con dos cartas de v. s. sus fechas de primero y 8 del corriente. La de primero me faltó la estafeta pasada en ambas veo quedaba v. s. con la salud que le deseo noticia para mi de particular estimación y aprecio, sintiendo a este paso lo que v. s. me participa de la quiebra que padece el Sr. don Juan, ocasionada del flujo de sangre a las narices que ha obligado a sangrarle siete veces. Quiera Dios se corrija cuanto antes el achaque restituyéndole a muy perfecta salud como sus servidores deseamos en esta casa de v. s. quedan buenos Dña. Laura y Giuseppe, pero yo sumamente mal parado del achaque de la orina habiéndome puesto el otro día en manifiesto peligro de la vida. Hállome algo mejorado con dos sangrías que me han hecho, de cualquier manera me tiene v. s. a su [1§] servicio y obediencia y todos besamos a v. s. las manos con las del Sr. don Juan. No dudo habrá sentido el Sr. don Jorge de Castellvi el desastrado suceso del marques de Lacony, bien igual es el que le ha sobrevenido al de Camarasa habiéndole muerto tan desdichadamente como escriben. Lastimosa cosa es del modo que está aquel reino con tan continuados desastres, Dios lo remedie por su misericordia. Buena fortuna es que el Sr. don Juan no pase a Flandes según avisan, pues en la ocurrencia de los tiempos que alcanzamos solo iba a perder de su autoridad en esta jornada. Con ocasión de un bergantín que se partió ayer remito los pliegos que tenía acá para mi Sra. Dña. Leonor, v. s. sabe me tiene siempre a su servicio y así le suplico no me limite las ocasiones de él. Dios guarde a v. s. muchos años como deseo, Valencia y agosto a 14 de 1668. Besa a v. s. la mano su mayor servidor Don Basilio de Castellvi y Ponce Sr. don Pedro Santacilia y Pax. Valencia a 14. Agosto 1668. Respuesta 22 dicho, del gobernador Dr. Basilio Castellvi y Ponce [2§] Transcripción literal"
+  ],
+  "literal": [
+    "1. Señor mío; hallome con dos cartas de V.S. sus fe=2. char de primero y 8. del corriente la de po me3. falto la estafeta pasada en ambas veo queda= 4. va V.S. con la salud que le deseo notiçia para5. mi de particular estimaçion y apreçio sintiendo6. aeste paso lo que VS me participa de la quiebra que7. padeçe el Sr. Don Juan ocacionada del flujo de8. sangre a las narices que á obligado á sangrar9. le siete vezes quiera Dios se corrija cuanto10. antes el achaque restituyendole a muy perfeta11. salud como sus servidores deseamos enesta12. casa de VS quedan buenos Da Laura y Jusepe13. pero yo sumamente mal parado del achaque14. de la orina haviendome puesto esotro dia en 15. manifiesto peligro de la vida; hallome algo16. mejorado con dos sangrias que me han hecho17. de qualquier manera me tiene V.S. a su [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "095:2293a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo13/095:2293a.JPG",
+      "url": "/legajos/legajo-13/images/095:2293a.JPG"
+    },
+    {
+      "filename": "096:2293b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo13/096:2293b.JPG",
+      "url": "/legajos/legajo-13/images/096:2293b.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "095:2293a.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-13/cartas/001789.json",
+  "primary_image_url": "/legajos/legajo-13/images/095:2293a.JPG"
+}

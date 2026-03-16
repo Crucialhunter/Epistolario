@@ -1,0 +1,48 @@
+{
+  "legajo_id": "6",
+  "id_carta": "624",
+  "order_in_legajo": 122,
+  "signatura": "174-89aa",
+  "nombre_carta": "Carta de Tomás Mariano Quint Zaforteza a Cecilia Zaforteza y Sureda de Sant Martí",
+  "fecha_original": "20 de junio de 1770",
+  "lugar": "Madrid",
+  "remitente": "Tomás Mariano Quint Zaforteza",
+  "destinatario": "Cecilia Zaforteza y Sureda de Sant Martí",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Madrid i juny 20 de 1770. Tia Cecília, Esper esta la trobarà amb perfecta salut. Jo la {ESP. gos} bona, a Déu gràcies, amb tota la família pel que manarà. En esta cort no hi ha novetat alguna. Sols diuen que el rei ve el dia 27 i jo voldria que ja fos aquí per fer via d’entregar la carta i anar-me’n devers Malta a posar-me sa creu. Ahir vaig anar a visitar la duquessa de Sotomayor i a entregar-li la carta de recoman [a la izquierda, de arriba abajo]ació de sa il·lustríssima i em va fer molt bon humor, [En la otra página][1§] {ESP. La pluma es la que le escribe y quien la dicta es mi alma. Quien de corazon le estima ya sabe como se llama.} [2§] I em va dir que tots els dies que vulgui anar a casa se va que m’ho estimaria molt. I avui m’ha enviat un {ESP. recado} de benvinguda i jo estimaria més que fos de bon viatge. De part de tots rebrà moltes memòries i de mi les prendrà a son gust. Déu la guardi molts anys. Son nebot qui més l’estima, Tomàs Mariano Quint Zaforteza. Dirà a mon pare i a ma mare [a la derecha, de arriba abajo]que tenguin esta per pròpia. L’havia feta per posar en es correu de València i ara he mudat. Transcripción literal"
+  ],
+  "literal": [
+    "1. Madrid y Juñi 2. 20 de 1770 3. Tia Cecilia esper esta la trob- 4. era ab perfeta Salud jo la gos bo- 5. na á Deu gracias en tota la fa- 6. milia per lo que Manara En esta 7. cort no ei á novedad alguna sols 8. diuen que el Rey ve el dia 27 9. y jo voldria que ja fos aqui per 10. fer via de entregar la carta y ana- 11. rmen deves Malta á posarme se 12. Creu. 13. Air vatx anar á visi- 14. tar la Duquesa de Sotomaior y á 15. entregarli la Carta de Recomen- 16. [ A la izquierda, de arriba abajo ]17. dacio de Su Yma y em va fer molt bon humor [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "174-89aa.jpg",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo06/174-89aa.jpg",
+      "url": "/legajos/legajo-06/images/174-89aa.jpg"
+    },
+    {
+      "filename": "174-89ab.jpg",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo06/174-89ab.jpg",
+      "url": "/legajos/legajo-06/images/174-89ab.jpg"
+    },
+    {
+      "filename": "175-89b.jpg",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo06/175-89b.jpg",
+      "url": "/legajos/legajo-06/images/175-89b.jpg"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "174-89aa.jpg",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (2)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-06/cartas/000624.json",
+  "primary_image_url": "/legajos/legajo-06/images/174-89aa.jpg"
+}

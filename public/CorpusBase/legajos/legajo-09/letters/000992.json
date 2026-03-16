@@ -1,0 +1,48 @@
+{
+  "legajo_id": "9",
+  "id_carta": "992",
+  "order_in_legajo": 27,
+  "signatura": "025-14a",
+  "nombre_carta": "Carta de Francisco Pérez de Guzmán a Arnau de Santacilia",
+  "fecha_original": "29 de marzo de 1674",
+  "lugar": "Madrid",
+  "remitente": "Francisco Pérez de Guzmán",
+  "destinatario": "Arnau de Santacilia",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Amigo y señor mío, [En] cartas de Madrid veo como v. m. y el capitán Juan de Robles han ido a levantar a Málaga, con que teniendo yo ahí a mi padre y hermano no puedo excusar el ofrecerles se valgan de todo lo que pudieren servirles, con el seguro de que si no las fuerzas la voluntad la tendrán muy a su disposición. Mucho me hubiere holgado que v. m. me hubiese favorecido en dar a don Juan Bueno, vizcaíno, los 29 reales de a ocho que le supliqué, por lo que deseaba satisfacerle con puntualidad. La galantería con que me envió un real despacho, pero pues v. m. no lo hizo (como me avisan). Creo no los tendría, yo se los remito [en] este [1§] correo, y ahora suplique a v. m. se sirva de despachar aquellas pistolas, pues no sirviéndome a mí, me holgaría no me las volviese. Al señor Juan de Robles bese las manos y que sabe que me tiene a su obedíencia como v. m., a quien guarde Dios muchos años, como deseo. Castillo de Milán y marzo 28 de 1674. Si el amigo don Baltasar de Isto fuere desde Antequera a esa ciudad v. m. me haga gusto de darle muchos recados de mi parte y traten de traer buena y mucha gente, pues aquí también se hace para socorrer a Borgoña, aunque los esguízaros nos impiden el paso. Besa las manos de v. m. su mayor servidor,Don F. Perez de Guzman Don Arnau de Santacilia [2§] Amigo y señor mío, Después de cerrada esta recibo la de v. m. de 8 tan tarde que apenas puedo creer esta posdata; en ella veo como v. m. me hizo merced de pagar los 29 de a ocho a don Juan Bueno, de que le quedo con mucho agradecimiento y será mi puntualidad en la restitución en viéndonos correspondiente a su galantería, asegurándole que si no me llega a tiempo su aviso, ya tenía entregado el dinero a quien don Juan me había impuesto, que haré me lo vuelvan, admirándome que en carta de 7 me decía escribía don Juan no haber recibido este dinero. Vuelvo a encargar a v. m. el éxito de las pistolas de una o de otra manera. 29 marzo 1674. Sin que v. m. alegue lo que me dice de don Pedro hallo, pero si v. m. hallare quien compre las cañas solas o las llaves también las podrá despachar. Transcripción literal"
+  ],
+  "literal": [
+    "1. Amígo y sr mío y Cartas de Md Veo como 2. Vm. y EL Capn Juan de Robles An ydo 3. alevantar a Malaga, Conque tiniendo yo 4. ay a Mí Padre y hermo n opuedo Excu-5. sar el ofrezerles se Valgan detodo loque 6. pudíeren servírles con el seguro, deque 7. síno las fuerças, la Voluntad la ten8. dran muí asu dispusiçíon. 9. Mucho me hubíere olgado que Vm, me hu-10. bíese favorecido endar a D Ju bueno 11. Vizcaino, los 29 Reales de a ocho que 12. le Suppe, por lo que deseava satisfazerle 13. con puntualidad, lagalantería conque 14. me Imbio un Real despacho, pero pues 15. Vm. nolo hizo (Como mehavisan) Creo 16. nolos tendría, Yo selos Remito este [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "025-14a.jpg",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo09/025-14a.jpg",
+      "url": "/legajos/legajo-09/images/025-14a.jpg"
+    },
+    {
+      "filename": "026-14ba.jpg",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo09/026-14ba.jpg",
+      "url": "/legajos/legajo-09/images/026-14ba.jpg"
+    },
+    {
+      "filename": "026-14bb.jpg",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo09/026-14bb.jpg",
+      "url": "/legajos/legajo-09/images/026-14bb.jpg"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "025-14a.jpg",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (2)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-09/cartas/000992.json",
+  "primary_image_url": "/legajos/legajo-09/images/025-14a.jpg"
+}

@@ -1,0 +1,43 @@
+{
+  "legajo_id": "23",
+  "id_carta": "3865",
+  "order_in_legajo": 120,
+  "signatura": "209:3278a.JPG",
+  "nombre_carta": "Carta de Isabel de Salvá a Pedro Santacilia y Pax",
+  "fecha_original": "9 de febrero de 1660",
+  "lugar": "El Retiro (Madrid)",
+  "remitente": "Isabel de Salvá",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Señor mío, Mes y medio ha[ce] que salimos de Madrid para El Pardo y ahora estamos en El Retiro hasta la Cuaresma. Ese tiempo ha que no veo así al sr. don Juan, mas sé que está bueno, Dios lo guarde, porque yo envío a mi criado a saberlo, y me dice cómo está, de lo que yo me huelgo harto; y de que v. m. lo esté, también, porque le deseo la vida que pudiera a un hermano mío. Y le beso a v. m. las manos por la merced de los vestidos que es servido de enviarme, que ya me dice Pedro Juan están en su poder al fin. Al fin, sr. vm. (obra como Dios en dar çierto) por uno a quien no se lo ha servido. Las personas reales, Dios las guarde, están buenas, y el príncipe, famoso. Mi hermana está ya buena y también besa a v. m. las manos por su parte entrambas a esas mis señoras juntamente con las de v. m. , en cuya compañía me guarde Dios los muchos años que deseo y he menester, amén. Del buen retiro y febrero, 9 de 1660 años. Quien más lo quiere a v. m. y desea servir, doña Isabel de Salvà Señor don Pedro de Santacilia Transcripción literal"
+  ],
+  "literal": [
+    "1. Sr. mio mes i medio a que salimos de madrid2. para el pardo y aora estamos en el ratiro3. asta la cuaresma este tienpo a q no beo4. al Sr. don Juan mas: se qs ta bueno dios lo5. guarde por q io inbio a mi criado a sabe6. llo i me diçe como esta de lo q io me guelgo.7. arto i de q Vm lo este tanbien porq le de-8. seo la bida q pudiera a un ermano m-9. io i le beso a Vm las manos por la md10. de los bestidos qs serbido deinbiarme11. q ia me dize pº juan estan en su poder12. al fin Sr Vm o (bra como dios en dar çier- 13. to) poruno a quien no se lo aserbido14. las personas reales dios las guarde15. estan buenas i el prinçipe famoso16. mi ermana esta ia buena i tanbien bes17. a a Vm las manos por su parte hentran18. bas asas mis Sras. juntamente con las [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "209:3278a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo23/209:3278a.JPG",
+      "url": "/legajos/legajo-23/images/209:3278a.JPG"
+    },
+    {
+      "filename": "210:3278b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo23/210:3278b.JPG",
+      "url": "/legajos/legajo-23/images/210:3278b.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "209:3278a.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-23/cartas/003865.json",
+  "primary_image_url": "/legajos/legajo-23/images/209:3278a.JPG"
+}

@@ -1,0 +1,45 @@
+{
+  "legajo_id": "26",
+  "id_carta": "4351",
+  "order_in_legajo": 86,
+  "signatura": "123:3445.JPG",
+  "nombre_carta": "Carta de Diego de Real a Pedro Santacilia y Pax",
+  "fecha_original": "21 de diciembre de 1639",
+  "lugar": "Pamplona",
+  "remitente": "Diego de Real",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Sr. mío Señor mío anoche habiendo venido de fuera de una jornada hallé en casa un pliego de v. m. y dentro venía otro para el recibidor de Barcelona. Yo la encaminaré mañana con todo cuidado los informes tengo cerrados si v. m. gusta se lo remita lo haré con mucho gusto, pues sabe que en todo lo que fuere de su servicio estaré muy [?] prontísimo a obedecer sus mandatos. Guarde Dios a v. m. muchos años. Pamplona y diciembre 21 de 1639. De v. m. siempre Don Diego de Real Transcripción literal"
+  ],
+  "literal": [
+    "1. Sr. mio2. Señor mio anoge haviendo benido de3. fuera de una jornada alle en cassa un pliego4. de Vm. y dentro benia otro pa el Rezevidor5. de Barçelona yo la encaminare mañana6. con todo cuidado las ymformes tengo zerradas7. si Vm gusta se la remita lo hare con8. mugo gusto pues save que en todo lo q9. fuere de su servii estare mui [?]10. prontissimo a obedeçer sus mandatos gde.11. Dios a Vm ms años Pampna y dezieme12. 21 de 163913. De Vm. siempre 14. Don Diego de Real [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "123:3445.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo26/123:3445.JPG",
+      "url": "/legajos/legajo-26/images/123:3445.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "123:3445.JPG",
+  "warnings": [
+    {
+      "code": "IMAGE_DOWNLOAD_FAIL",
+      "message": "HTTP 404",
+      "context": {
+        "url": "http://santacilia.info/intranet2/img/Legajo26/123:3445.JPG"
+      }
+    },
+    {
+      "code": "IMAGE_COUNT_MISMATCH",
+      "message": "Imágenes detectadas (1) != descargadas (0)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-26/cartas/004351.json",
+  "primary_image_url": "/legajos/legajo-26/images/123:3445.JPG"
+}

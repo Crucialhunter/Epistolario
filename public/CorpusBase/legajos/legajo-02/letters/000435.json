@@ -1,0 +1,32 @@
+{
+  "legajo_id": "2",
+  "id_carta": "435",
+  "order_in_legajo": 26,
+  "signatura": "54-24",
+  "nombre_carta": "Carta de Persona desconocida a Persona desconocida",
+  "fecha_original": "13 de marzo de 1718",
+  "lugar": "Mallorca",
+  "remitente": "Persona desconocida",
+  "destinatario": "Persona desconocida",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Señor mío. (^Remito a vuestra merced cuatro) capones llenos de pastas que encima tienen el nombre del doctor Juan Garcías, de Roma, presbítero, su correspondiente, y me favorecerá enviárselos con la embarcación le parecerá para llegar dentro Roma, y los recibirá con el pingüe San José y patrón Antonio Palau y pagará los fletes y los pondrá a cuenta de Gabriel Aguiló, que creo que ya se lo escribirá. Y en todo lo de su gusto no excuse el mandarme, que estoy pronto, cuya vida guarde Dios muchos años. Mallorca y marzo, 13 de 1718. Transcripción literal"
+  ],
+  "literal": [
+    "1. Sr<eño>r mio. 2. (^Remito a Vmd. quatro) capones [^llenos de pastas] (^que) que 3. encima tienen el nombre del Dr. J[u]an 4. Garcias de Roma presbitero su correspondiente 5. y me favorecera embiarselos con la embarca= 6. cion le parecera para llegar dentro Roma y 7. los recibira con el Pingue San Josep y Patron 8. Antonio Palau y (^en todo lo de) pagara los fletes, y 9. los pondra á quenta de Gabriel Aguilo que creo q< ue> 10. ja se lo escrivira y en todo lo de su gusto no escuse 11. el mandar me que estoy pro< n>pto. cuya vida G< uar>de 12. Dios M< ucho>s A< ño>s Mall< or>ca y Março 13 de 1718. [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "54-24.jpg",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo02/54-24.jpg",
+      "url": "/legajos/legajo-02/images/54-24.jpg"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "54-24.jpg",
+  "warnings": [],
+  "raw_source": "raw/legajos/legajo-02/cartas/000435.json",
+  "primary_image_url": "/legajos/legajo-02/images/54-24.jpg"
+}

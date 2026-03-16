@@ -1,0 +1,38 @@
+{
+  "legajo_id": "6",
+  "id_carta": "652",
+  "order_in_legajo": 151,
+  "signatura": "228-117",
+  "nombre_carta": "Carta de Luis Vives a Cecilia Zaforteza y Sureda de Sant Martí",
+  "fecha_original": "22 de julio de 1772",
+  "lugar": "Palma",
+  "remitente": "Luis Vives",
+  "destinatario": "Cecilia Zaforteza y Sureda de Sant Martí",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Palma, Sn. Francisco, 22 julio de 72. Mi Sra. Dña. Cecilia, El motivo de no haber yo pasado a besar las manos a v. s. fue haber caído enfermo al salir de la visita de Alcudia y tener precisión de volverme a Palma. Lo de Ángela lo he hallado como lo dejé, y aunque recibí carta en que me decía adelantarse el negocio para con sus parientes, al otro día recibí otra en que me decía lo suspendiese, y así queda en el mismo que antes. v. s. mande a quien desea complacerla y darle gusto en todo mientras ruega a Dios la mantenga en su gracia y santo amor. Fr. Luis Vives, Provincial de Sn. Francisco. Transcripción literal"
+  ],
+  "literal": [
+    "1. Palma Sn. Francisco 22 julio de 72 2. Mi Sra. Da. Cecilia . El motivo de no haber yo passado á besar las 3. manos a V.S. fue haver caido enfermo al salir de la visita de Alcudia y 4. tener precision de bolverme á Palma. Lo de Angela lo he hallado como 5. lo dexé, y ahunque recivi carta en que me decia adelantarse el negocio para 6. con sus Parientes, al otro dia recivi otra en que me decia lo suspendiesse, y 7. assi queda en el mismo que antes V.S. mande a quien decea complacerla 8. y darle gusto en todo mientras ruega a Dios la mantenga en su gracia 9. y sto Amor 10. Fr. Luis Vives 11. Provincial de Sn. Franco [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "228-117.jpg",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo06/228-117.jpg",
+      "url": "/legajos/legajo-06/images/228-117.jpg"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "228-117.jpg",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-06/cartas/000652.json",
+  "primary_image_url": "/legajos/legajo-06/images/228-117.jpg"
+}

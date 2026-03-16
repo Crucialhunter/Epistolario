@@ -1,0 +1,38 @@
+{
+  "legajo_id": "24",
+  "id_carta": "4028",
+  "order_in_legajo": 79,
+  "signatura": "105:4081.JPG",
+  "nombre_carta": "Carta de Rafael Vives García a Pedro Santacilia y Pax",
+  "fecha_original": "29 de septiembre de 1642",
+  "lugar": "Maó",
+  "remitente": "Rafael Vives García",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Mándome mi Sr. el inquisidor que se enviase seis burras y escríbeme admirado de que no le haya obedecido hasta hoy. Y supuesto que le tengo suplicado a v. s. siempre para ello y no ha habido ocasión de embarcación no tengo la culpa que me Dña. La que va con esta es en respuesta de la que v. s. me mandó a quien suplicado que llegue a sus manos, porque cuando llegue el ganado pueda el patrón desembarcarle en cala Manacor porque me escribe que trata de irse a Valencia y a Madrid procuraré alcanzarle para la embarcación y acompañarle en el viaje y así suplico a v. s. que me mande en que le sirva y que por ausente no me olvide. Mi madre quedará muy desconsolada y mi reputación no da lugar a su gusto. V. s. se sirva de la casa que todavía queda Jaimico en ella, que asistiré a mis obligaciones y Dios a v. s. me guarde y deje ver con la salud que me deseo. Mahón y septiembre a 29 de 1642. El Dr. Rafael Vives y Garcia Sr. gobernador Transcripción literal"
+  ],
+  "literal": [
+    "1. Mandome mi Sr. El Inqor que se Imbiasse seys burras2. y escrive me admirado, de que no le haya obedescido hasta3. oy; y suppuesto q le tengo suppdo a V.S. [?] para4. ello y no havido occasion de embarcaçion no tengo la5. culpa que meda; la que va con esta es en respuesta6. de la que V.S. me mando aqui en suppdo que llegue a sus7. manos; porq quando llegue el ganado pueda el 8. patrón desembarcarle en Cala Manacor-9. Porq me escrive q trata de hirse a Vala y a madrid10. procurare alcansalle para la embarcaçion y acompa11. nyarle en el viaje y assy supp[li]co a V.S. que me man=12. de en q le sirba y que por ausente no me olvide13. mi madre quedará muy desconsolada y mi Reputaçion14. no da lugar, á su gusto. VS se sirba de la casa que15. toda via queda Jaymico enella, que assistira16. a mis obligaciones y dios a V.S. me gde y dexe ver17. con la salud que me deseo Mahon y settbre a 29.18. de 164219. El dr. Rafael Vives y Garçia20. Sr. Gdor [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "105:4081.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo24/105:4081.JPG",
+      "url": "/legajos/legajo-24/images/105:4081.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "105:4081.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-24/cartas/004028.json",
+  "primary_image_url": "/legajos/legajo-24/images/105:4081.JPG"
+}

@@ -1,0 +1,47 @@
+{
+  "legajo_id": "37",
+  "id_carta": "5445",
+  "order_in_legajo": 45,
+  "signatura": "048:29a",
+  "nombre_carta": "Carta de Pere Jordi Calafell a Persona desconocida",
+  "fecha_original": "18 de febrero de 1677",
+  "lugar": "Lugar sin especificar",
+  "remitente": "Pere Jordi Calafell",
+  "destinatario": "Persona desconocida",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Comptes que duen per títol: a 18 feb. 1677 compta del ortola de Son Pax Pere Jordi Calafell [1§] Transcripción literal"
+  ],
+  "literal": [
+    "1. Comptes que duen per títol: A 18 feb. 1677 compta del ortola de Son Pax Pere Jordi Calafell"
+  ],
+  "imagenes": [
+    {
+      "filename": "048:29a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo37/048:29a.JPG",
+      "url": "/legajos/legajo-37/images/048:29a.JPG"
+    },
+    {
+      "filename": "049:29b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo37/049:29b.JPG",
+      "url": "/legajos/legajo-37/images/049:29b.JPG"
+    },
+    {
+      "filename": "050:29c.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo37/050:29c.JPG",
+      "url": "/legajos/legajo-37/images/050:29c.JPG"
+    },
+    {
+      "filename": "051:29d.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo37/051:29d.JPG",
+      "url": "/legajos/legajo-37/images/051:29d.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "048:29a.JPG",
+  "warnings": [],
+  "raw_source": "raw/legajos/legajo-37/cartas/005445.json",
+  "primary_image_url": "/legajos/legajo-37/images/048:29a.JPG"
+}

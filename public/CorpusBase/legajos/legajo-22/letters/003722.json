@@ -1,0 +1,53 @@
+{
+  "legajo_id": "22",
+  "id_carta": "3722",
+  "order_in_legajo": 78,
+  "signatura": "187:5091a.JPG",
+  "nombre_carta": "Carta de Miguel de Salvá y de Vallgornera a Pedro Santacilia y Pax",
+  "fecha_original": "8 de octubre de 1645",
+  "lugar": "Madrid",
+  "remitente": "Miguel de Salvá y de Vallgornera",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Señor mío. Su carta de v. m. de 21 de agosto acabo de recibir con todo alborozo y gusto con las noticias que v. m. me da de su salud y de la mejoría del Sr. don Juan porque aseguro a v. m. me tenía con notable cuidado mayormente considerando a v. m. en esta aflicción. Yo quedo muy alegre de que v. m. se halla fuera de ella con los informes de tan buenos doctores no hay sino tratar de despachar luego que ya es mucha la ausencia y me hace grande soledad y no quiero que esté v. m. también entretenido en esa casa que de verdad tengo celos y particularmente del duque de Cardona. Buenos ratos debe v. m. tener con [?] le tengo, pero después que v. m. venga me la tendrán a mí. [1§] mucho ruido habrán hecho en esa corte los fracasos de Cerdeña y saltaran muchas estilas cuando hay partes tan fuertes. Bueno es estar aislado que mirar estas cosas de leches [?] muy acertada ilusión se ha hecho para aquellos cargos en el duque de Saint Germain que con su prudencia aquietará aquel reino y me parece que tarde mucho en pasar, y no lo tengo por (acertado) conveniente la dilación. Yo me hallo muy bien con mi mallorquines y así que aspiro más que acertar y a donde v. m. se hallaba muy segura tendría las espaldas y mi afecto merece muy bien toda la merced que v. m. me hace pues le quiero y amo con tantas veras quedando siempre muy dispuesto para cuanto fuere de sus servicios y Dios a v. m. muchos años. Mallorca 8 de octubre de 1668. Sr. mío, acabe y véngase por acá que hace buen tiempo y hemos arrendado al [?] Patrimonio que habrá dinero, muy bien creo que me habrá honrado el duque de Medina que no es la primera vez Sr. don Pedro Santacilia y Pax [2§] que lo ha hecho sin merecerlo por muchas circunstancias Dios le dé vida que es lo que yo deseo. Si v. m. hallare ocasión dígale que han llegado sus libranzas que se pagarán que ya es pundonor mío que logre su excelencia lo que yo procure diligenciar en mi cónclave defendiendo la justicia de su excelencia y que en cualquiera parte estoy a sus pies muy seguro servidor de v. m. que sus manos besa. Don Miguel de Salva y de Vallgornera [3§] Número 5. Miguel Salva de Vallgornera Madrid 8 Octubre 1645 Transcripción literal"
+  ],
+  "literal": [
+    "1. Señor mío Su Carta de Vm. de 21 de2. Agosto acavo de recivir con todo Alvorozo3. y gusto con las noticias q Vm. me da de4. su salud y de la mejoria del sr. Don5. Juan por que assegura a Vm. me tenía6. con notable cuydado mayormente7. considerando a Vm. en esta aflición yo8. quedo muy alegre de que Vm. se halla9. fuera della con los Informes de tan10. buenos Doctores no hay sino tratar de11. despachar luego que ya es mucha la ausen12. çia y me hace ? grande soledad13. y no quiero que este Vm. también entre14. tenido en essa Cassa que de Verdad tengo15. çelos y particularmente del sr. Duque de16. Cardona buenos ratos deve Vm. tener17. con ??????????? le tengo pero des18. pues que Vm. venga me la tendran19. a mí. [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "187:5091a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo22/187:5091a.JPG",
+      "url": "/legajos/legajo-22/images/187:5091a.JPG"
+    },
+    {
+      "filename": "188:5091b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo22/188:5091b.JPG",
+      "url": "/legajos/legajo-22/images/188:5091b.JPG"
+    },
+    {
+      "filename": "189:5091c.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo22/189:5091c.JPG",
+      "url": "/legajos/legajo-22/images/189:5091c.JPG"
+    },
+    {
+      "filename": "190:5091d.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo22/190:5091d.JPG",
+      "url": "/legajos/legajo-22/images/190:5091d.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "187:5091a.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (2)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-22/cartas/003722.json",
+  "primary_image_url": "/legajos/legajo-22/images/187:5091a.JPG"
+}

@@ -1,0 +1,38 @@
+{
+  "legajo_id": "34",
+  "id_carta": "5102",
+  "order_in_legajo": 1,
+  "signatura": "200:7017.JPG",
+  "nombre_carta": "Carta de Joan Borràs a Pedro Santacilia y Pax",
+  "fecha_original": "de diciembre de",
+  "lugar": "Palermo",
+  "remitente": "Joan Borràs",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "La de v. s. he rebuda dels 12 de març i veig la mercè [que] me fa en honrar-me com un d'esos servidors. He feta la diligència de parlar a aqueixa Pª Mongue i m'ha dit que farà que em donen tots els papers i que em faci venir, procura sia v. s. li apar enviar-me, procura amb clausa que la pugui substituir perquè jo no sé el temps que m'entretindré en Palerm. Si acàs estic molts temps serviré a v. s. i, si no, se substituirà a qui dirà la Sra. baronesa i amb tot el que v. m. voldrà manar-me trobarà sempre prompte, a qui Nostre Senyor molts anys com jo desitja. De Palermo a 25 de mayo de 1657 De v. s.Capellán Joan Borras Sr. D. Pedro Santacilia i Pax Transcripción literal"
+  ],
+  "literal": [
+    "1. La de vs. he Rebuda dels 12 de Mars y Veig la md2. me fa en onrarme com un desos servidos he feta,3. la diligençia de Parlar a aquexa Pª Mongue y mea dit4. que fara quem donen tots los papersy quem fase5. Venir procura sia VS. li apar enviarme procura6. ab clausa de que la puga sustituir p que jo no se7. el temps que me entretinde en Palerm si acas estic8. molts temps servire a VS. y sino se [sestituira]9. aqui dira la sra Baroneza y ab tot lo que Ve me10. voldra manar me trobara sempre promte aqui11. n[ ] molts ains com jo desitge de Palermo12. a 25 de Maÿo de 165713. de Vs.14. Capellan15. Joan Borras16. [26, extrem esquerre] Sr. D. Po santaCilia y Pax [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "200:7017.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo34/200:7017.JPG",
+      "url": "/legajos/legajo-34/images/200:7017.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "200:7017.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-34/cartas/005102.json",
+  "primary_image_url": "/legajos/legajo-34/images/200:7017.JPG"
+}

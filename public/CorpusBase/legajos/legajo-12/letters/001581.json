@@ -1,0 +1,37 @@
+{
+  "legajo_id": "12",
+  "id_carta": "1581",
+  "order_in_legajo": 88,
+  "signatura": "115_6172a.JPG",
+  "nombre_carta": "Carta de Pedro Santacilia y Pax a Joan Baptista Carbonell",
+  "fecha_original": "14 de diciembre de 1642",
+  "lugar": "Maó",
+  "remitente": "Pedro Santacilia y Pax",
+  "destinatario": "Joan Baptista Carbonell",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Amb el Jacinto Cardona haurà rebudes cartes mies v. m. i l'ordre d'entregar-se del blat i procura de [?] de naus no dubti que el blat serà bo i que és podrà vendre a bon preu, ni tampoc dubti que havent donada França ací ACABAR-LA [1§] Transcripción literal"
+  ],
+  "literal": [
+    "1. Ab lo jasinto Cardona aura rabudas2. cartas mias Vm y la orde de entregarse3. del blat y procura de [?] de naus4. no dupta que lo blat sera bo y ques5. podra vendra a bon preu ni tanpoch6. dupta que avent donada fransa asi 7. ACABAR-LA [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "115_6172a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo12/115_6172a.JPG",
+      "url": "/legajos/legajo-12/images/115_6172a.JPG"
+    },
+    {
+      "filename": "116_6172b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo12/116_6172b.JPG",
+      "url": "/legajos/legajo-12/images/116_6172b.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "115_6172a.JPG",
+  "warnings": [],
+  "raw_source": "raw/legajos/legajo-12/cartas/001581.json",
+  "primary_image_url": "/legajos/legajo-12/images/115_6172a.JPG"
+}

@@ -1,0 +1,43 @@
+{
+  "legajo_id": "17",
+  "id_carta": "2787",
+  "order_in_legajo": 53,
+  "signatura": "082:1329a.JPG",
+  "nombre_carta": "Carta de Diego Matías de Aragüés a Pedro Santacilia y Pax",
+  "fecha_original": "19 de junio de 1658",
+  "lugar": "Madrid",
+  "remitente": "Diego Matías de Aragüés",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "El último pliego que he recibido de v. m. ha sido el que trajo el general Custodio, e después de este he recibido los demás y respondido a ellos que habrá recibido v. m. y ahora no se me ofrece decir otro sino que en este día se despacha la suspensión de Armella para que se le notifique que hasta ahora he procurado ampararlo. v. m. haga que abrevie esos pleitos y procurar allá que antes que se suspendan despache el pleito, el de la Inquisición se hubiera dicho sino por no haber hallado el memorial en [?] y como con está en el proceso que se hizo en el año de 34 y haber pasado tanto tiempo no se puede descubrir quien le tenga, con que es forzoso el relator haga otro. De todo hasta ahora, estimo no es excusable poder pasar por otro camino está ya trabajando en ello, y me ha ofrecido no lo dejará de la mano, en lo del hábito no hay novedad, sino las esperanzas que da el Sr. don Luis, y yo el continuar en hablarle, [1§] Mande v. m. dar esa carta a don Antonio Puigdorfila que le importa, y esa otra al Dr. Armella. El príncipe está mejor de su paperilla. El portugués está a la vista de Badajoz con doce mil infantes y más de dos mil caballos, está batiendo un fuerte fuera de la ciudad pasado serio. Dios nos dé buen suceso y a v. m. guarde como deseo. Madrid a 19 Junio 1658. A mi sobrino no se me ofrece que decir ahora,. Besa la mano de v. m. su mayor servidor Diego Matias de Aragues Sr. don Pedro Santacilia y Pax. [2§] Transcripción literal"
+  ],
+  "literal": [
+    "1. el ultimo pliego q he rsivido de Vm. ha 2. sido el q traxo el pe[?] Custodio, en despues3. deste herecivido los demas y respondido4. aellos: q habra recivido Vm. y agora5. no semoffreze decir otro sino qen6. este dia se despacha la suspension7. de Armella pa q se le notifique, q8. hastaagora he procurado hamprarlo9. Vm. haga q abrevie essos pleytos y10. procurar alla q antes q se suspendan11. despache el pleyto,12. el de la Inqon se hubiera dicho13. sino por no haver hallado el meml14. en sitiho? y como con esta enel processo15. q se hizo en el año de 34 y haver16. passado tanto tpo no se puede 17. descubrir quien le tenga, con q es18. forzosso el Relator haga otro,19. de todo hasta agora, estimo no20. es escussable poder passar por otro21. camino esta ya trabaxando enello,22. y me ha offrecido no lo dexara de la 23. mano, en lo del havito no ay24. novedad, sino las esperanzas q da el Sr.25. don Luys, y jo el continuar en hablarle, [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "082:1329a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo17/082:1329a.JPG",
+      "url": "/legajos/legajo-17/images/082:1329a.JPG"
+    },
+    {
+      "filename": "083:1329b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo17/083:1329b.JPG",
+      "url": "/legajos/legajo-17/images/083:1329b.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "082:1329a.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (3)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-17/cartas/002787.json",
+  "primary_image_url": "/legajos/legajo-17/images/082:1329a.JPG"
+}

@@ -1,0 +1,43 @@
+{
+  "legajo_id": "14",
+  "id_carta": "2096",
+  "order_in_legajo": 198,
+  "signatura": "324:2606a.JPG",
+  "nombre_carta": "Carta de Basilio de Castellví y Ponce a Pedro Santacilia y Pax",
+  "fecha_original": "20 de septiembre de 1667",
+  "lugar": "Valencia",
+  "remitente": "Basilio de Castellví y Ponce",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Señor mío, aunque tengo escrito a v. s. con este pasaje habiendo tenido después dos cartas de v. s. de 9 y 12 del corriente, lo vuelvo a repetir para decir a v. s. con el gusto que me dejan las noticias que me traen de su salud de v. s., de la de mi sra. dña. Leonor y el sr. don Juan, cuyas manos besamos con las de v. s. dña. Laura, Juseppe y yo, que todos al servicio de v. s. quedamos buenos con mucho alborozo. Doy a v. s. la enhorabuena de estar ahí y al sr. don Miguel Salva y haber jurado esos cargos. Yo he celebrado esta noticia con la demostración que corresponde a nuestra amistad. Tengo por muy cierto que su señoría ha de estar muy bien hallado y que ese reino ha de experimentar un gran gobierno con que todos estarán muy gustosos. Muy mal negocio ha sido el detenerse el sr. don Rodrigo de Borja con orden del consejo, caso es sin ejemplar y careado con el pretexto de mayores circunstancias. Holgareme salga su señoría de este lance muy gustoso [1§] y airoso, y siento, como es justo, tenga ocasión de tanto disgusto. Muy desdichado suceso ha sido la muerte de mi sra. la condesa de Zavella, estando tan en visperas de embarcarse. Luego envié la carta a mi sra. la condesa de Albatera, que está en Betera y aún han dicho está con poca salud. Las novedades de Flandes verá v. s. por las gacetas inclusas y ha sido muy feliz suceso el que han tenido nras. armadas [?] y no se puede dudar que si el [III] marques de Castelrodrigo hubiera tenido las [?] que tiene pedidas tanto tiempo hubiera obrado grandes cosas. En la estafeta pasada avisan que acabado este lance, el enemigo se puso sobre si la plaza de harta consecuencia y quieren decir se la ha llevado. Si fuere cierto será aguar el gusto del aviso pasado. Dios nos asista como hemos menester y guarde a v. s. muchos años. Valencia y septiembre a 20 de 1661. V. s. me diga como le va con el obispo, que conmigo resueltamente se ha declarado con el Sr. cardenal Moncada, que no me quiere pagar. Besa a v. s. su mano su mayor servidor, Don Basilio de Castellvi y Ponce Sr. don Pedro Santacilia y Pax. Transcripción literal"
+  ],
+  "literal": [
+    "1. Señor mio aunque tengo escrito a V.S. con este pasaje havien=2. do tenido despues dos cartas de V.S. de 9 y 12 del corrien=3. te lo buelvo á repetir para deçir a V.S. con el gusto que4. me dejan las noticias que me trahen de su salud de V.S.5. de la de mi Sra. Da. Leonor y el Sr. Don Juan cuyas manos6. besamos con las de VS. Da. Laura Jusepe y yo que todos7. al servicio de VS. quedamos buenos=8. Con mucho alboroço doy a V.S. la norabuena de estar9. y ay el Sr. Don Miguel Salva y haver Jurado essos10. cargos yo he çelebrado esta notiçia con la demostraçion11. que corresponde á nra. Amistad tengo por muy çierto12. que su Sria. ha de estar muy bien hallado y que esse13. reyno á de experimentar un gran govierno con que14. todos estaran muy gustosos=15. Muy mal negoçio á sido el detenerse el Sr. Don Rodri=16. go de Borja con horden del Consso casso es son exemplo17. y careado con el pretexto de mayores circunstancias18. olgareme salga su Sria. de este lançe muy gustosso. [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "324:2606a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo14/324:2606a.JPG",
+      "url": "/legajos/legajo-14/images/324:2606a.JPG"
+    },
+    {
+      "filename": "325:2606b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo14/325:2606b.JPG",
+      "url": "/legajos/legajo-14/images/325:2606b.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "324:2606a.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-14/cartas/002096.json",
+  "primary_image_url": "/legajos/legajo-14/images/324:2606a.JPG"
+}

@@ -1,0 +1,43 @@
+{
+  "legajo_id": "10",
+  "id_carta": "1221",
+  "order_in_legajo": 89,
+  "signatura": "156-388a",
+  "nombre_carta": "Carta de Pedro Aiza y Doménech a Jerónimo Pelegrín de Aragüés",
+  "fecha_original": "2 de noviembre de 1668",
+  "lugar": "Ibiza",
+  "remitente": "Pedro Aiza y Doménech",
+  "destinatario": "Jerónimo Pelegrín de Aragüés",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Amigo y señor mío, Esta halle a v. m. con la salud que yo deseo para mí. Yo la tengo, a Dios gracias, para lo que v. m. me quisiere mandar. Y en días pasados escribí a v. m.; creo se habrá allegado a sus manos y puede creer que tengo deseo de ir a esa ciudad solo por ver a v. m. Y si acaso se le ofrece algo en que pueda servirle, no tiene más que mandarme, que siempre estoy a sus órdenes. Ahí va un ayudante de artillería, que es el portador de esta, de mi compañía. Si acaso se le ofreciere al[go], lo estimaré como siempre y confiado. Dios me lo guarde largos años. Ibiza y noviembre, 2 de 1668. De v. m. que sus manos besa, Pedro Aiza y Domenech Señor Jeronimo Pelegrin de Aragues [1§] A Jeronimo Pelegri y de Aragues, que Dios guarde muchos años. Mallorca. Transcripción literal"
+  ],
+  "literal": [
+    "1. Amigo y Sr. mio esta alle a V.M. con 2. la salut que yo de seo para mi 3. yo la tengo a dios grasias para 4. lo que V.M. me quisiere mandar 5. y en dias pasados escrhivi a V.M. 6. creo se abra allegado a sus manos 7. y puede crerer que tengo deseo de ir 8. a esa siudad solo por ber a V.M. 9. y sia caso se le ofrese algo en que 10. pueda servirle no tiene mas que 11. mandarme que siempre estoi 12. a sus ordenes ai va un ayudante 13. de artilero [^que es el portador de esta^] de mi coma sia caso se le ofesiere a los timare [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "156-388a.jpg",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo10/156-388a.jpg",
+      "url": "/legajos/legajo-10/images/156-388a.jpg"
+    },
+    {
+      "filename": "157-388b.jpg",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo10/157-388b.jpg",
+      "url": "/legajos/legajo-10/images/157-388b.jpg"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "156-388a.jpg",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING",
+      "message": "Se detectaron caracteres sospechosos de encoding (5)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-10/cartas/001221.json",
+  "primary_image_url": "/legajos/legajo-10/images/156-388a.jpg"
+}

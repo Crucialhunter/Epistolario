@@ -1,0 +1,38 @@
+{
+  "legajo_id": "8",
+  "id_carta": "850",
+  "order_in_legajo": 135,
+  "signatura": "054-43 copia",
+  "nombre_carta": "Carta de Gabriel Seguí a Persona desconocida",
+  "fecha_original": "19 de marzo de 1645",
+  "lugar": "Maó",
+  "remitente": "Gabriel Seguí",
+  "destinatario": "Persona desconocida",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "És arribat Nicolau Marsal de Mallorca amb la seva tartana que havien presa aperi s'han donat les que van junt amb aquesta i a v. s. no conta cosa de nou que convinga avisar. La bussa d'estes galeres va sempre creixent que l'auxili de v. s. seria necessari fer-se amb el que puc acontentar a estos senyors que sempre neixen de nous que sigui cortesia. Guardi Déu a v. s. De Maó i març, a 19 de 1645. Gabriel Seguí Senyor governador Transcripción literal"
+  ],
+  "literal": [
+    "1. Es arribat Nicolau Marsal de Mallorca 2. ablasua Tartaria q havian pressa aperis 3. ham donat las qui van junt abesta y a VSª. 4. no conta cosa de nou. deq convinga avisar 5. la Bulla destas galeras va sempra crexent 6. q lo auxili deVSª seria necessari fasta b 7. loq pars. acontentar a estos señors quesempre 8. ne Yxan de nous quisea cortesia g< > deu 9. avsª de Maho y Mars a 19 de 1645 10. Gabriel Sagui 11. Señor g< > [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "054-43 copia.jpg",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo08/054-43 copia.jpg",
+      "url": "/legajos/legajo-08/images/054-43 copia.jpg"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "054-43 copia.jpg",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-08/cartas/000850.json",
+  "primary_image_url": "/legajos/legajo-08/images/054-43 copia.jpg"
+}

@@ -1,0 +1,73 @@
+{
+  "legajo_id": "41",
+  "id_carta": "7518",
+  "order_in_legajo": 102,
+  "signatura": "339:144a",
+  "nombre_carta": "Carta de Persona desconocida a Persona desconocida",
+  "fecha_original": "4 de junio de 1627",
+  "lugar": "Mallorca",
+  "remitente": "Persona desconocida",
+  "destinatario": "Persona desconocida",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Â [1§] Â [2§] Â [3§] Â [4§] Â [5§] Â [6§] Â [7§] Â [8§] Transcripción literal"
+  ],
+  "literal": [
+    "1. 1. 1. 1. 1. 1. 1. 1."
+  ],
+  "imagenes": [
+    {
+      "filename": "339:144a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo41/339:144a.JPG",
+      "url": "/legajos/legajo-41/images/339:144a.JPG"
+    },
+    {
+      "filename": "340:144b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo41/340:144b.JPG",
+      "url": "/legajos/legajo-41/images/340:144b.JPG"
+    },
+    {
+      "filename": "341:144c.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo41/341:144c.JPG",
+      "url": "/legajos/legajo-41/images/341:144c.JPG"
+    },
+    {
+      "filename": "342:144d.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo41/342:144d.JPG",
+      "url": "/legajos/legajo-41/images/342:144d.JPG"
+    },
+    {
+      "filename": "343:144e.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo41/343:144e.JPG",
+      "url": "/legajos/legajo-41/images/343:144e.JPG"
+    },
+    {
+      "filename": "345:144f.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo41/345:144f.JPG",
+      "url": "/legajos/legajo-41/images/345:144f.JPG"
+    },
+    {
+      "filename": "346:144g.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo41/346:144g.JPG",
+      "url": "/legajos/legajo-41/images/346:144g.JPG"
+    },
+    {
+      "filename": "346:144h.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo41/346:144h.JPG",
+      "url": "/legajos/legajo-41/images/346:144h.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "339:144a.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (24)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-41/cartas/007518.json",
+  "primary_image_url": "/legajos/legajo-41/images/339:144a.JPG"
+}

@@ -1,0 +1,45 @@
+{
+  "legajo_id": "26",
+  "id_carta": "4350",
+  "order_in_legajo": 87,
+  "signatura": "122:3444.JPG",
+  "nombre_carta": "Carta de Juan Vivot a Pedro Santacilia y Pax",
+  "fecha_original": "24 de diciembre de 1639",
+  "lugar": "Lumbier",
+  "remitente": "Juan Vivot",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Señor, como pobre capitán suplico a v. m. goce esta media docena de capones estas fiestas con el gusto que deseo. Si acaso don Feliciano o el ayudante llegaban esta noche me hará mucha merced enviarme ese soldado para que me holgaré mucho tenga v. m. la licencia que desea. Mañana acudiré a mi obligación a besar las manos a su merced, a quien guarde Nro. Sr. De Lumbier y diciembre a 24 de 1639. Juan Vivot Sr. gobernador, d. Pedro Santacilia y Pax Transcripción literal"
+  ],
+  "literal": [
+    "1. Señor como pobre capitan suplico a Vm goçe2. esta media doçena de capones estas fiestas3. con el gusto que deseo Si acasso Don Feliçiano4. o el ayudante llegaban esta noche me ara mu5. cha mrd. Embiarme ese soldado para que me6. olgare mucho tenga Vm la liçençia que de7. sea mañana acudire a mi obligaçion a besar8. las manos a su mrd. A quien guarde Nro. Sr.9. de Lumbier y diçiembre a 24 de 163910. Juan Vivot11. Sor. Gobernador d. Pº Santacilia y pax [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "122:3444.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo26/122:3444.JPG",
+      "url": "/legajos/legajo-26/images/122:3444.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "122:3444.JPG",
+  "warnings": [
+    {
+      "code": "IMAGE_DOWNLOAD_FAIL",
+      "message": "HTTP 404",
+      "context": {
+        "url": "http://santacilia.info/intranet2/img/Legajo26/122:3444.JPG"
+      }
+    },
+    {
+      "code": "IMAGE_COUNT_MISMATCH",
+      "message": "Imágenes detectadas (1) != descargadas (0)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-26/cartas/004350.json",
+  "primary_image_url": "/legajos/legajo-26/images/122:3444.JPG"
+}

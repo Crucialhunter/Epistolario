@@ -1,0 +1,43 @@
+{
+  "legajo_id": "32",
+  "id_carta": "7180",
+  "order_in_legajo": 179,
+  "signatura": "248:1938a.JPG",
+  "nombre_carta": "Carta de Diego Matías de Aragüés a Pedro Santacilia y Pax",
+  "fecha_original": "24 de marzo de 1666",
+  "lugar": "Madrid",
+  "remitente": "Diego Matías de Aragüés",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Estos renglones hago dando razón como ayer se publicó la jornada de la Sra. emperatriz para 10 de abril, que se puede presumir será al fin a salir de apuntes por Valencia a embarcarse en Denia, a, Alicante, con que por Barcelona ya no sera, puede ser, pasen a la vista de Mallorca, las órdenes de que todos han de ir de luto y cuanto. lleguen a Millan también hasta la entrega no ha de haber gala yo tengo dicho al Sr. don Nicolas todo lo que se debe atender juzgo le será bastante [?] la ayuda de costa que tiene recibida con que con dos vestidos de negro el capote de albornoz no ha de menester más solo que si hay forma que pasen la ropa blanca que se le tiene prevenida hoy se la procuren dar porque no tiene otra más de la que tengo avisado a v. s. Las letras pª. el interrogatorio que se está de remitir al abogado de la real de San Bernardo esta sacándose y qdo. la remita avisaré de lo que se ofrecier v. s. se sirva de avisarme del reino [1§] de mis pliegos y a estos caballeros habían llegado hoy, estos otros caballeros Sres. don Ferdo. Pugdorfila y don Josep Santacilia todavía están aquí y tratan de irse v. s. me mande le sirva y sus manos besamos Dña. majestada. y yo y las de mi Sra. Dña. Leonor y don Juan y todos esos señores. mas. veces y guarde Dios como deseo Madrid 24 Marzo 1666 Beso la manoº. de v. s. m s. Diego Matias de Aragues Sr. don Pedro Santacilia y Pax [2§] Transcripción literal"
+  ],
+  "literal": [
+    "1. Estos renglones hago dando razon como 2. ayer se publico la jornada de la Sra 3. Emperatriz pª 10 de Abril, q se puede 4. presumir sera al fin a salir de apun5. tes por Valencia a embarcarse en 6. Denia, a, Alicante, con q. por Barcelona 7. ya no sera, puede ser, pasen a la 8. vista de Mallorca, las ordenes de q. 9. todos han de hir de luto y qto. lleguen 10. a Millan tambien hasta la entrega 11. no ha de haver gala 12. Yo tengo dicho al Sr. Don Nicolas todo 13. lo que se deve atender juzgo le sera 14. bastante [?] la ayuda de Costa q tiene 15. recivida con q. con dos vestidos de negro 16. el capote de albornoz no ha menester mas 17. solo q si ay forma q pasen la ropa 18. blanca q se le tiene prevenida oy se la 19. procuren dar por q. no tiene otra 20. mas de la q. tengo avisado a VS. 21. Las letras pª. el interrogatorio q sesta 22. de remitir al abogado de la Real de 23. San Bernardo esta sacandose y qdo. 24. la remita avisare de lo q. se offrecier 25. VS. se sirva de avisarme del Reino [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "248:1938a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo32/248:1938a.JPG",
+      "url": "/legajos/legajo-32/images/248:1938a.JPG"
+    },
+    {
+      "filename": "249:1938b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo32/249:1938b.JPG",
+      "url": "/legajos/legajo-32/images/249:1938b.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "248:1938a.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (3)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-32/cartas/007180.json",
+  "primary_image_url": "/legajos/legajo-32/images/248:1938a.JPG"
+}

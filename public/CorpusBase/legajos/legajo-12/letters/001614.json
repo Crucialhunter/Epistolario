@@ -1,0 +1,38 @@
+{
+  "legajo_id": "12",
+  "id_carta": "1614",
+  "order_in_legajo": 122,
+  "signatura": "181_6207.JPG",
+  "nombre_carta": "Carta de Pedro Portocarrero Fernández de Córdoba y Aragón (VII conde de Medellín) a Pedro Santacilia y Pax",
+  "fecha_original": "26 de octubre de 1650",
+  "lugar": "San Lorenzo del Real",
+  "remitente": "Pedro Portocarrero Fernández de Córdoba y Aragón (VII conde de Medellín)",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "La de v. m. he recibido y no tengo que repetirle de nuevo soy suyo pues aunque la obligación no me tuviera en este empeño la voluntad es muy de v. m. De nuevo no hay acá cosa sino haber dado la secretaría de Milán a un fulano portillo que fue veedor de las galeras de Sicilia, el juzgarse que Tortosa ha de tener buen suceso por no tener más que mil hombres y doscientos bibanderos y seiscientos cuarteles de trigo y muy poca cantidad de bizcocho y los valencianos dan gente afuera de lo que debían del servicio de las suertes que también prorrogaron por el tiempo del sitio y dicen se toma con gana y aquel reino con que nos pensamos con ella. Nuestro Sr. lo permita y guarde a v. m. San Lorenzo del Real, 26 de octubre de 1650. Mi madre que no ha podido responder a v. m. que ya sabe lo que v. m. se holgaría. El conde de Medellin Sr. D. Pedro Santacilia y Pax [1§] Transcripción literal"
+  ],
+  "literal": [
+    "1. La de Vm e rezibido y no tengo que re2. petirle de nuebo soi suio pues aunque la3. obligazion no me tubiera eneste enpeño4. la boluntad es mui de Vm de nuebo no ai5. aca cosa sino aber dado la secretaria de6. milan a un fulano pertillo? Que fue beedor7. de las galras de Zizilia el juzgarse8. que tortosa a de tenr buen suzeso por no9. tener mas que mil hombres y duzientos10. bibanderos y seiszientos quarteles de11. trigo y mui poca cantidad de bizcocho12. y los balenzianos dan Jente afuera de13. lo que debian del serbizio de lasuertes que14. tanbien prorogaron por el tiempo del sitio15. y dizen se toma con gana e aquel reino16. con que nos pensamos con ella Nuestro Sor.17. lo permita y Gde a Vm son lorenzo del Real18. 26 de otubre de 1650 mi madre que no a po19. dido responder a Vm que ia sabe lo que Vm20. se olgaria21. El Conde de Medellin22. Sr. D. Pedro Santa Zilia y Pax [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "181_6207.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo12/181_6207.JPG",
+      "url": "/legajos/legajo-12/images/181_6207.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "181_6207.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (4)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-12/cartas/001614.json",
+  "primary_image_url": "/legajos/legajo-12/images/181_6207.JPG"
+}

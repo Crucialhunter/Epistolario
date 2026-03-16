@@ -1,0 +1,43 @@
+{
+  "legajo_id": "17",
+  "id_carta": "2768",
+  "order_in_legajo": 33,
+  "signatura": "048:1310a.JPG",
+  "nombre_carta": "Carta de Aurelio Amigón y Pascual a Pedro Santacilia y Pax",
+  "fecha_original": "6 de abril de 1658",
+  "lugar": "Alicante",
+  "remitente": "Aurelio Amigón y Pascual",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Después de haber escrito a v. s. en esta ninguna ocasión y remitiéndole carta del Sr. D. Pascual, se me ha ofrecido suplicar a v. s. por la amistad que tuvimos con la buena memoria del señor Bautista Carbonell, que Dios tenga en su santa gloria, me diga y declare lo que v. s. propondrá, porque importa mucho a un amigo mío para este trance un casamiento, que sabiéndolos amigos que tengo se han puesto en mis manos para que les diga en todo por entero la verdad [?] En años pasados vivieron en Valencia Pere Miquel Carbonell, y Caterina Borras de esa ciudad, el cual fue tratante, y tuvo un hermano platero, este Pere Miquel tuvo dos hijos el uno llamado Miquel, y el otro Thomás, doctor en medicina en este reino, y el dicho Miquel tuvo el Condado de Cocentaina arrendado y otros pueblos [?] queda una hija de este Miquel [?] Pregunto a v. s. me diga que gente es esta si son cristianos viejos y si fueron deudos de nuestro amigo Bautista Carbonell, y si sabe v. s. que les quede o, pueda pertenecer hacienda alguna a esta muchacha en Mallorca para poderse efectuar este casamiento que solo se aguarda la respuesta de esta y así suplico a v. s. me diga lo que siente en esto que esperaré la respuesta con mucho deseo [?] Sr. D. Pedro Santacilia y Pax. Procurador Real [1§] no se ofrece otro. Guarde Dios a v. s. muchos años. Alicante y abril 6 1658. Muy servidor de v. s. que sus manos besa Aurelio Aragon y Pascual [2§] Transcripción literal"
+  ],
+  "literal": [
+    "1. Despues de haver escrito a V.S. en esta ninguna occa2. sion y remitidole carta de el Sr. d. Pasqual,3. se me ha offrecido suplicar a V.S. por la amistad4. q tuvimos con la buena memoria del seo5. Batta. Carbonell q dios tenga en su santa gloria6. me diga y declare lo q V.S. propondra, porq7. importa mucho a hun amigo mio para este8. transe un casamiento, q sabiendolos ami9. gos q tengo se han puesto en mis manos10. para q les diga en todo por entero la ber11. dad ?12. En años passados bivieron en Vala Pere13. Miquel Carbonell, y Catharina Borras de 14. essa Ciudad, el qual fue tratante, y tuvo u[n] 15. hermano Platero- este Pere Miquel tuvo16. Dos hijos el uno llamado Miquel, y el otro17. Thomas dor. en medicina eneste Reyno, y18. el dho Miquel tuvo el Condado de Cossentay19. na arrendado y otros pueblos ? queda una 20. hija de este Miquel ? Pregunto a V.S. me21. diga q gente es esta si son cristianos22. biejos y si fueron deudos de nro amigo23. Sro. Btta. Carbonell, y si sabe V.S. q les24. quede o, pueda pertenecer hazienda al25. guna a esta muchacha en Mallorca26. para poderse effetuar este casamiento q27. solo se aguarda la repta de esta- y assi28. Sup[li]co a V.S. me diga lo q siente enesto29. que esperare la repsta con mucho desseo ?30. Sr. d. Po Santacilia y Pax. Proor Real ? [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "048:1310a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo17/048:1310a.JPG",
+      "url": "/legajos/legajo-17/images/048:1310a.JPG"
+    },
+    {
+      "filename": "049:1310b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo17/049:1310b.JPG",
+      "url": "/legajos/legajo-17/images/049:1310b.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "048:1310a.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-17/cartas/002768.json",
+  "primary_image_url": "/legajos/legajo-17/images/048:1310a.JPG"
+}

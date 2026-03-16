@@ -1,0 +1,38 @@
+{
+  "legajo_id": "25",
+  "id_carta": "4072",
+  "order_in_legajo": 6,
+  "signatura": "011_106.JPG",
+  "nombre_carta": "Carta de Francesc Bauçà a Jerónimo Pelegrín de Aragüés",
+  "fecha_original": "9 de febrero de 1667",
+  "lugar": "Sant Joan (Mallorca)",
+  "remitente": "Francesc Bauçà",
+  "destinatario": "Jerónimo Pelegrín de Aragüés",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Sr. Jeroni Jo havia promès a v. m. juntament amb al Antoni Mayol d'esser aquí per divendres primer vinent per disposar els diners de les penes. Jo he enviades deu lliures al [?] Matgi [Ribes] que les donés a v. m. o, al Sr. Antoni Mayol i quatre lliures que ja dins casa de m. Josep Torrello que són de Guillem Bauça, que són per disposar per Miquel Font Gallos i les deu lliures hagi sent [?] i dotze sous per Rl. Gaya i quatre lliures vuit sous per a Arnau Gaya. Avisà a v. m. que em trobí desganat d'un poc de mal a una cama vist el temps també de les Carnestoltes voldria que en fessin mercè si es pot de disposar-me eixos diners per cada qual i prendré albarà per cada u i, si no, jo aniré aquí al primer dia de Quaresma i parlar-ho. Em conform amb estar, de Sant Joan a 9 febrer 1667. Francesc Bauça Polit Criat de v. m. Transcripción literal"
+  ],
+  "literal": [
+    "1. Sr. Hieroni2. Jo avia promès a V.m. juntament ab al Sr. Anto[ni]3. Mallol de asser aqui per divendres primer vinent4. per deposar los dines de las penas. Jo he anviades5. deu lliures an al bloncon Matgi que las donas6. a V.m. o, an al Sr. Antº Mallol y quatre7. lliures que ya dins case de m. Joseph Torello8. qui son de Guillem Bauça qui son per de9. posar per Miquel Font Gallos y las deu10. lliures aya sent (^??) y dotze sous per Rl.11. Gaya y quatre lliures vuit sous per Arnau12. Gaya Avisa a V.m. que am trobe des13. ganat de un poch de mal a una cama14. vist al temps tambe de las carnestoltes vol15. dria quen fessen marse sis pot de deposa16. me exos dines per cadequal y pendra alba17. ra per cadehu y sino jo anire aqui18. al primer dia de quaresme y palar ho hem19. conforme abe astar de St. Jº a 9 fabrer20. 166721. Ffs. Bauça polit Criat de V.m. [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "011_106.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo25/011_106.JPG",
+      "url": "/legajos/legajo-25/images/011_106.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "011_106.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (7)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-25/cartas/004072.json",
+  "primary_image_url": "/legajos/legajo-25/images/011_106.JPG"
+}

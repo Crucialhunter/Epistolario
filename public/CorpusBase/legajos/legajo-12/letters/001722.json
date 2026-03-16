@@ -1,0 +1,43 @@
+{
+  "legajo_id": "12",
+  "id_carta": "1722",
+  "order_in_legajo": 216,
+  "signatura": "342_6315a.JPG",
+  "nombre_carta": "Carta de Nicolás de Santacilia y Togores a Pedro Santacilia y Pax",
+  "fecha_original": "29 de julio de 1665",
+  "lugar": "Madrid",
+  "remitente": "Nicolás de Santacilia y Togores",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Señor una cosa quiero advertir a v. m. y es que el rey se está acabando, aunque no está en la cama, se ve claramente que se está consumiendo. En fin, lo quieren poner en cura y a mi entender lo van aventurar. Ayer vino del Retiro, por fuera de Madrid, porque no podía ir en aquel coche grande con la reina, se resolvió a esto por no poder más por Madrid no se habla la de otra cosa, el ya no puede menearse ni con las manos ni con los pies, esto se lo aviso v. m., por si acaso tiene de pretender algo, no descuidarse y haga las diligencias lo más presto que pueda. El caballerizo mayor tiene un decreto del rey para que no se consulte a nadie hasta que vuelvan de la jornada, es cierta para postreros de agosto el duque, dicen que no va. [1§] A mi madre y señora muchos recaudos de mi parte y a mi hermanos, y a los señores Bergas y a don Carlos y a los demás de casa. Guarde Dios a v. m. muchos años como deseo y me importa. Madrid a 29 de julio 1663. Su más humilde hijo de M. y sus manos besa Don Nicolas de Santacilia y Togores Mi padre y señor [2§] Transcripción literal"
+  ],
+  "literal": [
+    "1. Señor una cosa quiero advertir a VM y es que2. el Rey se esta acabando, aunque no esta3. en la cama, se ve claramente que se esta con4. sumiendo, en fin lo quieren poner en cura5. y a mi entender lo v[^a]n aventurar, ayer vino6. del Retiro, por fuera de madrid, porque7. no podia yr en aquel coche grande con8. la Reyna, se resolvio a esto por no poder mas9. por madrid no se abla de otra cosa, el ya no10. puede menearçe ni con las manos ni con11. los pies, esto se lo aviso VM, por si acaso12. tiene de pretender algon, no descuidarse y 13. aga las diligensias lo mas presto que 14. pueda15. El cavalleriso Mayor tiene un decreto del16. Rey para que no se consulte a nadie asta17. que buelvan de la jornada, es sierta pa18. ra postreros de agosto el Duque disen19. que no va [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "342_6315a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo12/342_6315a.JPG",
+      "url": "/legajos/legajo-12/images/342_6315a.JPG"
+    },
+    {
+      "filename": "343_6315b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo12/343_6315b.JPG",
+      "url": "/legajos/legajo-12/images/343_6315b.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "342_6315a.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-12/cartas/001722.json",
+  "primary_image_url": "/legajos/legajo-12/images/342_6315a.JPG"
+}

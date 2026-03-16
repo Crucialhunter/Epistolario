@@ -1,0 +1,61 @@
+{
+  "legajo_id": "1",
+  "id_carta": "300",
+  "order_in_legajo": 10,
+  "signatura": "027-210a",
+  "nombre_carta": "Carta de Luis Viguet a Jerónimo Pelegrín de Aragüés",
+  "fecha_original": "30 de agosto de 1667",
+  "lugar": "Valencia",
+  "remitente": "Luis Viguet",
+  "destinatario": "Jerónimo Pelegrín de Aragüés",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "No puedo dejar de cansar a vuestra merced siempre que hubiere bajel, suplicándole no le canse el mandarme muchas cosas en su servicio. Estos días no he visto cartas para el señor don Pedro, a quien dirá vuestra merced que le beso las manos, no olvidando las de vuestra merced que Nuestro Señor guarde felices años. Valencia y agosto, a los 30 de 1667.",
+    "Beso las manos de vuestra merced,",
+    "Luis Viguet.",
+    ". Jeronimo Pelegri. [1§]",
+    "Valencia. Luis Viguet, de 30 agosto 1667. Tiene respuesta. [2§]",
+    "{CAT. A Jeroni Pelegri de Aragues, guardi Nostre Senyor, en casa el senyor don Pedro Santacilia i Pax}",
+    ". Mallorca."
+  ],
+  "literal": [
+    "1. No puedo dexar de cansar a Vm siempre",
+    "2. que ubiere vaxel suplicandole nolcanse el",
+    "3. mandarme muchas cosas ensuservisio estos",
+    "4. dias no evisto cartas paraelS donpedro",
+    "5. a quien dira Vm quele beso las manos no",
+    "6. olvidando las deVm quenuestro Sr guarde",
+    "7. felises Años Valenciay Agosto alos 30 de",
+    "8. 1667",
+    "9. B<",
+    "[eso]> l<",
+    "[as]> m<",
+    "[anos]> de Vm",
+    "10. Luys Viguet",
+    "11. S Geronimo pelegri [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "027-210a.gif",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo01/027-210a.gif",
+      "url": "/legajos/legajo-01/images/027-210a.gif"
+    },
+    {
+      "filename": "028-210ba.gif",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo01/028-210ba.gif",
+      "url": "/legajos/legajo-01/images/028-210ba.gif"
+    },
+    {
+      "filename": "028-210bb.gif",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo01/028-210bb.gif",
+      "url": "/legajos/legajo-01/images/028-210bb.gif"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "027-210a.gif",
+  "warnings": [],
+  "raw_source": "raw/legajos/legajo-01/cartas/000300.json",
+  "primary_image_url": "/legajos/legajo-01/images/027-210a.gif"
+}

@@ -1,0 +1,38 @@
+{
+  "legajo_id": "21",
+  "id_carta": "3367",
+  "order_in_legajo": 56,
+  "signatura": "089:5656",
+  "nombre_carta": "Carta de comte de Perelada i marquès d'Anglesol a Persona desconocida",
+  "fecha_original": "6 de marzo de 1632",
+  "lugar": "Barcelona",
+  "remitente": "comte de Perelada i marquès d'Anglesol",
+  "destinatario": "Persona desconocida",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Aquien enviï amas cartes a on hi hagi del presso nosari i latres Dé els guardi Barcelona als 6 de març 1632 el comte de Perelada Les cartes són vingudes per l'estafeta les han anades a cercar i ani pens Pere amb tornar [?] l'auren donad per ona hoi lasan de remetre la comtessa de sondomar [?] es morta la Jura del princet [?] seba diferint de dia en dia d'almanfa dinan i, a, millors noves, demana, [?] amb trava resolució i de denfenia a les abson [?] ens aforça amb ningú [1§] Transcripción literal"
+  ],
+  "literal": [
+    "1. Aquien envie amas Cartas aoni aia del presso 2. nosari y latres deu los guarde Barselona 3. als 6 de mars 1632 4. lo Comte de Perelada 5. Las Cartas son vingudes p lastafeta las an anades 6. asercar y ani pens Pera ab tornar [Ilegible] 7. lo auren donad p ona hoi lasan de remetre 8. la Condesa de sondomar[?] es morta la Jura del 9. princet[?] seba diferint dedia en dia de almanfa 10. dinan y, a, millors noves, demana, [Ilegible] 11. ab trava resolucio y de denfenia alas abson [Ilegible]12. nos aforsa ab ningu [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "089:5656.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo21/089:5656.JPG",
+      "url": "/legajos/legajo-21/images/089:5656.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "089:5656.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-21/cartas/003367.json",
+  "primary_image_url": "/legajos/legajo-21/images/089:5656.JPG"
+}

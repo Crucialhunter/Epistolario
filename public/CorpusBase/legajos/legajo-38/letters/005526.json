@@ -1,0 +1,58 @@
+{
+  "legajo_id": "38",
+  "id_carta": "5526",
+  "order_in_legajo": 53,
+  "signatura": "090:50a",
+  "nombre_carta": "Carta de Joan Antoni Albertí a Persona desconocida",
+  "fecha_original": "2 de junio de 1661",
+  "lugar": "Lugar sin especificar",
+  "remitente": "Joan Antoni Albertí",
+  "destinatario": "Persona desconocida",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "LA IMATGE NO ES VEU BÉ [1§] Transcripción literal"
+  ],
+  "literal": [
+    "1. LA IMATGE NO ES VEU BÉ"
+  ],
+  "imagenes": [
+    {
+      "filename": "090:50a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo38/090:50a.JPG",
+      "url": "/legajos/legajo-38/images/090:50a.JPG"
+    },
+    {
+      "filename": "091:50b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo38/091:50b.JPG",
+      "url": "/legajos/legajo-38/images/091:50b.JPG"
+    },
+    {
+      "filename": "092:50c.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo38/092:50c.JPG",
+      "url": "/legajos/legajo-38/images/092:50c.JPG"
+    },
+    {
+      "filename": "093:50d.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo38/093:50d.JPG",
+      "url": "/legajos/legajo-38/images/093:50d.JPG"
+    },
+    {
+      "filename": "094:50e.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo38/094:50e.JPG",
+      "url": "/legajos/legajo-38/images/094:50e.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "090:50a.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-38/cartas/005526.json",
+  "primary_image_url": "/legajos/legajo-38/images/090:50a.JPG"
+}

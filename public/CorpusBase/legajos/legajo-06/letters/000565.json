@@ -1,0 +1,38 @@
+{
+  "legajo_id": "6",
+  "id_carta": "565",
+  "order_in_legajo": 67,
+  "signatura": "061-36",
+  "nombre_carta": "Carta de Mariano Branis y Perea a Cecilia Zaforteza y Sureda de Sant Martí",
+  "fecha_original": "21 de septiembre de 1748",
+  "lugar": "Barcelona",
+  "remitente": "Mariano Branis y Perea",
+  "destinatario": "Cecilia Zaforteza y Sureda de Sant Martí",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Señora Con mi mayor respeto y el debido sentimiento recibo la carta de v. s. en que se sirve v. s. darme la dolorosa noticia de la muerte del señor D. Francisco Sureda de St. Martí (que goce de Dios). Y considerando el justo y natural pesar que aflige a v. s. en tanta pérdida, pido muy de veras a la divina piedad asista y consuele a v. s. como necesita, no pudiendo yo dejar, por muchos motivos, de cumplir con la obligación de tener su alma muy presente. Y de ofrecer a los pies de v. s. todo mi más respetuoso obsequio y rendimiento. Nuestro Señor guarde a v. s. los muchos años que puede y he menester. Barcelona, 21 de setiembre 1748. Señora, a los pies de v. s., Mariano Branis y Perea Señora Dña. Cecilia Zaforteza y Sureda de St. Martí, mi Sra. Transcripción literal"
+  ],
+  "literal": [
+    "1. Señora 2. Con mi mayor respeto , y el debido 3. sentimiento recibo la carta de V.S. 4. en q se sirve V.S. darme la dolorossa 5. noticia de la muerte del Señor Dn. Franco 6. Sureda de St. Marti (q goze de Dios) Y con- 7. siderando el justo y natural pesar 8. que aflije a V.S. en tanta perdida 9. pido muy de veras á la Divina Pie- 10. dad, assista y consuele á V.S. como ne- 11. cessita; No pudiendo yo dexar, por 12. muchos motivos de cumplir con la oblign 13. de tener su Alma muy presente Y de 14. ofrezer á los Pies de V.S. todo mi mas 15. respetosso obsequio y rendimto 16. Nro Señor ge à V.S. los ms a< ño>s q pe 17. y he mr Bara 21 de bre 1748 Señora 18. A los pies de V.S. 19. Mariano Branis y Perea 20. Señora Da. Cecilia Çafortesa 21. y Sureda de St. Marti mi Sa. [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "061-36.jpg",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo06/061-36.jpg",
+      "url": "/legajos/legajo-06/images/061-36.jpg"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "061-36.jpg",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-06/cartas/000565.json",
+  "primary_image_url": "/legajos/legajo-06/images/061-36.jpg"
+}

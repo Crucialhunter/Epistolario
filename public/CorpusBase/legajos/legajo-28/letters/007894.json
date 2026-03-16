@@ -1,0 +1,43 @@
+{
+  "legajo_id": "28",
+  "id_carta": "7894",
+  "order_in_legajo": 139,
+  "signatura": "234:3771a.JPG",
+  "nombre_carta": "Carta de Fructuoso Piqué a Pedro Santacilia y Pax",
+  "fecha_original": "10 de junio de 1656",
+  "lugar": "Madrid",
+  "remitente": "Fructuoso Piqué",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "La última carta con que me hallo de v. m. es de 29 de abril y hoy las hemos tenido de 21 de mayo y no las he visto de v. m. Es así que se dieron dos memoriales en el Consejo en nombre de v. m. pidiendo en el uno los 200 ducados de ayuda de costa ordinaria y en el otro que se le hiciese bueno el sueldo por entero desde el día de la Merced, pues no había sido culpa de v. m. el dejar de sacar el despacho. A esto último se acordó que se excusase por el ejemplar que haría para otros, y a lo de la ayuda de costa que, pues aún no tenía el despacho, se acordase después en adelante. Mire v. m. qué presto nos despacharon. Con esta noticia, v. m. avisará cuándo fuere servido que se vuelva a dar memorial por lo de la ayuda de costa, que se ejecutará puntualmente. Mi sobrino me escribe que ha enviado a v. m. la cuenta de todo lo procedido de los efectos que tenía de v. m. en su poder, y que aguardaba respuesta suya y que con ella me remitiría el dinero. Y, en haciendo, [1§] haré bueno a v. m. en nuestra cuenta lo que montare y daré aviso de todo a v. m. que guardde Dios muchos años como deseo. Madrid, a 10 de junio 1656. La cobranza del Sr. secretario D. Francisco Izquierdo, mi compañero, acuerdo a v. m. Beso la mano de v. m. Su mayor servidor.Fructuoso Pique. Sr. Procurador Real, D. Pedro de Santacilia y Pax. Transcripción literal"
+  ],
+  "literal": [
+    "1. La ultima carta conque me hallo de vm se de2. 29 de Abril y oy las hemos renido de 21 de3. Mayo y no las he visto de vm4. Es assi que se dieron don memles. e el conssº en nombre5. de vm pidiendo en el uno los 200 dus. de ayuda de costa6. ordinaria y en el otro que se le hiciesse bueno el sueldo7. por entero desde el dia de la mrd. pues no avia sido8. culpa de vm el dejar de sacar el despacho a esto ultimo9. se acordo que se escusase por el exemplar que haria10. para otros y alo dela ayuda de costa que puest aun no tenia el11. despacho se acordasse despues en adelante, mire vm12. que presto nos despacharon, con esta noticia Vm13. avisara quando fuere servido que se buelba a dar14. meml. por lo dela ayuda de costa que se executara15. puntualmte.16. Mi sobrino me escrive que ha embiado a vm la quenta17. de todo lo procedido de los efestos que tenia de vm18. en su poder y que aguardava respuesta suya y19. que con ella me remitiria el dinero y en haciendo [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "234:3771a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo28/234:3771a.JPG",
+      "url": "/legajos/legajo-28/images/234:3771a.JPG"
+    },
+    {
+      "filename": "235:3771b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo28/235:3771b.JPG",
+      "url": "/legajos/legajo-28/images/235:3771b.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "234:3771a.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-28/cartas/007894.json",
+  "primary_image_url": "/legajos/legajo-28/images/234:3771a.JPG"
+}

@@ -1,0 +1,38 @@
+{
+  "legajo_id": "31",
+  "id_carta": "6969",
+  "order_in_legajo": 209,
+  "signatura": "308:1720.JPG",
+  "nombre_carta": "Carta de Conde de Zavellá a Josep Poblet",
+  "fecha_original": "17 de junio de 1664",
+  "lugar": "Madrid",
+  "remitente": "Conde de Zavellá",
+  "destinatario": "Josep Poblet",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Poblet mon oncle Sr. D. Pedro Santacilia i Pax, per tants títols amo i meu, te algunes ocupacions d'importància en aqueixa terra. i hauria Amat molt efer aquí per poder-lo assistir i servir com dec, Pero tenint a v. m. aquí que podrà substitir per mi me resta l'alivio de demanar a v. m. quant encaridament que en qualsevol ocasió de gust o disgust que Sr. D. Pedro hagi menester sa persona i les dels seus amics i meus li assistiran amb tota fineza i {ESP. cuidado} perquè serà fermo a mi la major mercè i amistat que és possible encarir ell dirà a v. m. de paraula el que serà menester i jo [?] les obres de v. m. coneixera el molt que jo dec asa amistat. a Dios que Ge a v. m. com deseo de Madrid i Juy a 17 de 1664 de v. m. sempre comte de Zavella Josep Poblet [1§] Transcripción literal"
+  ],
+  "literal": [
+    "1. Sr. Poblet mon onclo D. Pedro Sta. Cilia y Pax, 2. per tants titols amo y Sr. meu, te algunas ocupacions de 3. importancia en aquexa terra. Y auria Amat 4. molt efer aqui per poderlo asistir y servir com dec, 5. Pero tenint a VM aqui que podra substityr per 6. mi me resta lo alivio de demanar a V. M. quant enca7. ridament que q en qualsevol ocasio de gust o dis8. gust q D Pedro aja menester sa persona y las de 9. sos amics y meus li assistiran ab tota finesa y 10. cuydado perq sera fermo a mi la major merce 11. y amistat q es posible encarir ell dira a VM 12. de paraula lo q sera menester y jo [?] 13. las obras de VM conexera lo molt q jo dec a14. sa amistat. a Dios q Ge a VM com deseo de 15. Madrid y Juy a 17 de 1664 16. de Vm sempre 17. Comte de Çavella 18. Jusep Poblet [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "308:1720.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo31/308:1720.JPG",
+      "url": "/legajos/legajo-31/images/308:1720.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "308:1720.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-31/cartas/006969.json",
+  "primary_image_url": "/legajos/legajo-31/images/308:1720.JPG"
+}

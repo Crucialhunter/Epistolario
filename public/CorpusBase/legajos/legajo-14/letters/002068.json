@@ -1,0 +1,38 @@
+{
+  "legajo_id": "14",
+  "id_carta": "2068",
+  "order_in_legajo": 169,
+  "signatura": "273:2579.JPG",
+  "nombre_carta": "Carta de conde de Santa María de Formiguera a Pedro Santacilia y Pax",
+  "fecha_original": "24 de julio de 1662",
+  "lugar": "Santa Margalida",
+  "remitente": "conde de Santa María de Formiguera",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Per no tanir sagura atensio antanir lo LLETRA COMPLICADA [1§] Transcripción literal"
+  ],
+  "literal": [
+    "1. Per no tanir sagura atensio antanir lo LLETRA COMPLICADA"
+  ],
+  "imagenes": [
+    {
+      "filename": "273:2579.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo14/273:2579.JPG",
+      "url": "/legajos/legajo-14/images/273:2579.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "273:2579.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-14/cartas/002068.json",
+  "primary_image_url": "/legajos/legajo-14/images/273:2579.JPG"
+}

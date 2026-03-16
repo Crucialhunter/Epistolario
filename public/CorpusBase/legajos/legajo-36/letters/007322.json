@@ -1,0 +1,43 @@
+{
+  "legajo_id": "36",
+  "id_carta": "7322",
+  "order_in_legajo": 65,
+  "signatura": "100:7797a.JPG",
+  "nombre_carta": "Carta de Josep de Rocabertí a Pedro Santacilia y Pax",
+  "fecha_original": "4 de octubre de 1652",
+  "lugar": "Ibiza",
+  "remitente": "Josep de Rocabertí",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Transcripción literal"
+  ],
+  "literal": [
+    "1. 1."
+  ],
+  "imagenes": [
+    {
+      "filename": "100:7797a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo36/100:7797a.JPG",
+      "url": "/legajos/legajo-36/images/100:7797a.JPG"
+    },
+    {
+      "filename": "101:7797b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo36/101:7797b.JPG",
+      "url": "/legajos/legajo-36/images/101:7797b.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "100:7797a.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-36/cartas/007322.json",
+  "primary_image_url": "/legajos/legajo-36/images/100:7797a.JPG"
+}

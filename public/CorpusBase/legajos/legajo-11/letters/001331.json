@@ -1,0 +1,38 @@
+{
+  "legajo_id": "11",
+  "id_carta": "1331",
+  "order_in_legajo": 100,
+  "signatura": "169:5191.JPG",
+  "nombre_carta": "Carta de Llorenç Carreras a Pedro Santacilia y Pax",
+  "fecha_original": "19 de agosto de 1643",
+  "lugar": "Mallorca",
+  "remitente": "Llorenç Carreras",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "La Sra. dona Isabel Sureda i Santacilia es passada d'esta vida a la de major descans. Nostre Senyor sia servit donar-li en la sua sta. glòria i a a v. s. doni molts anys de vida i conservi les {ESP. demés} persones [?] amb la consolació que jo li desitjo que pel molt que sia estimaré v. s. la Sra. li sia acompanyent amb el degut sentiment i pesar de sa mort. Va el Sr. don Joan Miquel que és prou dit [?] en temps de tants treballs a esta república poder-lo tenir aquí i ha de procurar v. s. entretenir-lo que cert no sia açò en què ha d'arribar. Déu per sa misericòrdia hi posi remei i a v. s. guardi com li suplico. De Mallorca, a 19 agost 1643. El Ardiaca Carreras Sr. Governador de Menorca Transcripción literal"
+  ],
+  "literal": [
+    "1. La sra. doña Isabel Sureda y Sta.Cilia 2. es pasade de estad vida a le de major des 3. cans nostro señor sie servit donarli 4. en le sue Sta Gloria ya a VSª dona 5. molts anys de vida y conserve les 6. demes persones propinquas ab le consolasio 7. quie jo li desitjop que per lo molt que sea es 8. timare VSª le Sra. le sie acompañant 9. ab lo degut sentiment y pesar de se mort. 10. Va lo sr. don Joan Michel que es procer dit 11. xen en tems de tants treballs a esta repu 12. blica poderlo tenir aqui y ha de procurar 13. VSª entretenirlei que sert no sie aso ane 14. que ha de arribar Deu per sen misericor 15. die hi pos remei y a VSª guarde com li 16. suplico de Mallorca a 19 Agost 1643 17. Rel Ardiaca Carreras 18. [^Sr. Governador de Menorca^] [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "169:5191.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo11/169:5191.JPG",
+      "url": "/legajos/legajo-11/images/169:5191.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "169:5191.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-11/cartas/001331.json",
+  "primary_image_url": "/legajos/legajo-11/images/169:5191.JPG"
+}

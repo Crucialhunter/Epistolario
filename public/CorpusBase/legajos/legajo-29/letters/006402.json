@@ -1,0 +1,38 @@
+{
+  "legajo_id": "29",
+  "id_carta": "6402",
+  "order_in_legajo": 160,
+  "signatura": "159:4220",
+  "nombre_carta": "Carta de Basilio de Castellví y Ponce a Persona desconocida",
+  "fecha_original": "5 de abril de 1662",
+  "lugar": "Mallorca",
+  "remitente": "Basilio de Castellví y Ponce",
+  "destinatario": "Persona desconocida",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Â [1§] Transcripción literal"
+  ],
+  "literal": [
+    "1."
+  ],
+  "imagenes": [
+    {
+      "filename": "159:4220.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo29/159:4220.JPG",
+      "url": "/legajos/legajo-29/images/159:4220.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "159:4220.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (4)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-29/cartas/006402.json",
+  "primary_image_url": "/legajos/legajo-29/images/159:4220.JPG"
+}

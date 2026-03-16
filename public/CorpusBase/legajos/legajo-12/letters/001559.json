@@ -1,0 +1,38 @@
+{
+  "legajo_id": "12",
+  "id_carta": "1559",
+  "order_in_legajo": 65,
+  "signatura": "082_6152.JPG",
+  "nombre_carta": "Carta de marqués de Villafranca a Pedro Santacilia y Pax",
+  "fecha_original": "20 de junio de 1641",
+  "lugar": "Tortosa",
+  "remitente": "marqués de Villafranca",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Los tres bergantines que han de ir a Rosellón manda su majestad que lleven la pólvora que quedó en Peñíscola y yo le he escrito que acreciento a v. m. esta circunstancia y que los bergantines no quieren servir porque no los pagan. Guarde Dios a v. m. como deseo, galera y Alfaques a 20 de junio 1641. Marqués de Villafranca Sr. D. Pedro de Santacilia [1§] Transcripción literal"
+  ],
+  "literal": [
+    "1. Los tres bergantines que ande hir a Rosellon manda2. Su Mag[esta]d que lleben la Polbora que quedo en Pe=3. niscola y yo le he escrito que acreziento a Vm4. esta çircunstançia y que los Bergantines no quieren5. servir porque no los pagan Gde Dios a Vm como6. desseo Galera y Alfaques a 20 de Junio 16417. ?????8. ?????9. Marqués de Villafranca10. S. D. Pº de Sta. Zilia [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "082_6152.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo12/082_6152.JPG",
+      "url": "/legajos/legajo-12/images/082_6152.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "082_6152.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-12/cartas/001559.json",
+  "primary_image_url": "/legajos/legajo-12/images/082_6152.JPG"
+}

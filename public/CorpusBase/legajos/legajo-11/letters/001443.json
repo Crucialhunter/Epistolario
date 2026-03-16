@@ -1,0 +1,38 @@
+{
+  "legajo_id": "11",
+  "id_carta": "1443",
+  "order_in_legajo": 236,
+  "signatura": "371:5298.JPG",
+  "nombre_carta": "Carta de Josep de Rocabertí a Pedro Santacilia y Pax",
+  "fecha_original": "18 de abril de 1652",
+  "lugar": "Ibiza",
+  "remitente": "Josep de Rocabertí",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "L'ocasions d'escriure d'aci a ma Mallorca son més que les que aquí tenen d'escriure m'esta va per ma del Gra [?] tes patró d'una coralina que tracta de negociar amb esta {ESP. isla} no sé com li reixira en esta no hi ha novetat ninguna v. m. la sap de les coses de Catalunya estimaré me faci mercè avisar-me per via del patró Pere Nofra deia que segons tinc han tes te de venir breument. deu me la doni bones i a v. s. guardi com desitjo Eivissa i abril 18 de 1652 Dn. Josep de Rocaberti Sr. don Pedro de Santacilia i Pax [1§] Transcripción literal"
+  ],
+  "literal": [
+    "1. La ocasions de escriurer de aci 2. a ma Mallorca son mes que las 3. que aqui tenan de escriurer me 4. esta va per ma del Gra [^??^] 5. tes patro de una coralina que 6. tracta de negociar ab esta isla 7. no se con li reixira en esta 8. noya novedad ninguna VM 9. la sab de las cosas de Cataluña 10. estimare me fasa merced 11. avisarme per via del Patro 12. Pera Nofra deia que segons tinc an 13. tes te de venir breument. 14. deu me la done bonas y a VS gde 15. com desyo Ivisa y Abril 18 de 1652 16. Joseph de Rocaberti 17. [^sr. don Pedro de Sta. Cilia y Pax^] [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "371:5298.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo11/371:5298.JPG",
+      "url": "/legajos/legajo-11/images/371:5298.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "371:5298.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-11/cartas/001443.json",
+  "primary_image_url": "/legajos/legajo-11/images/371:5298.JPG"
+}

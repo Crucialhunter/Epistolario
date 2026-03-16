@@ -1,0 +1,43 @@
+{
+  "legajo_id": "29",
+  "id_carta": "6490",
+  "order_in_legajo": 150,
+  "signatura": "284:4307a.JPG",
+  "nombre_carta": "Carta de Bartolomé Mercadal a Pedro Santacilia y Pax",
+  "fecha_original": "20 de octubre de 1651",
+  "lugar": "Ciutadella",
+  "remitente": "Bartolomé Mercadal",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Sr. procurador reial Amb la inclusa escric a v. s. tot el que se m'ofereix en resposta de la que tinc rebuda de 23 del passat i amb esta dono a v. s. juntament amb totes eixes mis senyores i fills molt santes i alegres pasqües del naixement del fill de Déu amb doblats {ESP. parabienes} del naixement del príncep que per carta del senyor vicecanceller [?] El Sr. virrei al governador esta bona nova que amb set dies des de Madrid ha volat al cor d'estos fidels vasalls. Déu nre. Sr. li concedesca vida com necessita la monarquia d'ordre del senyor Dr. Martorell com a visitador per sa magestat. de la general [?] estic continuant a aquesta illa la mateixa de les propietats qui farà censal al reial patrimoni i examina [1§] Per a dit efecta el llibre de clausules estamentàries he trobat que dona Margarita Delabau i Santacilia filla de v. s. se deixa en son testament tres ultres i dues misses perpètues, com v. s. manarà veure amb la poca de la clausula que no amb esta que v. s. manarà veure i perquè el Dr. Delabau no ha complit amb obligació tant precisa i per haver mudat son domicili no es pugui des d'ací compel·lir-ne dono part a v. s. perquè com [?] interessat en la anima de dita Sra. m'han donat el remei que v. s. serà servit que jo desitjo en tot complir en mes obligacions. Guardi Déu a v. s. com desitjo i tinc menester. Ciutadella als 20 d'octubre 1651. Molt servidor. de v. s. que besa sa màDon Bartolome Mercadal Transcripción literal"
+  ],
+  "literal": [
+    "1. Sor. Proor. Real 2. Ab la inclusa escrich a VSª tot lo que 3. seme oferex en resposta de la que tinch 4. rebuda de 23 del passat y ab esta 5. dono a VSª juntament ab totas exas mis 6. señoras y fills molt santas y alegres pasquas 7. del Naxemt. del fill de Deu ab doblats 8. parabienes del naxement del Prinçep 9. que per Carta del Señor ViceCansiller [?] 10. Lo sr. Virrey al Gor. esta bona nova que 11. ab set dias desde Madrid a volat 12. al cor destos faells vasalls Deu 13. nre. Sor. liconsedesca vida com nesesita 14. la Monarquia 15. De orde del Sor Dor Martorell com a 16. visitador per se Magd. de le general [?] 17. ?? estich continuant a esta illa la 18. matexa de les propietats qui fara 19. censal al Real Patrimoni y examina [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "284:4307a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo29/284:4307a.JPG",
+      "url": "/legajos/legajo-29/images/284:4307a.JPG"
+    },
+    {
+      "filename": "285:4307b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo29/285:4307b.JPG",
+      "url": "/legajos/legajo-29/images/285:4307b.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "284:4307a.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-29/cartas/006490.json",
+  "primary_image_url": "/legajos/legajo-29/images/284:4307a.JPG"
+}

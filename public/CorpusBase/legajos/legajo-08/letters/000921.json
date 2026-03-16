@@ -1,0 +1,38 @@
+{
+  "legajo_id": "8",
+  "id_carta": "921",
+  "order_in_legajo": 93,
+  "signatura": "177-116 copia",
+  "nombre_carta": "Carta de Thomás Áufre y Velasco a Pedro Santacilia y Pax",
+  "fecha_original": "9 de mayo de 1644",
+  "lugar": "Castillo de San Felipe (Menorca)",
+  "remitente": "Thomás Áufre y Velasco",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Acabo de recibir su carta de v. s. en que me manda decir que el servicio de su majestad, que Dios guarde, conviene que luego me llegue a esa Villa, lo cual hiciera al mismo punto si la salud me diera lugar, pero como es hoy el primer día que me levanto al cabo de algunos que he padecido de un aire que me dio en la muralla estando sudando de lugar a un entretenimiento que me dio pasmo un lado que me impide el poder ponerme en camino. Pero si se puede dilatar hasta que yo reciba respuesta de esta, que será tres o cuatro días, iré en hallándome más reforzado. Y según me ha dicho y comunicado su carta de v. s. el castellano si es sobre las dos raciones que se pide no importa la prisa y aquí vuelvo decir a v. s. que dentro de 4 días, si me hallo mejor, con su respuesta de v. s. iré a obedecer lo que me manda; y siento tanto no poder dar gusto a v. s. por esta causa, cuanto se puede prometer de mi desvelo en el servicio de su majestad y de v. s., a quien guarde Dios muchos años, como deseo. Castillo de San Felipe y Menorca, a 9 de mayo 1644. Thomás de Aúfre y Velasco Gobernador Transcripción literal"
+  ],
+  "literal": [
+    "1. Acavo de Reçivir su Carta de V.S. en que me manda deçir 2. que el serviçio de su M[a]g< > que Dios g< > comviene q luego 3. me llegue aesa Villa. lo qual. hiçiera al mismo punto. 4. si la salud mediera lugar. pero como. es oy el primer dia 5. que me levanto. alcavo de algunos que epadeçido. deun 6. ayre q medio en la muralla. estando sudando. delugar 7. aun entretenim< > queme. dio pasmo unlado que me 8. jmpide el poder ponerme encamino. pero sisepuede dilatar 9. asta q yo Reçiva Respuesta. desta q sera tres uquatro dias 10. jre. enallando me. mas Reforsado. y segun meadho y co- 11. municado su carta de V.S. el castellano sies sobre lasdos 12. Raçiones q sepide no jmporta. la prisa. y assi buelbo a 13. dezir a V.S. que dentro de 4 dias. si meallo mejor con 14. su Respuesta de V.S. jre a obedeçer lo q me manda. y siento 15. tanto. no poder dar gusto a V.S. p esta causa q< > sepuede 16. prometer de mi desvelo enel serv< > desu M[a]g< > y de V.S. aq< > 17. g< > Dios muchos años comodeseo. S[a]< > Ph< > y M< > A 9 de 18. mayo 1644 19. Thomas deÇufre y V< > 20. S< > Gov< > [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "177-116 copia.jpg",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo08/177-116 copia.jpg",
+      "url": "/legajos/legajo-08/images/177-116 copia.jpg"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "177-116 copia.jpg",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (2)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-08/cartas/000921.json",
+  "primary_image_url": "/legajos/legajo-08/images/177-116 copia.jpg"
+}

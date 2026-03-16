@@ -1,0 +1,48 @@
+{
+  "legajo_id": "10",
+  "id_carta": "1166",
+  "order_in_legajo": 35,
+  "signatura": "056-332a",
+  "nombre_carta": "Carta de Jaume Nadal i Riera a Jerónimo Pelegrín de Aragüés",
+  "fecha_original": "28 de julio de 1668",
+  "lugar": "Manacor",
+  "remitente": "Jaume Nadal i Riera",
+  "destinatario": "Jerónimo Pelegrín de Aragüés",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Senyor Jeroni, La de v. m. tinc rebuda i en resposta li dic que fins ací no he pogut trobar més de dues carretades d'ordi que he comprades a raó 1 lliures, 96 la quartera de civada: en ninguna manera no se'n troba el gra cada dia. Jo em penso que si l'ordi se posa a [?] que si en treuran v.m. manarà avisar del gerdor. No dic més. De Manacor i juliol, als 28 da 1668. Jaume Nadal i Riera, criat de v. m. Postdata: servir-se'n d'enviar dos carros per al dit ordi amb tota brevetat. [1§] Al senyor Jeroni Pelegri, que el Senyor guardi. En casa el senyor don Pedro Santacilia En Ciutat. [2§] [Cuentas] Transcripción literal"
+  ],
+  "literal": [
+    "1. Sr. Hieroni la de V.M. tinch rabuda y en resposta li dich 2. que fins asi no e pogut trobar mes de dos Caratades de 3. ordi que e conprades arao 1896 la cortera desiuada en 4. ninguna manera so san troba lo gra cada dia jan pusa 5. jan pansa quasi lordi japosa a [^??^] que sien trauran Vm 6. manara avisar . De lo gerdor??no dich mes. De Manacor 7. y juliol als 28 da 1668. 8. Jaume Nadal y Riera criat de V.M. 9. Posdatam: servirsen de anviar dos caros per lo dit ordi 10. ab tota brevedat. [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "056-332a.jpg",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo10/056-332a.jpg",
+      "url": "/legajos/legajo-10/images/056-332a.jpg"
+    },
+    {
+      "filename": "057-332b.jpg",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo10/057-332b.jpg",
+      "url": "/legajos/legajo-10/images/057-332b.jpg"
+    },
+    {
+      "filename": "057-332bb.jpg",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo10/057-332bb.jpg",
+      "url": "/legajos/legajo-10/images/057-332bb.jpg"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "056-332a.jpg",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING",
+      "message": "Se detectaron caracteres sospechosos de encoding (4)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-10/cartas/001166.json",
+  "primary_image_url": "/legajos/legajo-10/images/056-332a.jpg"
+}

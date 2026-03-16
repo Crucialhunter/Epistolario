@@ -1,0 +1,38 @@
+{
+  "legajo_id": "13",
+  "id_carta": "1775",
+  "order_in_legajo": 38,
+  "signatura": "076:2279.JPG",
+  "nombre_carta": "Carta de Jerónimo del Solar Sobremente y Cisneros a Pedro Santacilia y Pax",
+  "fecha_original": "12 de agosto de 1668",
+  "lugar": "Mallorca",
+  "remitente": "Jerónimo del Solar Sobremente y Cisneros",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Sr. mío déjame v. s. muy alegre con las noticias que se sirve participarme de su feliz llegada a esa corte donde todos los servidores de v. s. logremos nuestros justos deseos en los merecidos aumentos de su persona y casa de v. s. cuya oferta de comunicación acepto, pues será bien menester para digerir la soledad de por acá en el interior que se dispone. Mi pasaje a Valencia o Barcelona a prevenir la posada para la vuelta de v. s. que fió. Le alentará si se ofreciere ocasión para que yo logre estar más en el servicio de v. s. a quien guarde Nuestro Sr. muchos años como deseo, Mallorca y agosto 12 de 1668. El fiscal besa la mano a v. s. estimando sus memorias y se halla con aliento de adelantarse a prevenirnos la posada a ambos. Sr. D. Jeronimo del Solar Sobremente y Cisneros Sr. D. Pedro Santacilia y Pax Transcripción literal"
+  ],
+  "literal": [
+    "1. Sr. mio dexame V.S. mui alegre con las no[-]2. ticias q[u]e se sirue participarme de su feliz3. llegada a esa corte donde todos los seruido[-]4. res de V.S. logremos nuestros justos deseos5. en los merecidos augmentos desu persona6. y casa de V.S. cuia oferta de comunicacion7. acepto pues sera bien menester para digerir8. la soledad de por aca en el interior q se9. dispone mi pasage a Vala o Barna a pre[-]10. uenir la posada para la buelta de V.S. que 11. fio la alentara si se ofreciere ocasion para que12. yo logre esta mas en el seruicio de V.S. a 13. quien gde nro sr. ms años como deseo Ma[-]14. llca y Agto 12. de 1668.15. el sr. fiscal besa la mano a V.S. estimando sus16. memorias y se alla con aliento de adelan-17. tarse apreuernirnos la posada a ambos18. sr. d. ser[?]< [?]>mo del siobar[?]19. sobrem< [?]>te y cisneros20. Sr. D. Pro Sta Cilia y Paz [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "076:2279.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo13/076:2279.JPG",
+      "url": "/legajos/legajo-13/images/076:2279.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "076:2279.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-13/cartas/001775.json",
+  "primary_image_url": "/legajos/legajo-13/images/076:2279.JPG"
+}

@@ -1,0 +1,38 @@
+{
+  "legajo_id": "15",
+  "id_carta": "2239",
+  "order_in_legajo": 138,
+  "signatura": "225:6464.JPG",
+  "nombre_carta": "Carta de Conde de Zavellá a Pedro Santacilia y Pax",
+  "fecha_original": "30 de julio de 1647",
+  "lugar": "Tarragona",
+  "remitente": "Conde de Zavellá",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Señor don Pedro Santacilia Tío y señor mío, Cosa de quince días ha que estoy en Tarragona, de vuelta de Zaragoza. De merced [?] he tenido muy feliz viaje, a Dios gracias, y creo tener igual fin en la excursión de mi último negocio, si bien estoy muy falto de noticias. Escribí a v. m. que por parecerme de fiel volver el caballo desde Madrid [?] a donde le dejé, por muy acorsado lo dejé al conde de Perelada para in [?] coche con otro que tenía y a cuenta de un dinero, que dice el conde haberme gastar para en pleito del señor Nicolas de Tugores, y siendo allí, me pareció muy conveniente el dejárselo. Y mi hermana quedó con muy buena salud, muy contenta y bien recibida. Por acá no hay cosa nueva de que avisar. a esos señores y señoras beso la mano y a v. m., que Dios me guarde como deseo. Tarragona y julio 30 de 1647. Y servidor de v. m. [?], El conde de Zavella. Transcripción literal"
+  ],
+  "literal": [
+    "1. [Margen izquierdo][^Sr D Pedro Santacilia]2. Mio y Sr Mío cosa de quince dias ha 3. q estoy en Tarragona de buelta de Caragoça 4. de Md [?] He tenido muy feliz viaje a Díos 5. Gias y creo tener igual fin en la execucíon 6. de mi ultimo negocio, si bien estoy muy 7. falto de noticías. Escriví aen q por gan=8. arme defial [?] bolver el cavallo desde Ma adon9. de le dexe por muy acorsado, lo dexe al Conde 10. de Perelada pa in [?] coche con otro q tenia y a cuen11. ta dun dinero q dize el Conde averme= 12. Gastar pa en pleyto del Sr Nicolas de Tugoras 13. y siendo ayi me parecio muy conveniente el 14. dexarselo. Y mi hermana quedo con muy 15. buena salud muy contenta y bíen reabida 16. Por aca no ay cosa nueva de q avisar 17. ansos Sres y Señoras b la mano y aem 18. q dios me gde como deseo Tarragona 19. y Julio 30 de 1647 20. Sr Honnos[?] de en 21. Conde de Çavellá [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "225:6464.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo15/225:6464.JPG",
+      "url": "/legajos/legajo-15/images/225:6464.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "225:6464.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-15/cartas/002239.json",
+  "primary_image_url": "/legajos/legajo-15/images/225:6464.JPG"
+}

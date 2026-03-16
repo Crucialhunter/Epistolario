@@ -1,0 +1,43 @@
+{
+  "legajo_id": "32",
+  "id_carta": "7252",
+  "order_in_legajo": 230,
+  "signatura": "363:2010a.JPG",
+  "nombre_carta": "Carta de José Balell a Pedro Santacilia y Pax",
+  "fecha_original": "29 de diciembre de 1666",
+  "lugar": "Barcelona",
+  "remitente": "José Balell",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "[1§] [2§] Transcripción literal"
+  ],
+  "literal": [
+    "1. 1."
+  ],
+  "imagenes": [
+    {
+      "filename": "363:2010a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo32/363:2010a.JPG",
+      "url": "/legajos/legajo-32/images/363:2010a.JPG"
+    },
+    {
+      "filename": "364:2010b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo32/364:2010b.JPG",
+      "url": "/legajos/legajo-32/images/364:2010b.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "363:2010a.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-32/cartas/007252.json",
+  "primary_image_url": "/legajos/legajo-32/images/363:2010a.JPG"
+}

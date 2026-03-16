@@ -1,0 +1,38 @@
+{
+  "legajo_id": "34",
+  "id_carta": "5058",
+  "order_in_legajo": 85,
+  "signatura": "131:6973.JPG",
+  "nombre_carta": "Carta de Bartolomé de Medina a Pedro Santacilia y Pax",
+  "fecha_original": "2 de octubre de 1656",
+  "lugar": "Palermo",
+  "remitente": "Bartolomé de Medina",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Señor mío holgáreme sumamente que v. s. se halla con la salud que sus servidores deseamos, los días pas/ sados escribí más largo respondiendo a la suya por el patrón de la sartana última que salió de aquí, y le remi/ ti unos despachos para Barcelona para Salvador Pico el patrón que las llevo se llama Lorenzo cervera yo espero que habrá tenido buen viaje, y este pliego de cartas es para la misma persona en Barcelona suplico a v. s. me las encamine luego el que las lleva es don Luis coello y Portugal por todas partes bien conocido de quien Podra v. s. Informarse de lo que por acá pasa y de los avisos de Italia cerca del contage aquí se goza de buena salud y el año acido ferillísimo de trigo y aceite, la tartana de Mallorca que esta aquí partirá dentro de quince días no se ofrece otra cosa guarde dos a v. s. muchos años de Palermo a 2 de octubre 1656 Bartolome de Medina 19, extrem inferior Sr. don Pedro Santacilia [1§] Transcripción literal"
+  ],
+  "literal": [
+    "1. Señor Mio olgareme summamente que vsª se alla2. con la salud que sus servidores deseamos, los dias pas/3. sados escrivi mas largo respondiendo ala suya por el4. Patron dela sartana ultima que salio de aquí, y le remi/5. ti unos despachos para Barçelona para Salvador Pico6. el Patron que las llevo se llama lorenzo çervera7. yo espero que abra tenido buen viaje, y este pliego8. de Cartas es para la misma perçona en Barcelona9. suplico a vsª me las encamine luego el que las lleva10. es don luis coello y Portugal por todas partes bien11. conocido de quien Podra vsª Informarse de lo que12. por aca pasa yde los avisos de Ytalia cerca del contage13. aqui se gosa de buena salud y el año açido ferillissimo14. de trigo y aseyte, la tartana de Mallorca que esta15. aqui partira dentro de quinçe dias no se ofreçe otra cosa16. gde dos a vsª muchos años de Palermo a 2 de octubre17. 165618. Barme de Medina19. [29, extrem inferior] Sr. Don Pedro Santa Cilia [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "131:6973.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo34/131:6973.JPG",
+      "url": "/legajos/legajo-34/images/131:6973.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "131:6973.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-34/cartas/005058.json",
+  "primary_image_url": "/legajos/legajo-34/images/131:6973.JPG"
+}

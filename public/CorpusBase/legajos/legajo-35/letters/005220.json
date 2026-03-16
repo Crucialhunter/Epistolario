@@ -1,0 +1,38 @@
+{
+  "legajo_id": "35",
+  "id_carta": "5220",
+  "order_in_legajo": 34,
+  "signatura": "020:8065.JPG",
+  "nombre_carta": "Carta de Tomás Tovar a Pedro Santacilia y Pax",
+  "fecha_original": "30 de abril de 1642",
+  "lugar": "Castillo de San Felipe",
+  "remitente": "Tomás Tovar",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "El sargento mayor se ha resuelto en par tirse hoy, si bien no deje ajustado del todo estos negocios, él dará parte a v. m. a Ayer vino un hombre de Mahón con un billete de v. m. a para que se le pagase una cuerda; se le pagó luego. Aquí no hay cosa de nuevo [?] el trabajo de la artillería se va continuando. Dentro de pocos se dará fin a los remiendos. VRa. me tendrá siempre a su disposición a quien guarde Dios . Del Castillo de San Felipe 30 abril 1642 Don Tomás Tovar [?] Sr. don Pedro Santacilia Transcripción literal"
+  ],
+  "literal": [
+    "1. El sarchento maior sea resuelto en par2. tirse oi si bien no deche aiustado del3. todos estos negosios el dara parte A4. Vma. Aier vino un hombre de maon5. con un billete de Vma. Para que se le6. pagase una cuerda se le pago luego7. Aqui no ai cosa de nuevo [^??] el8. trabacho de la artilleria se va con9. tinuando dentro de pocos se dara10. fin a los remiendos, VRa. me tendra11. siempre a su disposision a quien guarde12. Dios del Castillo de san Filipe 30 abril13. 164214. Don Thomas Tovar[?]15. Sr. Don Pedro Santacilia [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "020:8065.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo35/020:8065.JPG",
+      "url": "/legajos/legajo-35/images/020:8065.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "020:8065.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-35/cartas/005220.json",
+  "primary_image_url": "/legajos/legajo-35/images/020:8065.JPG"
+}

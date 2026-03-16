@@ -1,0 +1,43 @@
+{
+  "legajo_id": "6",
+  "id_carta": "549",
+  "order_in_legajo": 48,
+  "signatura": "032_19a",
+  "nombre_carta": "Carta de Matgí Thomàs a Cecilia Zaforteza y Sureda de Sant Martí",
+  "fecha_original": "24 de febrero de 1742",
+  "lugar": "Palma",
+  "remitente": "Matgí Thomàs",
+  "destinatario": "Cecilia Zaforteza y Sureda de Sant Martí",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Senyora, amb major contento li escric esta a causa que el senyor Pere a l’instant es deixa de mudar-me el pagat i m’ha trobat la cama natural i ben composta, que sols no fet altra cosa que aplicar-me l’altra i està molt content i satisfet de la cura, i jo contentíssim, i m’ha fet donar dues o 3 passes sense crossa i que avui no faci més exercici, perquè el {ESP. pegat} s'aferri millor, però demà i els demés dies que continui amb un exercici moderat fins als 40 dies. Jo confio que amb el favor del Senyor quedaré bé. Les notícies que corren són que ahir a migdia arribà un correu extraordinari de Barcelona amb un plec de cartes i, a la tarda, s’embarcaren els soldats intendent i demés senyors, i avui dematí encara es veien ses veles. [1§] Més, altra notícia, que el pare Gomar del Sant Esperit preguntà a un endemoniat per què havia tallat els matalassos del forn i li respongué que per fer perdre la criatura a la fornera, qui està encinta. I més, diuen que el bisbe avui a la tarda l'ha de conjurar dins la Seu i per esto s’ha de fer un cadafal, les dues necessiten de confirmació i l’última més. La dida ja està bona, Palou sencer com una campana i els demés bons i els besen les mans i donen moltes memòries a les dones i a mestre Ramon. Jo tal qual, encara que no amb les cames, la serviré de bona voluntat en tot el que sia del seu gust manar-me. Palma i febrer 25 de 1742. Son menor capellà i servidor, Matgi Thomas, prevere que ses mans besa. [Glosat]Sols jo qui al pa faig mosses, i augment de cada instant, i en venir-me davant sempre faig renou de crosses. I quan del pa faré trossos que ja em determinaré i quan prest que jo diré fora crosses, fora crosses. Transcripción literal"
+  ],
+  "literal": [
+    "1. S<enyo>ra: a<m>b major contento ly escrich 2. esta á causa que el S< enyo>r Pere el 3. instant es dexa de mudarme el 4. pagat, y me ha trobat la cama na- 5. tural y ben composta, que sols no 6. fet altre cosa que aplicarme lo al- 7. tre y está molt content y satisfet de la 8. cura, y jo contentissim, y me ha fet 9. donar duas o 3 passas sens crossa, y q< ue> 10. vuy no fasse mes exerci[si], perque el 11. pagat se afer millor, pero dema y 12. los demes dias que continua a< m>b un 13. exerci[si] moderat fins a los 40 dias, yo 14. confio, que a< m>b lo favor del Señor quede- 15. re be, las noticias qui corren son que 16. heir amix dia arribá un correu ex- 17. trahordinari de Barcelona a< m>b un 18. plech de cartas, y a la tarda se ember- 19. caren los soldats Intendent y demes S< enyo>rs 20. y vuy damati encare veyen ixes velas [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "032_19a.jpg",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo06/032_19a.jpg",
+      "url": "/legajos/legajo-06/images/032_19a.jpg"
+    },
+    {
+      "filename": "033_19b.jpg",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo06/033_19b.jpg",
+      "url": "/legajos/legajo-06/images/033_19b.jpg"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "032_19a.jpg",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (3)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-06/cartas/000549.json",
+  "primary_image_url": "/legajos/legajo-06/images/032_19a.jpg"
+}

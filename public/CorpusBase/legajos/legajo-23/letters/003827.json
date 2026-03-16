@@ -1,0 +1,38 @@
+{
+  "legajo_id": "23",
+  "id_carta": "3827",
+  "order_in_legajo": 81,
+  "signatura": "160:3240.JPG",
+  "nombre_carta": "Carta de Francisco Gómez a Pedro Santacilia y Pax",
+  "fecha_original": "4 de diciembre de 1643",
+  "lugar": "Lugar sin especificar",
+  "remitente": "Francisco Gómez",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Sr. gobernador y capitán general [?] V. s. no se canse en buscar aquella carta porque yo la he hallado entre unos papeles y mañana siendo Dios servido la llevaré a v. m. a quien guarde Dios los muchos años de mi deseo, de la posada, Diciembre 4 de 1643 D. Francisco Gomez Sr. gobernador [1§] Transcripción literal"
+  ],
+  "literal": [
+    "1. Sor Governador2. y Capn Gl sa3. case4. A la part dreta del foli diu:5. Vsa no se Canse en buscar6. aquella carta porq io la7. he hallado entre unos pa8. peles i mañana siendo dios ser9. vido la llevare a Vsa. a quien10. guarde dios los muchos años11. de mi deseo de la posada xbre12. 4 de 164313. Dr. Franco Gomez14. Sor. Gdor [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "160:3240.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo23/160:3240.JPG",
+      "url": "/legajos/legajo-23/images/160:3240.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "160:3240.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-23/cartas/003827.json",
+  "primary_image_url": "/legajos/legajo-23/images/160:3240.JPG"
+}

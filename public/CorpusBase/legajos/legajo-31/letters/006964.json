@@ -1,0 +1,38 @@
+{
+  "legajo_id": "31",
+  "id_carta": "6964",
+  "order_in_legajo": 203,
+  "signatura": "302:1715.JPG",
+  "nombre_carta": "Carta de Pedro Portocarrero Fernández de Córdoba y Aragón (VII conde de Medellín) a Pedro Santacilia y Pax",
+  "fecha_original": "6 de marzo de 1664",
+  "lugar": "Aranjuez",
+  "remitente": "Pedro Portocarrero Fernández de Córdoba y Aragón (VII conde de Medellín)",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Amigo i mio LLETRA MOLT DIFÍCIL [1§] Transcripción literal"
+  ],
+  "literal": [
+    "1. Amigo y Sor mio LLETRA MOLT DIFÍCIL"
+  ],
+  "imagenes": [
+    {
+      "filename": "302:1715.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo31/302:1715.JPG",
+      "url": "/legajos/legajo-31/images/302:1715.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "302:1715.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (4)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-31/cartas/006964.json",
+  "primary_image_url": "/legajos/legajo-31/images/302:1715.JPG"
+}

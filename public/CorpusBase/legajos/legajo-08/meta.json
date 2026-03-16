@@ -1,0 +1,78 @@
+{
+  "legajo_id": "8",
+  "num_cartas": 170,
+  "num_imagenes": 262,
+  "rango_temporal": [
+    1621,
+    1673
+  ],
+  "remitentes_frecuentes": [
+    {
+      "name": "Persona desconocida",
+      "count": 30
+    },
+    {
+      "name": "Melchor de la Cruz Lozano",
+      "count": 25
+    },
+    {
+      "name": "Thomás Áufre y Velasco",
+      "count": 14
+    },
+    {
+      "name": "Gabriel Seguí",
+      "count": 13
+    },
+    {
+      "name": "Pedro Santacilia y Pax",
+      "count": 7
+    }
+  ],
+  "destinatarios_frecuentes": [
+    {
+      "name": "Persona desconocida",
+      "count": 136
+    },
+    {
+      "name": "Pedro Santacilia y Pax",
+      "count": 25
+    },
+    {
+      "name": "No consta",
+      "count": 2
+    },
+    {
+      "name": "Gobernador de Menorca",
+      "count": 2
+    },
+    {
+      "name": "Jurados de Menorca",
+      "count": 1
+    }
+  ],
+  "lugares_frecuentes": [
+    {
+      "name": "Maó",
+      "count": 38
+    },
+    {
+      "name": "Castillo de San Felipe (Menorca)",
+      "count": 36
+    },
+    {
+      "name": "lugar sin especificar",
+      "count": 28
+    },
+    {
+      "name": "Lugar sin especificar",
+      "count": 20
+    },
+    {
+      "name": "Ciutadella",
+      "count": 17
+    }
+  ],
+  "temas_frecuentes": [],
+  "warnings_count": 44,
+  "densidad_narrativa_estimada": "Media"
+}

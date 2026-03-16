@@ -1,0 +1,38 @@
+{
+  "legajo_id": "30",
+  "id_carta": "6538",
+  "order_in_legajo": 119,
+  "signatura": "016:5376",
+  "nombre_carta": "Carta de No consta a Persona desconocida",
+  "fecha_original": "17 de enero de 1640",
+  "lugar": "Mallorca",
+  "remitente": "No consta",
+  "destinatario": "Persona desconocida",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Â [1§] Transcripción literal"
+  ],
+  "literal": [
+    "1."
+  ],
+  "imagenes": [
+    {
+      "filename": "016:5376.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo30/016:5376.JPG",
+      "url": "/legajos/legajo-30/images/016:5376.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "016:5376.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (3)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-30/cartas/006538.json",
+  "primary_image_url": "/legajos/legajo-30/images/016:5376.JPG"
+}

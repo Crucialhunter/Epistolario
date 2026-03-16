@@ -1,0 +1,43 @@
+{
+  "legajo_id": "28",
+  "id_carta": "4776",
+  "order_in_legajo": 90,
+  "signatura": "128:3710a.JPG",
+  "nombre_carta": "Carta de Juan Jerónimo Eraso a Pedro Santacilia y Pax",
+  "fecha_original": "29 de mayo de 1639",
+  "lugar": "Lanaja",
+  "remitente": "Juan Jerónimo Eraso",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Es imposible exagerar el contento que con la de v. m. de 24 del presente he tenido por saber goza salud. Ruego a Dios sea tan feliz con tan prósperos aumentos como v. m. merece Y yo, su mas afecto criado necesito. No quiero a costa de mi papel granjearme cortesías, que las que conmigo ostenta v. m. son excesivas y las estimo sobre mis ojos. Pero por si acaso fuere necesario ejercitarlas con otros como quien tan bien lo sabe hacer envío esas dos manos besando las de v. m. por tanta merced como siempre, y ahora en particular, me hace. Que aunque me juzgo indigno por mis deméritos anhelo a ella por los merecimientos de mi Sr. Jesucristo. Reciba v. m. de todos estos señores muchos recados, y delos de mi parte afectuosísimos a Rocheli, y con toda llaneza. [margen izquierdo]Amo y Sr. [1§] Vea si gusta de algo en que yo pueda servir a v. m. que ninguno con más veras ni con tanto gusto acudirá a cuanto fuese del de v. m. A quien me guarde Dios tantos años como puede y deseo en esta su casa de Lanaja, y mayo 29 de 1639. De v. m. El licenciado Juan Per. Eraso. [margen derecho, en vertical] Lanaja, 29 mayo 1639. El ldo. Jeronimo de Eraso [o Duras] [?] Transcripción literal"
+  ],
+  "literal": [
+    "1. Es imposible exagerar el contento q.2. con la de vm de 24 del pressente3. he tenido por saber goça salud ruego4. a Dios sea tan feliz con tan prospe5. ros aumentos como vm mereçe Y yo6. su mas afecto criado neçesito.7. No quiero acosta de mi papel granje8. arme cortesias q las q con migo os9. tenta vm son excesivas y las esti10. mo sobre mis ojos pero por si acaso11. fuere neçesario exercitar las con otros12. como quien tambien lo sabe haçer13. inbio essas dos manos bessando las14. de vm por tanta md. como siempre15. y aora en particular me haçe q aunque16. me juzgo indigno por mis demeritos17. anello a ella por los merecimientos18. de mi Sr. Jesu Christo.19. Reciva vm de todos estos señores muchos20. recados y de los de mi parte afectuo21. sissimos à Rocheli y con toda llaneça22. [margen izquierdo] 23. amo y Sr. [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "128:3710a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo28/128:3710a.JPG",
+      "url": "/legajos/legajo-28/images/128:3710a.JPG"
+    },
+    {
+      "filename": "129:3710b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo28/129:3710b.JPG",
+      "url": "/legajos/legajo-28/images/129:3710b.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "128:3710a.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-28/cartas/004776.json",
+  "primary_image_url": "/legajos/legajo-28/images/128:3710a.JPG"
+}

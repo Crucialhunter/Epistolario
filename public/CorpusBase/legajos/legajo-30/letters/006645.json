@@ -1,0 +1,38 @@
+{
+  "legajo_id": "30",
+  "id_carta": "6645",
+  "order_in_legajo": 145,
+  "signatura": "177:5483",
+  "nombre_carta": "Carta de Francesc Delabau a Persona desconocida",
+  "fecha_original": "13 de noviembre de 1651",
+  "lugar": "Mallorca",
+  "remitente": "Francesc Delabau",
+  "destinatario": "Persona desconocida",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Â [1§] Transcripción literal"
+  ],
+  "literal": [
+    "1."
+  ],
+  "imagenes": [
+    {
+      "filename": "177:5483.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo30/177:5483.JPG",
+      "url": "/legajos/legajo-30/images/177:5483.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "177:5483.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (3)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-30/cartas/006645.json",
+  "primary_image_url": "/legajos/legajo-30/images/177:5483.JPG"
+}

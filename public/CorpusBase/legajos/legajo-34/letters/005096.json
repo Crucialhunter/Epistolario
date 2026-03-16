@@ -1,0 +1,38 @@
+{
+  "legajo_id": "34",
+  "id_carta": "5096",
+  "order_in_legajo": 124,
+  "signatura": "191:7011.JPG",
+  "nombre_carta": "Carta de Basilio de Castellví y Ponce a Pedro Santacilia y Pax",
+  "fecha_original": "29 de abril de 1657",
+  "lugar": "Valencia",
+  "remitente": "Basilio de Castellví y Ponce",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Señor mío en todas ocasiones de senre soli estar muy buenas nuevas de su salud de v. s. ian no he querido perder esa ocasión, del pasaje del doctor jor/ ge rosellon, persona desantas puendas, que no se deja con solidad inausencia y a mi muy in particular, v. s. sia cuerde, de mandarme en que lesirva, y nos mande a los de esta casa, doña laura besa a v. s. las manos y Giuseppe dice que melebusq una nuera. Dios Guar/ dé a v. s. como deseo de Va a 29 de abril 1657 Ba v. s. s mo su mar servidor Sr. don Basilio de Castellvi y Ponce 13, extrem inferior Sr. don Pedro de Santacilia [1§] Transcripción literal"
+  ],
+  "literal": [
+    "1. Señor mio en todas ocasiones de [senre] soli estar mui2. buenas nuevas de su salud de vs ian no he querido3. perder essa ocasión, del pasaje del Sor dotor jor/4. ge rosellon, persona desantas puendas, q nosedeja5. con solidad inausencia y ami mui in par ticular, vs6. sia cuerde, de mandarme enq lesirva, i nos mande7. alos de esta casa, doña laura besa a vs las manos8. y Jusepe dize q melebusq una nuera. dios Guar/9. de a vs como deseo de Va a 29 de Abril 165710. Ba vs s[u] mo su mar sdor11. don Basilio de Castelui12. y Ponçe13. [23, extrem inferior] Sor don Po de Santasilia [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "191:7011.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo34/191:7011.JPG",
+      "url": "/legajos/legajo-34/images/191:7011.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "191:7011.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-34/cartas/005096.json",
+  "primary_image_url": "/legajos/legajo-34/images/191:7011.JPG"
+}

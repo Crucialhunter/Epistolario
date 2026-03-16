@@ -1,0 +1,38 @@
+{
+  "legajo_id": "23",
+  "id_carta": "3750",
+  "order_in_legajo": 6,
+  "signatura": "004:3162",
+  "nombre_carta": "Carta de Ramón Rubí de Marimón a Persona desconocida",
+  "fecha_original": "13 de mayo de 1627",
+  "lugar": "Oviedo",
+  "remitente": "Ramón Rubí de Marimón",
+  "destinatario": "Persona desconocida",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "En que paraísos vive v. m. que llama destierro a Barcelona. A mi muy buena dicha me pareciera poder volver a ella cuando no se grangeará más que salir de esta taberna de las escuelas y acabar de andar a los mojicones espirituales como andamos aquí en nuestras peleas del entendimiento sin que nos dejen lugar ni gusto para matar la hambre que en v. m. vive y creo que vivirá como a tan gran patriarca. No ha sido malo el salto de mata y espero que durará poco el rigor del Sº. tribunal, y lo cierto es que cuando sea cierto lo que por ahí se ha dicho para estar más cerca de v. m. me holgaré mucho que con eso podré esperar que se ofrecerá en que poder servir a v. m., cuya vida guarde Dios muchos años, en este mayor de Oviedo de Salca. a 13 de mayo 1627. Don Ramon Rubi de Marimon Transcripción literal"
+  ],
+  "literal": [
+    "1. En que paraisos vive Vm. que llama destierro a Barca2. a mi mui buena dicha me pareciera poder bolver aella3. quando no se prangeara mas que salir desta tabona4. de las escuelas y acabar de andar a los moxicones espi=5. rituales como andamos aqui en nuestras peleas del en=6. tendimiento sin que nos dexen lugar ni gusto para matar7. la hanbre que en Vm. vive y creo que vivira como a tan gra8. Patriarca No ha sido malo el salto de mata y espero que9. durara poco el rigor del So tribunal. y lo cierto es que cuan-10. do sea cierto lo que por ahi se ha dicho para estar mas11. cerca de Vm. me holgare mucho que con eso podre espe=12. rar que se ofrecera en que poder servir a Vm. cuia vida13. ge Dios muchos años en este maior de Oviedo de Salca14. a 13. de Maio 1627.15. Don Ramon Rubi16. de Mar.y.mon [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "004:3162.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo23/004:3162.JPG",
+      "url": "/legajos/legajo-23/images/004:3162.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "004:3162.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (3)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-23/cartas/003750.json",
+  "primary_image_url": "/legajos/legajo-23/images/004:3162.JPG"
+}

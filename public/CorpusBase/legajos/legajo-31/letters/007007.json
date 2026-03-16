@@ -1,0 +1,43 @@
+{
+  "legajo_id": "31",
+  "id_carta": "7007",
+  "order_in_legajo": 246,
+  "signatura": "363:1758a.JPG",
+  "nombre_carta": "Carta de Magín Ribes a Pedro Santacilia y Pax",
+  "fecha_original": "17 de noviembre de 1664",
+  "lugar": "Ibiza",
+  "remitente": "Magín Ribes",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "el dador de esta será siendo Dios servido el Cristobal Roselln que además de que lleva su recomendación en si mismo no puedo dejar en esta ocasión de suplicar a v. s. . le [?] debajo el amparo de v. s. en todo aquello que será justo que lo estimaré mucho por las obligaciones que hay entre mi y el de primos conq. no tengo que [?] en esta materia a v. s. . Por no cansar a v. s. . con carta delatada remito todo lo que tengo de decir sobre ciertas particularidades, a lo que dicho Rosellón informara a v. s. . de palabra, a quien podía dar v. s. . todo crédito por ahora no se me ofrece otro de que avisar a v. s. . si que nutro. Guarde. muchos años como los aficionados deseamos, Eivisa nobre a 17 de 1664 de v. s. . Illª. que S. m. b. Magin Ribes Sr. don Pedro Santacilia Vistas cartas de varios amigos dirijidas a D. Pedro Santacilia y Pax y a Jeronimo Pelegri y otros correspondencia de D. Pedro con su hijo Sr. D. Nicolas Transcripción literal"
+  ],
+  "literal": [
+    "1. el dador desta sera siendo Dios servido el Sr. Christoval 2. Rosselln que ademas de que lleva su recomendaçion en si mismo 3. no puedo dexar en esta ocasion de suplicar a VSª. le [?] 4. ?? debaxo el amparo de V. Sª. en todo aquello que sera justo 5. que lo estimare mucho por las obligaçiones que hay entre mi 6. y el de primos conq. no tengo que [?] en esta materia 7. a VSª. 8. Por no cansar a VSª. con carta delatada remito todo lo que 9. tengo de desir sobre siertas particularidades, a lo que 10. dicho Rossellon informara a VSª.de palabra, a quien 11. podia dar VSª. todo credito por agora no se me ofreçe 12. otro de q. avisar a VSª. si que nutro. Sr. Gde. muchos 13. años como los afiçionados deseamos, Iviça nobre a 17 14. de 1664 15. De VSª. Illª. q. S. m. b. 16. Magin Ribes 17. Sr. Don Pedro Sta. Çilia [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "363:1758a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo31/363:1758a.JPG",
+      "url": "/legajos/legajo-31/images/363:1758a.JPG"
+    },
+    {
+      "filename": "364:1758b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo31/364:1758b.JPG",
+      "url": "/legajos/legajo-31/images/364:1758b.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "363:1758a.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-31/cartas/007007.json",
+  "primary_image_url": "/legajos/legajo-31/images/363:1758a.JPG"
+}

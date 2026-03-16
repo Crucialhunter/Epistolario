@@ -1,0 +1,38 @@
+{
+  "legajo_id": "11",
+  "id_carta": "1448",
+  "order_in_legajo": 210,
+  "signatura": "378:5303.JPG",
+  "nombre_carta": "Carta de Llorens Perelló a Pedro Santacilia y Pax",
+  "fecha_original": "11 de julio de 1651",
+  "lugar": "Selva",
+  "remitente": "Llorens Perelló",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Molt Honorable : Com a mínim criat de v. s. el suplico me faci mercè que en esta vila de Selva i hagut renja entre dones i una d'elles es me nebode i s'han fet dos avisos al virrei, i com és cosa de dones impertinets al batle a enviats els dits avisos avui les parts han llevada l'estància en el batle i s'ha fet un avís que ve amb esta com són bones amigues i no volen cosa la una gra l'altra, v. s. me farà mercè de parlar-ne al virrei, o al Magistrat Jutge de corts per excusar despeses confiat que v. s. m'honrera com sempre [?] acusdemat [?] i perquè de l'enfado que Déu li pagara per ses persones pobres. Guardi Déu a v. s. Selva 11 juliol 1651 Criat de v. s. prompte Llorenç Perello. [1§] Transcripción literal"
+  ],
+  "literal": [
+    "1. Molt Hble Sr.:2. Com a minim criat de VS lo supplo me 3. fassa merd de que en esta vila de Selva hi 4. agut renja entre dones y une de elles es 5. me nebode y se han fet dos avisos al Sr. 6. virey, y com es cosa de dones impertinets al 7. balle a enviats los dits avisos vuy les 8. parts an llevade la estancia en el balle 9. i se ha fet un avis que ve ab esta com 10. son bones amigues i no volen cosa la una 11. g la altre, VS me fera md de pallarne 12. al sr. Virey, o al Magt Jutge de corts per 13. escusar despeses confiat que VS me honrrera 14. con sempre [^??acusdemat??^] y perque del enfado 15. que Deu ley pagara per ses persones pobres. 16. Gde deu a VS Selva 11 juliol 1651 17. Criat de VS prompta 18. Llorens Perello. [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "378:5303.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo11/378:5303.JPG",
+      "url": "/legajos/legajo-11/images/378:5303.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "378:5303.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-11/cartas/001448.json",
+  "primary_image_url": "/legajos/legajo-11/images/378:5303.JPG"
+}

@@ -1,0 +1,38 @@
+{
+  "legajo_id": "25",
+  "id_carta": "4143",
+  "order_in_legajo": 76,
+  "signatura": "155_177.JPG",
+  "nombre_carta": "Carta de Bartomeu Estada a Jerónimo Pelegrín de Aragüés",
+  "fecha_original": "16 de junio de 1667",
+  "lugar": "Mallorca",
+  "remitente": "Bartomeu Estada",
+  "destinatario": "Jerónimo Pelegrín de Aragüés",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Senyor Jeroni Fer-me mercè de l'aigua que s'ha de lliurar de l'Alqueria del comte la nit dels dimarts a vespre que és lliura al doctor de ja que faci compte v. m. que el doctor de ja és cosa mia. Amb el procurador reial i a la Sra. dona Leonor que els besa les ans que si els importa ninguna cosa d'estes parts que em manin que els serviré amb molt gran gust i no més d'esta sa casa i juny als 16 de 1667. De v. m. Bartomeu Estada, prevere [?] Al Sr. Jeroni Pelegri, guardi Déu etts. Ciutat Transcripción literal"
+  ],
+  "literal": [
+    "1. Señor Geroni2. Ferma merçe de laygua qui se ha de3. lliurar de le alcaria del comte le nit dels4. dimarts a vespra q es liura a nel doctor de ia5. q fasse comte Vm. q al doctor de ia es6. cosa mia: an el Sr Percurador real y a la 7. Sra. dona Alianor q ells besa las ans8. q si ells inporta niguna cosa de estas pa[r]9. ts quem manen q els servire en molt gra10. gusts y no mes deste se cassa y juny als11. 16 de 166712. De Vm. Barthome[u]13. stada prom14. Al Sr. geroni paleg[r]15. i guarda deu ett16. Ciutat [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "155_177.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo25/155_177.JPG",
+      "url": "/legajos/legajo-25/images/155_177.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "155_177.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (4)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-25/cartas/004143.json",
+  "primary_image_url": "/legajos/legajo-25/images/155_177.JPG"
+}

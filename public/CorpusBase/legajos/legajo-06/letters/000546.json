@@ -1,0 +1,38 @@
+{
+  "legajo_id": "6",
+  "id_carta": "546",
+  "order_in_legajo": 45,
+  "signatura": "027_16",
+  "nombre_carta": "Carta de Josepa Marimon a Cecilia Zaforteza y Sureda de Sant Martí",
+  "fecha_original": "14 de enero de 1742",
+  "lugar": "Barcelona",
+  "remitente": "Josepa Marimon",
+  "destinatario": "Cecilia Zaforteza y Sureda de Sant Martí",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Barcelona i gener 14 de 1742 Amiga i molt señora mia. Rebo la carta de v. s. amb l’estimació que ella se mereix i estimant les expressions a v. s. mereix, en tenir jo el menor mèrit, {ESP. pues} tot s’ha d’atribuir al bon geni de v. s. del qual estic ben informada i, així mateix, del gran mèrit de v. s. {ESP. pues} la seva germana en totes les cartes m’expresa allò molt deu a v. s. i a d. Francesc a qui saludo amb tot afecte i no em puc dilatar més per marxar {ESP. luego} el correu i quedo tota de cor de v. s. pregant a Déu que guardi a v. s. els molts anys com pot i desitjo. Besa les mans de v. s. Sa major amiga de v. s. Dna. Josepa Marimon Amiga i senyora mia Transcripción literal"
+  ],
+  "literal": [
+    "1. Barcelona y Jener 14 de 1742 2. Amiga y mol S< enyo>ra Mia 3. rebo la carta de V.S. a< m>b la 4. estimasio que ella se ma- 5. reix y estimant las expresi- 6. ons a V.S. mareix, en te- 7. nir yo lo menor merit 8. pues tot se ha de atribu- 9. ir al bon jeni de V.S. 10. del qual estit ben infor- 11. mada y axi mateix del 12. gran merit de V.S. pues 13. ma su germana a< m>b to- 14. tas las cartas me expresa 15. lo mol deu a V.S. y a Dn. 16. Fransesc aqui saludo a< m>b 17. tot afechta y no em puc- 18. h dilatar mes per marxar 19. luego lo correu y quedo tota 20. de cor de V.S. pregan a Deu 21. que g< uar>de a V.S. los m< olt>s a< ny>s com 22. pot y dessitjo 23. B< esa> L< a> M< à> de V.S. 24. Sa major Amiga 25. de V.S. 26. Da. Josepa Marimon 27. Amiga y S< enyo>ra 28. mia. [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "027_16.jpg",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo06/027_16.jpg",
+      "url": "/legajos/legajo-06/images/027_16.jpg"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "027_16.jpg",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-06/cartas/000546.json",
+  "primary_image_url": "/legajos/legajo-06/images/027_16.jpg"
+}

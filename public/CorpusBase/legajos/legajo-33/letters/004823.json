@@ -1,0 +1,42 @@
+{
+  "legajo_id": "33",
+  "id_carta": "4823",
+  "order_in_legajo": 18,
+  "signatura": "021:6739a.JPG",
+  "nombre_carta": "Carta de conde de Peralada a No consta - Probablemente Pedro Santacilia y Pax",
+  "fecha_original": "12 de diciembre de 1627",
+  "lugar": "Barcelona",
+  "remitente": "conde de Peralada",
+  "destinatario": "No consta - Probablemente Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "La imatge no és nítida [1§] Transcripción literal"
+  ],
+  "literal": [
+    "1. La imatge no és nítida"
+  ],
+  "imagenes": [
+    {
+      "filename": "021:6739a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo33/021:6739a.JPG",
+      "url": "/legajos/legajo-33/images/021:6739a.JPG"
+    },
+    {
+      "filename": "022:6739b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo33/022:6739b.JPG",
+      "url": "/legajos/legajo-33/images/022:6739b.JPG"
+    },
+    {
+      "filename": "023:6739c.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo33/023:6739c.JPG",
+      "url": "/legajos/legajo-33/images/023:6739c.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "021:6739a.JPG",
+  "warnings": [],
+  "raw_source": "raw/legajos/legajo-33/cartas/004823.json",
+  "primary_image_url": "/legajos/legajo-33/images/021:6739a.JPG"
+}

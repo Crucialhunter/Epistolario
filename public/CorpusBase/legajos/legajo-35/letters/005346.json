@@ -1,0 +1,38 @@
+{
+  "legajo_id": "35",
+  "id_carta": "5346",
+  "order_in_legajo": 121,
+  "signatura": "180:8193.JPG",
+  "nombre_carta": "Carta de Jaume Martí a Pedro Santacilia y Pax",
+  "fecha_original": "4 de diciembre de 1644",
+  "lugar": "Palermo",
+  "remitente": "Jaume Martí",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Pel que sé que al senyor castellà Bartolo mé de Medina ha escrit a v. m. ª i amb una carta i li envia a dir que Jau me Martí ha assentada placia per a no perdre el temps, i se jo que desit ja servir-lo, per tant, li don {ESP. enfado} i li deman que quan Vosa Mercè li escrigui que li diga v. s. em pot ajudar en alguna cosa, perquè jo sé que no desitja sin quo ma [?] li m'han i coses seues per a servir-lo. I quan arribiací em va enviar ha de manar i em digué si coneixia. sa [?] i si esta raó. Jo li diguí que bé el conei xia i que era criat d'un nebot seu. en [?] em digué que si havia menester alguna cosa, que avisàs i si volia servir el rei que m’ajudaria en tot el que podria. I em fa molt més mercè que jo no meresc. Així li demanen tot que jo no ho meresca, basta que en sia criat en casa de son nebot, que me favoresca en el que porà (sic). Jo he escrit en el senyor en què li farà recordant que enviï una carta de favor. Nostre Senyor el guard els anys que per a mi desig. Palerm, i desembre a 4 de l'any 1644, pel que em manarà. Jaume Martí Sr. don Pedro Santacilia Transcripción literal"
+  ],
+  "literal": [
+    "1. Par lo q se q Al Sañor castalla Bartolo2. me de medina a escri[t a Vmª y]3. Ab una carte y li anvia a dir q Jau4. ma Marti a esentada plasa para no5. perda al temms y se yo de q dasy6. gga sarvirlo par tant li don anfado7. y li daman q quant Vosa Ma. li escriga8. q li diga V.S. an pot agudar an alguna9. cosa parq go se q no desigga sin quo10. ma li man y cosas seuas para sarvirlobr> y quant aribi esi an va anviar a da11. manar y an dige si conaxia [...]12. sa y si esta raho go li digi q bel cona13. xia y q era c[r]iat de un nabot seu en14. an dige q si avia manaster alguna 15. cosa q avisas y si volia sarvir al rei16. q magudaria an tot lo q podria y17. an fa molt mes marse q go no maresc18. axi li dama nan tot q go nou19. marasca basta q an sia criat an20. casa de son nabot q ma favorasca21. an lo q pora yo escrit an al Señor22. an q li fara recordant q anvi una23. carta de favor Nostro Sañor lo gu[a]rt24. los añs q para mi dasyg Palerm25. y desembra a 4 del añ 1644 par lo26. quen manara27. Jauma Marti28. Sr. don Pedro29. Santasilia [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "180:8193.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo35/180:8193.JPG",
+      "url": "/legajos/legajo-35/images/180:8193.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "180:8193.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-35/cartas/005346.json",
+  "primary_image_url": "/legajos/legajo-35/images/180:8193.JPG"
+}

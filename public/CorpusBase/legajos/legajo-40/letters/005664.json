@@ -1,0 +1,37 @@
+{
+  "legajo_id": "40",
+  "id_carta": "5664",
+  "order_in_legajo": 116,
+  "signatura": "042:16a.JPG",
+  "nombre_carta": "Carta de Persona desconocida a Pedro Santacilia y Pax",
+  "fecha_original": "22 de diciembre de 1664",
+  "lugar": "Mallorca",
+  "remitente": "Persona desconocida",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "A 22 desembre 1664 te rebut el procurador reial per mà de me. Antoni Riera tres centes ll, dic 300 ll. Marti Castells Caixer. El següent full és comte de mi Sr. don Pedro Santacilia que yo me. Miquel Caimari ha fet per les feines per son compte [1§] Transcripción literal"
+  ],
+  "literal": [
+    "1. A 22 10bre 1664 te rebut lo Sr procurador rayal p[er] ma de me. Antoni Riera tres centes ll, dich 300 Ll Marti Castells caxer. El seg&uulm;ent foli és Comte de mi Sr, don Pedro Santacilia que jo me. Michel Caimari e fet per les feines pe son comte"
+  ],
+  "imagenes": [
+    {
+      "filename": "042:16a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo40/042:16a.JPG",
+      "url": "/legajos/legajo-40/images/042:16a.JPG"
+    },
+    {
+      "filename": "043:16b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo40/043:16b.JPG",
+      "url": "/legajos/legajo-40/images/043:16b.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "042:16a.JPG",
+  "warnings": [],
+  "raw_source": "raw/legajos/legajo-40/cartas/005664.json",
+  "primary_image_url": "/legajos/legajo-40/images/042:16a.JPG"
+}

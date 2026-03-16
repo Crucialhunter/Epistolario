@@ -1,0 +1,43 @@
+{
+  "legajo_id": "40",
+  "id_carta": "5706",
+  "order_in_legajo": 89,
+  "signatura": "103:58a",
+  "nombre_carta": "Carta de Jerónimo Villanueva a Persona desconocida",
+  "fecha_original": "6 de septiembre de 1660",
+  "lugar": "Madrid",
+  "remitente": "Jerónimo Villanueva",
+  "destinatario": "Persona desconocida",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "El rey Egregio, conde de Plasencia, pariente de mi Lugarteniente y capitán. general habiéndose entendido que han vacado el corral real de esa ciudad y escribanía de Binisalem por muerte de Juan Bata. Fuster, han dado memorial en este mi Consejo Supremo pidiendo estos oficios Jeronimo Pelegrin y Aragues en consideración de haberme servido en el sitio de Lérida el año de 46 en la compañía del capitán. Marco Antonio Net del tercio de ese reino y el mismo año pasado en Tarragona y estuvo de guarnición en ella el año de 49 se embarcó y sirvió con una pica en Cataluña hasta que mis reales armadas se retiraron a Aragón y de hallarse casado con obligación de dos hijos Josep Xoriguera en consideración de haber perdido su hacienda con la invasión del francés en Tamarite de Litera, y haber asistido a los fiscales de este mi Consejo Supremo Sr. don Diego Serra de Froncillas [?] y don Miguel Perez de Nuevos que el año 1653 paso a servir en el oficio de procurador fiscal de la visita del real Patrimonio de ese reino, y que tiene hijos y mujer que sustentar Gabriel Estada en consideración de haberme servido de soldado diez años en los estados de Milán, y haberlo hecho el capitán. Gabriel Estada su tío que murió en el sitio de Valencia del [?] y un hermano del suplicante en los galeones, y porque tiene en ese reino padre muy viejo, pobre y enfermo y una hermana viuda, a quien es sustenta Giuseppe Fuster y Martin padre del difunto [1§] por quien ha vacado estos oficios en consideración de los servicios del Dr. Bernardo Martin, que fue muchos años Asessor del Go vernador de Ibiza, y de quedarle cuatro hijos de poca edad Nicolas Riera asimismo en consideración de más de 100 [?] años de servicios de su Bisabuelo, y Abuelo en el oficio de Macero de esa Audiencia y asistido el Abuelo a la prisión de muchos Bandidos, y en la veeduria del ejército de Cataluña por tiempo de cuatro años en el sitio de Tarragona y Antonio Parpal en consideración de 78 años que sirvieron de soldados de a caballo en la isla de Menorca su padre y hermano y de haber asitido el a los regentes Fontanet y Ortiz más de 18 y ha parecido antes [?] tratar de la provisión de estos oficios encargar y mandaros (como lo hago) me informéis de las partes y méritos de estos sujetos y enviéis terno de los que de ellos otros os parecieren más a propósito diciendo el valo de cada uno de estos oficios para que con noticia de todo mandare lo que más convenga. Dat en Madrid a VI de septiembre MDCLX yo el rey Jeronimo Villanueva Prot. al virrey de Mallorca [2§] Transcripción literal"
+  ],
+  "literal": [
+    "1. El Rey2. Egregio Conde de Plasencia, Pariente de mi Lugart[enient]e y Capn. Gl.3. Haviendose entendido que han vacado el Corral Rl. dessa4. Ciudad y escrivania de Binisalem por muerte de Juan Batta.5. Fuster, han dado mem[orial] eneste mi Consseº Supp[re]mo pidiendo estos officios6. Geronimo Pelegrin y Aragues en considera[ci]on de haverme servido7. en el sitio de Lerida el año de 46 en la Compañia del Capn. Marco8. Antonio Net del Tercio desse Reyno y el mismo año passado9. en Tarragona y estuvo de guarnicion en ella el año de 4910. se embarco y srivio con una pica en Cataluña hasta que mis Rls. 11. Armas se retiraron a Aragon y de hallarse casado con obligacion12. de dos hijos= Joseph Soriguera en consideraçion de haver perdido su13. haçienda con la invasion del Frances en Tamarite de Litera, y haver asistido14. a los Fiscales deste mi Consº Sup[re]mo Don Diego Serra de Fronzillas[?] Y Don15. Miguel Perez de Nuevos que el año 1653 passo a servir en el offiçio de16. Procurador Fiscal de la visita del Rl. Patrimonio desse Reyno, y que tiene17. hijos y muger que sustentar= Gabriel Estada en consideracion de haverme18. servido de soldado diez años en los estados de Milan, y haverlo hecho19. el Capn. Gabriel Estada su tio que murio en el sitio de Valençia 20. del [?] y un hermano del suplicante en los galeones, y porque tiene21. enesse Reyno Padre muy biejo, pobre y enfermo y una hermana22. viuda, a quienes sustenta= Jusepe Fuster y Martin P[adr]e del difunto [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "103:58a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo40/103:58a.JPG",
+      "url": "/legajos/legajo-40/images/103:58a.JPG"
+    },
+    {
+      "filename": "104:58b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo40/104:58b.JPG",
+      "url": "/legajos/legajo-40/images/104:58b.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "103:58a.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-40/cartas/005706.json",
+  "primary_image_url": "/legajos/legajo-40/images/103:58a.JPG"
+}

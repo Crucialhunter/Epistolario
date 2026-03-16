@@ -1,0 +1,38 @@
+{
+  "legajo_id": "12",
+  "id_carta": "1656",
+  "order_in_legajo": 161,
+  "signatura": "239_6249.JPG",
+  "nombre_carta": "Carta de Francisco Díaz Pimienta a Pedro Santacilia y Pax",
+  "fecha_original": "30 de septiembre de 1651",
+  "lugar": "Madrid",
+  "remitente": "Francisco Díaz Pimienta",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Señor mio, porque dentro de dos días parto a embarcarme a Vinarós y espero brevemente besar a v. s. las manos. Escribirá esta de suplicarle me haga merced de hacerme comprar doscientas gallinas, veinticuatro carneros, un quintal de buenas alcaparras y una barrica de cuatro en pipa de buen [?], dando memoria del patrón que lo llevará de lo que hubiere cortado para que lleve el dinero y mande v. s. que añada trescientas o cuatrocientas cebollas y ajos en correspondencia y perdone v. s. esta cacería quédome su amigo viejo me trajo a darle este embarazo y a suplicarle me envíe algunas cantarillas para refrescar el agua de las [?] con que otra vez me regaló. Remito a la vista hablar en el particular de las [?] que tengo en buen [?]. Dios guarde a v. s. los muchos años que deseo. Madrid 30 de septiembre de 1651. Presto besare a [?] las manos Francisco Diaz Pimienta Sr. D. Pedro Santacilia y Pax Transcripción literal"
+  ],
+  "literal": [
+    "1. Señor mio Por que dentro de dos dias parto a embarcarme 2. a Vinaros y espero brevemente vesar a VS. las manos 3. Scrivira esta dessuplicarle me haga md. de Hazerme 4. comprar dozientas gallinas veyntey quatro carneros 5. un quintal de buenas alcaparras y una barrica de 6. a quatro en pipa de buen [?] dando memoria de 7. Patron que lo llebara de lo que ubiere cortado para 8. que lleve el dinero y mande VS que añada trecien9. tas o quatrozientas zevollas y ajos en correspon10. denzia y perdone VS. esta casseria quedo me su 11. amigo viejo me traio a darle este embarazo 12. y assuplicarle me ymbie algunas cantarillas para 13. refrescar el agua de las [?] con que otra 14. vez me regalo. 15. Remito a la vista ablar en el particular de las [?] 16. que tengo en buen [?] Dios gde. a VS. los ms aº 17. que desseo Md 30 de Septe de 1651. 18. Presto besare a [?] las manos 19. Franco. Diaz Pimentel 20. Sr. D. Pedro Santa Sicilia y Pax [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "239_6249.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo12/239_6249.JPG",
+      "url": "/legajos/legajo-12/images/239_6249.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "239_6249.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-12/cartas/001656.json",
+  "primary_image_url": "/legajos/legajo-12/images/239_6249.JPG"
+}

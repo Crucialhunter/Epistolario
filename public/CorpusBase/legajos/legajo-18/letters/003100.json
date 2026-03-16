@@ -1,0 +1,38 @@
+{
+  "legajo_id": "18",
+  "id_carta": "3100",
+  "order_in_legajo": 137,
+  "signatura": "213:4939.JPG",
+  "nombre_carta": "Carta de Pedro Perelló a Pedro Santacilia y Pax",
+  "fecha_original": "22 de mayo de 1665",
+  "lugar": "Valencia",
+  "remitente": "Pedro Perelló",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "bien Save v. s. el tiempo que ha estoy fuera 2+ de mi casa obedeciendo su inviolable manda miento, y aunque este mil años no movere el pie sin orden de v. s. El Jeronimo pasa, a, esa ciudad dará razón a v. s. de mi estado, confío que v. s. me ha de honrar con mií libertad pues ha seis años estoy fuera [?] por no cansar a v. s. no tengo más que suplicarle tenga memoria de este su menor criado que esta rendido a sus pies hasta la muerte como a padre, y amparo mío Dios me le guarde los años que este su menor criado le desea de Valencia a 22 de mayo 1665 criado de v. s. que sus manos besa Pedro Perello llubi Mi Sr. D. Pedro Santacilia [1§] Transcripción literal"
+  ],
+  "literal": [
+    "1. Bien Save V.S. el tiempo que ha estoy fuera 2. [3+ de mi casa obedeciendo su inviolable manda-3. miento, y aunq este mil años no movere 4. el pie sin orden de V.S. 5. El Sr Geronimo pasa, a, esa Ciudad dara 6. rason a V.S. demi estado , Confio que V.S. 7. me hade honrrar con mií libertad pues ha 8. seys años estoy fuera ? por no cansar a 9. V.S. [no] tengo mas que suplicarle tenga 10. memoria deste su menor Criado que esta 11. rendido a sus pies asta la muerte como 12. a Padre, y amparo mio Dios me le 13. gde los años que este su menor Criado 14. le desea de Valencia a 22 de Mayo 15. 1665 16. Criado de V.S. q s[] M[] B[] 17. Pedro Perello llubi18. [Margen izquierdo][^ Mi Sr D Pedro Sanctacilia] [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "213:4939.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo18/213:4939.JPG",
+      "url": "/legajos/legajo-18/images/213:4939.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "213:4939.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-18/cartas/003100.json",
+  "primary_image_url": "/legajos/legajo-18/images/213:4939.JPG"
+}

@@ -1,0 +1,43 @@
+{
+  "legajo_id": "19",
+  "id_carta": "7683",
+  "order_in_legajo": 4,
+  "signatura": "364_7890a.JPG",
+  "nombre_carta": "Carta de Francesc Fornés a Pedro Santacilia y Pax",
+  "fecha_original": "fecha sin especificar",
+  "lugar": "Mallorca",
+  "remitente": "Francesc Fornés",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Mi Sr. don Pedro ahir mt rebi la memòria de v. m. amb les incluses del Sr. prior, [?] in dispost a Dios i axi no sóc pogut anar a bessar-li les mans he fet venir en casa al procurador del Sr. prior i axi la informat al qual anirà [?] amb el meu, millor de casa a informar a misser vinals advocat del Sr. prior faran lo memorial i informaran a misser camana perquè donen certament iuntament a l'ocasió v. m. tindra de parlar i informar lo Sr. virrei quant sinistrament aie informat a su acsellència tot açò as causa el mateix prior perquè al meu misser ja lei digué de principi dient [?] VSª. vol creura a quins capella [?] mir quel posara amb confussio dient-li a VSª. toca açò ja co per els indults anels bisbas toca a suy açò li respongue lo Sr. prior [?] asi que [?] ret estimant an poc qui li diu la veritat axi mon nebot nesta des [?] que sinó és que jo les m'han no vol fer res, perquè [?] més que ningun [?] de la practica de la religió [1§] i ferne professió mes com [?] no los ? no se'n cura perquè los aguere [?] tot a llur perdó v. m. que he cansat amb tant anfado bessades de v. m. d'esta su casa Francesc Fornes [2§] Transcripción literal"
+  ],
+  "literal": [
+    "1. Mi Sr. don pedro air mt rebi 2. la memoria de vm. ab las inclusas 3. del Sr. prior, [?] in dispost a dios 4. i axi no so pugut anar a bessar li les mans 5. e fet venir en casa al procurador del Sr. 6. prior i axi le informat al qual anira 7. [?] ab lo meu, millor de casa a in8. formar a misser vinals advocat del Sr. 9. prior faran lo memorial i informaran 10. a misser camana para que donen certa11. ment iuntament a la ocasio vm tindra 12. de parlar i informar lo Sr. virei quant 13. sinistrament aie informat a su acsellentia 14. tot aso as causa lo mateix prior per que al meu 15. misser ia lei digue de principi dient [?] 16. VSª. vol creura a quins capella [?] mir quel 17. posara ab confussio dient li a VSª. toca aso ia 18. co per los indults anels bisbas toca a suy aso 19. li respongue lo Sr. prior [?] asi que [?] 20. ret estimant an poc qui li diu la veritat axi 21. mon nebot nesta des [?] que sino es 22. que io las man no vol fer res, perque [?] 23. mes que ningun [?] de la practica de la religio [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "364_7890a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo19/364_7890a.JPG",
+      "url": "/legajos/legajo-19/images/364_7890a.JPG"
+    },
+    {
+      "filename": "365_7890b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo19/365_7890b.JPG",
+      "url": "/legajos/legajo-19/images/365_7890b.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "364_7890a.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-19/cartas/007683.json",
+  "primary_image_url": "/legajos/legajo-19/images/364_7890a.JPG"
+}

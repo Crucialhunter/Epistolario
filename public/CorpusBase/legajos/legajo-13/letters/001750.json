@@ -1,0 +1,43 @@
+{
+  "legajo_id": "13",
+  "id_carta": "1750",
+  "order_in_legajo": 17,
+  "signatura": "033:2254a.JPG",
+  "nombre_carta": "Carta de José Balell a Pedro Santacilia y Pax",
+  "fecha_original": "28 de julio de 1668",
+  "lugar": "Barcelona",
+  "remitente": "José Balell",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "D. Pedro Santacilia y Pax mi Sr. He recibido la que v. s. fue servido mandarme escribir en 21 de este con todo regocijo y contento por la noticia he tenido que goza salud gracias a Dios que se la continue como puede, deseo y es menester, y le di todas las felicidades que merece y logro en las pretensiones y deje volver a su casa y estimo las honras y mercedes. Es servido a continuarme [?] de Mallorca no ha habido embarcación y con las que hubiese tendré cuidado con las cartas que remitiré sin perder la ocasión y de dar noticia de v. s. al Sr. don Nicolás a quien ahora escribo por su ausencia a todos estos Sres. parientes y amigos les he dado sus recados que escribirán y besan su mano y también el prior Talpi [?] su amigo que se holgó a ver su carta, y yo beso la mano al Sr. don Juan su hijo y mi Sr. La muestra será a 30 a que se seguirá la reforma y muchos descontentos y lo estará el país de v. s. Las Tropas que quedarán no son [1§] asistidas lo que se duda y hasta entonces tomarán paciencia y de hay adelante no sé lo que será y se deben temer muchas disensiones lo que Dios no permita y los Sres. del gobierno lo deben juzgar así. El marques de Montoro está en esta ciudad con toda su casa y familia vive en casa del pagador. Juan Rodriguez de Velasco tiene embarcada su caballeriza ropa y algunos criados con un navío que ha seis días que partió y sus excelencias se partirán martes sin falta con las tres galeras, que despalman las discusiones entre su excelencia diputación, ciudad y cabildo siempre corren como defender los tres guardias que prendieron con pistolas que están condenados a galeras. Dios lo remedie a las diez y media de la noche día del Santiago. En la Rambla malhirieron a un [?] que vino con su excelencia a que se está muriendo, tiráronle [?] siete carabinazos que solo uno le acerto y según publica un [?] y forma los agresores fueron un yerno de D. Josep de Pinos, llamado [?] Copons, otro don Juan Grimau, el dean de Girona Berart, todos mozos y un criado. su excelencia lo ha sentido mucho y se hacen [?] graves diligencias por ver si se pueden coger. Suplico a v. s. sea muy servido tenerme en su gracia y servicio cuya vida guarde Nuestro Sr. muchos años como puede, deseo y es menester. Barcelona y julio 28 de 1668. Cierto criado de v. s. que su mano besa Josep Balell Barcelona Julio 28 de 1668. El sargento mayor Josep Balell respuesta a 4 Agosto 1668. Transcripción literal"
+  ],
+  "literal": [
+    "1. D. Pedro Sta. Cilia y Pax mi Sr.2. He Reciu[i]do la que US. fue seru[i]do Man3. darme escriuir en 21 deste con todo4. Regosijo y contento por la noticia5. he tenido que goza salud gracias a6. dios que se la continue como puede7. deso y he menester y le di todas las8. felicidades que mereçe y logro en9. las pretensiones y deje boluer asu10. casa y estimo las onrras y mdes11. es seruido A continuarme[?]12. de Mallorca no ha hauido em-13. barcacion y con las que huuiese ten[-] 14. dre cuidado con las cartas que Re[-]15. mitire sin perder la ocasion y de dar16. notiçia de US. al sr. d Nicolas aquien17. agora escribo por su ausencia 18. a todos estos SSs. US. Parientes y Ami[-]19. gos les he dado sus Recados que es20. criuiran y besan su mano y tanbr> uien el sr. Prior Talpi[?] su Amigo21. que se olgo a ver su carta, y yo22. beso la mano al sr. D Juan su 23. hijo y mi sr. 24. La Muestra[?] suia A 30 aque se se-25. guira la Reforma y muchos des[-]26. contentos y lo estara el Pais de V.S.27. las Tropas que quedaran no son [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "033:2254a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo13/033:2254a.JPG",
+      "url": "/legajos/legajo-13/images/033:2254a.JPG"
+    },
+    {
+      "filename": "034:2254b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo13/034:2254b.JPG",
+      "url": "/legajos/legajo-13/images/034:2254b.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "033:2254a.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-13/cartas/001750.json",
+  "primary_image_url": "/legajos/legajo-13/images/033:2254a.JPG"
+}

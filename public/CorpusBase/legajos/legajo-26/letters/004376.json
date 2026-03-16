@@ -1,0 +1,38 @@
+{
+  "legajo_id": "26",
+  "id_carta": "4376",
+  "order_in_legajo": 112,
+  "signatura": "155:3470.JPG",
+  "nombre_carta": "Carta de Nicolás Castellón a Pedro Santacilia y Pax",
+  "fecha_original": "29 de noviembre de 1642",
+  "lugar": "Roses",
+  "remitente": "Nicolás Castellón",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Sr. don Pedro de Santacilia y Pax La de v. s. recibí con el patrón [?] y por ella veo goza salud. Dios se la conserve como puede y este criado de v. s. desea. En lo que toca al buen pasaje y por mi parte hago lo que puedo de lo demás el portador informará a v. s. después que se fué Juan Denans de esta plaza y con una presa un bergantín valenciano de una barca francesa cargada de trigo y traía campo pedreros y una pieza de cuchara sin que aquí en esta plaza dejara ni vendiera nada de la carga que llevaba. Aquí han llegado dos falucas y traen aviso de como don Diego Caballero viene a gobernar esta fuerza con título de maese de campo general con orden de que pueda proveer lo que bajare en esta fuerza, así caballería como infantería. No hay otra cosa de que avisar a v. s. a quien suplico me mande muchas cosas de su servicio. Guarde Dios la persona de v. s. largos años. Rosas y noviembre a 29 de 1642. Criado de v. s. Nicolas Castellon Transcripción literal"
+  ],
+  "literal": [
+    "1. SSr. Don Pº de SSanta Cezilia y Paxs2. La de Vssa. Resicy con el patron Rettay y por ella veo goca sa3. lud Dios se la conserve como puede y estte criado de Vssa. dessea4. En lo que ttoca el buen pasage y por mi partte ago lo que5. puedo de lo demas el porttador ynformara a Vssa.6. Despues que se fue Juan Denans destta Plaza yço una pressa7. un bergantin valenziano de una barca franzessa car8. gada de trigo y traya campo pedreros y una pieza de cu9. chara sin que aqui enestta plaza dexara ni bendiera nada10. de la carga que llebava11. Aqui an llegado dos falucas y ttraen abisso de como don Diego12. Cavallero viene a governar estta fuerça con tittulo de maesse13. de campo general con horden de que pueda probeher lo que14. bajare enestta fuerça assi caballeria como ynfantteria no15. hay hotra cossa de que abissar a Vssa. a quien suplico me16. mande muchas cossas de ssu serviçio guarde Dios la17. perssona de Vssa. largos años Rossas y nobienbre a 29 de18. 164219. Criado de Vssa.20. Nicolas Castellon [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "155:3470.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo26/155:3470.JPG",
+      "url": "/legajos/legajo-26/images/155:3470.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "155:3470.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (2)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-26/cartas/004376.json",
+  "primary_image_url": "/legajos/legajo-26/images/155:3470.JPG"
+}

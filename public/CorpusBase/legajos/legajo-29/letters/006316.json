@@ -1,0 +1,43 @@
+{
+  "legajo_id": "29",
+  "id_carta": "6316",
+  "order_in_legajo": 14,
+  "signatura": "020:4132a.JPG",
+  "nombre_carta": "Carta de Bonaventura de Lanuza Montbuí y Vilarig a Pedro Santacilia y Pax",
+  "fecha_original": "12 de agosto de 1628",
+  "lugar": "Girona",
+  "remitente": "Bonaventura de Lanuza Montbuí y Vilarig",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Dissabte quan fiu arribat ací i trobi al {ESP. alguasil} Codina em digueren que portava ordre de rebre informació d'una mort que és féu poc d'un apotacari i també de la mort d'en Ensenyat. També venia amb l'ordre que sabés [?] si tirà al meu fadri i amb quines armes li tirà si eren curtes i si els seus criats i de don Miquel de Cardona van armats de padrinyalls curts i si son causa de les dissensions d'esta ciutat de tot s'ha pres informació i per raó d'això han fet anar alguns testimonis a Barcelona i entre altres l'amo de la casa del joc han volgut donar de tot avís a v. m. perquè previnga el que convindrà en raó dels companys, i així me mani sempre en què el servesca. Quan arribí ací trobí una carta de don felix amb què em tornava a demà [1§] nar els fadrins i ací li'n he enviats quatre de la baron [?] no seran per ara menester els que parlí a bm. Jo aquest [?] de partida per a Barcelona dins tres, o quatre [?] pens detenir-me allà algunes tres setmanes [?] aqueix temps s'ofereix cosa en què pugui servir a v. m. m'ho mani que ho faré amb moltes veres com dec i tinc obligació. Dona Maria se gastà ahir d'una minyona de tres mesos. Déu li millori la sort i guardi a v. m. com desitjo. Girona i agost als 12 de 1628. Don Bonaventura de la Nuçay Mombuy i Vilaris La que va amb esta m'ha donada Antoni, que, diu, ve de Barcelona. Transcripción literal"
+  ],
+  "literal": [
+    "1. Disapte quant fui arribat assi y trobi al algua2. sil Cudina im digueran que aportava orde de 3. rebrar informacio de una mort ques feu poc4. ha de un apotacari y tanbe de la mort den An5. senyat: tanbe benia ab lo orde que sabes ?? 6. si tira al meu fadri y ab quinas armas li tira 7. si eran qurtas y si los seus criats y de don miquel 8. de Cardona ban armats de padrinyalls curts 9. y si son causa de las dicensions desta Ciutat de tot 10. se ha pres informasio y per raho de asso an fet 11. anar alguns testimonis a barna y entre altras 12. lo amo de la casa del joch: hen bolgut donar de 13. tot avis a bm pera que previnga lo que convin14. dra en raho dels companys: y assi me mane 15. sempre en quel ??: quant arribi assi trobi 16. una carta de don felix ab quem tornava a dema [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "020:4132a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo29/020:4132a.JPG",
+      "url": "/legajos/legajo-29/images/020:4132a.JPG"
+    },
+    {
+      "filename": "021:4132b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo29/021:4132b.JPG",
+      "url": "/legajos/legajo-29/images/021:4132b.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "020:4132a.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-29/cartas/006316.json",
+  "primary_image_url": "/legajos/legajo-29/images/020:4132a.JPG"
+}

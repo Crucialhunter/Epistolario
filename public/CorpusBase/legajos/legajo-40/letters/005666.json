@@ -1,0 +1,32 @@
+{
+  "legajo_id": "40",
+  "id_carta": "5666",
+  "order_in_legajo": 11,
+  "signatura": "046:18",
+  "nombre_carta": "Carta de Persona desconocida a Persona desconocida",
+  "fecha_original": "fecha sin especificar",
+  "lugar": "Mallorca",
+  "remitente": "Persona desconocida",
+  "destinatario": "Persona desconocida",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Compte de mestre Cristofol Garcies Ferrer [1§] Transcripción literal"
+  ],
+  "literal": [
+    "1. Compte de mestre Christophol Gassies ferrer"
+  ],
+  "imagenes": [
+    {
+      "filename": "046:18.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo40/046:18.JPG",
+      "url": "/legajos/legajo-40/images/046:18.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "046:18.JPG",
+  "warnings": [],
+  "raw_source": "raw/legajos/legajo-40/cartas/005666.json",
+  "primary_image_url": "/legajos/legajo-40/images/046:18.JPG"
+}

@@ -1,0 +1,43 @@
+{
+  "legajo_id": "21",
+  "id_carta": "3398",
+  "order_in_legajo": 88,
+  "signatura": "134:5687a.JPG",
+  "nombre_carta": "Carta de Pedro Jiménez de Murillo a Pedro Santacilia y Pax",
+  "fecha_original": "29 de noviembre de 1638",
+  "lugar": "Egea",
+  "remitente": "Pedro Jiménez de Murillo",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Sr. mío muy buenas nuevas he tenido esta noche de v. m. que me he holgado mucho lo que puedo asegurar a v. m. es que no he estado de balde en este lugar como en esto y lo demás me remito al Sr. Juan Luis Mateo, que remito a v. m. para que cuide de asistirle y servirle como yo lo haré siempre y aseguro a v. m. que en siéndome posible iré a recibir merced de v. m. que me hace hoy recibía estando en su compañía. En este punto recibo pliego del governador en respuesta de lo que escribimos de vos y se reduce a la que v. m. verá a por la que remito, yo el escrito mi parecer con un correo que ha partido dos horas hay ahora, mucho más claro con el que respondo al que me ha enviado yente y viniente, v. m. este cierto que se hace más de lo que se me dé y que no he de faltar jamás a servir a v. m. que Nro. Sr. me guarde como deseo [?] en Egea 29 Noviembre 1638. Don Pedro Jimenez de Murillo Sr. don Pedro Santacilia y Pax, que Dios me guarde [1§] Egea 20 Noviembre 1638 D. Pedro Jimenez de Murillo Transcripción literal"
+  ],
+  "literal": [
+    "1. Sr mio Muy buenas nuebas e tenido esta 2. noche de Vm. q me eholgado mucho loq 3. puedo asigurar a Vm. es q no e esta-4. do de balde en este lugar como en 5. esto y lo demas me remito alsor 6. Juan Luis Mateo, q remito a Vm. para 7. q cuide de asistirle y serbirle como 8. yo lo hare siempre y asiguro a Vm. 9. q en siendome posible ire a recibir 10. mrd de Vm. q me haze oy recibia estando ensu 11. conpañia. 12. En este punto recibo pliego del Goveor en respuesta 13. delo q escrivimos delos y se reduce ala q Vm. 14. vera por la q remito, yo el escrito mi parecer 15. con un correo q apartido dos oras ay agora, mucho mas 16. claro conel q respondo al q me a imbiado iente ibinien-17. fe, Vm. este cierto q se haze mas delo q se mede y q no ede 18. faltar Jamas a serbir a Vm. q Nro sor megde como desseo 19. Siven[?] en exea 29 nove 1638 20. Don Po ximenez de mur[i]llo 21. [Margen izquierdo][^ Sr don Po Sta Silia y Paz q dios megde] [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "134:5687a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo21/134:5687a.JPG",
+      "url": "/legajos/legajo-21/images/134:5687a.JPG"
+    },
+    {
+      "filename": "135:5687b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo21/135:5687b.JPG",
+      "url": "/legajos/legajo-21/images/135:5687b.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "134:5687a.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-21/cartas/003398.json",
+  "primary_image_url": "/legajos/legajo-21/images/134:5687a.JPG"
+}

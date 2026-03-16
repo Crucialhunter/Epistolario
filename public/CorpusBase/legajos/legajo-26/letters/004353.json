@@ -1,0 +1,50 @@
+{
+  "legajo_id": "26",
+  "id_carta": "4353",
+  "order_in_legajo": 26,
+  "signatura": "126:3447.JPG",
+  "nombre_carta": "Carta de Martín de Verdún a Pedro Santacilia y Pax",
+  "fecha_original": "12 de abril de 1630",
+  "lugar": "Pamplona",
+  "remitente": "Martín de Verdún",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Yo señor don Pedro sé cuanto tiene que hacer cada uno con sus negocios en la corte y prisa con que debe de andar v. m. por eso no le quiero cansar con lo mío y porque son de calidad, en que no es bien embarazar a v. m. la parte de gacetero confesaré a v. m. de buena gana que la tiene verdadera y sazonada, entre aquí y si v. m. se sirve un aviso de como caminan estas secretarías de don Fernando de Contreras y a donde va don Martín de Arpe y si éste va a Francia como aquí se dice o a Inglaterra como es más probable. Aseguro a v. m. que no deseaba el trompeta más de para algunos días hasta tener otro que don Remon Caldes había de enviarme por orden del señor marques de los Velez, pero el se habrá dejado de tocar y a mi cuenta debe de ser muerto, que de enfermar a morir no hay mucha distancia y han asegurado que quedó enfermo cerca de Zaragoza. Guarde Dios a v. m. mil años. Pamplona 12 de abril 1630. El Gran prior de Navarra Martin de Verdun [Sr. D. Pedro] Santacilia Pax Transcripción literal"
+  ],
+  "literal": [
+    "1. Yo señor Don Pedro se quanto tiene2. que acer cada uno con sus negocios en la3. Corte y priesa con que ebe de andar4. Vm. por eso no le quiero cansar con lo mio5. y porque son de calidad, en que no es bien6. embaraçar a Vm. la parte de gaçetero con7. fesare a Vm. de buena gana que la tiene ver8. dadera y saçonada, entre aqui y si Vm se sirbe9. un aviso de como caminan estas secretarias10. de Don Fernando de Contreras y adonde va11. Don Martín de Arpe y si este va a Françia12. como aquí se diçe, o, a Ingalaterra como es13. mas probable14. Aseguro a Vm que no deseaba el trompeta15. mas de para algunos dias asta tener otro16. que Don Remon Caldes avia de embiarme17. por orden del señor Marques de los Velez18. pero el se abra dejado de tocar y al mi cuenta19. debe de ser muerto, que de enfermar a morir20. no ay mucha distançia y an asigurado que21. quedo enfermo çerca de Zaragoça. Guarde Dios22. a Vm mil años. Pamplona 12 de Abril 1630[?]23. El Gran Prior de Navarra24. Sr. Martín de [?]25. [...] Santa Çilia Pax [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "126:3447.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo26/126:3447.JPG",
+      "url": "/legajos/legajo-26/images/126:3447.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "126:3447.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (2)",
+      "context": {}
+    },
+    {
+      "code": "IMAGE_DOWNLOAD_FAIL",
+      "message": "HTTP 404",
+      "context": {
+        "url": "http://santacilia.info/intranet2/img/Legajo26/126:3447.JPG"
+      }
+    },
+    {
+      "code": "IMAGE_COUNT_MISMATCH",
+      "message": "Imágenes detectadas (1) != descargadas (0)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-26/cartas/004353.json",
+  "primary_image_url": "/legajos/legajo-26/images/126:3447.JPG"
+}

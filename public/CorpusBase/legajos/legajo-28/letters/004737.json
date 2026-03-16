@@ -1,0 +1,38 @@
+{
+  "legajo_id": "28",
+  "id_carta": "4737",
+  "order_in_legajo": 48,
+  "signatura": "067:3671.JPG",
+  "nombre_carta": "Carta de Pedro Jiménez de Murillo a Pedro Santacilia y Pax",
+  "fecha_original": "29 de diciembre de 1638",
+  "lugar": "Zaragoza",
+  "remitente": "Pedro Jiménez de Murillo",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "He recibido la de v. m. de 26 de este con muy gran desconsuelo mío viendo la apretura con que están esas compañías, que lo siento vivamente y con el mismo sentimiento lo he representado aquí. Ya sabe v. m. que viendo yo esto me pareció que era muy del servicio de su majestad el vender el trigo, y de aquí nunca me respondieron a este punto. Y preguntándoles ahora la causa me responden que se hubieran holgado mucho lo hubiera ejecutado, pero que no se atrevían a aconsejármelo. Yo, señor, en estas materias no discurro tanto, sino que miro el menor inconveniente y el mayor servicio de su Majestad. La divina guarde a v. m. infinitos años, acordándose de este su mayor servidor. En Zaragoza, 29 Diciembre de 1638. Don Pedro Jiménez de Murillo Señor don Pedro Santacilia y Pax, a quien Dios guarde. Transcripción literal"
+  ],
+  "literal": [
+    "1. E recibido la de v.m. de 26 deste con muy gran2. desconsuelo mio viendo la apretura con que estan3. essas compañias que lo siento vibamte. y con el mis4. mo sentimiento lo e representado aqui. Ya5. sabe v.m. que biendo yo esto me parecio que era6. muy del serº. de su Mgd. El bender el trigo7. y de aqui nunca me respondieron a este8. punto, y preguntandoles agora la causa me9. responden que se hubieran holgado mucho lo10. hubiera executado, pero que no se atrebian11. a aconsejarmelo, yo Sor. en estas materias no dis-12. curro tanto si no que miro el menor inconviniente13. y el mayor servº de su Mgd. la divina gde. a vm14. infinitos años acordandose deste su mayor servidor15. En Çaragª. 29 Dese. 1638.16. Don Pº Ximenez de Murillo [?] 17. Sr. Don Pº Sta.Cilia y Paz a q dios gde. [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "067:3671.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo28/067:3671.JPG",
+      "url": "/legajos/legajo-28/images/067:3671.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "067:3671.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-28/cartas/004737.json",
+  "primary_image_url": "/legajos/legajo-28/images/067:3671.JPG"
+}

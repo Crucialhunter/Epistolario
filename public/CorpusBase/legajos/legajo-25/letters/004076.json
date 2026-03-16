@@ -1,0 +1,43 @@
+{
+  "legajo_id": "25",
+  "id_carta": "4076",
+  "order_in_legajo": 10,
+  "signatura": "018_110a.JPG",
+  "nombre_carta": "Carta de Diego Matías de Aragüés a Jerónimo Pelegrín de Aragüés",
+  "fecha_original": "19 de febrero de 1667",
+  "lugar": "Madrid",
+  "remitente": "Diego Matías de Aragüés",
+  "destinatario": "Jerónimo Pelegrín de Aragüés",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "A las cartas últimas que he tenido he respondido por Valencia y remitido un pliego grande bajo del Sr. D. Pedro para v. m. en que va el privilegio de la tasca de Valle y que cobre v. m. tres reales de a ocho en que pagué a más de lo que remitió v. m. se los coma de muy buen pescado fresco. El Sr. D. Nicolas llego aquí a 17 de este con sus camaradas y el marques de la Guardia a Juan Seguals tengo en mi casa desde que vino aquí, y no le puede reducir a que vuelva con el Sr. don Nicolás. Juzgo tiene razón ya v. m. lo sabrá por allá que me ha pesado por ser criado del Sr. don Pedro y por esta causa no le tengo de faltar. Dígame v. m. en que estado está lo de la sobrina del doctor Pujol y en que ha parado, y también lo de Juan Garcia del Pozo (que está bueno) y sano y que parece ha de vivir cien años. V. m. me avise si el doctor Armella ha vuelto a recibir las letras del dienro que remitió al Sr. don Josep Romeu (regente de este consejo) conviene que v. m. me dé este aviso. El Sr. don Miguel Salva todavía está despacio para su jornada porque no veo prevención alguna ni en sacar los despachos, con todo me parece será aunque no le den el título por ahora. En lo demás si fuere está todo [1§] y prevenido [?] para con v. m. la carta recibió Sr. don Francisco (Canella) Pueyo. Él habrá respondido a v. m. Pedro Pelayo murió los días pasados con que han vacado los oficios que tenía allí. El consejo pide terna y informe, al vicecanciller pedí licencia para poner el memorial que es el que va en la carta que escribo al virrey y le digo al Sr. don Pedro me haga merced de hablarle para que me honre la terna v. m. se sirva de tomar esto por su cuenta y avisarme cuando el virrey envíe la terna, que juzgo la pide el consejo este correo, o el que viene con que v. m. este prevenido y me avise de lo que hubiere en esto y me mande le sirva. A mi sobrina y a v. m. besamos las manos Dña. Margarita y yo y a los niños abrazos y guarde Dios como deseo. Madrid 19 de febrero 1667. El correo que viene me aseguró irá la orden al virrey para para que envíe la terna de estos gastos con que importa prevenirle la carta que le escribo y memorial que va con ella en el pliego al Sr. don Pedro va que le digo encargué a v. m. esta solicitud. Estoy encargado del negocio de Jaime Bauza. Tío y servidor de v. m. Diego Matias de Aragues . Jeronimo Pelegrin, mi sobrino Transcripción literal"
+  ],
+  "literal": [
+    "1. A las cartas ultimas que he tenido he respondido por Bal[enci]a2. y remitido un pliego grando baxo del (del) Sr. D. Pedro para 3. V.md. en que va el privilegio de la tasca de Valle y que cobre4. Vmd. tres Reales de a ocho en que page a mas de lo que remitio5. Vmd. se los coma de muy buen pescado fresco6. El Sr. D. Nicolas llego aqui a 17 deste con sus camaradas7. y el Marques de la Guardia8. A Juan Seguals tengo en mi cassa des que vino aqui, y no le9. puede reduír a que buelva con el Sr. Don Nicolas, Guzgo10. tiene razon ya Vmd. lo sabra por alla que me ha pesado11. por ser criado del Sr. Don Pedro y por esta caussa (^soy)12. no le tengo de faltar13. Digame Vmd. en que estado esta lo de la sobrina del14. dotor Pujol y en que ha parado. Y tanvien lo de Juan 15. Garçia del Pozo (que esta bueno) y sano y que pareçe ha16. de vivir çien años17. Vmd. me avisse si el dotor Armella a buelto a reçivir18. las letras del dienro que remitio al Sr Don Joseph 19. Romeu (Regte. deste Conssº) conviene que Vmd. me de20. este avisso21. El Sr. Don Migl Salva todavia esta de espaçio para22. su jornada porque no beo prevençion alg[un]a ni en sacar23. los despachos, con todo me pareçe sera aunque no le den24. el titulo por aora, en lo demas si fuere esta todo [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "018_110a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo25/018_110a.JPG",
+      "url": "/legajos/legajo-25/images/018_110a.JPG"
+    },
+    {
+      "filename": "019_110b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo25/019_110b.JPG",
+      "url": "/legajos/legajo-25/images/019_110b.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "018_110a.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (7)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-25/cartas/004076.json",
+  "primary_image_url": "/legajos/legajo-25/images/018_110a.JPG"
+}

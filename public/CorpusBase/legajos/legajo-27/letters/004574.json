@@ -1,0 +1,38 @@
+{
+  "legajo_id": "27",
+  "id_carta": "4574",
+  "order_in_legajo": 52,
+  "signatura": "078:4383",
+  "nombre_carta": "Carta de Diego de Rocabertí a Persona desconocida",
+  "fecha_original": "26 de junio de 1629",
+  "lugar": "Pau",
+  "remitente": "Diego de Rocabertí",
+  "destinatario": "Persona desconocida",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Déu ja saber en quin estat tenim l'haver el diner del banc de Figueres que amb vint dies pens pot haver i aquest temps de rebre'l en Barcelona havia [?] i de qui és dit home, perquè pugui fer-ne memòria. Tinguerem gran jornada en Castelló amb el [?] del dinar, i estigué Castello molt visitat. Nostre Sr. guard com pot i el [?] en Pau i juny a 26 de 1629. Don Diego de Rocaberti Transcripción literal"
+  ],
+  "literal": [
+    "1. Ve[uy?] saber en quin estat tenim lo aver lo diner del banc2. de figueras que ab uny t [=vint?] dias pens pot aver y aqut temps de3. rebrerlo en barcelona a[ ]iaumen y de qui es dit h[o?]me pera4. que puga ferne memoria tinguerem gran jornada en5. Castello ab lo com[ ]t del dinar, y estigue Castello [molt cui/?]6. tat Nostre sr. un guart com pot y lo den [?] en Pau y7. Juyn a 26 de 1629 Vm diego de 8. Rocaberti [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "078:4383.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo27/078:4383.JPG",
+      "url": "/legajos/legajo-27/images/078:4383.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "078:4383.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-27/cartas/004574.json",
+  "primary_image_url": "/legajos/legajo-27/images/078:4383.JPG"
+}

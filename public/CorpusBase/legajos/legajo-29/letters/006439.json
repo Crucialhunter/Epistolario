@@ -1,0 +1,48 @@
+{
+  "legajo_id": "29",
+  "id_carta": "6439",
+  "order_in_legajo": 118,
+  "signatura": "212:4256a.JPG",
+  "nombre_carta": "Carta de Rodrigo Hernando Céspedes a Pedro Santacilia y Pax",
+  "fecha_original": "13 de mayo de 1651",
+  "lugar": "Madrid",
+  "remitente": "Rodrigo Hernando Céspedes",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "De 20 de febrero tuve su carta de v. m. de por Marzo del Sr. don Vicente de Aragon que aunque había tardado en el viaje tuve con ella muy buen día por las buenas noticias que v. m. me daba en ella [?] viaje que tuvo y con muy cuidada salud que se la conserve Nro. Sr. a v. m. como yo se la deseo, la mía [?] al servicio de v. m. y parece que [?] buen tiempo se va mejorando. Habrá quince días que medito [?] nabi des que se habían a [?] ACABAR LA CARTA Transcripción literal"
+  ],
+  "literal": [
+    "1. De 20 de febrero tube su carta de Vmd 2. Por marzo del Sr. Don Biçente de Aragon 3. que aunq abia tardado en el viaje tube 4. conella muy buen dia Por las buenas no5. ticias q Vmd me daba en ella ?? 6. ?? viaje que tubo y con muy cui [?] 7. salud que se la conserbe nro sr a Vmd 8. como yo se la deseo: la mia [?] 9. al serviçio de Vmd y pareze q [?] 10. buen tienpo se ba mejorando = 11. Abra quinze dias q medito [?] 12. nabi des que seabian a [?] 13. ACABAR LA CARTA [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "212:4256a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo29/212:4256a.JPG",
+      "url": "/legajos/legajo-29/images/212:4256a.JPG"
+    },
+    {
+      "filename": "213:4256b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo29/213:4256b.JPG",
+      "url": "/legajos/legajo-29/images/213:4256b.JPG"
+    },
+    {
+      "filename": "214:4256c.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo29/214:4256c.JPG",
+      "url": "/legajos/legajo-29/images/214:4256c.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "212:4256a.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-29/cartas/006439.json",
+  "primary_image_url": "/legajos/legajo-29/images/212:4256a.JPG"
+}

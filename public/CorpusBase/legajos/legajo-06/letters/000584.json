@@ -1,0 +1,48 @@
+{
+  "legajo_id": "6",
+  "id_carta": "584",
+  "order_in_legajo": 89,
+  "signatura": "098-55a",
+  "nombre_carta": "Carta de Josep Ignacio Pizarro a Cecilia Zaforteza y Sureda de Sant Martí",
+  "fecha_original": "29 de agosto de 1756",
+  "lugar": "Valladolid",
+  "remitente": "Josep Ignacio Pizarro",
+  "destinatario": "Cecilia Zaforteza y Sureda de Sant Martí",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Señora, Con la mayor satisfacción obedeceré a v. s. interesándome con toda eficacia a que los Sres. del Consejo a quienes corresponde el pleito de v. s. le faciliten su despacho, pues en el asunto de justicia me persuado v. s. la tiene sin contingencia. [1§] y [?] lo bien admitido [?] que está el s. D. Gabriel para que cuando v. s. por sí y por su razón pudiese tener alguna desconfianza lo que permitiese el arbitrio lo facilitase su mediación. Al s. D. Tomás se servirá v. s. recordar mi afecto, y v. s. segura de mi rendimiento mande cuanto [En la otra página] crea puedo servirla que su ejecución acreditará a v. s. mi interés en servirla. Dios guarde a v. s. como he menester. Valladolid y agosto 29 de 1756. Señora, a los pies de v. s. su rendido Josep Ignacio Pizarro. Mi Sra. Dña. Cecilia Zaforteza Transcripción literal"
+  ],
+  "literal": [
+    "1. Señora 2. Con la maior sarisfa- 3. ccion obedecere a V.S. 4. interesandome con 5. toda eficacia á que 6. los Sres. del consejo 7. a quienes correspon- 8. de el pleito de V.S. 9. le faciliten su Despa- 10. cho pues en el asu- 11. nto de Justicia 12. me persuado V.S. 13. la tiene sin con [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "098-55a.jpg",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo06/098-55a.jpg",
+      "url": "/legajos/legajo-06/images/098-55a.jpg"
+    },
+    {
+      "filename": "099-55b.jpg",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo06/099-55b.jpg",
+      "url": "/legajos/legajo-06/images/099-55b.jpg"
+    },
+    {
+      "filename": "099-55bb.jpg",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo06/099-55bb.jpg",
+      "url": "/legajos/legajo-06/images/099-55bb.jpg"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "098-55a.jpg",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-06/cartas/000584.json",
+  "primary_image_url": "/legajos/legajo-06/images/098-55a.jpg"
+}

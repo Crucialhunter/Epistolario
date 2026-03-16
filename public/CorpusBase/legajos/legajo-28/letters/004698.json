@@ -1,0 +1,43 @@
+{
+  "legajo_id": "28",
+  "id_carta": "4698",
+  "order_in_legajo": 6,
+  "signatura": "010:3631a.JPG",
+  "nombre_carta": "Carta de Maria de Boixadors i de Rocabertí a Pedro Santacilia y Pax",
+  "fecha_original": "23 de abril de 1627",
+  "lugar": "Girona",
+  "remitente": "Maria de Boixadors i de Rocabertí",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Molt ens hem alegrat [de] saber noves de v. m., que havia dies que no en sabíem res. I com van aquestes passes de tan mals {ESP. catarros} i tan generals que pocs se n'escapen, prenc plaer que v. m. se'n sia escapat, i si acàs l'envest serà {ESP. consuelo} estigui en part que puguem estar descansats. La caixota de roba per a v. m. he mirada i no hi ha ningunes cartes. Són sis camises, sis calçotets, dotze mocadors, tres {ESP. tocados}, sis parells de peals. Amb ordre de v. m. ja donarà a qui v. m. [tinta borrada]. [1§] [Tinta borrada] parteix diumenge per a [Pera]lada. Ha estat molt descansat, com li coneixeran amb la cara. Estic amb {esp. cuidado} de veure'ls anar tan espellat [?] sinó que confio ???? millor a Sant Feliu amb el divertiment que allà té. Tots els {ESP. demés} tenim ara salut, llastimats de la desditxada mort de don Guillem de Rocaberti, sens tenir temps de fer ordre de cristià. I a v. m. doni el Sr. molts anys de vida i amb el {ESP. contento} que tots li desitjam. . Girona i abril als 23 de 1627. Dona Maria de Boixadors i de Rocaberti. Transcripción literal"
+  ],
+  "literal": [
+    "1. molt nos a alegrats saber novas2. de vm que avia dias que3. non sabiam res y com van a4. questas pasas de tant mals5. cataros y tant generals que6. pocs sen ascapan pren pler7. que vm sen sia ascapat8. y sia acas lo envest sera9. consuelo estiga en part que10. pugam estar descansats11. la caxota de rova pera vm12. e mirada y noja ningunas13. cartes son sis camisas sis14. calsotets dotsa mocadors15. tres tocados sis parells de16. peals ab orde de Vm ja dona17. ra a qui Vm [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "010:3631a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo28/010:3631a.JPG",
+      "url": "/legajos/legajo-28/images/010:3631a.JPG"
+    },
+    {
+      "filename": "011:3631b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo28/011:3631b.JPG",
+      "url": "/legajos/legajo-28/images/011:3631b.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "010:3631a.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-28/cartas/004698.json",
+  "primary_image_url": "/legajos/legajo-28/images/010:3631a.JPG"
+}

@@ -1,0 +1,38 @@
+{
+  "legajo_id": "33",
+  "id_carta": "4941",
+  "order_in_legajo": 129,
+  "signatura": "201:6857.JPG",
+  "nombre_carta": "Carta de Catalina Fernández de Córdoba y Figueroa a Pedro Santacilia y Pax",
+  "fecha_original": "28 de marzo de 1635",
+  "lugar": "Perpiñán",
+  "remitente": "Catalina Fernández de Córdoba y Figueroa",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Bien creerá v.m. cuán bien recibidas son sus cartas y la estimación que yo hago siempre de ellas, y veo muy bien cuanto v.m. me dice. Y se luce harto el no tener el duque ahí persona de garbo, como lo habrá visto v.m. en la ocasión presente, pero el duque está tan resuelto que tendrá por muy buen partido el dejarlo todo. V.m. me avise de cuanto entendiere con la seguridad que espero. Y en el negocio de Pedro, me ha animado mucho la relación que v.m. me hace y qué cierta estoy yo de cuán bien asistido ha de ser de v.m., a quien guarde Dios muchos años. Perpiñán, a 28 de marzo 1635. [Letra original de la remitente: El rincón es lo más seguro, aunque en él nos buscará la buena voluntad que solicita.] La duquesa de Segorbe y de Cardona Sr. don Pedro de Santacilia y Pax Transcripción literal"
+  ],
+  "literal": [
+    "1. Bien crehera V.m. quan bien recebidas son sus cartas y2. la estimacion q yo hago siempre dellas, y veo muy bien3. quanto V.m. me diçe, y se luçe harto el no tener el4. Duq ay persona de garbo como lo habra visto V.m. en la5. occasion presente, pero el Duq esta tan resuelto que ten6. dra por muy buen partido el dexarlo todo, V.m. me avise7. de quanto entendiere con la siguridad que espero, y en8. el negocio de Pedro me a animado mucho la relaçion quel9. V.m. me haçe y q cierta estoy yo de quan bien assistido10. ha de ser de V.m. a quien gde. Dios muchos años Perpiñan11. a 28 de Março 1635. El trincar[?] es lo mas12. seguro aunq en el .............13. buena boluntad q solizita14. Lo Duq de [?]15. y de Cardona16. Sr. D. Pº Santaçilia y Pax [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "201:6857.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo33/201:6857.JPG",
+      "url": "/legajos/legajo-33/images/201:6857.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "201:6857.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (2)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-33/cartas/004941.json",
+  "primary_image_url": "/legajos/legajo-33/images/201:6857.JPG"
+}

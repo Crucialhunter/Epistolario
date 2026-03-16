@@ -1,0 +1,43 @@
+{
+  "legajo_id": "6",
+  "id_carta": "599",
+  "order_in_legajo": 34,
+  "signatura": "130-69bisa",
+  "nombre_carta": "Carta de Joan Pons a Cecilia Zaforteza y Sureda de Sant Martí",
+  "fecha_original": "27 de noviembre de 1740",
+  "lugar": "Lugar sin especificar",
+  "remitente": "Joan Pons",
+  "destinatario": "Cecilia Zaforteza y Sureda de Sant Martí",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Compte de mi senyora dona Cecilia Zaforteza de [?] Primo, 8 pesos calamandria a 7 sous, 6 Més, 10 pesos manto catiu a 2 lliures, 11 sous, la cana 3 sous Més, 18 pesos crea per a forro de dos calçons 1 lliura, 16 sous Més, 22 pesos caro d’oro a 4 lliures, 16 sous, 4 la cana 13 lliures 4 sous 11 Més, 14 pesos sarja de seda a 8 sous el palm Més, 12 pesos setí retxat a 14 sous 4 el palm Més, un palm i ½ lila per botons i coll Més, 3 canes true a 3 sous el palm Més, per a la botonadura de l’uniforme Més, 12 pesos tela fort Més, cosir l’uniforme de dn. Josep Més, per girar un frac de friseta i uns calçons de calamandria negres d’en Mateu Més, per girar un frac de xamellot ratxat i uns calçons de manto catiu per dit Més, per fer els traus per dita feina Més, cosir es vestit de senyor Josep Més, 25 pms de friseta ha de 7 sous 8 el pm. tal Més, 4 pm. de tela forta pel senyor Josep Més, 4 pm de friseta blanca Suma [1§] [?] pagat a compliment del compte [?] mi senyora dona Cecilia Zaforteza [?] als 27 de novembre de 1740. Mestre Joan Pons, sastre Transcripción literal"
+  ],
+  "literal": [
+    "1. Compte de my S<enyor>a Da. Sicilia Safortesa de 2. Po 8 ps Calamandria á 7 s 6...........................................................[?] 3. mes 10 ps Manto Catiu á 2 ll 11 s le cane.......[?] 3 s. 4. mes 18 ps Crea per aforro de dos calsons................................1 ll 16 s 5. mes 22 ps Caro de oro á 4 ll 16 s 4 le Cane...13 ll 4 s11 6. mes 14 p Sarge de Seda á 8 s el palm ......................5 ll 12 s 7. mes 12 ps Sety Retxat a 14 s 4 el palm........................8 ll 4 s 8. mes un pm. y 1/2 Lila per botons [?] y Coll................................ ll 10 s 6 9. mes 3 Canes true[?] á 3 s el palm..............................................3 ll 12 s 10. mes per le Botonedura del Uniforme..............................................2 ll s 11. mes 12 p tele fort....................................................................ll 18 s 12. mes Cosir lo Uniforme de Dn. Joseph..............................................3 ll 8 s 13. mes per Guirar un Frach de friseta y uns 14. calsons de Calamandria negres den 15. Matheu........................................................................................... 2 ll 10 s 16. mes Per Guirar un Frach de xemellot ret- 17. xats y uns Calsons de manto catiu per 18. dit....................................................................................................2 ll 10 s 19. mes pel y fer los traus per dita feyna................................................1 ll 2 s 20. ----------------------------------------21. Suma 41 ll 17 s 2 22. mes. cosi es vastit del Sr. Joseph............................................12 ll 8 s 23. ----------------------------------------24. 54 ll 5 s 2 25. mes 25 pms. de frisete a de 7 s 626. el pm. tal.................................................................................9 ll 7 s 6 27. mes 4 pm. de telle fort pel Sr. Juseph..................................... ll 6 s 4 28. ms. 4 pm. de frisete Blanche 1 ll 4 s 29. ----------------------------------------30. Suma 65 ll 3 s [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "130-69bisa.jpg",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo06/130-69bisa.jpg",
+      "url": "/legajos/legajo-06/images/130-69bisa.jpg"
+    },
+    {
+      "filename": "131-69bisb.jpg",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo06/131-69bisb.jpg",
+      "url": "/legajos/legajo-06/images/131-69bisb.jpg"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "130-69bisa.jpg",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-06/cartas/000599.json",
+  "primary_image_url": "/legajos/legajo-06/images/130-69bisa.jpg"
+}

@@ -1,0 +1,70 @@
+{
+  "legajo_id": "18",
+  "num_cartas": 159,
+  "num_imagenes": 261,
+  "rango_temporal": [
+    1642,
+    1669
+  ],
+  "remitentes_frecuentes": [
+    {
+      "name": "Diego Matías de Aragüés",
+      "count": 35
+    },
+    {
+      "name": "Juan Miguel de Santacilia y Togores",
+      "count": 7
+    },
+    {
+      "name": "Basilio de Castellví y Ponce",
+      "count": 7
+    },
+    {
+      "name": "Conde de Zavellá",
+      "count": 6
+    },
+    {
+      "name": "Juan Seguals",
+      "count": 4
+    }
+  ],
+  "destinatarios_frecuentes": [
+    {
+      "name": "Pedro Santacilia y Pax",
+      "count": 150
+    },
+    {
+      "name": "Leonor Santacilia i Despuig",
+      "count": 5
+    },
+    {
+      "name": "Persona desconocida",
+      "count": 4
+    }
+  ],
+  "lugares_frecuentes": [
+    {
+      "name": "Madrid",
+      "count": 79
+    },
+    {
+      "name": "Valencia",
+      "count": 12
+    },
+    {
+      "name": "Mallorca",
+      "count": 11
+    },
+    {
+      "name": "Lugar sin especificar",
+      "count": 9
+    },
+    {
+      "name": "Barcelona",
+      "count": 6
+    }
+  ],
+  "temas_frecuentes": [],
+  "warnings_count": 96,
+  "densidad_narrativa_estimada": "Media"
+}

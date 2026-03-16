@@ -1,0 +1,38 @@
+{
+  "legajo_id": "35",
+  "id_carta": "5306",
+  "order_in_legajo": 123,
+  "signatura": "123:8153.JPG",
+  "nombre_carta": "Carta de Gabriel Seguí a Pedro Santacilia y Pax",
+  "fecha_original": "29 de enero de 1645",
+  "lugar": "Maó",
+  "remitente": "Gabriel Seguí",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "El príncipe està sobre la saetia aguardant ocasió de bon temps I així no crec vagi aquí ja, com havia dita Bertran. Joan gener qui està destinat d’esta vila, a alguns mesos que està promès amb una filla d'una criada de casa. Veig el que desitja la mare de la jove, que han tes que anàs a complir el {ESP. desterro} se efectuàs dit matrimoni i que jo, per altra part, tinc les seves coses per prò pries. I així, m'ha paregut dir a v. s. si pot fer-la’m faci de concedir-li alguns mesos de guiatge en els quals pugui casar-se i compondré ses coses, deixant aconso lada la muller qui ho desitja més que ell. I v. s. en tot el que sia de son gust me mana. de Maó i gener als 29 de 1645. Gabriel Seguí governador. Transcripción literal"
+  ],
+  "literal": [
+    "1. El Prinsipe esta sobra la satjatia aguardant ocasio2. de bon temps Y axi no crech vaja aqui ja com avia dita3. bartran= Juan Janer qui esta destinat desta vila ha alguns4. mesos que esta promesa b una filla de una criade de5. casa veyx lo que desitja la mare de la jove que an6. tes que anas a complir el desterro se afectuas dit matrimo=7. ni Y que jo per altre part tinch las suas cosas p pro=8. prias Y axi me ha aparagut dir a VSª. si pot ferlem9. fassa de consedirli alguns mesos de guiatge en los quals10. puga casarse y compondre ses cosas dexant aconso=11. lade la muller quiu desitja mes que ell Y VSª. en12. tot lo que sia de son gust me mane de Maho y Janer13. als 29 de 164514. Gabriel Saguí15. Sr. Gdor. [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "123:8153.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo35/123:8153.JPG",
+      "url": "/legajos/legajo-35/images/123:8153.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "123:8153.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-35/cartas/005306.json",
+  "primary_image_url": "/legajos/legajo-35/images/123:8153.JPG"
+}

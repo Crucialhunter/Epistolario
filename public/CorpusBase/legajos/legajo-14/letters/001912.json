@@ -1,0 +1,43 @@
+{
+  "legajo_id": "14",
+  "id_carta": "1912",
+  "order_in_legajo": 12,
+  "signatura": "014:2416a.JPG",
+  "nombre_carta": "Carta de Tomà s Garriga a Pedro Santacilia y Pax",
+  "fecha_original": "14 de abril de 1632",
+  "lugar": "Mallorca",
+  "remitente": "Tomà s Garriga",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Illustríssima una de v. m. tinc rebuda de 27 de març amb què em fa mercè avisar-me de les mercès li fa sa magestat el rei Nostre Senyor les quals gosera v. m. els anys de son desig per a fer-me mercè en emplear-me amb coses de son gust i servei se seré prompte a reconèixer i acudir a mas obligacions tant digudes. i així no deixarà v. m. manar-me com a tant senyor meu que Nostre Sr. Guardi Mallorca i abril als 14. de 1632. Thomas Garriga Al Sr. don Pedro Santacilia i Pax. [1§] a don Pedro Santacilia guardi Déu Barcelona [2§] Transcripción literal"
+  ],
+  "literal": [
+    "1. Ill[u]sma2. Una de Vm. tinch rebude de 27 de mars3. ab quem fa merçe avisarme de las merces li4. fa se magestad lo rey nostron señor las quals5. goserá Vm. los añys de son desig per a ferme 6. merçe en emplearme ab cossas de son gust7. y servey se sere prompta a regonexer y acudir8. a mas obligacions tant digudes. Y axi no dexera9. Vm. menarme com a tant señor meu que nostro Sr.10. gde Mca y Abril als 14. de 1632.11. Thomas Garriga12. Al sr. Don Pedro Sta cilia y pax. [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "014:2416a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo14/014:2416a.JPG",
+      "url": "/legajos/legajo-14/images/014:2416a.JPG"
+    },
+    {
+      "filename": "015:2416b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo14/015:2416b.JPG",
+      "url": "/legajos/legajo-14/images/015:2416b.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "014:2416a.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (2)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-14/cartas/001912.json",
+  "primary_image_url": "/legajos/legajo-14/images/014:2416a.JPG"
+}

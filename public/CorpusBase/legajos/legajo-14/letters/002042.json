@@ -1,0 +1,43 @@
+{
+  "legajo_id": "14",
+  "id_carta": "2042",
+  "order_in_legajo": 143,
+  "signatura": "234:2554c.JPG",
+  "nombre_carta": "Carta de Diego Matías de Aragüés a Pedro Santacilia y Pax",
+  "fecha_original": "31 de diciembre de 1661",
+  "lugar": "Madrid",
+  "remitente": "Diego Matías de Aragüés",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Recibo hoy los pliegos de 8 y 12 de este que han venido por Barcelona que han sido breves y dádome muy buen día último de este año porque aguardaba estas cartas, con que tendré dispuesto todo para salido de vacaciones se haga la diligencia que espero en Dios no nos ha de hacer falta. El Sr. don Luis que goce del cielo, y así solo ésta hago por el mismo camino para que v. m. sepa ha llegado a mi mano. También el Sr. don Ramon Sureda manaña se hará diligencia para la canongía pues llegó el aviso de haber muerto el consejo. Buenos vienen los papeles, y acá se procura sea la diligencia con todo secreto hasta que en el consejo se hable y vea sus majestades están buenísimos y su alteza se cria famoso chicote, a Dios las gracias. El Sr. don Juan está bueno y sirve todos estos días que son muchos [1§] y con la librea, que lo sienten harto todos pero no importa, que ahora nos ha ahorrado un vestido, sino mandará el rey que la traigan hasta que dé otra orden. No puedo alargarme por Valencia es [?] v. m. tenga muy buenos principios de año en compañía de mi Sra. Dña. Lenor y todos esos Sres. que besamos sus manos Dña. Margarita y yo y guarde Dios como puede. Madrid a 31 Diciembre 1661. Pasado los reyes se consagra el obispo de Mallorca y dice se ha de ir luego, veré lo que se podrá ejecutar en la partida, que si puedo disponerlo lo haré, y creo que los Sres. caballerizo mayor y el Sr. don Fernando de Borja no negar-a la licencia. Besa la mano de v. m. su mayor servidor Diego Matias de Aragues Sr. don Pedro Santacilia y Pax. Transcripción literal"
+  ],
+  "literal": [
+    "1. Recibo oy los pliegos de 8. y 12 deste2. q han venido por Barcelona q3. han sido breves y dadome muy buen4. dia Ultimo deste año porq aguardaba5. estas cartas, con q tendre dispuesto6. todo para salido de vacaciones se7. haga la diliga q espero en Dios8. no nos ha de hazer falta el Sr. don9. Luys q goze del cielo, y asi solo esta10. ago por el mismo camino para q Vm11. sepa ha llegado a mi mano.12. Tambien el Sr. don Ramon Sureda13. manaña se hara diliga pa la Canongia14. pues llego el aviso de haver muerto el Conjo15. Buenos bienen los papeles,16. y aca se pro17. cura sea la diliga con todo secreto hasta18. q en el Consso se hable y vea19. Sus Magdes estan bonissimos y su20. Alteza se cria famosso chicote a Dios21. las gracias. El Sr. don Juan esta bueno22. y sirve todos estos dias q son muchos [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "234:2554c.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo14/234:2554c.JPG",
+      "url": "/legajos/legajo-14/images/234:2554c.JPG"
+    },
+    {
+      "filename": "235:2554b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo14/235:2554b.JPG",
+      "url": "/legajos/legajo-14/images/235:2554b.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "234:2554c.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (3)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-14/cartas/002042.json",
+  "primary_image_url": "/legajos/legajo-14/images/234:2554c.JPG"
+}

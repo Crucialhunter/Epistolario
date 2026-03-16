@@ -1,0 +1,37 @@
+{
+  "legajo_id": "31",
+  "id_carta": "6994",
+  "order_in_legajo": 232,
+  "signatura": "341:1745a.JPG",
+  "nombre_carta": "Carta de Pedro Orvay de Blanes a Pedro Santacilia y Pax",
+  "fecha_original": "10 de octubre de 1664",
+  "lugar": "Ibiza",
+  "remitente": "Pedro Orvay de Blanes",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "[1§] [2§] Transcripción literal"
+  ],
+  "literal": [
+    "1. 1."
+  ],
+  "imagenes": [
+    {
+      "filename": "341:1745a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo31/341:1745a.JPG",
+      "url": "/legajos/legajo-31/images/341:1745a.JPG"
+    },
+    {
+      "filename": "342:1745b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo31/342:1745b.JPG",
+      "url": "/legajos/legajo-31/images/342:1745b.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "341:1745a.JPG",
+  "warnings": [],
+  "raw_source": "raw/legajos/legajo-31/cartas/006994.json",
+  "primary_image_url": "/legajos/legajo-31/images/341:1745a.JPG"
+}

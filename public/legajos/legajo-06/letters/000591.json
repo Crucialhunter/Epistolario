@@ -1,0 +1,48 @@
+{
+  "legajo_id": "6",
+  "id_carta": "591",
+  "order_in_legajo": 94,
+  "signatura": "112-62",
+  "nombre_carta": "Carta de Ignasi Vila a Cecilia Zaforteza y Sureda de Sant Martí",
+  "fecha_original": "19 de diciembre de 1756",
+  "lugar": "Barcelona",
+  "remitente": "Ignasi Vila",
+  "destinatario": "Cecilia Zaforteza y Sureda de Sant Martí",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Molt il·lustre senyora dona Cecília, Rebo la de v. s. de 8 del corrent amb la que acompanya mon sentiment a la fúnebre notícia de son volgut cosí, que {ESP. gosa} de glòria, el que tots els d’esta sa casa hem sentit vivament, per haver merescut {ESP. lograr} tan poc la seva amistat i coneixença, però ens devem conformar amb la disposició de l'Altiíssim i Nostre Sr. li concedesca molts anys de vida per encomanar-lo a Déu Nostre Sr. el tinga en sa glòria, doncs de sa seva resignació no n’esperem de {ESP. menos}, doncs de nostra part i de tots els d’esta sa casa procurarem amb el mateix com és de nostra obligació pel bon efecte [que] li professàvem. Participo a v. s. com a sa partença m’encarregà un {ESP. vale} de tres-centes peces de vuit antigues, perquè a son {ESP. plaço} cuidàs de cobrar-les a la seva disposició, el que tinc en mon poder i a la disposició de v. s., doncs el {ESP. plaço} és a pagar per tot el més de gener prop vinent, i esto fou de resta de les sis mules se vené en esta. El Dr. Gabriel està bo, a Déu gràcies, i no li he escrit cosa de D. Gabriel de Berga, que {ESP. gosa} de glòria, suposant v. s. li haurà escrit. Jo i {ESP. demés} d'esta sa casa ens n'alegrarem. Nostre Sr. li doni {ESP. aliento} per poder {ESP. lograr} felices pasqües de la Natividat del Sr. i per major consol de v. s. i descans en la glòria son volgut cosí. Mentre quedam per servir-la i ens mana en allò de son {ESP. agrado} i retornant-li les degudes saluts de part mia parenta i fills amb tota estimació. D’esta sa casa, Barcelona i desembre als 19 de 1756. Besa la mà de v. s. Ignasi Vila, son servidor Molt senyora, dona Cecilia Zaforteza Transcripción literal"
+  ],
+  "literal": [
+    "1. Molt Illa. Sra. Da. Cicilia rebo la 2. de V.S. de 8 del Corrent ab la que acom- 3. panya mon sentiment a la funebre noti- 4. cia de son volgut Cosí, que gose de Gloria, 5. lo que tots los de esta sa Casa hem sentit 6. vivament, per aver merescut lograr tan 7. poch la sua amistat y Conexença; 8. pero nos devem Conformar ab la dispo- 9. sicio del Altissim, y Nostre Sr. li Con- 10. sedesca Mols anys de vida per enco- 11. manarlo á Deu Ne Sr. lo tinga en 12. sa Gloria, pues de sa sua resignacio 13. no ne espera de menos; pues de nostre 14. part y de tots los de esta sa Casa procu- 15. rarem ab lo mateix Com es de nostre 16. obligasio per lo bon efecte li profesa- 17. vem. Participo á V.S. Com á sa partença [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "112-62.jpg",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo06/112-62.jpg",
+      "url": "/legajos/legajo-06/images/112-62.jpg"
+    },
+    {
+      "filename": "113-62ba.jpg",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo06/113-62ba.jpg",
+      "url": "/legajos/legajo-06/images/113-62ba.jpg"
+    },
+    {
+      "filename": "113-62bb.jpg",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo06/113-62bb.jpg",
+      "url": "/legajos/legajo-06/images/113-62bb.jpg"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "112-62.jpg",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-06/cartas/000591.json",
+  "primary_image_url": "/legajos/legajo-06/images/112-62.jpg"
+}

@@ -1,0 +1,38 @@
+{
+  "legajo_id": "6",
+  "id_carta": "568",
+  "order_in_legajo": 70,
+  "signatura": "066-39",
+  "nombre_carta": "Carta de Elena de Lanuza y Boxadors a Cecilia Zaforteza y Sureda de Sant Martí",
+  "fecha_original": "25 de septiembre de 1748",
+  "lugar": "Valencia",
+  "remitente": "Elena de Lanuza y Boxadors",
+  "destinatario": "Cecilia Zaforteza y Sureda de Sant Martí",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Tía y muy señora mía: La noticia que se sirve v. s. darme en su carta de 11 del corriente de la muerte de mi tío el señor d. Francisco Sureda de Sant Martí y Zaforteza, que de Dios goce, me deja con el mayor sentimiento y con la consideración del justo dolor que habrá causado en v. s. este golpe tan crecido, en cuya pena acompaño a v. s. con las mayores veras, y le deseo el consuelo de que necesita, como el que ejercite mi obediencia en cuanto sea del mayor agrado de v. s., cuya vida ruego a Dios guarde muchos años como deseo. Valencia y septiembre 25 del 1748. Tía y señora, no puede v. s. dudar de mi cariño y de lo sensible que me ha sido su trabajo. La acompaño con las mayores veras y tendré muy presente al difunto en mis oraciones para que su Divina Majestad le premie con su presencia y conceda a v. s. el consuelo que necesita, con cuya seguridad debe v. s. estar y mandarme cuanto gustare. Su sobrina y mayor servidora, G. M. Elena de Lanuza y de Boixadors. Mi señora da. Cecilia Zaforteza y Berga, mi tía y señora Transcripción literal"
+  ],
+  "literal": [
+    "1. Tia, y muy Sra. mia: La noticia que se sirve 2. V.S. darme en su Carta de 11 del Corrte de la muerte de 3. mi tio el Sr. Dn. Franco Sureda de Sn. Marti y Ça- 4. forteza (que de Dios goze) me deja con el mar 5. sentimto y con la consideracion del justo dolor 6. que abra causado en V.S. este golpe tan crecido; 7. en cuia pena á compano á V.S. con las maiores 8. veras, y le desseo el consuelo de que necesita, como 9. el que exercite mi obeda en quanto sea del mar 10. agrado de V.S. cuia vida ruego á Dios Gue 11. ms a< ño>s como deso. Vala y Sepre 25 del 1748 12. Tia y Sra. no puede V.S. dudar de mi cariño y de lo sensible que me 13. ha sido su travajo la Acompaño con las mayores veras y ten- 14. dre muy presente al Difunto en mis Oraciones para que su Di- 15. vina Magd le premie con su presencia y conceda a V.S. el consuelo 16. que necessita con cuya seguridad deve V.S. estar y mandarme qto gustare 17. Su sobrina y mayr serra 18. G.M. Elena de Lanuza y de 19. Boxadors20. Mi Sra. Da. Cecilia Çaforteza, y Berga, mi tia y Sra. [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "066-39.jpg",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo06/066-39.jpg",
+      "url": "/legajos/legajo-06/images/066-39.jpg"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "066-39.jpg",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-06/cartas/000568.json",
+  "primary_image_url": "/legajos/legajo-06/images/066-39.jpg"
+}

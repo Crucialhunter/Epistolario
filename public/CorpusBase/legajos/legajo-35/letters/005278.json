@@ -1,0 +1,38 @@
+{
+  "legajo_id": "35",
+  "id_carta": "5278",
+  "order_in_legajo": 89,
+  "signatura": "091:8124.JPG",
+  "nombre_carta": "Carta de Tomás Miró a Pedro Santacilia y Pax",
+  "fecha_original": "1 de mayo de 1644",
+  "lugar": "El Mercadal",
+  "remitente": "Tomás Miró",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "governador, Joan Ametller tracta de partir-se d'ací i en la seva roba ha embarcada una caixa que s'havia feta a heretat [?] del rei per guar dar les robes de Sant Antoni. També ha embarcat la pastera i dos bufets, un de ferros del foc, unes graelles, tot el qual li era feta a heretat del [?] rei i també ha embarcat el guix que. tret per obrar les caixes v. s. ne restarà avisat i en farà el que li pareixerà, perquè. no vull que després me denunciïa mi. Gda. Déu a v. s. et. Del Mercadal i maig 1644. Tomàs Miro guardi or. Transcripción literal"
+  ],
+  "literal": [
+    "1. Sr. Governador Joan Ameller tracta de partirse2. de aci y en la sua roba ha embarcada huna3. caxa que sea via feta a eretat[?] del Rey per guar4. dar les robes de St. Antº tambe ha embarcat5. la pastera y dos bufets un de ferros del foch6. unes graelles, tot lo qual li era feta [a eretat del [?]7. Rey y tambe ha embarcat lo guix q [...]8. tret per obrar les caxes V.S. ne restara9. avisat y en fara lo q li parexera, perq [...]10. no vull q despres me denuncii a mi Gde.11. Deu a V.S. ett. del Mercadal y Maig [...]12. 164413. Thomas Miro14. Sr. Gdor. [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "091:8124.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo35/091:8124.JPG",
+      "url": "/legajos/legajo-35/images/091:8124.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "091:8124.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (2)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-35/cartas/005278.json",
+  "primary_image_url": "/legajos/legajo-35/images/091:8124.JPG"
+}

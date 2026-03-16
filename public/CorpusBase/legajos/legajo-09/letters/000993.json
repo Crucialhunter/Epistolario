@@ -1,0 +1,48 @@
+{
+  "legajo_id": "9",
+  "id_carta": "993",
+  "order_in_legajo": 28,
+  "signatura": "027-15a",
+  "nombre_carta": "Carta de Diego Álvarez a Arnau de Santacilia",
+  "fecha_original": "11 de abril de 1674",
+  "lugar": "Milán",
+  "remitente": "Diego Álvarez",
+  "destinatario": "Arnau de Santacilia",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Amigo y señor, esta es por hacer saber a v. m. como se ha sido servido de hacerme merced del puesto de ayudante del [?] o habiendo muerto el ayudante Bernardo Bonilla, que Dios tenga en gloria y el señor maestre de campo me ha hecho merced contra mis méritos. Al capitán don Francisco Villalonga le he dado todo cuanto me ha pedido y siempre lo continuaré como v. m. me ordena. Por su[s] cartas a la fin de este mes se dice haber muestra; aquí no hay otra cosa [1§] de nuevo de que yo dar aviso a v. m., cuya vida guarde Dios muchos años. Milán, a 11 de abril 1674. Besa las manos de v. m. su amigo y servidor, Diego Alvarez Señor capitán don Arnau de Santacilia [2§] Al capitán don Arnau de Santacilia, guarde Dios muchos años como deseo y es me menester. Malaga Transcripción literal"
+  ],
+  "literal": [
+    "1. Amigo Ysr esta es por acer saver 2. a Vmd. como se asido servido 3. De acerme merced Del pues4. to de ayudante del[?] abien5. do muerto el ayudante Bernar6. do donilla que Ds tenga en glo7. ría Yel sr mre de Campo me 8. aecho merced contra mís 9. merítos = alcapn Don franco 10. Billa longa le e dado todo qu11. anto meapedido Y sienpre lo 12. Continuare como Vmd. meor13. dena Por su(^s) cartas alafin 14. Deste mes se dice aBer[?] mu15. estra aqino ay otro cosa [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "027-15a.jpg",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo09/027-15a.jpg",
+      "url": "/legajos/legajo-09/images/027-15a.jpg"
+    },
+    {
+      "filename": "028-15b.jpg",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo09/028-15b.jpg",
+      "url": "/legajos/legajo-09/images/028-15b.jpg"
+    },
+    {
+      "filename": "029-15c.jpg",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo09/029-15c.jpg",
+      "url": "/legajos/legajo-09/images/029-15c.jpg"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "027-15a.jpg",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-09/cartas/000993.json",
+  "primary_image_url": "/legajos/legajo-09/images/027-15a.jpg"
+}

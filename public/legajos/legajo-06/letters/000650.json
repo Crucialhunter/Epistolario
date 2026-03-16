@@ -1,0 +1,43 @@
+{
+  "legajo_id": "6",
+  "id_carta": "650",
+  "order_in_legajo": 149,
+  "signatura": "224-115a",
+  "nombre_carta": "Carta de Geroni Estrany a Cecilia Zaforteza y Sureda de Sant Martí",
+  "fecha_original": "24 de mayo de 1772",
+  "lugar": "Palma",
+  "remitente": "Geroni Estrany",
+  "destinatario": "Cecilia Zaforteza y Sureda de Sant Martí",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Senyora, Avui a la tarda som estat a veure Caterina Tomàs del Olivar per saber de Teresa, i ha passat la nit molt {ESP. laboriosa} i avui al matí ja ha instat i estava molt millor sense febre o {ESP. casi} sense ella. Heu parlat de l'{ESP. asumpto} en som {ESP. algo} informat i segons és explicada li toca en vuit atxes per ser estada abadessa. Jo pens que per ser religiosa i haver renunciat al Sr. no devem accedir. No {ESP. obstante}, si v. m. troba altra cosa, manarà notificar-me'l. Jo he dit que ella, juntament amb la mare aba[dessa], i el pes de les atxes [1§] abadesa feien un pla de tot per major {ESP. lustre} d’un {ESP. enterro} i de les assistències de misses, absoltes, et àlies, i me l’entregarien. Sols tinc la dificultat quina ha de ser la de les misses, en què no vaig pensar a advertir. I si pensa v. m. en alguna cosa podrà avisar-me, per no quedar {ESP. atrasat} en servir a v. m. salut i gràcia. Palma i maig 24 de 72. Capellà menor de v. m. Jeroni Estrany, prevere. Mi senyora dona Cecíla Zaforteza i de Berga, viuda. Transcripción literal"
+  ],
+  "literal": [
+    "1. Señora vuy a la tarde 2. som estat á veurer Sr 3. Catharina Thomas del 4. Olivar per saber de Sor 5. Tharesa, y há pessat la 6. nit molt laboriosa, y 7. vuy al Matí ja ha In[?] 8. dat, y estava molt mil- 9. lor sens fabre ó casi 10. sens ella: Haveu 11. perlat del assumpto, 12. hem som algo infor- 13. mat; y segons es es ex- 14. plicada ly tocan vuyt 15. atchas per ser estada 16. Abadeza, jo pens que 17. per ser Religiosa, y ha- 18. ver renunciat al 19. [?] no devem acce- 20. dir; no obstante si 21. V.M. troba alatra cosa 22. menera notificarmelo 23. Jo he dit que ella 24. juntament ab la Me Aba 25. y al pez de las atxas[?] [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "224-115a.jpg",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo06/224-115a.jpg",
+      "url": "/legajos/legajo-06/images/224-115a.jpg"
+    },
+    {
+      "filename": "225-115b.jpg",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo06/225-115b.jpg",
+      "url": "/legajos/legajo-06/images/225-115b.jpg"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "224-115a.jpg",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-06/cartas/000650.json",
+  "primary_image_url": "/legajos/legajo-06/images/224-115a.jpg"
+}

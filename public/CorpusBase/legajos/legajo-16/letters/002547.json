@@ -1,0 +1,38 @@
+{
+  "legajo_id": "16",
+  "id_carta": "2547",
+  "order_in_legajo": 33,
+  "signatura": "057:2047.JPG",
+  "nombre_carta": "Carta de Diego Matías de Aragüés a Pedro Santacilia y Pax",
+  "fecha_original": "5 de marzo de 1667",
+  "lugar": "Madrid",
+  "remitente": "Diego Matías de Aragüés",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Por Barcelona por orden del amígo Balell recibo una de v. s. de 20 del pasado y todas las demás han llegado a mis manos y tengo respondido por Valencia y Bacelona en razón de la ayuda de costa y lo demás que en aquella carta me significa v. s. tengo dado memorial en todo y no ha tomado el consejo resolución. Lo doy instando el señor don Nicolas está mejor y comienza a levantarse. No tiene v. s. que estar con cuidado. El memorial para lo del oficio imprímiendo que como se ha de dar a muchos he revuelto esto, con que en estando el señor don Nicolas para salir se entenderá en esto y si veo que tarda trataré de hacer la diligencia también en la de casa del señor nuncio, porque para díez de este se cumple el tiempo. V. s. me mande le sírva, que sus manos besamos doña Margarita y yo y las de mi señora doña Leonor y señor don Juan y todos esos señores y guarde Dios como deseo. Madrid a 5 de marzo 1667. Besa las manos de v. m. su mayor servidor, Diego Matias de Aragues Señor don Pedro Santacilia y Pax Transcripción literal"
+  ],
+  "literal": [
+    "1. Por Barçelona por orden del amígo Balell Reçívo una 2. de VS de 20 del passado y todas las demas anllegado 3. amis manos. y tengo Respondido por Valençía y Baçelona 4. en Raçon dela ayuda de costa y lo demas que en aquella 5. Carta me Significa VS. tengo dado memoríal en todo 6. y no atomado el Consso Resoluçíon loDoy Instando = 7. el Señor D Nícolas estamejor y comíensa alevantar 8. se no tíene VS que estar con cuydado = 9. El memoríal paralodel offo ímprímíendo q 10. Como seha de dar amuchos he Revuelto esto, Conqu[e e]n 11. estando elsr don Nícolas parasalir se entendera enesto 12. y si beoque tarda tratare de haçer la diligençía = 13. tanvíen en la de cassa del sr Nunçío porque para díez de 14. este se cumple el tíempo, VS Me mande le sírva que sus 15. manos besamos da Margta Y Yo y las demisa da leon[o]r 16. y sr don Juan y todos essos ses y gde Dios como desseo 17. Madrid a 5 de Março 1667 18. Bl M de VM. s[u] M[ S 19. Diego Mathias de Aragues20. [Margen izquierdo][^Sr D Pedro Santa Cilia y Pax] [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "057:2047.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo16/057:2047.JPG",
+      "url": "/legajos/legajo-16/images/057:2047.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "057:2047.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (3)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-16/cartas/002547.json",
+  "primary_image_url": "/legajos/legajo-16/images/057:2047.JPG"
+}

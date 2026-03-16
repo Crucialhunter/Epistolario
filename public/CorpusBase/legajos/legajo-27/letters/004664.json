@@ -1,0 +1,38 @@
+{
+  "legajo_id": "27",
+  "id_carta": "4664",
+  "order_in_legajo": 135,
+  "signatura": "232:4473.JPG",
+  "nombre_carta": "Carta de Pedro Aulí a Pedro Santacilia y Pax",
+  "fecha_original": "16 de abril de 1661",
+  "lugar": "Barcelona",
+  "remitente": "Pedro Aulí",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Señor esta lo halla con la salud que yo deseo para mi. Hago saber a vosa señoría que yo le tengo por lo que me quisiera mandar. Yo he ha llegado hoy en esta ciudad de Barcelona con mi alférez Tomas Canet que ha llegado a tan buena ocasión para donar parte a vuestra señoría que se ha partido una barca y por venir cansado del camino, y no haber habido tiempo de hablar con el señor marques y a los demás amigos no me he atrevido a embarcarme y asimismo por no tener respuesta de v. s. de lo que le escribió de mi alférez Tomas Canet de que en {CAT. folgaré} antes de partirme de tener una carta de v. s. Yo me partió a 9 del corriente de Madrid en que el mismo día fuimos a despedirnos del señor don Juan a la casa de los pajes de su majestad que Dios guarde en la cual lo dejé muy bueno en que puede v. s. estar sin cuidado no más, sino que Dios guarde cómo puedo y yo deseo de Barcelona, {CAT. als} 16 de abril 1661. De v. s. que sus manos besa el capitán Pedro de Auli Mi señor, don Pedro. Transcripción literal"
+  ],
+  "literal": [
+    "1. Señor esta lo alla con la salud que Jo deseo por ha mi hago-2. saber ha vose señoria que Jo le tengo por lo que me quisiera3. mandar Jo he allegado oy en esta Ciudad de Barselona4. Con mi Alferes Thomas Canet he allegado ha tan buena alca-5. sion por ha donar parte ha vosa señoria que se ha pertida6. una barca y per venir cansado del Camino, y no aver avido7. tienpo de hablar con el señor marques y ha los demas ami-8. gos no me he atrevido ha enbercarme y hasi mismo por no te-9. ner respuesta de V.s. de loque li escrivio de mi Alferes10. Thomas Canet de que em folgare Antes de partirma de tener11. una Carta de V.S. Jo me partio als 9 del Corrente de Madrid12. en que el mismo dia fuimos ha despedirnos del señor don13. Joan ha la Casa de los pages de Su Magd que duis gde en14. la qual lo dege muy bueno en que puede V.S. estar sin15. Cuidado no mas sino que dios gde cómo puedo y Jo deseo de 16. Barselona als 16 de Abril 166117. De V.Sª q. s.[u] M. B.18. el Capitan Pedro de Auli19. [29, a part] Mi Señor Don Pedro [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "232:4473.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo27/232:4473.JPG",
+      "url": "/legajos/legajo-27/images/232:4473.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "232:4473.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-27/cartas/004664.json",
+  "primary_image_url": "/legajos/legajo-27/images/232:4473.JPG"
+}

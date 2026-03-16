@@ -1,0 +1,38 @@
+{
+  "legajo_id": "21",
+  "id_carta": "3370",
+  "order_in_legajo": 58,
+  "signatura": "092:5659.JPG",
+  "nombre_carta": "Carta de Gabriel Sureda i Salvà a Pedro Santacilia y Pax",
+  "fecha_original": "7 de marzo de 1632",
+  "lugar": "Mallorca",
+  "remitente": "Gabriel Sureda i Salvà",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Amb tant de gust he escrit a v. m. esta que tinc temor a cert a parlar açò és quant en aquest fet, en el {ESP. demés} estic queixossíssim que sabent v. m. quant servidor li sóc no sia estat venturós de quatre renglons manant-me fer a saber d'eixa salut i llibertat, la qual {ESP. gose} v. m. molts anys per a poder-me manar que li promet que ningú acudirà amb major gust i voluntat de mi v. m. me'l farà particular desig {ESP. solo} per ací en coses de son servei manar-me moltes coses que acudiré com dec. Mallorca març 7 1632. Gabriel Sureda i Salva Sr. don Pedro Santacilia i Pax Transcripción literal"
+  ],
+  "literal": [
+    "1. Ab tant de gust escrit a v.m. esta que 2. tinch themor asserta aparlar asso 3. es quant en aquest fet, en lo demes 4. estich quexosisim que sabent vm. 5. quant servidor li so nosie estat ven6. turos de quatre ringlons manant 7. me fer hasaber desasalut y lli8. bertat. La qual gosse vm mols 9. anys pera poderma manar queli 10. promet que ningu Acudira Abm11. ajor gust y voluntat de mi 12. v.m. lem fara particular desi13. sobo per assi en Cosses de Son Servey 14. manarme moltes Cosses que Acudi[re]15. com dech Mallca mars .7. 1632 16. Gabriel Sureda salva[?]17. [Margen izquierdo][^ Sr d pedro sta Cilia y Pax] [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "092:5659.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo21/092:5659.JPG",
+      "url": "/legajos/legajo-21/images/092:5659.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "092:5659.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (2)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-21/cartas/003370.json",
+  "primary_image_url": "/legajos/legajo-21/images/092:5659.JPG"
+}

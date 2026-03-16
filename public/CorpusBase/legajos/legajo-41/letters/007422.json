@@ -1,0 +1,37 @@
+{
+  "legajo_id": "41",
+  "id_carta": "7422",
+  "order_in_legajo": 28,
+  "signatura": "104:48a",
+  "nombre_carta": "Carta de Pedro Santacilia y Pax a Persona desconocida",
+  "fecha_original": "fecha sin especificar",
+  "lugar": "lugar sin especificar",
+  "remitente": "Pedro Santacilia y Pax",
+  "destinatario": "Persona desconocida",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "^SeñorDon Pedro de Santa cilia y Pax Cauallero del ordende Calatraua ?? Dice que fuera de los muchos y grandesseruicios que con los puestos que ha ocupado de Gouerna=dos General de la Caualleria, i Almirante que en exer=citos y armadas a hecho a Vuestra Magestad [1§] [2§] Transcripción literal"
+  ],
+  "literal": [
+    "1. [^Señor]2. Don Pedro de Santa cilia y Pax Cauallero del orden3. de Calatraua [??] Dice que fuera de los muchos y grandes4. seruicios que con los puestos que ha ocupado de Gouerna=5. dos General de la Caualleria, i Almirante que en exer=6. citos y armadas a hecho a V< uestra> Mag< esta>d [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "104:48a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo41/104:48a.JPG",
+      "url": "/legajos/legajo-41/images/104:48a.JPG"
+    },
+    {
+      "filename": "105:78b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo41/105:78b.JPG",
+      "url": "/legajos/legajo-41/images/105:78b.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "104:48a.JPG",
+  "warnings": [],
+  "raw_source": "raw/legajos/legajo-41/cartas/007422.json",
+  "primary_image_url": "/legajos/legajo-41/images/104:48a.JPG"
+}

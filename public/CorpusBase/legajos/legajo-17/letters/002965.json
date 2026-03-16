@@ -1,0 +1,36 @@
+{
+  "legajo_id": "17",
+  "id_carta": "2965",
+  "order_in_legajo": 230,
+  "signatura": "401:1507.JPG",
+  "nombre_carta": "Carta de Persona desconocida a Pedro Santacilia y Pax",
+  "fecha_original": "19 de septiembre de 1660",
+  "lugar": "Mallorca",
+  "remitente": "Persona desconocida",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Transcripción literal"
+  ],
+  "literal": [],
+  "imagenes": [
+    {
+      "filename": "401:1507.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo17/401:1507.JPG",
+      "url": "/legajos/legajo-17/images/401:1507.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "401:1507.JPG",
+  "warnings": [
+    {
+      "code": "MISSING_LITERAL",
+      "message": "Transcripción literal vacía",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-17/cartas/002965.json",
+  "primary_image_url": "/legajos/legajo-17/images/401:1507.JPG"
+}

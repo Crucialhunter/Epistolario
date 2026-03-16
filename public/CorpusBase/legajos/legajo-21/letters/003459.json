@@ -1,0 +1,43 @@
+{
+  "legajo_id": "21",
+  "id_carta": "3459",
+  "order_in_legajo": 146,
+  "signatura": "264:5747a.JPG",
+  "nombre_carta": "Carta de marqués de Torreguso a Pedro Santacilia y Pax",
+  "fecha_original": "10 de junio de 1639",
+  "lugar": "Pamplona",
+  "remitente": "marqués de Torreguso",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Su ilustrísima Se vuelve el teniente hoy el despacho que verá. Hase ha detenido por haber querido el marques hablarme antes de dársele luego que llegué a esta provincia se la di al duque. Hago instancia lleve a otra ese Biximiena [?] en si a que se resolverá será servicio de s. m. que aunque los rocines que le suplica me comprase días en que escribímelos entrase que es el tiempo sirven haciéndome los buscando vuelva a suplicárselo me los envíe y juntamente el precio que valen y a ayunos he de entregarlo. Nro. Sr. guarde a v. m. Pamplona 10 Junio 1639. El marques de Torreguso [1§] Pamplona 10 Junio 1639.El marques de Torreguso rdo. [2§] Transcripción literal"
+  ],
+  "literal": [
+    "1. Su[?] Illa 2. Se vuelve el tiniente oi el des3. pacho q vera = hase detenido por 4. haver querido el Marq ablarme 5. antes de darsele luegho q llegh 6. a esta proa si le di.- al duq[u]e 7. ago hinstançia lleve aotra esse 8. Biximiona [?] en si a q se resolve9. ra sera serviçio d[e] S.M. q Aun10. q los ronçies q le supliqa 11. me comprarsse dias En le 12. scrivi melos entrasse q es 13. el tiempo sirven = hacciendo 14. melos buscando Vuelva a 15. suplicarselo melos envie 16. y xuntamente el preçio q 17. valen y a ayunos e de en 18. tregar lo N Sr gde VM pa 10 19. Junio 1639 20. lo Marqsde [?] Ferregut [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "264:5747a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo21/264:5747a.JPG",
+      "url": "/legajos/legajo-21/images/264:5747a.JPG"
+    },
+    {
+      "filename": "265:5747b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo21/265:5747b.JPG",
+      "url": "/legajos/legajo-21/images/265:5747b.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "264:5747a.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-21/cartas/003459.json",
+  "primary_image_url": "/legajos/legajo-21/images/264:5747a.JPG"
+}

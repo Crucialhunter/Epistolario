@@ -1,0 +1,43 @@
+{
+  "legajo_id": "18",
+  "id_carta": "3000",
+  "order_in_legajo": 30,
+  "signatura": "054:4839a.JPG",
+  "nombre_carta": "Carta de Diego Matías de Aragüés a Pedro Santacilia y Pax",
+  "fecha_original": "22 de septiembre de 1660",
+  "lugar": "Madrid",
+  "remitente": "Diego Matías de Aragüés",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Recibo la de v. m. de 29 de agosto holgándome mucho haya salido también del dolor de y xadas, aunque lapenalidad y lo que sehabra padecido habrá sido muy grande pero con el enemigo que salió será para Verse libre del dolor y confirmada salud para muchos tiempos Dios lo haga así y de tan cumplida salud como deseo en vida de mi Sra. Dña. Leonor, que su mano Besamos Dña. Margarita y yo como la de v. m. y todos esos señores muchas veces El Sr. don Juan ha sido hoy de purga y le ha ido muy bien, y espero ha de quedar con muy cumplida salud y desopilado del todo, con que embreves días podrá hirse a palacio a casa de los Pajesde su majestad de negocios no doy cuenta hasta que pueda como la de algo bueno, si bien me prometo que este relator e la Inquisición ha despacharnos dentro de quince días, hoy aviso a Valencia a don Francisco Granasa [?] remita luego suregalo de alcaparras y sobrasadas para que el Sr. don Juan haga [1§] Las reparticiones de ellas, conquien Véremos conviene sehaga. a 20 de este sepublicaron las paces de In galaterra con España de la misma manera que sehicieron El año de 36. no hay por ahora de nuevo otra cosa v. m. me mande le sirva guarde Dios los muchos años que deseo Madrid a 22 de septiembre 1660 Besa la mano de v. m. su menor servidor Diego Matias de Aragues Las bulas de la pensión del Sr. don Juan de los 200 ducados que se le han situado sehandespachado por (/por) acá por parecer ser mejor y habrán de venir aquí las bulas Importanas saber si el hijo de Po Monleon. que tiene 150 ducados sobre el obispado de Mallorca Víne, o, se lafio, antes que se pase la gracia de las bulas del obispo electo rdo. Sr. don Pedro Santacilia y Pax [2§] Transcripción literal"
+  ],
+  "literal": [
+    "1. Recivo lade Vm de 29 de Agosto olgandome 2. mucho aya salido tanbien del dolor de 3. Yxadas, aunq lapenalidad y lo q sehabra 4. padecido habra sido muy grande pero 5. conel enemigo q salio sera para Versse 6. libre del dolor y confirmada salud pa 7. muchos tiempos dios lo aga assi yde 8. tan cumplida salud como deseo en 9. Vida de mi sra da Leonor, q sumano 10. Vesamos da Ma[r]gta y yo como la de 11. Vm. y todos essos SSes muchas vezes 12. El sr don Juan hasido oy de purga 13. yle ha hido muy bien, y espero hade 14. quedar conmuy cumplida salud y 15. desopilado deltodo, conq enbreves 16. dias podra hirsse a Palacio acasa de 17. los Pajesde su Magd 18. de negocios no doy qta hasta q pueda 19. como la de algo bueno, si bien me prometo 20. q este relator e la Inqon ha despacharnos 21. dentro de quinze dias, 22. oy avi[ss]o a Vala a don franco Granasa[?] 23. remita luego suregalo de alcaparras y 24. sobrasa[da]s pa q el[sr] don Juan haga [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "054:4839a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo18/054:4839a.JPG",
+      "url": "/legajos/legajo-18/images/054:4839a.JPG"
+    },
+    {
+      "filename": "055:4839b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo18/055:4839b.JPG",
+      "url": "/legajos/legajo-18/images/055:4839b.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "054:4839a.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (3)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-18/cartas/003000.json",
+  "primary_image_url": "/legajos/legajo-18/images/054:4839a.JPG"
+}

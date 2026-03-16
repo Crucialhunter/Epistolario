@@ -1,0 +1,38 @@
+{
+  "legajo_id": "32",
+  "id_carta": "7199",
+  "order_in_legajo": 200,
+  "signatura": "280:1957.JPG",
+  "nombre_carta": "Carta de José Balell a Pedro Santacilia y Pax",
+  "fecha_original": "21 de septiembre de 1666",
+  "lugar": "Barcelona",
+  "remitente": "José Balell",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Sr. D. Pª Santacilia mi Muy mío que llegue esta a mano de v. s. será [?] porque ya habrá visto a Heryoy todos los pliegos y lo demás que se me ha ofrecido con que las novedades que junio son las que se han ofrecido de entonces haya quedando siempre dispuesto pª. continuarlas. Lo que me pasa es no poder dar a v. s. algª. noticia del pª. [?] y esto no puede ser por no haber escrito ni haber podido dar algunas noticias de las muchas que he procurado. Suplico a v. s. sea Servdo. de tenerme en su gracia como en su servicio. mandándome como quien puede guarde. Nro. Sr. a v. s. felicísimos años como puede desº. y es menester [?] de todos esos mis Sres. a quien es beso la mano Barcelona y Sete. a 21 de 1666 cierto criado de v. s. que sus manos besa Josep Balell [1§] Transcripción literal"
+  ],
+  "literal": [
+    "1. Sr. D Pª Santacilia mi sr. 2. Mui Sr. mio q. llegue esta a mano 3. de VS. sera [?] 4. porque ya habra visto a Heryo5. y todos los pliegos y lo demas 6. que se me ha offrecido con que 7. las novedades que junio son 8. las que se han offrecido de enton9. ces aia quedando siempre dispues10. to pª. continuarlas. Lo que 11. me pasa es no poder dar a VS 12. algª. noticia del Sr. pª. [?] 13. y esto no puede ser por no haver 14. escrito ni haver podido dar al15. gunas noticias de las muchas 16. que he procurado. = Suppco. a VS. 17. sea Servdo. de tenerme en su gracia 18. como en su servº. mandandome 19. como quien puede Gde. nro Sr. 20. a VS felicisimos años como pue21. de desº. y he menester [?] 22. de todos esos mis SS. a quienes beso 23. la mano Barcelona y Sette. a 24. 21 de 1666 25. Cierto criado de VS q. s. m. b. 26. Joseph Balell [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "280:1957.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo32/280:1957.JPG",
+      "url": "/legajos/legajo-32/images/280:1957.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "280:1957.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-32/cartas/007199.json",
+  "primary_image_url": "/legajos/legajo-32/images/280:1957.JPG"
+}

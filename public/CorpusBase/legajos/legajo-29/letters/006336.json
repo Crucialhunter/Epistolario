@@ -1,0 +1,48 @@
+{
+  "legajo_id": "29",
+  "id_carta": "6336",
+  "order_in_legajo": 33,
+  "signatura": "058:4153a.JPG",
+  "nombre_carta": "Carta de Pedro Santacilia y Pax a marqués de los Vélez",
+  "fecha_original": "7 de noviembre de 1640",
+  "lugar": "Vinarós",
+  "remitente": "Pedro Santacilia y Pax",
+  "destinatario": "marqués de los Vélez",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "[1§] [2§] [3§] Transcripción literal"
+  ],
+  "literal": [
+    "1. 1. 1."
+  ],
+  "imagenes": [
+    {
+      "filename": "058:4153a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo29/058:4153a.JPG",
+      "url": "/legajos/legajo-29/images/058:4153a.JPG"
+    },
+    {
+      "filename": "059:4153b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo29/059:4153b.JPG",
+      "url": "/legajos/legajo-29/images/059:4153b.JPG"
+    },
+    {
+      "filename": "060:4153c.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo29/060:4153c.JPG",
+      "url": "/legajos/legajo-29/images/060:4153c.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "058:4153a.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (2)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-29/cartas/006336.json",
+  "primary_image_url": "/legajos/legajo-29/images/058:4153a.JPG"
+}

@@ -1,0 +1,43 @@
+{
+  "legajo_id": "34",
+  "id_carta": "5018",
+  "order_in_legajo": 47,
+  "signatura": "073:6933a.JPG",
+  "nombre_carta": "Carta de Diego Matías de Aragüés a Pedro Santacilia y Pax",
+  "fecha_original": "3 de marzo de 1656",
+  "lugar": "Madrid",
+  "remitente": "Diego Matías de Aragüés",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "y atengo escrito a v. m. como here/ cibido todos los pliegos y las cartas que en el los Vimian entregado las a sus duenos, Creo habrán llegado a manos de v. m. las mías, de grande pena ha sido lamuerte del obispo a todos sus amigos y servidores que ha sido grande lastima y tan poco como ha gozado del obispado Dios le haya dado la gloria. con esta remite el Anidicmo Sr. don fructuoso Piq el Privilegio la orden de lo de más ira per la secria del Pret Al Sr. secio heinstado si tenía orden para entregar los mil res que Jerónimo sabe y me dice que no latiene v. m. me haga merced de mandardarsela. Mañana Creo Separte para esta y sla untal Yo Lazano que es el que asiste segunentiendo al Sr. don J Miguel StaCilla no sé que despachos selleva y sobre unas libras de cambio que h [?] [1§] salido Inci [?] tas, para ajustar no sé que partida peroq sinella creo no se acaba deefectuar su boda, aviso esto a v. m. para que lo tenga entendido, yal Fr. Piq le he dicho que su privilegio de v. m. no leremitiese con el sino por Barcelona perdonde acostrumbra escribir, v. m. dará razón de servicio con lo deema que sirve del ser de v. m. que sus manos besa guarde Dios los muchos años que deseo Madrid a 3 de marzo 1656. Besa la mano a v. m. su mayor servidor Diego Matias de Aragues 38, extrem inferior esquerre Sr. don Pedro Santacilia y Pax. [2§] Transcripción literal"
+  ],
+  "literal": [
+    "1. Yatengo escrito avm. como here/2. cibido todos los pliegos y las cartas3. q enellos [V]imian entregado las a sus4. duenos, Creo habran llegado amanos5. de Vm las mias,6. de grande pena ha sido lamuerte7. del sr. obispo a todos sus amigos 8. y servidores q ha sido grande lastima9. y tan poco como ha gozado del obispado10. dios le haya dado la gloria.11. Conesta remitte el sr. [Anidicmo]12. don fructuoso Piq el Privilegio13. la orden de lo de mas hira per la14. secria del sr. Pret15. Alsr. secio heInstado si tenia orden16. pa entregar los mil res q Ge[ronimo]17. save y medize q no latiene Vm.18. me haga md de mandardarsela.19. Mañana Creo Separte pa esta Ysla20. untal Jo Lazano q es el q asiste21. segunentiendo al sr. don J Miguel22. StaCilla nose q despachos selleva23. Y sobre unas libras de cambio q h// [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "073:6933a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo34/073:6933a.JPG",
+      "url": "/legajos/legajo-34/images/073:6933a.JPG"
+    },
+    {
+      "filename": "074:6933b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo34/074:6933b.JPG",
+      "url": "/legajos/legajo-34/images/074:6933b.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "073:6933a.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (3)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-34/cartas/005018.json",
+  "primary_image_url": "/legajos/legajo-34/images/073:6933a.JPG"
+}

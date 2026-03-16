@@ -1,0 +1,43 @@
+{
+  "legajo_id": "25",
+  "id_carta": "4096",
+  "order_in_legajo": 30,
+  "signatura": "057_130a.JPG",
+  "nombre_carta": "Carta de Francisco Baudón a Jerónimo Pelegrín de Aragüés",
+  "fecha_original": "8 de abril de 1667",
+  "lugar": "Càller (Cagliari)",
+  "remitente": "Francisco Baudón",
+  "destinatario": "Jerónimo Pelegrín de Aragüés",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Senyor Jeroni, després d'haver besades les mans a v. m. i avisant-lo de la mia salut com és bona, gràcies a Déu Nre. Sr. ,que així la {ESP. gos} v. m. i la seva senyora i tots els {ESP. demés} de casa. Vostra mercè com jo desitj per a mi estic molt obligat a v. m. de la mercè que m'ha feta d'escriure al Sr. don Manuel que dit senyor vengué el mateix punt i m'ensenyà la carta i me digué si m'importava alguna cosa que ho digués i jo li responguí que per ara no, importava i dit senyor me respongué que quan importàs que li fes-ho a saber del que restí molt agraït a dit senyor i molt més a v. m. que si Déu me dona vida veurà quan servidor seré de v. m. i de coses sues que no és home qui no coneix el bé que li fan més estant en els treball que jo m'hi trob, però Déu Nre. Sr. me darà vida per a passar-los i per a servir a qui m'ha fet bé. Déu Nre. Sr. el guardi els anys que v. m. deistja. Em farà mercè de donar esta carta a mi senyor el comte de Montenegro i dir-li que pensi en un criat seu i em farà mercè de tornar-me resposta perquè v. m. ja sap que jo féu el viatge de cos de ponent que és causa de la mia perdició, i no n'he tengut ninguna cosa confiat de v. m. que els {ESP. cielos} guardi en companyia de la seva senyora i de qui v. m. desitja i si dóna alguna cosa a v. m. ho rametré al Sr. don Manuel i ell li comana molt i al Sr. don Pablo Corbella i em farà mercè de com escriurà al Sr. don Pablo Corbella em farà mercè de {ESP. recomendarme} confiat que ho farà em comanarà molt a mi senyor don Pedro i a mi senyora dona Sicília i en Bernat Xamena de la gallera Sant Francisco. Fet als 8 abril de 1667. Criat de v. m. que ses mans besa Francisco Baudon Sr. Jeroni Pelegri [1§] Càller a 8 d'abril 1667, {ESP. recibidas por Valencia 26 Mayo de Francisco Baudon} Transcripción literal"
+  ],
+  "literal": [
+    "1. Señor Geroni denpres dever besades las mans ha V.md.2. hi avisanlo de la mia salut com es bona grasias3. ha Deu N.S. que axi la gos V.md. y la sua4. Sañora y tots los demes de casa vosa md. com jo5. dasiga para i estic molt hobbligat ha v.md.6. de la md. que mi ha feta de ascri[u]ra al Sr. Don7. Manuel que dit Sañor venge lo matex punt8. y mi ansana la carta y mi dige si mi hinpor9. tava alguna cosa que au diges y jo li ranpon10. gi que per hara no, hanportava y dit Sañor mi11. rasponge que quant inportas que ley fes ha se12. bra de lo que resti molt hag[r]ait ha dit sañor 13. y molt mes ha v.md. que si Deu mi donia14. vida veura cuant servidor sare de V.md. y15. de coses sues que no hes home qui no conex lo16. be que li fan mes estant en los trabal que jo mi17. trob, pero Deu N.S. mi dera vida para pasalos18. y para sarvir ha qui mi ha fet be Deu N.S.19. lo gde los hanys que v.md. deisga20. An fara merse de donar esta carta ha mi21. señor al Conde de montoNegro y dirli que22. pens an un criat seu y an fara merse de tornar23. ma rasposta perque V.md. ja sap que jo feu24. lo viaga de cos de an ponent que es causa de25. la mia perdisio, y no ne tengut ninguna cosa26. confiat de V.md. que los s[i]elos gde. en conpª27. de la sua señ[o]ra y de qui v.md. desiga y si dona28. alguna cosa ha v.md. au ramata al Sr29. Don manuel y el li comana molt30. y al Sr Don Paulo Corbela y an fara md. de31. com escri[u]ra al Sr Don Paulo Corbela an fara md. de racomendarma confiat que32. au fara an comanara molt ha mi sañor Don Pedro y ha mi Sañora dona Sicilia33. y an barnat xemena de la Gallera San[t] Franco. Fet als 8 habril de 166734. Criat de V.md. q[ue] S.M.B.35. Franco. Baudon36. Sr. Geroni Palegri [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "057_130a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo25/057_130a.JPG",
+      "url": "/legajos/legajo-25/images/057_130a.JPG"
+    },
+    {
+      "filename": "058_130b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo25/058_130b.JPG",
+      "url": "/legajos/legajo-25/images/058_130b.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "057_130a.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (5)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-25/cartas/004096.json",
+  "primary_image_url": "/legajos/legajo-25/images/057_130a.JPG"
+}

@@ -1,0 +1,38 @@
+{
+  "legajo_id": "9",
+  "id_carta": "1000",
+  "order_in_legajo": 37,
+  "signatura": "044-22",
+  "nombre_carta": "Carta de Marqués de las Torres a Arnau de Santacilia",
+  "fecha_original": "17 de julio de 1674",
+  "lugar": "Alejandría",
+  "remitente": "Marqués de las Torres",
+  "destinatario": "Arnau de Santacilia",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Bien seguro puede v. m. estar de mi afecto que recibo sus cartas con todo gusto y estimación mayormente viniendo acompañadas de las buenas nuevas que me da de su salud de que me he holgado mucho por la que me insinúa v. m. en la de 18 del pasado, con las noticias del buen estado en que v. m. tiene su leva, y de que tendrán las armas ofrecidas. El señor príncipe de Ligni llegó a esta ciudad donde se detuvo solo un día a ver las fortificaciones y siguió su viaje a Pavía y Milán, donde queda con aplauso general y esperanzas de tener un muy buen capitán general. Dios nos lo conserve y a v. m. me le guarde muchos años como deseo. Alejandría y julio, 17 de 1674 Servidor de v. m. que sus manos besa, El marques de Villanueva de las Torres Señor don Arnaldo Santacilia Transcripción literal"
+  ],
+  "literal": [
+    "1. Bien seguro puede Vm estar demi afecto que 2. recibo sus cartas con todo gusto y estimacion ma3. yormente viniendo â compañadas de las buenas 4. nuevas que me da desu salud de queme he olga5. do mucho porla que me insinua Vm enlade 6. 18 del pasado, con las notiçias del buen estado 7. enque Vm tiene suleva, Y de que tendran las 8. armas ofrecidas, Elsr Principe de ligni llego 9. aesta ciudad donde se detubo solo un dia enver 10. las fortificaciones y siguio su Viaje a Pavia y 11. Milan donde queda con aplauso gnl y esperan 12. zas de tener un muy buen capn gnl dios nosle 13. conserve y a Vm me leguarde mus anos como 14. deseo Alexa y Julio 17 de 1674 15. Serbidor de Vm q S m B 16. El Marqs de Va Na 17. delas torres18. [Margen izquiedo][^ Sr Dn Arndo Sta çilia] [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "044-22.jpg",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo09/044-22.jpg",
+      "url": "/legajos/legajo-09/images/044-22.jpg"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "044-22.jpg",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-09/cartas/001000.json",
+  "primary_image_url": "/legajos/legajo-09/images/044-22.jpg"
+}

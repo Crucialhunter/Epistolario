@@ -1,0 +1,43 @@
+{
+  "legajo_id": "35",
+  "id_carta": "5394",
+  "order_in_legajo": 206,
+  "signatura": "256:8241a.JPG",
+  "nombre_carta": "Carta de Magín Ribes a Pedro Santacilia y Pax",
+  "fecha_original": "30 de julio de 1665",
+  "lugar": "Ibiza",
+  "remitente": "Magín Ribes",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Sr. mío, Estoy algo cuidadoso de la salud de v. s. pues han venido muchas barcas de esa ciudad y no me ha cabido la suerte tener ninguna carta de v. s., ni menos entender cosa ninguna de su salud. Plegue a la divina majestad. se la dé tan cumplida como para mi la deseo que, a Dios gracias, quedo gozándola para ra cuánto fuere de su servicio. se me ofrece en esta ocasión consultar con v. s. que estos años de mi oficio se han ofrecido muchos gastos en las fábricas de esta real fuerza, y otros que acostumbran pagar de este real Patrimonio, y haberme dado orden pagase la parte del quinto tocante a los labradores que tomaron una fragata de moros, de que están ya satisfechos de su parte. y ahora (sic), como ya en otras tengo dado aviso a v. s. a es preciso redrezar el puente del cargador de la sal, que necesita para ello de cantidad. En mi poder tan solamente han entrado en estos dos años el procedido de los diezmos, que solo al canza para pagar los salarios de los oficiales dichos de la sal y otras cosillas de poco momento [?] emolumento [?]. y las fábricas han subido mucho, que de mi casa tengo pagado más de cuatro mil libras. y, como lo del puente del cargador de la sal es tan preciso que no se puede dilatar por estar todo perdido, que no se puede cargar la sal sin que primero se redrece [?], me ha parecido dar estas noticias a v. s. a para que, siendo servido, mande darme orden con determinación de la Il·le. Junta Patri monial, para poder sacar del crédito de ese real Patrimonio, que está en esta Universidad, lo que fuere necesario para el redrezo [?] de dicho puente del cargador de la sal y fábricas de su majestad. y no más, y esto que sea con toda la brevedad posible, porque en este mes de agosto venidero se pueda poner mano en (en) ello o cuanto antes fuere posible, porque de otra manera redundará en mayor daño de su majestad. y sus reales rentas. Dios guarde a v. s. a muchos años como puede y deseo. Ibiza, 30 de julio 1665. De v. s. que sus manos besa Magín Ribes Transcripción literal"
+  ],
+  "literal": [
+    "1. Sr. mio2. Estoy algo cuidadoso de la salut de VSa. pues han3. venido muchas barcas de essa siudad y no me4. ha cabido la suerte tener ninguna carta de V.Sa.5. ni menos entender cosa ninguna de su salud, plegue6. a la divina Magd. se la de tan cumplida como para7. mi la dezeo, q a Dios graçias quedo gozandola pa8. ra quanto fuere de su servisio-9. Se me ofreçe en esta ocasion consultar con VSa.10. q estos años de mi offiçio se han ofreçido muchos11. gastos en las fabricas desta Rl fuerça, y otros12. q acostumbran pagar deste Rl. Patrimonio, y13. haverme dado orden pagase la parte del quinto14. tocante a los labradores que tomaron una fragata de15. moros de q estan ya satisfechos de su parte y16. agora como ya en otras tengo dado aviso a VSa.17. es pressiso redresar el puente del cargador de18. la sal q nessesita para ello de cantidat, en19. mi poder tan solamente han entrado en estos20. dos años el prosedido de los diesmos, que solo al21. cança para pagar los salarios de los offiçiales22. dichos de la sal y otras cosillas de [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "256:8241a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo35/256:8241a.JPG",
+      "url": "/legajos/legajo-35/images/256:8241a.JPG"
+    },
+    {
+      "filename": "257:8241b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo35/257:8241b.JPG",
+      "url": "/legajos/legajo-35/images/257:8241b.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "256:8241a.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-35/cartas/005394.json",
+  "primary_image_url": "/legajos/legajo-35/images/256:8241a.JPG"
+}

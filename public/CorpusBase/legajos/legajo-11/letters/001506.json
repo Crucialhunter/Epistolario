@@ -1,0 +1,43 @@
+{
+  "legajo_id": "11",
+  "id_carta": "1506",
+  "order_in_legajo": 274,
+  "signatura": "465:5361a.JPG",
+  "nombre_carta": "Carta de Isidro Marqués a Pedro Santacilia y Pax",
+  "fecha_original": "2 de octubre de 1665",
+  "lugar": "Madrid",
+  "remitente": "Isidro Marqués",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "mío de grandísimo gusto ha sido para mi la noticia que Jeronimo me ha dado de la buena salud de v. s. que sea siempre tan cumplida como to deseo. Cuando llegue esta carta a manos de v. s. ya se hallara con noticia de las fatalidades que han sucedido de la muerte del rey nuestro y de mi amo. La de su merced fue a 8 de septiembre habiendo estado solo nueve días en la cama cuyo achaque fueron unas camaras precedidas de una purga que lo dieron el mismo día que cayó malo y se reducieron a cinco pales que le dieron con una sangría que le hicieron tres días antes de morir. su majestad cayó malo a 12 cuatros días después de la muerte de mi amo también de Camaras de sangre que le salió hasta la última gota y fallecio el día 17 de septiembre. El intento de la venida de Jerónimo se redujo a ir con el Sr. don Nicolás a la jornada de Alemania esta no se sabe fijamente cuando haya de ser como lo dijo el mismo Sr. don Blasco con que a parecido que se puede volver quedando yo con cuidado de avisarlo antes que se pueda [1§] de cuando sea dicho viaje para que Jeronimo pueda venir a tiempo. v. s. ya sabe mi obligación en servicio de v. s. y la voluntad con que le obedeceré en cuanto v. s. me mandare. Dios dé a v. s. muchos años como puede. Madrid a 2 de octubre de 1665 Del Sr. don Blasco de Loyola el secretario del despacho Universal. La forma del Jerónimo se reduce a una junta de los ministros siguientes: El presidente de Castilla, el vicecanciller de Aragón, el Arzobispo de Toledo, el inquisidor General. Estos por su oficio y como grande entra el marques de Aytona y por consejero de estado el conde de Peñaranda, y esta junta no tiene más fuerza que un consejo donde envía la reina Ntra. Sra. la consulta y papeles de la tribunales para que den su parecer y luego vuelven a su majestad quien resuelve lo que quiere. yo he que dado en la covachuela con mi ocupación y siempre a la obediencia de v. s. mayor servidor de v. s. Isidro Marques Sr. don Pedro de Santacilia [2§] Transcripción literal"
+  ],
+  "literal": [
+    "1. Sr. mio de grandisimo gusto a sido para 2. mi la noticia que Gero me a dado de la 3. buena salud de VS que sea siempre tan cum 4. plida como to desseo. Quando llegue esta carta 5. a manos de VS ya se hallara con noticia de las 6. fatalidades que han sucedido de la muerte del 7. Rey nuestro Sr. y de mi amo. La de su md fue 8. a 8 de sepbre haviendo estado solo nueve dias 9. en la cama cuyo achaque fueron unas camaras 10. precedidas de una purga que lo dieron el mismo 11. dia que cayo malo y se reducieron a cinco 12. pales que le dieron con una sangria que le hizieron 13. tres dias antes de morir. Su Magd cayo malo 14. a 12 quatros dias despues de la muerte de mi 15. amo tambien de Camaras de sangre que le 16. salio hasta la ultima gota y fallecio el dia 17 17. de sepbre=. El intento de la venida de Germo se 18. redujo a yr con el sr. don Nicolas a la Jornada 19. de Alemania esta no se sabe fixame qo haya 20. de ser como lo dijo el mismo Don Blasco con que 21. a parecido que se puede bolver quedando yo con 22. cuydado de avissarlo antes que se pueda [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "465:5361a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo11/465:5361a.JPG",
+      "url": "/legajos/legajo-11/images/465:5361a.JPG"
+    },
+    {
+      "filename": "466:5361b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo11/466:5361b.JPG",
+      "url": "/legajos/legajo-11/images/466:5361b.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "465:5361a.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-11/cartas/001506.json",
+  "primary_image_url": "/legajos/legajo-11/images/465:5361a.JPG"
+}

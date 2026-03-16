@@ -1,0 +1,43 @@
+{
+  "legajo_id": "10",
+  "id_carta": "1186",
+  "order_in_legajo": 55,
+  "signatura": "098-353a",
+  "nombre_carta": "Carta de Gabriel Roger a Jerónimo Pelegrín de Aragüés",
+  "fecha_original": "4 de septiembre de 1668",
+  "lugar": "Madrid",
+  "remitente": "Gabriel Roger",
+  "destinatario": "Jerónimo Pelegrín de Aragüés",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Muchas veces desde que estamos en Madrid he tenido grandes congojas en la enfermedad de mi señor don Juan, de que todo se ha trocado en doblado gozo de ver a mi señor don Juan fuera de la cama, que ya se ha levantado de la cama y aún no hemos empezado en cosas de nuestro despacho, que pienso comenzaremos a correr esas postas, en que Dios nos dará buen suceso. Aquí no tenemos novedades de que avisar a v. m., solo que Dios le guarde como deseo. Madrid y 4, septiembre de 1668. Servidor de v. m., Gabriel Roger. Sr. Jeronimo Pelegrin [1§] A Jeronimo Pelegrin, que Dios guarde muchos años como deseo. Mallorca. Transcripción literal"
+  ],
+  "literal": [
+    "1. Muchas meses desde q estamos en Md he tenido grandes 2. congoxas en la enfermedad de ni señor Don Juan de que 3. todo se ha trocado en doblado goso de ver a mi señor Don 4. Juan fuera de la cama que yo se ha levantado de la cama 5. y aun no havemos empesado en cosas de nuestro despacho, que 6. piesno comensaremos a correr essas postas en que Dios nos dara 7. avisar a V.M. solo que Dios le gde como deseo. Madrid, y 4 8. sette de 1668. 9. Servidor de V:M. Grabriel Roger. 10. [^Sr. Gero Pelegrin^] [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "098-353a.jpg",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo10/098-353a.jpg",
+      "url": "/legajos/legajo-10/images/098-353a.jpg"
+    },
+    {
+      "filename": "099-353b.jpg",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo10/099-353b.jpg",
+      "url": "/legajos/legajo-10/images/099-353b.jpg"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "098-353a.jpg",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING",
+      "message": "Se detectaron caracteres sospechosos de encoding (4)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-10/cartas/001186.json",
+  "primary_image_url": "/legajos/legajo-10/images/098-353a.jpg"
+}

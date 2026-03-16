@@ -1,0 +1,43 @@
+{
+  "legajo_id": "7",
+  "id_carta": "801",
+  "order_in_legajo": 26,
+  "signatura": "49-32a copy",
+  "nombre_carta": "Carta de Josep Togores a Jerónimo Pelegrín de Aragüés",
+  "fecha_original": "14 de marzo de 1672",
+  "lugar": "Lugar sin especificar",
+  "remitente": "Josep Togores",
+  "destinatario": "Jerónimo Pelegrín de Aragüés",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Senyor Jeroni, Farà d’enviar pa, que el senyor Toni és aquí i el capellà Llopis, i enviarà quatre pams de veta negra per [a les] sabates del senyor, i un poc de xulla, i una olleta de saïm. Fet a 14 de març 1672. Josep Togores [1§] Al senyor Jeroni Pelegri, que Déu guardi. Ciutat. Transcripción literal"
+  ],
+  "literal": [
+    "1. Señor geroni fera denviar 2. pa quel señor toni es aqui y 3. es quepela llopis y enviara 4. quatra pams de veta negra 5. par sebatas del senor y un poc 6. de xuia y una oleta de seim 7. fet a 14 de mars 1672 8. Joseph togoras [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "49-32a copy.gif",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo07/49-32a copy.gif",
+      "url": "/legajos/legajo-07/images/49-32a copy.gif"
+    },
+    {
+      "filename": "49-32b copy.gif",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo07/49-32b copy.gif",
+      "url": "/legajos/legajo-07/images/49-32b copy.gif"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "49-32a copy.gif",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (4)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-07/cartas/000801.json",
+  "primary_image_url": "/legajos/legajo-07/images/49-32a copy.gif"
+}

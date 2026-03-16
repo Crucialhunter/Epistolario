@@ -1,0 +1,50 @@
+{
+  "legajo_id": "26",
+  "id_carta": "4327",
+  "order_in_legajo": 62,
+  "signatura": "089:3421.JPG",
+  "nombre_carta": "Carta de Martín de Rocabertí a Pedro Santacilia y Pax",
+  "fecha_original": "4 de diciembre de 1639",
+  "lugar": "Lugar sin especificar",
+  "remitente": "Martín de Rocabertí",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Por no saber nunca la habitación de v. m. he dejado de escribirle, pero ahora como me ha cabido la suerte de tener portador y he querido cumplir con mi debida obligación, como también en no saber nevas de la salud de v. m. pero como ahora se me ha acercado el tiempo de tener las conclusiones no puedo pedirle a v. m. en que me venga a honrar a mis pocos merecimientos, como también en el ver yo estar v. m. tan lejos de aquí y no perder de vista las compañías, pero en [?] todo las decenas nevas son estimadas y deseadas y así digo a v. m. que don Ramon ha tenido unas conclusiones con el Señor doctor Santolaria que si bien ha salido de las que v. m. estuvo también a aunque diga mejor no pienso errar ha tenido estas con grandísimo lucimiento que solo faltaba su presencia de v. m. para que del todo estuviesen perfecta. No digo más. Guarde Dios a v. m. muchos años como yo deseo, a 4 Diciembre de año 1639. Su (nabot) subrino de v. m. Don Marti de Rocaberti Al señor don Pedro Santacilia [1§] Transcripción literal"
+  ],
+  "literal": [
+    "1. Por no saber nunca la abitacion de V.m. e de2. gado de scrivirle. Pero aora com me a cabido la3. suerte de tener portador et querido complir con4. mi devida obligation. Como tanvien en no saber5. nevas de la salut de V.m. Pero como aora se6. me acercado el tenpio de tener las conclusiones7. no puedo pidile a V.m. en que me venga a onrrar8. a mis pocos merecimientos. Como tanbien en el ver9. io star V.m. tant legos de aqui y no perder de vista10. las conpanyas. Pero en (^??) todo las becenas nevas11. son stimadas y deseadas y anci digo a Vm que12. Don Ramon a tenido unas conclusiones con el13. Senyor Doctor Santolario que si bien salido de las que14. Vm stuvo tanbien a aunque diga megor no pienso15. errar a tuvido estas con grandissimo lucimiento que solo16. faltava su presentia de Vm. para que del todo stuvie=17. sen perfecta. No digo mas guarde Dios a Vm muxos18. anyos como yo deseo a 4 desienbre de anyo 163919. Su (^nabot) subrino de Vm Don20. Marti de Rocaberti21. Al Senyor Don Pedro Santa Cecilia [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "089:3421.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo26/089:3421.JPG",
+      "url": "/legajos/legajo-26/images/089:3421.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "089:3421.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (2)",
+      "context": {}
+    },
+    {
+      "code": "IMAGE_DOWNLOAD_FAIL",
+      "message": "HTTP 404",
+      "context": {
+        "url": "http://santacilia.info/intranet2/img/Legajo26/089:3421.JPG"
+      }
+    },
+    {
+      "code": "IMAGE_COUNT_MISMATCH",
+      "message": "Imágenes detectadas (1) != descargadas (0)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-26/cartas/004327.json",
+  "primary_image_url": "/legajos/legajo-26/images/089:3421.JPG"
+}

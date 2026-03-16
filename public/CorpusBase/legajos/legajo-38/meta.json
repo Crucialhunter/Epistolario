@@ -1,0 +1,78 @@
+{
+  "legajo_id": "38",
+  "num_cartas": 127,
+  "num_imagenes": 212,
+  "rango_temporal": [
+    1598,
+    1696
+  ],
+  "remitentes_frecuentes": [
+    {
+      "name": "Persona desconocida",
+      "count": 47
+    },
+    {
+      "name": "Escrivà Miralles",
+      "count": 16
+    },
+    {
+      "name": "Jaume Abadia",
+      "count": 6
+    },
+    {
+      "name": "Bartolomé Mercadal",
+      "count": 5
+    },
+    {
+      "name": "Marc Sancho",
+      "count": 5
+    }
+  ],
+  "destinatarios_frecuentes": [
+    {
+      "name": "Persona desconocida",
+      "count": 74
+    },
+    {
+      "name": "Pedro Santacilia y Pax",
+      "count": 48
+    },
+    {
+      "name": "Bartolomé Mercadal",
+      "count": 2
+    },
+    {
+      "name": "Francesc Servera",
+      "count": 1
+    },
+    {
+      "name": "No consta",
+      "count": 1
+    }
+  ],
+  "lugares_frecuentes": [
+    {
+      "name": "lugar sin especificar",
+      "count": 20
+    },
+    {
+      "name": "Ciutadella",
+      "count": 16
+    },
+    {
+      "name": "Lugar sin especificar",
+      "count": 11
+    },
+    {
+      "name": "Campanet",
+      "count": 6
+    },
+    {
+      "name": "Madrid",
+      "count": 5
+    }
+  ],
+  "temas_frecuentes": [],
+  "warnings_count": 32,
+  "densidad_narrativa_estimada": "Media"
+}

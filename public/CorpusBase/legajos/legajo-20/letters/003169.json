@@ -1,0 +1,38 @@
+{
+  "legajo_id": "20",
+  "id_carta": "3169",
+  "order_in_legajo": 39,
+  "signatura": "051:5950.JPG",
+  "nombre_carta": "Carta de Diego Matías de Aragüés a Pedro Santacilia y Pax",
+  "fecha_original": "24 de noviembre de 1655",
+  "lugar": "Madrid",
+  "remitente": "Diego Matías de Aragüés",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Respondo a la de v. m. el primero de este con las inclusas que vinieron las cuales di a sus dueños. Y también recibí la que vino por vía de Valencia. Por ahora no se me ofrece decir más de lo que tengo escrito, solo digo que el consejo ya tiene tomada resolución en todos los cabos y el privilegio subirá a firmar de su majestad esta semana, si bien la media armada no se puede pagar [por] no haber aún aquí orden del dinero, pero me dice el Sr. [?] me dicen la hay en Barcelona y que la esperan para que aquí lo den a Jeronimo Pelegrin mi sobrino. Le remito un despacho para que el virrey haga un informe sobre lo que suplica a v. m. le haga merced de favorecerle para que tenga buen despacho y a mi mandarme le sirva, que sus manos beso y guarde Dios como deseo. Madrid a 24 de noviembre 1655. Besa la mano de v. m. su mayor servidor Diego Matias de Aragues Sr. don Pedro Santacilia y Pax Transcripción literal"
+  ],
+  "literal": [
+    "1. Respondo a la de Vm.del po[?] deste 2. con las inclusas. q vinieron las quales 3. di a sus dueños.Y tambien recivi la 4. q vino por via de Valencia, Por agora 5. no se me ofreze[?] decir mas de lo q tengo 6. escrito, solo digo q el consso ya 7. tiene tomado resolucion en todos los 8. cabos[?] y el privilegio subira a firmar 9. de su M[a]gd esta semana, si bien 10. la media armada,no se puede pagar 11. no haver[?] aun aqui orden del dinero 12. pero me dize el Sr. [?] 13. [?] me dizen la ay en Barcelona 14. y q la esperan pa q aqui lo den. 15. A Geromo Pelegrin mi sobrino le remito 16. un despacho pa q el Sr. Virrey Aga 17. Un informe sobre lo q sup[li]ca[?] a[?] Vm 18. le haga md de favorecerle pa q tenga 19. buen despacho y a mi mandarme le sirva 20. q sus manos veso y ge dios como deseo 21. Md a 24 de ne 1655 22. Vesa la mano de Vm. 23. su mayor seror 24. Diego Mathias de Aragues[?] 25. Sr Don Pedro Santacilia y Pax [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "051:5950.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo20/051:5950.JPG",
+      "url": "/legajos/legajo-20/images/051:5950.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "051:5950.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (3)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-20/cartas/003169.json",
+  "primary_image_url": "/legajos/legajo-20/images/051:5950.JPG"
+}

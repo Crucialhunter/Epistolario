@@ -1,0 +1,37 @@
+{
+  "legajo_id": "17",
+  "id_carta": "2813",
+  "order_in_legajo": 81,
+  "signatura": "128:1355a.JPG",
+  "nombre_carta": "Carta de Cristobal Carbonell a Pedro Santacilia y Pax",
+  "fecha_original": "4 de diciembre de 1659",
+  "lugar": "Ibiza",
+  "remitente": "Cristobal Carbonell",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Carta foradada, de difícil lectura. [1§] carta foradada, de difícil lectura [2§] Transcripción literal"
+  ],
+  "literal": [
+    "1. Carta foradada, de difícil lectura.1. Carta foradada, de difícil lectura"
+  ],
+  "imagenes": [
+    {
+      "filename": "128:1355a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo17/128:1355a.JPG",
+      "url": "/legajos/legajo-17/images/128:1355a.JPG"
+    },
+    {
+      "filename": "129:1355b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo17/129:1355b.JPG",
+      "url": "/legajos/legajo-17/images/129:1355b.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "128:1355a.JPG",
+  "warnings": [],
+  "raw_source": "raw/legajos/legajo-17/cartas/002813.json",
+  "primary_image_url": "/legajos/legajo-17/images/128:1355a.JPG"
+}

@@ -1,0 +1,38 @@
+{
+  "legajo_id": "38",
+  "id_carta": "5510",
+  "order_in_legajo": 5,
+  "signatura": "063:34.JPG",
+  "nombre_carta": "Carta de Bartolomé Mercadal a Pedro Santacilia y Pax",
+  "fecha_original": "fecha sin especificar",
+  "lugar": "lugar sin especificar",
+  "remitente": "Bartolomé Mercadal",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Sr. Procurador Real con libertad pondero este pedimiento, pero un criado de v. s. como yo toda esta se usurpa. Yo tengo de presentar mis cuentas cuando estén acabadas por medio de Pdor. y quisiera que fuese persona plática y inteligente en las materias, y así suplico a v. s. sea servido como a Padre y señor mío mandar advertirme de que persona me puedo valer et. Dios me Guarde a v. s. como tengo de menester. Mercadal. Transcripción literal"
+  ],
+  "literal": [
+    "1. Sr. Por. Real2. Con libertad pondero este pedimi3. ento, pero un criado de VS como4. yo toda esta se usurpa.5. Jo tengo de presentar mis quentas6. quando esten acabadas por medio7. de Pdor. Y quisiera que fuesse8. perçona platica y intelligente9. en las materias, y assi sup[li]co10. a VS. sea servido como a Pa11. dre y Señor mio mandar12. advertirme de que percona13. me puedo valer ett. Dios14. me Gde. a VS como tengo de15. menester.16. Mercadal. [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "063:34.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo38/063:34.JPG",
+      "url": "/legajos/legajo-38/images/063:34.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "063:34.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-38/cartas/005510.json",
+  "primary_image_url": "/legajos/legajo-38/images/063:34.JPG"
+}

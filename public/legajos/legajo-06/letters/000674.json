@@ -1,0 +1,38 @@
+{
+  "legajo_id": "6",
+  "id_carta": "674",
+  "order_in_legajo": 174,
+  "signatura": "267-135",
+  "nombre_carta": "Carta de Pere Sastre a Cecilia Zaforteza y Sureda de Sant Martí",
+  "fecha_original": "2 de marzo de 1779",
+  "lugar": "Muro",
+  "remitente": "Pere Sastre",
+  "destinatario": "Cecilia Zaforteza y Sureda de Sant Martí",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Mi senyora, Voldria amb esta encontrar-la amb la salut que {ESP. gosava} en sortir d’esta ciutat de Palma. Aquí en esta vila de Muro se treballa tot el que se pot desitjar al servici {ESP. divino}. Solament jo pens ser entre tots el més descuidat i negligent. La freqüència del temple dels eclesiàstics i dels seculars és cosa sobremanera molt notòria. Aquí el quaresmer més pot venir a estudiar que a ensenyar. Deú guardi a v. m. els anys que li desitgen el meu afecte, i les mies obligacions. Muro i març 2 de 1779. Servidor de v. m. Fr. Pere Sastre, qui ses mans besa. A la senyora dona Cecília de Zaforteza Transcripción literal"
+  ],
+  "literal": [
+    "1. Mi Señora 2. Volria ab esta enquantrarla ab la sa- 3. lud, que gossava al surtir de esta 4. ciutad de Palma. Aqui en esta Vila 5. de Muro se treballa tot lo que se 6. pot desitjar al servici Divino; 7. solament yo pens ser entre tots el 8. mes descuydat, y negligent. La fre- 9. quencia del teple de los Eclesiastics, 10. y de los seculars, es cossa sobre- 11. manera molt notoria. Aqui el Qua- 12. resmer mes pot venir á estudiar, 13. que á enseñar. Deu guard á V.M. 14. los añys q[u]e li desitja el meu affecte, 15. y las mias obligacions. Muro, y Mars 16. á 2 de 1779 17. Servidor de V.M. 18. Fr. Pere Sastre Q S M B 19. A la Sra. Da. Cecilia de Zaforteza [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "267-135.jpg",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo06/267-135.jpg",
+      "url": "/legajos/legajo-06/images/267-135.jpg"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "267-135.jpg",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-06/cartas/000674.json",
+  "primary_image_url": "/legajos/legajo-06/images/267-135.jpg"
+}

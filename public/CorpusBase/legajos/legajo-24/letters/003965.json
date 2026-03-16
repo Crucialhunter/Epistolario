@@ -1,0 +1,43 @@
+{
+  "legajo_id": "24",
+  "id_carta": "3965",
+  "order_in_legajo": 16,
+  "signatura": "029:4018a.JPG",
+  "nombre_carta": "Carta de Maria de Boixadors i de Rocabertí a Pedro Santacilia y Pax",
+  "fecha_original": "12 de mayo de 1632",
+  "lugar": "Girona",
+  "remitente": "Maria de Boixadors i de Rocabertí",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Gràcies a Déu que veiem cartes de v. m.; encara que tan {ESP. abreviades} les estimo molt. Amb altra li tinc escrit a v.m. {ESP. acerca} de mos {ESP. cuidados}; amb aquesta diré sols que veníem ací sols nostres persones or i plata tot resta a la [falta]? de la ciutat per als quidados de la pesta. I així dona Maria de Lanuza té per a vestir el soldat. Per mossèn Caldes va una cadena que pens que és al propòsit alguns dos-cents botons [?]. Aqueixos són molt petits, són els millors que té, el que importa que ja [?] Rocaberti [?] honrats. Girona i març als 12 de 1632. Dona Maria de Boixadors i de Rocaberti. [1§] Girona, 12 maig. Resposta. 1632. Mi senyora dona Maria de Rocaberti Transcripción literal"
+  ],
+  "literal": [
+    "1. grasias a deu que vejem cartes2. de v.m. encara que tant abrevia3. des las astimo molt ab altra li4. tinc escrit a vm aserca de mos5. quidados ab aquesta dire sols6. que venim asi sols nostres personas7. or y plata tot resta a la [?]8. la de la siutat per los qui [...]9. dos de la pesta y axi dona10. maria de lanosa te per a ues11. tir lo soldat per mes fer caldes12. va una cadena que pens ques13. al proposit alguns dosents do14. bons haquexos son molt petits15. son los millos que te lo que un16. porta que ja [...]17. rocaberti [...]18. onrats [...]19. [...]20. gerona y mars als 12 de 163221. dona maria de [?]22. y de rocaberti [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "029:4018a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo24/029:4018a.JPG",
+      "url": "/legajos/legajo-24/images/029:4018a.JPG"
+    },
+    {
+      "filename": "030:4018b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo24/030:4018b.JPG",
+      "url": "/legajos/legajo-24/images/030:4018b.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "029:4018a.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-24/cartas/003965.json",
+  "primary_image_url": "/legajos/legajo-24/images/029:4018a.JPG"
+}

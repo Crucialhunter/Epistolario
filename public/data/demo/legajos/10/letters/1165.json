@@ -1,0 +1,35 @@
+{
+  "id_carta": "1165",
+  "url_origen": "http://santacilia.info/info_carta2.php?id=1165",
+  "legajo": 10,
+  "signatura": "054-331a",
+  "nombre_carta": "Carta de Miguel Malo a Jerónimo Pelegrín de Aragüés",
+  "fecha": "25 de julio de 1668",
+  "lugar": "Madrid",
+  "remitente": "Miguel Malo",
+  "destinatario": "Jerónimo Pelegrín de Aragüés",
+  "temas": "Sin especificar",
+  "idioma": "castellano",
+  "resumen": "Lorem ipsum ad his scripta blandit partiendo, eum fastidii accumsan euripidis in, eum liber hendrerit an. Qui ut wisi vocibus suscipiantur, quo dicit ridens inciderint id. Quo mundi lobortis reformidans eu, legimus senserit definiebas an eos. Eu sit tincidunt incorrupte definitionem, vis mutat affert percipit cu, eirmod consectetuer signiferumque eu per. In usu latine equidem dolores.",
+  "transcripcion": {
+    "modernizada": "Señor mío, Mucho he sentido que habiendo venido el señor don Pedro Santacilia v. m. no me haya escrito. Ya he sabido de su salud por el señor ayudante Santacilia, que con el mismo le he enviado muchos recados a v. m. y toda su casa y los reciba de da. Ana y Petrona, que siempre acuerdan a v. m. su tejido. Y Francisco, mi hijo de cuya mano va esta, envía mil saludos. Él no está bueno porque le dan unos males de corazón y le repiten a menudo y le he traído a casa para ponerle en cura; en refrescando le habremos de hacer una fuente. Novedades no hay: ahora todo es paz, a Dios gracias. Solo el otro día que salió su majestad a las Descalzas hubo una pendencia con la guarda en que se hallaron los señores conde de Melgar, hijo del almirante, y duque de Abrantes, y conde de Cifuente y hijo del conde de Baños, y don Antonio de Toledo, marqués de Villanueva del Rio hijo del duque [1§] de Alba, y don Francisco de Ayala y por el desacato delante sus majestades los han desterrado a todos a diferentes presidios; no hay otro de nuevo. Guarde Dios a v. m. como deseo, y harto me holgará que v. m. hubiera venido con el señor don Pedro para besarle las manos pero como v. m. es para tanto, hiciera ahí gran falta. Madrid y julio, 25 de 1668. Señor mío perdóneme que he sido largo y dé muchos recados a todas esas señoras y señores de casa v.m. y virrey. Lo que le sucede al señor d. Pedro ya lo habrá escrito su señora y su tío el señor d. Diego Matias. A Dios. Servidor de v. m. que sus manos besa, Miguel Malo. Señor Jeronimo Pelegrin y Aragues",
+    "literal": "1. Sr. mio mucho he sentido que havendo venido be 2. nido el Sr. Don Po Sta. Cecilia V.M. no me 3. haya escrito ya esavido de su salud por 4. el Sr. Ayudante Sta. Cecilia que con el mismo 5. le de imbiado ms recados a V.M. y toda su 6. cassa y los reciba de Dª Ana y Petrona q 7. siempre acuerdan a V.M. su tegido y 8. Franco mi hijo de cuya mano va esta im 9. bia mil saludes el no esta bueno porque le 10. dan unos males de corazon y le repiten a 11. menudo y le etraido a cassa pa ponelle en 12. cura en refrescando le habremos de hazer 13. una fuente. 14. Nobedades no ay aora todo es Pazes a Dios 15. gracias solo el otro dia q salio su Magd a las 16. Descalças ubo una pendencia con la 17. guarda en q se hallaron los Sres. conde de 18. Melgar, hijo del Almirante y Duq de Abra 19. ntes y conde de Cifuente y hijo del conde 20. de Baños y don Antonio de Toledo Marqués 21. de Villanueba del Rio, hijo del Duque [☞]"
+  },
+  "imagenes": [
+    {
+      "src": "/data/demo/legajos/10/images/1165__01__054-331a.jpg",
+      "order": 1,
+      "originalFilename": "054-331a.jpg"
+    },
+    {
+      "src": "/data/demo/legajos/10/images/1165__02__055-331b.jpg",
+      "order": 2,
+      "originalFilename": "055-331b.jpg"
+    }
+  ],
+  "capturado_en": "2026-02-25T17:25:05.892Z",
+  "hasImages": true,
+  "primaryImage": "/data/demo/legajos/10/images/1165__01__054-331a.jpg",
+  "previousCartaId": "1164",
+  "nextCartaId": "1166"
+}

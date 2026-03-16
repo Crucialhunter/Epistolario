@@ -1,0 +1,43 @@
+{
+  "legajo_id": "7",
+  "id_carta": "796",
+  "order_in_legajo": 4,
+  "signatura": "42-27a copy",
+  "nombre_carta": "Carta de Nicolás de Santacilia y Togores a Jerónimo Pelegrín de Aragüés",
+  "fecha_original": "fecha sin especificar",
+  "lugar": "lugar sin especificar",
+  "remitente": "Nicolás de Santacilia y Togores",
+  "destinatario": "Jerónimo Pelegrín de Aragüés",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Els dos mig cortinel·los envií aquí. Enviau-me des vi de Son Balaguer i un altre de vi comú, i ja n'enviareu amb el cotxe, i sis ganivets amb el mànec de ferro que hi ha dins es rebost, llençols per als criats no n’hi ha, sis tasses bones de beure. Per ací es passat l’home a qui he comprat el cavall. Si el senyor Toni el passa amb paraules amb el cònsul féu que no isca de ciutat sense satisfacció, que em pesarà molt. A mon cosí les l'enviareu en ser [?] amb tot el que he enviat a demanar, i no ho l'empatxeu d'ofertes de ningú. [1§] A Jeroni Pelegri, que {CAST. Dios guarde.} Ciutat. Transcripción literal"
+  ],
+  "literal": [
+    "1. es dos mix corti nellas envi aqui 2. enviaume des vi de son beleger iun 3. altra de vi comu i pa nenviareu 4. en so co[^c]xo y sis ganivets en so manac 5. de ferro quya dins es rabost lenso 6. ls pes criats no nia sis tases bones e beura 7. par asi aspasat lomo aq 8. e conprat al cavall si al 9. Sr. Toni el pasa an parau- 10. las an lo consul feu qua 11. no isqua de siutat sança 12. satisfasio que am pesara 13. molt 14. an Cosí las i lanviarau an lar gan 15. an tot lo que e anviat a da- 16. manar y nou lan paxau 17. da ofertas da ningu [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "42-27a copy.gif",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo07/42-27a copy.gif",
+      "url": "/legajos/legajo-07/images/42-27a copy.gif"
+    },
+    {
+      "filename": "42-27b copy.gif",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo07/42-27b copy.gif",
+      "url": "/legajos/legajo-07/images/42-27b copy.gif"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "42-27a copy.gif",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (5)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-07/cartas/000796.json",
+  "primary_image_url": "/legajos/legajo-07/images/42-27a copy.gif"
+}

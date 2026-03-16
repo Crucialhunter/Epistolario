@@ -1,0 +1,38 @@
+{
+  "legajo_id": "27",
+  "id_carta": "4644",
+  "order_in_legajo": 114,
+  "signatura": "200:4453",
+  "nombre_carta": "Carta de Antonio Núñez a Persona desconocida",
+  "fecha_original": "1 de marzo de 1650",
+  "lugar": "Madrid",
+  "remitente": "Antonio Núñez",
+  "destinatario": "Persona desconocida",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "[?] y en launa meaviso de las pasas del Sr. don Jaime [?] me holgué muchísimo y la que venía con ella para el conde de Robles [?] en propia mano por haber [?] me avisó de su buena llegada en Valencia se que me algún [?] y que estar en [?] para Mallorca [?] v [?] alles hemos salido [?] va partido ya y así con el favor de Dios que yo ya [?] v. m. en esa ciudad con muy buen viaje y con el contento que v. m. desea que ya tenemos menos desde que v. m. nos falta suplicando a v. m. me tenga en memoria para mandarme muchas cosas de su gusto [?] diré a ellos como es mi obligación yo estoy mejor [?] desde que he mudado de mi estrada [?] casas y al rosiñol también y besa a v. m. su mano y Dios me lo guarde muchos años como deseo. Madrid y marzo 1650. Don Antonio Nuñez de San Juan Transcripción literal"
+  ],
+  "literal": [
+    "1. [illegible] [illegible] y en launa meavisso delas passas del2. Sr don jayme deuqe me olgue muchisimo y la que =3. venia conella para [el Sr conde de robles?] [illegible]4. en propia mano por [ ]aver [illegible] elldo [illegible]5. [illegible] mehavisso desubuena llegada en va=6. lensia seque me algun mueto y que estar [en?]7. [illegible] [illegible] [illegible] para mallorca [illegible]8. [v?]alles emos salido [illegible] va partido ya y asi con9. el favor de dios quego yaes[tisa?] vm enesa ciutad10. conmuybuenaviaxe y conel contento que vm desea11. que aea tenemos menos desde que vm nos falta12. Suplicando abm me tenga en memoria para13. mandarme muchas cossas desugusto [illegible] eu=14. dire aellos como es mi obligassion = yo estoy me15. jor [illegible] desde que emudado de my [estrade?] cassas yal16. Sr rosiñol tanbien y bessa avm sumano y dios17. melege muchos años como deseo mil i março 16[60?]18. Don Antonio nunyde St19. Juan [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "200:4453.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo27/200:4453.JPG",
+      "url": "/legajos/legajo-27/images/200:4453.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "200:4453.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (2)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-27/cartas/004644.json",
+  "primary_image_url": "/legajos/legajo-27/images/200:4453.JPG"
+}

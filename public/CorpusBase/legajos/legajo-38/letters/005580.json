@@ -1,0 +1,42 @@
+{
+  "legajo_id": "38",
+  "id_carta": "5580",
+  "order_in_legajo": 102,
+  "signatura": "172:104a",
+  "nombre_carta": "Carta de Persona desconocida a Persona desconocida",
+  "fecha_original": "29 de octubre de 1663",
+  "lugar": "Lugar sin especificar",
+  "remitente": "Persona desconocida",
+  "destinatario": "Persona desconocida",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Als 29 octubre 1663 se ha lliurat lo delme de oli del Rey de la vila de Sta. María al honor Juan Jaume Monserrat de dita vila per [?] 7 Ll Lo Magh Salvador de Oleza doncell Petro not. [1§] Als 29 octubre 1663 se ha lliurat lo delme de oli del Rey de Biniraix a Miquel Rotger Sabater de la present Ciutat per preu de 4 Ll fa. Joan Arnandes maser dels Maghs consols Petro not. [2§] Als 29 octubre 1663 se ha lliurat lo delme de oli del pnt. añ de la vila de Alero a Jaume Bennasa para ire de la vila de Binasalem per 107 Ll fa. Bernat Bestard not Jaume Juan Custurer mercader Petro not. [3§] Transcripción literal"
+  ],
+  "literal": [
+    "1. Als 29 8bre 1663 se ha lliurat lo delme de oli del2. sr. Rey de la vila de Sta Maria al honor Juan Jau[m]e3. Monserrat de dita vila per [?] 7 Ll4. Lo Magh Salvador de Oleza donzell5. Petro nott. [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "172:104a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo38/172:104a.JPG",
+      "url": "/legajos/legajo-38/images/172:104a.JPG"
+    },
+    {
+      "filename": "173:104b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo38/173:104b.JPG",
+      "url": "/legajos/legajo-38/images/173:104b.JPG"
+    },
+    {
+      "filename": "174:104c.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo38/174:104c.JPG",
+      "url": "/legajos/legajo-38/images/174:104c.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "172:104a.JPG",
+  "warnings": [],
+  "raw_source": "raw/legajos/legajo-38/cartas/005580.json",
+  "primary_image_url": "/legajos/legajo-38/images/172:104a.JPG"
+}

@@ -1,0 +1,43 @@
+{
+  "legajo_id": "25",
+  "id_carta": "4155",
+  "order_in_legajo": 93,
+  "signatura": "181_189a.JPG",
+  "nombre_carta": "Carta de Pedro Aiza y Doménech a Jerónimo Pelegrín de Aragüés",
+  "fecha_original": "17 de julio de 1667",
+  "lugar": "Ibiza",
+  "remitente": "Pedro Aiza y Doménech",
+  "destinatario": "Jerónimo Pelegrín de Aragüés",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Su carta de v. m. recibí de 5 del presente y en ella tuve partiqular con gusto por saber de su buena salud. Nuestro Señor se la mantenga largos años, yo la tengo, a Dios gracias, para lo que me quisiere mandar. Recibí su carta [de] v. m. me enviará a decir lo que vale porque será ocasión de no enviarle a pedir nada de esa tierra y en lo que fuere de provecho que sepa que ahí en esta isla no es [?] el mandarme que serviré a v. m. como lo verá por la obra. Mi mujer envía una ollita de conserva de frigola del año para su señora y que si le apetece le avisará y le enviará de este año y que le dé de su parte muchos recados aunque no la conoce y que haga merced del real de a ocho que recibirá por manos de mi cuñado el patrón Antonio Quart de eviarle un delantal de su mano, que como es cosa de mujeres se lo envía a su señora. No seré más largo porque iba deprisa la barca de v. m. que su mano besa. Hoy a 17 de julio de 1667. Amigo de v. m. que sus manos besa Pedro de Aiza y Domenech [1§] Ibiza Pedro Aiza y Domenech {CAT. 12 de juliol 1667, té resposta}. Transcripción literal"
+  ],
+  "literal": [
+    "1. Su carta de V.m. resibi de 5 del2. presente y enella tube partiqular3. con gusto por saber de su buena salud4. nuestro señor se la mantenga lar5. gos años yo la tengo adios gras6. sias para lo que me quisiere7. mandar resibi (^la) su carta V.m. me8. inbiara a desir lo que vale porque9. sera ocasion de no enbialle ape10. dir nada desa tierra y en lo que11. fuere de provetcho que sepa que12. aí enesta isla no esquse el man13. darme que servire a V.m. como14. lo vera por la obra15. Mi muger inbia una ollita de con16. servat del año para a su sañora y que17. si le apetese le avisara y lenbiara18. deste año y que le de de su parte mut19. chos recados aunque no la conose y que20. haga merse del real de a otcho que resi21. bira por maños de mi quñado el22. patron añttº qart denbialle un23. devantal de su mano que como es cosa de mu24. geres selonbia a su señora no sere mas largo por25. que iba de prisa la barca de Vm que su26. mano besa ai a 17 de Julio de 166727. Amigo de V.m q.s.m.B.28. Pedro de Aiz y domenech [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "181_189a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo25/181_189a.JPG",
+      "url": "/legajos/legajo-25/images/181_189a.JPG"
+    },
+    {
+      "filename": "182_189b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo25/182_189b.JPG",
+      "url": "/legajos/legajo-25/images/182_189b.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "181_189a.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (5)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-25/cartas/004155.json",
+  "primary_image_url": "/legajos/legajo-25/images/181_189a.JPG"
+}

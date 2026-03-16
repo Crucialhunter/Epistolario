@@ -1,0 +1,43 @@
+{
+  "legajo_id": "13",
+  "id_carta": "1755",
+  "order_in_legajo": 22,
+  "signatura": "042:2259a.JPG",
+  "nombre_carta": "Carta de Basilio de Castellví y Ponce a Pedro Santacilia y Pax",
+  "fecha_original": "31 de julio de 1668",
+  "lugar": "Valencia",
+  "remitente": "Basilio de Castellví y Ponce",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Señor mío recibo su carta de v. s. de 25 del corriente con igual estimación y aprecio a las buenas nuevas que logro en ella de su salud de v. s. en esta su casa de v. s. quedamos buenos doña Laura, Jusepe y yo y todos besamos a v. s. las manos con las del Sr. don Juan. Desdichado suceso ha sido el de la muerte de Laconi, hace confirmado esta noticia por cartas de Cerdeña que han venido tres días ha con una saetía que ha llegado a esta playa en que me avisa mi señora la marquesa de Villazor, mi hermana que el día 20 del pasado a la una de la noche saliendo de su casa el marqués le tiraron seis carabinazos y le acabaron de matar a puñaladas. Este suceso ha tenido aturdido a todo aquel lugar haciendo la parentela varios discursos sobre este lance. Dios por su misericordía [1§] se haya apiadado del difunto y aclare a los agresores del delito. Tres días ha llegó un bergantín de Mallorca en que he tenido cartas del Sr. don Miguel Salva y de Miguel Fiol he recebido con pliego para Diego Matias de Aragues que se lo remito en esta ocasión en que podrá ser haya algunas para v. s. Por acá no se ofrece cosa particular de que avisar a v. s. cuya vida guarde Dios muchos años como deseo. Valencia y julio a 31 de 1668. Mucho me he holgado de haber visto al Sr. don Arnau y que me haya traído muy buenas nuevas de la salud de v. s. Besa a v. s. Su mano su mayor servidor Don Basilio Castellvi y Ponce Sr. don Pedro Santacilia y Pax [2§] Transcripción literal"
+  ],
+  "literal": [
+    "1. Señor mio reçiuo su carta de V.S. de 25 del corriente2. con igual estimacion y apreçio a las buenas nueuas3. que logro en ella de su salud de V.S. en esta4. su casa de V.S. quedamos buenos Da Laura Juse:5. pe y yo y todos besamos a V.S. las manos con6. las del Sr. Don Juan =7. Desdichado suceso ha sido el de la muerte de8. Laconi hase confirmado esta noticia por cartas de9. cerdena que han venido tres dias a con una sae:10. tia que ha llegado a esta Playa enque me auisa11. Mi sra la Marqsa de Villaçor mi hermana que12. el dia 20 del pasado a la una dela noche13. saliendo de su casa el Marques le tiraron14. seis carabinacos y le acabaron de matar a 15. puñaladas este suceso [a] tenido aturdido a todo16. aquel lugar haziendo la parentela uarios17. discursos sobre este lançe Dios por su misericor18. dia [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "042:2259a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo13/042:2259a.JPG",
+      "url": "/legajos/legajo-13/images/042:2259a.JPG"
+    },
+    {
+      "filename": "043:2259b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo13/043:2259b.JPG",
+      "url": "/legajos/legajo-13/images/043:2259b.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "042:2259a.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-13/cartas/001755.json",
+  "primary_image_url": "/legajos/legajo-13/images/042:2259a.JPG"
+}

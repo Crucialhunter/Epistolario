@@ -1,0 +1,38 @@
+{
+  "legajo_id": "11",
+  "id_carta": "1383",
+  "order_in_legajo": 154,
+  "signatura": "253:5242.JPG",
+  "nombre_carta": "Carta de Rodrigo de Borja Llançol de Romaní y Olivera a Pedro Santacilia y Pax",
+  "fecha_original": "11 de abril de 1644",
+  "lugar": "Vinarós",
+  "remitente": "Rodrigo de Borja Llançol de Romaní y Olivera",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Sr. mío, suplico a v. m. hacerme merced de mandarme dar las noticias que tuviere de Ignacio de Palomera, vecino de las galeras de la escuadra de Nápoles, que me dicen enfermó en esa villa y me importa saber el suceso que tuvo su enfermedad y si estuviere ahí se servirá v. m. mandarle dar esa carta, o remitírsela en la primera ocasión. Las prevenciones del Sr. Pedro están muy adelantadas y su majestad, que Dios le guarde, ha publicado que quiere salir en campaña a los 15 de este. Espero en Dios hemos de tener muy buenos sucesos porque empezaremos este año antes que el enemigo cuyas hechuras aún no han empezado a llegar en Cataluña. De lo que se fuere ofreciendo avisaré a v. m. a quien suplico, si tuviere algunas noticias de las cosas de Italia me lo mande avisar con todo lo demás que fuere de su servicio, cuya persona guarde Nuestro Sr. como deseo. Vinarós y abril 11 de 1644. Servidor de v. m. don Rodrigo de Borja Lançol Sr. don Pedro Santacilia y Pax Transcripción literal"
+  ],
+  "literal": [
+    "1. Sr. mio suplico a VM hazerme merced de 2. mandarme dar las noticias que tubiere de Ina 3. cio de Palomera, veco de las galeras de la Esqua 4. dra de Naps, que me dizen enfermo en essa villa 5. y me importa saber el suceso que tubo su enfermedad 6. y si tubiere ay se servira VM, mandarle dar esa 7. carta, o, remitirsela en la primera ocasion=. 8. Las prevenciones del sr. Po estan muy adelantadas y su 9. Magd que Dios le guarde ha publicado qie quiere salir 10. en Campaña a los 15 deste espero en DIos habemos 11. de tener muy buenos sucesos porque empezaremos este 12. año antes que el enemigo cuyas hechuras aun no han 13. empezado a llegar en Catalunya de lo que se fuere 14. ofreciendo avisare a VM a quien supli, si tubiere 15. algunas noticias de las cosas de Italia me lo man 16. de avisar con todo lo demas que fuere de su servicio 17. cuya persona guarde Ntro. Sr. como deseo Vinaroz y abril 18. 11 de 1644. 19. Seror de VM 20. Don Rodrigo de Borja Lançol 21. [^Sr. don Po Santa Cilia y Pax^] [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "253:5242.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo11/253:5242.JPG",
+      "url": "/legajos/legajo-11/images/253:5242.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "253:5242.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (2)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-11/cartas/001383.json",
+  "primary_image_url": "/legajos/legajo-11/images/253:5242.JPG"
+}

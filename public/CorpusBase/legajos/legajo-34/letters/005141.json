@@ -1,0 +1,38 @@
+{
+  "legajo_id": "34",
+  "id_carta": "5141",
+  "order_in_legajo": 170,
+  "signatura": "257:7056.JPG",
+  "nombre_carta": "Carta de Pascual de Aragón a Pedro Santacilia y Pax",
+  "fecha_original": "26 de noviembre de 1657",
+  "lugar": "Madrid",
+  "remitente": "Pascual de Aragón",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "En carta de Primero del corriente que Deuse v. m., Veo la merced que me hace dándose porservido de lo que pude solicitar elbuen despacho de Jeronimo peleguin y siempre que v. m. creyese demia fecto lo que deseo servirle serahacerme laquele merezco. fiando. de mi lasocasiones que se ofreciere enquepueda acreditarle. en la quemedice de Valencia lo se ayamotivo para que se hable de mi persona y Con es cuan prodignaes para puesto semejante. Dios guarde a v. m. muchos años como deseo Madrid re 26 de 1657 Muy deem Sr. don Pasqual de Aragon Sr. D. Pedro Santacilia y Pax [1§] Transcripción literal"
+  ],
+  "literal": [
+    "1. En cartta de Primero del corrientte q [Deuse]2. Vm, Veo lamrd quemehace dandose porservido delo que pude3. solicitar elbuen despacho de Geronimo peleguin y siempre4. q Vm creyese demia fecto lo quedeseo servirle serahacerme5. laquele merezco. fiando. demi lasocassiones queseofreciere6. enquepueda acreditarle. enla quemedice de Valencia7. [ ]lo se ayamotibo para quese hable demi persona y Con[ ]es quan8. prodignaes parapuesto semejantte. Dios gde a Vm muchos9. años como deseo Md [ ]re 26 de 165710. Mui deem11. Don Pasqual12. de Aragon13. Sr. D. Po santacilia y pax [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "257:7056.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo34/257:7056.JPG",
+      "url": "/legajos/legajo-34/images/257:7056.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "257:7056.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-34/cartas/005141.json",
+  "primary_image_url": "/legajos/legajo-34/images/257:7056.JPG"
+}

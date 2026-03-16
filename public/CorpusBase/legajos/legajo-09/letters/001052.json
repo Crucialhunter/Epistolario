@@ -1,0 +1,37 @@
+{
+  "legajo_id": "9",
+  "id_carta": "1052",
+  "order_in_legajo": 90,
+  "signatura": "155-74a",
+  "nombre_carta": "Carta de Josep de Meoz y Urquiz a Arnau de Santacilia",
+  "fecha_original": "27 de noviembre de 1675",
+  "lugar": "Milán",
+  "remitente": "Josep de Meoz y Urquiz",
+  "destinatario": "Arnau de Santacilia",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Amigo y señor mío Haviendo vuelto de Madrid Sr. don Josep de Ucedo le he obligado a firmar la licencia de v. m. sin decirle el reparo que hizo su padre, y lo aviso a v. m. por si gusta se la embíe, o a don Josep Vizcaino pues serán obedecidas sus órdenes de todas maneras en esto y en cuanto fuere de su gusto Éstoy esperando la respuesta de Villalonga [1§] para procurar la licencia del recomendado de v. m. en que are todo lo que pudiere para que la consíga como lo ofrecí No he tenido este correo carta de v. m. ni se ofrece csa particular que avisar por ahora. Dios guarde a v. m. muchos años como deseo Milán 27 de noviembre 1675. Besa las manos de v. m. su mayor servidor y amigo Josep de Meoz y Urquizu señor don Arnau de Santacilia [2§] Transcripción literal"
+  ],
+  "literal": [
+    "1. Amigo y sr mio Haviendo 2. buelto de Madríd Don 3. Joseph de Uzedo le he obligado 4. a firmar la lizencia de Vm 5. sín decirle el reparo q hizo 6. su Padre, y lo aviso a Vm 7. por si gusta sela embíe, o 8. a Don Joseph Vizcaino pues 9. seran obedeçidas sus ordenes 10. de todas maneras en esto 11. y en quanto fuere de su 12. gusto 13. Estoy esperando la respta de Villalonga [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "155-74a.jpg",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo09/155-74a.jpg",
+      "url": "/legajos/legajo-09/images/155-74a.jpg"
+    },
+    {
+      "filename": "156-74b.jpg",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo09/156-74b.jpg",
+      "url": "/legajos/legajo-09/images/156-74b.jpg"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "155-74a.jpg",
+  "warnings": [],
+  "raw_source": "raw/legajos/legajo-09/cartas/001052.json",
+  "primary_image_url": "/legajos/legajo-09/images/155-74a.jpg"
+}

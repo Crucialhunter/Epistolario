@@ -1,0 +1,43 @@
+{
+  "legajo_id": "19",
+  "id_carta": "7634",
+  "order_in_legajo": 293,
+  "signatura": "264_cg116a.JPG",
+  "nombre_carta": "Carta de Juan Miguel de Santacilia y Togores a Diego Matías de Aragüés",
+  "fecha_original": "15 de junio de 1660",
+  "lugar": "Lugar sin especificar",
+  "remitente": "Juan Miguel de Santacilia y Togores",
+  "destinatario": "Diego Matías de Aragüés",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Senyor Diego Matias me harà v. m. mercè de dar a esa muso els sien reals de les mangas porque el bordador esta ocupado i m'ha diccho que volverà pel dinero guardi Dios a v. m. muchos anysa 15 Junio 1660 Ilos pague Sr. don Juan Santacilia [1§] Transcripción literal"
+  ],
+  "literal": [
+    "1. Señor Diego Matias me ara V. M. 2. merced de dar a ese muso los sien 3. Reales de las mangas porque el 4. bordador esta ocupado y me a 5. diccho que bolvera por el dinero 6. Gde. Dios a VM muchos años7. a 15 Junio 1660 Ilos8. pagues 9. Don Juan Sta. Cilia [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "264_cg116a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo19/264_cg116a.JPG",
+      "url": "/legajos/legajo-19/images/264_cg116a.JPG"
+    },
+    {
+      "filename": "265_cg116b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo19/265_cg116b.JPG",
+      "url": "/legajos/legajo-19/images/265_cg116b.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "264_cg116a.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (3)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-19/cartas/007634.json",
+  "primary_image_url": "/legajos/legajo-19/images/264_cg116a.JPG"
+}

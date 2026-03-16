@@ -1,0 +1,38 @@
+{
+  "legajo_id": "31",
+  "id_carta": "6775",
+  "order_in_legajo": 15,
+  "signatura": "023:1526.JPG",
+  "nombre_carta": "Carta de conde de Oñate a Pedro Santacilia y Pax",
+  "fecha_original": "1 de diciembre de 1660",
+  "lugar": "Madrid",
+  "remitente": "conde de Oñate",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Aunque v. m. no se acuerda de sus servidores ninguna ocasión de solicitar las nuevas que deseo de su salud he de perder y así en la que ahora se ofrece de que envío a Cerdeña a don Pablo Corbella por si tocare en esa isla he querido que no vaya sin carta mía para v. m. para suplicarle que en la satisfacción de las libranzas que por mis gajes me están dadas en esa receta me haga la merced que yo me debo prometer de [?] y la calidad y pulación que su Mgd manda tengan estos gajes y yo quedaré con la estimación que debo a la merced que v. m. me hiciere. Guarde Dios a v. m. muchos años Madrid descembre de 1660 El duque Duq conde de Oñate Sr. D. Pedro Santacilia y Pax Transcripción literal"
+  ],
+  "literal": [
+    "1. Aunque Vm no se acuerda de sus servidores nin2. guna ocasion de solicitar las nuevas que deseo de su 3. salud he de perder y asi en la que aora se ofrece de que 4. embio a Cerdena a Don Pablo Corbella por si tocare en 5. esa isla he querido que no baya sin carta mia pª Vm 6. para suplicarle que en la satisfacion de las libranças 7. que por mis gajes me estan dadas en esa recepta me 8. haga la mrd que yo me debo prometer de [?] 9. y la calidad y pulacion que su Mgd manda tengan 10. estos gajes i yo quedare con la estimacion que debo 11. a la mrd que Vm me hiziere gde Dios a Vm 12. muchos anos Md deschembre de 1660 13. El Duq Duq 14. Conde de Oñate 15. Sr. D Pº Santacilia y Pax [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "023:1526.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo31/023:1526.JPG",
+      "url": "/legajos/legajo-31/images/023:1526.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "023:1526.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-31/cartas/006775.json",
+  "primary_image_url": "/legajos/legajo-31/images/023:1526.JPG"
+}

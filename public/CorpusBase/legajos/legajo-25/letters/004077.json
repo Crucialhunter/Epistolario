@@ -1,0 +1,43 @@
+{
+  "legajo_id": "25",
+  "id_carta": "4077",
+  "order_in_legajo": 11,
+  "signatura": "020_111a.JPG",
+  "nombre_carta": "Carta de José Balell a Diego Matías de Aragüés",
+  "fecha_original": "20 de febrero de 1667",
+  "lugar": "Barcelona",
+  "remitente": "José Balell",
+  "destinatario": "Diego Matías de Aragüés",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "La imatge no es veu bé [1§] Barcelona 20 de febrero 1667, del sargento mayor Balell. Transcripción literal"
+  ],
+  "literal": [
+    "1. La imatge no es veu bé"
+  ],
+  "imagenes": [
+    {
+      "filename": "020_111a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo25/020_111a.JPG",
+      "url": "/legajos/legajo-25/images/020_111a.JPG"
+    },
+    {
+      "filename": "021_111b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo25/021_111b.JPG",
+      "url": "/legajos/legajo-25/images/021_111b.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "020_111a.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (4)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-25/cartas/004077.json",
+  "primary_image_url": "/legajos/legajo-25/images/020_111a.JPG"
+}

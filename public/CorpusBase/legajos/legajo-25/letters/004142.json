@@ -1,0 +1,38 @@
+{
+  "legajo_id": "25",
+  "id_carta": "4142",
+  "order_in_legajo": 75,
+  "signatura": "154_176.JPG",
+  "nombre_carta": "Carta de Melcior García a Jerónimo Pelegrín de Aragüés",
+  "fecha_original": "16 de junio de 1667",
+  "lugar": "Mallorca",
+  "remitente": "Melcior García",
+  "destinatario": "Jerónimo Pelegrín de Aragüés",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Per estar amb la indisposició que pens v. m. sap no és estat possible tornar a veure a v. m. pel que li parlí del negoci de la senyora Net. Jo pens estarà avistat, sols falta el veure'ns i així si v. m. té gust d'arribar-se fins a esta sa casa, sinó, quan jo podré, aniré a besar-li les mans a la seva a on se resoldrà el negoci. Restant sempre prompte a les ordres de v. m. a qui guardi el Sr. d'esta sa casa i juny als 16 de 1667. El Dr. Melcior Garcia Ror. d'esta Creu [?] Sr. Jeroni Pelegri Al Sr. Jeroni Pelegri, guardi Déu etts. En sa casa Transcripción literal"
+  ],
+  "literal": [
+    "1. Per estar ab la indispositio que pens Vm. sap2. no es estat possibble tornar a veure a Vm.3. per lo que li parli del negoci de la Señora4. Net jo pens estara avistat sols falta el veu5. renos y axi si Vm. te gust de arribarse6. fins a esta sa casa sino quant jo podre anire7. a besarli las mans a la sua ahont se resolra8. el negoci restant sempre prompte a las ordes9. de Vm. aqui Gde. el Sor. de esta sa casa10. y juñy als 16 de 166711. El Dor. Melchior Garcia Ror. Desta Creu[?]12. Sor. Hieroni Pelegri13. Al Sor. Hieroni pelegri14. Gde Deu ett15. En sa casa [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "154_176.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo25/154_176.JPG",
+      "url": "/legajos/legajo-25/images/154_176.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "154_176.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (5)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-25/cartas/004142.json",
+  "primary_image_url": "/legajos/legajo-25/images/154_176.JPG"
+}

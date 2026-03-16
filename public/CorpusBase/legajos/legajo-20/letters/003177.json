@@ -1,0 +1,38 @@
+{
+  "legajo_id": "20",
+  "id_carta": "3177",
+  "order_in_legajo": 51,
+  "signatura": "060:5957.JPG",
+  "nombre_carta": "Carta de Baltasar Cerdán a Pedro Santacilia y Pax",
+  "fecha_original": "2 de febrero de 1656",
+  "lugar": "Madrid",
+  "remitente": "Baltasar Cerdán",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "juzgo a v. s. con tantas ocupaciones que no le han de dar lugar para responder a mis cartas, pero aunque yo parezca cansado no dejaré de solicitar con ellas muchos mandatos de v. s. y suplicarle como lo tengo pedido se sirva de que se paguen a mi Sra. doña Laura Arquer y de Valenciano, viuda de don Jaime Valenciano, gobernador que fue de Menorca (a quien v. s. conocería en Italia, o, Flandes por muy gran soldado) los doscientos ducados que tiene de renta en aquella procuración real esto vuelvo, señor, a suplicar a v. s. con todo en carecimto, porque me consta de la necesidad [?] de esta Sra. y de que hará v. s. una obra muy grande de misericordia, Dios guarde a v. s. muchos años como deseo, En Madrid, a 2 de febrero de 1656 Muy servidor de v. s. que sus manos besa, Baltasar Cerdan Prdor real Sr. don Pedro Santacilia [1§] Transcripción literal"
+  ],
+  "literal": [
+    "1. Juzgo a V.s. con tantas occupaciones que no le han 2. de dar lugar para responder a mis cartas, pero 3. aunque yo parezca cansado no dejarè de solicitar 4. con ellas muchos mandatos de V.S. y supplicarle 5. como lo tengo pedido se sirva de que se paguen 6. a mi sra. doña Laura [?] de Valenciano viuda 7. de Don Jaime Valenciano G< [?]>or que fue de Menorca 8. (a quien V.S. conozeria en Italia,o, Flandes 9. por muy gran soldado) los doscientos ducados q 10. tiene de renta en aquella procuracion Real 11. esto buelvo,señor, a supplicar a V.S. con todo en 12. carezimto, porque me consta de la necessidad[?] 13. desta sra y de q hara V.S. una obra muy g[r]ande 14. de misericordia, Dios gde a V.S.muchos años 15. como deseo, en Madrid a 2 de Febrero de 1656 16. Muy serdor de V.S. q s m b 17. Balthasar Cerdan[?] 18. Sr. Prdor Rl don Pro Samtacilia 19. 20. [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "060:5957.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo20/060:5957.JPG",
+      "url": "/legajos/legajo-20/images/060:5957.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "060:5957.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-20/cartas/003177.json",
+  "primary_image_url": "/legajos/legajo-20/images/060:5957.JPG"
+}

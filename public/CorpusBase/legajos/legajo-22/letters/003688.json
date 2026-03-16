@@ -1,0 +1,43 @@
+{
+  "legajo_id": "22",
+  "id_carta": "3688",
+  "order_in_legajo": 68,
+  "signatura": "129:5057a.JPG",
+  "nombre_carta": "Carta de Miguel Guiño a Pedro Santacilia y Pax",
+  "fecha_original": "28 de junio de 1639",
+  "lugar": "Zaragoza",
+  "remitente": "Miguel Guiño",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Sr. mío, ayer llegué a este lugar cojo de una pierna de un golpe que me di que solo en eso tengo ventura. Holgádome he mucho de la buena nueva que Monsarro me ha dado de la salud de v. m. Dios se la coserve por muchos años. El conde de Santa María que esté en el cielo me ofreció llevarme a Mallorca con 40 escudos de sueldo. Llevóselo Dios y a v. m. dé muchos años de vida para que me honre como siempre. Nuevas no escribo porque las de Madrid son varias. Acá dice viene a gobernar Nocera, holgaré de ello por ser amigo de v. m. que con eso me favorecerá y v. m. se sirva de no borrarme de su memoria que la confiaza que yo tengo en v. m. es grande. Al Sr. licenciado Domenech beso las manos mil veces. Dios a v. m. guarde como puede y es menester. Zaragoza y junio 28 de 1632. Miguel Guiño Sr. D. Pedro Santacilia y Pax [1§] Zaragoza 28 Junio 1639 Miguel Guiño Transcripción literal"
+  ],
+  "literal": [
+    "1. Sor. mio ayer llegue aeste lugar coxo de una pierna2. de u golpe que me di que solo en heso tengo bentura3. holgadome he mucho de la buena nueba que mosarro4. mea dado de la salud de v.m. dios se la coserbe5. por muchos años. el code de Sta. maria queste6. e el çielo me ofresio llebarme a mallorca co 407. escudos de sueldo llebosele dios y a v.m. de8. muchos años de vida para que me hore9. como siepre, nuebas no escribo porque las10. de madrid so varias, aca dise biene a gober11. nar nochera?? Holgaredello por ser amigo [de]12. v.m. que co heso me faboresera y v.m. se13. çirba de no borrarme de su memoria que la14. cofiasa que yo tengo e v.m. es grade15. al Sor. licesiado domenec beso las manos16. mil besses Xpo a v.m. gde. como puede 17. y he menester saragosa y Junio 28 de18. 163919. Miguel Guino20. Sor. d. Pº Sta.Sisilia y pax [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "129:5057a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo22/129:5057a.JPG",
+      "url": "/legajos/legajo-22/images/129:5057a.JPG"
+    },
+    {
+      "filename": "130:5057b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo22/130:5057b.JPG",
+      "url": "/legajos/legajo-22/images/130:5057b.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "129:5057a.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-22/cartas/003688.json",
+  "primary_image_url": "/legajos/legajo-22/images/129:5057a.JPG"
+}

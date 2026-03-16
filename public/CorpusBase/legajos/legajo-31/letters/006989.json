@@ -1,0 +1,43 @@
+{
+  "legajo_id": "31",
+  "id_carta": "6989",
+  "order_in_legajo": 227,
+  "signatura": "332:1740a.JPG",
+  "nombre_carta": "Carta de Gabriel de Toledo y Ávalos a Pedro Santacilia y Pax",
+  "fecha_original": "24 de septiembre de 1664",
+  "lugar": "Palermo",
+  "remitente": "Gabriel de Toledo y Ávalos",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "[...] se le pudiese ofrecer de justicia, pues con la grande autoridad de v.s. todo le saldrá como yo deseo, y quedaré tan obligado como siempre a su mucha cortesía a v.s. Muy linda vida se habrá dado v.s. en Madrid, porque es el centro de los caballeros mozos, pero eso se habrá ahorrado v.s de gloria, y cuando carguen los años conocerá v.s. que todos los placeres pasados son vanidades. Yo, como me hallo viejo y tullido, ha muchos días que he dejado aparte estas mocedades y niñerías y solo puedo servir a v.s. de procurador, si se dignare de emplearme aquí en algo de su servicio. Nuestros mallorquines han hecho un desorden de calidad, que esta ciudad ha estado en un tris de amotinarse, pero de [e]sto hará buena relación el portador. Nuestro Señor guarde a v.s. felices años, como deseo de todo mi corazón. Castillo a Mar[e] de Palermo, a 24 de septiembre 1664. Besa la mano de v.s. su mayor y más antiguo servidor, Gabriel de Toledo y Ávalos Señor d. Pedro Santacilia Transcripción literal"
+  ],
+  "literal": [
+    "1. 1."
+  ],
+  "imagenes": [
+    {
+      "filename": "332:1740a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo31/332:1740a.JPG",
+      "url": "/legajos/legajo-31/images/332:1740a.JPG"
+    },
+    {
+      "filename": "333:1740b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo31/333:1740b.JPG",
+      "url": "/legajos/legajo-31/images/333:1740b.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "332:1740a.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-31/cartas/006989.json",
+  "primary_image_url": "/legajos/legajo-31/images/332:1740a.JPG"
+}

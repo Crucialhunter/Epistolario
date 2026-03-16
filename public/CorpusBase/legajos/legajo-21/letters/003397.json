@@ -1,0 +1,43 @@
+{
+  "legajo_id": "21",
+  "id_carta": "3397",
+  "order_in_legajo": 85,
+  "signatura": "132:5686a.JPG",
+  "nombre_carta": "Carta de Pedro Jiménez de Murillo a Pedro Santacilia y Pax",
+  "fecha_original": "19 de noviembre de 1638",
+  "lugar": "Sadaba",
+  "remitente": "Pedro Jiménez de Murillo",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Sr. mío huélgome mucho haya v. m. llegado con salud, i me pesa en extremo no haber estado yo allí para servir a v. m. en algo. Aquí tenemos a don Gregorio, no quería hacer nada esta villa es corta y está muy fatigada, se ha socorrido a la gente a dos reales, y han dado trescientos almudes de cebada el topor una ve [?] mañana iremos a Egea, y si puedo volver a gozar de su compañía de v. m. y lograr los deseos de servirle lo haré con mucho gusto, y cuando he recibido la de v. m. estaba diciendo a mi capellán fuese a besar su mano de v. m. y saber como le iba en esa villa. Nuestro Señor guarde como deseo en Sadaba a 19 de noviembre 1638. Don Pedro Jimenez de Murillo Sr. don Pedro Santacilia y Pax [1§] Sadaba 19 noviembre 1638 Don Pedro Jimenez de Murillo rdo. Transcripción literal"
+  ],
+  "literal": [
+    "1. Sr mio Huelgome mucho aya Vm. llegado 2. con salud, ym e pesa en estremo no aber 3. estado yo alli para serbir a Vm. en algo 4. aqui tenemos adon Gregorio noqueria hazer 5. nada [^ estabilla] escorta y esta muy fatigada, se a socorri6. do ala gente a Dos Reales, ya n dado tresi-7. entos almudes de Cebada eltopor una ve[Ilegible]8. mañana, iremos a exea, y si puedo bolber agozar 9. de su Compa de Vm. y lograr los desseos de ser-10. birle lo hare con mucho gusto, y cuando e recibido la 11. de Vm. estaba diziendo a mi Capellan fuesse abe-12. sar su mano de Vm. y saber como le iba en essa 13. Villa. NRo sor gde como desseo En Çadaba a 19. 14. de Novie 1638. 15. Don Po ximenez de Murillo 16. [Margen izquierdo][^ Sr Don Po Sta Cilia y Pax] [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "132:5686a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo21/132:5686a.JPG",
+      "url": "/legajos/legajo-21/images/132:5686a.JPG"
+    },
+    {
+      "filename": "133:5686b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo21/133:5686b.JPG",
+      "url": "/legajos/legajo-21/images/133:5686b.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "132:5686a.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-21/cartas/003397.json",
+  "primary_image_url": "/legajos/legajo-21/images/132:5686a.JPG"
+}

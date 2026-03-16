@@ -1,0 +1,42 @@
+{
+  "legajo_id": "29",
+  "id_carta": "6325",
+  "order_in_legajo": 23,
+  "signatura": "038:4142a.JPG",
+  "nombre_carta": "Carta de Juan Miguel Santacilia a Pedro Santacilia y Pax",
+  "fecha_original": "25 de abril de 1632",
+  "lugar": "Mallorca",
+  "remitente": "Juan Miguel Santacilia",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "[1§] [2§] [3§] Transcripción literal"
+  ],
+  "literal": [
+    "1. 1. 1."
+  ],
+  "imagenes": [
+    {
+      "filename": "038:4142a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo29/038:4142a.JPG",
+      "url": "/legajos/legajo-29/images/038:4142a.JPG"
+    },
+    {
+      "filename": "039:4142b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo29/039:4142b.JPG",
+      "url": "/legajos/legajo-29/images/039:4142b.JPG"
+    },
+    {
+      "filename": "040:4142c.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo29/040:4142c.JPG",
+      "url": "/legajos/legajo-29/images/040:4142c.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "038:4142a.JPG",
+  "warnings": [],
+  "raw_source": "raw/legajos/legajo-29/cartas/006325.json",
+  "primary_image_url": "/legajos/legajo-29/images/038:4142a.JPG"
+}

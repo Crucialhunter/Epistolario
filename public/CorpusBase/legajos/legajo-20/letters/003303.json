@@ -1,0 +1,43 @@
+{
+  "legajo_id": "20",
+  "id_carta": "3303",
+  "order_in_legajo": 177,
+  "signatura": "348:6084a.JPG",
+  "nombre_carta": "Carta de Jerónimo Pelegrín de Aragüés a Leonor Santacilia i Despuig",
+  "fecha_original": "2 de febrero de 1669",
+  "lugar": "Madrid",
+  "remitente": "Jerónimo Pelegrín de Aragüés",
+  "destinatario": "Leonor Santacilia i Despuig",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Quant arrivam ha València i després a Madrid Sr. don i raó a v. m. del bon viatge que amb tota presteça passarem amb salut complida tingala v. m. tan feliz com est son mínim criat li [?] desitja en companyia [?] de tots els de casa i fora d'ella. a mi Sra. dona Isabel. Puig. tia de v. m. Mi Sra. dona Maria el Compte mi i mi Sra. la Compresa me farà [?] quant tinga ocasió que a tots beso les mans. i que si els puc servir. en cosa tenen un criat, ací per a servir-los. Mi té salut complida gràcies a Déu El Sr. don Nicolau ma i la vist. millor. i esta fet un {ESP. bizarro} [?] cavaller. Déu li don [?] que desitja placia [?] a Déu les neus i frets en esta terra son rigurosos que nos deixen treure el nas, passarem aquest. mes si plau a Déu i anirem a besar la mà de v. m. a la qual suplico me mane moltes coses de son gust. puix [?] seran obeïdas amb molt bona voluntat com tinch. obligació de Madrid . 2 de febro 1669. Criat de v. m. que s m B [?] Jeroni Pelegrin [?] mi Sra. [1§] a mi senyora dona Leonor de Santacilia i Despuig que Dios Guardi muchos anys com deseo i es menester [2§] Transcripción literal"
+  ],
+  "literal": [
+    "1. Quant arrivam ha Valencia y despres a madrid 2. Doni raho a V.M. del bon biaje que ab tota presteça 3. passarem ab salut cumplida tingala V.M. tan feliz com 4. est son minim criat ley[?] desija en comppa[?] de tots los 5. de cassa y fora de ella. a mi sra. Doña Isabel. Puig. 6. tia de VM. Mi sra. Doña Maria el sr. Compte mi sr. 7. y mi sra. la Compressa me fara [?] quant tinga 8. ocassio que a ttots besso las mans. y que si els puch 9. servir. en cossa tenen un criat, assi per a servirlos. 10. Mi sr. te salut cumplida graçias a Deu Lo sr. Don Nicolau 11. may le vist. millor. y esta fet un bisarro[?] cavaller. 12. Deu li don [?] que desija placia[?] a Deu las neus 13. y frets en esta terra son rigurossos que nos dexan 14. traure el nas, passarem aquest. mes si plau 15. a Deu y anirem a besar la ma de V.M. a la qual 16. supp[li]co me mane moltas cossas de son gust. puis [?] 17. seran obeidas ab molt bona voluntat com tinch. 18. obligacio de Madrid. 2. de febro 1669. 19. Criat de VM. q s m B[?] 20. Geronym Pelegrin[?] 21. mi sra. [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "348:6084a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo20/348:6084a.JPG",
+      "url": "/legajos/legajo-20/images/348:6084a.JPG"
+    },
+    {
+      "filename": "349:6084b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo20/349:6084b.JPG",
+      "url": "/legajos/legajo-20/images/349:6084b.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "348:6084a.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (4)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-20/cartas/003303.json",
+  "primary_image_url": "/legajos/legajo-20/images/348:6084a.JPG"
+}

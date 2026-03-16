@@ -1,0 +1,43 @@
+{
+  "legajo_id": "7",
+  "id_carta": "779",
+  "order_in_legajo": 17,
+  "signatura": "16-10a copy",
+  "nombre_carta": "Carta de Gabriel Amengual a Jerónimo Pelegrín de Aragüés",
+  "fecha_original": "14 de mayo de 1668",
+  "lugar": "Roma",
+  "remitente": "Gabriel Amengual",
+  "destinatario": "Jerónimo Pelegrín de Aragüés",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Senyor {ESP. mío,} ja molt temps escriguí a vostra mercè com rebí per via de Palerm tots els papers de mi senyor don Pedro, que n’estiguí molt content. S’hauran d'enviar unes fes autèntiques dels albarans. Segons veig, no se són menester perquè mi senyor don Pedro, conforme diu, ha cobrat el {ESP. atrassat} i va cobrant els {ESP. plaços}, que n’estic molt alegre que no haurem de treure la manutenció de la Rota. {ESP. Acerca} el petitori, si el bisbe demana ja li sortirem {LAT. manu armata,} que ha recorregut a jutge laic amb apel·lació i que ha incorregut en sentència d'excomunicació. No crec que s’atrevesca [a] sortir en Roma amb tal apel·lció, més ell no es pot moure que nosaltres no ho sapiguem per raó del {LAT. nihil fieri} féu a la comissió, i així estigui segur vostra mercè i mi senyor don Pedro que ho defensarem {LAT. us que ad mortem.} I no ocorrent altra cosa, rest besant les mans a vostra mercè i Nostre Senyor el guardi com pot i jo desitge. De Roma i maig als 14 de 1668. De vostra mercè que ses mans besa, Gabriel Amengual S. Jeroni Pelegrí i Aragues [1§] A Jeroni Pelegri i Aragues, en casa el senyor don Pedro Santacilia. {ESP. Guarde Dios}. Mallorca Transcripción literal"
+  ],
+  "literal": [
+    "1. Sr. mio ja molt temps escrigui a V. me. com rebi per via de Palerm tot los 2. papes de mi Sr. Don Pedro deque nestigui molt content. se hauran de 3. enbiar unes fens eltenticas dels alberarns segons veix nose son manester 4. per que mi Sr Don Pedro conforme diu ha cobrat lo trasat y va cobrant 5. los plasos de que nestich molt alegre que no eurem de traure la 6. manutencio de la Rota, aserca el Petitori si el bisbe demane ja li 7. surtirem {lat.} manu armata que ha recorregut a jutje llaic ab apellacio 8. y que ha incorregut en sentencia de excomunicacio no crech que 9. se atrevesca surtir en Roma ab tal apellacio, mes ell nos pot moure 10. que nosaltres nou sapiam per reho del {lat.} nihil fieri feu a la comi-11. sio y axi estiga segur V. me. y mi Sr. Don Pedro queu defenserem 12. {lat.} usque ad morte y no occorent altre cosa rest besant les mans a V. me. 13. y n s lo gde com pot y jo desitje de Roma y Maig als 14 de 14. 1668 15. de V. me. q s m B 16. Gabriel Armengual 17. S. Geroni Pelegri y Aragues [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "16-10a copy.gif",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo07/16-10a copy.gif",
+      "url": "/legajos/legajo-07/images/16-10a copy.gif"
+    },
+    {
+      "filename": "17-10b copy.gif",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo07/17-10b copy.gif",
+      "url": "/legajos/legajo-07/images/17-10b copy.gif"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "16-10a copy.gif",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (4)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-07/cartas/000779.json",
+  "primary_image_url": "/legajos/legajo-07/images/16-10a copy.gif"
+}

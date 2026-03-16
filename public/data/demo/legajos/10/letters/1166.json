@@ -1,0 +1,40 @@
+{
+  "id_carta": "1166",
+  "url_origen": "http://santacilia.info/info_carta2.php?id=1166",
+  "legajo": 10,
+  "signatura": "056-332a",
+  "nombre_carta": "Carta de Jaume Nadal i Riera a Jerónimo Pelegrín de Aragüés",
+  "fecha": "28 de julio de 1668",
+  "lugar": "Manacor",
+  "remitente": "Jaume Nadal i Riera",
+  "destinatario": "Jerónimo Pelegrín de Aragüés",
+  "temas": "Sin especificar",
+  "idioma": "catalán",
+  "resumen": "Lorem ipsum ad his scripta blandit partiendo, eum fastidii accumsan euripidis in, eum liber hendrerit an. Qui ut wisi vocibus suscipiantur, quo dicit ridens inciderint id. Quo mundi lobortis reformidans eu, legimus senserit definiebas an eos. Eu sit tincidunt incorrupte definitionem, vis mutat affert percipit cu, eirmod consectetuer signiferumque eu per. In usu latine equidem dolores.",
+  "transcripcion": {
+    "modernizada": "Senyor Jeroni, La de v. m. tinc rebuda i en resposta li dic que fins ací no he pogut trobar més de dues carretades d'ordi que he comprades a raó 1 lliures, 96 la quartera de civada: en ninguna manera no se'n troba el gra cada dia. Jo em penso que si l'ordi se posa a [?] que si en treuran v.m. manarà avisar del gerdor. No dic més. De Manacor i juliol, als 28 da 1668. Jaume Nadal i Riera, criat de v. m. Postdata: servir-se'n d'enviar dos carros per al dit ordi amb tota brevetat. [1§] Al senyor Jeroni Pelegri, que el Senyor guardi. En casa el senyor don Pedro Santacilia En Ciutat. [2§] [Cuentas]",
+    "literal": "1. Sr. Hieroni la de V.M. tinch rabuda y en resposta li dich 2. que fins asi no e pogut trobar mes de dos Caratades de 3. ordi que e conprades arao 1896 la cortera desiuada en 4. ninguna manera so san troba lo gra cada dia jan pusa 5. jan pansa quasi lordi japosa a [^??^] que sien trauran Vm 6. manara avisar . De lo gerdor??no dich mes. De Manacor 7. y juliol als 28 da 1668. 8. Jaume Nadal y Riera criat de V.M. 9. Posdatam: servirsen de anviar dos caros per lo dit ordi 10. ab tota brevedat. [☞]"
+  },
+  "imagenes": [
+    {
+      "src": "/data/demo/legajos/10/images/1166__01__056-332a.jpg",
+      "order": 1,
+      "originalFilename": "056-332a.jpg"
+    },
+    {
+      "src": "/data/demo/legajos/10/images/1166__02__057-332b.jpg",
+      "order": 2,
+      "originalFilename": "057-332b.jpg"
+    },
+    {
+      "src": "/data/demo/legajos/10/images/1166__03__057-332bb.jpg",
+      "order": 3,
+      "originalFilename": "057-332bb.jpg"
+    }
+  ],
+  "capturado_en": "2026-02-25T17:25:08.271Z",
+  "hasImages": true,
+  "primaryImage": "/data/demo/legajos/10/images/1166__01__056-332a.jpg",
+  "previousCartaId": "1165",
+  "nextCartaId": "1167"
+}

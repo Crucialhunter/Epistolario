@@ -1,0 +1,38 @@
+{
+  "legajo_id": "24",
+  "id_carta": "3994",
+  "order_in_legajo": 44,
+  "signatura": "067:4047.JPG",
+  "nombre_carta": "Carta de Pedro Fajardo de Requeséns-Zúñiga y Pimentel (V marqués de los Vélez) a Pedro Santacilia y Pax",
+  "fecha_original": "12 de enero de 1641",
+  "lugar": "Vilafranca",
+  "remitente": "Pedro Fajardo de Requeséns-Zúñiga y Pimentel (V marqués de los Vélez)",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Sr. don Jerónimo de Noroña [?] v. m. importa que [?] luego y con secreto v. m. lo disponga sin dar a entender que ha tenido orden mía y siendo para si solo esta noticia. Dios guarde a v. m. muchos años. Villafranca, y enero 12 1641. El marques de los Velez Sr. don Pedro Santacilia Transcripción literal"
+  ],
+  "literal": [
+    "1. Don Geronimo de Noroña [?] V.m.2. ynporta que [?] luego y con secreto V.m.3. lo disponga sin dar a entender que a tenido4. horden mía y siendo para si solo esta5. notiçia dios gde a V.m. muchos añs. Villa6. franca, y Enero .12. 1641.7. El Marq de los Velez8. Sr. Don pedro Santaçilia [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "067:4047.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo24/067:4047.JPG",
+      "url": "/legajos/legajo-24/images/067:4047.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "067:4047.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (5)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-24/cartas/003994.json",
+  "primary_image_url": "/legajos/legajo-24/images/067:4047.JPG"
+}

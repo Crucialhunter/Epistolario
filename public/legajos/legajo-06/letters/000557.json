@@ -1,0 +1,48 @@
+{
+  "legajo_id": "6",
+  "id_carta": "557",
+  "order_in_legajo": 57,
+  "signatura": "047-28aa",
+  "nombre_carta": "Carta de Bernat Nadal a Cecilia Zaforteza y Sureda de Sant Martí",
+  "fecha_original": "19 de noviembre de 1747",
+  "lugar": "Palma",
+  "remitente": "Bernat Nadal",
+  "destinatario": "Cecilia Zaforteza y Sureda de Sant Martí",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Dna. Cecília {LAT. post salutem in Dno.}, V. m. em mana que doni a fer un ramerol d’escalfar aigua amplet i curiós de pes de meitat del que pesa el d’ací i de bona traça. El calderó d’ací pesa molt pel tur inseparable de la cendra que s'és incorporat, de forma que es pot fer un calderó que pesi la meitat i hi cabrà la mateixa aigua del d’ací, i així el calderer estimarà rebre si és sa meitat de pes vol dir la meitat més petit, això és, que hi càpiga la meitat d’aigua. Tots els senyors i senyores estan bons i els donen molts {ESP. recaudos} i em perdonaran un descuit i és que avisaren a esta casa de part dels nivios [?] Amengual, pel sarau d’avui i demà. Besa les mans a D. Francesc. Ciutat i octubre 18 de 1747. [En la izquierda, de arriba a abajo] Son menor capellà i servidor. Bernat Nadal, prevere, que la mà besa. gir fulla [En la otra página del documento, el destinatario][1§] A dona Cecilia Zaforteza i Sureda de Santmarti, guardi Déu molts anys. [2§]He vist D. Antoni Dameto, el més jove, qui té tota la rosa fora sense donar {ESP. cuidado} algú, i els besa la mà, i Dna. Beatriu amb els {ESP. demés} de casa els doni molts {ESP. recaudos}. Rebran 3 unces [de] pebre bo picat, els panyets i crec seran de son gust. Les frontissetes, 200 tatxes de gaverrot, un palm de veta color de musclo, una barrina doblera. El correu es partí dilluns el vespre, D. Joaquim, nòstron veïnat qui engegà les tercianes a palos, dimarts passat en tingué una des de les nou del matí fins a les 4 de la tarda. Ha pres palo i està bo. Jo estic desocupat, prompte i aparellat per anar a Sant Martí ara ja, si la calesa fos ací. D. Gabriel avui als 19 no té res de novetat i ell ha passat bé esta nit i els dóna molts {ESP. recaudos}. Diu mestre Martí que avui la finestra quedarà alliberada per posar-li al capelló la llinda. Déu guardi a v. m. molts anys. Ciutat i octubre 19 de 1747. Son menor capellà i servidor,Bernat Nadal, prevere, que la mà besa. Transcripción literal"
+  ],
+  "literal": [
+    "1. D. Cacília post salute in Dno. 2. VM em mane que don á fer un re- 3. merol de escalfar aigua amplet y 4. curios de pes de mitat de lo que pesa 5. el de esi y de bone trase, el caldero 6. de esi pesa molt per el tur inceperable 7. de la senra qui se es incarporat, de for- 8. ma que es pot fer un caldaro qui pes 9. la mitat y ey cabra la matexa aigua 10. de el de esi, y aixi el caldarer stime- 11. ra reber si el semitat de pes vol dir 12. la mitat mes petit, eso es que ey capi[?]- 13. a la mitat de aigua. Tots los Señors 14. y Señoras stan bons y los donen ms 15. redos y em perdoneran un descuit 16. y es que avisaren a esta Casa de part 17. de los Nivios Amangual, per el serau 18. de vuy y dema. B L M a D. Francesch 19. Ciutat y bre 18 de 1747. 20. [En la izquierda, de arriba a abajo ]21. Son menor capellà y Sdor. 22. Bernat Nadal Pre. 23. Q l[a] M[a] B 24. gir fulla [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "047-28aa.jpg",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo06/047-28aa.jpg",
+      "url": "/legajos/legajo-06/images/047-28aa.jpg"
+    },
+    {
+      "filename": "047-28ab.jpg",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo06/047-28ab.jpg",
+      "url": "/legajos/legajo-06/images/047-28ab.jpg"
+    },
+    {
+      "filename": "048-28b.jpg",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo06/048-28b.jpg",
+      "url": "/legajos/legajo-06/images/048-28b.jpg"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "047-28aa.jpg",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-06/cartas/000557.json",
+  "primary_image_url": "/legajos/legajo-06/images/047-28aa.jpg"
+}

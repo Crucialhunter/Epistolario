@@ -1,0 +1,38 @@
+{
+  "legajo_id": "27",
+  "id_carta": "4562",
+  "order_in_legajo": 33,
+  "signatura": "061:4371",
+  "nombre_carta": "Carta de Diego de Rocabertí a Persona desconocida",
+  "fecha_original": "12 de mayo de 1629",
+  "lugar": "Sant Feliu",
+  "remitente": "Diego de Rocabertí",
+  "destinatario": "Persona desconocida",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Pel primer portador no us he escrit per fer-ne plaer a mossèn Calders, per la segona tenia ja la carta dintre el meu i ell l'ha entreguada, dient aniaria mes segura dintre del seu. Jo pens que no obstant el que m'escriguéreu, no l'haureu rebuda. Escrivíem i ara no us torn a escriure que no hi ha firma de trobar res de bo per [?] en Perpinyà, perquè les noves de França sempre [?] m pitjors i no tenen en les [?] de reserva cosa al propòsit haurem de raure amb Barcelona ni saume [?] sinsleu [?] que ens envia una pòlissa de les cinquanta lliures per allà i aquí la tindré de fer. Les noves del duc de Maqueda he tingut per molt notables. La partida del duc de Cardona desitjo saber quan serà. Mossèn Calders estu [?] nat rei [?] de Conflent per un negoci vostre. Crec que no és vingut molt ben despatxat. Nostre Sr. vos guardi com pot i jo desitj, en Sant Feliu i maig a 12 de 1629. Don Diego de Rocaberti Transcripción literal"
+  ],
+  "literal": [
+    "1. Per lo primer portador nius escrigut per ferne pler a2. mosen Caldes, per lo segon tenia ja la carta dintra lo3. meu y ell lan trague dient aniaria mes segura dintra del4. seu yo pens que no obstant lo quem escriguere[u,n] laureu5. rebuda escriviam y ara nos torn escriurer que no yafir/6. ma detrobar res debo pernestirnos en perpina71 perquelas7. novas de fransa sempre [ ]m pijors y no tenen en las [bolofas?] de8. reserva cosa al proposit aurem de raurer ab barcelona ni9. saume [sinsleu?]72 quens envio una polisa de las sinquanta10. lliuras per alla ÿ aquí la tindre de fer las novas del11. duc de Maqueda e tingut per molt notables lapartida del12. duc de Cardona desijosaber quantsera. Mosen Caldeses[tu?]13. nat [rey?] de conflent per un negoci costro crech quenoes14. vingut molt ben despatxat Nostre Sr. nos guart com pot15. y jo desitx en St. Feliu y Matx a 12 de 162916. [Signatura] don [H?]eye de [R?]ocabuti [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "061:4371.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo27/061:4371.JPG",
+      "url": "/legajos/legajo-27/images/061:4371.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "061:4371.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-27/cartas/004562.json",
+  "primary_image_url": "/legajos/legajo-27/images/061:4371.JPG"
+}

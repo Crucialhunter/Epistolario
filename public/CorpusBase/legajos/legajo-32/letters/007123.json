@@ -1,0 +1,38 @@
+{
+  "legajo_id": "32",
+  "id_carta": "7123",
+  "order_in_legajo": 141,
+  "signatura": "161:1881.JPG",
+  "nombre_carta": "Carta de Diego Matías de Aragüés a Pedro Santacilia y Pax",
+  "fecha_original": "13 de mayo de 1665",
+  "lugar": "Madrid",
+  "remitente": "Diego Matías de Aragüés",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "No se ofrece que decir a v. s. por ahora sino saber si Jeronimo mi sobrino ha llegado acaso de v. s. remitiéndome en todo a su relación que hasta que se fue y llegó a Valencia tengo escrito a v. s. Los reyes estarán en Aranjuez según dicen hasta 20 de este, [?] muy bien y se dice la reina esta prenada en llegando aquí se tratara de la licencia de v. s. que estará también fijamte. el conde de Medellin. y de lo que hubiere daré aviso a v. s. El Sr. don Nicolas está muy bueno, y envío a pedir se le hicieran otros calzones del vestido delgado que se le hizo no he con adendido con su gusto porque ha refrescado y cesta mejor llevar el vestido de paño de Holanda que se le hizo también pª. ir a Aranjuez. No hay de nuevo que decir todo va a Portugual, y Caracena llego en Badajoz v. s. me mande le sirva que sus manos besamos Dña. Margarita y yo y las de mi Sra. Dña. Leonor y todos esos señores. muchas veces guarde Dios como deseo Madrid 13 mayo 1665. Besa la mano de v. s. su menor servidor Diego Matias de Aragues Sr. don Pedro Santacilia y Pax Transcripción literal"
+  ],
+  "literal": [
+    "1. No se offreze q. decir a VS. por agora 2. sino saver si Germo. mi sobrino ha 3. llegado acaso de VS. remitiendome en todo 4. a su relacion q. hasta q se fue y llego 5. a Valencia tengo escrito a VS. 6. Los Reyes estaran en Aranxuez segun 7. dicen hasta 20 deste, [?] muy bien 8. y se dize la Reyna esta prenada en 9. llegando aqui se tratara de la licencia 10. de VS. q. estara tambien fixamte. 11. el Sr. Conde de Medellin. Y de lo q. 12. hubiere dare aviso a VS. 13. El Sr. Don Nicolas esta muy bueno, 14. y embio a pedir se le hicieran otros 15. calzones del vestido delgado q. se le 16. hizo no he con adendido con su gusto 17. porq. ha refrescado y cesta mejor 18. llebar el vestido de paño de Olanda q se 19. le hizo tambien pª. hir a Aranxuez. 20. No ay de nuevo q. decir todo ba a Portu21. gual, y Carazena llego en Badaxoz 22. VS. me mande le sirva q. sus manos 23. vesamos Dª. Magta. y yo y las de mi Sra. 24. Dª. Leonor y todos esos SSes. muchas vezes 25. gde. Dios como deseo Md. 13 mayo 1665. 26. B. l. m. de Vs. s. m. s. 27. Diego Mathias de Aragues 28. Sr. Don Pedro Sta. Cilia y Pax [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "161:1881.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo32/161:1881.JPG",
+      "url": "/legajos/legajo-32/images/161:1881.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "161:1881.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (3)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-32/cartas/007123.json",
+  "primary_image_url": "/legajos/legajo-32/images/161:1881.JPG"
+}

@@ -1,0 +1,38 @@
+{
+  "legajo_id": "28",
+  "id_carta": "4772",
+  "order_in_legajo": 82,
+  "signatura": "122:3706.JPG",
+  "nombre_carta": "Carta de Juan Jerónimo Eraso a Pedro Santacilia y Pax",
+  "fecha_original": "23 de mayo de 1639",
+  "lugar": "Lanaja",
+  "remitente": "Juan Jerónimo Eraso",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Admirado y quejoso de que v. m. no se acuerde mandarme ni escribirme con la ocasión del mensajero, me atrevo a ser prolijo suplicando a v. m. se acuerde de este su más afecto sirviente y capellán de v. m., que los logros de mayor gusto serán los que tuviere del de v. m., a quien me gde. Dios tantos años como puede y deseo. En esta su casa de Lanaja, y mayo 23 de 1639. De v. m. que sus manos besa El licenciado Juan Per. Eraso Sr. D. Pedro de Santacilia. Transcripción literal"
+  ],
+  "literal": [
+    "1. Admirado y quejoso de que vm no se acuer2. de mandarme ni escrivirme con la3. ocasion del mensajero me atrevo a ser4. prolijo suplicando a vm se acuerde5. de este su mas afecto sirviente y cappe6. llan de vm que los logros de maior gusto7. seran los que tubiere del de vm, a qui8. en me gde. Dios tantos años como 9. puede y desseo en esta su casa de10. Lanaja y maio 23 de 1639.11. De vm q s. m. b.12. El Licendo. Juan Per. Erasso13. Sr. D. Pº. Sta. Cilia. [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "122:3706.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo28/122:3706.JPG",
+      "url": "/legajos/legajo-28/images/122:3706.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "122:3706.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-28/cartas/004772.json",
+  "primary_image_url": "/legajos/legajo-28/images/122:3706.JPG"
+}

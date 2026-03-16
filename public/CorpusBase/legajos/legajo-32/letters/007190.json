@@ -1,0 +1,43 @@
+{
+  "legajo_id": "32",
+  "id_carta": "7190",
+  "order_in_legajo": 189,
+  "signatura": "265:1948a",
+  "nombre_carta": "Carta de Nicolás de Santacilia y Togores a Persona desconocida",
+  "fecha_original": "6 de julio de 1666",
+  "lugar": "Mallorca",
+  "remitente": "Nicolás de Santacilia y Togores",
+  "destinatario": "Persona desconocida",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Pusome con mucho cuidado tu carta de 18 del pasado del frío con que me senialas se hallaba la señora emperatriz de Barcelona Dicen las cartas se estaba aún en denia con tercianas Dios se sirva de todo y avisame de lo que pasa porque ara no tenemos ningunas noticias. Solo aguardamos bergantín de Valencia y si te alcanza esta carta procura que cuando se entregue la emperatriz a la casa del emperador alguna carta suya de favor que eso puede hacer mucho acompanida también de alguna del duque de Albur quer que que me dicen ha de quedar en Italia y del marques de Laguardia aste mucho con el que hay obligaciones antiguas y su mujer es hija de la condesa de Medellin con que lo digo todo En caso tengas tanta entruducción que la señora emperatriz escriba la reina su madre que yo como hombre de hedad y servicios pueda disponer de mi oficio sea en favor de su hermano, o, suyo que tiene 3 años más y si te quiere favorecer que te lo den a ti, que es la pretensión que mejor te estuviere y con nombre de haber servido bien en la jornada, lo más lucido en Resulución esas cartas de favor parece que no importan y tal vez son mejores [1§] que dineros ni servicios cuando un hombre quiere servir fortuna Dios te la de y guarde muchos años como deseo y me importa. Mallorca 6 Julio 1666. Tu padre Mi hijo [2§] Transcripción literal"
+  ],
+  "literal": [
+    "1. Pusome con mucho cuydado tu carta de 18 del 2. passado del frio con que me senialas se hallava la señora 3. emperatriz de Barçelona Diçen las cartas se estava 4. aun en denia con terçianas Dios se sirva de todo 5. i havisame de lo que passa porque ara no tenemos 6. ningunas noticias. Solo aguardamos bergantin de 7. Valençia i si te alcança esta carta procura que 8. quando se entregue la emperatriz a la cassa del 9. emperador alguna carta suia de favor que esso 10. puede açer mucho acompanida tambien de alguna 11. del Sr. Duque de Alburquerque que me dicen a de que12. dar en Italia i del Sr. Marques de Laguardia aste mucho 13. con el que hay obligaciones antiguas y su muxer es hija 14. de la Condessa de Medellin con que lo digo todo = 15. En casso tengas tanta entruduction que la señora empera16. triz escriba la Reyna su madre que jo como hombre de 17. hedad y serviçios pueda disponer de mi officio sea en favor 18. de su hermano, o, suio que tiene 3 años mas y si 19. te quiere favoreçer que te lo den a ti,que es la pretension 20. que mexor te estubiere y con nombre de haver servido bien 21. en la jornada, lo mas lucido en Resulucion essas cartas 22. de favor pareçe que no importan i tal vez son mexores [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "265:1948a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo32/265:1948a.JPG",
+      "url": "/legajos/legajo-32/images/265:1948a.JPG"
+    },
+    {
+      "filename": "266:1948b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo32/266:1948b.JPG",
+      "url": "/legajos/legajo-32/images/266:1948b.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "265:1948a.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-32/cartas/007190.json",
+  "primary_image_url": "/legajos/legajo-32/images/265:1948a.JPG"
+}

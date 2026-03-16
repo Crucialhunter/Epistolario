@@ -1,0 +1,43 @@
+{
+  "legajo_id": "25",
+  "id_carta": "4101",
+  "order_in_legajo": 35,
+  "signatura": "067_135a.JPG",
+  "nombre_carta": "Carta de Pablo Corbella a Jerónimo Pelegrín de Aragüés",
+  "fecha_original": "13 de abril de 1667",
+  "lugar": "Càller (Cagliari)",
+  "remitente": "Pablo Corbella",
+  "destinatario": "Jerónimo Pelegrín de Aragüés",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Señor mío recibo su carta de v. m. de 8 de marzo con las buenas nuevas que me trae de su salud y de toda su casa que sea para muchos años. V. m. me tiene a su servicio para lo que me quisiere mandar que lo haré con todo gusto. Llegó la nave de San Jorge y el capitán Giuseppe Cordilla entregó a don Manuel de Sarabia de la persona que por su merced fue los limones y aceitunas que venían para mi Sr. con los que venían para dicho Sarabia con que fue todo a palacio y aunque es verdad que después me dijo don Manuel que enviase por mi parte no lo quise hacer sabiendo que había entrado en el cuarto de mi Sra. la virreina, pues la obligación de don Manuel era el habérmelo enviado a casa. En fin señor, yo le doy a v. m. muchas gracias como si lo hubiera recibido y está mejor empleado ahí que no en mi. Lo cierto es que si todo hubiera venido a mi mano hubiera llevado con puntualidad su parte a don Manuel porque en casa no hay damas que apetezcan las cosas. Estimo mucho las novedades que v. m. me participa de lo que pasa en España y le suplico lo continue que es el mejor rato que aquí tenemos. De aquí no hay novedad de que avisar, solo que estos días han estado aquí 18 bajeles ingleses que pasan a levante y hoy se han hecho a la Bala proseguiendo [1§] su viaje. Dios se les bueno y a v. m. guarde en toda felicidad como deseo. Cáller y abril 13 de 1667. Beso a v. m. las manos. Su Amigo más servidor Pablo Corbella Esa carta para el regente Martorell v. m. se la dé al señor secretario Petillas y que me perdone que no tengo lugar de escribirle, será en otra ocasión. Cáller, D. Pablo Corbella de 13 de abril 1667, tiene respuesta a 3 de mayo de dicho. Jeronimo Pelegrin de Aragues. Transcripción literal"
+  ],
+  "literal": [
+    "1. Señor mío recivo su carta de Vm de 8 de Marzo con las2. buenas nuebas que me trae de su salud y de toda su cassa3. que sea para muchos años, Vm me tiene a su serbicio4. para lo que me quisiere mandar que lo are con todo5. gusto= llegó la nabe de san Jorge y el capn. Jussepe6. Cordilla entregó a don Manuel de Sarabia de la persona7. que por su md. fue los limones y aceytunas que venían8. para mi con los que venian para dicho Sarabia con9. que fue todo a palacio y aunque es verdad que des10. pues me dixo don Manuel que imbiasse por mi parte no lo11. quisse haçer sabiendo que avia entrado en el quarto12. de mi Sra. la ViReyna pues la obligacion de Don Manuel era13. el avermelo imbiado a cassa en fin señor yo le doy a Vm.14. muchas gracias como si lo ubiera recivido y esta mexor15. empleado ahi que no en mi lo cierto es que si todo ubie16. ra venido a mi mano ubiera llebado con puntualidad17. su parte don Manuel porque en cassa no ay damas que18. apetezcan las cossas=19. Estimo mucho las nobedades que Vm. me participa de lo20. que passa en españa y le suplico lo continue que es el me21. xor rato que aqui tenemos=22. De aqui no ay nobedad de que avissar solo queestos dias23. han estado aqui 18 baxeles inglesses que passan24. a lebante y oy se han hecho a la Bala proseguiendo [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "067_135a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo25/067_135a.JPG",
+      "url": "/legajos/legajo-25/images/067_135a.JPG"
+    },
+    {
+      "filename": "068_135b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo25/068_135b.JPG",
+      "url": "/legajos/legajo-25/images/068_135b.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "067_135a.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (4)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-25/cartas/004101.json",
+  "primary_image_url": "/legajos/legajo-25/images/067_135a.JPG"
+}

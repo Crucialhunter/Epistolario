@@ -1,0 +1,43 @@
+{
+  "legajo_id": "4",
+  "id_carta": "478",
+  "order_in_legajo": 32,
+  "signatura": "038-17a",
+  "nombre_carta": "Carta de Martín de Landicar a Sebastiany Baueza",
+  "fecha_original": "1 de enero de 1663",
+  "lugar": "Mallorca",
+  "remitente": "Martín de Landicar",
+  "destinatario": "Sebastiany Baueza",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "En diferentes ocasiones tengo escrito a v. m. y dicho que de las alcaparras que recibieron del patrón Lucas Estarellas y Jerónimo Castany el año pasado de cuenta del Sr. Leonard Burgues del hábito de Calatrava las vendiesen y siguiesen la orden que dichos les diere, que pues han tenido despacho de galeones y flota, habrán pagado de buena venta, y confirmo lo dicho ya en otras, y paréceme que dichos junto con estado la orden de v. m. deben seguir, que la cumplirán puntualmente, que como escribí desde Málaga con dichas dos embarcaciones es caballero que merece toda atención, y que yo le debo mucho y estimaré, que ya que tarde quede gustoso. El Señor guarde a v. m. muchos años. Mallorca y enero a primero de 1663. Martin de Landicar. Sr. Sebastian y Juan Bautista y Maricon. [1§] A Sebastian y Juan Bautista Maricon. El Sr. guarde. Cádiz Transcripción literal"
+  ],
+  "literal": [
+    "1. En diferentes ocasiones tengo escrito a Vm<>. 2. y dho que delas Alcaparras que reçivieron 3. del Patron Lucas estarellas j Geronimo Castany 4. el año passado de quenta del S. Leonardt Burgues 5. del abito de Calatrava las vendiesen j siguie 6. sen la orden en que dhos. les diere, que pues an 7. tenido despacho dejaleones j flota, habran- 8. ggado de buena venta, j confirmo lodho 9. ya enotras, y pareçeme que dhos. junto 10. con estado la orden de Vm< >. deven seguir 11. que la cumpliran puntualm< >: que como 12. escrevj des de Malaga con dhos dos 13. embarcaçiones es cavallero que mereçe 14. toda atençion, j quejole devo mucho 15. j estimare, quejaque tarde quede prousso 16. El. ñ. g. aV.m< >. muchos años Mall< [a]17. > 18. j hen< >. alg< >. de1663. Martin de Landicar 19. S< >. Sebastian Bautta j Ju. Maricon. [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "038-17a.jpg",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo04/038-17a.jpg",
+      "url": "/legajos/legajo-04/images/038-17a.jpg"
+    },
+    {
+      "filename": "039-17b.jpg",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo04/039-17b.jpg",
+      "url": "/legajos/legajo-04/images/039-17b.jpg"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "038-17a.jpg",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-04/cartas/000478.json",
+  "primary_image_url": "/legajos/legajo-04/images/038-17a.jpg"
+}

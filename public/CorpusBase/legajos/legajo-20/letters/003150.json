@@ -1,0 +1,38 @@
+{
+  "legajo_id": "20",
+  "id_carta": "3150",
+  "order_in_legajo": 25,
+  "signatura": "027:5931.JPG",
+  "nombre_carta": "Carta de Jerónimo Mancho a Pedro Santacilia y Pax",
+  "fecha_original": "5 de agosto de 1655",
+  "lugar": "Madrid",
+  "remitente": "Jerónimo Mancho",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Hoy he recibido su carta de v. m. en que se sirve mandarme tenga la pretensión de v. m. por mira, y no necesitaría v. m. de acordarme esta obligación cuando la reconozca por tan pia. Ojalá que yo me hallara con alguna mano para poder dar a v. m. la enhorabuena de este [?], pero mucho se tiene andado con servir el ínterin sin entrar en los muchos servicios de v. m. Sólo advierto a v. m. que no será desacertado que el visitador esté bien con v. m. , pues aunque toca al Sr. virrey la calificacion de los que ha de proponer no hará ningún daño el que por el otro lado venga v. m. con las que merezca. Esto me ha parecido advertir a v. m. aunque no tengo más motivo para ello que el deseo de servir a v. m., que guarde Dios muchos años como deseo. Madrid a 28 de Julio 1653. Muy servidor de v. m. Jeronimo Mancho Sr. don Pedro Santacilia y Pax. Transcripción literal"
+  ],
+  "literal": [
+    "1. Oy he recebido su carta de V. m. en q se sirve 2. mandarme tenga la pretension de V. m. por 3. mira, y no necesitaria V. m. de acordarme esta 4. obligacion quando la reconozca por tan ppia 5. ojala que yo me hallara con alguna mano 6. para poder dar a V. m. la norabuena deste 7. luego, pero mucho se tiene andado con servir 8. el interim sin entrar en los muchos servicios 9. de V. m., solo advierto a V. m. que no sera 10. desacertado q el Visitador este bien con V. m. 11. pues aunque toca al Sr. Virrey la calificacion 12. de los q ha de proponer no hara ningun daño 13. el que por el otro lado venga Vm. con las 14. que merezca, esto me ha parecido advertir a V. m. 15. aunque no tengo mas motivo para ello que el 16. deseo de servir a Vm. q Gde. Dios muchos 17. años como desseo Madrid a 28 de Julio 1653 18. Muy servor. de Vm 19. Geronymo Mancho 20. Sr. Don Pº. Santacilia y Pax. [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "027:5931.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo20/027:5931.JPG",
+      "url": "/legajos/legajo-20/images/027:5931.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "027:5931.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-20/cartas/003150.json",
+  "primary_image_url": "/legajos/legajo-20/images/027:5931.JPG"
+}

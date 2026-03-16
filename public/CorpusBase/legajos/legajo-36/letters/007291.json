@@ -1,0 +1,56 @@
+{
+  "legajo_id": "36",
+  "id_carta": "7291",
+  "order_in_legajo": 30,
+  "signatura": "056:7766a.JPG",
+  "nombre_carta": "Carta de Pedro Santacilia y Pax a Rafael Vives García",
+  "fecha_original": "4 de junio de 1627",
+  "lugar": "Mallorca",
+  "remitente": "Pedro Santacilia y Pax",
+  "destinatario": "Rafael Vives García",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Â Â Â Â Transcripción literal"
+  ],
+  "literal": [],
+  "imagenes": [
+    {
+      "filename": "056:7766a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo36/056:7766a.JPG",
+      "url": "/legajos/legajo-36/images/056:7766a.JPG"
+    },
+    {
+      "filename": "057:7766b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo36/057:7766b.JPG",
+      "url": "/legajos/legajo-36/images/057:7766b.JPG"
+    },
+    {
+      "filename": "058:7766c.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo36/058:7766c.JPG",
+      "url": "/legajos/legajo-36/images/058:7766c.JPG"
+    },
+    {
+      "filename": "059:7766d.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo36/059:7766d.JPG",
+      "url": "/legajos/legajo-36/images/059:7766d.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "056:7766a.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (13)",
+      "context": {}
+    },
+    {
+      "code": "MISSING_LITERAL",
+      "message": "Transcripción literal vacía",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-36/cartas/007291.json",
+  "primary_image_url": "/legajos/legajo-36/images/056:7766a.JPG"
+}

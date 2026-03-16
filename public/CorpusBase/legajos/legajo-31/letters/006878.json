@@ -1,0 +1,38 @@
+{
+  "legajo_id": "31",
+  "id_carta": "6878",
+  "order_in_legajo": 120,
+  "signatura": "170:1629.JPG",
+  "nombre_carta": "Carta de Bartolomé Mercadal a Pedro Santacilia y Pax",
+  "fecha_original": "22 de octubre de 1661",
+  "lugar": "Ciutadella",
+  "remitente": "Bartolomé Mercadal",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Sor. Por. real mi senyor A aquest matí som arribat de visitar a V. Sra. del [?] per havero promès tots els anys, i he trobat la barca de patró Bover que era arribada de Maó i volia per [?] per aqueix moll i donem tanta presa que no tinc lloc d'escriure llargament sobra alguns negocis; i sols fos estos renglos per dir a v. s. que per dit patró rebrà 4 melons sindries que és fruita que carexMallorca i per fer-me mercè ne farà part a mi Sra. Sra. Dna. Leonor la menorquina perquè entenga que és [?] en millor terra que no Mallorca no té d'aqueixa fruita i entretant servirà d'entreteniment, i se els que jo feria previnguts ens fossin podrits feren estats 9 dotzenas i hauria v. s. pogut regalar amics seus com [?] desig de servir a v. s. que em guardi Déu en vida de mi Sra. Leonor sa muller com pot i tinc menester Ciuª i octubre 22 de 1661 servidor de v. s. que ses mans besa don Bart Mercadal Transcripción literal"
+  ],
+  "literal": [
+    "1. Sor. Por. Real my Señor 2. Aquest mati som arribat de visitar a V. Sª. del 3. ?? per havero promes tots los anys, y he 4. trobat la barca de patro Bover que era 5. arribada de Maho y volia per [?] per 6. aquex moll y donem tanta presa que 7. no tinch lloch de scriura llargament sobra 8. alguns negosis; y sols fos estos ringlos 9. per dir a VS. que per dit patro rebra 4 10. melons sindrias que es fruita de que ca11. rex Mallca y per ferma md ne fera 12. part a my Sª. D. eleonor la menorquina 13. per que entenga que es [?] en millor 14. terra que no Mallca no te de aque15. xa fruita y entretant servira de entre16. teniment, y se los que yo feria previnguts 17. nos fosen podrits feren estats 9 dotzenas 18. y hauria VS pogut regalar amichs 19. seus com [?] desig de servir a VS quem 20. gde Deu en vida de mi Sª. eleonor 21. se muller com pot y tinch menester Ciuª 22. y 8bre 22 de 1661 Sdor de VS q s m b 23. Don Bartt Mercadal [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "170:1629.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo31/170:1629.JPG",
+      "url": "/legajos/legajo-31/images/170:1629.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "170:1629.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-31/cartas/006878.json",
+  "primary_image_url": "/legajos/legajo-31/images/170:1629.JPG"
+}

@@ -1,0 +1,43 @@
+{
+  "legajo_id": "28",
+  "id_carta": "4702",
+  "order_in_legajo": 5,
+  "signatura": "017:3635a.JPG",
+  "nombre_carta": "Carta de condesa de Zavellá a Pedro Santacilia y Pax",
+  "fecha_original": "30 de marzo de 1627",
+  "lugar": "Vallmoll",
+  "remitente": "condesa de Zavellá",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Amb la carta del comte veurà v. m. pel que va est propi. Per amor de Déu que m'escriguin son parer amb molts grans veres, que si sabessin els treballs que jo pas me tindrien llàstima. Gran falta me fa v. m. per ací. Si amb seguretat se pugui prendre la volada, la hi pregaria molt encaridament. Li vull dir que si li sagia ninguna cosa jo me moriré de pena i d'escru [?] més fa tan gran falta en aquest minyó que no es pot encarir, [margen izquierdo] Santacilia. [1§] en particular en esta ocasió que totes las coses vol que passin tan precipitades i desbaratades que sempre ha menester qui li vagi a la mà. I com v. m. li és tan accepte i el creu, seria una gran cosa. Déu sia lloat de tot i encamin totes les coses a son servei, i guardi a v. m. com jo desig. . Vallmoll, a 30 de març de 1627. La comtessa de Zavella. Transcripción literal"
+  ],
+  "literal": [
+    "1. Ab la carta del comta veura2. vm per lo que va est propi3. pera mor de deu quem escri4. gan son parer am molts5. grans veras que si sabesan6. los treballs que jo pas me7. tindrian llastima, gran8. falta me fa v.m perasi9. si ab seguratat se puges10. pendra la volada lai pre11. garia molt encarida ment12. nlei vull dir que si li sagia13. ninguna cosa jo me morir[i]a14. de pena y de escru [?] mes15. fa tan gran falta en aquest16. minyo que nos pot encarer17. [margen izquierdo] 18. Santacilia [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "017:3635a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo28/017:3635a.JPG",
+      "url": "/legajos/legajo-28/images/017:3635a.JPG"
+    },
+    {
+      "filename": "018:3635b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo28/018:3635b.JPG",
+      "url": "/legajos/legajo-28/images/018:3635b.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "017:3635a.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-28/cartas/004702.json",
+  "primary_image_url": "/legajos/legajo-28/images/017:3635a.JPG"
+}

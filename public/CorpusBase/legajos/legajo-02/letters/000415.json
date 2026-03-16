@@ -1,0 +1,37 @@
+{
+  "legajo_id": "2",
+  "id_carta": "415",
+  "order_in_legajo": 5,
+  "signatura": "06-4a",
+  "nombre_carta": "Carta de Josep Pons a Gregorio Quint Zaforteza",
+  "fecha_original": "3 de mayo de 1711",
+  "lugar": "Sóller",
+  "remitente": "Josep Pons",
+  "destinatario": "Gregorio Quint Zaforteza",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Mi senyor don Gregori aquí rebrà les confrontes de l'Arrom i de la Coma que m’ha dictades el Vicens Ensenyat, el qual per quan sia ocasió diu sap totes les creus. Aquí sols falta que quan en el Barranc sols hagi dels poseïdors del Barranc Josep Cor. [?] Advertint que el qui és al Barranc té diferents confronts, els que no estan continguts en el paper, dels quals si son necessaris avisarà. En el demés de son gust, avisarà. Sols voldria m’escrigués l'estat de la malaltia del doctor Marroig. Déu el guardi. Sa casa i Sóller, maig als 3 de 1711. Son menor capellà i frare. El doctor Josep Pons, prevere. [1§] Al senyor don Gregori Zaforteza. Sacristà i canonge de La Catedral. Guardi Déu. Ciutat. Gregorio Quint Zaforteza i d'Oleza Transcripción literal"
+  ],
+  "literal": [
+    "1. Mi Sr. don Gregori aqui rabra las confrontes 2. de lo Arrom y da la Come q< u>e me ha dicta 3. des Al vicens Encenyat lo qual p< e>r quant sia 4. ocasio diu sap totas las creus a qui sols fal 5. ta q< u>e quant en el Barranch sols aya da 6. los posaydors del Barranch Juceph Cor [?]7. Advartint q< u>e lo qui as al Barranch te di 8. farents confronts als q< u>e no stan continguts 9. en al paper, de los quals si son Nasasaris 10. avisara En lo de mes de son gust, avisarà 11. Sols voldria me scrigues lo stat dela Ma 12. laltia del Dr. Marroig Deu lo g< uar>da Se Case 13. y Soller Maig als 3 de 171114. 15. Son Menor Capella y Fr< are>16. El Dr. Juceph Pons pre< vere>. 17. [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "06-4a.jpg",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo02/06-4a.jpg",
+      "url": "/legajos/legajo-02/images/06-4a.jpg"
+    },
+    {
+      "filename": "06-4b.jpg",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo02/06-4b.jpg",
+      "url": "/legajos/legajo-02/images/06-4b.jpg"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "06-4a.jpg",
+  "warnings": [],
+  "raw_source": "raw/legajos/legajo-02/cartas/000415.json",
+  "primary_image_url": "/legajos/legajo-02/images/06-4a.jpg"
+}

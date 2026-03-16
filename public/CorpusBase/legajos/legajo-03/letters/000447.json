@@ -1,0 +1,43 @@
+{
+  "legajo_id": "3",
+  "id_carta": "447",
+  "order_in_legajo": 12,
+  "signatura": "19-10a",
+  "nombre_carta": "Carta de Jerónimo Mancho a Juan Miguel de Santacilia y Togores",
+  "fecha_original": "20 de diciembre de 1662",
+  "lugar": "Madrid",
+  "remitente": "Jerónimo Mancho",
+  "destinatario": "Juan Miguel de Santacilia y Togores",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Señor mío, recibo su carta de vuestra merced con el aviso de su llegada a ese reino, que me he holgado haya sido con tanta brevedad y con tan favorable viaje y que haya hallado vuestra merced al señor don Pedro con salud, que no dudo que en su compañía ha de mejorar vuestra merced de sus achaques. Vuestra merced le diga que por no cansarle no le escribo, y que me holgaré tenga muy alegres pascuas y que, pues vuestras mercedes saben la obligación que me corre de servirles, suplico me den muchas ocasiones en que pueda mostrarlo. Dios guarde a vuestra merced muchos años. Madrid, 20 de diciembre 1662. Beso las manos de vuestra merced, su más seguro servidor, Jeronimo Mancho Señor don Juan de Santacilia. [1§] Madrid, 20 diciembre 1662. De don Jeronimo Mancho. Recibida a 28 febrero, 1663. Transcripción literal"
+  ],
+  "literal": [
+    "1. Sr. mio Recivo su carta de vm con el aviso2. de su llegada a esse Reyno, que me he olgado haya3. sido con tanta brevd y con tan favorable viaje4. y que haya hallado Vm al Sr Don Po con5. salud, que no dudo, que ensu compañia ha 6. de mexorar Vm de sus achaques Vm le 7. diga que por no cansarle no le escrivo y que8. me olgare tenga muy alegres Pasquas y9. que pues Vms saven la obligacion que10. me corre de servirles supo me den muchas 11. occasiones en que pueda mostrarlo. Dios gde 12. a Vm mucs añs. Md 20 de Dize13. 166214. B l m de Vm 15. su mas seguro ser16. Geronymo Mancho [?]17. Sr. Don Juan de Sta Cilia [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "19-10a.jpg",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo03/19-10a.jpg",
+      "url": "/legajos/legajo-03/images/19-10a.jpg"
+    },
+    {
+      "filename": "20-10b.jpg",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo03/20-10b.jpg",
+      "url": "/legajos/legajo-03/images/20-10b.jpg"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "19-10a.jpg",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-03/cartas/000447.json",
+  "primary_image_url": "/legajos/legajo-03/images/19-10a.jpg"
+}

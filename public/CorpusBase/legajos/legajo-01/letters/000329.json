@@ -1,0 +1,57 @@
+{
+  "legajo_id": "1",
+  "id_carta": "329",
+  "order_in_legajo": 21,
+  "signatura": "052-221a",
+  "nombre_carta": "Carta de Andrés García de Castro a Jerónimo Pelegrín de Aragüés",
+  "fecha_original": "13 de septiembre de 1667",
+  "lugar": "Valencia",
+  "remitente": "Andrés García de Castro",
+  "destinatario": "Jerónimo Pelegrín de Aragüés",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Amigo y señor mío,",
+    "Muy cuidadoso me tiene el no haber merecido a vuestra merced en diferentes pasajes que han venido de esa isla carta suya, cuando yo no he faltado a mi obligación en escribir a vuestra merced en todas ocasiones, menos las que ha habido en el tiempo que nos hemos detenido en la visita de Molviedro. Ahora estamos ya de asiento en este lugar y yo siempre tan al servicio de vuestra merced como debo, deseando merecerle más empleos del que acrediten mi obediencia y reconocimiento. Dios guarde a vuestra merced largos años.",
+    "Valencia y septiembre, a 13 de 1667.",
+    "Besa sus manos su mayor servidor,",
+    "Don Andres Garcia de Castro.",
+    "Señor Jeronimo Pelegrin de Aragues, mi amigo y señor.",
+    "[1§] Valencia. Don Andres Garcia de Castro. Tiene respuesta a 24 de octubre 1667."
+  ],
+  "literal": [
+    "1. Amigo y S mio muy cuydadoso me tiene el",
+    "2. no haver merecido a V.m. en diferentes pasajes",
+    "3. que an venido de essa Isla carta suya quando",
+    "4. yo no hefaltado ami obligacion en escrivir a Vm",
+    "5. en todas ocaciones menos las que ha avido",
+    "6. en el tiempo que nos hemos detenido enla",
+    "7. Visita de Molviedro, aora estamos ya de asiento",
+    "8. eneste lugar y yo siempre tan al servicio",
+    "9. deVm como devo deseando merecerle m[a]s en",
+    "10. pleos del que acrediten mi obediencia y re",
+    "11. conocimiento. Dios gde aVm largos añs Vala",
+    "12. y setie a 13 de 1667.",
+    "13. B l m su mayor sdor",
+    "14. Don Andres Garcia de castro",
+    "15. Sr Gmo Pelegrin de Aragues mi amigo y Sr [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "052-221a.gif",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo01/052-221a.gif",
+      "url": "/legajos/legajo-01/images/052-221a.gif"
+    },
+    {
+      "filename": "053-221b.gif",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo01/053-221b.gif",
+      "url": "/legajos/legajo-01/images/053-221b.gif"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "052-221a.gif",
+  "warnings": [],
+  "raw_source": "raw/legajos/legajo-01/cartas/000329.json",
+  "primary_image_url": "/legajos/legajo-01/images/052-221a.gif"
+}

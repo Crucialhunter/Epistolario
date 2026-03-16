@@ -1,0 +1,43 @@
+{
+  "legajo_id": "31",
+  "id_carta": "6883",
+  "order_in_legajo": 125,
+  "signatura": "178:1634a.JPG",
+  "nombre_carta": "Carta de Bartolomé Mercadal a Pedro Santacilia y Pax",
+  "fecha_original": "14 de noviembre de 1661",
+  "lugar": "Ciutadella",
+  "remitente": "Bartolomé Mercadal",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Transcripción literal"
+  ],
+  "literal": [
+    "1. 1."
+  ],
+  "imagenes": [
+    {
+      "filename": "178:1634a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo31/178:1634a.JPG",
+      "url": "/legajos/legajo-31/images/178:1634a.JPG"
+    },
+    {
+      "filename": "179:1634b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo31/179:1634b.JPG",
+      "url": "/legajos/legajo-31/images/179:1634b.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "178:1634a.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-31/cartas/006883.json",
+  "primary_image_url": "/legajos/legajo-31/images/178:1634a.JPG"
+}

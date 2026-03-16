@@ -1,0 +1,48 @@
+{
+  "legajo_id": "9",
+  "id_carta": "988",
+  "order_in_legajo": 23,
+  "signatura": "015-10a",
+  "nombre_carta": "Carta de Diego Álvarez a Arnau de Santacilia",
+  "fecha_original": "1 de marzo de 1674",
+  "lugar": "Milán",
+  "remitente": "Diego Álvarez",
+  "destinatario": "Arnau de Santacilia",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Amígo y señor, Recibo la de v. m. que para mí ha sido de mucho gusto el saber goza de entera salud. Me holgaré sea por el advenir y con el retorno a este país que este su servidor le desea. Ya habrá v. m. recibido mi carta en que le daba parte [de] haber entregado las ocho doblas de España a d. Josep Meor y asimismo como le socorro al capitán d. Francisco Villalonga con todo lo que me pide tomando su recibo y así lo haré en lo venidero. De su alférez de v. m. ni de su sargento no he tenido carta ninguna [en] dos correos, a no ser que sea la causa se decía que a fin de febrero se había [1§] de pasar muestra, pero no se ha hecho. Puede ser que [?] a fin de marzo. La carta remití a Lodi y asimismo la del sargento mayor Bellin a Carmona. Las novedades de aquí son que ha marchado el general de la caballería al gobierno de Alejandría y asimismo ha marchado la compañía de Jaime Samper y de Antonio Barquer de Coronado a Alejandría y algunas compañías de infantería italiana y alemanas a dicha ciudad. Tambien se ha reforzado el presidio de Novara habiendo entrado las dos compañías que estaban en Arona, que son la de d. Ignacio de Echevarría [?] y la del conde de Pozuelo y asimismo la de d. Josep Mestra [?], que estará en Loma y la compañía del sargento [2§] mayor de alemanes que estaba en lo de marcho a Novara y la compañía de d. Feliu de Castro y de d. Mateo de Isasi ha marchado a Arona. Y todas estas prevenciones han sido por haberse tenido noticia que el señor duque de [?] hacia alguna junta de gente conque ha sido necesario hacer estas prevenciones. Se marchó el martes 29 de febrero a visitar la plaza de Pavía y volverá a esta ciudad hoy jueves. De aquí marchan treinta hombres de cada compañía de italianos de infantería a Borgoña y asimismo dicen marcharán doscientos caballos nombrando dos capitanes de los de esta caballería. Transcripción literal"
+  ],
+  "literal": [
+    "1. A[m]ígo y Señor reçibo lade Vmd. queparamí 2. asido de mucho gusto el saber gozade en3. tera salud. Meolgare sea por eladu4. nir y Conel retorno aeste país quees 5. te Suservidor ledessea 6. Yaabra Vmd. Rezibido Mi Carta enque 7. ledava parte aver entregado las ocho 8. doblas de españa a D Josef Meor y 9. asi mismo Como lesocorro al Capn D 10. franco Billalonga Con todo lo queme 11. pide tomando surezívo y así lo are 12. enlo venidero desu alfz de Vmd. nide 13. Su Sargto noetenído Cartanínguna 14. Dos correos á nose que sea la Causa 15. Sedeçía q[u]e a fin de febreo se avia [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "015-10a.jpg",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo09/015-10a.jpg",
+      "url": "/legajos/legajo-09/images/015-10a.jpg"
+    },
+    {
+      "filename": "016-10ba.jpg",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo09/016-10ba.jpg",
+      "url": "/legajos/legajo-09/images/016-10ba.jpg"
+    },
+    {
+      "filename": "016-10bb.jpg",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo09/016-10bb.jpg",
+      "url": "/legajos/legajo-09/images/016-10bb.jpg"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "015-10a.jpg",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-09/cartas/000988.json",
+  "primary_image_url": "/legajos/legajo-09/images/015-10a.jpg"
+}

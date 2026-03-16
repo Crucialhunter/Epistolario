@@ -1,0 +1,38 @@
+{
+  "legajo_id": "31",
+  "id_carta": "7016",
+  "order_in_legajo": 255,
+  "signatura": "377:1767.JPG",
+  "nombre_carta": "Carta de Luis de Aragón (VII duque de Cardona) a Pedro Santacilia y Pax",
+  "fecha_original": "8 de diciembre de 1664",
+  "lugar": "Madrid",
+  "remitente": "Luis de Aragón (VII duque de Cardona)",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Hallamonos en el estado que v. s. nos dejo, sin que la llegada de los señores condes de Peñaranda y marques de Caracena las haya alterado, con que al pueblo se le a desbanecido sus discursos. a mi solo me inquietan mis achaque es estos días los estoy padeciendo, sin ellos y con ellos al servicio. de v. s. a quien Nuestro Señor de alegres pascuas y tiempo nuevo haceme envidia v. s. que le ha tenido para hacer su gusto ya hora milagros, mis deseos son y serán querer estar en la memoria de v. s. que soy su servidor. al Sr. conde de la Formiguera beso las manos digaselo v. s. que que de suyo. Guarde Dios a v. s. largos años Madrid a 8 de diciembre de 1664. [?] Servidor Luis de Aragón Transcripción literal"
+  ],
+  "literal": [
+    "1. Hallamonos en el estado que VS. nos dejo, sin que la 2. llegada de los señores condes de Peñaranda y Marques 3. de Caraçena las aya alterado, con que al Pueblo se le a desba4. neçido sus discursos. a mi solo me inquietan mis achaques 5. estos dias los estoy padeçiendo, sin ellos y con ellos al servº. 6. de VS. a quien nro señor de alegres Pasquas y tiempo 7. nuevo = hazeme imbidia VS. que le atenido para hazer 8. sugusto ya ora milagros, mis deseos son y seran querer 9. estar en la memoria de VS. que soy su servidor. al Sor. 10. Conde de la formiguera beso las manos digaselo VS. que que 11. de suyo. gde Dios a VS. largos años Madrid a 8 de Dize. 12. de 1664. 13. ?? 14. ?? Servidor 15. Luis de Aragon [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "377:1767.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo31/377:1767.JPG",
+      "url": "/legajos/legajo-31/images/377:1767.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "377:1767.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-31/cartas/007016.json",
+  "primary_image_url": "/legajos/legajo-31/images/377:1767.JPG"
+}

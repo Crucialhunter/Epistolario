@@ -1,0 +1,78 @@
+{
+  "legajo_id": "21",
+  "num_cartas": 311,
+  "num_imagenes": 537,
+  "rango_temporal": [
+    1611,
+    1669
+  ],
+  "remitentes_frecuentes": [
+    {
+      "name": "Pedro Fajardo de Requeséns-Zúñiga y Pimentel (V marqués de los Vélez)",
+      "count": 32
+    },
+    {
+      "name": "Francisco Sureda y Vivot",
+      "count": 11
+    },
+    {
+      "name": "marqués de Torreguso",
+      "count": 10
+    },
+    {
+      "name": "Persona desconocida",
+      "count": 8
+    },
+    {
+      "name": "Mateo Zanglada",
+      "count": 6
+    }
+  ],
+  "destinatarios_frecuentes": [
+    {
+      "name": "Pedro Santacilia y Pax",
+      "count": 272
+    },
+    {
+      "name": "Persona desconocida",
+      "count": 34
+    },
+    {
+      "name": "Pedro Guardián",
+      "count": 1
+    },
+    {
+      "name": "Miquel de Torrelles i Setmenat",
+      "count": 1
+    },
+    {
+      "name": "Domingo Abat Demescar",
+      "count": 1
+    }
+  ],
+  "lugares_frecuentes": [
+    {
+      "name": "Mallorca",
+      "count": 87
+    },
+    {
+      "name": "Pamplona",
+      "count": 41
+    },
+    {
+      "name": "Madrid",
+      "count": 36
+    },
+    {
+      "name": "Barcelona",
+      "count": 26
+    },
+    {
+      "name": "Tolosa",
+      "count": 21
+    }
+  ],
+  "temas_frecuentes": [],
+  "warnings_count": 140,
+  "densidad_narrativa_estimada": "Media"
+}

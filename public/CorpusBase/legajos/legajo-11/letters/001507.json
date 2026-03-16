@@ -1,0 +1,43 @@
+{
+  "legajo_id": "11",
+  "id_carta": "1507",
+  "order_in_legajo": 265,
+  "signatura": "467:5362a.JPG",
+  "nombre_carta": "Carta de Baltasar Cupí a Pedro Santacilia y Pax",
+  "fecha_original": "22 de abril de 1665",
+  "lugar": "El Grau de Valencia",
+  "remitente": "Baltasar Cupí",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "JesúsMi Sr. don Pedro Amb esta m'ha aperegut a besar les mans a vostra senyoria fent-li a saber com la mia salut és bona així se va la de vostra senyoria i com jo desitj per a m'ho de Barcelona li escriguí una carta no sé si laura rebuda avisant-lo pel que era cadat de les galeres en quany gordar-me de mal pel tant son cadat perquè que teni em gran tribulasions i desententos perquè cada dia havíem d'estar en les armes en les manos perquè en havíem preseos de teme el virrei a la gent de guerra que cada dia donant a les han l'ateliano i la gent de la trerra cuantra nosaltres i així per no dar un desetent amb el Sr. don Paulo i a vostra senyoria me som cadat Espanya suplicant a vostra senyoria que em perdoni de l'atreviment que he tingut no per anar privonetjant pel mon sono treballar com se pugui suplicant a vostra senyoria que faci del que per a haver-me gràcia de veure fi podré anar a Mallorca perquè vaiz pel mon i pot ser cun dia descuida demint tocam ana queixy la no venir a mans de justícia ara principiam d'anar aviaje a hora en el capità Miquel Meice iaixíau faig a saber a vostra senyoria i quan no guste del que li envuy demanar de la gratie d'anar a Mallorca me'n avui la resposta que vullgue i me'n avui a dir que faci que me'n nire allà on molt gust li sia sols per no ver-lo d'enfe dar a vostra senyoria que jo sempre som molt criat i servidor en quant me manarà no dic més que nostre el guardi molts anyos del Grau de València a Avui als 22 d'abril de 1667 Baltasar Cupi criat de vostra senyoria [1§] a mi senyor don Pedro Santacilia procurador rejal de l'illa de Mallorca que Dios guardi en Mallorca [2§] Transcripción literal"
+  ],
+  "literal": [
+    "1. [^Jesus^]2. [^Mi sr. don Pedro^] 3. Ab esta me ha aperegut a besar las mans a vosa señoria 4. fentli a seber com la mia salut es bone axi sua la de vosa señoria 5. y com jo desige per a mo de Barçalona li escrigui une carte 6. no se si laura rebude avisantlo per lo que era cadat de las galeras 7. en quany gordarme de mal per lo tant son cadat perque que teni em 8. gran tribulasions y desententos perque cade dia aviem de estar 9. en les armes en las manos perque en aviam preseos de teme el virrey 10. a la gent de guerra que cade dia donant a les an el ateliano y 11. le gent de la trerra cuantra nosaltros y axi per no dar 12. un desetent an el sr. don Paulo y a vose señoria me som cadat España 13. soplicant a vose señoria quem perdoni del atreviment que e tin 14. gut no per anar privonetjant per el mon sono treballar com 15. se pugue suplicant a vose señoria que fasa del que pora averme 16. grasia de veura fi pore anar a Mallorca perque vaiz per lo mon 17. y pot ser cun dia descuyda demint tocam ana quex y la no venir 18. a mans de justisia ara prinsipiam de anar aviaje a ora en lo 19. capita Michel Meice y axi au fas a seber a vose señoria y quant 20. no guste de lo que li envuy demanar de la gratie de anar a Mallor 21. ca men vuy la resposta que vullgue y men vuy a dir que fasa 22. que men nire alla ont molt gust li sia sols per no verlo de enfe 23. dar a vosa señoria que jo sempra som molt criat y servidor 24. en quant me menera no dich mes que nostro Sr. lo guarde molts 25. ayños del Grau de Valencia a Vuy als 22 de Abril de 1667 26. Baltasar Bupi criat de vose señoria [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "467:5362a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo11/467:5362a.JPG",
+      "url": "/legajos/legajo-11/images/467:5362a.JPG"
+    },
+    {
+      "filename": "468:5362b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo11/468:5362b.JPG",
+      "url": "/legajos/legajo-11/images/468:5362b.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "467:5362a.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-11/cartas/001507.json",
+  "primary_image_url": "/legajos/legajo-11/images/467:5362a.JPG"
+}

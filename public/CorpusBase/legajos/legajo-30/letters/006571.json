@@ -1,0 +1,48 @@
+{
+  "legajo_id": "30",
+  "id_carta": "6571",
+  "order_in_legajo": 128,
+  "signatura": "055:5409a",
+  "nombre_carta": "Carta de Jorge Dezcallar a Persona desconocida",
+  "fecha_original": "18 de septiembre de 1643",
+  "lugar": "Mallorca",
+  "remitente": "Jorge Dezcallar",
+  "destinatario": "Persona desconocida",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Â [1§] Â [2§] Â [3§] Transcripción literal"
+  ],
+  "literal": [
+    "1. 1. 1."
+  ],
+  "imagenes": [
+    {
+      "filename": "055:5409a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo30/055:5409a.JPG",
+      "url": "/legajos/legajo-30/images/055:5409a.JPG"
+    },
+    {
+      "filename": "056:5409b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo30/056:5409b.JPG",
+      "url": "/legajos/legajo-30/images/056:5409b.JPG"
+    },
+    {
+      "filename": "057:5409c.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo30/057:5409c.JPG",
+      "url": "/legajos/legajo-30/images/057:5409c.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "055:5409a.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (9)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-30/cartas/006571.json",
+  "primary_image_url": "/legajos/legajo-30/images/055:5409a.JPG"
+}

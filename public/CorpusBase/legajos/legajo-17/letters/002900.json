@@ -1,0 +1,38 @@
+{
+  "legajo_id": "17",
+  "id_carta": "2900",
+  "order_in_legajo": 166,
+  "signatura": "282:1442.JPG",
+  "nombre_carta": "Carta de Pascual de Aragón a Pedro Santacilia y Pax",
+  "fecha_original": "3 de junio de 1660",
+  "lugar": "Madrid",
+  "remitente": "Pascual de Aragón",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Como puede v. m. dudar que es interés de todos el servirle, ojalá yo tenga muchas ocasiones en que lo haga, que en el las acreditará v. m. lo que siempre. Solo le suplico en la nueva dignidad en que me hallo me dé muchos ocasiones en que le sirva. Dios guarde a v. m. muchos años. Madrid 3 de junio de 1660. El cardenal Aragon Sr. don Pedro Santacilia y Pax [1§] Transcripción literal"
+  ],
+  "literal": [
+    "1. Como puede Vm. dudar, que es interes de todos 2. el servirle, oxala yo tenga muchas ocasiones en 3. que lo haga, que enellas acreditará Vm. lo que 4. siempre, solo le suplico en la nueva dignidad 5. enqueme állo me de ms ocasiones en q le 6. sirva. Dios Gde á VM. ms años. Md 3 de Junio 7. de 1660.8. El Carl Aragon9. Sr. Don Pedro Santa çilia y Pax [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "282:1442.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo17/282:1442.JPG",
+      "url": "/legajos/legajo-17/images/282:1442.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "282:1442.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-17/cartas/002900.json",
+  "primary_image_url": "/legajos/legajo-17/images/282:1442.JPG"
+}

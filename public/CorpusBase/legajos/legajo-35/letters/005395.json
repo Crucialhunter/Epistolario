@@ -1,0 +1,38 @@
+{
+  "legajo_id": "35",
+  "id_carta": "5395",
+  "order_in_legajo": 207,
+  "signatura": "258:8242.JPG",
+  "nombre_carta": "Carta de Pedro Santacilia y Pax a Magín Ribes",
+  "fecha_original": "23 de agosto de 1665",
+  "lugar": "Mallorca",
+  "remitente": "Pedro Santacilia y Pax",
+  "destinatario": "Magín Ribes",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Tengo visto lo que v. m. me escribe en carta de 30 de julio pasado. Estimo, como es razón, el buen cuidado tiene v. m. de mi salud, que la tengo muy buena para servir a v. m. en todo lo que se le ofreciere. y en razón de lo que avisa que se han ofrecido muchos gastos en las fábricas de esta real fuerza y que, juntamente, ha habido de pagar la parte del quinto de la fragata de moros a los labradores que la tomaron, para lo cual, dice, tiene pagado de su casa más de 4. 000 ll, y que, no obstante esto, es preciso el haberse de redrezar (sic) la (sic) puente del cargador de la sal. Pero, como no dice la cantidad que se habrá menester para el dicho redrezo, ha parecido a estos señores de la Junta general es necesario saberse primero la cantidad que se habrá menester, para dar a v. m. orden que se gaste. y así, se sirvan v. m. con toda brevedad avisar de la cantidad que se habrá menester, poco más o menos, que luego se le enviará la orden que conviniere, pues representa es tan necesario el haberse de remediar dicho puente. Dios guarde a v. m. como deseo. y Mallorca, agosto 23 de 1665. Sr. Lloct. de Prodor. Real, Magin Ribas Transcripción literal"
+  ],
+  "literal": [
+    "1. Tengo visto lo q V.m. me escrive en carta2. de 30. de Julio passado estimo como es razon el3. buen cuydado tiene V.m. de mi salud, q la4. tengo muy buena para servir á V.m. en todo lo q5. se le offreçiere.6. Y en razon de lo q avisa q se han offreçido muchos7. gastos en las fabricas desta real fuerça y q juntamte8. ha havido de pagar la parte del quinto de la fragata9. de moros a los labradores q la tomaron, para lo qual10. diçe tiene pagado de su casa mas de 4.000 Ll, y q11. no obstante esto es preçisso el haverse de redrecar12. la puente del cargador de la sal, pero como no13. diçe la quantidad q se habra menester para el14. dicho redreço ha paressido a éstos Señores de la Junta15. Gl. es neçessario saberse primero la cantidad q16. se habrá menester, para dar á V.m. orden que17. se gaste, y assi se sirvan V.m. con toda brevedad18. avisar de la cantidad q se habra menester19. poco mas, o, menos q luego se le imbiara la orden20. q conbiniere pues representa es tan neçessario el21. haverse de remediar dicho puente. Dios gde. a V.m.22. como desseo y Malla. Agosto 23 de 166523. Sor. Lloct, de Prodor. Real Magin Ribas [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "258:8242.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo35/258:8242.JPG",
+      "url": "/legajos/legajo-35/images/258:8242.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "258:8242.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-35/cartas/005395.json",
+  "primary_image_url": "/legajos/legajo-35/images/258:8242.JPG"
+}

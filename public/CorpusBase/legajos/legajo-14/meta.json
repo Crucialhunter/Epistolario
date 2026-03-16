@@ -1,0 +1,78 @@
+{
+  "legajo_id": "14",
+  "num_cartas": 199,
+  "num_imagenes": 316,
+  "rango_temporal": [
+    1612,
+    1667
+  ],
+  "remitentes_frecuentes": [
+    {
+      "name": "Mateu Mulet",
+      "count": 15
+    },
+    {
+      "name": "Persona desconocida",
+      "count": 14
+    },
+    {
+      "name": "Juan Seguals",
+      "count": 13
+    },
+    {
+      "name": "Diego Matías de Aragüés",
+      "count": 8
+    },
+    {
+      "name": "Nicolau de Montanyans y Togores",
+      "count": 6
+    }
+  ],
+  "destinatarios_frecuentes": [
+    {
+      "name": "Pedro Santacilia y Pax",
+      "count": 167
+    },
+    {
+      "name": "Leonor Santacilia i Despuig",
+      "count": 16
+    },
+    {
+      "name": "Persona desconocida",
+      "count": 7
+    },
+    {
+      "name": "Juan Miguel Santacilia",
+      "count": 2
+    },
+    {
+      "name": "Nicolau Togores i Montanyans",
+      "count": 1
+    }
+  ],
+  "lugares_frecuentes": [
+    {
+      "name": "Madrid",
+      "count": 52
+    },
+    {
+      "name": "Mallorca",
+      "count": 49
+    },
+    {
+      "name": "Barcelona",
+      "count": 17
+    },
+    {
+      "name": "Santa Margalida",
+      "count": 15
+    },
+    {
+      "name": "Lugar sin especificar",
+      "count": 14
+    }
+  ],
+  "temas_frecuentes": [],
+  "warnings_count": 47,
+  "densidad_narrativa_estimada": "Media"
+}

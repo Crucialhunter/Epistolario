@@ -1,0 +1,43 @@
+{
+  "legajo_id": "9",
+  "id_carta": "1017",
+  "order_in_legajo": 54,
+  "signatura": "078-39a",
+  "nombre_carta": "Carta de Diego Álvarez a Arnau de Santacilia",
+  "fecha_original": "15 de marzo de 1675",
+  "lugar": "Milán",
+  "remitente": "Diego Álvarez",
+  "destinatario": "Arnau de Santacilia",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Amigo y señor Recibo la de v. m. que Para mi asído de mucho gusto Porlas Buenas nuevas que v. m. se sirve de Darme de su salud y siento que la leva Nobaya como v. m. desea No me tenga v. m. Pedror tan dequidado pues le tengo aBisado que su dinero de v. m. está en mi poder hasta los 15 de Xre Diciembre que fue lamuestra y enlapatente que Salio del comisarío general Para El nu eBoreparto seincluso su persona de v. m. y lo del paje con que locobra el sargento Romero aVillalonga levoy veo Riendo con ciento y treinta liuras Cada mes y de todo lo que le he dad por todo este mes 4estoy satisfecho aysepasa Pabra [?] queala fin [?] [1§] de este aBra muerto ayer he Dado dos Bojas [?] en la compañía las cosas de si habrá bon [?] muy mal Dios loremedíe y guarde a v. m. muchos años a todos esos señores capitanes y el [?] Beso las manos Milán a 15 de marzo 1675. Besa las manos de v. m. Su amigo y servidor Diego alvarez Señor capitán don Arnau de Santacilia [2§] Transcripción literal"
+  ],
+  "literal": [
+    "1. Amigo Ysr Recivo la de Vmd. q 2. Para mi asído de mucho gusto Porlas 3. Buenas nuebas que Vmd. sesirve de 4. Darme de susalud Ysiento quela leva 5. Nobaya Como Vmd. desea 6. No metenga Vmd. Por tan dequidado Pues 7. le tengo aBisado que su dinero de Vmd. 8. esta en mi poder asta los 15 de Xre[Diciembre] que 9. fue lamuestra Y enlapatente que 10. Salio del comisarío Genl Para El nu11. eBoreparto seincluso supersona de Vmd. 12. Y lo del page Conque locobra el sargto 13. Romero = aBillalonga levoy Beo 14. Riendo Con Ciento Y treynta liuras 15. Cada mes y de todo lo que le he da16. do Por todo este mes 4estoy satife17. cho = aysepasa Pabra[?] queala fin[?] [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "078-39a.jpg",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo09/078-39a.jpg",
+      "url": "/legajos/legajo-09/images/078-39a.jpg"
+    },
+    {
+      "filename": "079-39b.jpg",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo09/079-39b.jpg",
+      "url": "/legajos/legajo-09/images/079-39b.jpg"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "078-39a.jpg",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-09/cartas/001017.json",
+  "primary_image_url": "/legajos/legajo-09/images/078-39a.jpg"
+}

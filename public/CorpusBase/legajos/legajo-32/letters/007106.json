@@ -1,0 +1,38 @@
+{
+  "legajo_id": "32",
+  "id_carta": "7106",
+  "order_in_legajo": 128,
+  "signatura": "136:1864.JPG",
+  "nombre_carta": "Carta de Luis de Aragón (VII duque de Cardona) a Pedro Santacilia y Pax",
+  "fecha_original": "21 de abril de 1665",
+  "lugar": "Madrid",
+  "remitente": "Luis de Aragón (VII duque de Cardona)",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "todo lo que v. s. quisiere saber de por acá se lo dirá el que le lleva esta carta, no se ha tomado resolución conmigo sobre los puestos en los [?] me han igualado con los del Sr. duque de Alba cuando llevo a la Sra. emperatriz Abuela de su majestad. cesaria la jornada la han echado para este Agosto más cerca que vendrá, no parece posible;asi lo dicen los ministros. Conocio v. s. cuando estuvo aquí esto no sea mejorado. Si v. s. hubiere de hacerme favor ha de ser en Barcelona que allí veremos como se dispondrán las cosas. mándeme v. s. en que le sirva que guarde Dios ms. años Madrid a 21 Abril 1665 Hara v. s. se de esta carta al Sr. virrey beso la M m servidor Sr. don Luis de Aragón Sr. D. Pedro Santacilia y Pax Transcripción literal"
+  ],
+  "literal": [
+    "1. Todo lo que VS. quisiere saver de por aca 2. se lo dira el que le lleva esta carta, no se a tomado re3. soluzion conmigo sobre los puestos en los [?] me 4. an igualado con los del Sor. Duque de Alba quando 5. llevo a la Sra. Emperatriz Abuela de su Magd. cesaria 6. la jornada la an echado para este Agosto mas 7. cerca que bendra, no pareze posible; asi lo dizen 8. los ministros. Conozio VS. quando estubo aqui esto no 9. sea mejorado. Si VS. ubiere de hazerme favor a de ser 10. en Barçelona que alli beremos como se dispondran 11. las cosas. mandeme VS. en que le sirva que gde Dios ms. 12. años Md. a 21 Abril 1665 13. Hara VS. se de esta carta al Sor. 14. Virrey 15. beso la M 16. m servidor 17. Don Luys de Aragon 18. Sor. D. Pedro Santacilia y Paz [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "136:1864.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo32/136:1864.JPG",
+      "url": "/legajos/legajo-32/images/136:1864.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "136:1864.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-32/cartas/007106.json",
+  "primary_image_url": "/legajos/legajo-32/images/136:1864.JPG"
+}

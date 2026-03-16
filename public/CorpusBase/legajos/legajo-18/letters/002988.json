@@ -1,0 +1,43 @@
+{
+  "legajo_id": "18",
+  "id_carta": "2988",
+  "order_in_legajo": 20,
+  "signatura": "034:4827a.JPG",
+  "nombre_carta": "Carta de Pere Antoni Seguí a Pedro Santacilia y Pax",
+  "fecha_original": "1 de febrero de 1660",
+  "lugar": "Lugar sin especificar",
+  "remitente": "Pere Antoni Seguí",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "señor don Pedro Esta halle a v. m. con mucha salud yo la tengo cumplida gloria a Dios para lo que v. m. me quisiere mandar yasaber v. m. como v. m. me embarco para este reino de Valencia yo estoy siempre aparexa dapara en Gual quien lanse servir a v. m. aquí oenesaliera oa donde v. m. gustare vea v. m. si habrá ocasión para raque yo pueda volver a Mallorca que lo estimaré mucho yo estoy En el renode Valencia en la valle que dicen de albayda En una villa que se llama quatresonda [?] no digo más Dios guarde a v. m. los años de mide seo a 1 de febrer e 1660 Pere Antoni segui [1§] A don Pedro satasiri En la Ciutat de Mallorca davant senfranses Mallorca [2§] Transcripción literal"
+  ],
+  "literal": [
+    "1. [Margen izquierdo][^ Senor donpedro]2. Esta alle a vm con mucha salut yolatengo conplida 3. gloria adios paralo que vm me quisiere mandar 4. yasaber vm como vm meenbarco paraeste rreyno 5. de valensia yo estoy sienpre aparexa dapara en 6. gual quien lanse servir a vm. aqui oenesaliera 7. oadonde vm. gustare vea vm siabra ocasion pa8. raque io pueda bolver amallorca quelo estimare 9. mucho yoestoy En el renode valensia enla 10. valle que disen de albayda En una villa 11. quese llama quatresonda[?] 12. no digo mas dios guarde a Vm. los años de mide13. seo a 1 de febrer e 1660 14. pere antoni segui [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "034:4827a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo18/034:4827a.JPG",
+      "url": "/legajos/legajo-18/images/034:4827a.JPG"
+    },
+    {
+      "filename": "035:4827b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo18/035:4827b.JPG",
+      "url": "/legajos/legajo-18/images/035:4827b.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "034:4827a.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-18/cartas/002988.json",
+  "primary_image_url": "/legajos/legajo-18/images/034:4827a.JPG"
+}

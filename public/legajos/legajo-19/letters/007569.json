@@ -1,0 +1,53 @@
+{
+  "legajo_id": "19",
+  "id_carta": "7569",
+  "order_in_legajo": 131,
+  "signatura": "124_cg51a.JPG",
+  "nombre_carta": "Carta de Juan Ros a Jerónima Pax y Fuster",
+  "fecha_original": "fecha sin especificar",
+  "lugar": "lugar sin especificar",
+  "remitente": "Juan Ros",
+  "destinatario": "Jerónima Pax y Fuster",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "[1§] [2§] [3§] [4§] Transcripción literal"
+  ],
+  "literal": [
+    "1. 2. 3. 4. [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "124_cg51a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo19/124_cg51a.JPG",
+      "url": "/legajos/legajo-19/images/124_cg51a.JPG"
+    },
+    {
+      "filename": "125_cg51b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo19/125_cg51b.JPG",
+      "url": "/legajos/legajo-19/images/125_cg51b.JPG"
+    },
+    {
+      "filename": "126_cg51c.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo19/126_cg51c.JPG",
+      "url": "/legajos/legajo-19/images/126_cg51c.JPG"
+    },
+    {
+      "filename": "127_cg51d.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo19/127_cg51d.JPG",
+      "url": "/legajos/legajo-19/images/127_cg51d.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "124_cg51a.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-19/cartas/007569.json",
+  "primary_image_url": "/legajos/legajo-19/images/124_cg51a.JPG"
+}

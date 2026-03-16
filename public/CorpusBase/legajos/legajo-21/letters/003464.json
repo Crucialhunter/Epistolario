@@ -1,0 +1,43 @@
+{
+  "legajo_id": "21",
+  "id_carta": "3464",
+  "order_in_legajo": 153,
+  "signatura": "276:5752a.JPG",
+  "nombre_carta": "Carta de Pedro Fajardo de Requeséns-Zúñiga y Pimentel (V marqués de los Vélez) a Pedro Santacilia y Pax",
+  "fecha_original": "9 de julio de 1639",
+  "lugar": "Tolosa",
+  "remitente": "Pedro Fajardo de Requeséns-Zúñiga y Pimentel (V marqués de los Vélez)",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "He recibido la carta de v. m. en que me da cuenta del despacho que tuvo del secretario D. Fernando Ruiz de Contreras si va la noticia que se podía de la gse. que v. m. tiene, que sin duda lo [?] ocasionar el estado de las cosas de Cataluña y querer venirse podrán valer de esa caballería, que si se [?] enviado dinero para su [?] se hallará con más [?] y mejor disposición, para acudir a cualquier gente de puesta. Dios no se me ofrece cosa de mucho que decir a v. m. que las nuevas que hasta ahora tenemos del estado de la armada del enemigo son buenas porque nos enten [?] que se der [?] con borrasca. Guarde Dios a v. m. Tolosa y julio 9 de 1639. El marques de los Velez Sr. gobernador D. Pedro Santacilia [1§] En casa de Juan de Erice en frente de la Cruz de Santacilia Tolosa 9 Julio 1639 El marques de los Velez rdo. Martin de Azpilicueta Transcripción literal"
+  ],
+  "literal": [
+    "1. Herecivido lacarta de Vm enquemedaqta del despacho 2. quetubo del srio D ferdo Ruiz decontras sibalanoticia que 3. sepodia delagse que VM tiene, quesin duda lo desude[?] 4. ocassionar elestado delascossas deCataluña y querer 5. benirse podran Valer deesa Cavallería, quesise labiña[?] em6. biado dinero parasu retsuentasion[?] se hallara con mas [Ilegible]7. ymejor disposicion, para asudír[?] aqualquíer gte de 8. puesta Dios noseme offreçe cosa de Mucho que dezir a VM que 9. las nuebas que hastaaora tenemos delestado de 10. la armada del enemígoson buenas porquenos enten11. dedi[?] quesederroto con borrosca[?] guE Dios a Vm. 12. Tolosay Julio 9 de 1639 13. El Marqs delos Veles14. [Margen izquierdo][^ Sr Govor D Po Sta Cilia] [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "276:5752a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo21/276:5752a.JPG",
+      "url": "/legajos/legajo-21/images/276:5752a.JPG"
+    },
+    {
+      "filename": "277:5752b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo21/277:5752b.JPG",
+      "url": "/legajos/legajo-21/images/277:5752b.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "276:5752a.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (5)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-21/cartas/003464.json",
+  "primary_image_url": "/legajos/legajo-21/images/276:5752a.JPG"
+}

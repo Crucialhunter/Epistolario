@@ -1,0 +1,38 @@
+{
+  "legajo_id": "36",
+  "id_carta": "7323",
+  "order_in_legajo": 68,
+  "signatura": "102:7798.JPG",
+  "nombre_carta": "Carta de Bartolomé Mercadal a Pedro Santacilia y Pax",
+  "fecha_original": "4 de noviembre de 1652",
+  "lugar": "Ciutadella",
+  "remitente": "Bartolomé Mercadal",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Senyor don Pedro Santacilia Els dies passats escriguí a v. m. en ocasió que els Ss. jurats enviaren una barca a Mallª. i remeti les cartes al secretari del virrei i a la vuelta no he tingut resposta de v. m. de que estic amb extraordinari {ESP. cuidado} així per lo estrago que [?] ha fet el contagi com també pel anava dins la de v. m. una per Joan i general Ruis del [?] Alberti en què donave ordre entregasen els 100 real de 8 que porque v. m. es desengan que no hi hagut omicion per part mia. envio la [?] la qual no fou acomp. a la barca que és perti per una de Maó ets. el mal gràcies a Déu {ESP. casi} h sesat del tot però temo de les robas que han remesas sense cremar i els jurats no fan ninguna diligència a Dios daran [?] i amb nº se la guardi com deseo Ciutat [?] i novembre 4 de 1652 Sr. D. Bart Merc [?] Transcripción literal"
+  ],
+  "literal": [
+    "1. Señor Don Pedro Sta. Çilia 2. Los dias passats escrigui a VM. en ocasio que 3. los Sss. jurats enviaren una barca a Mallª. 4. y remeti las cartas al secretari del Virrey 5. y a la buelta no he tingut resposta de VM. 6. de que estic ab extraordinari cuydado axi 7. por lo estrago que [?] ha fet el contagi 8. com tambe per lo anave dins la de VM 9. una per Joan y Gl Ruis del ?? 10. Alberti en que donave orde entregassen 11. los 100 Rl de 8 q porque Vm es 12. desengan que noy hagut omicio per 13. part mia. envio la [?] le qual 14. no fonch acomp. a la barca ques perti 15. per una de Maho etts. el mal graci16. as a Deu casi h sesat del tot pero te17. mo de les robas que han remesas sens 18. cremar y los jurats no fan ninguna 19. diligencia a Dios daran [?] 20. y ab nº cele Gde como dezeo Ciutad [?] 21. y 9bre 4 de 1652 22. D. Bartt Merc [?] [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "102:7798.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo36/102:7798.JPG",
+      "url": "/legajos/legajo-36/images/102:7798.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "102:7798.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-36/cartas/007323.json",
+  "primary_image_url": "/legajos/legajo-36/images/102:7798.JPG"
+}

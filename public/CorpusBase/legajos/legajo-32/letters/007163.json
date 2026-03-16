@@ -1,0 +1,53 @@
+{
+  "legajo_id": "32",
+  "id_carta": "7163",
+  "order_in_legajo": 162,
+  "signatura": "215:1921a.JPG",
+  "nombre_carta": "Carta de Conde de Zavellá a Pedro Santacilia y Pax",
+  "fecha_original": "6 de enero de 1666",
+  "lugar": "Lugar sin especificar",
+  "remitente": "Conde de Zavellá",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Transcripción literal"
+  ],
+  "literal": [
+    "1. 1. 1. 1."
+  ],
+  "imagenes": [
+    {
+      "filename": "215:1921a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo32/215:1921a.JPG",
+      "url": "/legajos/legajo-32/images/215:1921a.JPG"
+    },
+    {
+      "filename": "216:1921b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo32/216:1921b.JPG",
+      "url": "/legajos/legajo-32/images/216:1921b.JPG"
+    },
+    {
+      "filename": "217:1921c.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo32/217:1921c.JPG",
+      "url": "/legajos/legajo-32/images/217:1921c.JPG"
+    },
+    {
+      "filename": "218:1921d.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo32/218:1921d.JPG",
+      "url": "/legajos/legajo-32/images/218:1921d.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "215:1921a.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-32/cartas/007163.json",
+  "primary_image_url": "/legajos/legajo-32/images/215:1921a.JPG"
+}

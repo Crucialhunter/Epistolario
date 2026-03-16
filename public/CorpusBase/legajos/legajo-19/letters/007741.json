@@ -1,0 +1,48 @@
+{
+  "legajo_id": "19",
+  "id_carta": "7741",
+  "order_in_legajo": 46,
+  "signatura": "451_7948a.JPG",
+  "nombre_carta": "Carta de Basilio de Castellví y Ponce a Pedro Santacilia y Pax",
+  "fecha_original": "fecha sin especificar",
+  "lugar": "lugar sin especificar",
+  "remitente": "Basilio de Castellví y Ponce",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Señor mío de particular estimación es para mi su carta de v. s. de 28 del pasado logrando en ella las noticias que deseo de su salud de v. s. en esta casa de v. s. la gozamos Dña. Laura y yo y entre ambos besamos a v. s. las manos conFALTA ACABAR-LA Transcripción literal"
+  ],
+  "literal": [
+    "1. Señor mio de particular estimación es para mi 2. su carta de VS. de 28 del pasado logrando 3. en ella las noticias que deseo de su salud de 4. VS. en esta casa de VS. la gozamos Dª. Laura 5. y yo y entrambos besamos a VS. las manos con6. FALTA ACABAR-LA [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "451_7948a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo19/451_7948a.JPG",
+      "url": "/legajos/legajo-19/images/451_7948a.JPG"
+    },
+    {
+      "filename": "452_7948b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo19/452_7948b.JPG",
+      "url": "/legajos/legajo-19/images/452_7948b.JPG"
+    },
+    {
+      "filename": "453_7948c.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo19/453_7948c.JPG",
+      "url": "/legajos/legajo-19/images/453_7948c.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "451_7948a.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-19/cartas/007741.json",
+  "primary_image_url": "/legajos/legajo-19/images/451_7948a.JPG"
+}

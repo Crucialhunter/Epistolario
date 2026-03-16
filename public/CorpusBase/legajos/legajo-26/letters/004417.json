@@ -1,0 +1,43 @@
+{
+  "legajo_id": "26",
+  "id_carta": "4417",
+  "order_in_legajo": 163,
+  "signatura": "230:3512a.JPG",
+  "nombre_carta": "Carta de comte de Perelada i marquès d'Anglesol a Pedro Santacilia y Pax",
+  "fecha_original": "25 de junio de 1644",
+  "lugar": "Roma",
+  "remitente": "comte de Perelada i marquès d'Anglesol",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "A 27 d'abril és estat Déu Nre. Sr. servit de portar-se'n a la seva santa glòria l'ànima de ma mare i Sra., que Déu tinga en el cel. Després d'haver rebuts tots els sagraments de l'església amb la devoció i resignació deguda. Deixa'm amb el {ESP. desconsuelo} i sentiment que de pèrdua tan gran pot pensar v. m. i en particular en esta ocasió que em trobo desterrat de ma casa en esta cort. Donen a v. m. raó com a tan deute i d'ella perquè me faci mercè encomanar-la a Nre. Sr. i a mi manar-me el que sia de son major servei. Roma a 25 de juny 1644. El comte de Perelada Sr. don Pedro Santacilia i Pax [1§] Vistess cartes de D. Pedro Santacilia i Pax i de D. Nicolau Togores Montanyans Transcripción literal"
+  ],
+  "literal": [
+    "1. A 27 de Abril es estat Deu Nre. Sor servit2. de aportarsen a la sua Sta. Gloria la anima de3. ma Mare y Sra. que Deu tinga en lo Cel dempres4. de haver rebuts tots los sagraments de la Iglesia5. ab la devotio y resignatio deguda. Dexam ab6. lo desconsuelo y sentiment que de perdua tant7. gran pot pensar V.M. y en particular en esta8. ocasio quem trobo desterrat de ma casa en esta9. Cort, donan a V.M. raho com a tant deute y Sr.10. della peraque me fassa mè encomanarla a Nre. Sr.11. y a mi manarme lo q sia de son mayor servey Roma12. a 25 de juny 164413. Lo Comte de Perelada14. Sr. Don Pedro St. Cicilia i Pax [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "230:3512a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo26/230:3512a.JPG",
+      "url": "/legajos/legajo-26/images/230:3512a.JPG"
+    },
+    {
+      "filename": "231:3512b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo26/231:3512b.JPG",
+      "url": "/legajos/legajo-26/images/231:3512b.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "230:3512a.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-26/cartas/004417.json",
+  "primary_image_url": "/legajos/legajo-26/images/230:3512a.JPG"
+}

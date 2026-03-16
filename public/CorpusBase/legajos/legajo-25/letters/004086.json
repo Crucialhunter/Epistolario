@@ -1,0 +1,38 @@
+{
+  "legajo_id": "25",
+  "id_carta": "4086",
+  "order_in_legajo": 20,
+  "signatura": "041_120.JPG",
+  "nombre_carta": "Carta de Llorenç Bauçà a Jerónimo Pelegrín de Aragüés",
+  "fecha_original": "6 de marzo de 1667",
+  "lugar": "Sant Joan (Mallorca)",
+  "remitente": "Llorenç Bauçà",
+  "destinatario": "Jerónimo Pelegrín de Aragüés",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Sr. Jeroni després d'haver besades a v. m. el faig sabedor qualment com jo tingué la rinya amb en Ramon de l'hort dels arbres que em tirà en casa mia i v. m. envià una carta dient jo que fes pau amb en Ramon i amb xiscos i que mi Sr. en gustava que és ara han girada la vista i m'ha feta instància, dient que jo els he tirat a ells. Suplic a v. m. atès que v. m. és en la pau tinga a tendència a veure amb mi que els escrigui a que llevin la instància perquè jo fiant de la paraula de v. m. i de mi i {ESP. demés} trobar-me {ESP. agraviat} no moguí cosa i ara quan m'ha tingut pres es tot {ESP. al revés}, que ells me fan instància a mi. Suplic a v. m. se servesca tenir a tendència saber mirar el cos i tornar ma resposta del que confio i el Sr. el guardi als 6 març 1667. Criat de v. m. Llorenç Bauça, de St. Joan Al Sr. Jeroni, de don Pedro. Guardi {ESP. Dios} etts. Transcripción literal"
+  ],
+  "literal": [
+    "1. Sr. 2. Jeroni dempres de aber bessades3. a V.md. al fas sabidor qualment4. com jo tingue la riña ab an5. Remo delort dels abras que em6. tirara en cassa mia y V.md.7. anvia una carte dient jo8. que fes pau a ban Ramo y an9. Xiscos y que mi Sr. ne gustava10. ques are an girade la viste11. y me a feta istansia dient12. que jo los e tirat a ells suplica13. a V.md. ates que V.md. es en la14. pau tinga a tendensia ha15. vaure ab mi Sr que los ascriga16. a que lleva la istansia pq17. jo fiant de la paraule de V.md.18. y de mi Sr. y demes trobarma19. agraviat no mogue cossa y ara20. quant me a tingut pres es21. tot al raves que ells ma fan22. istansia a mi suplica a V.md.23. se servesca tanir a tendensia24. saber mirar al cos y tornar ma25. resposte de lo que confia y lo Sr lo gde26. als 6 mars 166727. Criat de V.md. Llorens bausa de St. Joan28. Al Sr. Hieroni de29. Don Pº gde Dios30. ett. [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "041_120.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo25/041_120.JPG",
+      "url": "/legajos/legajo-25/images/041_120.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "041_120.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (7)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-25/cartas/004086.json",
+  "primary_image_url": "/legajos/legajo-25/images/041_120.JPG"
+}

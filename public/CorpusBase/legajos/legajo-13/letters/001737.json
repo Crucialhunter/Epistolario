@@ -1,0 +1,43 @@
+{
+  "legajo_id": "13",
+  "id_carta": "1737",
+  "order_in_legajo": 5,
+  "signatura": "010:2241a.JPG",
+  "nombre_carta": "Carta de Jerónimo Pelegrín de Aragüés a Pedro Santacilia y Pax",
+  "fecha_original": "3 de julio de 1668",
+  "lugar": "Mallorca",
+  "remitente": "Jerónimo Pelegrín de Aragüés",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Esta tarde que es 3 del corriente he hablado al secretario del virrey y me ha dicho se iba a casa de Miguel Fiol para que le diese en limpio lo que queda del trigo, para remitir el despacho y asimismo me ha dicho [que] tiene hecho y firmado el despacho de la licencia de v. s. que partirá todo esta semana por vía de Valencia y (todo) irá bien dispuesto que me lo ha ofrecido. Mi señora está en Son Pardo con el Sr. don Nicolás, muy desasosiego [?] : gozando de la primavera de las heras recogiendo los panes. Hoy a mediodía ha llegado Sr. don Nicolás a casa que hacia buen fresco y con una lanza muy bizarra a caballo. Gaspar de Puidorfila, Sr. D. Ramon Fortuny, conde de (de) Montenegro, don Jorge San Juan y muchos otros caballeros de la cuadrilla han partido a la Porrasa donde tenían unos venados espiados. Esta noche vuelven porque no se han llevado provisión de comida. Por Valencia y Barcelona escribiré más largo a v. s. dándole noticia de todo. Guarde Dios a v. s. muchos años como deseo Mallorca 3 de Julio 1668. Criado de v. s. que su mano besa Jeronimo Pelegrin y Aragues Mi Sr. D. Pedro [1§] Mallorca Julio 3 de 1668 de Jeronimo Pelegrin respondida a 21 Transcripción literal"
+  ],
+  "literal": [
+    "1. Esta tarde que es a .3. del Corriente he hablado al Secreta=2. rio del sr. Virreÿ y mehadicho se hiva a Cassa de Mig[u]el3. fiol para que le dasse en limpo lo que queda del trigo.4. para remitir el despacho y assi mismo me ha dicho.5. tiene hecho y firmado el despacho de la licencia de6. V.S. que se partira todo esta semana por via de7. Valencia y (^todo) hira bien dispuesto que me lo haofrecido.8. =Mi Señora esta en Son Pardo Con el Sr. Don Nicolas, muÿ9. desasosiego[?]: goçando de la primavera de las heras re=10. coxiendo los panes. Oy hamediodia ha llegado.11. Don Nicolas a cassa que acia buen fresço j con una12. Lança muÿ vicarra acavallo: Gaspar de Puidorfila13. D. Ramon fortuÿ Conde de (de) Monte Negro Don Jorge San14. Juan y muchos otros Cavalleros de la quadrilla se han15. partido a la Porrassa donde tenian unos Benados.16. espiados. esta noche buelven porque no se han llevado.17. provission de Comida por Valencia y Barcelona18. escribire mas largo a.V.S. dando le notiçia de 19. todo Guarde Dios a.V.S. ms a< ño>s Como deseo Mallca20. 3. de Julio 1668.21. Criado de V.S. q s m B22. Geronymo Pelegrin ÿ Aragues23. Mi Sr. D. Po [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "010:2241a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo13/010:2241a.JPG",
+      "url": "/legajos/legajo-13/images/010:2241a.JPG"
+    },
+    {
+      "filename": "011:2241b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo13/011:2241b.JPG",
+      "url": "/legajos/legajo-13/images/011:2241b.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "010:2241a.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (4)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-13/cartas/001737.json",
+  "primary_image_url": "/legajos/legajo-13/images/010:2241a.JPG"
+}

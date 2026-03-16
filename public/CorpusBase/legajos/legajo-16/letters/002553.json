@@ -1,0 +1,38 @@
+{
+  "legajo_id": "16",
+  "id_carta": "2553",
+  "order_in_legajo": 39,
+  "signatura": "065:2053.JPG",
+  "nombre_carta": "Carta de Conde de Zavellá a Pedro Santacilia y Pax",
+  "fecha_original": "26 de marzo de 1667",
+  "lugar": "Madrid",
+  "remitente": "Conde de Zavellá",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Señor mío, Recibo dos de v. s. a un mismo tiempo una de advertencias y otra de preceptos, entre ambas estimo igualmente y en cuanto a dar a v. s. noticia del casamiento de mi hija estoy sin escrúpulo, pero no sin recelo de que se han perdido algunas cartas mías el ser v. s. amparo de mi casa y de mi hacienda en particular en Mallorca. Es verdad sin ceremonia y así le toca el ejercicio de este título y en esta conformidad suplico a v. s. pregunte a Onofre Mallol ya que él sin preguntárselo no se lo haya dicho lo que yo le escribí acerca de la disposición de esa hacienda. Llegado el caso de la partencia de esos señores de esta materia escribiré a v. s. más despacio cuando esté más libre de un dolor de [?] que ha seis días que me aqueja. Ahora sólo digo a v. s. que por haber estado casi siempre en la cama no he ido a ver a don Nicolas, ni creo que él sepa mi posada por haberme mudado, pero esté v. s., muy cierto que cuando yo valiere y pudiere será siempre en servicio de v. s. y su casa, a quien guarde Dios como deseo. Madrid y marzo 26 de 1667. Mi señor de v. s. que su mano besa,el conde de Carcelen Señor don Pedro Santacilia y Pax Transcripción literal"
+  ],
+  "literal": [
+    "1. Sr mio Reçivo dos de VS. ha Un mismo tiempo Una 2. de ad Vertencias Y otra depreçeptos entranbas es3. timo ygualmente y enquanto hadar a VS noticia 4. del Casamiento de mi hija estoi sin escrupulo pero 5. no sin reçelo deque se han perdido algunas Cartas 6. mias el ser VS anparo de mi casa y de mi açienda en 7. particular en Mallorca es verdad sin Çeremonia y 8. asi le toca el exercicio de este titulo y enesta 9. Conformidad supp[li]co a VS pregunte a Onofre Mallol 10. y aque el sin preguntarse lo noselo haya dicho 11. loqueyo le escrivi ha çerca dela disposiçion de 12. esa haçienda llegado escaso dela partensa 13. de esos señores de esta materia escrivire a 14. VS. mas de espaçio quando esta mas libre de 15. Un dolor de Ylgla[?] que ha seis dias que me ha 16. quexa agora solodigo a VS. que por haver 17. estado casi siempre en la cama no he ydo aver 18. adon Nicolas Ni Creo que que el sepa miposada por 19. averme mudado pero este VS, muy Çierto que 20. quanto Yo Valiere Ypudiere sera siempre en 21. serviçio de VS. y su casa, aquien guarde dios 22. Comodeseo, Madrid Y Março 26 de 1667 23. Mí Sr de VS 24. q su mb 25. ElConde de Carceles[?]26. [Margen izquierdo][^Sr Don Pedro Sta Çilia Y Pax] [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "065:2053.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo16/065:2053.JPG",
+      "url": "/legajos/legajo-16/images/065:2053.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "065:2053.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-16/cartas/002553.json",
+  "primary_image_url": "/legajos/legajo-16/images/065:2053.JPG"
+}

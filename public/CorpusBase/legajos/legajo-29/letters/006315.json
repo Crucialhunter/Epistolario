@@ -1,0 +1,43 @@
+{
+  "legajo_id": "29",
+  "id_carta": "6315",
+  "order_in_legajo": 13,
+  "signatura": "018:4131a.JPG",
+  "nombre_carta": "Carta de Bonaventura de Lanuza Montbuí y Vilarig a Pedro Santacilia y Pax",
+  "fecha_original": "13 de junio de 1628",
+  "lugar": "Girona",
+  "remitente": "Bonaventura de Lanuza Montbuí y Vilarig",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "La de v. m. dels 8 del corrent tinc rebuda i veig amb ella el que m'escriu ben cert pot v. m. estar a ningú amb mil veres el desitja servir que jo [?] que importa poc que don Joan de Lanuzaa [?] vaja camarada del olim virrei de Mallorca, puix no el conec, ni sé qui és, sinó que [?] cavallers de Barcelona li ha de negociar y los dos se coneixen ja de Flandes y qui té poca ventura com jo no és molt se [?] amb el que pot, però dic amb tota veritat que estimo més la mercè que v. m. me fa, que tot el que de prosperitats me pot venir ja no en raó d'açò no tinc que dir. Avui a les set hores de matí he sabut que havien mort en Francesc amb dues escopetades. El cert és que una dona n'és estat causa y que ell ho podia excusar. El qui ho ha fet se murmura, pero està ja posat en [?] bro y la dona també. El temps dirà el que s'ha de fer Sr. don Pedro Santacilia [1§] i jo el {ESP. demés} quan Déu vulgui ens vegin, que pens serà prest. Hs rebut tots els sagraments que és el que més importa. Aquí va el {ESP. cotxero} a cercar fulla que les cues [?] de manera que és llastima [?] tot el que v. m. podrà [?] multiplicar dona [?] ho estimarà moltíssim a v. m. a qui guardi Déu. Girona i juny als 13 de 1628. Don Bonaventura de Lanuza Montbui y Vilarig Transcripción literal"
+  ],
+  "literal": [
+    "1. La de vm. dels 8 del corrent tinch rebuda y 2. beig abella lo quem eserviu ben sert pot vm. estar a 3. ningu ab mil veras lo desiga servir que jo [?] 4. que importa poch que don Juan de la Nuça [?] 5. baja camarada del olim virey de mallorca 6. puis nol conech ni se qui es sino que [?] 7. cavallers de barna lay ha negociar y los dos se 8. conexen ja de Flandes y qui te poca ventura com jo 9. no es molt se [?] ab lo que pot pero dic ab tota 10. veritat que estimo mes la merçe que vm. me fa 11. que tot lo que de prosperitats me pot venir yano 12. en raho de asso no tinch que dir.13. Vuy a las set oras demati he sabut que havian mort 14. en Francesch ab dos escopetadas, lo sert es que una 15. dona ne es estat causa y que ell o podia escusar 16. lo quin ha fet se murmura pero esta ja posat en [?] 17. bro y la dona tanbe. lo temps dira lo que se ha de fer 18. Sr. Don Pedro Sta. Cilia [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "018:4131a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo29/018:4131a.JPG",
+      "url": "/legajos/legajo-29/images/018:4131a.JPG"
+    },
+    {
+      "filename": "019:4131b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo29/019:4131b.JPG",
+      "url": "/legajos/legajo-29/images/019:4131b.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "018:4131a.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-29/cartas/006315.json",
+  "primary_image_url": "/legajos/legajo-29/images/018:4131a.JPG"
+}

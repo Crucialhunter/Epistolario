@@ -1,0 +1,43 @@
+{
+  "legajo_id": "6",
+  "id_carta": "626",
+  "order_in_legajo": 125,
+  "signatura": "178-91a",
+  "nombre_carta": "Carta de Marqués de San Leonardo a Cecilia Zaforteza y Sureda de Sant Martí",
+  "fecha_original": "6 de julio de 1770",
+  "lugar": "Madrid",
+  "remitente": "Marqués de San Leonardo",
+  "destinatario": "Cecilia Zaforteza y Sureda de Sant Martí",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Muy Sra. mía, Tengo la complacencia [?] de recibir por mano de nuestro amado D. Tomás la estimada carta de v. s., y la gran satisfacción de asegurarle que este precioso joven queda tan dueño de mi cariño como estimado de mi mujer por la dulzura de su genio, dedicándonos ambos a fomentar sus buenos pensamientos y patrocinar sus designios en que nos [1§] interesaremos gustosos, tanto porque consiga sus mayores adelantamientos como por servir a v. s., cuya vida Nro. Sr. guarde muchos años. Madrid y julio 6 de 1770. Besa las manos de v. s. su mayor y más seguro servidor, El marqués de San Leonardo. Sa. este muchacho se mantiene firme en quererse ir luego a Malta, nada es capaz de quitárselo de la cabeza, no piensa en otra cosa, y así nada espero conseguir para él aquí pues a nada se presta, quedo reconocidísimo a las honras de v. s., y a su memoria, y puede asegurarse haré cuanto quepa en mí por servir a Tomasito, como que quedo rendido a los pies de v. s. Mi Sra. Dña. Cecilia Zaforteza. Transcripción literal"
+  ],
+  "literal": [
+    "1. Muy Sra. mia: Tengo la con- 2. plasencia[?] de recibir por ma- 3. no de nuestro amado Dn. 4. Thomas la estimada carta 5. de V.S.; y la gran satisfaon 6. de asegurarle, que este precio- 7. so Joven, queda tan dueño 8. de mi Cariño, como estimado 9. de mi Muger, por la dulzura 10. de su genio; dedicandonos am- 11. bos á fomentar sus buenos 12. pensamtos y patrocinar sus 13. designios, en que nos intere- [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "178-91a.jpg",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo06/178-91a.jpg",
+      "url": "/legajos/legajo-06/images/178-91a.jpg"
+    },
+    {
+      "filename": "179-91b.jpg",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo06/179-91b.jpg",
+      "url": "/legajos/legajo-06/images/179-91b.jpg"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "178-91a.jpg",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (2)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-06/cartas/000626.json",
+  "primary_image_url": "/legajos/legajo-06/images/178-91a.jpg"
+}

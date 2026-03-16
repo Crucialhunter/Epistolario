@@ -1,0 +1,38 @@
+{
+  "legajo_id": "11",
+  "id_carta": "1344",
+  "order_in_legajo": 113,
+  "signatura": "191:5204.JPG",
+  "nombre_carta": "Carta de Antoni Amorós a Pedro Santacilia y Pax",
+  "fecha_original": "17 de septiembre de 1643",
+  "lugar": "Mallorca",
+  "remitente": "Antoni Amorós",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Una carta de v. s. he rebuda dient-me que en el punt arribava de Maó. Folga'm tinga v. s. complida salut junt amb mi Sra. i els demés. Per ací no hi ha cosa que visar a v. s. sinó és d'allò de seu patró a aquí m'ha manat al procurador [?] fes una barca i com no hi ha havia altra sinó la que va qui anava a Tarragona ha feta anar aquí. Conta el cavall torçat que l'armada francesa està davant Eivissa i que passa una faluca reforçada de gent i que li daran casa i li mataran quatre homes. Amb tot estic prompte pel que manarà a qui Nostre Sr. guardi molts anys com desitj a 17 de setembre 1643. Criat de v. s. Antoni Amoros A Mi Sr. don Pedro Santacilia i Pax governador de la {ESP. isla} de Menorca [1§] Transcripción literal"
+  ],
+  "literal": [
+    "1. Una carte de VS he rebude dient ma que an al 2. punt aribave de Maho folgam tinga VSa complida 3. salut junt an mi sra. y los de mes per asi noia cose 4. que visar a VSa sino as de lo de sen patro a aqui mame 5. nat al sr. procuredor trajarl des une barca y com noia 6. avia altre senio le que va qui anave a Teregone a feta anar 7. aqui conte lo caval torsat que larmade fransessa asta de 8. vant as Vise y que passa una faluia retorsade de gent y que li da 9. ran cassa y li metaran quatra homens. An tot stich pronta 10. per lo que menara aqui nostro Sr. guarde molts anis 11. com desige a 17 de sre 1643 12. Criat de VSa 13. Antoni Amoros 14. [^A mi sr. don Pedro Sta. Silia y Pach governador de la isla de Menorque^] [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "191:5204.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo11/191:5204.JPG",
+      "url": "/legajos/legajo-11/images/191:5204.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "191:5204.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-11/cartas/001344.json",
+  "primary_image_url": "/legajos/legajo-11/images/191:5204.JPG"
+}

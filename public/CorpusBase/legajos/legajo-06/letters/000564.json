@@ -1,0 +1,48 @@
+{
+  "legajo_id": "6",
+  "id_carta": "564",
+  "order_in_legajo": 66,
+  "signatura": "",
+  "nombre_carta": "Carta de Ricardo Biancardi a Cecilia Zaforteza y Sureda de Sant Martí",
+  "fecha_original": "21 de septiembre de 1748",
+  "lugar": "Barcelona",
+  "remitente": "Ricardo Biancardi",
+  "destinatario": "Cecilia Zaforteza y Sureda de Sant Martí",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Señora: La dolorosa noticia que me ha participado el amo y señor Carlos, sobrino de v. s., de la pérdida del señor D. Francisco, marido de v. s. (que esté en el cielo), me ha dejado con el justo y debido sentimiento. Y considerando el pesar que justamente aflige a v. s. en tanta pérdida, suplico a la Divina Majestad consuele a v. s. como lo necesita. [1§] Y no pudiendo yo dejar de tener su alma muy presente en mis pobres oraciones, y de ofrecerme a la disposición de v. s., Nuestro Señor guarde a v. s. muchos años, como le pido. Barcelona, y septiembre 21 de 1748. Señora, a los pies de v. s. su más apasionado servidor, Ricardo Biancardi. En cuanto a las comisiones que v. s. se sirvió encargarme al llegar a Malta, las ejecutaré para dar cumplimiento a los órdenes de v. s. Sa. Dña. Cecilia Zaforteza Sureda de San Martín, mi Sra. Transcripción literal"
+  ],
+  "literal": [
+    "1. Señora: La dolorosa noticia 2. que me ha participado 3. el Amo y señor Carlos Sobri4. no de v. s. de la perdida 5. del señor d. Franciso Mari6. do de v. s. (que este 7. en el Cielo) me ha dejado con 8. el justo, y debido sentimiento 9. y considerando el pesar 10. que justamente áflije 11. a v. s. en tanta perdi12. da, suplico a la divina 13. majestad consuele a 14. v. s. como lo necesita [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "059-35a.jpg",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo06/059-35a.jpg",
+      "url": "/legajos/legajo-06/images/059-35a.jpg"
+    },
+    {
+      "filename": "060-35b.jpg",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo06/060-35b.jpg",
+      "url": "/legajos/legajo-06/images/060-35b.jpg"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "059-35a.jpg",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    },
+    {
+      "code": "MISSING_SIGNATURA",
+      "message": "Signatura vacía",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-06/cartas/000564.json",
+  "primary_image_url": "/legajos/legajo-06/images/059-35a.jpg"
+}

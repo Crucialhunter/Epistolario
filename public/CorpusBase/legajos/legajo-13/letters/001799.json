@@ -1,0 +1,48 @@
+{
+  "legajo_id": "13",
+  "id_carta": "1799",
+  "order_in_legajo": 62,
+  "signatura": "110:2303a.JPG",
+  "nombre_carta": "Carta de Miguel de Salvá y de Vallgornera a Pedro Santacilia y Pax",
+  "fecha_original": "23 de agosto de 1668",
+  "lugar": "Mallorca",
+  "remitente": "Miguel de Salvá y de Vallgornera",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Señor mío todas sus cartas de v. m. he recibido y el no haber respondido a ellas ha sido por la falta que hay de pasajes de esta isla a Valencia por donde envio siempre y las embarcaciones han mudado de rumbo pues todo el comercio esta reducido a Cartagena y Cádiz y de aquí adelante habré de escribir por Alicante dígolo porque en la embarcación que salió inmediata a la en que se embarcó v. m. envié en informe yo me alegro que haya llegado y que le haya dado hora para hablar al vicecanciller que siento mucho que v. m. se halle con el cuidado de la enfermedad del Sr. don Juan. Nuestro Señor le vuelva entera salud para que v. m. salga de esta pena y pueda brevemente tratar de sus negocios para volverse luego a su casa que deseo verle en ella y muy bien despachado [1§] con mucha razón me da v. m. el pésame de la muerte del Sr. don Josep Romeu que goce de Dios porque con toda verdad puedo decir a v. m. que mi sentimiento no tiene igualdad he perdido un gran amigo y así debo sentirlo y agradezco mucho a v. m. la merced que me hace en esta particular. v. s. esté sin cuidado que don Arnau irá particularmente encomendado de los demás al marques de Montoro, en todo esta semana servido. Dios servido pienso que se embarcará toda la de esta en la capitana de Mallorca que está ya a punto. Estos días hemos tenido en este puerto al marques de Bayona con cuatro galeras de España han estado seis días mientras las han despalmado para pasar a Barcelona que se hicieron a la vela este lunes pasado al amanecer con muy buen tiempo. El reino está con la misma paz y quietud que cuando v. m. salió sin haber sucedido desgracia alguna. v. s. ya sabe que soy suyo para cuanto [2§] se le ofreciere en esta isla y le suplico me avise luego de la salud del Sr. don Juan que me deja con cuidado. Guarde Dios a v. m. muchos años. Mallorca Agosto 23 de 1668. Sr. mío en su casa de v. m. hay salud que tengo particular cuidado de estas noticias, holgáreme la tenga el Sr. D. Juan Miguel al llegar esta que siento mucho se halle v. m. en esta pena en cuidado. Muy seguro servidor de v. m. que sus manos besa Del virrey Sr. Miguel Salva y de Vallgornera Sr. don Pedro Santacilia y Pax Transcripción literal"
+  ],
+  "literal": [
+    "1. Señor mio todas sus cartas de Vm. he recivido2. y el no aver respondido a ellas assido por3. la falta que hay de Passajes de esta Isla a4. Valencia por donde envio siempre y las5. embarcaciones an mudado de Rumbo puis 6. todo el comercio esta reducido a Cartagena7. y Cadiz y de aqui adelante habre de 8. escrivir por Alicante digolo porque en9. la embarcacion que salio in mediata ala10. en que se embarco Vm Inbie en Informe11. yo me alegro que haya llegado y que le12. haya dado ora para hablar al Sr. Vicecanzr13. q siento mucho que Vm se halle con el 14. cuydado de la enfermedad del Sr. Don15. Juan nuestro Sr le buelva entera salud para16. que Vm salga desta pena y pueda brevemte17. tratar de sus negocios para volverse18. luego a su cassa que desseo verle enella19. y muy bien despachado [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "110:2303a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo13/110:2303a.JPG",
+      "url": "/legajos/legajo-13/images/110:2303a.JPG"
+    },
+    {
+      "filename": "111:2303b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo13/111:2303b.JPG",
+      "url": "/legajos/legajo-13/images/111:2303b.JPG"
+    },
+    {
+      "filename": "112:2303c.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo13/112:2303c.JPG",
+      "url": "/legajos/legajo-13/images/112:2303c.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "110:2303a.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (2)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-13/cartas/001799.json",
+  "primary_image_url": "/legajos/legajo-13/images/110:2303a.JPG"
+}

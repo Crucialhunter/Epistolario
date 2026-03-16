@@ -1,0 +1,38 @@
+{
+  "legajo_id": "31",
+  "id_carta": "7009",
+  "order_in_legajo": 248,
+  "signatura": "367:1760.JPG",
+  "nombre_carta": "Carta de Francisco Simón de Bernun a Pedro Santacilia y Pax",
+  "fecha_original": "18 de noviembre de 1664",
+  "lugar": "Ibiza",
+  "remitente": "Francisco Simón de Bernun",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Por manos del Cristobal Rosellón Recebira v. s. Las cuentas del su padre de la Administración de Teniente de procurador real en esta isla de los años 1659 1660 1661 y 1662 como los de los años 57 y 58 ya se remitireron en otra ocasión que es toda su Administración van en la mejor forma que ha sido Pusible según por ellas v. s. verá a que según entiendo van muy ajustadas espero con el favor de v. s. tendrá todo buena salida No tengo cosa particular que Advertir ni dar Aviso por ahora solo suplicar a v. s. me mande muchas cosas de su servicio que en todo será obedecido [?] Dios guarde muchos años Ibiza y noviembre a 18 de 1664 de v. s. muy Seror. que sus manos besa Francisco Simon de Bernun Illte. procurador real Sr. don Pedro Santacilia y Pax Transcripción literal"
+  ],
+  "literal": [
+    "1. Por manos del Sr. Christoval Rossellon Reçebira 2. V. S. las quentas del Sr. su Padre de la Adminis3. tracion de Tiniente de Procurador Real en 4. esta isla de los Años 1659 = 1660 = 1661 y 1662 - 5. como los de los años 57 y 58 ja se remitireron 6. en otra ocasion que es toda su Administraçion 7. van en la mejor forma que ha sido Pusible 8. segun por ellas V. S. vera que segun entiendo 9. van muy ajustadas espero con el favor de 10. V. S. tendra todo buena salida = 11. No tengo cosa particular que Advertir ni dar 12. Aviso por agora solo suplicar a V. S. me mande 13. muchas cosas de su servicio que en todo sera 14. obedeçido [?] Dios Guarde muchos Años 15. Ibiza y noviembre a 18 de 1664 16. De V. S. Muy Seror. q. S. M. B. 17. Franco. Simon de Bernun 18. Illte. Sr. Por. Real don Pedro Santaçilia y Pax [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "367:1760.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo31/367:1760.JPG",
+      "url": "/legajos/legajo-31/images/367:1760.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "367:1760.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-31/cartas/007009.json",
+  "primary_image_url": "/legajos/legajo-31/images/367:1760.JPG"
+}

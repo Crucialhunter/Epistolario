@@ -1,0 +1,43 @@
+{
+  "legajo_id": "24",
+  "id_carta": "4062",
+  "order_in_legajo": 114,
+  "signatura": "153:4115a.JPG",
+  "nombre_carta": "Carta de Bartolomé de Medina a Pedro Santacilia y Pax",
+  "fecha_original": "9 de diciembre de 1655",
+  "lugar": "Palermo",
+  "remitente": "Bartolomé de Medina",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Con la llegada del {IV} duque de Osuna recibí una carta de v. s. y tiempo atrás había recibido otra a la cual había respondido cuidadoso de no haber tenido carta de don Diego de Salcedo como no sabía que estaba ausente. Digo Sr. y amigo mío que me he holgado tanto con la merced que s. m. le ha echo, con el oficio de procurador real cuanto se puede encarecer, y Dios quiera lo goce muchos años con tanta salud y gusto, que todos sus amigos le tengamos, viéndole en oficio tan bien merecido y tan bien empleado. El duque de Osuna llegó a este castillo, donde estuvo algunos días con su casa alojado por [?] en cuanto el del infantado le dio lugar en el palacio y se previno para su viaje que por falta del tiempo le fue forzoso retirarse a casa del principe de la católica. Su cuñado donde hoy esta esperando para pasarse a Pusol, en el reino de Nápoles. Aquí hablamos en ocasiones de Mallorca y de lo que [1§] le sucedió en Mahón, habiéndose de retirarse al castillo. Fue deseadísima su llegada a este gobierno, que estaba escandalizado del pasado. Lo que se me ofrece suplicarle después de avisarme v. s. de su salud es que me tenga en la memoria y que estas cartas me las remita en la primera ocasión. El inquisidor Cotoner está con buena salud, es la honra de ese reino y el más buen caballero, y de mejor opinión que ha venido a este. No se ofrece otra cosa, yo espero en Dios que su merced. Dios le guarde le dará el gobierno de ese reino otro día y para entonces me quiero ir ha vivir a Mallorca. Guarde Dios a v. s. muchos años de Palermo a 9 de diciembre de 1655. Bartolome de Medina Esta carta que va a Tortosa deseo vaya con seguridad, que es para una huéspeda que fue mía, y la que va Barcelona me importa mucho que v. s. la asegure. Sr. don Pedro Santacilia Transcripción literal"
+  ],
+  "literal": [
+    "1. Con la llegada del Sor Duque de Osuna reçibi2. una Carta de VS y tiempo atras havia recibido3. otra a la qual havia respondido Cuydadoso de4. no haver tenido Carta de Don Diego de Salseo5. como no sabia que estava auzente- digo.6. Sr. y amigo mio que me he olgado tanto con7. la mersed que S.md le ha echo, con el8. hofitio de procurador Real quanto se puede9. encareçer, y Dios quiera lo gose muchos 10. años con tanta salut y gusto, que todos sus11. amigos le tengamos, viendole en offitio tan 12. bien mereçido y tan bien empleado,? el13. Sr. Duque de osuna llego ha este Castillo. 14. donde estuvo algunos dias con Su Casa15. alojado por Sasidad[?] en quanto el del16. Infantado le dio lugar en el palatio-17. y se previno para su viage que por falta18. del tiempo le fue forsoso retirarse a Casa19. del Prinsipe de la Catolica Su Cuñado donde20. oy esta esperando para pasarse a Pusol-21. en el Reyno de napoles- aqui ablamos22. en ocasiones de Mallorca y de lo que [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "153:4115a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo24/153:4115a.JPG",
+      "url": "/legajos/legajo-24/images/153:4115a.JPG"
+    },
+    {
+      "filename": "154:4115b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo24/154:4115b.JPG",
+      "url": "/legajos/legajo-24/images/154:4115b.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "153:4115a.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-24/cartas/004062.json",
+  "primary_image_url": "/legajos/legajo-24/images/153:4115a.JPG"
+}

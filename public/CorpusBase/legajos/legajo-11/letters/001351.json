@@ -1,0 +1,43 @@
+{
+  "legajo_id": "11",
+  "id_carta": "1351",
+  "order_in_legajo": 120,
+  "signatura": "200:5211a.JPG",
+  "nombre_carta": "Carta de Llorenç Carreras a Pedro Santacilia y Pax",
+  "fecha_original": "2 de octubre de 1643",
+  "lugar": "Mallorca",
+  "remitente": "Llorenç Carreras",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Ha entrat de Madrid sens ningunes noves ni la del siti de Lerida se confirma que el governador de Vinarós qui l'escrigui al duc de Terranova per sol·licitar la sua partença que suposar per fet el que esperava prompte i fins avui no serà efectuat el portugués. Escriuen havia pres Salvatierra i ha sitiada la ciutat de [?] a Galícia. El Sr. don Vicente mon [?] ha acceptat el virreinat d'esta {ESP. isla} i per tant s'ha feta nova consulta en què diuen com corren don Ramon Aloy Governador que fou de Catalunya, don Crisanto Sorell i don Juan Crespi, valencians, tindrà molt que fer el que vindra. Déu li doni bones parts i {ESP. asierto} . Amb esta van uns plecs del Sr. Vicens i altre que pens és del Dr. Mayans que m'ha donat el rector de Sta. Creu. Estimaré arribin a mans de v. s. amb tota brevedat. El Dr. Vives pens envià un informe per a son nebot que estimaré mani v. s. despatxar prompte i enviar-me per a remetre-li amb la seguretat i prestesa que ell desitja. Per ací ha corregut veu que la plaça de [1§] esta Reial Audiència serà proveïda en el Sr. Guell, però no té certitud, encara sinó que feta la consulta en Madrid la hora ell partí per a Saragosa i d'allí demanava el diner [?] crèdits tenia a València que són grans premises i ninguna en veien per al remei d'esta república. Déu l'enviï del cel i a v. s. guardi com desitjo. Mallorca a 2 d'octubre 1643. L'Ardiaca Carreras [2§] Transcripción literal"
+  ],
+  "literal": [
+    "1. Ho entrat de Madrid sens ningunes no 2. ves ni le del siti de Lerida se confirma que 3. lo Governador de Binaros qui li escrigui al suc 4. de Terranova per solicitar la sue partensa 5. de que suposar per fet lo que esperave prompte 6. y fins vui no sera efectuat lo Portugues es 7. criven havia pres Salvatierra y a sitiade la ciutat 8. de Tuy a Galisia lo don Vicente mon escriu 9. no ha acceptat lo virreinat de esta isla y per 10. tant se ha feta nova consulta en que diuen con 11. corren don Ramon Aloy Governador que fonc 12. de Cataluña, don Crisanto Sorell y don Juan 13. Crespi valensians tindra molt que fer el que 14. vindra. Deu li done bones parts y asierto. 15. Ab esta van uns plecs del sr. Vicens y altre que 16. pens es del dr. Mayans que me ha donat lo Rector 17. de sta. Creu estimare arriben a mans de VSª 18. en tote brevedat. Lo dr. Vives pens envie un in 19. forme para son nebot que estimare man VSª 20. despatxar prompte y embiarme para remetre 21. lei ab le securetat y prestese que ell desitge . Per asi ha corregut veu que la plasa de [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "200:5211a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo11/200:5211a.JPG",
+      "url": "/legajos/legajo-11/images/200:5211a.JPG"
+    },
+    {
+      "filename": "201:5211b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo11/201:5211b.JPG",
+      "url": "/legajos/legajo-11/images/201:5211b.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "200:5211a.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-11/cartas/001351.json",
+  "primary_image_url": "/legajos/legajo-11/images/200:5211a.JPG"
+}

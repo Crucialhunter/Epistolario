@@ -1,0 +1,38 @@
+{
+  "legajo_id": "31",
+  "id_carta": "6940",
+  "order_in_legajo": 178,
+  "signatura": "263:1691.JPG",
+  "nombre_carta": "Carta de Bernardí Tries a Pedro Santacilia y Pax",
+  "fecha_original": "13 de septiembre de 1663",
+  "lugar": "Alcúdia",
+  "remitente": "Bernardí Tries",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Iltm. Esta es per donar notícies a V. Il·lustríssima. que en el punt que foren a la pobla senyirem l'església i tinguerem notícies que dins la Pobla hoy havia quatre homes d'armes, verem de lluny un home qui corria, yudicarem, era espia qui ana avisar-los, regonegueren cinc cases i no els trobarem després sabérem que mentre reconeixiam, is queren per la part de la marial, la falta que no hem feta obra, es per noconèixer la gent, perq. tinc vist que no els faltin emulos qui estan agraviats i daran notícies d'ells. Si a V Il·lustríssima. apareix enviari en menor amb secret que entrasen denits, per quant ell coneix la gent millor que jo, entenc faria obra nosaltres proseguirem per la via de Pollença fins a Lluch, si mana cosa en son servei, manarà avisarnos. Nre. Sr. Ge a V Il·lustríssima. com pot i desixge d'Alcúdia i setembre als 13 de 1663 Molt Criat de VIllma. que ses mans besa Barnadi tries. [1§] Transcripción literal"
+  ],
+  "literal": [
+    "1. Iltm. Sr. 2. Esta es per donar noticias a V. Illma. q. en el 3. punt q. foren a la pobla señirem la Iglesia y 4. tinguerem noticias q. dins la Pobla ey havia 5. quatre homens de armes, verem de lluny un ho6. me qui corria, yudicarem, era espia qui aná a 7. avisarlos, regonegueren sinc cases y no els trobarem 8. despres saberem q. mentres regoneixiam, isqueren 9. per la part de la maryal, la falta q. no havem 10. feta obra, es per no conexer la gent, perq. tinc vist 11. q. no els falten emulos qui estan agraviats y da12. ran noticias de ells. Si a V Illma. aparex enbiari 13. en menor ab secret q. entrasen denits, per quant 14. ell coneix la gent millor q. yo, entenc faria obra 15. nosaltres proseguirem per la via de Pollensa fins 16. a Lluch, si mana cosa en son servey, manara avi17. sarnos. N. Sr. Ge a V Illma. com pot i desixge 18. de Alcudia y Setembre als 13 de 1663 19. Molt Criat de VIllma. q. S. M. B. 20. Barnadi tries. [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "263:1691.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo31/263:1691.JPG",
+      "url": "/legajos/legajo-31/images/263:1691.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "263:1691.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-31/cartas/006940.json",
+  "primary_image_url": "/legajos/legajo-31/images/263:1691.JPG"
+}

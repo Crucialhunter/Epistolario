@@ -1,0 +1,43 @@
+{
+  "legajo_id": "7",
+  "id_carta": "792",
+  "order_in_legajo": 30,
+  "signatura": "37-23a copy",
+  "nombre_carta": "Carta de Nicolás de Santacilia y Togores a Jerónimo Pelegrín de Aragüés",
+  "fecha_original": "3 de mayo de 1672",
+  "lugar": "Galdent (Llucmajor)",
+  "remitente": "Nicolás de Santacilia y Togores",
+  "destinatario": "Jerónimo Pelegrín de Aragüés",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Sabrà v. m. en Miquel Juan Fuster si ha feta fiança a en Bartomeu Fuster ara que l’han fet curador de Son Fuster; i en Miquel Palou i en Gabriel Fuster que jo li n'he de fer i si agraïnt-li en fan després que ho sàpigueu de fer enviar-m'ho el paper bo i fet per firmar-lo. Ara es ocasió d’estrènyer en Sala. No sé com nostre hom amb na Delabau; s'altre marxat el dareu al senyor Toni Verí amb hores que m’enviï cent lliures. El cònsul contareu amb ell s'oli a deu sense interès i en tenir es compte llest anireu amb el regent i no aturar-se de penyorar. Feu fer una brilla com la des vostre cavall i enviau-me-la amb {ESP. encabeçades} i regnes de corda. Déu vos guard. La jaia està bona. Comanau-nos a Déu. Galdent, a 3 de maig 1672. Don Nicolas de Santacilia. Jeroni Pelegri. [En el margen] No les mostreu a ningú, les diligències lacrades. [1§] A Jeroni Pelegri, que Déu guard. Ciutat. Transcripción literal"
+  ],
+  "literal": [
+    "1. Sabrauma [?] an miquel Juan fuster si a feta fiança 2. anan Bartomeu fuster ara qua lan fet cura- 3. dor de son fuster y an miquel Palou y an ga- 4. briel fuster qua yo lin tench da fer y si 5. agraint lin fan daspres quau sapian da fer anvi- 6. armau as paper bon y fet par firmarlo 7. Ara as ocasio de astrañar ansala; no se com nos- 8. tro bam an na dalabau; saltra maxat al da- 9. rau an al sr. Toni vari; an boras quaman 10. vi fent lliuras As Consul Contarau an bell 11. soli a deu sança intares y an tanir as conta llest 12. anirau anal ragent y no aturarsa de pañorar 13. feu fer una brilla com la des vostro cavall y an 14. viaulam an cabesadas y reinas de corda Deu 15. Vos Guart sa gaia asta bona comanaunos a Deu Galdent 16. a 3 de Ma. 1672 17. Don Nicolas de sta Cilia 18. Garoni Palagri 19. [Al margen]20. no la mostrau anigu 21. las diligensias lacradas [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "37-23a copy.gif",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo07/37-23a copy.gif",
+      "url": "/legajos/legajo-07/images/37-23a copy.gif"
+    },
+    {
+      "filename": "38-23b copy.gif",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo07/38-23b copy.gif",
+      "url": "/legajos/legajo-07/images/38-23b copy.gif"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "37-23a copy.gif",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (5)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-07/cartas/000792.json",
+  "primary_image_url": "/legajos/legajo-07/images/37-23a copy.gif"
+}

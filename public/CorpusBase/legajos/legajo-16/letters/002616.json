@@ -1,0 +1,43 @@
+{
+  "legajo_id": "16",
+  "id_carta": "2616",
+  "order_in_legajo": 104,
+  "signatura": "168:2116a.JPG",
+  "nombre_carta": "Carta de Basilio de Castellví y Ponce a Pedro Santacilia y Pax",
+  "fecha_original": "5 de agosto de 1667",
+  "lugar": "Valencia",
+  "remitente": "Basilio de Castellví y Ponce",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Señor mío aunque los días pasados tengo escri to a v. s. largamente partícípándole las Noviembre dades que por acá se ofrecán ofreciéndose ahora ocación no he querido dejar de solicítar muy buenas nuevas de la salud de v. s. a quien suplico me partícipe estas noticias muy conformes acompañadas de muchos empleos que obedecen del servicio de v. s. en que pueda ejercítar mi obligación doña Laura y Giuseppe quedan buenos y todos besamos a v. s. las manos con las de miseñora doña Leonor y el señor don Juan. Escríveme el señor cardenal Moncada en este ultímo correo de Madrid que lo de Flandes se halla en míserable estado ha viéndonos quítado el enemígo algunas plazas de harta consecuencia suceso harto sensible [1§] Viéndose la Monarchía tan atrasada y falta de medíos para oponerse a los ínjustos desígníos del rey crístianísímo El señor duque de Lerma me escríve enes te ultímo correo que su excelencia saldría de aquella corte para los primeros de este bien Necesítamos aquí de la así estencia de su Excelencia porque se han ametido en díferentes pasrtes del reino estos días muchas mu ertes y las más dependíentes de bandos. este Arcobispado se ha proveído en el señor Arcobispo de Monreal que se halla en Sicilia no se ofrece otra cosa que decir (solo) a v. s. solo encamínar los plíegos ínclusos Dios me guarde a v. s. muchos años como deseo. Valencia y agosto a 5 de 1667 besa Umilde [?] mano su mayor servidor Don Basilio de Castellvi y Ponce Señor don Pedro Santacilia y Pax [2§] Transcripción literal"
+  ],
+  "literal": [
+    "1. Señor mio aunque los días pasados tengo escri2. to a VS. largamente partícípandole las nobe=3. dades que por aca se ofrecán ofreçíendosse aora 4. ocacíon no he querído dejar de solicítar muy 5. buenas nuevas dela Salud de V.S. aquíen 6. suplico me partícípe estas noticías muy con=7. formes acompañadas de muchos empleos 8. que obedeçen del servicio de V.S. enque 9. pueda exercítar mi oblígaçíon Da Laura y 10. Jusepe quedan buenos y todos besamos â V.S. 11. las manos con las de misra Da Leonor 12. y el sr Don Juan. 13. Escríveme el sr Cardenal Moncada en 14. ste ultímo correo de Madríd que lo de 15. flandes se halla en míserable estado ha16. víendonos quítado el enemígo algunas plaças 17. de harta consequencía suceso harto sençible [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "168:2116a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo16/168:2116a.JPG",
+      "url": "/legajos/legajo-16/images/168:2116a.JPG"
+    },
+    {
+      "filename": "169:2116b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo16/169:2116b.JPG",
+      "url": "/legajos/legajo-16/images/169:2116b.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "168:2116a.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-16/cartas/002616.json",
+  "primary_image_url": "/legajos/legajo-16/images/168:2116a.JPG"
+}

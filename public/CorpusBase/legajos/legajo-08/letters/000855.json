@@ -1,0 +1,43 @@
+{
+  "legajo_id": "8",
+  "id_carta": "855",
+  "order_in_legajo": 137,
+  "signatura": "059-48a copia",
+  "nombre_carta": "Carta de Francisco Gómez a Persona desconocida",
+  "fecha_original": "19 de marzo de 1645",
+  "lugar": "Ciutadella",
+  "remitente": "Francisco Gómez",
+  "destinatario": "Persona desconocida",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Al punto que el mesero me ha dado la de v.s. se ha ejecutado lo que v.s. ha ordenado y por ser casi de que no que cuando se ha publicado la sentencia se ha dilatado hasta hoy la partida de los dos galiotes, los cuales lleva el alguacil con toda la custodia que ha pedido, Dios les ayude, que no hay que tenerles envidia, y a v.s. dé muchos años de vida para castigar delincuentes. El miércoles hacen las honras en Mallorca, a que aguardamos a v.s. para dar principio a los de aquí. No quisiera que v.s. se embelesara con tanta bizarría como me dicen hay ahí de damas. Yo, por no ver en alguna tentación [1§] dejé de ofrecerme de ir sirviendo a v.s. Tenga memoria que estamos en cuaresma y de no tropezar con la voluntad: la mía, como siempre, está apartada de servir a v.s., a quien me guarde Nuestro Señor muchos años de mi deseo. Ciutadella, marzo 19 de 1645. Sr. Francisco Gómez. Suplico a v.m. me lo haga en saber nuevas del doctor Lutago obispo Debosa [?], y si acaso hubiere ocasión de pedir al señor virrey o a misa la virreina favorezca en Cáller al Dr. Martín de Miguel Janez, mi cuñado y criado de v.s. Recibiré particular merced. Transcripción literal"
+  ],
+  "literal": [
+    "1. Alpunto que el mesero me á dado la 2. de VSª se á executado lo q VSª á or- 3. denado y por ser casi de no che qua- 4. ndo se á publicado lasentensia 5. se adilatado hasta oj lapartidade 6. los dos galiotes los quales lleba elAl- 7. guazil contoda la custodia q ape- 8. dido dios les ajude q no aj que 9. tenerles inbidia j aVSª de mu- 10. chos años de vida para castigar 11. delinquentes -12. elmiercoles hazen las onrras en 13. mallorca á qui aguardamos 14. a VSª. para dar prinsipio alos 15. de aqui no quisiera q VSª se 16. enbelasara contanta bizarria 17. como medizen aj aj de damas 18. jo por no ver enalguna tentasion [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "059-48a copia.jpg",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo08/059-48a copia.jpg",
+      "url": "/legajos/legajo-08/images/059-48a copia.jpg"
+    },
+    {
+      "filename": "060-48b copia.jpg",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo08/060-48b copia.jpg",
+      "url": "/legajos/legajo-08/images/060-48b copia.jpg"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "059-48a copia.jpg",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-08/cartas/000855.json",
+  "primary_image_url": "/legajos/legajo-08/images/059-48a copia.jpg"
+}

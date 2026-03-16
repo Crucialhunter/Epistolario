@@ -1,0 +1,38 @@
+{
+  "legajo_id": "19",
+  "id_carta": "7680",
+  "order_in_legajo": 1,
+  "signatura": "361_7887",
+  "nombre_carta": "Carta de Luis de Aragón (VII duque de Cardona) a Persona desconocida",
+  "fecha_original": "fecha sin especificar",
+  "lugar": "Castellón",
+  "remitente": "Luis de Aragón (VII duque de Cardona)",
+  "destinatario": "Persona desconocida",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Si v. m. se hallara mejor de su indisposición, me hará merced luego que reciba ésta venirse, que tengo que [hablalle] comunicalle negocio bien grave; y si no estuviere para hacerlo, me avise que quisiera fuese con toda la brevedad que pueda. Guarde Dios a v. m. muchos años. Castellon [miercol] Martes. Don Luis de Aragon Transcripción literal"
+  ],
+  "literal": [
+    "1. Si vm se allara mejor de su in2. disposicion me ara merced ruego 3. q reciva esta venirse q tengo q 4. cumunicarle mejor vien gra5. ve y sino estuviere para aserlo 6. me avise que quisiera fuese con toda 7. la brevedad q pueda Guarde Dios 8. a Vm muchos años Castellon 9. i Martes 10. Don Luys de Aragon [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "361_7887.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo19/361_7887.JPG",
+      "url": "/legajos/legajo-19/images/361_7887.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "361_7887.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-19/cartas/007680.json",
+  "primary_image_url": "/legajos/legajo-19/images/361_7887.JPG"
+}

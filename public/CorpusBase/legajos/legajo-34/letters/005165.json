@@ -1,0 +1,43 @@
+{
+  "legajo_id": "34",
+  "id_carta": "5165",
+  "order_in_legajo": 193,
+  "signatura": "290:7080a.JPG",
+  "nombre_carta": "Carta de Josep de Rocabertí a Pedro Santacilia y Pax",
+  "fecha_original": "1 de mayo de 1658",
+  "lugar": "Barcelona",
+  "remitente": "Josep de Rocabertí",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Tio i mio amb dues cartes de v. m. m [?] molt alegre de beurer que en salut v. m. i mi Sra. dona Leonor aquí [?] i jo besam les mans en esta casa la tenim tots gràcies a Déu el Minyo se fa com un tudesco amb què prest podrà eixir a causa n [?] a63 Sr. don Joan Miquel estigué indiferent de si aniria a beurer les festes de Saragossa [?] no i {CAST. antes} d' [?] nom atrevia a donar-li [?] però {ESP. luego} que medigue li respongui el que em epareixia li Restava millor amb què treia la jornada amb [?] que [?] hem feta estudiar pesats a la [?] m'ha [?] no detingueren [?] i d'allí sant tornat a esta ciutat a on està molt [?] i amb [?] {ESP. gasto} el pot jurar jo no deixaré d'asitir-lo entotlo que Vulla manar-me ací fer la [?] àries de parent com per cas de ser [1§] [?] e mereixador de tot [?] al Sr. don Juan Mox he servit en presentar-lo a la semblea es bi [?] arro cavaller diu se'n torna amb un bergantí que estava de partida i el ha fet detenir deu lidone bona sort i bon viatge i guardi a v. m. com pot i desitjo Barcelona i maig [?] de v. m. molt servidor Sr. don Josep de Rocaberti [2§] Transcripción literal"
+  ],
+  "literal": [
+    "1. Tio y sr. mio [abdos] cartas de Vm m[illegible]2. molt alegre de beurer [q] en salud Vm y3. mi sra. doña leonor aqui [illegible] y4. jo besam las mans en esta casa la tenim5. tots gracias adeu lo Miño se fa com Un6. tudesco abque prest podra exir [acausa]7. n[ ]a63 don Juan Miquel estigue indifer/8. ent de ci aniria a beurer las festas de 9. Çaragoça [ ] no y antes de [illegible]10. nom atrevia a donarli [illegible]11. pero luego que medigue li respongui12. lo quem eparexia li [Restava] millor ab13. que [treia] la Jornada ab[?] que [illegible]14. havem feta estudiar [pesats] ala [?]/15. me[a] [?] no detingueran [illegible]16. y de alli san tornat aesta Ciutat [aont]17. esta molt [illegible] y ab [?] gasto lo pot18. [jurar] yo no dexare de asitirlo entotlo19. que Vulla manarme asi fer la [?]/20. arias de parent com per cas de ser [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "290:7080a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo34/290:7080a.JPG",
+      "url": "/legajos/legajo-34/images/290:7080a.JPG"
+    },
+    {
+      "filename": "291:7080b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo34/291:7080b.JPG",
+      "url": "/legajos/legajo-34/images/291:7080b.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "290:7080a.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-34/cartas/005165.json",
+  "primary_image_url": "/legajos/legajo-34/images/290:7080a.JPG"
+}

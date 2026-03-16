@@ -1,0 +1,43 @@
+{
+  "legajo_id": "16",
+  "id_carta": "2561",
+  "order_in_legajo": 45,
+  "signatura": "079:2061a.JPG",
+  "nombre_carta": "Carta de Diego Matías de Aragüés a Pedro Santacilia y Pax",
+  "fecha_original": "6 de abril de 1667",
+  "lugar": "Madrid",
+  "remitente": "Diego Matías de Aragüés",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Por Barcelona y Valencia tengo escrito largamente a v. s. y espero aviso de mis cartas y de las últimas que tengo escritas, que sólo hago estos renglones, diciendo a v. s. como el señor don Nicolás se está de una manera y hace cama en su celda de la casa de los pajes. Juzgo que habrá menester sudores y insiste habrá menester criado, porque Juan como tengo avisado no ha querido volver, parece que necesita el que le asista alguno y se le podrá dar lo mismo que a Juan y que no es excusable esto. También tengo avisado que para lo que se ha de ofrecer es necesario remitir letra de dos mil reales de plata, o si la halló aquí la tomare, porque el dinero que dejó aquí Pelegrin, alcanzo a v. s. más de 200 reales de plata en orden a los negocios no se ofrece que decir hasta pasado vacaciones y antes de salir de ellas ésta ha dispuesto lo que se ha de obrar en casa el nuncio y también tendré otra vez hablado a todos estos señores de los del Consejo de Aragón y a los señores [1§] cardenal de Aragón, duque de Cardona, conde de Medellín que entiendo nos ha de hacer lindos beneficios con el presidente de Castilla, que según se dice será mayordomo mayor, en lugar del señor duque de Montalto, el cual está ya vestido de cardenal y esta se aún en el cuarto de Palacio hasta publicado el nombramiento prometen habrá algunas novedades antes que salgamos de este mes. El señor don Miguel Salva entiendo que tratará de su jornada a los primeros de mayo todo lo que se ofreciere avisaré a v. s. mandándome le sirva que sus manos besamos doña Margarita y yo y las de mi señora doña Leonor y señor don Juan y todos esos señores muchas veces y guarde Dios como deseo. Madrid a 6 de abril de 1667. Besa las manos de v. s. su mayor servidor, Diego Matias de Aragues Señor don Pedro Santacilia y Pax Transcripción literal"
+  ],
+  "literal": [
+    "1. Por Barçelona y Valençía tengo Escríto largamte 2. a VS. y espero aviso de mis cartas y delas ultimas q 3. tengo escrítas, quesolo ago estos Renglones, Diciendo 4. a Vs. como l sr D Nícolas se esta de Una manera 5. y haçe cama Ensuçelda dela cassa de los Pajes. 6. Juzgo que havra menester sudores y ínsíste havra 7. menester Críado por q Juan como tengo avíssado 8. no ha querído volver, pareçe q neçessíta elq 9. Le assísta alguno y se le podra dar lomísmo que 10. a Juan y que no es escusable esto. tanbien ten11. go abisado q para lo quese ha de ofreçer es 12. neçesarío Remetir letra de dosmil Reales de 13. plata, o, si la allo aqui la tomare, por que el 14. dínero q dexo aquí Pelegrin, alcanço a Vs. mas de 15. 200 Reales depta 16. En orden alos negoçíos nose ofreçe q deçír hasta 17. passado Vacaçiones y antes de salir dellas esta 18. ha dispto lo que se ha de obrar en cassa el Nunçío 19. Y tanbien tendre otra Vez ablado a todos estos 20. Señores delos del Consso de Aragon y alos Señores [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "079:2061a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo16/079:2061a.JPG",
+      "url": "/legajos/legajo-16/images/079:2061a.JPG"
+    },
+    {
+      "filename": "080:2061b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo16/080:2061b.JPG",
+      "url": "/legajos/legajo-16/images/080:2061b.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "079:2061a.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (3)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-16/cartas/002561.json",
+  "primary_image_url": "/legajos/legajo-16/images/079:2061a.JPG"
+}

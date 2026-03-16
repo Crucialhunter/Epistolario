@@ -1,0 +1,38 @@
+{
+  "legajo_id": "3",
+  "id_carta": "439",
+  "order_in_legajo": 2,
+  "signatura": "03-2",
+  "nombre_carta": "Carta de Felipe IV a Luis de Guzmán Ponce de León",
+  "fecha_original": "13 de diciembre de 1660",
+  "lugar": "Madrid",
+  "remitente": "Felipe IV",
+  "destinatario": "Luis de Guzmán Ponce de León",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "El Rey Don Luis de Guzman Ponce de Leon, capitán de mi guardia española de mi consejo de guerra y mi embajador extraordinario. De los seiscientos ochenta y siete ducados y medio de cámara de pensión nueva que he mandado reservar en el obispado de Mallorca para que he presentado a don Pedro Manjarrés, he hecho merced a don Juan Miguel de Santacilia y Togores, mi paje, clérigo de primera tonsura, de ciento y treinta y siete ducados y medio de cámara, que hacen dos mil y doscientos reales, a cuenta de los cinco mil y quinientos reales que le tengo hecha merced sobre dicho obispado. Y así he resuelto encargar y mandaros que siempre que por parte del dicho don Juan Miguel Santacilia y Togores, mi paje, se acudiese a vos sobre esto supliquéis a su Santidad en mi nombre tenga por bien de mandar que se le despachen las bulas de dicha pensión, prestando mi consentimiento para ello, y las remitiréis a manos de mi protonotario infrascrito sin entregarlas a la parte en que seré servido. Dátase en Madrid a 13 de septiembre, 1660.Yo, el rey. Vt. Don Cristobal Crespi Vicesecretario [?] Vt. Conde de Robles reales. Vt. D. Pedro Villacampa reales. Vt. Marta [?] reales. Don Jerónimo de Villanueva, protonotario. Vt. Conde de Albatera Vt. Don Giorgius de Castellví Vt. marqués de Hariza Vt. Don Giuseppe Pueyo reales. Al embajador en Roma, sobre los ciento treinta y siete ducados y medio de cámara que vuestra majestad ha hecho merced sobre el obispado de Mallorca a don Juan Miguel Santacilia y Togores, su paje. Transcripción literal"
+  ],
+  "literal": [
+    "1. El Rey2. Don Luis de Guçman Ponce de Leon Capn de mi Guarda Española3. de mi Consso de Guerra y mi embaxr extraordinario. delos seys cientos ochenta4. y siete Ducados ymedio de camara de pension nueba que he mandado5. reserbar en el obispado de Mallorca para quehe presentado a Don6. Pedro Manjarres he hecho merced a Don Juan Migel de Santa7. y Togores, mi Page clerigo de primera tonsura de ciento y trenta y =8. siete Ducados y medio de camara, que haçen Dos mil y Ducientos9. Reales, a quenta delos cinco mil, y quientos Rs quele tengo hecha10. merced sobre dicho obispado. Y assi he resuelto encargar y man =11. daros que siempre que por parte del dicho Don Juan Migel Santa12. Cilia y Togores, mi Page seacudiese aVos sobre esto supliqueis a su13. santidad en mi nombre tenga por bien de mandar que sele des14. pachen las Bullas de dicha pension prestando mi consentimiento15. para ello y las remitireys amanos demi Protonoto infrascripto16. sin entregarlas a la parte en que sere servido. Date en Madrid 17. a 13 de 7bre 1660. Yo el Rey18. Vt. Don Christobal Crespi Vice [?]19. Vt Conde de Robles Rs.20. Vt D. Po Villacampa Rs.21. Vt Marta [?] Rs.22. Don Geronymo de Villanueva23. proto.24. Vt Comes [?] de Albatera25. Vt D. Gorgries [?] de Castellvi26. Vt Marqs de Hariza27. Vt D. Jusepe Pueyo Rs.28. Al embaxador en Roma sobre los ciento trenta y siete Ducados y medio de 29. camara que V magd ha echo merced sobre el obispado de Mallorca a Don Juan Migel30. Santa Cilia y Togores su Page1 [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "03-2.jpg",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo03/03-2.jpg",
+      "url": "/legajos/legajo-03/images/03-2.jpg"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "03-2.jpg",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (2)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-03/cartas/000439.json",
+  "primary_image_url": "/legajos/legajo-03/images/03-2.jpg"
+}

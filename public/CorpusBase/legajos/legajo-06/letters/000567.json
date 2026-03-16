@@ -1,0 +1,43 @@
+{
+  "legajo_id": "6",
+  "id_carta": "567",
+  "order_in_legajo": 69,
+  "signatura": "064-38a",
+  "nombre_carta": "Carta de Pere Antoni Frau a Cecilia Zaforteza y Sureda de Sant Martí",
+  "fecha_original": "24 de septiembre de 1748",
+  "lugar": "Alaró",
+  "remitente": "Pere Antoni Frau",
+  "destinatario": "Cecilia Zaforteza y Sureda de Sant Martí",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Senyora, Si bé en rebre jo la trista notícia de la mort del Sr. D. Francesc, que Déu tinga escriure a v. m., però tement que la carta tal vegada servirà més de renovar el dolor que de {ESP. consuelo}, suspengué l'escriure, i de persona de la primera estimació de v. m., entenent faria més efecte el seu bon {ESP. modo} i habilitat que la mia carta, però trobant-me ara afavorit amb la que acab de rebre de v. m. he resolt escriure estes poques línies per a expressar el degut sentiment amb què acompany a v. m. i per a {ESP. aliviar-lo} en el que pugui, no dic més sinó que se valga de les mateixes raons i circumstàncies de què me fa memòria en la seva carta, i pens que amb el seu gran judici i cristiandat quedarà v. m. en algun {ESP. modo} consolada. Jo quedo pregant a Déu per l’{ESP. alivio} de l’ànima del difunt i suplicant a v. m. estigui eambla intel·ligència que en tots temps me tindrà prompte per servir-la, així en les adversitats i afliccions com en les prosperitats i alegries. Déu el disponga tot i guardi a v. m. els molts anys que li suplico. Alaró, setembre 24 de 1748. Beso les mans de v. m., son més segur servidor,Dr. Pere Antoni Frau, prevere. Senyora Dna. Cecilia Zaforteza i Sureda de Santmarti Transcripción literal"
+  ],
+  "literal": [
+    "1. Señora si [?] al rebre io la trista no- 2. ticia de la mort del Sr. D. Francesch 3. que Deu tinga, [?] L.B.M [?] 4. pero tement que la carta tal vegade 5. servira mes de renovar el dolor que 6. de consuleo, suspangue lo [?], y [?] 7. [?] de [?] de la primera estima- 8. cio de V.M., entenent faria mes efecte el 9. seu bon modo, y habilidad que la mia 10. carta; pero trobantme ara favorit ab la 11. que [?] de reber de V.M. , he rasolt es- 12. criure estas pocas lineas para expressar el 13. degut ssentiment ab que acompañy á V.M. 14. y para aliviarlo en lo que puga no [?] 15. mes sino que se valga de las matexas ra- 16. hons, y sircunstancias de que me fa memo- 17. ria en la sua carta, y pens que ab lo seu 18. gran indici, y Christiandad que[?] V.M. 19. en algun modo consolable; jo quedo pre- 20. gant á Deu per lo alivio de la anima 21. del [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "064-38a.jpg",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo06/064-38a.jpg",
+      "url": "/legajos/legajo-06/images/064-38a.jpg"
+    },
+    {
+      "filename": "065-38b.jpg",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo06/065-38b.jpg",
+      "url": "/legajos/legajo-06/images/065-38b.jpg"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "064-38a.jpg",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-06/cartas/000567.json",
+  "primary_image_url": "/legajos/legajo-06/images/064-38a.jpg"
+}

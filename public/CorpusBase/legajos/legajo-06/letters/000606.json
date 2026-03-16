@@ -1,0 +1,38 @@
+{
+  "legajo_id": "6",
+  "id_carta": "606",
+  "order_in_legajo": 103,
+  "signatura": "140-71",
+  "nombre_carta": "Carta de Guillem Nadal a Cecilia Zaforteza y Sureda de Sant Martí",
+  "fecha_original": "3 de febrero de 1763",
+  "lugar": "Son Quint",
+  "remitente": "Guillem Nadal",
+  "destinatario": "Cecilia Zaforteza y Sureda de Sant Martí",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Mi senyora, Esper esta trobarà a v. m. amb perfecta salut. Ací tots bons, en Tomàs sense tossir, la senyora sense rajar, i els {ESP. demés} molt bons. Déu la guardi molts anys. Son Quint i febrer als 3 de 1763. Nadal, prevere, son menor capellà, que sa mà besa. A mi senyora Transcripción literal"
+  ],
+  "literal": [
+    "1. Mi Sra. esper esta 2. troberá á V.M. ab, 3. perfeta salut, assi 4. tots bons, en Tho- 5. mas sens tusir, la 6. Sre. sens retjar, y 7. los demes molt bons 8. Deu la Gde ms as 9. Son Quint y Fa- 10. brer als 3 de 1763 11. Nadal Pre, son 12. mr Capa, q S[a] M[a] B. 13. A mi Sra. [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "140-71.jpg",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo06/140-71.jpg",
+      "url": "/legajos/legajo-06/images/140-71.jpg"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "140-71.jpg",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-06/cartas/000606.json",
+  "primary_image_url": "/legajos/legajo-06/images/140-71.jpg"
+}

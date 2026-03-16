@@ -1,0 +1,37 @@
+{
+  "legajo_id": "9",
+  "id_carta": "1121",
+  "order_in_legajo": 2,
+  "signatura": "283-9-03a",
+  "nombre_carta": "Carta de Persona desconocida a Arnau de Santacilia",
+  "fecha_original": "fecha sin especificar",
+  "lugar": "lugar sin especificar",
+  "remitente": "Persona desconocida",
+  "destinatario": "Arnau de Santacilia",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Se me han entregado en la Torre de Lora dos cajetas de balas llenas cerradas y en otras dos abiertas otras pocas y un barril de pólvora lleno cerrado y en otro como medio rótulo y una poca de cuerda que serán como treinta mozos porque no la han entregado por cuenta. Dijeron que así se las habían entregado a bulto. Avísolo a v. m. aquí ni hay un candil. El muchacho [1§], el señor Juan, donde está el sargento, han quitado o quemado una puerta nueva que estaba detrás de la iglesia y un cajón y el umbral de la puerta, todo falta de v. m. si de ello. La casa de enfrente de aquí también la han desmantelado los cabríos. Transcripción literal"
+  ],
+  "literal": [
+    "1. semehan entregado enla torre de lora dos 2. cajetas de balas llenas zerradas yen otras 3. dos abiertas otras pocas 4. y un Barril de 5. Polbora lleno zerrado y en otro como 6. medio rotulo y una poca de querda 7. Speran como treyta mozos porq no laan 8. entregado porqta dijeron q aside 9. las àvian entregado abulto avisolo 10. a Vm aquí niay un candil el muchacho [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "283-9-03a.jpg",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo09/283-9-03a.jpg",
+      "url": "/legajos/legajo-09/images/283-9-03a.jpg"
+    },
+    {
+      "filename": "284-9-03b.jpg",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo09/284-9-03b.jpg",
+      "url": "/legajos/legajo-09/images/284-9-03b.jpg"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "283-9-03a.jpg",
+  "warnings": [],
+  "raw_source": "raw/legajos/legajo-09/cartas/001121.json",
+  "primary_image_url": "/legajos/legajo-09/images/283-9-03a.jpg"
+}

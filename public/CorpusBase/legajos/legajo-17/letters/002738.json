@@ -1,0 +1,43 @@
+{
+  "legajo_id": "17",
+  "id_carta": "2738",
+  "order_in_legajo": 1,
+  "signatura": "003:1280a.JPG",
+  "nombre_carta": "Carta de Basilio de Castellví y Ponce a Pedro Santacilia y Pax",
+  "fecha_original": "4 de julio de 1657",
+  "lugar": "Valencia",
+  "remitente": "Basilio de Castellví y Ponce",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Señor mío, muy olvidado me tiene v. s. que hace mil días no he tenido carta, si bien por otras personas he sabido [que] goza v. s. de salud. Quiera Dios se continúe muchos años con las felicidades que sus servidores de v. s. deseamos. Yo quedo al servicio de v. s. bueno para cuanto fuere servido de mandarme, deseando siempre quiera v. s. mandarme muchas cosas de su gusto. Ofréceseme suplicar a v. s. me haga favor de mandar llamar a Esteban Conrado correspondiente de Manuel Botasio y don Francisco Rato, a quienes tengo cedidos los 500 ducados que tengo de pensión sobre ese obispado, y habiéndose estos señores hecho procura no ha dado razón más hace de un año de si ha cobrado o no, y aunque le han sacado a pagar unas letras no lo ha hecho ni avisado por qué causa dejaba de pagarlas. Desean saber lo que hay en esto porque les hace gran falta ese dinero, y cuando aquí me le tienen dado adelantado no es razón padezcan este detrimento. Que diga por qué causa ha dejado de escribir y v. s. se sirva de decirle trate de dar aviso de lo que ha cobrado y juntamente dé satisfacción, que juzgo anda alguna trampa de por medio y deseo sumamente desenmacascar este negocio. V. s. perdone estos enfados que como sé la mucha merced que me hace siempre, esto me da [§2] motivo para cansarle. V. s. me tiene siempre muy seguro para mandarme cuanto fuere servido con seguridad de que será obedecido como es razón. Dios guarde a v. s. muchos años, Valencia y 4 de septiembre de 1657. Señor mío, v. s. sea de servir de favorecerme en esta diligencia entendiendo que pende de ella mi comida, y fío de la merced que v. s. me hace lo he de conseguir por su medio. Besa a v. s. su mano su mayor servidor, Don Basilio de Castellvi y Ponce. Sr. d. Pedro de Santacilia Transcripción literal"
+  ],
+  "literal": [
+    "1. Señor mio muy olbidado me tiene VS que a mil dias 2. no he tenido carta si bien por/otras personas hesavido Goça3. VS desalud quiera Dios se continue ms a< ño>s con las fe4. licidades que sus servidores de VS deseamos, Yo quedo al 5. serviçio de VS bueno para quanto fuere servido de man6. darme deseando siempre quiera VS mandarme mu7. chas cosas de su gusto, 8. Ofreçeseme suplicar aVS mehaga fabor de mandar 9. llamar a estevan Conrrado correspondiente de Manuel 10. botasio y don Franco rrato, a quienes tengo cedidos los 500 11. ducados que tengo de pension, sobre ese obispado, y havien12. dose, estos señores hecho procura no a dado, raçon, mas 13. a de un año, desiacobrado, ono, y aunque leansacado apa14. gar unas Letras no lo ahecho ni avisado porque causa15. dejava de pagallas desean saver lo que ay enesto porque 16. les haçe gran falta ese dinero y quando aqui me le tienen17. dado adelantado no es rraçon padezcan este detrimento 18. que diga porque causa adejado deescribir y VS se sirva 19. de decille, beate[?] de dar abiso delo queacobrado y juntamte 20. de satisfaçión que juzgo anda alguna trampa, depor 21. medio y deseo suma mente desemmacañar este 22. negocio VS Perdone estos enfados que como se. 23. la mucha merced quemehaçe siempre esto me da [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "003:1280a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo17/003:1280a.JPG",
+      "url": "/legajos/legajo-17/images/003:1280a.JPG"
+    },
+    {
+      "filename": "004:1280b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo17/004:1280b.JPG",
+      "url": "/legajos/legajo-17/images/004:1280b.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "003:1280a.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-17/cartas/002738.json",
+  "primary_image_url": "/legajos/legajo-17/images/003:1280a.JPG"
+}

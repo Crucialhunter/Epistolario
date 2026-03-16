@@ -1,0 +1,43 @@
+{
+  "legajo_id": "20",
+  "id_carta": "3185",
+  "order_in_legajo": 61,
+  "signatura": "072:5966a.JPG",
+  "nombre_carta": "Carta de Diego Matías de Aragüés a Pedro Santacilia y Pax",
+  "fecha_original": "30 de mayo de 1663",
+  "lugar": "Madrid",
+  "remitente": "Diego Matías de Aragüés",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    ". Tengo recibidas y respondido a todas las cartas hasta las que llegaron a mis manos a ir de este, por Vala. Barcelona y Alicante y muy contentos Dña. [?] y yo de la mejoría y buena convaleciencia [?] del Sr. don Juan [?] que espéramos en el primer aviso tener nuevas de que esta del todo con buena salud y que la tenga tan cumplida como se la deseamos en vida de v. m. mi Sra. doña. Leonor y todos esos [?] Sres. que besamos sus manos. En razón de las pensiones [?] a Jerónimo lo que se me ofrece [?] para que me responda a lo que le pregunto cuanto antes, que yo voy hablando a esos [?] Sres. del consejo porque habrá de llegar el caso que su majestad ponga la mano. y la misma [?] diligencia se habrá de hacer por el Sr. don Basilio de Castelin [?]. conforme lo que per haya pasa y [?] provisiones parece ser aunque v. m. tenga buena ocasión de embarcarse no lo ejecute porque se tiene por cosa cierta acá que el virrey se irá a Barcelona antes [?] de cumplir el tiempo y demás [?] que tiene licencia para ello (q. esto v. m. verá a halla disposición que hay) conq. no podrá dejar v. m. de estar al ejercicio [1§] del gobierno de ese reino, y saliendo de hay el virrey el nuevo que va tiene licencia primero para ir a Valencia y disponer de allí su jornada con su casa, y hasta que llegue en Ibiza el gobernador de Menorca que esta nombrado para ese Gobierno, no puede salir de Ibiza, el que esta nombrado por virrey de Mallorca y para gobernador de Menorca esta nombrado un caballero catalan del hábito de Santiago llamado Sr. don Sebastian Duran con que toda esta disposición antes que este ejecutada pasara tpo. para que v. m. de la enhorabuena de [?] de este Consejo de Aragón, Por Aragón es [?] Sr. don Juan de Heredia que es del consejo de hacienda [?] y es con retención de esta plaza [?] del conde que lo [?] es de Aranda. Por Cataluña al Dr. Sr. don Rafael Vilosa [?]. El [?] campea en Portugal [?] aguardando las nuevas de Ebora si se ha entregado, o, entrado por fuerza, el marques de [?] ba [?] muy [?] del Sr. don Juan de Austria y sirva con pica [?] y sus camaradas y hubo [?] hacer [?] de 600 hombres en sus estados para que vayan [?] a esta campaña. No hay novedad fija en lo del Juez de las [?] hasta ahora, Su majestad [?] esta buena y en estas procesiones del Corpus ha sido muy [?]. El despacho de la ayuda de costa [?] como tengo avisado va remitido por orden de Jeronimo Mancho [?] por Alicante. v. m. me mande le sirva y guarde Dios como deseo Madrid 30. mayo 1663. Besa la mano de v. m. su mayor servidor Diego Matias de Aragues [?] Sr. don Pedro Santacilia y Pax [2§] Transcripción literal"
+  ],
+  "literal": [
+    "1. Tengo recividas y respondido a todas las 2. cartas hasta las q. llegaron a mis manos air 3. deste, por Vala. Barcelona y Alicante 4. Y muy contentos da. [?] y yo de la 5. mejoria y buena convaleciencia[?] del Sr. don Jua? 6. q. esperamos en el primer aviso tener 7. nuebas de q. esta del todo con buena salud 8. y q. la tenga tan cumplida como se la 9. des[e]amos en vida de Vm. mi Sra. doña. 10. Leonor y todos esos[?] Ssres. q. vessamos 11. sus manos. 12. En razon de las pensiones [?] a Geronimo13. lo q. se me ofreze[?] pa que me responda a lo q. le 14. pregunto quanto antes, q. yo boy hablando 15. a essos[?] Ssres. del Consso porq. habra de 16. llegar el caso q. su M[a]gd ponga la mano. 17. Y la misma[?] diligencia se habra de hazer por 18. el Sr. don Basilio de Castelin[?]. 19. Conforme lo q. per aia passa y[?] provisiones 20. parece ser aunq Vm. tenga buena occasion 21. de embarcarse no lo execute porq. se 22. tiene por cosa cierta aca q. el Sr. Virrey 23. se hira a Barcelona antes[?] de cumplir 24. el tpo y demas[?] q tiene licencia para ello 25. ( q. esto Vm. vera alla disposicion q. ay ) 26. conq. no podra dexar Vm. de estar al exerçicio [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "072:5966a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo20/072:5966a.JPG",
+      "url": "/legajos/legajo-20/images/072:5966a.JPG"
+    },
+    {
+      "filename": "073:5966b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo20/073:5966b.JPG",
+      "url": "/legajos/legajo-20/images/073:5966b.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "072:5966a.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (3)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-20/cartas/003185.json",
+  "primary_image_url": "/legajos/legajo-20/images/072:5966a.JPG"
+}

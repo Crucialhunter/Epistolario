@@ -1,0 +1,38 @@
+{
+  "legajo_id": "25",
+  "id_carta": "4087",
+  "order_in_legajo": 21,
+  "signatura": "042_121.JPG",
+  "nombre_carta": "Carta de Rafel Rapó a Jerónimo Pelegrín de Aragüés",
+  "fecha_original": "9 de marzo de 1667",
+  "lugar": "Sineu",
+  "remitente": "Rafel Rapó",
+  "destinatario": "Jerónimo Pelegrín de Aragüés",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Amigo Llegué ayer a nuestra villa de Sineu y hablando con el rector y [ilegible], mi padre, me recomendaron aquella petición de la capirlla de la madre de Dios del Rosario; y así V.M. se acordará de representarlo a la junta que me lo han rogado mucho que la haga acordar a v. m.. No más. V. m. me mande. De esta su casa y villa de Sineu, 9 de marzo 1667. Que sus manos besa El Sr. Rafel Rapo Sr. Jeronimo Pelegrin {CAT. Al Sr. Jeroni Pelegri Déu guardi secretari del procurador reial de Mallorca. Ciutat} Transcripción literal"
+  ],
+  "literal": [
+    "1. Amigo2. Allegué aer a nuestra villa de 3. Sineu y ablando con el Retor y4. [ilegible] mi padre me recomedaro 5. aquella apiticio dela capilla de6. la madre de Dios del Rosario7. y assi Vmd. se aquerdara de8. represetarlo a la junta q me9. lo han rogado mucho q le asse10. aquerdar a Vmd. no mas Vmd.11. me made desta su cassa y villa12. de Sineu 9 de marso y 166713. Q.S.M.B.14. Dr. Rafel Rapo15. Sr. Geronimo Pelegrin16. Al Sr. Geroni Pela17. gri Deu gde secre18. tari del Procurador19. Real de Mall[orca]20. Ciutat [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "042_121.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo25/042_121.JPG",
+      "url": "/legajos/legajo-25/images/042_121.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "042_121.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (5)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-25/cartas/004087.json",
+  "primary_image_url": "/legajos/legajo-25/images/042_121.JPG"
+}

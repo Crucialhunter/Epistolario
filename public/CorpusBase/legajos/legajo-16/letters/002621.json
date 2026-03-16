@@ -1,0 +1,38 @@
+{
+  "legajo_id": "16",
+  "id_carta": "2621",
+  "order_in_legajo": 109,
+  "signatura": "176:2121.JPG",
+  "nombre_carta": "Carta de Nicolás de Santacilia y Togores a Pedro Santacilia y Pax",
+  "fecha_original": "13 de agosto de 1667",
+  "lugar": "Madrid",
+  "remitente": "Nicolás de Santacilia y Togores",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "La de 17 de julio por Via de Alican te he recibido con mucho gusto holgando me dé su mejora de v. m. Dios se la conserve muchos años en vida de mi madre y señora, y en este instante acabo de recibir otra de Bárselo de 25 del mismo Yo trato de despachar lo más aprisaque puedo, porque esto esta de Calidad que todo el mundo se queja, y así advierto a v. m. que por acá hay falta de hombrespa ra los negocios y en esto no quito ni pon go Guarde Dios a v. m. muchos años como deseo ye menester. Madrid, a 13 de agosto 1667 Su más humilde hijo de v. m. que sus manos besa don Nicolas de Santacilia y Togores mi Sr. y mi padre [1§] Transcripción literal"
+  ],
+  "literal": [
+    "1. La de 17 de julio por Via de Alican2. te e resibido Con mucho gusto olgando3. me de su megora de VM Dios sela 4. Conserve muchos años en Vida de mi 5. Madre y Señora, y en este istante acabo 6. de resibir hotra de Barselo de 25 del mis=7. mo 8. Jo trato de despachar lo mas aprisaque 9. puedo, porque esto esta de Calidad que 10. todo el mundo se quexa, y asi advierto 11. a VM que por aca ay falta de hombrespa-12. ra los negosios y en esto no quito ni pon13. go Guarde Dios a VM muchos años Como 14. deseo ye menester. Madrid, a 13 de [Ago]sto 15. 1667 16. Su mas humilde hijo 17. de Vm q S[u] M[] B[] 18. Don Nicolas de Sta Cilia y Togores19. [Margen izquierdo][^ mi Sr y mi Padre] [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "176:2121.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo16/176:2121.JPG",
+      "url": "/legajos/legajo-16/images/176:2121.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "176:2121.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-16/cartas/002621.json",
+  "primary_image_url": "/legajos/legajo-16/images/176:2121.JPG"
+}

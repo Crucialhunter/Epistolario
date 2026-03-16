@@ -1,0 +1,38 @@
+{
+  "legajo_id": "30",
+  "id_carta": "6608",
+  "order_in_legajo": 140,
+  "signatura": "113:5446.JPG",
+  "nombre_carta": "Carta de Lorenzo Beltrán a Pedro Santacilia y Pax",
+  "fecha_original": "2 de abril de 1651",
+  "lugar": "Ciutadella",
+  "remitente": "Lorenzo Beltrán",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "[1§] Transcripción literal"
+  ],
+  "literal": [
+    "1."
+  ],
+  "imagenes": [
+    {
+      "filename": "113:5446.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo30/113:5446.JPG",
+      "url": "/legajos/legajo-30/images/113:5446.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "113:5446.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-30/cartas/006608.json",
+  "primary_image_url": "/legajos/legajo-30/images/113:5446.JPG"
+}

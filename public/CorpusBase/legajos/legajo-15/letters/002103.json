@@ -1,0 +1,37 @@
+{
+  "legajo_id": "15",
+  "id_carta": "2103",
+  "order_in_legajo": 1,
+  "signatura": "000:6326a.JPG",
+  "nombre_carta": "Carta de Pedro Santacilia y Pax a Beatriu Santacilia i Togores",
+  "fecha_original": "16 de febrero de 1624",
+  "lugar": "Barcelona",
+  "remitente": "Pedro Santacilia y Pax",
+  "destinatario": "Beatriu Santacilia i Togores",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Carta de mi senyor don Pedro Santacilia per a mi, Beatriu Togores. Ja té resposta de 16 de febrer, 1624. Tornat d'Itàlia he sabut la sort ha tinguda don Joan Miquel amb l'elecció ha feta v. m. de son casament. Com me n'he alegrat en extrem. Déu els deixa {ESP. gosar} el nou estat molts anys i a mi me dóna vida perquè servesca sempre a v. m., a qui Nostre Senyor guarde. Barcelona, febrer, 16, de 1624. Don Pedro Santacilia i Pax Mi senyora dona Beatriu Togores i Santacilia Transcripción literal"
+  ],
+  "literal": [
+    "1. Tornat de Italia he sabut la sort2. a tinguda Don Juan Miquel ab la3. allecio a feta VM. de son casa=4. ment com men alegrat altrem5. deu los dexa gosar lo nou astat6. molts anys y a mi me dona vida7. per aque servesca sempre a VM8. aqui N Sr gde Bara fabrer9. 16 de 162410. Don Pedro Stacilia i Pax11. [Margen izquierdo]12. Mi Sa Dona Beatriu Togores y Stacilia [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "000:6326a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo15/000:6326a.JPG",
+      "url": "/legajos/legajo-15/images/000:6326a.JPG"
+    },
+    {
+      "filename": "001:6326b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo15/001:6326b.JPG",
+      "url": "/legajos/legajo-15/images/001:6326b.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "000:6326a.JPG",
+  "warnings": [],
+  "raw_source": "raw/legajos/legajo-15/cartas/002103.json",
+  "primary_image_url": "/legajos/legajo-15/images/000:6326a.JPG"
+}

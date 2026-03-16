@@ -1,0 +1,48 @@
+{
+  "legajo_id": "31",
+  "id_carta": "6911",
+  "order_in_legajo": 151,
+  "signatura": "216:1662a.JPG",
+  "nombre_carta": "Carta de Isabel de Salvá a Pedro Santacilia y Pax",
+  "fecha_original": "6 de junio de 1663",
+  "lugar": "Madrid",
+  "remitente": "Isabel de Salvá",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Señor mío, Esta halle a v.m. con la buena salud que yo deseo, amén. Alborozada me tenía que me habían dicho v.m. venía a esta corte, y ahora me dicen que no es así. Como v.m. goce de buena salud, yo lo llevaré bien y toda su casa, que se la deseo como la mía: esto puede v.m. muy bien creer. El rey nuestro señor está muy convalecido de sus achaques; el príncipe, ha[ce] más de quince días está con unas tercianillas. Dicen que son por salirle alguna muela o diente; ello le dan con frío y le dura la terciana seis o siete horas. Queda limpio de calentura y mama bien y duerme una vez lo han sangrado, mas a todos nos tiene con cuidado, como importa tanto su vida: Dios se lo dé a ese, [1§] como es menester, amén. La reina y la señora infanta están muy buenas, Dios las guarde. Mi hermana está buena y besa a v.m. las manos, y yo hago lo propio; y al señor don Juan, que me holgaré esté muy bueno, que harta soledad me hace no verlo en la capilla; y a todas esas mis señoras hacemos lo propio. Quiero dar a v.m. cuenta de los casamientos de las hijas del conde, mi señor, que también ha bien avenido [?] en ellas de muy buena gana mi señor, a quien dé Dios gozo. Ya dije a v.m. en otra días ha[ce] como había casado el condecico de Alcaitín [Alcoutim] con hija del señor duque de Cardona. Es muy gentil mi señora doña Teresa y todos están muy contentos. Ahora, pocos días ha[ce], casó a mi señora doña Juliana Portocarrero con el señor duque de Arcos; es muy gentil dama. Están capitulados; han ido por la disposición. También están muy contentos todos: Dios los guarde mil años, y a v.m. le deseo lo mismo. Yo ando bien flaca porque tengo ma[2§]lísima gana de comer, pero ando en pie y sirvo de cualquier suerte muy al servicio de v.m. y de toda su casa; y en su compañía me lo guarde Dios como deseo y he menester. Madrid y junio 6 de 1663. Quien más lo quiere a v.m. y desea servir, doña Isabel de Salva Transcripción literal"
+  ],
+  "literal": [
+    "1. 1. 1."
+  ],
+  "imagenes": [
+    {
+      "filename": "215:1662a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo31/215:1662a.JPG",
+      "url": "/legajos/legajo-31/images/215:1662a.JPG"
+    },
+    {
+      "filename": "217:1662b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo31/217:1662b.JPG",
+      "url": "/legajos/legajo-31/images/217:1662b.JPG"
+    },
+    {
+      "filename": "219:1662c.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo31/219:1662c.JPG",
+      "url": "/legajos/legajo-31/images/219:1662c.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "215:1662a.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-31/cartas/006911.json",
+  "primary_image_url": "/legajos/legajo-31/images/215:1662a.JPG"
+}

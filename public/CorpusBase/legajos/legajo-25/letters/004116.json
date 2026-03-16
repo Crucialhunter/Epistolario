@@ -1,0 +1,48 @@
+{
+  "legajo_id": "25",
+  "id_carta": "4116",
+  "order_in_legajo": 50,
+  "signatura": "101_150a.JPG",
+  "nombre_carta": "Carta de José Balell a Jerónimo Pelegrín de Aragüés",
+  "fecha_original": "10 de mayo de 1667",
+  "lugar": "Barcelona",
+  "remitente": "José Balell",
+  "destinatario": "Jerónimo Pelegrín de Aragüés",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "No puedo excusar de besar su mano como lo hago escribiendo al Sr. D. Pedro. [?] a quien doy cuenta de todo lo que se ofrece y de las novedades como verá i también le remito dos pliegos del Sr. secretario de v. m., a quien suplico me mande como quien puede, pues sabe que en todo será obedecido i servido i guarde Dios a v. m. muchos años como puede i deseo en compañía de cuanto quiere y merece. Barcelona i Mayo a 10 de 1667. A todos los amigos beso las manos y en particular al Sr. canónigo Fabregues, al Sr. Julio Gibert i al Sr. Juan Socies su [?]. Cierto servidor i [?] Josep Balell Perdone v. m. que no hay más papel por cubierta. Sr. Jeronimo Pelegrin de Aragues [1§] {LAT. Votu Platenis de vista examine doctrinarse es d'earu probabi ltate et de Primis instantis et aliis recursibus} {CAT. imprès en Saragossa a 1639. L'autor Joan Antoni Saura} [2§] Barcelona a 10 de mayo 1667 del sargento. Maior Giuseppe Balell, recibida [3§] Transcripción literal"
+  ],
+  "literal": [
+    "1. No puedo escusar de besar su mano como 2. lo hago escribiendo al Sr. D. Pº. [?] 3. a quien doi qta. de todo lo que se offrece 4. y de las novedades como vera y tanvien 5. le remito dos pliegos del Sr. sectio. de Vm 6. aquien Suppº. me mande como quien 7. puede pues save que en todo sera obedeci8. do y servido y gde. A dios a Vm ms. as. 9. como puede y desº. en Compª. de qto. quiere 10. y merece Barcelona y Mayo A 10 de 1667 11. A todos los Amigos beso las manos y 12. en particular al sr. Canonigo Fabre13. gues, al Sr. Juº. Gibert y al sr. Juan 14. Sosies su [?].15. Cierto Servor. y [?] 16. Josep Balell17. Perdone Vm que no ay 18. mas papel pr. cubierta 19. Sr. Gmo. Pelegrin de Aragues [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "101_150a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo25/101_150a.JPG",
+      "url": "/legajos/legajo-25/images/101_150a.JPG"
+    },
+    {
+      "filename": "102_150b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo25/102_150b.JPG",
+      "url": "/legajos/legajo-25/images/102_150b.JPG"
+    },
+    {
+      "filename": "103_150c.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo25/103_150c.JPG",
+      "url": "/legajos/legajo-25/images/103_150c.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "101_150a.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (5)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-25/cartas/004116.json",
+  "primary_image_url": "/legajos/legajo-25/images/101_150a.JPG"
+}

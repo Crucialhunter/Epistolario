@@ -1,0 +1,38 @@
+{
+  "legajo_id": "8",
+  "id_carta": "860",
+  "order_in_legajo": 159,
+  "signatura": "065-53 copia",
+  "nombre_carta": "Carta de Gabriel Seguí a Persona desconocida",
+  "fecha_original": "1 de abril de 1649",
+  "lugar": "Maó",
+  "remitente": "Gabriel Seguí",
+  "destinatario": "Persona desconocida",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "En aquest punt, que seran dues hores passat migdia, m'ha feta relació l'atalaier de l'atalaia frossa que per un mitjorn i llabeig [?] ha descoberts vint vaixells rodons que venen a la volta de terra. M'ha paregut donar-ne avís a v.s. i si hi ha altra cosa s'anirà innovant puntualment avisat. Guardi Déu nostre senyor a v.s. com pot. De Maó i abril, al primer de 1649. La gent d'armes ha manat ajuntant pel que pot ser. Gabrieñ Seguí Senyor governador Transcripción literal"
+  ],
+  "literal": [
+    "1. En aquest punt queseran dos horas passat mig 2. dia me hafeta relatio lo attalayer dela 3. Atalaya Grossa q p un migrorn Y llabergx 4. hadescuberts Vint vaxells redons qui Venan ala 5. Volta deterra. Ham aparagut donarna avis 6. aVSª Ysialtra cosa seanira junovant sera 7. VSª puntualment avisat g< > Deu n< > S. 8. aVSª compot deMaho Y Abril al primer 9. de1649 ? La gent de armas hemanat 10. ajunctant p lo q potser 11. Gabriel Sagui 12. S< > Governador [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "065-53 copia.jpg",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo08/065-53 copia.jpg",
+      "url": "/legajos/legajo-08/images/065-53 copia.jpg"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "065-53 copia.jpg",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-08/cartas/000860.json",
+  "primary_image_url": "/legajos/legajo-08/images/065-53 copia.jpg"
+}

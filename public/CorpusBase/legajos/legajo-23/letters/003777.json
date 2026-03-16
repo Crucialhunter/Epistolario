@@ -1,0 +1,37 @@
+{
+  "legajo_id": "23",
+  "id_carta": "3777",
+  "order_in_legajo": 33,
+  "signatura": "054:3189a.JPG",
+  "nombre_carta": "Carta de Juan Sureda a Pedro Santacilia y Pax",
+  "fecha_original": "2 de julio de 1630",
+  "lugar": "Mallorca",
+  "remitente": "Juan Sureda",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Amb esta rebrà v. m. del patró Alemany les dues espases m'envia a demanar per allò del procurador reial. Estic aguardant la carta escriguí a v. m. m'envias perquè d'altra manera ho tinc per dificultós. El Sr. D. Francisco està al llit que la gota li ha carregat estos dies molt de manera que està afligidíssim, Nre. Sr. ho {ESP. remedii} i guardi a v. m. Mallorca i juliol 2 de 1630. Don Juan Sureda Sr. D. Pedro Santacilia i Pax. [1§] Mallorca 2 juliol 1630 Don Juan Sureda resta. A don Pedro Santacilia i Pax, guardi Déu {LAT. glòria patri et filius} Barcelona Transcripción literal"
+  ],
+  "literal": [
+    "1. Ab esta rabra v.m. del patro Alemany las2. dos espasas ma ambia a demanar p lo del3. procurador real estich aguardant la carta ascri4. gui a v.m. ma ambias parq de altra manera5. ho tinch p dificultos. lo Sr. d. ffco. esta6. al llit q la gota li ha carragat estos dias molt7. de manera q alte Affligidissim, N.S. lo remediy8. y gde a v.m. Mallca y Julio 2 de 16309. Don Joan Sureda10. Sr. D. Pedro Sta. cilia y paix. [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "054:3189a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo23/054:3189a.JPG",
+      "url": "/legajos/legajo-23/images/054:3189a.JPG"
+    },
+    {
+      "filename": "055:3189b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo23/055:3189b.JPG",
+      "url": "/legajos/legajo-23/images/055:3189b.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "054:3189a.JPG",
+  "warnings": [],
+  "raw_source": "raw/legajos/legajo-23/cartas/003777.json",
+  "primary_image_url": "/legajos/legajo-23/images/054:3189a.JPG"
+}

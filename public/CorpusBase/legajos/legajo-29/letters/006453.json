@@ -1,0 +1,38 @@
+{
+  "legajo_id": "29",
+  "id_carta": "6453",
+  "order_in_legajo": 129,
+  "signatura": "232:4270.JPG",
+  "nombre_carta": "Carta de Rafael Vives García a Pedro Santacilia y Pax",
+  "fecha_original": "7 de junio de 1651",
+  "lugar": "Madrid",
+  "remitente": "Rafael Vives García",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Sr. don Pedro. Ya, a Dios gracias, llego el termino de mi destierro y trato de ver a v. m. presto porque hoy se ha entregado mi causa a manos del escribano de ella porque aunque haga los visos de la sentencia que se publicará la semana que viene aunque puedo esperar la buena por muchas razones, la temo como veo novedades que admira aunque salen del consejo y tal vez más por esto de hecho ha revocado su majestad el Canciller canónigo obtener con lo cual le veo en grandes empeños. A todos nos pesa y todos discernimos, y fatigamos más potencias ello está hecho, y si Dios no lo remedia {LAT. magis sin videbis} el virrey viejo plaza de Sartago en consejo a este tiempo diputado de Zaragoza. Mucho le da la fortuna, no sea que la renovación del canciller ocasione algún remedio de los que necesita ese reino. Yo me salvé muy presto, de Madrid y junio a 7 de 1651. Rafael Vives Garcia Transcripción literal"
+  ],
+  "literal": [
+    "1. Sr. Don Pº. 2. Ya a Dios gras. llego el termino de mi destierro y trato 3. de ver a VMd. presto porq oy se ha entregado mi causa 4. a manos del escrivano della paunq. aga los visos de la 5. sentençia que se publicara la semana q. viene aunq. 6. puedo esperar la buena por muchas rasones, la temo 7. como veo novedades que admira aunq salen del 8. Consº. y tal vez mas por esto = de hecho ha revo= 9. cado su Magd. el Cançiller Sr. Canonigo obtener con 10. lo qual le beo en grandes empeños. a todos nos 11. pesa y todos discernimos, y fatigamos más potencias 12. ello esta hecho, y si Dios no lo remedia {lat.} magis sin vide13. bis el virrey viejo plassa de sartagoen Consº. a este tiem14. po Diputado de Çaragoça mucho le da la fortuna 15. no sea que la renovacion del Canciller ocasione 16. algun remedio de los que necessita esse Reyº. yo me 17. salve muy presto de Md. y Junio a 7 de 165118. Rafael Vivas y Garçia [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "232:4270.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo29/232:4270.JPG",
+      "url": "/legajos/legajo-29/images/232:4270.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "232:4270.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-29/cartas/006453.json",
+  "primary_image_url": "/legajos/legajo-29/images/232:4270.JPG"
+}

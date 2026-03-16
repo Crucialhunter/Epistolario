@@ -1,0 +1,43 @@
+{
+  "legajo_id": "21",
+  "id_carta": "3456",
+  "order_in_legajo": 142,
+  "signatura": "259:5744a.JPG",
+  "nombre_carta": "Carta de Pedro Fajardo de Requeséns-Zúñiga y Pimentel (V marqués de los Vélez) a Pedro Santacilia y Pax",
+  "fecha_original": "8 de mayo de 1639",
+  "lugar": "Tolosa",
+  "remitente": "Pedro Fajardo de Requeséns-Zúñiga y Pimentel (V marqués de los Vélez)",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Con tres cartas me hallo de v. m. de 18 y 19 de este, en la una me avise haber recibido la que le escribí sobre la merced que su majestad había hecho al duque de San Jorge. La otra es de nuevas de lo que le han escrito de Cataluña y la otra cosa a la remontación de esas compañías que juzgo importa. La estoy así tengo con la consulta a su majestad para que se provea lo recociliación y en viniendo resolución se podía disponer, y en lo que toca al partir de su sueldo de v. m. [?] la brevedad espero enviarle orden para que se venga a incorporar en el ejército y entonces procuraré que se le libre lo que se pudiere, deseando siempre servir a v. m. que guarde Dios muchos años. Tolosa Mayo 8 1639. Muy prestanas éramos por estas [?] y en viniendo dinero procuran que v. m. sea socorrido. El marques de los Velez Sr. gobernador D. Pedro Santacilia [1§] Tolosa 28 Mayo 1639 el marques de los Velez rdo. Transcripción literal"
+  ],
+  "literal": [
+    "1. Con tres cartas me hallo de Vm. de 18 y 19 deste, enlauna me 2. avise haver recivido la queleescrivi sobre lamrd quesu M[a]gd havia 3. echo al Duque de S Jorje la otra es de nuebas delo que le an escrito 4. de Cataluna y laotracosa ala remontaçion deesascompañias que 5. Juzgo ymiposta lastoy asi tengo cola consulta asu M[a]gd paraquese 6. provea lo racosslio yenbiniendo resoluon sepodia disponer, y en 7. lo quetoca alpartr desu sueldo de VM convenda [?] la brevedad espero em8. biarle orden para quese benga ayncorporar en el exto y entonçes procu9. rare queselelibre lo quese pudiere deseando siempre servir a 10. VM que gue Dios Muchos años Tolosa Mayo 8 11. 1639 12. mui prestanas heramos por estas misu[?] y en 13. biniendo dinero procuran que Vm sea socorrido 14. El Marqs delos veles 15. [Margen izquierdo][^ Sr Govor D Po Sta çilia] [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "259:5744a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo21/259:5744a.JPG",
+      "url": "/legajos/legajo-21/images/259:5744a.JPG"
+    },
+    {
+      "filename": "260:5744b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo21/260:5744b.JPG",
+      "url": "/legajos/legajo-21/images/260:5744b.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "259:5744a.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (5)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-21/cartas/003456.json",
+  "primary_image_url": "/legajos/legajo-21/images/259:5744a.JPG"
+}

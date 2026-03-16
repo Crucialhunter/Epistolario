@@ -1,0 +1,38 @@
+{
+  "legajo_id": "6",
+  "id_carta": "659",
+  "order_in_legajo": 159,
+  "signatura": "239-123",
+  "nombre_carta": "Carta de Gabriel Company a Cecilia Zaforteza y Sureda de Sant Martí",
+  "fecha_original": "25 de febrero de 1774",
+  "lugar": "Palma",
+  "remitente": "Gabriel Company",
+  "destinatario": "Cecilia Zaforteza y Sureda de Sant Martí",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Mi Sra. dña. Cecilia, En atención que de muchos años a esta parte deseo salir de Montuiri, lo que nunca quiso el ilustrísimo Garrido, ahora cuando haya así cura hábil para todo, será fácil de lograr. Por lo que teniendo noticia que por los exámenes de vicario, después del Corpus, saldrá de Villafranca el que allí ahora existe, adonde sería mi gusto pasar para servir aquella iglesia, y como v. s. puede ver en estas cuatro líneas del Lector [?] Trobat, el Rector de Petra da su consentimiento, y con esto sólo falta el de Su Ilustrísima y el del Sr. marqués Sureda. Para éste tengo escrito a un confidente mío, para no mortificar tanto a v. s., el del Sr. obispo. Pero espero conseguir por medio de v. s., por lo que confío me favorecerá interponiendo a mi favor sus buenos méritos y medios, a cuya merced aunque no se logre el intento, quedaré muy obligado y agradecido. Y en el ínterin que espero ocasiones para servir a v. s., suplico a Dios la guarde muchos años. Montuiri y febrero 25 de 1774. Seguro y afecto servidor de v. s., Dr. Gabriel Company, presbítero y ecónomo en Montuiri. Mi Sra. Dña. Cecilia de Zaforteza. Transcripción literal"
+  ],
+  "literal": [
+    "1. Mi Sa. Dña Cecilia 2. En atencion, que de muchos años á esta parte 3. deseo salir de Montuyri, lo que nunca quizo el Illmo 4. Garrido, aora quando haya assi Cura habil para todo, 5. sera facil de lograr; por lo que teniendo noticia, que 6. por los examenes de Vicario despues del Corpus , sal- 7. dra de Villa Franca, el que alli aora existe, adonde 8. seria mi gusto passar para servir aquella Igla, y 9. como V.S: puede ver en estas quatro lineas del Letor 10. Trobat, el Retor de Petra da su consentimiento , y con 11. esto solo falta el de Su Illma, y el del Sr. Marquez 12. Sureda, para este tengo escrito á un confidente mio, 13. para no mortificar tanto á V.S. el del Sr. Obispo 14. pero, espero conseguir por medio de V.S. por lo 15. que, confio me favorecera interponiendo á mi 16. favor, sus buenos meritos y medios, á cuya mersed 17. aunq[u]e no se logre el intento, quedare muy obligado, 18. y agradecido. y en el interin que espero ocaciones 19. para servir á V.S. suplico á Dios la Gde ms 20. a< ño>s. Montuyri y Febrero 25 de 1774 21. Seg[u]ro y Affto Sdor de V.S. 22. Dr. Gabl Compañy Pro. Y Ecónomo en Montuyri 23. Mi Sra. Dña. Cecilia de Zaforteza [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "239-123.jpg",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo06/239-123.jpg",
+      "url": "/legajos/legajo-06/images/239-123.jpg"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "239-123.jpg",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-06/cartas/000659.json",
+  "primary_image_url": "/legajos/legajo-06/images/239-123.jpg"
+}

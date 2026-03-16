@@ -1,0 +1,43 @@
+{
+  "legajo_id": "31",
+  "id_carta": "6860",
+  "order_in_legajo": 100,
+  "signatura": "141:1611a.JPG",
+  "nombre_carta": "Carta de Joan Antoni Albertí a Pedro Santacilia y Pax",
+  "fecha_original": "23 de agosto de 1661",
+  "lugar": "Ciutadella",
+  "remitente": "Joan Antoni Albertí",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Amb carta de 22 d'aquest més he escrit a v. s. llargues sobre l'arrendar estes Germanies a les quals no s'ha trobat dita per on he posat persona que pens serà de gust de v. s. fins vingué el propietari sinó és que v. s. m'han altra cosa. a 21 del més qui ve farà dos anys estic servint aquest ofici de tinent de Per real en aquesta illa per la mercè me féu v. s. en encomanar-me per tal i com me trobe LLETRA MOLT DIFÍCIL [1§] manera moltes coses del servici de v. s. aqui Déu guardi molts anys com desitjo Ciutadella i agost a 23 de 1661 Molt servidor de v. s. que ses mans besa El Sr. Joan Ant Alberti [2§] Transcripción literal"
+  ],
+  "literal": [
+    "1. Ab carta de 22 dest mes he escrit a VSª llargues sobre 2. lo arrendar estas Germanies a les quals no se ha trobat 3. dita per hont he possat persona que pens sera de gust 4. de VSª fins vingue lo propietari sino es que VSª man 5. altre cosa. 6. A 21 del mes qui ve fera dos anys estic sarvint est 7. offici de tinent de Por Real en esta illa per la merced 8. me feu VSªen encomanarme per tal i com me trobe 9. LLETRA MOLT DIFÍCIL [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "141:1611a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo31/141:1611a.JPG",
+      "url": "/legajos/legajo-31/images/141:1611a.JPG"
+    },
+    {
+      "filename": "142:1611b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo31/142:1611b.JPG",
+      "url": "/legajos/legajo-31/images/142:1611b.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "141:1611a.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-31/cartas/006860.json",
+  "primary_image_url": "/legajos/legajo-31/images/141:1611a.JPG"
+}

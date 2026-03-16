@@ -1,0 +1,43 @@
+{
+  "legajo_id": "10",
+  "id_carta": "1152",
+  "order_in_legajo": 19,
+  "signatura": "031-318a",
+  "nombre_carta": "Carta de Gabriel Roger a Jerónimo Pelegrín de Aragüés",
+  "fecha_original": "2 de julio de 1668",
+  "lugar": "Valencia",
+  "remitente": "Gabriel Roger",
+  "destinatario": "Jerónimo Pelegrín de Aragüés",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Acabamos de llegar ayer a la tarde a Valencia que encontramos al señor gobernador y el señor d. Josep en tabernas, que nos salió a recibir. Mi señor está tan valiente y bueno, que nunca se ha visto mejor. Lo mismo mi señor don Juan, que está bizarro. Dios nos deje llegar buenos a Mallorca a todos que hasta aquí harto lo estamos. V. m. darà muchos recados de mi parte a la señora Caterina y los demás de su casa. Y Dios me lo guarde muchos años, com deseo. . Valencia y julio, 2 de 1668. De v. m.,Gabriel Roger [1§] [parece una anotación de Pelegrin de Aragues]{CAT. Cartes de Madrid de mi senyor rebudes 5 d'agost pel capità don Arnau de Santacilia}. Transcripción literal"
+  ],
+  "literal": [
+    "1. Acavamos de llegar aier a la tarde a Valencia q encontramos 2. el Señor Governador y el Sr. D. Jusepe a Tavernas q nos salio a recivir 3. .4. Mi señor esta tan valiente y bueno, q nunca se ha visto mejor 5. . Lo mismo mi señor Don Juan que esta bizarro; Dios nos 6. dexe llegar buenos a Mallorca a todos q hasta aquí arto 7. lo estamos. 8. V.M. dara muchos recados de mi parte a la señora Catherina 9. y a los demas de su casa, y Dios me lo gde ms a< ño>s 10. como deseo. Valencia y julio 2 de 1668. 11. de V.M. [^?? Gdo Bover??^] [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "031-318a.jpg",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo10/031-318a.jpg",
+      "url": "/legajos/legajo-10/images/031-318a.jpg"
+    },
+    {
+      "filename": "032-318b.jpg",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo10/032-318b.jpg",
+      "url": "/legajos/legajo-10/images/032-318b.jpg"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "031-318a.jpg",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING",
+      "message": "Se detectaron caracteres sospechosos de encoding (4)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-10/cartas/001152.json",
+  "primary_image_url": "/legajos/legajo-10/images/031-318a.jpg"
+}

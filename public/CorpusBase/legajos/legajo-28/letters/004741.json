@@ -1,0 +1,38 @@
+{
+  "legajo_id": "28",
+  "id_carta": "4741",
+  "order_in_legajo": 53,
+  "signatura": "071:3675.JPG",
+  "nombre_carta": "Carta de Macià Monsarró a Pedro Santacilia y Pax",
+  "fecha_original": "1 de febrero de 1639",
+  "lugar": "Zaragoza",
+  "remitente": "Macià Monsarró",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Las cartas de la estafeta pasada remití para don Gaspar Calvillo. Hasta ahora no he hallado a quien enviar sino por un carretero Sa[?]ada aquí escribí a v. m. los nombres de los catalanes y de los demás presos a Galobardes. Dirá v. m. que está su mujer al mesón de Matutano [?]. Al pare capellán per no tenir cartes no lie a[?]ado les marianes el guabacho [?] y ara está en Zaragoza. El caballo me a dicho fetas que se le había muerto aquí en Zaragoza, ya no tragina[?] en los molinos, que se ha ido con su mujer. Yo no tengo cosa de nuevo que avisar a v. m. sino que dicen que un día de estos ahorcarán todos los catalanes. Que ya sabe v. m. que tiene aquí siempre un esclavo a su mandar. A quien guarde Nro. Señor. De Zaragoza y febrero a 1 de 1639. Macia Monsarro El Sr. Cornelio [Trias] besa a v. m. las manos que por estar desganado en la cama de copia [?] no le ha escrito. D. Pedro Santacilia. Transcripción literal"
+  ],
+  "literal": [
+    "1. [repetir foto] 2. Las cartas de la estafeta pasada remiti per don Gaspar3. calvillo asta aora no he hallat en qui enviar sino per un ca4. rretero sa [?] ada aqui escrivi a v.m. los nombres de los catalanes5. y de los demas presos a galobardes dira v.m questa su muger6. al meson dematutano [?] al pare capellan per no tenir cartes7. no lie a [?] ado les maricines el guabart [?] y ara esta en saragª8. el caballo me a dho fetas que se li avia muerto aqui en saragª9. ya no hage [?] en los molinos que saydo con su muger yo no tengo 10. cosa de nuebo que avisar a v. m. sino que dizen que un dia11. destos aorcaran todos los catalans que ya save v. m. que tiene12. aqui siempre un esclavo a su mandar aqui guarde nsñor-13. de Caragª y febrero @ 1 de 163914. masia monsarro15. El sr. Cornelio besa a v. m. las manos que por estar desga16. nado en la cama de copia no la escrito ?17. D. Pedro Santa Sicilia [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "071:3675.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo28/071:3675.JPG",
+      "url": "/legajos/legajo-28/images/071:3675.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "071:3675.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (2)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-28/cartas/004741.json",
+  "primary_image_url": "/legajos/legajo-28/images/071:3675.JPG"
+}

@@ -1,0 +1,41 @@
+{
+  "legajo_id": "20",
+  "id_carta": "3170",
+  "order_in_legajo": 11,
+  "signatura": "051:5950.JPG",
+  "nombre_carta": "Carta de Diego Matías de Aragüés a Pedro Santacilia y Pax",
+  "fecha_original": "24 de noviembre de 1649",
+  "lugar": "Madrid",
+  "remitente": "Diego Matías de Aragüés",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Transcripción literal"
+  ],
+  "literal": [],
+  "imagenes": [
+    {
+      "filename": "051:5950.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo20/051:5950.JPG",
+      "url": "/legajos/legajo-20/images/051:5950.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "051:5950.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (3)",
+      "context": {}
+    },
+    {
+      "code": "MISSING_LITERAL",
+      "message": "Transcripción literal vacía",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-20/cartas/003170.json",
+  "primary_image_url": "/legajos/legajo-20/images/051:5950.JPG"
+}

@@ -1,0 +1,37 @@
+{
+  "legajo_id": "40",
+  "id_carta": "5678",
+  "order_in_legajo": 74,
+  "signatura": "060:30a",
+  "nombre_carta": "Carta de Persona desconocida a Persona desconocida",
+  "fecha_original": "2 de abril de 1639",
+  "lugar": "Mallorca",
+  "remitente": "Persona desconocida",
+  "destinatario": "Persona desconocida",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Els arreus següents he rebut jo de baix escrit avui a dos d'abril 1639 de Antoni Ginard notari, que eren de la barca que portava el patró Llatzer Costa [1§] Transcripción literal"
+  ],
+  "literal": [
+    "1. Los arreus seguents he rebut jo debaix escrit vuy a dos de Abril 1639 de Ant. Ginard nott. que eren de la barca que portava el patro Llatser Costa"
+  ],
+  "imagenes": [
+    {
+      "filename": "060:30a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo40/060:30a.JPG",
+      "url": "/legajos/legajo-40/images/060:30a.JPG"
+    },
+    {
+      "filename": "061:30b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo40/061:30b.JPG",
+      "url": "/legajos/legajo-40/images/061:30b.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "060:30a.JPG",
+  "warnings": [],
+  "raw_source": "raw/legajos/legajo-40/cartas/005678.json",
+  "primary_image_url": "/legajos/legajo-40/images/060:30a.JPG"
+}

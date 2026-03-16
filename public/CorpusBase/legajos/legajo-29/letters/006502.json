@@ -1,0 +1,43 @@
+{
+  "legajo_id": "29",
+  "id_carta": "6502",
+  "order_in_legajo": 203,
+  "signatura": "310:4319a.JPG",
+  "nombre_carta": "Carta de Diego Matías de Aragüés a Pedro Santacilia y Pax",
+  "fecha_original": "10 de octubre de 1665",
+  "lugar": "Madrid",
+  "remitente": "Diego Matías de Aragüés",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Por Barcelona hago estos renglones. Juzgo que Jerónimo no ha llegado hoy si en Valencia halló embarcación que llegaría allí a los 7 de este. Por acá hay salud y el Sr. don Nicolas la goza a Dios gracias, y muy cansado al luto cuando van a los funerones del palacio con que el caballerizo mayor a casa de los pajes no hay novedad alguna sino que corre como si el rey viniera el jueves [?] el estandarte en la plaza mayor, palacio, descalzos a encarnación fue grande el [?] de gente a él acompañamiento que tuvo el duque de las Torres que [?] bación llenándole el corregidor a mano derecha, y los 4 reyes armas. V. s. me diga si ha recibido un pliego por el que don Pedro Veri el que va incluso es de Cádiz. El nuevo Rey está [?], y mejor después que está de este estado desde el día de San Francisco y la reina con buenos alientos de despachar y muy asistente al despacho con que va bien hasta ahora. [1§] Dícese que hacen ir a Nápoles al duque de Medinaceli, con que no hay fundamento en esto, [?] en el conde de Medellin. El negocio de casa del nuncio va caminando y no se perdió [?] punto en ello. V. m. me mande le sirva que sus manos besamos a vuestra majestad, y yo con las de nuestra Sra. Leonor y todos estos señores muchas veces. Guarde Dios como deseo. Madrid 10 Octubre 1665. Besa la mano de v. s. su mayor servidorDiego Matias de Aragues Sr. don Pedro Santacilia y Pax Nº 30 Madrid 10 Octubre 1665. Diego Matias Aragues Transcripción literal"
+  ],
+  "literal": [
+    "1. Por Barcelona hago estos renglones 2. juzgo que Gerº. no ha llegado oy si 3. en Valencia halló embarcaçion q. 4. llegaria alli a los 7 deste. 5. Por aca ay salud y el Sr Don Nicolas 6. la goza a Dios grac. y muy cansado 7. al luto quando ban a las funerones 8. del Palacio con q. en cavallerizo mayor 9. a casa del Pages no ay novedad alguna 10. sino q. corre como si el Rey viniera 11. el jueves se se batio el estandarte en 12. la plaza mayor, Palacio, Descalzos 13. a encarnaçion fue grande el [?] 14. de gente a el acompañamto. q. tubo 15. el Sr. Duq. de las Torres q. [?] 16. ?? batio llenandole el corrigidor a 17. mano decha, y los 4 reyes Harmas. 18. Vs. me diga si ha recivido un pliego 19. por el que don Pedro Beri el q. ba 20. incluso es de Cadiz 21. el nuevo Rey esta ??, y mejor 22. despues que esta destetado desde el dia 23. de San Franco. y la Reyna con buenos 24. alientos de despachar y muy asistente 25. al despacho con q ba bien hasta agora [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "310:4319a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo29/310:4319a.JPG",
+      "url": "/legajos/legajo-29/images/310:4319a.JPG"
+    },
+    {
+      "filename": "311:4319b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo29/311:4319b.JPG",
+      "url": "/legajos/legajo-29/images/311:4319b.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "310:4319a.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (3)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-29/cartas/006502.json",
+  "primary_image_url": "/legajos/legajo-29/images/310:4319a.JPG"
+}

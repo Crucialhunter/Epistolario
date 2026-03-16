@@ -1,0 +1,38 @@
+{
+  "legajo_id": "20",
+  "id_carta": "3231",
+  "order_in_legajo": 105,
+  "signatura": "246:6012.JPG",
+  "nombre_carta": "Carta de Isidro Marqués a Pedro Santacilia y Pax",
+  "fecha_original": "26 de febrero de 1668",
+  "lugar": "Madrid",
+  "remitente": "Isidro Marqués",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Señor mío cinco días ha que se fue el ayudante Sr. don Arnau despachado para el Señor virrey y cartas para v. s. y [?] estos señores que todo será contento de v. s. yo no pude escribir Cuando se fue porque me hallaba muy fatigado de dos flujos de sangre que había tenido como lo vio el Señor ayudante quien ha solicitado vivamente este negocio lo que puedo decir a v. s. es que aunque pertenece a v. s. es más del servicio de su majestad y así por uno y otro camino tendrá v. s. satisfacción, v. s. sabe que soy suyo y así puede mandarme cuanto fuere de su gusto y ya gracias a Dios me hallo mejor de mis achaques Dios guarde a v. s. Muchos años Madrid y febrero a 26 [?] de 1668 Mayor servidor de v. s. que sus manos besa Isidro Marques [?] Sr. don Pedro Santacilia [1§] Transcripción literal"
+  ],
+  "literal": [
+    "1. Señor mio çinco dias ha que se fue el Sr Aiudante 2. Don Arnau despachado para el Señor Virrei y Cartas 3. para V.S. y[?] estos Señores que todo sera contento de V.S. 4. yo no pude escribir Cuando se fue por que me hallaba 5. mui fatigado de dos fluxos de sangre que abia tenido 6. Como lo bio el Señor Aiudante quien a soliçitado bi 7. vamente este Negoçio lo que puedo deçir a V.S. es que 8. aunque perteneçe a V.S. es mas de el Serbiçio de su Magd 9. y assi por uno y otro Camino tendra V.S. Satisfaçion,V.S. 10. sabe que soi Suio y assi puede mandarme quanto fuere 11. de su gusto ; y ia graçias a Dios me hallo Mexor de 12. mis achaques Dios gde a V.S. Muchos años Madrid y 13. febrero a 26[?] de 1668 14. Maior sdor de VS. q S MB 15. <[?]> Ysidro Marquez[?] 16. Sr.Don Pedro Santeçilla [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "246:6012.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo20/246:6012.JPG",
+      "url": "/legajos/legajo-20/images/246:6012.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "246:6012.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-20/cartas/003231.json",
+  "primary_image_url": "/legajos/legajo-20/images/246:6012.JPG"
+}

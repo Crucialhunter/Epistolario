@@ -1,0 +1,38 @@
+{
+  "legajo_id": "35",
+  "id_carta": "5326",
+  "order_in_legajo": 142,
+  "signatura": "153:8173.JPG",
+  "nombre_carta": "Carta de Sebastià Camps a Pedro Santacilia y Pax",
+  "fecha_original": "11 de mayo de 1645",
+  "lugar": "El Mercadal",
+  "remitente": "Sebastià Camps",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "A les 11 hores de matinada hem vista pardera [?] (per darrere [?]) a la tor re de Na. Sra. del Toro i, en continent, he enviat un home el qual m'ha feta relació que per un mestral 8 gali ons els veren a la volta de Fornells molt prop de terra. I així, en continent, he fet tocar rabata [?] i aplegar la gent, pel que pot ser. Tot per avís a v. s., el qual guardi a. Déu. de Mercadal, i maig a 11 de 1645. El tinent de bal·le, Sebastià Camps Senyor governador Transcripción literal"
+  ],
+  "literal": [
+    "1. A les 11 oras de matinade avem vista pardera[?] ha le tor2. ra de Na. Sa.. del Thoro y encontinent he enviat hun3. ome lo qual me ha feta relasio que per hun mestral 8 Gali4. ons los veren e la volta de Fornells molt prop de terra5. y axi encontinent he fet tocar rabata y aplegar le6. gent per lo que pot ser tot per avis ha V.Sa. lo qual7. gde. Deu de Mercadal y mayg ha 11 de 16458. Lo tinent de Balle Sebastia9. Camps10. Señor Govarnador [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "153:8173.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo35/153:8173.JPG",
+      "url": "/legajos/legajo-35/images/153:8173.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "153:8173.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (2)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-35/cartas/005326.json",
+  "primary_image_url": "/legajos/legajo-35/images/153:8173.JPG"
+}

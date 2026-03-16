@@ -1,0 +1,50 @@
+{
+  "legajo_id": "26",
+  "id_carta": "4364",
+  "order_in_legajo": 99,
+  "signatura": "138:3458.JPG",
+  "nombre_carta": "Carta de Pedro Fajardo de Requeséns-Zúñiga y Pimentel (V marqués de los Vélez) a Pedro Santacilia y Pax",
+  "fecha_original": "24 de enero de 1641",
+  "lugar": "Sant Feliu",
+  "remitente": "Pedro Fajardo de Requeséns-Zúñiga y Pimentel (V marqués de los Vélez)",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Este puesto de castel de feliz está ya asegurado y así escribo al capitán a cuyo cargo están las galeras. Venga con ellas y las demás embarcaciones se venga luego a él v. m. lo solicite de su parte y si hubiere alguna dificultad en venir juntos se venga v. m. con todas las embarcaciones con la mayor brevedad que fuere posible, porque en esto consiste la conservación de este ejército que perece de haber. Guarde Dios a v. m. muchos años. Sant Feliu 24 de enero 1641. El marques de los Velez Después de haber escrito ésta, he despachado este correo a su majestad y así luego que desembarque en esa ciudad lo enviará v. m. a Vinarós con el bergantín más ligero que hubiere Sr. D. Pedro de Santacilia Transcripción literal"
+  ],
+  "literal": [
+    "1. Este puesto de Castel de Feliz esta ya ase2. gurado y assi escrivo al capitan a cuyo cargo3. estan las galeras benga conellas y las demas4. embarcaciones se benga luego a el Vm lo5. soliçite de su parte y si ubiere alguna dificultad6. en venir juntos se benga Vm con todas las7. embarcaziones con la mayor brevedad q fuere8. pusible porque enesto consiste la conservazion9. deste exto que pereze de habre Gude Dios a Vm.10. muchos años San (^[?]) Feliu 24 de Henº 164111. El Marques de los Velez[?]12. [^Desps de haver escrito esta13. e despachado este correo a S. Md14. y assi luego que desembarque en15. essa ciud lo ymbiara Vm16. a Vinaroz con el bergantin mas ligero q ubiere]17. Sr. Dn. Pº de Ssta. Cilia [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "138:3458.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo26/138:3458.JPG",
+      "url": "/legajos/legajo-26/images/138:3458.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "138:3458.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (5)",
+      "context": {}
+    },
+    {
+      "code": "IMAGE_DOWNLOAD_FAIL",
+      "message": "HTTP 404",
+      "context": {
+        "url": "http://santacilia.info/intranet2/img/Legajo26/138:3458.JPG"
+      }
+    },
+    {
+      "code": "IMAGE_COUNT_MISMATCH",
+      "message": "Imágenes detectadas (1) != descargadas (0)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-26/cartas/004364.json",
+  "primary_image_url": "/legajos/legajo-26/images/138:3458.JPG"
+}

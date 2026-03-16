@@ -1,0 +1,38 @@
+{
+  "legajo_id": "14",
+  "id_carta": "2069",
+  "order_in_legajo": 170,
+  "signatura": "274:2580.JPG",
+  "nombre_carta": "Carta de conde de Santa María de Formiguera a Pedro Santacilia y Pax",
+  "fecha_original": "31 de julio de 1662",
+  "lugar": "Santa Margalida",
+  "remitente": "conde de Santa María de Formiguera",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "An La de v. m. tinc vuist al bon succés de mi Sra. dona Leonor sa filla don v. m. alpara bé del nou net, o fil ACABAR-LA Transcripción literal"
+  ],
+  "literal": [
+    "1. An la de Vm tinc vuist al bon suses de2. mi Sra. Da. aleonor sa filla do vm alpara be3. del nou net, o fil 4. ACABAR-LA5. 6. 7. 8. 9. 10. 11. 12. 13. 14. 15. 16. 17. 18. 19. 20. 21. 22. 23. 24. 25. 26. 27. 28. 29. 30. [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "274:2580.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo14/274:2580.JPG",
+      "url": "/legajos/legajo-14/images/274:2580.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "274:2580.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-14/cartas/002069.json",
+  "primary_image_url": "/legajos/legajo-14/images/274:2580.JPG"
+}

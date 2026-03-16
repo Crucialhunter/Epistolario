@@ -1,0 +1,38 @@
+{
+  "legajo_id": "32",
+  "id_carta": "7153",
+  "order_in_legajo": 155,
+  "signatura": "201:1911.JPG",
+  "nombre_carta": "Carta de Nicolás de Santacilia y Togores a Pedro Santacilia y Pax",
+  "fecha_original": "9 de septiembre de 1665",
+  "lugar": "Madrid",
+  "remitente": "Nicolás de Santacilia y Togores",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Don Luis de Tanguren ha muerto Dios lo tenga en el sielo, nosotros estábamos en que entraria a despacha Sr. don Blasco Loyola, si v. m. pierde esta ocasión ahora no se yo a que espera Nosotros hoy fuimos a cobrar la ayuda de costa con que presto la cobraremos y muchos lan cobrado, ya está dado todo el dinero para las joyas, y plaza de suerte que no hay mayor señal [?], de que sea la jornada y todos elisen que no le llegara a la primavera y esto lo se de buenos fundamentos a mi madre y señora muchos recaudos y a mis hermanos y a todos esos señores a Heronimo que no le escribo por ser [?] Madrid a 9 de septiembre 1661 Su más humilde hijo de v. m. que sus manos besa don Nicolas de Santacilia y Togores mi padre y señor [1§] Transcripción literal"
+  ],
+  "literal": [
+    "1. Don Luis de Tanguren a muerto Dios lo tenga 2. en el sielo, nosotros estavamos en que entraria 3. a despacha Don Blasco loyola, si 4. VM pierde esta ocasion aora no se yo a que 5. espera 6. Nosotros oy fuimos a cobrar la ayuda de 7. costa con que presto la cobraremos y muchos 8. lan cobrado, ya esta dado todo el dinero 9. para las joyas, y plaza de suerte que no 10. ay mayor señal ??, de que sea la jor11. nada y todos elisen que no le llegara a la 12. primavera y esto lo se de buenos funda13. mentos a mi Madre y Señora muchos re14. caudos y a mis hermanos y a todos 15. esos señores a Heronimo que no le escrivo 16. por ser [?] Madrid a 9 de setienbre 17. 1661 18. Su mas humilde hijo 19. de VM q SMB 20. Don Nicolas de Sta.Cilia 21. y Togores 22. mi Padre y Señor [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "201:1911.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo32/201:1911.JPG",
+      "url": "/legajos/legajo-32/images/201:1911.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "201:1911.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-32/cartas/007153.json",
+  "primary_image_url": "/legajos/legajo-32/images/201:1911.JPG"
+}

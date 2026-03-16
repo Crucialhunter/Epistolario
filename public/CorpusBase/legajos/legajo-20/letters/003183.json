@@ -1,0 +1,38 @@
+{
+  "legajo_id": "20",
+  "id_carta": "3183",
+  "order_in_legajo": 57,
+  "signatura": "068:5963.JPG",
+  "nombre_carta": "Carta de Diego Matías de Aragüés a Pedro Santacilia y Pax",
+  "fecha_original": "19 de abril de 1656",
+  "lugar": "Madrid",
+  "remitente": "Diego Matías de Aragüés",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "He recibido la de v. m. de 31 del pasado con las inclusas para el vicecanciller y estos Ss y el domingo de Pascua de resureción que las recibí las di todas a estos Ss y ayer tuvo junta en su casa el vicecanciller, y de la resolución tendrá v. m. aviso, por el porque juzgo se ha hecho consulta a su majestad. del naufraxio sucedido [?] de la nave que dio en la villa de Arta. mucho me admira no me diga v. m. el recibo [?] del Privilegio y bulas [?] de la pensión pues ha días fueron remitidos por Barcelona baxo [?] el pliego del Secio [?] Fructuoso Pique [?] Espero aviso de todo con el pasaje que me deje v. m. en la suya, mandándome le sirva que sus manos beso y guarde Dios los muchos años. que deseo Madrid a 19 de abril 1656. Besa la mano de v. m. su mayor servidor Diego Matias deAragues [?] Sr. don Pedro Santacilia y Pax [1§] Transcripción literal"
+  ],
+  "literal": [
+    "1. He recivido la de Vm. de 31 del passado con las 2. Inclusas pa el Sr. Vicecanceller y estos Ss Y el 3. domingo de Pasqua de resurecion q las recivi 4. las di todas a estos Ss Y ayer tubo junta 5. en su casa el Sr.Vicecanceller, y de la resolucion 6. tendra Vm. avisso, por el Sr. <[?]> por q 7. juzgo se ha hecho consulta a su Magd. 8. del naufraxio sucedido[?] de la nave q dio 9. en la Villa de Arta. 10. Mucho me admira no me diga Vm el recivo[?] 11. del Privilegio y bullas[?] de la pension pues 12. ha dias fueron remitidos por Barcelona 13. baxo[?] el pliego del Sr. Secio[?] Fructuosso Pique[?] 14. Espero aviso de todo con el pasaje q me deje 15. Vm. en la suya, mandandome le 16. sirva q sus manos veso y ge dios 17. los muchos años. q deseo Md a 19. 18. de Abril 1656 19. Vesa la mano de Vm. 20. su mayor serdor 21. Diego Mathias deAragues [?] 22. Sr. Don Pedro Sta Cilia y Pax 23. [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "068:5963.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo20/068:5963.JPG",
+      "url": "/legajos/legajo-20/images/068:5963.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "068:5963.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (3)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-20/cartas/003183.json",
+  "primary_image_url": "/legajos/legajo-20/images/068:5963.JPG"
+}

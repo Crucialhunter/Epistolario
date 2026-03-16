@@ -1,0 +1,38 @@
+{
+  "legajo_id": "12",
+  "id_carta": "1562",
+  "order_in_legajo": 68,
+  "signatura": "086_6155.JPG",
+  "nombre_carta": "Carta de Diego Bernardo de Lorca y Cárcamo a Pedro Santacilia y Pax",
+  "fecha_original": "18 de julio de 1641",
+  "lugar": "Vinarós",
+  "remitente": "Diego Bernardo de Lorca y Cárcamo",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Señor mío beso a v. m. sus manos por la merced que con sus cartas me hace y a todas ellas le tengo respondido haciendo la estimación que es razón de la que v. m. en esto como en lo demás me hace. Todos quedamos aquí buenos para servirle, solicitando prevenir gran copia de bastimentos porque nos hallamos con cuatro escuadras de galeras que sustentar tres ejércitos y ningunos bastimentos, suplico a v. m. solicite lo posible que no se pierda punto en hacer bizcocho y harina, todo el trigo que hay y hubiere, y que estén embarcados entre ambos géneros para partir a este puerto en sabiéndose con certeza esta limpia esa costa de corsarios. Al señor Juan de Surera y Vivot escribo suplicándole tome muy por su cuenta la administración de la Hacienda Real de este ejército que hoy se halla. Suplico a v. m. pues es su amigo y pariente vean mi carta que le escribo y que le haga instancia porque favorezca y tome por su cuenta los negocios de que le doy cuenta y a v. m. suplico también vea en lo que le puedo servir y que me lo mande con certeza de que tiene en mi un verdadero y obligado servidor. Guarde Dios a v. m. como puede y deseo, Vinarós 18 de Julio 1641. Amo mío soy verdadero servidor de v. m. que le besa las manos Don Diego Bernardo de Lorca y Carcamo Sr. don Pedro de Santacilia [1§] Transcripción literal"
+  ],
+  "literal": [
+    "1. Señor mio Veso a Vm sus manos por la m[e]r[ce]d que con sus cartas2. me haçe y a todas ellas le tengo respondido haziendo la estim[aci]on3. que es raçon de la que Vm enesto como en lo demas me haze4. todos quedamos aqui buenos para servirle, soliçitando pre5. benir gran copia de Bastimentos porque nos hallamos con 6. quatro squadras de galeras que sustentar tres ex[erci]tos y ningunos7. vastimentos suplico a Vm soliçite lo posible que no se pierda p[u]n[t]o8. en hacer viscocho y harina, todo el trigo que ay hubiere, y que 9. esten envarcados entrambos jeneros para partir a este puerto10. en saviendose con çerteza esta linpia esa costa de cosarios 11. Al señor Juan de Surera y Bibot scrivo suplicandole tome12. mui por su quenta la administracion de la hazienda R[ea]l13. deste ex[erci]to que ay se halla supp[li]co a Vm. pues es su amigo14. y pariente bean mi carta que le escrivo y que le haga Instan-15. çia porque favorezca y tome por su quenta los negocios de q[ue]16. le doi quenta y a Vm suplico tambien bea en lo q[ue] le puedo17. servir y que me lo mande, con çerteza de que tiene en mi18. un berdadero y obligado servidor Gde. Dios a Vm. como19. puede y deseo Vinaroz 18 de Julio 164120. Amo mio soy berdadero serbidor de Vm que le besa21. las manos22. Don Diego Bernardo23. de Lorca y carcamo??24. Don Pedro de santasicilia [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "086_6155.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo12/086_6155.JPG",
+      "url": "/legajos/legajo-12/images/086_6155.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "086_6155.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-12/cartas/001562.json",
+  "primary_image_url": "/legajos/legajo-12/images/086_6155.JPG"
+}

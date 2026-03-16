@@ -1,0 +1,43 @@
+{
+  "legajo_id": "15",
+  "id_carta": "2151",
+  "order_in_legajo": 48,
+  "signatura": "081:6376a.JPG",
+  "nombre_carta": "Carta de Jerónimo de Aganza y Javier a Pedro Santacilia y Pax",
+  "fecha_original": "17 de enero de 1639",
+  "lugar": "Pamplona",
+  "remitente": "Jerónimo de Aganza y Javier",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Anoche [?] ni en las manos del marqués una carta de v. m. que me alegró el saber si quedaba con salud. Díjome su excelencia que había esta mañana con quién escribir uno querido que sabría sin estos renglones, suplicando a v. m. me tenga en su gracia y me mande muchas cosas de su servicio. he respondido a vuestra merced por la vía de Sangüesa y tengo dicho que luego se dieran me mi eran [?] las cartas a sus dueños. El duque de San Jorge está aquí. Váse a Madrid después de mañana. Es gentil caballero. Yo han de ruido ahí de prevenciones [?] Dios nos encamine. A lo mi señor guarde a v. m. muchos años. De Pamplona y enero 17 de 1639 Don Jeronimo de Aganza y Javier [Señor don Pedro Santacilia y Pax ] Pamplona 17 Enero 1639 don Jerónimo de Ayanar [respondido] Transcripción literal"
+  ],
+  "literal": [
+    "1. An oitu[?] ni en as manos del Marques 2. una carta deV.m que me alegro3. es saver siquedaba consalud dejo me 4. suexa queavia esta mañana conquien 5. escrivir unaquerido quesebria sin 6. estos ranglones suplicando aVm7. metenga ensu gracia ime manda 8. muchas cosas desuservicio erepun9. dado[?] aVm per la via desanguesa i tengo10. dicho q luego se dieren memi heran 11. las cartas asus dueños. el duque de SanJorge esta aqui base amad oy 12. pus de mañana es gentil caballero 13. yo ande rruido ai depue boncionas[?] dios 14. nos encamine alomiSor ge aVm mu15. chos años de Pampl i heno 17 de 1639 16. Don geronimo de 17. aganza xavier18. [Margen izquierdo][^ Sr Don Peo Santaçilia y Pax] [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "081:6376a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo15/081:6376a.JPG",
+      "url": "/legajos/legajo-15/images/081:6376a.JPG"
+    },
+    {
+      "filename": "082:6376b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo15/082:6376b.JPG",
+      "url": "/legajos/legajo-15/images/082:6376b.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "081:6376a.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-15/cartas/002151.json",
+  "primary_image_url": "/legajos/legajo-15/images/081:6376a.JPG"
+}

@@ -1,0 +1,43 @@
+{
+  "legajo_id": "23",
+  "id_carta": "3916",
+  "order_in_legajo": 170,
+  "signatura": "306:3329a.JPG",
+  "nombre_carta": "Carta de José Balell a Pedro Santacilia y Pax",
+  "fecha_original": "24 de enero de 1669",
+  "lugar": "Barcelona",
+  "remitente": "José Balell",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Sra. dña. Leonor de Santacilia y despuig mi Sra. Ahora Sra. digo con su licencia que soy enormemente criado de la casa pues he merecido la que v. s. fue servida mandarme escribir con 3 de este que pase luego sobre de mi cabeza aunque lugar corto con la última [?] y veneración de criado de v. s. de que me precio por tanta merced como me mandó significar. La del Sr. D. Pedro mi Sr. irá sábado que viene con la misma seguridad que las demás; y en el ínterim que v. s. no tenga noticias de su salud la que puedo dar a v. s. es que con la que tiene del sábado pasado sé que es muy buena y con el deseo de volver a su casa. Del Sr. D. Nicolás y Sr. D. Jerónimo no puedo dar a v. s. las noticias que quisiere puesto que habrán hecho su desembarcación por la parte de Valencia y de la que tuviera de su arribo a cualquiera parte avisaré a v. s. sin perder la ocasión he recibdo el [?] en la misma conformidad me lo manda avisar v. s. con su carta que he recibido con todo, el débito de quedar con las muchas obligaciones que añadir a las demás con que me hallo y en particular para servir a v. s. como deseo. [1§] Las novedades que aún corren sobre las materias corrientes del Sr. D. Juan y [?] confesor son las últimas que el Sr. D. Juan dicen toma resolución de irse a Carabanchel de su motivo y por dar a entender que las tropas vecinas de los franceses que ocupen la frontera no han venido con [?] ni entender D. [?] se ha divulgado, con que parece que estas materias tomarán el evento [?] que debemos desear y más en la ocasión [?] suplico a v. s. sea servido de perdonarme y tenerme en su gracia cuya vida guarde Nro. Sr. felices y muchos años como puede y este criado desea y ha menester en compañía de cuanto quiere merece y desea. Barcelona y enero a 24 de 1669. Cierto criado de v. s. que sus manos besa Josep Balell Transcripción literal"
+  ],
+  "literal": [
+    "1. Sa. d Leonor d Sta Cilia y despuig mi Sa.2. Agora Sa. digo con su lisencia que3. soi enormemte Criado d la casa pues4. he merecido la que VS fue servida5. Mandarme escribir con 3 deste que6. pase luego sobre de mi Caveca aun7. que lugar corto con la ultima [?]8. y veneraçion d criado d VS d que9. me precio por tanta md como me10. mando significar.11. La del Sr. D. Pedro mi Sr. hira savado12. que viene con la misma siguridad13. que las demas; y en el Inter que VS no14. tenga noticias de su salud la que15. puedo dar a VS es que con la que16. tiene del savado pass[a]do se que es mui17. buena y con el deso de bolver a su18. casa.19. Del Sr. d. Nicolas y d. Geronimo no20. puedo dar a VS. las noticias que21. quisiere puesto que habran hecho22. su desembarcaion por la parte d23. Valencia y de la que tuviera de su24. arribo a qualqa parte avisare a VS25. sin perder la ocasion26. He Reciv[i]do el Ascite en la misma confor-27. midad me lo Manda avisar VS28. con su carta que he Recivido con29. todo, el debito de quedar con las30. muchas obligaciones que añadir31. à las demas con que me hallo y 32. en particular pa servir a VS como deseo [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "306:3329a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo23/306:3329a.JPG",
+      "url": "/legajos/legajo-23/images/306:3329a.JPG"
+    },
+    {
+      "filename": "307:3329b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo23/307:3329b.JPG",
+      "url": "/legajos/legajo-23/images/307:3329b.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "306:3329a.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-23/cartas/003916.json",
+  "primary_image_url": "/legajos/legajo-23/images/306:3329a.JPG"
+}

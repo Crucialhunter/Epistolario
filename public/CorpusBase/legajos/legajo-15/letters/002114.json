@@ -1,0 +1,43 @@
+{
+  "legajo_id": "15",
+  "id_carta": "2114",
+  "order_in_legajo": 11,
+  "signatura": "018:6337a.JPG",
+  "nombre_carta": "Carta de comte de Perelada i marquès d'Anglesol a Pedro Santacilia y Pax",
+  "fecha_original": "25 de mayo de 1629",
+  "lugar": "Barcelona",
+  "remitente": "comte de Perelada i marquès d'Anglesol",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Tot el d'esta vida és agredols no és molt, que en sia jo amb més causes ni que serà el que puga, per moltes pus l'hem desemparat, pus per parlar per ell amb el llicenciat Ferrer o amb Vilanova. Com amb cent {ESP. demés} son procurador, he menester un mes. Déu ho encamine, pero jo tinc confiances que hi anirem i des [?] que [?] no servesca a v. m. perquè no s'hi perda punt, i s'hi faran extrems. L'home que ha dit del plet, les noves que v. m. referen, ni ell hi sap res, ni sol dir veritat en tot. El cert és que això que diu és mentida, que hagi sol·licitat el regent, ni tampoc té ganes, que se farà la feina. Ni manco l'abat Erill. Veritat és que ells tots coneixen l'avantatge que me porten en favors i poder, que en fi, són senyors del món, però el dia que els jutges han de judicar sa de [?] farà justícia, i si la fan, a mi no me fan saltar. I és cert que ells mateixos saben que en tinc, però venen l'era com la poden desitjar. Déu guardi v. m. Barcelona, als 25 de maig 1629. El comte de Perelada. Senyor don Pedro Santacilia Transcripción literal"
+  ],
+  "literal": [
+    "1. tot lo desta Vida es agra dols noes molt 2. quen siajo ab mas causas ni que sara 3. lo q puga p moltes pus lo hem desen=4. parat pus p parlar p ell ab lo 5. lisensiat ferrer ho ab Vilanova com 6. ab sent dames son procurador he 7. menester un mes deu ho encamine 8. pero jo tinch Confiansas q ne inirem 9. i Dascava que en ano servesca a V.m. 10. pq no si perda punt i si faran 11. estrems. 12. Lome q adit del plet las novas q V.m. 13. referen ni ell i sab res ni sol dir dir 14. veritat entot losert es q axo q15. diu es mentida q aja solisita lo rejent 16. ni tanpoch teganas q se fara lafaina 17. ni manco lo abat erill veritat es 18. q ells tots Conexen lo aventaja q 19. me portan en favors i poder q enfi 20. son Sors del mon pero lo dia 21. q los jutjes ande judicar sa de preurer[?] 22. fara justicia i si lafan ami nome fan 23. saltar i es sert q ells matexos saben 24. quen tinch pero venen la era com la 25. poden desijar. Deu guarde V.M 26. Barcelona als 25 de Matx 1629 27. lo Comte de Perelada28. [En el margen izquierdo][^Sor Don Pedro Sta Silia] [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "018:6337a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo15/018:6337a.JPG",
+      "url": "/legajos/legajo-15/images/018:6337a.JPG"
+    },
+    {
+      "filename": "019:6337b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo15/019:6337b.JPG",
+      "url": "/legajos/legajo-15/images/019:6337b.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "018:6337a.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-15/cartas/002114.json",
+  "primary_image_url": "/legajos/legajo-15/images/018:6337a.JPG"
+}

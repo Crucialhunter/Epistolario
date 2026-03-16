@@ -1,0 +1,43 @@
+{
+  "legajo_id": "25",
+  "id_carta": "4069",
+  "order_in_legajo": 3,
+  "signatura": "006_103a.JPG",
+  "nombre_carta": "Carta de Diego Matías de Aragüés a Jerónimo Pelegrín de Aragüés",
+  "fecha_original": "29 de enero de 1667",
+  "lugar": "Madrid",
+  "remitente": "Diego Matías de Aragüés",
+  "destinatario": "Jerónimo Pelegrín de Aragüés",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "De verdad que el tiempo desde Navidad acá nos tiene a todos aislados que no se ha visto tal invierno en esta corte de nieves, aguas y aires los nacidos, y estoy con cuidado no ver cartas de v. m. ni el Sr. don Francisco que las estoy deseando, y por Barcelona y Valencia tengo escrito duplicados [a] v. m. Si hay ocasión, nos dé noticia de su salud y mi sobrina y niños, y de la de todos esos Sres. Por acá de todo hay con este tiempo tan continuado de mal tiempo y todo muy caro, en lo demás me remito a lo que escribo al Sr. don Pedro. El Sr. don Nicolas conforme el aviso que he tenido del amigo sargento mayor Balell, estará ya en Zaragoza. Dios los deje venir con salud que es lo que importa. Estoy entendiendo que el Sr. don Miguel Salva, aunque no le hagan la gracia del título, en levantando el tiempo tratará de su jornada de que avisaré y asegúrese que irá bien recomendado y hablado para que cuando llegue allá, pueda darle la ocupación que le dio [?] por 100 a todos esos señores. De v. m. mis besa de manos y me mande le sirva que sus manos besamos y las de mi sobrina Dña. Magdalena y yo y a los niños abrazos, y guarde Dios como deseo. Madrid 29 Enero 1667. De v. m. tío y sevidor Diego Matias de Aragues Sr. Jeronimo Pelegrin de Aragues, mi sobrino [1§] A Jeronimo Pelegrin de Aragues, mi sobrino. Guarde Dios. Mallorca Transcripción literal"
+  ],
+  "literal": [
+    "1. De verdad q el tp desde navidad aca nos2. tiene a todos aislados q no se ha vista tal3. hibierno enesta corte de nieves, aguas y ayres4. los naçidos y estoy con cuydado no ver5. cartas de Vm. ni el Sr. Don Frº q las estoy6. deseando y por Barcelona y Valencia7. tengo escrito dupp[licad]os Vm si ay occasion8. nos de notiçia de su salud y mi sobrina9. y niños, y de la de todos essos Sses. Por10. aca de todo ay con este tp tan continuado11. de mal tp y todo muy caro, en lo demas12. me remito a lo q escrivo al Sr. Don Pedro13. El Sr. don Nicolas conforme el avisso q he14. tenido del amigo sarg[en]to mayor Balell,15. estara ya en Carag[oz]a Dios los dexe venir16. con salud q es lo q importa17. Estoy entendiendo q el Sr. Don Miguel Salva18. aunq no le hagan la gracia del titulo19. en levantando el tp tratara de su20. jornada de q avissare y asiguresse q 21. hira bien recomendado y hablado para q22. qdo llegue alla, pueda darle la occupacion23. q le dio[?] por 100 a todos esos SSes.24. de Vm mis besa de manos y me25. mande le sirva q sus manos26. bessamos y las de mi sobrina Da. Magda. y yo y a los niños27. abrazos y G[uard]e Dios como deseo M[adri]d 29 enero 166728. De Vm. tio y se[vid]or29. Diego Mathias de Aragues30. Sor. Gerº Pelegrín de Aragues31. mi sobrino [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "006_103a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo25/006_103a.JPG",
+      "url": "/legajos/legajo-25/images/006_103a.JPG"
+    },
+    {
+      "filename": "007_103b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo25/007_103b.JPG",
+      "url": "/legajos/legajo-25/images/007_103b.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "006_103a.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (7)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-25/cartas/004069.json",
+  "primary_image_url": "/legajos/legajo-25/images/006_103a.JPG"
+}

@@ -1,0 +1,38 @@
+{
+  "legajo_id": "15",
+  "id_carta": "2126",
+  "order_in_legajo": 23,
+  "signatura": "037:6349.JPG",
+  "nombre_carta": "Carta de Bonaventura de Lanuza Montbuí y Vilarig a Pedro Santacilia y Pax",
+  "fecha_original": "6 de agosto de 1629",
+  "lugar": "Girona",
+  "remitente": "Bonaventura de Lanuza Montbuí y Vilarig",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "La que va per al senyor don Diego, importa vagi amb seguretat i prest, perquè van uns comptes dins d'ella i també m'ha de respondre a un negoci que li escric. No sé amb certitud a on es troba, si és a Pau o Sant Feliu, i així m'ha paregut remetre-la a v. m. perquè em faci mercè manar encaminar-la a on sia. Sols vagi amb seguretat. Les que van amb esta per a v. m. i Miquel Company són vingudes de Barcelona. Guardi Déu a v. m. com jo desitjo. Girona i agost als 6 de 1629. Don Bonaventura de Lanuça Mombuy i Vilarig. Senyor don Pedro Santacilia i Pax Transcripción literal"
+  ],
+  "literal": [
+    "1. La que va per lo Sor don díego ínporta baja 2. ab seguretat yprest perque van uns comptes 3. díns della ytambe me hade respondrer aun 4. negosí que lí escrích nose ab sertítut ahont se 5. troba si es enPau, o, St felíu yaxí me ha apare6. gut remetrarla a V.m. pera quen fassa merçe 7. manar encamínarla ahont sía sols vaja ab 8. seguretat: las que van ab esta per v.m y Mí9. quel company son víngudas de barna guarde10. deu a V.m. com jo desijo Gerona y Agost als 6 11. de 1629 12. Don Bonaventura de la 13. Nuça monbuy y Vílaríg14. [Margen izquierdo][^Sr D Pedro Sta Cilia y Pax ] [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "037:6349.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo15/037:6349.JPG",
+      "url": "/legajos/legajo-15/images/037:6349.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "037:6349.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-15/cartas/002126.json",
+  "primary_image_url": "/legajos/legajo-15/images/037:6349.JPG"
+}

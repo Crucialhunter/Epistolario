@@ -1,0 +1,43 @@
+{
+  "legajo_id": "25",
+  "id_carta": "4134",
+  "order_in_legajo": 68,
+  "signatura": "137_168a.JPG",
+  "nombre_carta": "Carta de Jaime Munar a Jerónimo Pelegrín de Aragüés",
+  "fecha_original": "5 de junio de 1667",
+  "lugar": "Pollença",
+  "remitente": "Jaime Munar",
+  "destinatario": "Jerónimo Pelegrín de Aragüés",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "LLETRA DIFÍCIL [1§] Rafel Albertí Transcripción literal"
+  ],
+  "literal": [
+    "1. LLETRA DIFï¿½CIL1. Rafel Albertí"
+  ],
+  "imagenes": [
+    {
+      "filename": "137_168a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo25/137_168a.JPG",
+      "url": "/legajos/legajo-25/images/137_168a.JPG"
+    },
+    {
+      "filename": "138_168c.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo25/138_168c.JPG",
+      "url": "/legajos/legajo-25/images/138_168c.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "137_168a.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (4)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-25/cartas/004134.json",
+  "primary_image_url": "/legajos/legajo-25/images/137_168a.JPG"
+}

@@ -1,0 +1,42 @@
+{
+  "legajo_id": "40",
+  "id_carta": "5723",
+  "order_in_legajo": 92,
+  "signatura": "166:75a",
+  "nombre_carta": "Carta de Persona desconocida a Persona desconocida",
+  "fecha_original": "12 de noviembre de 1660",
+  "lugar": "Bunyola",
+  "remitente": "Persona desconocida",
+  "destinatario": "Persona desconocida",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Ací apareixerà tot l'oli que s'aporta el present any de 1660 de la possessió dita Son Vivot per raó de les a mitges té mi Sr. amb Marti Sastre començant als 2 de novembre de 1660 [1§] Transcripción literal"
+  ],
+  "literal": [
+    "1. Assi aparaxara tot lo oli que se aporta lo p[rese]nt any de 1660 de la possessio dita Son Vivot per raho de las amitjas te mi Sr ab Marti Sastre comensant als 2 de 9bre de 1660"
+  ],
+  "imagenes": [
+    {
+      "filename": "166:75a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo40/166:75a.JPG",
+      "url": "/legajos/legajo-40/images/166:75a.JPG"
+    },
+    {
+      "filename": "167:75b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo40/167:75b.JPG",
+      "url": "/legajos/legajo-40/images/167:75b.JPG"
+    },
+    {
+      "filename": "168:75c.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo40/168:75c.JPG",
+      "url": "/legajos/legajo-40/images/168:75c.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "166:75a.JPG",
+  "warnings": [],
+  "raw_source": "raw/legajos/legajo-40/cartas/005723.json",
+  "primary_image_url": "/legajos/legajo-40/images/166:75a.JPG"
+}

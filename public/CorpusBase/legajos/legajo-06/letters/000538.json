@@ -1,0 +1,48 @@
+{
+  "legajo_id": "6",
+  "id_carta": "538",
+  "order_in_legajo": 38,
+  "signatura": "014_8aa",
+  "nombre_carta": "Carta de Madalena a Cecilia Zaforteza y Sureda de Sant Martí",
+  "fecha_original": "9 de abril de 1741",
+  "lugar": "Barcelona",
+  "remitente": "Madalena",
+  "destinatario": "Cecilia Zaforteza y Sureda de Sant Martí",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Amiga i querida mía, El motiu de no haver-te respost a l’última carta tua és estat per falta de temps, el que executo ara, donant-te notícies de la mia salut que és manté bona en companyia dels {ESP. demés} de casa, benefici que desitjo {ESP. logris} juntament amb l’oncle Francesc. M’alegro que les puntes siguin el teu gust, el valor tenc rebut d’Ignasi Vila. Doní el {ESP. recado} a Maria Antònia Semmanat, la que et dóna molts {ESP. recados} i digué t’escriuria. A totes les amigues [1§] d[on]aràs molts {ESP. recados} de ma part, com també al oncle Francesc. Quedo tua de cor, pregant a Déu et guardi molts anys com desitjo. Barcelona i abril 9 de 1741. L’amiga que més te vol de cor, Madalena [Santacilia] Amiga i querida mia. [2§] [A l’altra pàgina del document]A dona Cecilia Zaforteza i Sureda, guardi Déu molts anys com desitjo. Mallorca. Transcripción literal"
+  ],
+  "literal": [
+    "1. Amiga y querida mia: lo motiu de no 2. averte respost a la ultima carta tua es 3. estat per falta de temps, lo que executo 4. ara donanta noticias de la mia salut 5. ques mante bona en conpañia dels 6. demes de casa, benefici que desitjo lo- 7. grias iuntament amb loncla francesch 8. me alegro que las puntas sian al teu 9. gust, lo valor tinch rebut de Ignasi 10. Vila. doní lo recada á María Antonia 11. Senmanat, la quet dona molts recados 12. y dige te escriuria. a totas las Amigas [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "014_8ab.jpg",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo06/014_8ab.jpg",
+      "url": "/legajos/legajo-06/images/014_8ab.jpg"
+    },
+    {
+      "filename": "015_8b.jpg",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo06/015_8b.jpg",
+      "url": "/legajos/legajo-06/images/015_8b.jpg"
+    },
+    {
+      "filename": "014_8aa.jpg",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo06/014_8aa.jpg",
+      "url": "/legajos/legajo-06/images/014_8aa.jpg"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "014_8ab.jpg",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-06/cartas/000538.json",
+  "primary_image_url": "/legajos/legajo-06/images/014_8ab.jpg"
+}

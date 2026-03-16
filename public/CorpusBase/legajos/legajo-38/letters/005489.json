@@ -1,0 +1,38 @@
+{
+  "legajo_id": "38",
+  "id_carta": "5489",
+  "order_in_legajo": 111,
+  "signatura": "029:13",
+  "nombre_carta": "Carta de Escrivà Miralles a Persona desconocida",
+  "fecha_original": "1 de enero de 1667",
+  "lugar": "Robines",
+  "remitente": "Escrivà Miralles",
+  "destinatario": "Persona desconocida",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Delma de bestiars de Robines del Any 1667 lliurat a Nadal Bernat als Ruat de Soller per 99 ll. Joan Bernat fill de Joan als Mirasel Andreu Arbona fill de Joan als Rua Francesc Llebres als Basso tots de Soller Sba. Miralles. Gaspar Miro de la vila de Soller Miralles sba. Sr. D. Juan Bautista Zaforteza mensari Sr. don Diego Clapes mensari Sr. don Ramon Sureda mensari Antoni Pisa Ador. de li mensa episcopal Pere Onofre Mayol pdor. de la mensa capitular [1§] Transcripción literal"
+  ],
+  "literal": [
+    "1. Delma de bestiars de Robines del Añy2. 1667 lliurat a Nadal Bernat als. Ruat3. de Soller per 99 ll.4. Joan Bernat fill de Joan als. Mirasel5. Andreu Arbona fill de Joan als. Rua6. Ffs. Llebres als. Basso tots de Soller7. Sba. Miralles.8. Gaspar Miro de la vila de Soller9. Miralles sba.10. D. Juan Bapt[ist]a Saforteza mens[ari]11. Don Diego Clapes mens[ari12. Don Ramon Sureda mensari]13. Ant[oni] Pisa Ador. de le mensa14. Apiscopal15. Pere Honofre Mayol pdor.16. de la mensa Capitular [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "029:13.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo38/029:13.JPG",
+      "url": "/legajos/legajo-38/images/029:13.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "029:13.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (2)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-38/cartas/005489.json",
+  "primary_image_url": "/legajos/legajo-38/images/029:13.JPG"
+}

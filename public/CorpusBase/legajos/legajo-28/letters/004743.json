@@ -1,0 +1,43 @@
+{
+  "legajo_id": "28",
+  "id_carta": "4743",
+  "order_in_legajo": 55,
+  "signatura": "073:3677a.JPG",
+  "nombre_carta": "Carta de Pedro Jiménez de Murillo a Pedro Santacilia y Pax",
+  "fecha_original": "17 de febrero de 1639",
+  "lugar": "Zaragoza",
+  "remitente": "Pedro Jiménez de Murillo",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Sr. mío. En este punto recibo la de v.m. de 14 de este por la cual veo la merced que siempre me hace y la que al presente experimento, de que estoy con el reconocimiento que es razón deseando siempre el desempeño de tantas obligaciones. Ayer despaché un propio para avisar que no era necesario que se cansasen los cavallos por no ser necesarios menester ya. Y hablando con v. m. con la amistad y merced que me hace y pasa entre los dos, hemos tenido un encuentro el gobernador del reino y consejo, con el baile general del reino y conmigo, y estamos empeñados en no salir por ningún caso. Y esta es la ocasión. Quiéreme v. m. correr con tantas honras y con la voluntad con que me ofrece los cavallos, que son muy buenos y están en muy buena mano. Y es cierto que aquí parecieran muy bien, y particularmente el rucio. Estimo mucho la merced que me [1§] hace también el capellán mayor. Muy bien me parece que v. m. castigue a quien lo merece, que será de mucho ejemplo, y de [?] para toda esa tierra. Huélgome mucho que el ayudante y don [?] sean ya capitanes, que con la merced que v. m. les hace ocuparán mayores puestos, y lo merecen muy bien. Por todas partes se hacen levas pero no darán aquí tan buena cuenta dellas como de la que v. m. dará encargándose de la nueva de dragones, según su majestad se lo manda a v.m. Que Nro. Sor me gde muchos años para que me haga la merced que experimento en todas ocasiones, pues en todas las que yo tuviere puede disponer con toda seguridad, pues sabe cuán suyo soy. En Zaragoza, a 17 de febrero 1639. Las riendas buscaré aquí como v. m. manda y me holgaría saliesen a gusto. Don Pedro Jimenez de Murillo Sr. don Pedro Santacilia y Pax [En el margen izquierdo, en vertical] Zaragoza, 17 febrer 1639. De Pedro Murillo Transcripción literal"
+  ],
+  "literal": [
+    "1. Sr. mio. En este punto recibo la de v.m. de2. 14 deste por la cual veo la mrd. que siem-3. pre me haze y la que al pnte. esperimento4. de que estoi con el reconocimiento que es ra5. zon desseando siempre el desempeño de6. tantas obligaciones.7. Ayer despache un propio para avisar que no era8. necessario que se cansasen los cavallos por no9. ser necessarios menester ya, y hablando con v.m. con la amis10. tad, y mrd. que me haze, y pasa entre los dos, emos11. tenido un encuentro el Goveror. del Reyno12. y consejo, con el Bayle general del Reyno y13. con migo, y estamos empeñados en no salir por14. ningun casso, y esta es la ocasion,15. Quiereme v.m. correr con tantas onras y con la16. voluntad con que me ofrece los cavallos, que son17. muy buenos y estan en muy buena mano,18. y es cierto que aqui parecieran muy bien y parti-19. cularmte el rucio, estimo mucho la mrd., que me [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "073:3677a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo28/073:3677a.JPG",
+      "url": "/legajos/legajo-28/images/073:3677a.JPG"
+    },
+    {
+      "filename": "074:3677b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo28/074:3677b.JPG",
+      "url": "/legajos/legajo-28/images/074:3677b.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "073:3677a.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-28/cartas/004743.json",
+  "primary_image_url": "/legajos/legajo-28/images/073:3677a.JPG"
+}

@@ -1,0 +1,43 @@
+{
+  "legajo_id": "9",
+  "id_carta": "1006",
+  "order_in_legajo": 43,
+  "signatura": "056-28a",
+  "nombre_carta": "Carta de Diego Álvarez a Arnau de Santacilia",
+  "fecha_original": "29 de agosto de 1674",
+  "lugar": "Milán",
+  "remitente": "Diego Álvarez",
+  "destinatario": "Arnau de Santacilia",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Salvantur Señor mío, Aunque dos correos no he tenido aviso de su salud de v. m. no puedo dejar de solicitar sus órdenes. Aquí ha estado un cabo de escuadra de v. m. y asentados otros tres soldados. Hasta ahora no se ha pasado muestra, se dice será este mes de septiembre. Doy a v. m. la enhorabuena, pues hoy ha venido aviso a s.e. de que han derrotado al príncipe de Conde, habiéndole muerto 15000 hombres y dado de 36 piezas de cañón y todo el bagaje sitiada la más de su infantería en ambos, que con que se habrán ya rendido a discreción. El príncipe de Conde se retiró deshecho y herido con 7000 caballos a Carlo Rue. Siempre ruego a Dios le haga así al señor [1§] rey de Francia con que creo que [?]. Guarde Dios a v. m. muchos años. Milán, a 29 de agosto 1674. Besa las manos de v. m. su amigo y servidor, Diego Alvarez Señor capitán don Arnau de Santacilia Transcripción literal"
+  ],
+  "literal": [
+    "1. [Margen izquierdo][^ Salvantur]2. Señor mío aunque dos Coreos 3. noetenido aBiso de susalud de Vmd. 4. nopuedo Degar desolicitar sus 5. ordenes aqiaestado uncavo des qua6. dra de Vmd. Yasentados otros tres sol7. dados asta aora nosea Pasado mu8. estra se dice sera este mes de sepe 9. Doya Vmd. laenora Buena Pues oy abe 10. nido a Biso a S.E. dequean derota11. do al principe de Conde abiendole 12. Muerto 15000 onbres ydado de 13. 36 Piecas de cañon Ytodo el bagage 14. sitiada lamas desuynfanteria en 15. ambos que conquese abran Yaren16. dido a Discrecion el Principe de 17. Conde seretiro Desecho yerido Con 18. 7000 Caballos acarlo Rue Sienpre 19. Ruego a Dios le aga asi al sr [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "056-28a.jpg",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo09/056-28a.jpg",
+      "url": "/legajos/legajo-09/images/056-28a.jpg"
+    },
+    {
+      "filename": "057-28b.jpg",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo09/057-28b.jpg",
+      "url": "/legajos/legajo-09/images/057-28b.jpg"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "056-28a.jpg",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-09/cartas/001006.json",
+  "primary_image_url": "/legajos/legajo-09/images/056-28a.jpg"
+}

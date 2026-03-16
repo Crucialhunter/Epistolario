@@ -1,0 +1,38 @@
+{
+  "legajo_id": "6",
+  "id_carta": "655",
+  "order_in_legajo": 155,
+  "signatura": "232-120",
+  "nombre_carta": "Carta de Gabriel Company a Cecilia Zaforteza y Sureda de Sant Martí",
+  "fecha_original": "25 de marzo de 1773",
+  "lugar": "Montuïri",
+  "remitente": "Gabriel Company",
+  "destinatario": "Cecilia Zaforteza y Sureda de Sant Martí",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Mi Sra. dña. Cecilia, Las ocupaciones en que estoy no permiten el alargarme en la presente. Solamente le digo que la semana después de {LAT. Domminica in albis} espero pasar a Palma y llevaré la declaracion de los bienes de la huérfana muchacha. Quedo como siempre con deseo de ocasiones en que servir a v. m. y suplicando a Dios la conserve muchos años. Montuiri y marzo día 25 de 1773. Seguro y afecto servidor de v. m., D. Gabriel Company, presbítero y vicario. Dña. Cecilia de Zaforteza Transcripción literal"
+  ],
+  "literal": [
+    "1. Mi Sa. Dña. Cecilia 2. Las ocupaciones en que estoy no permi- 3. ten el alargarme en la preste solamte 4. le digo que la semana despues de {lat.} Dom- 5. minica in albis espero pasar á Palma 6. y llevare la declaracion de los bienes 7. de la huerfana muchacha. Quedo como 8. siempre con deseo de ocasiones en que 9. servir á V.M. y suplicando á Dios la 10. conserve ms a< ño>s. Montuyri y Marzo 11. dia 25 de 1773 12. Seg[u]ro, y Affeto Sdor de V.M. 13. Dn. Gabl Compañy Pro. y Vico 14. Dña. Cecilia de Zaforteza [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "232-120.jpg",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo06/232-120.jpg",
+      "url": "/legajos/legajo-06/images/232-120.jpg"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "232-120.jpg",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-06/cartas/000655.json",
+  "primary_image_url": "/legajos/legajo-06/images/232-120.jpg"
+}

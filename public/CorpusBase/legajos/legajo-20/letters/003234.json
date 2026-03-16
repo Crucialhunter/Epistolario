@@ -1,0 +1,43 @@
+{
+  "legajo_id": "20",
+  "id_carta": "3234",
+  "order_in_legajo": 108,
+  "signatura": "249:6015a.JPG",
+  "nombre_carta": "Carta de Diego Matías de Aragüés a Pedro Santacilia y Pax",
+  "fecha_original": "29 de febrero de 1668",
+  "lugar": "Madrid",
+  "remitente": "Diego Matías de Aragüés",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "He recibido la de v. s. con la información y testimonio del mal tratamiento que hacen los genoveses a los del Vergantin de v. s. que apresaron. Ha visto le [?] el [?] y ordenadome ponga [?] con el testimonio para consultarlo a la reina lo que he ejecutado y avisaré de la resolución. Antes que esta llegue a manos de v. s. habrá llegado Sr. don Arnaldo Santacilia. con el despacho y el [?] remití por Barcelona con que me prometo habrá todo llegado a manos del virrey. Ahora me resta saber por el Consejo de Estado si en Cádiz han puesto en ejecución [?] la orden que fue de apresar los navíos de [?] de que avisare. También recibí los papeles para la apelación de la sentencia que dio el inquisidor [?] de ay, hace [?] puesto la petición si las letras están concedidas para el sábado remitiré por Barcelona estoy entendiendo en ese negocio [?] que hay no lo han sabido llevar, porque la ejecutoria que remití a favor de v. s. [1§] fue principalmte. [?] fianzas. bastantes y a satisfacción se le entregose [?] todo el dinero que estaba depositado, y hasta estar hecho esto el inquisidor no podía tener conocimiento de otra [?] cosa, ni pasar [?] a conocer de otra [?] cosa, y viendo que no lo ejecutaba así [?], y pasado a ponerse en la graduacion [?] como lo hizo, entonces [?]. [?] de reclamar acá y no dar lugar a que pasase a otra [?] cosa, Al fin ahora se verá lo [?] pero [?] halla lo han errado, y no será mucho que todo lo hecho hay se revoque acá por no haber cumplido con la ejecutoria que aquí se gano de tanto acuerdo. en entrando el mes de marzo pediré en el Consejo de Aragón la ayuda de costa [?] de v. s. Lo de Portugal se ajusto, y los por esos de halla y los que había aquí se soltaron, y se dice que para seis de marzo se publicara los pregones del ajuste en Lisboa y aqui; con que queda Portugal con Rey. como cuando lo fue el rey Sr. don Sebastian v. s. me mande le sirva que sus manos besamos Dña. [?] y yo con las de mi Sra. Dña. Leonor y todos esos Sres. muchas veces guarde Dios como deseo Madrid 29. febrero 1668 el Sr. don Jn [?] de Austria parte mañana para Flandes. Besa la mano de v. s. su menor servidor Diego Matias de Aragues Sr. don Pedro Santacilia y Pax. [2§] Transcripción literal"
+  ],
+  "literal": [
+    "1. He recivido la de Vs. con la informa- 2. cion y testimonio del mal tratamiento 3. q hazen los Genoveses a los del 4. Vergantin de Vs. q apressaron. 5. Ha visto le[?] el sr. [?][?] y ordenadome 6. ponga[?] con el testimonio para 7. consultarlo a la Reyna lo q he 8. executado y avisare de la Resolucion. 9. Antes q esta llegue a manos de Vs. 10. habra llegado don Arnaldo sta. Cilia. 11. con el despacho Y el [?] remiti 12. por Barcelona con que me prometo 13. habra todo llegado a manos del sr. Virrey. 14. Agora me resta saver por el Consso de 15. estado si en Cadiz han puesto en 16. exon[?] la orden q fue de apressar los 17. navios de [?] de q avisare. 18. Tambien recivi los papeles para 19. la apelacion de la sentencia q dio 20. el Inqor[?] de ay, hase[?] puesto la peticion 21. si las letras estan concedidas para 22. el Savado remitire por Barcelona 23. estoy entendiendo en esse negoçio[?] q ay 24. no lo han savido llevar, por que la 25. executoria q remiti a favor de Vs [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "249:6015a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo20/249:6015a.JPG",
+      "url": "/legajos/legajo-20/images/249:6015a.JPG"
+    },
+    {
+      "filename": "250:6015b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo20/250:6015b.JPG",
+      "url": "/legajos/legajo-20/images/250:6015b.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "249:6015a.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (3)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-20/cartas/003234.json",
+  "primary_image_url": "/legajos/legajo-20/images/249:6015a.JPG"
+}

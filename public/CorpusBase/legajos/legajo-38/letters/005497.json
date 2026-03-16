@@ -1,0 +1,38 @@
+{
+  "legajo_id": "38",
+  "id_carta": "5497",
+  "order_in_legajo": 118,
+  "signatura": "040:21",
+  "nombre_carta": "Carta de Escrivà Miralles a Persona desconocida",
+  "fecha_original": "1 de enero de 1667",
+  "lugar": "Bunyola",
+  "remitente": "Escrivà Miralles",
+  "destinatario": "Persona desconocida",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Delme de bestiars de la vila de Bunyola de l'any 1667 lliurat a Gabriel Sempol als Quiet de la vila d'Alero per 61 ll. fiancas Miquel Reines als Credo i Joan Mas major tots d'Alero Sba. Miralles Sr. don Diego Clapes mensari Sr. D. Ramon Sureda mensari Pere Onofre Mayol pdor. de la mensa capitular [1§] Transcripción literal"
+  ],
+  "literal": [
+    "1. Delme de bestiars de la vila de Bunyola2. del añy 1667 lliurat a Gabriel Sempol 3. als. Quiet de la vila de Alero per 61 ll.4. ff[ianc]as5. Miquel Reines als. Credo y6. Joan Mas major tots de Alero7. Sba. Miralles8. Don Diego Clapes mens[ari]9. D. Ramon Sureda mens[ari]10. Pere Honofre Mayol pdor.11. de la mensa Capitular [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "040:21.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo38/040:21.JPG",
+      "url": "/legajos/legajo-38/images/040:21.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "040:21.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (2)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-38/cartas/005497.json",
+  "primary_image_url": "/legajos/legajo-38/images/040:21.JPG"
+}

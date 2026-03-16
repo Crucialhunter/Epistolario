@@ -1,0 +1,38 @@
+{
+  "legajo_id": "31",
+  "id_carta": "7023",
+  "order_in_legajo": 262,
+  "signatura": "395:1774.JPG",
+  "nombre_carta": "Carta de Jerónimo Pelegrín de Aragüés a Pedro Santacilia y Pax",
+  "fecha_original": "24 de diciembre de 1664",
+  "lugar": "Madrid",
+  "remitente": "Jerónimo Pelegrín de Aragüés",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Por que no falte estafeta y ha dos meses no tengo cartas de v. m. en respuesta de muchas que tengo escritas. hago estas para que avisando como todos tenemos salud gracias a Dios así la tenga v. m. como deseas. y hemos menester en vida de mi Sra. y del Sr. don Juan Novedades el rey continua con su [?] Riguroso Peñaranda han hecho consejo de Estado. al marques. de Camarasa lo mismo con que ha crecido y crece cada día este consejo La Reina de Francia a parido una hija anoche hubo una mascarada para contentar la gente por los años de la reina Cada día hay juntas para la jornada de la emperatriz hasta año nuevo, o, los Réis no se sabrá cosa de quien ha de ir a la jornada es sábado de Navidad no hay nada más de nuevo. Madrid 24 Diciembre 1664 criado de v. m. que S. M. B Jeronimo Pelegrin mi señor Transcripción literal"
+  ],
+  "literal": [
+    "1. Porque no falte estafeta y ha dos meses 2. no tengo cartas de V. M. en respuesta de 3. muchas que tengo escritas. hago estas paraq 4. avisando como todos tenemos salut gracias a Dios 5. asi la tenga V. M. como deseas. y hemos menester 6. en vida de mi sra. y del S. Don Juan 7. Novedades el Rey continua con su [?] Riguroso 8. Peñaranda han echo Consejo de Estado. al Marqs. 9. de Camarasa lo mismo con que ha crecido y crece 10. cada dia este Consejo = 11. La Reyna de Françia a parido una hija anoche 12. hubo una mascarada para contentar la gente 13. por los anyos de la Reyna = 14. Cada dia hay juntas para la Jornada de la Em15. peratriz asta año nuebo, o, los Reys no se sabra 16. cossa de quien ha de hir a la Jornada es 17. sabado de Navidad no hay nada mas de 18. nuebo. Madrid 24 Diciembre 1664 19. Criado de VM q. S. M. B 20. Geronymo Pelegrin 21. mi Señor [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "395:1774.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo31/395:1774.JPG",
+      "url": "/legajos/legajo-31/images/395:1774.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "395:1774.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (4)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-31/cartas/007023.json",
+  "primary_image_url": "/legajos/legajo-31/images/395:1774.JPG"
+}

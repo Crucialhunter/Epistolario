@@ -1,0 +1,38 @@
+{
+  "legajo_id": "10",
+  "id_carta": "1153",
+  "order_in_legajo": 20,
+  "signatura": "033-319",
+  "nombre_carta": "Carta de Pedro Santacilia y Pax a Jerónimo Pelegrín de Aragüés",
+  "fecha_original": "3 de julio de 1668",
+  "lugar": "Valencia",
+  "remitente": "Pedro Santacilia y Pax",
+  "destinatario": "Jerónimo Pelegrín de Aragüés",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "He passat setze o devuit dies per mar i terra a esta ciutat i em partesc esta nit per a la cort amb bon {ESP. ganado} i salut: en arribant a la cort escriuré llarg. Déu te guardi com desitj. . Valencia, 3 juliol de 1668. Don Pedro El Sr. Bassa que procuri posar una competència i venir-se'n. Jeroni Pelegri Transcripción literal"
+  ],
+  "literal": [
+    "1. He posats setze o devuit dias per [^??^] y 2. terra a esta ciutat y parteschme esta 3. nit para la cort ab bon ganado y salut 4. en arribant a la Cort escriure llarch y 5. Deu te gde com desitg; Valencia 3 6. juliol de 1668. 7. [otro tipo de letra] [^??^] al Sr. Basso que prover 8. a posar una competencia 9. venirsen 10. .11. [^Germo Pelegrin^] [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "033-319.jpg",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo10/033-319.jpg",
+      "url": "/legajos/legajo-10/images/033-319.jpg"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "033-319.jpg",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING",
+      "message": "Se detectaron caracteres sospechosos de encoding (4)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-10/cartas/001153.json",
+  "primary_image_url": "/legajos/legajo-10/images/033-319.jpg"
+}

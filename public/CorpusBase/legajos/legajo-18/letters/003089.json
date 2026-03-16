@@ -1,0 +1,38 @@
+{
+  "legajo_id": "18",
+  "id_carta": "3089",
+  "order_in_legajo": 125,
+  "signatura": "198:4928.JPG",
+  "nombre_carta": "Carta de Pedro de Verí a Pedro Santacilia y Pax",
+  "fecha_original": "16 de agosto de 1664",
+  "lugar": "Madrid",
+  "remitente": "Pedro de Verí",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Según las noticias que tenemos acá no le faltará a v. s. buena embarcación pues se dice que el marques de Bayona ha ofrecido una galera a v. s. con que lograremos sus señores de v. s. el deseo de que Dios le dé feliz viaje. Bastante noticia me ha dado Fr. Tomas Salas de la armada francesa y cosas de levante, pero el Sr. don Gabriel las debe tener de las del país, de que nos entretenemos más los murmuradores. Hoy murió Antonio Pascual, siento su muerte como amigo que le era, Dios le tenga para si y me guarde a v. s. Madrid y agosto a 16 de 1664. Servidor de v. s. D. Pedro de Veri Sr. D. Pedro de Santacilia y Pax [1§] Transcripción literal"
+  ],
+  "literal": [
+    "1. Sigun las noticias que tenemos aca 2. no le faltara a V.Sª buena embar-3. casion pues se dise que el Marques 4. de Bajona ha ofresido una [^ galera] a V.Sª. 5. conque lograremos sus Sres de V.Sª. 6. el dezeo deque dios lede feliz viaje 7. Bastante noticia mehadado fr Tomas 8. Salas dela armada francesa y cosas 9. de levante, pero el Sr d Grabiel 10. las deve tener delas del pais, deque 11. nos entretenemos mas los murmura12. dores = 13. Oy murio Antonio Pasqual siento su 14. muerte como amigo quele era dios le 15. tenga parasi y me gde a V.Sª. Ma-16. drid y Agosto a 16 de 1664 17. Sdor de V.Sª 18. d Pedro de Veri 19. [Margen izquierdo][^ Sr D Po de Sta Cilia y Pax] [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "198:4928.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo18/198:4928.JPG",
+      "url": "/legajos/legajo-18/images/198:4928.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "198:4928.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-18/cartas/003089.json",
+  "primary_image_url": "/legajos/legajo-18/images/198:4928.JPG"
+}

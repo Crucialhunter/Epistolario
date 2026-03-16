@@ -1,0 +1,43 @@
+{
+  "legajo_id": "25",
+  "id_carta": "4119",
+  "order_in_legajo": 53,
+  "signatura": "107_153a.JPG",
+  "nombre_carta": "Carta de Diego Matías de Aragüés a Jerónimo Pelegrín de Aragüés",
+  "fecha_original": "21 de mayo de 1667",
+  "lugar": "Madrid",
+  "remitente": "Diego Matías de Aragüés",
+  "destinatario": "Jerónimo Pelegrín de Aragüés",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Con Jorge Ferragut he recibido la de v. m. de 19 del pasado y en lo demás me remito a la que escribo al Sr. D. Pedro. Pueyo escribe a v. m. la inclusa y Miguel Malo está bueno. Todavía Viguet no ha enviado la cajuela. Ya se lo he escrito el correo pasado porque lo dilataba, pues han venido galeras de Valencia. El Sr. D. Miguel Salva me ha dicho se partirá al otro día de la Pascua. Todo lo tiene ya prevenido. Espero lo ha de hacer muy bien. Conforme lo que por acá corre ya está rota la paz con Francia, con que no les pesará a los Sres. mallorquines. Dios nos dé buen suceso en Flandes que después ya se procurará defendernos. El Sr. D. Nicolas va mejorando, y sale a misa si bien no está aún fuera de que se le han de hacer algunos remedios de bebidas, píldoras y pócimas además de las que están hechas. Espero estará bueno antes que entren los calores. Su tía de v. m. y los demás estamos con salud, a Dios gracias, todos enviamos muchas saludes a v. m. mi sobrina y sobrinitos y guarde Dios como deseo. Madrid a 21 de mayo 1667. Tío y servidor de v. m. Diego Matias de Aragues Sr. Jeronimo Pelegrin de Aragues, mi sobrino . [1§] A Jeronimo Pelegrin de Aragues, mi sobrino, guarde Dios etts. Mallorca Transcripción literal"
+  ],
+  "literal": [
+    "1. Con Jorge Ferragut he reçivido la de Vmd. de 19 del2. (del) pasado y en lo demas me remito a la que escrivo 3. al Sr. D. Pedro. Pueyo escrive a Vmd. la inclusa, y4. Miguel Malo esta bueno. Todavia Viget no ha in5. viado la caxuela ya se lo e escrito el correo pasado6. porque lo dilatava, pues han benido galeras de Val[enci]a7. El Sr. D. Miguel Salba me ha dicho se partira8. al otro dia de la Pasqua todo lo tiene ya prevenido9. espero lo ha de haçer muy bien.10. Conforme lo que por aca corre ya esta rompida la paz11. con Françia, con que no les pesara a los SS. Mallorquines12. Dios nos de buen suçesso en Flandes que despues ya13. se procurara defendernos.14. El Sr. D. Nicolas va mejorando, y sale a misa si15. bien no esta aun fuera de que se le han de haçer16. algunos remedios de bevidas, pildoras y poçimas17. a mas de las que estan hechas, espero estara18. bueno antes q dentren los calores. Su tia de19. Vmd. y los demas estamos con sa[lu]d a Dios graçias todos20. inviamos muchas saludes a Vmd. mi sobri21. na y sobrinitos y gde. Dios como deseo M[adri]d a 21 de22. Mayo 166723. Tio y ser[vid]or de Vm.24. Diego Mathias de Aragues25. Sr. Gerº Pelegrin de Aragues mi sobº. [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "107_153a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo25/107_153a.JPG",
+      "url": "/legajos/legajo-25/images/107_153a.JPG"
+    },
+    {
+      "filename": "108_153b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo25/108_153b.JPG",
+      "url": "/legajos/legajo-25/images/108_153b.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "107_153a.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (7)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-25/cartas/004119.json",
+  "primary_image_url": "/legajos/legajo-25/images/107_153a.JPG"
+}

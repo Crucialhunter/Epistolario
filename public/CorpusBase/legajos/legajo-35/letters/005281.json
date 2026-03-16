@@ -1,0 +1,43 @@
+{
+  "legajo_id": "35",
+  "id_carta": "5281",
+  "order_in_legajo": 93,
+  "signatura": "094:8127a.JPG",
+  "nombre_carta": "Carta de Gabriel Seguí a Pedro Santacilia y Pax",
+  "fecha_original": "27 de junio de 1644",
+  "lugar": "Maó",
+  "remitente": "Gabriel Seguí",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "En aquest punt que seran les dos de la matinada tinc rebut l'avís de v. s. en el qual tinc entès se troba en el Mercadal i, no obstant, tinc fet altre avís a v. s. per home propi, qui es partí d’esta vila a les onze hores d’esta nit, donant avís a v. s. de com en aquell punt acabaven d'entrar catorze galeres, les 9 d'Espanya, tres de Gènova i dos de Sardenya, les quals van acompanyent dues galeres de Gènova, qui van carregades de moneda. Aportan la sª. mar que sa dels Velez, el carde nal Tribartio [?] , i governa dites les ga leres el duc de Jurtis [?] . Pensa partir se prompte a acompanyar dites dues galeres, fins estar engolfades, i ficar demprés a la volta de Roses a on diuen van carregades de farina i diner. Si bé diuen tornarien per ací dites galeres per espalmar i pot ser que el dit home no sàpia cosa de v. s. per tirar just a Ciutadella conforme ho he encarre gat. I, perquè v. s. sàpia el que passa, he tornat referir el mateix del. Senyor governador . quan eren arribades al moll d’esta vila [?] aigo en continent i ja es son partides pel Castell, a on estan les {ESP. demés} galeres. En tot el que v. s. mana avisar, estarem previnguts a esta vila per altra ocasió, doncs està ja sabem el que és. Gda Déu a v. s. d’esta vila de Maó a 27 de juny 1644. Gabriel Seguí Transcripción literal"
+  ],
+  "literal": [
+    "1. En aquest punt q seran las dos de la2. matinada tinch rebut lo avis de VSª3. en lo qual tinch entes se troba anal4. Marca[da]l y no obstant tinch fet altra5. avis a VSª p home propi quis parti desta6. vila a las onsa horas desta nit donant7. avis a VSª de com en aquel punt acabava8. de entrar catorsa galeras las 9 de Spaña9. tres de Genova y dos de Sardeña las quals10. van acompañant dos galeras de Genova11. qui va carregades de moneda aportan12. la Sª. Marquesa de los Veles, lo Carde13. nal Tribartio, y Governa ditas las ga14. leras lo Sr. Duch de Jurtis pensa partir15. sa prompta a conpañar ditas dos galeras16. fins estar engolfadas, y ficar denpres 17. a la volta de Rosas hahont diuhan van18. carragadas de farina y diner, si be diuen19. tornarian p[er] assi ditas galeras p[er] espalmar20. y pot ser q lo dit home no sapia cosa de VSª21. p tirar just a Ciuta conforma ho he encarra22. gat y pq VSª sapia lo q passa he tornat23. referir lo matex del [...]24. Señor Gdor [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "094:8127a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo35/094:8127a.JPG",
+      "url": "/legajos/legajo-35/images/094:8127a.JPG"
+    },
+    {
+      "filename": "095:8127b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo35/095:8127b.JPG",
+      "url": "/legajos/legajo-35/images/095:8127b.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "094:8127a.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-35/cartas/005281.json",
+  "primary_image_url": "/legajos/legajo-35/images/094:8127a.JPG"
+}

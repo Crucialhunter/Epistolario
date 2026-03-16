@@ -1,0 +1,38 @@
+{
+  "legajo_id": "11",
+  "id_carta": "1450",
+  "order_in_legajo": 237,
+  "signatura": "380:5305.JPG",
+  "nombre_carta": "Carta de Josep de Rocabertí a Pedro Santacilia y Pax",
+  "fecha_original": "21 de agosto de 1652",
+  "lugar": "Ibiza",
+  "remitente": "Josep de Rocabertí",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Molt suspes me tenen les coses de Cata lunya i desios que entre d'Espa n'hi ha per a saber el cert si acàs volte d'alla nova el suplico me les participe amb seguretat que gent tals com confio, faré poca pols en aquesta {ESP. isla} . Els nebots no tracten sinó de casar i amb sa companyia el paso molt bé ells escriuen llarg sobre les matèries corrents i pel patró feia aguardam el que v. s. ofereix que és d'escriu rer llarg Déu ho encamini tot i a v. s. guardi com pot i jo desio. Eivissa i agost de 1652 Sr. D. Josep de Rocaberti Sr. don Pedro Santacila i Pax [1§] Transcripción literal"
+  ],
+  "literal": [
+    "1. Molt suspes me tenen les cosas de Cata 2. luña y desyos de que entre de Espa 3. ña pera saber lo sert si acas volte 4. de alla nova lo soplico me las 5. participe ab seguretat que gent 6. tals com confio, fare poca pols81 7. en aquesta isla. 8. Los nabots no tractan sino de casar 9. y ab sa compañia lo paso molt be 10. ells escriuen llarc sobre las materias 11. corrents y per lo patro feia aguar 12. dam lo que VS offereix que es de escriu 13. rer llarc deu ho encamine tot y 14. a VS gde com pot y jo desyo. Ivisa 15. y Agost de 1652 16. D. Joseph de Rocaberti 17. [^Sr. don Pedro Santacila y Pax^] [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "380:5305.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo11/380:5305.JPG",
+      "url": "/legajos/legajo-11/images/380:5305.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "380:5305.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-11/cartas/001450.json",
+  "primary_image_url": "/legajos/legajo-11/images/380:5305.JPG"
+}

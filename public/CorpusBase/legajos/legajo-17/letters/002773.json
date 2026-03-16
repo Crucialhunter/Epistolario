@@ -1,0 +1,43 @@
+{
+  "legajo_id": "17",
+  "id_carta": "2773",
+  "order_in_legajo": 38,
+  "signatura": "057:1315a.JPG",
+  "nombre_carta": "Carta de Basilio de Castellví y Ponce a Pedro Santacilia y Pax",
+  "fecha_original": "29 de abril de 1658",
+  "lugar": "Villareal",
+  "remitente": "Basilio de Castellví y Ponce",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Señor mío su carta de v. s. he recibido de 6 del corriente y con ella particular gusto sabiendo queda v. s. con la salud que le deseo y que la goza mi señora doña Leonor, cuyas manos besamos Dña. Laura y. yo, que al servicio de v. s. quedamos buenos. Hállome fuera de Valencia cuatro días a en demanda de un donativo que se pide para hacer una leva y habiendo dado la ciudad 180 ducados se ha repartido esta ocupación entre cuatro ministros con que me ha tocado por la parte del maestrazgo en que me detendré más de tres meses. Doy cuenta a v. s. de ello para que sepa donde me han de hallar sus órdenes que obedeceré con la puntualidad que pide mi obligación. Los pliegos he recibido y se han remitido al punto en la conformidad que v. s. lo ordena, de Madrid no se dice sino la muerte del padre Pedro Pimentel y el padre Eusebio ambos grandes sujetos el señor vicecanciller ha sentido sumamente la muerte del padre Eusebio que era su confesor, y lo ha mostrado con haberlo hecho, unas grandes honras. Ya v. s. sabrá como tenemos [?] a nuestro amigo don Jorge de Castellvi y aún de esta manera aún le tienen en la ocupación de guardar al duque de Lorena con que el preso viene a ser Sr. don Jorge sin [1§] que haya forma de sacarle de allí con que están desesperados, el caballo está tomando el verde y se ha puesto famoso con que tengo por cierto ha de ser excelente. Acá no hay novedad de que dar cuenta a v. s. sino suplicarle no me tenga ocioso pues sabe mi obligación. Dios guarde a v. s. muchos años. Villarreal y 29 de abril de 1658. Besa a v. s. su mano su mayor servidor Don Basilio de Castellvi y Ponce Sr. D. Pedro de Santacilia y Pax [2§] Transcripción literal"
+  ],
+  "literal": [
+    "1. Señor mio su carta de, VS herrecivido de 6 del corriente2. y con ella particular gusto sabiendo queda VS, con la sa3. lud que le deseo y que la goça mi señora Doña Leonor,4. cuyas manos vesamos da. Laura y.yo. que al serviçio de VS5. quedamos buenos. hallome fuera de Valençia quatro dias6. y endemanda de un donatibo que se pide para haçer una7. leva y habiendo dado la ciudad 180 ducados searrepar8. tido esta ocupacion entre quatro ministros con que me9. atocado por la parte del maestrazgo en que me deten10. dre mas de tres messes doy quenta a VS dello para que11. sepa donde meandehallar sus hordenes que obedeçere12. con la puntualidad que pide mi obligaçión13. los Pliegos herreçivido y sean rremitido al punto en14. la conformidad que VS lo hordena, de Madrid no se diçe15. sino la muerte del padre pedro pimentel y el Padre 16. eusebio ambos grandes sujetos el señor Biçechanceller17. asentido sumamente, la muerte del Padre eusebio18. que era su confesor, y loamostrado con haberlo hecho,19. unas grandes honrras. Ya VS sabra como tenemos ele20. xigo[?] a nro amigo Don Jorje de Castelvi y aun desta manera21. aun le tienen en la ocupaçion de guardar al Duque22. de Lorena con que el preso biene a ser don Jorge sin [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "057:1315a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo17/057:1315a.JPG",
+      "url": "/legajos/legajo-17/images/057:1315a.JPG"
+    },
+    {
+      "filename": "058:1315b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo17/058:1315b.JPG",
+      "url": "/legajos/legajo-17/images/058:1315b.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "057:1315a.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-17/cartas/002773.json",
+  "primary_image_url": "/legajos/legajo-17/images/057:1315a.JPG"
+}

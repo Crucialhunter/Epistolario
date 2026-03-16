@@ -1,0 +1,43 @@
+{
+  "legajo_id": "21",
+  "id_carta": "3499",
+  "order_in_legajo": 188,
+  "signatura": "345:5787a.JPG",
+  "nombre_carta": "Carta de Lluís Gisbert a Dionisio de Aybar",
+  "fecha_original": "17 de noviembre de 1639",
+  "lugar": "Pamplona",
+  "remitente": "Lluís Gisbert",
+  "destinatario": "Dionisio de Aybar",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "El obispo ha dado un mandato para el abad de esa en que manda dentro de tres días de razón de lo que se le pida del caballo y armas o que venga a dar satisfacción o justas causas para la disculpa. Yo estimaría que me mandase lo que debo hacer en la petición del [?] caballo esta mall [fragmentado] que si lo tomaré y yo voy hoy a estimarle va el mandato con un licenciado que yo no puedo en lo de su gusto me mande que debo hacer que por pedir mucho no pensaré errar y v. m. me mande, de Pamplona a 12 de noviembre de 1639. Mi Sr. gobernador Luis Gisbert El aposentador va [?] con un amigo mío [?] del abad a quien he afeado el caso y por habérselo parecido así va a que todo se satisfaga y en caso que el caballo estuviese muerto que v. m. avise si [?] hemos concertar por no salir de su gusto a la que le escribo [?] y guárdeme Nuestro Sr. a v. m. Dionisio de Aybar [1§] Pamplona 17 Noviembre 1639 Luis Gisbert Transcripción literal"
+  ],
+  "literal": [
+    "1. El Sor Obispo a dado un mandato para 2. el abad de essa en que manda dentro de 3. tres dias de rason de lo que se le pida 4. del cavallo y armas oq ue venga a 5. dar satisfasion o justas causas para 6. la disculpa jo estimaria que me 7. man dase lo que devo aser en la pe8. tision del [?] cavallo esta mall[fragmentado]9. que si lo tomare y jo voi oi a e[Fragmentado]10. timar le ba el mandato con un 11. lisensiado que jo no puedo en lo de 12. su gusto me mande que devo asser 13. que por pedir mucho no pensare 14. errar y a va me mande de 15. panplona a 12 de novienbre de 16. 1639 17. misor gdor Luis Gil ber [Ilegible] 18. el aposentador ba a Ysu con un amigo mio dendodel ablad aquien 19. he afeado elcasso Ypor averselo parezido assiba aquetodose 20. satisfaga Yencaso q el cavallo estubiese Muerto que 21. vm avise si [Ilegible] demos comzertar por no salir de su gusto 22. ala q le escribo [Ilegible] y ge me nuestrosr a Vm 23. d díonísio de aybar [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "345:5787a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo21/345:5787a.JPG",
+      "url": "/legajos/legajo-21/images/345:5787a.JPG"
+    },
+    {
+      "filename": "346:5787b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo21/346:5787b.JPG",
+      "url": "/legajos/legajo-21/images/346:5787b.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "345:5787a.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-21/cartas/003499.json",
+  "primary_image_url": "/legajos/legajo-21/images/345:5787a.JPG"
+}

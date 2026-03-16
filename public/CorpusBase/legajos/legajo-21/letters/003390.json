@@ -1,0 +1,43 @@
+{
+  "legajo_id": "21",
+  "id_carta": "3390",
+  "order_in_legajo": 79,
+  "signatura": "119:5679a.JPG",
+  "nombre_carta": "Carta de Pedro Fajardo de Requeséns-Zúñiga y Pimentel (V marqués de los Vélez) a Domingo Abat Demescar",
+  "fecha_original": "5 de noviembre de 1638",
+  "lugar": "Pamplona",
+  "remitente": "Pedro Fajardo de Requeséns-Zúñiga y Pimentel (V marqués de los Vélez)",
+  "destinatario": "Domingo Abat Demescar",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "He recibido la carta de v. m. de 4 de este y por ella y la relación que me ha hecho el capitán Sr. don Josep Curia he visto como esas compañías se están detenidas y no hallando, otro remedio para su despago [?] Al señor almirante, suplicándole envie comisos que la reciban porque como v. m. ha visto la tierra no es capaz de conservarlas. No yo tengo orden ninguna de su majestad para darles alojamiento, ni cuando lo quisíerá hacer hay disposición en este reino, y así v. m. inste en lo mismo pues por gobernador de esa caballería debe procurar su conservación que yo me holgaré mucho, allá i medio de darle el cobro que conviene y por servir a v. m. y viera mucho. Guarde Dios a v. m. muchos años de Pamppna y noviembre 5 de 1638. El marques de los Velez Sr. don Pedro de esta secilía [1§] Pamplona 9 Noviembre 1638 El marques de los Velez rdo. Transcripción literal"
+  ],
+  "literal": [
+    "1. E Rdo la carta de Vm de 4 deste 2. y Por ella ylarrelaçion que meaecho el 3. Cappm Don Joseph curia ebisto como esas 4. conPanias seestan detenidas yno 5. allando, otro Remedio Parasu despago 6. esCrevor[?] Alsenor Almirante: ssuplícan 7. dole ynbie Comissos quela Recibanpor 8. queComo Vm. abisto latierranoes 9. capaz. decon serbarlas no yo tengo hor10. denninguna de sumagd, Para darles 11. aloxamiento. ni quando lo quisíera 12. azer ay dispusson Eneste reyno, 13. yassi vmd. ynste Enlo mismo Pues 14. Por gobernador de hesacaballería 15. debe Procurar su conserbaçion que 16. yome olgara mucho, allaimedio 17. dedarle, El cobro que Conbiene Ypor 18. serbir a Vmd. yviera mucho gde Dios 19. a Vm. muchos años de Panppna 20. y 9bre 5 de 1638 21. El Marqs de los veles22. [Margen izquierdo][^ sor Don Po de sta sezilía] [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "119:5679a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo21/119:5679a.JPG",
+      "url": "/legajos/legajo-21/images/119:5679a.JPG"
+    },
+    {
+      "filename": "120:5679b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo21/120:5679b.JPG",
+      "url": "/legajos/legajo-21/images/120:5679b.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "119:5679a.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (5)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-21/cartas/003390.json",
+  "primary_image_url": "/legajos/legajo-21/images/119:5679a.JPG"
+}

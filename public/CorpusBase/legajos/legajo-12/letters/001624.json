@@ -1,0 +1,38 @@
+{
+  "legajo_id": "12",
+  "id_carta": "1624",
+  "order_in_legajo": 45,
+  "signatura": "192_6217.JPG",
+  "nombre_carta": "Carta de Francisco María de Carrafa Castriato y Gonzaga a Pedro Santacilia y Pax",
+  "fecha_original": "13 de febrero de 1641",
+  "lugar": "Fraga",
+  "remitente": "Francisco María de Carrafa Castriato y Gonzaga",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Al sr. marques de los Velez he suplicado dé licencia a don Manuel, mi hijo, para venirse a hallar conmigo en la empresa de Lérida. Espero no se la negará, y así suplico a v. m. que, si la tuviere, le haga merced de advertirle la embarcación más segura para venir a Tarragona, y de allí a Vinaroz, para que por tierra venga a esta villa cuanto antes. Siempre soy muy servidor de v. m., y siento no me ocupé en muchas ocasiones de su servicio. A quien guarde Dios muchos años. Fraga, a 13 de febrero 1641. El duque de Nocera, [anotación posterior a lápiz: El duque de Nochera, Príncipe de Silla] Sr. D. Pedro de Santacilia[1§] Transcripción literal"
+  ],
+  "literal": [
+    "1. Al Sr, Marques de los Velez he suplicado de Licencia a2. don Manuel mi hijo para venirse a allar conmigo en la3. ympressa de Lerida esperan se la negara y assi sup[li]co4. a Vm que si la tubiere le haga m[e]r[ce]d de adbertirle la5. enbarcazion mas segura para venir a Tarragona y de alli6. a Vinaroz para que port tierra venga a esta villa7. quanto antes. Siempre soy muy servidor de Vm8. siento no me ocupe en muchas ocassiones de su serv[ici]o a q[uie]n9. gde Dios muchos años Fraga a 13 de febrero 164110. El Duque de Nochera, Príncipe de Silla11. Pedro de Santa Sicilia [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "192_6217.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo12/192_6217.JPG",
+      "url": "/legajos/legajo-12/images/192_6217.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "192_6217.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-12/cartas/001624.json",
+  "primary_image_url": "/legajos/legajo-12/images/192_6217.JPG"
+}

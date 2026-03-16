@@ -1,0 +1,38 @@
+{
+  "legajo_id": "41",
+  "id_carta": "7427",
+  "order_in_legajo": 112,
+  "signatura": "113:53.JPG",
+  "nombre_carta": "Carta de conde de Santa María de Formiguera a Pedro Santacilia y Pax",
+  "fecha_original": "4 de abril de 1633",
+  "lugar": "Palma",
+  "remitente": "conde de Santa María de Formiguera",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "?? de procurador realAl senyor Don Pedro Santasilia leuanta ?? asi en este Regneuna companyia que sa magestad mea manat se face procuraren a la persona quel es ?? vos aportera a ??i aiudar ?? li en que face molts soldats que lo que fareuvos ho agraire in estomiare ?? en lo que es reo; mesque si fos cosa mia propria; ames que es cosa delservey de sa magestad a que tots tenim tanta obligatio de acudir in tendre ?? memoria en qualsevol ocasio que sens offeresca quant vos de??com pot de ciutat à 4 abril 1633el conde de Santa Mariade formiguera [1§] Transcripción literal"
+  ],
+  "literal": [
+    "1. [??] de procurador real2. Al s< eny>or Don Pedro Santasilia leuanta [??] asi en este Regne3. una companyia que sa ma< gesta>d mea manat se face pro4. curaren a la persona quel es [??] vos aportera a [??]5. i aiudar [??] li en que face molts soldats que lo que fareu6. vos ho agraire in estomiare [??] en lo que es reo; mes7. que si fos cosa mia propria; ames que es cosa del8. servey de sa mag< esta>d a que tots tenim tanta obli9. gatio de acudir in tendre [??] memoria en qual10. sevol ocasio que sens offeresca quant vos de[??]11. com pot de ciutat à 4 abril 163312. el conde de S< an>ta Maria13. de formiguera [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "113:53.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo41/113:53.JPG",
+      "url": "/legajos/legajo-41/images/113:53.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "113:53.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-41/cartas/007427.json",
+  "primary_image_url": "/legajos/legajo-41/images/113:53.JPG"
+}

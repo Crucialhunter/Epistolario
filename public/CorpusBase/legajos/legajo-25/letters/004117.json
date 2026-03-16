@@ -1,0 +1,43 @@
+{
+  "legajo_id": "25",
+  "id_carta": "4117",
+  "order_in_legajo": 51,
+  "signatura": "104_151a.JPG",
+  "nombre_carta": "Carta de Bartomeu Estada a Jerónimo Pelegrín de Aragüés",
+  "fecha_original": "20 de mayo de 1667",
+  "lugar": "Mallorca",
+  "remitente": "Bartomeu Estada",
+  "destinatario": "Jerónimo Pelegrín de Aragüés",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Sr. Jeroni L'any passat quiti a la senyora Agnes Desbach i Gener 43 lliures sens li feia d'una pesa d'olivar dita la tanca damunt de [?] dec el lluisme al rei a qui li envii cinquanta lliures. Fer-me mercè donar-les al Dr. Armella, o a qui la tenguin de donar, i prendre rebuda i veure del {ESP. demés} si em faran espera fins a Sant Joan. Al procurador reial que li besa les mans, i a la senyora dona Leonor i si importa cosa que em manin i no més d'esta sa casa, i maig als 20 de 1667. Prompte Bartomeu Estada [1§] Al Jeroni Pelegri, guardi Déu etts. En Ciutat Transcripción literal"
+  ],
+  "literal": [
+    "1. Sr. Hyeroni2. Lo añy pessat quiti a la Señora agne desbahc y janer3. 43 Ll cens li feya de una pessa de olivar dita la4. tanca demut de [?] dec el lluisme al Sr. Rey a qui5. ly emby sinqunte ll. ferma merce donarles al Sr. dr.6. Armella, o, al qui le tenen de donar, y pendra rebuda7. y veure de lo demes si em faran spera fins a St. Juan8. Al Sr. Pr. Reyal q li besa les mans, y a la Señora9. dona Elienor y si importa coza q em manan10. y no mes desta su casa, y maig als 20 de 166711. Prompte Bar[tomeu] Stada [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "104_151a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo25/104_151a.JPG",
+      "url": "/legajos/legajo-25/images/104_151a.JPG"
+    },
+    {
+      "filename": "105_151b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo25/105_151b.JPG",
+      "url": "/legajos/legajo-25/images/105_151b.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "104_151a.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (4)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-25/cartas/004117.json",
+  "primary_image_url": "/legajos/legajo-25/images/104_151a.JPG"
+}

@@ -1,0 +1,38 @@
+{
+  "legajo_id": "16",
+  "id_carta": "2627",
+  "order_in_legajo": 115,
+  "signatura": "186:2127.JPG",
+  "nombre_carta": "Carta de José Balell a Pedro Santacilia y Pax",
+  "fecha_original": "28 de agosto de 1667",
+  "lugar": "Barcelona",
+  "remitente": "José Balell",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Señor don Pedro de Santacilia y Pax, mi señor con este mismo pasaje tengo escrito a v. s. largamente y besado su mano como lo hago en esta. que pondrá en su mano el reverendo padre fray Francisco foxa Religioso del Convento del serafico Santo Francisco de esta ciudad muy Señor mío y amigo. va para la solicitud a Vuestros Intereses. tienen las señoras Religiosas del Convento de Jerusa lem también de esta ciudad para poder acudir al remedio detantas ne cesidades como me consta están padeciendo y como soy su Vecino y Saven la merced que v. s. es servido ha cerme Me han Mandado Suplicase a v. s. como lo leago sea Servido aamparar la justicia que les tocare que Repre sentara el dicho Pedro foxa como todo poderozo que así lo espera mis estas señores y yo delPio pecho de v. s. y lo recibiremos a merced cuya Boda guarde mi señor muchos años como puede, deseo y es menester Barcelona y agosto a 28 de 1667 cierto criado de v. s. que su mano besa Josep Balell [1§] Transcripción literal"
+  ],
+  "literal": [
+    "1. [Margen izquierdo][^ Sr d Po de Sta Cilia y Pax mi sr]2. Con este miso pasaje tengo escrito 3. a VS largamte y besado su mano 4. como lo hago en esta. que pondra 5. en su mano el rdo Pe fr franco 6. foxa Religioso del Convento del 7. serafico So franco desta Ciud mui 8. Sr mio y amigo. Va pa la solisitud 9. a Vues Intereses. tienen las señoras 10. Religiosas del Convento de Jerusa11. lem tanvien desta Ciud pa poder 12. acudir al Remedio detantas ne13. cessidades como me consta estan 14. padeciendo y como soi su Vezino 15. y Saven la md que VS es servido ha16. zerme Me han Mando Suppe a VS co17. mo lo leago sea Serv[i]do â amparar 18. la Justicia que les tocare que Repre19. sentara el dho Po foxa como to20. do poderozo que asi lo espera mis 21. estas SS y yo delPio pecho de VS. 22. y lo Reciviremos A md Cuia 23. Boda gde mi Sr ms a<ño>s como pue24. de dezo y emenester Barcelona 25. y Agto A 28 de 1667 26. Çierto Criado de VS q s[u]m[]b[] 27. Joseph Balell [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "186:2127.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo16/186:2127.JPG",
+      "url": "/legajos/legajo-16/images/186:2127.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "186:2127.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-16/cartas/002627.json",
+  "primary_image_url": "/legajos/legajo-16/images/186:2127.JPG"
+}

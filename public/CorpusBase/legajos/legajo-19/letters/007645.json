@@ -1,0 +1,42 @@
+{
+  "legajo_id": "19",
+  "id_carta": "7645",
+  "order_in_legajo": 232,
+  "signatura": "279_cg127a.JPG",
+  "nombre_carta": "Carta de No consta a No consta",
+  "fecha_original": "22 de noviembre de 1574",
+  "lugar": "Lugar sin especificar",
+  "remitente": "No consta",
+  "destinatario": "No consta",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "[1§] [2§] [3§] Transcripción literal"
+  ],
+  "literal": [
+    "1. 2. 3. [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "279_cg127a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo19/279_cg127a.JPG",
+      "url": "/legajos/legajo-19/images/279_cg127a.JPG"
+    },
+    {
+      "filename": "280_cg127b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo19/280_cg127b.JPG",
+      "url": "/legajos/legajo-19/images/280_cg127b.JPG"
+    },
+    {
+      "filename": "281_cg128c.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo19/281_cg128c.JPG",
+      "url": "/legajos/legajo-19/images/281_cg128c.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "279_cg127a.JPG",
+  "warnings": [],
+  "raw_source": "raw/legajos/legajo-19/cartas/007645.json",
+  "primary_image_url": "/legajos/legajo-19/images/279_cg127a.JPG"
+}

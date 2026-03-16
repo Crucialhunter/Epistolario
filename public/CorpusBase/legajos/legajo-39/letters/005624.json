@@ -1,0 +1,38 @@
+{
+  "legajo_id": "39",
+  "id_carta": "5624",
+  "order_in_legajo": 22,
+  "signatura": "36:8284.JPG",
+  "nombre_carta": "Carta de Diego de Rocabertí a Pedro Santacilia y Pax",
+  "fecha_original": "2 de marzo de 1633",
+  "lugar": "Barcelona",
+  "remitente": "Diego de Rocabertí",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "[1§] Transcripción literal"
+  ],
+  "literal": [
+    "1."
+  ],
+  "imagenes": [
+    {
+      "filename": "36:8284.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo39/36:8284.JPG",
+      "url": "/legajos/legajo-39/images/36:8284.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "36:8284.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-39/cartas/005624.json",
+  "primary_image_url": "/legajos/legajo-39/images/36:8284.JPG"
+}

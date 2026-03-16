@@ -1,0 +1,38 @@
+{
+  "legajo_id": "18",
+  "id_carta": "2986",
+  "order_in_legajo": 16,
+  "signatura": "031:4825.JPG",
+  "nombre_carta": "Carta de Marqués de Hariza a Pedro Santacilia y Pax",
+  "fecha_original": "19 de junio de 1649",
+  "lugar": "Zaragoza",
+  "remitente": "Marqués de Hariza",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "días ha que escribí a v. m. suplicándole fueseservi do disponer se me pague en esta receta Lo que se meesta debiendo que al presente son nueve tercias de tres años enteros y aunque el señor conde de Plasencia me escribió en Abril que por toda aquella semana se me daría satisfacción no he sabido después palabra y así vuelvo a hacer estos renglones suplicando a v. m. facilite la cobranza como de la merced que me hace espero y si hubiere alguna dificultad lo que no creo me avise de ellay mándeme muchas cosas de su servicio de v. m. cuya persona guarde Nuestro señor largos años Zaragoza y junio 19 de 1649 Besa la mano de v. m. su mayor servidor El marques de Hariza Sr. don Pedro Santacilia [1§] Transcripción literal"
+  ],
+  "literal": [
+    "1. Dias aqueescrivi a Vm. suplicandole fuesseservi2. do disponer semepague enesta receta 3. Lo quesemeesta deviendo que al pressente son 4. nueve tercias de tres años enteros y aunque 5. el Señor Conde de Plassencia meescrivio en 6. Abril que portoda aquella semana seme 7. daria satisfaçíon no hesavido despues palabra 8. yassi buelvo a haçer estos renglones supli9. cando a Vm. façílite la cobrança como 10. dela merced queme haze espero y si 11. Ubiere alguna dificultad lo queno creo me 12. havisse dellay mandeme muchas 13. cossas de suserviçio de Vm. cuyapersa 14. guarde Nuestro señor largos años Çaraga 15. y Junio 19 de 1649 16. B[] l[] m[] de Vm su mor 17. serr 18. El Marques de Hariza 19. [Margen izquierdo][^ Sr Don Po Santazílía] [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "031:4825.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo18/031:4825.JPG",
+      "url": "/legajos/legajo-18/images/031:4825.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "031:4825.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-18/cartas/002986.json",
+  "primary_image_url": "/legajos/legajo-18/images/031:4825.JPG"
+}

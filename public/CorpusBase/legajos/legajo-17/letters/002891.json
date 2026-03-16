@@ -1,0 +1,38 @@
+{
+  "legajo_id": "17",
+  "id_carta": "2891",
+  "order_in_legajo": 157,
+  "signatura": "272:1433.JPG",
+  "nombre_carta": "Carta de Gerónimo Marruena a Pedro Santacilia y Pax",
+  "fecha_original": "26 de mayo de 1660",
+  "lugar": "Madrid",
+  "remitente": "Gerónimo Marruena",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "mío Pongo en manos de v. m. el despacho incluso de su majestad sobre la remisión de los vilanzos. a v. m. suplico me mande avisar de su recibo y de todo lo que se ofreciere de su servicio. Guarde Dios a v. m. largos años. Madrid a 26 de mayo 1660. Besa la mano de v. m. su mayor servidor Jeronimo Marruena [?] Proor real Sr. D. Pedro Santacilia y Pax. [1§] Transcripción literal"
+  ],
+  "literal": [
+    "1. Sr. mio Pongo en manos de V.m. el 2. despacho incluso de Su Magd sobre la remi=3. sion de los vilanzos. A V.M. suplico me 4. mande avisar de su recibo y de todo lo 5. que se offreziere de su servo6. Gde Dios a V.M. largos años. Md a 26. 7. de Mayo 1660.8. B l[a] m de VM9. Su mor seror10. Geronimo Marruena???11. Sr. Proor Rl D. Po Santacilia y Pax. [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "272:1433.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo17/272:1433.JPG",
+      "url": "/legajos/legajo-17/images/272:1433.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "272:1433.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-17/cartas/002891.json",
+  "primary_image_url": "/legajos/legajo-17/images/272:1433.JPG"
+}

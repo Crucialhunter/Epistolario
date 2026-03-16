@@ -1,0 +1,38 @@
+{
+  "legajo_id": "16",
+  "id_carta": "2567",
+  "order_in_legajo": 53,
+  "signatura": "087:2067.JPG",
+  "nombre_carta": "Carta de Nicolás de Santacilia y Togores a Pedro Santacilia y Pax",
+  "fecha_original": "16 de abril de 1667",
+  "lugar": "Madrid",
+  "remitente": "Nicolás de Santacilia y Togores",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Padre y señor mío. Mi Enfermedad me ha obligado a tomar resolución de venirme a casa de Díego Matias, para ver si con más brevedad podré convalecer, que lo espero aquí conforme me ha dicho el médico, y así desde ayer tarde estoy acá con licencia del señor conde de Talara, y así lo tenga v. s. entendido. En donde me halló con mucho más gusto y más bien asistido que en la casa de los pajes y no tener que entender con una enfermera que tan mala disposición tiene de ordinario. Espero en Dios salir bien de esto de que ire dando aviso conforme me fuere hallando. A v. s. beso la mano y las de mi madre y señora y mis hermanos muchas veces y guarde Dios muchos años como deseo y es menester. Madrid a 16 de abril 1667. Su más humilde hijo de v. m. que su mano besa,Don Nicolas de Santacilia y Togores Mi padre y señor, don Pedro Santacilia y Pax Transcripción literal"
+  ],
+  "literal": [
+    "1. Padre y Sr mío. Mi Enfermedad me aobligado atomar Re2. soluçion de benirme acassa de Díego Mathias, para ber 3. si conmas brebedad podre conbaleçer, quelo espero assí con4. forme me adicho el medico, y assi desde ayertarde 5. Estoy aca con liçençia del Sr Conde de talara, y assi lo 6. tenga VS. entendído. Endonde me allo con mucho mas gusto 7. y mas bien assistido q en la cassa delos Pajes y no tener 8. q entender con una enfermera quetan mala díspn 9. tiene deordinarío. Espero en Dios salir bien desto 10. de que íre dando avísso conforme me fuere allando. A Vs. 11. beso lamano y las demi Madre y Sa y mis hermanos 12. Muchas veçes y gde Dios ms años como desseo y 13. hemenester. Madrid a 16 de Abril 1667 14. Su mas humilde hijo de 15. VM q S[u] M B 16. Don Nicolas de Sta Cilia y Togores 17. [Margen izquierdo][^Mi Padre Sr Don Pedro Santa Çilia y Pax] [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "087:2067.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo16/087:2067.JPG",
+      "url": "/legajos/legajo-16/images/087:2067.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "087:2067.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-16/cartas/002567.json",
+  "primary_image_url": "/legajos/legajo-16/images/087:2067.JPG"
+}

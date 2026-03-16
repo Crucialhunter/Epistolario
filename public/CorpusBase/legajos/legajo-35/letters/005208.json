@@ -1,0 +1,38 @@
+{
+  "legajo_id": "35",
+  "id_carta": "5208",
+  "order_in_legajo": 21,
+  "signatura": "006:8053.JPG",
+  "nombre_carta": "Carta de Dionís Mir a Pedro Santacilia y Pax",
+  "fecha_original": "20 de agosto de 1630",
+  "lugar": "Nápoles",
+  "remitente": "Dionís Mir",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Per altra tinc escrit a v. m. me facia mercè de cobrar-me les vint-i-quatre lliures i sis sous del Vinyes i la doble de’Antoni Ferrer. I podrà v. m. passar comptes i si jo li dec se podrà pagar, i si me es deutor alguna cosa, ho podrà v. m. donar aquí el Sr. don Pedro S [an] tacília manarà. Altra tinc a v. m. escrita que va amb este mateix viatge, que dóna dit diner a Gorgot de Vilabertran. I, així, v. m. se servirà, aquí el Sr. D. Pedro serà servit de donar dit diner, que jo ho tindré per rebut. Suplico a v. m. no hi hagi falta com de v. m. confio, a qui Nostre Senyor guarda. Nàpols, i agost 20, 1630. Dionís Mir. Transcripción literal"
+  ],
+  "literal": [
+    "1. Per altre tinch escrit a V.m. me fassa merçe de cobrarme2. las vintÿ quatre lliures ÿ sis sous del Sr. Viñyes ÿ la dobla3. de Antoni Ferrer, ÿ podra Vm passar comptes, ÿ si jo li dech4. se podra pagar, ÿ si me es deutor alguna cosa ho podra5. V.m. donar a qui lo Sr. don Pedro Sta. Cilia manara, altra tinc6. a v.m. escrita que va ab este matex viatje que done dit diner7. a Gorgot de Vilabertran ÿ axi V.m. se servira a qui lo Sr. don8. Pedro sera servit de donar dit diner que jo ho tindre per9. rebut, soplico a V.m. noi aja falta com de v.m. confio a qui10. N.S. gde. Napols y Agost 20 163011. Dionis mir [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "006:8053.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo35/006:8053.JPG",
+      "url": "/legajos/legajo-35/images/006:8053.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "006:8053.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-35/cartas/005208.json",
+  "primary_image_url": "/legajos/legajo-35/images/006:8053.JPG"
+}

@@ -1,0 +1,42 @@
+{
+  "legajo_id": "31",
+  "id_carta": "6771",
+  "order_in_legajo": 11,
+  "signatura": "016:1522a.JPG",
+  "nombre_carta": "Carta de Cristobal Carbonell a Pedro Santacilia y Pax",
+  "fecha_original": "13 de noviembre de 1660",
+  "lugar": "Ibiza",
+  "remitente": "Cristobal Carbonell",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Transcripción literal"
+  ],
+  "literal": [
+    "1. 1. 1."
+  ],
+  "imagenes": [
+    {
+      "filename": "016:1522a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo31/016:1522a.JPG",
+      "url": "/legajos/legajo-31/images/016:1522a.JPG"
+    },
+    {
+      "filename": "017:1522b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo31/017:1522b.JPG",
+      "url": "/legajos/legajo-31/images/017:1522b.JPG"
+    },
+    {
+      "filename": "018:1522c.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo31/018:1522c.JPG",
+      "url": "/legajos/legajo-31/images/018:1522c.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "016:1522a.JPG",
+  "warnings": [],
+  "raw_source": "raw/legajos/legajo-31/cartas/006771.json",
+  "primary_image_url": "/legajos/legajo-31/images/016:1522a.JPG"
+}

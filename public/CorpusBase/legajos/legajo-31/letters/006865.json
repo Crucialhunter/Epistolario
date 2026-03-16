@@ -1,0 +1,43 @@
+{
+  "legajo_id": "31",
+  "id_carta": "6865",
+  "order_in_legajo": 106,
+  "signatura": "151:1616a.JPG",
+  "nombre_carta": "Carta de Rodrigo de Borja Llançol de Romaní y Olivera a Pedro Santacilia y Pax",
+  "fecha_original": "1 de septiembre de 1661",
+  "lugar": "Ibiza",
+  "remitente": "Rodrigo de Borja Llançol de Romaní y Olivera",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Sr. mío beso la mano a v. s. por la merced que se a servido hacerme calificando mi sentir con su aprobación. ahora se ofrece añadir que el capitán Carbonell ha venido hoy diciéndome que Francisco Simon de Bermeu desea la Ocupación de teniente en esta isla y aunque acerca de este sujeto dije en la ocasión pasada lo que se me ofrecia sumaria mente parece que ahora se requiere más individualRelación para que v. s. con noticia de todo y siendo servido disponga lo que más conviene Simon de Bermeu es uno de los más inteligentes de esta isla y está muy en las materias del patrimonio porque es notario de este oficio por despacho de su M. para formar las cuentas y por ayudar al teniente y si errare v. s. este cierto que no será de inorancia. En cuanto. a lacienda la tiene muy buena y sin ambrollar porque el la al querido y no creo que se [1§] abra dejado engañar y así por estos cabos le juzgo al propósito para teniente de v. s. sino le embaraza el ser como he dicho notario del patrimonio por su majestad. totalmente Sordo y haber sido procurador fiscal del tribunal de la Gobernación y haberlo sido también su padre Dios guarde a v. s. los muchos años que puede y deseo yviza a pº de sepe. 1661 don Rodrigo de Borja Lancol Sr. D. Pedro Santacilia y Pax [2§] Transcripción literal"
+  ],
+  "literal": [
+    "1. Sr mio beso la mano a V. S. por la merced que 2. se a serbido acerme calificando mi sentir con 3. su aprobacion. aora se ofrece añadir que el 4. Capn Carbonell a benido oi diciendome que Franco 5. Simon de Bermeu dessea la Ocupacion de ti6. niente en esta ysla y aunque acerca de es7. te sugeto dige en la ocasion pasada lo que se 8. me ofrecia sumaria mente pareçe que aora 9. se requiere mas individualRelacion para 10. que VS con noticia de todo y siendo serbido 11. disponga lo que mas conbiene = 12. Simon de Bermeu es uno de los mas ynteli13. gentes de esta ysla y esta mui en las materias 14. del patrimonio por que es notario de este oficio 15. por despacho de su magd. para formar las quentas 16. y p aiudar al tiniente y si errare V. S. este cier17. to que no sera de inorancia. 18. En qto. a lacienda la tiene mui buena y sin an19. brollar por que el la alquerido y no creo que se [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "151:1616a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo31/151:1616a.JPG",
+      "url": "/legajos/legajo-31/images/151:1616a.JPG"
+    },
+    {
+      "filename": "152:1616b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo31/152:1616b.JPG",
+      "url": "/legajos/legajo-31/images/152:1616b.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "151:1616a.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (2)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-31/cartas/006865.json",
+  "primary_image_url": "/legajos/legajo-31/images/151:1616a.JPG"
+}

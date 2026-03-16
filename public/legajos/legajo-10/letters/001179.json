@@ -1,0 +1,48 @@
+{
+  "legajo_id": "10",
+  "id_carta": "1179",
+  "order_in_legajo": 49,
+  "signatura": "083-346a",
+  "nombre_carta": "Carta de Diego Matías de Aragüés a Jerónimo Pelegrín de Aragüés",
+  "fecha_original": "25 de agosto de 1668",
+  "lugar": "Madrid",
+  "remitente": "Diego Matías de Aragüés",
+  "destinatario": "Jerónimo Pelegrín de Aragüés",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Los pliegos por Barcelona de 13 y doce de este ha recibido el Sr. don Pedro. Y en ellos la de v. m., holgándonos doña Margarita y yo de que gocen de buena salud, que sea por muchos años como se los deseamos, enviando mil saludes a v. m. Y Dña. Margarita se holgará que la minería que con D. Arnau envío a Juanita sea de su gusto y no excuse el enviar además lo que se le ofreciere, pues sabe v. m. [?] el Sr. don Pedro está famoso aunque no con las comodidades que merece, y el enfermo que está mejorado y sin calentura, que se aguarda refresque el tiempo para purgarle, porque son excesivos los calores que hace. De verdad que creo que lo alegró el día de marzo que se fuera a los barrios altos, mucho se le ha dicho \"procure no hacer desorden porque si los hace [?] está flaco se jugará el pellejo\". En el negocio del hijo del ama de casa, se hace todo esfuerzo para conseguir el despacho del Sr. Nuncio de aquí al miércoles, lo veremos. Si le concede, le remitiré ese día. [1§] En el que ahora me envía v. m. del Sr. Nadal, lo consultaré y veré si se puede vencer de que avisaré del suceso. V. m. diga al Sr. Francisco Ramis que he recibido su carta y que procure conseguir lo que ahora pretende y si se lo negaran, hágale aquí. Y si allá fuere menester alguna carta de acá, me lo avise. Por acá hay bastantes novedades, remitiré al Sr. don Pedro. V. m. me mande y guarde Dios como deseo. Madrid, 25 agosto 1668. Tío y servidor de v. m., Diego Matias de Aragues Juan Francisco Villalonga murió en cinco días, Dios le haya perdonado. [2§] A Jeronimo Pelegrin de Aragues, mi sobrino, guarde Dios. Mallorca. [con otra letra] Diego Matías Transcripción literal"
+  ],
+  "literal": [
+    "1. Los pliegos por Barcelona de 13 y doze 2. deeste ha recivido el Sr. Don Pedro. Yen 3. ellos la de V.M. olgandonos dª Marta 4. y jo de que gozen de buena salud 5. que sea por muchos años como se los 6. deseamos embiando mil saludos a V.M. 7. y DªMagta se olgara que la mineria que con 8. d. Arnau embio a Juanita sea de su 9. gusto y no escuse el embiar ademas lo 10. que se le ofreciere pues save V.M. [^??^] [21 el Sr. Don Po esta[^??^] aunque no con 11. las comodidades que mereze y el enfermo 12. que esta mejorando y sin calentura, que 13. se aguarda refresque el tiempo para 14. purgarles porque son escesivos los calores 15. que haze, de verdad que l[^??^] 16. el dia de mazo que se fue a los barrios 17. altos, mucho se le ha dicho procure 18. no hazer desorden porque si lo haze legar 19. esta flaco se jugara el pellejo, 20. En el nego del hijo del ama de casa, se 21. haze todo esfuerzo pa conseguir el despacho 22. del Sr. Nuncio de aquí al miercoles 23. lo veremos si le cincedes le remitire esse dia [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "083-346a.jpg",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo10/083-346a.jpg",
+      "url": "/legajos/legajo-10/images/083-346a.jpg"
+    },
+    {
+      "filename": "084-346b.jpg",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo10/084-346b.jpg",
+      "url": "/legajos/legajo-10/images/084-346b.jpg"
+    },
+    {
+      "filename": "085-346c.jpg",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo10/085-346c.jpg",
+      "url": "/legajos/legajo-10/images/085-346c.jpg"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "083-346a.jpg",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING",
+      "message": "Se detectaron caracteres sospechosos de encoding (7)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-10/cartas/001179.json",
+  "primary_image_url": "/legajos/legajo-10/images/083-346a.jpg"
+}

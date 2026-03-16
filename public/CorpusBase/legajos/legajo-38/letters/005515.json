@@ -1,0 +1,38 @@
+{
+  "legajo_id": "38",
+  "id_carta": "5515",
+  "order_in_legajo": 103,
+  "signatura": "070:39.JPG",
+  "nombre_carta": "Carta de Rodrigo de Borja Llançol de Romaní y Olivera a Pedro Santacilia y Pax",
+  "fecha_original": "24 de octubre de 1664",
+  "lugar": "Mallorca",
+  "remitente": "Rodrigo de Borja Llançol de Romaní y Olivera",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Nostre Sr. don Rodrigo de Borja Lançol de l'orde i milicia de Santiago majordom de su {Alteza} del senyor don Juan d'Austria, {CAT. veedor} Gral. en els exèrcits de Catalunya del consell de sa magestat, virrei, lloctinent i capità Gral. en el present Regne de Mallorca i {ESP. isles} adjacents. Diem i manam a l'Amat de sa magestat, Jordi Dezcallar de l'hàbit de Monteza [?], la Tesorería en el Reial Patrimoni que alliberament jo i pac al [?] Ant. Bejanes cinquanta vuit lliures deu sous i son per haver guardats a la torre de St. Miquel en companyia de Joan Sureda als ropit les persones de Bartolome Gelabert als sota, Gll, Salns als cap de clapes d'Alaro i Bartomeu Taverner d'Estellencs contant des de 14 d'agost fins als 22 del present, més que en tot son trenta nou dies que a 1 Ll. per dieta i dit Sureda a 10 Ll. fona suma de dites 58 Ll. 10 sous, les quals li pagarà de compte de penes i composicions i quan dit pagament fet haurà se retindrà el present. [?] per sa cautela. Dat en Mallorca, als 24 de setembre 1664. 58 L 10 S Sr. don Rodrigo de Borja Lançol, Virtut Martorell reverend. Virtut Canet [?] Transcripción literal"
+  ],
+  "literal": [
+    "1. Nos Don Rodrigo de Borja Lancol de la orda ly milicia2. de santiago maiordom de Su mesa del Señor Don Juan3. de Austria, veador Gral. en los acsercits de Cataluña4. del Concell de sa magd. virrey llocht y capita Gral.5. en lo pnt Regna de Mallca e Isles adiacets; diem6. y manam al Amat de sa Magd. Jordi desCallar del7. habti de Monteza Rt, la Thesoraria en lo Rl Patri=8. moni que lliberament jo y pach a lo Algr.[?] Antt.9. Bejanes sinquante vuyt lliures deu sous y son per10. haver guardats a la torra de St, Miquel en compª11. de Juan Sureda als rupit les perçones de Bartt.12. Gelebert als xota, Gll, Salns als capdeclapes de Alaro13. y Bartt. Tavarner de Stallenchs contant des de 1414. de Agost fins als 22 del pnt, mes que en tot son15. trenta nou dies que a 1 Ll per dieta y dit Sureda16. a 10 L fona suma de dites 58 Ll 10 S les quals li pa=17. gara de compta de penas y composisions y18. quant dit pagament fet aura se retindra19. lo pnt. mto. per sa cautela Datt. en Mallca. Als 20. 24 de 7bre 1664 58 L 10 S21. Don Rodrigo 22. de Borja Lançol23. Vt. Martorell rns.24. Vt. Canet25. [?] [?] [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "070:39.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo38/070:39.JPG",
+      "url": "/legajos/legajo-38/images/070:39.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "070:39.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (2)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-38/cartas/005515.json",
+  "primary_image_url": "/legajos/legajo-38/images/070:39.JPG"
+}

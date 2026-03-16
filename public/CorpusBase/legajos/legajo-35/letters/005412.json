@@ -1,0 +1,37 @@
+{
+  "legajo_id": "35",
+  "id_carta": "5412",
+  "order_in_legajo": 9,
+  "signatura": "286:8259a",
+  "nombre_carta": "Carta de Persona desconocida a Persona desconocida",
+  "fecha_original": "fecha sin especificar",
+  "lugar": "lugar sin especificar",
+  "remitente": "Persona desconocida",
+  "destinatario": "Persona desconocida",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Señor, El patrón Lauys Ge. llegó aquí y, asimismo, el general Sr. don Martín Carlos. y a entre ambos he visto, que sin perder tiempo han discurrido por los puertos de esta isla para dar cuenta a v. m. del estado de sus fortificaciones. y, según parece, en esta diligencia han cumplida las órdenes que (tiene) en este particular tienen de su majestad. Cuando llegué a esta isla la tuve yo también, de que di cuenta a v. m. y cierto de que, a no interpretar por favor el haberme v. m. mandado venir a ella, que me desconsolara el ver la fla queza y poca asistencia, pero como en todas ocasiones debo hacer memoria de las honras que v. m. me ha hecho, no le supº en esta nueva quede este empeña [?] como lo hiciera otro suyo, que me permita espere de v. s. mgd. que he de estar muy asistido, para que yo dé mi buen cobro de lo que importa tanto y mantenga la reputación que he adquirido en el discurso del tiempo que viva a v. m., pues todo se reduce a [?] mandar que se me remitan 400 o quinientos infantes y situ ación para su sustento y orden, para que se crezca la caballería de aquesta illa (sic) hasta número de duscientos caballos que, para el presente no hallo otras fortificaciones más importantes, ni cosa que sea tan fácil para este (cualquie) francente [?]. Transcripción literal"
+  ],
+  "literal": [
+    "1. Señor2. El Pn Lauys Ge. Llego aqui y asi mismo3. el Gl. don martin Carlos ya entranbos he4. visto que sin perder tiempo han discurrido5. por los puertos desta isla para dar quenta6. a Vm del estado de sus fortificaciones y segun7. parese enesta diligencia han cumplida las8. ordenes que (^tiene) eneste particular tienen9. de su Magd. quando llege a esta isla la tuve10. yo tanbien de que di quenta a v.md. y sierto11. d[e] que a no interpretar por favor el aver12. me v.md. mandado venir a ella que me13. desconsolara el ver la flaquesa y poca14. asistensia pero como en todas ocasiones15. devo haser memoria de las onras que16. vm me ha hecho no le supº enesta nue17. va quede este enpeña como lo hisiera otro [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "286:8259a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo35/286:8259a.JPG",
+      "url": "/legajos/legajo-35/images/286:8259a.JPG"
+    },
+    {
+      "filename": "287:8259b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo35/287:8259b.JPG",
+      "url": "/legajos/legajo-35/images/287:8259b.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "286:8259a.JPG",
+  "warnings": [],
+  "raw_source": "raw/legajos/legajo-35/cartas/005412.json",
+  "primary_image_url": "/legajos/legajo-35/images/286:8259a.JPG"
+}

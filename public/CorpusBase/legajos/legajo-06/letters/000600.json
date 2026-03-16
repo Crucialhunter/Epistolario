@@ -1,0 +1,32 @@
+{
+  "legajo_id": "6",
+  "id_carta": "600",
+  "order_in_legajo": 2,
+  "signatura": "132-69bisc",
+  "nombre_carta": "Carta de No consta a No consta",
+  "fecha_original": "fecha sin especificar",
+  "lugar": "lugar sin especificar",
+  "remitente": "No consta",
+  "destinatario": "No consta",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "12 dotzenes plats 4 soperes 4 plats grans de polla 12 plats de {ESP. guisado} 2 plats grans d’olla 2 safates 4 plats d’indiot 13 safates per a fruita 2 setrilleres 4 ribelles per a ensalada 4 plats per a confitura 2 barques per salsa freda 2 per salsa calenta amb tapadores 2 alfabietes per a mostassa 10 albúrnies per a tassons 4 plats per a anxoves. Transcripción literal"
+  ],
+  "literal": [
+    "1. 12: dot<zene>s plats 2. 4: soperas 3. 4: plats grans de polla 4. 12: plats de {esp.} guisado 5. 2: plats grans de olla 6. 2: asafates 7. 4: plats de endiot 8. 13: asafates per fruyte 9. 2: satrieras 10. 4: ribellas p< er> enselade 11. 4: plats per confitura 12. 2: Barques p< er> salse frede 13. 2: per salse calenta a< m>b 14. tepedoras 15. 2: alfebietes per mos- 16. tase 17. 10: anburnies p< er> tesons18. 4: plats p< er> enxovas [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "132-69bisc.jpg",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo06/132-69bisc.jpg",
+      "url": "/legajos/legajo-06/images/132-69bisc.jpg"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "132-69bisc.jpg",
+  "warnings": [],
+  "raw_source": "raw/legajos/legajo-06/cartas/000600.json",
+  "primary_image_url": "/legajos/legajo-06/images/132-69bisc.jpg"
+}

@@ -1,0 +1,53 @@
+{
+  "legajo_id": "6",
+  "id_carta": "622",
+  "order_in_legajo": 120,
+  "signatura": "170-87aa",
+  "nombre_carta": "Carta de Tomás Mariano Quint Zaforteza a Cecilia Zaforteza y Sureda de Sant Martí",
+  "fecha_original": "16 de junio de 1770",
+  "lugar": "Madrid",
+  "remitente": "Tomás Mariano Quint Zaforteza",
+  "destinatario": "Cecilia Zaforteza y Sureda de Sant Martí",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Madrid i juny 16 de 1770. Tia Cecília, Esper esta la trobarà amb perfecta salut. Jo la {ESP. gos} bona amb tota la família, a Déu gràcies. Per aquí no se diu res de nou. Sols avui fan córrer un home que anava per les {ESP. iglésies} i esquitava les dones d’un oli qui cada gota fa una taca com un plat. Avui han trobat una criatura ofegada dins el riu amb una corda al coll i una pedra als peus i diuen que tenen el que la hi ha tirat i li faran sentència promte, pel que podrà ser que passa funció algun [a la izquierda, de arriba abajo]dels cinc, de què té v. m. notícia per un camí estrany [En la otra página, el final del documento][1§] v. m. no en fa cas. Darà de part meva moltes memòries a les al·lotes monges i a n’Aina Maria i els dirà que en anar-hi el Perelló els ho durà. Als bessons de Contestí, Dr. Estrany, Damià, Tia Joana i tota la {ESP. demés} família, i a en Miquel li’n darà 2.000 mil de part d’en Campins i v. m. les prendrà de mi a {ESP. medida} del seu gust. Déu la guardi molts anys. Son nebot, qui més l’estima, Tomàs Mariano Quint Zaforteza. Coman a Déu que duga sa creu prest. Tia Cecília [2§] Tia Cecília, li faig a saber com la senyora Maria Zarate està aquí i representa de {ESP. sobresaliente} en el corral de la Creu i tothom en parlar, li crida “alei”. Ara, pocs dies passats, li moria el Toni Cavila de Tabardillo i du dol. L'altra dia D. Fernando Chacon va anar a la comèdia a dit corral i dita Zárate li va fer cortesia i ell li va falsa la vista i diuen que sa casa amb en Florentín. Tia Cecília, jo voldria anar-me’n prompte a Malta i posar-me la creu i fer les caravanes i després anar a veure [a la derecha, d'abajo a arriba] a v. m. Dirà en el Dr. Gabriel que jo li don moltes memòries [En la otra página][3§] I que li estimaré que m’escriga totes les notícies que se diguin per Mallorca, i v. m. també mateix escrigue’m molt i llarg i totes les ocasions que tengui perquè, l'altra dia vaig tenir molta malícia, perquè vaig saber que en Chacón havia tengudes dues cartetes de Mallorca per via de València i jo no n’havia tinguda ninguna. I, així, pregunt sempre si hi ha barca que se’n vagi i sobretot escrigui’m llarg sempre. Tia Cecília, no voldria que li sabés greu això que he fet, que és que he baratada [a la izquierda, de arriba abajo]la berlina amb una d’última moda. Asegurat que Transcripción literal"
+  ],
+  "literal": [
+    "1. Madrid y Juni 2. 16 de 1770 3. Tia Cecilia esper esta la trobera 4. ab perfeta salud jo la gos bona en tota 5. la familia á Deu gracias. per aqui 6. no se diu res de nou. Sols vuy fan 7. correr un homo que anava per las Jcla- 8. cias y escitava las Donas de un oli qui 9. cade gota fa una taca com un plat: 10. vui han trobat una Criatura aufaga- 11. da dins el Riu an buna corda al 12. coll y una Pedra als peus y diuan 13. que tenan al que lei ha tirat y li 14. faran sentencia pronta per lo que 15. pora ser que pasa funcio algun de 16. [ A la izquierda, de arriba abajo ]17. los sinch de que te V.M. Noticia per un cami estrany [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "170-87aa.jpg",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo06/170-87aa.jpg",
+      "url": "/legajos/legajo-06/images/170-87aa.jpg"
+    },
+    {
+      "filename": "170-87ab.jpg",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo06/170-87ab.jpg",
+      "url": "/legajos/legajo-06/images/170-87ab.jpg"
+    },
+    {
+      "filename": "171-87ba.jpg",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo06/171-87ba.jpg",
+      "url": "/legajos/legajo-06/images/171-87ba.jpg"
+    },
+    {
+      "filename": "171-87bb.jpg",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo06/171-87bb.jpg",
+      "url": "/legajos/legajo-06/images/171-87bb.jpg"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "170-87aa.jpg",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (2)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-06/cartas/000622.json",
+  "primary_image_url": "/legajos/legajo-06/images/170-87aa.jpg"
+}

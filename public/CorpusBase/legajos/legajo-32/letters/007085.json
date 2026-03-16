@@ -1,0 +1,38 @@
+{
+  "legajo_id": "32",
+  "id_carta": "7085",
+  "order_in_legajo": 108,
+  "signatura": "106:1843.JPG",
+  "nombre_carta": "Carta de Pedro de Verí a Pedro Santacilia y Pax",
+  "fecha_original": "25 de marzo de 1665",
+  "lugar": "Madrid",
+  "remitente": "Pedro de Verí",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Recibo la de v. sº. de 12 del pasado con gusto y no es mucho pues me participa v. Sra. de los muchos andaba pasado Jueves último de carnaval, grande envidia le tengo, porque en esta corte no se hala sino caresia de todo lo que se ha de menester y en estos días de Cuaresma mucha frecuencia en los templos y abstinencia en los que tenemos gana de comer; de modo que nos pueden canonizar por santos (si esos caballeros que se dice han de venir) no nos hacen prevericar, si bien me puedo asegurar de mis camaradas me sacarán de la ocasió suplicar al Sr. D. Nicolas hijo de v. m. me tuviese por su Sr. y me mandase en todo lo que se le ofreciese, reconozco ser deuda forsosa mía de esta verdad, halara experiencia el Sr. D. Nicolas siempre que me ocupare en su servicio y anduvo tan bizarro aunque pendencia de muchachos, que dijo al duque de Lerma que vio el disgusto, el Santacilia no sufre cosquillas, veale v. Sra. con los aumentos que desea con cuya compª. y de los demás sus hijos viva v. Sra. muchos años Madrid y marzo a 25 1665 de v. Sra. D. Pedro de Veri Sr. D. Pedro de Santacilia Transcripción literal"
+  ],
+  "literal": [
+    "1. Resibo la de v. sª. de 12 del passa2. do con gusto y no es mucho pues me 3. partisipa v. sª. de los muchos andava 4. passado Jueves ^ultimo de carnaval, grande 5. embidia le tengo, porque enesta Corte 6. no sehala sino carestia de todo lo que 7. seha menester yenestos dias de qua8. resma mucha frequencia enlos templos 9. y abstinencia enlos que tenemos gana 10. de comer; demodo que nos pueden ca11. nonizar por santos (si essos Cavalleros 12. que se dize han de venir) no nos hazen 13. prevericar, si bien me puedo asigurar 14. de mis camaradas me sacaran de la ocasio15. suplicar al Sr. D. Nicolas hijo de v. m. me 16. tuviesse por su Sor. y me mandase en 17. todo lo que se le offresiesse, reconosco ser 18. deuda forsosa mia desta verdad, halara espe19. riencia el Sr. D. Nicolas siempre que 20. me ocupare en su servicio y anduvo 21. tan bisarro aunque pendencia de mu22. chachos, que dixo al Sr. Duque de lerma 23. que vio el disgusto, el SantaCilia no 24. sufre cosquillas, veale v. sª. conlos au25. mentos que dezea con cuia compª. 26. ydelos demas sus hijos viva v. Sª. 27. muchos años Md. y Marzo a 25 1665 28. De v. sª. Sor. D. Pº. de Veri 29. Sr. D. Pedro de SantaCilia [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "106:1843.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo32/106:1843.JPG",
+      "url": "/legajos/legajo-32/images/106:1843.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "106:1843.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-32/cartas/007085.json",
+  "primary_image_url": "/legajos/legajo-32/images/106:1843.JPG"
+}

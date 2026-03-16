@@ -1,0 +1,38 @@
+{
+  "legajo_id": "20",
+  "id_carta": "3310",
+  "order_in_legajo": 184,
+  "signatura": "359:6091.JPG",
+  "nombre_carta": "Carta de Jerónimo Pelegrín de Aragüés a Leonor Santacilia i Despuig",
+  "fecha_original": "20 de marzo de 1669",
+  "lugar": "Madrid",
+  "remitente": "Jerónimo Pelegrín de Aragüés",
+  "destinatario": "Leonor Santacilia i Despuig",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Mi senyora assegur a v. m. amb tota veritat com he sentit molt la mort del seu [?] que Déu tinga en la seva santa glòria i a v. m. molts anys de vida per poder-se recordar d'ell, que com havia tants anys estava servint a v. m. és cert que li haurà pessat molt, i a mi Sr. don Pedro també que ja li escriu a v. m. amb la seva carta. Mi senyor està molt bo, el sr don Nicolau el mateix. Els dies se són posats bons i de de primavera. Comença a parlar de la seva jornada de veres, però encara no ha dit el dia cert. Voldrà partir. Sa mercè ja escriurà qur serà el més cert. Nostre la guardi a v. m. molts anys com desitj i es menester, en vida qui més bé vol, de Madrid 20 de març 1669. Son Criat de v. m. que ses mans besa Jeroni Pelegri Mi senyora dona Leonor Santacilia i Despuig. Transcripción literal"
+  ],
+  "literal": [
+    "1. Mi señora asegur a VM ab tota beritat com 2. he sentit molt la mort del Sen Pe. que Deu tinga 3. en la sua santa Gloria j a VM molts añys de 4. vida per podersse recordar dell. que com havia tans 5. añys. estava servint a VM es sert que li aura 6. pesat molt , j a mi sr. Don Po. tambe [?] ja 7. leij[?] escriu a VM ab la sua carta 8. Mi señor esta molt bo los[?] y Don Nicolau 9. lo matex Los dias se son possats bons bons j de 10. de primavera. Comensa a parlar de la sua jor[?] 11. nada de [?]. pero encara no ha dit lo 12. dia sert. Volrra partir. [?] ja [?] 13. escriura qui sera lo mes sert, 14. Nostro sr. la guarde a VM molts añys com desig 15. j he menester en vida qui mes be vol de 16. Madrid 20 de Marts[?] 1669. 17. Son Criat de VM q. s. m. B. 18. Geronym Pelegri 19. Mi señora Doña Leonor Santa Cilia y Despuig. [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "359:6091.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo20/359:6091.JPG",
+      "url": "/legajos/legajo-20/images/359:6091.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "359:6091.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (4)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-20/cartas/003310.json",
+  "primary_image_url": "/legajos/legajo-20/images/359:6091.JPG"
+}

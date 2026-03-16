@@ -1,0 +1,38 @@
+{
+  "legajo_id": "12",
+  "id_carta": "1555",
+  "order_in_legajo": 42,
+  "signatura": "077_6148.JPG",
+  "nombre_carta": "Carta de Diego Bernardo de Lorca y Cárcamo a Pedro Santacilia y Pax",
+  "fecha_original": "de 1641",
+  "lugar": "Vinarós",
+  "remitente": "Diego Bernardo de Lorca y Cárcamo",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Señor mío beso a v. m. sus manos mil veces por la merced que con sus cartas me hace asegurándole se la merezco por lo verdadero servidor suyo que soy, en lo que v. m. me manda en la paga de los marineros que fueron y vinieron a Tarragona, [?] en mi dos respetos grandes para que sea su solicitador [?] ro la justicia que para él hay y conveniencia del servicio de su majestad en que se guarde, el segunodo mandármelo v. m. cierto haré de mi parte cuanto se pueda en esta [?] do facilitar el inconveniente que se halla de estar [?] patrón y como don Cristobal de Cardona se halla ya [?] za haré con él todos los oficios que convenga y estare [?] te. Guarde Dios a v. m. como puede y deseo Vinarós [?] 1641. Hace tratado entre Sr. don Cristobal y yo el obedecer a v. m. estar ausente el patrón y ser necesario hallarse presente [?] do medio termino sin hallar en el ningún inconveniente [?] como será que el precio que el marques de Villafranca declarare [?] de a estos marineros por tan buen servicio como hicieron se de [?] nos dé v. m. para que de ellos le reciban con cuyo despacho y recibida de v. m. al pie de él, diciendo recibirlo de mano de Miguel Gabalda al punto se hará el pagamento entregándose el dinero a quien v. m. enviaré por él. Don Diego Bernardo de Lorca y Carcamo Sr. D. Pedro de Santacilia [1§] Transcripción literal"
+  ],
+  "literal": [
+    "1. Señor mío beso a Vm sus manos mil vezes por la mrd. que con2. sus cartas me açe asegurandole se la meresco por lo berdadero3. serbidor suyo que soy,= en lo que V.m. me manda en la paga4. de los marineros que fueron y binieron a taragona, [...]5. en mi dos respetos grandes para que sea su soliçitador [...]6. ro la Justiçia que para el ay y conbeniençia del serbicio [de Su]7. Mag[esta]d en que se guarde, el segunodo mandarmelo Vm [...]8. çierto are de mi parte quanto se pueda en esta [...]9. do façilitar el Ynconbeniente que se all de estar [...]10. patron y como Don Christobal de Cardona se alla ya [...]11. ça are con el todos los ofiçios que conbenga y estare[...]12. te, Guarde dios A vm como puede y deseo Vinaròs [...]13. 164114. Asse tratado entre don Christobal y yo el obedeér a Vm [...]15. estar ausente el patron y ser neçesario hallarse presente [...]16. do medio termino sin allar en el ningn ynconbeniente [...]17. como sera que el preçio que el sr. marq[ue]s de Villafranca declarare [...]18. de a estos marineros por tan buen serbiçio como içieron se de [...]19. nos de V.m. para que dellos le reciban con cuyo despacho y reçibi20. da de Vm al pie del, diçiendo recivirlo de mano de miguel Gab21. alda al punto se ara el pagamento entregandose el dinero a quien22. V.m. enbiare por el23. Don Diego Bernardo24. de Lorca y carcamo25. Sr. d. [Pedro] de Santa Cilia [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "077_6148.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo12/077_6148.JPG",
+      "url": "/legajos/legajo-12/images/077_6148.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "077_6148.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-12/cartas/001555.json",
+  "primary_image_url": "/legajos/legajo-12/images/077_6148.JPG"
+}

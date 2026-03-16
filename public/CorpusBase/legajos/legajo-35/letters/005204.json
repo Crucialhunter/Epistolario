@@ -1,0 +1,38 @@
+{
+  "legajo_id": "35",
+  "id_carta": "5204",
+  "order_in_legajo": 17,
+  "signatura": "002:8049.JPG",
+  "nombre_carta": "Carta de Joan Sentís i Sunyer (bisbe de Barcelona) a Magdalena de Zaforteza i Rocabertí",
+  "fecha_original": "20 de noviembre de 1628",
+  "lugar": "Barcelona",
+  "remitente": "Joan Sentís i Sunyer (bisbe de Barcelona)",
+  "destinatario": "Magdalena de Zaforteza i Rocabertí",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Amb {ESP. cuidado} estaré de la salut del comte fins tinguem de v. s. bones noves, que si son com jo les desitjo, molt contenta estarà v. s. Al comte beso les mans. Diga-li v. s. que ací ens recordam d'encomanar-lo a Nostre Senyor, el qual guarda a v. s. molts anys. En Barcelona, a 20 de novembre 1628. El bisbe de Barcelona A mi senyora la comtessa de Peralada Transcripción literal"
+  ],
+  "literal": [
+    "1. Ab cuidado estare de la salut del2. comte fins tingam de VS. bones noves3. que si son com yo les desijo molt4. contenta estara V.S., al comte beso5. les mans, digali V.S. q assi nos re6. cordam de encomanarlo a Nre. Sr. lo7. qual guarde a V.S. molts anys. en 8. Barçelona a 20 de nohembre 16289. Lo Bisbe de Barz10. A mi Sra, la Comtesa de Peralada [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "002:8049.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo35/002:8049.JPG",
+      "url": "/legajos/legajo-35/images/002:8049.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "002:8049.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (2)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-35/cartas/005204.json",
+  "primary_image_url": "/legajos/legajo-35/images/002:8049.JPG"
+}

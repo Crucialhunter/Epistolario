@@ -1,0 +1,43 @@
+{
+  "legajo_id": "17",
+  "id_carta": "2753",
+  "order_in_legajo": 18,
+  "signatura": "022:1295a.JPG",
+  "nombre_carta": "Carta de Basilio de Castellví y Ponce a Pedro Santacilia y Pax",
+  "fecha_original": "1 de febrero de 1658",
+  "lugar": "Ontinyent",
+  "remitente": "Basilio de Castellví y Ponce",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Señor mío, desde mediados de septiembre ha que estoy en esta villa de Onteniente haciendo en ella la visita que todos los años hago a una de las villas reales y por hallarme en la vecindad de Alicante he podido tener más aprisa noticia de los favores de v. s. de los cuales me avisa ayer en carta de 28 el canónigo [?] y mi asesor que al presente se halla en Alicante a la averiguación de un contrabando que se ha desembarcado secretamente de papel, tabaco y pimienta, sacando fruto considerable de la diligencia. Estos sujetos me remiten la carta de v. s. de 22 de estén que favorece v. s. y el señor don Joan Miguel a Josepe con un famoso caballo blanco de las yeguas de v. s. estimo a v. s. tanto el favor cuanto pide mi obligación y procuraré en retorno busque Giuseppe alguna acá de gusto para el señor don Joan Miguel y estimaré sumamente que se vean estos caballeros mozos, padre y hijo podamos acudir a servir aprenda tan cercana a v. s. Ayer tuve carta del señor duque de Montalto de 28 en que me dice quedaba el señor duque de Cardona comulgado y de mucho peligro y su hijo el señor duque de Lerma estaba también muy malo, fueron asistiendo a la comunión el señor virrey y el señor arzobispo que le administró el sacramento. Hase despachado correo a Madrid, avisando a los hermanos del peligro en que quedaba el señor duque, he hecho toda esta relación a v. s. por lo afecto que es a la casa de Cardona. De Madrid me escriben que a don Giuseppe Sorribas le había hecho su majestad merced con decreto particular de plazo de capa y espada por el Consejo de Aragón por Cataluña. V. s. me haga merced de decirme si han montado ya en el potro de que profesión se inclinan más estos caballos si al paso, o a las calles. Tengo escritas a v. s. las pascuas y la enhorabuena de nuestro príncipe, doña Laura me asiste en esta jornada. Besa a v. s. las manos y las de mi señora doña María. Dios guarde a v. s. como deseo, de Onteniente a 1 de febrero año 1658. V. s. nos tiene sumamente favorecidos a padre y a yo y entre ambos muy dispuestos a servirle. Besa a v. s. su mano su mayor servidor, Don Basilio de Castellvi y Ponce Sr. D. Pedro de Santacilia Transcripción literal"
+  ],
+  "literal": [
+    "1. Señor mio, desde Mediado Setiembre a que estoy en 2. esta Villa de Ontiñiente haziendo en ella la Visita que 3. todos los años hago a una de las villas reales y por hallarme 4. en la Vecindad de Alicante he podido tener mas aprisa no=5. ticia de los fabores de Vssa. de los quales me avisa ayer en 6. carta de 28 el canonigo Aulezia y mi asessor que al 7. pnte se halla en alicante a la averiguasion de un contra=8. bando que se ha desembarcado secretamte de Papel, Tabaco y 9. pimienta sacando fruto considerable de la Diligencia 10. estos sujetos me remiten la carta de Vssa. de 22 deesteen11. que favorese Vsa. y el Señor don Joan Miguel a Josephe con 12. un famoso cavallo blanco de las ieguas de Vssa. estimo a 13. Vssa. Tanto el fabor quanto pide mi obligacion y procurare 14. en retorno busque Jusepe alguna aca de gusto para el 15. Señor don Joan Miguel y estimare sumamente que se 16. vean estos cavalleros mosos Padre y hijo podamos acudir 17. a servir aprenda tan sercana a Vssa.18. Ayer tuve carta del Señor Duque de Montalto de 28 en 19. q medioze quedava el Señor Duque de Cardona comulgado [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "022:1295a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo17/022:1295a.JPG",
+      "url": "/legajos/legajo-17/images/022:1295a.JPG"
+    },
+    {
+      "filename": "023:1295b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo17/023:1295b.JPG",
+      "url": "/legajos/legajo-17/images/023:1295b.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "022:1295a.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-17/cartas/002753.json",
+  "primary_image_url": "/legajos/legajo-17/images/022:1295a.JPG"
+}

@@ -1,0 +1,38 @@
+{
+  "legajo_id": "32",
+  "id_carta": "7205",
+  "order_in_legajo": 198,
+  "signatura": "287:1963.JPG",
+  "nombre_carta": "Carta de Miguel de Salvá y de Vallgornera a Pedro Santacilia y Pax",
+  "fecha_original": "13 de septiembre de 1666",
+  "lugar": "Madrid",
+  "remitente": "Miguel de Salvá y de Vallgornera",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Señor mío admito la enhorabuena que v. m. me da y reconozco su afeto y lo mucho que se habrá alegrado habiéndome mandado su majestad. vaya s servilla esos cargos de que he hecho la estimación que debo pues espero lograr de más cerca el servir a v. m. y solo desearé tener muchas ocasiones en que v. m. reconozca mi buena voluntad v. m. y con esta seguro en el entretanto que logro suplico me tengo en su memoria para mandarme cuya vida guarde Dios muchos años como deseo Madrid y setbre. 13 de 1666 y tenga muy buena salud que será parte del acierto que deseo en ese gobierno el hallar [?] para todas las noticias y directrices de que necesito. muy Sigro. Sr. de v. m. que sus m. b. Sr. don Miguel de Salva y de Vallgornera Sr. don Pedro Santacilia y Pax [1§] Transcripción literal"
+  ],
+  "literal": [
+    "1. Señor mio admito la norabuena q. Vm. me da y reconozco su 2. afeto y lo mucho q. se habra alegrado haviendome man3. dado su Magd. baya s servilla essos cargos de q. he 4. hecho la estimacion que devo pues espero lograr de 5. mas cerca el servir a V. m. y solo desseare tener 6. muchas ocassiones en q Vm. reconozca mi buena 7. voluntad Vm. y con esta seguro en el entretanto 8. q. logro suplico me tengo en su memoria para 9. mandarme cuya vida gde Dios ms. as. como 10. desseo Md. y settbre. 13 de 1666 hi tenga muy 11. buena salud que sera parte del açierto que deseo 12. en esse Govierno el allar [?] para 13. todas las noticias y directrices de que necesito. 14. muy Sigro. Sor. de Vm 15. que sus m. b. 16. Don Miguel de Çalba 17. y de Vallgornera 18. Sr. Don Pedro Sta. Cilia y Pax [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "287:1963.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo32/287:1963.JPG",
+      "url": "/legajos/legajo-32/images/287:1963.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "287:1963.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (2)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-32/cartas/007205.json",
+  "primary_image_url": "/legajos/legajo-32/images/287:1963.JPG"
+}

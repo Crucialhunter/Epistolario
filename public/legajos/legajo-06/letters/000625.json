@@ -1,0 +1,53 @@
+{
+  "legajo_id": "6",
+  "id_carta": "625",
+  "order_in_legajo": 124,
+  "signatura": "176-90aa",
+  "nombre_carta": "Carta de Tomás Mariano Quint Zaforteza a Cecilia Zaforteza y Sureda de Sant Martí",
+  "fecha_original": "6 de julio de 1770",
+  "lugar": "Madrid",
+  "remitente": "Tomás Mariano Quint Zaforteza",
+  "destinatario": "Cecilia Zaforteza y Sureda de Sant Martí",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Madrid i juliol 6 de 1770 Tia Cecília: Esper esta la trobarà amb perfecta salut. Jo la {ESP. gos} bona, a Déu gràcies, amb tota la família pel que manarà. Dia 22 del vençut juny vaig tenir una sola carta de v. m. i no pot considerar la pena que jo vaig tenir, com no vaig veure sinó una carta de v. m. No obstant, vaig anar de dues vegades en el correu però no vaig encontrar ni una carteta com s’ungla. I, així, pens que v. m. se degué cansar d’escriure, per no dir que ha tengut un poc d’ [A la izquierda, de arriba abajo] Olvido, de qui manifestava seria el contrari. Però [En la otra página, el final del documento] La memòria i molt presents Tia Cecília del que em diu que dia 7 de juny tenguera maleta i no tengueren carta meva, si jo ja era sortit de Barcelona i totes les cartes que havia escrites el correu ja les se n’havia duites, com volia tornar tenir cartes [?] I, així, no és estat culpa. Tia Cecília, del que em diu que si es menester res que no repar que n’enviarà a Barcelona i d’allà m’ho enviaran, no vul res més sinó que em coman a Déu i que estiga bona. de part de tots rebrà moltes memòries i de mi les pendrà a {ESP. medida} del seu gust. Déu la guardi molts anys. Son nebot qui més [a la derecha, de abajo a arriba] L’estima (Tomàs Mariano Quint Zaforteza). Tia Cecília Però encara que v. m. m’escriga curt no deixaré d’escriure-li llarg, encara que sabés cert que la molestàs. Però, jo tenc confiança que s’animarà i m’escriurà quinze o setze cartes cada correu, que això i comanar-me a Déu és el únic que pot fer per mi estant {ESP. ausent} de Mallorca. del que m’escriu que li digué del camí com el vaig passar, mon pare té tota la relació de Barcelona fins a Madrid i la i dirà. Ara del que em diu si vaig dormir en el meu llit, li faig a saber com no i vaig jeure ningun dia. La causa fou perquè vaig veure uns llitets tan [a la derecha, de abajo a arriba] nets i tan ben composts que brindaven a jeure amb ells. [En la otra página] El camí no el vaig trobar gens cansat, que el mateix dia que vaig arribar ja seria tornat sortir. Diu si m’ agrada Saragossa, ja li’n notícia a mon pare, sols que dir-li que a la comedi vaig veure a la baronesa d'Estrichi i, al punt vaig pensar amb ella. És ver que no és menester Baroneses per pensar amb v. m. Ja he visitat a la Mare de Déu d’Atocha i li he dites tres aves màries per v. m. i a tots els {ESP. demés} que em diu a la seva carta, com també, el dia 19 em vaig confessar i vaig visitar sant Josep. No tengui ansia [A la izquierda, de arriba abajo] que tots els avisos que v. m. em dóna tots els tenc en Transcripción literal"
+  ],
+  "literal": [
+    "1. Madrid y Juliol 2. 6 de 1770 3. Tia Cecilia esper esta la 4. trobera ab perfeta salud jo la gos 5. bona á Deu gracias en tota la fa- 6. milia per lo que manará 7. Dia 22 del 8. vensut Juni vatx tenir una sola ca- 9. rta de V.M. y No pot Considarar la 10. pena que jo vatx tenir Com no vatx 11. veurar sino una Carta de V.M. no 12. obstant vatx anar der duas vegades13. á nel Correu pero no vatx encontrar ni 14. una carteta com sungla y axi pens 15. que V.M. se degue cansar de escriurar 16. per no dir que ha tengut un poch de 17. [A la izquierda, de arriba abajo]18. olvido de qui manifestave seria al Contrari, pero [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "176-90aa.jpg",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo06/176-90aa.jpg",
+      "url": "/legajos/legajo-06/images/176-90aa.jpg"
+    },
+    {
+      "filename": "176-90ab.jpg",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo06/176-90ab.jpg",
+      "url": "/legajos/legajo-06/images/176-90ab.jpg"
+    },
+    {
+      "filename": "177-90ba.jpg",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo06/177-90ba.jpg",
+      "url": "/legajos/legajo-06/images/177-90ba.jpg"
+    },
+    {
+      "filename": "177-90bb.jpg",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo06/177-90bb.jpg",
+      "url": "/legajos/legajo-06/images/177-90bb.jpg"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "176-90aa.jpg",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (2)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-06/cartas/000625.json",
+  "primary_image_url": "/legajos/legajo-06/images/176-90aa.jpg"
+}

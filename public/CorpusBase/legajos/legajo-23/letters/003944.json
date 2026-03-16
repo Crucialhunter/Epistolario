@@ -1,0 +1,43 @@
+{
+  "legajo_id": "23",
+  "id_carta": "3944",
+  "order_in_legajo": 198,
+  "signatura": "346:3357a.JPG",
+  "nombre_carta": "Carta de Mateu Fortesa i Suñer a Pedro Santacilia y Pax",
+  "fecha_original": "11 de septiembre de 1669",
+  "lugar": "Madrid",
+  "remitente": "Mateu Fortesa i Suñer",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Senyor mio don Gregori és arribat bo i grossíssim en què per tot el mes de setembre estarà desocupat dels negocis. Jo estic aguardant uns informes del virrei com tenc escrit a v. s. Allò de les naus i allò de les encomandes com haurà vist en les cartes que li tinc remeses es tan cert de que v. s. ajudarà en el que podrà i també en què venguin prest que jo tenc ganes d'anar aquí i no puc que no siguin ací els informes. Ací no tenim cosa nova si no guerra entre nosaltres. Ací diuen els soldats que tis [?] de color xambergues i els soldats als altres goril·les en què s'aguarda algun desastre. En l'altra estafeta li enviaré alguns pages, que son eixits i no dirà qui el servia. Sr. don Pedro Santacilia i Pax. [1§] [?] de tot que ara no puc ser més llarg [?] a mi en prenen les cartes i així v. s. se servirà enviar les cartes al capellà de casa i que les donin en ses mans i guardi Déu a v. m. i em mani el que sia de son gust. A don Antoni Sureda tindrà les notícies de tot, de Madrid a 11 de setembre de 1669. Servidor de v. s. que ses mans besa Don Mateu Forteza i Suñer Transcripción literal"
+  ],
+  "literal": [
+    "1. Señor mio Don gregori es aribat bo2. i prosisim[?] en que per tot al mes de 7bre3. estira descupat de los negosis jo es4. tich agordant uns informes del Sr. Vi5. rrey com tench escrit a Vsa. lo de les6. naus i lo de les encomandes com eura7. vist en les Cartes que li tinch remeses8. estant sert de que Vsa. aiudera en 9. lo que podra i tambe en que vengan10. prest que jo tench ganes de anar aqui11. i no puch que no sian asi los informes12. asi no tenim Cosa nova si no gera en13. tre nosaltres asi diuen a los soldats que14. tis[?] de color xanbergas i los soldats a los15. altres gorilas en que se aguarda al16. gun desastre= an laltra estafeta li 17. enviare alguns paxes[?] qui son 18. axits i no dira qui el servia19. Sr. Don Pedro 20. Sta. Silia y Paix. [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "346:3357a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo23/346:3357a.JPG",
+      "url": "/legajos/legajo-23/images/346:3357a.JPG"
+    },
+    {
+      "filename": "347:3357b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo23/347:3357b.JPG",
+      "url": "/legajos/legajo-23/images/347:3357b.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "346:3357a.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-23/cartas/003944.json",
+  "primary_image_url": "/legajos/legajo-23/images/346:3357a.JPG"
+}

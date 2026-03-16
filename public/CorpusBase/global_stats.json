@@ -1,0 +1,94 @@
+{
+  "total_legajos": 41,
+  "total_cartas": 6701,
+  "rango_temporal_global": [
+    1510,
+    1779
+  ],
+  "entidades_top": {
+    "remitentes": [
+      {
+        "name": "Persona desconocida",
+        "count": 852
+      },
+      {
+        "name": "Diego Matías de Aragüés",
+        "count": 315
+      },
+      {
+        "name": "Pedro Santacilia y Pax",
+        "count": 140
+      },
+      {
+        "name": "Jerónimo Pelegrín de Aragüés",
+        "count": 133
+      },
+      {
+        "name": "Juan Seguals",
+        "count": 120
+      },
+      {
+        "name": "Basilio de Castellví y Ponce",
+        "count": 99
+      },
+      {
+        "name": "Nicolás de Santacilia y Togores",
+        "count": 93
+      },
+      {
+        "name": "José Balell",
+        "count": 84
+      },
+      {
+        "name": "Juan Miguel de Santacilia y Togores",
+        "count": 58
+      },
+      {
+        "name": "conde de Peralada",
+        "count": 51
+      }
+    ],
+    "lugares": [
+      {
+        "name": "Madrid",
+        "count": 1510
+      },
+      {
+        "name": "Mallorca",
+        "count": 1323
+      },
+      {
+        "name": "Barcelona",
+        "count": 473
+      },
+      {
+        "name": "Valencia",
+        "count": 355
+      },
+      {
+        "name": "lugar sin especificar",
+        "count": 298
+      },
+      {
+        "name": "Lugar sin especificar",
+        "count": 294
+      },
+      {
+        "name": "Ciutadella",
+        "count": 206
+      },
+      {
+        "name": "Zaragoza",
+        "count": 141
+      },
+      {
+        "name": "Maó",
+        "count": 133
+      },
+      {
+        "name": "Ibiza",
+        "count": 118
+      }
+    ]
+  }
+}

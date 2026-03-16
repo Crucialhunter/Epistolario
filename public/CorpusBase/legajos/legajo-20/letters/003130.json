@@ -1,0 +1,38 @@
+{
+  "legajo_id": "20",
+  "id_carta": "3130",
+  "order_in_legajo": 6,
+  "signatura": "005:5914.JPG",
+  "nombre_carta": "Carta de Gregorio Orellana Montesión a Pedro Santacilia y Pax",
+  "fecha_original": "29 de marzo de 1645",
+  "lugar": "Vinarós",
+  "remitente": "Gregorio Orellana Montesión",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Amigo y señor mío grandes envidias [?] tengo al capitán don Enrique Ponce de Leon que va a esa isla mientras yo llego a besar la mano a su Majestad. Desearé que estéis con muy buena salud, y que os haya dado Dios sucesión [?] que me he holgado mucho de haber sabido que os habéis casado. Yo amigo mío lo estoy también y en Nápoles y en cualquiera parte me tenéis muy a vuestro servicio. Hacedme merced de favorecer al capitán don Enrique Ponce en cuanto se le ofreciere y Dios os guarde los muchos años que deseo Capitana [?] de Nápoles sobre Vinarós 29 de marzo de 1645 Aún no pierdo las esperanzas de besaros las manos este año que lo deseo mucho y me he holgado con las buenas nuevas que en Mallorca me dieron de vuestra salud Vuestro servidor y amigoDon Gregorio [?] Orellana Montesion Sr. don Pedro Santacilia [1§] Transcripción literal"
+  ],
+  "literal": [
+    "1. Amigo y Señor mio grandeS imbidias[?] 2. tengo al Capitan Don henrrique ponze 3. de leon que ba a esa ysla mientras yo lle- 4. go a besar la mano a su Mgd; deseare [ 4]5. que esteis con muy buena salud, y que os [6 ]6. aya dado dios susesion[?] que me e olgado [7 ]7. mucho de haber savido que os aveys. [ 7]8. casado yo amigo mio lo estoy tambien [ 8]9. y en Napoles y en cualquiera parte me [ 9]10. teneys muy a Vro serviçio hazedme[?] [ 10]11. de favoreçer al Capitán Don henrri- 12. que Ponçe en quanto se le ofreçiere y dios 13. os g de los muchos años que deseo 14. Capitana[?] de Napoles sobre Vinaroz 15. 29 de Março de 1645[?] 16. auno pierdo las esperanças de be- 17. saros las manos este año que lo 18. deseo mucho y me e holgado con 19. las buenas nuebas que en ma- 20. llorca me dieron de buestra salud 21. buestro serbidor y amigo 22. D [?] Orellana[?] 23. Momtesion[?] 24. Sr Don Pedro sta sicilia [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "005:5914.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo20/005:5914.JPG",
+      "url": "/legajos/legajo-20/images/005:5914.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "005:5914.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-20/cartas/003130.json",
+  "primary_image_url": "/legajos/legajo-20/images/005:5914.JPG"
+}

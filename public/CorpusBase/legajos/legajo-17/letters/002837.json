@@ -1,0 +1,37 @@
+{
+  "legajo_id": "17",
+  "id_carta": "2837",
+  "order_in_legajo": 103,
+  "signatura": "171:1379a.JPG",
+  "nombre_carta": "Carta de Persona desconocida a Pedro Santacilia y Pax",
+  "fecha_original": "9 de marzo de 1660",
+  "lugar": "Llucmajor",
+  "remitente": "Persona desconocida",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "? la Sra. catelina pelegrí m'ha encomanat li escrigui que el [?] se servesca pel [?] portador enviar a dir se [?] partira prompte hono que [?] té ganes d'escriurà carta pel Sr. Jeroni d'aço li fera servei restant sempre a son [?] de Lluchmajor i marts als 9 de 1660 [?] Tomas Son Servidor [1§] en casa del noble Sr. don Pedro Santacilia i Pax Ciutat [2§] Transcripción literal"
+  ],
+  "literal": [
+    "1. [?] la Sra. catelina pelegrí me ha encomenat 2. li scriga que lo [?] se servesca per el [?] portador en3. viar a dir se [?] pertira prompta hono que que [?] 4. te ganes de scriura carta per el Sor. hieroni de aço li 5. fera servey restant sempre a son [?] de Lluchmajor 6. y marts als 9 de 1660 7. [?] Tomas Son 8. Servidor [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "171:1379a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo17/171:1379a.JPG",
+      "url": "/legajos/legajo-17/images/171:1379a.JPG"
+    },
+    {
+      "filename": "172:1379b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo17/172:1379b.JPG",
+      "url": "/legajos/legajo-17/images/172:1379b.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "171:1379a.JPG",
+  "warnings": [],
+  "raw_source": "raw/legajos/legajo-17/cartas/002837.json",
+  "primary_image_url": "/legajos/legajo-17/images/171:1379a.JPG"
+}

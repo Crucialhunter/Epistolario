@@ -1,0 +1,38 @@
+{
+  "legajo_id": "20",
+  "id_carta": "3176",
+  "order_in_legajo": 50,
+  "signatura": "059:5956.JPG",
+  "nombre_carta": "Carta de Cristóbal Crespí de Valldaura y Brizuela a Pedro Santacilia y Pax",
+  "fecha_original": "29 de enero de 1656",
+  "lugar": "Madrid",
+  "remitente": "Cristóbal Crespí de Valldaura y Brizuela",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "he recibido su carta de v. m. de 12 del pasado en que satisface a lo que v. m. ha entendido que dice aquí don Juan Miguel Santacilia, y da a entender v. m. el natural de este caballero. y lo que puedo responder a v. m. es que estáconocido por acá, que si me hablaré en estas materias estaré advertido de lo que v. m. me dice, y que siempre desearé que no tenga v. m. ningún motivo de desconsuelo. Dios guarde a v. m. largos años. Madrid a 29 de enero 1656 Sr. don Cristobal Crespí de Valldaura [?] Sr. don Pedro Santacilia y Pax [1§] Transcripción literal"
+  ],
+  "literal": [
+    "1. He recibido su carta de Vm. de 12 del pasado en que satisface 2. a lo que Vm. ha entendido que dize aqui Don Juan Miguel sta 3. cilia, y da a entender Vm. el natural deste cavallero. Y lo que pue- 4. do responder a Vm. es que está conocido por aca, que si me hablare 5. en estas materias estare advertido de lo que Vm. me dize, y que 6. siempre desseare que no tenga Vm. ningun motivo de desconsuelo. 7. Dios gde a Vm. largos años. Md a 29 de Enero 1656 8. Don Christoval Crespî 9. de Valdaura[?] 10. Sr.Don Pedro sta. Cilia y Pax [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "059:5956.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo20/059:5956.JPG",
+      "url": "/legajos/legajo-20/images/059:5956.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "059:5956.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (2)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-20/cartas/003176.json",
+  "primary_image_url": "/legajos/legajo-20/images/059:5956.JPG"
+}

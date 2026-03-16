@@ -1,0 +1,48 @@
+{
+  "legajo_id": "23",
+  "id_carta": "3813",
+  "order_in_legajo": 68,
+  "signatura": "133:3225a.JPG",
+  "nombre_carta": "Carta de Enrique de Aragón (VI duque de Cardona) a Pedro Santacilia y Pax",
+  "fecha_original": "11 de abril de 1635",
+  "lugar": "Perpiñán",
+  "remitente": "Enrique de Aragón (VI duque de Cardona)",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "a Pedro Juan digo que sentire venga correo sin carta de v. m. con que verá a v. m. si recibo con gusto las suyas y con seguridad de que a nadie en el mundo reconozco tan buena ley como en v. m. yo me holgaré mucho que el marques de Villafranca le encomienden la fabrica de estas barcas pero ha de ser corriendo por su mano todo pues una cosa sin otra no estaría bien a s. e. ni es praticable por todas las razones que dicen la separación en estas cosas, yo escribí a su majestad lo que v. m. ha entendido, y quedo contento que me diga ha parecido bien, no trataré más de la materia pues no ajustándose a lo que tengo represen tado habrá de correr como digo, v. m. me avise puntualidad de todo sin reservarme cosa alguna. Guarde Dios a v. m. como deseo. Perpiñan a 11 de abril 1635. Vm: es fyel y seguro amigo no me queda duda de que v. m. lo es de esta casa y la estimasen cosa de estos dias nos tyenen los de ella reconocydos y obligados de nuevo/ v. m. es te de buen ánimo que yo lo tengo y solo apetezco mirar como servir al rey con el credy to que se debe a su puntu Sr. don Pedro Santacilia, [1§] alydad y veras con que lo hago y se me debe el duque de Sogorbe [?] [2§] Perpiñan rdo. 11 abril 1635 el duque de Cardona [3§] Transcripción literal"
+  ],
+  "literal": [
+    "1. A Pedro Juan digo que sentire venga correo sin carta de V.M. con q2. vera V.M. si recibo con gusto las suyas y con siguridad de que a nadie3. en el mundo reconosco tan buena ley como en v.m.4. Yo me holgare mucho que el Marques de Villafranca le encomienden5. la fabrica destas barcas pero ha de ser corriendo por su mano todo pues6. una cosa sin otra no estaria bien a Su exa ni es praticable por todas las7. razones que dizen la separacion en estas cosas, yo escrivi a Su Magd lo8. que V.m. ha entendido, y quedo contento que me diga ha parecido bien,9. no tratare mas de la materia pues no aiustandose a lo que tengo represen=10. tado habra de correr como digo, V.m. me avise puntualidad de todo 11. sin reservarme cosa alguna. gde dios a V.m. como desseo. Perpiñan12. a 11. de Abril 1635. Vm: es fyel y seguro a 13. mygo no me queda duda de14. que Vm. lo es desta casa y la15. espyryençya destos dyas nos16. tyenea los della reconocydos17. y oblygados de nuebo/ vm es18. te de buen anymo que yo lo ten19. go y solo apetezco myryn20. cono serbyra lrey con el credy21. to que se debe a la puntu22. Sr. don Pº Santasilia, [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "133:3225a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo23/133:3225a.JPG",
+      "url": "/legajos/legajo-23/images/133:3225a.JPG"
+    },
+    {
+      "filename": "134:3225b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo23/134:3225b.JPG",
+      "url": "/legajos/legajo-23/images/134:3225b.JPG"
+    },
+    {
+      "filename": "135:3225c.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo23/135:3225c.JPG",
+      "url": "/legajos/legajo-23/images/135:3225c.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "133:3225a.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-23/cartas/003813.json",
+  "primary_image_url": "/legajos/legajo-23/images/133:3225a.JPG"
+}

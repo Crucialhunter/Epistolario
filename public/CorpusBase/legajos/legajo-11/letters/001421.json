@@ -1,0 +1,37 @@
+{
+  "legajo_id": "11",
+  "id_carta": "1421",
+  "order_in_legajo": 188,
+  "signatura": "331:5276a.JPG",
+  "nombre_carta": "Carta de Pedro Juan de la Guardia a Pedro Santacilia y Pax",
+  "fecha_original": "26 de julio de 1644",
+  "lugar": "Valencia",
+  "remitente": "Pedro Juan de la Guardia",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Sr. mío con esta remito las inclusas que me han enviado de Madrid y una que he recibido del ejército para que por ella pueda estar v. m. informado de los que pasa aunque con la llegada de las galeras de Génova habrá tenido v. m. bastante noticia de todo. El Sr. don Joan Miguel Santacilia me parece que se ha resuelto a volver a esa isla con acuerdo del Sr. Antonio de Aragon. Yo siempre juzgéle este. Ya me parece que se hizo la consulta de ese gobierno con que le asegura la licencia de v. m. con el sucesor. Toda la casa de Cardona esta buena y la de Medellín y la del duque de Arcos mi Sr., que es muy apasionado de v. m., Vilallonga y el regente Ortiz son muertos. Barajas y el padre confesor santo Tomé y don Fernando Ruiz está muy malo y don Simon Mascareñes. Dios les dé la salud que puede Sr. D. Pedro Santacilia [1§] y a v. m. guarde muchos años. Valencia y julio 26 de 1644. Pedro Juan de la Guardia Transcripción literal"
+  ],
+  "literal": [
+    "1. Sr. mio con esta remito las inclusas 2. que me an inbiado de Madrid y una que 3. he recivido del exercito para que por 4. ella pueda estar VM informado de los 5. que pasa aunque con la llegada de las Gale 6. ras de Genova habra tenido VM bastan 7. te noticia de todo. 8. El sr. don Joan Miguel Santacilia me 9. parese que se ha resuelto a bolver a essa 10. isla con acuerdo del sr. Anto de 11. Aragon yo siempre juzge 12. le este. 13. Ya me parese que se hizo la consulta de esse 14. govieno con que le asigura la lisencia de 15. VM con el susesor. 16. Toda la casa de Cardona esta buena 17. y la de Medellin y la del duque de Arcos 18. mi sr. que es muy apaçionado 19. de VM ,20. Vallonga y el Ragte Ortis son 21. muertos Barajas y el Pe confesor 22. santo thome. y don Ferdo Ruis esta 23. muy malo y don Simon Mascareñes 24. Dios les de la salud que puede 25. [^Sr. Pedro Santacilia^] [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "331:5276a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo11/331:5276a.JPG",
+      "url": "/legajos/legajo-11/images/331:5276a.JPG"
+    },
+    {
+      "filename": "332:5276b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo11/332:5276b.JPG",
+      "url": "/legajos/legajo-11/images/332:5276b.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "331:5276a.JPG",
+  "warnings": [],
+  "raw_source": "raw/legajos/legajo-11/cartas/001421.json",
+  "primary_image_url": "/legajos/legajo-11/images/331:5276a.JPG"
+}

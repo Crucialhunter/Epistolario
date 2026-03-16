@@ -1,0 +1,43 @@
+{
+  "legajo_id": "6",
+  "id_carta": "589",
+  "order_in_legajo": 93,
+  "signatura": "108-60a",
+  "nombre_carta": "Carta de Ignasi Vila a Cecilia Zaforteza y Sureda de Sant Martí",
+  "fecha_original": "27 de noviembre de 1756",
+  "lugar": "Barcelona",
+  "remitente": "Ignasi Vila",
+  "destinatario": "Cecilia Zaforteza y Sureda de Sant Martí",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Molt il·lustre senyora dona Cecília, Gustós rebo l'afavorida de v. s. de 17 del corrent per les bones notícies {ESP. en quanto} de sa salut i del feliç arribo de mi sr. d. Gabriel de Berga, son cosí, del que ens som summament alegrats, mentre que, a Déu gràcies, queda la que m’assisteix junt la parenta i fills pel que sia de son {ESP. agrado} manar-nos. Veig el pagament ha fet v. s., el que no necessitava remetre, i pel mateix efecte remeto l’inclòs del dr. Estrany, perquè v. s. el guardi o ho entregui. El correu passat rebí carta del dr. Gabriel i avui no n’he tinguda, però suposo ho passa, bé i me remeté eix plec per a d. Gabriel que he entregat a Pere Ferrer, [1§] perquè ho entregui a v. s. o bé a d. Gabriel, a qui espero de v. s. me saludarà i me posarà baix ses ordres, que és quant amb la present se m’ofereix cansar a v. s. i retornar-li les degudes saluts de part mia parenta i fills, mentre quedo per servir-la, i me mani en allò de son {ESP. agrado}. D’esta sa casa, Barcelona i novembre als 27 de 1756. Besa la mà de v. s. son més humil servidor, Ignasi Vila Molt senyora, dona Cecilia Zaforteza [En la izquierda del documento, de arriba a abajo]Quant al rellotge si fos estat de repitició, seria venut i revenut. Està en casa del rellotger aguardant just comprador, però si v. s. vol [que] se venga a preu que s'{ESP. encontra} me darà avís, doncs altrament s’aguardarà fins [que] paguin son valor. Transcripción literal"
+  ],
+  "literal": [
+    "1. Molt Ilta. Sra. Da. Cicilia gustos rebo la 2. afavorida de V.S. de 17 del Corrent per 3. las bonas noticias enquantro de sa salut 4. y del feliz arribo de mi Sr. Dn. Gabriel 5. de Berga son Cosi de lo que nos ne som 6. sumament alegrats; mentres que á Deu 7. gracias queda la que me assisteix junt 8. la Parenta, y fills per lo que sie de son 9. agrado manarnos 10. Veig lo pagament á fet V.S. lo que no 11. nececitava remetrer, y per lo mateix 12. efecte remeto lo inclus del Dr. Estrany 13. peraque V.S. lo guarde ho lo entregue. 14. Lo correu passat rebí Carta del Dr. Gabriel 15. y vui no ne he tinguda; pero suposo ho 16. passa be y me remete eix plech per 17. Dn. Gabriel que he entregat a Pera farre [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "108-60a.jpg",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo06/108-60a.jpg",
+      "url": "/legajos/legajo-06/images/108-60a.jpg"
+    },
+    {
+      "filename": "109-60b.jpg",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo06/109-60b.jpg",
+      "url": "/legajos/legajo-06/images/109-60b.jpg"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "108-60a.jpg",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-06/cartas/000589.json",
+  "primary_image_url": "/legajos/legajo-06/images/108-60a.jpg"
+}

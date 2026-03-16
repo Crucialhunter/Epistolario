@@ -1,0 +1,43 @@
+{
+  "legajo_id": "28",
+  "id_carta": "7891",
+  "order_in_legajo": 144,
+  "signatura": "228:3768a.JPG",
+  "nombre_carta": "Carta de Constanza Dávila y Borja a Pedro Santacilia y Pax",
+  "fecha_original": "27 de julio de 1659",
+  "lugar": "Valencia",
+  "remitente": "Constanza Dávila y Borja",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "La mucha confianza que tengo de la merced que espero recibir de v. m. me hace ser cansada, y suplico me perdone que con el amparo de mi señora la virreina y mi señora doña Melchora no puedo yo padecer. Yo [he] enviado tres órdenes del rey para el visitador y para el procurador real, que esté en el cielo, para que me pagaran trescientas libras que tengo de renta en ese patrimonio por tercias sin mirar a graduación y todo el sueldo que quedaron debiendo a don Baltasar, que esté en el cielo. Y mis rezagos me han dado cien sinrazones y de lo demás no me han librado nada. Suplico a v. m. cuan encarecidamente puedo se sirva de dolerse de mí pues no tengo otro socorro si no es el que viene de ahí. V. m. me haga merced de hacerme pago a las tercias que se me deben, que será hacerme mucha merced. El gober[1§]nador en otra ocasión le escribirá a v. m. [acer]ca de esto. Yo confio en su cristiandad [de] v.m., que tendrá lástima de sanar con las obligaciones que nací y poca co[modi]dad. V.m. me mande en qué le sirva, que lo haré con muchas veras. Dios me guarde a v.m. en compañía de mi señora doña Leonor, cuya mano beso. Valencia, 27 de julio 1659 Servidora de v. m. que su mano besa, Doña Constanza Davila y Borja De mí no se acordará v.m., madrastra de don Rodrigo de Borja; acuérdese v.m., de casa doña Hipólita Blasco y don Jorge de Castellví, que siempre estaba yo allí. Transcripción literal"
+  ],
+  "literal": [
+    "1. La mucha confiansa que tengo de la2. merse ques pero resivir de vm me ase ser3. cansada y suplico me perdone qe4. con el an paro de mi señora la virei5. na y mi señora doña melchora no6. puedo yo padeser yo envi[^a]do tres or7. denes del rei para el visitador y pa8. ra el procurador real que este en el sielo 9. para que me pagaran tres sientas li10. Bras que tengo de renta en ese pa11. trimonio por tersias sin mirar gradu12. asion y todo el sueldo que q ue d aro13. n deviendo a don Baltasar queste en14. el sielo y mis resagos me an dado ci15. en sin rasiones y de lo demas no16. me an liBrado nada suplico a17. vm cuan en caresidamente pue18. do se sirva de dolerse de mi pues no19. tengo otro socoro sino es el que viene de20. a ii vm me aga merse de aserme paga21. r las tersias que se me deven que sera22. aser me mucha merse el gover [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "228:3768a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo28/228:3768a.JPG",
+      "url": "/legajos/legajo-28/images/228:3768a.JPG"
+    },
+    {
+      "filename": "229:3768b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo28/229:3768b.JPG",
+      "url": "/legajos/legajo-28/images/229:3768b.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "228:3768a.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-28/cartas/007891.json",
+  "primary_image_url": "/legajos/legajo-28/images/228:3768a.JPG"
+}

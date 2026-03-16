@@ -1,0 +1,55 @@
+{
+  "legajo_id": "6",
+  "id_carta": "632",
+  "order_in_legajo": 131,
+  "signatura": "192-97a",
+  "nombre_carta": "Carta de Pere Ferrer a Cecilia Zaforteza y Sureda de Sant Martí",
+  "fecha_original": "26 de julio de 1770",
+  "lugar": "Palma",
+  "remitente": "Pere Ferrer",
+  "destinatario": "Cecilia Zaforteza y Sureda de Sant Martí",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Mi senyora dona Cecília, Esper que esta l’encontrarà amb perfecta salut, que la mia és bona, a Déu les gràcies. El que he de participar-li és que el correu passat vaig entregar cent peces de 8 al Sr. Joan Vila per una lletra que va enviar a Madrid i jo ho vaig dir a don Tomàs i ell me va dir que no en sabia res, que tenia avís del Sebastià Oliver, com els carreters ja estaven satisfets i pagats. I el Sr. Joan Vila ha rebut carta de Madrid com don Tomàs ja ha rebuda la lletra i, així, li particip a v. m. si n’ha tengut notícies d’això o no, que jo tenc el {ESP. recibo} de les cent peces de 8 com les he entregades. No dic més per no cansar-la, sinó que dintre esta setmana partirem per Barcelona. Si li importa ninguna cosa ja ho enviarà a dir. Rebrà mil memòries a tots els de casa i v. m. les prendrà de mi a son gust i {ESP. agrado}. Palma als 26 juliol de 1770. Mi Sra. dona Cecilia Zaforteza, son servidor, Pere Ferrer [En la otra página, el destinatario]En mans de dona Cecilia Zaforteza i Berga, guardi Déu molts anys. En Son Berga Transcripción literal"
+  ],
+  "literal": [
+    "1. Mi Señora Da. Cisilia esper que esta la 2. encontrará en perfeta salud que la mia es bo- 3. na á Deu las Gracis. 4. Lo que tench que participarli es que el Correu 5. passat vaix entregar Cent P8 á nel Sr. Juan 6. Vila per una Lletre que va envia á Madrid y 7. yo ho vaix dir á Dn. Thomas y ell me va 8. dir que non sabia res q[u]e tanía avis del Sr. 9. Sabastia Olive com los carraters ya estavan 10. satisfets y pagats y el Sr. Juan Vila ha rebut 11. Carta de Madrid com Dn. Thomas ya ha rebu- 12. da la Lletra, y axi li particip á V.Md. si na 13. tengut Noticias desto, ó no que yo tench el reci- 14. bo de les Cent P8 com les é entregades. No dic 15. mes per no cansarle sinos que dintre esta 16. Semmane partirém per Barcelona Si li 17. importa Ninguna Cosa ya ho enviará á dir 18. Rebra mil Memorias a tots los de casa y 19. V.Md. les prenda de mi á son gust y agrado 20. Palma als 26 Juriol de 1770 21. Mi Sra. Da. Cecilia Çafor- 22. teza 23. Son Servidor Pera Ferrer [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "192-97a.jpg",
+      "original_url": "http://www.studiolum.com/Web3/img/Legajo06/192-97a.jpg",
+      "url": "/legajos/legajo-06/images/192-97a.jpg"
+    },
+    {
+      "filename": "192-97b.jpg",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo06/192-97b.jpg",
+      "url": "/legajos/legajo-06/images/192-97b.jpg"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "192-97a.jpg",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    },
+    {
+      "code": "IMAGE_DOWNLOAD_FAIL",
+      "message": "HTTP 404",
+      "context": {
+        "url": "http://www.studiolum.com/Web3/img/Legajo06/192-97a.jpg"
+      }
+    },
+    {
+      "code": "IMAGE_COUNT_MISMATCH",
+      "message": "Imágenes detectadas (2) != descargadas (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-06/cartas/000632.json",
+  "primary_image_url": "/legajos/legajo-06/images/192-97a.jpg"
+}

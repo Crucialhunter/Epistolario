@@ -1,0 +1,55 @@
+{
+  "legajo_id": "1",
+  "id_carta": "399",
+  "order_in_legajo": 89,
+  "signatura": "203-288a",
+  "nombre_carta": "Carta de Miguel Sancho a Jerónimo Pelegrín de Aragüés",
+  "fecha_original": "23 de abril de 1668",
+  "lugar": "Alicante",
+  "remitente": "Miguel Sancho",
+  "destinatario": "Jerónimo Pelegrín de Aragüés",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Su carta de vuestra merced de 31 del pasado tengo recibida con dos pliegos, el uno para Madrid y otro para Valencia, que todos están encaminados. Vuestra merced ya sabe que siempre soy su amigo y que tengo gusto de servirlo al señor don Nicolás, muchas encomendaciones, y vuestra merced me avise de su salud, y a mí me mande cuanto fuere de su gusto. Y Dios Nuestro Señor lo guarde muchos años, como puede y deseo.",
+    "Alicante, abril 23 de 1668.",
+    "Amigo de vuestra merced, que sus manos besa, Miguel Sancho.",
+    "Señor Jeronimo Pelegrin.",
+    "[1§] Alicante. Miguel Sancho. 23 de abril 1668."
+  ],
+  "literal": [
+    "1. Su carta de Vmd de 31 del pasado",
+    "2. tengo recibida Con dos pliegos el",
+    "3. uno para madrid y otro para V[a]la",
+    "4. que todos estan encaminados. Vmd",
+    "5. ya sabe que siempre soy su amigo",
+    "6. y que tengo gusto de servirlo al Sr.",
+    "7. Don nicolas muchas encomenda",
+    "8. tiones y Vmd me abisa de su salut",
+    "9. y a my me mande quanto fuere",
+    "10. de su gusto, y dios nuestro señor lo",
+    "11. guarde muchos aynos Como puede",
+    "12. y deseo alicante abril 23 de 1668",
+    "13. Amigo de Vmd. q S m B",
+    "14. Miguel Sancho",
+    "15. Sr. Geronimo pelegrin [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "203-288a.gif",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo01/203-288a.gif",
+      "url": "/legajos/legajo-01/images/203-288a.gif"
+    },
+    {
+      "filename": "204-288b.gif",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo01/204-288b.gif",
+      "url": "/legajos/legajo-01/images/204-288b.gif"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "203-288a.gif",
+  "warnings": [],
+  "raw_source": "raw/legajos/legajo-01/cartas/000399.json",
+  "primary_image_url": "/legajos/legajo-01/images/203-288a.gif"
+}

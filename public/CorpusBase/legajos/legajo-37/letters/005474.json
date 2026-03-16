@@ -1,0 +1,37 @@
+{
+  "legajo_id": "37",
+  "id_carta": "5474",
+  "order_in_legajo": 17,
+  "signatura": "174:58a",
+  "nombre_carta": "Carta de Persona desconocida a Persona desconocida",
+  "fecha_original": "fecha sin especificar",
+  "lugar": "lugar sin especificar",
+  "remitente": "Persona desconocida",
+  "destinatario": "Persona desconocida",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Fulls 58a-58b: Albarans volans i algunes partides que no tinc albara [1§] Transcripción literal"
+  ],
+  "literal": [
+    "1. Fulls [68a-58b]: Albarans volans y algunes partides de que no tinch albara"
+  ],
+  "imagenes": [
+    {
+      "filename": "174:58a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo37/174:58a.JPG",
+      "url": "/legajos/legajo-37/images/174:58a.JPG"
+    },
+    {
+      "filename": "175:58b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo37/175:58b.JPG",
+      "url": "/legajos/legajo-37/images/175:58b.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "174:58a.JPG",
+  "warnings": [],
+  "raw_source": "raw/legajos/legajo-37/cartas/005474.json",
+  "primary_image_url": "/legajos/legajo-37/images/174:58a.JPG"
+}

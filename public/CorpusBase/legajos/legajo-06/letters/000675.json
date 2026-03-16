@@ -1,0 +1,48 @@
+{
+  "legajo_id": "6",
+  "id_carta": "675",
+  "order_in_legajo": 175,
+  "signatura": "268-136a",
+  "nombre_carta": "Carta de Jaime Terrassa a Cecilia Zaforteza y Sureda de Sant Martí",
+  "fecha_original": "3 de marzo de 1779",
+  "lugar": "Muro",
+  "remitente": "Jaime Terrassa",
+  "destinatario": "Cecilia Zaforteza y Sureda de Sant Martí",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Señora Da. Cecilia. Muy Señora mía, Veo por la experiencia verificado en el P. Definidor Sastre lo que nos asegura S. Pablo, y es que todo se puede en aquel Señor que nos conforta; pues siendo así que este P. es de una complexión [?] débil y que se alimenta con la abstinencia de un continuo y riguroso ayuno, sostiene en todos los días de esta cuaresma el doblado trabajo del confesionario y del púlpito. Pero nos predica con tal espíritu, con tal energía y claridad de voz que oyéndose de cualquiera parte del templo penetra los corazones de todos, infundiendo en ellos las [1§] máximas cristianas y el arrepentimiento de nuestras culpas. Mis feligreses, así eclesiásticos como seglares, procuran desocuparse para ir a oírle, atraídos de su doctrina y más de sus buenos ejemplos, que edifican a todos nosotros. Doy las gracias a v. s. por haberme destinado en mi parroquia un cuaresmero de tales calidades, que son puntualmente las que yo deseaba para la utilidad de mis parroquianos, que amo en Cristo Jesús. Espero que este Señor derramará en la presente cuaresma sobre este pueblo las bendiciones de su misericordia, y que en ellas tendrá v. s. la parte correspondiente por haber cooperado con su acertada elección a la santificación de estas almas que me confió la adorable [2§] providencia de Dios. Este Señor nos dé un corazón contrito, dócil a su divina voz, y nos conceda a todos su santa gracia, que es el consuelo único que podemos tener en este miserable destierro. Yo, el entretanto que espero los preceptos de v. s., ruego al Altísimo la conserve los felices años del divino beneplácito. Muro y marzo 3 de 1779. Beso las manos de v. s. Su más afecto seguro servidor y capellán, D. Jaime Terrasa, presbítero y rector de Muro. Sa. Da. Cecilia Zaforteza. Transcripción literal"
+  ],
+  "literal": [
+    "1. Señora Da. Cecilia 2. Muy Señora mia; veo por la experien- 3. sia verificado en el P. Diffinidor Sas- 4. tre, lo que nos assegura S. Pablo, y es 5. que todo se puede en aquel Señor, que 6. nos conforta, pues siendo assi, que este 7. P. es de una complexion[?] debil, y que 8. se alimenta con la abstinensia de 9. un continuo, y riguroso ayuno, sostiene 10. en todos los dias de esta Quaresma el 11. doblado trabajo del confessionario, y 12. del Pulpito: pero nos predica con tal 13. espiritu, con tal energia, y claridad 14. de voz que ohiendose de qualquiera 15. parte del Templo penetra los cora- 16. zones de todos, infundiendo en ellos las [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "268-136a.jpg",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo06/268-136a.jpg",
+      "url": "/legajos/legajo-06/images/268-136a.jpg"
+    },
+    {
+      "filename": "269-136ba.jpg",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo06/269-136ba.jpg",
+      "url": "/legajos/legajo-06/images/269-136ba.jpg"
+    },
+    {
+      "filename": "269-136bb.jpg",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo06/269-136bb.jpg",
+      "url": "/legajos/legajo-06/images/269-136bb.jpg"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "268-136a.jpg",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-06/cartas/000675.json",
+  "primary_image_url": "/legajos/legajo-06/images/268-136a.jpg"
+}

@@ -1,0 +1,38 @@
+{
+  "legajo_id": "6",
+  "id_carta": "540",
+  "order_in_legajo": 40,
+  "signatura": "018_10",
+  "nombre_carta": "Carta de Gabriel Joachim Zaforteza y Berga a Cecilia Zaforteza y Sureda de Sant Martí",
+  "fecha_original": "1 de mayo de 1741",
+  "lugar": "Santa Eulalia",
+  "remitente": "Gabriel Joachim Zaforteza y Berga",
+  "destinatario": "Cecilia Zaforteza y Sureda de Sant Martí",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Cecília, m’ha dit mon pare que ha estimat molt que estigueu bons per la carta que ha rebuda del 29. Nosaltres tots estam bons, gràcies al Sr., i mos passejam. Diu mon pare que enviïs a dir el dia que tornareu a L’Àguila. La filla de D. Gaspar Dureta morí ahir. Mestre Esteve el passa molt millor. Rebràs {ESP. recaudos} de part del avi, mon pare Tomàs, ma mare i dona Caterina i na Marieta, i els donaràs a D. Francesc. Déu te guardi molts anys. Santa Eulalia i maig primer 1741. Ton germà qui més te vol, Gabriel Joaquim Zaforteza i Berga [En la parte izquierda del documento, de arriba a abajo] En Güells surt el dia de la creu. Transcripción literal"
+  ],
+  "literal": [
+    "1. Cecilia me á dit mon Para que 2. á stimat molt que astigau bons per 3. la carta que á rabuda del 29. 4. nosaltres tots astam bons Gas al Sr. 5. y mos pasatjám. Diu mon Para 6. que anvias á dir al dia que tor- 7. narau á La Aguila. La Filla de 8. D. Gaspar Dureta morí air. 9. Mestre Asteva lo pasa molt 10. millor Rebras recaudos de part 11. del Sr. Avi, Mon Para Thomas 12. Me Mara, y Da. Chata y ne 13. Mariete y als donarás a D Fch 14. Deu te Gde Ms as. Sta Eula 15. y Maig pr 1741 16. Son Jerma qui mes te vol 17. Gabriel Joachim Caforteza y Berga 18. [En la parte izquierda del documento, de arriba a abajo]19. En Guells surt al dia de La creu [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "018_10.jpg",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo06/018_10.jpg",
+      "url": "/legajos/legajo-06/images/018_10.jpg"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "018_10.jpg",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-06/cartas/000540.json",
+  "primary_image_url": "/legajos/legajo-06/images/018_10.jpg"
+}

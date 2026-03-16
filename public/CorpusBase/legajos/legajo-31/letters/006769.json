@@ -1,0 +1,38 @@
+{
+  "legajo_id": "31",
+  "id_carta": "6769",
+  "order_in_legajo": 9,
+  "signatura": "013:1520.JPG",
+  "nombre_carta": "Carta de Jerónimo Mancho a Pedro Santacilia y Pax",
+  "fecha_original": "3 de noviembre de 1660",
+  "lugar": "Madrid",
+  "remitente": "Jerónimo Mancho",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Mas ha de 15 días que se partió para Alicante Jeronimo Pelegrin y por no cansar a v. m. me remito a la relación que el hará de lo que pasa por acá Habra cuatro o cinco días que el Sr. don Juan Miguel tuvo una calenturilla que fue forzoso sangrarle ya está bueno, a Dios gracias, y no ha sido neccesario sacarle de su casa, y espero que se valdrá de su juicio y buen talante para guardarse de aquello que daña su salud, como se lo encargamos todos. v. m. este sin cuidado en orden a su asistencia que el buen Diego Matias le viene grande, y en lo que a mi me tocare ya v. m. sabe que no he de faltar a su servicio cuya vida guarde Dios muchos años como deseo. Mad. a 3 de Novieme. 1660. Besa la mano de v. m. Jeronimo Mancho Sr. don Pedro Santacilia y Pax [1§] Transcripción literal"
+  ],
+  "literal": [
+    "1. Mas ha de 15 dias que se partio para Alicante 2. Geronymo Pelegrin y por no canssar a Vmd. me 3. remito a la relacion que el hara de lo q. passa por 4. aca = Habra quatro o cinco dias q. el Sr. Don Juan 5. Miguel tubo una calenturilla que fue forcosso sangrar6. le ya esta bueno à dios gracias y no ha sido neccessario 7. sacarle de su cassa, y espero que se valdra de su 8. juicio y buen talante para guardarse de aquello q. 9. daña su salud, como se lo encargamos todos. Vmd. 10. este sin cuydado en orden a su asistencia que el buen 11. Diego Mathias le viene grande, y en lo que a mi me 12. tocare ya Vmd. save que no he de faltar a su servicio 13. cuya vida gde. Dios muchos años como deseo. Mad. 14. a 3 de Novieme. 1660. 15. B. l. m. de Vm 16. Geronymo Mancho 17. Sr. Don Pedro Santacilia y Pax [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "013:1520.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo31/013:1520.JPG",
+      "url": "/legajos/legajo-31/images/013:1520.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "013:1520.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-31/cartas/006769.json",
+  "primary_image_url": "/legajos/legajo-31/images/013:1520.JPG"
+}

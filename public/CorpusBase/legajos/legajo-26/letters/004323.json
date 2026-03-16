@@ -1,0 +1,62 @@
+{
+  "legajo_id": "26",
+  "id_carta": "4323",
+  "order_in_legajo": 59,
+  "signatura": "084:3417a.JPG",
+  "nombre_carta": "Carta de Macià Monsarró a Pedro Santacilia y Pax",
+  "fecha_original": "30 de noviembre de 1639",
+  "lugar": "Zaragoza",
+  "remitente": "Macià Monsarró",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "En fins avui no he vist a Josep Paracuellos i em sóc alegrat de la salut de v. m. un més i mig ha que envií a v. m. un plec de les cartes de l'estafeta i una carta del duc de Nocera per un soldat valencià, que estava ací amb sa muller, m'ha dit perquè els avui que després que és vengut li ha donades les cartes i que dit Paracuellos les ha enviades a v. m. i en elles havia una carta de don Diego de Rocaberti, el fill del governador. Don Manuel dilluns se partí per a Barcelona i me digué que don Diego de Rocaberti estava ja despatxat de Madrid i que dins set o vuit dies estaria en Saragossa. V. m. sabrà com he tengut en sa presó de Saragossa 29 homes dels {ESP. apellidats} de naval, els que estaven {ESP. apellidats} criminalment que sinó fos estat per {ESP. medi} del Sr. Tomas Cornelio Tries i del duc de Nocera entenc que encara no se foren proveïts els {ESP. apellidos}. Don Miquel m'escriu esta estafeta que dintre dos mesos estarà en Saragossa i també hi havia una carta per a v. m. i pensant era mia la descloguí, Sr. don Pedro Santacilia Saragossa 30 novembre 1639 Macià Monsarro [1§] la qual va juntament amb esta, puix v. m. està {ESP. cerca} de pamplona, suplico me faci mercè de comprar-me un {ESP. manguito} per a la muller i no faci compte sia per a la puta, perquè no ho és. El pare capellà és com l'ànima de Garivay que no procura, sinó és per a ell, i ara ja no hi ha maria. Don Antoni Pellicer, l'estafeta passada que està amb tercianes i sangrat dues voltes. En Perpinyà tots els dies passen de cent els morts. El sr. Tomas Cornelio Tries ha estat desganat i sangrat dues voltes, ara ja està millor. Glòria a Déu. Don Luis Carrillo està en Saragossa per a hivernar, el [?] el capot que li envia i també les pells ha donada al capità Antoni Viguet de ma part i a tots mil besamans i a v. m. guardi Nre. Sr. de Saragossa 30 de novembre 1639. Macià Monsarro Transcripción literal"
+  ],
+  "literal": [
+    "1. En fins avuy no he vist a Juseph Paraquelos y me so2. alegrat de la salut de V.m. un mes y mix ha que en3. viy a V.m. un plech de les cartes de la estafeta4. y una carta del Sr. duque de Nochera per un soldat5. valençia que estava asi ab sa muler me a dit Para6. quelos avuy que despres que es vengut li a donades les7. cartes y que dit Paraquelos les anviadas a V.m.8. y en elles avia una carta de don Diego de rocamarti9. lo fil del governador don manual diluns se parti10. pera barna y me digue que don diego de rocamartí11. estava ja despaxat de madrid y que dins set, o, vuyt12. dies estaria en Caraga V.m. sabra com he tengut13. en sa preso de Caragsa 29 omens dels apelidats de14. naval los que estavan apelidats crimanal-15. ment que sino fos estat per medi del Sr Thomas16. Cornelio Tries y del Sr. Duque de Nochera entench17. que encara no se foren proveits los apelidos.18. Don Miquel me escriu esta estafeta que dintre dos19. mesos estara en Caraga y tambe y avia una carta20. pera V.m. y pensant era mia la desclogi21. Sr. Don Pº SantaCilia22. Caraga 30 nobe. 163923. Masia Monsarro [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "084:3417a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo26/084:3417a.JPG",
+      "url": "/legajos/legajo-26/images/084:3417a.JPG"
+    },
+    {
+      "filename": "085:3417b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo26/085:3417b.JPG",
+      "url": "/legajos/legajo-26/images/085:3417b.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "084:3417a.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (2)",
+      "context": {}
+    },
+    {
+      "code": "IMAGE_DOWNLOAD_FAIL",
+      "message": "HTTP 404",
+      "context": {
+        "url": "http://santacilia.info/intranet2/img/Legajo26/084:3417a.JPG"
+      }
+    },
+    {
+      "code": "IMAGE_DOWNLOAD_FAIL",
+      "message": "HTTP 404",
+      "context": {
+        "url": "http://santacilia.info/intranet2/img/Legajo26/085:3417b.JPG"
+      }
+    },
+    {
+      "code": "IMAGE_COUNT_MISMATCH",
+      "message": "Imágenes detectadas (2) != descargadas (0)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-26/cartas/004323.json",
+  "primary_image_url": "/legajos/legajo-26/images/084:3417a.JPG"
+}

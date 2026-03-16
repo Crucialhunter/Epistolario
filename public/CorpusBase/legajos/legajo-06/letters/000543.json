@@ -1,0 +1,43 @@
+{
+  "legajo_id": "6",
+  "id_carta": "543",
+  "order_in_legajo": 1,
+  "signatura": "023_13",
+  "nombre_carta": "Carta de Persona desconocida a Cecilia Zaforteza y Sureda de Sant Martí",
+  "fecha_original": "fecha sin especificar",
+  "lugar": "Barcelona",
+  "remitente": "Persona desconocida",
+  "destinatario": "Cecilia Zaforteza y Sureda de Sant Martí",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "{ESP. Amiga y querida mia,} Perdona la tardança en respondre, que com el correu que volia escriure't tinguí la noia malalta, no puguí, i ho executo ara donant-te notícies de la mia salut que és bona i m'alegro logr[ar]ias [?] tu amb companyia de l'oncle este benefici. Desitjo que la Caterina Sureda continuï amb son prenyat i que tu tinguis esta novetat i li retornaràs de ma part les memòries. La núvia ha arribat bona i està molt [Falta hoja] 28+ A dona Cecilia Zaforteza i Sureda. Guardi Déu molts anys com desitjo. [B]ARCELONA [sello estampado] . Mallorca Transcripción literal"
+  ],
+  "literal": [
+    "1. {esp.} Amiga y querida mia:} perdona la 2. tardansa en respondre, que com lo 3. correu que volia escriurete ting< u>i la 4. noya malalta, no pog< u>i, y ho exacuto 5. ara, donante noticias de la Mia salut 6. ques bona, y me alegro log[ra]< r>ias tu a< m>b 7. conpañia del Oncle este benefici. 8. desitjo que la Catharina Sureda 9. continuia a< m>b son preñat y que tu 10. tingas esta novedat, y li retornarás 11. de ma part las memorias. La nu- 12. via ha arribat bona y esta molt [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "023_13b.jpg",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo06/023_13b.jpg",
+      "url": "/legajos/legajo-06/images/023_13b.jpg"
+    },
+    {
+      "filename": "023_13.jpg",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo06/023_13.jpg",
+      "url": "/legajos/legajo-06/images/023_13.jpg"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "023_13b.jpg",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-06/cartas/000543.json",
+  "primary_image_url": "/legajos/legajo-06/images/023_13b.jpg"
+}

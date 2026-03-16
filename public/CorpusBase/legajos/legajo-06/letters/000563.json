@@ -1,0 +1,43 @@
+{
+  "legajo_id": "6",
+  "id_carta": "563",
+  "order_in_legajo": 65,
+  "signatura": "057-34a",
+  "nombre_carta": "Carta de J. Plasencia a Cecilia Zaforteza y Sureda de Sant Martí",
+  "fecha_original": "21 de septiembre de 1748",
+  "lugar": "Madrid",
+  "remitente": "J. Plasencia",
+  "destinatario": "Cecilia Zaforteza y Sureda de Sant Martí",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Mi Sra. y mi tía. Con la que v. s. me honra de 11 del corriente, me participa la fatal noticia de la muerte de mi tío D. Francisco, que de Dios goce, y el desconsuelo que v. s. experimenta de tanta pérdida. Aseguro a v. s. que he quedado suspenso de tal novedad, y son muchos los motivos que me interesan para acompañar a v. s. en tan justo sentimiento; y rogar a Dios por el alma del difunto y conceda a v. s. los consuelos que necesita y le suplico. Pues si v. s. reconoce que yo sea digno de poderla servir, viva v. s. persuadida que la amistad que nos hemos profesado con mi tío (sin habernos visto) procuraré manifestar a v. s. la ley que les he tenido y que deseo v. s. experimente con sus preceptos, para que pueda lograr la honra de [1§] obedecerla. Y quedando a los pies de v. s. ruego a Dios guarde a v. s. muchos años, como he menester. Madrid, septiembre a 21 de 1748. A los pies de v. s. El sobrino que más la venera, J. Plasencia. Mi Sra. y mi tía Dña. Cecilia de Sureda de St. Martí y Zaforteza. Transcripción literal"
+  ],
+  "literal": [
+    "1. Mi Sra. y mi Tia; con la q V.S. me hon- 2. rra de 11 del corriente, me participa 3. la fatal noticia de la muerte de mi 4. Tio Dn. Franco, q de Dios goze, y el des- 5. consuelo que V.S. experimenta de tanta 6. perdida. Aseguro a V.S. que he quedado 7. suspenso de tal novedad, y son mu- 8. chos los motivos q me interessan para 9. acompañar a V.S. en tan justo senti- 10. miento, y rogar a Dios por el Alma del 11. difunto, y conceda a V.S. los consuelos 12. q necesita y le suplico: Pues si V.S. 13. reconoze que yo sea digno de poderla 14. servir, viva V.S. persuadida q la 15. Amistad q nos hemos professado 16. con mi Tio (sin havernos visto) pro- 17. curaré manifestar a V.S. la ley 18. q les he tenido, y q deseo V.S. expe- 19. rimente con sus preceptos, para 20. q pueda lograr la honra de [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "057-34a.jpg",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo06/057-34a.jpg",
+      "url": "/legajos/legajo-06/images/057-34a.jpg"
+    },
+    {
+      "filename": "058-34b.jpg",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo06/058-34b.jpg",
+      "url": "/legajos/legajo-06/images/058-34b.jpg"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "057-34a.jpg",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-06/cartas/000563.json",
+  "primary_image_url": "/legajos/legajo-06/images/057-34a.jpg"
+}

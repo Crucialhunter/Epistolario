@@ -1,0 +1,43 @@
+{
+  "legajo_id": "6",
+  "id_carta": "535",
+  "order_in_legajo": 35,
+  "signatura": "009_5a",
+  "nombre_carta": "Carta de Gabriel Joachim Zaforteza y Berga a Cecilia Zaforteza y Sureda de Sant Martí",
+  "fecha_original": "2 de enero de 1741",
+  "lugar": "Santa Eulalia",
+  "remitente": "Gabriel Joachim Zaforteza y Berga",
+  "destinatario": "Cecilia Zaforteza y Sureda de Sant Martí",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Cecília, M’ha dit mon pare que t’escrigués que tots estam bons, gràcies al Senyor, i que ha estimat molt les notícies [que] li envies i, així mateix, que no deixis d’escriure. De part de tots, molts records. Déu et guardi molts anys. Santa Eulàlia i gener 2 de 1741. Gabriel Joaquím Zaforteza i Berga, ton germà qui més te vol. [A l’altra pàgina del document]A dona Cecilia Zaforteza i Sureda. Guardi Déu molts anys. Ciutat Transcripción literal"
+  ],
+  "literal": [
+    "1. 1. Çeçília me ha dit 2. mon Para que te ascri- 3. gues que tots astam bons 4. G< raci>as al S< enyo>r y que ha 5. astimat molt las noticias 6. li anvias; i axi matex 7. que no dexas de ascrirer 8. de part de tots m< olt>s R< ecord>s 9. Deu te G< uar>de m< olt>s a< ny>s. S< an>ta 10. Eulalia y Janer 2 de 11. 1741 [signatura]. 12. Gabriel Joachim Cafortesa 13. y Berga, ton jarma qui 14. mes te vol. [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "009_5b.jpg",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo06/009_5b.jpg",
+      "url": "/legajos/legajo-06/images/009_5b.jpg"
+    },
+    {
+      "filename": "009_5a.jpg",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo06/009_5a.jpg",
+      "url": "/legajos/legajo-06/images/009_5a.jpg"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "009_5b.jpg",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-06/cartas/000535.json",
+  "primary_image_url": "/legajos/legajo-06/images/009_5b.jpg"
+}

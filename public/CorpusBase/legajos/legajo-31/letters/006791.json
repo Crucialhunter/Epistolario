@@ -1,0 +1,38 @@
+{
+  "legajo_id": "31",
+  "id_carta": "6791",
+  "order_in_legajo": 44,
+  "signatura": "043:1542.JPG",
+  "nombre_carta": "Carta de Jerónimo Mancho a Pedro Santacilia y Pax",
+  "fecha_original": "5 de febrero de 1661",
+  "lugar": "Madrid",
+  "remitente": "Jerónimo Mancho",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "[1§] Transcripción literal"
+  ],
+  "literal": [
+    "1."
+  ],
+  "imagenes": [
+    {
+      "filename": "043:1542.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo31/043:1542.JPG",
+      "url": "/legajos/legajo-31/images/043:1542.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "043:1542.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-31/cartas/006791.json",
+  "primary_image_url": "/legajos/legajo-31/images/043:1542.JPG"
+}

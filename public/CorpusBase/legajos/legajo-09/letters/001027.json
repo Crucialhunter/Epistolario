@@ -1,0 +1,43 @@
+{
+  "legajo_id": "9",
+  "id_carta": "1027",
+  "order_in_legajo": 66,
+  "signatura": "099-49a",
+  "nombre_carta": "Carta de Antonio Vellón a Arnau de Santacilia",
+  "fecha_original": "21 de junio de 1675",
+  "lugar": "Cremona",
+  "remitente": "Antonio Vellón",
+  "destinatario": "Arnau de Santacilia",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Amigo y señor mío con sumo gusto recibo la carta de v. m. de 22 del pasado por la buenas nuevas que me trae de su salud y me pesa grandemente la pasen tal mal pero es menester tener paciencia y confor merced con la voluntad de Dios Amigo en cuanto a la compañía de v. m. itereses de ella todo pasa honestamente bien y la compañía se mantiene y esta huida y Romero hace todo lo que puede y es ci erto yo no lo dejo de la mano. En cuanto los intereses de Milán me dicen handan muy mal por las impertinencias de aquella mala mujer Amigo hoy día de la fecha he remitido a Diego Alvarez 2500 libras para que las corresponda a v. m. en la conformidad que me ordena y quedan en mi poder que mentar yochenta digo 400 y Romero me ha dicho que en toda esta sema nas me entregara otras quinientas que no lo de xare de la mano hasta que me las di porque con la ocasión que asiste aquí ahora el amigo don Pedro Giron ayuda mucho [1§] y le envía a v. m. muchos besamanos y todoslo espéramos con devoción y así mismo toda la compañía Soldados y reformados y demás oficiales que se hallan en esta plaza no he hecho la pasada que v. m. me dice a don Diego de herrera por no hallarse aquí que está en lodi luego que venga lahare con todo cuidado que a quien se me ofrece decir a v. m. a quien guarde Nuestro Señor muchos años como deseo. Cremona a 21 Junio 1675 demilan me avisan después de escrita esta que aquella buena mujer había dado aquella buena mujer al auditor general contra v. m. y todos los amigos cosa que a causado empeñar a todos los amigos y yo despachado al sargento Romero para lo que se ofreciese que no por el dinero padeciese la reputación de v. m. de lo que fuere subecdiendo le daré parte. Besa las manos de v. m. su mayor amigo y servidor Antonio vellon señor capitán don Arnau Santacilia [2§] Transcripción literal"
+  ],
+  "literal": [
+    "1. Amigo y señor mio con summo gusto recivo la Carta 2. de VM de 22 del passado por la buenas nuevas 3. q me trahe de su salud y me pesa grandemte la passen 4. tal mal pero es menester tener paciencia y confor5. marse con la voluntad de dios = Amigo en qto 6. a la Compa de VM yteresses della todo passa 7. honestamte bien y la compa se mantiene y esta 8. huida y Romero haze todo loq puede y es ci9. erto yo no lo dejo de la mano = En qto 10. los ynteresses de Milan me diçen handan muy 11. mal por las ympertinencias de aquella 12. mala mujer = Amigo hoy dia de la 13. fecha he remettido a diego Alvarez 2500 14. libras pa q las corresponda a VM en 15. la Conformidad q me ordena y quedan en 16. mi poder que mentar yochenta digo 400 17. y Romero me ha dicho q en toda esta sema18. nas me entregara otras quinientas q no lo de19. xare de la mano hastaq me las di porq 20. con la occacion q assiste aqui haora el 21. amigo don Pedro Giron ayuda mucho [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "099-49a.jpg",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo09/099-49a.jpg",
+      "url": "/legajos/legajo-09/images/099-49a.jpg"
+    },
+    {
+      "filename": "100-49b.jpg",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo09/100-49b.jpg",
+      "url": "/legajos/legajo-09/images/100-49b.jpg"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "099-49a.jpg",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-09/cartas/001027.json",
+  "primary_image_url": "/legajos/legajo-09/images/099-49a.jpg"
+}

@@ -1,0 +1,38 @@
+{
+  "legajo_id": "26",
+  "id_carta": "4447",
+  "order_in_legajo": 187,
+  "signatura": "269:3542.JPG",
+  "nombre_carta": "Carta de Jerónimo de Carvajal Agurto a Pedro Santacilia y Pax",
+  "fecha_original": "25 de abril de 1647",
+  "lugar": "Lugar sin especificar",
+  "remitente": "Jerónimo de Carvajal Agurto",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Como no merezco la merced que v. m. me hace en su carta la extraño mucho y. mis deseos de servir a v. m. se la pueden [?] a la memoria y es cierto que siento no [?] en la comida de mi Sra. y besar sus manos [?] tal persona que tanto merece tengamos [?] Mallorca y no a los ojos de su rey [?] valiere algo para solicitar los aumentos [?] v. m. hará mal en no mandármelo porque de verdad le soy verdadero servidor y [?] en mi Sra. la voluntad que tiene a v. m. y así no necesito en esta parte de hacer [?] a su e. Siento mucho la borrasca que v. m. pasó por la tierra y por la mar [?] llegar a su casa con salud y hallado con la m [?] a mi Sra. Dña. Magdalena y esos caballeros qua [?] con v. m. guarde Dios los largos años que deseo, 25 de abril 1647. Jeronimo de Carvajal Agurto Sr. D. Pedro Santacilia Transcripción literal"
+  ],
+  "literal": [
+    "1. Como no merezco la md. que Vm. [me]2. haçe en su carta la estraño mucho y [...]3. mis deseos de servir a Vm. se la pueden [...]4. a la memoria y es cierto que siento no [...]5. en la comida de mi Sra. y besar sus manos [...]6. tal persona que tanto mereçe tengamos [...]7. Mallorca y no a los ojos de su Rey [...]8. valiere algo para solicitar los aumento[s...]9. VM. hara mal en no mandarmelo p[orque]10. de verdad le soy verdadero servidor y [...]11. en mi Sra la voluntad que tiene a [VM.]12. y assi no neçesito enesta parte de haçer [...]13. a su E.= Siento mucho la vorrasca q[ue]14. Vm paso por la tierra y por la mar [...]15. llegar a su casa con salud y hallado con la m[...]16. a mi Sra. D. Ma. y esos cavalleros qua[...]17. con Vm ge. Dios los largos años que desseo18. 25 de Abril 164719. Gmo. De Carvajal Agur[en][?]20. Sr. D. Pº Sta. Cilia [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "269:3542.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo26/269:3542.JPG",
+      "url": "/legajos/legajo-26/images/269:3542.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "269:3542.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-26/cartas/004447.json",
+  "primary_image_url": "/legajos/legajo-26/images/269:3542.JPG"
+}

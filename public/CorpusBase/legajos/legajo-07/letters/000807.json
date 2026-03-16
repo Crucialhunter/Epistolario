@@ -1,0 +1,53 @@
+{
+  "legajo_id": "7",
+  "id_carta": "807",
+  "order_in_legajo": 32,
+  "signatura": "56-38a copy",
+  "nombre_carta": "Carta de Pablo Corbella a Jerónimo Pelegrín de Aragüés",
+  "fecha_original": "26 de septiembre de 1674",
+  "lugar": "Barcelona",
+  "remitente": "Pablo Corbella",
+  "destinatario": "Jerónimo Pelegrín de Aragüés",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Amigo y señor, el que esta dará a v. m. es Giuseppe Pérez, persona a quien yo quiero mucho por su buen proceder. Pasa a Menorca a servir al gobernador. Vuestra merced en los días que estuviere ahí me haga vuestra merced merced de asistirle si algo se le ofreciere, que aunque el patrón del bergantín lleva orden de darle lo que hubiere menester, no sabemos lo que se puede ofrecer. Y si vuestra merced tiene algún amigo en Ciudadela, le pido le acompañe con una carta. Anteayer llegaron aquí los holandeses con 70 bajeles. La gente que ha saltado en tierra es buena y rolliza, y este día que entraron [1§] vino aviso del señor duque de San Germán diciendo cómo el enemigo se había movido de donde estaba y dado fuego a las barracas. Estuvo nuestro ejército toda la noche en vela y a la mañana reconocieron iban marchando hacia Villafranca de Conflent y San Juan de Pages. Le fueron dando encima y le quitaron 700 bagajes y otras cosas he hicieron algunos prisioneros, y todavía le iban siguiendo. Ayer no vino otro aviso. Hoy no he salido de galera, con que no sé si habrá otra novedad. Aquí estamos todas las galeras. La armada de bajeles de España con el señor don Melchor de la Cueva se fue a Sicilia y se dice irá también el señor marques del Viso con 22 galeras. Nosotros y en [?] nos quedamos aquí. Dios sabe lo que será porque cada día hay nuevas resoluciones. Si hubiere ocasión para Cerdeña, vuestra merced me remita esa carta. Y vea si en algo le puedo servir. cuya vida guarde Nuestro Señor muchos [2§] años, como deseo, en compañía de toda su casa. cuyas manos beso. Barcelona, a 26 en septiembre 1674. Beso a vuestra merced la mano su más servidor y amigo, Pablo Corbella. Señor Jeronimo Pelegrin de Aragues. [3§] Barcelona 26 septiembre 1674, de don Pablo Corbella. Recibida a 2 octubre 1674. Respuesta 12 de octubre 1674. Transcripción literal"
+  ],
+  "literal": [
+    "1. Amigo y Sr. el que esta dara 2. a v.m. es Jusepe Perez Perso- 3. na a quien yo quiero mucho 4. Por su buen Proceder Pasa 5. a Menorca a servir al gober- 6. nador. v.m. en los dias que 7. estubiere ay me aga v.m. mrd 8. de Asistirle si algo se le ofre- 9. ciere que aunquel Pn del bergan- 10. tin lleba orden de darle lo que 11. ubiere menester no sabemos lo 12. quese puede ofrecer y si v.m. 13. tiene Algun Amigo en Ciuda- 14. dela le Pido le aconpañe 15. con una Carta = 16. Ante ayer llegaron aqui los olande 17. ses con 70 Vajeles la gente 18. que A saltado en tierra es buena 19. y Rolliza y este dia que en- 20. traron [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "56-38a copy.gif",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo07/56-38a copy.gif",
+      "url": "/legajos/legajo-07/images/56-38a copy.gif"
+    },
+    {
+      "filename": "57-38b copy.gif",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo07/57-38b copy.gif",
+      "url": "/legajos/legajo-07/images/57-38b copy.gif"
+    },
+    {
+      "filename": "58-38c copy.gif",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo07/58-38c copy.gif",
+      "url": "/legajos/legajo-07/images/58-38c copy.gif"
+    },
+    {
+      "filename": "59-38d copy.gif",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo07/59-38d copy.gif",
+      "url": "/legajos/legajo-07/images/59-38d copy.gif"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "56-38a copy.gif",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (4)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-07/cartas/000807.json",
+  "primary_image_url": "/legajos/legajo-07/images/56-38a copy.gif"
+}

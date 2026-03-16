@@ -1,0 +1,38 @@
+{
+  "legajo_id": "32",
+  "id_carta": "7150",
+  "order_in_legajo": 152,
+  "signatura": "196:1908.JPG",
+  "nombre_carta": "Carta de Jaime Baulón a Pedro Santacilia y Pax",
+  "fecha_original": "29 de agosto de 1665",
+  "lugar": "Ciutadella",
+  "remitente": "Jaime Baulón",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Illsimo recibí la de v. s. alegrándome de que Dios Nº. sea servido conservarle la salud, pues todos los afecctos y criados de v. s. y Yo en particular como más interesado debo rogar a Dios le aumente la salud dándole las gracias de las mercedes recibidas y las que espero recibir de la poderosa mano de v. s. a quien Dios mantenga y guarde de Ciudadela de esta su casa y agosto 29 de 1665 de v. s. criado que sus manos besa Jaime Baulon Son Pedro Santacilia y Pax Transcripción literal"
+  ],
+  "literal": [
+    "1. Illsimo Sr. 2. Recevi la de V. S. alegrandome de q. Dios 3. Nº. Sr. sea servido conservarle la salud, pues 4. todos los afecctos y criados de V. S. y Jo en par5. ticular como mas interessado devo rogar a Dios 6. le aumente la salud dandole las gratias de las 7. mercedes recevidas y las q spero recevir de la po8. derosa mano de V. S. a quien Dios mantenga 9. y Guarde de Ciudadela de esta su casa y Agos10. to 29 de 1665 11. De V. S. criado q. 12. s. m. b. 13. Jayme Baulon 14. Sr. 15. Son Pedro Sta. Cilia y Pax [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "196:1908.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo32/196:1908.JPG",
+      "url": "/legajos/legajo-32/images/196:1908.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "196:1908.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-32/cartas/007150.json",
+  "primary_image_url": "/legajos/legajo-32/images/196:1908.JPG"
+}

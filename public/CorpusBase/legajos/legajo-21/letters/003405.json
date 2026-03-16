@@ -1,0 +1,48 @@
+{
+  "legajo_id": "21",
+  "id_carta": "3405",
+  "order_in_legajo": 94,
+  "signatura": "148:5694a.JPG",
+  "nombre_carta": "Carta de Catalina Fernández de Córdoba y Figueroa a Pedro Santacilia y Pax",
+  "fecha_original": "19 de diciembre de 1638",
+  "lugar": "Arbeca",
+  "remitente": "Catalina Fernández de Córdoba y Figueroa",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Me he holgado de ver por su carta de vmd. se halla bueno y también alejado [de] pobres lugares y que padecerán, que no es buena compañía de dragones: así me lo enseñaron en mis niñeces. Harto estimará las noticias [letra borrada] me ofrece para la vista, mas pues esto no se puede para ahora. Lo que se permite puede vmd. poner en un papel, que a buen seguro no haya quien lo descifre si se pierde: con prudencias y sufrimiento en gente belicosa siempre serán de mucha materia. Y los que gozamos Señor d. Pedro Santacilia [1§] del retiro para todo sobra tiempo y deseo se entretenga el duque. Y yo siempre, aunque de lejos, estuve en el sentir que merced dé fuerte rabia. Guarde Dios a vmd. Arbeca, 19 de diciembre [ 1]638 La duquesa de Seg[orb]e y Cardona [2§] Arbeca, 29 diciembre 1638. Mi señora la duquesa. Recibido. Transcripción literal"
+  ],
+  "literal": [
+    "1. eme holgado deber porsu Car-2. ta demd sehalla bueno y tanbien 3. alejado pobres lugares y q pa-4. dezeran q no es buena Conpa-5. ñia dedragones asi melo ense-6. ñaron en mis niñezes 7. harto estímara las notizias [Ilegible]8. me ofreze para la bista mas pues 9. esto no se puede pàra ora lo q se 10. permite puede vmd. poner en un 11. papel q abuenseguro noa12. ya quien lodeszifre sise pier13. de lo prudenzias ysu frimien14. to en Jente belicosa sienpre seran 15. de mucha materia y los q gozamos 16. [Margen izquierdo][^ Sor don po sanctasila] [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "148:5694a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo21/148:5694a.JPG",
+      "url": "/legajos/legajo-21/images/148:5694a.JPG"
+    },
+    {
+      "filename": "149:5694b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo21/149:5694b.JPG",
+      "url": "/legajos/legajo-21/images/149:5694b.JPG"
+    },
+    {
+      "filename": "150:5694c.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo21/150:5694c.JPG",
+      "url": "/legajos/legajo-21/images/150:5694c.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "148:5694a.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (2)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-21/cartas/003405.json",
+  "primary_image_url": "/legajos/legajo-21/images/148:5694a.JPG"
+}

@@ -1,0 +1,66 @@
+{
+  "legajo_id": "28",
+  "num_cartas": 194,
+  "num_imagenes": 321,
+  "rango_temporal": [
+    1627,
+    1669
+  ],
+  "remitentes_frecuentes": [
+    {
+      "name": "Jerónimo Pelegrín de Aragüés",
+      "count": 25
+    },
+    {
+      "name": "Macià Monsarró",
+      "count": 20
+    },
+    {
+      "name": "Rafael Mayans",
+      "count": 13
+    },
+    {
+      "name": "Pedro Jiménez de Murillo",
+      "count": 6
+    },
+    {
+      "name": "Fructuoso Piqué",
+      "count": 6
+    }
+  ],
+  "destinatarios_frecuentes": [
+    {
+      "name": "Pedro Santacilia y Pax",
+      "count": 193
+    },
+    {
+      "name": "Arnau Santacilia y Pax",
+      "count": 1
+    }
+  ],
+  "lugares_frecuentes": [
+    {
+      "name": "Madrid",
+      "count": 54
+    },
+    {
+      "name": "Zaragoza",
+      "count": 41
+    },
+    {
+      "name": "Mallorca",
+      "count": 20
+    },
+    {
+      "name": "Barcelona",
+      "count": 20
+    },
+    {
+      "name": "Girona",
+      "count": 8
+    }
+  ],
+  "temas_frecuentes": [],
+  "warnings_count": 108,
+  "densidad_narrativa_estimada": "Media"
+}

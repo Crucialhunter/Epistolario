@@ -1,0 +1,66 @@
+{
+  "legajo_id": "1",
+  "num_cartas": 101,
+  "num_imagenes": 248,
+  "rango_temporal": [
+    1667,
+    1668
+  ],
+  "remitentes_frecuentes": [
+    {
+      "name": "Diego Matías de Aragüés",
+      "count": 27
+    },
+    {
+      "name": "Miguel Malo",
+      "count": 10
+    },
+    {
+      "name": "José Balell",
+      "count": 8
+    },
+    {
+      "name": "Pablo Corbella",
+      "count": 5
+    },
+    {
+      "name": "Andrés García de Castro",
+      "count": 5
+    }
+  ],
+  "destinatarios_frecuentes": [
+    {
+      "name": "Jerónimo Pelegrín de Aragüés",
+      "count": 99
+    },
+    {
+      "name": "Diego Matías de Aragüés",
+      "count": 1
+    }
+  ],
+  "lugares_frecuentes": [
+    {
+      "name": "Madrid",
+      "count": 54
+    },
+    {
+      "name": "Càller (Cagliari)",
+      "count": 9
+    },
+    {
+      "name": "Valencia",
+      "count": 8
+    },
+    {
+      "name": "Ibiza",
+      "count": 7
+    },
+    {
+      "name": "Barcelona",
+      "count": 7
+    }
+  ],
+  "temas_frecuentes": [],
+  "warnings_count": 1,
+  "densidad_narrativa_estimada": "Alta"
+}

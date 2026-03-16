@@ -1,0 +1,43 @@
+{
+  "legajo_id": "17",
+  "id_carta": "2764",
+  "order_in_legajo": 29,
+  "signatura": "041:1306a.JPG",
+  "nombre_carta": "Carta de Juan García del Pozo a Pedro Santacilia y Pax",
+  "fecha_original": "31 de marzo de 1658",
+  "lugar": "Madrid",
+  "remitente": "Juan García del Pozo",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Diego Matias de Aragues me dio su carta de v. s. de 4 de este que es duplicado de esta que había recibido, a la cual tengo respondida v. sa., y de nuevo torno a decir que entregaré al otro Diego Matias de Aragues los cinco mil y seiscientos y sesenta y siete reales pta. que dice v. sa. alcanza a la hacienda del sr. secretario Fructuoso Pique, mi [?] que goce de Dios, inclusos en ellos 10635 reales pta. que v. sa. Pago a Marcos Valls como me lo tiene avisado por su carta. Y tengo dicho al dicho Diego Matias que le entregaré este dinero cuando quisiere y en esta conformidad creo lo escribe a v. sa. Estimo como es razón el favor y merced que v. s. me hace y a Dña. Teresa Pique, mi nieta para hacer se le paguen los 500 ducados de la ayuda de costa que su majestad la hizo merced en ese real patrimonio y asimismo lo que fuere corrido de los 200 ducados de renta a que siempre estaré agradecido. Deseando muchas ocasiones del servicio de v. sa. porque a la verdad me hallo muy apretado para acabar de pagar las deudas que causo. El secretario y los más de sus deudores se han alzado con esta hacienda, los unos negando [1§] la deuda y los otros no queriendo pagar, como es notorio y lo sabe el dicho Diego Matias y yo lo tengo escrito a v. sa. cuya persona guarde Dios como deseo. En Madrid a 31 de marzo de 1658. Muy servidor de v. s. que sus manos besa, . Joan Garcia del Pozo [2§] Transcripción literal"
+  ],
+  "literal": [
+    "1. Oy Mathias de Aragues me dio su carta 2. de Vsa. de 2 deste que es duppdo desta que 3. Havia Recivido, a la qual tengo resppda 4. Vsa, y de nuevo torno a deçir que entregare 5. al otro Do Mathias de aragues los çinco= 6. =mil y seysctos y sesenta y siete Rs que 7. diçe Vsa. alcança a la harda del Sr. srio 8. Fructuoso Pique que me hizo que goçe de 9. Dios ynclusos en ellos 10635 Rs Pta que 10. Vsa. Pago a Marcos Valls como me lo tiene 11. avisado por su carta= Y tengo dicho á 12. el otro Do Mathias que le entregare este 13. dinero quando quisiere y en esta conformd 14. creo lo escrive a VSa. -15. Estimo como es Raçon el favor y md que 16. VSa. me hace y a Da. theresa Pique mi17. nieta para hacer se le paguen los 500 daos 18. de la ayuda de costa que su M[a]gd la hizo 19. md enese Rl Patrimo y asimismo lo que 20. fuere corrdo de los 200 ducados. de Renta 21. aque siempre estare agradecido. desean22. do muchas ocasiones del serviçio de Vsa. 23. porque a la verdad me allo muy apret[a]do 24. para acavar de pagar las deudas que 25. causo el Sr. srio y los mas de sus deudores 26. sean alzado con esta harda los unos negdo [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "041:1306a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo17/041:1306a.JPG",
+      "url": "/legajos/legajo-17/images/041:1306a.JPG"
+    },
+    {
+      "filename": "042:1306b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo17/042:1306b.JPG",
+      "url": "/legajos/legajo-17/images/042:1306b.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "041:1306a.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-17/cartas/002764.json",
+  "primary_image_url": "/legajos/legajo-17/images/041:1306a.JPG"
+}

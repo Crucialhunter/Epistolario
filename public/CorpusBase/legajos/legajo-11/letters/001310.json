@@ -1,0 +1,38 @@
+{
+  "legajo_id": "11",
+  "id_carta": "1310",
+  "order_in_legajo": 79,
+  "signatura": "138:5170.JPG",
+  "nombre_carta": "Carta de Bartolomé Mercadal a Pedro Santacilia y Pax",
+  "fecha_original": "22 de julio de 1643",
+  "lugar": "Palma",
+  "remitente": "Bartolomé Mercadal",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Per haver-se casat en esta ciutat don Joan Quart el qual {ESP. comparte} el {ESP. puesto} d'alferes de cavalls; i a més de fer obligació en ella és cert per assistir en de l'ofici; i així per ser v. s. tan senyor meu, i estar jo tan cert de la seva voluntat, m'ha paregut suplicar em faci mercè de la dita bandera de la companyia de cavalls si ja doncs no haurà donades paraula en altres persones i tingué suficiència de la mia que ara no tingui supliment serà cosa molt fàcil d'{ESP. alcançar} en favor de v. s. tot el que rebré com de ma tant lliberal etts. 3 dies ha que entrà una faluca de València i m'ha dit mossèn Antoni Pons que conta de nou, que en Madrid s'ha declarat sobre de la plaça que vaca en l'audiència que els menorquins no són naturals d'esta ciutat. I així el doctor Martorell no per a pretenir en esta de natural que vaca [1§] Cerca de l'{ESP. enfermeta} t de mon oncle diu el doctor, que per molt que deslliguem que la cure vagi bé, que no pot anar millor; i amb tot això no és possible poder acusar la molta melàngia i tristor que té. Déu ho encamini i em deixi tornar aquí per poder servir a v. s., el qual Déu me guardi de Ciutat i juliol als 22 de 1643. Bartolome Mercadal [1§] Transcripción literal"
+  ],
+  "literal": [
+    "1. Per averse casat en esta ciutad don Joan Quart lo qual comparte 2. lo puesto de alferes de cavalls; y a mes de fer obligatio en ella 3. es sert pora assistir en del ofici; y axi per ser VS tan 4. señor meu, y estar jo tan sert de la seva voluntad, me ha 5. peragut suplicar em fase mersed de la dite bender 6. a de la Compañia de Cavalls si ja dons no heura donades 7. paraula en altres persona y tingue suficientie dela mi 8. que ahe no tinge supliment sera cosa molt facil de el 9. cançar en favor de VS tot lo qual rebre com de ma 10. tant lliberal 11. 3 dias ha que entra una falucha de Valentie y me ha 12. del mosen Antoni Pons que conte de nou, que en Madrit 13. se ha declarat sobre de la plaça que vacha en la audientia 14. que los menorquins no son neturals de esta ciutad; y 15. axi lo doctor Martorell no pora pretenir en esta de natu 16. que vacha 17. Sercha de la enfermetad de mon onclo diu lo doctor, que per 18. molt que desylgem que lla cure vaje be, que no pot anar 19. millos; y ab tot axo no es possible poder acusar la molte 20. mesendie y tristor que se Due ho encamin y em dex 21. tornar aqui per poder servir a VS lo qual Deu me gde de 22. Ciutad y juliol als 22 de 1643. Bartte Mercadal [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "138:5170.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo11/138:5170.JPG",
+      "url": "/legajos/legajo-11/images/138:5170.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "138:5170.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-11/cartas/001310.json",
+  "primary_image_url": "/legajos/legajo-11/images/138:5170.JPG"
+}

@@ -1,0 +1,38 @@
+{
+  "legajo_id": "25",
+  "id_carta": "4089",
+  "order_in_legajo": 23,
+  "signatura": "046_123.JPG",
+  "nombre_carta": "Carta de Antoni Font a Jerónimo Pelegrín de Aragüés",
+  "fecha_original": "14 de marzo de 1667",
+  "lugar": "Mallorca",
+  "remitente": "Antoni Font",
+  "destinatario": "Jerónimo Pelegrín de Aragüés",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Sr. mio Besades a v. m. les mans suplico a Déu Nre. Sr. tropia esta a v. m. amb salut. Sr. mio estos dies passats em manà Joan Solivelles, hereu d'Antoni, que en son nom suplicàs a Jeroni Campaner fos servit aguardar-lo del que li demana per consignació té de mi el Sr. D. Pedro i m'ha feta resposta que no pot donar els 15 dies de temps, perquè el dit Solivelles buscàs en dits 15 dies si té alguns albarans de solució i quan no buscàs son remei, i diu que per ser consignatari no pot donar dit temps i que v. m. com a principal per dit és el qui pot donar dit temps, i per quan no ha manat persona de tota obligació suplica a v. m. donar a dit Solivelles els dits 15 dies perquè pugui dispondre per anar aquí, i tractar amb v. m. o son consignatari a dit nom i estimaré que aquest feligrès conegui que mon {ESP. medi} és estat aficar per estos dies tan bres i [?] en esta se rectoria a 14 març 1667. Servidor i capella de v. m. El Sr. Antoni Font, pre. i rec. Sr. Jeroni Pelegri {ESP. Señor mío Mi Sr. i mi amigo, dueño i señor mío, galan caballero es el que es caballero etts.} A Jeroni Pelegri, que Déu guardi. etts. Ciutat Transcripción literal"
+  ],
+  "literal": [
+    "1. Sr. mio2. Besada a Vm. las mans suplico a Deu N. Sr. tropia esta3. a Vm. ab salud. Sr mio estos dias passats em mana4. Joan Solivellas hereu de Antoni que en son nom5. supplicas á Geroni Campaner fos servit aguardarlo6. de lo que li demana per consignatio te de mi Sr. el 7. Sr. D. Pedro y me ha feta resposta que no pot do8. nar los 15 deis de tems perque lo dit Solivellas bus9. cas en dits 15 dias si te alguns albarans de solutio10. y quant no buscas son remey, y diu que per ser11. consignatari no pot donar dit tems y que V.m. com á prin12. cipal per dit Sr. es el qui pot donar dit tems, y per13. quant no ha manat persona de tota obligatio suplica14. á V.m. donar a dit Solivellas los dits 15 dias peraque15. pugue dispndre per anar aqui, y tractar ab V.m.16. o son consignatari a dit nom y estimare que aquest17. filagres conega que mo medi es estat aficas per estos dias18. tan bres y [?] en esta se Rectoria a 14 mars 166719. Servidor y capella de Vm.20. Dor. Antoni Font pre. y rec. 21. Sr. Geroni Palegri22. Señor mio23. Mi Sr. y mi amigo24. Dueno y señor mio25. Galan cavallero es el que es cava26. llero etta27. A Geroni Palegri que Deu28. gde. ett29. Ciutat [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "046_123.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo25/046_123.JPG",
+      "url": "/legajos/legajo-25/images/046_123.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "046_123.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (4)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-25/cartas/004089.json",
+  "primary_image_url": "/legajos/legajo-25/images/046_123.JPG"
+}

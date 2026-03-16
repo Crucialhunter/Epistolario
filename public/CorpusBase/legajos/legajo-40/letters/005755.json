@@ -1,0 +1,32 @@
+{
+  "legajo_id": "40",
+  "id_carta": "5755",
+  "order_in_legajo": 67,
+  "signatura": "313:107.JPG",
+  "nombre_carta": "Carta de Persona desconocida a Pedro Santacilia y Pax",
+  "fecha_original": "fecha sin especificar",
+  "lugar": "Mallorca",
+  "remitente": "Persona desconocida",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Compte de l'ordi ha venut i donat per compte de mi Sr. don Pedro, el senyor Bartomeu Borras, el qual ordi vingué de Sardenya per compte de mi Sr. [1§] Transcripción literal"
+  ],
+  "literal": [
+    "1. Compta del ordi a havenut y donat per compta de mi Sr Don Pedro el sen Berthomeu Borras lo qual ordi vingue de Serdeña per compta de mi Sr."
+  ],
+  "imagenes": [
+    {
+      "filename": "313:107.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo40/313:107.JPG",
+      "url": "/legajos/legajo-40/images/313:107.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "313:107.JPG",
+  "warnings": [],
+  "raw_source": "raw/legajos/legajo-40/cartas/005755.json",
+  "primary_image_url": "/legajos/legajo-40/images/313:107.JPG"
+}

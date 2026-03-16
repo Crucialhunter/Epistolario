@@ -1,0 +1,35 @@
+{
+  "id_carta": "1204",
+  "url_origen": "http://santacilia.info/info_carta2.php?id=1204",
+  "legajo": 10,
+  "signatura": "129-371a",
+  "nombre_carta": "Carta de Pere Joan Font a Jerónimo Pelegrín de Aragüés",
+  "fecha": "24 de septiembre de 1668",
+  "lugar": "Muro",
+  "remitente": "Pere Joan Font",
+  "destinatario": "Jerónimo Pelegrín de Aragüés",
+  "temas": "Sin especificar",
+  "idioma": "catalán",
+  "resumen": "Lorem ipsum ad his scripta blandit partiendo, eum fastidii accumsan euripidis in, eum liber hendrerit an. Qui ut wisi vocibus suscipiantur, quo dicit ridens inciderint id. Quo mundi lobortis reformidans eu, legimus senserit definiebas an eos. Eu sit tincidunt incorrupte definitionem, vis mutat affert percipit cu, eirmod consectetuer signiferumque eu per. In usu latine equidem dolores.",
+  "transcripcion": {
+    "modernizada": "Senyor Jeroni Pelegri, Estos dies passats al meu amidador[?] de la volada jo li doní ordre que escurassin un tros de la síquia reial, que entre la volada i l'alqueria que fa un gran dany a la volada i l'alqueria i així que al senyor Esteve Ribas ens som cansats de dir-li que lligàssim uns quants mens, la meitat cada un i no hi som poguts arribar que ho escurrassin i així que m'ha paregut avisar a v. m. que si li pareix escriurà-li que ho escuram, que si no v. m. doni-me llicència d'escurar-ho i jo ho faré escurar i posaré tot el que en trauré a la mia part perquè és just que cadascú excús el dany que fa al torrent, per no ser escurat i així que si té gust que jo a soles ho faci escurar v. m. doni llicència manarà tornar-me resposta. Nostre Senyor el guard d'esta sa casa. Muro i setembre als 24 de 1668. Al senyor don Nicolau que li besa les mans, Pere Joan Font [1§] [parte de atrás]Al senyor Jeroni Pelegri, en casa del senyor don Pedro Santacilia, al mercat, guardi Déu.",
+    "literal": "1. Señor Jaroni Palagri: 2. Estos dias pasat lo meu a mes de dor 3. de la bola de jo li doni orti de que 4. curasen un tros de la sequia real que 5. entra la bola de ya la lcaria que fa un 6. gran dany a la bola de y alalcaria y 7. axi ques sen esteve ribas nos som 8. cansats desdici que lligasen uns 9. quants mens la mitat cade u y noy 10. som poguts arribar quen es ansavem 11. y axi que mea aparegut avisar a V.M. 12. que silia par es crirla li degueu es un 13. ram fino V.M. don ma lisensia des 14. curaro y jou fare escurar y posare 15. tot lo quen traure a la mia part 16. parque es just que cadeu escus lo dany 17. fa al torrent par noser escurat y aixi 18. que site gust que jo asoles afase escuras 19. som done lisensia manara tornar- 20. me rasposte nostro Señor lon guar 21. de desta sa case Muro y sbra als 24 22. de 1668 al Señor don Nicolau que li bese les mans 23. Pere Joan Font [☞]"
+  },
+  "imagenes": [
+    {
+      "src": "/data/demo/legajos/10/images/1204__01__129-371a.jpg",
+      "order": 1,
+      "originalFilename": "129-371a.jpg"
+    },
+    {
+      "src": "/data/demo/legajos/10/images/1204__02__129-371b.jpg",
+      "order": 2,
+      "originalFilename": "129-371b.jpg"
+    }
+  ],
+  "capturado_en": "2026-02-25T17:26:28.390Z",
+  "hasImages": true,
+  "primaryImage": "/data/demo/legajos/10/images/1204__01__129-371a.jpg",
+  "previousCartaId": "1203",
+  "nextCartaId": "1205"
+}

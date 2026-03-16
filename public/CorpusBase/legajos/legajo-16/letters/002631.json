@@ -1,0 +1,38 @@
+{
+  "legajo_id": "16",
+  "id_carta": "2631",
+  "order_in_legajo": 119,
+  "signatura": "191:2131.JPG",
+  "nombre_carta": "Carta de Nicolás de Santacilia y Togores a Pedro Santacilia y Pax",
+  "fecha_original": "31 de agosto de 1667",
+  "lugar": "Madrid",
+  "remitente": "Nicolás de Santacilia y Togores",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "La de v. m. recibí con mucho gusto, de 4 del corriente holgándome gosare entera salud En lo que toca a la pretensión, luego que dega a manos del Consejo de Aragón, lodi por perdido y así fue, que yo iba consultado muy bien, y se mevio todo el agasajo que se podía hacer, pero sin embargo volveré a replicar, aunque no sea para esa ciudad, porque me han serado todas las puertas y así me pares habré de seguir los pasos de v. m. v. s. en Milán U. En Cataluña yo estoy ocupado y no puedo sermas largo. Guarde Dios a v. m. muchos años como deseo y es menester Madrid a 31 Agosto 1667 Sr. don Nicolas de Santacilia mi señor y mi padre [1§] Transcripción literal"
+  ],
+  "literal": [
+    "1. La de VM resibi Con mucho gusto, de 2. 4 del Coriente olgandome gosare entera 3. salud 4. En lo que toca ala pretension, luego que 5. dega a manos del Consejo de Aragon, lodi 6. por perdido y asi fue, queyo iva Consul=7. tado muy bien, y se mevio todo el agasa-8. jo que se podia haser, pero sin embargo 9. bolvere a replicar, aunque no sea para esa 10. Siudad, porque mean serado todas las 11. puertas y asi me pares habre de seguir 12. los pasos de VM V.en Milan U. En Cata-13. luna yo estoy ocupado y no puedo sermas 14. largo Guarde Dios a VM muchos años 15. Como deseo y emenester Madrid a 31 16. Agosto 1667 17. Don Nicolas de Sta Cilia 18. [Margen izquierdo][^ mi Sr y mi Padre] [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "191:2131.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo16/191:2131.JPG",
+      "url": "/legajos/legajo-16/images/191:2131.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "191:2131.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-16/cartas/002631.json",
+  "primary_image_url": "/legajos/legajo-16/images/191:2131.JPG"
+}

@@ -1,0 +1,38 @@
+{
+  "legajo_id": "35",
+  "id_carta": "5307",
+  "order_in_legajo": 124,
+  "signatura": "124:8154.JPG",
+  "nombre_carta": "Carta de Gabriel Seguí a Pedro Santacilia y Pax",
+  "fecha_original": "2 de febrero de 1645",
+  "lugar": "Maó",
+  "remitente": "Gabriel Seguí",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Ahir dimecres a la tarda m'escrigué el príncipe de Palacònia [?], queixant-se que volent al matí eixir d'aquest port, descubriran una nau fora a la punta estant ell ja a la vela. I fora d'aquest port i per des cuit del talaier corregué gros perill, com llargament pens que dit senyor dóna de tot avís a v. s. Encarrega’m molt prengués ha dit talaier. Respongui-li que ho faria, no obstant, que ahir era dimecres i el dit talaier se trobava a esta vila per oir misa, no sé si té obligatió de deixar home a la talaia per pagar-li quatre diades dobles, no l’he pres fins esta hora per causa que la talaia ha de quedar sense guàrdia. Aguardaré ocasió que dit talaier vinga ací i el tindré pres fins que v. s. : m'han ordenar-me altra cosa, que per no esquivar-lo no sóc anat a la talaia a pendre’l. Gda. Déu a v. s. : com pot. de Maó i feber a 2 de 1645. Gabriel Seguí Senyor guardi or. Transcripción literal"
+  ],
+  "literal": [
+    "1. Air dimecras a la tarda me scrigue el Principe de2. Palaconia quexantsa q volent al mati yxir de3. est port descubriran una nau fora a la punta4. estant ell ja a la vela. Y fora de es port y per des5. cuit del talayer corregue gros parill, com6. llargament pens q dit señor dona de tot avis7. a VSª. encarregam molt prengues a dit Talalyer8. responguili queu faria no obstant que air hera9. dimecras y lo dit Talayer se trobava a esta vila10. p oyr missa, no se si te obligatio de dexar home11. Alatalaya p pagarli quatra diadas doblas12. no le pres fins esta hora p causa q la Atalaya13. a de quedar sens guardi, aguardare ocasio que14. dit talayer vinga asi y lo tindre pres fins que15. VSª: man ordenarma altra cosa= que p no16. esquivarlo no so anat a la talaya, a pendrel17. gde. Deu a VSª: com pot de maho y fab a 2 de18. 164519. Gabriel Sagui20. Señor gdor. [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "124:8154.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo35/124:8154.JPG",
+      "url": "/legajos/legajo-35/images/124:8154.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "124:8154.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-35/cartas/005307.json",
+  "primary_image_url": "/legajos/legajo-35/images/124:8154.JPG"
+}

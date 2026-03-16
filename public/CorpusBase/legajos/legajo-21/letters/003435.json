@@ -1,0 +1,43 @@
+{
+  "legajo_id": "21",
+  "id_carta": "3435",
+  "order_in_legajo": 123,
+  "signatura": "213:5723a.JPG",
+  "nombre_carta": "Carta de Pedro Fajardo de Requeséns-Zúñiga y Pimentel (V marqués de los Vélez) a Pedro Santacilia y Pax",
+  "fecha_original": "23 de febrero de 1639",
+  "lugar": "Pamplona",
+  "remitente": "Pedro Fajardo de Requeséns-Zúñiga y Pimentel (V marqués de los Vélez)",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Por su carta de v. m. de 5 de este veo la orden, que ha tenido de su majestad por el consejo, que asiste en Cantabria para que este a las mías, y creo muy bien del celo y cuidado con que v. m. acude a su real servicio no se necesitaba de dársela, y estimo como debo, el gusto que v. m. me significa tiene de que esto haya de correr por mi mano. Guarde Dios a v. m. muchos años de Pamplona y febrero 23 de 1639. Inin [?] dehe v. m. creer que me huelgo de haberle [?] mes [?] su ejército el visdo testar a mi cargo y que siempre adecuo curar sus atentos y servirle El marques de los Velez Sr. D. Pedro Santacilia y Pax [1§] Palma 23 Febrero 1639 El marques de los Velez rdo. [2§] Transcripción literal"
+  ],
+  "literal": [
+    "1. Por su carta de Vm. de 5 deeste veo laorden, q atenido 2. de su Magd porelConso, que asiste en, cantabria pa 3. que este a las mias, y creo muy bien deel zelo y 4. cuidado conq Vm. acude hasu Rl servío no se ne5. çesitaba de darsela, y estimo como debo, el gusto que 6. Vm. me significa tiene deque esto aya decorrer 7. por mi mano, ge dios a Vm. muchos años de 8. Pampna y febrero 23 de 1639 9. Inin[?] dehe Vm crer que me uelgo delurle[?] 10. mes [?] sujercito elvisdo testar amicargo 11. y que siempre adequo curar sus atten12. tos y Servirle 13. El Marqs delos Veles 14. [Margen izquierdo][^Sr D Pedr>o Santaçília y Pax] [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "213:5723a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo21/213:5723a.JPG",
+      "url": "/legajos/legajo-21/images/213:5723a.JPG"
+    },
+    {
+      "filename": "214:5723b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo21/214:5723b.JPG",
+      "url": "/legajos/legajo-21/images/214:5723b.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "213:5723a.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (5)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-21/cartas/003435.json",
+  "primary_image_url": "/legajos/legajo-21/images/213:5723a.JPG"
+}

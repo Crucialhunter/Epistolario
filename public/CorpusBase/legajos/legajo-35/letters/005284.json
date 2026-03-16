@@ -1,0 +1,38 @@
+{
+  "legajo_id": "35",
+  "id_carta": "5284",
+  "order_in_legajo": 96,
+  "signatura": "098:8130.JPG",
+  "nombre_carta": "Carta de Gabriel Seguí a Leonor Santacilia i Despuig",
+  "fecha_original": "20 de julio de 1644",
+  "lugar": "Maó",
+  "remitente": "Gabriel Seguí",
+  "destinatario": "Leonor Santacilia i Despuig",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Onofre Prats soldat de la companyia d'aqueixa vila aporta a v. s. un meló que li tinc encomanat, de què v. s. se servirà prendrà la bona voluntat, que per ser el primer que s'ha collit a esta vila no li he pogut donar companyó. Gda. Déu a v. s. com pot en vida de mi senyor D. Pedro com aquest criat de v. s. desitja. de Maó a 20 de juliol 1644 Gabriel Seguí Senyora governadora Transcripción literal"
+  ],
+  "literal": [
+    "1. Honofre Prats soldat de la conpania de2. aquexa vila aporta a VSª un malo que3. li tinch encomenat de q VSª se sarvira4. pendra la bona voluntat que pesser al5. primer que se ha cullit a esta vila no li e6. pugut donar conpaño Gde. Deu a VSª7. com pot ab vida de mi Senor D. Pedro8. com est criat de VSª destija de9. Maho a 20 de Juliol 164410. Gabriel Saguí11. Señora Gdora [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "098:8130.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo35/098:8130.JPG",
+      "url": "/legajos/legajo-35/images/098:8130.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "098:8130.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-35/cartas/005284.json",
+  "primary_image_url": "/legajos/legajo-35/images/098:8130.JPG"
+}

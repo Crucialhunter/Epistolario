@@ -1,0 +1,43 @@
+{
+  "legajo_id": "21",
+  "id_carta": "3433",
+  "order_in_legajo": 121,
+  "signatura": "209:5721a.JPG",
+  "nombre_carta": "Carta de Jerónimo Ribó a Pedro Santacilia y Pax",
+  "fecha_original": "14 de febrero de 1639",
+  "lugar": "Tolosa",
+  "remitente": "Jerónimo Ribó",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "He recibido su carta de v. m. de 5 del corriente, a que respondo que todas las que v. m. me ha escrito he remitido al consejo, representando lo que v. m. me ha significado por ellas, y nunca me han respondido, y así esta última, envio al marques de los Velez para que me avise lo que se ha de hacer en esta parte, a quien podrá v. m. acudir, o en defecto al consejo, porque acá a v. m. para la gente que está en esta provincia no remiten sino bastante, pues desde primero de enero de este año están sin socorro y con tanta necesidad. Guarde Dios a v. m. como desea, Tolosa 14 de hebro 1639. Conde Jeronimo Ribo Sr. D. Pedro de Santacilia [1§] Tolosa 14 Febrero 1639 El conde Ribó rdo. Transcripción literal"
+  ],
+  "literal": [
+    "1. He Rdo su carta de Vm. de .5. delcorrite, aque respondo, q todas las 2. q Vm mehaéscrito He remitido alconsso Representando loque Vm 3. meha significado por ellas, ynunca mean respondido, Yassí 4. esta Ultima, Ymvio Al sr Marqs delos Velez Paraque me avisse 5. loque sehadehazer en esta parte, aquien podra Vm acudir, o En 6. defecto alconssejo, Porque aca, aVm. Paralagente que esta enesta 7. provia no remiten dino bastante, Pues desde primo de heno desteaño estan 8. sin socorro ycon atanezessd Ge Dios a Vm como dessea Tolossa 9. 14 de hebro 1639 10. Conde[?] Rhe[?] 11. [Margen izquierdo][^ Sr D Po de Sta Zeçilia] [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "209:5721a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo21/209:5721a.JPG",
+      "url": "/legajos/legajo-21/images/209:5721a.JPG"
+    },
+    {
+      "filename": "210:5721b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo21/210:5721b.JPG",
+      "url": "/legajos/legajo-21/images/210:5721b.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "209:5721a.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (2)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-21/cartas/003433.json",
+  "primary_image_url": "/legajos/legajo-21/images/209:5721a.JPG"
+}

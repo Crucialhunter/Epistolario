@@ -1,0 +1,38 @@
+{
+  "legajo_id": "35",
+  "id_carta": "5270",
+  "order_in_legajo": 81,
+  "signatura": "081:8116.JPG",
+  "nombre_carta": "Carta de Tomàs Abadia a Pedro Santacilia y Pax",
+  "fecha_original": "2 de febrero de 1644",
+  "lugar": "Maó",
+  "remitente": "Tomàs Abadia",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "El patró Colom és arribat a aquest punt que seran les quatre de la tarda, i no conta cosa nova. Ha portat la plica i cartes que van amb esta per v. s. que m'ha paregut enviar per la posta. Estic advertit que en cas que estes galeres hagin de menester algunes(sic) bastiments no se’ls alteren els preus. v. s. en el {ESP. demés} que de son servei me mana i guardi a. Nre. Sr. com desig. Maó i febrer 2 de 1644 Tomàs Abadia Sr. governador Transcripción literal"
+  ],
+  "literal": [
+    "1. Lo patro Colom es arribat a est punt q seran las2. quatre de la tarda u no conte cosa nova, ha apor3. tat la plica y cartas q van ab esta per VSª4. q me ha aparagut imbiar per la posta5. estich advertit de q en cars q estas galeras haja6. de menester algunas bastimts no sels alteren7. los preus VSª en lo demes q de son servey8. me mane y gde. Nro. Sr. com desitg Maho9. y feb 2 de 164410. Thomas Abadia11. Sr. Governador [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "081:8116.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo35/081:8116.JPG",
+      "url": "/legajos/legajo-35/images/081:8116.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "081:8116.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-35/cartas/005270.json",
+  "primary_image_url": "/legajos/legajo-35/images/081:8116.JPG"
+}

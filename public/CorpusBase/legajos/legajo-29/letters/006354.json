@@ -1,0 +1,38 @@
+{
+  "legajo_id": "29",
+  "id_carta": "6354",
+  "order_in_legajo": 45,
+  "signatura": "085:4171.JPG",
+  "nombre_carta": "Carta de Tomás Ruiz de Salas a Pedro Santacilia y Pax",
+  "fecha_original": "16 de marzo de 1641",
+  "lugar": "Lugar sin especificar",
+  "remitente": "Tomás Ruiz de Salas",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "El patrón Pedro Bentillana [?], llamado que fue traído por [?] con otro que se huyó de [?] cuyo conde llegó con los gastos de ambos a 175 llibras [?] V. m. se sirva de mandarle dar certificación de como se ha entregado ya [?] se no se en [?]. Guarde Dios a v. m. como deseo, de [?] a 16 de marzo de 1641. Servidor de v. m. Tomas Ruiz de Salas Lleva unos cuartos y dará a v. m. se sirva de ellos con la voluntad. Sr. D. Pedro Santacilia Transcripción literal"
+  ],
+  "literal": [
+    "1. El Patron Peº Benti llana [?] 2. llamado q fue traydo por 3. [?] con otro que se huyo de [?] 4. cuio conde llego con los gastos de ambos 5. a 175 lli. Vm se sirva de mandarle 6. dar certificasion de como se a entregado 7. ya [?] se no se en sua gde Dios 8. a Vm como desseo de Vms 9. a 16 de Marco de 1641 10. Servo de Vm 11. Thomas Ruiz de Salas 12. Lleva unos quartos y dara a Vm 13. se sirva de ellos con la voluntad14. Sr. D. Peº de Staçilia [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "085:4171.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo29/085:4171.JPG",
+      "url": "/legajos/legajo-29/images/085:4171.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "085:4171.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-29/cartas/006354.json",
+  "primary_image_url": "/legajos/legajo-29/images/085:4171.JPG"
+}

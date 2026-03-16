@@ -1,0 +1,38 @@
+{
+  "legajo_id": "13",
+  "id_carta": "1871",
+  "order_in_legajo": 138,
+  "signatura": "218:2375.JPG",
+  "nombre_carta": "Carta de José de Castellví y Alagón a Pedro Santacilia y Pax",
+  "fecha_original": "13 de enero de 1669",
+  "lugar": "La Olleria",
+  "remitente": "José de Castellví y Alagón",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Sr. mío con la ocasión de irse don Bernabé de Figueroa a esa villa no he querido dejar de besar a v. m. la mano por esta y juntamente saber de su arribo de v. m. que haya sido con mucha felicidad, que será para mí de particular alborozo el tener esta noticia. Yo estoy siempre a su obediencia de v. m. para todo cuanto me quisiere mandar. Toda aquella gente que vimos la noche antes que v. m. se fuese le dan a v. m. muchos recados. Dios me guarde a v. m. muchos años como deseo, La Ollería y enero a 13 de 1669. Besa a v. m. la mano su amigo y mayor servidorDon Jose de Castellvi y Alagon Sr. don Nicolas de Santacilia Transcripción literal"
+  ],
+  "literal": [
+    "1. Sr mío con la ocasion de irse Don Bernabe de2. Figueroa aessa Villa no he querido dexar de besar3. a VM la mano por esta y Juntamente saber de su4. arribo de V.m. que aya sido con mucha feli5. cidad que sera para mí de particular alboro6. ço el tener esta noticia yo estoy siempre a su7. obediencia de VM para todo quanto me qui8. siere mandar= toda aquella gente que vimos9. la noche antes que V.m. se fuese le dan a V.m.10. ms recados Dios me gde a Vm ms a< ño>s como11. deseo La Ollería y enero a 13 de 166912. Bsa a VM l[a] M Su13. Amigo y mor Sor14. Don Joseph de Castel15. ví y Alagon16. Sr. Don Nicolas de Sta. Cilia [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "218:2375.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo13/218:2375.JPG",
+      "url": "/legajos/legajo-13/images/218:2375.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "218:2375.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (3)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-13/cartas/001871.json",
+  "primary_image_url": "/legajos/legajo-13/images/218:2375.JPG"
+}

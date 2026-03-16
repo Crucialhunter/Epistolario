@@ -1,0 +1,38 @@
+{
+  "legajo_id": "24",
+  "id_carta": "4008",
+  "order_in_legajo": 56,
+  "signatura": "082:4061.JPG",
+  "nombre_carta": "Carta de Beatriz Dameto i de Rocabertí a Pedro Santacilia y Pax",
+  "fecha_original": "25 de enero de 1641",
+  "lugar": "Mallorca",
+  "remitente": "Beatriz Dameto i de Rocabertí",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Per tenir tan bona ocasió de les galeres i d'aquestos cavallers no he volguda deixar perdre l'ocasió d'escriure a v. m. em faci mercè en aquestes ocasions de recordar-se de valer-nos, com estic confiada que v. m. valia ma mare i a mos germans, de què no patiran en aquestes ocasions, tenint el bon {ESP. medi} de v. m.; que asseguro a v. m. que estic amb la major aflicció que és pot imaginar, que [f]a molt de temps que no en sé noves, i suplic a v. m. me'n doni noves si al cas en sap. I el Senyor ens doni una pau general per tota la cristiandat com tots desitjam, i guardi a v. m. com pot [i] jo desitjo. De Mallorca, als 25 de gener de 1641. Dona Beatriz Dameto i de Rocaberti Transcripción literal"
+  ],
+  "literal": [
+    "1. per tenir tant bona ocasio de las galeras2. y de questos queueles no e volguda dexar3. perder la ocasio de ascriurer a vm4. am fasa merse ana questas ocasions5. de reçordarsa de voler nos com astic6. confiada de que vm vol(^a) a ma mara7. ya mos germans de que no patiran8. ana questos ocasio tenint al bon medi9. de vm que aseguro a vm que astic10. ab la magor aflicsio ques pot ymaginar11. de que a molt de tems que non se novas12. y suplic a vm man don novas si al cas13. nasap y al señor nos don una pau14. general per tota la crestiandat15. com tots desigam y guarde a vm16. compot yo desigo de mallorca17. als 25 de gener de 1641.18. dona beatris dameto19. y de rocabertí [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "082:4061.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo24/082:4061.JPG",
+      "url": "/legajos/legajo-24/images/082:4061.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "082:4061.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-24/cartas/004008.json",
+  "primary_image_url": "/legajos/legajo-24/images/082:4061.JPG"
+}

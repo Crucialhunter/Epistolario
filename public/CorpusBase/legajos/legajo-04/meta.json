@@ -1,0 +1,78 @@
+{
+  "legajo_id": "4",
+  "num_cartas": 51,
+  "num_imagenes": 105,
+  "rango_temporal": [
+    1604,
+    1675
+  ],
+  "remitentes_frecuentes": [
+    {
+      "name": "Leonard Burgues Zaforteza",
+      "count": 22
+    },
+    {
+      "name": "No consta",
+      "count": 9
+    },
+    {
+      "name": "Persona desconocida",
+      "count": 8
+    },
+    {
+      "name": "Martín de Landicar",
+      "count": 2
+    },
+    {
+      "name": "Antoni Sobirà",
+      "count": 1
+    }
+  ],
+  "destinatarios_frecuentes": [
+    {
+      "name": "Persona desconocida",
+      "count": 14
+    },
+    {
+      "name": "No consta",
+      "count": 6
+    },
+    {
+      "name": "Carlos Dominico Tremoli y Saromo",
+      "count": 4
+    },
+    {
+      "name": "Joseph Tassarello",
+      "count": 3
+    },
+    {
+      "name": "Pedro de Verí",
+      "count": 3
+    }
+  ],
+  "lugares_frecuentes": [
+    {
+      "name": "Mallorca",
+      "count": 22
+    },
+    {
+      "name": "lugar sin especificar",
+      "count": 12
+    },
+    {
+      "name": "Madrid",
+      "count": 7
+    },
+    {
+      "name": "Lugar sin especificar",
+      "count": 6
+    },
+    {
+      "name": "Perpiñán",
+      "count": 1
+    }
+  ],
+  "temas_frecuentes": [],
+  "warnings_count": 17,
+  "densidad_narrativa_estimada": "Media"
+}

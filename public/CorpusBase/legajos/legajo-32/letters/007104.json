@@ -1,0 +1,38 @@
+{
+  "legajo_id": "32",
+  "id_carta": "7104",
+  "order_in_legajo": 126,
+  "signatura": "134:1862.JPG",
+  "nombre_carta": "Carta de Isidro Marqués a Pedro Santacilia y Pax",
+  "fecha_original": "21 de abril de 1665",
+  "lugar": "Aranjuez",
+  "remitente": "Isidro Marqués",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Señor mío. Jeronimo me ha escrito que en todo este mes parte pª. ese país y yo con tan seguro mensajero no he querido dejar de hacer estos renglones para besar a v. s. sus manos, y decirle como testigo de vista que el Sr. D. Nicolas queda con salud en este sitio donde están sus Ma guarde s. con ella y ejerce el oficio de caballero que me parece bien pues puede llevar el trabajo de correr los caminos con los reyes. v. s. ya sabe cuan seguro y verdadero servidor le soy y así no hay sino mandarme agradeciendo la enhorabuena que me dio de la nina que nación y ahora digo que teniendo solo cinco meses esta prenada mi mayor en cuatro con que verá a v. s. que no nos descuidamos. Dios guarde a v. s. muy largos años como puede y deseo. Aranjuez a 21 de abril de 1665 Mi amo está bueno u nro amigo Havario también además de casado. mayor Serdor. de v. s. qSMB. Isidro Marques Sr. D. Pedro de Santacilia [1§] Transcripción literal"
+  ],
+  "literal": [
+    "1. Señor mio. Geronimo me a escrito que 2. en todo este mes parte pª. esse pais y 3. yo con tan seguro mensajero no e querido 4. dejarde hazer estos renglones para bessar 5. a VS. sus manos, y dezirle como testigo 6. de vista que el S. D Nicolas queda con 7. salud en este sitio donde estan sus Magdes. 8. con ella y exerce el officio de cavallero 9. que me parece bien pues puede llevar 10. el trabajo de correr los caminos con 11. los reyes. VS ya sabe quan seguro 12. y verdadero servidor le soy y assi no ay 13. sino mandarme agradeziendo la norabue14. na q. me dio de la nina q. nacio y aora 15. digo q. teniendo solo cinco messes esta 16. prenada mi mayor en quatro con q. 17. vera VS. que no nos descuydamos. 18. Dios gde. a VS. muy largos años como 19. puede y desseo. Aranjuez a 21 de Abril 20. de 1665 Mi amo esta bueno u nro 21. amigo Havario tambien ademas de 22. cassado. 23. Mayor Serdor. de VS. qSMB. 24. Ysidro Marques 25. Sr. D Pº de Santacilia [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "134:1862.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo32/134:1862.JPG",
+      "url": "/legajos/legajo-32/images/134:1862.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "134:1862.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-32/cartas/007104.json",
+  "primary_image_url": "/legajos/legajo-32/images/134:1862.JPG"
+}

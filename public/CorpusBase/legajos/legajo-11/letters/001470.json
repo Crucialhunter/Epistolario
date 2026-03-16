@@ -1,0 +1,38 @@
+{
+  "legajo_id": "11",
+  "id_carta": "1470",
+  "order_in_legajo": 231,
+  "signatura": "408:5325.JPG",
+  "nombre_carta": "Carta de Jerónimo Pelegrín de Aragüés a Pedro Santacilia y Pax",
+  "fecha_original": "16 de noviembre de 1651",
+  "lugar": "Palma",
+  "remitente": "Jerónimo Pelegrín de Aragüés",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Mi senyor a migdia ha enviat el virrei un gentil home, que per un negoci d'importància el convenia parlar amb v. m. i jo he fet de resposta que v. m. era amb tota sa casa en son Pax, i depres ha tornat a enviar si vendria a la nit i jo he dit que si això és el que ja que son avís a v. m. a aquí guada Déu Nostre Sr. molts anys com desig i tinc menester Ciutat 16 novembre 1651 Son criat de v. m. Jeroni Pelegri mi Sr. [1§] Transcripción literal"
+  ],
+  "literal": [
+    "1. Mi Señor a mig dia ha inviat 2. el sr. Virrey un gentil home, que per un 3. negoci de inportancia lo convenia 4. parlar ab VM y jo he fet de resposta 5. que VM era ab tota sa cassa en son 6. Pax, y depres ha tornat a inviar si 7. vendria a la nit y jo he dit que si 8. asso es lo que ja de que son havis 9. a VM a aqui gde Deu Nostro Sr. molts anys 10. com desig y tinch menester Ciutat 11. 16 nore 1651 12. Son criat de VM 13. Geronim Pelegrin 14. [^mi Sr.^] [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "408:5325.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo11/408:5325.JPG",
+      "url": "/legajos/legajo-11/images/408:5325.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "408:5325.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (4)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-11/cartas/001470.json",
+  "primary_image_url": "/legajos/legajo-11/images/408:5325.JPG"
+}

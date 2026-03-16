@@ -1,0 +1,38 @@
+{
+  "legajo_id": "6",
+  "id_carta": "545",
+  "order_in_legajo": 44,
+  "signatura": "026_15",
+  "nombre_carta": "Carta de Thomàs Zaforteza a Cecilia Zaforteza y Sureda de Sant Martí",
+  "fecha_original": "15 de noviembre de 1741",
+  "lugar": "Santa Eulalia",
+  "remitente": "Thomàs Zaforteza",
+  "destinatario": "Cecilia Zaforteza y Sureda de Sant Martí",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Cecília, Havem estimat molt les notícies que hem tingut amb la carta, que estigueu bons i us passegeu. Nosaltres també estam bons, gràcies al Senyor. Diu na Caterina que es passeja més que tu, perquè diu que no toca de peu en terra. Ahir foren a Son Espanyol i després a Canet, on varen veure còpia de xuetons i xuetones, i un qui anava amb un calis de dir missa i digué que l'anava a amagar. Avui és estada a Son Berga a on ha {ESP. lograt} veure l’hort i i ha trobat d. Felip i en Granada. Nosaltres tots anam demà a Son Boronat. Diràs a d. Francesc que li bes les mans com així mateix, tu, ell, els capellans les rebreu d'en Gabriel i demés. Déu te guardi molts anys. Santa Eulàlia i novembre 15 de 1741 Ta mare, dona Leonor de Berga Cecília, sabràs com tots estam bons i de part mia rebràs moltes memòries i les donaràs a l’oncle Francesc. Ton germà, Thomàs Zaforteza. Transcripción literal"
+  ],
+  "literal": [
+    "1. Çecilia: 2. Avam astimades molt las noticias q< ue> 3. avam tingudes a< m>b la carte, de que as- 4. tigueu bons y vos pesetjeu. nosaltres tam- 5. be astam bons gracias al S< enyo>r. Diu ne 6. Cath< arin>a que es pasetje mes que tu parq< u>e 7. diu no toca de peu enterra. Air fone á 8. Son Aspeñol, y despues á Canet aont 9. varen vaurer copia de Xuyetons y Xuye- 10. tones, y un qui anava a< m>b un calis. de dir 11. Misa y digue que lo anava á amagar. 12. Vuy es estade á Son Berga aont á 13. lograt veurer lo Ort, y ey á trobat 14. Dn. Felip, y en Granada. Nosaltres 15. tots anam damá á Son Boronat . Di- 16. rás á Dn. Fransesch que li bes les mas 17. Com axí metex tu, ell, los capellans las 18. rebreu den Gabriel y demes. Deu te G< uard>e 19. M< olt>s A< ny>s. S< an>ta. Eulalia y 9< novem>bre 15 de 1741 20. temara Da. Leonor de Berga 21. [En la parte izquierda del documento, de arriba a abajo]22. Cicilia Sebras com tots esta[m] bons, y de part mia rebras moltas 23. memorias, y las doneras á lo Onclo F< rances>ch. 24. Ton Germa, 25. Thomas Çaforteza [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "026_15.jpg",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo06/026_15.jpg",
+      "url": "/legajos/legajo-06/images/026_15.jpg"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "026_15.jpg",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (2)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-06/cartas/000545.json",
+  "primary_image_url": "/legajos/legajo-06/images/026_15.jpg"
+}

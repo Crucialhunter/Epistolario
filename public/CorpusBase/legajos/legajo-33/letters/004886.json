@@ -1,0 +1,38 @@
+{
+  "legajo_id": "33",
+  "id_carta": "4886",
+  "order_in_legajo": 80,
+  "signatura": "127:6802",
+  "nombre_carta": "Carta de Diego de Cáncer a Persona desconocida",
+  "fecha_original": "9 de diciembre de 1629",
+  "lugar": "Barcelona",
+  "remitente": "Diego de Cáncer",
+  "destinatario": "Persona desconocida",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "En este punto he sabido por cosa muy cierta que es tan por aquí los dos er manos mirs aviso a v. m. y vea de mi persona y bienes en que le puedo servir que be v. m. por la obra como acudiré a todos Dios a v. m. guarde de castelon y diciembre a nueve 1629 Sr. don Diego de Cancer [1§] Transcripción literal"
+  ],
+  "literal": [
+    "1. En este punto e sabido por cosa mui2. sierta ques tan por aqui los dos er3. manos mirs abiso a Vm y bea de4. mi persona y bienes en que le5. puedo servir que be Vm por la6. obra como acudire a todos Dios7. a Vm guarde de castelon y desienbre8. a nuebe 16299. Don diego de Carçer [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "127:6802.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo33/127:6802.JPG",
+      "url": "/legajos/legajo-33/images/127:6802.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "127:6802.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-33/cartas/004886.json",
+  "primary_image_url": "/legajos/legajo-33/images/127:6802.JPG"
+}

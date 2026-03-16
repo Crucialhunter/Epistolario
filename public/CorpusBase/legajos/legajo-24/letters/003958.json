@@ -1,0 +1,43 @@
+{
+  "legajo_id": "24",
+  "id_carta": "3958",
+  "order_in_legajo": 10,
+  "signatura": "016:4011a.JPG",
+  "nombre_carta": "Carta de Pedro Pax Olim Español a Pedro Santacilia y Pax",
+  "fecha_original": "14 de julio de 1631",
+  "lugar": "Barcelona",
+  "remitente": "Pedro Pax Olim Español",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Desitjant jo la salut de v. m. em sóc folgat quan he sabut per mossèn Cristofol, criat del Sr. don Diego de Pau, de què v. m. la tenia, la qual Nostre Senyor l'hi conservi molts anys i me doni vida perquè pugui acomplir a mes obligacions que són tantes que molt temps no bastaran a complir-les etts. [?] en mercè particular com acostuma a rebre de v. m. me faci mercè en enviar-me un santilo [?] de pedres amb dues medalles i el que serà m'ho treurà a pagar [?] sols sia amb brevedat. No més a 14 de juliol 1631. Don Pedro Pax Olim Espanyol, son nebot [1§] A don Pedro Santacilia i Pax, salut i vida. [?] En Barcelona Transcripción literal"
+  ],
+  "literal": [
+    "1. Dasitjant yo la salut de V m me so folgat2. quant esabut per mosan christofol criat dal3. Sr. Don diego da pau da que v. m. la tanie4. la qual nostro sañor lai conserva mols añs y5. me dona vida para que pugar adinplir a mas6. obligasions que son tantes que molt temps no7. bastaran a conplirles ett.8. [?] en marsa?? particular com acostuma 9. rabra da v m ma fasa marsa an anviarma10. un santilo[?] de pedras ab dos medalas y lo11. que sara treurà mo apagar ??????????12. sols sia an brevedat. no mes a 14 de juriol 13. 163114. Don Pedro pax olim15. spañol son nabot [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "016:4011a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo24/016:4011a.JPG",
+      "url": "/legajos/legajo-24/images/016:4011a.JPG"
+    },
+    {
+      "filename": "017:4011b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo24/017:4011b.JPG",
+      "url": "/legajos/legajo-24/images/017:4011b.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "016:4011a.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-24/cartas/003958.json",
+  "primary_image_url": "/legajos/legajo-24/images/016:4011a.JPG"
+}

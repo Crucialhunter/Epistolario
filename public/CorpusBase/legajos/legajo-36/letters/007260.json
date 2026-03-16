@@ -1,0 +1,47 @@
+{
+  "legajo_id": "36",
+  "id_carta": "7260",
+  "order_in_legajo": 40,
+  "signatura": "006:7735a.JPG",
+  "nombre_carta": "Carta de conde de Peralada a Pedro Santacilia y Pax",
+  "fecha_original": "27 de marzo de 1629",
+  "lugar": "Peralada",
+  "remitente": "conde de Peralada",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "[1§] [2§] [3§] [4§] Transcripción literal"
+  ],
+  "literal": [
+    "1. 1. 1. 1."
+  ],
+  "imagenes": [
+    {
+      "filename": "006:7735a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo36/006:7735a.JPG",
+      "url": "/legajos/legajo-36/images/006:7735a.JPG"
+    },
+    {
+      "filename": "007:7735b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo36/007:7735b.JPG",
+      "url": "/legajos/legajo-36/images/007:7735b.JPG"
+    },
+    {
+      "filename": "008:7735c.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo36/008:7735c.JPG",
+      "url": "/legajos/legajo-36/images/008:7735c.JPG"
+    },
+    {
+      "filename": "009:7735d.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo36/009:7735d.JPG",
+      "url": "/legajos/legajo-36/images/009:7735d.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "006:7735a.JPG",
+  "warnings": [],
+  "raw_source": "raw/legajos/legajo-36/cartas/007260.json",
+  "primary_image_url": "/legajos/legajo-36/images/006:7735a.JPG"
+}

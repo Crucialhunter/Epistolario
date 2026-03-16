@@ -1,0 +1,42 @@
+{
+  "legajo_id": "31",
+  "id_carta": "6903",
+  "order_in_legajo": 145,
+  "signatura": "204:1654a.JPG",
+  "nombre_carta": "Carta de Ramon Sureda a Pedro Santacilia y Pax",
+  "fecha_original": "5 de septiembre de 1662",
+  "lugar": "Madrid",
+  "remitente": "Ramon Sureda",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Transcripción literal"
+  ],
+  "literal": [
+    "1. 1. 1."
+  ],
+  "imagenes": [
+    {
+      "filename": "204:1654a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo31/204:1654a.JPG",
+      "url": "/legajos/legajo-31/images/204:1654a.JPG"
+    },
+    {
+      "filename": "205:1654b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo31/205:1654b.JPG",
+      "url": "/legajos/legajo-31/images/205:1654b.JPG"
+    },
+    {
+      "filename": "206:1654c.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo31/206:1654c.JPG",
+      "url": "/legajos/legajo-31/images/206:1654c.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "204:1654a.JPG",
+  "warnings": [],
+  "raw_source": "raw/legajos/legajo-31/cartas/006903.json",
+  "primary_image_url": "/legajos/legajo-31/images/204:1654a.JPG"
+}

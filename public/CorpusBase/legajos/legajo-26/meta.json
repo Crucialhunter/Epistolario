@@ -1,0 +1,78 @@
+{
+  "legajo_id": "26",
+  "num_cartas": 265,
+  "num_imagenes": 394,
+  "rango_temporal": [
+    1627,
+    1669
+  ],
+  "remitentes_frecuentes": [
+    {
+      "name": "Persona desconocida",
+      "count": 22
+    },
+    {
+      "name": "Rafael Vives García",
+      "count": 12
+    },
+    {
+      "name": "Pedro Fajardo de Requeséns-Zúñiga y Pimentel (V marqués de los Vélez)",
+      "count": 8
+    },
+    {
+      "name": "Macià Monsarró",
+      "count": 7
+    },
+    {
+      "name": "Antonio de Villacorta y Mercado",
+      "count": 5
+    }
+  ],
+  "destinatarios_frecuentes": [
+    {
+      "name": "Pedro Santacilia y Pax",
+      "count": 257
+    },
+    {
+      "name": "Persona desconocida",
+      "count": 5
+    },
+    {
+      "name": "Juan Miguel Santacilia",
+      "count": 1
+    },
+    {
+      "name": "Marquès de Vilafranca",
+      "count": 1
+    },
+    {
+      "name": "No consta - Probablemente Pedro Santacilia y Pax",
+      "count": 1
+    }
+  ],
+  "lugares_frecuentes": [
+    {
+      "name": "Madrid",
+      "count": 69
+    },
+    {
+      "name": "Zaragoza",
+      "count": 19
+    },
+    {
+      "name": "Barcelona",
+      "count": 17
+    },
+    {
+      "name": "Valencia",
+      "count": 11
+    },
+    {
+      "name": "Lugar sin especificar",
+      "count": 10
+    }
+  ],
+  "temas_frecuentes": [],
+  "warnings_count": 147,
+  "densidad_narrativa_estimada": "Media"
+}

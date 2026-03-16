@@ -1,0 +1,43 @@
+{
+  "legajo_id": "22",
+  "id_carta": "3707",
+  "order_in_legajo": 88,
+  "signatura": "160:5076a.JPG",
+  "nombre_carta": "Carta de Diego Matías de Aragüés a Pedro Santacilia y Pax",
+  "fecha_original": "31 de enero de 1663",
+  "lugar": "Madrid",
+  "remitente": "Diego Matías de Aragüés",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Estos renglones hago debido a v. m. como he recibido los dos pliegos del 1º de este mes, y a los 28 del mismo los recibí, y a 30 se vio en el consejo para dar la liciencia de que se ha hecho consulta a su majestad y en tiendo se concediese con calidad de que sino hallare inconviniente el virrey, y así aguardo, bajo la resolución de su majestad que hoy viene del Pardo a palacio con toda su casa, con que avisaré y remitiré la orden por duplicado por Valencia y Alicante y avisaré de lo demás y para que tenga aviso de disponer el cuarto alto de mi casa, o, el de abajo el que más fuere del gusto de v. m., pues Jerónimo, mi sobrino, sabe como es mi casa que todos estamos al servicio de v. m. que Dña. Margarita y yo besamos sus manos y las de mi Sra. [1§] dona Leonor y las de todos esos señores y al Sr. don Juan que se haga fuerte y no de ocasiones de enfermar, que ya está nombrado para la jornada de Alemania para ir sirviendo a la Sra. infanta. Guarde Dios a v. m. muchos años. Madrid a 31 Enero 1663. Besa la mano de v. m. su mayor servidorDiego Matias de Aragues Todas las cartas que han venido en los dos pliegos se han dado a sus dueños. Sr. don Pedro Santacilia y Pax. Transcripción literal"
+  ],
+  "literal": [
+    "1. Estos renglones hago devido a Vm.2. como he recivido los dos pliegos del 1º3. deste mes, y a los 28 del mismo Los4. recivi, y a 30 se vio enel Conss[ej]o5. p[ar]a dar la liciencia de q[ue] se ha6. hecho consulta a su Mgd. y en7. tiendo se concediesse con calidad8. de q[ue] sino hallare inconviniente el sr.9. Virrey, y assi aguardo, baxe la10. resolucion de su Mgd. q[ue] oy viene11. del Pardo á Palacio con toda su12. casa, con q[ue] avisare y remitire13. la orden por dupp[lica]do por Valencia14. y Alicante y avisare de lo demas15. y p[ar]a que tenga avisso de disponer16. el quarto alto de mi casa, o, el17. de abaxo el q[ue] mas fuere del gusto de18. Vm. pues Gero[ni]mo mi sobrino save como19. es mi casa q[ue] todos estamos al ser[vici]o20. de Vm. q[ue] Dª Marg[ari]ta y yo vesa21. mos sus manos y las de mi Sra. [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "160:5076a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo22/160:5076a.JPG",
+      "url": "/legajos/legajo-22/images/160:5076a.JPG"
+    },
+    {
+      "filename": "161:5076b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo22/161:5076b.JPG",
+      "url": "/legajos/legajo-22/images/161:5076b.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "160:5076a.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (3)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-22/cartas/003707.json",
+  "primary_image_url": "/legajos/legajo-22/images/160:5076a.JPG"
+}

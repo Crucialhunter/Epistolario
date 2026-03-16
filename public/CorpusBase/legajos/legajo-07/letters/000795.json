@@ -1,0 +1,32 @@
+{
+  "legajo_id": "7",
+  "id_carta": "795",
+  "order_in_legajo": 3,
+  "signatura": "41-26 copy",
+  "nombre_carta": "Carta de Persona desconocida a Persona desconocida",
+  "fecha_original": "fecha sin especificar",
+  "lugar": "lugar sin especificar",
+  "remitente": "Persona desconocida",
+  "destinatario": "Persona desconocida",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Senyor Jeroni, farà d’enviar pa i vi i un parell de lliures de bescuit [?] i tinta i arena per escriure? Transcripción literal"
+  ],
+  "literal": [
+    "1. S. geroni fera denviar pa y vi y un parei de 2. liuras de bescuit te ssec y pinta y erena pescriura [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "41-26 copy.gif",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo07/41-26 copy.gif",
+      "url": "/legajos/legajo-07/images/41-26 copy.gif"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "41-26 copy.gif",
+  "warnings": [],
+  "raw_source": "raw/legajos/legajo-07/cartas/000795.json",
+  "primary_image_url": "/legajos/legajo-07/images/41-26 copy.gif"
+}

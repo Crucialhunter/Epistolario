@@ -1,0 +1,43 @@
+{
+  "legajo_id": "31",
+  "id_carta": "6848",
+  "order_in_legajo": 89,
+  "signatura": "119:1599a.JPG",
+  "nombre_carta": "Carta de Joan Antoni Albertí a Pedro Santacilia y Pax",
+  "fecha_original": "18 de julio de 1661",
+  "lugar": "Ciutadella",
+  "remitente": "Joan Antoni Albertí",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Senyor Por. Real Asi és estat el patró Ant Gamba amb una partida de 448 qras. de blat que ha venudes a la virtut de Cuitª. en què li he demanat me pagas el dret de [?] que toca al rei ne. Sr. veig els magts. jurats fan [?] en què jo vuya apretar dit Patro, Penso que han comprat a preu fijo de 27 Rls. cas. 1/2 qra. franch de tots drets i {ESP. gastos} per dit Patro, que havia de redundar en què dita virtut hagués de pagar el dit dret, Pere on m'ha paregut darne part a V. Sra. perquè sia servit manar respondré si cobresa de dita virtut, o, si per haver comprat per dita virtut sinoi ha tal dret, doncs diuen que [?] s'ha estilat en aquesta illa sinó es quant el tal patró ven blat a particulars, guarde. Déu a V. Sra. molts anys Ciutª. i juliol 18 1661. Som m'informat amb Jaue. Abadia sobre dit dret i m'ha feta relació que els anys passats la virtut de Ciutª. compra una qda. de blat del patró Ramon Xebert i demanant el dit dret se remeteran els papers al anta [?] de V. Sra. i no s'ha feta declaració sobre esta matèria i així V. Sra. se servirà veure el que tinc de der en dit negoci. de v. s. molt servidor que ses mans besa [?] Joan Ant Alberti Transcripción literal"
+  ],
+  "literal": [
+    "1. Señor Por. Real 2. Assi es estat Lo Patro Ant Gamba ab una 3. partida de 448 qras. de blat que ha venudes 4. a la Vtt. de Cuitª. en que li he demenat me 5. pagas lo dret de [?] que toca al Rey ne. sor. 6. veig los magts. Jurats fan [?] en que 7. jo vuya apretar dit Patro, Penso q han com8. prat a preu fixo de 27 Rls. cas. 1/2 qra. franch 9. de tots drets i gastos per dit Patro, que havia 10. de redundar en q. dita vtt. hagues de pagar 11. lo dit dret, Pera hont me ha aparegut darne 12. part a Vª. Sª. paraq. sia servit manar respon13. dre si cobrese de dita Vtt., o, si per haver com14. prat per dita Vtt. sinoi ha tal dret, puis 15. diuen que [?] se ha estilat en esta illa 16. sino es quant lo tal Patro ven blat a parti17. culars, Gde. Deu a Vª. Sª. molts anys Ciutª. 18. i juliol 18 1661. 19. Som me informat ab Jaue. Abadia sobre dit dret 20. i me ha feta relatio que los anys passats la 21. Vtt. de Ciutª. compra una qda. de blat del Patro 22. Ramon Xebert i demanant lo dit dret se [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "119:1599a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo31/119:1599a.JPG",
+      "url": "/legajos/legajo-31/images/119:1599a.JPG"
+    },
+    {
+      "filename": "120:1599b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo31/120:1599b.JPG",
+      "url": "/legajos/legajo-31/images/120:1599b.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "119:1599a.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-31/cartas/006848.json",
+  "primary_image_url": "/legajos/legajo-31/images/119:1599a.JPG"
+}

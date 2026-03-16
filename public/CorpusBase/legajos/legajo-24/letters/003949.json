@@ -1,0 +1,38 @@
+{
+  "legajo_id": "24",
+  "id_carta": "3949",
+  "order_in_legajo": 3,
+  "signatura": "003:4002.JPG",
+  "nombre_carta": "Carta de Juan Suñer a Pedro Santacilia y Pax",
+  "fecha_original": "10 de marzo de 1630",
+  "lugar": "Mallorca",
+  "remitente": "Juan Suñer",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "La de v. m. tinc rebuda dels 22 de febrer en la qual en diu v. m. que jo mai he respost a la de v. m. quan me féu mercè dels [?] a que dic que els primers dies estigui molt mal i en escriure responguí a la de v. m. i estic molt espantat en digui que si és causa el no escriure el no haver-me apareguts bons els estos [?] i casado [?] que quant no foren estats tan bons, sinó molt dolents fos restat molt gustós i satisfet de la mercè em fa v. m. i no em mir amb tan poc pit. Sols dic que sóc molt servidor de v. m. i no perdré punt en el que sia de gust i servei de v. m. al qual guardi Déu infinits anys, de Mallorca i març als 10 del 1630. Don Juan Sunyer Al S. Sr. don Pedro Santacilia i Pax Transcripción literal"
+  ],
+  "literal": [
+    "1. La de V.m. tinc rabude dels 22 de fabrer2. en la qual en diu V.m. que jo may eres3. post a la de V.m. quant me feu mer4. se delos astos a que dic que els primes5. dias estigui molt mal y en escriura res6. ponguy a la de V.m. y estic molt aspa7. nta en diga que si es causa lo noscriu8. ra el no averme aparaguts bons los estos[?]9. y casado[?] que quan no foren astats10. tan bons sino molt dolents fora restat11. molt gustos y setisfet de la merse en12. fa V.m. y non mir an tan poc pit13. sols dic que so molt servidor de V.m14. y no perdre put en lo que sia de gust15. y servey de V.m el qual guarde deu16. infinits añys de mallorca y mars17. als 10 del 1630-18. Don Juan Suñer19. Al S. Don Pedro20. Santasilia y Pax [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "003:4002.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo24/003:4002.JPG",
+      "url": "/legajos/legajo-24/images/003:4002.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "003:4002.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-24/cartas/003949.json",
+  "primary_image_url": "/legajos/legajo-24/images/003:4002.JPG"
+}

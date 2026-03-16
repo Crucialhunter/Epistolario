@@ -1,0 +1,43 @@
+{
+  "legajo_id": "6",
+  "id_carta": "672",
+  "order_in_legajo": 172,
+  "signatura": "264-133a",
+  "nombre_carta": "Carta de Antoni Muntaner i Muntaner a Cecilia Zaforteza y Sureda de Sant Martí",
+  "fecha_original": "23 de agosto de 1778",
+  "lugar": "Palma",
+  "remitente": "Antoni Muntaner i Muntaner",
+  "destinatario": "Cecilia Zaforteza y Sureda de Sant Martí",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Mi senyora dona Cecilia Zaforteza, Després de posar-me a l’obediència de v. s. li suplic em faci el favor de deixar-me la calesa per anar a Consell amb la mia família, el dijous primer vinent o dissabte o el dia que pareixerà a v. s., doncs serà un favor que {ESP. anyadirà} als molts que li dec i en el de son gust disponga, doncs quedo sempre a les ordres de v. s., {ESP. cuya} vida guardi Déu. [1§] Molts anys com desig. Palma i agost 23 de 1778. Beso les mans de v. s. son segur servidor, Antoni Muntaner i Muntaner, notari. Mi senyora dona Cecilia Zaforteza Transcripción literal"
+  ],
+  "literal": [
+    "1. Mi Señora Da. Cicilia 2. Zaforteza 3. Despues de posarme 4. á la obediencia de V.S. 5. li suplich hem fase 6. el favor de dexarme 7. la calesa per anar 8. á Consell ab la mia 9. familia el dijous pri- 10. mer vinent ó disapte 11. ó el dia que aparexe- 12. ra á V.S. pues será un 13. favor que añadirá á 14. los molts que li dech 15. y en lo de son gust dis- 16. ponga pues quedo sem- 17. pre á las ordes de V.S. cu- 18. ya vida guard Deu [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "264-133a.jpg",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo06/264-133a.jpg",
+      "url": "/legajos/legajo-06/images/264-133a.jpg"
+    },
+    {
+      "filename": "265-133b.jpg",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo06/265-133b.jpg",
+      "url": "/legajos/legajo-06/images/265-133b.jpg"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "264-133a.jpg",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-06/cartas/000672.json",
+  "primary_image_url": "/legajos/legajo-06/images/264-133a.jpg"
+}

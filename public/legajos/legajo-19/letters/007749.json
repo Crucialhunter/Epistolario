@@ -1,0 +1,43 @@
+{
+  "legajo_id": "19",
+  "id_carta": "7749",
+  "order_in_legajo": 328,
+  "signatura": "467_0472a.JPG",
+  "nombre_carta": "Carta de Margarita de la Higuera y Quiñones a Nicolás de Santacilia y Togores",
+  "fecha_original": "19 de diciembre de 1672",
+  "lugar": "Madrid",
+  "remitente": "Margarita de la Higuera y Quiñones",
+  "destinatario": "Nicolás de Santacilia y Togores",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Señor mío, Siempre que v. m. me favorece con sus cartas es para mí de mucha estimación, que han sido con esta dos, y por entrambas veo goza v. m. de buena salud, que son las mejores nuevas que puedo tener por lo mucho que le quiero. Ahora me falta de saber cuántos hijos tiene v. m. y si podremos prevenir la ermita, que yo estoy desocupada y podré seguir a v. m. A mi señora doña Leonor beso las manos, y dará v. m. las buenas pascuas de mi parte, que me alegraré las tenga v. m. con el gusto que deseo. Dios me guarde a v. como deseo. Madrid, diciembre a diecinueve. Servidora de v. m. que sus manos besa, doña Margarita de la Higuera Señor don Nicolas de Santacilia [1§] Madrid, 19 diciembre 1672. De doña Margarita de la Higuera. Recibida 15 marzo 1673 por el señor d. Nicolas. Miguel Pons y Vidal. {CAT. Llibre de cavalleries. Federico Grison. Escrita a 27 de marzo 1673.} Transcripción literal"
+  ],
+  "literal": [
+    "1. Senor myo syempre q VM me fa2. boreçe con sus cartas es para my 3. de mucha estymaçyon q an 4. sydo con esta dos y poren tranbas5. beo goça VM debuena salud 6. q son las megores nuebas q pue7. do tener por lo mucho q le quyero 8. aora me falta de saber quantos 9. hyjos tiene VM y sy prodrem 10. os prebenyr la ermyta q yo 11. estoy desocupada y prodre segyr 12. a VM a my señora doña lenor 13. beso las manos y dara VM las 14. buenas pascuas de my parte 15. qume alegra[r]e las tenga VM des 16. con el gusto q deseo dyos me guarde 17. a v como deseo madyr dycybre 18. a dyes y nuebe19. serbydora de VM 20. q sus manos besa 21. doña margaryta 22. de la hygera23. Señor don nyco24. las de Santacylya [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "467_0472a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo19/467_0472a.JPG",
+      "url": "/legajos/legajo-19/images/467_0472a.JPG"
+    },
+    {
+      "filename": "468_0472b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo19/468_0472b.JPG",
+      "url": "/legajos/legajo-19/images/468_0472b.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "467_0472a.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (2)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-19/cartas/007749.json",
+  "primary_image_url": "/legajos/legajo-19/images/467_0472a.JPG"
+}

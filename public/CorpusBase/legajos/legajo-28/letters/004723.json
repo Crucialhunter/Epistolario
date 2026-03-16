@@ -1,0 +1,38 @@
+{
+  "legajo_id": "28",
+  "id_carta": "4723",
+  "order_in_legajo": 33,
+  "signatura": "048:3657.JPG",
+  "nombre_carta": "Carta de Joan Maltès a Pedro Santacilia y Pax",
+  "fecha_original": "2 de marzo de 1629",
+  "lugar": "Lugar sin especificar",
+  "remitente": "Joan Maltès",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Señor don Pedro. Ja sap v. m. quants mesos fa que patesc en esta mala casa sens culpa, puc dir, i per falta de persones. Que li jur a v. m. que en mon procés no hi ha cosa. Considero que mon advocat no vulgui que doni jo [?] dos o tres testimonis d'{ESP. abono}, i que m'hagin passat de dia en dia sens fer-ne res ni tret a {ESP. desterro} ni [?], com jo he demanat. I estic patint el que Déu se sap, i estic desemparat de pare i mare, de diners, parents i amics, si no és de v. m. I és cert que si v. m. i el Sr. comte en esta ocasió no miren per a mi i no m'afavoreixen, jo no sé com m'ho faci ni com ixca d'esta mala casa. Ni sé com pagar-me els {ESP. gastos}. Jo cert desitjava me donassin un {ESP. desterro}. No sé si me'l concediran. Qualsevol cosa pens, sols pugui eixir d'esta mala casa. Estos cavallers veig m'han passat amb paraules tot este temps, essent una cosa la mia de {ESP. risa} i que no merexia estar quinze dies en la presó. I així suplic a v. m. que els escrigui i doni ordre a qui convé fer per ma llibertat. Jo, després de Déu, no confio de ninguna persona més que de v. m., al qual el Senyor guardi i doni molts anys de vida, com per mi és desitjat. D'esta mala casa de la presó, i març als 2 de 1629. Criat de v. m.El patró Joan Maltes. Transcripción literal"
+  ],
+  "literal": [
+    "1. Señor don pedro2. Ja sab v.m. quants mesos ha que patesch en sta mala3. casa sens culpa puch dir y per falta de personas que li jur a v.m. que4. en mon proces noy ha cosa considero que mon advocat no vulla que don5. nio [?] dos, o, tres testimonis de abono y quem hajan passat de dien6. dia sens ferne res ni tret a desterro ni bibero com jo e demanat y stic7. patint lo que deu se sab y stich desemparat de para y mare de dines parents8. y amichs sino es de v.m. y es cert que si v.m. y lo sor compte en sta9. occasio no miran per mi y nom afavoreixen jo no se com mo fasse10. ni com isca desta mala casa. ni se com pagarme los gastos jo certa11. desijava me donassen un desterro no se si mel concediran qualsevol12. cosa pens sols puga exir desta mala casa stos Cavallers13. veix me an passat ab paraules tot ste temps essent una cosa la14. mia de risa y que no merexia star quinsa dias en la preso y axi15. suplic a v.m. quels escriga y done orde al que conve fer per ma16. libertat jo despres de deu no confio de ninguna persona mes que17. de v.m. al qual lo señor gde. y done molts anys de vida com18. per mi es desijat desta mala casa de la preso y mars als 2 de19. 162920. Criat de v.m.21. Lo patro Joan maltes [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "048:3657.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo28/048:3657.JPG",
+      "url": "/legajos/legajo-28/images/048:3657.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "048:3657.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-28/cartas/004723.json",
+  "primary_image_url": "/legajos/legajo-28/images/048:3657.JPG"
+}

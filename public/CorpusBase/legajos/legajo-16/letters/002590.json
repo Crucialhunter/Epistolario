@@ -1,0 +1,43 @@
+{
+  "legajo_id": "16",
+  "id_carta": "2590",
+  "order_in_legajo": 75,
+  "signatura": "124:2090a.JPG",
+  "nombre_carta": "Carta de Nicolás de Santacilia y Togores a Pedro Santacilia y Pax",
+  "fecha_original": "18 de mayo de 1667",
+  "lugar": "Barcelona",
+  "remitente": "Nicolás de Santacilia y Togores",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Por todas partes tengo escrito a v. m. i aunque no hay cosa de sustancia que escribir, sólo que ya estoy muy convalecido, holgáreme que {CAT. tots els de casa} estén buenos, en partícular mi madre y mis hermanos con cuidado estoy de Jorge, porque he tenido noticias, que ha llegado a Alicante, muchos días ha, i no he tenido carta suya ni de Santo, pero lo atribuyo al carruaje. Don Miguel Salva, hasta principios del que viene no saldrá de Madrid, aunque dicen se parte la semana que viene. Don Jorge y Cortes dias se iran a prisa guarde Dios a v. m. muchos {CAT. anys} com deseo y es menester. Madrid a 18 de mayo 1667. Su màs humilde hijo de v. m. que su mano besaDon Nicolas de Santacilia y Togores Mi señor y mi padre {CAT. Respostes a 12 de juny 1667} Transcripción literal"
+  ],
+  "literal": [
+    "1. Portodas partes tengo escrito a VM y aunq 2. no ay Cosade sustancia que escrivir solo 3. que ya estoy muy Convalerido, olgareme que 4. todos los de Casa esten buenos, en parti5. cular mi Madre y mis hermanos 6. Con cuydado estoy de jorge, porque he tenido 7. notisias, que ha llegado halicante, muchos dias 8. ha, y no he tenido Carta suya nide Santo, pero 9. lo atribuyo, al Caruage 10. Don Migel salva, hasta prinsipios del que vi11. ene,no saldra de Madrid, aunque disen se par12. te la seman que Viene, Don jorge y Cortes dias 13. se hiran ha prissa Guarde Dios a VM muchos 14. años Como deseo y emenester Madrid a 18 15. de Mayo 1667 16. Su mas humilde hijo de 17. VM q S[u] MB 18. Don Nicolas de Sta Cilia y Togores 19. [Margen izquierdo][^ Mi Sr y mi Padre] [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "124:2090a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo16/124:2090a.JPG",
+      "url": "/legajos/legajo-16/images/124:2090a.JPG"
+    },
+    {
+      "filename": "125:2090b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo16/125:2090b.JPG",
+      "url": "/legajos/legajo-16/images/125:2090b.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "124:2090a.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-16/cartas/002590.json",
+  "primary_image_url": "/legajos/legajo-16/images/124:2090a.JPG"
+}

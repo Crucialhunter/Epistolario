@@ -1,0 +1,43 @@
+{
+  "legajo_id": "27",
+  "id_carta": "4651",
+  "order_in_legajo": 115,
+  "signatura": "211:4460a.JPG",
+  "nombre_carta": "Carta de Isabel de Salvá a Pedro Santacilia y Pax",
+  "fecha_original": "de febrero de 1651",
+  "lugar": "Retiro (Madrid)",
+  "remitente": "Isabel de Salvá",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Con saber por su carta de v. m. su buena llegada a Valencia con salud me [he] alegrado mucho {CAT. prego} a Dios llegue v. m. con ella a su casa y los halle tan buenos a todos como v. m. desea, amén, que cierto sería hacerme v.m. merced honra con el señor arzobispo y con el canónigo Pedro Juan de la Guardia. Mi señora está buena, gracias a Dios, y el conde, mi señor, y los demás hijos y nietos; y el preñado de la reina se ha descubierto, de modo que no hay duda, que muchos lo dudaban ya en Madrid. No es de tanto tiempo para esta preñada.. El marques de Mirabel se ha muerto anoche; ya hay otros tantos pretendientes [1§] como para mayordomo mayor: Dios [roto] gracia y que no sean lobos en escoger, y me guarde muchos años como puede [y] reciba muchos recados de mi herm[ana] y míos infinitos. Del Retiro y febrero [roto] de 1651. Doña Isabel de Salva Transcripción literal"
+  ],
+  "literal": [
+    "1. consaber porsucarta de vm su bue2. na llegada abalenzia con salud me3. ale grado mucho plegoadios [?] llege4. vm conella asucasai los alletanb5. uenos a todos camo vm desea amen6. q çierto seria açerme vm mersed7. honrra conel Sr arço bizpoicone-8. l canonigo pedro juan de la guar-9. dia mi Sr. aesta buenagraçias a10. dios i elcon demisr i los demas ijos11. inietos i el pregñado dela reinadi-12. os laguar desea des cu bierto demodo13. q no aidu da q muçhos lo dudaban 14. i aenmadrid noes detanto tien-15. po paraestapreñada el marques16. de mirabel se a m[u]erto anoçhe ia17. ai otros tantos pretendientes (com) [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "211:4460a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo27/211:4460a.JPG",
+      "url": "/legajos/legajo-27/images/211:4460a.JPG"
+    },
+    {
+      "filename": "212:4460b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo27/212:4460b.JPG",
+      "url": "/legajos/legajo-27/images/212:4460b.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "211:4460a.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-27/cartas/004651.json",
+  "primary_image_url": "/legajos/legajo-27/images/211:4460a.JPG"
+}

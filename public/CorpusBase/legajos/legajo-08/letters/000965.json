@@ -1,0 +1,37 @@
+{
+  "legajo_id": "8",
+  "id_carta": "965",
+  "order_in_legajo": 39,
+  "signatura": "248-161a copia",
+  "nombre_carta": "Carta de Joan Torres a Persona desconocida",
+  "fecha_original": "4 de mayo de 1642",
+  "lugar": "Mercadal",
+  "remitente": "Joan Torres",
+  "destinatario": "Persona desconocida",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Senyor governador. En aquest punt que deuen ser les 4 de la tarda he guiat a esta vila el patró Joan Baptista Frigori, genovès que ha pres port a Fornells. Ve de València amb sagetia carregada de llanes que com diu ha carregades a [?]. Va a Gènova i com diu aporta {ESP. desempeny} de sa magestat tot per avís. Guardi Déu a v. s., etc. Del Mercadal i maig 4 1642 Joan Torres batle de Mercadal [1§] Mercadal 4 de maig de 1642 Joan Torras. R[espondi]do. [2§] Transcripción literal"
+  ],
+  "literal": [
+    "1. S<> Governador.1. En aquest punt q deven ser les 4. dela 2. tarda hi guiat esta vila al patro Joan ba- 3. tista Frigori Genoves que es ha pres port en fornells 4. ve de valencia ab segetia carregada de llanas 5. que com diu ha carregadas á [?]. Va 6. á Genova y com diu aporta desempaix desa 7. Mag< > tot per avis G< > deu a .V.S. Ill 8. del Mercadal y Maig 4. 1642 9. Joan Torres Balle de 10. mar [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "248-161a copia.jpg",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo08/248-161a copia.jpg",
+      "url": "/legajos/legajo-08/images/248-161a copia.jpg"
+    },
+    {
+      "filename": "249-161b copia.jpg",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo08/249-161b copia.jpg",
+      "url": "/legajos/legajo-08/images/249-161b copia.jpg"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "248-161a copia.jpg",
+  "warnings": [],
+  "raw_source": "raw/legajos/legajo-08/cartas/000965.json",
+  "primary_image_url": "/legajos/legajo-08/images/248-161a copia.jpg"
+}

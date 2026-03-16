@@ -1,0 +1,38 @@
+{
+  "legajo_id": "31",
+  "id_carta": "6776",
+  "order_in_legajo": 16,
+  "signatura": "024:1527.JPG",
+  "nombre_carta": "Carta de Bartolomé Mercadal a Pedro Santacilia y Pax",
+  "fecha_original": "10 de diciembre de 1660",
+  "lugar": "Ciutadella",
+  "remitente": "Bartolomé Mercadal",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Sr. don Pedro Santacilia i Pax, mi senyor Tinga v. s. molt santes i alegres pasqües del neixament del fill de Déu, en vida i companyia de mi Sra. Dna. Beatriu i sos fills, {ESP. cuyas} mans, Dna. Margalida i jo besam junt amb les de v. s. No tinc carta de v. s. a que dega resposta qui continua amb [?] sus [?] junts me té {ESP. olvidat} i no m'ocupa en moltes coses de son gust i servei, que és mon [?] to i afectuós desig. En aquesta illa no té [?] novetat que donar avís a v. s. sinó suplicar a su [?] magestat me'l guard i prosperi amb els llorels anys de vida que v. s. desitja i jo tinc menester Ciutadella, i desembre X de 1660. Molt servidor. de v. s. que ses mans besa, Sr. don Bartolome Mercadal Transcripción literal"
+  ],
+  "literal": [
+    "1. Sr. Don Pedro Sta. Cilia y Pax 2. mi Señor 3. Tinga V. S. molt santas y alegras pasquas 4. del naxament del fill de Deu, en vida y 5. companya de mi Sª. D. Beatris y Sss. fills, cuyas 6. mans, D. Margalida y yo besam junt ab 7. las de VS. 8. No tinch Carta de VS. a que dega resposta 9. qui continua ab [?] sus ?? 10. junts me te olvidad y nom ocupa en moltas 11. cosas de son gust y servei, que es mon [?] 12. to y affectuos desig = En esta illa no te 13. ?? novedad de que donar avis a VS. sino 14. suplicar a su [?] Magd. mel gde. y pros15. pera ab los llorels anys de vida que 16. VS. desitja y yo tinch menester Ciuª. 17. y dbre. X de 1660 18. Molt Sdor. de VS. q. s. m. b. 19. Don Bartt Mercadal [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "024:1527.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo31/024:1527.JPG",
+      "url": "/legajos/legajo-31/images/024:1527.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "024:1527.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-31/cartas/006776.json",
+  "primary_image_url": "/legajos/legajo-31/images/024:1527.JPG"
+}

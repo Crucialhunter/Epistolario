@@ -1,0 +1,38 @@
+{
+  "legajo_id": "6",
+  "id_carta": "756",
+  "order_in_legajo": 20,
+  "signatura": "436-217",
+  "nombre_carta": "Carta de Cecilia Zaforteza y Sureda de Sant Martí a Persona desconocida",
+  "fecha_original": "fecha sin especificar",
+  "lugar": "Mallorca",
+  "remitente": "Cecilia Zaforteza y Sureda de Sant Martí",
+  "destinatario": "Persona desconocida",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Muy señor. mío: espero que con la felicidad que a v. s. deseo se hallará, o en Barcelona, o en camino para Madrid, a donde persuado llegará sin contratiempo alguno. El dr. Gabriel Tomás presbítero parte con el jabeque hoy, a quien encargo eficazmente sirva a v. s. si le encontrare en Barcelona; Transcripción literal"
+  ],
+  "literal": [
+    "1. Muy Sr. Mio: espero que con la 2. felicidad que á V.S. deseo se hallara 3. ó en, Barcelona, ò en camino 4. para Madrid; a donde persuado 5. llegara sin contrati(^?)empo alguno 6. el Dr. Gabriel Thomas p< resbíte>ro parte 7. con el javeque oy, a quien encar- 8. go eficazmente sirva á V.S. si 9. le encontrare en Barcelona; [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "436-217.jpg",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo06/436-217.jpg",
+      "url": "/legajos/legajo-06/images/436-217.jpg"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "436-217.jpg",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-06/cartas/000756.json",
+  "primary_image_url": "/legajos/legajo-06/images/436-217.jpg"
+}

@@ -1,0 +1,38 @@
+{
+  "legajo_id": "28",
+  "id_carta": "4803",
+  "order_in_legajo": 111,
+  "signatura": "174:3737.JPG",
+  "nombre_carta": "Carta de Vicente de Aragón a Pedro Santacilia y Pax",
+  "fecha_original": "1 de agosto de 1650",
+  "lugar": "Valencia",
+  "remitente": "Vicente de Aragón",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Ya su pluma de v. s. puede hacer alto y mi estimación reconocer la obligación en que me ha puesto con los buenos ratos que me ha dado en las noticias generales de todo. Que para quien se halla fuera de la corte no puede haber mayor lisonja. Yo partiré en todas esta semana sin duda ninguna para ese país donde me llevará sumamente alborozado el tener en él a v. s., pues las ocasiones de su servicio me prometo más frecuentes, y lograr el favor que me ofrece con su compañía, que eso queda a mi cargo el solicitar, pues soy el interesado en tenerla tan buena, de tan buen gusto. Muy acertadas han sido las elecciones que han hecho en ínterim y propiedad de virrey de este reino. Dios guarde a v. s. muchos años. Valencia, primero de agosto 1650. Amigo de v. s., Don Vicente de Aragon. Sr. D. Pedro Santcilia y Pax. Transcripción literal"
+  ],
+  "literal": [
+    "1. Ya su pluma de vs puede hacer alto y mi estima2. cion rreconocer la obligaccion en que me a puesto con3. los buenos rratos que me adado en las noticias Generales4. de todo. que para quien se halla fuera de la corte5. no puede haver mayor lisonja, yo partire en todas6. esta semana sin duda ninguna, para ese pais7. donde me llebara sumamente alboroçado el te8. ner en el a vs pues las ocasiones de su servicio9. me prometo mas frequentes. y lograr el favor que10. me ofrece con su compania, que eso queda ami cargo.11. el solicitar. pues soy el interesado en tener la tan buena12. de tambuen gusto.13. Muy acertadas ansido las elecciones que han echo14. en interin y propiedad de Birrey de este Reyno.15. Dios guarde a vs muchos años. Valencia16. primº de agosto 165017. Amigo de vs18. Don Vicente19. de Aragon20. Sr. D. Pº StaCilia y Pax21. - [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "174:3737.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo28/174:3737.JPG",
+      "url": "/legajos/legajo-28/images/174:3737.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "174:3737.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-28/cartas/004803.json",
+  "primary_image_url": "/legajos/legajo-28/images/174:3737.JPG"
+}

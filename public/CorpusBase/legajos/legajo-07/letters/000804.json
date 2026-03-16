@@ -1,0 +1,43 @@
+{
+  "legajo_id": "7",
+  "id_carta": "804",
+  "order_in_legajo": 23,
+  "signatura": "52-35a copy",
+  "nombre_carta": "Carta de Nicolás de Santacilia y Togores a Jerónimo Pelegrín de Aragüés",
+  "fecha_original": "11 de febrero de 1672",
+  "lugar": "Lugar sin especificar",
+  "remitente": "Nicolás de Santacilia y Togores",
+  "destinatario": "Jerónimo Pelegrín de Aragüés",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "En lo de Delabau sino coses pon així com nosaltres proferim amb tot rigor i no {ESP. menos} [?] se les aperegueren una caixeta de les veles amb un servici nou de carreter que me'l dugui, que ja és a Son Ignasi per dur les garroves i faré que no des-hi una, sinó que es torni a partir en ser descarregat. Déu vos guardi com desitjo. Fet als 11 de febrer 1672. Don Nicolas de Santacilia Señor Jeroni Pelegri [1§] En poder de [?] a 22 de novembre 1556 de 20 [?] Transcripción literal"
+  ],
+  "literal": [
+    "1. en lo de delabau sino coses pon 2. axi có naltroa profeir en tot rigor 3. inomenos epioanat salas 4. eperegeren una caxete de 5. les [?] enbú servisi nou 6. recareter que el me duga 7. que ia es e son ignasi pr dur 8. llas garovas i fere que no 9. des una sino que estorn 10. partir en esser descarragat 11. deu vos guare co desitge 12. fet alls 11 de faber 13. 167214. Don Nicolas de Sta. Cilia 15. Señor hieroni Palagri [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "52-35a copy.gif",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo07/52-35a copy.gif",
+      "url": "/legajos/legajo-07/images/52-35a copy.gif"
+    },
+    {
+      "filename": "52-35b copy.gif",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo07/52-35b copy.gif",
+      "url": "/legajos/legajo-07/images/52-35b copy.gif"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "52-35a copy.gif",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (5)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-07/cartas/000804.json",
+  "primary_image_url": "/legajos/legajo-07/images/52-35a copy.gif"
+}

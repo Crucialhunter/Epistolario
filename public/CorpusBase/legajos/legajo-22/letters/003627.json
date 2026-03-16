@@ -1,0 +1,38 @@
+{
+  "legajo_id": "22",
+  "id_carta": "3627",
+  "order_in_legajo": 9,
+  "signatura": "009:4975.JPG",
+  "nombre_carta": "Carta de Francisco Rocabertí y Pueyo a Pedro Santacilia y Pax",
+  "fecha_original": "10 de agosto de 1627",
+  "lugar": "Sant Feliu",
+  "remitente": "Francisco Rocabertí y Pueyo",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Jo he parlat amb don Bonaventura {ESP. aserca} del que v. m. m'escriu i conec té ganes que vagi don Joan però tem que puguem acabar deixar d'estar alguns dies en Girona jo ho tornaré a esforçar i el mateix Sr. don Joan m'ha dit avui que se n'aniria a Madrid en ser al setembre. Jo apretaré se faci el d'anar fer amb [?] v. m. és molt empordanès que si no ho fos tant li suplicaria donés per ací una vista i si apar això no es pot fer sense perill molt millor és no moure's. En ppª viu unes cartes de Madrid en què escriuen que el rei Nre. Sr. a instància del rei de França arma una gran esquadra de galions que diuen el d'Anglaterra li vol prendre una {ESP. isla} i diuen aniria general d'ells el duc de Maqueda. Si és així no seria mal partire el mar a servir debaix de tal general. Guardi Déu a v. m. en St. Feliu i agost a 10 de 1627. Don Francisco de Rocaberti i Pueyo Sr. don Pedro Transcripción literal"
+  ],
+  "literal": [
+    "1. Jo he parlat ab don bonaventura2. aserca del que Vm. mescriu y co3. nec te ganas de que vaje don joan4. pero tem que pugam acabar lexe de5. estar alguns dies en girona jou torna6. re a esforsar y lo mateix don joan7. ma dit vuy que sen aniria a madrid8. en fer al setembre jo apretar[e...]9. se fasa lo de anar fer ab ??10. V.m. es molt enpurdanes que si nou11. fos tant li suplicaria donas per asi12. una bista y si apar eso nos pot fer sens pe13. rill molt millor es no mourerse.14. en ppª viu unes cartes de madrid en15. que escriuen que lo Rey nre. Sor. [a ins]16. tançia del Rey de fransa arma una17. gran esquadra de galeons que diuen18. lo de inglaterra li vol pendren una isla19. y diuen aniria general dells lo duc de20. maqueda si es axí no siria mal parti21. re lo mar a servir debaix de tal general22. guart deu a Vm. en St. faliu y agost a 10 de23. 162724. don franco de25. Rocaberti y de gual??26. Sr. don Pedro [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "009:4975.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo22/009:4975.JPG",
+      "url": "/legajos/legajo-22/images/009:4975.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "009:4975.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-22/cartas/003627.json",
+  "primary_image_url": "/legajos/legajo-22/images/009:4975.JPG"
+}

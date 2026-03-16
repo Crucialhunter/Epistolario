@@ -1,0 +1,38 @@
+{
+  "legajo_id": "31",
+  "id_carta": "6904",
+  "order_in_legajo": 146,
+  "signatura": "207:1655.JPG",
+  "nombre_carta": "Carta de Basilio de Castellví y Ponce a Pedro Santacilia y Pax",
+  "fecha_original": "21 de noviembre de 1662",
+  "lugar": "Valencia",
+  "remitente": "Basilio de Castellví y Ponce",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Señor mío después que se embarcó el señor don Juan no he tenido carta ninguna de v. s. en que me avisase de su buena llegada, pero he sabido por una saetía mallorquina del patrón Antoni Ferrer que le habían dicho en las costas de Cataluña que el patrón Roch había llegado a Mallorca que es con quien se embarcó el señor D. Juan ahora me avisan que parte un bergantín luego [?] estos renglones solicitando nuevas de la sd. de v. s. de mi Sra. Dña. Leonor, del Sr. don Juan y del Sr. don Nicolas cuyas manos, Dña. Laura Giuseppe y yo besamos y Giuseppe muy particularmte. del Sr. don Juan de quien quedo muy apasionado. Remito a v. s. ese pliego de Diego Matias y esas dos cartas que he tenido de Cerdeña la una para el conde de Placencia y la otra para el Sr. de Menorca de Madrid me escriben que el señor Vi Rey pide licencia muy aprisa v. s. me tenga en su gracia para mandarme en que le sirva y le guarde Dios ms. años de v. s. a 21 de ne. de 1662 Ba v. s. lmo su mayor servidor Don Basilio Castellvi y Ponce Sr. don Pedro de Santacilia y Pax [1§] Transcripción literal"
+  ],
+  "literal": [
+    "1. Señor mio despues que se enbarco el Señor Don Juan 2. no he tenido carta ninguna de VS en que me avisase 3. de su buena llegada, pero he sabido por una saetia mallorqui4. na del Patron Antoni Ferrer que le avian dicho en 5. las costas de Cataluña que el Patron Roch avia llegado 6. a Mallorca que es con quien se enbarco el Señor D. Juan 7. haora me avisan que parte un vergantin luego [?] 8. estos ringlones solisitando nuebas de la sd. de VS de mi Sra. 9. Dª. Leonor, del Sr. Don Juan y del Sr Don Nicolas cuyas manos, 10. Dª. Laura Jusepe y yo besamos y Jusepe muy particular11. mte. del Sr. Don Juan de quien quedo muy apasionado. 12. Remito a VS ese pliego de Diego Mathias y esas dos car13. tas que e tenido de Cerdeña la una para el Sr. Conde de 14. Plaçençia y la otra para el Sor. de menorca de madrid me 15. escriven que el Señor Vi Rey pide lisençia muy aprisa 16. VS me tenga en su gracia para mandar me en que 17. le sirva y le gde. Dios ms. años de Vª. a 21 de ne. de 1662 18. BaVSlmo su mor sdor 19. Don Basilio Castelvi 20. y Ponce 21. Sr. Don Pº. de Sta.çiçilia y Pax [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "207:1655.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo31/207:1655.JPG",
+      "url": "/legajos/legajo-31/images/207:1655.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "207:1655.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-31/cartas/006904.json",
+  "primary_image_url": "/legajos/legajo-31/images/207:1655.JPG"
+}

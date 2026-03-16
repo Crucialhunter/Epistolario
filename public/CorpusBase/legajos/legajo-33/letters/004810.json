@@ -1,0 +1,37 @@
+{
+  "legajo_id": "33",
+  "id_carta": "4810",
+  "order_in_legajo": 5,
+  "signatura": "001:6726a.JPG",
+  "nombre_carta": "Carta de Melcior Dureta a Pedro Santacilia y Pax",
+  "fecha_original": "11 de junio de 1625",
+  "lugar": "Barcelona",
+  "remitente": "Melcior Dureta",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Tres o quatre cartes tinc de v. m. Ara dec resposta per haver estat a fer les mil coses de ma encomanda i haver estat ocupat amb la malalatia de don Bautista Pax, qui ha fet son determini al cel. Avui lo havem enterrat. Havem-lo servit conforme era raó a un tan bon amic. Los jovens també es moren, i los qui antan [?] amistansats també. M'apar seny bo que prengués aquest sant jubileu, ja que en Roma no el va prendre. De lo que em diu que lo bisbe virrei vol fer en Mallorca, no en crec res. Basta a ser {ESP. vuecencia} per a no fer cosa bona. Déu ho encamin tot i done a v. m. el que desitjo. De Barcelona i juny a 11 any 1625 Fray Melcior Dureta. Ser. don Pedro Santacilia i Pax [1§] A don Pedro Santacilia i Pax [2§] Transcripción literal"
+  ],
+  "literal": [
+    "1. Tres o quatre cartas tinch de V.m ara dec2. resposta per aver astat a fer las mylosas3. de me ancomanda y aver astat ocupat4. ab la maleltya de don batysta pax quy5. a fet son determyny al sel abuy lo avem6. anterat avem lo sarbyt conforme era se7. a un tant bon amyc los yovens tanbe es8. moren y los quy antan amystansast tanbe9. me apar seny bo que prenges aquest sant10. jubyleu ya que en roma nol va prendre11. de lo quem dyu que lo bysba vyrrey vol12. fer en malorca non crec res basta ase13. a velensia para no fer cosa bona deu14. o ancamyn tot y done a V.m lo que15. desyge de barcelona y gun a 11 any16. 162517. Fray melsyor dureta18. Seño don predro sant19. asylya y pax [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "001:6726a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo33/001:6726a.JPG",
+      "url": "/legajos/legajo-33/images/001:6726a.JPG"
+    },
+    {
+      "filename": "002:6726b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo33/002:6726b.JPG",
+      "url": "/legajos/legajo-33/images/002:6726b.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "001:6726a.JPG",
+  "warnings": [],
+  "raw_source": "raw/legajos/legajo-33/cartas/004810.json",
+  "primary_image_url": "/legajos/legajo-33/images/001:6726a.JPG"
+}

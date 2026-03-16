@@ -1,0 +1,38 @@
+{
+  "legajo_id": "32",
+  "id_carta": "7099",
+  "order_in_legajo": 121,
+  "signatura": "126:1857.JPG",
+  "nombre_carta": "Carta de Jerónimo Pelegrín de Aragüés a Pedro Santacilia y Pax",
+  "fecha_original": "11 de abril de 1665",
+  "lugar": "Madrid",
+  "remitente": "Jerónimo Pelegrín de Aragüés",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Por todos caminos tengo avisado a v. m. de las concurrencias de esta corte su majestad. se parte a 15 de este Aranjuez y don Nicolas va en su comppª. por haberle nombrado el Sr. don Fernando de Borja. La jornada de la emperatriz se ha publicado para 10 de agosto yo en estando desembargado el carruage que será al otro día que habrán dejado a su majestad. haranjuez me parto para Valencia Dios me dé buen viaje y guarde a v. m. muchos años como deseo y es menester. Madrid 11 de abril 1665. Su criado de v. m. Jeronimo Pelegrin Miguel Sancho no ha enviado cosa, v. m. no se sirve escribirme habiendo cartas tan frescas de Mallorca que tienen estos Sres. mallorquines de 22 y 24 del pasado Mi señor [1§] Transcripción literal"
+  ],
+  "literal": [
+    "1. Por todos caminos tengo havisado a V. M. de 2. las concurrencias de esta corte su Magd. se parte 3. a 15 deste Aranjuez y Don Nicolas va en su 4. comppª. por haverle nombrado el Sr. Don Fernando 5. de Borja. = La Jornada de la emperatriz se ha 6. publicado para 10 de Agosto = jo en estando 7. desembargado el carruage que sera al otro dia que 8. habran dexado a su Magd. haranjuez me parto para 9. Valencia Dios me de buen biaje y Guarde a V. M. 10. muchos anyos como deseo y he menester. Madrid 11. 11 de Abril 1665. 12. Su Criado de V. M. 13. Geronymo Pelegrin 14. Miguel Sancho no ha inviado cossa, 15. V. M. no se sirve escrivirme haviendo 16. cartas tan frescas de Mallorca que tienen 17. estos SSs. mallorquines de 22 y 24 del 18. passado 19. Mi Señor [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "126:1857.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo32/126:1857.JPG",
+      "url": "/legajos/legajo-32/images/126:1857.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "126:1857.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (4)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-32/cartas/007099.json",
+  "primary_image_url": "/legajos/legajo-32/images/126:1857.JPG"
+}

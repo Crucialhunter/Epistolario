@@ -1,0 +1,38 @@
+{
+  "legajo_id": "32",
+  "id_carta": "7201",
+  "order_in_legajo": 201,
+  "signatura": "282:1959.JPG",
+  "nombre_carta": "Carta de José Balell a Pedro Santacilia y Pax",
+  "fecha_original": "25 de septiembre de 1666",
+  "lugar": "Barcelona",
+  "remitente": "José Balell",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Con este mi pasaje tengo besado la mano a v. s. y dado aviso de todas las novidades que por acá tenemos El que pondrá a este en mano de v. s. es el Rdo. Pre. fr. Sirillo Aloy religioso de nuestra señoría del Carmen va por visitador de los conventos de su Sta. religión de ese reino, [?] yendo persona de toda mi obligación [?] le he querido acompañar con esta sup. a v. s. sea servido. de valerle y mandarle asistir en todo lo que se le ofrezca así en lo tocante a su visita como en otra cual qª. cosa asegurando a v. s. que el Pe. y yo lo estimaremos y recibiremos a md. de la mano de v. s. cuya vida guarde. nro. felicísimos años como puede y [?] ser criado de V Sra. y ha de menester Barcelona y Sete. a 25 de 1666 cierto criado de v. s. que s. mb. Josep Balell [1§] Transcripción literal"
+  ],
+  "literal": [
+    "1. Con este mi pasaje tengo besa2. do la mano a VS. y dado aviso 3. de todas las novidades que por aca 4. tenemos 5. El que pondra a este en mano de VS. es el Rdo. 6. Pre. fr. Sirillo Aloy religioso de 7. nra Sª del Carmen va por visi8. tador de los conbentos de su Sta. reli9. gion dese Reyno, [?] iendo persona 10. de toda mi obligon. [?] le he 11. querido acompañar con esta supp. 12. a VS. sea servdo. de balerle y man13. darle asistir en todo lo que se le offres14. ca asi en lo tocante a su bisita co15. mo en otra qualqª. cosa asiguran16. do a VS que el Pe. y yo lo estimare17. mos y reciviremos a md. de la ma18. no de VS. cuia bida gde. nro. sr. 19. felicisimos años como puede y [?] 20. ser criado de V Sª. y ha menester Bar21. celona y Sette. a 25 de 1666 22. Cierto Criado de VS q. s. mb. 23. Joseph Balell [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "282:1959.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo32/282:1959.JPG",
+      "url": "/legajos/legajo-32/images/282:1959.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "282:1959.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-32/cartas/007201.json",
+  "primary_image_url": "/legajos/legajo-32/images/282:1959.JPG"
+}

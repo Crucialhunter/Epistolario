@@ -1,0 +1,38 @@
+{
+  "legajo_id": "37",
+  "id_carta": "5438",
+  "order_in_legajo": 48,
+  "signatura": "038:22",
+  "nombre_carta": "Carta de Bernat Rosselló Custos a Persona desconocida",
+  "fecha_original": "10 de septiembre de 1692",
+  "lugar": "Ciutadella",
+  "remitente": "Bernat Rosselló Custos",
+  "destinatario": "Persona desconocida",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Compara la seva tenc rebuda que en participa de sa salut com és bona jo la tenc pel que en manarà jo li estim les bones esperances en dona que no sare molt llarg encara que és veritat que per breu qui sia per mi es llarg per la falta fas en ma casa e Sr. D. Balta zar m'ha escrita una carta en què en diu que el ancasidor ha parlat en el virrei i li a respost que era ma sa prest i que el na palat en el senyor llargament voldria saber el que ja en esta matèria a mi senyor li donarà molts {ESP. recados} de ma part jo li volia en viar una fura i el Govarnador me {ESP. dije} que li ni havia enviades dues i així m'enviarà a dir si li me'n enviaré el Agudant Sastra molts {ESP. recados} de ma part i que encara que no li torn resposta la seva que ten questa per pròpia que i en bel no fas sirimonies i que el Govarna Dr. li comana molt Déu el guarde. i setembre als 10 de 1692 Son compara pel que manarà Bernat Rossallo [1§] Transcripción literal"
+  ],
+  "literal": [
+    "1. Sr. Conpara la sua ten[c]h rabuda de que en2. partisipa de su salut com es bona yo la3. ten[c]h per lo que en manara yo le estim4. las bonas esperansas en dona de que no5. sare molt llar[c]h encara que es varitat6. que per breu qui sia per mi es llar[c]h per7. la falta fas en me casa e Sr. Dn Balta-8. zar me a escrita una carta en que en9. diu que el Sr. ancasidor a parlat en10. el Sr. Virey y li a respost que hera ma-11. sa prest y que el na palat en lo sañor12. llargament volri[a] seber lo q ya en esta13. materia ami Sañor li donara molts14. recados de me part yo li volia en-15. viar una fura y el Sr. Govarnador me16. dige q li ni avia enviades duas y17. axi me enviara a dir si li men anviare18. el Sr. Agudant Sastra molts recados de19. me part y que encara que no li torn20. rasposta la seva que ten questa per21. propia que y en bel no fas sirimon[i]as y que el Govarna-22. dor li comana molt D[e]u lo gde. y 7bre als 10 de 169223. Son conpara per lo q manara 24. Barnat Rossallo [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "038:22.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo37/038:22.JPG",
+      "url": "/legajos/legajo-37/images/038:22.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "038:22.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-37/cartas/005438.json",
+  "primary_image_url": "/legajos/legajo-37/images/038:22.JPG"
+}

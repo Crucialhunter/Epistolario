@@ -1,0 +1,43 @@
+{
+  "legajo_id": "26",
+  "id_carta": "4492",
+  "order_in_legajo": 229,
+  "signatura": "332:3587a.JPG",
+  "nombre_carta": "Carta de Jaime Antonio Cardell y Femenía a Pedro Santacilia y Pax",
+  "fecha_original": "13 de noviembre de 1655",
+  "lugar": "Barcelona",
+  "remitente": "Jaime Antonio Cardell y Femenía",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Señor mío, estimaré mucho esta halle a v. s. con la salud que yo deseo la mía al presente lo es para todo aquello v. s. me quisiere mandar. Hágole a saber como he entregado el dinero, juntamente con los pliegos y pólizas del bizcocho, y el punto que llegamos en Barcelona yo me ajunte con Francisco Hortas para ver si había ocasión de vender el bizcocho y no hallamos a nadie que lo comprase. Tenémosle almacenado, y ha sido muy aprisa por causa que mandaron que dispalmasen todas las galeras y nosotros hubimos de cargalas, y al punto que descargamos el bizcocho dieron orden a San Francisco fuese a los Alfaques. No hay otra cosa de que avisar a v. s., sino de esto de la guerra que todos los días entran en consulta por si echarán la gente de la armada en tierra o si se irá a tomar a Cadaqués y con esto v. s. me mande en cosas de su gusto, que lo haré como es obligación mía. Fecha en Barcelona a 13 de noviembre de 1655. Criado de v. s. que su mano besa Jaime Antonio Cardell y Femenia Sr. D. Pedro Santacillia y Pax [1§] A D. Pedro Santacilia y Pax, caballero de la orden de Calatrava y procurador real del reino de Mallorca, que Dios guarde muchos años. Transcripción literal"
+  ],
+  "literal": [
+    "1. Señor mio estimare mucho esta halle a VSª con2. la salud que yo deseo la mia al Presente lo3. es para todo aquello VSª me quisiere mandar4. agole a saber como he entregado el dinero jun5. tamente con los pliegos y polisas del biscocho6. y el punto que llegamos en Barzelona yo7. me ajunte con Franco. Ortas para ver si avia8. ocasion de vender el vis[co]cho y no hallamos9. nadie que lo comprase tenemosle almasena 10. do, y asido muy apriesa por causa que ma[n]11. daron que dispalmasen todas las gal[era]s[?] y nos12. otros uvimos de cargallas, y al punto que13. descargamos el viscocho dieron orden a san14. Franco. fuese a los alfaques, no ay otra cosa de15. que avisar a VSª sino desto de la guerra q[ue]16. todos los dias entran en consulta por si echaran la17. gente de la armada en tierra o si se hira a tomar18. a cadaquez y con esto VSª me mande en cosas de19. su gusto que lo hare como es obligasion mia20. fecha en Barz[elo]na a 13 de noviembre de 165521. Criado de VSª que su mano Besa22. Jaime antonio Cardell23. y Femania24. Sor. D. Pedro Santacillia25. y Pax [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "332:3587a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo26/332:3587a.JPG",
+      "url": "/legajos/legajo-26/images/332:3587a.JPG"
+    },
+    {
+      "filename": "333:3587b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo26/333:3587b.JPG",
+      "url": "/legajos/legajo-26/images/333:3587b.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "332:3587a.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-26/cartas/004492.json",
+  "primary_image_url": "/legajos/legajo-26/images/332:3587a.JPG"
+}

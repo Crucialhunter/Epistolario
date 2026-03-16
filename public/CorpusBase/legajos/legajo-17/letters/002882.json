@@ -1,0 +1,43 @@
+{
+  "legajo_id": "17",
+  "id_carta": "2882",
+  "order_in_legajo": 150,
+  "signatura": "255:1424a.JPG",
+  "nombre_carta": "Carta de Jerónimo Pelegrín de Aragüés a Pedro Santacilia y Pax",
+  "fecha_original": "22 de mayo de 1660",
+  "lugar": "Madrid",
+  "remitente": "Jerónimo Pelegrín de Aragüés",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Mi muchas cartas tengo escritas a v. m. dándole cuenta y razón de los negocios con que por ahora no tengo que decir más que continuar las estafetas. Para jueves a 10 del que viene es el día de la vista del pleito de la Inquisición. Dios nos dé buen suceso que no pierdo punto para que se despache. El obispado de Mallorca no está proveído ni publicadas las pensiones. A 20 de este ha llegado a esta corte el obispo Escolano. v. m. me envíe dos certificaciones la una del día que tuvo el Inter de procurador real y la otra del día que se publicó la pragmática para poder ajustar lo del sueldo y esto lo tengo pedido a v. m. con infinitas cartas y otras cosas que no repito y hasta ahora no tengo respuesta de cosa. Don Juan está muy bueno que ya v. m. no le conocerá muy bizarro y entra el decano en la capilla. Aseguro a v. m. que esto que digo no es vanidad mía. El duque de Montalto en llegando a la capilla lo llama y le quiere mucho v. m. escríbale. Toda la corte va Revuelta contra el Sr. don Luis porque dicen ha engañado al rey que se está en San Sebastián retirado sin poder ajustar el casamiento porque el francés quiere ahora otro tanto más de lo ajustado como es el Campo de Urgel y plazas en Flandes. Mas que quiere [1§] el francés que le den un puerto en las Indias para que sus bajeles puedan ir a contratar que es la mayor fuerza que se hace y de esto no se ha hablado hasta que su majestad ha estado ya para ajustar el casamiento que le fue fuerza salir. Su majestad de Tolosa irse a retirar a San Sebastián están juntándose cada día juntas. La reina nuestra señora con rogativas a Nuestra Señora de Atocha y por las iglesias nuestro patente el portugués haciendo sus entradas en Castilla y los moros han sitiado ha Orán. De las demás novedades daré aviso a v. m. el Sr. don Pasqual de Aragon con calentura y sangrado dos veces. Por acá comienzan a correr algunos tabardillos. La copia que va con esta es carta del duque de Medinaceli que ha escrito a don Juan v. m. procure a tener salud que es lo que conviene y Nuestro Señor le dé mucha vida en compañía de mi señora y demás de casa. Madrid 22 de mayo 1660 Su criado de v. m. Jeronimo Pelegrin A mi mujer no le escribo, dígale v. m. que estoy bueno Mi Sr. [2§] Transcripción literal"
+  ],
+  "literal": [
+    "1. Mi Sr. Muchas cartas Tengo escritas a .V.M. dandole quen=2. ta y racon de los negocios con que por agora no tengo que dicir 3. mas que continuar las estafetas.4. Para Juebes a 10 del que viene es el dia de la vista del pleÿto de 5. la Inquisicion Dios nos de buen Sucesso que no pierdo punto. 6. para que se despache.7. El obispado de Mallorca nosta proveihido ni publicadas 8. las pensiones= a 20 deste ha llegado a esta Corte el obispo 9. Escolano=10. V.M. me Invie dos sertificaciones la Una del dia que tuvo el Inter 11. de Procurador Real y la otra del dia que se publico la pragma=12. tica para poder aJustar lo del sueldo y esto lo tengo pedido 13. a V.M. con Infinitas cartas y otras cossas que no repito y asta 14. agora no tengo respuesta de cossa15. Don Juan esta Muÿ bueno que ja V.M. no le conocera muy bicaro 16. y entra el decano en la capilla aseguro a .V.M. questo 17. que Digo no es vanidad mia=El Sr. Duque de Montalto 18. en llegando a la capilla lo llama y le quiere Mucho V.M. 19. escribale.20. Toda la Corte va Rebuelta contra el Sr. Don Luis porque dizen ha 21. engañiado al Reÿ que sesta en San Sebastian Retirado sin 22. poder ajustar el Cassamiento, Porque el frances quiere 23. agora otrotanto mas de lo ajustado como es el Campo 24. de Urxel y palaças en frandes.= Mas que quiere [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "255:1424a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo17/255:1424a.JPG",
+      "url": "/legajos/legajo-17/images/255:1424a.JPG"
+    },
+    {
+      "filename": "256:1424b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo17/256:1424b.JPG",
+      "url": "/legajos/legajo-17/images/256:1424b.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "255:1424a.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (4)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-17/cartas/002882.json",
+  "primary_image_url": "/legajos/legajo-17/images/255:1424a.JPG"
+}

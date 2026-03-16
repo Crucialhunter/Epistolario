@@ -1,0 +1,43 @@
+{
+  "legajo_id": "10",
+  "id_carta": "1211",
+  "order_in_legajo": 78,
+  "signatura": "138-378a",
+  "nombre_carta": "Carta de Miguel Sancho a Jerónimo Pelegrín de Aragüés",
+  "fecha_original": "12 de octubre de 1668",
+  "lugar": "Alicante",
+  "remitente": "Miguel Sancho",
+  "destinatario": "Jerónimo Pelegrín de Aragüés",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Ninguna he tenido para haber de responder. Todas las cartas que hasta ahora han venido para Madrid las tengo remitidas con mucho cuidado y haré lo mismo en todas las ocasiones. Con esta va una carta del señor don Pedro para mi señora doña Leonor: v.m. la dé y me mande lo de su gusto, y Dios le guarde. Alicante y octubre, 12 de 1668. Amigo y servidor de v. m., Miguel Sancho Señor Jeronimo Pelegrin de Aragues [1§] [con letra de Jeronimo]{CAT. Alacant. Miquel Sancho. Té resposta.} Transcripción literal"
+  ],
+  "literal": [
+    "1. Ninguna he tenido para haver de res 2. ponder todas las cartas que hasta agora 3. an venido para Madrid las tengo re 4. mitidas con mucho cuidado y hare 5. lo mismo en todas las ocasiones. Con esta 6. va una crta del Sr. Don pedro para mi 7. Sra. Doña Leonor. V.M. la de y me mande lo 8. de su gusto y Dios le gde. Alicante y octte 9. 12 de 1668.Amigo y serr de V.M. 10. Miguel Sancho 11. [^Sr. Geronimo Pelegrin de Aragues^] [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "138-378a.jpg",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo10/138-378a.jpg",
+      "url": "/legajos/legajo-10/images/138-378a.jpg"
+    },
+    {
+      "filename": "139-378b.jpg",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo10/139-378b.jpg",
+      "url": "/legajos/legajo-10/images/139-378b.jpg"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "138-378a.jpg",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING",
+      "message": "Se detectaron caracteres sospechosos de encoding (4)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-10/cartas/001211.json",
+  "primary_image_url": "/legajos/legajo-10/images/138-378a.jpg"
+}

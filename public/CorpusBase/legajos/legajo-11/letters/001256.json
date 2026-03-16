@@ -1,0 +1,38 @@
+{
+  "legajo_id": "11",
+  "id_carta": "1256",
+  "order_in_legajo": 26,
+  "signatura": "033:5116.JPG",
+  "nombre_carta": "Carta de Bartomeu Domènech a Pedro Santacilia y Pax",
+  "fecha_original": "25 de marzo de 1643",
+  "lugar": "Zaragoza",
+  "remitente": "Bartomeu Domènech",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "V. m. se servirà d'encaminar aqueixa carta per a Nàpols que és de un criat del sr. don Antonio, de qui su s[enyoria] fa més confiança i molt amic meu i molt apassionat a coses de v. m. Encamina-lo v. m. a qui li paregui, sols tingui bon succés. Guardi Déu a v. m. Saragossa, 25 març 1643. . Bartomeu Domenech, prevere Transcripción literal"
+  ],
+  "literal": [
+    "1. VM se servirá de encami 2. nar aquexa carta per a Na 3. polés que es de vn criat 4. del sr. don Antonio de 5. que su s fa mes 6. confiansa y molt Ami 7. sh (de) meu y molt 8. apasionat a cossas 9. de VM encamina 10. la VM a qui li a 11. poraga sols tinga 12. bon suches. Gde deu 13. a VM caragossa 14. 25 marts 1643 15. Bartte Domenech, pres [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "033:5116.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo11/033:5116.JPG",
+      "url": "/legajos/legajo-11/images/033:5116.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "033:5116.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-11/cartas/001256.json",
+  "primary_image_url": "/legajos/legajo-11/images/033:5116.JPG"
+}

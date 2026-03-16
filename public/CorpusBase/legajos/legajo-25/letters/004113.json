@@ -1,0 +1,43 @@
+{
+  "legajo_id": "25",
+  "id_carta": "4113",
+  "order_in_legajo": 47,
+  "signatura": "095_147a.JPG",
+  "nombre_carta": "Carta de Diego Matías de Aragüés a Jerónimo Pelegrín de Aragüés",
+  "fecha_original": "4 de mayo de 1667",
+  "lugar": "Madrid",
+  "remitente": "Diego Matías de Aragüés",
+  "destinatario": "Jerónimo Pelegrín de Aragüés",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "V. m. esté muy contento por tener por fiscal de esa audiencia al Dr. Diego de Costa su amigo y paisano, tendré por acertado le dé la enhorabuena que podrá serle alcance aún aquí. El Sr. don Nicolas está muy mejorado y se levanta a las diez y se pasea muy bien por toda casa. Confío en Dios ha de quedar muy bueno. En volviendo a palacio tratará de su pretensión, aunque primero se ha de ver la de su padre que el decreto está ya en poder del protonotario más ha de doce días, y también primero se ha de ver el memorial que di antes de vacaciones en razón de la ayuda de costa y demás puntos que me ha ofrecido esta semana le despachará y el de Jaime Bauza también. No se puede más que hay muchas cosas de oficio y son muchos los consejos de Viguet he tenido carta este correo, en que me dice ha[ce] 15 días tiene la cajuela de las sobrasadas y que en la primera ocasión me la remitirá. En casa estamos todos buenos, a Dios gracias, muchas saludes de parte de Dña. Margarita y mía y a mi sobrina y niños y guarde Dios. Madrid a 4 de mayo de 1667. Tío y servidor de v. m. Diego Matias de Aragues Sr. Jeronimo Pelegrin de Aragues, mi sobrino [1§] A Jeronimo Pelegrin de Aragues, mi sobrino, guarde Dios. Mallorca Transcripción literal"
+  ],
+  "literal": [
+    "1. Vmd. este muy contento por tener por fiscal2. dessa Audiençia al Dr. Diego de Costa su amigo3. y paysano, tendre por açertado le de la enora4. buena que podra ser le alcanze aun aqui5. El Sr. Don Nicolas esta muy megorado y se levanta a6. las diez y se passea muy bien por toda cassa7. Confio en Dios a de quedar muy bueno en volviendo8. a Palaçio tratara de su pretenssion, aunque9. primero se a de ber la de su Padre que el decre10. to esta ya en poder del Sr. Protonot[ario] mas a de11. doçe dias, y tanbiem primero se ha de ber el12. memorial que di antes de vacaçiones en razon13. de la ayuda de costa y demas puntos que me ha14. ofreçido esta semana le despachara y el de15. Jayme bausa tanvien, no se puede mas que ay16. muchas cossas de offiçio y son muchos los conssºs17. De Viget he tenido carta este correo, en que me diçe a 1518. dias tiene la caxuela de las sobre asadas y que en19. la primª ocasion me la remitira, en casa estamos20. todos buenos a Dios graçias muchas saludes de parte21. de Da. Margta. y mia y a mi sobrina y niños y gde Dios22. Ma[dri]d a 4 de Mayo de 166723. Tio y ser[vid]or de Vm.24. Diego Mathias de Aragues25. Sr. Gernº Pelegrin de Aragues mi sobº [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "095_147a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo25/095_147a.JPG",
+      "url": "/legajos/legajo-25/images/095_147a.JPG"
+    },
+    {
+      "filename": "096_147b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo25/096_147b.JPG",
+      "url": "/legajos/legajo-25/images/096_147b.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "095_147a.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (7)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-25/cartas/004113.json",
+  "primary_image_url": "/legajos/legajo-25/images/095_147a.JPG"
+}

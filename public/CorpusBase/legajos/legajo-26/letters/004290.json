@@ -1,0 +1,38 @@
+{
+  "legajo_id": "26",
+  "id_carta": "4290",
+  "order_in_legajo": 27,
+  "signatura": "034:3384.JPG",
+  "nombre_carta": "Carta de Enrique de Aragón (VI duque de Cardona) a Pedro Santacilia y Pax",
+  "fecha_original": "10 de julio de 1630",
+  "lugar": "Lucena",
+  "remitente": "Enrique de Aragón (VI duque de Cardona)",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Llégome un correo de Madrid el sábado pasado [?] de v. m. de 29 del pasado y 6 de este que vinieron a [?] corte con el propio que de hay se despachó y vistas las [?] los médicos con lo que me escribe v. m. cerca de la enfermedad [?] duquesa, me pusiera en camino al punto si mi señora no me lo impidiera; pero con todo insisto en lo que tanto me va, pues no me parece lo podré pasar sin llegar a cuidar de salud, que pende de ella todo mi ser. Entre las cartas que he tenido de hoy puedo asegurar que he estimado mucho las de v. m. por el desengaño con que me habla que es lo que más se debe agradecer en ocasiones de tanto aprieto y así pues v. m. me ha obligado tanto con su ida a ese lugar (de que siempre está reconocido), se ha de servir de írmelas continuando con mucha puntualidad, pues se debe creer que estaré todo pendiente de estos avisos y tan deseoso como puede pensarse de que sean tales como los hemos. Mi sra. la condesa acrecienta con la merced que nos hace las obligaciones que le reconocemos y siendo tan grande esta última no habrá [?] su servicio en que yo no me muestre el mayor interesado [?] a v. m. muchos años. Lucena 10 de julio de 1630. [?] Señor don Pedro que su más gran amigo y me lo [?]. Sr. don Pedro de Santacilia Transcripción literal"
+  ],
+  "literal": [
+    "1. Llegome un correo de Madrid el sabado passado [...]2. de Vm de 29 del passado y 6 deste que vinieron a [...]3. corte con el propio q de ay se despacho y vistas las [...]4. los medicos con lo que me escribe Vm cerca de la enfermedad [...]5. Duquessa, me pussiera en camino al punto si mi señora no me lo im6. pidiera pero con todo insisto en lo que tanto me va pues no me pa7. rece lo podre passar sin llegar a cuydar de salud que pende della8. todo mi ser. Entre las cartas que he tenido de ay puedo asegurar q9. he estimado mucho las de Vm. por el desengaño con que me habla10. que es lo que mas se debe agradecer en ocassiones de tanto aprieto y assí11. pues V.m. me ha obligado tanto con su yda a ese lugar (de que simpre esta12. re reconocido) se ha de servir de irmelas continuando con mucha puntua13. lidad pues se deve creher que estare todo pendiente destos abissos, y tan14. desseosso como puede penssarse de que sean tales como los hemos [...]15. Mi Sra. la Condessa acrecienta con la md que nos hace las obli[gaciones]16. que le reconocemos y siendo tan grande esta ultima no abra [...]17. su servicio en que yo no me muestre el mayor interessado [...]18. a Vm. muchos años Lucena 19[?] de Jullio de 1630 [...]19. Señor don Pedro que es Sr. [...]20. gra [?] [...]21. Sr. Don Pedro de Sta. Cilia [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "034:3384.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo26/034:3384.JPG",
+      "url": "/legajos/legajo-26/images/034:3384.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "034:3384.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-26/cartas/004290.json",
+  "primary_image_url": "/legajos/legajo-26/images/034:3384.JPG"
+}

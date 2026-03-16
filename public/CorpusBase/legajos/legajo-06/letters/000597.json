@@ -1,0 +1,60 @@
+{
+  "legajo_id": "6",
+  "id_carta": "597",
+  "order_in_legajo": 100,
+  "signatura": "125-68a",
+  "nombre_carta": "Carta de Ignasi Vila a Cecilia Zaforteza y Sureda de Sant Martí",
+  "fecha_original": "6 de marzo de 1757",
+  "lugar": "Barcelona",
+  "remitente": "Ignasi Vila",
+  "destinatario": "Cecilia Zaforteza y Sureda de Sant Martí",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Molt il·lustre senyora dona Cecília, Gustós rebo la de v. s. del 26 del passat per les bones notícies encontro de sa salut, i {ESP. demés} d’eixa de v. s, mentre que, a Déu gràcies, queda la que m’assisteix junt la parenta i fills pel que sia de son {ESP. agrado} manar-nos. Ens som summament alegrats i n’hi donam tots l’enhorabona que el plet hagi sortit a son favor puix, segons m’escrigué el Dr. Gabriel, queda agraïdíssim per haver {ESP. lograt} tot el que se podia lograr, que fou condemnar a la part contrària en costes i he quedat admirat amb la prestesa tingué v. s. l’avís, doncs jo el tinguí [1§] De la mateixa data de v. s. i la rebí pel correu dia 18 del passat. I veig v. s. la rebé el dia 23 que fou amb la major brevetat se pogués encaminar dita carta. I, fins al present, no he tinguda altra notícia del Dr. Gabriel i penso que a sa partença de Madrid me donarà avís, doncs així li tinc escrit, que desitjo sortir a {ESP. recibir}-lo en Martorell mitja jornada disten d’esta, i v. s. queda amb tot descans, doncs en esta sa casa sempre serà ben arribat. Pere Ferrer, mariner del correu, entregarà l'espadinet me demanà per son nebot, el que folgaré sia de son gust, i és son {ESP. importe} 16 peces i 12 lliures [?] molts [1§] catalans com veurà amb el paper inclús. Esto és quant amb la present se m’ofereix cansar-la v. s., mentre quedo per servir-la i retornar-li les degudes saluts amb tota estimació de part mia parenta i fills, mentre quedam per servir-la i ens mani en allò de son {ESP. agrado}. D’esta sa casa Barcelona i marçals 6 de 1757. Besa la mà de v. s. son més humil servidor, Ignasi Vila Molt il·lustre senyora dona Cecilia Zaforteza [En la parte izquierda del documento, de arriba a abajo]El Dr. Estrany entregarà a v. s. cinc pecetes en plata Transcripción literal"
+  ],
+  "literal": [
+    "1. Molt Illa. Sra. Da. Cicilia 2. gustos rebo la de V.Sria. del 26 del 3. passat per las bonas noticias encontro 4. de sa salut, y demes de eixa de V.S. 5. mentres que á Deu gracias queda la 6. que me assisteix junt la Parenta y fills 7. per lo que sia de son agrado manaros 8. Nos som sumament alegrats, y ni 9. donam tots la enorabona que lo plet 10. aja sortit á son fabor, pues segons 11. me escrigue lo Dr. Gabriel queda 12. agrahidissim per aver lograt tot lo que 13. sa podia lograr, que fou comdemnar 14. á la part Contraria en Costas, y 15. he quedat admirat abla prestesa 16. tingue V.S. lo avis, pues jo lo tingui [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "125-68a.jpg",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo06/125-68a.jpg",
+      "url": "/legajos/legajo-06/images/125-68a.jpg"
+    },
+    {
+      "filename": "126-68b.jpg",
+      "original_url": "http://www.studiolum.com/Web3/img/Legajo06/126-68b.jpg",
+      "url": "/legajos/legajo-06/images/126-68b.jpg"
+    },
+    {
+      "filename": "127-68b.jpg",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo06/127-68b.jpg",
+      "url": "/legajos/legajo-06/images/127-68b.jpg"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "125-68a.jpg",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    },
+    {
+      "code": "IMAGE_DOWNLOAD_FAIL",
+      "message": "HTTP 404",
+      "context": {
+        "url": "http://www.studiolum.com/Web3/img/Legajo06/126-68b.jpg"
+      }
+    },
+    {
+      "code": "IMAGE_COUNT_MISMATCH",
+      "message": "Imágenes detectadas (3) != descargadas (2)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-06/cartas/000597.json",
+  "primary_image_url": "/legajos/legajo-06/images/125-68a.jpg"
+}

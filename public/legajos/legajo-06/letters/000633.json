@@ -1,0 +1,43 @@
+{
+  "legajo_id": "6",
+  "id_carta": "633",
+  "order_in_legajo": 133,
+  "signatura": "193-98a",
+  "nombre_carta": "Carta de Tomás Mariano Quint Zaforteza a Cecilia Zaforteza y Sureda de Sant Martí",
+  "fecha_original": "4 de agosto de 1770",
+  "lugar": "Madrid",
+  "remitente": "Tomás Mariano Quint Zaforteza",
+  "destinatario": "Cecilia Zaforteza y Sureda de Sant Martí",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Madrid i agost 4 de 1770. Tia Cecília, Esper esta la trobarà amb perfecta salut. Jo la {ESP. gos} bona, a Déu gràcies, amb tota la família pel que sia del seu gust manar-me. Em vaig alegrar de què hagués feta la diligència per en Caliu, però hauria volgut que la resposta fos estat ell. I, així, pens [A la izquierda, de arriba a abajo]que amb aquest ja li veuré cara. De part de tots rebrà moltes memòries i de mi a son gust, que no desig fer altra cosa. Déu la guardi molt anys com desig. Son nebot qui més l’estima de cor, Tomàs Mariano Quint Zaforteza. Transcripción literal"
+  ],
+  "literal": [
+    "1. Madrid y Agost 2. 4 de 1770 3. Tia Cecilia esper 4. esta la trobera ab perfeta 5. salud jo la gos bona á 6. Déu gracias hem tota la 7. familia per lo que sia del 8. seu gust Manarme. 9. Em vatx 10. alegrar de que hagues feta la 11. diligenci per en Caliu pero 12. hauri volgut que la respos- 13. ta fos estat ell y axi pens 14. [A la izquierda, de arriba a abajo]15. que ab aquest ja li veure Care, De pa- [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "193-98a.jpg",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo06/193-98a.jpg",
+      "url": "/legajos/legajo-06/images/193-98a.jpg"
+    },
+    {
+      "filename": "194-98b.jpg",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo06/194-98b.jpg",
+      "url": "/legajos/legajo-06/images/194-98b.jpg"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "193-98a.jpg",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (2)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-06/cartas/000633.json",
+  "primary_image_url": "/legajos/legajo-06/images/193-98a.jpg"
+}

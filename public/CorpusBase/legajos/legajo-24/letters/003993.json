@@ -1,0 +1,38 @@
+{
+  "legajo_id": "24",
+  "id_carta": "3993",
+  "order_in_legajo": 117,
+  "signatura": "066:4046.JPG",
+  "nombre_carta": "Carta de Diego de Guardiola y Guzmán a Pedro Santacilia y Pax",
+  "fecha_original": "10 de enero de 1661",
+  "lugar": "Vilafranca del Penedés",
+  "remitente": "Diego de Guardiola y Guzmán",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Don Pedro dos camaradas más sin plaza con esta o sin [?] suplico los embarque el uno con un criado como lo dice la carta que os dará el otro que es el que os dará, está solo hacedme merced en esta forma que se embarguen y [?] en suceso como lo espero de vos. Guarde Dios del {CAT. con pot ho vol}. Vilafranca del Penedes 10 de enero 1641. Vuestro amigo y servidor Don Diego de Guardiola y Guzman Transcripción literal"
+  ],
+  "literal": [
+    "1. Don Pedro dos camaradas mas sin pla2. ca con esta o syn (yo yo??) suplico los3. enbarque el uno con un criado como lo4. dise la carta q os dora el otro q es el q 5. os dora esta solo asedme merced enes6. ta forma q se enbarguen y [?]7. en suseso como lo espero de bos guar8. do dios del con pot o bul byllafran9. ca de panades 10 de enero 164110. buestro amigo y serbidor11. Don Diego de Guardiola y gusman [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "066:4046.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo24/066:4046.JPG",
+      "url": "/legajos/legajo-24/images/066:4046.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "066:4046.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-24/cartas/003993.json",
+  "primary_image_url": "/legajos/legajo-24/images/066:4046.JPG"
+}

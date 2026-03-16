@@ -1,0 +1,38 @@
+{
+  "legajo_id": "17",
+  "id_carta": "2802",
+  "order_in_legajo": 68,
+  "signatura": "107:1344.JPG",
+  "nombre_carta": "Carta de Basilio de Castellví y Ponce a Pedro Santacilia y Pax",
+  "fecha_original": "9 de octubre de 1658",
+  "lugar": "Valencia",
+  "remitente": "Basilio de Castellví y Ponce",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Señor mío, con particular alborozo recibo su carta de v. s. de 21 del pasado así por las nuevas que me trae de su salud de v. s. como por la merced que me hace participándome la nueva de haber tenido estado esa mi señora de que doy a v. s. la enhorabuena y v. s. le suplico larreciba de doña Laura y la de parte de Ambos a mi señora doña Leonor y a la recien casada asegurándose v. s. quedamos con el al borozo que corresponde a nuestra obligación y desearé sumame siga a este gusto el de la sucesión para que yo tenga más señores aquí en servir, v. s. me tiene siempre muy a su servicio y el primero en todas ocasiones Dios guarde a v. s. muchos años en compañía de mi Sra. doña Leonor cuyas manos besamos da Laura y yo y Giuseppe y todas las del Sr. don Juan Miguel. Valencia y 9 de octubre de 1658. Besa a v. s. su mano su mayor servidor D. Basilio Castellví y Ponce Sr. don Pedro de Santacilia y Pax [1§] Transcripción literal"
+  ],
+  "literal": [
+    "1. Señor mio, con particular Alboroço Recivo su carta de VS de 21 2. del pasado asi por las nuebas que me trahe de su salud de VS como 3. por la merçed que me haçe participandome la nueba de haber tenido 4. estado esa mi Señora de que doy a VS lanorabuena y VS le supp[li]co la 5. rreciva de doña Laura y la de de parte de Ambos a mi Señora doña 6. Leonor y a la reçien cassada asegurandose VS quedamos con el al7. boroço que corresponde a nra obligación y deseare sumame siga 8. a este gusto el de la suçesión para que yo tenga mas señores a qui9. en servir, VS me tiene siempre mui a su servio y el primero 10. en todas ocassiones Dios Gde. a VS ms años en compañia de mi Sra. 11. Doña Leonor cuyas manos vesamos da Laura y yo y Jusepe y todas 12. las del Sr. Don Juan Miguel. Valencia y 9 de octubre de 1658.13. B a VS s[u] m su mor sdor14. D. Basilio Castellví 15. y Ponçe16. Sr. Don Po de Santa Siçilia y Pax [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "107:1344.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo17/107:1344.JPG",
+      "url": "/legajos/legajo-17/images/107:1344.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "107:1344.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-17/cartas/002802.json",
+  "primary_image_url": "/legajos/legajo-17/images/107:1344.JPG"
+}

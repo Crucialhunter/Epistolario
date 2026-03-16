@@ -1,0 +1,43 @@
+{
+  "legajo_id": "30",
+  "id_carta": "6592",
+  "order_in_legajo": 76,
+  "signatura": "086:5430a",
+  "nombre_carta": "Carta de Juan Bautista Despuig a Persona desconocida",
+  "fecha_original": "9 de diciembre de 1619",
+  "lugar": "Mallorca",
+  "remitente": "Juan Bautista Despuig",
+  "destinatario": "Persona desconocida",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Â [1§] Â [2§] Transcripción literal"
+  ],
+  "literal": [
+    "1. 1."
+  ],
+  "imagenes": [
+    {
+      "filename": "086:5430a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo30/086:5430a.JPG",
+      "url": "/legajos/legajo-30/images/086:5430a.JPG"
+    },
+    {
+      "filename": "087:5430b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo30/087:5430b.JPG",
+      "url": "/legajos/legajo-30/images/087:5430b.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "086:5430a.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (6)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-30/cartas/006592.json",
+  "primary_image_url": "/legajos/legajo-30/images/086:5430a.JPG"
+}

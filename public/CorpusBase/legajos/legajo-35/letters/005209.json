@@ -1,0 +1,38 @@
+{
+  "legajo_id": "35",
+  "id_carta": "5209",
+  "order_in_legajo": 22,
+  "signatura": "007:8054.JPG",
+  "nombre_carta": "Carta de marqués de Leganés a Pedro Santacilia y Pax",
+  "fecha_original": "15 de noviembre de 1638",
+  "lugar": "Alejandría",
+  "remitente": "marqués de Leganés",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "De muy gran cuidado me ha sacado v. m. con su carta de 19 de septiembre y con las buenas nuevas que me da de su salud, porque faltándome tantos días ha, era sumo el deseo con que las esperaba. mucho me espanto que no supiese, entonces, v. m. el buen suceso de Fuenterrabia, pues se había conseguido a los 7 del mismo mes. Hanos alegrado lo que v. m. puede considerar y espero que ha de ser de gran consecuencia para otros efectos. de acá no se ofrece qué decir a v. m. sino que he estado más de tres meses muy malo de unas tercianas dobles [?] saqué del sitio de Verceli pero, gracias a Dios, quedo ya muy mejorado y tan a servicio de v. m. como debo. Vamos tratando de poner en cuarteles el ejército porque ya el tiempo no es para otra cosa. Dios guarde a v. m. muchos años. de Alesandría, 15 de no [viem] b [r] e, 1638. El marques de Leganes. Sr. D. Pedro de Santacilia. Transcripción literal"
+  ],
+  "literal": [
+    "1. De muy gran cuydo me ha sacado Vm. con su carta de 19 de 7bre.2. y con las buenas nuevas que me da de su salud porque faltandome3. tantos dias ha, era summo el desseo con que las esperava, Mucho4. me espanto que no supiese entonzes V.m el buen suceso de Fuente5. rravia pues se havia conseguido a los 7 del mismo mes, hanos ale6. grado lo que V.m puede considerar, y espero que ha de ser de gran7. consequencia para otros efectos, De aca no se ofreze que dezir 8. a V.m sino que he estado mas de tres messes muy malo de9. [unas tercianas dobles] [...] saque del sitio de Verceli, pero10. gras a Dios quedo ya muy mejorado y tan a servo de V.m11. como devo, vamo tratando de poner en quarteles el exto12. porque ya el tiempo no es para otra cossa. Dios gde. a V.m13. muchos años, De Aleman[i]a 15 de nobbe. 163814. El Ms de Leganés15. Sr. D. Pedro de Sta. Cilia [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "007:8054.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo35/007:8054.JPG",
+      "url": "/legajos/legajo-35/images/007:8054.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "007:8054.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (2)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-35/cartas/005209.json",
+  "primary_image_url": "/legajos/legajo-35/images/007:8054.JPG"
+}

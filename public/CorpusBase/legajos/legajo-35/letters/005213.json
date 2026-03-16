@@ -1,0 +1,38 @@
+{
+  "legajo_id": "35",
+  "id_carta": "5213",
+  "order_in_legajo": 26,
+  "signatura": "013:8058.JPG",
+  "nombre_carta": "Carta de Marqués de las [??] a Pedro Santacilia y Pax",
+  "fecha_original": "27 de noviembre de 1639",
+  "lugar": "Pamplona",
+  "remitente": "Marqués de las [??]",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Hánme dado cuenta que, pasando unos carreteros de Aragón por un castillo, les hurtaron algunas cosas de importancia que vendían para los padres capuchinos de esta ciudad y Rentería, y un talego de Acagran. y, es sin duda, cometieron este delito los soldados de allí están alojados, y es de calidad que no conviene se disimule. y así, hará v. m. luego las diligencias para que se averigue la verdad. y de lo que en esto hiciere me dará cuenta. Guarde Dios a v. m. muchos años como deseo. Pam plona, y noviembre 27, de 1639. Fuera de si resto tan justo me hará el [?] mucho gusto en procurar se devuelva y restituya a estos padres las que les traían. El Marqués de los [?] Sr. D. Pedro Santacilia Transcripción literal"
+  ],
+  "literal": [
+    "1. Han me dado quenta que Pasando unos carretros2. de Aragon por car Castillo les hurtaron algunas3. cossas de ymportancia que venian para los padres4. capuchinos desta ciud y Renteria y un talego de5. Acagran y es sin duda cometieron este delito los6. soldados de alli Estan alojados y es de calidad7. que no conviene se disimule y asi hara Vm luego8. las diligençias para que se aberigue la Berd9. y de lo que enesto hisiere me dara quenta10. ge. Dios a Vm Muchos a<ños> como desseo Pam11. plona y Nove 27 de 163912. Fuera desi resto tan justo me ara el [?] mu13. cho gusto en procurar se de sueltra y rrestituia14. a estos padres las que les traian15. El Marq de los [?]16. Sr. D. Pº Sancta Çilia [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "013:8058.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo35/013:8058.JPG",
+      "url": "/legajos/legajo-35/images/013:8058.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "013:8058.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-35/cartas/005213.json",
+  "primary_image_url": "/legajos/legajo-35/images/013:8058.JPG"
+}

@@ -1,0 +1,38 @@
+{
+  "legajo_id": "34",
+  "id_carta": "5005",
+  "order_in_legajo": 86,
+  "signatura": "050:6922.JPG",
+  "nombre_carta": "Carta de José Balell a Pedro Santacilia y Pax",
+  "fecha_original": "11 de octubre de 1656",
+  "lugar": "Barcelona",
+  "remitente": "José Balell",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "capçalera Sr. D. Pedro Santacilia mi Por todas Las ocasiones he procurado el saber de la slud de v. s. como acon Interesado, y juntamente he sabido de la merced tan merecida que su majestad que Dios guarde, ha sido senudo hacerle de procurador real dese reino de que doy a v. s. la enhorabuena como la he tenido el capitán Juan Brotat que lleva esta va proveído del gobierno de empudia y aunque es propio de v. s. el amparar apobres y honrados soldados no puedo dejar de Representar a v. s. lo cuan bien ha servido para que su merced y yo tengamos siempre la gracia y amparo de v. s. cuya vida guarde nrosr felices años con Los aumentos de estado y gracia que merced y este criado desea y ha me/ menester Barcelona y Jto a 2 de 1656 criado de v. s. que sus manos besa Gusepe Balell [1§] Transcripción literal"
+  ],
+  "literal": [
+    "1. [capçalera] Sr. D. Po Santacilia mi sr2. Por todas Las ocasiones he procurado3. el saber dela slud de vs. como [acon]4. Interesado, y Juntamte he Savido dela5. md tan merecida que su Magd q dios gde,6. ha sido senudo hazerle de Procurador7. Real dese Reyno de que doi a vs la8. norabuena como la he tenido9. el Cappn Juan B[ro]tat que lleva esta va10. provehido del Gobierno de empudia11. y aun que es propio de VS. el amparar12. apobres y onrados soldados [n]o puedo13. dejar de Representar a VS lo quan bien14. ha serv[i]do para que su md y yo tengamos15. siempre La gracia y amparo de Vs.16. cuia vida gde nrosr felices años con17. Los aumentos de estado y gracia que18. merce y este Criado desea y ha me/19. nester Barcelona y [Jto] A ii de 165620. Criado de v.s. q s[u] m b21. Gusepe Balell [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "050:6922.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo34/050:6922.JPG",
+      "url": "/legajos/legajo-34/images/050:6922.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "050:6922.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-34/cartas/005005.json",
+  "primary_image_url": "/legajos/legajo-34/images/050:6922.JPG"
+}

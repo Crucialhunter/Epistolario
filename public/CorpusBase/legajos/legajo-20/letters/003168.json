@@ -1,0 +1,43 @@
+{
+  "legajo_id": "20",
+  "id_carta": "3168",
+  "order_in_legajo": 45,
+  "signatura": "049:5949a.JPG",
+  "nombre_carta": "Carta de Cristóbal Crespí de Valldaura y Brizuela a Pedro Santacilia y Pax",
+  "fecha_original": "20 de diciembre de 1655",
+  "lugar": "Madrid",
+  "remitente": "Cristóbal Crespí de Valldaura y Brizuela",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "De particular gusto han sido para mi las noticias de su salud de v. m. duplicándoseme con la ocasión de emplearme en su servicio pues lo haré siempre con la fineza que corresponde a nuestra amistad Antigua como ahora lo e ejecutado hablando al señor vicecanciller para el buen suceso de su pretensión de v. m. y habiéndole tenido favorable me lo aviso luego por El papel que remito a v. m. suplicándole juntamente que en cuanto por acá se ofreciere no se valga v. m. de otra voluntad que yo; gue. Dios a v. m. muchos años Madrid 2 de octubre de 1655. Y sabe v. m. que no puedo faltar a su servicio porque yo soy amigo de toda la vida mayor [?] Jnfinitos [?] Don Luis Ponce de Leon Sr. D. Pedro de Santacilia [1§] Excelentísimo Sr. A la carta del duque de Arcos [?] que v. e. me remitió con su papel de 18 de agosto respondo en la que va aquí que no lo he hecho antes por avisar a su excelencia el suceso de la pretensión de D. Pedro Santacilia que ha sido como deseaba de que he tenido particular gusto y siempre le tendré de servir a v. e. que guarde. M. s. largos años. Madrid a 20 de septiembre 1655. Besa las manos de v. e. su mayor servidor Don Cristobal Crespí de Valldaura Sr. don Luis Ponce de Leon Transcripción literal"
+  ],
+  "literal": [
+    "1. De Particular Gusto han sido para mi las 2. notiçias de su salud de V.m duplicandoseme 3. con la ocassion de emplearme en su servio 4. pues lo hare siempre con la fineça que corres- 5. ponde a nra Amistad Antigua como aora 6. lo e executado hablando Al señor Biçecan 7. çeller para el buen suçesso de su pretension8. de V.m. y haviendole tenido favorable me lo 9. Avisso luego por El papel que remito a Vm 10. suplicandole juntamente que en quanto 11. por aca se ofreçiere no se balga Vm de otra 12. Voluntad que yo; gue. Dios a V.m. muchos 13. Años Md 2 de otte de 1655 ya save14. [?] q[?] no puedo faltar a su 15. serviçio porque yo soy amigo 16. de toda la vida 17. mayor [?] Jnfinitos[?] 18. Don Luis de [?] 19. Ponçe de Leon 20. Sr D. Po. de santaçilia [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "049:5949a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo20/049:5949a.JPG",
+      "url": "/legajos/legajo-20/images/049:5949a.JPG"
+    },
+    {
+      "filename": "050:5949b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo20/050:5949b.JPG",
+      "url": "/legajos/legajo-20/images/050:5949b.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "049:5949a.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (2)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-20/cartas/003168.json",
+  "primary_image_url": "/legajos/legajo-20/images/049:5949a.JPG"
+}

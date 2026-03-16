@@ -1,0 +1,78 @@
+{
+  "legajo_id": "35",
+  "num_cartas": 215,
+  "num_imagenes": 299,
+  "rango_temporal": [
+    1627,
+    1669
+  ],
+  "remitentes_frecuentes": [
+    {
+      "name": "Persona desconocida",
+      "count": 18
+    },
+    {
+      "name": "Gabriel Seguí",
+      "count": 14
+    },
+    {
+      "name": "Miguel Bautista de Lanuza",
+      "count": 10
+    },
+    {
+      "name": "Bartolomé Mercadal",
+      "count": 8
+    },
+    {
+      "name": "Pedro de Guevara",
+      "count": 6
+    }
+  ],
+  "destinatarios_frecuentes": [
+    {
+      "name": "Pedro Santacilia y Pax",
+      "count": 197
+    },
+    {
+      "name": "Persona desconocida",
+      "count": 7
+    },
+    {
+      "name": "No consta",
+      "count": 2
+    },
+    {
+      "name": "Magdalena de Zaforteza i Rocabertí",
+      "count": 1
+    },
+    {
+      "name": "comte de Perelada i marquès d'Anglesol",
+      "count": 1
+    }
+  ],
+  "lugares_frecuentes": [
+    {
+      "name": "Maó",
+      "count": 55
+    },
+    {
+      "name": "Ciutadella",
+      "count": 25
+    },
+    {
+      "name": "Madrid",
+      "count": 22
+    },
+    {
+      "name": "Castillo de San Felipe",
+      "count": 17
+    },
+    {
+      "name": "Lugar sin especificar",
+      "count": 14
+    }
+  ],
+  "temas_frecuentes": [],
+  "warnings_count": 66,
+  "densidad_narrativa_estimada": "Media"
+}

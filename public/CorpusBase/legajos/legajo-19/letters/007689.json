@@ -1,0 +1,38 @@
+{
+  "legajo_id": "19",
+  "id_carta": "7689",
+  "order_in_legajo": 10,
+  "signatura": "374_7896.JPG",
+  "nombre_carta": "Carta de Diego de Rocabertí a Pedro Santacilia y Pax",
+  "fecha_original": "fecha sin especificar",
+  "lugar": "Barcelona",
+  "remitente": "Diego de Rocabertí",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "[1§] Transcripción literal"
+  ],
+  "literal": [
+    "1. Voldria aguessen tingut molt bon passatge [?] 2. abaxo siquiera recomsarieu lo disgu ?? 3. ?? causat la llarga detencio en la costa [?] 4. veu [?] nedo bonas novas y juntament demas [?] 5. Lo temps esta per asi malíssim ab mes fret que ?? 6. lo iuern y las muntañas carregadas de neu ab tot esta publi7. enda la embarcasio de Sa altesa pera [?] 8. y en fe de que a de ser certa. se partí despusayr apres de dinar 9. el Duc de Cardona pera Cadaques ahont lo espera per que esta 10. señalat aquell port pera fer detener las galeras y assegurar 11. desde alli LLETRA DIFÍCIL [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "374_7896.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo19/374_7896.JPG",
+      "url": "/legajos/legajo-19/images/374_7896.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "374_7896.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-19/cartas/007689.json",
+  "primary_image_url": "/legajos/legajo-19/images/374_7896.JPG"
+}

@@ -1,0 +1,43 @@
+{
+  "legajo_id": "3",
+  "id_carta": "449",
+  "order_in_legajo": 10,
+  "signatura": "24-12a",
+  "nombre_carta": "Carta de Juan Jerónimo Jordán a Juan Miguel de Santacilia y Togores",
+  "fecha_original": "29 de noviembre de 1662",
+  "lugar": "Madrid",
+  "remitente": "Juan Jerónimo Jordán",
+  "destinatario": "Juan Miguel de Santacilia y Togores",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "No sabré decir con el gusto que recibía la de vuestra merced de 4 de noviembre por las buenas nuevas y suceso de su jornada, pues aunque pecador hice memoria en mis pobres sacrificios, y doy al Señor muchas gracias por haberles librado de mal, y para que dé a vuestra merced muy cumplida salud y contento para que goce del señor padre, casa y patria, y nos le deje ver en la corte, con ella a todos sus servidores; dándome a mí como su más afecto capellán muchas órdenes de su servicio, cuya vida aumente Nuestro Señor a vuestra merced los muchos años que deseo. De Madrid y noviembre a 29 de 1662. A Juan, de vuestra merced mis memorias. Servidor más afecto y capellán de vuestra merced, que sus manos besa. Licenciado Juan Jeronimo Bautista Jordán y Cañigral. [?] Señor don Juan de Santacilia. [1§] Madrid, del licenciado Juan Jeronimo Jordan de 29. {CAT. Desembre} 1662. Recibida a 28 febrero 1663. Transcripción literal"
+  ],
+  "literal": [
+    "1. No sabre decir con el gusto que recivi a la de vm2. de 4 de Noviembre por las buenas nuebas y3. suceso de su jormada, pues aunq pecador hice4. memoria en mis pobres sacrificios y doi al Sr.5. muchas gracias por averles librado de mal,6. y paraq de a vm mui cumplida salud,7. y contento paraque goce del Sr. Padre, cassa8. y Patria, y nos le dexe ber en la corte con ella9. a todos sus servidores; dandome a mi como10. su mas afecto cappn muchas ordenes de11. su servicio cuia vida aumente no Sr a vm12. los muchos años que deseo de Madrid13. y Nobiembre a 29 de1662 a juan de vm14. mis memorias.15. Servidor mas afecto y16. Cappn de vm q s ms B br> Licendo Juan Geronimo Bauta 17. Jordan y Cañigral [?] 18. Sr. D. Juan de Santacilia [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "24-12a.jpg",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo03/24-12a.jpg",
+      "url": "/legajos/legajo-03/images/24-12a.jpg"
+    },
+    {
+      "filename": "25-12b.jpg",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo03/25-12b.jpg",
+      "url": "/legajos/legajo-03/images/25-12b.jpg"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "24-12a.jpg",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (2)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-03/cartas/000449.json",
+  "primary_image_url": "/legajos/legajo-03/images/24-12a.jpg"
+}

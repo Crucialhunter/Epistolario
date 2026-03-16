@@ -1,0 +1,38 @@
+{
+  "legajo_id": "29",
+  "id_carta": "6394",
+  "order_in_legajo": 185,
+  "signatura": "148:4212.JPG",
+  "nombre_carta": "Carta de Pedro Santacilia y Pax a Josep de Rocabertí",
+  "fecha_original": "5 de abril de 1662",
+  "lugar": "Mallorca",
+  "remitente": "Pedro Santacilia y Pax",
+  "destinatario": "Josep de Rocabertí",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Â [1§] Transcripción literal"
+  ],
+  "literal": [
+    "1."
+  ],
+  "imagenes": [
+    {
+      "filename": "148:4212.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo29/148:4212.JPG",
+      "url": "/legajos/legajo-29/images/148:4212.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "148:4212.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (4)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-29/cartas/006394.json",
+  "primary_image_url": "/legajos/legajo-29/images/148:4212.JPG"
+}

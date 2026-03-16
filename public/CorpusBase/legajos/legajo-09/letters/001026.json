@@ -1,0 +1,48 @@
+{
+  "legajo_id": "9",
+  "id_carta": "1026",
+  "order_in_legajo": 65,
+  "signatura": "097-48a",
+  "nombre_carta": "Carta de Bartolomé Roca a Arnau de Santacilia",
+  "fecha_original": "21 de junio de 1675",
+  "lugar": "Cremona",
+  "remitente": "Bartolomé Roca",
+  "destinatario": "Arnau de Santacilia",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Señor capitán con una que acaba de recibir romero veo elbien que v. m. promete hacerme el cual aseco para su tiempo que cierto de caballero de tantas partes como v. m. no se puede esperar menos bien que extraño el haber tanto tiempo que no he recibido carta de v. m. extraño la causa y que siera v. m. me sacara de esta duda y cierto que sisupiera v. m. el contento con que recibo carta de v. m. mescribiría más a menudo pues yo no digo jocasión y sino llegan a manos de v. m. no tengo yo laculpa sino a quien encargo las cartas que las deben olvidar por descildo ho por malicia temiendo yo noescriba cosa que noles estebien Sr. don garceran aecho sargento Sr. don Vicente santafe [1§] las novedades de la compañía son que Guillem ypol anvuelto juntamente con otro mallorcin buen meso el que se truco con clemente sea ido por haber cerdio algunos de la compañía que tienen más obligación de aumentarlo que de desrotarla Juan Antonio ha ido aroma con hábito de la tunica que selea sacado con intención de que traiga alguna gente además que está mejor fuera de la compañía por cuanto los soldados noqieren qien los pide la razón y cuantos sean ido han sido de su ranxo todos los soldados y reformados de la compañía quedan buenos y se le encomienda particularmente Sr. don Pedro bascas foris que sea querda de los quatrime xos que v. m. le daba para tabaco irán pocos los días que no me pida por la venida de v. m. [2§] Pedro Juan anda mejorando de la pienna y da a v. m. muiios recados no puedo dar noticias a v. m. de los intereses de la compañía por cuanto no se me participa de ellos han que yo haga mis diligencias tan solamente sé que sedan qinientas libras al sargento mayor todas las imposta y espero sepersevera en ello por en adelante con que sejuntara buena parte del dinero de v. m. cuya vida guarde Dios felices años como deseo yhe menester cremona y junio a 21 1675 criado de v. m. Bartolome Roca Sr. don Juan de suyas [?] Sr. don feliz de castro ha ido al finar a mudar a don Giuseppe me hará v. m. favor de dar mis memorias como también esos señiores reformados Sr. don Pedro siran está en la compañía y recide en la sala de la casa de v. m. [3§] Transcripción literal"
+  ],
+  "literal": [
+    "1. Sr Capn con una que acaba de 2. resebir romero veo elbien que vm 3. promete aserme el qual aseco para 4. su tienpo que sierto de cavallero de 5. tantas partes como vm nosepuede 6. esperar menos bien que estrañio 7. el aver tanto tienpo que noe resebido 8. carta de vm estrañio la causa y qui9. siera vm me sacara desta duda y 10. sierto que sisupiera vm. el contento 11. conque resibo carta de vm mescri12. viria mas amenudo pues yo nodigo 13. jocasion y sino llegan amanos de vm. 14. notengo yo laculpa sino aquien 15. encargo las cartas que las deven 16. olbidar por deschildo ho por 17. malisia temiendo yo noescriva 18. cosa que noles estebien 19. [Margen izquierdo][^ D garceran aetcho sarjento don visente santafe] [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "097-48a.jpg",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo09/097-48a.jpg",
+      "url": "/legajos/legajo-09/images/097-48a.jpg"
+    },
+    {
+      "filename": "098-48ba.jpg",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo09/098-48ba.jpg",
+      "url": "/legajos/legajo-09/images/098-48ba.jpg"
+    },
+    {
+      "filename": "098-48bb.jpg",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo09/098-48bb.jpg",
+      "url": "/legajos/legajo-09/images/098-48bb.jpg"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "097-48a.jpg",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-09/cartas/001026.json",
+  "primary_image_url": "/legajos/legajo-09/images/097-48a.jpg"
+}

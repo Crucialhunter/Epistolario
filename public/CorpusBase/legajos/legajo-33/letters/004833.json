@@ -1,0 +1,38 @@
+{
+  "legajo_id": "33",
+  "id_carta": "4833",
+  "order_in_legajo": 28,
+  "signatura": "038:6749.JPG",
+  "nombre_carta": "Carta de Lluís Tarasona a Pedro Santacilia y Pax",
+  "fecha_original": "27 de junio de 1628",
+  "lugar": "Barcelona",
+  "remitente": "Lluís Tarasona",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Esta es per avisar a v. m. del que m'ha passat en Mallorca, que s'hauria de menester un procés per contar les bondats d'aquella genteta, que mossen Domenech li podrà contar més llargament dels agravis m'han fet. Ells los fien de dia, no se les podien (pean [?]) esperar de nit perquè tancaven una hora de dia, que prou los agotava. Per servir-los a mi m'havien posat sr. don Pedro per nom, perquè un dia havia sentit dir mal de v. m. i des fiu la corega [?] per pehals [?] posaren-se gent per mig i així no se'n parla més. Ells se guardaven i jo anava sempre guardant-me tota la {ESP. isla}. Lo que m'han fet per v. m. no s'abasta a dir de boca a boca, {ESP. hay} que dir tota una setmana. No dic més sinó que em mane en tot lo que sia de son servei. Cristo guardi quō desitjo, de Barcelona i juny 27 de l'any 1628. Criat de v. m. Lluís Tarasona Criat del sr. {ESP. recibidor} Sr. don Pedro Sta. Sesilia [1§] Transcripción literal"
+  ],
+  "literal": [
+    "1. Esta es p[er] avisar a V.m. del que me apas[a]t en mallo2. rca q se auria de menestrer un proses p[er] contar les3. bondats de aquella genteta que mº domene[c]h li podra4. contar mes llar[c]hament dels agravis me an fet ells5. los fian de dia no se les podian (^pean??) [^esperar] de nit p[er]que6. tancavan unara de dia q prou los agotava per7. servirlos a mi me avian posat don pedro p[er] nom8. p[er]que un dia avia sentit dir mal de V.m. y 9. desfiu la corega p[er] pehals posarense gent p[er] mig10. i axi no sen parla mes ells se gordaven y go anava11. sempre gordanme tota la isla lo que me a fet12. p[er] V.m. no se abasta a dir de boca a boca ay que dir13. tota una semmana no di[c]h mes sino quem mane14. en tot lo q sia de son servey Cristo gu[a]rde quo15. desigo de barsalona y juyn 27 de layn 162816. Criat de V.m.17. Lluys tarasona18. Criat del Sr.19. resibidor20. Sr. don pedro Sta. Sesilia [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "038:6749.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo33/038:6749.JPG",
+      "url": "/legajos/legajo-33/images/038:6749.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "038:6749.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-33/cartas/004833.json",
+  "primary_image_url": "/legajos/legajo-33/images/038:6749.JPG"
+}

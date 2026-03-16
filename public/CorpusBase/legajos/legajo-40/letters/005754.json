@@ -1,0 +1,32 @@
+{
+  "legajo_id": "40",
+  "id_carta": "5754",
+  "order_in_legajo": 66,
+  "signatura": "312:106",
+  "nombre_carta": "Carta de Persona desconocida a Persona desconocida",
+  "fecha_original": "fecha sin especificar",
+  "lugar": "Mallorca",
+  "remitente": "Persona desconocida",
+  "destinatario": "Persona desconocida",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Un compte breu de blat [1§] Transcripción literal"
+  ],
+  "literal": [
+    "1. Un compte breu de blat"
+  ],
+  "imagenes": [
+    {
+      "filename": "312:106.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo40/312:106.JPG",
+      "url": "/legajos/legajo-40/images/312:106.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "312:106.JPG",
+  "warnings": [],
+  "raw_source": "raw/legajos/legajo-40/cartas/005754.json",
+  "primary_image_url": "/legajos/legajo-40/images/312:106.JPG"
+}

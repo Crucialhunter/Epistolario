@@ -1,0 +1,42 @@
+{
+  "legajo_id": "31",
+  "id_carta": "6991",
+  "order_in_legajo": 229,
+  "signatura": "336:1742a.JPG",
+  "nombre_carta": "Carta de Marc Sancho a Pedro Santacilia y Pax",
+  "fecha_original": "4 de octubre de 1664",
+  "lugar": "Ciutadella",
+  "remitente": "Marc Sancho",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Transcripción literal"
+  ],
+  "literal": [
+    "1. 1. 1."
+  ],
+  "imagenes": [
+    {
+      "filename": "336:1742a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo31/336:1742a.JPG",
+      "url": "/legajos/legajo-31/images/336:1742a.JPG"
+    },
+    {
+      "filename": "337:1742b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo31/337:1742b.JPG",
+      "url": "/legajos/legajo-31/images/337:1742b.JPG"
+    },
+    {
+      "filename": "338:1742c.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo31/338:1742c.JPG",
+      "url": "/legajos/legajo-31/images/338:1742c.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "336:1742a.JPG",
+  "warnings": [],
+  "raw_source": "raw/legajos/legajo-31/cartas/006991.json",
+  "primary_image_url": "/legajos/legajo-31/images/336:1742a.JPG"
+}

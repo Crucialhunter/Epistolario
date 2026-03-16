@@ -1,0 +1,43 @@
+{
+  "legajo_id": "22",
+  "id_carta": "3717",
+  "order_in_legajo": 98,
+  "signatura": "177:5086a.JPG",
+  "nombre_carta": "Carta de Josep Chacón y Narvaez a Pedro Santacilia y Pax",
+  "fecha_original": "5 de julio de 1667",
+  "lugar": "Palermo",
+  "remitente": "Josep Chacón y Narvaez",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Sr. mío aunque no he merecido tener ocasión en que servir a v. s. todavía por ser tan precisa la que ahora se me ofrece de enviar a esa ciudad ha levantar una compañia de infantería de que el duque de Albuquerque ha hecho merced. A don Tomás mi hijo segundo, no excuso valerme del amparo de v. s. muy seguro de que se ha de servir favorecer esta leva, la cual va a ejecutar don Pedro de Guevara, sobrino del señor regente. Suplico a v. s. con todo encarecimiento logre yo la esperanza que me prometo de la merced de v. s. siendo servido hacérmela en cuando fuere posible de suerte que se consiga con toda facilidad, y a mi emplearme en muchas cosas de su servicio de v. s. cuya vida guarde Dios muchos años como deseo. Palermo a 5 de Julio 1667. Pedía recordar a v. s. que a muchos años soy servidor de v. s. habiéndole besado la mano en Lombardía el tiempo que serví en ella pero la mayor noticia es lo que v. s. favorece a todos y yo me debo prometer la misma merce de v. s. como se lo suplico. Beso las manos a v. s. su mayor servidor Don Josep Chacon y Narvaez Sr. don Pedro de Santacilia [1§] Las memorias antiguas de hallarnos en Lombardía sirviendo son muy de estimar como reliquias de aquel tiempo, pues faltan tantos bizarros soldados. Suplirá el Sr. don Tomás como hijo de v. m. el lugar que tantos han dejado. Al Sr. don Pedro de Guevara he mostrado mis buenos afectos en la solicitud de la leva y no lo dejaré hasta verlos embarcados pues es el tiempo de más conveniencia en aumentarla. v. s. no dude que siempre serán para mi muy buenos días los que recibiere favores de mano de v. m. y así le suplico haga de esta verdad experiencia y a Nuestro Señor que le dé muchos años de vida que es lo que porque anhelamos. Mallorca 4 de octubre 1667. Sr. don Josep Chacon y Narvaez veedor general del reino de Sicilia Transcripción literal"
+  ],
+  "literal": [
+    "1. Sr mío Aunque no he mereçido tener ocasión en que servir a VS2. todabía por ser tan preçisa la que aora se me ofreçe de ym3. biar aessa Ciud. Alevantar una Comp[añi]a de Infant[e]ria de que4. el Sr Duque de Alburquerque ha hecho mrd. a Don Thomas5. mi hijo segundo, no escuso valerme del amparo de VS6. muy seguro de que se ha de servir favorezer esta leva la7. qual va a executar Don Pedro de Guebara sobríno8. del señor Reg[en]te Supp[li]co a VS con todo encarezim[ien]to logre yo9. la esperanza que me prometo de la mrd. de VS. siendo10. servido hazermela en q[uan]do fuere posible de suerte que se con11. siga con toda façilidad, y a mí emplearme en muchas 12. cosas de su serviçio de VS cuya bida gde. Dios m[ucho]s años13. como deseo Pal[erm]o a 5 de Julio 166714. Pedia recordar a VS que a muchos15. años soy ser[vid]or de VS. abiendole16. B.L.M. en lonbardia el tienpo que 17. servi enella Pero la maior noticia18. es lo que VS faborece a todos y19. yo me debo Prometer la misma20. mrd. de VS como se lo supp[li]co21. B L M a VS su m[ay]or ser[vid]or22. Don Joseph chacon y23. narvaez24. Sr. Don Pedro de Santa Silia [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "177:5086a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo22/177:5086a.JPG",
+      "url": "/legajos/legajo-22/images/177:5086a.JPG"
+    },
+    {
+      "filename": "178:5086b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo22/178:5086b.JPG",
+      "url": "/legajos/legajo-22/images/178:5086b.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "177:5086a.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-22/cartas/003717.json",
+  "primary_image_url": "/legajos/legajo-22/images/177:5086a.JPG"
+}

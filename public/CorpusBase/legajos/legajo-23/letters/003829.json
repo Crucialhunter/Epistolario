@@ -1,0 +1,38 @@
+{
+  "legajo_id": "23",
+  "id_carta": "3829",
+  "order_in_legajo": 83,
+  "signatura": "162:3242.JPG",
+  "nombre_carta": "Carta de José de Pueyo y Muñoz a Pedro Santacilia y Pax",
+  "fecha_original": "12 de mayo de 1644",
+  "lugar": "Mallorca",
+  "remitente": "José de Pueyo y Muñoz",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Con la merced que v. m. me ha hecho se han allanado todas las dificultades que punia y ha llegado a entender ser puesto en razón lo que v. m. le ha dicho de no poner estorbo en que me lleve mi suegra, pero he entendido que el no gusta le hable yo de estas materias y así no le pienso decir cosa y a mi me basta el saber que no ha de tener enfado de llevarme yo mi suegra y esta todo con eso allanado y yo tengo mi licencia. Sólo aguardo buena embarcación, y creo será con la venida del virrey que dicen será por todo este mes que se cree vendrá con galera, con la cual pueda irse el que hoy lo es, si puedo ser bueno para agente de v. m. no tiene sino mandarme que será servido con grande voluntad. Al Sr. Nicolas Togores ha venido muy bueno y lo tenemos este año jurado que es mucha dicha para esta tierra que persona de sus partes ocupe este puesto, a mi Sra. Dña. Magdalena y mi Sra. Dña. Beatriz, Dña. Catalina y yo besamos las manos con las de v. m. y el Sr. don Juan Miguel Santacilia y guarde Dios de Mallorca y 12 de mayo 1644. El canónigo Cotoner me ha hecho muy buenos oficios en lo de mi suegro y le estoy muy obligado D. Josep de Pueyo y Muñoz Sr. gobernador D. Pedro Santacilia y Pax Transcripción literal"
+  ],
+  "literal": [
+    "1. Con la merced que Vm me a echo se an allanado2. todas las dificultades que punia y a llegado a enten3. der ser puesto en raçon lo que Vm le a dicho de no po4. ner estorvo en que me lleve mi suegra pero entendido5. que el no gusta le hable yo destas materias y ansi no6. le pienso decir cosa y a mi me vasta el saver que no7. a de tener enfado de llevarme yo mi suegra y esta8. todo con eso allanado y yo tengo mi licencia solo9. aguardo buena embarcacion, y creo sera con la ve10. nida del [Sr. V]irrey que dicen sera por todo este mes11. que se cree vendra con galera con la qual pueda irse12. el que oy lo es, si puedo ser bueno para agente13. de Vm no tiene sino mandarme que sera servido14. con grande voluntad,15. Al Sr. Nicolas thogores ha venido muy bueno y lo16. tenemos este año Jurado que es mucha dicha para17. esta tierra que persona de sus partes ocupe este pu18. esto, a mi Sa. Da. Magna y mi Sa. Da. Beatriz da. Cha19. talina y yo vesamos las manos con las de Vm y el20. Sr. Don Juan Migl Sta cilia y gde Dios de Mallca y21. 12 de Maio 164422. [^El Sor canonigo cotoner mea echo muy bue23. nos officios en lo de mi suegro y le estoy24. muy obligado]25. Dn. Juseph de 26. Pueyo y muñoz[?]27. Sr. Prodor Dn. Pedro Sta.cilia28. y Pax [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "162:3242.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo23/162:3242.JPG",
+      "url": "/legajos/legajo-23/images/162:3242.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "162:3242.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (2)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-23/cartas/003829.json",
+  "primary_image_url": "/legajos/legajo-23/images/162:3242.JPG"
+}

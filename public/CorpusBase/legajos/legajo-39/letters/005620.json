@@ -1,0 +1,38 @@
+{
+  "legajo_id": "39",
+  "id_carta": "5620",
+  "order_in_legajo": 19,
+  "signatura": "29:8280.JPG",
+  "nombre_carta": "Carta de Joan López a Pedro Santacilia y Pax",
+  "fecha_original": "3 de febrero de 1633",
+  "lugar": "Madrid",
+  "remitente": "Joan López",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Por esta si llega a tiempo sabrá v. m. como la que el despacho del conseº de Inqon. para que el tribunal de Barcelona informe de los su cesos de Bernardo Ferrer criado de mi Sra. la condesa de Savalla, y con la respuesta ve remos lo que hay que con mucho gusto recibo a servir a v. m. como lo haré en todo se le ofrezca y de Dios a Cm buen viaje y le guarde Madrid y febrero 2 de 1633 Joan Lopez Sr. D. Pedro Santacilia y Pax. [1§] Transcripción literal"
+  ],
+  "literal": [
+    "1. Por esta si llega a tiempo sabra Vm. como la2. que el despacho del Conseº de Inqon. Para que3. el tribunal de Barcelona informe de los su4. cesos de Bernardo Ferrer criado de mi Sa. la5. condesa de Savalla, y con la respuesta ve6. remos lo que hay q con mucho gusto recibo7. a servir a Vm. como lo hare en todo se le ofres8. ca y de dios a Cm buen biaje y le gde Md. y9. [F]ebrero 2 de 163310. Joan Lopez11. Sr. D. Pº Santaçilia y Pax. [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "29:8280.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo39/29:8280.JPG",
+      "url": "/legajos/legajo-39/images/29:8280.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "29:8280.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-39/cartas/005620.json",
+  "primary_image_url": "/legajos/legajo-39/images/29:8280.JPG"
+}

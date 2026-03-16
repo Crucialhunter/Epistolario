@@ -1,0 +1,37 @@
+{
+  "legajo_id": "12",
+  "id_carta": "1508",
+  "order_in_legajo": 5,
+  "signatura": "000_6101a.JPG",
+  "nombre_carta": "Carta de Melcior Dureta a Pedro Santacilia y Pax",
+  "fecha_original": "28 de abril de 1627",
+  "lugar": "Barcelona",
+  "remitente": "Melcior Dureta",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Sr. don Predro Santacilia i Pax salut [1§] Jo he fet tot el que [he] pogut amb Miquel Anglada perquè escrigués a Mallorca dels diners i sempre que hi haurà ocasió no la perdré, a qui li envio un gipó conforme me demana. Estava per no posar-hi botons perquè aquí v. m. hi posàs els seus, ja que se'n serveix que ací no se'n passa necessitat [?] dels seus botons que tothom està retirat. Noves d'ací no n'hi ha sinó és que es diu per cosa certa que el duc de Cardona va a Madrid i l'abat [?] eril, Déu els doni bon viatge. Totes les mies senyores estan bones i fetes unes santetes que ara no tenen el dimoni que les tentava i així no hi venga més a aquesta terra, que no l'hi volen, que els cornuts estan alegres. En Maltès és a Menorca. De Mallorca, ni de Madrid no tenim noves. Quan n'hi haurà ja avisaré; a qui guardi Déu com pot, de Barcelona i abril a 28 [?] any 1627. El comte m'escrigué que donés dos-cents reals (sic) a mossèn Rivera [?] L'altra dia vaig demanar les cinquanta lliures [?] a mossèn Poblet i passàs a Eivissa jo ho escriuré a mi senyora la comtessa del que em diu que servesca el pare [?] el faré amb tot que [?] {ESP. Fray} Melcior Dureta [2§] Transcripción literal"
+  ],
+  "literal": [
+    "1. Don Predro Sant asylya2. y Pax salut [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "000_6101a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo12/000_6101a.JPG",
+      "url": "/legajos/legajo-12/images/000_6101a.JPG"
+    },
+    {
+      "filename": "001_6101b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo12/001_6101b.JPG",
+      "url": "/legajos/legajo-12/images/001_6101b.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "000_6101a.JPG",
+  "warnings": [],
+  "raw_source": "raw/legajos/legajo-12/cartas/001508.json",
+  "primary_image_url": "/legajos/legajo-12/images/000_6101a.JPG"
+}

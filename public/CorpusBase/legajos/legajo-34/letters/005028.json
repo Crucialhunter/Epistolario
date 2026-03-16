@@ -1,0 +1,43 @@
+{
+  "legajo_id": "34",
+  "id_carta": "5028",
+  "order_in_legajo": 56,
+  "signatura": "090:6943a.JPG",
+  "nombre_carta": "Carta de Diego Matías de Aragüés a Pedro Santacilia y Pax",
+  "fecha_original": "8 de abril de 1656",
+  "lugar": "Madrid",
+  "remitente": "Diego Matías de Aragüés",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "He recibido lade v. m. de 19 del pasado holgándome infinito de tene nuevas de la salud que goza que sea por los muchos años que lease y a v. m. habrá recibido el Privilegio al procurador real. y las bulas de las pensiones que por Barcelona han ido en pliego del frucso Pique. y esto ha días, quiera Dios hayan llegado que con antos naufragios que han sucedido se puede temer; y el cuidado en la em/ barcación del Sr. don Yo de Austria que acá se está con grande cuidado. y en los galeones de Las y ndias faltan dos La Amiranta y el galeon de don Juan de oyos que dicen traían grande riques [?] y no ainueva de ellos hasta ag [?] solo que llegaron a Cádiz tres G [?] aleones noras, y estos dos faltan. Presto se procuyo el obispado [?] en el Sr. don Diego es alano fu [?] suprema Inquisición que ya habrá halla la muia Al Andianio diré lo que Vm [?] en razón del despacho de la [?] [1§] de Jerónimo y también de lu de mos que de esto seino quedara yo empeñado en ella coomo lo estoy y sabe Jerónimo nos [?] 27acordará más de ello v. m. me mande le sirva que siempre me tendrá a sus órdenes que sus manos beso guarde Dios los muchos años que le deseo Madrid a 8 de abril 1656. Besa la mano de v. m. su mayor servidor Diego Matias de Aragues [?] Santacilia y Pax [2§] Transcripción literal"
+  ],
+  "literal": [
+    "1. Herecivido ladeVm. de 19 del passado2. olgandome infinito de tene nuebas de la3. salud q goza q sea por los muchos4. años q [leasse]5. Ya Vm. habra recivido el Privilegio6. al Pror Real. Y las bullas de las7. penssiones q por Barcelona han hido8. enpliego del sr. frucso Pique. Y esto9. ha dias, quiera dios hayan llegado10. q con antos naufragios q han sucedido11. se puede temer; Yel cuydado en la em/12. barcacion del sr. don Jo de Austria q aca13. se esta congrande cuydado. Yenlos14. Galeones de Las Yndias faltan dos15. La Amiranta y el galeon de don Juan16. de oyos q dizen trayan grande riques//17. y no aynueva dellos hasta ag//18. solo q llegaron a Cadiz tres G//[aleones]19. n[or]as, y estos dos faltan.20. Presto se procuyo el obispado //21. enel sr. don Diego es alano fu//22. suprema Inqon q ya habra23. alla la m[ui]a24. Al sr. A[n]dian[io] dire lo q Vm//25. en razon del despacho de la// [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "090:6943a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo34/090:6943a.JPG",
+      "url": "/legajos/legajo-34/images/090:6943a.JPG"
+    },
+    {
+      "filename": "091:6943b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo34/091:6943b.JPG",
+      "url": "/legajos/legajo-34/images/091:6943b.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "090:6943a.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (3)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-34/cartas/005028.json",
+  "primary_image_url": "/legajos/legajo-34/images/090:6943a.JPG"
+}

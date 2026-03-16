@@ -1,0 +1,43 @@
+{
+  "legajo_id": "24",
+  "id_carta": "3975",
+  "order_in_legajo": 26,
+  "signatura": "043:4028a.JPG",
+  "nombre_carta": "Carta de Pedro Pax Olim Español a Pedro Santacilia y Pax",
+  "fecha_original": "14 de mayo de 1639",
+  "lugar": "Mallorca",
+  "remitente": "Pedro Pax Olim Español",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Sr. don Pedro Santacilia i Pax L'embarcació de Mateu Jaume aguarda un germà meu per a anar a servir a v. s. El que li tinc encomanat i en el que tindrà lloc d'acomodar-lo me'l farà entenc que les cartes escric a v. s. corren borrasca i que no deuen arribar en ses mans, puix d'elles no tinc respostes tenint-ne tots els {ESP. demés} en el que gustarà manar-me me'n farà plaer. Tinc aliments contra els comtes de Zavella ferli a saber a tot que v. s. es neutral. Déu el guardi. Mallorca i maig 14 de 1639. Sr. don Pedro Pax Olim Espanyol [1§] {ESP. Palma i 22 Enero de 1989. Mallorca 24 Mayo 1639 Sr. don Pedro Pax rdo.} Transcripción literal"
+  ],
+  "literal": [
+    "1. Sor don Pedro Ste Silie y pax2. Le anbarcaçio de mateu jaume3. aguarde un jerma meu pera anar4. a servir a v.s. lo que li tinhc en5. comenat y en lo que tindra loc6. de acomodarlo lem fera en tinhc7. que les cartes escrig a v.s. coren8. borasca y que no deuen aribar en9. ses mas puis de les no tinhc respostes10. tenint ne tots los dames en lo que11. gustera manarme men fara pler12. tinch aliments contre los comtes13. de Çavella fer lei a ceber at tot14. que v.s. es neutral deu lo guarde15. mallorcca y maix 14 de 1639??16. don pedro pax17. olim spañol [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "043:4028a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo24/043:4028a.JPG",
+      "url": "/legajos/legajo-24/images/043:4028a.JPG"
+    },
+    {
+      "filename": "044:4028b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo24/044:4028b.JPG",
+      "url": "/legajos/legajo-24/images/044:4028b.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "043:4028a.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-24/cartas/003975.json",
+  "primary_image_url": "/legajos/legajo-24/images/043:4028a.JPG"
+}

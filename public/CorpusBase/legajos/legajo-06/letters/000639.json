@@ -1,0 +1,48 @@
+{
+  "legajo_id": "6",
+  "id_carta": "639",
+  "order_in_legajo": 139,
+  "signatura": "204-104a",
+  "nombre_carta": "Carta de Joan Vila i Coll a Cecilia Zaforteza y Sureda de Sant Martí",
+  "fecha_original": "15 de octubre de 1770",
+  "lugar": "Barcelona",
+  "remitente": "Joan Vila i Coll",
+  "destinatario": "Cecilia Zaforteza y Sureda de Sant Martí",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Barcelona i octubre a 15 de 1770. {ESP. Muy} senyora dona Cecília, Estes quatre ratlles són per participar a v. s. com aquest matí a les 8 hores han arribat en esta de Barcelona els dos cotxes de D. Tomàs i Joan i Miquel junt tot el fato bons. I diuen que don Tomàs i el Sr. Joan arribaren el dia 19 o poc més o {ESP. menos}. En cas que D. Tomàs no arribi {CAST. antes} de partir el correu partiran els sobredits per a passar en esta de Mallorca, però jo pens que el correu no partirà d’esta de Barcelona fins al dia 23 o 24 propvinent, a causa que estan adobant el Xabec. A D. Tomàs el deixaren bo i alegre i els féu partir quatre [1§] o cinc dies primer que ell. Això és quant al present se m’ofereix participar a v. s. i quedo als seus ordres i pregant al Sr. la guardi molts anys com desitjo. Besa la mà de v. s. son segur servidor, Joan Vila i Coll m {ESP. Muy} senyora dona Cecilia Zaforteza [En la otra página, al revés][2§] {ESP. Con esto a Dios, que te de quietud, pañuelos, tabaco y te libre como pueda de doctor y mentecatos} Transcripción literal"
+  ],
+  "literal": [
+    "1. Barna y 8bre a 15 de 1770. 2. Muy Sra. Da. Cecilia estas quatra Ra- 3. llas son per Participar á V.S. com est 4. matí a las 8 oras an arribar enesta de 5. Barna los dos Cotxes; de Dn. Thomas, y 6. Joan, y Miquel, jun tot lo fato Bons; y 7. diuen que Dn. Thomas, y lo Sr. Joan arri- 8. baran lo dia 19 ho (/ho) poch mes ho menos; 9. en cas que Dn. Thomas no harribi antes 10. de Partir lo Correu Partiran los Sobredits 11. para Pasar en esta de Mallorca ; pero jo 12. pens que lo Correu no Partira de esta 13. de Barna fins lo dia 23, ho 24 prop 14. Binent á Causa que estan adobant lo 15. Xabech; ha Dn. Thomas lo dexaran 16. bo, y alegra, y los feu partír quatra [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "204-104a.jpg",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo06/204-104a.jpg",
+      "url": "/legajos/legajo-06/images/204-104a.jpg"
+    },
+    {
+      "filename": "205-104b.jpg",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo06/205-104b.jpg",
+      "url": "/legajos/legajo-06/images/205-104b.jpg"
+    },
+    {
+      "filename": "204-104ab.jpg",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo06/204-104ab.jpg",
+      "url": "/legajos/legajo-06/images/204-104ab.jpg"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "204-104a.jpg",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-06/cartas/000639.json",
+  "primary_image_url": "/legajos/legajo-06/images/204-104a.jpg"
+}

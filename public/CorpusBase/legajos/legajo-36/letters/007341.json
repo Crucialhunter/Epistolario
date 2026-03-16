@@ -1,0 +1,38 @@
+{
+  "legajo_id": "36",
+  "id_carta": "7341",
+  "order_in_legajo": 86,
+  "signatura": "126:7816.JPG",
+  "nombre_carta": "Carta de Diego Matías de Aragüés a Pedro Santacilia y Pax",
+  "fecha_original": "21 de febrero de 1657",
+  "lugar": "Madrid",
+  "remitente": "Diego Matías de Aragüés",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Aunque tengo escrito a v. m. por duplicados. por Valencia y Barcelona y en pliego del Arcobispo de Cargª. en respuesta de las de v. m. con todo hago estos renglones, pª. que v. m. se sirva remitirme una carta pª. el Sr. don Luis de Haro pª. la pretensión, con ocasión de darle la enhorabuena de la boda de su hijo Sr. don Juan Domingo y en ella, o, aparte en otra carta que será lo mejor pedirle la merced del hábito porque conforme lo que ha tocado con el Arpo. de Cargª. pareció viniera esta carta de v. m. pª. el Sr. don Luis para que nos aseguremos más en la pretensión antes de poner el memorial y así me la remita v. m. cuantes pudiere. El virrey nuevo de hay esta despacio en su viaje pues aún no ha sacado el despacho de la caballería y esta aún por hacer. v. m. me mande le sirva y guarde Dios como deseo Madrid a 21 de febrero 1657 Besa la mano de v. m. su mor. seor. Diego Matias de Aragues Sr. don Pedro Santacilia y Pax. Transcripción literal"
+  ],
+  "literal": [
+    "1. Aunque tengo escrito a Vm por duppdos. 2. por Valencia y Barcelona y en pliego 3. del Sr. Arcobispo de Cargª. en respuesta de 4. las de Vm. con todo hago estos renglones, 5. pª. q. Vm. se sirva remitirme una carta 6. pª. el Sr. don Luys de Haro pª. la pre7. tension, con ocasion de darle la enhora8. buena de la boda de su hijo don 9. Juan Domingo y en ella, o, aparte 10. en otra carta q sera lo mejor 11. pedirle la md del havito por q. 12. conforme lo q ha tocado con el Sr. Arpo. 13. de Cargª. parecio viniera esta carta 14. de Vm. pª. el Sr. Don Luys para q. 15. nos aseguremos mas en la pretension 16. antes de poner el memorial y assi 17. me la remita Vm quantes pudiere. 18. El Sr. Virrey nuevo de ay esta despacio en 19. su viaje pues aun no ha sacado 20. el despacho de la cavalleria y esta 21. aun por hazer. Vm. me mande 22. le sirva y gde. Dios como deseo Madrid 23. a 21 de febrero 1657 24. B. l. m. de Vm su mor. seor. 25. Diego Mathias de Aragues 26. Sr. Don Pedro Sta. Cilia y Pax. [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "126:7816.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo36/126:7816.JPG",
+      "url": "/legajos/legajo-36/images/126:7816.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "126:7816.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (3)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-36/cartas/007341.json",
+  "primary_image_url": "/legajos/legajo-36/images/126:7816.JPG"
+}

@@ -1,0 +1,38 @@
+{
+  "legajo_id": "38",
+  "id_carta": "5516",
+  "order_in_legajo": 125,
+  "signatura": "071:40.JPG",
+  "nombre_carta": "Carta de Mariana de Austria a Miguel de Salvá y de Vallgornera",
+  "fecha_original": "28 de abril de 1668",
+  "lugar": "Madrid",
+  "remitente": "Mariana de Austria",
+  "destinatario": "Miguel de Salvá y de Vallgornera",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "La reina gobernadora Espectable señor don Miguel de Salva y de Vallgornera de me [?] Consejo Supremo de Aragón, mi lugarteniente y capitán general: por parte de don Pedro Santacilia y Pax, procurador real de ese reino, se me ha dado memorial en que espere que por tener que representar algunas cosas de mi real servicio me suplica que para que mejor lo pueda disponer le conceda licencia para venir a esta corte por dos meses pues deja en ese reino dos tenientes, personas de toda satisfacción. Y antes de tomar resolución en la materia ha parecido encargar y mandaros (como lo hago) me informéis y digáis vuestro parecer para que entendido mande lo que convenga. Data: Madrid a 28 abril 1668 Yo, la reina, [?] Al virrey de Mallorca Transcripción literal"
+  ],
+  "literal": [
+    "1. La Reyna Governadora2. Spetable don Miguel de Calba y de Vallgonera de me Conssº3. Supº de Aragon mi lugarte. y capn. gnl. por parte de don Pº4. Sta Cilia y Pax, Pro, Rl dese Reyno se me ha dado mem[oria]l5. en q espere q por tener q representar algunas cosas de mi Rl.6. ser[vici]o me sup[li]ca q para q mejor lo pueda disponer le7. conceda licencia para venir a esta corte por dos mes[es]8. pues dexa enesse Reyno dos thinientes personas de toda9. satisfacion. Y antes de tomar resolucion en la materia10. ha parecido encargar y mandaros (como lo hago) me informeis11. y digays vro. Parezer para q entendido mande lo q12. convenga Dat. Madrid a 28 Abril 166813. Yo la Reyna14. D. Mª Villaª [?]15. Al Virrey de Mallorca [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "071:40.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo38/071:40.JPG",
+      "url": "/legajos/legajo-38/images/071:40.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "071:40.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (2)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-38/cartas/005516.json",
+  "primary_image_url": "/legajos/legajo-38/images/071:40.JPG"
+}

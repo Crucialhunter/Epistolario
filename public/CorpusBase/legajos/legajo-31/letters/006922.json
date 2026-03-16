@@ -1,0 +1,38 @@
+{
+  "legajo_id": "31",
+  "id_carta": "6922",
+  "order_in_legajo": 162,
+  "signatura": "234:1673.JPG",
+  "nombre_carta": "Carta de Marqués de Villalva a Pedro Santacilia y Pax",
+  "fecha_original": "15 de agosto de 1663",
+  "lugar": "Madrid",
+  "remitente": "Marqués de Villalva",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Señor mío. Remito a v. s. el despacho incluso de su majestad para que por el vea v. s. su contenido y me avisara v. s. de su recibo y del Duplicado que fue la estafeta pasada con muchas órdenes de su servicio. Guarde Dios a v. s. mºaños Madrid a 15 de agosto 1663 Besa la mano de v. s. su mr. servidor El marques. de Villalva Sr. procurador real Sr. D. Pedro Santacilia y Pax Transcripción literal"
+  ],
+  "literal": [
+    "1. Señor mio Remito a VS el despacho incluso de su 2. Magd para que por el vea VS su contenido y me avisara VS 3. de su reçivo y del Duplicado que fue la estafeta passada con 4. muchas ordenes de su serviçio 5. Gde Dios a VS mº años Md a 15 de Agosto 1663 6. Blm de VS 7. su mr. seror 8. El Marqs. de Villalva 9. Sr Procurador Rl D Pº Santacilia y Pax [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "234:1673.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo31/234:1673.JPG",
+      "url": "/legajos/legajo-31/images/234:1673.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "234:1673.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-31/cartas/006922.json",
+  "primary_image_url": "/legajos/legajo-31/images/234:1673.JPG"
+}

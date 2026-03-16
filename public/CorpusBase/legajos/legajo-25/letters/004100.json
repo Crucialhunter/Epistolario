@@ -1,0 +1,43 @@
+{
+  "legajo_id": "25",
+  "id_carta": "4100",
+  "order_in_legajo": 34,
+  "signatura": "065_134a.JPG",
+  "nombre_carta": "Carta de Diego Matías de Aragüés a Jerónimo Pelegrín de Aragüés",
+  "fecha_original": "13 de abril de 1667",
+  "lugar": "Madrid",
+  "remitente": "Diego Matías de Aragüés",
+  "destinatario": "Jerónimo Pelegrín de Aragüés",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "He recibido las cartas de 17 del pasado y las que venían las han recibido sus dueños en los negocios. No se me ofrece decir al Sr. D. Pedro más de lo que le digo en su carta. En lo demás que v. m. me advierte en sus dos cartas estoy muy en ello. Estamos con mucha estimación Dña. Margarita y yo del regalo de nra. sobrina que es muy como de su mano y en llegando lo gozaremos con mucho gusto. Hasta ahora no tengo aviso de Viguet espérole en el primer correo. V. m. de muchas gracias de nra. parte a la Sra. Catalina nra. sobrina, y a Juana y porque con llaneza que es lo que gustan que les enviemos de aquí que parece extrañeza no decir lo que se casa por allá y así que no lo escusen y a he dicho al Sr. D. Josep Romeu como tenía dada satisfacción el Dr. Armella Alandibar veo lo que v. m. me dice en razón de las escribanías de las sobrinas del Dr. Pujol. V. m. y yo hemos cumplido muy bien por la persona que se lo pidió a Dña. Margarita a todos los hijos abrazos y v. m. me mande y guarde Dios como deseo. Madrid a 13 de abril de 1667. Tío y servidor de v. m. Diego Matias de Aragues Sr. Jeronimo Pelegrin de Aragues, mi sobrino [1§] A Jeronimo Pelegrin de Aragues, mi sobrino, guarde Dios Mallorca 13 Abril Transcripción literal"
+  ],
+  "literal": [
+    "1. He reçivido las cartas de 17 del passado y las que2. venian las an reçivido sus dueños en los negoçios no3. se me ofreçe deçir al Sr. D. Pedro mas de lo que le digo4. en su carta. En lo demas q Vmd. me advierte en sus dos5. cartas estoy muy en ello. Estamos con mucha estima6. çion Da. Margta. y yo del regalo de nra. sobrina q7. es muy como de su mano y en llegando lo goçaremos8. con mucho gusto. Asta ora no tengo avisso de Viget es9. perole en el primer correo. Vmd. de muchas graçias de10. nra. parte a la Sa. Catalina nra. sobrina, y a Juana11. y por que con llaneça que es lo que gustan q les enviemos12. de aquí que pareçe estranñeza no deçir lo q se cassa por alla13. y assi que nolo escussen=14. Ya e dicho al Sr. d. Joseph Romeu cono tenia dada15. satisfaçion el Dr. Armella Alandibar16. Beo lo que Vmd. me diçe en raçon de las escrivanias17. de las sobrinas del Dr. Pujol, Vmd. y yo havemos cum18. plido muy bien por la persona que se lo pidio a Da.19. Margta. a todos los hijos abraços y Vmd. me mande y gde Dios20. como deseo Madrid a 13 de Abril de 166721. Tio y ser[vid]or de Vm22. Diego Mathias de Aragues23. Sr. Geronimo Pelegrin de Aragues mi sob[ri]no [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "065_134a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo25/065_134a.JPG",
+      "url": "/legajos/legajo-25/images/065_134a.JPG"
+    },
+    {
+      "filename": "066_134b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo25/066_134b.JPG",
+      "url": "/legajos/legajo-25/images/066_134b.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "065_134a.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (7)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-25/cartas/004100.json",
+  "primary_image_url": "/legajos/legajo-25/images/065_134a.JPG"
+}

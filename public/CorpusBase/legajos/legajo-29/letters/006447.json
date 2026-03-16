@@ -1,0 +1,38 @@
+{
+  "legajo_id": "29",
+  "id_carta": "6447",
+  "order_in_legajo": 124,
+  "signatura": "224:4264.JPG",
+  "nombre_carta": "Carta de Rafael Vives García a Pedro Santacilia y Pax",
+  "fecha_original": "6 de junio de 1651",
+  "lugar": "Madrid",
+  "remitente": "Rafael Vives García",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Sr. don Pedro Santacilia y Pax El gozo de mis [?] llego con disgusto de don Bartolomé Mercadal que hizo más que [?] vencerme aunque con muchas ventajas no lo pi [?] salió por mi la sentencia definitiva que [?] con la antecedente que confirma, no me va [?] gado para el vencimiento. Si de la verdad que [?] valiente estoy solventando el despacho [?] por ver a v. m. más de cerca sea para bien [?] ra de salud, que solo por esto son buenas las [?] pues cuando llega la mala nueva llega tan [?] el consuelo. Dios se la dé a v. m. y conserve [?] este su capellán desea. Madrid y junio [?] 1651 Rafael Vives Garcia Transcripción literal"
+  ],
+  "literal": [
+    "1. Sr. Don Pº. Sta.Cilia y Pax2. El gozo de mis [?] llego con disgusto de 3. Don Bartholome Mercadal que hiso mas que [?] 4. vençerme aunq. con muchas ventajas nolopi [?] 5. salio por mi la sentia diffinitiva que [?] 6. con la anteçedentes q confirma; no me Va [?] 7. gado para el vencimiento; si de la verdad que [?] 8. valiente estoy solvintando el despacho [?] 9. por ver a VMd mas de cerca sea para bien [?] 10. ra de salud; que solo por esto son buenas las [?] 11. pues quando llega la mala nueba llega tan [?] 12. el consuelo Dios se la de a Vmd. y conserve [?] 13. este su capellan desea Md. y Junio [?] 14. 165115. Rafael Vivas y Garcia [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "224:4264.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo29/224:4264.JPG",
+      "url": "/legajos/legajo-29/images/224:4264.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "224:4264.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-29/cartas/006447.json",
+  "primary_image_url": "/legajos/legajo-29/images/224:4264.JPG"
+}

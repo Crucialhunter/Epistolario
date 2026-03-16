@@ -1,0 +1,38 @@
+{
+  "legajo_id": "31",
+  "id_carta": "6917",
+  "order_in_legajo": 158,
+  "signatura": "228:1668.JPG",
+  "nombre_carta": "Carta de Conde de Zavellá a Pedro Santacilia y Pax",
+  "fecha_original": "22 de julio de 1663",
+  "lugar": "Barcelona",
+  "remitente": "Conde de Zavellá",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "mío he recibido la de v. s. por mano de Guillem de las fonts y queda v. s. obedecero en orden a dar la posada en mi casa como lo será en todas las que fuere servido de darme mucho siento que macompaño v. s. en la [?] si bien queda de consuelo el ser achaq que no mata. de mi persona y casa disponga v. s. cuya vida ge Dios como deseo Balna y julio 22 de 1663 su de v. m. que su mano besa El conde de Zavella Sr. D. Pedro Santacilia y Pax Transcripción literal"
+  ],
+  "literal": [
+    "1. Sr. Mio he recibido la de V. S. 2. por mano de Guillem de las fonts 3. y queda VS obedecero en orden a dar 4. la posada en mi casa como lo sera 5. en todas las q fuere servido de darme 6. mucho siento q macompaño VS en 7. la [?] si bien queda de consuelo el 8. ser achaq que no mata. De mi persona 9. y casa disponga VS. cuya vida ge 10. Dios como deseo Balna y Julio 11. 22 de 1663 12. su Sr de VM q su m. b. 13. El Conde de Çavella 14. Sr D Pedro StaCilia y Pax [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "228:1668.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo31/228:1668.JPG",
+      "url": "/legajos/legajo-31/images/228:1668.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "228:1668.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-31/cartas/006917.json",
+  "primary_image_url": "/legajos/legajo-31/images/228:1668.JPG"
+}

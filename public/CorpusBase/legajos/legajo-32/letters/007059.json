@@ -1,0 +1,38 @@
+{
+  "legajo_id": "32",
+  "id_carta": "7059",
+  "order_in_legajo": 51,
+  "signatura": "059:1817.JPG",
+  "nombre_carta": "Carta de Jerónimo Pelegrín de Aragüés a Pedro Santacilia y Pax",
+  "fecha_original": "2 de enero de 1664",
+  "lugar": "Madrid",
+  "remitente": "Jerónimo Pelegrín de Aragüés",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Â [1§] Transcripción literal"
+  ],
+  "literal": [
+    "1."
+  ],
+  "imagenes": [
+    {
+      "filename": "059:1817.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo32/059:1817.JPG",
+      "url": "/legajos/legajo-32/images/059:1817.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "059:1817.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (7)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-32/cartas/007059.json",
+  "primary_image_url": "/legajos/legajo-32/images/059:1817.JPG"
+}

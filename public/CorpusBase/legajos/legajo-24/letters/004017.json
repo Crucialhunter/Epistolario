@@ -1,0 +1,38 @@
+{
+  "legajo_id": "24",
+  "id_carta": "4017",
+  "order_in_legajo": 64,
+  "signatura": "092:4070.JPG",
+  "nombre_carta": "Carta de Laudòmia Rossa i Domènech a Pedro Santacilia y Pax",
+  "fecha_original": "8 de marzo de 1641",
+  "lugar": "Valencia",
+  "remitente": "Laudòmia Rossa i Domènech",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Besa sus manos. Señor don Pedro Santacilia, V. e. recibirá con al patrón Vicente Navarro, que es el que la presente lleva, una docena y media de algarrobas y v.s. recibirá y perdonará de la miseria que, aunque no es conforme v. e. merece, tomará la buena voluntad que yo me holgaría tener algún regalo muy bueno para servir a v. e. Y v. e. me haga merced de encaminarle al patrón Vicente Navarro con alguna cosa que pueda ganar, que es un pobrete y hombre de bien que va a ganar ahí cuatro reales para gobernar su mujer e hijos, y Dios que dé a v. e. muy buen suceso. Y no siendo para más, Nuestro Señor guarde a v. e. A 8 de marzo, 1641. También envío a v.e. media docena de escudillas y me haga merced de aportarle un soldado de [?] para que nadie se enoje. Laudomia Rossa, mujer de Miguel Domenech Transcripción literal"
+  ],
+  "literal": [
+    "1. Besa sus manos2. Sor. Don pedro Santa Silia3. Vo Selensia Resibira4. con Al patron Vicente Navaro que es el que la pre5. sentre lleva una dosena imedia de alcargovas6. y vuselensia Resibira y perdonara de la mise7. ria que aunque no es conforme vuSelensia me8. rese tomara la buena voluntad que io me olgaria9. tener algun Regalo mui bueno para serbir a Vuse10. lensia y Vuselensia me aga mersed: de encaminale11. al patron Vicente navaro con alguna cosa que pue12. da ganar (alguna cosa) que es un pobrete y hombre13. de bien que va agnar ay quatro Reales para go-14. vernas su muger y hijos y dios que de a Vuse15. lensia mui buen suceso y no siendo para16. mas nuestro Señor Guarde a vu Selensia17. A 8 de marco 164118. tanbien enbio a Vu Selensia media dosena19. de escudillas i me aga merse de alpor20. talle un soldado de pasta[?]21. para que nadie se22. enoge23. Laudomia Rosa muger de mi24. guel domeneq [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "092:4070.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo24/092:4070.JPG",
+      "url": "/legajos/legajo-24/images/092:4070.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "092:4070.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (2)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-24/cartas/004017.json",
+  "primary_image_url": "/legajos/legajo-24/images/092:4070.JPG"
+}

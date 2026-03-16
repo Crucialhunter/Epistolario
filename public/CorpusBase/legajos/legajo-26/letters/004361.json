@@ -1,0 +1,50 @@
+{
+  "legajo_id": "26",
+  "id_carta": "4361",
+  "order_in_legajo": 96,
+  "signatura": "134:3455.JPG",
+  "nombre_carta": "Carta de Pedro Fajardo de Requeséns-Zúñiga y Pimentel (V marqués de los Vélez) a Pedro Santacilia y Pax",
+  "fecha_original": "29 de octubre de 1640",
+  "lugar": "Alcañiz",
+  "remitente": "Pedro Fajardo de Requeséns-Zúñiga y Pimentel (V marqués de los Vélez)",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "He recibido la carta de v. m. de 26 del corriente y siento mucho que las borrascas que estos días corren ocasionen la falta de noticias de Rosellón. En tiempo que convenía tenerlas por minutos de lo que allí sucede. Dios mejore los tiempos y nos dé buenos sucesos. Pésame mucho que por falta de hospitales mueran tantos soldados como v. m. me dice, pero hoy no puedo yo obrar en prevenir lo necesario por no ser de mi jurisdicción y así dará v. m. cuenta de ella al príncipe de Botera, para que lo remedie con Cataluña. No tengo trato ninguno que ocasión de dilatar la entrada, sino el estar ajustando algunas materias tocantes al ejército. Guarde Dios a v. m. muchos años. Alcañiz Octubre 29 de 1640. El marques de los Velez Sr. D. Pedro Santacilia Transcripción literal"
+  ],
+  "literal": [
+    "1. He recevido la carta de Vm de 26 del corrte2. y siento mucho que las borrascas q estos dias3. corren, ocassionen la falta de notiçias de4. Rosellon. En tpo que convenia tenerlas5. por minutos de lo que all suçede Dios me6. jore los tpos y nos de buenos subcessos7. Pesame mucho que por falta de hospitales8. mueran tantos soldados como Vm me dize9. pero ay no puedo yo obrar en prevenir lo10. necess[a]rio por no ser de mi jurisdiz[i]on y assi11. dara Vm quenta de ella al Sr. Principe de 12. Botera para que lo remedie13. Con Cataluña no tengo trato ninguno que ocasio14. ne dilatar la entrada sino el estar ajus15. tando algas mattas tocantes al exto Ge Dios16. a Vm muchos a< ño>s Alcariz 8bre 29 de 164017. El marqus de los Velez[?]18. Sr. D. Pº Ssta. Cilia [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "134:3455.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo26/134:3455.JPG",
+      "url": "/legajos/legajo-26/images/134:3455.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "134:3455.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (5)",
+      "context": {}
+    },
+    {
+      "code": "IMAGE_DOWNLOAD_FAIL",
+      "message": "HTTP 404",
+      "context": {
+        "url": "http://santacilia.info/intranet2/img/Legajo26/134:3455.JPG"
+      }
+    },
+    {
+      "code": "IMAGE_COUNT_MISMATCH",
+      "message": "Imágenes detectadas (1) != descargadas (0)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-26/cartas/004361.json",
+  "primary_image_url": "/legajos/legajo-26/images/134:3455.JPG"
+}

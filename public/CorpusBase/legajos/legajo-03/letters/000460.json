@@ -1,0 +1,42 @@
+{
+  "legajo_id": "3",
+  "id_carta": "460",
+  "order_in_legajo": 4,
+  "signatura": "43-24a",
+  "nombre_carta": "Carta de Luis de Vera a Persona desconocida",
+  "fecha_original": "20 de julio de 1662",
+  "lugar": "Madrid",
+  "remitente": "Luis de Vera",
+  "destinatario": "Persona desconocida",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Parecer e informe de los accidentes que padece don Juan de Santacilia. Don Juan de Santacilia, paje del rey nuestro senor, padece una destemplanza del hígado por la cual toda la sangre que engendra es serosa y delgada, de lo cual se le siguen dos accidentes graves que le afligen casi de continuo, como son un mal hábito de cuerpo con color fedo [?] y una hemorragia de sangre por las narices muy continuada, y una calentura casi habitual por la mucha cantidad y presencia de los humores serosos y calientes que tiene en las venas. De todo lo cual está muy inminente a una hidropesía incurable. Y aunque para socorrerle de todos estos accidentes se le han hecho y hacen todos los remedios conformes, aunque se alivia, no viene a total curación. Y la causa más principal que se halla para que este caballero no consiga la perfecta curación es por dos razones: la primera, por ser estos aires de este país muy contrarios a su temperamento, y la otra porque asistiendo como asiste en la casa de los pajes, no puede ser bien gobernado en la {LAT. victus racio}, a la ocasión de ser muchos en bula y la mucha evinentea [?] de los excesos de las bebidas frías y opulentas comidas, de las cuales usan sin límite ni freno. Y esto se confirma en que cuando cae malo se lleva a curar en casa de don Matias de Aragues y se cura hasta su mejoría con toda puntualidad y cuidado, y en estando bueno, como es forzoso, volviendo a la casa de los pajes, como vuelve al propio desenfreno de bebidas, torna a caer en los propios accidentes. Por todo lo cual, es mi parecer que para que se pueda conseguir la perfecta salud de este caballero deje estos aires y se mude a los patricios y naturales por ser más conformes a su natural temperamento, y a donde se carecerá con el mejor cuidado de las destempladas comidas y bebidas por la asistencia de sus padres. Y este es mi parecer. Fecho en Madrid, a 20 de julio de 1662. El doctor Vera. Transcripción literal"
+  ],
+  "literal": [
+    "1. Pareser e ynforme de los asidentes2. que padese d. Juoan de Sta Silia3. D. Juoan de Sta silia paje del4. Rey nuestro señor padesse una5. des templansa del ygado por la6. qual toda la sangre que engendra7. es serosa, y delgada de lo qual se 8. le siguen dos acsidentes grabes9. que le afligen casi de continuo10. como son un mal abito de quer11. po con color fedo = y una emora12. gia de sangre por las narises mui13. continuada y una calentura casi14. abitual por la mucha cantidad15. y presentia de los humores serosos y16. calientes que tiene en las venas17. de todo lo qual esta mui yminente18. a una ydropesia incurable y aun19. que para socorrerle de todos estos 20. acidentes se le an echo y asen todos21. los remedios conformes aun que22. se alibia no viene a total curacion [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "43-24a.jpg",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo03/43-24a.jpg",
+      "url": "/legajos/legajo-03/images/43-24a.jpg"
+    },
+    {
+      "filename": "44-25b.jpg",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo03/44-25b.jpg",
+      "url": "/legajos/legajo-03/images/44-25b.jpg"
+    },
+    {
+      "filename": "45-25c.jpg",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo03/45-25c.jpg",
+      "url": "/legajos/legajo-03/images/45-25c.jpg"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "43-24a.jpg",
+  "warnings": [],
+  "raw_source": "raw/legajos/legajo-03/cartas/000460.json",
+  "primary_image_url": "/legajos/legajo-03/images/43-24a.jpg"
+}

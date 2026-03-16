@@ -1,0 +1,38 @@
+{
+  "legajo_id": "27",
+  "id_carta": "4674",
+  "order_in_legajo": 128,
+  "signatura": "245:4483.JPG",
+  "nombre_carta": "Carta de Isabel de Salvá a Pedro Santacilia y Pax",
+  "fecha_original": "9 de febrero de 1660",
+  "lugar": "Madrid",
+  "remitente": "Isabel de Salvá",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Señor mío, Mes y medio ha[ce] que salimos de Madrid para El Pardo y ahora estamos en El Retiro hasta la Cuaresma. Ese tiempo ha que no veo así a don Juan, mas sé que está bueno, Dios le guarde, porque yo envié a mi cuñado a saberlo, y me dijo como está bueno, de lo que yo me huelgo harto; y de lo que v. m. lo esté, también, porque le deseo la vida que pudiera a un hermano mío. Le beso a v. m. las manos por la merced de los vestidos que fue servido de enviarme, que ya me dicen por Juan están en su poder al fin, señor mío, pero no a quien no se lo hacen. Las personas reales, Dios las guarde, están buenas, y el príncipe, famoso. Mi madre está ya buena; también besa a v. m. las manos por su parte, [y] a esas mis señoras juntamente con las de v. m., en cuya compañía gocen de los años que deseo y he menester, amén. Del buen retiro y febrero, als 9 de 1660 años. Quien más lo quiere a v. m. y desea servir, doña Isabel de Salva Señor don Pedro de Santacilia Transcripción literal"
+  ],
+  "literal": [
+    "1. S. mio mes y medio ha que salimos de mad[^r]id2. para el pardo y aora estamos em el retiro asta la 3. Quaresma, esse tiempo ha que no beo assi a don j=4. uan mas se que esta bueno Dios le guarde, porq5. io envío a mi cuñado a sabello, y me dico co6. mo esta bueno, de lo que jo me uelgo arto:7. y de lo que V.M. lo este, tambien porque le8. deseo la vida que pudiera a un hermano mio,9. le beso a V.M. las manos. por la merced delas besti10. das que fue serbido de enbiarme que ja me dicen por11. juan estan en su poder, al fin senor mio por no a qu-12. ian no se lo hasen, las personas reales D Dios las13. guarde estan buenas, y el principe famoso, mi cu=14. madre esta ya buena, tambien bessa a V.M. las man=15. os por su parte; aessas mis Senoras juntamento con16. las de v.m. en cuya compañía gosen de los anos17. que deseo y ha menester amen del buen retiro18. y febrero als 19 de 1660 anos19. Quien mas lo quiere a v.m. y20. desea serbir Dona isabel de21. Salba22. [32, Senor Don Pedro de23. Sta Cilia [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "245:4483.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo27/245:4483.JPG",
+      "url": "/legajos/legajo-27/images/245:4483.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "245:4483.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-27/cartas/004674.json",
+  "primary_image_url": "/legajos/legajo-27/images/245:4483.JPG"
+}

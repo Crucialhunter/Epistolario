@@ -1,0 +1,43 @@
+{
+  "legajo_id": "21",
+  "id_carta": "3512",
+  "order_in_legajo": 201,
+  "signatura": "376:5800a.JPG",
+  "nombre_carta": "Carta de Rafael Vives García a Pedro Santacilia y Pax",
+  "fecha_original": "3 de septiembre de 1642",
+  "lugar": "Maó",
+  "remitente": "Rafael Vives García",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Si la ocasión viene cual deseo presto logrará v. s. los bravos de mi Sra. doña Madalena da la Dios y a v. s. muchos gustos y vida con que me mande en que le sirva que en esto he de aguardar embarcaciones en este puerto para levante. Todos los deseamos para saber lo que pasa en el poniente y Mahón y septiembre a [?] de 1642. Rafael Vives y Garcia Sr. gobernador [1§] {CAT. Maó 3 setembre 1642}El Sr. Vives rdo. Transcripción literal"
+  ],
+  "literal": [
+    "1. Si la ocasion viene qual dezeo presto 2. Lograra VS. Los Bravos demi sa doña 3. Madalena dela dios y a VS. muchos 4. gustos y vida conq me mande 5. enquelesirba q enestodeaguardar 6. embarcaçiones eneste puerto para levate 7. todos los deseamos para saber loque passa 8. enel Poniente y Mahon y serepbre a [Ilegible] 9. de 1642 10. Sor Rafael Vives Y Garçia 11. [Margen izquierdo][^ sr Gdor] [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "376:5800a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo21/376:5800a.JPG",
+      "url": "/legajos/legajo-21/images/376:5800a.JPG"
+    },
+    {
+      "filename": "377:5800b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo21/377:5800b.JPG",
+      "url": "/legajos/legajo-21/images/377:5800b.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "376:5800a.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-21/cartas/003512.json",
+  "primary_image_url": "/legajos/legajo-21/images/376:5800a.JPG"
+}

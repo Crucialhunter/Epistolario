@@ -1,0 +1,38 @@
+{
+  "legajo_id": "8",
+  "id_carta": "899",
+  "order_in_legajo": 75,
+  "signatura": "143-93 copia",
+  "nombre_carta": "Carta de Thomás Áufre y Velasco a Pedro Santacilia y Pax",
+  "fecha_original": "18 de 1644",
+  "lugar": "Lugar sin especificar",
+  "remitente": "Thomás Áufre y Velasco",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Mi hermano me ha dicho la mucha merced que v. s., Dios le guarde, le ha hecho con tantas honras que no sé cáando satisfacer tantas obligaciones. Doy a v. s. el parabién de la llegada del Sr. don Juan Miguel Santacilia a Mallorca, Dios le traiga con bien, que yo confío en su venida y la del capitán Juan Marques tener el buen suceso que espero. Es cierto que el Pesq Saura [?] tiene dado mil ducados de fianzas mas lo que yo escribí a v. s. es que no satisfará a sus malas cuentas con catorce mil que si él es pobre yo aseguro a v. s. que es tanto lo que me hallo alcanzado como se puede imaginar. Las pocas entradas que hay en mi casa ni de provechos ni pagas a que me ha obligado volver a cansar a v. s. antes que se acabe lo que hay en las arcas, que la limitación del último doceavo me ha cortado atrás para volver a cansar a v. s. como a quien es padre de huérfanos y me guarde Dios a v. s. muchos años como deseo. Fe. A 18 desta, 1644. Thomás de Áufre y Velasco Gobernador Transcripción literal"
+  ],
+  "literal": [
+    "1. Mihermano meadicho lamuçha merçed qV.S. Dios leg<> 2. le ha hecho contantas onrras que no se q< > satisfaçer tantas 3. obliga< >< > doy a V.S. el paravien de la llegada del S. Don 4. Juan Mig< > S çilia a Mallorca Dios letrayga con bien quejo 5. confio ensu benida y la del Capp< > Ju[li]< > maig tener el Beces su- 6. çesso que espero. 7. es sierto que el Pesq saura tiene dado millDucados de fian- 8. ças mas lo que jo escrivi a V.S. es que no satisfara asus ma- 9. las quentas con catorçe mill. que siel espobre jo aseguro aV.S. 10. que estanto lo q meallo Alcançado como sepuede jmaginar. 11. las pocas entradas q ay en mi casa ni deproveçhos ni pagas. 12. aque me a obligado Bolber acançar aV.S. antes q sea-13. cave lo q ay enlas arcas q la limitaçion del ultimo doce- 14. avo me a cortado atras p< [a]> bolver a cançar aV.S. como a 15. quien es padre de guerfanos y me g< Dios a V.S. muçhos 16. años como desseo sPh< >. A 18 destal 1644 17. Thomas de Çufre y V< >? 18. S< > (^Juº A) Governador [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "143-93 copia.jpg",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo08/143-93 copia.jpg",
+      "url": "/legajos/legajo-08/images/143-93 copia.jpg"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "143-93 copia.jpg",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (2)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-08/cartas/000899.json",
+  "primary_image_url": "/legajos/legajo-08/images/143-93 copia.jpg"
+}

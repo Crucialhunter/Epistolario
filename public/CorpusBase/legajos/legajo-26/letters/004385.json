@@ -1,0 +1,43 @@
+{
+  "legajo_id": "26",
+  "id_carta": "4385",
+  "order_in_legajo": 125,
+  "signatura": "171:3479a.JPG",
+  "nombre_carta": "Carta de Bartomeu Domènech a Pedro Santacilia y Pax",
+  "fecha_original": "23 de junio de 1643",
+  "lugar": "Inca",
+  "remitente": "Bartomeu Domènech",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Alguns dies ha que no he sabudes noves de v. m. Jo pens que serà la causa les galiotes que són passejades per estes mars. Folgaré saber moltíssim el pagat de mi Sra. dona, si va havent i de la sallut de tots. V. m. jo em sóc entretingut ací en Inca, sols per a adobar la mula del Sr. don Joan Miquel, que estava molt maltractada. Ara ja està bona v. s. ja sap que jo sé fer miracles amb esta matèria. He escrit al Sr. Nicolau que és vegi Sr. don Pedro Santacilia [1§] amb el virrei, que tenia ordre del Sr. Josep Navarro d'embarcar dites mules i que es servesqui avisar-me que en el punt jo portaré la mula i les embarcarem, que jo tinc moltes ganes d'anar a besar les mans a v. m. i no hi puc anar que les mules no siguin embarcades, que ja fa massa que dura d'ací no puc escriure no veig el fi. Don Joan Miquel i al Sr. Nicolau les esciruran que estan a la font tots d'esta sa casa de v. s. li besen les mans, juntament amb aqueixes mis senyores a qui jo les beso mil vegades. Inca juny 23 de 1643. Bartolome Domenech, prevere Transcripción literal"
+  ],
+  "literal": [
+    "1. Alguns dies ha que no he2. sabudas novas de V.S.m3. jo pans que sara la causa4. las galleotas qui es son5. pasajadas p estas mas6. folgare sabar moltisim7. lo pajat d emi Sa. dona8. si va havant y de la9. sallut de tots V.S.m.10. jo em so entratangut11. asi en Yncha sols p ha12. dobar la mulla del Sr.13. don joan michel qui esta14. va molt malltracta15. da arra ja esta bona16. V.S. ja sap que jo se17. fer miraclas ab esta18. materia he scrit en al19. Sr. nicollau que es vaja20. Sr. don pedro Sta21. Silia [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "171:3479a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo26/171:3479a.JPG",
+      "url": "/legajos/legajo-26/images/171:3479a.JPG"
+    },
+    {
+      "filename": "172:3479b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo26/172:3479b.JPG",
+      "url": "/legajos/legajo-26/images/172:3479b.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "171:3479a.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-26/cartas/004385.json",
+  "primary_image_url": "/legajos/legajo-26/images/171:3479a.JPG"
+}

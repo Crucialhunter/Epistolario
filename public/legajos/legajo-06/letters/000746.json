@@ -1,0 +1,43 @@
+{
+  "legajo_id": "6",
+  "id_carta": "746",
+  "order_in_legajo": 11,
+  "signatura": "420-207a",
+  "nombre_carta": "Carta de Ana Francisca Ghezzi a Cecilia Zaforteza y Sureda de Sant Martí",
+  "fecha_original": "fecha sin especificar",
+  "lugar": "Mallorca",
+  "remitente": "Ana Francisca Ghezzi",
+  "destinatario": "Cecilia Zaforteza y Sureda de Sant Martí",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Muy ilustre señora, Ana Francisca Ghezzi se pone a los pies de v. s. suplicándole dé una caridad, hallándose toda desnuda y con sus hijos, lo cual no puede salir de casa para ir a la misa de tan indecente que se halla y sin tener trabajo. Y mi marido es un pobre retirado que siempre está enfermo y tiene a cada día diez dobleros del rey para mantener mujer y dos hijos. Y si no hubiera sido la gran piedad de v. s. que se ha dignado de recibir en las miñonas mi hermana María Teresa, que perecía de hambre para no tener amparo ninguno, viendo que v. s. [1§] es la madre de los pobres, vengo [a] ampararme de su grande bondad el quererme socorrer de alguna caridad para que pueda tapar mis carnes siendo tan joven, que tengo vergüenza de presentarme a la iglesia y a la gente. Donde suplico a v. s. se digne, por el amor de un Dios que murió por nosotros, el consolar esta pobre vergonzante que está rogando a su Divina Majestad que le dé la su santa gracia en este mundo y en el otro la gloria eterna. Gracia que espera una pobre vergonzante de su amable piedad. Transcripción literal"
+  ],
+  "literal": [
+    "1. Moi Inlustre Señora 2. Ana Francisca Ghezzi se pone 3. a los pies de V.Sa. suplicandole 4. de una caridad aliandose toda 5. desnuda y con sus ycos lo qual no 6. puede salir de Casa para ir a la 7. misa de tan indicente que se alla 8. e sin tener travaco, y mi marido 9. es un povre retirado, que siempre 10. sta infermo, y tiene a cade dia dies 11. dobleros del Rey para mantener 12. muger y dos ycos y se no uviera 13. sido la gran piedad de V.Sa. 14. que se á dinado de recevir en las 15. migñonas mi ermana maria Teresa 16. que perecia de ambre para no tener 17. amparo nenguno Viendo, que V.Sa. [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "420-207a.jpg",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo06/420-207a.jpg",
+      "url": "/legajos/legajo-06/images/420-207a.jpg"
+    },
+    {
+      "filename": "421-207b.jpg",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo06/421-207b.jpg",
+      "url": "/legajos/legajo-06/images/421-207b.jpg"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "420-207a.jpg",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-06/cartas/000746.json",
+  "primary_image_url": "/legajos/legajo-06/images/420-207a.jpg"
+}

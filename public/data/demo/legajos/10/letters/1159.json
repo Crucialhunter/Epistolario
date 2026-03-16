@@ -1,0 +1,45 @@
+{
+  "id_carta": "1159",
+  "url_origen": "http://santacilia.info/info_carta2.php?id=1159",
+  "legajo": 10,
+  "signatura": "042-325a",
+  "nombre_carta": "Carta de Diego Matías de Aragüés a Jerónimo Pelegrín de Aragüés",
+  "fecha": "20 de julio de 1668",
+  "lugar": "Madrid",
+  "remitente": "Diego Matías de Aragüés",
+  "destinatario": "Jerónimo Pelegrín de Aragüés",
+  "temas": "Sin especificar",
+  "idioma": "castellano",
+  "resumen": "Lorem ipsum ad his scripta blandit partiendo, eum fastidii accumsan euripidis in, eum liber hendrerit an. Qui ut wisi vocibus suscipiantur, quo dicit ridens inciderint id. Quo mundi lobortis reformidans eu, legimus senserit definiebas an eos. Eu sit tincidunt incorrupte definitionem, vis mutat affert percipit cu, eirmod consectetuer signiferumque eu per. In usu latine equidem dolores.",
+  "transcripcion": {
+    "modernizada": "Con el señor d. Pedro he recibido la de v. m. y dándome muchas buenas nuevas de su salud y de mis sobrinas. Su señoría llegó aquí con el señor don Juan a los once del corriente muy buenos, a Dios gracias, y lo pasan en esta pobre choza lo mejor que se puede, no con la comodidad que se merecen porque el cuarto bajo lo tiene un señor eclesiástico del Perú y esa es la causa que no lo hemos podido echar de él. Sin embargo no se pasa mal no obstante los calores que hacen el señor don Juan creo se irá muy presto a palacio, y habrá más desahogo en lo demás me remito al patrón capitán don Arnau y advierto que por no haber traído carta ni licencia del señor virrey el señor don Pedro, el señor vicecanciller no le ha dado licencia para verle. Entiendo que presto se tomará resolución, con que no hay que tener cuidado y esto no salga de v. m. ni lo diga a nadie que por otros lo tendrán bien sabido y convendría que el señor virrey escribiese luego a [?] y al señor vicecanciller. Cuanto descuido fue [1§] el venirse sin carta ni letra sino solo fiado en lo que le dijo de palabra. Al fin, como digo, si hay que ver cuidado de esto. A mi señora da. Leonor besamos la manos da. Margarita y yo juntamente al señor don Nicolás y que no tenga cuidado del señor don Pedro: guardo el papelillo para las agujas que ahora no hay tiempo para buscarlas ni remitir cosa alguna con el capitán, que creo estará presto ahí y que pasara con el tercio a Milán. Estos días ha muerto el regente señor don Josep Tomeu: Dios le haya dado el cielo. Guarde a v. m. en vida de mi sobrinas y sobrinos, que mucha saludos enviamos da. Margarita y yo. . Madrid y julio, 20 de 1668. Tío y servidor de v. m., Diego Matias de Aragues [su letra habitual]A todos estos señores amigos del señor don Pedro tuve vistos menos a los del Consejo de Aragón, pero no faltan amigos en él. Jeronimo Pelegrin y Aragues, [2§] Jeronimo Pelegrin de Aragues, mi sobrino. Guarde Dios. . Mallorca [3§] [letra de Jeronimo Pelegrin] Madrid. Diego Matias de Aragues. De 20 de juliol de 1668. Recibida a 5 de agosto por Arnau. Respuesta 10 de agosto.",
+    "literal": "1. Con el Sr. D. Pedro e recibido la de 2. V.M. y dadome muchas buenas nuebas de 3. su salud y de mis sobrinas. Su señoria llego 4. aquí con el Señor Don Juan a los once del 5. corriente muy buenos a Dios gracias y lo 6. pasan en esta pobre choça lo mejor que 7. se puede, no con la comodidad que se merecen 8. por que el cuarto bajo le tiene un Sr. 9. eClesiastico del Peru y esa es la causa 10. que no lo habemos podido ehar del. Sin 11. embargo no se pasa mal no obstante 12. los calores que hacen el Señor don Juan 13. creo se yra muy presto a Palacio, y abra 14. mas desaogo en lo demas me remitto 15. al P Capitan Don Arnau y adbierto 16. que por no haver traido carta ni licencia 17. del Sr. Birrey el Señor Don Pedro, el 18. Sr. Bice Canceller no le ha dado licencia 19. para berle entiendo que persto se tomara 20. resolucion con que no ay que tener cuidado 21. y esto no salga de V.M. ni lo diga a nayde 22. que por otros lo tendran bien savido y con 23. bendria que el Sr. Birrey escriviese luego a [^??remido??^] 24. y al eñor Vicecanceller quanto descuido fue [☞]"
+  },
+  "imagenes": [
+    {
+      "src": "/data/demo/legajos/10/images/1159__01__042-325a.jpg",
+      "order": 1,
+      "originalFilename": "042-325a.jpg"
+    },
+    {
+      "src": "/data/demo/legajos/10/images/1159__02__043-325b.jpg",
+      "order": 2,
+      "originalFilename": "043-325b.jpg"
+    },
+    {
+      "src": "/data/demo/legajos/10/images/1159__03__044-325ca.jpg",
+      "order": 3,
+      "originalFilename": "044-325ca.jpg"
+    },
+    {
+      "src": "/data/demo/legajos/10/images/1159__04__044-325cb.jpg",
+      "order": 4,
+      "originalFilename": "044-325cb.jpg"
+    }
+  ],
+  "capturado_en": "2026-02-25T17:24:46.081Z",
+  "hasImages": true,
+  "primaryImage": "/data/demo/legajos/10/images/1159__01__042-325a.jpg",
+  "previousCartaId": "1158",
+  "nextCartaId": "1160"
+}

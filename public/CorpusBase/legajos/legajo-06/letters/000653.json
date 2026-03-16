@@ -1,0 +1,43 @@
+{
+  "legajo_id": "6",
+  "id_carta": "653",
+  "order_in_legajo": 152,
+  "signatura": "229-118a",
+  "nombre_carta": "Carta de Pere Sastre a Cecilia Zaforteza y Sureda de Sant Martí",
+  "fecha_original": "2 de octubre de 1772",
+  "lugar": "Palma",
+  "remitente": "Pere Sastre",
+  "destinatario": "Cecilia Zaforteza y Sureda de Sant Martí",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Mi senyora, Esta voldria que l’encontràs amb la salut que li desitja mon cordial afecte, participant-li el sentiment {ESP. grave} que he tingut en no poder amb els seus desigs de passar personalment a Son Berga el diumenge proper vinent, per haver de predicar dit dia en aquest convent de Jesús, {ESP. ausencia} suplirà, segons m’ha dit el P. guardià, el pare predicador Mulet o el pare predicador Francesc Tomàs, uns i altres, hòmens de grans {ESP. prendes} i predicadors generals. I, així, no haurà pèrdua, sinó gran {ESP. ganancia} en la falta i {ESP. ausencia} mia, quedant-me al mateix temps el més prompte servidor de v. m. des d’este convent de Jesús {ESP. extramuros} de Palma i octubre a 2 de l’any 1772. Feel servidor de v. m. Fr. Pere Sastre, qui ses mans besa. A la noble Senyora dona Cecilia Zaforteza. [En la otra página, el destinatario][1§] A la noble senyora Dna Cecilia Zaforteza, guardi Déu molts anys amb salut. En Palma. Transcripción literal"
+  ],
+  "literal": [
+    "1. Mi Señora 2. Esta voldria que la enquantrás ab la sa- 3. lud, que li desitja mon cordial affecte; 4. participantli el sentiment grave, que he 5. tingut en no poder en los seus de- 6. sigs de passar personalment á son Berga 7. el Diumenge proper vinent , per haver de 8. predicar dit die en este convent de Jesús; 9. cuya ausencia supplirá, segons me ha dit 10. el P. Guardiá el Pare Predicador Mulet, o el 11. Pare Predicador Francesch Thomás, uns y 12. altres homens de grans prendas, y Predica- 13. dors Generals; y axi no haurá perdua , 14. sino gran ganacia en la falta y ausencia 15. mia; quedantme al matex temps el mes promp- 16. te servidor de V.M. desde este convent de 17. Jesus extra muros de Palma, y Octubre á 2 18. de lo any 1772 19. Feyel Servidor de V.M. 20. Fr. Pere Sastre Q S M B 21. A la Noble Sra. Dña. Cicilia Çaforteza 22. [ En la otra página, el destinatario ] [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "229-118a.jpg",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo06/229-118a.jpg",
+      "url": "/legajos/legajo-06/images/229-118a.jpg"
+    },
+    {
+      "filename": "229-118b.jpg",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo06/229-118b.jpg",
+      "url": "/legajos/legajo-06/images/229-118b.jpg"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "229-118a.jpg",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-06/cartas/000653.json",
+  "primary_image_url": "/legajos/legajo-06/images/229-118a.jpg"
+}

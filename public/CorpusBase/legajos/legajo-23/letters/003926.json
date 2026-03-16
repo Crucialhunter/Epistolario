@@ -1,0 +1,38 @@
+{
+  "legajo_id": "23",
+  "id_carta": "3926",
+  "order_in_legajo": 181,
+  "signatura": "321:3339.JPG",
+  "nombre_carta": "Carta de Anton de Rocabertí i de Pau a Pedro Santacilia y Pax",
+  "fecha_original": "10 de julio de 1669",
+  "lugar": "Girona",
+  "remitente": "Anton de Rocabertí i de Pau",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Con particular estimación y gusto, recibo la que v. m. se sirve favorecerme, y en ella veo como v. m. me participa el casamiento del Sr. D. Nicolás, con mi Sra. Dña. Leonor de Verí [?] Por tantas prendas de ante, de que doy a v. m. muy repetidas enhorabuenas juntamente a todos esos Sres. y se la repito a v. m. por haber llegado a esa ciudad y hallarse mejorado de su desgana, y lo que aseguro a v. m. que ninguno por más razones se holgará más de los aumentos de su casa de v. m. que yo y de nuevo me pongo a la obediencia de v. m. para que me mande cuanto fuere de su mayor servicio, y guarde Dios a v. m. los muchos años deseo. Gerona y julio 10 de 1669. Besa la mano de v. m. su menor servidor Don Anton de Rocaberti y de Pau Sr. D. Pedro Santacilia y Pax [1§] Transcripción literal"
+  ],
+  "literal": [
+    "1. Con particular estimasion y gusto, resibo2. la que Vm. se sirve favoreserme, y en ella3. veo como Vm. me partisipa el casamiento del Sr.4. D. Nicolas, con mi Sra. da. eleonor de verí [?] 5. Por tantas Prendas Grande, de que doy a Vm. muy6. repetidas Norabuenas Juntamente a todos essos7. Sres. y sela repito a Vm. por haver llegado a essa8. Çiudad y allarse mejorado de su desgana, y lo que9. aziguro a Vm. que ninguno por mas razones se10. olgara mas de los aumentos de su casa de Vm. que yo11. y de nuebo me pongo a la obediensia de Vm. paraq12. me mande quanto fuere de su mayor so, y gde 13. Dios a Vm. los mos A< ñ>os deseo Gerona[?] y Julio14. 10 de 166915. B l[a] m de Vm.16. s[u] mr sdor17. Don Anton de Rocaberti y de Pau18. Sr D. Pedro Sta. Cilia y Pax [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "321:3339.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo23/321:3339.JPG",
+      "url": "/legajos/legajo-23/images/321:3339.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "321:3339.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-23/cartas/003926.json",
+  "primary_image_url": "/legajos/legajo-23/images/321:3339.JPG"
+}

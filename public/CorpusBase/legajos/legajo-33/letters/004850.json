@@ -1,0 +1,43 @@
+{
+  "legajo_id": "33",
+  "id_carta": "4850",
+  "order_in_legajo": 43,
+  "signatura": "067:6766a.JPG",
+  "nombre_carta": "Carta de Joan Maltès a Pedro Santacilia y Pax",
+  "fecha_original": "22 de abril de 1629",
+  "lugar": "Lugar sin especificar",
+  "remitente": "Joan Maltès",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Jesús Maria & Senyor don Pedro, la causa de l'enfadar a vostra mercè és que estic enmaravellat com ha tan temps que no sé de mon negoci, que per amor de Déu, com a pare (que) de pobres que és v. m. d'enviar en el comte mi senyor a que per amor de Déu que s'apiadi d'un pobre desditxat pus com so jo en aquesta acausió, patint de fam i de mala ventura atlaritsat [?] malalt i perdut que no pot esser més, i confiat de v. m. i del comte mi senyor que se aracordaran de mi i faran més que jo no meresc, que no els bastaré pagar en què visqués mil anys les mercès que v. m. me fa. I confiat de v. m. no dic més sinó que Déu li dón lo gran {ESP. contento} i alegria que v. m. desitja en esta vida. Avui, 22 d'abril any 1629. . Joan Maltes, criat de v. m. Sabrà v. m. com tinc una carta de Mallorca que se són espantats com estic en la presó, tenint lo amparo de voses mercès. [1§] A n'el senyor don Pedro de Santacilia, salut i vida. [2§] Transcripción literal"
+  ],
+  "literal": [
+    "1. Jesus Maria2. Senyor don pedro la causa del anfadar a vosa maste es que hastich en mara3. velat com ha tan tems que no se de mon negosi que pera mor de deu quom4. a para (^que) de pobres qeus V.m. de hanviar anal comta mi senior5. a que per amor de deu que se hapiado de un pobre desditxat pus com6. so io ha naquesta acausio patint de fam y de mala ventura atlar7. itsat malalt y perdut que no pot eser mes y confiat de V.m. y del8. comta mi senior que se aracordaran de mi y faran mes que yo no9. maresch que nols vastare pagar en qeu visces mil anis las mar10. ces que Vm me fa y confiat de V.m. no dich mes sino que11. deu li don lo gran contento y alagria que V.m. desitga12. enesta vida Vuy 22 de abril any 162913. Juan maltes criat de V.m.14. Sebra V.m. com tinch una carta de mallorca que se son haspantats15. quom hastich en la preso tenint lo hanparo de Vosas mastes. [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "067:6766a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo33/067:6766a.JPG",
+      "url": "/legajos/legajo-33/images/067:6766a.JPG"
+    },
+    {
+      "filename": "068:6766b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo33/068:6766b.JPG",
+      "url": "/legajos/legajo-33/images/068:6766b.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "067:6766a.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-33/cartas/004850.json",
+  "primary_image_url": "/legajos/legajo-33/images/067:6766a.JPG"
+}

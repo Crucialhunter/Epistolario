@@ -1,0 +1,48 @@
+{
+  "legajo_id": "32",
+  "id_carta": "7243",
+  "order_in_legajo": 21,
+  "signatura": "347:2001a",
+  "nombre_carta": "Carta de Persona desconocida a Persona desconocida",
+  "fecha_original": "2 de enero de 1664",
+  "lugar": "Mallorca",
+  "remitente": "Persona desconocida",
+  "destinatario": "Persona desconocida",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Â [1§] mbsp; [2§] Â [3§] Transcripción literal"
+  ],
+  "literal": [
+    "1. 1. nbsp;1."
+  ],
+  "imagenes": [
+    {
+      "filename": "347:2001a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo32/347:2001a.JPG",
+      "url": "/legajos/legajo-32/images/347:2001a.JPG"
+    },
+    {
+      "filename": "348:2001b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo32/348:2001b.JPG",
+      "url": "/legajos/legajo-32/images/348:2001b.JPG"
+    },
+    {
+      "filename": "349:2001c.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo32/349:2001c.JPG",
+      "url": "/legajos/legajo-32/images/349:2001c.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "347:2001a.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (6)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-32/cartas/007243.json",
+  "primary_image_url": "/legajos/legajo-32/images/347:2001a.JPG"
+}

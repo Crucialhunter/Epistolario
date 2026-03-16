@@ -1,0 +1,48 @@
+{
+  "legajo_id": "21",
+  "id_carta": "3353",
+  "order_in_legajo": 1,
+  "signatura": "068:5642a.JPG",
+  "nombre_carta": "Carta de condesa de Zavellá a Pedro Santacilia y Pax",
+  "fecha_original": "fecha sin especificar",
+  "lugar": "Vallmoll",
+  "remitente": "condesa de Zavellá",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Noticia he tinguda com he rebut la carta de v. m. de veure que l'escriu amb tan poca alegria i tanta fredor com si fos una cosa de no res, sent estada per a mi una de les noves que de les coses de la terra puc tenir. Nostre Senyor per sa bondat vulla deixar-la-hi {ESP. gosar} molts anys amb molt quieta vida i santa vida com sempre li he desitjat. Escriga'm poc més ho manco d'aquí a quant podrà ser la vinguda, i si Bernat Ferrer estarà desembarasat també, i no estiga per soldats d'alçar la companyia, que allí li en tinc aparellats alguns. Lo seu fill està tot content que ni es cap [?] que li apar que té la bandera de capità puix la té son pare. Es veritat que ell se promet ser general de galeres. l'altre dia li estava dient que em fes mercè de deixar-me-les per anar a Mallorca. Ell me respongué que rebria molt particular mercè que jo li volgués honrar les sues galeres [1§] i així crega que no sé [?] gens les [?] baixos. Deu lo faça millor que [?] i guardi a v. m. molts anys [?] . Vallmoll a 2 de [?] La comtessa de Zavella la [?] de [?] de una plora de nro. [?] estic pregada per a fer [?] d'un soldat que és únic [?] aquí desig fer-lo per [?] anys que no en sap noves [?] heretar una hacienda de [?] importància i així voldrien la [?] viu honrat, per a v. m. [?] puix aquí hi ha tants cas [?] gent que haurà estat; en [?] en Novara d'inform [?] home es viu i en cam [?] de la mare, i procur [?] resposta si pot ser [?] particular mercè [?]. [2§] De la sra. comtessa de Zavella a don Pedro de Santacilia i altres. Transcripción literal"
+  ],
+  "literal": [
+    "1. Malicia hetinguda com he rebut la carta 2. de v.m. de veurer quela escriu ab tan poca 3. alegria, y tanta fredor, com si fos una cosa de 4. no res sent estada pera mi unade las 5. novas que delas cosas dela terra puch tenir 6. nostre senor per sabondat vulla dexarles 7. gosar molts anys ab molt quieta (^vida) y Sta 8. vida com sempre lihe desitjat escrigam 9. poch mes ho maco de que aquat podra 10. ser la vinguda, ysi bernat ferrer estara 11. desambarasat tambe, yno estiga p 12. soldats de alsar. La compania que 13. ali Com tinch aparellats alguns 14. loseu fill esta tan content que nis cap 15. queli apar quete la bendera de capita 16. pues late con pare, es veritat quell se 17. promet ser general de galeres laltra 18. dia li estava dient quem fes merce 19. dedexarmelas per anar a mallorca 20. ell me respongue que rebria molt 21. particular merce que jo li volgues 22. honrar las suas galeras [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "068:5642a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo21/068:5642a.JPG",
+      "url": "/legajos/legajo-21/images/068:5642a.JPG"
+    },
+    {
+      "filename": "069:5642b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo21/069:5642b.JPG",
+      "url": "/legajos/legajo-21/images/069:5642b.JPG"
+    },
+    {
+      "filename": "070:5642c.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo21/070:5642c.JPG",
+      "url": "/legajos/legajo-21/images/070:5642c.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "068:5642a.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-21/cartas/003353.json",
+  "primary_image_url": "/legajos/legajo-21/images/068:5642a.JPG"
+}

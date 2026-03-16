@@ -1,0 +1,38 @@
+{
+  "legajo_id": "13",
+  "id_carta": "1793",
+  "order_in_legajo": 55,
+  "signatura": "102:2297.JPG",
+  "nombre_carta": "Carta de comte de Perelada i marquès d'Anglesol a Pedro Santacilia y Pax",
+  "fecha_original": "16 de agosto de 1668",
+  "lugar": "Girona",
+  "remitente": "comte de Perelada i marquès d'Anglesol",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Recibo la carta de 4 de agosto en la cual me avisa v. s. ha arribado en esa corte con su hijo el Sr. don Juan de que me holgado de tan feliz noticia con que fio que la salida será con muchas medras y así espero que Dios se las dejará lograr como yo deseo. Muy bien me parece que el conde esté tan galán de cabellera y bigotes negros, ya que los años no lo conceden, la industria y el arte lo facilitan, pero como puede ser menos quien vive en palacio con puesto y afición. Dios le deje encertar a si en sus acciones que nadie se holgará más que yo. Mi sobrina goza salud y está esperando Dios que le alumbre con su feliz parto y así fio en su divina majestad nos concederá ese buen día y porque sé la merced que v. s. hace y el deseo que he tenido de este suceso. Le doy esta noticia por el gusto que ha de tener de ello, suplicando a v. s. juntamente con el Sr. D. Juan no me excuse en el mandarme, pues estarán ciertos de mi obediencia, cuya vida guarde el Cielo como deseo. Gerona y agosto 16 de 1668. Beso la mano de v. s. su mayor servidor el conde de Perelada marques de Anglesol Sr. D. Pedro de Santacilia [1§] Transcripción literal"
+  ],
+  "literal": [
+    "1. Recivo la Carta de 4 de Agosto en la qual me avisa2. V.S a arrivado en essa Corte con su hijo el Sr. Don Juan de que3. me olgado de tan felis notisia con que fio que la salida sera 4. con muchas medras Y asi espero que Dios se las dejara lograr5. como Yo deseo6. muy bien me parese que el Sr. Conde este tan galan de caballera7. y vigotes negros Ya que los años no lo conçeden la industria8. y el arte lo facilitan pero como puede ser menos quien vive 9. en Palasio con puesto y aficion; Dios le deje asertar a si en10. sus acsiones que nadie se olgara mas que Yo; mi sobrina11. gosa salud Y esta esperando Dios que le alumbre con su felis12. parto Y asi fio en su Divina M[a]gd nos concedera esse buen dia13. Y por que se la md que V.S. aze Y el deseo que tenido deste14. successo le doy esta notisia por el gusto que a de tener dello15. supdo a V.S. Juntamente con el Sr. D. Jua no me escuse en16. el mandarme pues estaran siertos de mi obediensia cuya vida17. guarde el cielo como deseo Gerona y Agosto 16 de 166818. Beso la m de VS su m Ser19. Sr. Conde de Peralada20. Marques de Anglesol21. Sr. D. Pedro de Santa Cisilia [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "102:2297.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo13/102:2297.JPG",
+      "url": "/legajos/legajo-13/images/102:2297.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "102:2297.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-13/cartas/001793.json",
+  "primary_image_url": "/legajos/legajo-13/images/102:2297.JPG"
+}

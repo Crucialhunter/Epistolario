@@ -1,0 +1,43 @@
+{
+  "legajo_id": "6",
+  "id_carta": "768",
+  "order_in_legajo": 138,
+  "signatura": "460-229a",
+  "nombre_carta": "Carta de Cecilia Zaforteza y Sureda de Sant Martí a Juan Gamundí",
+  "fecha_original": "1 de octubre de 1770",
+  "lugar": "Palma",
+  "remitente": "Cecilia Zaforteza y Sureda de Sant Martí",
+  "destinatario": "Juan Gamundí",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Joan, la teva de 29 del passat agost tenc rebuda amb molt de gust per la notícia que en ella em dones de la salut de D. Tomàs i {ESP. demés} família i els teus germans, nebots, Caterina i {ESP. demés}. Tos coneguts continuen amb la mateixa, gràcies al Sr. Estic molt contenta del que em dius que D. Tomàs anà en companyia del marquès de St. Lleonard a la Granja i que fou del teu gust aquell jardí i la vista de les persones reials, el que ha de parèixer a qualsevol, perquè segons dius és el primer que hi ha en Espanya, i així no [1§] ometis que és veure tot el que podràs per a contar el que seràs. En esta na Caterina no m’ha enviada carta per tu, supòs serà perquè no haurà sabut que el correu avui se partís i sentirà no tenir la notícia, però ella està bona i tots els de la seva casa. La d’esta et donen molts {ESP. recaudos}, des del primer fins a Bonet i et prevenen que tenguis {ESP. cuidado} sempre que aneu de camí. De D. Tomàs que no li falt cosa i Déu te guardi. De Palma a 1 d'octubre 1770. Dona Cecilia Zaforteza Juan Gamundi Transcripción literal"
+  ],
+  "literal": [
+    "1. Juan la tua de 29 del pas- 2. sat Agost tench rebude 3. ab molt de gust per la 4. noticia q[u]e en ella hem br> donas de la salud de Dn. 5. Thomas, y demes familia, 6. y los teus Germans, Nab- 7. ots, Catta y demes tos cone- 8. guts continuen ab la 9. mateas gs al Sor. 10. Estich molt contempta de 11. lo q[u]e hem dius q[u]e Dn. 12. Thomas aná ab compeñia 13. del Marques de St. Leonar- 14. do á la Granga, y q[u]e fonch 15. del teu gust aquell jardi 16. y la vista de las personas 17. Reals, lo q[u]e ha de apare- 18. xer á qualsevol, perq[u]e 19. segons dius es lo primer 20. q[u]e ay en España, y axi no [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "460-229a.jpg",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo06/460-229a.jpg",
+      "url": "/legajos/legajo-06/images/460-229a.jpg"
+    },
+    {
+      "filename": "461-229b.jpg",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo06/461-229b.jpg",
+      "url": "/legajos/legajo-06/images/461-229b.jpg"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "460-229a.jpg",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (2)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-06/cartas/000768.json",
+  "primary_image_url": "/legajos/legajo-06/images/460-229a.jpg"
+}

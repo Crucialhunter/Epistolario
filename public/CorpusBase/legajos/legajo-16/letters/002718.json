@@ -1,0 +1,38 @@
+{
+  "legajo_id": "16",
+  "id_carta": "2718",
+  "order_in_legajo": 205,
+  "signatura": "356:2218.JPG",
+  "nombre_carta": "Carta de marqués de Aytona a Pedro Santacilia y Pax",
+  "fecha_original": "17 de marzo de 1668",
+  "lugar": "Madrid",
+  "remitente": "marqués de Aytona",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "He recibido la carta de v. s. de 6 del pasado y en su respuesta dije que quedo entendido de cuanto me dice en el la, y puede estar muy cierto, procuraré siempre sus conveniencias como quien las tiene tan merecidas en el servicio de su majestad. Guarde Dios a v. s. muchos años Madrid y marzo 17 de 1668 Servidor de v. s. marques de Aytona Señor don Pedro de Santacilia y Pax [1§] Transcripción literal"
+  ],
+  "literal": [
+    "1. He recivido la carta de VSª de 6 del pas[a]do 2. y en su respuesta dixe que quedo enten=3. dido de quanto me dize enella, y puede 4. estar muy cierto, procurare siempre 5. sus combeniencias como quien las 6. tiene tan merecidas enel servicio 7. de su Magd Gde Dios â VSª ms ans 8. Md y Marzo 17 de 1668 9. Sor de VSª 10. Marques 11. de Aytona 12. [Margen izquierdo][^ Sor D Pedro de Sta cecilia y Pax] [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "356:2218.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo16/356:2218.JPG",
+      "url": "/legajos/legajo-16/images/356:2218.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "356:2218.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-16/cartas/002718.json",
+  "primary_image_url": "/legajos/legajo-16/images/356:2218.JPG"
+}

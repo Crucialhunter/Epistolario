@@ -1,0 +1,38 @@
+{
+  "legajo_id": "18",
+  "id_carta": "2983",
+  "order_in_legajo": 13,
+  "signatura": "028:4822.JPG",
+  "nombre_carta": "Carta de Nicolás Truyol a Pedro Santacilia y Pax",
+  "fecha_original": "4 de septiembre de 1648",
+  "lugar": "Manacor",
+  "remitente": "Nicolás Truyol",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "procurador reial Sr. don e Déu a v. m. molts anys de vida amb els accoim ents que sos servidors li desitjam y. v. m. ha menes ter, doncs de les mercès que v. m. ens fa en participar ens el matrimoni de mi sa da Leonor amb el Sr. Gabriel de Berga ens podem prometre molt de gust per a sa case, com també el ha tingut esta de v. m. amb iguals noves i de la millore de v. m., de tot el qual estes senyores i jo donam les degudes enhorabuenas a mi sa da Leonor muller i fille molt gustosos de tan acertada eleccio que assegure a tots dilatada successió restant jo molt Cert que qualsevol ocasió en què (yo) interece tinc en v. m. el que afiancen les experiències v. m. {ESP. goce} molts anys el {ESP. contento} al qual suplico me mani enviar moltes ordres que obeir, i continuades ocasions en què servir a v. m. al qual guardi N manacor i setembre 4 de 1648 Sr. don Nicolau truyol [1§] Transcripción literal"
+  ],
+  "literal": [
+    "1. [Margen izquierdo][^ Sr Pr Real]2. Done Deu A Vm. molts anys de Vide ablos accoim3. ents que sos servidors li desityam y. Vm ha menes=4. ter, pues de les merçes que Vm. nos fa en participar 5. nos el matrimoni de mi sa da eleonor ab losr 6. Gabriel de Berga nos podem prometre molt de gust 7. para sa case, com tambe lo ha tingut esta de 8. Vm. ab iguals noves y dela millore de Vm, de 9. tot lo qual estas Senoras y yo donam les 10. digudes enorabuenas a mi sa da eleonor muller 11. y fille molt gustosos de tan açertade eleccio 12. que asigure a tots dilatade succesio = restant 13. yo molt Cert que qualsevol ocasio enq (^ yo) intereçe 14. tinch en Vm. lo que afiançen las experiencies 15. Vm. goze molts anys el contento al qual su-16. plico me mane enbiar moltes ordes que obeir, 17. y continuades ocasions en que servir a Vm. al qual 18. gde N[] Sr manacor y 7bre 4 de 1648 19. Don Nicolau truyol [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "028:4822.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo18/028:4822.JPG",
+      "url": "/legajos/legajo-18/images/028:4822.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "028:4822.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-18/cartas/002983.json",
+  "primary_image_url": "/legajos/legajo-18/images/028:4822.JPG"
+}

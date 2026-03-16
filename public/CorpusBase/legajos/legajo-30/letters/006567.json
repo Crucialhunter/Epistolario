@@ -1,0 +1,38 @@
+{
+  "legajo_id": "30",
+  "id_carta": "6567",
+  "order_in_legajo": 56,
+  "signatura": "048:5405",
+  "nombre_carta": "Carta de Pedro Sureda a Persona desconocida",
+  "fecha_original": "9 de diciembre de 1619",
+  "lugar": "Mallorca",
+  "remitente": "Pedro Sureda",
+  "destinatario": "Persona desconocida",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Â [1§] Transcripción literal"
+  ],
+  "literal": [
+    "1."
+  ],
+  "imagenes": [
+    {
+      "filename": "048:5405.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo30/048:5405.JPG",
+      "url": "/legajos/legajo-30/images/048:5405.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "048:5405.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (3)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-30/cartas/006567.json",
+  "primary_image_url": "/legajos/legajo-30/images/048:5405.JPG"
+}

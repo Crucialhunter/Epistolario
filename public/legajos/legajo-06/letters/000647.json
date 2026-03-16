@@ -1,0 +1,43 @@
+{
+  "legajo_id": "6",
+  "id_carta": "647",
+  "order_in_legajo": 146,
+  "signatura": "219-112a",
+  "nombre_carta": "Carta de Antoni Bronet a Cecilia Zaforteza y Sureda de Sant Martí",
+  "fecha_original": "27 de septiembre de 1771",
+  "lugar": "Alfabia",
+  "remitente": "Antoni Bronet",
+  "destinatario": "Cecilia Zaforteza y Sureda de Sant Martí",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Cecília, Tia, a que serà dimecres, esper vindràs a fer-me la visita promesa. Però voldria la calesa vengués tants com n'hi cabran i no venir sola. Alfabia 27 setembre 1771. Fr. Antoni Bronet, d’orde de mi senyora Dna. Beatriu de Berga. [En la otra página, el destinatario] [1§] A la noble senyora dona Cecilia Zaforteza, gaurdi Déu Nostre Senyor en el {ESP. predio}. Son Berga Transcripción literal"
+  ],
+  "literal": [
+    "1. Cecilia: 2. Tie A que çera dimecres, 3. esper vindras á ferma la 4. visita promessa: pero voldria 5. la calessa vengues tants com 6. ni cabran, y no venir sola. 7. Alfabia 27 7bre 1771 8. Fr. Antoni Bronet 9. de orde de My Sra. Dna. 10. Beatriu de Berga 11. [ En la otra página, el destinatario ] [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "219-112a.jpg",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo06/219-112a.jpg",
+      "url": "/legajos/legajo-06/images/219-112a.jpg"
+    },
+    {
+      "filename": "219-112b.jpg",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo06/219-112b.jpg",
+      "url": "/legajos/legajo-06/images/219-112b.jpg"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "219-112a.jpg",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-06/cartas/000647.json",
+  "primary_image_url": "/legajos/legajo-06/images/219-112a.jpg"
+}

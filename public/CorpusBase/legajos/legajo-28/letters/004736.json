@@ -1,0 +1,38 @@
+{
+  "legajo_id": "28",
+  "id_carta": "4736",
+  "order_in_legajo": 47,
+  "signatura": "066:3670.JPG",
+  "nombre_carta": "Carta de Tomás Cornelio Tríes a Pedro Santacilia y Pax",
+  "fecha_original": "23 de diciembre de 1638",
+  "lugar": "Zaragoza",
+  "remitente": "Tomás Cornelio Tríes",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Al punto que he recibido su carta de v. m. he dado el pliego que venía a Macia Monsarro y le he dicho dejase las ocupaciones y que solo se ocupase en lo que v. m. le manda. Hame dicho que lo haría así y que respondía a su carta de v. m. y le remitiría unos pliegos que tiene. Yo entiendo que lo ha hecho. Y en todo lo que a v. m. se le ofreciere no excuse el mandarme, que todo me tendrá muy pronto en su servicio y de Nuestro Señor. A v. m. muy felices pascuas de Navidad, estas y otras muchas; y le guarde nuestro Señor. De Zaragoza, a 23 de diciembre 1638. Tomas Cornelio Trias Señor don Pedro de Santacilia Transcripción literal"
+  ],
+  "literal": [
+    "1. Al punto que he recivido su carta de v.m. e da2. do el pliego que venia a Masia monsarró y3. ledicho dexase las ocupasiones y que solo se4. acupase en lo que v.m. le manda ame dho5. que lo aria anssi y que respondia a su carta6. de v.m. y le remitiria unos pliegos que tiene7. yo entiendo que lo aecho y en todo lo que8. a v.m. se le offresiere no escuse el mandarme9. que todo me tendra muy pronto en su servicio10. y de nuestro Sr. a v.m. muy felises pasquas de11. navidad estas y otras muchas y le ge. nuestro12. Sr. de Caragª a 23 de deze. 1638.13. Tomas Cornelio Tries14. Sr. Don Pedro Santta Sillia [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "066:3670.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo28/066:3670.JPG",
+      "url": "/legajos/legajo-28/images/066:3670.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "066:3670.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (2)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-28/cartas/004736.json",
+  "primary_image_url": "/legajos/legajo-28/images/066:3670.JPG"
+}

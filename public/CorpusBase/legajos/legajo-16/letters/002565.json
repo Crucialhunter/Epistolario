@@ -1,0 +1,38 @@
+{
+  "legajo_id": "16",
+  "id_carta": "2565",
+  "order_in_legajo": 51,
+  "signatura": "085:2065.JPG",
+  "nombre_carta": "Carta de Nicolás de Santacilia y Togores a Pedro Santacilia y Pax",
+  "fecha_original": "13 de abril de 1667",
+  "lugar": "Madrid",
+  "remitente": "Nicolás de Santacilia y Togores",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Dos cartas he recibido de v. m. de 14 del pasado holgándome mucho de saber de su salud de v. m. que como había tanto tiempo que no las tenía estaba con cuidado. La mía con el favor de Dios irá convaleciendo con el tiempo. Por vía de Barcelona tengo escrito largo por acá no hay novedad ninguna de que dar cuenta a v. m. solo que hay muchos pretendientes parado de mayordomo mayor de la reina. El rey se va al Retiro a últimos de éste con su madre. La causa de no escribir de mi letra es por tener una mano mala. Guarde Dios a v. m. muchos años como deseo y es menester. Madrid y abril 13 de 1667. Su más humilde hijo de v. m. que su mano besa,Don Nicolas de Santacilia y Togores Mi señor y mi padre Transcripción literal"
+  ],
+  "literal": [
+    "1. Dos Cartas He Reçívído de Vm 2. de 14 delpasado ôlgandome Mucho de 3. saver desu salud de Vm. quecomo avia 4. tanto tíempo queno las tenia estava con 5. cuidado. la mia con el favor de Dios yra 6. conbaleçíendo con el tiempo. 7. Por Vía de Barçelona tengo escrito largo 8. por aca no ay novedad ninguna dequedar 9. quenta a Vm. solo que ay muchos preten10. dientes parado de mayordomo Mayor dela 11. Reyna; el Rey seva al Retiro â ultimos 12. deste consu Madre. La causa deno escrivir 13. demi letra es portener una mano mala 14. gue Dios a Vm muchos años como de15. seo y hemenester Md y Abril 13 de 1667 16. Su mas humilde 17. hijo de VM. q S[u] M B 18. don Nicolas de Sta Cilia 19. y, Togores 20. [Margen izquierdo][^ mi sr y mi Padre] [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "085:2065.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo16/085:2065.JPG",
+      "url": "/legajos/legajo-16/images/085:2065.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "085:2065.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-16/cartas/002565.json",
+  "primary_image_url": "/legajos/legajo-16/images/085:2065.JPG"
+}

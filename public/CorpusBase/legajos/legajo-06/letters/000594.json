@@ -1,0 +1,53 @@
+{
+  "legajo_id": "6",
+  "id_carta": "594",
+  "order_in_legajo": 97,
+  "signatura": "119-65aa",
+  "nombre_carta": "Carta de Josep Ignacio Pizarro a Cecilia Zaforteza y Sureda de Sant Martí",
+  "fecha_original": "29 de diciembre de 1756",
+  "lugar": "Valladolid",
+  "remitente": "Josep Ignacio Pizarro",
+  "destinatario": "Cecilia Zaforteza y Sureda de Sant Martí",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Señora, Su carta de v. s. me deja tan agradecido por su memoria como contrariado por su noticia, pues aunque tenía ésta por [?] no obstante me lisonjeaba con la esperanza de poder ser incierta. Hoy que la veo confirmada, crea v. s. la acompaño con todo el [1§] corazón en una pérdida que en lo humano no se encontrará más circunstanciada para el sentimiento. Pero ella misma es preciso que en su cristiandad de v. s. le proporcione (si cabe) algún alivio pues Dios que quiso al empezar su vida cortar [?] la del Sr. D. Gabriel en unas tan bien fundadas esperanzas de su fortuna servir sin duda para excederlas llevándole al mejor destino de su gloria. Yo, señora, vuelvo [a] asegurar a v. s. mi cierto dolor, pues le quería muy de veras al Sr. D. Tomás, hacer v. s. esta misma sentida expresión de mi amistad, y si mis limitadas facultades pueden tener el interés de obedecer a v. s. en todas sus satisfacciones, mándeme v. s., con la seguridad de mi [En la otra página, la parte final del documento] rendimiento. Nr. Sr. guarde a v. s. como he menester. Valladolid y diciembre 29 de 1756. Señora, A los pies de v. s. su rendido Josep Ignacio Pizarro. Mi Sra. Dña. Cecilia Zaforteza. Transcripción literal"
+  ],
+  "literal": [
+    "1. Señora 2. Su carta de V.S. me 3. deja tan agradeci- 4. do por su memoria 5. como contrariado, por 6. su noticia: pues aun- 7. que tenia esta por 8. [?] nobstante 9. me lisongeaba con 10. la esperanza de po- 11. der ser incierta; oi 12. que la veo confirma- 13. da crea V.S. la acon- 14. paño con todo el [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "119-65aa.jpg",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo06/119-65aa.jpg",
+      "url": "/legajos/legajo-06/images/119-65aa.jpg"
+    },
+    {
+      "filename": "119-65ab.jpg",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo06/119-65ab.jpg",
+      "url": "/legajos/legajo-06/images/119-65ab.jpg"
+    },
+    {
+      "filename": "120-65ba.jpg",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo06/120-65ba.jpg",
+      "url": "/legajos/legajo-06/images/120-65ba.jpg"
+    },
+    {
+      "filename": "120-65bb.jpg",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo06/120-65bb.jpg",
+      "url": "/legajos/legajo-06/images/120-65bb.jpg"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "119-65aa.jpg",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-06/cartas/000594.json",
+  "primary_image_url": "/legajos/legajo-06/images/119-65aa.jpg"
+}

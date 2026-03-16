@@ -1,0 +1,32 @@
+{
+  "legajo_id": "40",
+  "id_carta": "5692",
+  "order_in_legajo": 32,
+  "signatura": "082:44",
+  "nombre_carta": "Carta de Persona desconocida a Persona desconocida",
+  "fecha_original": "fecha sin especificar",
+  "lugar": "Mallorca",
+  "remitente": "Persona desconocida",
+  "destinatario": "Persona desconocida",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Relació de noms de persona [1§] Transcripción literal"
+  ],
+  "literal": [
+    "1. Relació de noms de persona"
+  ],
+  "imagenes": [
+    {
+      "filename": "082:44.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo40/082:44.JPG",
+      "url": "/legajos/legajo-40/images/082:44.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "082:44.JPG",
+  "warnings": [],
+  "raw_source": "raw/legajos/legajo-40/cartas/005692.json",
+  "primary_image_url": "/legajos/legajo-40/images/082:44.JPG"
+}

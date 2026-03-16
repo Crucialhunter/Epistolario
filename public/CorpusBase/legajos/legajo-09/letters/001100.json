@@ -1,0 +1,37 @@
+{
+  "legajo_id": "9",
+  "id_carta": "1100",
+  "order_in_legajo": 134,
+  "signatura": "242-122a",
+  "nombre_carta": "Carta de Pedro de Alda a Arnau de Santacilia",
+  "fecha_original": "14 de marzo de 1678",
+  "lugar": "La Mola",
+  "remitente": "Pedro de Alda",
+  "destinatario": "Arnau de Santacilia",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Donde hay alto en los jardines para que descanse caliente sin ser necesario el que se aparten hasta otra orden. Guarde Dios a v. m. de la Mola 14 de marzo de 1678. Servidor de v. m. D. Pedro de Valda sargento mayor [1§] Al sargento mayor Sr. D. Arnau de Santacilia guarde Dios [2§] Transcripción literal"
+  ],
+  "literal": [
+    "1. Donde ay alto enlos 2. Jardines pa q descanse 3. calentes sinser susesario 4. elq seaparten asta 5. otrahorden gal dios aVmd 6. delamola 14 demco de 678 7. deVmd 8. D Pedro dealda 9. [Margen izquierdo][^ Sr Sargento maíor] [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "242-122a.jpg",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo09/242-122a.jpg",
+      "url": "/legajos/legajo-09/images/242-122a.jpg"
+    },
+    {
+      "filename": "242-122b.jpg",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo09/242-122b.jpg",
+      "url": "/legajos/legajo-09/images/242-122b.jpg"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "242-122a.jpg",
+  "warnings": [],
+  "raw_source": "raw/legajos/legajo-09/cartas/001100.json",
+  "primary_image_url": "/legajos/legajo-09/images/242-122a.jpg"
+}

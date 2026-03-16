@@ -1,0 +1,38 @@
+{
+  "legajo_id": "11",
+  "id_carta": "1238",
+  "order_in_legajo": 8,
+  "signatura": "006:5098.JPG",
+  "nombre_carta": "Carta de Mossèn Joan Anglès a Pedro Santacilia y Pax",
+  "fecha_original": "11 de enero de 1643",
+  "lugar": "Vinarós",
+  "remitente": "Mossèn Joan Anglès",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Sr. don Pedro. Per en Jaume Duran sabí com v. s. gosava salut: Nostre Sr. li conservi molts anys com este seu capellà desitja. Ja en casa la tenim i desitjam vinga per esta terra perquè ens pugui {ESP. emplear} en coses de son gust. Déu fou servit de portar-se'n a mon pare a la seva santa glòria: es pèrdua de pare i ens ha deixat desconsolats; i ara coneixem la falta quan ja és mort amb tots els sagraments i ha fet la mort qual la vida no el mereixem nosaltres. I així, Déu és estat servit dur-lo a la seva santa glòria. Haurà quinze he casat a una neboda amb un fill de Francesc Palau; és fill únic i bon treballador: confio estarà ben acomodada; Nostre Sr. els faci bons casats. Don Josep Rocaberti m'escrigué i faran embarcació per a Tarragona havent estat seu hagi cert que durà un quart que tingui la [?] escrita [?] el faci embarcar en el patró Antoni Bosc escriu-me que té salut, i que prest estarà per aquí. Per aquí no hi ha res de nou sinó que el duc de Aguilar és entrat en la castellania i a [?] dos poble. Nostre Sr. li doni bon succés ja que en tant el [?] som estats tan desgraciats el negoci dels bergantins els patrons diran de passar-la la [?] per a ras [?] que els ha fet don Diego de Cas Carrio que jo no m'atreveix a escriure i no afirmaré altra cosa. Guardi Déu a v. s. i Vinarós, gener 11 de 1643. Mossen Joan Angles Transcripción literal"
+  ],
+  "literal": [
+    "1. [^Sr. don Pedro^] 2. Per en Jaume Duran sabi com V.S. gosava salud nostre 3. Sr. lui concerve molts anys com este seu capella [^??^] 4. ja en casa [^??^] y desigan vinga per esta ter 5. ra pera que nos puga emplear encoses de son gust. 6. Deu fonch servit de portarsen a mon Pare a la 7. seva Sta, Gloria es perdua de pare y nos ha dexat 8. desconsolats y ara coneixem la falta quan ja es 9. mort ab tots los Sacraments y ha fet la mort qual 10. la vida nol mereixem nosaltres, y axi deu es estat 11. servir durlo a la sava Sta. Gloria. avra quinse he 12. casat a una neboda ab un fill de Francesch Palau es fill 13. unich y bon treballador confio estara ben acomodada. 14. Nostre Sr. los fasa bons casats. Don Joseph Rocabirdi 15. me escrigue hi haran embarcatio per a Tarragona 16. aven estat seu haigui sert que dura un quart que tin 17. gui la [^??escrita??^] lo fai embarcar en lo patro Antoni Bosch 18. escriume que te salud, y que prest estara per assi. Per 19. assi noy ja res de nou sino que el [^??`] de Aguilar es 20. entrat en la castillania y a [^??^] dos poble. Nostre 21. Sr. li done bon succes ja que entant lo [^??^] som estats 22. tan desgrassiats lo negosi dels bargantins los patrons 23. diran de passarla la [^??pararas^??^] quels ha fet don Die 24. go de Ca Carrio que jo no me atreveix a escriure 25. y no affirmare altra cosa. Gde Deu a V. Sª y Vina 26. ros y [^??^] 11 de 1643. 27. Mo. Joan Angles [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "006:5098.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo11/006:5098.JPG",
+      "url": "/legajos/legajo-11/images/006:5098.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "006:5098.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (2)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-11/cartas/001238.json",
+  "primary_image_url": "/legajos/legajo-11/images/006:5098.JPG"
+}

@@ -1,0 +1,43 @@
+{
+  "legajo_id": "13",
+  "id_carta": "1785",
+  "order_in_legajo": 48,
+  "signatura": "088:2289a.JPG",
+  "nombre_carta": "Carta de Jerónimo Pelegrín de Aragüés a Pedro Santacilia y Pax",
+  "fecha_original": "14 de agosto de 1668",
+  "lugar": "Mallorca",
+  "remitente": "Jerónimo Pelegrín de Aragüés",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Mi señor por vía de Barcelona por el bergantín de Castany he remitido 3 pliegos al sargento mayor Josep Balell, que son cartas de todos los amigos de v. s. Y de más unaas novedades corrientes hasta el día de la fecha de esta. Y por partirme esta nave cargada de [?] para Mahón y toca en Alicante escribo estas rayas porque provenía embarcación sin carta de casa para dar noticia de todo lo que pasa a v. s. y es que la capitanía está a punto partida esta semana el alférez Sion con todos sus secuaces estah habiendo reclutas. A Pedro Xuia no le pesa porque aunque hayan pasados no le faltará la patente y ayuda de carta. El Dr. Armella como primer ministro lleva la consulta de este negocio con esos aliados. Los pronósticos de la calma discurren sobre todas materias. Estamos aguardando Navidad para ver sus escritos si [?] ciran. Dios sobretodo porque si acaso se acompañan podrán [?] con el tiempo algo antes que se acabe el año 1668. v. s. bien sabe que estamos [?] los correos, o por menor decir, embarcaciones entran pocas si no son de Marsella y costas de Francia, donde no tenemos correspondencia cargados de [?] y llevanse la plata. Dios lo dispone así y guarde a v. s. muchos años como deseo y es menester de esta su casa y Mallorca, 14 de agosto 1668. Su criado de v. s. que sus manos besa Jeronimo Pelegrin y Aragues Mi señor [1§] Mallorca 14 Agosto 1668 respuesta. D. Jeronimo Pelegrin [2§] Transcripción literal"
+  ],
+  "literal": [
+    "1. Mi señor Pervia de Barcelona por el Bergantin2. de Carta[?] ÿ heremitido. 3 pliegos al [?] Maior.3. Jusepe Balell queson cartas detodos los amigos de4. V.S. Y demas amas las nouedades corrientes asta [?]5. dela saetia[?] destas. Y por partirme esta Naue Cargada6. de [?] para [?] i teca[?] en Alicante escri[?] estas7. Rajas por que prouenia embarcacion sin carta de8. cassa para dar noticia de todo lo que passa a V.S.9. i es que la capitana esta apunto partida esta semana10. el Alz sion[?] con todos [?] [?] estar auiendo [?]11. a Pedro Xuia nole pessa[?] porque aun que [?] [?]12. no le faltara la [?] i ajuda de carta, el dr. Some-13. lla como primer ministro lleua la [?] dela [?]14. con [?] aliados.=15. Los pronosticos dela Cadena[?] dicen[?] sobre todos [?]16. endamos aguardando Nauidad para[?] sus escritos [?]-17. ciran. Dios. sobretodo. porque tienen [?]18. [?] con el ti(m)empo algo [?] que se[?] el añyo 1669.19. V.S. bien saue que accemos[?] [?] los [?], y por mar dicir20. embarcaciones en tan pocas [?] de [?] y Cartas[?]21. de francia donde [?] [?] cargados de22. [?] i [?] la plata[?] Dios [?] i guarde23. a V.S. m a< ños> como desseo i he menester desta su cassa y Mallca24. 14 de Agosto 1668.25. Su Criado de V.S. q s m b26. Geronÿmo Pelegrin y Aragra27. Mi Señor [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "088:2289a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo13/088:2289a.JPG",
+      "url": "/legajos/legajo-13/images/088:2289a.JPG"
+    },
+    {
+      "filename": "089:2289b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo13/089:2289b.JPG",
+      "url": "/legajos/legajo-13/images/089:2289b.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "088:2289a.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (4)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-13/cartas/001785.json",
+  "primary_image_url": "/legajos/legajo-13/images/088:2289a.JPG"
+}

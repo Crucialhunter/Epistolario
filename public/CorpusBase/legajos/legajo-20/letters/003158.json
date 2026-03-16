@@ -1,0 +1,38 @@
+{
+  "legajo_id": "20",
+  "id_carta": "3158",
+  "order_in_legajo": 40,
+  "signatura": "037:5939.JPG",
+  "nombre_carta": "Carta de Vicente Bernavé de Escamilla a Pedro Santacilia y Pax",
+  "fecha_original": "11 de diciembre de 1655",
+  "lugar": "Lugar sin especificar",
+  "remitente": "Vicente Bernavé de Escamilla",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "mío algunas tengo escritas a v. m. de que no he tenido respuesta, y en la ulti ma, repeti lo que en las demás tocante a la letra que v. m. me envio [?] que como [?] v. m. supo [?] no [?] lo del [?] por las circunstancias que habrá de por medio y así la entregue a don Rafael [?] que se halla [?] al pte [?] en esta espero en [?] que hemos de tener a v. m. en el puesto de procurr real dese reino nadie lo desea más que yo he hablado alguno en sus muchas [?] de v. m. pues le he visto [?] servir [?] a su majestad en Alemania y Flandes [?] buena [?] Pelegrin su criado de v. m. es muy cuidadoso ya le he dicho que todo cuanto [?] me hallare bueno para el servicio de v. m. me lo avise [?] que acudiré con toda fineza. Guarde Dios a v. m. como deseo [?] a 11 de [?] 16 [?] B. L.a m. de v. m. Vicente Bersiana [?] deScamilla [?] Sr. don Pedro Santacilia [1§] Transcripción literal"
+  ],
+  "literal": [
+    "1. Sr mio algunas tengo escritas a Vm 2. de que no e tenido respuesta, Y en la ulti 3. ma, rrepeti lo que en las demas tocante 4. a la letra q Vm me ynvio[?] que como[?] Vm 5. supo[?] no [?] ??] lo del [?] 6. por las circunstancias que havra de 7. por medio y assi la entregue a Don 8. Rafael [?] q se alla [?] al pte[?] 9. en esta < [?]> 10. espero en [?] que emos de tener 11. a Vm en el puesto de procurr Rl dese 12. Reyo nadie lo desea mas q Yo he 13. ablado alguno en sus muchas [?] 14. de Vm pues le e visto[?] servir[?] a su Magd 15. en Alemania y Flandes [?] 16. buena[?] Pelegrin su criado de Vm 17. es mui cuidadoso ya le e dicho q 18. todo qto[?] me allare bueno para el 19. servicio de Vm me lo avise [?]que 20. acudire con toda fineza gde dios a Vm 21. como deseo [?] a 11 de [?] 16[?] 22. B. L.[a] m. de Vm 23. Vicente Bersiana[?] 24. deScamilla[?] 25. Sr.Don Po Santasilia [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "037:5939.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo20/037:5939.JPG",
+      "url": "/legajos/legajo-20/images/037:5939.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "037:5939.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-20/cartas/003158.json",
+  "primary_image_url": "/legajos/legajo-20/images/037:5939.JPG"
+}

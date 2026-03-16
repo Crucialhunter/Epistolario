@@ -1,0 +1,43 @@
+{
+  "legajo_id": "13",
+  "id_carta": "1824",
+  "order_in_legajo": 91,
+  "signatura": "149:2328a.JPG",
+  "nombre_carta": "Carta de José Balell a Pedro Santacilia y Pax",
+  "fecha_original": "13 de octubre de 1668",
+  "lugar": "Barcelona",
+  "remitente": "José Balell",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Señor don Pedro de Santacilia y Pax, mi señor. He recibido la de v. s. de este correo con todo contento por la noticia me manda dar de su salud que tanto quiero y estimo si bien con el pesar debido de que el Sr. don Juan no tenga muy cumplida salud por lo que juzgo con todo pesar al cual acompaño a v. s. con muy buena voluntad. Todos los pliegos para Mallorca tengo remitidos y el de este correo para el virrey irá en primera ocasión el virrey llego de Arenys. Jueves a las once de la noche con galera dejando el navío de muy mala calidad con todo se hace el último esfuerzo que es ver si se podrá echar de lado sobre cordón de pipas la venida de su excelencia dejen sólo ha sido por ver si se puede habitar el palacio nuevo que ya está acabado y muy lindo y que lunes se volverá a Arenys, quiera Dios que se logre con bajel y las diligencias que ha mandado hacer su excelencia que son muchas. Acá todo es necesidad en los soldados, fugas sin temer los ejemplares castigos de los que arcabrevan los caballos continúan el pasarse [1§] los oficiales padecen a todo trance dicen que en la reforma se pondrá remedio para los que quedarán, el país se cansa en dar lo poco con que asisten los patrones, que es de mala gana. Espérase al duque de Saint Germain, que dicen está y han venido [?]. En lo de Cerdeña no hay novedad alguna, pues no ha venido embarcación. No hay más novedad desde las que tengo avisadas y los Argeles de Conflent andan a Monte y les persiguen mucho. Suplico a v. s. sea servido tenerme en su gracia y servicio cuya vida guarde Nuestro Señor muchos años como puede, deseo y es menester en compañia del Sr. don Juan, con toda salud y de cuanto más quiere y merece. Barcelona y octubre 13 de 1668. Cierto criado de v. s. que su mano besa, Josep Balell Transcripción literal"
+  ],
+  "literal": [
+    "1. Sr d Po de Sta Cilia y Pax mi Sr2. He Reciv[i]do la de VS deste Correo con3. todo Contento por la noticia me4. Manda dar de su salud que tanto 5. quiero y estimo si bien con el pesar6. Devido de que el Sr. d Juan no tenga7. mui cumplida salud por lo que jus8. go con todo pesar al qual acompa9. ño a VS con mui buena voluntad10. Todos los pliegos para Mallorca tengo11. Remitidos y el deste Correo pa el Sr 12. Birrey hira en primera ocasion 13. el Sr Birrey llego de Arenys Jueves14. alas onse de la noche con Galera15. dejando el navio de mui mala cali16. dad con todo se haze el ultimo 17. esfuerço que es ver si se podra he 18. char de lado sobre Cordon de pipas19. la venida de su exa dejen solo ha20. sido por ver si se puede havitar el21. Palacio nuevo que ya esta acavado22. y mui lindo y que lunes se bolvera23. a Arenys quiera Dios que se logre24. con Baxel y las diligencias que ha 25. Mandado hazer su exa que son 26. muchas.27. Aca todo es necessd en los soldados28. fugas sin temer los exemplares29. castigos delos que arcabrevan los 30. Caballos continuan el pasarse [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "149:2328a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo13/149:2328a.JPG",
+      "url": "/legajos/legajo-13/images/149:2328a.JPG"
+    },
+    {
+      "filename": "150:2328b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo13/150:2328b.JPG",
+      "url": "/legajos/legajo-13/images/150:2328b.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "149:2328a.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-13/cartas/001824.json",
+  "primary_image_url": "/legajos/legajo-13/images/149:2328a.JPG"
+}

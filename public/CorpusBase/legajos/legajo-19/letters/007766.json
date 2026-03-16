@@ -1,0 +1,38 @@
+{
+  "legajo_id": "19",
+  "id_carta": "7766",
+  "order_in_legajo": 63,
+  "signatura": "489_7965.JPG",
+  "nombre_carta": "Carta de Llorenç Coll a Pedro Santacilia y Pax",
+  "fecha_original": "fecha sin especificar",
+  "lugar": "Mallorca",
+  "remitente": "Llorenç Coll",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Mi senyor, Molt me som folgat de saber del bon pasatge que v. m. ha tengut d'arribar amb salut en la seva casa. Ara pel patró Francesc capità no he volgut deixar d'escriure a v. m. estos renglons i fer-li recordar del meu negoci, en què suplic a v. m. me faci mercè tenir-hi un poc de {ESP. cuidado}, i amb lo primer donar-me avís de tot lo que hi haurà de nou. I confiat me farà mercè, no dic més sinó que Nostre Senyor el guardi molts anys com jo desitjo. Criat de v. md., . Llorenç Coll [1§] Transcripción literal"
+  ],
+  "literal": [
+    "1. M y Señor; Molt me som folgat 2. de saber del Bon Passatje que vm. a 3. tengut de arribar ab salut en la sua 4. caza, hara per lo patro fran. cappita 5. no he vulgut dexar de escriura a vm 6. estos ringlons y fer bi recordar del meu 7. negossy, en que supplico a vm, me 8. fasse marse tanir y un poch de cuida9. do y ab lo primer donarme avis 10. de tot lo que y aura de nou 11. y comfiat me fara marse no dich 12. ?? sino que nostro Señor lo guarde 13. molts años com jo desitja14. Criat de vm, Llorens Coll [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "489_7965.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo19/489_7965.JPG",
+      "url": "/legajos/legajo-19/images/489_7965.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "489_7965.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-19/cartas/007766.json",
+  "primary_image_url": "/legajos/legajo-19/images/489_7965.JPG"
+}

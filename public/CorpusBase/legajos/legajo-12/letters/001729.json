@@ -1,0 +1,43 @@
+{
+  "legajo_id": "12",
+  "id_carta": "1729",
+  "order_in_legajo": 221,
+  "signatura": "355_6322a.JPG",
+  "nombre_carta": "Carta de Persona desconocida a Pedro de Aragón",
+  "fecha_original": "14 de noviembre de 1666",
+  "lugar": "Mallorca",
+  "remitente": "Persona desconocida",
+  "destinatario": "Pedro de Aragón",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Excelentísimo Señor Cuidadosamente dilato poner a mano de v. e. mi nombre por verme a este rincón faltó de noticias y a v. e. tan ocupado en confianza de que irá continuando el honrar mi esclavitud a sus pies arrimándome a su sombre de v. e. con el amigo don Juan Baptista Baston para que sustituyese unas procuras en Roma de unas pensiones que tengo, yo, y mi hjo sobre el obispado de este reino que no nos quieren pagar y han introducido la causa en Roma. Suplico a v. e. lo tenga por bien que es mucha parte de mis comodidades ya que me falta para ellas, el no hallarse v. e. en Madrid de que vivo con esperanzas. Cuando vuelva v. excelencia a ella honrará esta casa como dueño y señor, que Dios me guarde muchos años como debo y es menester. Mallorca 14 de noviembre 1666. Duplicado Sr. don Pedro de Aragón mi Sr. [1§] En confianza que todos vamos vestidos de un color como reliquias antiguas de la esclavitud que profesamos de la casa de Cardona, no dudo que estas memorias no las pone v. m. en olvido y en esta conformidad digo que el obispo D. Pedro Manjares de Heredia, de este reino, como escribí a v. m. el año pasado, ha andado tan crudo y anda con los pensionistas, y en particular con mi hijo y conmigo que busca todos los enredos posibles en no pagarnos como verá a v. m. en los inclusos papeles, y como confío que v. m. al salir de Roma habrá dejado procura, pues en la mía ya iba con poder de sustituir, no me ha parecido tener necesidad de formar otra sino valerme continuando v. m. de esta merced, y así le suplico de esta orden para que en Roma, tenga yo quien me defienda, y se corresponda el agente conmigo, guardándose de los mallorquines que como los obispos tienen tanta mano no nos hagan algún maltrato particularmente, un licenciado Mateo Miguel Mir que lave sus negocios. Impórtame esto sea con la brevedad posible, pues pasa en 60 días el mostrarme parte. Soy todo de v. m. a quien guarde Nuestro Sr. muchos años como deseo y me importa. Mallorca 14 de noviembre 1666. Duplicado Sr. don Juan Baptista Bastante [2§] Transcripción literal"
+  ],
+  "literal": [
+    "1. Exmo. Señor2. Cuydadosa mente dilato poner a mano de V.E.3. mi nombre por verme a este rinçon falto de no=4. tiçias y a V.Exa. tan, o,cupado en confiança de5. que hira continuando el onrrar mi esclavitud6. a sus pies= Harrimandome a su sombre de V.E.7. con el amigo Don Juan Bap[tis]ta Bastan para que8. sustituiesse unas procuras en Roma de unas9. pensiones que tengo, jo, y mijo sobre el obispado de10. este Reyno que no nos quieren pagar y an11. intruducido la caussa en Roma: suplico a12. V.E. lo tenga por vien que es mucha parte de13. mis comodidades= Ya que me falta para14. ellas, el no hallarse V.E. en Madrid de que15. vivo con esperanças quando Buelva V.Exa16. haella onrrara esta Cassa como Dueño y17. Señor que Dios me guarde m[ucho]s a[ño]s como devo18. y he menester Mallorca 14 de Nobiembre19. 166620. dupp[lica]do21. Sr. Don Pedro de Aragon mi Sr. [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "355_6322a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo12/355_6322a.JPG",
+      "url": "/legajos/legajo-12/images/355_6322a.JPG"
+    },
+    {
+      "filename": "356_6322b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo12/356_6322b.JPG",
+      "url": "/legajos/legajo-12/images/356_6322b.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "355_6322a.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-12/cartas/001729.json",
+  "primary_image_url": "/legajos/legajo-12/images/355_6322a.JPG"
+}

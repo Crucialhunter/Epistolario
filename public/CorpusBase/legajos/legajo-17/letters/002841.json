@@ -1,0 +1,38 @@
+{
+  "legajo_id": "17",
+  "id_carta": "2841",
+  "order_in_legajo": 107,
+  "signatura": "177:1383.JPG",
+  "nombre_carta": "Carta de Francesc Rosselló a Pedro Santacilia y Pax",
+  "fecha_original": "1 de abril de 1660",
+  "lugar": "Ibiza",
+  "remitente": "Francesc Rosselló",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Remitome a lo que tengo escrito en otras ocasiones a v. s. digo ahora que ya me han vuelto a dar el dinero del panadero. que ria saber cuando no tengo dinero en mi receta, como me tengo de portar en la fabrica y en los salarios de los oficiales Ahier fuimos el Gdr y Acesor las cuentas del año 1657 y 1658. y el noto del patri monio Va acabando de hacer la certificación de las apocas y en la primera ocasión irán las cuentas deseo que vayan también las del año 1659. porque en ellas sujacen [?] el Dr. y El notario me lo dilata. Supl a v. s. mande enviarme una orden para que el notario lo haga luego que en seis días lo podrá despachar que la excusa que da es que está ocupado en la cabrevación y todo ira junto Guarde Dios a v. s. muchos años Eivisa y abril als por de 1660 Servidor de v. s. y que sus manos besa Francisco Rosellón de franc Sr. D. Pedro Sta. Sesiliá y Pax Pro real [1§] Transcripción literal"
+  ],
+  "literal": [
+    "1. Remitome a lo que tengo escrito en otras oca2. siones a VS. digo agora que ja me han 3. buelto a dar el dinero del panadero. que 4. rria saber quando no tengo dinero en 5. mi reçeta, como me tengo de portar en la 6. fabrica y en los salarios de los oficiales 7. Ahier fuimos el Sr. Gdr y Acessor las quentas 8. del año 1657. y 1658. Y el notto del patri9. monio Va acabando de hazer la sertificaçion 10. de las apocas y en la primera ocasion iran 11. las quentas deseo que vajan tambien las 12. del año 1659. por que en ellas sujacen[?] el 13. dr. y El notario melo dilata. Supl a V.S. 14. mande imbiarme una orden para que El 15. notario lo haga luego que en seis dias lo 16. podra despachar que la escusa que da es 17. que esta ocupado en la cabrevaçion y todo 18. ira junto Gde. dios aV.S. muchos años Iviça 19. y Abril als pr de 166020. Sdor de V.S. y q s[u] m B21. Françisco Rossellon de franch22. Sr. d. Po Sta. Sesilià y Pax Pro Rl [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "177:1383.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo17/177:1383.JPG",
+      "url": "/legajos/legajo-17/images/177:1383.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "177:1383.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-17/cartas/002841.json",
+  "primary_image_url": "/legajos/legajo-17/images/177:1383.JPG"
+}

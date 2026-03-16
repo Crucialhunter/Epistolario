@@ -1,0 +1,43 @@
+{
+  "legajo_id": "37",
+  "id_carta": "5433",
+  "order_in_legajo": 50,
+  "signatura": "025:17a",
+  "nombre_carta": "Carta de Bernat Rosselló Custos a Persona desconocida",
+  "fecha_original": "19 de noviembre de 1692",
+  "lugar": "Ciutadella",
+  "remitente": "Bernat Rosselló Custos",
+  "destinatario": "Persona desconocida",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Senyor Compare Serviran estes quatre lineas per donar avís a v. m. de com Déu és estat servit de prostar-me en el llit d'unes reprencions dobles de les quals he estat renuntiat de metges, i no dar-me vida més que un dia però Graties al avui ja em som llevat que és primer dia que a no ser per la asis tència del procurador i la de Déu Nre. Sr. era impossible el que jo vingués que com dies era tanta l'assistència de dit que ell propi em dava el menjar a la boca que fas Graties al i lom guardi a [1§] v. m. molts anys com desitja Ciutadella de Menorca avui als 19 novembre 1692. El Governador m'han dit que vol pagar els metges i barber i potacari que serà suma de 12 Ll. i jo nou voldria i no sé com fer-ho perquè jo ho voldria pagar per no deura ta nta obligació o l'o fa per es o no se perquè ho fa en es Sar. Molts {ESP. recados} de ma part i el farà sa bidor de (de) tot el que diu la car tay veure el comanador que diu i m'escriura el més presto que pugui Déu guardi a v. m. fe als 19 novembre ha de 1692 Son Compara que ls. Ms. Bª Bernat Rossallo [2§] Transcripción literal"
+  ],
+  "literal": [
+    "1. Señor Compare2. Serviran estas quatre lineas per3. donar havis a Vmd. de com Deu4. es estat servit de prostarme en5. el llit de unas reprentions dobles6. de las quals he estat renuntiat7. de metges, y no darme vida mes8. q un dia pero Gratias al Sr9. vuy ya em som llevat que es pri=10. mer dia q a no ser per la asis=11. tentia del Sr. P[rocura]dor y la de Deu Nre.12. Sr. era imposible el q yo vingues13. q com dias era tante la asistentia14. de dit Sr. que ell propi em dave15. el mengar a la boca de que fas16. Gratias al Sr. y lom gde. a [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "025:17a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo37/025:17a.JPG",
+      "url": "/legajos/legajo-37/images/025:17a.JPG"
+    },
+    {
+      "filename": "026:17b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo37/026:17b.JPG",
+      "url": "/legajos/legajo-37/images/026:17b.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "025:17a.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-37/cartas/005433.json",
+  "primary_image_url": "/legajos/legajo-37/images/025:17a.JPG"
+}

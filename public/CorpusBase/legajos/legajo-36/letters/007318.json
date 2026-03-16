@@ -1,0 +1,46 @@
+{
+  "legajo_id": "36",
+  "id_carta": "7318",
+  "order_in_legajo": 35,
+  "signatura": "093:7793a",
+  "nombre_carta": "Carta de Juan Bautista Despuig a Persona desconocida",
+  "fecha_original": "4 de junio de 1627",
+  "lugar": "Mallorca",
+  "remitente": "Juan Bautista Despuig",
+  "destinatario": "Persona desconocida",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Â Â Transcripción literal"
+  ],
+  "literal": [],
+  "imagenes": [
+    {
+      "filename": "093:7793a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo36/093:7793a.JPG",
+      "url": "/legajos/legajo-36/images/093:7793a.JPG"
+    },
+    {
+      "filename": "094:7793.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo36/094:7793.JPG",
+      "url": "/legajos/legajo-36/images/094:7793.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "093:7793a.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (6)",
+      "context": {}
+    },
+    {
+      "code": "MISSING_LITERAL",
+      "message": "Transcripción literal vacía",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-36/cartas/007318.json",
+  "primary_image_url": "/legajos/legajo-36/images/093:7793a.JPG"
+}

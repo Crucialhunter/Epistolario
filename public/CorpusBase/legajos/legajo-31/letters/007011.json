@@ -1,0 +1,38 @@
+{
+  "legajo_id": "31",
+  "id_carta": "7011",
+  "order_in_legajo": 250,
+  "signatura": "370:1762.JPG",
+  "nombre_carta": "Carta de condesa de Zavellá a Pedro Santacilia y Pax",
+  "fecha_original": "24 de noviembre de 1664",
+  "lugar": "Lugar sin especificar",
+  "remitente": "condesa de Zavellá",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "meu molt certa esti que v. s. es deu helegrar com halquimes de la defermunicio, telo comte de dar quon l'ocasió a Teresa i a ven l'hi demanada al comte de furmigera per mon germà hapres resolució el darlei deu o dispos com més quonvinga ja se major glloria que tot serà tenir magors hempenio de servir a v. s. i sa casa Teresa jo besam les mans de mi Sra. dona heleionor junt amb les de v. s. aquí ens guardi Déu molts anys d'esta sa casa uyals 24 de novembre 1664 qui S. m. b. de v. s. comtessa de çavellà [1§] Transcripción literal"
+  ],
+  "literal": [
+    "1. Sr. meu molt serta esti que VS. hes deu 2. helegrar quom halquimes de la deter3. minÿsio, telo comta dedar quon locasyo 4. a teresa ÿa venlai demenada al comta 5. de furmigera per mongerma hapres re6. sulusÿo el darlei deu o dispos, com mes 7. quonvÿnga ÿa se magor gllorÿa que tot se8. ra tenir magors henpeñÿos de servÿra9. VS. ÿ sa casa teresa ÿo besam les mans de 10. mi Sra dona heleÿonor gunt ab las de VS. 11. a qui nos guarde deu molts añÿs desta 12. sa casa uÿ als 24 de noenbra 1664 13. qui S. m. b. de VS. 14. Comtesa de Sevella [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "370:1762.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo31/370:1762.JPG",
+      "url": "/legajos/legajo-31/images/370:1762.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "370:1762.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (1)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-31/cartas/007011.json",
+  "primary_image_url": "/legajos/legajo-31/images/370:1762.JPG"
+}

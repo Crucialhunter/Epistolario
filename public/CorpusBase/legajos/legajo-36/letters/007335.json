@@ -1,0 +1,37 @@
+{
+  "legajo_id": "36",
+  "id_carta": "7335",
+  "order_in_legajo": 80,
+  "signatura": "117:7810a.JPG",
+  "nombre_carta": "Carta de Vicente Moscoso a Pedro Santacilia y Pax",
+  "fecha_original": "26 de diciembre de 1655",
+  "lugar": "Madrid",
+  "remitente": "Vicente Moscoso",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "[1§] [2§] Transcripción literal"
+  ],
+  "literal": [
+    "1. 1."
+  ],
+  "imagenes": [
+    {
+      "filename": "117:7810a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo36/117:7810a.JPG",
+      "url": "/legajos/legajo-36/images/117:7810a.JPG"
+    },
+    {
+      "filename": "118:7810b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo36/118:7810b.JPG",
+      "url": "/legajos/legajo-36/images/118:7810b.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "117:7810a.JPG",
+  "warnings": [],
+  "raw_source": "raw/legajos/legajo-36/cartas/007335.json",
+  "primary_image_url": "/legajos/legajo-36/images/117:7810a.JPG"
+}

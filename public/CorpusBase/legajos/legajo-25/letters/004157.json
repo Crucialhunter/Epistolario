@@ -1,0 +1,43 @@
+{
+  "legajo_id": "25",
+  "id_carta": "4157",
+  "order_in_legajo": 90,
+  "signatura": "187_191a.JPG",
+  "nombre_carta": "Carta de Manuel de Sarabia Velázquez a Jerónimo Pelegrín de Aragüés",
+  "fecha_original": "12 de julio de 1667",
+  "lugar": "Càller (Cagliari)",
+  "remitente": "Manuel de Sarabia Velázquez",
+  "destinatario": "Jerónimo Pelegrín de Aragüés",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Amigo mío, con cuidado me tiene el haber muchos días que no tengo noticias de tu salud, Dios quiera que no haya sido la falta por tu salud. Yo quedo con ella, gracias a Dios, y los de mi casa te besan las manos. Amigo mío, desde principios de marzo, tengo tu aca y por falta de quien la lleve no está allá al patrón Ballester se la quise dar y no quiso llevarla, que se lo puedes preguntar, y ahora el patrón Simon, cristiano, le han dado rogando que te la lleve, y no ha sido posible, por más ruegos que he hecho, por vida tuya que me hagas gusto de que si viniere cualquier patrón o capitán de esa ciudad de encargarle que te la lleve, y mira si se te ofrece de algo por acá que ya sabes me tienes muy pronto a tus órdenes. A todos esos señores muchos recados de mi parte. Dios te guarde los años de mi deseo. Cáller, y julio 12 de 1667. Tu amigo y Sr. más servidor que te desea ver Manuel de Sarabia Velazquez Sr. Jeronimo Pelegrin, mi amigo [1§] Cáller, 12 de Julio 1667, de don Manuel de Sarabia Velazquez. Transcripción literal"
+  ],
+  "literal": [
+    "1. Amigo mio, con cuidado me tiene el aber2. muchos dias que no tengo noticias de tu sa3. lud dios cuiera que no aya sido la falta4. por tu salud; yo quedo con ella gracias5. a Dios, i los de mi casa te besan las manos=6. Amigo mio, desde principios de marzo, tengo7. tu aca y por falta de quien la llebe no esta alla8. al patron ballester se la quise dar i no cuiso9. llebarla, que se lo puedes preguntar, i aora la10. patron Simon, cristiano, le andado rogando11. que te la llebe, i no asido posible, por mas ruegos12. que hecho, por bida tuya que me agas gusto13. de que si biniere cualciera patron o capitan14. de esa ciudad de encargarle que te la llebe,15. i mira si se te ofroce de algo por aca que ya sa16. bes me tienes mui pronto a tus ordenes a to17. dos esos señores muchos recados de mi parte18. Dios te guarde los anos de mi deseo Caller, i Julio 12 de 166719. Tu amigo i mas ser20. bidor q[ue] te desea ber21. Manuel de Sra22. bia belazquez23. Sr. Geronimo pelegrin, mi amigo [☞]"
+  ],
+  "imagenes": [
+    {
+      "filename": "187_191a.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo25/187_191a.JPG",
+      "url": "/legajos/legajo-25/images/187_191a.JPG"
+    },
+    {
+      "filename": "188_191b.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo25/188_191b.JPG",
+      "url": "/legajos/legajo-25/images/188_191b.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "187_191a.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (5)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-25/cartas/004157.json",
+  "primary_image_url": "/legajos/legajo-25/images/187_191a.JPG"
+}

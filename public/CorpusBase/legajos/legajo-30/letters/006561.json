@@ -1,0 +1,38 @@
+{
+  "legajo_id": "30",
+  "id_carta": "6561",
+  "order_in_legajo": 51,
+  "signatura": "041:5399.JPG",
+  "nombre_carta": "Carta de P. Antoni Bosch a Pedro Santacilia y Pax",
+  "fecha_original": "9 de diciembre de 1619",
+  "lugar": "Mallorca",
+  "remitente": "P. Antoni Bosch",
+  "destinatario": "Pedro Santacilia y Pax",
+  "temas": [],
+  "idioma": "",
+  "resumen": "",
+  "modernizada": [
+    "Â [1§] Transcripción literal"
+  ],
+  "literal": [
+    "1."
+  ],
+  "imagenes": [
+    {
+      "filename": "041:5399.JPG",
+      "original_url": "http://santacilia.info/intranet2/img/Legajo30/041:5399.JPG",
+      "url": "/legajos/legajo-30/images/041:5399.JPG"
+    }
+  ],
+  "has_images": true,
+  "primary_image": "041:5399.JPG",
+  "warnings": [
+    {
+      "code": "SUSPICIOUS_ENCODING_AUX_IFRAME",
+      "message": "Se detectaron caracteres sospechosos en metadatos secundarios (3)",
+      "context": {}
+    }
+  ],
+  "raw_source": "raw/legajos/legajo-30/cartas/006561.json",
+  "primary_image_url": "/legajos/legajo-30/images/041:5399.JPG"
+}
