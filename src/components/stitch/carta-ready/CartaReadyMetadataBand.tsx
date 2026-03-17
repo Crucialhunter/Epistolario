@@ -15,9 +15,9 @@ function MetadataColumns({ columns }: { readonly columns: readonly CartaReadyMet
       {columns.map((column) => (
         <article
           key={column.title}
-          className="rounded-[0.9rem] border border-[#d8ccb7]/75 bg-[#f7f2e6]/92 px-4 py-3 shadow-[0_1px_0_rgba(255,255,255,0.45)]"
+          className="rounded-[1rem] bg-[#f7f2e6]/92 px-4 py-3 shadow-[inset_0_0_0_1px_rgba(216,204,183,0.55)]"
         >
-          <h3 className="mb-2 border-b border-[#d1cebd]/70 pb-1.5 text-[10px] font-bold uppercase tracking-[0.16em] text-[#c5a059]">
+          <h3 className="mb-2 border-b border-[#d1cebd]/55 pb-1.5 text-[10px] font-bold uppercase tracking-[0.16em] text-[#c5a059]">
             {column.title}
           </h3>
           <div className="space-y-2">
@@ -44,11 +44,7 @@ export default function CartaReadyMetadataBand({
   const summaryItems = [fecha, remitente, lugar].filter(Boolean);
 
   if (!collapsible) {
-    return (
-      <section className="rounded-[1.1rem] border border-[#d9ccb4]/70 bg-white/30 p-3 sm:p-4">
-        <MetadataColumns columns={columns} />
-      </section>
-    );
+    return <MetadataColumns columns={columns} />;
   }
 
   return (
