@@ -1,6 +1,6 @@
+import { notFound } from 'next/navigation';
 import { getLegajos } from '@/lib/data/api';
-import { getLegajoArchiveVM, getLegajoCuratorialVM } from '@/lib/view-models';
-import LegajoCuratorialScreen from '@/components/legajo/LegajoCuratorialScreen';
+import { getLegajoArchiveVM } from '@/lib/view-models';
 import Legajo10RecorridosScreen from '@/components/legajo/recorridos/Legajo10RecorridosScreen';
 import { getLegajo10LegacyMapData } from '@/lib/recorridos/legajo10LegacyData';
 
@@ -14,13 +14,13 @@ export default async function LegajoRecorridosMapaPage({ params }: { params: Pro
   const archive = await getLegajoArchiveVM(id);
 
   if (!archive) {
-    return null;
+    notFound();
   }
 
-  if (id === '10') {
-    const mapData = await getLegajo10LegacyMapData();
-    return <Legajo10RecorridosScreen legajo={archive.legajo} mapData={mapData} />;
+  if (id !== '10') {
+    notFound();
   }
 
-  return <LegajoCuratorialScreen legajo={archive.legajo} content={getLegajoCuratorialVM(id, 'recorridos')} />;
+  const mapData = await getLegajo10LegacyMapData();
+  return <Legajo10RecorridosScreen legajo={archive.legajo} mapData={mapData} />;
 }
