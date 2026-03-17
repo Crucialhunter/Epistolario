@@ -1,5 +1,6 @@
 import type { StitchLegajoNavCViewData } from '@/lib/stitch/legajoNavCAdapter';
 import LegajoNavCHero from '@/components/stitch/legajo-nav-c/LegajoNavCHero';
+import LegajoNavCOverview from '@/components/stitch/legajo-nav-c/LegajoNavCOverview';
 import LegajoNavCWorkspace from '@/components/stitch/legajo-nav-c/LegajoNavCWorkspace';
 import LegajoNavCNarrativeModule from '@/components/stitch/legajo-nav-c/LegajoNavCNarrativeModule';
 import UnifiedTopHeader from '@/components/stitch/shared/UnifiedTopHeader';
@@ -37,7 +38,7 @@ export default function StitchLegajoNavCPage({ data }: Readonly<StitchLegajoNavC
         </div>
       </nav>
 
-      <LegajoNavCWorkspace data={data} />
+      {data.mode === 'overview' ? <LegajoNavCOverview data={data} /> : <LegajoNavCWorkspace data={data} />}
       <LegajoNavCNarrativeModule data={data} />
     </div>
   );

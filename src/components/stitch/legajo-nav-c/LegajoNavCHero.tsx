@@ -47,7 +47,7 @@ export default function LegajoNavCHero({ data }: Readonly<LegajoNavCHeroProps>) 
             href={data.backToCurrentHref}
             className="rounded-full border border-[#d6c7a9] bg-white/70 px-4 py-2 text-[11px] font-bold uppercase tracking-[0.2em] text-[#6e5d37] transition-colors hover:border-[#B48E4B] hover:text-[#8d6b1f]"
           >
-            Volver a la vista actual
+            {data.primaryCtaLabel}
           </Link>
           {data.sourceHref ? (
             <a

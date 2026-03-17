@@ -9,6 +9,7 @@ export type CartaWorkbenchPanel = 'ficha' | 'contexto' | 'relacionados';
 export interface CartaReadyWorkbenchDrawerProps {
   readonly data: Readonly<StitchCartaReadyViewData>;
   readonly activePanel: CartaWorkbenchPanel | null;
+  readonly embedded?: boolean;
 }
 
 function PanelIntro({
@@ -21,7 +22,7 @@ function PanelIntro({
   readonly description: string;
 }) {
   return (
-    <div className="mb-4 max-w-3xl">
+    <div className="max-w-3xl">
       <p className="text-[10px] font-bold uppercase tracking-[0.22em] text-[#9a7a3d]">{eyebrow}</p>
       <h3 className="mt-2 font-serif text-[1.35rem] font-semibold leading-tight text-[#201c18] sm:text-[1.55rem]">
         {title}
@@ -34,38 +35,66 @@ function PanelIntro({
 export default function CartaReadyWorkbenchDrawer({
   data,
   activePanel,
+  embedded = false,
 }: Readonly<CartaReadyWorkbenchDrawerProps>) {
   if (!activePanel) {
     return null;
   }
 
   return (
-    <section className="rounded-[1.15rem] border border-[#dccfb6]/70 bg-[#f7f2e8] p-4 shadow-[0_16px_34px_rgba(91,75,42,0.08)] sm:p-5">
-      {activePanel === 'ficha' ? (
-        <>
-          <PanelIntro
-            eyebrow="Ficha documental"
-            title="Datos de identificación y localización"
-            description="Consulta los metadatos archivísticos completos sin sacar el manuscrito ni la transcripción del centro de la pantalla."
-          />
+    <section
+      className={`overflow-hidden ${
+        embedded
+          ? 'rounded-[0.95rem] bg-transparent'
+          : 'rounded-[1.4rem] border border-[#d7c8ab]/85 bg-[linear-gradient(180deg,rgba(251,247,239,0.98),rgba(244,236,222,0.96))] shadow-[0_24px_60px_rgba(52,38,16,0.16)]'
+      }`}
+    >
+      <div className={`${embedded ? 'px-2 pb-2' : 'border-b border-[#dccfb6]/70 px-5 py-4 sm:px-6'}`}>
+        <div className="flex flex-col gap-3 lg:flex-row lg:items-end lg:justify-between">
+          {activePanel === 'ficha' ? (
+            <PanelIntro
+              eyebrow="Ficha documental"
+              title="Datos de identificacion y localizacion"
+              description="Consulta la ficha archivistica completa sin sacar el manuscrito ni la transcripcion del centro de la pantalla."
+            />
+          ) : null}
+
+          {activePanel === 'contexto' ? (
+            <PanelIntro
+              eyebrow="Contexto"
+              title="Claves documentales de lectura"
+              description="Resumen de apoyo para situar el documento, sus temas y las entidades principales sin repetir la informacion ya visible en la entrada."
+            />
+          ) : null}
+
+          {activePanel === 'relacionados' ? (
+            <PanelIntro
+              eyebrow="Relacionados"
+              title="Otros documentos del mismo entorno epistolar"
+              description="Accesos rapidos a cartas cercanas o asociadas, sin abandonar el modo de consulta de esta pieza."
+            />
+          ) : null}
+
+          {!embedded ? (
+            <p className="text-[10px] font-bold uppercase tracking-[0.18em] text-[#8f7b53]">
+              Capa contextual sobre la consulta
+            </p>
+          ) : null}
+        </div>
+      </div>
+
+      <div className={`${embedded ? 'px-2 pb-2' : 'max-h-[min(56vh,680px)] overflow-y-auto px-5 py-5 sm:px-6'}`}>
+        {activePanel === 'ficha' ? (
           <CartaReadyMetadataBand columns={data.metadataColumns} collapsible={false} />
-        </>
-      ) : null}
+        ) : null}
 
-      {activePanel === 'contexto' ? (
-        <>
-          <PanelIntro
-            eyebrow="Contexto"
-            title="Claves documentales de lectura"
-            description="Resumen de apoyo para situar el documento, sus temas y las entidades principales sin repetir la información ya visible en la entrada."
-          />
-
+        {activePanel === 'contexto' ? (
           <div className="grid gap-4 lg:grid-cols-[minmax(0,1.15fr)_minmax(0,0.85fr)]">
-            <article className="rounded-[1rem] border border-[#d8ccb7]/75 bg-[#f7f2e6]/92 px-4 py-4">
+            <article className="rounded-[1.1rem] bg-white/58 px-4 py-4 shadow-[inset_0_1px_0_rgba(255,255,255,0.4)]">
               <h4 className="mb-3 text-[10px] font-bold uppercase tracking-[0.18em] text-[#8f7b53]">Resumen de consulta</h4>
               <div className="grid gap-3 sm:grid-cols-3">
                 {data.documentaryContext.map((item) => (
-                  <div key={item.label} className="rounded-[0.85rem] border border-[#dfd2bc]/70 bg-white/55 px-3 py-3">
+                  <div key={item.label} className="rounded-[0.9rem] bg-[#f6efde] px-3 py-3 shadow-[inset_0_0_0_1px_rgba(216,204,183,0.45)]">
                     <p className="text-[10px] font-bold uppercase tracking-[0.14em] text-gray-400">{item.label}</p>
                     <p className="mt-1 text-sm font-semibold leading-snug text-[#2c2c2a]">{item.value}</p>
                   </div>
@@ -79,7 +108,7 @@ export default function CartaReadyWorkbenchDrawer({
                     data.thematicTags.map((tag) => (
                       <span
                         key={tag.label}
-                        className="rounded-full border border-[#d8ccb7]/75 bg-[#efe5cf] px-3 py-1 text-[10px] font-bold uppercase tracking-[0.14em] text-[#6a5736]"
+                        className="rounded-full bg-[#efe5cf] px-3 py-1 text-[10px] font-bold uppercase tracking-[0.14em] text-[#6a5736] shadow-[inset_0_0_0_1px_rgba(216,204,183,0.5)]"
                       >
                         {tag.label}
                       </span>
@@ -91,11 +120,11 @@ export default function CartaReadyWorkbenchDrawer({
               </div>
             </article>
 
-            <article className="rounded-[1rem] border border-[#d8ccb7]/75 bg-[#fffaf2]/90 px-4 py-4">
+            <article className="rounded-[1.1rem] bg-[#fffaf2]/88 px-4 py-4 shadow-[inset_0_0_0_1px_rgba(216,204,183,0.45)]">
               <h4 className="mb-3 text-[10px] font-bold uppercase tracking-[0.18em] text-[#8f7b53]">Personas y lugares</h4>
               <div className="grid gap-3">
                 {data.peopleAndPlaces.map((entity) => (
-                  <div key={entity.name} className="flex items-center gap-3 rounded-[0.9rem] border border-[#e1d5bf]/70 bg-white/55 px-3 py-2.5">
+                  <div key={entity.name} className="flex items-center gap-3 rounded-[0.9rem] bg-white/65 px-3 py-2.5 shadow-[inset_0_0_0_1px_rgba(225,213,191,0.52)]">
                     <div className="flex h-9 w-9 shrink-0 items-center justify-center rounded-full bg-[#c5a059]/12 text-sm font-bold text-[#a38420]">
                       {entity.type === 'place' ? '•' : entity.name.charAt(0)}
                     </div>
@@ -107,33 +136,26 @@ export default function CartaReadyWorkbenchDrawer({
                 ))}
               </div>
 
-              <div className="mt-4 rounded-[0.9rem] border border-[#e1d5bf]/75 bg-[#f4eddd] px-4 py-4">
+              <div className="mt-4 rounded-[1rem] bg-[#f4eddd] px-4 py-4 shadow-[inset_0_0_0_1px_rgba(225,213,191,0.5)]">
                 <p className="text-[10px] font-bold uppercase tracking-[0.18em] text-[#8f7b53]">Nota destacada</p>
                 <p className="mt-2 font-serif text-[1rem] italic leading-relaxed text-[#2c2c2a]">
-                  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed non risus. Suspendisse lectus tortor, dignissim sit amet, adipiscing nec, ultricies sed, dolor.
+                  El panel contextual queda preparado para profundizar en lectura documental sin desplazar ni el manuscrito ni la transcripcion principal.
                 </p>
               </div>
             </article>
           </div>
-        </>
-      ) : null}
+        ) : null}
 
-      {activePanel === 'relacionados' ? (
-        <>
-          <PanelIntro
-            eyebrow="Relacionados"
-            title="Otros documentos del mismo entorno epistolar"
-            description="Accesos rápidos a cartas cercanas o asociadas, sin abandonar el modo de consulta de esta pieza."
-          />
+        {activePanel === 'relacionados' ? (
           <div className="grid gap-3 sm:grid-cols-2 xl:grid-cols-4">
             {data.relatedDocuments.length > 0 ? (
               data.relatedDocuments.map((document) => (
                 <Link
                   key={document.href}
                   href={document.href}
-                  className="group rounded-[1rem] border border-[#d8ccb7]/75 bg-[#fbf7ef]/92 p-3 transition-colors hover:border-[#c5a059]"
+                  className="group rounded-[1rem] bg-[#fbf7ef]/92 p-3 shadow-[inset_0_0_0_1px_rgba(216,204,183,0.55)] transition-[transform,box-shadow] duration-200 hover:-translate-y-0.5 hover:shadow-[inset_0_0_0_1px_rgba(197,160,89,0.8),0_14px_26px_rgba(67,49,20,0.08)]"
                 >
-                  <div className="mb-3 aspect-[4/5] overflow-hidden rounded-[0.8rem] border border-[#dfd2bc]/80 bg-[#2a241e]">
+                  <div className="mb-3 aspect-[4/5] overflow-hidden rounded-[0.8rem] bg-[#2a241e] shadow-[inset_0_0_0_1px_rgba(223,210,188,0.8)]">
                     {document.imageUrl ? (
                       // eslint-disable-next-line @next/next/no-img-element
                       <img src={document.imageUrl} alt={document.title} className="h-full w-full object-cover transition-transform duration-300 group-hover:scale-[1.02]" />
@@ -148,13 +170,13 @@ export default function CartaReadyWorkbenchDrawer({
                 </Link>
               ))
             ) : (
-              <div className="rounded-[1rem] border border-dashed border-[#d8ccb7]/85 bg-white/45 px-5 py-6 text-sm text-[#6f6453] sm:col-span-2 xl:col-span-4">
+              <div className="rounded-[1rem] bg-white/45 px-5 py-6 text-sm text-[#6f6453] shadow-[inset_0_0_0_1px_rgba(216,204,183,0.7)] sm:col-span-2 xl:col-span-4">
                 No hay documentos relacionados suficientes para esta carta en la capa actual.
               </div>
             )}
           </div>
-        </>
-      ) : null}
+        ) : null}
+      </div>
     </section>
   );
 }

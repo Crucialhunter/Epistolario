@@ -16,6 +16,6 @@ export default async function LegajoArchivoPage({ params }: { params: Promise<{ 
     return null;
   }
 
-  const data = buildStitchLegajoNavCViewData(archive);
+  const data = buildStitchLegajoNavCViewData(archive, 'archivo');
   return <StitchLegajoNavCPage data={data} />;
 }

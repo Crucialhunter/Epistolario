@@ -35,6 +35,36 @@ export const legajoNavCMockData: Readonly<StitchLegajoNavCViewData> = {
   backToCurrentHref: '/legajos/37',
   sourceHref: null,
   legajoId: '37',
+  mode: 'archivo',
+  primaryCtaLabel: 'Volver al overview del legajo',
+  overviewIntro: 'Esta superficie sintetiza el legajo como portada documental antes de entrar al archivo de trabajo.',
+  overviewHighlights: [
+    {
+      eyebrow: 'Promesa',
+      title: 'Legajo comercial mediterraneo',
+      description: 'Una entrada resumida para entender actores, escala y contexto antes de abrir el workspace documental.',
+    },
+  ],
+  featuredLetters: [
+    {
+      id: '1745-02-18',
+      title: 'Juan Serra a Francesco Grimaldi',
+      summary: 'Febrero 18, 1745 · Napoles · Comercio mediterraneo',
+      badges: ['Manuscrito', 'Napoles'],
+    },
+  ],
+  accessCards: [
+    {
+      title: 'Archivo documental',
+      description: 'Workspace con filtros, preview y acceso al lector.',
+      href: '/legajos/37/archivo',
+    },
+  ],
+  nodeGroups: [
+    { title: 'Personas', items: ['Juan Serra', 'Francesco Grimaldi'] },
+    { title: 'Lugares', items: ['Napoles', 'Palma', 'Barcelona'] },
+    { title: 'Temas', items: ['Comercio mediterraneo', 'Factura de carga'] },
+  ],
   letters: [
     {
       id_carta: '1745-02-18',

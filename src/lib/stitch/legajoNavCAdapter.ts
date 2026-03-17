@@ -19,6 +19,30 @@ export interface StitchLegajoNavCHeaderLink {
   readonly active?: boolean;
 }
 
+export interface StitchLegajoNavCOverviewHighlight {
+  readonly eyebrow: string;
+  readonly title: string;
+  readonly description: string;
+}
+
+export interface StitchLegajoNavCFeaturedLetter {
+  readonly id: string;
+  readonly title: string;
+  readonly summary: string;
+  readonly badges: readonly string[];
+}
+
+export interface StitchLegajoNavCAccessCard {
+  readonly title: string;
+  readonly description: string;
+  readonly href: string;
+}
+
+export interface StitchLegajoNavCNodeGroup {
+  readonly title: string;
+  readonly items: readonly string[];
+}
+
 export interface StitchLegajoNavCNarrativeData {
   readonly title: string;
   readonly description: string;
@@ -43,6 +67,13 @@ export interface StitchLegajoNavCViewData {
   readonly legajoId: string;
   readonly letters: readonly CartaSummary[];
   readonly initialPreview: CartaDetail | null;
+  readonly mode: 'overview' | 'archivo';
+  readonly primaryCtaLabel: string;
+  readonly overviewIntro: string;
+  readonly overviewHighlights: readonly StitchLegajoNavCOverviewHighlight[];
+  readonly featuredLetters: readonly StitchLegajoNavCFeaturedLetter[];
+  readonly accessCards: readonly StitchLegajoNavCAccessCard[];
+  readonly nodeGroups: readonly StitchLegajoNavCNodeGroup[];
 }
 
 function toMetricValue(value: number | string, suffix?: string) {
@@ -90,7 +121,77 @@ function buildNarrative(section?: CuratedSectionVM): StitchLegajoNavCNarrativeDa
   };
 }
 
-export function buildStitchLegajoNavCViewData(archive: LegajoArchiveVM): StitchLegajoNavCViewData {
+function buildOverviewHighlights(archive: LegajoArchiveVM): readonly StitchLegajoNavCOverviewHighlight[] {
+  return [
+    {
+      eyebrow: 'Promesa',
+      title: 'Que activa este legajo',
+      description: archive.legajo.teaserText,
+    },
+    {
+      eyebrow: 'Escala',
+      title: `${archive.legajo.letterCount} cartas para recorrer`,
+      description: 'La overview resume el volumen y prepara la entrada al workspace documental sin sustituirlo.',
+    },
+    {
+      eyebrow: 'Acceso',
+      title: archive.legajo.emphasis === 'visual' ? 'Textual + visual consolidado' : 'Lectura textual consolidada',
+      description: archive.legajo.availability.imageEnhanced
+        ? 'El manuscrito local ya refuerza algunas cartas dentro del mismo runtime consolidado.'
+        : 'El corpus puede explorarse con la misma UI consolidada aunque no haya manuscrito local destacado.',
+    },
+    {
+      eyebrow: 'Uso',
+      title: 'Overview antes del archivo',
+      description: 'Primero contexto y nodos. Despues filtros, preview y lector en la superficie de archivo.',
+    },
+  ];
+}
+
+function buildFeaturedLetters(archive: LegajoArchiveVM): readonly StitchLegajoNavCFeaturedLetter[] {
+  return archive.letters.slice(0, 4).map((letter) => ({
+    id: letter.id_carta,
+    title:
+      letter.remitente || letter.destinatario
+        ? `${letter.remitente || 'Remitente no identificado'} a ${letter.destinatario || 'destinatario no identificado'}`
+        : `Carta ${letter.id_carta}`,
+    summary: [letter.fecha || 'Sin fecha', letter.lugar || null, letter.temas || null].filter(Boolean).join(' · '),
+    badges: [letter.hasImages ? 'Manuscrito' : null, letter.lugar || null].filter(Boolean) as string[],
+  }));
+}
+
+function buildAccessCards(legajoId: string): readonly StitchLegajoNavCAccessCard[] {
+  return [
+    {
+      title: 'Archivo documental',
+      description: 'Workspace de filtros, lista, preview y salto al lector completo.',
+      href: `/legajos/${legajoId}/archivo`,
+    },
+    {
+      title: 'Recorridos',
+      description: 'Entrada preparada para secuencias curatoriales futuras sin salir del runtime consolidado.',
+      href: `/legajos/${legajoId}/recorridos`,
+    },
+    {
+      title: 'Relatos',
+      description: 'Capa preparada para lectura editorial futura, sin desplazar la navegacion documental.',
+      href: `/legajos/${legajoId}/relatos`,
+    },
+  ];
+}
+
+function buildNodeGroups(archive: LegajoArchiveVM): readonly StitchLegajoNavCNodeGroup[] {
+  return [
+    { title: 'Personas', items: archive.legajo.keyPeople.slice(0, 6) },
+    { title: 'Lugares', items: archive.legajo.keyPlaces.slice(0, 6) },
+    { title: 'Temas', items: archive.legajo.keyThemes.slice(0, 6) },
+  ];
+}
+
+export function buildStitchLegajoNavCViewData(
+  archive: LegajoArchiveVM,
+  mode: 'overview' | 'archivo' = 'archivo'
+): StitchLegajoNavCViewData {
   const legajoId = archive.legajo.id;
   const heroImageSrc = pickHeroImage(archive);
 
@@ -105,22 +206,31 @@ export function buildStitchLegajoNavCViewData(archive: LegajoArchiveVM): StitchL
       { label: 'Relatos', href: `/legajos/${legajoId}/relatos` },
       { label: 'Sobre el proyecto', href: '/' },
     ],
-    heroEyebrow: 'Archivo del legajo',
+    heroEyebrow: mode === 'overview' ? 'Overview del legajo' : 'Archivo del legajo',
     title: archive.legajo.title,
     description: buildDescription(archive),
     metrics: buildMetrics(archive),
     heroImageSrc,
     heroImageAlt: heroImageSrc ? `Composicion documental del legajo ${legajoId}` : `Legajo ${legajoId} sin imagen local principal`,
     tabs: [
-      { id: 'archivo', label: 'Archivo', href: `/legajos/${legajoId}/archivo`, active: true },
+      { id: 'overview', label: 'Legajo', href: `/legajos/${legajoId}`, active: mode === 'overview' },
+      { id: 'archivo', label: 'Archivo', href: `/legajos/${legajoId}/archivo`, active: mode === 'archivo' },
       { id: 'recorridos', label: 'Recorridos', href: `/legajos/${legajoId}/recorridos` },
       { id: 'relatos', label: 'Relatos', href: `/legajos/${legajoId}/relatos` },
     ],
     narrative: buildNarrative(archive.curatorialSections[0]),
-    backToCurrentHref: `/legajos/${legajoId}`,
+    backToCurrentHref: mode === 'overview' ? `/legajos/${legajoId}/archivo` : `/legajos/${legajoId}`,
     sourceHref: heroImageSrc,
     legajoId,
     letters: archive.letters,
     initialPreview: archive.initialPreview,
+    mode,
+    primaryCtaLabel: mode === 'overview' ? 'Abrir archivo documental' : 'Volver al overview del legajo',
+    overviewIntro:
+      'Esta superficie sintetiza el legajo como portada documental. Sirve para entender contexto, nodos y cartas de entrada antes de abrir el archivo de trabajo.',
+    overviewHighlights: buildOverviewHighlights(archive),
+    featuredLetters: buildFeaturedLetters(archive),
+    accessCards: buildAccessCards(legajoId),
+    nodeGroups: buildNodeGroups(archive),
   };
 }
