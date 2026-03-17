@@ -1,6 +1,7 @@
-﻿import { getLegajos } from '@/lib/data/api';
-import { getLegajoArchiveVM, getLegajoCuratorialVM } from '@/lib/view-models';
+import { getLegajos } from '@/lib/data/api';
+import { getLegajoArchiveVM } from '@/lib/view-models';
 import LegajoCuratorialScreen from '@/components/legajo/LegajoCuratorialScreen';
+import { buildLegajoCuratorialPageData } from '@/lib/curatorial/legajoCuratorial';
 
 export async function generateStaticParams() {
   const legajos = await getLegajos();
@@ -15,5 +16,6 @@ export default async function LegajoRelatosPage({ params }: { params: Promise<{ 
     return null;
   }
 
-  return <LegajoCuratorialScreen legajo={archive.legajo} content={getLegajoCuratorialVM(id, 'relatos')} />;
+  const content = await buildLegajoCuratorialPageData(archive, 'relatos');
+  return <LegajoCuratorialScreen legajo={archive.legajo} content={content} />;
 }
