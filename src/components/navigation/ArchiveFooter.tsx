@@ -1,7 +1,7 @@
-﻿export default function ArchiveFooter() {
+export default function ArchiveFooter() {
   return (
-    <footer className="border-t border-[#e7dcc6] bg-[#fbf7ef]">
-      <div className="mx-auto flex max-w-7xl flex-col gap-3 px-6 py-8 text-sm text-[#6a5d47] md:flex-row md:items-center md:justify-between md:px-10 lg:px-16">
+    <footer className="border-t border-[#d1cebd] bg-[linear-gradient(180deg,rgba(245,242,232,0.94),rgba(236,228,212,0.96))]">
+      <div className="mx-auto flex max-w-[1440px] flex-col gap-3 px-6 py-8 text-sm text-[#6a5d47] md:flex-row md:items-center md:justify-between md:px-10 lg:px-16">
         <div>
           <p className="reader-display text-base text-[#221c13]">Infraestructura de demo para archivo epistolar</p>
           <p className="mt-1 text-xs uppercase tracking-[0.22em] text-[#8f7742]">CorpusBase activo · ImageEnhanced opcional · Curatorial futuro</p>

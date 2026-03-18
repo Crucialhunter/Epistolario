@@ -289,6 +289,7 @@ export default function Legajo10LegacyMap({ data }: { data: LegacyMapData }) {
 
   useEffect(() => {
     let disposed = false;
+    let resizeObserver: ResizeObserver | null = null;
     ensureLeaflet()
       .then((L) => {
         if (disposed || !mapContainerRef.current || mapRef.current) return;
@@ -299,12 +300,16 @@ export default function Legajo10LegacyMap({ data }: { data: LegacyMapData }) {
         L.control.zoom({ position: 'bottomright' }).addTo(map);
         mapRef.current = map;
         layerGroupRef.current = L.layerGroup().addTo(map);
+        window.setTimeout(() => map.invalidateSize(), 0);
+        resizeObserver = new ResizeObserver(() => map.invalidateSize());
+        resizeObserver.observe(mapContainerRef.current);
         setIsMapReady(true);
       })
       .catch((error) => setLeafletError(error instanceof Error ? error.message : 'No se pudo cargar Leaflet.'));
 
     return () => {
       disposed = true;
+      resizeObserver?.disconnect();
       if (animationFrameRef.current) window.clearInterval(animationFrameRef.current);
       if (pulseTimeoutRef.current) window.clearTimeout(pulseTimeoutRef.current);
       if (mapRef.current) {

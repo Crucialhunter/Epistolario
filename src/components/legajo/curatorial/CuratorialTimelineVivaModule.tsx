@@ -236,7 +236,7 @@ export default function CuratorialTimelineVivaModule({
     : 'conic-gradient(rgba(209,206,189,0.85) 360deg, rgba(209,206,189,0.85) 0deg)';
 
   return (
-    <section className="h-[100dvh] overflow-hidden bg-[radial-gradient(circle_at_top,#f5f0e5_0%,#efe6cf_45%,#e1dacc_100%)] text-[#2c2c2a]">
+    <section className="h-full min-h-[38rem] overflow-hidden bg-[radial-gradient(circle_at_top,#f5f0e5_0%,#efe6cf_45%,#e1dacc_100%)] text-[#2c2c2a]">
       <div className="grid h-full grid-rows-[64px_minmax(0,1fr)]">
         <header className="border-b border-[#d1cebd]/85 bg-[#1a1a18] px-3 text-[#f5f2e8] md:px-5">
           <div className="flex h-full items-center justify-between gap-4">

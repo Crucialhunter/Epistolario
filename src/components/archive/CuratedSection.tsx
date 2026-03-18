@@ -15,11 +15,11 @@ export default function CuratedSection({ section, href }: { section: CuratedSect
 
   if (href) {
     return (
-      <Link href={href} className="block rounded-[1.6rem] border border-dashed border-[#d8c89e] bg-[#f7f1e6]/70 px-6 py-6 transition-colors hover:border-[#c5a028]">
+      <Link href={href} className="app-surface block rounded-[1.55rem] px-6 py-6 transition-colors hover:border-[#c5a028]">
         {content}
       </Link>
     );
   }
 
-  return <div className="rounded-[1.6rem] border border-dashed border-[#d8c89e] bg-[#f7f1e6]/70 px-6 py-6">{content}</div>;
+  return <div className="app-surface rounded-[1.55rem] px-6 py-6">{content}</div>;
 }
