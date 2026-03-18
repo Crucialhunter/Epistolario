@@ -18,13 +18,19 @@ export default function LegajoArchiveScreen({ archive }: { archive: LegajoArchiv
         <CuratedSection key={section.id} section={section} />
       ))}
     >
-      <div className="grid gap-6">
-        <SectionHeader
-          eyebrow="CorpusBase"
-          title="Archivo navegable del legajo"
-          description="La vista de legajo queda preparada para exploracion textual completa, filtros, navegacion entre cartas y preview lateral con enriquecimiento visual opcional."
-        />
-        <LegajoArchiveWorkspace legajo={archive.legajo} letters={archive.letters} initialPreview={archive.initialPreview} />
+      {/* Main content area with premium background */}
+      <div className="relative">
+        {/* Subtle background pattern */}
+        <div className="absolute inset-0 -mx-6 -mt-4 bg-gradient-to-b from-[#fdfbf7] via-[#f8f5ef] to-[#f5efe3] opacity-50" />
+
+        <div className="relative grid gap-8 px-4 md:px-0">
+          <SectionHeader
+            eyebrow="CorpusBase"
+            title="Archivo navegable del legajo"
+            description="Explora el contenido documental completo. Filtra por lugar, remitente o tema. Selecciona una carta para previsualizar su contenido."
+          />
+          <LegajoArchiveWorkspace legajo={archive.legajo} letters={archive.letters} initialPreview={archive.initialPreview} />
+        </div>
       </div>
     </LegajoShell>
   );

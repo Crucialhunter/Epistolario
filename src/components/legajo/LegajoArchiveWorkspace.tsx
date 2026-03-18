@@ -148,28 +148,42 @@ export default function LegajoArchiveWorkspace({ legajo, letters, initialPreview
   };
 
   return (
-    <div className="grid gap-6 xl:grid-cols-[minmax(0,1.1fr)_420px]">
-      <div className="grid gap-5">
-        <FilterPanel
-          search={search}
-          onSearchChange={setSearch}
-          place={place}
-          onPlaceChange={setPlace}
-          sender={sender}
-          onSenderChange={setSender}
-          theme={theme}
-          onThemeChange={setTheme}
-          places={places}
-          senders={senders}
-          themes={themes}
-          resultsCount={filteredLetters.length}
-          onClear={handleClear}
-        />
-        <LetterList letters={filteredLetters} selectedLetterId={selectedLetterId} onSelect={handleSelect} />
+    <div className="grid gap-8 xl:grid-cols-[minmax(0,1.3fr)_400px] 2xl:grid-cols-[minmax(0,1.4fr)_440px]">
+      {/* Main content column */}
+      <div className="grid gap-6">
+        {/* Sticky filter panel */}
+        <div className="sticky top-20 z-10">
+          <FilterPanel
+            search={search}
+            onSearchChange={setSearch}
+            place={place}
+            onPlaceChange={setPlace}
+            sender={sender}
+            onSenderChange={setSender}
+            theme={theme}
+            onThemeChange={setTheme}
+            places={places}
+            senders={senders}
+            themes={themes}
+            resultsCount={filteredLetters.length}
+            onClear={handleClear}
+          />
+        </div>
+
+        {/* Letter list with custom scrollbar */}
+        <div className="custom-scrollbar max-h-[calc(100vh-320px)] overflow-y-auto pr-2">
+          <LetterList letters={filteredLetters} selectedLetterId={selectedLetterId} onSelect={handleSelect} />
+        </div>
       </div>
 
-      <div className="grid gap-4">
-        {isPending ? <div className="rounded-[1.25rem] border border-[#e7dcc6] bg-white px-4 py-3 text-sm text-[#8f7742]">Actualizando preview documental…</div> : null}
+      {/* Preview sidebar */}
+      <div className="grid gap-4 xl:sticky xl:top-24 xl:h-fit xl:self-start">
+        {isPending ? (
+          <div className="flex items-center gap-3 rounded-xl border border-[#e8dfd0] bg-white px-4 py-3 shadow-lg">
+            <div className="h-4 w-4 animate-spin rounded-full border-2 border-[#c9a030] border-t-transparent" />
+            <span className="text-sm text-[#6b5d4d]">Actualizando preview documental…</span>
+          </div>
+        ) : null}
         <LetterPreviewPane legajo={legajo} preview={preview} />
       </div>
     </div>
