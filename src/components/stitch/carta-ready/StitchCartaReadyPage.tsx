@@ -1,6 +1,7 @@
 import Link from 'next/link';
 import CartaReadyReaderSplit from '@/components/stitch/carta-ready/CartaReadyReaderSplit';
-import UnifiedTopHeader from '@/components/stitch/shared/UnifiedTopHeader';
+import AppHeader from '@/components/navigation/AppHeader';
+import { buildAppHeaderNav } from '@/components/navigation/appHeaderNav';
 import { StitchCartaReadyViewData } from '@/lib/stitch/cartaReadyAdapter';
 
 export interface StitchCartaReadyPageProps {
@@ -36,20 +37,7 @@ export default function StitchCartaReadyPage({ data }: Readonly<StitchCartaReady
   return (
     <div className="h-screen overflow-hidden bg-[radial-gradient(circle_at_top,#d8cfbc_0%,#cec4af_52%,#c4b9a3_100%)] font-sans text-[#333]">
       <div className="mx-auto flex h-screen max-w-[min(100vw-4px,1920px)] flex-col bg-[linear-gradient(180deg,#f4eee2_0%,#ece2ce_100%)] shadow-[0_24px_54px_rgba(47,34,14,0.14)]">
-        <UnifiedTopHeader
-          brand="ARCA"
-          navItems={[
-            { label: 'Archivo', href: '/legajos', active: true },
-            { label: 'Legajos', href: '/legajos' },
-            { label: 'Recorridos', href: '/legajos/10/recorridos' },
-            { label: 'Relatos', href: '/legajos/10/relatos' },
-            { label: 'Sobre el proyecto', href: '/' },
-          ]}
-          badge="Archivo digital"
-          contextEyebrow=""
-          contextTitle=""
-          contextMode="none"
-        />
+        <AppHeader brand="ARCA" navItems={buildAppHeaderNav('legajos')} badge="Archivo digital" contextMode="none" />
 
         <div className="min-h-0 flex-1 overflow-hidden px-0.5 pb-0.5 pt-0.5 sm:px-1 sm:pb-1 lg:px-1.5 lg:pb-1.5">
           <section className="flex h-full min-h-0 flex-col overflow-hidden rounded-[0.95rem] bg-[linear-gradient(180deg,#f7f1e6_0%,#ece1cc_100%)] shadow-[0_14px_30px_rgba(91,75,42,0.05)]">

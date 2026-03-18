@@ -7,14 +7,18 @@ export interface LegajoNavCHeroProps {
 
 export default function LegajoNavCHero({ data }: Readonly<LegajoNavCHeroProps>) {
   return (
-    <section className="mx-auto grid max-w-7xl gap-12 border-b border-[#E5E1D8] px-4 py-10 sm:px-6 lg:grid-cols-[minmax(0,1fr)_minmax(320px,520px)] lg:px-8 lg:py-12">
+    <section className="mx-auto grid max-w-[1440px] gap-6 border-b border-[#d9d3c6] px-4 py-6 sm:px-6 lg:grid-cols-[minmax(0,1fr)_minmax(320px,480px)] lg:px-8 lg:py-7">
       <div>
-        <p className="text-xs font-bold uppercase tracking-[0.2em] text-[#B48E4B]">{data.heroEyebrow}</p>
-        <h1 className="mt-4 font-serif text-4xl leading-tight text-[#1A1A1A] sm:text-5xl">{data.title}</h1>
-        <p className="mt-6 max-w-2xl text-lg leading-relaxed text-[#2D2D2D]/85">{data.description}</p>
+        <div className="flex flex-wrap items-center gap-2">
+          <p className="text-[10px] font-bold uppercase tracking-[0.2em] text-[#B48E4B]">{data.heroEyebrow}</p>
+          <span className="rounded-full border border-[#d6c7a9] bg-white/70 px-3 py-1 text-[10px] font-bold uppercase tracking-[0.18em] text-[#6e5d37]">
+            Legajo {data.legajoId}
+          </span>
+        </div>
+        <p className="mt-3 max-w-3xl text-base leading-relaxed text-[#4E463B] sm:text-[1.02rem]">{data.description}</p>
 
-        <div className="mt-10 border-l-4 border-[#B48E4B] bg-[#E5E1D8]/30 p-6">
-          <div className="grid gap-6 sm:grid-cols-2 lg:grid-cols-4">
+        <div className="mt-5 rounded-[1.35rem] border border-[#d9d3c6] bg-[linear-gradient(180deg,rgba(255,252,246,0.9),rgba(245,238,224,0.88))] p-5 shadow-[0_14px_30px_rgba(32,28,24,0.05)]">
+          <div className="grid gap-4 sm:grid-cols-2 lg:grid-cols-4">
             {data.metrics.map((metric) => (
               <div key={metric.label}>
                 <p className="text-[10px] font-bold uppercase tracking-[0.18em] text-[#B48E4B]">{metric.label}</p>
@@ -25,10 +29,10 @@ export default function LegajoNavCHero({ data }: Readonly<LegajoNavCHeroProps>) 
         </div>
       </div>
 
-      <div className="grid gap-4">
-        <div className="relative overflow-hidden rounded-sm bg-[#E5E1D8] shadow-2xl">
+      <div className="grid gap-3">
+        <div className="relative overflow-hidden rounded-[1.35rem] border border-[#d9d3c6] bg-[#E5E1D8] shadow-[0_18px_36px_rgba(32,28,24,0.08)]">
           {data.heroImageSrc ? (
-            <img src={data.heroImageSrc} alt={data.heroImageAlt} className="h-full min-h-[320px] w-full object-cover mix-blend-multiply opacity-90" />
+            <img src={data.heroImageSrc} alt={data.heroImageAlt} className="h-full min-h-[240px] w-full object-cover mix-blend-multiply opacity-90" />
           ) : (
             <div className="flex min-h-[320px] items-end bg-[linear-gradient(145deg,#efe8d7,#d8cebc)] p-8 text-[#2D2D2D]">
               <div>

@@ -23,6 +23,8 @@
 # misc
 .DS_Store
 *.pem
+carta-v2-review.png
+carta-v2-split-review.png
 
 # debug
 npm-debug.log*

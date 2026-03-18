@@ -12,6 +12,16 @@
 }
 
 :root {
+  --app-header-height: 72px;
+  --archive-charcoal: #1a1a18;
+  --archive-wood: #2a241e;
+  --archive-parchment: #f5f2e8;
+  --archive-parchment-warm: #f1e9d0;
+  --archive-parchment-cool: #ede9de;
+  --archive-border: #d1cebd;
+  --archive-gold: #c5a059;
+  --archive-ink: #2c2c2a;
+  --archive-canvas: #e2ddd0;
   --reader-paper: #f7f1e6;
   --reader-paper-strong: #efe4d1;
   --reader-rule: rgba(143, 119, 66, 0.28);
@@ -22,12 +32,58 @@
 }
 
 body {
-  background: var(--color-background-light);
+  background:
+    radial-gradient(circle at top, rgba(255, 250, 241, 0.9) 0%, rgba(242, 234, 219, 0.88) 36%, rgba(226, 221, 208, 0.96) 100%),
+    var(--archive-canvas);
   color: var(--color-text-main);
   font-family: var(--font-sans);
 }
 
 @layer components {
+  .app-page {
+    min-height: 100vh;
+    background:
+      radial-gradient(circle at top, rgba(255, 250, 241, 0.82) 0%, rgba(242, 234, 219, 0.72) 34%, rgba(226, 221, 208, 0.88) 100%),
+      var(--archive-canvas);
+    color: var(--archive-ink);
+  }
+
+  .app-surface {
+    background:
+      linear-gradient(180deg, rgba(255, 252, 246, 0.95) 0%, rgba(247, 241, 230, 0.92) 100%),
+      linear-gradient(90deg, rgba(197, 160, 89, 0.05) 0%, rgba(197, 160, 89, 0) 18%);
+    border: 1px solid rgba(209, 206, 189, 0.9);
+    box-shadow: 0 18px 36px rgba(44, 44, 42, 0.07);
+  }
+
+  .app-surface-muted {
+    background: rgba(255, 251, 245, 0.76);
+    border: 1px solid rgba(209, 206, 189, 0.72);
+    box-shadow: 0 14px 30px rgba(44, 44, 42, 0.05);
+  }
+
+  .app-surface-dark {
+    background:
+      linear-gradient(180deg, rgba(42, 36, 30, 0.98) 0%, rgba(26, 26, 24, 0.98) 100%),
+      linear-gradient(130deg, rgba(197, 160, 89, 0.16) 0%, rgba(197, 160, 89, 0) 36%);
+    border: 1px solid rgba(197, 160, 89, 0.28);
+    box-shadow: 0 24px 52px rgba(19, 15, 11, 0.22);
+  }
+
+  .app-chip {
+    border: 1px solid rgba(209, 206, 189, 0.88);
+    background: rgba(255, 252, 246, 0.86);
+    color: #6f6453;
+  }
+
+  .app-label {
+    font-size: 0.68rem;
+    font-weight: 700;
+    letter-spacing: 0.24em;
+    text-transform: uppercase;
+    color: #8f7742;
+  }
+
   .reader-panel {
     background:
       linear-gradient(180deg, rgba(252, 251, 248, 0.98) 0%, rgba(246, 240, 228, 0.94) 100%),

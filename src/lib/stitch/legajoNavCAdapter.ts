@@ -200,11 +200,10 @@ export function buildStitchLegajoNavCViewData(
     screenId: 'a839986bf54b4470b4d296166b018205',
     projectName: 'ARCA',
     headerLinks: [
+      { label: 'Inicio', href: '/' },
       { label: 'Archivo', href: '/legajos', active: true },
-      { label: 'Legajos', href: '/legajos' },
       { label: 'Recorridos', href: `/legajos/${legajoId}/recorridos` },
       { label: 'Relatos', href: `/legajos/${legajoId}/relatos` },
-      { label: 'Sobre el proyecto', href: '/' },
     ],
     heroEyebrow: mode === 'overview' ? 'Overview del legajo' : 'Archivo del legajo',
     title: archive.legajo.title,
