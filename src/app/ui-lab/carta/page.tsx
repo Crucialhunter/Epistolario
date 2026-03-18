@@ -20,5 +20,12 @@ export default async function UiLabCartaPage() {
   const relatedDocuments = buildReaderRelatedDocuments(carta, letters);
   const data = buildStitchCartaReadyViewData(archive.legajo, carta, relatedDocuments);
 
-  return <CartaViewV2 data={data} backHref="/ui-lab" />;
+  return (
+    <CartaViewV2
+      data={data}
+      backHref="/ui-lab"
+      alternateHref="/legajos/10/cartas/1135/legacy"
+      alternateLabel="Versión clásica"
+    />
+  );
 }

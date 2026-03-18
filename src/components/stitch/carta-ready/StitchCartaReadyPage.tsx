@@ -6,6 +6,8 @@ import { StitchCartaReadyViewData } from '@/lib/stitch/cartaReadyAdapter';
 
 export interface StitchCartaReadyPageProps {
   readonly data: Readonly<StitchCartaReadyViewData>;
+  readonly alternateViewHref?: string;
+  readonly alternateViewLabel?: string;
 }
 
 function findValue(
@@ -16,7 +18,11 @@ function findValue(
   return columns.find((column) => column.title === title)?.items.find((item) => item.label === label)?.value;
 }
 
-export default function StitchCartaReadyPage({ data }: Readonly<StitchCartaReadyPageProps>) {
+export default function StitchCartaReadyPage({
+  data,
+  alternateViewHref,
+  alternateViewLabel = 'Ver UI Lab',
+}: Readonly<StitchCartaReadyPageProps>) {
   const signatura = findValue(data.metadataColumns, 'Identificación documental', 'Signatura');
   const fecha = findValue(data.metadataColumns, 'Identificación documental', 'Fecha de emisión');
   const lugar = findValue(data.metadataColumns, 'Localización y contexto archivístico', 'Lugar de origen');
@@ -98,6 +104,14 @@ export default function StitchCartaReadyPage({ data }: Readonly<StitchCartaReady
                   >
                     Volver al legajo
                   </Link>
+                  {alternateViewHref ? (
+                    <Link
+                      href={alternateViewHref}
+                      className="rounded-full border border-[#d1cebd] bg-[#f5f2e8] px-3.5 py-1.5 text-[10px] font-bold uppercase tracking-[0.18em] text-[#6f6453] transition-colors hover:border-[#c5a059] hover:text-[#a38420]"
+                    >
+                      {alternateViewLabel}
+                    </Link>
+                  ) : null}
                   {data.sourceHref ? (
                     <a
                       href={data.sourceHref}

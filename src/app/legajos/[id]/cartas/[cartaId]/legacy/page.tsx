@@ -1,6 +1,4 @@
-import { Suspense } from 'react';
-import CartaViewLegacyRedirect from '@/components/stitch/carta-ready/CartaViewLegacyRedirect';
-import CartaViewV2 from '@/components/lab/v2/CartaViewV2';
+import StitchCartaReadyPage from '@/components/stitch/carta-ready/StitchCartaReadyPage';
 import { getCarta, getLegajos, getLegajoLetters } from '@/lib/data/api';
 import { buildStitchCartaReadyViewData } from '@/lib/stitch/cartaReadyAdapter';
 import { buildReaderRelatedDocuments, getLegajoArchiveVM } from '@/lib/view-models';
@@ -19,7 +17,7 @@ export async function generateStaticParams() {
   return params;
 }
 
-export default async function CartaPage({ params }: { params: Promise<{ id: string; cartaId: string }> }) {
+export default async function LegacyCartaPage({ params }: { params: Promise<{ id: string; cartaId: string }> }) {
   const { id, cartaId } = await params;
   const [archive, carta, letters] = await Promise.all([
     getLegajoArchiveVM(id),
@@ -35,16 +33,10 @@ export default async function CartaPage({ params }: { params: Promise<{ id: stri
   const data = buildStitchCartaReadyViewData(archive.legajo, carta, relatedDocuments);
 
   return (
-    <>
-      <Suspense fallback={null}>
-        <CartaViewLegacyRedirect legacyHref={`/legajos/${id}/cartas/${cartaId}/legacy`} />
-      </Suspense>
-      <CartaViewV2
-        data={data}
-        backHref={`/legajos/${id}`}
-        alternateHref={`/legajos/${id}/cartas/${cartaId}/legacy`}
-        alternateLabel="Versión clásica"
-      />
-    </>
+    <StitchCartaReadyPage
+      data={data}
+      alternateViewHref={`/legajos/${id}/cartas/${cartaId}`}
+      alternateViewLabel="Ver UI Lab"
+    />
   );
 }

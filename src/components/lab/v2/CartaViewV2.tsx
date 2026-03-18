@@ -25,6 +25,8 @@ const cartaBodyFont = Lora({
 export interface CartaViewV2Props {
   readonly data: Readonly<StitchCartaReadyViewData>;
   readonly backHref?: string;
+  readonly alternateHref?: string;
+  readonly alternateLabel?: string;
 }
 
 type TranscriptMode = 'modernizada' | 'literal';
@@ -228,7 +230,12 @@ function AccordionItem({ id, title, open, onToggle, children }: { id: AccordionP
   );
 }
 
-export default function CartaViewV2({ data, backHref = '/ui-lab' }: Readonly<CartaViewV2Props>) {
+export default function CartaViewV2({
+  data,
+  backHref = '/ui-lab',
+  alternateHref,
+  alternateLabel = 'Versión clásica',
+}: Readonly<CartaViewV2Props>) {
   const navRef = useRef<HTMLDivElement | null>(null);
   const readingPanelRef = useRef<HTMLDivElement | null>(null);
   const [mode, setMode] = useState<TranscriptMode>('modernizada');
@@ -368,8 +375,16 @@ export default function CartaViewV2({ data, backHref = '/ui-lab' }: Readonly<Car
                         <span className="inline-flex items-center gap-1.5"><span>Legajo 10</span><span className="opacity-45">›</span></span>
                         <span>Carta 1135</span>
                       </div>
-                      <div className="hidden items-center gap-4 text-[10px] font-bold uppercase tracking-[0.18em] text-[#6a6157] lg:flex">
+                      <div className="hidden items-center gap-3 text-[10px] font-bold uppercase tracking-[0.18em] text-[#6a6157] lg:flex">
                         <Link href={backHref} className="inline-flex items-center gap-1.5 transition-colors hover:text-[#8d6728] focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-[#c6a25d]/35"><ArrowLeft size={13} />Volver</Link>
+                        {alternateHref ? (
+                          <Link
+                            href={alternateHref}
+                            className="inline-flex items-center gap-1.5 rounded-full border border-[#d9c9ae] bg-white/72 px-3 py-1.5 text-[9px] font-bold uppercase tracking-[0.18em] text-[#6f6453] transition-colors hover:border-[#c5a059] hover:text-[#a38420]"
+                          >
+                            {alternateLabel}
+                          </Link>
+                        ) : null}
                       </div>
                     </div>
                     <div className="mt-4 max-w-[64ch]">
