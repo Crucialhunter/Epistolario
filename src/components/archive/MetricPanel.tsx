@@ -1,14 +1,23 @@
-﻿import { ArchiveMetricVM } from '@/lib/view-models';
+import { ArchiveMetricVM } from '@/lib/view-models';
 
 export default function MetricPanel({ metrics }: { metrics: ArchiveMetricVM[] }) {
   return (
-    <div className="grid grid-cols-1 gap-4 md:grid-cols-2 xl:grid-cols-4">
-      {metrics.map((metric) => (
-        <article key={metric.label} className="app-surface rounded-[1.45rem] px-5 py-5">
-          <p className="app-label">{metric.label}</p>
-          <p className="reader-display mt-3 text-3xl font-semibold text-[#221c13]">{metric.value}</p>
-          <p className="mt-2 text-sm leading-relaxed text-[#6a5d47]">{metric.hint}</p>
-        </article>
+    <div className="flex flex-col items-center justify-center gap-8 py-4 sm:flex-row sm:gap-0">
+      {metrics.map((metric, index) => (
+        <div key={metric.label} className="flex items-center gap-0">
+          {/* Vertical divider between items (not before first) */}
+          {index > 0 && (
+            <div className="hidden h-14 w-px bg-gradient-to-b from-transparent via-[#c5a059]/25 to-transparent sm:block sm:mx-10 md:mx-14 lg:mx-16" />
+          )}
+          <div className="text-center">
+            <p className="reader-display text-[2.2rem] font-semibold leading-none text-[#221c13] md:text-[2.6rem]">
+              {metric.value}
+            </p>
+            <p className="mt-3 text-[10px] font-bold uppercase tracking-[0.26em] text-[#8f7742]">
+              {metric.label}
+            </p>
+          </div>
+        </div>
       ))}
     </div>
   );

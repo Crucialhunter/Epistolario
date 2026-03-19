@@ -62,6 +62,7 @@ export interface ArchiveDiscoveryBlockVM {
 
 export interface ArchiveOverviewVM {
   title: string;
+  subtitle: string;
   intro: string;
   metrics: ArchiveMetricVM[];
   featuredLegajos: LegajoCorpusVM[];
@@ -140,6 +141,29 @@ function toLegajoCorpusVM(legajo: LegajoMeta, catalogEntry?: RawLegajoIndexEntry
       curatorial: false,
     },
   };
+}
+
+function buildArchiveHomeMetrics(stats: RawArchiveStats): ArchiveMetricVM[] {
+  const topSender = stats.entidades_top?.remitentes?.[0];
+  const topPlace = stats.entidades_top?.lugares?.[0];
+
+  return [
+    {
+      label: 'Arco cronologico',
+      value: formatDateRange(stats.rango_temporal_global),
+      hint: '',
+    },
+    {
+      label: 'Lugar mas frecuente',
+      value: topPlace?.name ?? 'Madrid',
+      hint: '',
+    },
+    {
+      label: 'Remitente principal',
+      value: topSender?.name ?? 'Sin dato',
+      hint: '',
+    },
+  ];
 }
 
 function buildArchiveMetrics(stats: RawArchiveStats, legajos: LegajoCorpusVM[]): ArchiveMetricVM[] {
@@ -243,10 +267,13 @@ export async function getArchiveOverviewVM(): Promise<ArchiveOverviewVM> {
 
   const effectiveStats = stats ?? fallbackStats;
 
+  const homeMetrics = buildArchiveHomeMetrics(effectiveStats);
+
   return {
-    title: 'Archivo epistolar digital',
-    intro: 'La portada ya trabaja sobre el corpus textual completo de los 41 legajos. Se puede entrar por escala, actores, lugares y legajos destacados, mientras las capas visuales enriquecidas solo intensifican algunos recorridos sin condicionar la navegacion base.',
-    metrics: buildArchiveMetrics(effectiveStats, legajos),
+    title: 'Correspondencia de Pedro de Santacilia y Pax',
+    subtitle: `Siglo XVII \u00B7 ${effectiveStats.total_legajos} legajos \u00B7 ${effectiveStats.total_cartas.toLocaleString('es-ES')} cartas`,
+    intro: 'Un archivo epistolar transcrito y anotado para su lectura digital. Cada pieza puede recorrerse como texto completo; tres legajos ofrecen ya la imagen del manuscrito original.',
+    metrics: homeMetrics,
     featuredLegajos: featuredLegajos.length > 0 ? featuredLegajos : legajos.slice(0, 3),
     discoveryBlocks: buildDiscoveryBlocks(effectiveStats, legajos),
     curatedSections: buildCuratedSections(),
